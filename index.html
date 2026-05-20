@@ -19,7 +19,7 @@
             margin: 0 auto;
             padding: 2rem;
         }
-        input, button {
+        input, select, button {
             padding: 0.5rem 1rem;
             background: #222;
             color: var(--text);
@@ -54,7 +54,11 @@
 
     <h1>Billboard Stats</h1>
     
-    <div style="margin-bottom: 2rem; display: flex; gap: 1rem;">
+    <div style="margin-bottom: 2rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+        <select id="chartType">
+            <option value="hot100">Hot 100</option>
+            <option value="b200">Billboard 200</option>
+        </select>
         <input type="date" id="dateInput" value="2026-04-04">
         <button onclick="loadChart()">Load Week</button>
         <input type="text" id="searchInput" placeholder="Search index... (needs ETL update)">
@@ -65,10 +69,11 @@
     <div id="chartContainer"></div>
 
     <script>
-        // Pointing exactly where you stubbornly want it
+        // The base path, keeping your exact required directory structure
         const DATA_DIR = './billboard_stats/data';
 
         async function loadChart() {
+            const chartType = document.getElementById('chartType').value;
             const dateVal = document.getElementById('dateInput').value;
             const container = document.getElementById('chartContainer');
             const errorDiv = document.getElementById('error');
@@ -79,10 +84,11 @@
             loading.style.display = 'block';
 
             try {
-                const response = await fetch(`${DATA_DIR}/${dateVal}.json`);
+                // Now dynamically inserting the subfolder based on the dropdown selection
+                const response = await fetch(`${DATA_DIR}/${chartType}/${dateVal}.json`);
                 
                 if (!response.ok) {
-                    throw new Error(`Chart data for ${dateVal} not found. Ensure the JSON exists at ${DATA_DIR}/${dateVal}.json and is pushed to GitHub.`);
+                    throw new Error(`Chart data for ${dateVal} not found. Ensure the JSON exists at ${DATA_DIR}/${chartType}/${dateVal}.json`);
                 }
 
                 const data = await response.json();
@@ -98,8 +104,6 @@
         function renderChart(data) {
             const container = document.getElementById('chartContainer');
             
-            // This loops through the array. 
-            // If your ETL output keys are different, fix them here.
             data.forEach(track => {
                 const row = document.createElement('div');
                 row.className = 'chart-entry';
