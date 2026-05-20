@@ -69,12 +69,27 @@
     <div id="chartContainer"></div>
 
     <script>
-        // The base path, keeping your exact required directory structure
         const DATA_DIR = './billboard_stats/data';
+
+        // Helper function to force any selected date to its corresponding Saturday
+        function snapToSaturday(dateStr) {
+            // Append time/Z to prevent timezone drift when parsing the date string
+            const d = new Date(dateStr + "T00:00:00Z");
+            const day = d.getUTCDay(); // 0 is Sunday, 6 is Saturday
+            
+            // Calculate how many days to shift to hit Saturday
+            const diff = 6 - day; 
+            d.setUTCDate(d.getUTCDate() + diff);
+            
+            return d.toISOString().split('T')[0];
+        }
 
         async function loadChart() {
             const chartType = document.getElementById('chartType').value;
-            const dateVal = document.getElementById('dateInput').value;
+            const rawDate = document.getElementById('dateInput').value;
+            
+            if (!rawDate) return;
+
             const container = document.getElementById('chartContainer');
             const errorDiv = document.getElementById('error');
             const loading = document.getElementById('loading');
@@ -83,12 +98,15 @@
             errorDiv.style.display = 'none';
             loading.style.display = 'block';
 
+            // Snap the date and update the UI so the user sees the actual chart date
+            const snappedDate = snapToSaturday(rawDate);
+            document.getElementById('dateInput').value = snappedDate;
+
             try {
-                // Now dynamically inserting the subfolder based on the dropdown selection
-                const response = await fetch(`${DATA_DIR}/${chartType}/${dateVal}.json`);
+                const response = await fetch(`${DATA_DIR}/${chartType}/${snappedDate}.json`);
                 
                 if (!response.ok) {
-                    throw new Error(`Chart data for ${dateVal} not found. Ensure the JSON exists at ${DATA_DIR}/${chartType}/${dateVal}.json`);
+                    throw new Error(`Chart data for ${snappedDate} not found. Are you sure you pushed the ETL data to GitHub?`);
                 }
 
                 const data = await response.json();
