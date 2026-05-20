@@ -1,20 +1,20 @@
 name: weekly-etl
 
-"on":
+on:
   workflow_dispatch:
   schedule:
     - cron: "0 6 * * 1"
 
+# We need write permissions so the bot can commit the JSON files back to the repo
+permissions:
+  contents: write
+
 jobs:
   weekly-etl:
     runs-on: ubuntu-latest
-    env:
-      PGHOST: ${{ secrets.PGHOST }}
-      PGPORT: ${{ secrets.PGPORT }}
-      PGDATABASE: ${{ secrets.PGDATABASE }}
-      PGUSER: ${{ secrets.PGUSER }}
-      PGPASSWORD: ${{ secrets.PGPASSWORD }}
-      PGSSLMODE: ${{ secrets.PGSSLMODE }}
+    
+    # Notice: The entire env block full of PG secrets has been nuked.
+    
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -27,5 +27,58 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run weekly ETL
+      - name: Run JSON-only ETL
+        # If run_weekly_etl.sh still contains 'if [ -z "$PGHOST" ]' checks, 
+        # you need to delete those lines from the bash script, or just run 
+        # the python module directly here (e.g., run: python -m billboard_stats.etl)
         run: bash scripts/run_weekly_etl.sh
+
+      - name: Generate Monolithic Search Index
+        run: |
+          python -c '
+          import json, os, glob
+          from collections import defaultdict
+          
+          # This maps "Song Title | Artist" -> ["hot100/2026-04-04", "b200/2026-04-04"]
+          index = defaultdict(list)
+          base_dir = "./billboard_stats/data"
+          
+          print("Building search index from local JSON files...")
+          for filepath in glob.glob(f"{base_dir}/*/*.json"):
+              chart_type = os.path.basename(os.path.dirname(filepath))
+              date_str = os.path.basename(filepath).replace(".json", "")
+              
+              try:
+                  with open(filepath, "r", encoding="utf-8") as f:
+                      data = json.load(f)
+                      for entry in data:
+                          # Adjust these keys if your ETL outputs different names
+                          title = entry.get("title", entry.get("song", ""))
+                          artist = entry.get("artist", "")
+                          
+                          if title and artist:
+                              key = f"{title} | {artist}"
+                              file_ref = f"{chart_type}/{date_str}"
+                              
+                              # Avoid duplicate date entries for the same track
+                              if file_ref not in index[key]:
+                                  index[key].append(file_ref)
+              except Exception as e:
+                  print(f"Failed parsing {filepath}: {e}")
+          
+          index_path = os.path.join(base_dir, "search_index.json")
+          with open(index_path, "w", encoding="utf-8") as out:
+              # No indentation to keep the file size as small as possible
+              json.dump(index, out)
+              
+          print(f"Successfully generated search_index.json with {len(index)} unique entries.")
+          '
+
+      - name: Commit and push new JSON data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add billboard_stats/data/
+          
+          # This ensures the action doesn't crash if there are no new charts this week
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: automate weekly chart scrape and update search index" && git push)
