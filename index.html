@@ -10,6 +10,7 @@
             --text: #e0e0e0;
             --accent: #ff4757;
             --border: #333;
+            color-scheme: dark;
         }
         body {
             font-family: system-ui, -apple-system, sans-serif;
@@ -34,6 +35,16 @@
             border: none;
         }
         button:hover { background: #ff6b81; }
+        
+        input[type="date"]::-webkit-calendar-picker-indicator {
+            filter: invert(42%) sepia(76%) saturate(3199%) hue-rotate(326deg) brightness(102%) contrast(103%);
+            cursor: pointer;
+        }
+
+        /* View Toggling */
+        .view-section { display: none; }
+        .view-section.active { display: block; }
+
         .chart-entry {
             display: flex;
             align-items: center;
@@ -46,48 +57,76 @@
             width: 50px;
             color: var(--accent);
         }
-        .details h3 { margin: 0 0 0.25rem 0; }
-        .details p { margin: 0; color: #888; font-size: 0.9rem; }
+        .details h3 { 
+            margin: 0 0 0.25rem 0; 
+            cursor: pointer;
+        }
+        .details h3:hover { text-decoration: underline; color: var(--accent); }
+        .details p { 
+            margin: 0; color: #888; font-size: 0.9rem; 
+            cursor: pointer;
+        }
+        .details p:hover { color: white; }
+        
+        .stat-badge {
+            font-size: 0.8rem;
+            background: #333;
+            padding: 2px 6px;
+            border-radius: 4px;
+            margin-right: 8px;
+        }
+
+        .back-btn { margin-bottom: 2rem; background: #444; }
     </style>
 </head>
 <body>
 
     <h1>Billboard Stats</h1>
     
-    <div style="margin-bottom: 2rem; display: flex; gap: 1rem; flex-wrap: wrap;">
-        <select id="chartType">
-            <option value="hot100">Hot 100</option>
-            <option value="b200">Billboard 200</option>
-        </select>
-        <input type="date" id="dateInput" value="2026-04-04">
-        <button onclick="loadChart()">Load Week</button>
-        <input type="text" id="searchInput" placeholder="Search index... (needs ETL update)">
+    <div id="view-home" class="view-section active">
+        <div style="margin-bottom: 2rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+            <select id="chartType">
+                <option value="hot100">Hot 100</option>
+                <option value="b200">Billboard 200</option>
+            </select>
+            <input type="date" id="dateInput" value="2026-04-04">
+            <button onclick="loadChart()">Load Week</button>
+            <input type="text" id="searchInput" placeholder="Search (Artist/Song)...">
+        </div>
+
+        <div id="loading" style="display: none;">Fetching data...</div>
+        <div id="error" style="color: #ff4757; display: none;"></div>
+        <div id="chartContainer"></div>
     </div>
 
-    <div id="loading" style="display: none;">Fetching data...</div>
-    <div id="error" style="color: #ff4757; display: none;"></div>
-    <div id="chartContainer"></div>
+    <div id="view-detail" class="view-section">
+        <button class="back-btn" onclick="showView('view-home')">← Back to Charts</button>
+        <div id="detailLoading" style="display: none;">Loading profile...</div>
+        <div id="detailError" style="color: #ff4757; display: none;"></div>
+        
+        <div id="detailHeader"></div>
+        <div id="detailStats" style="margin: 1rem 0; padding: 1rem; background: #1a1a1a; border-radius: 8px;"></div>
+        <div id="detailHistory"></div>
+    </div>
 
     <script>
         const DATA_DIR = './billboard_stats/data';
 
-        // Helper function to force any selected date to its corresponding Saturday
+        function showView(viewId) {
+            document.querySelectorAll('.view-section').forEach(el => el.classList.remove('active'));
+            document.getElementById(viewId).classList.add('active');
+        }
+
         function snapToSaturday(dateStr) {
-            // Append time/Z to prevent timezone drift when parsing the date string
             const d = new Date(dateStr + "T00:00:00Z");
-            const day = d.getUTCDay(); // 0 is Sunday, 6 is Saturday
-            
-            // Calculate how many days to shift to hit Saturday
-            const diff = 6 - day; 
+            const diff = 6 - d.getUTCDay(); 
             d.setUTCDate(d.getUTCDate() + diff);
-            
             return d.toISOString().split('T')[0];
         }
 
         async function loadChart() {
             const chartType = document.getElementById('chartType').value;
             const rawDate = document.getElementById('dateInput').value;
-            
             if (!rawDate) return;
 
             const container = document.getElementById('chartContainer');
@@ -98,17 +137,13 @@
             errorDiv.style.display = 'none';
             loading.style.display = 'block';
 
-            // Snap the date and update the UI so the user sees the actual chart date
             const snappedDate = snapToSaturday(rawDate);
             document.getElementById('dateInput').value = snappedDate;
 
             try {
                 const response = await fetch(`${DATA_DIR}/${chartType}/${snappedDate}.json`);
+                if (!response.ok) throw new Error(`Chart data for ${snappedDate} not found.`);
                 
-                if (!response.ok) {
-                    throw new Error(`Chart data for ${snappedDate} not found. Are you sure you pushed the ETL data to GitHub?`);
-                }
-
                 const data = await response.json();
                 renderChart(data);
             } catch (err) {
@@ -126,15 +161,61 @@
                 const row = document.createElement('div');
                 row.className = 'chart-entry';
                 
+                // Fallbacks applied in case the ETL hasn't reached this file yet
+                const peak = track.peak_position || '-';
+                const wks = track.weeks_on_chart || '-';
+                const id = track.id || null;
+                const artistId = track.artist_id || null;
+                
                 row.innerHTML = `
                     <div class="rank">${track.rank || track.position}</div>
                     <div class="details">
-                        <h3>${track.title || track.song}</h3>
-                        <p>${track.artist}</p>
+                        <h3 onclick="loadDetail('songs', '${id}')">${track.title || track.song}</h3>
+                        <p onclick="loadDetail('artists', '${artistId}')">${track.artist}</p>
+                        <div style="margin-top: 6px;">
+                            <span class="stat-badge">Peak: ${peak}</span>
+                            <span class="stat-badge">Weeks: ${wks}</span>
+                        </div>
                     </div>
                 `;
                 container.appendChild(row);
             });
+        }
+
+        async function loadDetail(type, itemId) {
+            if (!itemId || itemId === 'null') {
+                alert("This record hasn't been processed by the new ETL yet.");
+                return;
+            }
+
+            showView('view-detail');
+            const header = document.getElementById('detailHeader');
+            const stats = document.getElementById('detailStats');
+            const errorDiv = document.getElementById('detailError');
+            const loading = document.getElementById('detailLoading');
+
+            header.innerHTML = '';
+            stats.innerHTML = '';
+            errorDiv.style.display = 'none';
+            loading.style.display = 'block';
+
+            try {
+                const response = await fetch(`${DATA_DIR}/${type}/${itemId}.json`);
+                if (!response.ok) throw new Error(`Profile not generated yet. Check ETL logs.`);
+                
+                const data = await response.json();
+                
+                // Extremely basic render, you will need to expand this based on the exact
+                // JSON structure your Python script dumps into the profile files.
+                header.innerHTML = `<h2>${data.name || data.title}</h2>`;
+                stats.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+                
+            } catch (err) {
+                errorDiv.textContent = err.message;
+                errorDiv.style.display = 'block';
+            } finally {
+                loading.style.display = 'none';
+            }
         }
     </script>
 </body>
