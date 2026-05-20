@@ -10,16 +10,13 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-# Common CTE to identify valid Hot 100 chart weeks (excluding phantoms).
-# A phantom week is one where 95%+ of entries have is_new=true AND weeks_on_chart=1.
-# (Some phantoms have a few stray entries that don't match perfectly.)
-# We keep only the earliest such week (the real first chart).
+# SQLite version of phantom detection
 _VALID_HOT100_WEEKS_CTE = """
     phantom_hot100 AS (
         SELECT e.chart_week_id
         FROM hot100_entries e
         GROUP BY e.chart_week_id
-        HAVING COUNT(*) FILTER (WHERE e.is_new = true AND e.weeks_on_chart = 1)
+        HAVING SUM(CASE WHEN e.is_new = 1 AND e.weeks_on_chart = 1 THEN 1 ELSE 0 END)
                >= COUNT(*) * 95 / 100
     ),
     first_real_hot100 AS (
@@ -37,13 +34,12 @@ _VALID_HOT100_WEEKS_CTE = """
     )
 """
 
-# Same for Billboard 200
 _VALID_B200_WEEKS_CTE = """
     phantom_b200 AS (
         SELECT e.chart_week_id
         FROM b200_entries e
         GROUP BY e.chart_week_id
-        HAVING COUNT(*) FILTER (WHERE e.is_new = true AND e.weeks_on_chart = 1)
+        HAVING SUM(CASE WHEN e.is_new = 1 AND e.weeks_on_chart = 1 THEN 1 ELSE 0 END)
                >= COUNT(*) * 95 / 100
     ),
     first_real_b200 AS (
@@ -75,243 +71,249 @@ def build_all_stats(conn):
 
 def build_song_stats(conn):
     """Populate song_stats from hot100_entries, excluding phantom weeks."""
-    with conn.cursor() as cur:
-        cur.execute("DELETE FROM song_stats;")
-        cur.execute(f"""
-            WITH {_VALID_HOT100_WEEKS_CTE}
-            INSERT INTO song_stats (
-                song_id, total_weeks, peak_position, weeks_at_peak,
-                weeks_at_number_one, debut_date, last_date, debut_position
-            )
-            SELECT
-                e.song_id,
-                COUNT(*) AS total_weeks,
-                MIN(e.rank) AS peak_position,
-                0 AS weeks_at_peak,
-                COUNT(*) FILTER (WHERE e.rank = 1) AS weeks_at_number_one,
-                MIN(cw.chart_date) AS debut_date,
-                MAX(cw.chart_date) AS last_date,
-                NULL AS debut_position
+    cur = conn.cursor()
+    cur.execute("DELETE FROM song_stats;")
+    cur.execute(f"""
+        INSERT INTO song_stats (
+            song_id, total_weeks, peak_position, weeks_at_peak,
+            weeks_at_number_one, debut_date, last_date, debut_position
+        )
+        WITH {_VALID_HOT100_WEEKS_CTE}
+        SELECT
+            e.song_id,
+            COUNT(*) AS total_weeks,
+            MIN(e.rank) AS peak_position,
+            0 AS weeks_at_peak,
+            SUM(CASE WHEN e.rank = 1 THEN 1 ELSE 0 END) AS weeks_at_number_one,
+            MIN(cw.chart_date) AS debut_date,
+            MAX(cw.chart_date) AS last_date,
+            NULL AS debut_position
+        FROM hot100_entries e
+        JOIN chart_weeks cw ON e.chart_week_id = cw.id
+        WHERE e.chart_week_id IN (SELECT id FROM valid_hot100_weeks)
+        GROUP BY e.song_id;
+    """)
+
+    # Update weeks_at_peak (using a subquery for cross-dialect compatibility)
+    cur.execute(f"""
+        UPDATE song_stats
+        SET weeks_at_peak = (
+            SELECT COUNT(*)
+            FROM hot100_entries e
+            WHERE e.song_id = song_stats.song_id
+              AND e.rank = song_stats.peak_position
+              AND e.chart_week_id IN (
+                  WITH {_VALID_HOT100_WEEKS_CTE}
+                  SELECT id FROM valid_hot100_weeks
+              )
+        );
+    """)
+
+    # Update debut_position
+    cur.execute(f"""
+        UPDATE song_stats
+        SET debut_position = (
+            SELECT e.rank
             FROM hot100_entries e
             JOIN chart_weeks cw ON e.chart_week_id = cw.id
-            WHERE e.chart_week_id IN (SELECT id FROM valid_hot100_weeks)
-            GROUP BY e.song_id;
-        """)
-
-        # Update weeks_at_peak
-        cur.execute(f"""
-            WITH {_VALID_HOT100_WEEKS_CTE}
-            UPDATE song_stats ss
-            SET weeks_at_peak = sub.cnt
-            FROM (
-                SELECT e.song_id, COUNT(*) AS cnt
-                FROM hot100_entries e
-                JOIN song_stats s ON e.song_id = s.song_id AND e.rank = s.peak_position
-                WHERE e.chart_week_id IN (SELECT id FROM valid_hot100_weeks)
-                GROUP BY e.song_id
-            ) sub
-            WHERE ss.song_id = sub.song_id;
-        """)
-
-        # Update debut_position
-        cur.execute(f"""
-            WITH {_VALID_HOT100_WEEKS_CTE}
-            UPDATE song_stats ss
-            SET debut_position = sub.rank
-            FROM (
-                SELECT DISTINCT ON (e.song_id) e.song_id, e.rank
-                FROM hot100_entries e
-                JOIN chart_weeks cw ON e.chart_week_id = cw.id
-                WHERE e.chart_week_id IN (SELECT id FROM valid_hot100_weeks)
-                ORDER BY e.song_id, cw.chart_date
-            ) sub
-            WHERE ss.song_id = sub.song_id;
-        """)
+            WHERE e.song_id = song_stats.song_id
+              AND e.chart_week_id IN (
+                  WITH {_VALID_HOT100_WEEKS_CTE}
+                  SELECT id FROM valid_hot100_weeks
+              )
+            ORDER BY cw.chart_date ASC
+            LIMIT 1
+        );
+    """)
 
     conn.commit()
 
 
 def build_album_stats(conn):
     """Populate album_stats from b200_entries, excluding phantom weeks."""
-    with conn.cursor() as cur:
-        cur.execute("DELETE FROM album_stats;")
-        cur.execute(f"""
-            WITH {_VALID_B200_WEEKS_CTE}
-            INSERT INTO album_stats (
-                album_id, total_weeks, peak_position, weeks_at_peak,
-                weeks_at_number_one, debut_date, last_date, debut_position
-            )
-            SELECT
-                e.album_id,
-                COUNT(*) AS total_weeks,
-                MIN(e.rank) AS peak_position,
-                0 AS weeks_at_peak,
-                COUNT(*) FILTER (WHERE e.rank = 1) AS weeks_at_number_one,
-                MIN(cw.chart_date) AS debut_date,
-                MAX(cw.chart_date) AS last_date,
-                NULL AS debut_position
+    cur = conn.cursor()
+    cur.execute("DELETE FROM album_stats;")
+    cur.execute(f"""
+        INSERT INTO album_stats (
+            album_id, total_weeks, peak_position, weeks_at_peak,
+            weeks_at_number_one, debut_date, last_date, debut_position
+        )
+        WITH {_VALID_B200_WEEKS_CTE}
+        SELECT
+            e.album_id,
+            COUNT(*) AS total_weeks,
+            MIN(e.rank) AS peak_position,
+            0 AS weeks_at_peak,
+            SUM(CASE WHEN e.rank = 1 THEN 1 ELSE 0 END) AS weeks_at_number_one,
+            MIN(cw.chart_date) AS debut_date,
+            MAX(cw.chart_date) AS last_date,
+            NULL AS debut_position
+        FROM b200_entries e
+        JOIN chart_weeks cw ON e.chart_week_id = cw.id
+        WHERE e.chart_week_id IN (SELECT id FROM valid_b200_weeks)
+        GROUP BY e.album_id;
+    """)
+
+    cur.execute(f"""
+        UPDATE album_stats
+        SET weeks_at_peak = (
+            SELECT COUNT(*)
+            FROM b200_entries e
+            WHERE e.album_id = album_stats.album_id
+              AND e.rank = album_stats.peak_position
+              AND e.chart_week_id IN (
+                  WITH {_VALID_B200_WEEKS_CTE}
+                  SELECT id FROM valid_b200_weeks
+              )
+        );
+    """)
+
+    cur.execute(f"""
+        UPDATE album_stats
+        SET debut_position = (
+            SELECT e.rank
             FROM b200_entries e
             JOIN chart_weeks cw ON e.chart_week_id = cw.id
-            WHERE e.chart_week_id IN (SELECT id FROM valid_b200_weeks)
-            GROUP BY e.album_id;
-        """)
-
-        cur.execute(f"""
-            WITH {_VALID_B200_WEEKS_CTE}
-            UPDATE album_stats ss
-            SET weeks_at_peak = sub.cnt
-            FROM (
-                SELECT e.album_id, COUNT(*) AS cnt
-                FROM b200_entries e
-                JOIN album_stats s ON e.album_id = s.album_id AND e.rank = s.peak_position
-                WHERE e.chart_week_id IN (SELECT id FROM valid_b200_weeks)
-                GROUP BY e.album_id
-            ) sub
-            WHERE ss.album_id = sub.album_id;
-        """)
-
-        cur.execute(f"""
-            WITH {_VALID_B200_WEEKS_CTE}
-            UPDATE album_stats ss
-            SET debut_position = sub.rank
-            FROM (
-                SELECT DISTINCT ON (e.album_id) e.album_id, e.rank
-                FROM b200_entries e
-                JOIN chart_weeks cw ON e.chart_week_id = cw.id
-                WHERE e.chart_week_id IN (SELECT id FROM valid_b200_weeks)
-                ORDER BY e.album_id, cw.chart_date
-            ) sub
-            WHERE ss.album_id = sub.album_id;
-        """)
+            WHERE e.album_id = album_stats.album_id
+              AND e.chart_week_id IN (
+                  WITH {_VALID_B200_WEEKS_CTE}
+                  SELECT id FROM valid_b200_weeks
+              )
+            ORDER BY cw.chart_date ASC
+            LIMIT 1
+        );
+    """)
 
     conn.commit()
 
 
 def build_artist_stats(conn):
     """Populate artist_stats with cross-chart career statistics, excluding phantom weeks."""
-    with conn.cursor() as cur:
-        cur.execute("DELETE FROM artist_stats;")
+    cur = conn.cursor()
+    cur.execute("DELETE FROM artist_stats;")
 
-        cur.execute("""
-            INSERT INTO artist_stats (artist_id)
-            SELECT id FROM artists;
-        """)
+    cur.execute("""
+        INSERT INTO artist_stats (artist_id)
+        SELECT id FROM artists;
+    """)
 
-        # Hot 100 song counts (not affected by phantoms — counts distinct songs)
-        cur.execute("""
-            UPDATE artist_stats ast
-            SET total_hot100_songs = sub.cnt
+    # Hot 100 song counts
+    cur.execute("""
+        UPDATE artist_stats
+        SET total_hot100_songs = (
+            SELECT COUNT(DISTINCT sa.song_id)
+            FROM song_artists sa
+            WHERE sa.artist_id = artist_stats.artist_id
+        );
+    """)
+
+    # Billboard 200 album counts
+    cur.execute("""
+        UPDATE artist_stats
+        SET total_b200_albums = (
+            SELECT COUNT(DISTINCT aa.album_id)
+            FROM album_artists aa
+            WHERE aa.artist_id = artist_stats.artist_id
+        );
+    """)
+
+    # Hot 100 total weeks & number ones & best peak
+    cur.execute(f"""
+        UPDATE artist_stats
+        SET total_hot100_weeks = COALESCE(sub.total_weeks, 0),
+            hot100_number_ones = COALESCE(sub.num_ones, 0),
+            best_hot100_peak = sub.best_peak
+        FROM (
+            SELECT
+                sa.artist_id,
+                COUNT(*) AS total_weeks,
+                COUNT(DISTINCT CASE WHEN e.rank = 1 THEN e.song_id END) AS num_ones,
+                MIN(e.rank) AS best_peak
+            FROM song_artists sa
+            JOIN hot100_entries e ON sa.song_id = e.song_id
+            WHERE e.chart_week_id IN (
+                WITH {_VALID_HOT100_WEEKS_CTE}
+                SELECT id FROM valid_hot100_weeks
+            )
+            GROUP BY sa.artist_id
+        ) sub
+        WHERE artist_stats.artist_id = sub.artist_id;
+    """)
+
+    # Billboard 200 total weeks & number ones & best peak
+    cur.execute(f"""
+        UPDATE artist_stats
+        SET total_b200_weeks = COALESCE(sub.total_weeks, 0),
+            b200_number_ones = COALESCE(sub.num_ones, 0),
+            best_b200_peak = sub.best_peak
+        FROM (
+            SELECT
+                aa.artist_id,
+                COUNT(*) AS total_weeks,
+                COUNT(DISTINCT CASE WHEN e.rank = 1 THEN e.album_id END) AS num_ones,
+                MIN(e.rank) AS best_peak
+            FROM album_artists aa
+            JOIN b200_entries e ON aa.album_id = e.album_id
+            WHERE e.chart_week_id IN (
+                WITH {_VALID_B200_WEEKS_CTE}
+                SELECT id FROM valid_b200_weeks
+            )
+            GROUP BY aa.artist_id
+        ) sub
+        WHERE artist_stats.artist_id = sub.artist_id;
+    """)
+
+    # First and latest chart dates
+    cur.execute(f"""
+        UPDATE artist_stats
+        SET first_chart_date = sub.first_date,
+            latest_chart_date = sub.latest_date
+        FROM (
+            SELECT
+                artist_id,
+                MIN(chart_date) AS first_date,
+                MAX(chart_date) AS latest_date
             FROM (
-                SELECT sa.artist_id, COUNT(DISTINCT sa.song_id) AS cnt
-                FROM song_artists sa
-                GROUP BY sa.artist_id
-            ) sub
-            WHERE ast.artist_id = sub.artist_id;
-        """)
-
-        # Billboard 200 album counts
-        cur.execute("""
-            UPDATE artist_stats ast
-            SET total_b200_albums = sub.cnt
-            FROM (
-                SELECT aa.artist_id, COUNT(DISTINCT aa.album_id) AS cnt
-                FROM album_artists aa
-                GROUP BY aa.artist_id
-            ) sub
-            WHERE ast.artist_id = sub.artist_id;
-        """)
-
-        # Hot 100 total weeks & number ones & best peak (filtered)
-        cur.execute(f"""
-            WITH {_VALID_HOT100_WEEKS_CTE}
-            UPDATE artist_stats ast
-            SET total_hot100_weeks = sub.total_weeks,
-                hot100_number_ones = sub.num_ones,
-                best_hot100_peak = sub.best_peak
-            FROM (
-                SELECT
-                    sa.artist_id,
-                    COUNT(*) AS total_weeks,
-                    COUNT(DISTINCT e.song_id) FILTER (WHERE e.rank = 1) AS num_ones,
-                    MIN(e.rank) AS best_peak
+                SELECT sa.artist_id, cw.chart_date
                 FROM song_artists sa
                 JOIN hot100_entries e ON sa.song_id = e.song_id
-                WHERE e.chart_week_id IN (SELECT id FROM valid_hot100_weeks)
-                GROUP BY sa.artist_id
-            ) sub
-            WHERE ast.artist_id = sub.artist_id;
-        """)
-
-        # Billboard 200 total weeks & number ones & best peak (filtered)
-        cur.execute(f"""
-            WITH {_VALID_B200_WEEKS_CTE}
-            UPDATE artist_stats ast
-            SET total_b200_weeks = sub.total_weeks,
-                b200_number_ones = sub.num_ones,
-                best_b200_peak = sub.best_peak
-            FROM (
-                SELECT
-                    aa.artist_id,
-                    COUNT(*) AS total_weeks,
-                    COUNT(DISTINCT e.album_id) FILTER (WHERE e.rank = 1) AS num_ones,
-                    MIN(e.rank) AS best_peak
+                JOIN chart_weeks cw ON e.chart_week_id = cw.id
+                WHERE e.chart_week_id IN (
+                    WITH {_VALID_HOT100_WEEKS_CTE}
+                    SELECT id FROM valid_hot100_weeks
+                )
+                UNION ALL
+                SELECT aa.artist_id, cw.chart_date
                 FROM album_artists aa
                 JOIN b200_entries e ON aa.album_id = e.album_id
-                WHERE e.chart_week_id IN (SELECT id FROM valid_b200_weeks)
-                GROUP BY aa.artist_id
-            ) sub
-            WHERE ast.artist_id = sub.artist_id;
-        """)
+                JOIN chart_weeks cw ON e.chart_week_id = cw.id
+                WHERE e.chart_week_id IN (
+                    WITH {_VALID_B200_WEEKS_CTE}
+                    SELECT id FROM valid_b200_weeks
+                )
+            ) combined
+            GROUP BY artist_id
+        ) sub
+        WHERE artist_stats.artist_id = sub.artist_id;
+    """)
 
-        # First and latest chart dates (filtered, union of both charts)
-        cur.execute(f"""
-            WITH {_VALID_HOT100_WEEKS_CTE},
-            {_VALID_B200_WEEKS_CTE}
-            UPDATE artist_stats ast
-            SET first_chart_date = sub.first_date,
-                latest_chart_date = sub.latest_date
+    # Max simultaneous Hot 100 entries
+    cur.execute(f"""
+        UPDATE artist_stats
+        SET max_simultaneous_hot100 = COALESCE((
+            SELECT MAX(week_count)
             FROM (
-                SELECT
-                    artist_id,
-                    MIN(chart_date) AS first_date,
-                    MAX(chart_date) AS latest_date
-                FROM (
-                    SELECT sa.artist_id, cw.chart_date
-                    FROM song_artists sa
-                    JOIN hot100_entries e ON sa.song_id = e.song_id
-                    JOIN chart_weeks cw ON e.chart_week_id = cw.id
-                    WHERE e.chart_week_id IN (SELECT id FROM valid_hot100_weeks)
-                    UNION ALL
-                    SELECT aa.artist_id, cw.chart_date
-                    FROM album_artists aa
-                    JOIN b200_entries e ON aa.album_id = e.album_id
-                    JOIN chart_weeks cw ON e.chart_week_id = cw.id
-                    WHERE e.chart_week_id IN (SELECT id FROM valid_b200_weeks)
-                ) combined
-                GROUP BY artist_id
-            ) sub
-            WHERE ast.artist_id = sub.artist_id;
-        """)
-
-        # Max simultaneous Hot 100 entries (filtered)
-        cur.execute(f"""
-            WITH {_VALID_HOT100_WEEKS_CTE}
-            UPDATE artist_stats ast
-            SET max_simultaneous_hot100 = sub.max_sim
-            FROM (
-                SELECT
-                    sa.artist_id,
-                    MAX(week_count) AS max_sim
-                FROM (
-                    SELECT sa2.artist_id, e.chart_week_id, COUNT(*) AS week_count
-                    FROM song_artists sa2
-                    JOIN hot100_entries e ON sa2.song_id = e.song_id
-                    WHERE e.chart_week_id IN (SELECT id FROM valid_hot100_weeks)
-                    GROUP BY sa2.artist_id, e.chart_week_id
-                ) sa
-                GROUP BY sa.artist_id
-            ) sub
-            WHERE ast.artist_id = sub.artist_id;
-        """)
+                SELECT sa2.artist_id, e.chart_week_id, COUNT(*) AS week_count
+                FROM song_artists sa2
+                JOIN hot100_entries e ON sa2.song_id = e.song_id
+                WHERE sa2.artist_id = artist_stats.artist_id
+                  AND e.chart_week_id IN (
+                      WITH {_VALID_HOT100_WEEKS_CTE}
+                      SELECT id FROM valid_hot100_weeks
+                  )
+                GROUP BY sa2.artist_id, e.chart_week_id
+            )
+        ), 0);
+    """)
 
     conn.commit()

@@ -4,9 +4,6 @@ Usage:
     python -m billboard_stats.etl.updater          # run update + gap repair
     python -m billboard_stats.etl.updater --repair  # gap repair only
     python -m billboard_stats.etl.updater --update  # incremental update only
-
-Suggested crontab (Monday 6 AM):
-    0 6 * * 1 cd /path/to/billboard_stats && python -m billboard_stats.etl.updater
 """
 
 import datetime
@@ -22,7 +19,7 @@ from billboard_stats.etl.fetcher import (
     find_failed_downloads,
     get_latest_publishable_chart_week,
 )
-from billboard_stats.etl.loader import _load_hot100, _load_b200
+from billboard_stats.etl.loader import _load_hot100, _load_b200, _create_schema
 from billboard_stats.etl.stats_builder import build_all_stats
 
 logger = logging.getLogger(__name__)
@@ -30,14 +27,13 @@ logger = logging.getLogger(__name__)
 
 def _get_latest_chart_dates(conn) -> dict:
     """Query DB for the latest non-future Saturday per chart_type."""
-    with conn.cursor() as cur:
-        cur.execute(
-            "SELECT chart_type, MAX(chart_date) FROM chart_weeks "
-            "WHERE chart_date <= CURRENT_DATE "
-            "AND EXTRACT(DOW FROM chart_date) = 6 "
-            "GROUP BY chart_type;"
-        )
-        return {row[0]: row[1] for row in cur.fetchall()}
+    cur = conn.cursor()
+    cur.execute(
+        "SELECT chart_type, MAX(chart_date) FROM chart_weeks "
+        "WHERE chart_date <= date('now') "
+        "GROUP BY chart_type;"
+    )
+    return {row[0]: datetime.date.fromisoformat(row[1]) for row in cur.fetchall()}
 
 
 def update_charts(conn, data_dir: str = None):
@@ -65,19 +61,20 @@ def update_charts(conn, data_dir: str = None):
         else:
             logger.info("Hot 100: already current through the latest valid chart week.")
 
-        # Determine which new dates to load
+        # Determine which new dates to load (present in files but not in DB)
+        cur = conn.cursor()
+        cur.execute("SELECT chart_date FROM chart_weeks WHERE chart_type = 'hot-100';")
+        db_dates = {row[0] for row in cur.fetchall()}
+
         hot100_dir = os.path.join(data_dir, "hot100")
-        for fname in sorted(os.listdir(hot100_dir)):
-            if fname.endswith(".json"):
-                date_str = fname.replace(".json", "")
-                try:
-                    d = datetime.date.fromisoformat(date_str)
-                    if hot100_latest < d <= latest_valid_week:
+        if os.path.exists(hot100_dir):
+            for fname in sorted(os.listdir(hot100_dir)):
+                if fname.endswith(".json"):
+                    date_str = fname.replace(".json", "")
+                    if date_str not in db_dates:
                         new_dates["hot-100"].append(date_str)
-                except ValueError:
-                    pass
     else:
-        logger.warning("No existing Hot 100 data in DB. Run full ETL first.")
+        logger.warning("No existing Hot 100 data in DB. Run full ETL first or ensure schema is created.")
 
     # Billboard 200: download dates after the latest in DB
     b200_latest = latest.get("billboard-200")
@@ -90,18 +87,19 @@ def update_charts(conn, data_dir: str = None):
         else:
             logger.info("Billboard 200: already current through the latest valid chart week.")
 
+        cur = conn.cursor()
+        cur.execute("SELECT chart_date FROM chart_weeks WHERE chart_type = 'billboard-200';")
+        db_dates = {row[0] for row in cur.fetchall()}
+
         b200_dir = os.path.join(data_dir, "b200")
-        for fname in sorted(os.listdir(b200_dir)):
-            if fname.endswith(".json"):
-                date_str = fname.replace(".json", "")
-                try:
-                    d = datetime.date.fromisoformat(date_str)
-                    if b200_latest < d <= latest_valid_week:
+        if os.path.exists(b200_dir):
+            for fname in sorted(os.listdir(b200_dir)):
+                if fname.endswith(".json"):
+                    date_str = fname.replace(".json", "")
+                    if date_str not in db_dates:
                         new_dates["billboard-200"].append(date_str)
-                except ValueError:
-                    pass
     else:
-        logger.warning("No existing Billboard 200 data in DB. Run full ETL first.")
+        logger.warning("No existing Billboard 200 data in DB. Run full ETL first or ensure schema is created.")
 
     # Load new data into DB
     hot100_new = new_dates["hot-100"]
@@ -200,6 +198,9 @@ def run_update(data_dir: str = None, repair: bool = True, update: bool = True):
     """
     conn = get_conn()
     try:
+        # Ensure schema exists first
+        _create_schema(conn)
+        
         results = {}
         if repair:
             logger.info("=== Gap Repair ===")
@@ -232,5 +233,3 @@ if __name__ == "__main__":
 
     results = run_update(data_dir=args.data_dir, repair=do_repair, update=do_update)
     print(f"\nResults: {results}")
-    print(f"\nSuggested crontab entry (Monday 6 AM):")
-    print(f"  0 6 * * 1 cd {Path.cwd()} && python -m billboard_stats.etl.updater")
