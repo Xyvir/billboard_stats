@@ -3,7 +3,7 @@ name: weekly-etl
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * 1"
+    - cron: "0 * * * *"
 
 # Required so the bot can push the JSON files back to your repository
 permissions:
