@@ -26,7 +26,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run Flat-File ETL and Enrichment
-        # This relies on the stripped-down run_weekly_etl.sh we made earlier
         run: bash scripts/run_weekly_etl.sh
 
       - name: Commit and push new JSON data
@@ -34,8 +33,8 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Stage all changes in the data directory (new weekly files, profiles, and the search index)
+          # Stage all changes in the data directory
           git add billboard_stats/data/
           
           # Only commit and push if there are actually changes to avoid failing the action
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: automate weekly chart scrape, enrichment, and indexing" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: automate chart scrape, enrichment, and indexing" && git push)
