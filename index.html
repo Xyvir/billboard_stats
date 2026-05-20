@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Billboard Stats Shell</title>
+    <style>
+        :root {
+            --bg: #121212;
+            --text: #e0e0e0;
+            --accent: #ff4757;
+            --border: #333;
+        }
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        input, button {
+            padding: 0.5rem 1rem;
+            background: #222;
+            color: var(--text);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+        }
+        button {
+            background: var(--accent);
+            color: white;
+            cursor: pointer;
+            font-weight: bold;
+            border: none;
+        }
+        button:hover { background: #ff6b81; }
+        .chart-entry {
+            display: flex;
+            align-items: center;
+            padding: 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+        .rank {
+            font-size: 1.5rem;
+            font-weight: bold;
+            width: 50px;
+            color: var(--accent);
+        }
+        .details h3 { margin: 0 0 0.25rem 0; }
+        .details p { margin: 0; color: #888; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+    <h1>Billboard Stats</h1>
+    
+    <div style="margin-bottom: 2rem; display: flex; gap: 1rem;">
+        <input type="date" id="dateInput" value="2026-04-04">
+        <button onclick="loadChart()">Load Week</button>
+        <input type="text" id="searchInput" placeholder="Search index... (needs ETL update)">
+    </div>
+
+    <div id="loading" style="display: none;">Fetching data...</div>
+    <div id="error" style="color: #ff4757; display: none;"></div>
+    <div id="chartContainer"></div>
+
+    <script>
+        // Pointing exactly where you stubbornly want it
+        const DATA_DIR = './billboard_stats/data';
+
+        async function loadChart() {
+            const dateVal = document.getElementById('dateInput').value;
+            const container = document.getElementById('chartContainer');
+            const errorDiv = document.getElementById('error');
+            const loading = document.getElementById('loading');
+
+            container.innerHTML = '';
+            errorDiv.style.display = 'none';
+            loading.style.display = 'block';
+
+            try {
+                const response = await fetch(`${DATA_DIR}/${dateVal}.json`);
+                
+                if (!response.ok) {
+                    throw new Error(`Chart data for ${dateVal} not found. Ensure the JSON exists at ${DATA_DIR}/${dateVal}.json and is pushed to GitHub.`);
+                }
+
+                const data = await response.json();
+                renderChart(data);
+            } catch (err) {
+                errorDiv.textContent = err.message;
+                errorDiv.style.display = 'block';
+            } finally {
+                loading.style.display = 'none';
+            }
+        }
+
+        function renderChart(data) {
+            const container = document.getElementById('chartContainer');
+            
+            // This loops through the array. 
+            // If your ETL output keys are different, fix them here.
+            data.forEach(track => {
+                const row = document.createElement('div');
+                row.className = 'chart-entry';
+                
+                row.innerHTML = `
+                    <div class="rank">${track.rank || track.position}</div>
+                    <div class="details">
+                        <h3>${track.title || track.song}</h3>
+                        <p>${track.artist}</p>
+                    </div>
+                `;
+                container.appendChild(row);
+            });
+        }
+    </script>
+</body>
+</html>
