@@ -30,13 +30,11 @@ jobs:
 
       - name: Commit and push new JSON data
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add billboard_stats/data/
-          
           if [ "${ACT}" == "true" ]; then
-            echo "Jane says we are running locally via act. Skipping the push."
-            git status
+            echo "Jane confirms local execution. Bypassing Git config, staging, and push to save you from WSL2 I/O hell."
           else
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add billboard_stats/data/
             git diff --quiet && git diff --staged --quiet || (git commit -q -m "chore: automate chart scrape" && git push -q)
           fi
