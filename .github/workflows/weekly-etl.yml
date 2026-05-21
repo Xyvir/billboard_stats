@@ -32,9 +32,11 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
-          # Stage all changes in the data directory
           git add billboard_stats/data/
           
-          # Only commit and push if there are actually changes to avoid failing the action
-          git diff --quiet && git diff --staged --quiet || (git commit -q -m "chore: automate chart scrape, enrichment, and indexing" && git push)
+          if [ "${ACT}" == "true" ]; then
+            echo "Jane says we are running locally via act. Skipping the push."
+            git status
+          else
+            git diff --quiet && git diff --staged --quiet || (git commit -q -m "chore: automate chart scrape" && git push -q)
+          fi
