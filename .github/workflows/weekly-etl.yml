@@ -1,20 +1,18 @@
 name: weekly-etl
 
-"on":
+on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * 1"
+    - cron: "42 * * * *"
+
+# Required so the bot can push the JSON files back to your repository
+permissions:
+  contents: write
 
 jobs:
   weekly-etl:
     runs-on: ubuntu-latest
-    env:
-      PGHOST: ${{ secrets.PGHOST }}
-      PGPORT: ${{ secrets.PGPORT }}
-      PGDATABASE: ${{ secrets.PGDATABASE }}
-      PGUSER: ${{ secrets.PGUSER }}
-      PGPASSWORD: ${{ secrets.PGPASSWORD }}
-      PGSSLMODE: ${{ secrets.PGSSLMODE }}
+    
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -27,5 +25,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run weekly ETL
+      - name: Run Flat-File ETL and Enrichment
         run: bash scripts/run_weekly_etl.sh
+
+      - name: Commit and push new JSON data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Stage all changes in the data directory
+          git add billboard_stats/data/
+          
+          # Only commit and push if there are actually changes to avoid failing the action
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: automate chart scrape, enrichment, and indexing" && git push)
