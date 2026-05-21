@@ -123,9 +123,9 @@ def run_incremental_enrichment(data_dir: str):
         upgraded_data = []
 
         for track in data:
-            title = track.get("title", track.get("song", track.get("album", "Unknown")))
-            artist = track.get("artist", "Unknown")
-            rank = track.get("rank", track.get("position"))
+            title = track.get("title") or track.get("song") or track.get("album") or "Unknown"
+            artist = track.get("artist") or "Unknown"
+            rank = track.get("rank") or track.get("position") or 999
             
             item_id = f"{slugify(title)}-{slugify(artist)}"
             artist_id = slugify(artist)
@@ -134,21 +134,43 @@ def run_incremental_enrichment(data_dir: str):
             item_path = os.path.join(data_dir, type_dir, f"{item_id}.json")
             artist_path = os.path.join(data_dir, "artists", f"{artist_id}.json")
 
-            # Read historical profile to calculate current stats
-            if os.path.exists(item_path):
-                with open(item_path, 'r', encoding='utf-8') as pf:
-                    item_profile = json.load(pf)
-            else:
-                item_profile = {"id": item_id, "title": title, "artist": artist, "peak": 999, "history": []}
-
             try:
                 rank_int = int(rank)
             except (ValueError, TypeError):
                 rank_int = 999 
 
-            weeks_on_chart = len(item_profile["history"]) + 1
-            peak = min(item_profile["peak"], rank_int)
-            last_week = item_profile["history"][-1]["rank"] if item_profile["history"] else "-"
+            is_valid = (title != "Unknown" and artist != "Unknown")
+            weeks_on_chart = 1
+            peak = rank_int
+            last_week = "-"
+
+            # Only maintain historical profiles for valid, known items
+            if is_valid:
+                if os.path.exists(item_path):
+                    with open(item_path, 'r', encoding='utf-8') as pf:
+                        item_profile = json.load(pf)
+                else:
+                    item_profile = {"id": item_id, "title": title, "artist": artist, "peak": 999, "history": []}
+
+                weeks_on_chart = len(item_profile["history"]) + 1
+                peak = min(item_profile["peak"], rank_int)
+                last_week = item_profile["history"][-1]["rank"] if item_profile["history"] else "-"
+
+                item_profile["peak"] = peak
+                item_profile["history"].append({"date": date_str, "rank": rank})
+                with open(item_path, 'w', encoding='utf-8') as pf:
+                    json.dump(item_profile, pf)
+
+                if os.path.exists(artist_path):
+                    with open(artist_path, 'r', encoding='utf-8') as af:
+                        artist_profile = json.load(af)
+                else:
+                    artist_profile = {"id": artist_id, "name": artist, "items": []}
+                    
+                if item_id not in artist_profile["items"]:
+                    artist_profile["items"].append(item_id)
+                    with open(artist_path, 'w', encoding='utf-8') as af:
+                        json.dump(artist_profile, af)
 
             # The fat payload for the weekly chart SPA view
             track_meta = {
@@ -162,24 +184,6 @@ def run_incremental_enrichment(data_dir: str):
                 "weeks_on_chart": weeks_on_chart
             }
             upgraded_data.append(track_meta)
-
-            # Update the specific item profile
-            item_profile["peak"] = peak
-            item_profile["history"].append({"date": date_str, "rank": rank})
-            with open(item_path, 'w', encoding='utf-8') as pf:
-                json.dump(item_profile, pf)
-
-            # Update the specific artist profile
-            if os.path.exists(artist_path):
-                with open(artist_path, 'r', encoding='utf-8') as af:
-                    artist_profile = json.load(af)
-            else:
-                artist_profile = {"id": artist_id, "name": artist, "items": []}
-                
-            if item_id not in artist_profile["items"]:
-                artist_profile["items"].append(item_id)
-                with open(artist_path, 'w', encoding='utf-8') as af:
-                    json.dump(artist_profile, af)
 
         # Overwrite weekly file with enriched data
         with open(filepath, 'w', encoding='utf-8') as f:
