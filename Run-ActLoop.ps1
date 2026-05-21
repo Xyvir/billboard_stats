@@ -5,7 +5,7 @@ while ($true) {
     Write-Host "Running act..." -ForegroundColor Yellow
     
     # Run act with the bind flag on your specified workflow file
-    act --bind -W workflow.yaml
+    act --bind
 
     Write-Host "`n'act' execution finished. Checking for changes..." -ForegroundColor Yellow
     
