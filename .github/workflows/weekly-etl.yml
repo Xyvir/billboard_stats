@@ -37,4 +37,4 @@ jobs:
           git add billboard_stats/data/
           
           # Only commit and push if there are actually changes to avoid failing the action
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: automate chart scrape, enrichment, and indexing" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -q -m "chore: automate chart scrape, enrichment, and indexing" && git push)
