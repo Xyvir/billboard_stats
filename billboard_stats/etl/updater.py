@@ -123,7 +123,7 @@ def run_incremental_enrichment(data_dir: str):
         upgraded_data = []
 
         for track in data:
-            title = track.get("title", track.get("song", "Unknown"))
+            title = track.get("title", track.get("song", track.get("album", "Unknown")))
             artist = track.get("artist", "Unknown")
             rank = track.get("rank", track.get("position"))
             
