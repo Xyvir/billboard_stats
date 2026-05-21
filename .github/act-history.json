@@ -3,6 +3,12 @@
     "workflow": "weekly-etl.yml",
     "command": "act workflow_dispatch -W .github\\workflows\\weekly-etl.yml",
     "success": true,
+    "timestamp": "2026-05-21T14:39:09.947Z"
+  },
+  {
+    "workflow": "weekly-etl.yml",
+    "command": "act workflow_dispatch -W .github\\workflows\\weekly-etl.yml",
+    "success": true,
     "timestamp": "2026-05-21T14:20:41.577Z"
   },
   {
