@@ -1,1 +1,54 @@
-{"id": "atlantis-mccoy-tyner", "title": "Atlantis", "artist": "McCoy Tyner", "peak": 161, "history": [{"date": "1975-06-14", "rank": 180}, {"date": "1975-06-21", "rank": 170}, {"date": "1975-06-28", "rank": 165}, {"date": "1975-07-05", "rank": 161}, {"date": "1975-07-12", "rank": 195}]}
+{
+  "id": "atlantis-mccoy-tyner",
+  "title": "Atlantis",
+  "artist": "McCoy Tyner",
+  "peak": 161,
+  "history": [
+    {
+      "date": "1975-06-14",
+      "rank": 180
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 170
+    },
+    {
+      "date": "1975-06-28",
+      "rank": 165
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 161
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Atlantis",
+      "id": null
+    },
+    {
+      "title": "In a Sentimental Mood",
+      "id": null
+    },
+    {
+      "title": "Makin' Out",
+      "id": null
+    },
+    {
+      "title": "My One and Only Love",
+      "id": null
+    },
+    {
+      "title": "Pursuit",
+      "id": null
+    },
+    {
+      "title": "Love Samba",
+      "id": null
+    }
+  ]
+}

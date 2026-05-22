@@ -1,1 +1,74 @@
-{"id": "atlas-real-estate", "title": "Atlas", "artist": "Real Estate", "peak": 34, "history": [{"date": "2014-03-22", "rank": 34}, {"date": "2014-03-29", "rank": 84}, {"date": "2014-04-05", "rank": 144}, {"date": "2014-04-12", "rank": 196}]}
+{
+  "id": "atlas-real-estate",
+  "title": "Atlas",
+  "artist": "Real Estate",
+  "peak": 34,
+  "history": [
+    {
+      "date": "2014-03-22",
+      "rank": 34
+    },
+    {
+      "date": "2014-03-29",
+      "rank": 84
+    },
+    {
+      "date": "2014-04-05",
+      "rank": 144
+    },
+    {
+      "date": "2014-04-12",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Had to Hear",
+      "id": null
+    },
+    {
+      "title": "Past Lives",
+      "id": null
+    },
+    {
+      "title": "Talking Backwards",
+      "id": null
+    },
+    {
+      "title": "April's Song",
+      "id": null
+    },
+    {
+      "title": "The Bend",
+      "id": null
+    },
+    {
+      "title": "Crime",
+      "id": null
+    },
+    {
+      "title": "Primitive",
+      "id": null
+    },
+    {
+      "title": "How Might I Live",
+      "id": null
+    },
+    {
+      "title": "Horizon",
+      "id": null
+    },
+    {
+      "title": "Navigator",
+      "id": null
+    },
+    {
+      "title": "The Chancellor",
+      "id": null
+    },
+    {
+      "title": "Recreation",
+      "id": null
+    }
+  ]
+}

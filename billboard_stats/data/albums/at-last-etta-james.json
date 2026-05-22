@@ -1,1 +1,70 @@
-{"id": "at-last-etta-james", "title": "At Last!", "artist": "Etta James", "peak": 96, "history": [{"date": "2012-02-04", "rank": 96}, {"date": "2012-02-11", "rank": 130}, {"date": "2012-02-18", "rank": 126}, {"date": "2012-03-03", "rank": 186}, {"date": "2016-05-07", "rank": 198}]}
+{
+  "id": "at-last-etta-james",
+  "title": "At Last!",
+  "artist": "Etta James",
+  "peak": 96,
+  "history": [
+    {
+      "date": "2012-02-04",
+      "rank": 96
+    },
+    {
+      "date": "2012-02-11",
+      "rank": 130
+    },
+    {
+      "date": "2012-02-18",
+      "rank": 126
+    },
+    {
+      "date": "2012-03-03",
+      "rank": 186
+    },
+    {
+      "date": "2016-05-07",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Dearest Darling",
+      "id": "my-dearest-darling-etta-james"
+    },
+    {
+      "title": "Trust in Me",
+      "id": "trust-in-me-etta-james"
+    },
+    {
+      "title": "At Last",
+      "id": "at-last-etta-james"
+    },
+    {
+      "title": "All I Could Do Was Cry",
+      "id": "all-i-could-do-was-cry-etta-james"
+    },
+    {
+      "title": "Anything to Say You’re Mine",
+      "id": null
+    },
+    {
+      "title": "Sunday Kind of Love",
+      "id": null
+    },
+    {
+      "title": "Tough Mary",
+      "id": null
+    },
+    {
+      "title": "I Just Want to Make Love to You",
+      "id": null
+    },
+    {
+      "title": "Stormy Weather",
+      "id": null
+    },
+    {
+      "title": "Girl of My Dreams",
+      "id": null
+    }
+  ]
+}

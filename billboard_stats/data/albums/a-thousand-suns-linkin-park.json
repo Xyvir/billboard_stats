@@ -1,1 +1,230 @@
-{"id": "a-thousand-suns-linkin-park", "title": "A Thousand Suns", "artist": "Linkin Park", "peak": 1, "history": [{"date": "2010-10-02", "rank": 1}, {"date": "2010-10-09", "rank": 3}, {"date": "2010-10-16", "rank": 8}, {"date": "2010-10-23", "rank": 7}, {"date": "2010-10-30", "rank": 11}, {"date": "2010-11-06", "rank": 19}, {"date": "2010-11-13", "rank": 24}, {"date": "2010-11-20", "rank": 33}, {"date": "2010-11-27", "rank": 45}, {"date": "2010-12-04", "rank": 63}, {"date": "2010-12-11", "rank": 72}, {"date": "2010-12-18", "rank": 81}, {"date": "2010-12-25", "rank": 76}, {"date": "2011-01-01", "rank": 61}, {"date": "2011-01-08", "rank": 55}, {"date": "2011-01-15", "rank": 48}, {"date": "2011-01-22", "rank": 39}, {"date": "2011-01-29", "rank": 47}, {"date": "2011-02-05", "rank": 58}, {"date": "2011-02-12", "rank": 53}, {"date": "2011-02-19", "rank": 40}, {"date": "2011-02-26", "rank": 47}, {"date": "2011-03-05", "rank": 54}, {"date": "2011-03-12", "rank": 51}, {"date": "2011-03-19", "rank": 61}, {"date": "2011-03-26", "rank": 65}, {"date": "2011-04-02", "rank": 65}, {"date": "2011-04-09", "rank": 91}, {"date": "2011-04-16", "rank": 103}, {"date": "2011-04-23", "rank": 111}, {"date": "2011-04-30", "rank": 162}, {"date": "2011-05-07", "rank": 154}, {"date": "2011-05-14", "rank": 179}, {"date": "2011-05-21", "rank": 195}, {"date": "2011-05-28", "rank": 200}, {"date": "2011-07-16", "rank": 200}, {"date": "2011-07-23", "rank": 197}, {"date": "2011-08-06", "rank": 127}, {"date": "2017-08-12", "rank": 117}]}
+{
+  "id": "a-thousand-suns-linkin-park",
+  "title": "A Thousand Suns",
+  "artist": "Linkin Park",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2010-10-02",
+      "rank": 1
+    },
+    {
+      "date": "2010-10-09",
+      "rank": 3
+    },
+    {
+      "date": "2010-10-16",
+      "rank": 8
+    },
+    {
+      "date": "2010-10-23",
+      "rank": 7
+    },
+    {
+      "date": "2010-10-30",
+      "rank": 11
+    },
+    {
+      "date": "2010-11-06",
+      "rank": 19
+    },
+    {
+      "date": "2010-11-13",
+      "rank": 24
+    },
+    {
+      "date": "2010-11-20",
+      "rank": 33
+    },
+    {
+      "date": "2010-11-27",
+      "rank": 45
+    },
+    {
+      "date": "2010-12-04",
+      "rank": 63
+    },
+    {
+      "date": "2010-12-11",
+      "rank": 72
+    },
+    {
+      "date": "2010-12-18",
+      "rank": 81
+    },
+    {
+      "date": "2010-12-25",
+      "rank": 76
+    },
+    {
+      "date": "2011-01-01",
+      "rank": 61
+    },
+    {
+      "date": "2011-01-08",
+      "rank": 55
+    },
+    {
+      "date": "2011-01-15",
+      "rank": 48
+    },
+    {
+      "date": "2011-01-22",
+      "rank": 39
+    },
+    {
+      "date": "2011-01-29",
+      "rank": 47
+    },
+    {
+      "date": "2011-02-05",
+      "rank": 58
+    },
+    {
+      "date": "2011-02-12",
+      "rank": 53
+    },
+    {
+      "date": "2011-02-19",
+      "rank": 40
+    },
+    {
+      "date": "2011-02-26",
+      "rank": 47
+    },
+    {
+      "date": "2011-03-05",
+      "rank": 54
+    },
+    {
+      "date": "2011-03-12",
+      "rank": 51
+    },
+    {
+      "date": "2011-03-19",
+      "rank": 61
+    },
+    {
+      "date": "2011-03-26",
+      "rank": 65
+    },
+    {
+      "date": "2011-04-02",
+      "rank": 65
+    },
+    {
+      "date": "2011-04-09",
+      "rank": 91
+    },
+    {
+      "date": "2011-04-16",
+      "rank": 103
+    },
+    {
+      "date": "2011-04-23",
+      "rank": 111
+    },
+    {
+      "date": "2011-04-30",
+      "rank": 162
+    },
+    {
+      "date": "2011-05-07",
+      "rank": 154
+    },
+    {
+      "date": "2011-05-14",
+      "rank": 179
+    },
+    {
+      "date": "2011-05-21",
+      "rank": 195
+    },
+    {
+      "date": "2011-05-28",
+      "rank": 200
+    },
+    {
+      "date": "2011-07-16",
+      "rank": 200
+    },
+    {
+      "date": "2011-07-23",
+      "rank": 197
+    },
+    {
+      "date": "2011-08-06",
+      "rank": 127
+    },
+    {
+      "date": "2017-08-12",
+      "rank": 117
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Waiting for the End",
+      "id": "waiting-for-the-end-linkin-park"
+    },
+    {
+      "title": "Iridescent",
+      "id": "iridescent-linkin-park"
+    },
+    {
+      "title": "The Catalyst",
+      "id": "the-catalyst-linkin-park"
+    },
+    {
+      "title": "The Requiem",
+      "id": null
+    },
+    {
+      "title": "The Radiance",
+      "id": null
+    },
+    {
+      "title": "Burning in the Skies",
+      "id": null
+    },
+    {
+      "title": "Empty Spaces",
+      "id": null
+    },
+    {
+      "title": "When They Come for Me",
+      "id": null
+    },
+    {
+      "title": "Robot Boy",
+      "id": null
+    },
+    {
+      "title": "Jornada del Muerto",
+      "id": null
+    },
+    {
+      "title": "Blackout",
+      "id": null
+    },
+    {
+      "title": "Wretches and Kings",
+      "id": null
+    },
+    {
+      "title": "Wisdom, Justice, and Love",
+      "id": null
+    },
+    {
+      "title": "Fallout",
+      "id": null
+    },
+    {
+      "title": "The Messenger",
+      "id": null
+    },
+    {
+      "title": "Blackbirds",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"id": "a-thousand-miles-left-behind-gloriana", "title": "A Thousand Miles Left Behind", "artist": "Gloriana", "peak": 11, "history": [{"date": "2012-08-18", "rank": 11}, {"date": "2012-08-25", "rank": 30}, {"date": "2012-09-01", "rank": 55}, {"date": "2012-09-08", "rank": 75}, {"date": "2012-09-15", "rank": 92}, {"date": "2012-09-22", "rank": 115}, {"date": "2012-09-29", "rank": 131}]}
+{
+  "id": "a-thousand-miles-left-behind-gloriana",
+  "title": "A Thousand Miles Left Behind",
+  "artist": "Gloriana",
+  "peak": 11,
+  "history": [
+    {
+      "date": "2012-08-18",
+      "rank": 11
+    },
+    {
+      "date": "2012-08-25",
+      "rank": 30
+    },
+    {
+      "date": "2012-09-01",
+      "rank": 55
+    },
+    {
+      "date": "2012-09-08",
+      "rank": 75
+    },
+    {
+      "date": "2012-09-15",
+      "rank": 92
+    },
+    {
+      "date": "2012-09-22",
+      "rank": 115
+    },
+    {
+      "date": "2012-09-29",
+      "rank": 131
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wanna Take You Home",
+      "id": "can-t-shake-you-gloriana"
+    },
+    {
+      "title": "(Kissed You) Good Night",
+      "id": "kissed-you-good-night-gloriana"
+    },
+    {
+      "title": "Can't Shake You",
+      "id": "can-t-shake-you-gloriana"
+    },
+    {
+      "title": "Gold Rush",
+      "id": null
+    },
+    {
+      "title": "Sunset Lovin'",
+      "id": null
+    },
+    {
+      "title": "Carolina Rose",
+      "id": null
+    },
+    {
+      "title": "Go On... Miss Me",
+      "id": null
+    },
+    {
+      "title": "Soldier Song",
+      "id": null
+    },
+    {
+      "title": "Turn My World Around",
+      "id": null
+    },
+    {
+      "title": "Doing It Our Way",
+      "id": null
+    },
+    {
+      "title": "Where My Heart Belongs",
+      "id": null
+    }
+  ]
+}
