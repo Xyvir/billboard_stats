@@ -1,1 +1,70 @@
-{"id": "andy-pratt-andy-pratt", "title": "Andy Pratt", "artist": "Andy Pratt", "peak": 192, "history": [{"date": "1973-05-12", "rank": 194}, {"date": "1973-05-19", "rank": 192}, {"date": "1973-05-26", "rank": 198}, {"date": "1973-06-02", "rank": 198}]}
+{
+  "id": "andy-pratt-andy-pratt",
+  "title": "Andy Pratt",
+  "artist": "Andy Pratt",
+  "peak": 192,
+  "history": [
+    {
+      "date": "1973-05-12",
+      "rank": 194
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 192
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 198
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Avenging Annie",
+      "id": "avenging-annie-andy-pratt"
+    },
+    {
+      "title": "Inside Me Want Out",
+      "id": null
+    },
+    {
+      "title": "It's All Behind You",
+      "id": null
+    },
+    {
+      "title": "Summer, Summer",
+      "id": null
+    },
+    {
+      "title": "Call Up That Old Friend",
+      "id": null
+    },
+    {
+      "title": "Give It All To Music",
+      "id": null
+    },
+    {
+      "title": "Who Am I Talking To",
+      "id": null
+    },
+    {
+      "title": "All The King's Weight",
+      "id": null
+    },
+    {
+      "title": "So Fine (It's Frightening)",
+      "id": null
+    },
+    {
+      "title": "Sittin' Down In The Twilight",
+      "id": null
+    },
+    {
+      "title": "Deer Song",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"id": "an-evening-with-herbie-hancock-and-chick-corea-herbie-hancock-and-chick-corea", "title": "An Evening With Herbie Hancock And Chick Corea", "artist": "Herbie Hancock And Chick Corea", "peak": 100, "history": [{"date": "1979-03-31", "rank": 111}, {"date": "1979-04-07", "rank": 102}, {"date": "1979-04-14", "rank": 102}, {"date": "1979-04-21", "rank": 100}, {"date": "1979-04-28", "rank": 126}, {"date": "1979-05-05", "rank": 150}, {"date": "1979-05-12", "rank": 188}, {"date": "1979-05-19", "rank": 187}]}
+{
+  "id": "an-evening-with-herbie-hancock-and-chick-corea-herbie-hancock-and-chick-corea",
+  "title": "An Evening With Herbie Hancock And Chick Corea",
+  "artist": "Herbie Hancock And Chick Corea",
+  "peak": 100,
+  "history": [
+    {
+      "date": "1979-03-31",
+      "rank": 111
+    },
+    {
+      "date": "1979-04-07",
+      "rank": 102
+    },
+    {
+      "date": "1979-04-14",
+      "rank": 102
+    },
+    {
+      "date": "1979-04-21",
+      "rank": 100
+    },
+    {
+      "date": "1979-04-28",
+      "rank": 126
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 150
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 188
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Someday My Prince Will Come",
+      "id": null
+    },
+    {
+      "title": "Liza (All The Clouds Roll Away)",
+      "id": null
+    },
+    {
+      "title": "Button Up",
+      "id": null
+    },
+    {
+      "title": "February Moment",
+      "id": null
+    },
+    {
+      "title": "Maiden Voyage",
+      "id": null
+    },
+    {
+      "title": "La Fiesta",
+      "id": null
+    }
+  ]
+}

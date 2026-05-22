@@ -1,1 +1,258 @@
-{"id": "a-new-flame-simply-red", "title": "A New Flame", "artist": "Simply Red", "peak": 22, "history": [{"date": "1989-03-11", "rank": 129}, {"date": "1989-03-18", "rank": 74}, {"date": "1989-03-25", "rank": 57}, {"date": "1989-04-01", "rank": 57}, {"date": "1989-04-08", "rank": 55}, {"date": "1989-04-15", "rank": 55}, {"date": "1989-04-22", "rank": 55}, {"date": "1989-04-29", "rank": 57}, {"date": "1989-05-06", "rank": 59}, {"date": "1989-05-13", "rank": 57}, {"date": "1989-05-20", "rank": 57}, {"date": "1989-05-27", "rank": 53}, {"date": "1989-06-03", "rank": 47}, {"date": "1989-06-10", "rank": 44}, {"date": "1989-06-17", "rank": 36}, {"date": "1989-06-24", "rank": 33}, {"date": "1989-07-01", "rank": 30}, {"date": "1989-07-08", "rank": 30}, {"date": "1989-07-15", "rank": 26}, {"date": "1989-07-22", "rank": 24}, {"date": "1989-07-29", "rank": 24}, {"date": "1989-08-05", "rank": 23}, {"date": "1989-08-12", "rank": 22}, {"date": "1989-08-19", "rank": 24}, {"date": "1989-08-26", "rank": 25}, {"date": "1989-09-02", "rank": 27}, {"date": "1989-09-09", "rank": 30}, {"date": "1989-09-16", "rank": 31}, {"date": "1989-09-23", "rank": 43}, {"date": "1989-09-30", "rank": 55}, {"date": "1989-10-07", "rank": 59}, {"date": "1989-10-14", "rank": 77}, {"date": "1989-10-21", "rank": 86}, {"date": "1989-10-28", "rank": 93}, {"date": "1989-11-04", "rank": 116}, {"date": "1989-11-11", "rank": 130}, {"date": "1989-11-18", "rank": 154}, {"date": "1989-11-25", "rank": 180}, {"date": "1989-12-02", "rank": 197}]}
+{
+  "id": "a-new-flame-simply-red",
+  "title": "A New Flame",
+  "artist": "Simply Red",
+  "peak": 22,
+  "history": [
+    {
+      "date": "1989-03-11",
+      "rank": 129
+    },
+    {
+      "date": "1989-03-18",
+      "rank": 74
+    },
+    {
+      "date": "1989-03-25",
+      "rank": 57
+    },
+    {
+      "date": "1989-04-01",
+      "rank": 57
+    },
+    {
+      "date": "1989-04-08",
+      "rank": 55
+    },
+    {
+      "date": "1989-04-15",
+      "rank": 55
+    },
+    {
+      "date": "1989-04-22",
+      "rank": 55
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 57
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 59
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 57
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 57
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 53
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 47
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 44
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 36
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 33
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 30
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 30
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 26
+    },
+    {
+      "date": "1989-07-22",
+      "rank": 24
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 24
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 23
+    },
+    {
+      "date": "1989-08-12",
+      "rank": 22
+    },
+    {
+      "date": "1989-08-19",
+      "rank": 24
+    },
+    {
+      "date": "1989-08-26",
+      "rank": 25
+    },
+    {
+      "date": "1989-09-02",
+      "rank": 27
+    },
+    {
+      "date": "1989-09-09",
+      "rank": 30
+    },
+    {
+      "date": "1989-09-16",
+      "rank": 31
+    },
+    {
+      "date": "1989-09-23",
+      "rank": 43
+    },
+    {
+      "date": "1989-09-30",
+      "rank": 55
+    },
+    {
+      "date": "1989-10-07",
+      "rank": 59
+    },
+    {
+      "date": "1989-10-14",
+      "rank": 77
+    },
+    {
+      "date": "1989-10-21",
+      "rank": 86
+    },
+    {
+      "date": "1989-10-28",
+      "rank": 93
+    },
+    {
+      "date": "1989-11-04",
+      "rank": 116
+    },
+    {
+      "date": "1989-11-11",
+      "rank": 130
+    },
+    {
+      "date": "1989-11-18",
+      "rank": 154
+    },
+    {
+      "date": "1989-11-25",
+      "rank": 180
+    },
+    {
+      "date": "1989-12-02",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s Only Love",
+      "id": "it-s-only-love-simply-red"
+    },
+    {
+      "title": "If You Don’t Know Me by Now",
+      "id": "if-you-don-t-know-me-by-now-simply-red"
+    },
+    {
+      "title": "Holding Back the Years",
+      "id": "holding-back-the-years-simply-red"
+    },
+    {
+      "title": "Something Got Me Started",
+      "id": "something-got-me-started-simply-red"
+    },
+    {
+      "title": "A New Flame",
+      "id": null
+    },
+    {
+      "title": "You’ve Got It",
+      "id": null
+    },
+    {
+      "title": "To Be With You",
+      "id": null
+    },
+    {
+      "title": "More",
+      "id": null
+    },
+    {
+      "title": "Turn It Up",
+      "id": null
+    },
+    {
+      "title": "Love Lays Its Tune",
+      "id": null
+    },
+    {
+      "title": "She’ll Have to Go",
+      "id": null
+    },
+    {
+      "title": "Enough",
+      "id": null
+    },
+    {
+      "title": "I Wish (live in Australia)",
+      "id": null
+    },
+    {
+      "title": "X",
+      "id": null
+    },
+    {
+      "title": "The Great Divide (S.H.T.G.)",
+      "id": null
+    },
+    {
+      "title": "Sugar Daddy",
+      "id": null
+    },
+    {
+      "title": "Funk on Out (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Granma’s Hands",
+      "id": null
+    },
+    {
+      "title": "Groovy Situation",
+      "id": null
+    },
+    {
+      "title": "Lady Godvina’s Room",
+      "id": null
+    },
+    {
+      "title": "Sad Old Red",
+      "id": null
+    },
+    {
+      "title": "Every Time We Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "Resume",
+      "id": null
+    }
+  ]
+}
