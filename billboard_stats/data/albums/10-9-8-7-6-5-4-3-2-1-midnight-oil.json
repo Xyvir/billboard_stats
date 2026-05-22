@@ -1,1 +1,70 @@
-{"id": "10-9-8-7-6-5-4-3-2-1-midnight-oil", "title": "10,9,8,7,6,5,4,3,2,1", "artist": "Midnight Oil", "peak": 178, "history": [{"date": "1984-02-04", "rank": 181}, {"date": "1984-02-11", "rank": 178}, {"date": "1984-02-18", "rank": 200}, {"date": "1984-02-25", "rank": 200}, {"date": "1984-03-03", "rank": 197}]}
+{
+  "id": "10-9-8-7-6-5-4-3-2-1-midnight-oil",
+  "title": "10,9,8,7,6,5,4,3,2,1",
+  "artist": "Midnight Oil",
+  "peak": 178,
+  "history": [
+    {
+      "date": "1984-02-04",
+      "rank": 181
+    },
+    {
+      "date": "1984-02-11",
+      "rank": 178
+    },
+    {
+      "date": "1984-02-18",
+      "rank": 200
+    },
+    {
+      "date": "1984-02-25",
+      "rank": 200
+    },
+    {
+      "date": "1984-03-03",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Outside World",
+      "id": null
+    },
+    {
+      "title": "Only the Strong",
+      "id": null
+    },
+    {
+      "title": "Short Memory",
+      "id": null
+    },
+    {
+      "title": "Read About It",
+      "id": null
+    },
+    {
+      "title": "Scream in Blue",
+      "id": null
+    },
+    {
+      "title": "US Forces",
+      "id": null
+    },
+    {
+      "title": "Power and the Passion",
+      "id": null
+    },
+    {
+      "title": "Maralinga",
+      "id": null
+    },
+    {
+      "title": "Tin-Legs and Tin Mines",
+      "id": null
+    },
+    {
+      "title": "Somebody’s Trying to Tell Me Something",
+      "id": null
+    }
+  ]
+}

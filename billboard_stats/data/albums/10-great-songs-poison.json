@@ -1,1 +1,54 @@
-{"id": "10-great-songs-poison", "title": "10 Great Songs", "artist": "Poison", "peak": 145, "history": [{"date": "2011-04-09", "rank": 145}]}
+{
+  "id": "10-great-songs-poison",
+  "title": "10 Great Songs",
+  "artist": "Poison",
+  "peak": 145,
+  "history": [
+    {
+      "date": "2011-04-09",
+      "rank": 145
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Nothin’ but a Good Time",
+      "id": "nothin-but-a-good-time-poison"
+    },
+    {
+      "title": "I Want Action",
+      "id": "i-want-action-poison"
+    },
+    {
+      "title": "Talk Dirty to Me",
+      "id": "talk-dirty-to-me-poison"
+    },
+    {
+      "title": "Every Rose Has Its Thorn",
+      "id": "every-rose-has-its-thorn-poison"
+    },
+    {
+      "title": "Your Mama Don’t Dance",
+      "id": "your-mama-don-t-dance-poison"
+    },
+    {
+      "title": "Fallen Angel",
+      "id": "fallen-angel-poison"
+    },
+    {
+      "title": "I Won’t Forget You",
+      "id": "i-won-t-forget-you-poison"
+    },
+    {
+      "title": "Look What the Cat Dragged In",
+      "id": null
+    },
+    {
+      "title": "Cry Tough",
+      "id": null
+    },
+    {
+      "title": "Look but You Can’t Touch",
+      "id": null
+    }
+  ]
+}

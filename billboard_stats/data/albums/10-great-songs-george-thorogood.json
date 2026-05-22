@@ -1,1 +1,58 @@
-{"id": "10-great-songs-george-thorogood", "title": "10 Great Songs", "artist": "George Thorogood", "peak": 171, "history": [{"date": "2011-04-30", "rank": 171}, {"date": "2011-05-07", "rank": 174}]}
+{
+  "id": "10-great-songs-george-thorogood",
+  "title": "10 Great Songs",
+  "artist": "George Thorogood",
+  "peak": 171,
+  "history": [
+    {
+      "date": "2011-04-30",
+      "rank": 171
+    },
+    {
+      "date": "2011-05-07",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bad to the Bone",
+      "id": null
+    },
+    {
+      "title": "I Drink Alone",
+      "id": null
+    },
+    {
+      "title": "Who Do You Love (live)",
+      "id": null
+    },
+    {
+      "title": "Tail Dragger",
+      "id": null
+    },
+    {
+      "title": "If You Don’t Start Drinkin’ (I’m Gonna Leave)",
+      "id": null
+    },
+    {
+      "title": "Move It On Over",
+      "id": null
+    },
+    {
+      "title": "Treat Her Right",
+      "id": null
+    },
+    {
+      "title": "I’m a Steady Rollin’ Man",
+      "id": null
+    },
+    {
+      "title": "One Bourbon, One Scotch, One Beer",
+      "id": null
+    },
+    {
+      "title": "Get a Haircut",
+      "id": null
+    }
+  ]
+}
