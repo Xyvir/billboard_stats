@@ -1,1 +1,114 @@
-{"id": "beatitude-ric-ocasek", "title": "Beatitude", "artist": "Ric Ocasek", "peak": 28, "history": [{"date": "1983-01-29", "rank": 48}, {"date": "1983-02-05", "rank": 38}, {"date": "1983-02-12", "rank": 35}, {"date": "1983-02-19", "rank": 31}, {"date": "1983-02-26", "rank": 30}, {"date": "1983-03-05", "rank": 28}, {"date": "1983-03-12", "rank": 28}, {"date": "1983-03-19", "rank": 28}, {"date": "1983-03-26", "rank": 28}, {"date": "1983-04-02", "rank": 28}, {"date": "1983-04-09", "rank": 58}, {"date": "1983-04-16", "rank": 78}, {"date": "1983-04-23", "rank": 101}, {"date": "1983-04-30", "rank": 130}, {"date": "1983-05-07", "rank": 169}, {"date": "1983-05-14", "rank": 187}]}
+{
+  "id": "beatitude-ric-ocasek",
+  "title": "Beatitude",
+  "artist": "Ric Ocasek",
+  "peak": 28,
+  "history": [
+    {
+      "date": "1983-01-29",
+      "rank": 48
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 38
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 35
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 31
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 30
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 28
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 28
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 28
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 28
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 28
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 58
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 78
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 101
+    },
+    {
+      "date": "1983-04-30",
+      "rank": 130
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 169
+    },
+    {
+      "date": "1983-05-14",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Something to Grab For",
+      "id": "something-to-grab-for-ric-ocasek"
+    },
+    {
+      "title": "Jimmy Jimmy",
+      "id": null
+    },
+    {
+      "title": "Prove",
+      "id": null
+    },
+    {
+      "title": "I Can’t Wait",
+      "id": null
+    },
+    {
+      "title": "Connect Up to Me",
+      "id": null
+    },
+    {
+      "title": "A Quick One",
+      "id": null
+    },
+    {
+      "title": "Out of Control",
+      "id": null
+    },
+    {
+      "title": "Take a Walk",
+      "id": null
+    },
+    {
+      "title": "Sneak Attack",
+      "id": null
+    },
+    {
+      "title": "Time Bomb",
+      "id": null
+    }
+  ]
+}

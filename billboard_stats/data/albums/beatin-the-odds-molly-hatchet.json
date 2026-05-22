@@ -1,1 +1,130 @@
-{"id": "beatin-the-odds-molly-hatchet", "title": "Beatin' The Odds", "artist": "Molly Hatchet", "peak": 25, "history": [{"date": "1980-09-20", "rank": 87}, {"date": "1980-09-27", "rank": 42}, {"date": "1980-10-04", "rank": 28}, {"date": "1980-10-11", "rank": 25}, {"date": "1980-10-18", "rank": 25}, {"date": "1980-10-25", "rank": 32}, {"date": "1980-11-01", "rank": 31}, {"date": "1980-11-08", "rank": 38}, {"date": "1980-11-15", "rank": 57}, {"date": "1980-11-22", "rank": 67}, {"date": "1980-11-29", "rank": 67}, {"date": "1980-12-06", "rank": 67}, {"date": "1980-12-13", "rank": 123}, {"date": "1980-12-20", "rank": 123}, {"date": "1980-12-27", "rank": 151}, {"date": "1981-01-03", "rank": 151}, {"date": "1981-01-10", "rank": 149}, {"date": "1981-01-17", "rank": 169}, {"date": "1981-01-24", "rank": 161}, {"date": "1981-01-31", "rank": 165}, {"date": "1981-02-07", "rank": 175}]}
+{
+  "id": "beatin-the-odds-molly-hatchet",
+  "title": "Beatin' The Odds",
+  "artist": "Molly Hatchet",
+  "peak": 25,
+  "history": [
+    {
+      "date": "1980-09-20",
+      "rank": 87
+    },
+    {
+      "date": "1980-09-27",
+      "rank": 42
+    },
+    {
+      "date": "1980-10-04",
+      "rank": 28
+    },
+    {
+      "date": "1980-10-11",
+      "rank": 25
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 25
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 32
+    },
+    {
+      "date": "1980-11-01",
+      "rank": 31
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 38
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 57
+    },
+    {
+      "date": "1980-11-22",
+      "rank": 67
+    },
+    {
+      "date": "1980-11-29",
+      "rank": 67
+    },
+    {
+      "date": "1980-12-06",
+      "rank": 67
+    },
+    {
+      "date": "1980-12-13",
+      "rank": 123
+    },
+    {
+      "date": "1980-12-20",
+      "rank": 123
+    },
+    {
+      "date": "1980-12-27",
+      "rank": 151
+    },
+    {
+      "date": "1981-01-03",
+      "rank": 151
+    },
+    {
+      "date": "1981-01-10",
+      "rank": 149
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 169
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 161
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 165
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Rambler",
+      "id": "the-rambler-molly-hatchet"
+    },
+    {
+      "title": "Beatin’ the Odds",
+      "id": null
+    },
+    {
+      "title": "Double Talker",
+      "id": null
+    },
+    {
+      "title": "Sailor",
+      "id": null
+    },
+    {
+      "title": "Dead and Gone",
+      "id": null
+    },
+    {
+      "title": "Few and Far Between",
+      "id": null
+    },
+    {
+      "title": "Penthouse Pauper",
+      "id": null
+    },
+    {
+      "title": "Get Her Back",
+      "id": null
+    },
+    {
+      "title": "Poison Pen",
+      "id": null
+    }
+  ]
+}

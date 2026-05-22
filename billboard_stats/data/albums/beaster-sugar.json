@@ -1,1 +1,46 @@
-{"id": "beaster-sugar", "title": "Beaster", "artist": "Sugar", "peak": 130, "history": [{"date": "1993-04-24", "rank": 130}, {"date": "1993-05-01", "rank": 144}, {"date": "1993-05-08", "rank": 171}]}
+{
+  "id": "beaster-sugar",
+  "title": "Beaster",
+  "artist": "Sugar",
+  "peak": 130,
+  "history": [
+    {
+      "date": "1993-04-24",
+      "rank": 130
+    },
+    {
+      "date": "1993-05-01",
+      "rank": 144
+    },
+    {
+      "date": "1993-05-08",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Come Around",
+      "id": null
+    },
+    {
+      "title": "Tilted",
+      "id": null
+    },
+    {
+      "title": "Judas Cradle",
+      "id": null
+    },
+    {
+      "title": "JC Auto",
+      "id": null
+    },
+    {
+      "title": "Feeling Better",
+      "id": null
+    },
+    {
+      "title": "Walking Away",
+      "id": null
+    }
+  ]
+}

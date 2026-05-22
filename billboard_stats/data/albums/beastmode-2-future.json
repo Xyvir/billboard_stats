@@ -1,1 +1,94 @@
-{"id": "beastmode-2-future", "title": "BEASTMODE 2", "artist": "Future", "peak": 3, "history": [{"date": "2018-07-21", "rank": 3}, {"date": "2018-07-28", "rank": 11}, {"date": "2018-08-04", "rank": 20}, {"date": "2018-08-11", "rank": 32}, {"date": "2018-08-18", "rank": 48}, {"date": "2018-08-25", "rank": 54}, {"date": "2018-09-01", "rank": 70}, {"date": "2018-09-08", "rank": 78}, {"date": "2018-09-15", "rank": 99}, {"date": "2018-09-22", "rank": 121}, {"date": "2018-09-29", "rank": 126}, {"date": "2018-10-06", "rank": 166}]}
+{
+  "id": "beastmode-2-future",
+  "title": "BEASTMODE 2",
+  "artist": "Future",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2018-07-21",
+      "rank": 3
+    },
+    {
+      "date": "2018-07-28",
+      "rank": 11
+    },
+    {
+      "date": "2018-08-04",
+      "rank": 20
+    },
+    {
+      "date": "2018-08-11",
+      "rank": 32
+    },
+    {
+      "date": "2018-08-18",
+      "rank": 48
+    },
+    {
+      "date": "2018-08-25",
+      "rank": 54
+    },
+    {
+      "date": "2018-09-01",
+      "rank": 70
+    },
+    {
+      "date": "2018-09-08",
+      "rank": 78
+    },
+    {
+      "date": "2018-09-15",
+      "rank": 99
+    },
+    {
+      "date": "2018-09-22",
+      "rank": 121
+    },
+    {
+      "date": "2018-09-29",
+      "rank": 126
+    },
+    {
+      "date": "2018-10-06",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "WIFI LIT",
+      "id": "wifi-lit-future"
+    },
+    {
+      "title": "CUDDLE MY WRIST",
+      "id": "cuddle-my-wrist-future"
+    },
+    {
+      "title": "RACKS BLUE",
+      "id": "racks-blue-future"
+    },
+    {
+      "title": "31 DAYS",
+      "id": "31-days-future"
+    },
+    {
+      "title": "HATE THE REAL ME",
+      "id": "please-tell-me-future"
+    },
+    {
+      "title": "RED LIGHT",
+      "id": null
+    },
+    {
+      "title": "DOH DOH",
+      "id": null
+    },
+    {
+      "title": "WHEN I THINK ABOUT IT",
+      "id": null
+    },
+    {
+      "title": "SOME MORE",
+      "id": null
+    }
+  ]
+}
