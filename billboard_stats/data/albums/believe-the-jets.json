@@ -1,1 +1,82 @@
-{"id": "believe-the-jets", "title": "Believe", "artist": "The Jets", "peak": 107, "history": [{"date": "1989-09-02", "rank": 130}, {"date": "1989-09-09", "rank": 112}, {"date": "1989-09-16", "rank": 112}, {"date": "1989-09-23", "rank": 107}, {"date": "1989-09-30", "rank": 126}, {"date": "1989-10-07", "rank": 171}, {"date": "1989-10-14", "rank": 194}]}
+{
+  "id": "believe-the-jets",
+  "title": "Believe",
+  "artist": "The Jets",
+  "peak": 107,
+  "history": [
+    {
+      "date": "1989-09-02",
+      "rank": 130
+    },
+    {
+      "date": "1989-09-09",
+      "rank": 112
+    },
+    {
+      "date": "1989-09-16",
+      "rank": 112
+    },
+    {
+      "date": "1989-09-23",
+      "rank": 107
+    },
+    {
+      "date": "1989-09-30",
+      "rank": 126
+    },
+    {
+      "date": "1989-10-07",
+      "rank": 171
+    },
+    {
+      "date": "1989-10-14",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Better Dance",
+      "id": "you-better-dance-the-jets"
+    },
+    {
+      "title": "The Same Love",
+      "id": "the-same-love-the-jets"
+    },
+    {
+      "title": "Somebody to Love Me",
+      "id": null
+    },
+    {
+      "title": "How Can I Be Sure",
+      "id": null
+    },
+    {
+      "title": "In My Dreams",
+      "id": null
+    },
+    {
+      "title": "Under Any Moon",
+      "id": null
+    },
+    {
+      "title": "Emotional",
+      "id": null
+    },
+    {
+      "title": "Believe in Love",
+      "id": null
+    },
+    {
+      "title": "Do You Remember",
+      "id": null
+    },
+    {
+      "title": "Leave It to Me",
+      "id": null
+    },
+    {
+      "title": "You've Got Another Boyfriend",
+      "id": null
+    }
+  ]
+}

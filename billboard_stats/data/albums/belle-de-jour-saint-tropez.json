@@ -1,1 +1,82 @@
-{"id": "belle-de-jour-saint-tropez", "title": "Belle De Jour", "artist": "Saint Tropez", "peak": 65, "history": [{"date": "1979-05-05", "rank": 122}, {"date": "1979-05-12", "rank": 89}, {"date": "1979-05-19", "rank": 81}, {"date": "1979-05-26", "rank": 73}, {"date": "1979-06-02", "rank": 67}, {"date": "1979-06-09", "rank": 65}, {"date": "1979-06-16", "rank": 85}, {"date": "1979-06-23", "rank": 139}, {"date": "1979-06-30", "rank": 165}, {"date": "1979-07-07", "rank": 190}, {"date": "1979-07-14", "rank": 188}]}
+{
+  "id": "belle-de-jour-saint-tropez",
+  "title": "Belle De Jour",
+  "artist": "Saint Tropez",
+  "peak": 65,
+  "history": [
+    {
+      "date": "1979-05-05",
+      "rank": 122
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 89
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 81
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 73
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 67
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 65
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 85
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 139
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 165
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 190
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One More Minute",
+      "id": "one-more-minute-saint-tropez"
+    },
+    {
+      "title": "Fill My Life With Love",
+      "id": null
+    },
+    {
+      "title": "Hold On to Love",
+      "id": null
+    },
+    {
+      "title": "Think I’m Gonna Fall in Love With You",
+      "id": null
+    },
+    {
+      "title": "Belle de Jour",
+      "id": null
+    },
+    {
+      "title": "Most of All",
+      "id": null
+    },
+    {
+      "title": "When You Are Gone",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,98 @@
-{"id": "bellamy-brothers-bellamy-brothers", "title": "Bellamy Brothers", "artist": "Bellamy Brothers", "peak": 69, "history": [{"date": "1976-05-15", "rank": 180}, {"date": "1976-05-22", "rank": 120}, {"date": "1976-05-29", "rank": 98}, {"date": "1976-06-05", "rank": 79}, {"date": "1976-06-12", "rank": 69}, {"date": "1976-06-19", "rank": 69}, {"date": "1976-06-26", "rank": 101}, {"date": "1976-07-03", "rank": 112}, {"date": "1976-07-10", "rank": 132}, {"date": "1976-07-17", "rank": 153}, {"date": "1976-07-24", "rank": 180}, {"date": "1976-07-31", "rank": 192}]}
+{
+  "id": "bellamy-brothers-bellamy-brothers",
+  "title": "Bellamy Brothers",
+  "artist": "Bellamy Brothers",
+  "peak": 69,
+  "history": [
+    {
+      "date": "1976-05-15",
+      "rank": 180
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 120
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 98
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 79
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 69
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 69
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 101
+    },
+    {
+      "date": "1976-07-03",
+      "rank": 112
+    },
+    {
+      "date": "1976-07-10",
+      "rank": 132
+    },
+    {
+      "date": "1976-07-17",
+      "rank": 153
+    },
+    {
+      "date": "1976-07-24",
+      "rank": 180
+    },
+    {
+      "date": "1976-07-31",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Satin Sheets",
+      "id": "satin-sheets-bellamy-brothers"
+    },
+    {
+      "title": "Let Your Love Flow",
+      "id": "let-your-love-flow-the-bellamy-brothers"
+    },
+    {
+      "title": "Hell Cat",
+      "id": "hell-cat-bellamy-brothers"
+    },
+    {
+      "title": "Nothin’ Heavy",
+      "id": null
+    },
+    {
+      "title": "Rainy, Windy, Sunshine (Roadeo Road)",
+      "id": null
+    },
+    {
+      "title": "Let Fantasy Live",
+      "id": null
+    },
+    {
+      "title": "Highway 2-18 (Hang On to Your Dreams)",
+      "id": null
+    },
+    {
+      "title": "Livin’ in the West",
+      "id": null
+    },
+    {
+      "title": "I'm the Only Sane Man Left Alive",
+      "id": null
+    },
+    {
+      "title": "Inside of My Guitar",
+      "id": null
+    }
+  ]
+}

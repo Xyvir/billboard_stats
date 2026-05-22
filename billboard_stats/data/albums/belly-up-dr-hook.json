@@ -1,1 +1,78 @@
-{"id": "belly-up-dr-hook", "title": "Belly Up!", "artist": "Dr. Hook", "peak": 141, "history": [{"date": "1973-10-27", "rank": 160}, {"date": "1973-11-03", "rank": 153}, {"date": "1973-11-10", "rank": 145}, {"date": "1973-11-17", "rank": 141}, {"date": "1973-11-24", "rank": 151}, {"date": "1973-12-01", "rank": 195}]}
+{
+  "id": "belly-up-dr-hook",
+  "title": "Belly Up!",
+  "artist": "Dr. Hook",
+  "peak": 141,
+  "history": [
+    {
+      "date": "1973-10-27",
+      "rank": 160
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 153
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 145
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 141
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 151
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Put a Little Bit on Me",
+      "id": "a-little-bit-more-dr-hook"
+    },
+    {
+      "title": "Acapulco Goldie",
+      "id": null
+    },
+    {
+      "title": "Penicillin Penny",
+      "id": null
+    },
+    {
+      "title": "Life Ain’t Easy",
+      "id": null
+    },
+    {
+      "title": "When Lily Was Queen",
+      "id": null
+    },
+    {
+      "title": "Monterey Jack",
+      "id": null
+    },
+    {
+      "title": "You Ain’t Got the Right",
+      "id": null
+    },
+    {
+      "title": "Ballad Of...",
+      "id": null
+    },
+    {
+      "title": "Roland the Roadie & Gertrude the Groupie",
+      "id": null
+    },
+    {
+      "title": "Come on In",
+      "id": null
+    },
+    {
+      "title": "Wonderful Soup Stone",
+      "id": null
+    }
+  ]
+}
