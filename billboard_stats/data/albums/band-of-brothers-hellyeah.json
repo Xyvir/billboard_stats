@@ -1,1 +1,74 @@
-{"id": "band-of-brothers-hellyeah", "title": "Band Of Brothers", "artist": "HellYeah", "peak": 20, "history": [{"date": "2012-08-04", "rank": 20}, {"date": "2012-08-11", "rank": 49}, {"date": "2012-08-18", "rank": 110}, {"date": "2012-08-25", "rank": 147}, {"date": "2012-09-01", "rank": 197}]}
+{
+  "id": "band-of-brothers-hellyeah",
+  "title": "Band Of Brothers",
+  "artist": "HellYeah",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2012-08-04",
+      "rank": 20
+    },
+    {
+      "date": "2012-08-11",
+      "rank": 49
+    },
+    {
+      "date": "2012-08-18",
+      "rank": 110
+    },
+    {
+      "date": "2012-08-25",
+      "rank": 147
+    },
+    {
+      "date": "2012-09-01",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "War in Me",
+      "id": null
+    },
+    {
+      "title": "Band of Brothers",
+      "id": null
+    },
+    {
+      "title": "Rage/Burn",
+      "id": null
+    },
+    {
+      "title": "Drink Drank Drunk",
+      "id": null
+    },
+    {
+      "title": "Bigger God",
+      "id": null
+    },
+    {
+      "title": "Between You and Nowhere",
+      "id": null
+    },
+    {
+      "title": "Call It Like I See It",
+      "id": null
+    },
+    {
+      "title": "Why Does It Always",
+      "id": null
+    },
+    {
+      "title": "WM Free",
+      "id": null
+    },
+    {
+      "title": "Dig Myself a Hole",
+      "id": null
+    },
+    {
+      "title": "What It Takes to Be Me",
+      "id": null
+    }
+  ]
+}

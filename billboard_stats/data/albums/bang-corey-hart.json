@@ -1,1 +1,74 @@
-{"id": "bang-corey-hart", "title": "Bang", "artist": "Corey Hart", "peak": 134, "history": [{"date": "1990-04-28", "rank": 146}, {"date": "1990-05-05", "rank": 134}, {"date": "1990-05-12", "rank": 137}, {"date": "1990-05-19", "rank": 143}, {"date": "1990-05-26", "rank": 186}]}
+{
+  "id": "bang-corey-hart",
+  "title": "Bang",
+  "artist": "Corey Hart",
+  "peak": 134,
+  "history": [
+    {
+      "date": "1990-04-28",
+      "rank": 146
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 134
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 137
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 143
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Little Love",
+      "id": "a-little-love-corey-hart"
+    },
+    {
+      "title": "Bang! (Starting Over)",
+      "id": null
+    },
+    {
+      "title": "Rain on Me",
+      "id": null
+    },
+    {
+      "title": "Chase the Sun",
+      "id": null
+    },
+    {
+      "title": "Diamond Cowboy",
+      "id": null
+    },
+    {
+      "title": "Icon",
+      "id": null
+    },
+    {
+      "title": "Can’t Stand Losin’ You",
+      "id": null
+    },
+    {
+      "title": "Kisses on the Train",
+      "id": null
+    },
+    {
+      "title": "Art of Color",
+      "id": null
+    },
+    {
+      "title": "Slowburn",
+      "id": null
+    },
+    {
+      "title": "Ballade for Nien Cheng",
+      "id": null
+    }
+  ]
+}
