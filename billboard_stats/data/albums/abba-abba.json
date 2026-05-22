@@ -1,1 +1,66 @@
-{"id": "abba-abba", "title": "ABBA", "artist": "ABBA", "peak": 174, "history": [{"date": "1975-11-15", "rank": 189}, {"date": "1975-11-22", "rank": 178}, {"date": "1975-11-29", "rank": 174}]}
+{
+  "id": "abba-abba",
+  "title": "ABBA",
+  "artist": "ABBA",
+  "peak": 174,
+  "history": [
+    {
+      "date": "1975-11-15",
+      "rank": 189
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 178
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mamma Mia",
+      "id": "mamma-mia-abba"
+    },
+    {
+      "title": "SOS",
+      "id": "s-o-s-abba"
+    },
+    {
+      "title": "I Do, I Do, I Do, I Do, I Do",
+      "id": "i-do-i-do-i-do-i-do-i-do-abba"
+    },
+    {
+      "title": "Hey, Hey Helen",
+      "id": null
+    },
+    {
+      "title": "Tropical Loveland",
+      "id": null
+    },
+    {
+      "title": "Man in the Middle",
+      "id": null
+    },
+    {
+      "title": "Bang‐a‐Boomerang",
+      "id": null
+    },
+    {
+      "title": "Rock Me",
+      "id": null
+    },
+    {
+      "title": "Intermezzo No. 1",
+      "id": null
+    },
+    {
+      "title": "I’ve Been Waiting for You",
+      "id": null
+    },
+    {
+      "title": "So Long",
+      "id": null
+    }
+  ]
+}

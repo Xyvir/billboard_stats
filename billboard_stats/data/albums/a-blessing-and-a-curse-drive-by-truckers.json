@@ -1,1 +1,38 @@
-{"id": "a-blessing-and-a-curse-drive-by-truckers", "title": "A Blessing And A Curse", "artist": "Drive-By Truckers", "peak": 50, "history": [{"date": "2006-05-06", "rank": 50}, {"date": "2006-05-13", "rank": 138}, {"date": "2006-05-20", "rank": 197}]}
+{
+  "id": "a-blessing-and-a-curse-drive-by-truckers",
+  "title": "A Blessing And A Curse",
+  "artist": "Drive-By Truckers",
+  "peak": 50,
+  "history": [
+    {
+      "date": "2006-05-06",
+      "rank": 50
+    },
+    {
+      "date": "2006-05-13",
+      "rank": 138
+    },
+    {
+      "date": "2006-05-20",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When the Well Runs Dry",
+      "id": null
+    },
+    {
+      "title": "Like a Rolling Stone",
+      "id": null
+    },
+    {
+      "title": "Careless (live)",
+      "id": null
+    },
+    {
+      "title": "Marry Me (live)",
+      "id": null
+    }
+  ]
+}
