@@ -91,7 +91,10 @@
             </select>
             <input type="date" id="dateInput" value="2026-04-04">
             <button onclick="loadChart()">Load Week</button>
-            <input type="text" id="searchInput" placeholder="Search (Artist/Song)...">
+            <div style="position: relative;">
+                <input type="text" id="searchInput" placeholder="Search (Artist/Song)..." onkeyup="handleSearch(event)" onfocus="handleSearch(event)">
+                <div id="searchResults" style="display: none; position: absolute; top: 100%; left: 0; background: #222; border: 1px solid var(--border); width: 300px; max-height: 400px; overflow-y: auto; z-index: 1000; border-radius: 4px; box-shadow: 0 4px 6px rgba(0,0,0,0.5);"></div>
+            </div>
         </div>
 
         <div id="loading" style="display: none;">Fetching data...</div>
@@ -111,6 +114,14 @@
 
     <script>
         const DATA_DIR = './billboard_stats/data';
+        let searchIndex = null;
+
+        // Close search results when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('#searchInput') && !e.target.closest('#searchResults')) {
+                document.getElementById('searchResults').style.display = 'none';
+            }
+        });
 
         function showView(viewId) {
             document.querySelectorAll('.view-section').forEach(el => el.classList.remove('active'));
@@ -122,6 +133,117 @@
             const diff = 6 - d.getUTCDay(); 
             d.setUTCDate(d.getUTCDate() + diff);
             return d.toISOString().split('T')[0];
+        }
+
+        async function fetchSearchIndex() {
+            if (searchIndex) return searchIndex;
+            try {
+                const response = await fetch(`${DATA_DIR}/search_index.json`);
+                if (response.ok) {
+                    searchIndex = await response.json();
+                    return searchIndex;
+                }
+            } catch (e) {
+                console.error("No search index found:", e);
+            }
+            return null;
+        }
+
+        async function handleSearch(event) {
+            const query = event.target.value.toLowerCase().trim();
+            const resultsContainer = document.getElementById('searchResults');
+            
+            if (query.length < 2) {
+                resultsContainer.style.display = 'none';
+                return;
+            }
+
+            const index = await fetchSearchIndex();
+            if (!index) return;
+
+            // Ignore albums by only checking artists and songs
+            const matchedArtists = (index.artists || []).filter(artist => 
+                (artist.name || '').toLowerCase().includes(query)
+            ).slice(0, 5);
+            
+            const matchedSongs = (index.songs || []).filter(song => 
+                (song.name || song.title || '').toLowerCase().includes(query) || 
+                (song.artist || '').toLowerCase().includes(query)
+            ).slice(0, 10);
+
+            if (matchedArtists.length === 0 && matchedSongs.length === 0) {
+                resultsContainer.innerHTML = '<div style="padding: 0.5rem; color: #888;">No results found</div>';
+                resultsContainer.style.display = 'block';
+                return;
+            }
+
+            let html = '';
+            
+            if (matchedArtists.length > 0) {
+                html += '<div style="padding: 0.5rem; background: #333; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Artists</div>';
+                matchedArtists.forEach(artist => {
+                    const id = artist.id || artist.ref;
+                    html += `<div style="padding: 0.5rem; cursor: pointer; border-bottom: 1px solid var(--border);" 
+                                  onclick="document.getElementById('searchResults').style.display='none'; loadDetail('artists', '${id}')"
+                                  onmouseover="this.style.background='#333'" onmouseout="this.style.background='transparent'">
+                                  ${artist.name}
+                             </div>`;
+                });
+            }
+
+            if (matchedSongs.length > 0) {
+                html += '<div style="padding: 0.5rem; background: #333; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Songs</div>';
+                matchedSongs.forEach(song => {
+                    const id = song.id || song.ref;
+                    html += `<div style="padding: 0.5rem; cursor: pointer; border-bottom: 1px solid var(--border);" 
+                                  onclick="onSongSearchClick('${id}')"
+                                  onmouseover="this.style.background='#333'" onmouseout="this.style.background='transparent'">
+                                <div style="font-weight: bold; color: white;">${song.name || song.title}</div>
+                                <div style="font-size: 0.8rem; color: #aaa;">${song.artist}</div>
+                             </div>`;
+                });
+            }
+
+            resultsContainer.innerHTML = html;
+            resultsContainer.style.display = 'block';
+        }
+
+        async function onSongSearchClick(songId) {
+            document.getElementById('searchResults').style.display = 'none';
+            const currentChartType = document.getElementById('chartType').value;
+
+            try {
+                const response = await fetch(`${DATA_DIR}/songs/${songId}.json`);
+                if (!response.ok) throw new Error("Song data not found");
+                const songData = await response.json();
+
+                const history = songData.history || songData.chart_history || songData.charts || [];
+                
+                // Filter for history matching the currently selected chart dropdown
+                const relevantHistory = history.filter(entry => 
+                    (entry.chart || entry.chart_name || entry.name || '').toLowerCase().replace(/[^a-z0-9]/g, '') === currentChartType.toLowerCase().replace(/[^a-z0-9]/g, '') ||
+                    (currentChartType === 'hot100' && (entry.chart || '').toLowerCase().includes('hot 100')) ||
+                    (currentChartType === 'b200' && (entry.chart || '').toLowerCase().includes('200'))
+                );
+                
+                if (relevantHistory.length > 0) {
+                    // Sort descending to find the most recent
+                    relevantHistory.sort((a, b) => new Date(b.date || b.week) - new Date(a.date || a.week));
+                    const mostRecentDate = relevantHistory[0].date || relevantHistory[0].week;
+
+                    if (mostRecentDate) {
+                        document.getElementById('dateInput').value = mostRecentDate;
+                        loadChart();
+                        return;
+                    }
+                }
+                
+                alert(`This song doesn't seem to have a recent history on the selected chart (${currentChartType}).`);
+            } catch (error) {
+                console.error("Error fetching song details for redirect:", error);
+                // Fallback to simply opening the song detail view
+                loadDetail('songs', songId);
+            }
         }
 
         async function loadChart() {
