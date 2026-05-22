@@ -1,1 +1,54 @@
-{"id": "barnet-dogs-russ-ballard", "title": "Barnet Dogs", "artist": "Russ Ballard", "peak": 187, "history": [{"date": "1980-08-16", "rank": 192}, {"date": "1980-08-23", "rank": 187}]}
+{
+  "id": "barnet-dogs-russ-ballard",
+  "title": "Barnet Dogs",
+  "artist": "Russ Ballard",
+  "peak": 187,
+  "history": [
+    {
+      "date": "1980-08-16",
+      "rank": 192
+    },
+    {
+      "date": "1980-08-23",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "On the Rebound",
+      "id": "on-the-rebound-russ-ballard"
+    },
+    {
+      "title": "Rene Didn’t Do It",
+      "id": null
+    },
+    {
+      "title": "Ain’t No Turning Back",
+      "id": null
+    },
+    {
+      "title": "Bad Boy",
+      "id": null
+    },
+    {
+      "title": "She Said “Yeah”",
+      "id": null
+    },
+    {
+      "title": "It’s Too Late",
+      "id": null
+    },
+    {
+      "title": "Feels Like the Real Thing",
+      "id": null
+    },
+    {
+      "title": "Riding With the Angels",
+      "id": null
+    },
+    {
+      "title": "Beware",
+      "id": null
+    }
+  ]
+}

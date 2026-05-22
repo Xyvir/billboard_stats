@@ -1,1 +1,234 @@
-{"id": "barbra-streisand-s-greatest-hits-volume-2-barbra-streisand", "title": "Barbra Streisand's Greatest Hits, Volume 2", "artist": "Barbra Streisand", "peak": 1, "history": [{"date": "1978-12-02", "rank": 7}, {"date": "1978-12-09", "rank": 3}, {"date": "1978-12-16", "rank": 3}, {"date": "1978-12-23", "rank": 3}, {"date": "1978-12-30", "rank": 3}, {"date": "1979-01-06", "rank": 1}, {"date": "1979-01-13", "rank": 1}, {"date": "1979-01-20", "rank": 1}, {"date": "1979-01-27", "rank": 3}, {"date": "1979-02-03", "rank": 5}, {"date": "1979-02-10", "rank": 5}, {"date": "1979-02-17", "rank": 13}, {"date": "1979-02-24", "rank": 14}, {"date": "1979-03-03", "rank": 16}, {"date": "1979-03-10", "rank": 27}, {"date": "1979-03-17", "rank": 29}, {"date": "1979-03-24", "rank": 39}, {"date": "1979-03-31", "rank": 53}, {"date": "1979-04-07", "rank": 69}, {"date": "1979-04-14", "rank": 69}, {"date": "1979-04-21", "rank": 75}, {"date": "1979-04-28", "rank": 90}, {"date": "1979-05-05", "rank": 100}, {"date": "1979-05-12", "rank": 127}, {"date": "1979-05-19", "rank": 126}, {"date": "1979-05-26", "rank": 129}, {"date": "1979-06-02", "rank": 157}, {"date": "1979-06-09", "rank": 179}, {"date": "1979-06-16", "rank": 194}, {"date": "1979-06-23", "rank": 194}, {"date": "1979-06-30", "rank": 193}, {"date": "1979-07-07", "rank": 191}, {"date": "1979-07-14", "rank": 191}, {"date": "1979-07-21", "rank": 187}, {"date": "1979-07-28", "rank": 177}, {"date": "1979-08-04", "rank": 177}, {"date": "1979-08-11", "rank": 184}, {"date": "1979-08-18", "rank": 191}, {"date": "1979-08-25", "rank": 187}, {"date": "1979-09-01", "rank": 197}, {"date": "1979-09-08", "rank": 197}, {"date": "1979-09-15", "rank": 197}, {"date": "1979-09-22", "rank": 192}, {"date": "1979-09-29", "rank": 196}, {"date": "1979-10-06", "rank": 197}, {"date": "1979-10-13", "rank": 197}]}
+{
+  "id": "barbra-streisand-s-greatest-hits-volume-2-barbra-streisand",
+  "title": "Barbra Streisand's Greatest Hits, Volume 2",
+  "artist": "Barbra Streisand",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1978-12-02",
+      "rank": 7
+    },
+    {
+      "date": "1978-12-09",
+      "rank": 3
+    },
+    {
+      "date": "1978-12-16",
+      "rank": 3
+    },
+    {
+      "date": "1978-12-23",
+      "rank": 3
+    },
+    {
+      "date": "1978-12-30",
+      "rank": 3
+    },
+    {
+      "date": "1979-01-06",
+      "rank": 1
+    },
+    {
+      "date": "1979-01-13",
+      "rank": 1
+    },
+    {
+      "date": "1979-01-20",
+      "rank": 1
+    },
+    {
+      "date": "1979-01-27",
+      "rank": 3
+    },
+    {
+      "date": "1979-02-03",
+      "rank": 5
+    },
+    {
+      "date": "1979-02-10",
+      "rank": 5
+    },
+    {
+      "date": "1979-02-17",
+      "rank": 13
+    },
+    {
+      "date": "1979-02-24",
+      "rank": 14
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 16
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 27
+    },
+    {
+      "date": "1979-03-17",
+      "rank": 29
+    },
+    {
+      "date": "1979-03-24",
+      "rank": 39
+    },
+    {
+      "date": "1979-03-31",
+      "rank": 53
+    },
+    {
+      "date": "1979-04-07",
+      "rank": 69
+    },
+    {
+      "date": "1979-04-14",
+      "rank": 69
+    },
+    {
+      "date": "1979-04-21",
+      "rank": 75
+    },
+    {
+      "date": "1979-04-28",
+      "rank": 90
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 100
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 127
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 126
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 129
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 157
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 179
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 194
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 194
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 193
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 191
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 191
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 187
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 177
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 177
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 184
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 191
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 187
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 197
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 197
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 197
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 192
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 196
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 197
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Theme From “A Star Is Born” (Evergreen)",
+      "id": "evergreen-love-theme-from-a-star-is-born-barbra-streisand"
+    },
+    {
+      "title": "Love Theme From “Eyes of Laura Mars” (Prisoner)",
+      "id": "love-theme-from-eyes-of-laura-mars-prisoner-barbra-streisand"
+    },
+    {
+      "title": "My Heart Belongs to Me",
+      "id": "my-heart-belongs-to-me-barbra-streisand"
+    },
+    {
+      "title": "Songbird",
+      "id": "songbird-barbra-streisand"
+    },
+    {
+      "title": "The Way We Were",
+      "id": "the-way-we-were-barbra-streisand"
+    },
+    {
+      "title": "Sweet Inspiration / Where You Lead",
+      "id": "sweet-inspiration-where-you-lead-barbra-streisand"
+    },
+    {
+      "title": "All in Love Is Fair",
+      "id": "all-in-love-is-fair-barbra-streisand"
+    },
+    {
+      "title": "Stoney End",
+      "id": "stoney-end-barbra-streisand"
+    },
+    {
+      "title": "You Don’t Bring Me Flowers",
+      "id": null
+    },
+    {
+      "title": "Superman",
+      "id": null
+    }
+  ]
+}
