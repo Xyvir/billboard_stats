@@ -347,6 +347,7 @@
                                          onclick="loadHistoricalChart('${date}', '${chart}')">
                                         <div style="font-size: 0.8rem; color: #888;">${date}</div>
                                         <div style="font-size: 1.5rem; font-weight: bold; color: var(--accent); margin-top: 5px;">#${rank}</div>
+                                    ${chart ? `<div style="font-size: 0.7rem; color: #555; margin-top: 5px; text-transform: uppercase; letter-spacing: 0.5px;">${chart}</div>` : ''}
                                      </div>`;
                         }
                     });
