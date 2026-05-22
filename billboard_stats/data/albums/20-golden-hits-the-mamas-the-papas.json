@@ -1,1 +1,106 @@
-{"id": "20-golden-hits-the-mamas-the-papas", "title": "20 Golden Hits", "artist": "The Mamas & The Papas", "peak": 186, "history": [{"date": "1973-03-03", "rank": 189}, {"date": "1973-03-10", "rank": 186}, {"date": "1973-03-17", "rank": 186}, {"date": "1973-03-24", "rank": 200}]}
+{
+  "id": "20-golden-hits-the-mamas-the-papas",
+  "title": "20 Golden Hits",
+  "artist": "The Mamas & The Papas",
+  "peak": 186,
+  "history": [
+    {
+      "date": "1973-03-03",
+      "rank": 189
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 186
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 186
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "California Dreamin’",
+      "id": "california-dreamin-the-mamas-the-papas"
+    },
+    {
+      "title": "Dedicated to the One I Love",
+      "id": "dedicated-to-the-one-i-love-the-mamas-the-papas"
+    },
+    {
+      "title": "Twelve-Thirty (Young Girls Are Coming to the Canyon)",
+      "id": "twelve-thirty-young-girls-are-coming-to-the-canyon-the-mamas-the-papas"
+    },
+    {
+      "title": "Creeque Alley",
+      "id": "creeque-alley-the-mamas-the-papas"
+    },
+    {
+      "title": "Dancing in the Street",
+      "id": "dancing-in-the-street-the-mamas-the-papas"
+    },
+    {
+      "title": "For the Love of Ivy",
+      "id": "for-the-love-of-ivy-the-mamas-the-papas"
+    },
+    {
+      "title": "Go Where You Wanna Go",
+      "id": "do-you-wanna-dance-the-mamas-the-papas"
+    },
+    {
+      "title": "Look Through My Window",
+      "id": "look-through-my-window-the-mamas-the-papas"
+    },
+    {
+      "title": "Monday, Monday",
+      "id": "monday-monday-the-mamas-the-papas"
+    },
+    {
+      "title": "Words of Love",
+      "id": "words-of-love-the-mamas-the-papas"
+    },
+    {
+      "title": "I Saw Her Again Last Night",
+      "id": "i-saw-her-again-the-mamas-the-papas"
+    },
+    {
+      "title": "Dream a Little Dream of Me",
+      "id": "dream-a-little-dream-of-me-mama-cass-with-the-mamas-the-papas"
+    },
+    {
+      "title": "I Call Your Name",
+      "id": null
+    },
+    {
+      "title": "My Girl",
+      "id": null
+    },
+    {
+      "title": "Twist and Shout",
+      "id": null
+    },
+    {
+      "title": "People Like Us",
+      "id": null
+    },
+    {
+      "title": "You Baby",
+      "id": null
+    },
+    {
+      "title": "Got a Feelin'",
+      "id": null
+    },
+    {
+      "title": "Trip, Stumble & Fall",
+      "id": null
+    },
+    {
+      "title": "Straight Shooter",
+      "id": null
+    }
+  ]
+}
