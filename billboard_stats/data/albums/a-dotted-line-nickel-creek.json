@@ -1,1 +1,82 @@
-{"id": "a-dotted-line-nickel-creek", "title": "A Dotted Line", "artist": "Nickel Creek", "peak": 7, "history": [{"date": "2014-04-19", "rank": 7}, {"date": "2014-04-26", "rank": 28}, {"date": "2014-05-03", "rank": 77}, {"date": "2014-05-10", "rank": 68}, {"date": "2014-05-17", "rank": 113}, {"date": "2014-05-24", "rank": 89}, {"date": "2014-05-31", "rank": 160}, {"date": "2014-06-07", "rank": 188}]}
+{
+  "id": "a-dotted-line-nickel-creek",
+  "title": "A Dotted Line",
+  "artist": "Nickel Creek",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2014-04-19",
+      "rank": 7
+    },
+    {
+      "date": "2014-04-26",
+      "rank": 28
+    },
+    {
+      "date": "2014-05-03",
+      "rank": 77
+    },
+    {
+      "date": "2014-05-10",
+      "rank": 68
+    },
+    {
+      "date": "2014-05-17",
+      "rank": 113
+    },
+    {
+      "date": "2014-05-24",
+      "rank": 89
+    },
+    {
+      "date": "2014-05-31",
+      "rank": 160
+    },
+    {
+      "date": "2014-06-07",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rest of My Life",
+      "id": null
+    },
+    {
+      "title": "Destination",
+      "id": null
+    },
+    {
+      "title": "Elsie",
+      "id": null
+    },
+    {
+      "title": "Christmas Eve",
+      "id": null
+    },
+    {
+      "title": "Hayloft",
+      "id": null
+    },
+    {
+      "title": "21st of May",
+      "id": null
+    },
+    {
+      "title": "Love of Mine",
+      "id": null
+    },
+    {
+      "title": "Elephant in the Corn",
+      "id": null
+    },
+    {
+      "title": "You Don’t Know What’s Going On",
+      "id": null
+    },
+    {
+      "title": "Where Is Love Now",
+      "id": null
+    }
+  ]
+}

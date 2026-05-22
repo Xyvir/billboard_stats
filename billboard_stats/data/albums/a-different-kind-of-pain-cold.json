@@ -1,1 +1,82 @@
-{"id": "a-different-kind-of-pain-cold", "title": "A Different Kind Of Pain", "artist": "Cold", "peak": 26, "history": [{"date": "2005-09-17", "rank": 26}, {"date": "2005-09-24", "rank": 56}, {"date": "2005-10-01", "rank": 93}, {"date": "2005-10-08", "rank": 116}, {"date": "2005-10-15", "rank": 154}]}
+{
+  "id": "a-different-kind-of-pain-cold",
+  "title": "A Different Kind Of Pain",
+  "artist": "Cold",
+  "peak": 26,
+  "history": [
+    {
+      "date": "2005-09-17",
+      "rank": 26
+    },
+    {
+      "date": "2005-09-24",
+      "rank": 56
+    },
+    {
+      "date": "2005-10-01",
+      "rank": 93
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 116
+    },
+    {
+      "date": "2005-10-15",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Back Home",
+      "id": null
+    },
+    {
+      "title": "Feel It in Your Heart",
+      "id": null
+    },
+    {
+      "title": "Anatomy of a Tidal Wave",
+      "id": null
+    },
+    {
+      "title": "A Different Kind of Pain",
+      "id": null
+    },
+    {
+      "title": "Another Pill",
+      "id": null
+    },
+    {
+      "title": "Happens All the Time",
+      "id": null
+    },
+    {
+      "title": "When Heaven's Not Far Away",
+      "id": null
+    },
+    {
+      "title": "God's Song",
+      "id": null
+    },
+    {
+      "title": "When Angels Fly Away",
+      "id": null
+    },
+    {
+      "title": "Tell Me Why",
+      "id": null
+    },
+    {
+      "title": "Ocean",
+      "id": null
+    },
+    {
+      "title": "Check Please",
+      "id": null
+    },
+    {
+      "title": "Wasted Years (Piano/Strings Version)",
+      "id": null
+    }
+  ]
+}
