@@ -1,1 +1,270 @@
-{"id": "bad-english-bad-english", "title": "Bad English", "artist": "Bad English", "peak": 21, "history": [{"date": "1989-07-15", "rank": 189}, {"date": "1989-07-22", "rank": 84}, {"date": "1989-07-29", "rank": 76}, {"date": "1989-08-05", "rank": 66}, {"date": "1989-08-12", "rank": 66}, {"date": "1989-08-19", "rank": 66}, {"date": "1989-08-26", "rank": 62}, {"date": "1989-09-02", "rank": 55}, {"date": "1989-09-09", "rank": 52}, {"date": "1989-09-16", "rank": 48}, {"date": "1989-09-23", "rank": 48}, {"date": "1989-09-30", "rank": 48}, {"date": "1989-10-07", "rank": 43}, {"date": "1989-10-14", "rank": 41}, {"date": "1989-10-21", "rank": 40}, {"date": "1989-10-28", "rank": 35}, {"date": "1989-11-04", "rank": 29}, {"date": "1989-11-11", "rank": 28}, {"date": "1989-11-18", "rank": 23}, {"date": "1989-11-25", "rank": 21}, {"date": "1989-12-02", "rank": 21}, {"date": "1989-12-09", "rank": 24}, {"date": "1989-12-16", "rank": 26}, {"date": "1989-12-23", "rank": 31}, {"date": "1989-12-30", "rank": 33}, {"date": "1990-01-06", "rank": 33}, {"date": "1990-01-13", "rank": 34}, {"date": "1990-01-20", "rank": 30}, {"date": "1990-01-27", "rank": 29}, {"date": "1990-02-03", "rank": 32}, {"date": "1990-02-10", "rank": 32}, {"date": "1990-02-17", "rank": 32}, {"date": "1990-02-24", "rank": 30}, {"date": "1990-03-03", "rank": 30}, {"date": "1990-03-10", "rank": 33}, {"date": "1990-03-17", "rank": 40}, {"date": "1990-03-24", "rank": 41}, {"date": "1990-03-31", "rank": 47}, {"date": "1990-04-07", "rank": 58}, {"date": "1990-04-14", "rank": 70}, {"date": "1990-04-21", "rank": 79}, {"date": "1990-04-28", "rank": 93}, {"date": "1990-05-05", "rank": 108}, {"date": "1990-05-12", "rank": 132}, {"date": "1990-05-19", "rank": 162}, {"date": "1990-05-26", "rank": 158}, {"date": "1990-06-02", "rank": 185}, {"date": "1990-06-09", "rank": 193}, {"date": "1990-07-21", "rank": 148}, {"date": "1990-07-28", "rank": 187}, {"date": "1990-08-04", "rank": 185}, {"date": "1990-08-11", "rank": 197}]}
+{
+  "id": "bad-english-bad-english",
+  "title": "Bad English",
+  "artist": "Bad English",
+  "peak": 21,
+  "history": [
+    {
+      "date": "1989-07-15",
+      "rank": 189
+    },
+    {
+      "date": "1989-07-22",
+      "rank": 84
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 76
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 66
+    },
+    {
+      "date": "1989-08-12",
+      "rank": 66
+    },
+    {
+      "date": "1989-08-19",
+      "rank": 66
+    },
+    {
+      "date": "1989-08-26",
+      "rank": 62
+    },
+    {
+      "date": "1989-09-02",
+      "rank": 55
+    },
+    {
+      "date": "1989-09-09",
+      "rank": 52
+    },
+    {
+      "date": "1989-09-16",
+      "rank": 48
+    },
+    {
+      "date": "1989-09-23",
+      "rank": 48
+    },
+    {
+      "date": "1989-09-30",
+      "rank": 48
+    },
+    {
+      "date": "1989-10-07",
+      "rank": 43
+    },
+    {
+      "date": "1989-10-14",
+      "rank": 41
+    },
+    {
+      "date": "1989-10-21",
+      "rank": 40
+    },
+    {
+      "date": "1989-10-28",
+      "rank": 35
+    },
+    {
+      "date": "1989-11-04",
+      "rank": 29
+    },
+    {
+      "date": "1989-11-11",
+      "rank": 28
+    },
+    {
+      "date": "1989-11-18",
+      "rank": 23
+    },
+    {
+      "date": "1989-11-25",
+      "rank": 21
+    },
+    {
+      "date": "1989-12-02",
+      "rank": 21
+    },
+    {
+      "date": "1989-12-09",
+      "rank": 24
+    },
+    {
+      "date": "1989-12-16",
+      "rank": 26
+    },
+    {
+      "date": "1989-12-23",
+      "rank": 31
+    },
+    {
+      "date": "1989-12-30",
+      "rank": 33
+    },
+    {
+      "date": "1990-01-06",
+      "rank": 33
+    },
+    {
+      "date": "1990-01-13",
+      "rank": 34
+    },
+    {
+      "date": "1990-01-20",
+      "rank": 30
+    },
+    {
+      "date": "1990-01-27",
+      "rank": 29
+    },
+    {
+      "date": "1990-02-03",
+      "rank": 32
+    },
+    {
+      "date": "1990-02-10",
+      "rank": 32
+    },
+    {
+      "date": "1990-02-17",
+      "rank": 32
+    },
+    {
+      "date": "1990-02-24",
+      "rank": 30
+    },
+    {
+      "date": "1990-03-03",
+      "rank": 30
+    },
+    {
+      "date": "1990-03-10",
+      "rank": 33
+    },
+    {
+      "date": "1990-03-17",
+      "rank": 40
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 41
+    },
+    {
+      "date": "1990-03-31",
+      "rank": 47
+    },
+    {
+      "date": "1990-04-07",
+      "rank": 58
+    },
+    {
+      "date": "1990-04-14",
+      "rank": 70
+    },
+    {
+      "date": "1990-04-21",
+      "rank": 79
+    },
+    {
+      "date": "1990-04-28",
+      "rank": 93
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 108
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 132
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 162
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 158
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 185
+    },
+    {
+      "date": "1990-06-09",
+      "rank": 193
+    },
+    {
+      "date": "1990-07-21",
+      "rank": 148
+    },
+    {
+      "date": "1990-07-28",
+      "rank": 187
+    },
+    {
+      "date": "1990-08-04",
+      "rank": 185
+    },
+    {
+      "date": "1990-08-11",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heaven Is a 4 Letter Word",
+      "id": "heaven-is-a-4-letter-word-bad-english"
+    },
+    {
+      "title": "Possession",
+      "id": "possession-bad-english"
+    },
+    {
+      "title": "Forget Me Not",
+      "id": "forget-me-not-bad-english"
+    },
+    {
+      "title": "When I See You Smile",
+      "id": "when-i-see-you-smile-bad-english"
+    },
+    {
+      "title": "Ghost in Your Heart",
+      "id": "straight-to-your-heart-bad-english"
+    },
+    {
+      "title": "Price of Love",
+      "id": "price-of-love-bad-english"
+    },
+    {
+      "title": "Best of What I Got",
+      "id": null
+    },
+    {
+      "title": "Tough Times Don’t Last",
+      "id": null
+    },
+    {
+      "title": "Ready When You Are",
+      "id": null
+    },
+    {
+      "title": "Lay Down",
+      "id": null
+    },
+    {
+      "title": "The Restless Ones",
+      "id": null
+    },
+    {
+      "title": "Rockin’ Horse",
+      "id": null
+    },
+    {
+      "title": "Don’t Walk Away",
+      "id": null
+    }
+  ]
+}

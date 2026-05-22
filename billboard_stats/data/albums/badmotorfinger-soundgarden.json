@@ -1,1 +1,434 @@
-{"id": "badmotorfinger-soundgarden", "title": "Badmotorfinger", "artist": "Soundgarden", "peak": 39, "history": [{"date": "1991-10-26", "rank": 95}, {"date": "1991-11-02", "rank": 119}, {"date": "1991-11-09", "rank": 124}, {"date": "1991-11-16", "rank": 143}, {"date": "1991-11-23", "rank": 144}, {"date": "1991-11-30", "rank": 165}, {"date": "1991-12-07", "rank": 178}, {"date": "1991-12-14", "rank": 180}, {"date": "1991-12-21", "rank": 153}, {"date": "1991-12-28", "rank": 153}, {"date": "1992-01-04", "rank": 117}, {"date": "1992-01-11", "rank": 88}, {"date": "1992-01-18", "rank": 92}, {"date": "1992-01-25", "rank": 72}, {"date": "1992-02-01", "rank": 60}, {"date": "1992-02-08", "rank": 50}, {"date": "1992-02-15", "rank": 48}, {"date": "1992-02-22", "rank": 42}, {"date": "1992-02-29", "rank": 39}, {"date": "1992-03-07", "rank": 43}, {"date": "1992-03-14", "rank": 52}, {"date": "1992-03-21", "rank": 48}, {"date": "1992-03-28", "rank": 45}, {"date": "1992-04-04", "rank": 45}, {"date": "1992-04-11", "rank": 49}, {"date": "1992-04-18", "rank": 74}, {"date": "1992-04-25", "rank": 77}, {"date": "1992-05-02", "rank": 74}, {"date": "1992-05-09", "rank": 71}, {"date": "1992-05-16", "rank": 86}, {"date": "1992-05-23", "rank": 109}, {"date": "1992-05-30", "rank": 105}, {"date": "1992-06-06", "rank": 96}, {"date": "1992-06-13", "rank": 90}, {"date": "1992-06-20", "rank": 91}, {"date": "1992-06-27", "rank": 100}, {"date": "1992-07-04", "rank": 112}, {"date": "1992-07-11", "rank": 78}, {"date": "1992-07-18", "rank": 82}, {"date": "1992-07-25", "rank": 78}, {"date": "1992-08-01", "rank": 76}, {"date": "1992-08-08", "rank": 80}, {"date": "1992-08-15", "rank": 85}, {"date": "1992-08-22", "rank": 86}, {"date": "1992-08-29", "rank": 88}, {"date": "1992-09-05", "rank": 92}, {"date": "1992-09-12", "rank": 84}, {"date": "1992-09-19", "rank": 91}, {"date": "1992-09-26", "rank": 96}, {"date": "1992-10-03", "rank": 110}, {"date": "1992-10-10", "rank": 115}, {"date": "1992-10-17", "rank": 135}, {"date": "1992-10-24", "rank": 159}, {"date": "1992-10-31", "rank": 167}, {"date": "1992-11-07", "rank": 179}, {"date": "1992-11-14", "rank": 191}, {"date": "1993-01-09", "rank": 197}, {"date": "1993-01-16", "rank": 185}, {"date": "2017-06-03", "rank": 110}, {"date": "2017-06-10", "rank": 64}]}
+{
+  "id": "badmotorfinger-soundgarden",
+  "title": "Badmotorfinger",
+  "artist": "Soundgarden",
+  "peak": 39,
+  "history": [
+    {
+      "date": "1991-10-26",
+      "rank": 95
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 119
+    },
+    {
+      "date": "1991-11-09",
+      "rank": 124
+    },
+    {
+      "date": "1991-11-16",
+      "rank": 143
+    },
+    {
+      "date": "1991-11-23",
+      "rank": 144
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 165
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 178
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 180
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 153
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 153
+    },
+    {
+      "date": "1992-01-04",
+      "rank": 117
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 88
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 92
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 72
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 60
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 50
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 48
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 42
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 39
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 43
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 52
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 48
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 45
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 45
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 49
+    },
+    {
+      "date": "1992-04-18",
+      "rank": 74
+    },
+    {
+      "date": "1992-04-25",
+      "rank": 77
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 74
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 71
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 86
+    },
+    {
+      "date": "1992-05-23",
+      "rank": 109
+    },
+    {
+      "date": "1992-05-30",
+      "rank": 105
+    },
+    {
+      "date": "1992-06-06",
+      "rank": 96
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 90
+    },
+    {
+      "date": "1992-06-20",
+      "rank": 91
+    },
+    {
+      "date": "1992-06-27",
+      "rank": 100
+    },
+    {
+      "date": "1992-07-04",
+      "rank": 112
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 78
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 82
+    },
+    {
+      "date": "1992-07-25",
+      "rank": 78
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 76
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 80
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 85
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 86
+    },
+    {
+      "date": "1992-08-29",
+      "rank": 88
+    },
+    {
+      "date": "1992-09-05",
+      "rank": 92
+    },
+    {
+      "date": "1992-09-12",
+      "rank": 84
+    },
+    {
+      "date": "1992-09-19",
+      "rank": 91
+    },
+    {
+      "date": "1992-09-26",
+      "rank": 96
+    },
+    {
+      "date": "1992-10-03",
+      "rank": 110
+    },
+    {
+      "date": "1992-10-10",
+      "rank": 115
+    },
+    {
+      "date": "1992-10-17",
+      "rank": 135
+    },
+    {
+      "date": "1992-10-24",
+      "rank": 159
+    },
+    {
+      "date": "1992-10-31",
+      "rank": 167
+    },
+    {
+      "date": "1992-11-07",
+      "rank": 179
+    },
+    {
+      "date": "1992-11-14",
+      "rank": 191
+    },
+    {
+      "date": "1993-01-09",
+      "rank": 197
+    },
+    {
+      "date": "1993-01-16",
+      "rank": 185
+    },
+    {
+      "date": "2017-06-03",
+      "rank": 110
+    },
+    {
+      "date": "2017-06-10",
+      "rank": 64
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Black Rain (Black Days)",
+      "id": "black-rain-soundgarden"
+    },
+    {
+      "title": "Rusty Cage",
+      "id": null
+    },
+    {
+      "title": "Outshined",
+      "id": null
+    },
+    {
+      "title": "Slaves & Bulldozers",
+      "id": null
+    },
+    {
+      "title": "Jesus Christ Pose",
+      "id": null
+    },
+    {
+      "title": "Face Pollution",
+      "id": null
+    },
+    {
+      "title": "Somewhere",
+      "id": null
+    },
+    {
+      "title": "Searching With My Good Eye Closed",
+      "id": null
+    },
+    {
+      "title": "Room a Thousand Years Wide",
+      "id": null
+    },
+    {
+      "title": "Mind Riot",
+      "id": null
+    },
+    {
+      "title": "Drawing Flies",
+      "id": null
+    },
+    {
+      "title": "Holy Water",
+      "id": null
+    },
+    {
+      "title": "New Damage",
+      "id": null
+    },
+    {
+      "title": "Rusty Cage (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Outshined (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Slaves & Bulldozers (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Jesus Christ Pose (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Face Pollution (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Somewhere (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Searching With My Good Eye Closed (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Room a Thousand Years Wide (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Drawing Flies (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Holy Water (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Cold Bitch (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "She's a Politician (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Birth Ritual (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Blind Dogs (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Searching With My Good Eye Closed (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Hands All Over",
+      "id": null
+    },
+    {
+      "title": "Drawing Flies (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Room a Thousand Years Wide (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Gun (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Flower (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Little Joe (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Big Dumb Sex (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Face Pollution (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Incessant Mace (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Rusty Cage (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Outshined (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Mind Riot (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Beyond the Wheel (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Into the Void (Sealth)",
+      "id": null
+    },
+    {
+      "title": "Jesus Christ Pose (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Hunted Down (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Somewhere (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    },
+    {
+      "title": "Slaves & Bulldozers (live at the Paramount Theatre, Seattle / 1992)",
+      "id": null
+    }
+  ]
+}

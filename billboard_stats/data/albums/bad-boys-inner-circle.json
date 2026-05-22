@@ -1,1 +1,262 @@
-{"id": "bad-boys-inner-circle", "title": "Bad Boys", "artist": "Inner Circle", "peak": 64, "history": [{"date": "1993-05-22", "rank": 183}, {"date": "1993-05-29", "rank": 167}, {"date": "1993-06-05", "rank": 111}, {"date": "1993-06-12", "rank": 90}, {"date": "1993-06-19", "rank": 68}, {"date": "1993-06-26", "rank": 64}, {"date": "1993-07-03", "rank": 64}, {"date": "1993-07-10", "rank": 64}, {"date": "1993-07-17", "rank": 86}, {"date": "1993-07-24", "rank": 84}, {"date": "1993-07-31", "rank": 80}, {"date": "1993-08-07", "rank": 82}, {"date": "1993-08-14", "rank": 96}, {"date": "1993-08-21", "rank": 103}, {"date": "1993-08-28", "rank": 112}, {"date": "1993-09-04", "rank": 104}, {"date": "1993-09-11", "rank": 92}, {"date": "1993-09-18", "rank": 87}, {"date": "1993-09-25", "rank": 85}, {"date": "1993-10-02", "rank": 84}, {"date": "1993-10-09", "rank": 83}, {"date": "1993-10-16", "rank": 89}, {"date": "1993-10-23", "rank": 86}, {"date": "1993-10-30", "rank": 86}, {"date": "1993-11-06", "rank": 95}, {"date": "1993-11-13", "rank": 103}, {"date": "1993-11-20", "rank": 114}, {"date": "1993-11-27", "rank": 122}, {"date": "1993-12-04", "rank": 118}, {"date": "1993-12-11", "rank": 122}, {"date": "1993-12-18", "rank": 131}, {"date": "1993-12-25", "rank": 142}, {"date": "1994-01-01", "rank": 148}, {"date": "1994-01-08", "rank": 151}, {"date": "1994-01-15", "rank": 119}, {"date": "1994-01-22", "rank": 122}, {"date": "1994-01-29", "rank": 139}, {"date": "1994-02-05", "rank": 143}, {"date": "1994-02-12", "rank": 162}, {"date": "1994-02-19", "rank": 177}, {"date": "1994-02-26", "rank": 159}, {"date": "1994-03-05", "rank": 131}, {"date": "1994-03-12", "rank": 146}, {"date": "1994-03-19", "rank": 150}, {"date": "1994-03-26", "rank": 161}, {"date": "1994-04-02", "rank": 163}, {"date": "1994-04-09", "rank": 175}, {"date": "1994-04-16", "rank": 184}, {"date": "1994-04-23", "rank": 190}]}
+{
+  "id": "bad-boys-inner-circle",
+  "title": "Bad Boys",
+  "artist": "Inner Circle",
+  "peak": 64,
+  "history": [
+    {
+      "date": "1993-05-22",
+      "rank": 183
+    },
+    {
+      "date": "1993-05-29",
+      "rank": 167
+    },
+    {
+      "date": "1993-06-05",
+      "rank": 111
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 90
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 68
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 64
+    },
+    {
+      "date": "1993-07-03",
+      "rank": 64
+    },
+    {
+      "date": "1993-07-10",
+      "rank": 64
+    },
+    {
+      "date": "1993-07-17",
+      "rank": 86
+    },
+    {
+      "date": "1993-07-24",
+      "rank": 84
+    },
+    {
+      "date": "1993-07-31",
+      "rank": 80
+    },
+    {
+      "date": "1993-08-07",
+      "rank": 82
+    },
+    {
+      "date": "1993-08-14",
+      "rank": 96
+    },
+    {
+      "date": "1993-08-21",
+      "rank": 103
+    },
+    {
+      "date": "1993-08-28",
+      "rank": 112
+    },
+    {
+      "date": "1993-09-04",
+      "rank": 104
+    },
+    {
+      "date": "1993-09-11",
+      "rank": 92
+    },
+    {
+      "date": "1993-09-18",
+      "rank": 87
+    },
+    {
+      "date": "1993-09-25",
+      "rank": 85
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 84
+    },
+    {
+      "date": "1993-10-09",
+      "rank": 83
+    },
+    {
+      "date": "1993-10-16",
+      "rank": 89
+    },
+    {
+      "date": "1993-10-23",
+      "rank": 86
+    },
+    {
+      "date": "1993-10-30",
+      "rank": 86
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 95
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 103
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 114
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 122
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 118
+    },
+    {
+      "date": "1993-12-11",
+      "rank": 122
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 131
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 142
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 148
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 151
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 119
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 122
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 139
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 143
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 162
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 177
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 159
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 131
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 146
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 150
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 161
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 163
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 175
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 184
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sweat (A La La La La Long)",
+      "id": "sweat-a-la-la-la-la-long-inner-circle"
+    },
+    {
+      "title": "Rock With You",
+      "id": "rock-with-you-inner-circle"
+    },
+    {
+      "title": "Sweat (A La La La La Long) (dancehall mix)",
+      "id": "sweat-a-la-la-la-la-long-inner-circle"
+    },
+    {
+      "title": "Bad Boys",
+      "id": null
+    },
+    {
+      "title": "Wrapped Up in Your Love",
+      "id": null
+    },
+    {
+      "title": "Looking for a Better Way",
+      "id": null
+    },
+    {
+      "title": "Sunglasses at Nite",
+      "id": null
+    },
+    {
+      "title": "Living It Up",
+      "id": null
+    },
+    {
+      "title": "Hey Love",
+      "id": null
+    },
+    {
+      "title": "Bad to the Bone",
+      "id": null
+    },
+    {
+      "title": "Down by the River",
+      "id": null
+    },
+    {
+      "title": "Slow It Down",
+      "id": null
+    },
+    {
+      "title": "Tear Down These Walls",
+      "id": null
+    },
+    {
+      "title": "Bad Boys (David Morales mix)",
+      "id": null
+    }
+  ]
+}

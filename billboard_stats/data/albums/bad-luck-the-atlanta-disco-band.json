@@ -1,1 +1,78 @@
-{"id": "bad-luck-the-atlanta-disco-band", "title": "Bad Luck", "artist": "The Atlanta Disco Band", "peak": 172, "history": [{"date": "1976-01-17", "rank": 198}, {"date": "1976-01-24", "rank": 195}, {"date": "1976-01-31", "rank": 193}, {"date": "1976-02-07", "rank": 184}, {"date": "1976-02-14", "rank": 182}, {"date": "1976-02-21", "rank": 174}, {"date": "1976-02-28", "rank": 174}, {"date": "1976-03-06", "rank": 174}, {"date": "1976-03-13", "rank": 172}]}
+{
+  "id": "bad-luck-the-atlanta-disco-band",
+  "title": "Bad Luck",
+  "artist": "The Atlanta Disco Band",
+  "peak": 172,
+  "history": [
+    {
+      "date": "1976-01-17",
+      "rank": 198
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 195
+    },
+    {
+      "date": "1976-01-31",
+      "rank": 193
+    },
+    {
+      "date": "1976-02-07",
+      "rank": 184
+    },
+    {
+      "date": "1976-02-14",
+      "rank": 182
+    },
+    {
+      "date": "1976-02-21",
+      "rank": 174
+    },
+    {
+      "date": "1976-02-28",
+      "rank": 174
+    },
+    {
+      "date": "1976-03-06",
+      "rank": 174
+    },
+    {
+      "date": "1976-03-13",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bad Luck",
+      "id": "bad-luck-the-atlanta-disco-band"
+    },
+    {
+      "title": "Buckhead",
+      "id": null
+    },
+    {
+      "title": "It's Love",
+      "id": null
+    },
+    {
+      "title": "I Am Trying",
+      "id": null
+    },
+    {
+      "title": "Do What You Feel",
+      "id": null
+    },
+    {
+      "title": "My Soul Is Satisfied",
+      "id": null
+    },
+    {
+      "title": "Let It Ride",
+      "id": null
+    },
+    {
+      "title": "Ole Goat",
+      "id": null
+    }
+  ]
+}

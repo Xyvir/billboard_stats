@@ -1,1 +1,82 @@
-{"id": "bad-boy-ringo-starr", "title": "Bad Boy", "artist": "Ringo Starr", "peak": 129, "history": [{"date": "1978-05-20", "rank": 159}, {"date": "1978-05-27", "rank": 149}, {"date": "1978-06-03", "rank": 139}, {"date": "1978-06-10", "rank": 129}, {"date": "1978-06-17", "rank": 129}, {"date": "1978-06-24", "rank": 192}]}
+{
+  "id": "bad-boy-ringo-starr",
+  "title": "Bad Boy",
+  "artist": "Ringo Starr",
+  "peak": 129,
+  "history": [
+    {
+      "date": "1978-05-20",
+      "rank": 159
+    },
+    {
+      "date": "1978-05-27",
+      "rank": 149
+    },
+    {
+      "date": "1978-06-03",
+      "rank": 139
+    },
+    {
+      "date": "1978-06-10",
+      "rank": 129
+    },
+    {
+      "date": "1978-06-17",
+      "rank": 129
+    },
+    {
+      "date": "1978-06-24",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Who Needs a Heart",
+      "id": null
+    },
+    {
+      "title": "Bad Boy",
+      "id": null
+    },
+    {
+      "title": "Lipstick Traces",
+      "id": null
+    },
+    {
+      "title": "Heart on My Sleeve",
+      "id": null
+    },
+    {
+      "title": "Where Did Our Love Go",
+      "id": null
+    },
+    {
+      "title": "Hard Times",
+      "id": null
+    },
+    {
+      "title": "Tonight",
+      "id": null
+    },
+    {
+      "title": "Monkey See, Monkey Do",
+      "id": null
+    },
+    {
+      "title": "Old Time Relovin’",
+      "id": null
+    },
+    {
+      "title": "A Man Like Me",
+      "id": null
+    },
+    {
+      "title": "Heart on My Sleeve (single version)",
+      "id": null
+    },
+    {
+      "title": "Lipstick Traces (on a Cigarette) (single version)",
+      "id": null
+    }
+  ]
+}
