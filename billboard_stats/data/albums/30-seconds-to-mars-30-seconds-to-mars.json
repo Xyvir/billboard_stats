@@ -1,1 +1,70 @@
-{"id": "30-seconds-to-mars-30-seconds-to-mars", "title": "30 Seconds To Mars", "artist": "30 Seconds To Mars", "peak": 107, "history": [{"date": "2002-09-14", "rank": 107}, {"date": "2002-09-21", "rank": 153}, {"date": "2002-09-28", "rank": 164}, {"date": "2002-10-05", "rank": 178}]}
+{
+  "id": "30-seconds-to-mars-30-seconds-to-mars",
+  "title": "30 Seconds To Mars",
+  "artist": "30 Seconds To Mars",
+  "peak": 107,
+  "history": [
+    {
+      "date": "2002-09-14",
+      "rank": 107
+    },
+    {
+      "date": "2002-09-21",
+      "rank": 153
+    },
+    {
+      "date": "2002-09-28",
+      "rank": 164
+    },
+    {
+      "date": "2002-10-05",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Capricorn (A Brand New Name)",
+      "id": null
+    },
+    {
+      "title": "Edge of the Earth",
+      "id": null
+    },
+    {
+      "title": "Fallen",
+      "id": null
+    },
+    {
+      "title": "Oblivion",
+      "id": null
+    },
+    {
+      "title": "Buddha for Mary (demo)",
+      "id": null
+    },
+    {
+      "title": "Echelon",
+      "id": null
+    },
+    {
+      "title": "Welcome to the Universe",
+      "id": null
+    },
+    {
+      "title": "The Mission",
+      "id": null
+    },
+    {
+      "title": "End of the Beginning",
+      "id": null
+    },
+    {
+      "title": "93 Million Miles",
+      "id": null
+    },
+    {
+      "title": "Year Zero / The Struggle",
+      "id": null
+    }
+  ]
+}
