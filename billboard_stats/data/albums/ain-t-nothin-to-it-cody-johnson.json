@@ -1,1 +1,58 @@
-{"id": "ain-t-nothin-to-it-cody-johnson", "title": "Ain't Nothin' To It", "artist": "Cody Johnson", "peak": 9, "history": [{"date": "2019-02-02", "rank": 9}, {"date": "2019-02-09", "rank": 68}, {"date": "2019-02-16", "rank": 118}, {"date": "2019-02-23", "rank": 146}, {"date": "2019-03-02", "rank": 168}, {"date": "2019-03-09", "rank": 194}, {"date": "2019-03-30", "rank": 193}]}
+{
+  "id": "ain-t-nothin-to-it-cody-johnson",
+  "title": "Ain't Nothin' To It",
+  "artist": "Cody Johnson",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2019-02-02",
+      "rank": 9
+    },
+    {
+      "date": "2019-02-09",
+      "rank": 68
+    },
+    {
+      "date": "2019-02-16",
+      "rank": 118
+    },
+    {
+      "date": "2019-02-23",
+      "rank": 146
+    },
+    {
+      "date": "2019-03-02",
+      "rank": 168
+    },
+    {
+      "date": "2019-03-09",
+      "rank": 194
+    },
+    {
+      "date": "2019-03-30",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "On My Way to You",
+      "id": "on-my-way-to-you-cody-johnson"
+    },
+    {
+      "title": "Dear Rodeo",
+      "id": null
+    },
+    {
+      "title": "Monday Morning Merle",
+      "id": null
+    },
+    {
+      "title": "Long Haired Country Boy",
+      "id": null
+    },
+    {
+      "title": "Fenceposts",
+      "id": null
+    }
+  ]
+}
