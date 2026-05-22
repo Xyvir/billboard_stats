@@ -1,1 +1,82 @@
-{"id": "after-the-gold-rush-prelude", "title": "After The Gold Rush", "artist": "Prelude", "peak": 94, "history": [{"date": "1974-12-07", "rank": 115}, {"date": "1974-12-14", "rank": 104}, {"date": "1974-12-21", "rank": 94}, {"date": "1974-12-28", "rank": 94}, {"date": "1975-01-04", "rank": 130}, {"date": "1975-01-11", "rank": 148}, {"date": "1975-01-18", "rank": 171}]}
+{
+  "id": "after-the-gold-rush-prelude",
+  "title": "After The Gold Rush",
+  "artist": "Prelude",
+  "peak": 94,
+  "history": [
+    {
+      "date": "1974-12-07",
+      "rank": 115
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 104
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 94
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 94
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 130
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 148
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "After the Gold Rush",
+      "id": "after-the-goldrush-prelude"
+    },
+    {
+      "title": "Dear Jesus",
+      "id": null
+    },
+    {
+      "title": "To Hell With the War",
+      "id": null
+    },
+    {
+      "title": "Lady From a Small Town",
+      "id": null
+    },
+    {
+      "title": "Rufus",
+      "id": null
+    },
+    {
+      "title": "Open Book",
+      "id": null
+    },
+    {
+      "title": "Hotel Room",
+      "id": null
+    },
+    {
+      "title": "Rock Dreams",
+      "id": null
+    },
+    {
+      "title": "Fly",
+      "id": null
+    },
+    {
+      "title": "Adventures on the Way",
+      "id": null
+    },
+    {
+      "title": "Follow Me Down",
+      "id": null
+    }
+  ]
+}

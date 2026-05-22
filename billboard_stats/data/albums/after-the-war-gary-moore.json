@@ -1,1 +1,58 @@
-{"id": "after-the-war-gary-moore", "title": "After The War", "artist": "Gary Moore", "peak": 114, "history": [{"date": "1989-03-25", "rank": 167}, {"date": "1989-04-01", "rank": 137}, {"date": "1989-04-08", "rank": 120}, {"date": "1989-04-15", "rank": 120}, {"date": "1989-04-22", "rank": 118}, {"date": "1989-04-29", "rank": 114}, {"date": "1989-05-06", "rank": 114}, {"date": "1989-05-13", "rank": 119}, {"date": "1989-05-20", "rank": 159}]}
+{
+  "id": "after-the-war-gary-moore",
+  "title": "After The War",
+  "artist": "Gary Moore",
+  "peak": 114,
+  "history": [
+    {
+      "date": "1989-03-25",
+      "rank": 167
+    },
+    {
+      "date": "1989-04-01",
+      "rank": 137
+    },
+    {
+      "date": "1989-04-08",
+      "rank": 120
+    },
+    {
+      "date": "1989-04-15",
+      "rank": 120
+    },
+    {
+      "date": "1989-04-22",
+      "rank": 118
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 114
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 114
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 119
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "After the War",
+      "id": null
+    },
+    {
+      "title": "Over the Hills and Far Away",
+      "id": null
+    },
+    {
+      "title": "This Thing Called Love",
+      "id": null
+    }
+  ]
+}
