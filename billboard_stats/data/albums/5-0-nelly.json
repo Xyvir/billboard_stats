@@ -1,1 +1,154 @@
-{"id": "5-0-nelly", "title": "5.0", "artist": "Nelly", "peak": 10, "history": [{"date": "2010-12-04", "rank": 10}, {"date": "2010-12-11", "rank": 39}, {"date": "2010-12-18", "rank": 55}, {"date": "2010-12-25", "rank": 67}, {"date": "2011-01-01", "rank": 83}, {"date": "2011-01-08", "rank": 75}, {"date": "2011-01-15", "rank": 61}, {"date": "2011-01-22", "rank": 68}, {"date": "2011-01-29", "rank": 76}, {"date": "2011-02-05", "rank": 89}, {"date": "2011-02-12", "rank": 85}, {"date": "2011-02-19", "rank": 76}, {"date": "2011-02-26", "rank": 99}, {"date": "2011-03-05", "rank": 102}, {"date": "2011-03-12", "rank": 110}, {"date": "2011-03-19", "rank": 111}, {"date": "2011-03-26", "rank": 103}, {"date": "2011-04-02", "rank": 106}, {"date": "2011-04-09", "rank": 152}, {"date": "2011-04-16", "rank": 182}]}
+{
+  "id": "5-0-nelly",
+  "title": "5.0",
+  "artist": "Nelly",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2010-12-04",
+      "rank": 10
+    },
+    {
+      "date": "2010-12-11",
+      "rank": 39
+    },
+    {
+      "date": "2010-12-18",
+      "rank": 55
+    },
+    {
+      "date": "2010-12-25",
+      "rank": 67
+    },
+    {
+      "date": "2011-01-01",
+      "rank": 83
+    },
+    {
+      "date": "2011-01-08",
+      "rank": 75
+    },
+    {
+      "date": "2011-01-15",
+      "rank": 61
+    },
+    {
+      "date": "2011-01-22",
+      "rank": 68
+    },
+    {
+      "date": "2011-01-29",
+      "rank": 76
+    },
+    {
+      "date": "2011-02-05",
+      "rank": 89
+    },
+    {
+      "date": "2011-02-12",
+      "rank": 85
+    },
+    {
+      "date": "2011-02-19",
+      "rank": 76
+    },
+    {
+      "date": "2011-02-26",
+      "rank": 99
+    },
+    {
+      "date": "2011-03-05",
+      "rank": 102
+    },
+    {
+      "date": "2011-03-12",
+      "rank": 110
+    },
+    {
+      "date": "2011-03-19",
+      "rank": 111
+    },
+    {
+      "date": "2011-03-26",
+      "rank": 103
+    },
+    {
+      "date": "2011-04-02",
+      "rank": 106
+    },
+    {
+      "date": "2011-04-09",
+      "rank": 152
+    },
+    {
+      "date": "2011-04-16",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Just a Dream",
+      "id": "just-a-dream-nelly"
+    },
+    {
+      "title": "I'm Number 1",
+      "id": null
+    },
+    {
+      "title": "Long Gone",
+      "id": null
+    },
+    {
+      "title": "She's So Fly",
+      "id": null
+    },
+    {
+      "title": "Making Movies",
+      "id": null
+    },
+    {
+      "title": "Move That Body",
+      "id": null
+    },
+    {
+      "title": "1000 Stacks",
+      "id": null
+    },
+    {
+      "title": "Gone",
+      "id": null
+    },
+    {
+      "title": "Don't It Feel Good",
+      "id": null
+    },
+    {
+      "title": "Broke",
+      "id": null
+    },
+    {
+      "title": "Liv Tonight",
+      "id": null
+    },
+    {
+      "title": "Nothing Without Her",
+      "id": null
+    },
+    {
+      "title": "Go",
+      "id": null
+    },
+    {
+      "title": "If I Gave U 1",
+      "id": null
+    },
+    {
+      "title": "k.I.s.s.",
+      "id": null
+    },
+    {
+      "title": "Giving Her the Grind",
+      "id": null
+    }
+  ]
+}

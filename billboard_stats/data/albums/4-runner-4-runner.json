@@ -1,1 +1,70 @@
-{"id": "4-runner-4-runner", "title": "4 Runner", "artist": "4 Runner", "peak": 144, "history": [{"date": "1995-05-27", "rank": 169}, {"date": "1995-06-03", "rank": 146}, {"date": "1995-06-10", "rank": 144}, {"date": "1995-06-17", "rank": 146}, {"date": "1995-06-24", "rank": 151}]}
+{
+  "id": "4-runner-4-runner",
+  "title": "4 Runner",
+  "artist": "4 Runner",
+  "peak": 144,
+  "history": [
+    {
+      "date": "1995-05-27",
+      "rank": 169
+    },
+    {
+      "date": "1995-06-03",
+      "rank": 146
+    },
+    {
+      "date": "1995-06-10",
+      "rank": 144
+    },
+    {
+      "date": "1995-06-17",
+      "rank": 146
+    },
+    {
+      "date": "1995-06-24",
+      "rank": 151
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Heart With a 4 Wheel Drive",
+      "id": null
+    },
+    {
+      "title": "Good Lookin'",
+      "id": null
+    },
+    {
+      "title": "Cain's Blood",
+      "id": null
+    },
+    {
+      "title": "The House at the End of the Road",
+      "id": null
+    },
+    {
+      "title": "Ripples",
+      "id": null
+    },
+    {
+      "title": "You Make the Moonlight",
+      "id": null
+    },
+    {
+      "title": "Oh No",
+      "id": null
+    },
+    {
+      "title": "Let the Good Times Roll",
+      "id": null
+    },
+    {
+      "title": "Home Alone",
+      "id": null
+    },
+    {
+      "title": "Southern Wind",
+      "id": null
+    }
+  ]
+}
