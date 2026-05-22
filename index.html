@@ -395,44 +395,93 @@
                     };
 
                     if (type === 'artists') {
-                        // Group songs by their album
                         const groupedSongs = {};
-                        songs.forEach(song => {
-                            const albumName = (song && typeof song === 'object' && (song.album || song.album_name)) ? (song.album || song.album_name) : 'Singles / Unknown Album';
-                            if (!groupedSongs[albumName]) groupedSongs[albumName] = [];
-                            groupedSongs[albumName].push(song);
-                        });
-
-                        // Create a lookup to see if the album exists in the BB200 history so we can link it
+                        const singleSongs = [];
                         const albumLookup = {};
+
                         if (data.albums && Array.isArray(data.albums)) {
-                            data.albums.forEach(a => {
-                                const aTitle = a.title || a.name;
-                                const aId = a.id || a.album_id || a.ref || a.path || '';
-                                if (aTitle && aId) {
-                                    albumLookup[aTitle] = aId;
+                            // Fetch all album details concurrently to get their tracklists
+                            const albumFetchPromises = data.albums.map(async (album) => {
+                                const aId = album.id || album.album_id || album.ref || album.path || '';
+                                const aTitle = album.title || album.name || 'Unknown Album';
+                                const cleanId = String(aId).replace(/^albums\//, '').replace(/\.json$/, '');
+                                
+                                if (cleanId) {
+                                    albumLookup[aTitle] = { id: cleanId, songs: [] };
+                                    try {
+                                        const res = await fetch(`${DATA_DIR}/albums/${cleanId}.json`);
+                                        if (res.ok) {
+                                            const albumData = await res.json();
+                                            const albumTracks = albumData.songs || albumData.tracks || albumData.items || [];
+                                            albumLookup[aTitle].songs = albumTracks;
+                                        }
+                                    } catch (e) {
+                                        // Ignore fetch errors if album json doesn't exist yet
+                                    }
                                 }
                             });
+                            
+                            await Promise.all(albumFetchPromises);
                         }
 
+                        songs.forEach(song => {
+                            let songId = typeof song === 'string' ? song : (song.id || song.song_id || song.ref || song.path || '');
+                            const cleanSongId = String(songId).replace(/^(songs|albums)\//, '').replace(/\.json$/, '');
+                            
+                            // Sometimes the ETL mixes albums into the songs list. Skip it if it's an album.
+                            const isAlbum = Object.values(albumLookup).some(a => a.id === cleanSongId);
+                            if (isAlbum) return;
+
+                            let foundInAlbum = false;
+                            
+                            // Try to find if this song belongs to one of the artist's albums
+                            for (const [albumTitle, albumInfo] of Object.entries(albumLookup)) {
+                                const albumHasTrack = albumInfo.songs.some(track => {
+                                    let trackId = typeof track === 'string' ? track : (track.id || track.song_id || track.ref || track.path || '');
+                                    return String(trackId).replace(/^songs\//, '').replace(/\.json$/, '') === cleanSongId;
+                                });
+                                
+                                if (albumHasTrack) {
+                                    if (!groupedSongs[albumTitle]) groupedSongs[albumTitle] = [];
+                                    groupedSongs[albumTitle].push(song);
+                                    foundInAlbum = true;
+                                    break;
+                                }
+                            }
+                            
+                            // If it wasn't in any tracklist, it's a single or we don't have its album data
+                            if (!foundInAlbum) {
+                                singleSongs.push(song);
+                            }
+                        });
+
                         for (const [albumName, albumSongs] of Object.entries(groupedSongs)) {
+                            if (albumSongs.length === 0) continue;
                             html += `<div style="margin-top: 1.5rem;">`;
-                            const matchedAlbumId = albumLookup[albumName];
+                            const matchedAlbumId = albumLookup[albumName] ? albumLookup[albumName].id : null;
                             
                             if (matchedAlbumId) {
-                                const cleanId = String(matchedAlbumId).replace(/^albums\//, '').replace(/\.json$/, '');
-                                const encodedId = cleanId ? encodeURIComponent(cleanId) : '';
+                                const encodedId = encodeURIComponent(matchedAlbumId);
                                 html += `<h4 style="margin: 0 0 0.75rem 0; cursor: pointer; color: var(--text); display: inline-block;"
                                              onmouseover="this.style.color='var(--accent)'; this.style.textDecoration='underline';" 
                                              onmouseout="this.style.color='var(--text)'; this.style.textDecoration='none';"
                                              onclick="loadDetail('albums', '${encodedId}')">💿 ${albumName}</h4>`;
                             } else {
-                                // Use a slightly different icon if it's just singles
-                                html += `<h4 style="margin: 0 0 0.75rem 0; color: #aaa;">${albumName === 'Singles / Unknown Album' ? '🎵' : '💿'} ${albumName}</h4>`;
+                                html += `<h4 style="margin: 0 0 0.75rem 0; color: #aaa;">💿 ${albumName}</h4>`;
                             }
                             
                             html += `<div style="display: flex; flex-direction: column; gap: 5px;">`;
                             albumSongs.forEach(song => {
+                                html += renderSongRow(song);
+                            });
+                            html += `</div></div>`;
+                        }
+
+                        if (singleSongs.length > 0) {
+                            html += `<div style="margin-top: 1.5rem;">
+                                        <h4 style="margin: 0 0 0.75rem 0; color: #aaa;">🎵 Singles / Other</h4>
+                                        <div style="display: flex; flex-direction: column; gap: 5px;">`;
+                            singleSongs.forEach(song => {
                                 html += renderSongRow(song);
                             });
                             html += `</div></div>`;
