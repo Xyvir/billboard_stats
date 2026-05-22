@@ -1,1 +1,322 @@
-{"id": "a-golden-celebration-elvis-presley", "title": "A Golden Celebration", "artist": "Elvis Presley", "peak": 80, "history": [{"date": "1984-11-17", "rank": 190}, {"date": "1984-11-24", "rank": 155}, {"date": "1984-12-01", "rank": 130}, {"date": "1984-12-08", "rank": 123}, {"date": "1984-12-15", "rank": 109}, {"date": "1984-12-22", "rank": 102}, {"date": "1984-12-29", "rank": 102}, {"date": "1985-01-05", "rank": 100}, {"date": "1985-01-12", "rank": 96}, {"date": "1985-01-19", "rank": 95}, {"date": "1985-01-26", "rank": 80}, {"date": "1985-02-02", "rank": 80}, {"date": "1985-02-09", "rank": 87}, {"date": "1985-02-16", "rank": 93}, {"date": "1985-02-23", "rank": 108}, {"date": "1985-03-02", "rank": 117}, {"date": "1985-03-09", "rank": 169}, {"date": "1985-03-16", "rank": 172}, {"date": "1985-03-23", "rank": 187}]}
+{
+  "id": "a-golden-celebration-elvis-presley",
+  "title": "A Golden Celebration",
+  "artist": "Elvis Presley",
+  "peak": 80,
+  "history": [
+    {
+      "date": "1984-11-17",
+      "rank": 190
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 155
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 130
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 123
+    },
+    {
+      "date": "1984-12-15",
+      "rank": 109
+    },
+    {
+      "date": "1984-12-22",
+      "rank": 102
+    },
+    {
+      "date": "1984-12-29",
+      "rank": 102
+    },
+    {
+      "date": "1985-01-05",
+      "rank": 100
+    },
+    {
+      "date": "1985-01-12",
+      "rank": 96
+    },
+    {
+      "date": "1985-01-19",
+      "rank": 95
+    },
+    {
+      "date": "1985-01-26",
+      "rank": 80
+    },
+    {
+      "date": "1985-02-02",
+      "rank": 80
+    },
+    {
+      "date": "1985-02-09",
+      "rank": 87
+    },
+    {
+      "date": "1985-02-16",
+      "rank": 93
+    },
+    {
+      "date": "1985-02-23",
+      "rank": 108
+    },
+    {
+      "date": "1985-03-02",
+      "rank": 117
+    },
+    {
+      "date": "1985-03-09",
+      "rank": 169
+    },
+    {
+      "date": "1985-03-16",
+      "rank": 172
+    },
+    {
+      "date": "1985-03-23",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Got a Woman",
+      "id": "guitar-man-elvis-presley"
+    },
+    {
+      "title": "Love Me Tender",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "Love Me",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "Danny Boy",
+      "id": "my-boy-elvis-presley"
+    },
+    {
+      "title": "Tiger Man",
+      "id": "guitar-man-elvis-presley"
+    },
+    {
+      "title": "Blue Christmas",
+      "id": "blue-christmas-elvis-presley"
+    },
+    {
+      "title": "One Night",
+      "id": "one-night-elvis-presley"
+    },
+    {
+      "title": "Trying to Get to You",
+      "id": "in-the-ghetto-elvis-presley"
+    },
+    {
+      "title": "Harbor Lights",
+      "id": null
+    },
+    {
+      "title": "That’s All Right (alternate takes)",
+      "id": null
+    },
+    {
+      "title": "Blue Moon of Kentucky (alternate Takes)",
+      "id": null
+    },
+    {
+      "title": "I Don’t Care If the Sun Don’t Shine",
+      "id": null
+    },
+    {
+      "title": "I’m Left, You’re Right, She’s Gone (slow version)",
+      "id": null
+    },
+    {
+      "title": "I’ll Never Let You Go (Little Darlin’) (alternate takes)",
+      "id": null
+    },
+    {
+      "title": "When It Rains, It Really Pours (alternate takes)",
+      "id": null
+    },
+    {
+      "title": "Shake, Rattle and Roll / Flip, Flop and Fly",
+      "id": null
+    },
+    {
+      "title": "Baby, Let's Play House",
+      "id": null
+    },
+    {
+      "title": "Tutti Frutti",
+      "id": null
+    },
+    {
+      "title": "Blue Suede Shoes",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Hotel",
+      "id": null
+    },
+    {
+      "title": "I Was the One",
+      "id": null
+    },
+    {
+      "title": "Money Honey",
+      "id": null
+    },
+    {
+      "title": "Introductions",
+      "id": null
+    },
+    {
+      "title": "Dialogue",
+      "id": null
+    },
+    {
+      "title": "Hound Dog",
+      "id": null
+    },
+    {
+      "title": "Dialogue With Milton Berle",
+      "id": null
+    },
+    {
+      "title": "I Want You, I Need You, I Love You",
+      "id": null
+    },
+    {
+      "title": "Dialogue With Steve Allen",
+      "id": null
+    },
+    {
+      "title": "Long Tall Sally",
+      "id": null
+    },
+    {
+      "title": "Introductions and Presentation",
+      "id": null
+    },
+    {
+      "title": "Elvis Talks",
+      "id": null
+    },
+    {
+      "title": "Don’t Be Cruel",
+      "id": null
+    },
+    {
+      "title": "Ready Teddy",
+      "id": null
+    },
+    {
+      "title": "Vernon & Gladys Presley",
+      "id": null
+    },
+    {
+      "title": "Nick Adams",
+      "id": null
+    },
+    {
+      "title": "A Fan",
+      "id": null
+    },
+    {
+      "title": "Elvis",
+      "id": null
+    },
+    {
+      "title": "Announcement",
+      "id": null
+    },
+    {
+      "title": "Ed Sullivan",
+      "id": null
+    },
+    {
+      "title": "Ed Sullivan Introduces Elvis",
+      "id": null
+    },
+    {
+      "title": "Elvis' Closing Remarks",
+      "id": null
+    },
+    {
+      "title": "Introduction",
+      "id": null
+    },
+    {
+      "title": "Too Much",
+      "id": null
+    },
+    {
+      "title": "When My Blue Moon Turns to Gold Again",
+      "id": null
+    },
+    {
+      "title": "Ed Sullivan Speaks",
+      "id": null
+    },
+    {
+      "title": "Peace in the Valley",
+      "id": null
+    },
+    {
+      "title": "Soldier Boy",
+      "id": null
+    },
+    {
+      "title": "The Fool",
+      "id": null
+    },
+    {
+      "title": "Earth Angel",
+      "id": null
+    },
+    {
+      "title": "I Asked the Lord (He's Only a Prayer Away)",
+      "id": null
+    },
+    {
+      "title": "Excerpt From an Interview for TV Guide",
+      "id": null
+    },
+    {
+      "title": "My Heart Cries for You",
+      "id": null
+    },
+    {
+      "title": "Dark Moon",
+      "id": null
+    },
+    {
+      "title": "Write to Me From Naples",
+      "id": null
+    },
+    {
+      "title": "Suppose",
+      "id": null
+    },
+    {
+      "title": "That’s All Right",
+      "id": null
+    },
+    {
+      "title": "Lawdy Miss Clawdy",
+      "id": null
+    },
+    {
+      "title": "Baby What You Want Me to Do (alternate take)",
+      "id": null
+    },
+    {
+      "title": "Are You Lonesome Tonight",
+      "id": null
+    }
+  ]
+}

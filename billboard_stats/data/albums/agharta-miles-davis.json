@@ -1,1 +1,54 @@
-{"id": "agharta-miles-davis", "title": "Agharta", "artist": "Miles Davis", "peak": 168, "history": [{"date": "1976-03-13", "rank": 185}, {"date": "1976-03-20", "rank": 174}, {"date": "1976-03-27", "rank": 174}, {"date": "1976-04-03", "rank": 168}, {"date": "1976-04-10", "rank": 168}]}
+{
+  "id": "agharta-miles-davis",
+  "title": "Agharta",
+  "artist": "Miles Davis",
+  "peak": 168,
+  "history": [
+    {
+      "date": "1976-03-13",
+      "rank": 185
+    },
+    {
+      "date": "1976-03-20",
+      "rank": 174
+    },
+    {
+      "date": "1976-03-27",
+      "rank": 174
+    },
+    {
+      "date": "1976-04-03",
+      "rank": 168
+    },
+    {
+      "date": "1976-04-10",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Prelude",
+      "id": null
+    },
+    {
+      "title": "Maiysha",
+      "id": null
+    },
+    {
+      "title": "Rated X",
+      "id": null
+    },
+    {
+      "title": "Black Satin",
+      "id": null
+    },
+    {
+      "title": "Interlude / Theme From Jack Johnson",
+      "id": null
+    },
+    {
+      "title": "Right Off",
+      "id": null
+    }
+  ]
+}
