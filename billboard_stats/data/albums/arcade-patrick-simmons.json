@@ -1,1 +1,94 @@
-{"id": "arcade-patrick-simmons", "title": "Arcade", "artist": "Patrick Simmons", "peak": 52, "history": [{"date": "1983-05-07", "rank": 161}, {"date": "1983-05-14", "rank": 62}, {"date": "1983-05-21", "rank": 54}, {"date": "1983-05-28", "rank": 52}, {"date": "1983-06-04", "rank": 63}, {"date": "1983-06-11", "rank": 75}, {"date": "1983-06-18", "rank": 112}, {"date": "1983-06-25", "rank": 110}, {"date": "1983-07-02", "rank": 141}, {"date": "1983-07-09", "rank": 154}, {"date": "1983-07-16", "rank": 193}]}
+{
+  "id": "arcade-patrick-simmons",
+  "title": "Arcade",
+  "artist": "Patrick Simmons",
+  "peak": 52,
+  "history": [
+    {
+      "date": "1983-05-07",
+      "rank": 161
+    },
+    {
+      "date": "1983-05-14",
+      "rank": 62
+    },
+    {
+      "date": "1983-05-21",
+      "rank": 54
+    },
+    {
+      "date": "1983-05-28",
+      "rank": 52
+    },
+    {
+      "date": "1983-06-04",
+      "rank": 63
+    },
+    {
+      "date": "1983-06-11",
+      "rank": 75
+    },
+    {
+      "date": "1983-06-18",
+      "rank": 112
+    },
+    {
+      "date": "1983-06-25",
+      "rank": 110
+    },
+    {
+      "date": "1983-07-02",
+      "rank": 141
+    },
+    {
+      "date": "1983-07-09",
+      "rank": 154
+    },
+    {
+      "date": "1983-07-16",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "So Wrong",
+      "id": "so-wrong-patrick-simmons"
+    },
+    {
+      "title": "Don't Make Me Do It",
+      "id": "don-t-make-me-do-it-patrick-simmons"
+    },
+    {
+      "title": "Too Long",
+      "id": "so-wrong-patrick-simmons"
+    },
+    {
+      "title": "Out on the Streets",
+      "id": null
+    },
+    {
+      "title": "Why You Givin’ Up",
+      "id": null
+    },
+    {
+      "title": "Knocking at Your Door",
+      "id": null
+    },
+    {
+      "title": "If You Want a Little Love",
+      "id": null
+    },
+    {
+      "title": "Have You Seen Her",
+      "id": null
+    },
+    {
+      "title": "Sue Sad",
+      "id": null
+    },
+    {
+      "title": "Dream About Me",
+      "id": null
+    }
+  ]
+}

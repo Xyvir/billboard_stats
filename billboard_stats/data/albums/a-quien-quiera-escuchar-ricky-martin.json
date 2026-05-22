@@ -1,1 +1,62 @@
-{"id": "a-quien-quiera-escuchar-ricky-martin", "title": "A Quien Quiera Escuchar", "artist": "Ricky Martin", "peak": 20, "history": [{"date": "2015-02-28", "rank": 20}, {"date": "2015-03-07", "rank": 67}, {"date": "2015-03-14", "rank": 173}]}
+{
+  "id": "a-quien-quiera-escuchar-ricky-martin",
+  "title": "A Quien Quiera Escuchar",
+  "artist": "Ricky Martin",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2015-02-28",
+      "rank": 20
+    },
+    {
+      "date": "2015-03-07",
+      "rank": 67
+    },
+    {
+      "date": "2015-03-14",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Adiós",
+      "id": null
+    },
+    {
+      "title": "Disparo al corazón",
+      "id": null
+    },
+    {
+      "title": "Isla bella",
+      "id": null
+    },
+    {
+      "title": "Perdóname",
+      "id": null
+    },
+    {
+      "title": "Náufrago",
+      "id": null
+    },
+    {
+      "title": "La mordidita",
+      "id": null
+    },
+    {
+      "title": "Cuanto me acuerdo de ti",
+      "id": null
+    },
+    {
+      "title": "Mátame otra vez",
+      "id": null
+    },
+    {
+      "title": "Nada",
+      "id": null
+    },
+    {
+      "title": "A quien quiera escuchar",
+      "id": null
+    }
+  ]
+}

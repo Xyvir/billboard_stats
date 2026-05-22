@@ -1,1 +1,34 @@
-{"id": "arbour-zena-keith-jarrett", "title": "Arbour Zena", "artist": "Keith Jarrett", "peak": 179, "history": [{"date": "1976-07-10", "rank": 184}, {"date": "1976-07-17", "rank": 183}, {"date": "1976-07-24", "rank": 179}]}
+{
+  "id": "arbour-zena-keith-jarrett",
+  "title": "Arbour Zena",
+  "artist": "Keith Jarrett",
+  "peak": 179,
+  "history": [
+    {
+      "date": "1976-07-10",
+      "rank": 184
+    },
+    {
+      "date": "1976-07-17",
+      "rank": 183
+    },
+    {
+      "date": "1976-07-24",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Runes (Dedicated to the Unknown)",
+      "id": null
+    },
+    {
+      "title": "Solara March (Dedicated to Pablo Casals and the Sun)",
+      "id": null
+    },
+    {
+      "title": "Mirrors (Dedicated to My Teachers)",
+      "id": null
+    }
+  ]
+}
