@@ -1,1 +1,46 @@
-{"id": "alma-vacia-ivan-cornejo", "title": "Alma Vacia", "artist": "Ivan Cornejo", "peak": 156, "history": [{"date": "2021-10-23", "rank": 156}, {"date": "2021-10-30", "rank": 171}]}
+{
+  "id": "alma-vacia-ivan-cornejo",
+  "title": "Alma Vacia",
+  "artist": "Ivan Cornejo",
+  "peak": 156,
+  "history": [
+    {
+      "date": "2021-10-23",
+      "rank": 156
+    },
+    {
+      "date": "2021-10-30",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Está Dañada",
+      "id": "esta-danada-ivan-cornejo"
+    },
+    {
+      "title": "Noche de Relajo",
+      "id": null
+    },
+    {
+      "title": "Llamadas Perdidas",
+      "id": null
+    },
+    {
+      "title": "Esa Carita",
+      "id": null
+    },
+    {
+      "title": "Corazón Frío",
+      "id": null
+    },
+    {
+      "title": "Estás en Mí Pasado",
+      "id": null
+    },
+    {
+      "title": "Te Sigo Extrañando",
+      "id": null
+    }
+  ]
+}

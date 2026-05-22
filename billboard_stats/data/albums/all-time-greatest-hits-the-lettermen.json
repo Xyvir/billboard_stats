@@ -1,1 +1,66 @@
-{"id": "all-time-greatest-hits-the-lettermen", "title": "All-Time Greatest Hits", "artist": "The Lettermen", "peak": 186, "history": [{"date": "1974-02-23", "rank": 198}, {"date": "1974-03-02", "rank": 189}, {"date": "1974-03-09", "rank": 186}, {"date": "1974-03-16", "rank": 198}]}
+{
+  "id": "all-time-greatest-hits-the-lettermen",
+  "title": "All-Time Greatest Hits",
+  "artist": "The Lettermen",
+  "peak": 186,
+  "history": [
+    {
+      "date": "1974-02-23",
+      "rank": 198
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 189
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 186
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Medley: Goin' Out of My Head / Can't Take My Eyes Off of You",
+      "id": "goin-out-of-my-head-can-t-take-my-eyes-off-you-the-lettermen"
+    },
+    {
+      "title": "When I Fall in Love",
+      "id": "when-i-fall-in-love-the-lettermen"
+    },
+    {
+      "title": "Put Your Head on My Shoulder",
+      "id": "put-your-head-on-my-shoulder-the-lettermen"
+    },
+    {
+      "title": "Love",
+      "id": "love-the-lettermen"
+    },
+    {
+      "title": "Traces / Memories",
+      "id": "traces-memories-medley-the-lettermen"
+    },
+    {
+      "title": "Hurt So Bad",
+      "id": "hurt-so-bad-the-lettermen"
+    },
+    {
+      "title": "Theme From \"A Summer Place\"",
+      "id": "theme-from-a-summer-place-the-lettermen"
+    },
+    {
+      "title": "Shangri-La",
+      "id": "shangri-la-the-lettermen"
+    },
+    {
+      "title": "The Way You Look Tonight",
+      "id": "the-way-you-look-tonight-the-lettermen"
+    },
+    {
+      "title": "I Believe",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "almeria-lifehouse", "title": "Almeria", "artist": "Lifehouse", "peak": 55, "history": [{"date": "2012-12-29", "rank": 55}, {"date": "2013-01-05", "rank": 180}, {"date": "2013-01-19", "rank": 126}, {"date": "2013-01-26", "rank": 142}, {"date": "2013-02-02", "rank": 200}]}
+{
+  "id": "almeria-lifehouse",
+  "title": "Almeria",
+  "artist": "Lifehouse",
+  "peak": 55,
+  "history": [
+    {
+      "date": "2012-12-29",
+      "rank": 55
+    },
+    {
+      "date": "2013-01-05",
+      "rank": 180
+    },
+    {
+      "date": "2013-01-19",
+      "rank": 126
+    },
+    {
+      "date": "2013-01-26",
+      "rank": 142
+    },
+    {
+      "date": "2013-02-02",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Gotta Be Tonight",
+      "id": null
+    },
+    {
+      "title": "Between the Raindrops",
+      "id": null
+    },
+    {
+      "title": "Nobody Listen",
+      "id": null
+    },
+    {
+      "title": "Moveonday",
+      "id": null
+    },
+    {
+      "title": "Slow Motion",
+      "id": null
+    },
+    {
+      "title": "Only You’re the One",
+      "id": null
+    },
+    {
+      "title": "Where I Come From",
+      "id": null
+    },
+    {
+      "title": "Right Back Home",
+      "id": null
+    },
+    {
+      "title": "Barricade",
+      "id": null
+    },
+    {
+      "title": "Aftermath",
+      "id": null
+    }
+  ]
+}

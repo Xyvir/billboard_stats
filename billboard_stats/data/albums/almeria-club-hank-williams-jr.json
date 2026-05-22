@@ -1,1 +1,58 @@
-{"id": "almeria-club-hank-williams-jr", "title": "Almeria Club", "artist": "Hank Williams Jr.", "peak": 112, "history": [{"date": "2002-01-26", "rank": 112}, {"date": "2002-02-02", "rank": 147}, {"date": "2002-02-09", "rank": 171}, {"date": "2002-02-16", "rank": 191}, {"date": "2002-03-09", "rank": 152}]}
+{
+  "id": "almeria-club-hank-williams-jr",
+  "title": "Almeria Club",
+  "artist": "Hank Williams Jr.",
+  "peak": 112,
+  "history": [
+    {
+      "date": "2002-01-26",
+      "rank": 112
+    },
+    {
+      "date": "2002-02-02",
+      "rank": 147
+    },
+    {
+      "date": "2002-02-09",
+      "rank": 171
+    },
+    {
+      "date": "2002-02-16",
+      "rank": 191
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 152
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If the Good Lords Willin' (And the Creeks Don't Rise)",
+      "id": null
+    },
+    {
+      "title": "Last Pork Chop (acoustic)",
+      "id": null
+    },
+    {
+      "title": "Tee Tot Song",
+      "id": null
+    },
+    {
+      "title": "Go Girl Go",
+      "id": null
+    },
+    {
+      "title": "Outdoor Lovin' Man (With Nickel Creek)",
+      "id": null
+    },
+    {
+      "title": "Last Pork Chop",
+      "id": null
+    },
+    {
+      "title": "Almeria Jam",
+      "id": null
+    }
+  ]
+}

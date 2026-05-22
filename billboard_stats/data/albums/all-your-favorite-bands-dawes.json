@@ -1,1 +1,54 @@
-{"id": "all-your-favorite-bands-dawes", "title": "All Your Favorite Bands", "artist": "Dawes", "peak": 37, "history": [{"date": "2015-06-20", "rank": 37}, {"date": "2015-06-27", "rank": 169}]}
+{
+  "id": "all-your-favorite-bands-dawes",
+  "title": "All Your Favorite Bands",
+  "artist": "Dawes",
+  "peak": 37,
+  "history": [
+    {
+      "date": "2015-06-20",
+      "rank": 37
+    },
+    {
+      "date": "2015-06-27",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Things Happen",
+      "id": null
+    },
+    {
+      "title": "Somewhere Along the Way",
+      "id": null
+    },
+    {
+      "title": "Don’t Send Me Away",
+      "id": null
+    },
+    {
+      "title": "All Your Favorite Bands",
+      "id": null
+    },
+    {
+      "title": "I Can’t Think About It Now",
+      "id": null
+    },
+    {
+      "title": "To Be Completely Honest",
+      "id": null
+    },
+    {
+      "title": "Waiting for Your Call",
+      "id": null
+    },
+    {
+      "title": "Right on Time",
+      "id": null
+    },
+    {
+      "title": "Now That It’s Too Late, Maria",
+      "id": null
+    }
+  ]
+}
