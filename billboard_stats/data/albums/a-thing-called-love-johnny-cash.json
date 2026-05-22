@@ -1,1 +1,74 @@
-{"id": "a-thing-called-love-johnny-cash", "title": "A Thing Called Love", "artist": "Johnny Cash", "peak": 112, "history": [{"date": "1972-05-20", "rank": 119}, {"date": "1972-05-27", "rank": 117}, {"date": "1972-06-03", "rank": 114}, {"date": "1972-06-10", "rank": 112}, {"date": "1972-06-17", "rank": 118}, {"date": "1972-06-24", "rank": 145}]}
+{
+  "id": "a-thing-called-love-johnny-cash",
+  "title": "A Thing Called Love",
+  "artist": "Johnny Cash",
+  "peak": 112,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 119
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 117
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 114
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 112
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 118
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 145
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Kate",
+      "id": null
+    },
+    {
+      "title": "Melva’s Wine",
+      "id": null
+    },
+    {
+      "title": "A Thing Called Love",
+      "id": null
+    },
+    {
+      "title": "I Promise You",
+      "id": null
+    },
+    {
+      "title": "Papa Was a Good Man",
+      "id": null
+    },
+    {
+      "title": "Tear Stained Letter",
+      "id": null
+    },
+    {
+      "title": "Mississippi Sand",
+      "id": null
+    },
+    {
+      "title": "Daddy",
+      "id": null
+    },
+    {
+      "title": "Arkansas Lovin’ Man",
+      "id": null
+    },
+    {
+      "title": "The Miracle Man",
+      "id": null
+    }
+  ]
+}

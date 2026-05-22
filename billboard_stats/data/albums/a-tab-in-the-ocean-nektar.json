@@ -1,1 +1,42 @@
-{"id": "a-tab-in-the-ocean-nektar", "title": "A Tab In The Ocean", "artist": "Nektar", "peak": 141, "history": [{"date": "1976-09-18", "rank": 152}, {"date": "1976-09-25", "rank": 141}, {"date": "1976-10-02", "rank": 141}, {"date": "1976-10-09", "rank": 195}]}
+{
+  "id": "a-tab-in-the-ocean-nektar",
+  "title": "A Tab In The Ocean",
+  "artist": "Nektar",
+  "peak": 141,
+  "history": [
+    {
+      "date": "1976-09-18",
+      "rank": 152
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 141
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 141
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Tab in the Ocean",
+      "id": null
+    },
+    {
+      "title": "Desolation Valley / Waves",
+      "id": null
+    },
+    {
+      "title": "Crying in the Dark",
+      "id": null
+    },
+    {
+      "title": "King of Twilight",
+      "id": null
+    }
+  ]
+}

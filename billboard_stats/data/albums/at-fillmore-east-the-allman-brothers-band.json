@@ -1,1 +1,82 @@
-{"id": "at-fillmore-east-the-allman-brothers-band", "title": "At Fillmore East", "artist": "The Allman Brothers Band", "peak": 139, "history": [{"date": "1972-05-20", "rank": 141}, {"date": "1972-05-27", "rank": 139}, {"date": "1972-06-03", "rank": 151}, {"date": "1972-06-10", "rank": 174}, {"date": "2017-06-17", "rank": 146}]}
+{
+  "id": "at-fillmore-east-the-allman-brothers-band",
+  "title": "At Fillmore East",
+  "artist": "The Allman Brothers Band",
+  "peak": 139,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 141
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 139
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 151
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 174
+    },
+    {
+      "date": "2017-06-17",
+      "rank": 146
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One Way Out",
+      "id": "one-way-out-the-allman-brothers-band"
+    },
+    {
+      "title": "Statesboro Blues",
+      "id": null
+    },
+    {
+      "title": "Trouble No More",
+      "id": null
+    },
+    {
+      "title": "Don’t Keep Me Wonderin’",
+      "id": null
+    },
+    {
+      "title": "Done Somebody Wrong",
+      "id": null
+    },
+    {
+      "title": "Stormy Monday",
+      "id": null
+    },
+    {
+      "title": "In Memory of Elizabeth Reed",
+      "id": null
+    },
+    {
+      "title": "You Don’t Love Me",
+      "id": null
+    },
+    {
+      "title": "Midnight Rider",
+      "id": null
+    },
+    {
+      "title": "Hot ’Lanta",
+      "id": null
+    },
+    {
+      "title": "Whipping Post",
+      "id": null
+    },
+    {
+      "title": "Mountain Jam",
+      "id": null
+    },
+    {
+      "title": "Drunken Hearted Boy",
+      "id": null
+    }
+  ]
+}

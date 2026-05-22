@@ -1,1 +1,90 @@
-{"id": "astronaut-duran-duran", "title": "Astronaut", "artist": "Duran Duran", "peak": 17, "history": [{"date": "2004-10-30", "rank": 17}, {"date": "2004-11-06", "rank": 38}, {"date": "2004-11-13", "rank": 60}, {"date": "2004-11-20", "rank": 92}, {"date": "2004-11-27", "rank": 136}, {"date": "2004-12-04", "rank": 190}, {"date": "2005-01-01", "rank": 200}, {"date": "2005-01-22", "rank": 185}]}
+{
+  "id": "astronaut-duran-duran",
+  "title": "Astronaut",
+  "artist": "Duran Duran",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2004-10-30",
+      "rank": 17
+    },
+    {
+      "date": "2004-11-06",
+      "rank": 38
+    },
+    {
+      "date": "2004-11-13",
+      "rank": 60
+    },
+    {
+      "date": "2004-11-20",
+      "rank": 92
+    },
+    {
+      "date": "2004-11-27",
+      "rank": 136
+    },
+    {
+      "date": "2004-12-04",
+      "rank": 190
+    },
+    {
+      "date": "2005-01-01",
+      "rank": 200
+    },
+    {
+      "date": "2005-01-22",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "(Reach Up for the) Sunrise",
+      "id": "reach-up-for-the-sunrise-duran-duran"
+    },
+    {
+      "title": "One of Those Days",
+      "id": "union-of-the-snake-duran-duran"
+    },
+    {
+      "title": "Want You More!",
+      "id": null
+    },
+    {
+      "title": "What Happens Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Astronaut",
+      "id": null
+    },
+    {
+      "title": "Bedroom Toys",
+      "id": null
+    },
+    {
+      "title": "Nice",
+      "id": null
+    },
+    {
+      "title": "Taste the Summer",
+      "id": null
+    },
+    {
+      "title": "Finest Hour",
+      "id": null
+    },
+    {
+      "title": "Chains",
+      "id": null
+    },
+    {
+      "title": "Point of No Return",
+      "id": null
+    },
+    {
+      "title": "Still Breathing",
+      "id": null
+    }
+  ]
+}
