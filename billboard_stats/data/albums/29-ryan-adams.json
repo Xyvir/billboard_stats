@@ -1,1 +1,58 @@
-{"id": "29-ryan-adams", "title": "29", "artist": "Ryan Adams", "peak": 144, "history": [{"date": "2006-01-07", "rank": 144}, {"date": "2006-01-14", "rank": 175}, {"date": "2006-01-21", "rank": 185}]}
+{
+  "id": "29-ryan-adams",
+  "title": "29",
+  "artist": "Ryan Adams",
+  "peak": 144,
+  "history": [
+    {
+      "date": "2006-01-07",
+      "rank": 144
+    },
+    {
+      "date": "2006-01-14",
+      "rank": 175
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Twenty Nine",
+      "id": null
+    },
+    {
+      "title": "Strawberry Wine",
+      "id": null
+    },
+    {
+      "title": "Nightbirds",
+      "id": null
+    },
+    {
+      "title": "Blue Sky Blues",
+      "id": null
+    },
+    {
+      "title": "Carolina Rain",
+      "id": null
+    },
+    {
+      "title": "Starlite Diner",
+      "id": null
+    },
+    {
+      "title": "The Sadness",
+      "id": null
+    },
+    {
+      "title": "Elizabeth, You Were Born to Play That Part",
+      "id": null
+    },
+    {
+      "title": "Voices",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,46 @@
-{"id": "29-carly-pearce", "title": "29", "artist": "Carly Pearce", "peak": 83, "history": [{"date": "2021-03-06", "rank": 172}, {"date": "2021-10-02", "rank": 83}]}
+{
+  "id": "29-carly-pearce",
+  "title": "29",
+  "artist": "Carly Pearce",
+  "peak": 83,
+  "history": [
+    {
+      "date": "2021-03-06",
+      "rank": 172
+    },
+    {
+      "date": "2021-10-02",
+      "rank": 83
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Next Girl",
+      "id": "next-girl-carly-pearce"
+    },
+    {
+      "title": "Should’ve Known Better",
+      "id": null
+    },
+    {
+      "title": "29",
+      "id": null
+    },
+    {
+      "title": "Liability",
+      "id": null
+    },
+    {
+      "title": "Messy",
+      "id": null
+    },
+    {
+      "title": "Show Me Around",
+      "id": null
+    },
+    {
+      "title": "Day One",
+      "id": null
+    }
+  ]
+}
