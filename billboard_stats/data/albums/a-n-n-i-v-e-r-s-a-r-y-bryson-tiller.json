@@ -1,1 +1,82 @@
-{"id": "a-n-n-i-v-e-r-s-a-r-y-bryson-tiller", "title": "A N N I V E R S A R Y", "artist": "Bryson Tiller", "peak": 5, "history": [{"date": "2020-10-17", "rank": 5}, {"date": "2020-10-24", "rank": 26}, {"date": "2020-10-31", "rank": 51}, {"date": "2020-11-07", "rank": 62}, {"date": "2020-11-14", "rank": 109}, {"date": "2020-11-21", "rank": 142}, {"date": "2021-03-13", "rank": 36}, {"date": "2021-03-20", "rank": 154}]}
+{
+  "id": "a-n-n-i-v-e-r-s-a-r-y-bryson-tiller",
+  "title": "A N N I V E R S A R Y",
+  "artist": "Bryson Tiller",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2020-10-17",
+      "rank": 5
+    },
+    {
+      "date": "2020-10-24",
+      "rank": 26
+    },
+    {
+      "date": "2020-10-31",
+      "rank": 51
+    },
+    {
+      "date": "2020-11-07",
+      "rank": 62
+    },
+    {
+      "date": "2020-11-14",
+      "rank": 109
+    },
+    {
+      "date": "2020-11-21",
+      "rank": 142
+    },
+    {
+      "date": "2021-03-13",
+      "rank": 36
+    },
+    {
+      "date": "2021-03-20",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Years Go By",
+      "id": "years-go-by-bryson-tiller"
+    },
+    {
+      "title": "Always Forever",
+      "id": "always-forever-bryson-tiller"
+    },
+    {
+      "title": "I’m Ready for You",
+      "id": null
+    },
+    {
+      "title": "Things Change",
+      "id": null
+    },
+    {
+      "title": "Timeless Interlude",
+      "id": null
+    },
+    {
+      "title": "Sorrows",
+      "id": null
+    },
+    {
+      "title": "Inhale",
+      "id": null
+    },
+    {
+      "title": "Outta Time",
+      "id": null
+    },
+    {
+      "title": "Keep Doing What You’re Doing",
+      "id": null
+    },
+    {
+      "title": "Next to You",
+      "id": null
+    }
+  ]
+}

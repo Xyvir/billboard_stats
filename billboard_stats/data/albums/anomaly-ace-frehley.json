@@ -1,1 +1,74 @@
-{"id": "anomaly-ace-frehley", "title": "Anomaly", "artist": "Ace Frehley", "peak": 27, "history": [{"date": "2009-10-03", "rank": 27}, {"date": "2009-10-10", "rank": 83}, {"date": "2009-10-17", "rank": 150}, {"date": "2009-10-24", "rank": 148}]}
+{
+  "id": "anomaly-ace-frehley",
+  "title": "Anomaly",
+  "artist": "Ace Frehley",
+  "peak": 27,
+  "history": [
+    {
+      "date": "2009-10-03",
+      "rank": 27
+    },
+    {
+      "date": "2009-10-10",
+      "rank": 83
+    },
+    {
+      "date": "2009-10-17",
+      "rank": 150
+    },
+    {
+      "date": "2009-10-24",
+      "rank": 148
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Foxy & Free",
+      "id": null
+    },
+    {
+      "title": "Outer Space",
+      "id": null
+    },
+    {
+      "title": "Pain in the Neck",
+      "id": null
+    },
+    {
+      "title": "Fox on the Run",
+      "id": null
+    },
+    {
+      "title": "Genghis Khan",
+      "id": null
+    },
+    {
+      "title": "Too Many Faces",
+      "id": null
+    },
+    {
+      "title": "Change the World",
+      "id": null
+    },
+    {
+      "title": "Space Bear",
+      "id": null
+    },
+    {
+      "title": "A Little Below the Angels",
+      "id": null
+    },
+    {
+      "title": "Sister",
+      "id": null
+    },
+    {
+      "title": "It’s a Great Life",
+      "id": null
+    },
+    {
+      "title": "Fractured Quantum",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"id": "another-beginning-les-mccann", "title": "Another Beginning", "artist": "Les McCann", "peak": 166, "history": [{"date": "1975-01-18", "rank": 188}, {"date": "1975-01-25", "rank": 174}, {"date": "1975-02-01", "rank": 166}, {"date": "1975-02-08", "rank": 166}]}
+{
+  "id": "another-beginning-les-mccann",
+  "title": "Another Beginning",
+  "artist": "Les McCann",
+  "peak": 166,
+  "history": [
+    {
+      "date": "1975-01-18",
+      "rank": 188
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 174
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 166
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Maybe You'll Come Back",
+      "id": null
+    },
+    {
+      "title": "The Song of Love",
+      "id": null
+    },
+    {
+      "title": "When It's Over",
+      "id": null
+    },
+    {
+      "title": "Somebody's Been Lying 'bout Me",
+      "id": null
+    },
+    {
+      "title": "Go On and Cry",
+      "id": null
+    },
+    {
+      "title": "My Soul Lies Deep",
+      "id": null
+    },
+    {
+      "title": "The Morning Song",
+      "id": null
+    },
+    {
+      "title": "Someday We'll Meet Again",
+      "id": null
+    }
+  ]
+}

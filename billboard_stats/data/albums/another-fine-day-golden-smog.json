@@ -1,1 +1,78 @@
-{"id": "another-fine-day-golden-smog", "title": "Another Fine Day", "artist": "Golden Smog", "peak": 95, "history": [{"date": "2006-08-05", "rank": 95}, {"date": "2006-08-12", "rank": 190}]}
+{
+  "id": "another-fine-day-golden-smog",
+  "title": "Another Fine Day",
+  "artist": "Golden Smog",
+  "peak": 95,
+  "history": [
+    {
+      "date": "2006-08-05",
+      "rank": 95
+    },
+    {
+      "date": "2006-08-12",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Make It Easy",
+      "id": null
+    },
+    {
+      "title": "Another Fine Day",
+      "id": null
+    },
+    {
+      "title": "5‒22‒02",
+      "id": null
+    },
+    {
+      "title": "Long Time Ago",
+      "id": null
+    },
+    {
+      "title": "Corvette",
+      "id": null
+    },
+    {
+      "title": "Beautiful Mind",
+      "id": null
+    },
+    {
+      "title": "Listen Joe",
+      "id": null
+    },
+    {
+      "title": "Cure for This",
+      "id": null
+    },
+    {
+      "title": "Hurricane",
+      "id": null
+    },
+    {
+      "title": "Strangers",
+      "id": null
+    },
+    {
+      "title": "Frying Pan Eyes",
+      "id": null
+    },
+    {
+      "title": "Gone",
+      "id": null
+    },
+    {
+      "title": "Never Felt Before",
+      "id": null
+    },
+    {
+      "title": "I Can",
+      "id": null
+    },
+    {
+      "title": "Think About Yourself",
+      "id": null
+    }
+  ]
+}

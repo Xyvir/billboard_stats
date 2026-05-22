@@ -1,1 +1,38 @@
-{"id": "another-day-another-dollar-gang-of-four", "title": "Another Day/another Dollar", "artist": "Gang Of Four", "peak": 195, "history": [{"date": "1982-02-13", "rank": 195}, {"date": "1982-02-20", "rank": 195}]}
+{
+  "id": "another-day-another-dollar-gang-of-four",
+  "title": "Another Day/another Dollar",
+  "artist": "Gang Of Four",
+  "peak": 195,
+  "history": [
+    {
+      "date": "1982-02-13",
+      "rank": 195
+    },
+    {
+      "date": "1982-02-20",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "To Hell With Poverty",
+      "id": null
+    },
+    {
+      "title": "Capital (It Fails Us Now)",
+      "id": null
+    },
+    {
+      "title": "History’s Bunk!",
+      "id": null
+    },
+    {
+      "title": "Cheeseburger (live)",
+      "id": null
+    },
+    {
+      "title": "What We All Want (live)",
+      "id": null
+    }
+  ]
+}

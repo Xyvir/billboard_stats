@@ -1,1 +1,70 @@
-{"id": "another-country-rod-stewart", "title": "Another Country", "artist": "Rod Stewart", "peak": 20, "history": [{"date": "2015-11-14", "rank": 20}, {"date": "2015-11-21", "rank": 48}, {"date": "2015-11-28", "rank": 114}]}
+{
+  "id": "another-country-rod-stewart",
+  "title": "Another Country",
+  "artist": "Rod Stewart",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2015-11-14",
+      "rank": 20
+    },
+    {
+      "date": "2015-11-21",
+      "rank": 48
+    },
+    {
+      "date": "2015-11-28",
+      "rank": 114
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Can We Stay Home Tonight?",
+      "id": "if-we-fall-in-love-tonight-rod-stewart"
+    },
+    {
+      "title": "The Drinking Song",
+      "id": "the-motown-song-rod-stewart"
+    },
+    {
+      "title": "Hold the Line",
+      "id": "this-old-heart-of-mine-rod-stewart"
+    },
+    {
+      "title": "Love Is",
+      "id": null
+    },
+    {
+      "title": "Please",
+      "id": null
+    },
+    {
+      "title": "Walking in the Sunshine",
+      "id": null
+    },
+    {
+      "title": "Love and Be Loved",
+      "id": null
+    },
+    {
+      "title": "We Can Win",
+      "id": null
+    },
+    {
+      "title": "Another Country",
+      "id": null
+    },
+    {
+      "title": "Way Back Home",
+      "id": null
+    },
+    {
+      "title": "Batman Superman Spiderman",
+      "id": null
+    },
+    {
+      "title": "A Friend for Life",
+      "id": null
+    }
+  ]
+}

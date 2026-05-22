@@ -1,1 +1,286 @@
-{"id": "anne-murray-s-greatest-hits-anne-murray", "title": "Anne Murray's Greatest Hits", "artist": "Anne Murray", "peak": 16, "history": [{"date": "1980-10-04", "rank": 113}, {"date": "1980-10-11", "rank": 95}, {"date": "1980-10-18", "rank": 65}, {"date": "1980-10-25", "rank": 51}, {"date": "1980-11-01", "rank": 36}, {"date": "1980-11-08", "rank": 30}, {"date": "1980-11-15", "rank": 27}, {"date": "1980-11-22", "rank": 21}, {"date": "1980-11-29", "rank": 18}, {"date": "1980-12-06", "rank": 16}, {"date": "1980-12-13", "rank": 16}, {"date": "1980-12-20", "rank": 16}, {"date": "1980-12-27", "rank": 16}, {"date": "1981-01-03", "rank": 16}, {"date": "1981-01-10", "rank": 30}, {"date": "1981-01-17", "rank": 26}, {"date": "1981-01-24", "rank": 25}, {"date": "1981-01-31", "rank": 32}, {"date": "1981-02-07", "rank": 32}, {"date": "1981-02-14", "rank": 40}, {"date": "1981-02-21", "rank": 40}, {"date": "1981-02-28", "rank": 47}, {"date": "1981-03-07", "rank": 62}, {"date": "1981-03-14", "rank": 67}, {"date": "1981-03-21", "rank": 78}, {"date": "1981-03-28", "rank": 88}, {"date": "1981-04-04", "rank": 89}, {"date": "1981-04-11", "rank": 90}, {"date": "1981-04-18", "rank": 89}, {"date": "1981-04-25", "rank": 92}, {"date": "1981-05-02", "rank": 97}, {"date": "1981-05-09", "rank": 97}, {"date": "1981-05-16", "rank": 97}, {"date": "1981-05-23", "rank": 96}, {"date": "1981-05-30", "rank": 111}, {"date": "1981-06-06", "rank": 119}, {"date": "1981-06-13", "rank": 133}, {"date": "1981-06-20", "rank": 131}, {"date": "1981-06-27", "rank": 141}, {"date": "1981-07-04", "rank": 141}, {"date": "1981-07-11", "rank": 151}, {"date": "1981-07-18", "rank": 158}, {"date": "1981-07-25", "rank": 173}, {"date": "1981-08-01", "rank": 199}, {"date": "1982-11-27", "rank": 160}, {"date": "1982-12-04", "rank": 160}, {"date": "1982-12-11", "rank": 140}, {"date": "1982-12-18", "rank": 131}, {"date": "1982-12-25", "rank": 123}, {"date": "1983-01-01", "rank": 123}, {"date": "1983-01-08", "rank": 116}, {"date": "1983-01-15", "rank": 116}, {"date": "1983-01-22", "rank": 116}, {"date": "1983-01-29", "rank": 145}, {"date": "1983-02-05", "rank": 190}, {"date": "1983-02-12", "rank": 188}, {"date": "1983-02-19", "rank": 188}, {"date": "1983-02-26", "rank": 188}, {"date": "1983-03-05", "rank": 188}]}
+{
+  "id": "anne-murray-s-greatest-hits-anne-murray",
+  "title": "Anne Murray's Greatest Hits",
+  "artist": "Anne Murray",
+  "peak": 16,
+  "history": [
+    {
+      "date": "1980-10-04",
+      "rank": 113
+    },
+    {
+      "date": "1980-10-11",
+      "rank": 95
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 65
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 51
+    },
+    {
+      "date": "1980-11-01",
+      "rank": 36
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 30
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 27
+    },
+    {
+      "date": "1980-11-22",
+      "rank": 21
+    },
+    {
+      "date": "1980-11-29",
+      "rank": 18
+    },
+    {
+      "date": "1980-12-06",
+      "rank": 16
+    },
+    {
+      "date": "1980-12-13",
+      "rank": 16
+    },
+    {
+      "date": "1980-12-20",
+      "rank": 16
+    },
+    {
+      "date": "1980-12-27",
+      "rank": 16
+    },
+    {
+      "date": "1981-01-03",
+      "rank": 16
+    },
+    {
+      "date": "1981-01-10",
+      "rank": 30
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 26
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 25
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 32
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 32
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 40
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 40
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 47
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 62
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 67
+    },
+    {
+      "date": "1981-03-21",
+      "rank": 78
+    },
+    {
+      "date": "1981-03-28",
+      "rank": 88
+    },
+    {
+      "date": "1981-04-04",
+      "rank": 89
+    },
+    {
+      "date": "1981-04-11",
+      "rank": 90
+    },
+    {
+      "date": "1981-04-18",
+      "rank": 89
+    },
+    {
+      "date": "1981-04-25",
+      "rank": 92
+    },
+    {
+      "date": "1981-05-02",
+      "rank": 97
+    },
+    {
+      "date": "1981-05-09",
+      "rank": 97
+    },
+    {
+      "date": "1981-05-16",
+      "rank": 97
+    },
+    {
+      "date": "1981-05-23",
+      "rank": 96
+    },
+    {
+      "date": "1981-05-30",
+      "rank": 111
+    },
+    {
+      "date": "1981-06-06",
+      "rank": 119
+    },
+    {
+      "date": "1981-06-13",
+      "rank": 133
+    },
+    {
+      "date": "1981-06-20",
+      "rank": 131
+    },
+    {
+      "date": "1981-06-27",
+      "rank": 141
+    },
+    {
+      "date": "1981-07-04",
+      "rank": 141
+    },
+    {
+      "date": "1981-07-11",
+      "rank": 151
+    },
+    {
+      "date": "1981-07-18",
+      "rank": 158
+    },
+    {
+      "date": "1981-07-25",
+      "rank": 173
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 199
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 160
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 160
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 140
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 131
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 123
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 123
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 116
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 116
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 116
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 145
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 190
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 188
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 188
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 188
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Snowbird",
+      "id": "snowbird-anne-murray"
+    },
+    {
+      "title": "Danny’s Song",
+      "id": "danny-s-song-anne-murray"
+    },
+    {
+      "title": "A Love Song",
+      "id": "love-song-anne-murray"
+    },
+    {
+      "title": "You Won’t See Me",
+      "id": "you-won-t-see-me-anne-murray"
+    },
+    {
+      "title": "You Needed Me",
+      "id": "you-needed-me-anne-murray"
+    },
+    {
+      "title": "I Just Fall in Love Again",
+      "id": "i-just-fall-in-love-again-anne-murray"
+    },
+    {
+      "title": "Shadows in the Moonlight",
+      "id": "shadows-in-the-moonlight-anne-murray"
+    },
+    {
+      "title": "Broken Hearted Me",
+      "id": "broken-hearted-me-anne-murray"
+    },
+    {
+      "title": "Daydream Believer",
+      "id": "daydream-believer-anne-murray"
+    },
+    {
+      "title": "Could I Have This Dance",
+      "id": "could-i-have-this-dance-anne-murray"
+    }
+  ]
+}
