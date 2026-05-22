@@ -1,1 +1,86 @@
-{"id": "aurora-gory-alice-letters-to-cleo", "title": "Aurora Gory Alice", "artist": "Letters To Cleo", "peak": 123, "history": [{"date": "1995-04-08", "rank": 170}, {"date": "1995-04-15", "rank": 165}, {"date": "1995-04-22", "rank": 153}, {"date": "1995-04-29", "rank": 123}, {"date": "1995-05-06", "rank": 145}, {"date": "1995-05-13", "rank": 176}, {"date": "1995-05-20", "rank": 176}, {"date": "1995-06-03", "rank": 195}, {"date": "1995-06-10", "rank": 191}]}
+{
+  "id": "aurora-gory-alice-letters-to-cleo",
+  "title": "Aurora Gory Alice",
+  "artist": "Letters To Cleo",
+  "peak": 123,
+  "history": [
+    {
+      "date": "1995-04-08",
+      "rank": 170
+    },
+    {
+      "date": "1995-04-15",
+      "rank": 165
+    },
+    {
+      "date": "1995-04-22",
+      "rank": 153
+    },
+    {
+      "date": "1995-04-29",
+      "rank": 123
+    },
+    {
+      "date": "1995-05-06",
+      "rank": 145
+    },
+    {
+      "date": "1995-05-13",
+      "rank": 176
+    },
+    {
+      "date": "1995-05-20",
+      "rank": 176
+    },
+    {
+      "date": "1995-06-03",
+      "rank": 195
+    },
+    {
+      "date": "1995-06-10",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Here & Now",
+      "id": "here-now-letters-to-cleo"
+    },
+    {
+      "title": "Big Star",
+      "id": null
+    },
+    {
+      "title": "I See",
+      "id": null
+    },
+    {
+      "title": "Rim Shak",
+      "id": null
+    },
+    {
+      "title": "Wasted",
+      "id": null
+    },
+    {
+      "title": "Get on With It",
+      "id": null
+    },
+    {
+      "title": "From Under the Dust",
+      "id": null
+    },
+    {
+      "title": "Mellie’s Comin’ Over",
+      "id": null
+    },
+    {
+      "title": "Come Around",
+      "id": null
+    },
+    {
+      "title": "Step Back",
+      "id": null
+    }
+  ]
+}

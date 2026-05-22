@@ -1,1 +1,198 @@
-{"id": "austin-post-malone", "title": "Austin", "artist": "Post Malone", "peak": 2, "history": [{"date": "2023-08-12", "rank": 2}, {"date": "2023-08-19", "rank": 7}, {"date": "2023-08-26", "rank": 14}, {"date": "2023-09-02", "rank": 20}, {"date": "2023-09-09", "rank": 27}, {"date": "2023-09-16", "rank": 26}, {"date": "2023-09-23", "rank": 33}, {"date": "2023-09-30", "rank": 40}, {"date": "2023-10-07", "rank": 51}, {"date": "2023-10-14", "rank": 62}, {"date": "2023-10-21", "rank": 64}, {"date": "2023-10-28", "rank": 74}, {"date": "2023-11-04", "rank": 82}, {"date": "2023-11-11", "rank": 94}, {"date": "2023-11-18", "rank": 99}, {"date": "2023-11-25", "rank": 110}, {"date": "2023-12-16", "rank": 135}, {"date": "2023-12-23", "rank": 142}, {"date": "2023-12-30", "rank": 167}, {"date": "2024-01-06", "rank": 196}, {"date": "2024-01-13", "rank": 135}, {"date": "2024-01-20", "rank": 145}, {"date": "2024-01-27", "rank": 171}, {"date": "2024-02-03", "rank": 175}, {"date": "2024-02-10", "rank": 194}, {"date": "2024-02-24", "rank": 187}, {"date": "2024-03-02", "rank": 187}, {"date": "2024-04-13", "rank": 195}, {"date": "2024-05-25", "rank": 184}]}
+{
+  "id": "austin-post-malone",
+  "title": "Austin",
+  "artist": "Post Malone",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2023-08-12",
+      "rank": 2
+    },
+    {
+      "date": "2023-08-19",
+      "rank": 7
+    },
+    {
+      "date": "2023-08-26",
+      "rank": 14
+    },
+    {
+      "date": "2023-09-02",
+      "rank": 20
+    },
+    {
+      "date": "2023-09-09",
+      "rank": 27
+    },
+    {
+      "date": "2023-09-16",
+      "rank": 26
+    },
+    {
+      "date": "2023-09-23",
+      "rank": 33
+    },
+    {
+      "date": "2023-09-30",
+      "rank": 40
+    },
+    {
+      "date": "2023-10-07",
+      "rank": 51
+    },
+    {
+      "date": "2023-10-14",
+      "rank": 62
+    },
+    {
+      "date": "2023-10-21",
+      "rank": 64
+    },
+    {
+      "date": "2023-10-28",
+      "rank": 74
+    },
+    {
+      "date": "2023-11-04",
+      "rank": 82
+    },
+    {
+      "date": "2023-11-11",
+      "rank": 94
+    },
+    {
+      "date": "2023-11-18",
+      "rank": 99
+    },
+    {
+      "date": "2023-11-25",
+      "rank": 110
+    },
+    {
+      "date": "2023-12-16",
+      "rank": 135
+    },
+    {
+      "date": "2023-12-23",
+      "rank": 142
+    },
+    {
+      "date": "2023-12-30",
+      "rank": 167
+    },
+    {
+      "date": "2024-01-06",
+      "rank": 196
+    },
+    {
+      "date": "2024-01-13",
+      "rank": 135
+    },
+    {
+      "date": "2024-01-20",
+      "rank": 145
+    },
+    {
+      "date": "2024-01-27",
+      "rank": 171
+    },
+    {
+      "date": "2024-02-03",
+      "rank": 175
+    },
+    {
+      "date": "2024-02-10",
+      "rank": 194
+    },
+    {
+      "date": "2024-02-24",
+      "rank": 187
+    },
+    {
+      "date": "2024-03-02",
+      "rank": 187
+    },
+    {
+      "date": "2024-04-13",
+      "rank": 195
+    },
+    {
+      "date": "2024-05-25",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Understand",
+      "id": "don-t-understand-post-malone"
+    },
+    {
+      "title": "Something Real",
+      "id": "something-real-post-malone"
+    },
+    {
+      "title": "Chemical",
+      "id": "chemical-post-malone"
+    },
+    {
+      "title": "Novacandy",
+      "id": "novacandy-post-malone"
+    },
+    {
+      "title": "Mourning",
+      "id": "mourning-post-malone"
+    },
+    {
+      "title": "Too Cool to Die",
+      "id": "too-cool-to-die-post-malone"
+    },
+    {
+      "title": "Overdrive",
+      "id": "overdrive-post-malone"
+    },
+    {
+      "title": "Enough Is Enough",
+      "id": "enough-is-enough-post-malone"
+    },
+    {
+      "title": "Sign Me Up",
+      "id": null
+    },
+    {
+      "title": "Socialite",
+      "id": null
+    },
+    {
+      "title": "Speedometer",
+      "id": null
+    },
+    {
+      "title": "Hold My Breath",
+      "id": null
+    },
+    {
+      "title": "Texas Tea",
+      "id": null
+    },
+    {
+      "title": "Buyer Beware",
+      "id": null
+    },
+    {
+      "title": "Landmine",
+      "id": null
+    },
+    {
+      "title": "Green Thumb",
+      "id": null
+    },
+    {
+      "title": "Laugh It Off",
+      "id": null
+    },
+    {
+      "title": "Joy",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"id": "aurora-breaking-benjamin", "title": "Aurora", "artist": "Breaking Benjamin", "peak": 29, "history": [{"date": "2020-02-08", "rank": 29}]}
+{
+  "id": "aurora-breaking-benjamin",
+  "title": "Aurora",
+  "artist": "Breaking Benjamin",
+  "peak": 29,
+  "history": [
+    {
+      "date": "2020-02-08",
+      "rank": 29
+    }
+  ],
+  "tracks": [
+    {
+      "title": "So Cold",
+      "id": "so-cold-breaking-benjamin"
+    },
+    {
+      "title": "Failure",
+      "id": "failure-breaking-benjamin"
+    },
+    {
+      "title": "Far Away",
+      "id": null
+    },
+    {
+      "title": "Angels Fall",
+      "id": null
+    },
+    {
+      "title": "Red Cold River",
+      "id": null
+    },
+    {
+      "title": "Tourniquet",
+      "id": null
+    },
+    {
+      "title": "Dance With the Devil",
+      "id": null
+    },
+    {
+      "title": "Never Again",
+      "id": null
+    },
+    {
+      "title": "Torn in Two",
+      "id": null
+    },
+    {
+      "title": "Dear Agony",
+      "id": null
+    }
+  ]
+}
