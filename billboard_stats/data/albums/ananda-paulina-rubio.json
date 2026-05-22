@@ -1,1 +1,86 @@
-{"id": "ananda-paulina-rubio", "title": "Ananda", "artist": "Paulina Rubio", "peak": 31, "history": [{"date": "2006-10-07", "rank": 31}, {"date": "2006-10-14", "rank": 65}, {"date": "2006-10-21", "rank": 118}, {"date": "2006-10-28", "rank": 141}, {"date": "2006-11-04", "rank": 155}, {"date": "2006-11-11", "rank": 181}]}
+{
+  "id": "ananda-paulina-rubio",
+  "title": "Ananda",
+  "artist": "Paulina Rubio",
+  "peak": 31,
+  "history": [
+    {
+      "date": "2006-10-07",
+      "rank": 31
+    },
+    {
+      "date": "2006-10-14",
+      "rank": 65
+    },
+    {
+      "date": "2006-10-21",
+      "rank": 118
+    },
+    {
+      "date": "2006-10-28",
+      "rank": 141
+    },
+    {
+      "date": "2006-11-04",
+      "rank": 155
+    },
+    {
+      "date": "2006-11-11",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ni una sola palabra",
+      "id": "ni-una-sola-palabra-paulina-rubio"
+    },
+    {
+      "title": "Nada puede cambiarme",
+      "id": null
+    },
+    {
+      "title": "Ayúdame",
+      "id": null
+    },
+    {
+      "title": "N.O.",
+      "id": null
+    },
+    {
+      "title": "Que me voy a quedar",
+      "id": null
+    },
+    {
+      "title": "Aunque no sea conmigo",
+      "id": null
+    },
+    {
+      "title": "No te cambio",
+      "id": null
+    },
+    {
+      "title": "Retrato",
+      "id": null
+    },
+    {
+      "title": "Miénteme una vez más",
+      "id": null
+    },
+    {
+      "title": "Hoy",
+      "id": null
+    },
+    {
+      "title": "Lo que pensamos",
+      "id": null
+    },
+    {
+      "title": "Tú y yo",
+      "id": null
+    },
+    {
+      "title": "Sin final",
+      "id": null
+    }
+  ]
+}
