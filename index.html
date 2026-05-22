@@ -237,6 +237,10 @@
                 // Filter for history matching the currently selected chart dropdown
                 const relevantHistory = history.filter(entry => {
                     const chartStr = (entry.chart || entry.chart_name || entry.chart_type || entry.name || '').toLowerCase();
+                    
+                    // If the history entry doesn't explicitly name a chart, assume it's valid
+                    if (!chartStr) return true;
+                    
                     const cleanChartStr = chartStr.replace(/[^a-z0-9]/g, '');
                     const cleanCurrent = currentChartType.toLowerCase().replace(/[^a-z0-9]/g, '');
                     return cleanChartStr === cleanCurrent || 
