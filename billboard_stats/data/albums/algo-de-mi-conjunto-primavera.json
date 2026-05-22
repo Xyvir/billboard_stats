@@ -1,1 +1,66 @@
-{"id": "algo-de-mi-conjunto-primavera", "title": "Algo De Mi", "artist": "Conjunto Primavera", "peak": 82, "history": [{"date": "2006-03-18", "rank": 82}, {"date": "2006-03-25", "rank": 104}, {"date": "2006-04-01", "rank": 149}, {"date": "2006-04-08", "rank": 198}]}
+{
+  "id": "algo-de-mi-conjunto-primavera",
+  "title": "Algo De Mi",
+  "artist": "Conjunto Primavera",
+  "peak": 82,
+  "history": [
+    {
+      "date": "2006-03-18",
+      "rank": 82
+    },
+    {
+      "date": "2006-03-25",
+      "rank": 104
+    },
+    {
+      "date": "2006-04-01",
+      "rank": 149
+    },
+    {
+      "date": "2006-04-08",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Déjame decirte",
+      "id": null
+    },
+    {
+      "title": "Algo de mí",
+      "id": null
+    },
+    {
+      "title": "Díganle",
+      "id": null
+    },
+    {
+      "title": "Si vuelve ya",
+      "id": null
+    },
+    {
+      "title": "Con la mitad",
+      "id": null
+    },
+    {
+      "title": "Ni así me rajo",
+      "id": null
+    },
+    {
+      "title": "Sólo",
+      "id": null
+    },
+    {
+      "title": "Te necesito",
+      "id": null
+    },
+    {
+      "title": "No se decirte adios",
+      "id": null
+    },
+    {
+      "title": "Gracias por estar conmigo",
+      "id": null
+    }
+  ]
+}

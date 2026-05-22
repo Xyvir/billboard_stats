@@ -1,1 +1,66 @@
-{"id": "album-girls", "title": "Album", "artist": "Girls", "peak": 136, "history": [{"date": "2009-10-10", "rank": 136}, {"date": "2009-10-17", "rank": 164}]}
+{
+  "id": "album-girls",
+  "title": "Album",
+  "artist": "Girls",
+  "peak": 136,
+  "history": [
+    {
+      "date": "2009-10-10",
+      "rank": 136
+    },
+    {
+      "date": "2009-10-17",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lust for Life",
+      "id": null
+    },
+    {
+      "title": "Laura",
+      "id": null
+    },
+    {
+      "title": "Ghost Mouth",
+      "id": null
+    },
+    {
+      "title": "God Damned",
+      "id": null
+    },
+    {
+      "title": "Big Bad Mean Motherfucker",
+      "id": null
+    },
+    {
+      "title": "Hellhole Ratrace",
+      "id": null
+    },
+    {
+      "title": "Headache",
+      "id": null
+    },
+    {
+      "title": "Summertime",
+      "id": null
+    },
+    {
+      "title": "Lauren Marie",
+      "id": null
+    },
+    {
+      "title": "Morning Light",
+      "id": null
+    },
+    {
+      "title": "Curls",
+      "id": null
+    },
+    {
+      "title": "Darling",
+      "id": null
+    }
+  ]
+}

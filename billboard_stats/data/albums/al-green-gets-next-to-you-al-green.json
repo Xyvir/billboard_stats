@@ -1,1 +1,70 @@
-{"id": "al-green-gets-next-to-you-al-green", "title": "Al Green Gets Next To You", "artist": "Al Green", "peak": 144, "history": [{"date": "1972-05-20", "rank": 146}, {"date": "1972-05-27", "rank": 144}, {"date": "1972-06-03", "rank": 155}, {"date": "1972-06-10", "rank": 161}, {"date": "1972-06-17", "rank": 193}]}
+{
+  "id": "al-green-gets-next-to-you-al-green",
+  "title": "Al Green Gets Next To You",
+  "artist": "Al Green",
+  "peak": 144,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 146
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 144
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 155
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 161
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Can’t Get Next to You",
+      "id": "i-can-t-get-next-to-you-al-green"
+    },
+    {
+      "title": "Are You Lonely for Me Baby",
+      "id": "look-what-you-done-for-me-al-green"
+    },
+    {
+      "title": "Tired of Being Alone",
+      "id": "tired-of-being-alone-al-green"
+    },
+    {
+      "title": "God Is Standing By",
+      "id": null
+    },
+    {
+      "title": "I’m a Ram",
+      "id": null
+    },
+    {
+      "title": "Driving Wheel",
+      "id": null
+    },
+    {
+      "title": "Light My Fire",
+      "id": null
+    },
+    {
+      "title": "You Say It",
+      "id": null
+    },
+    {
+      "title": "Right Now, Right Now",
+      "id": null
+    },
+    {
+      "title": "All Because",
+      "id": null
+    }
+  ]
+}

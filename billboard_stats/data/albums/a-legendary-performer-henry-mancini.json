@@ -1,1 +1,70 @@
-{"id": "a-legendary-performer-henry-mancini", "title": "A Legendary Performer", "artist": "Henry Mancini", "peak": 161, "history": [{"date": "1976-09-18", "rank": 181}, {"date": "1976-09-25", "rank": 171}, {"date": "1976-10-02", "rank": 161}, {"date": "1976-10-09", "rank": 161}]}
+{
+  "id": "a-legendary-performer-henry-mancini",
+  "title": "A Legendary Performer",
+  "artist": "Henry Mancini",
+  "peak": 161,
+  "history": [
+    {
+      "date": "1976-09-18",
+      "rank": 181
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 171
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 161
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mr. Lucky",
+      "id": "mr-lucky-henry-mancini"
+    },
+    {
+      "title": "Three by Mancini: Days of Wine and Roses, Charade, Moon River",
+      "id": null
+    },
+    {
+      "title": "Love Theme From Romeo and Juliet",
+      "id": null
+    },
+    {
+      "title": "Two for the Road",
+      "id": null
+    },
+    {
+      "title": "Moment to Moment",
+      "id": null
+    },
+    {
+      "title": "Dear Heart",
+      "id": null
+    },
+    {
+      "title": "Peter Gunn (New version)",
+      "id": null
+    },
+    {
+      "title": "The Pink Panther Theme",
+      "id": null
+    },
+    {
+      "title": "Baby Elephant Walk",
+      "id": null
+    },
+    {
+      "title": "Theme From Hatari",
+      "id": null
+    },
+    {
+      "title": "Rhapsody in Blue",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "album-number-two-joey-rory", "title": "Album Number Two", "artist": "Joey + Rory", "peak": 60, "history": [{"date": "2010-10-02", "rank": 60}, {"date": "2010-10-09", "rank": 90}, {"date": "2010-10-16", "rank": 173}]}
+{
+  "id": "album-number-two-joey-rory",
+  "title": "Album Number Two",
+  "artist": "Joey + Rory",
+  "peak": 60,
+  "history": [
+    {
+      "date": "2010-10-02",
+      "rank": 60
+    },
+    {
+      "date": "2010-10-09",
+      "rank": 90
+    },
+    {
+      "date": "2010-10-16",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Album Number Two",
+      "id": null
+    },
+    {
+      "title": "That’s Important to Me",
+      "id": null
+    },
+    {
+      "title": "All You Need Is Me",
+      "id": null
+    },
+    {
+      "title": "Born to Be Your Woman",
+      "id": null
+    },
+    {
+      "title": "Baby I'll Come Back to You",
+      "id": null
+    },
+    {
+      "title": "God Help My Man",
+      "id": null
+    },
+    {
+      "title": "The Horse Nobody Could Ride",
+      "id": null
+    },
+    {
+      "title": "Farm to Fame",
+      "id": null
+    },
+    {
+      "title": "Where Jesus Is",
+      "id": null
+    },
+    {
+      "title": "You Ain't Right",
+      "id": null
+    },
+    {
+      "title": "My Ol' Man",
+      "id": null
+    },
+    {
+      "title": "This Song's for You",
+      "id": null
+    }
+  ]
+}
