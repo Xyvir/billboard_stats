@@ -1,1 +1,86 @@
-{"id": "after-hours-gary-moore", "title": "After Hours", "artist": "Gary Moore", "peak": 145, "history": [{"date": "1992-03-28", "rank": 145}, {"date": "1992-04-04", "rank": 152}, {"date": "1992-04-11", "rank": 153}, {"date": "1992-04-18", "rank": 153}, {"date": "1992-04-25", "rank": 151}, {"date": "1992-05-02", "rank": 160}, {"date": "1992-05-09", "rank": 164}, {"date": "1992-05-16", "rank": 185}]}
+{
+  "id": "after-hours-gary-moore",
+  "title": "After Hours",
+  "artist": "Gary Moore",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1992-03-28",
+      "rank": 145
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 152
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 153
+    },
+    {
+      "date": "1992-04-18",
+      "rank": 153
+    },
+    {
+      "date": "1992-04-25",
+      "rank": 151
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 160
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 164
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Story of the Blues",
+      "id": "still-got-the-blues-gary-moore"
+    },
+    {
+      "title": "Cold Day in Hell",
+      "id": null
+    },
+    {
+      "title": "Don’t You Lie to Me (I Get Evil)",
+      "id": null
+    },
+    {
+      "title": "Since I Met You",
+      "id": null
+    },
+    {
+      "title": "Separate Ways",
+      "id": null
+    },
+    {
+      "title": "Only Fool in Town",
+      "id": null
+    },
+    {
+      "title": "Key to Love",
+      "id": null
+    },
+    {
+      "title": "Jumpin’ at Shadows",
+      "id": null
+    },
+    {
+      "title": "The Blues Is Alright",
+      "id": null
+    },
+    {
+      "title": "The Hurt Inside",
+      "id": null
+    },
+    {
+      "title": "Nothing’s the Same",
+      "id": null
+    }
+  ]
+}
