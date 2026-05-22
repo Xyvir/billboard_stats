@@ -182,7 +182,10 @@
             if (matchedArtists.length > 0) {
                 html += '<div style="padding: 0.5rem; background: #333; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Artists</div>';
                 matchedArtists.forEach(artist => {
-                    const id = artist.id || artist.ref;
+                    let id = artist.id || artist.ref;
+                    if (id) {
+                        id = id.replace(/^artists\//, '').replace(/\.json$/, '');
+                    }
                     html += `<div style="padding: 0.5rem; cursor: pointer; border-bottom: 1px solid var(--border);" 
                                   onclick="document.getElementById('searchResults').style.display='none'; loadDetail('artists', '${id}')"
                                   onmouseover="this.style.background='#333'" onmouseout="this.style.background='transparent'">
@@ -194,7 +197,10 @@
             if (matchedSongs.length > 0) {
                 html += '<div style="padding: 0.5rem; background: #333; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Songs</div>';
                 matchedSongs.forEach(song => {
-                    const id = song.id || song.ref;
+                    let id = song.id || song.ref;
+                    if (id) {
+                        id = id.replace(/^songs\//, '').replace(/\.json$/, '');
+                    }
                     html += `<div style="padding: 0.5rem; cursor: pointer; border-bottom: 1px solid var(--border);" 
                                   onclick="onSongSearchClick('${id}')"
                                   onmouseover="this.style.background='#333'" onmouseout="this.style.background='transparent'">
