@@ -1,1 +1,66 @@
-{"id": "acid-queen-tina-turner", "title": "Acid Queen", "artist": "Tina Turner", "peak": 155, "history": [{"date": "1975-09-20", "rank": 182}, {"date": "1975-09-27", "rank": 171}, {"date": "1975-10-04", "rank": 165}, {"date": "1975-10-11", "rank": 157}, {"date": "1975-10-18", "rank": 155}]}
+{
+  "id": "acid-queen-tina-turner",
+  "title": "Acid Queen",
+  "artist": "Tina Turner",
+  "peak": 155,
+  "history": [
+    {
+      "date": "1975-09-20",
+      "rank": 182
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 171
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 165
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 157
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let’s Spend the Night Together",
+      "id": "let-s-stay-together-tina-turner"
+    },
+    {
+      "title": "Baby – Get It On",
+      "id": "baby-get-it-on-ike-tina-turner"
+    },
+    {
+      "title": "Under My Thumb",
+      "id": null
+    },
+    {
+      "title": "Acid Queen",
+      "id": null
+    },
+    {
+      "title": "I Can See for Miles",
+      "id": null
+    },
+    {
+      "title": "Whole Lotta Love",
+      "id": null
+    },
+    {
+      "title": "Bootsey Whitelaw",
+      "id": null
+    },
+    {
+      "title": "Pick Me Tonight",
+      "id": null
+    },
+    {
+      "title": "Rockin’ and Rollin’",
+      "id": null
+    }
+  ]
+}

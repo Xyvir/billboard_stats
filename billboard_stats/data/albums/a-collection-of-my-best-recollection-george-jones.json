@@ -1,1 +1,74 @@
-{"id": "a-collection-of-my-best-recollection-george-jones", "title": "A Collection Of My Best Recollection", "artist": "George Jones", "peak": 88, "history": [{"date": "2009-09-19", "rank": 88}, {"date": "2009-09-26", "rank": 109}, {"date": "2009-10-03", "rank": 103}, {"date": "2009-10-10", "rank": 133}]}
+{
+  "id": "a-collection-of-my-best-recollection-george-jones",
+  "title": "A Collection Of My Best Recollection",
+  "artist": "George Jones",
+  "peak": 88,
+  "history": [
+    {
+      "date": "2009-09-19",
+      "rank": 88
+    },
+    {
+      "date": "2009-09-26",
+      "rank": 109
+    },
+    {
+      "date": "2009-10-03",
+      "rank": 103
+    },
+    {
+      "date": "2009-10-10",
+      "rank": 133
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Race Is On",
+      "id": "the-race-is-on-george-jones"
+    },
+    {
+      "title": "White Lightning",
+      "id": "white-lightning-george-jones"
+    },
+    {
+      "title": "The Love in Your Eyes",
+      "id": null
+    },
+    {
+      "title": "Finally Friday",
+      "id": null
+    },
+    {
+      "title": "I Really Don’t Want to Know",
+      "id": null
+    },
+    {
+      "title": "I’m a Long Gone Daddy",
+      "id": null
+    },
+    {
+      "title": "Window Up Above",
+      "id": null
+    },
+    {
+      "title": "I Don’t Need Your Rockin’ Chair",
+      "id": null
+    },
+    {
+      "title": "Achin’, Breakin’ Heart",
+      "id": null
+    },
+    {
+      "title": "Why Baby Why",
+      "id": null
+    },
+    {
+      "title": "You’re Still on My Mind",
+      "id": null
+    },
+    {
+      "title": "He Stopped Loving Her Today",
+      "id": null
+    }
+  ]
+}

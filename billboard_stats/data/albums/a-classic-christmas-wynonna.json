@@ -1,1 +1,74 @@
-{"id": "a-classic-christmas-wynonna", "title": "A Classic Christmas", "artist": "Wynonna", "peak": 53, "history": [{"date": "2006-12-02", "rank": 155}, {"date": "2006-12-09", "rank": 190}, {"date": "2006-12-16", "rank": 53}, {"date": "2006-12-23", "rank": 77}, {"date": "2006-12-30", "rank": 117}]}
+{
+  "id": "a-classic-christmas-wynonna",
+  "title": "A Classic Christmas",
+  "artist": "Wynonna",
+  "peak": 53,
+  "history": [
+    {
+      "date": "2006-12-02",
+      "rank": 155
+    },
+    {
+      "date": "2006-12-09",
+      "rank": 190
+    },
+    {
+      "date": "2006-12-16",
+      "rank": 53
+    },
+    {
+      "date": "2006-12-23",
+      "rank": 77
+    },
+    {
+      "date": "2006-12-30",
+      "rank": 117
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Christmas Song",
+      "id": null
+    },
+    {
+      "title": "Winter Wonderland",
+      "id": null
+    },
+    {
+      "title": "White Christmas",
+      "id": null
+    },
+    {
+      "title": "I'll Be Home for Christmas",
+      "id": null
+    },
+    {
+      "title": "Santa Claus Is Coming to Town",
+      "id": null
+    },
+    {
+      "title": "Have Yourself a Merry Little Christmas",
+      "id": null
+    },
+    {
+      "title": "Ave Maria",
+      "id": null
+    },
+    {
+      "title": "O Come, O Come, Emmanuel",
+      "id": null
+    },
+    {
+      "title": "O Holy Night",
+      "id": null
+    },
+    {
+      "title": "Silent Night",
+      "id": null
+    },
+    {
+      "title": "It's the Messiah",
+      "id": null
+    }
+  ]
+}

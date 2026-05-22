@@ -1,1 +1,98 @@
-{"id": "a-collection-of-great-dance-songs-pink-floyd", "title": "A Collection Of Great Dance Songs", "artist": "Pink Floyd", "peak": 31, "history": [{"date": "1981-12-12", "rank": 63}, {"date": "1981-12-19", "rank": 36}, {"date": "1981-12-26", "rank": 33}, {"date": "1982-01-02", "rank": 33}, {"date": "1982-01-09", "rank": 31}, {"date": "1982-01-16", "rank": 31}, {"date": "1982-01-23", "rank": 33}, {"date": "1982-01-30", "rank": 39}, {"date": "1982-02-06", "rank": 42}, {"date": "1982-02-13", "rank": 53}, {"date": "1982-02-20", "rank": 62}, {"date": "1982-02-27", "rank": 81}, {"date": "1982-03-06", "rank": 96}, {"date": "1982-03-13", "rank": 146}, {"date": "1982-03-20", "rank": 166}, {"date": "1982-03-27", "rank": 186}]}
+{
+  "id": "a-collection-of-great-dance-songs-pink-floyd",
+  "title": "A Collection Of Great Dance Songs",
+  "artist": "Pink Floyd",
+  "peak": 31,
+  "history": [
+    {
+      "date": "1981-12-12",
+      "rank": 63
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 36
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 33
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 33
+    },
+    {
+      "date": "1982-01-09",
+      "rank": 31
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 31
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 33
+    },
+    {
+      "date": "1982-01-30",
+      "rank": 39
+    },
+    {
+      "date": "1982-02-06",
+      "rank": 42
+    },
+    {
+      "date": "1982-02-13",
+      "rank": 53
+    },
+    {
+      "date": "1982-02-20",
+      "rank": 62
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 81
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 96
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 146
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 166
+    },
+    {
+      "date": "1982-03-27",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Money",
+      "id": "money-pink-floyd"
+    },
+    {
+      "title": "Another Brick in the Wall, Part 2",
+      "id": "another-brick-in-the-wall-part-ii-pink-floyd"
+    },
+    {
+      "title": "One of These Days",
+      "id": null
+    },
+    {
+      "title": "Sheep",
+      "id": null
+    },
+    {
+      "title": "Shine On You Crazy Diamond",
+      "id": null
+    },
+    {
+      "title": "Wish You Were Here",
+      "id": null
+    }
+  ]
+}
