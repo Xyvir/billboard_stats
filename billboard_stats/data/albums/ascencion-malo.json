@@ -1,1 +1,62 @@
-{"id": "ascencion-malo", "title": "Ascencion", "artist": "Malo", "peak": 188, "history": [{"date": "1974-03-23", "rank": 192}, {"date": "1974-03-30", "rank": 188}, {"date": "1974-04-06", "rank": 197}]}
+{
+  "id": "ascencion-malo",
+  "title": "Ascencion",
+  "artist": "Malo",
+  "peak": 188,
+  "history": [
+    {
+      "date": "1974-03-23",
+      "rank": 192
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 188
+    },
+    {
+      "date": "1974-04-06",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Offerings",
+      "id": null
+    },
+    {
+      "title": "A La Escuela",
+      "id": null
+    },
+    {
+      "title": "Everlasting Night",
+      "id": null
+    },
+    {
+      "title": "Latin Woman",
+      "id": null
+    },
+    {
+      "title": "Chévere",
+      "id": null
+    },
+    {
+      "title": "Love Will Survive",
+      "id": null
+    },
+    {
+      "title": "Think About Love",
+      "id": null
+    },
+    {
+      "title": "Tiempo De Recordar",
+      "id": null
+    },
+    {
+      "title": "Close to Me",
+      "id": null
+    },
+    {
+      "title": "No Matter",
+      "id": null
+    }
+  ]
+}

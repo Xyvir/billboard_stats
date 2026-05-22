@@ -1,1 +1,70 @@
-{"id": "artistry-deodato", "title": "Artistry", "artist": "Deodato", "peak": 102, "history": [{"date": "1974-11-16", "rank": 114}, {"date": "1974-11-23", "rank": 102}, {"date": "1974-11-30", "rank": 102}, {"date": "1974-12-07", "rank": 123}, {"date": "1974-12-14", "rank": 135}, {"date": "1974-12-21", "rank": 161}, {"date": "1974-12-28", "rank": 160}, {"date": "1975-01-04", "rank": 173}, {"date": "1975-01-11", "rank": 184}]}
+{
+  "id": "artistry-deodato",
+  "title": "Artistry",
+  "artist": "Deodato",
+  "peak": 102,
+  "history": [
+    {
+      "date": "1974-11-16",
+      "rank": 114
+    },
+    {
+      "date": "1974-11-23",
+      "rank": 102
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 102
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 123
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 135
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 161
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 160
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 173
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intro / Rio Sangre",
+      "id": null
+    },
+    {
+      "title": "St. Louis Blues",
+      "id": null
+    },
+    {
+      "title": "Farewell to a Friend",
+      "id": null
+    },
+    {
+      "title": "Super Strut",
+      "id": null
+    },
+    {
+      "title": "Pavane for a Dead Princess",
+      "id": null
+    },
+    {
+      "title": "Jivin'",
+      "id": null
+    }
+  ]
+}

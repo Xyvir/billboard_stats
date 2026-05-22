@@ -1,1 +1,58 @@
-{"id": "art-in-america-art-in-america", "title": "Art In America", "artist": "Art In America", "peak": 176, "history": [{"date": "1983-03-26", "rank": 188}, {"date": "1983-04-02", "rank": 182}, {"date": "1983-04-09", "rank": 176}]}
+{
+  "id": "art-in-america-art-in-america",
+  "title": "Art In America",
+  "artist": "Art In America",
+  "peak": 176,
+  "history": [
+    {
+      "date": "1983-03-26",
+      "rank": 188
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 182
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Art in America",
+      "id": null
+    },
+    {
+      "title": "If I Could Fly",
+      "id": null
+    },
+    {
+      "title": "Undercover Lover",
+      "id": null
+    },
+    {
+      "title": "Sinatra Serenade",
+      "id": null
+    },
+    {
+      "title": "The Line",
+      "id": null
+    },
+    {
+      "title": "Loot",
+      "id": null
+    },
+    {
+      "title": "Won't It Be Strange",
+      "id": null
+    },
+    {
+      "title": "Too Shy to Say",
+      "id": null
+    },
+    {
+      "title": "Brett & Hibby",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,262 @@
-{"id": "as-cruel-as-school-children-gym-class-heroes", "title": "As Cruel As School Children", "artist": "Gym Class Heroes", "peak": 35, "history": [{"date": "2006-08-12", "rank": 93}, {"date": "2006-08-19", "rank": 146}, {"date": "2006-08-26", "rank": 183}, {"date": "2006-09-02", "rank": 195}, {"date": "2007-01-20", "rank": 187}, {"date": "2007-02-03", "rank": 85}, {"date": "2007-02-10", "rank": 111}, {"date": "2007-02-17", "rank": 96}, {"date": "2007-02-24", "rank": 55}, {"date": "2007-03-03", "rank": 69}, {"date": "2007-03-10", "rank": 49}, {"date": "2007-03-17", "rank": 40}, {"date": "2007-03-24", "rank": 35}, {"date": "2007-03-31", "rank": 39}, {"date": "2007-04-07", "rank": 40}, {"date": "2007-04-14", "rank": 48}, {"date": "2007-04-21", "rank": 69}, {"date": "2007-04-28", "rank": 62}, {"date": "2007-05-05", "rank": 59}, {"date": "2007-05-12", "rank": 67}, {"date": "2007-05-19", "rank": 84}, {"date": "2007-05-26", "rank": 86}, {"date": "2007-06-02", "rank": 61}, {"date": "2007-06-09", "rank": 48}, {"date": "2007-06-16", "rank": 45}, {"date": "2007-06-23", "rank": 66}, {"date": "2007-06-30", "rank": 84}, {"date": "2007-07-07", "rank": 84}, {"date": "2007-07-14", "rank": 93}, {"date": "2007-07-21", "rank": 93}, {"date": "2007-07-28", "rank": 88}, {"date": "2007-08-04", "rank": 98}, {"date": "2007-08-11", "rank": 101}, {"date": "2007-08-18", "rank": 109}, {"date": "2007-08-25", "rank": 114}, {"date": "2007-09-01", "rank": 138}, {"date": "2007-09-08", "rank": 159}, {"date": "2007-09-15", "rank": 186}, {"date": "2007-09-22", "rank": 178}, {"date": "2007-09-29", "rank": 118}, {"date": "2007-10-06", "rank": 175}]}
+{
+  "id": "as-cruel-as-school-children-gym-class-heroes",
+  "title": "As Cruel As School Children",
+  "artist": "Gym Class Heroes",
+  "peak": 35,
+  "history": [
+    {
+      "date": "2006-08-12",
+      "rank": 93
+    },
+    {
+      "date": "2006-08-19",
+      "rank": 146
+    },
+    {
+      "date": "2006-08-26",
+      "rank": 183
+    },
+    {
+      "date": "2006-09-02",
+      "rank": 195
+    },
+    {
+      "date": "2007-01-20",
+      "rank": 187
+    },
+    {
+      "date": "2007-02-03",
+      "rank": 85
+    },
+    {
+      "date": "2007-02-10",
+      "rank": 111
+    },
+    {
+      "date": "2007-02-17",
+      "rank": 96
+    },
+    {
+      "date": "2007-02-24",
+      "rank": 55
+    },
+    {
+      "date": "2007-03-03",
+      "rank": 69
+    },
+    {
+      "date": "2007-03-10",
+      "rank": 49
+    },
+    {
+      "date": "2007-03-17",
+      "rank": 40
+    },
+    {
+      "date": "2007-03-24",
+      "rank": 35
+    },
+    {
+      "date": "2007-03-31",
+      "rank": 39
+    },
+    {
+      "date": "2007-04-07",
+      "rank": 40
+    },
+    {
+      "date": "2007-04-14",
+      "rank": 48
+    },
+    {
+      "date": "2007-04-21",
+      "rank": 69
+    },
+    {
+      "date": "2007-04-28",
+      "rank": 62
+    },
+    {
+      "date": "2007-05-05",
+      "rank": 59
+    },
+    {
+      "date": "2007-05-12",
+      "rank": 67
+    },
+    {
+      "date": "2007-05-19",
+      "rank": 84
+    },
+    {
+      "date": "2007-05-26",
+      "rank": 86
+    },
+    {
+      "date": "2007-06-02",
+      "rank": 61
+    },
+    {
+      "date": "2007-06-09",
+      "rank": 48
+    },
+    {
+      "date": "2007-06-16",
+      "rank": 45
+    },
+    {
+      "date": "2007-06-23",
+      "rank": 66
+    },
+    {
+      "date": "2007-06-30",
+      "rank": 84
+    },
+    {
+      "date": "2007-07-07",
+      "rank": 84
+    },
+    {
+      "date": "2007-07-14",
+      "rank": 93
+    },
+    {
+      "date": "2007-07-21",
+      "rank": 93
+    },
+    {
+      "date": "2007-07-28",
+      "rank": 88
+    },
+    {
+      "date": "2007-08-04",
+      "rank": 98
+    },
+    {
+      "date": "2007-08-11",
+      "rank": 101
+    },
+    {
+      "date": "2007-08-18",
+      "rank": 109
+    },
+    {
+      "date": "2007-08-25",
+      "rank": 114
+    },
+    {
+      "date": "2007-09-01",
+      "rank": 138
+    },
+    {
+      "date": "2007-09-08",
+      "rank": 159
+    },
+    {
+      "date": "2007-09-15",
+      "rank": 186
+    },
+    {
+      "date": "2007-09-22",
+      "rank": 178
+    },
+    {
+      "date": "2007-09-29",
+      "rank": 118
+    },
+    {
+      "date": "2007-10-06",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "4th Period: Clothes Off!",
+      "id": "clothes-off-gym-class-heroes"
+    },
+    {
+      "title": "Clothes Off!! (Stress remix)",
+      "id": "clothes-off-gym-class-heroes"
+    },
+    {
+      "title": "Videos: 4 Live Videos Filmed at The Pipeline in Honolulu, Hawaii, Shoot Down the Stars and Clothes Off!! Music Videos, Clothes Off!! - Beyond the Video",
+      "id": null
+    },
+    {
+      "title": "Extras: Photo Gallery, Pre-Encoded Digital Music Files of All Audio Tracks, Make Your Own Mix of \"Shoot Down the Stars\" and \"Clothes Off!!\" With Nu-Myx, Create Your Own Ringtones With Ur Tone, Lyrics, Booklet PDF, Wallpapers, Buddy Icons and More!",
+      "id": null
+    },
+    {
+      "title": "Karaoke: The Queen and I, Shoot Down the Stars",
+      "id": null
+    },
+    {
+      "title": "1st Period: The Queen and I",
+      "id": null
+    },
+    {
+      "title": "2nd Period: Shoot Down the Stars",
+      "id": null
+    },
+    {
+      "title": "3rd Period: New Friend Request",
+      "id": null
+    },
+    {
+      "title": "Lunch: Sloppy Love Jingle, Part 1",
+      "id": null
+    },
+    {
+      "title": "6th Period: Viva La White Girl",
+      "id": null
+    },
+    {
+      "title": "7th Period: 7 Weeks",
+      "id": null
+    },
+    {
+      "title": "8th Period: It’s OK, but Just This Once!",
+      "id": null
+    },
+    {
+      "title": "Study Hall: Sloppy Love Jingle, Part 2",
+      "id": null
+    },
+    {
+      "title": "10th Period: Biters Block",
+      "id": null
+    },
+    {
+      "title": "Yearbook Club: Boys in Bands Interlude",
+      "id": null
+    },
+    {
+      "title": "12th Period: Scandalous Scholastics",
+      "id": null
+    },
+    {
+      "title": "13th Period: On My Own Time (Write On!)",
+      "id": null
+    },
+    {
+      "title": "Intramurals: Cupid’s Chokehold",
+      "id": null
+    },
+    {
+      "title": "Detention: Sloppy Love Jingle, Part 3",
+      "id": null
+    },
+    {
+      "title": "Viva La White Girl (remix)",
+      "id": null
+    },
+    {
+      "title": "Machine and I (Queen and I remix)",
+      "id": null
+    },
+    {
+      "title": "New Friend Request (Papoose remix)",
+      "id": null
+    }
+  ]
+}
