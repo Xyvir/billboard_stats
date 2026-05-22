@@ -1,1 +1,86 @@
-{"id": "a-song-neil-sedaka", "title": "A Song", "artist": "Neil Sedaka", "peak": 59, "history": [{"date": "1977-05-28", "rank": 84}, {"date": "1977-06-04", "rank": 74}, {"date": "1977-06-11", "rank": 60}, {"date": "1977-06-18", "rank": 60}, {"date": "1977-06-25", "rank": 59}, {"date": "1977-07-02", "rank": 142}, {"date": "1977-07-09", "rank": 196}]}
+{
+  "id": "a-song-neil-sedaka",
+  "title": "A Song",
+  "artist": "Neil Sedaka",
+  "peak": 59,
+  "history": [
+    {
+      "date": "1977-05-28",
+      "rank": 84
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 74
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 60
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 60
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 59
+    },
+    {
+      "date": "1977-07-02",
+      "rank": 142
+    },
+    {
+      "date": "1977-07-09",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Amarillo",
+      "id": "amarillo-neil-sedaka"
+    },
+    {
+      "title": "A Song",
+      "id": null
+    },
+    {
+      "title": "You’ll Never Know",
+      "id": null
+    },
+    {
+      "title": "The Leaving Game",
+      "id": null
+    },
+    {
+      "title": "Alone at Last",
+      "id": null
+    },
+    {
+      "title": "Hollywood Lady",
+      "id": null
+    },
+    {
+      "title": "I’ve Never Really Been in Love Before",
+      "id": null
+    },
+    {
+      "title": "One Night Stand",
+      "id": null
+    },
+    {
+      "title": "Hot and Sultry Nights",
+      "id": null
+    },
+    {
+      "title": "Sleazy Love",
+      "id": null
+    },
+    {
+      "title": "Tin Pan Alley",
+      "id": null
+    },
+    {
+      "title": "A Song (reprise)",
+      "id": null
+    }
+  ]
+}

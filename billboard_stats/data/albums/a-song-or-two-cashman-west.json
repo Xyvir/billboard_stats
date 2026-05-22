@@ -1,1 +1,82 @@
-{"id": "a-song-or-two-cashman-west", "title": "A Song Or Two", "artist": "Cashman & West", "peak": 168, "history": [{"date": "1972-10-14", "rank": 196}, {"date": "1972-10-21", "rank": 190}, {"date": "1972-10-28", "rank": 182}, {"date": "1972-11-04", "rank": 180}, {"date": "1972-11-11", "rank": 174}, {"date": "1972-11-18", "rank": 168}, {"date": "1972-11-25", "rank": 168}, {"date": "1972-12-02", "rank": 175}]}
+{
+  "id": "a-song-or-two-cashman-west",
+  "title": "A Song Or Two",
+  "artist": "Cashman & West",
+  "peak": 168,
+  "history": [
+    {
+      "date": "1972-10-14",
+      "rank": 196
+    },
+    {
+      "date": "1972-10-21",
+      "rank": 190
+    },
+    {
+      "date": "1972-10-28",
+      "rank": 182
+    },
+    {
+      "date": "1972-11-04",
+      "rank": 180
+    },
+    {
+      "date": "1972-11-11",
+      "rank": 174
+    },
+    {
+      "date": "1972-11-18",
+      "rank": 168
+    },
+    {
+      "date": "1972-11-25",
+      "rank": 168
+    },
+    {
+      "date": "1972-12-02",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Songman",
+      "id": "songman-cashman-west"
+    },
+    {
+      "title": "American City Suite",
+      "id": "american-city-suite-cashman-west"
+    },
+    {
+      "title": "Songman (Reprise)",
+      "id": "songman-cashman-west"
+    },
+    {
+      "title": "Because You're Free",
+      "id": null
+    },
+    {
+      "title": "Six-Man Song Band",
+      "id": null
+    },
+    {
+      "title": "If You Were A Rainbow",
+      "id": null
+    },
+    {
+      "title": "I Belong to You",
+      "id": null
+    },
+    {
+      "title": "Only A Woman Like You",
+      "id": null
+    },
+    {
+      "title": "We Let Love Slip Away",
+      "id": null
+    },
+    {
+      "title": "It Ain't Easy",
+      "id": null
+    }
+  ]
+}

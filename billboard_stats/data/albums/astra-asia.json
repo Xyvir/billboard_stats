@@ -1,1 +1,118 @@
-{"id": "astra-asia", "title": "Astra", "artist": "Asia", "peak": 67, "history": [{"date": "1985-12-07", "rank": 88}, {"date": "1985-12-14", "rank": 70}, {"date": "1985-12-21", "rank": 68}, {"date": "1985-12-28", "rank": 67}, {"date": "1986-01-04", "rank": 67}, {"date": "1986-01-11", "rank": 67}, {"date": "1986-01-18", "rank": 72}, {"date": "1986-01-25", "rank": 72}, {"date": "1986-02-01", "rank": 72}, {"date": "1986-02-08", "rank": 76}, {"date": "1986-02-15", "rank": 81}, {"date": "1986-02-22", "rank": 84}, {"date": "1986-03-01", "rank": 103}, {"date": "1986-03-08", "rank": 133}, {"date": "1986-03-15", "rank": 151}, {"date": "1986-03-22", "rank": 194}, {"date": "1986-03-29", "rank": 195}]}
+{
+  "id": "astra-asia",
+  "title": "Astra",
+  "artist": "Asia",
+  "peak": 67,
+  "history": [
+    {
+      "date": "1985-12-07",
+      "rank": 88
+    },
+    {
+      "date": "1985-12-14",
+      "rank": 70
+    },
+    {
+      "date": "1985-12-21",
+      "rank": 68
+    },
+    {
+      "date": "1985-12-28",
+      "rank": 67
+    },
+    {
+      "date": "1986-01-04",
+      "rank": 67
+    },
+    {
+      "date": "1986-01-11",
+      "rank": 67
+    },
+    {
+      "date": "1986-01-18",
+      "rank": 72
+    },
+    {
+      "date": "1986-01-25",
+      "rank": 72
+    },
+    {
+      "date": "1986-02-01",
+      "rank": 72
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 76
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 81
+    },
+    {
+      "date": "1986-02-22",
+      "rank": 84
+    },
+    {
+      "date": "1986-03-01",
+      "rank": 103
+    },
+    {
+      "date": "1986-03-08",
+      "rank": 133
+    },
+    {
+      "date": "1986-03-15",
+      "rank": 151
+    },
+    {
+      "date": "1986-03-22",
+      "rank": 194
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Go",
+      "id": "go-asia"
+    },
+    {
+      "title": "Voice of America",
+      "id": null
+    },
+    {
+      "title": "Hard on Me",
+      "id": null
+    },
+    {
+      "title": "Wishing",
+      "id": null
+    },
+    {
+      "title": "Rock and Roll Dream",
+      "id": null
+    },
+    {
+      "title": "Countdown to Zero",
+      "id": null
+    },
+    {
+      "title": "Love Now Till Eternity",
+      "id": null
+    },
+    {
+      "title": "Too Late",
+      "id": null
+    },
+    {
+      "title": "Suspicion",
+      "id": null
+    },
+    {
+      "title": "After the War",
+      "id": null
+    }
+  ]
+}

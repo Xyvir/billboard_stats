@@ -1,1 +1,46 @@
-{"id": "a-song-for-you-ron-carter", "title": "A Song For You", "artist": "Ron Carter", "peak": 178, "history": [{"date": "1978-10-21", "rank": 190}, {"date": "1978-10-28", "rank": 180}, {"date": "1978-11-04", "rank": 178}]}
+{
+  "id": "a-song-for-you-ron-carter",
+  "title": "A Song For You",
+  "artist": "Ron Carter",
+  "peak": 178,
+  "history": [
+    {
+      "date": "1978-10-21",
+      "rank": 190
+    },
+    {
+      "date": "1978-10-28",
+      "rank": 180
+    },
+    {
+      "date": "1978-11-04",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Song for You",
+      "id": null
+    },
+    {
+      "title": "El Ojo de Dios",
+      "id": null
+    },
+    {
+      "title": "A Quiet Place",
+      "id": null
+    },
+    {
+      "title": "Good Time",
+      "id": null
+    },
+    {
+      "title": "Someday My Prince Will Come",
+      "id": null
+    },
+    {
+      "title": "N.O. Blues",
+      "id": null
+    }
+  ]
+}
