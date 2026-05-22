@@ -1,1 +1,62 @@
-{"id": "a-little-knight-music-gladys-knight-and-the-pips", "title": "A Little Knight Music", "artist": "Gladys Knight And The Pips", "peak": 164, "history": [{"date": "1975-04-26", "rank": 186}, {"date": "1975-05-03", "rank": 174}, {"date": "1975-05-10", "rank": 164}, {"date": "1975-05-17", "rank": 164}]}
+{
+  "id": "a-little-knight-music-gladys-knight-and-the-pips",
+  "title": "A Little Knight Music",
+  "artist": "Gladys Knight And The Pips",
+  "peak": 164,
+  "history": [
+    {
+      "date": "1975-04-26",
+      "rank": 186
+    },
+    {
+      "date": "1975-05-03",
+      "rank": 174
+    },
+    {
+      "date": "1975-05-10",
+      "rank": 164
+    },
+    {
+      "date": "1975-05-17",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "In The Middle Of The Road",
+      "id": "the-end-of-our-road-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "All We Need Is A Miracle",
+      "id": "all-i-need-is-time-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Come Together",
+      "id": null
+    },
+    {
+      "title": "No One Could Love You More",
+      "id": null
+    },
+    {
+      "title": "Don't Tell Me I'm Crazy",
+      "id": null
+    },
+    {
+      "title": "Sugar Sugar",
+      "id": null
+    },
+    {
+      "title": "Can You Give Me Love With A Guarantee",
+      "id": null
+    },
+    {
+      "title": "I Hate Myself For Loving You",
+      "id": null
+    },
+    {
+      "title": "Put A Little Love In Your Heart",
+      "id": null
+    }
+  ]
+}

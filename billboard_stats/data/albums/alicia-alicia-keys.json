@@ -1,1 +1,82 @@
-{"id": "alicia-alicia-keys", "title": "Alicia", "artist": "Alicia Keys", "peak": 4, "history": [{"date": "2020-10-03", "rank": 4}, {"date": "2020-10-10", "rank": 108}, {"date": "2020-10-17", "rank": 167}]}
+{
+  "id": "alicia-alicia-keys",
+  "title": "Alicia",
+  "artist": "Alicia Keys",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2020-10-03",
+      "rank": 4
+    },
+    {
+      "date": "2020-10-10",
+      "rank": 108
+    },
+    {
+      "date": "2020-10-17",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Underdog",
+      "id": "underdog-alicia-keys"
+    },
+    {
+      "title": "So Done",
+      "id": "no-one-alicia-keys"
+    },
+    {
+      "title": "Truth Without Love",
+      "id": null
+    },
+    {
+      "title": "Time Machine",
+      "id": null
+    },
+    {
+      "title": "Authors of Forever",
+      "id": null
+    },
+    {
+      "title": "Wasted Energy",
+      "id": null
+    },
+    {
+      "title": "3 Hour Drive",
+      "id": null
+    },
+    {
+      "title": "Me x 7",
+      "id": null
+    },
+    {
+      "title": "Show Me Love",
+      "id": null
+    },
+    {
+      "title": "Gramercy Park",
+      "id": null
+    },
+    {
+      "title": "Love Looks Better",
+      "id": null
+    },
+    {
+      "title": "You Save Me",
+      "id": null
+    },
+    {
+      "title": "Jill Scott",
+      "id": null
+    },
+    {
+      "title": "Perfect Way to Die",
+      "id": null
+    },
+    {
+      "title": "Good Job",
+      "id": null
+    }
+  ]
+}

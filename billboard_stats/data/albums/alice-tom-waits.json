@@ -1,1 +1,94 @@
-{"id": "alice-tom-waits", "title": "Alice", "artist": "Tom Waits", "peak": 33, "history": [{"date": "2002-05-25", "rank": 33}, {"date": "2002-06-01", "rank": 65}, {"date": "2002-06-08", "rank": 98}, {"date": "2002-06-15", "rank": 116}, {"date": "2002-06-22", "rank": 137}, {"date": "2002-06-29", "rank": 167}]}
+{
+  "id": "alice-tom-waits",
+  "title": "Alice",
+  "artist": "Tom Waits",
+  "peak": 33,
+  "history": [
+    {
+      "date": "2002-05-25",
+      "rank": 33
+    },
+    {
+      "date": "2002-06-01",
+      "rank": 65
+    },
+    {
+      "date": "2002-06-08",
+      "rank": 98
+    },
+    {
+      "date": "2002-06-15",
+      "rank": 116
+    },
+    {
+      "date": "2002-06-22",
+      "rank": 137
+    },
+    {
+      "date": "2002-06-29",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Alice",
+      "id": null
+    },
+    {
+      "title": "Everything You Can Think",
+      "id": null
+    },
+    {
+      "title": "Flower’s Grave",
+      "id": null
+    },
+    {
+      "title": "No One Knows I’m Gone",
+      "id": null
+    },
+    {
+      "title": "Kommienezuspadt",
+      "id": null
+    },
+    {
+      "title": "Poor Edward",
+      "id": null
+    },
+    {
+      "title": "Table Top Joe",
+      "id": null
+    },
+    {
+      "title": "Lost in the Harbour",
+      "id": null
+    },
+    {
+      "title": "We’re All Mad Here",
+      "id": null
+    },
+    {
+      "title": "Watch Her Disappear",
+      "id": null
+    },
+    {
+      "title": "Reeperbahn",
+      "id": null
+    },
+    {
+      "title": "I’m Still Here",
+      "id": null
+    },
+    {
+      "title": "Fish & Bird",
+      "id": null
+    },
+    {
+      "title": "Barcarolle",
+      "id": null
+    },
+    {
+      "title": "Fawn",
+      "id": null
+    }
+  ]
+}
