@@ -1,1 +1,78 @@
-{"id": "a-fine-mess-kate-voegele", "title": "A Fine Mess", "artist": "Kate Voegele", "peak": 10, "history": [{"date": "2009-06-06", "rank": 10}, {"date": "2009-06-13", "rank": 42}, {"date": "2009-06-20", "rank": 80}, {"date": "2009-06-27", "rank": 108}, {"date": "2009-07-04", "rank": 147}, {"date": "2009-07-11", "rank": 183}, {"date": "2009-07-18", "rank": 175}]}
+{
+  "id": "a-fine-mess-kate-voegele",
+  "title": "A Fine Mess",
+  "artist": "Kate Voegele",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2009-06-06",
+      "rank": 10
+    },
+    {
+      "date": "2009-06-13",
+      "rank": 42
+    },
+    {
+      "date": "2009-06-20",
+      "rank": 80
+    },
+    {
+      "date": "2009-06-27",
+      "rank": 108
+    },
+    {
+      "date": "2009-07-04",
+      "rank": 147
+    },
+    {
+      "date": "2009-07-11",
+      "rank": 183
+    },
+    {
+      "date": "2009-07-18",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Inside Out",
+      "id": null
+    },
+    {
+      "title": "99 Times",
+      "id": null
+    },
+    {
+      "title": "Who You Are Without Me",
+      "id": null
+    },
+    {
+      "title": "Angel",
+      "id": null
+    },
+    {
+      "title": "Sweet Silver Lining",
+      "id": null
+    },
+    {
+      "title": "Playing With My Heart",
+      "id": null
+    },
+    {
+      "title": "Manhattan From the Sky",
+      "id": null
+    },
+    {
+      "title": "Talkin’ Smooth",
+      "id": null
+    },
+    {
+      "title": "Lift Me Up",
+      "id": null
+    },
+    {
+      "title": "Sweet Silver Lining (acoustic)",
+      "id": null
+    }
+  ]
+}

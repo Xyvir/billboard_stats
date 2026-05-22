@@ -1,1 +1,86 @@
-{"id": "a-family-christmas-john-tesh", "title": "A Family Christmas", "artist": "John Tesh", "peak": 103, "history": [{"date": "1994-12-10", "rank": 162}, {"date": "1994-12-17", "rank": 114}, {"date": "1994-12-24", "rank": 103}, {"date": "1994-12-31", "rank": 120}, {"date": "1995-01-07", "rank": 159}]}
+{
+  "id": "a-family-christmas-john-tesh",
+  "title": "A Family Christmas",
+  "artist": "John Tesh",
+  "peak": 103,
+  "history": [
+    {
+      "date": "1994-12-10",
+      "rank": 162
+    },
+    {
+      "date": "1994-12-17",
+      "rank": 114
+    },
+    {
+      "date": "1994-12-24",
+      "rank": 103
+    },
+    {
+      "date": "1994-12-31",
+      "rank": 120
+    },
+    {
+      "date": "1995-01-07",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hark the Herald Angels Sing",
+      "id": null
+    },
+    {
+      "title": "We Wish You a Merry Christmas",
+      "id": null
+    },
+    {
+      "title": "Good King Wenceslas",
+      "id": null
+    },
+    {
+      "title": "Little Drummer Boy",
+      "id": null
+    },
+    {
+      "title": "Joy to the World",
+      "id": null
+    },
+    {
+      "title": "Have Yourself a Merry Little Christmas",
+      "id": null
+    },
+    {
+      "title": "What Child Is This",
+      "id": null
+    },
+    {
+      "title": "Good Christian Men Rejoice",
+      "id": null
+    },
+    {
+      "title": "Carol of the Bells",
+      "id": null
+    },
+    {
+      "title": "Song for Prima",
+      "id": null
+    },
+    {
+      "title": "O Tannenbaum",
+      "id": null
+    },
+    {
+      "title": "God Rest Ye Merry Gentlemen",
+      "id": null
+    },
+    {
+      "title": "One Final Wish",
+      "id": null
+    },
+    {
+      "title": "White Christmas",
+      "id": null
+    }
+  ]
+}

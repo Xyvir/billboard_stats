@@ -1,1 +1,102 @@
-{"id": "a-farewell-to-kings-rush", "title": "A Farewell To Kings", "artist": "Rush", "peak": 33, "history": [{"date": "1977-09-24", "rank": 72}, {"date": "1977-10-01", "rank": 51}, {"date": "1977-10-08", "rank": 40}, {"date": "1977-10-15", "rank": 36}, {"date": "1977-10-22", "rank": 35}, {"date": "1977-10-29", "rank": 33}, {"date": "1977-11-05", "rank": 33}, {"date": "1977-11-12", "rank": 47}, {"date": "1977-11-19", "rank": 46}, {"date": "1977-11-26", "rank": 95}, {"date": "1977-12-03", "rank": 95}, {"date": "1977-12-10", "rank": 84}, {"date": "1977-12-17", "rank": 84}, {"date": "1977-12-24", "rank": 83}, {"date": "1977-12-31", "rank": 83}, {"date": "1978-01-07", "rank": 172}, {"date": "1978-01-14", "rank": 182}]}
+{
+  "id": "a-farewell-to-kings-rush",
+  "title": "A Farewell To Kings",
+  "artist": "Rush",
+  "peak": 33,
+  "history": [
+    {
+      "date": "1977-09-24",
+      "rank": 72
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 51
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 40
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 36
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 35
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 33
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 33
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 47
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 46
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 95
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 95
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 84
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 84
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 83
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 83
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 172
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Closer to the Heart",
+      "id": "closer-to-the-heart-rush"
+    },
+    {
+      "title": "A Farewell to Kings",
+      "id": null
+    },
+    {
+      "title": "Xanadu",
+      "id": null
+    },
+    {
+      "title": "Cinderella Man",
+      "id": null
+    },
+    {
+      "title": "Madrigal",
+      "id": null
+    },
+    {
+      "title": "Cygnus X-1, Book I: The Voyage",
+      "id": null
+    }
+  ]
+}
