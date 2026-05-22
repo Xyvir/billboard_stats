@@ -1,1 +1,54 @@
-{"id": "across-my-heart-kenny-rogers", "title": "Across My Heart", "artist": "Kenny Rogers", "peak": 193, "history": [{"date": "1997-08-09", "rank": 193}]}
+{
+  "id": "across-my-heart-kenny-rogers",
+  "title": "Across My Heart",
+  "artist": "Kenny Rogers",
+  "peak": 193,
+  "history": [
+    {
+      "date": "1997-08-09",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sing Me Your Love Song",
+      "id": "a-love-song-kenny-rogers"
+    },
+    {
+      "title": "To Me",
+      "id": null
+    },
+    {
+      "title": "Write Your Name (Across My Heart)",
+      "id": null
+    },
+    {
+      "title": "The Only Way I Know",
+      "id": null
+    },
+    {
+      "title": "Have a Little Faith in Me",
+      "id": null
+    },
+    {
+      "title": "As God Is My Witness",
+      "id": null
+    },
+    {
+      "title": "You’re Not Asking Much",
+      "id": null
+    },
+    {
+      "title": "Only Once in a Lifetime",
+      "id": null
+    },
+    {
+      "title": "Find a Little Grace",
+      "id": null
+    },
+    {
+      "title": "See Me Through",
+      "id": null
+    }
+  ]
+}
