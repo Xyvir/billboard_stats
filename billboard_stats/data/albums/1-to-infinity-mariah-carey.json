@@ -1,1 +1,106 @@
-{"id": "1-to-infinity-mariah-carey", "title": "#1 To Infinity", "artist": "Mariah Carey", "peak": 29, "history": [{"date": "2015-06-06", "rank": 29}, {"date": "2015-06-13", "rank": 58}, {"date": "2015-06-20", "rank": 92}, {"date": "2015-06-27", "rank": 143}, {"date": "2015-08-01", "rank": 181}]}
+{
+  "id": "1-to-infinity-mariah-carey",
+  "title": "#1 To Infinity",
+  "artist": "Mariah Carey",
+  "peak": 29,
+  "history": [
+    {
+      "date": "2015-06-06",
+      "rank": 29
+    },
+    {
+      "date": "2015-06-13",
+      "rank": 58
+    },
+    {
+      "date": "2015-06-20",
+      "rank": 92
+    },
+    {
+      "date": "2015-06-27",
+      "rank": 143
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Vision of Love",
+      "id": "vision-of-love-mariah-carey"
+    },
+    {
+      "title": "Love Takes Time",
+      "id": "love-takes-time-mariah-carey"
+    },
+    {
+      "title": "Emotions",
+      "id": "emotions-mariah-carey"
+    },
+    {
+      "title": "I’ll Be There",
+      "id": "i-ll-be-there-mariah-carey"
+    },
+    {
+      "title": "Dreamlover",
+      "id": "dreamlover-mariah-carey"
+    },
+    {
+      "title": "Hero",
+      "id": "hero-mariah-carey"
+    },
+    {
+      "title": "Endless Love",
+      "id": "endless-love-luther-vandross-mariah-carey"
+    },
+    {
+      "title": "Always Be My Baby",
+      "id": "always-be-my-baby-mariah-carey"
+    },
+    {
+      "title": "Honey",
+      "id": "honey-mariah-carey"
+    },
+    {
+      "title": "My All",
+      "id": "my-all-mariah-carey"
+    },
+    {
+      "title": "We Belong Together",
+      "id": "we-belong-together-mariah-carey"
+    },
+    {
+      "title": "Don’t Forget About Us",
+      "id": "don-t-forget-about-us-mariah-carey"
+    },
+    {
+      "title": "Touch My Body",
+      "id": "touch-my-body-mariah-carey"
+    },
+    {
+      "title": "Infinity",
+      "id": "infinity-mariah-carey"
+    },
+    {
+      "title": "Without You",
+      "id": null
+    },
+    {
+      "title": "Fantasy (Bad Boy Fantasy)",
+      "id": null
+    },
+    {
+      "title": "One Sweet Day",
+      "id": null
+    },
+    {
+      "title": "Heartbreaker",
+      "id": null
+    },
+    {
+      "title": "Against All Odds (Take a Look at Me Now)",
+      "id": null
+    }
+  ]
+}
