@@ -1,1 +1,94 @@
-{"id": "backstreet-symphony-thunder", "title": "Backstreet Symphony", "artist": "Thunder", "peak": 114, "history": [{"date": "1991-06-01", "rank": 185}, {"date": "1991-06-08", "rank": 195}, {"date": "1991-06-15", "rank": 140}, {"date": "1991-06-22", "rank": 116}, {"date": "1991-06-29", "rank": 114}, {"date": "1991-07-06", "rank": 129}, {"date": "1991-07-13", "rank": 150}, {"date": "1991-07-20", "rank": 188}, {"date": "1991-07-27", "rank": 189}, {"date": "1991-08-03", "rank": 195}]}
+{
+  "id": "backstreet-symphony-thunder",
+  "title": "Backstreet Symphony",
+  "artist": "Thunder",
+  "peak": 114,
+  "history": [
+    {
+      "date": "1991-06-01",
+      "rank": 185
+    },
+    {
+      "date": "1991-06-08",
+      "rank": 195
+    },
+    {
+      "date": "1991-06-15",
+      "rank": 140
+    },
+    {
+      "date": "1991-06-22",
+      "rank": 116
+    },
+    {
+      "date": "1991-06-29",
+      "rank": 114
+    },
+    {
+      "date": "1991-07-06",
+      "rank": 129
+    },
+    {
+      "date": "1991-07-13",
+      "rank": 150
+    },
+    {
+      "date": "1991-07-20",
+      "rank": 188
+    },
+    {
+      "date": "1991-07-27",
+      "rank": 189
+    },
+    {
+      "date": "1991-08-03",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dirty Love",
+      "id": "dirty-love-thunder"
+    },
+    {
+      "title": "She’s So Fine",
+      "id": null
+    },
+    {
+      "title": "Don’t Wait for Me",
+      "id": null
+    },
+    {
+      "title": "Higher Ground",
+      "id": null
+    },
+    {
+      "title": "Until My Dying Day",
+      "id": null
+    },
+    {
+      "title": "Back Street Symphony",
+      "id": null
+    },
+    {
+      "title": "Love Walked In",
+      "id": null
+    },
+    {
+      "title": "An Englishman on Holiday",
+      "id": null
+    },
+    {
+      "title": "Girl’s Going Out of Her Head",
+      "id": null
+    },
+    {
+      "title": "Gimme Some Lovin’",
+      "id": null
+    },
+    {
+      "title": "Distant Thunder",
+      "id": null
+    }
+  ]
+}
