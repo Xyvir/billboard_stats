@@ -1,1 +1,62 @@
-{"id": "about-time-steve-winwood", "title": "About Time", "artist": "Steve Winwood", "peak": 126, "history": [{"date": "2003-07-05", "rank": 126}, {"date": "2003-07-12", "rank": 182}]}
+{
+  "id": "about-time-steve-winwood",
+  "title": "About Time",
+  "artist": "Steve Winwood",
+  "peak": 126,
+  "history": [
+    {
+      "date": "2003-07-05",
+      "rank": 126
+    },
+    {
+      "date": "2003-07-12",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Walking On",
+      "id": "holding-on-steve-winwood"
+    },
+    {
+      "title": "Different Light",
+      "id": null
+    },
+    {
+      "title": "Cigano (for the Gypsies)",
+      "id": null
+    },
+    {
+      "title": "Take It to the Final Hour",
+      "id": null
+    },
+    {
+      "title": "Why Can’t We Live Together",
+      "id": null
+    },
+    {
+      "title": "Domingo Morning",
+      "id": null
+    },
+    {
+      "title": "Now That You’re Alive",
+      "id": null
+    },
+    {
+      "title": "Bully",
+      "id": null
+    },
+    {
+      "title": "Phoenix Rising",
+      "id": null
+    },
+    {
+      "title": "Horizon",
+      "id": null
+    },
+    {
+      "title": "Silvia (Who Is She?)",
+      "id": null
+    }
+  ]
+}

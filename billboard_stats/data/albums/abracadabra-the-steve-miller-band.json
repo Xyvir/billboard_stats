@@ -1,1 +1,182 @@
-{"id": "abracadabra-the-steve-miller-band", "title": "Abracadabra", "artist": "The Steve Miller Band", "peak": 3, "history": [{"date": "1982-06-26", "rank": 76}, {"date": "1982-07-03", "rank": 48}, {"date": "1982-07-10", "rank": 37}, {"date": "1982-07-17", "rank": 18}, {"date": "1982-07-24", "rank": 15}, {"date": "1982-07-31", "rank": 12}, {"date": "1982-08-07", "rank": 6}, {"date": "1982-08-14", "rank": 6}, {"date": "1982-08-21", "rank": 6}, {"date": "1982-08-28", "rank": 6}, {"date": "1982-09-04", "rank": 6}, {"date": "1982-09-11", "rank": 4}, {"date": "1982-09-18", "rank": 3}, {"date": "1982-09-25", "rank": 3}, {"date": "1982-10-02", "rank": 3}, {"date": "1982-10-09", "rank": 3}, {"date": "1982-10-16", "rank": 3}, {"date": "1982-10-23", "rank": 3}, {"date": "1982-10-30", "rank": 14}, {"date": "1982-11-06", "rank": 39}, {"date": "1982-11-13", "rank": 47}, {"date": "1982-11-20", "rank": 68}, {"date": "1982-11-27", "rank": 87}, {"date": "1982-12-04", "rank": 92}, {"date": "1982-12-11", "rank": 89}, {"date": "1982-12-18", "rank": 87}, {"date": "1982-12-25", "rank": 111}, {"date": "1983-01-01", "rank": 111}, {"date": "1983-01-08", "rank": 111}, {"date": "1983-01-15", "rank": 111}, {"date": "1983-01-22", "rank": 115}, {"date": "1983-01-29", "rank": 135}, {"date": "1983-02-05", "rank": 179}]}
+{
+  "id": "abracadabra-the-steve-miller-band",
+  "title": "Abracadabra",
+  "artist": "The Steve Miller Band",
+  "peak": 3,
+  "history": [
+    {
+      "date": "1982-06-26",
+      "rank": 76
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 48
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 37
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 18
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 15
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 12
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 6
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 6
+    },
+    {
+      "date": "1982-08-21",
+      "rank": 6
+    },
+    {
+      "date": "1982-08-28",
+      "rank": 6
+    },
+    {
+      "date": "1982-09-04",
+      "rank": 6
+    },
+    {
+      "date": "1982-09-11",
+      "rank": 4
+    },
+    {
+      "date": "1982-09-18",
+      "rank": 3
+    },
+    {
+      "date": "1982-09-25",
+      "rank": 3
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 3
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 3
+    },
+    {
+      "date": "1982-10-16",
+      "rank": 3
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 3
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 14
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 39
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 47
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 68
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 87
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 92
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 89
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 87
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 111
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 111
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 111
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 111
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 115
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 135
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Abracadabra",
+      "id": "abracadabra-the-steve-miller-band"
+    },
+    {
+      "title": "Give It Up",
+      "id": "give-it-up-the-steve-miller-band"
+    },
+    {
+      "title": "Goodbye Love",
+      "id": "jungle-love-the-steve-miller-band"
+    },
+    {
+      "title": "Cool Magic",
+      "id": "cool-magic-the-steve-miller-band"
+    },
+    {
+      "title": "Keeps Me Wondering Why",
+      "id": null
+    },
+    {
+      "title": "Something Special",
+      "id": null
+    },
+    {
+      "title": "Never Say No",
+      "id": null
+    },
+    {
+      "title": "Things I Told You",
+      "id": null
+    },
+    {
+      "title": "Young Girl’s Heart",
+      "id": null
+    },
+    {
+      "title": "While I’m Waiting",
+      "id": null
+    }
+  ]
+}
