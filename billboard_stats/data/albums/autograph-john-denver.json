@@ -1,1 +1,122 @@
-{"id": "autograph-john-denver", "title": "Autograph", "artist": "John Denver", "peak": 39, "history": [{"date": "1980-03-01", "rank": 83}, {"date": "1980-03-08", "rank": 67}, {"date": "1980-03-15", "rank": 59}, {"date": "1980-03-22", "rank": 53}, {"date": "1980-03-29", "rank": 47}, {"date": "1980-04-05", "rank": 43}, {"date": "1980-04-12", "rank": 41}, {"date": "1980-04-19", "rank": 39}, {"date": "1980-04-26", "rank": 39}, {"date": "1980-05-03", "rank": 50}, {"date": "1980-05-10", "rank": 83}, {"date": "1980-05-17", "rank": 93}, {"date": "1980-05-24", "rank": 102}, {"date": "1980-05-31", "rank": 101}, {"date": "1980-06-07", "rank": 129}, {"date": "1980-06-14", "rank": 149}, {"date": "1980-06-21", "rank": 196}]}
+{
+  "id": "autograph-john-denver",
+  "title": "Autograph",
+  "artist": "John Denver",
+  "peak": 39,
+  "history": [
+    {
+      "date": "1980-03-01",
+      "rank": 83
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 67
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 59
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 53
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 47
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 43
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 41
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 39
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 39
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 50
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 83
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 93
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 102
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 101
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 129
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 149
+    },
+    {
+      "date": "1980-06-21",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dancing With the Mountains",
+      "id": "dancing-with-the-mountains-john-denver"
+    },
+    {
+      "title": "The Mountain Song",
+      "id": "rocky-mountain-high-john-denver"
+    },
+    {
+      "title": "Autograph",
+      "id": "autograph-john-denver"
+    },
+    {
+      "title": "How Mountain Girls Can Love",
+      "id": null
+    },
+    {
+      "title": "Song for the Life",
+      "id": null
+    },
+    {
+      "title": "The Ballad of St. Anne’s Reel",
+      "id": null
+    },
+    {
+      "title": "In My Heart",
+      "id": null
+    },
+    {
+      "title": "Wrangell Mountain Song",
+      "id": null
+    },
+    {
+      "title": "Whalebones and Crosses",
+      "id": null
+    },
+    {
+      "title": "American Child",
+      "id": null
+    },
+    {
+      "title": "You Say That the Battle Is Over",
+      "id": null
+    }
+  ]
+}

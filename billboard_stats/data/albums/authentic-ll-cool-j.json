@@ -1,1 +1,90 @@
-{"id": "authentic-ll-cool-j", "title": "Authentic", "artist": "LL Cool J", "peak": 23, "history": [{"date": "2013-05-18", "rank": 23}, {"date": "2013-05-25", "rank": 83}, {"date": "2013-06-01", "rank": 121}, {"date": "2013-06-08", "rank": 160}]}
+{
+  "id": "authentic-ll-cool-j",
+  "title": "Authentic",
+  "artist": "LL Cool J",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2013-05-18",
+      "rank": 23
+    },
+    {
+      "date": "2013-05-25",
+      "rank": 83
+    },
+    {
+      "date": "2013-06-01",
+      "rank": 121
+    },
+    {
+      "date": "2013-06-08",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "New Love",
+      "id": "i-need-love-ll-cool-j"
+    },
+    {
+      "title": "Give Me Love",
+      "id": "i-need-love-ll-cool-j"
+    },
+    {
+      "title": "Bath Salt",
+      "id": null
+    },
+    {
+      "title": "Not Leaving You Tonight",
+      "id": null
+    },
+    {
+      "title": "We Came to Party",
+      "id": null
+    },
+    {
+      "title": "Something About You (Love the World)",
+      "id": null
+    },
+    {
+      "title": "Bartender Please",
+      "id": null
+    },
+    {
+      "title": "Whaddup",
+      "id": null
+    },
+    {
+      "title": "Between the Sheetz",
+      "id": null
+    },
+    {
+      "title": "Closer",
+      "id": null
+    },
+    {
+      "title": "Live for You",
+      "id": null
+    },
+    {
+      "title": "We're the Greatest",
+      "id": null
+    },
+    {
+      "title": "Waiting on You",
+      "id": null
+    },
+    {
+      "title": "Jump on It",
+      "id": null
+    },
+    {
+      "title": "Take It",
+      "id": null
+    },
+    {
+      "title": "Remember Me",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "avalanche-mountain", "title": "Avalanche", "artist": "Mountain", "peak": 102, "history": [{"date": "1974-08-10", "rank": 127}, {"date": "1974-08-17", "rank": 107}, {"date": "1974-08-24", "rank": 107}, {"date": "1974-08-31", "rank": 102}, {"date": "1974-09-07", "rank": 124}, {"date": "1974-09-14", "rank": 128}, {"date": "1974-09-21", "rank": 122}, {"date": "1974-09-28", "rank": 117}, {"date": "1974-10-05", "rank": 129}]}
+{
+  "id": "avalanche-mountain",
+  "title": "Avalanche",
+  "artist": "Mountain",
+  "peak": 102,
+  "history": [
+    {
+      "date": "1974-08-10",
+      "rank": 127
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 107
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 107
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 102
+    },
+    {
+      "date": "1974-09-07",
+      "rank": 124
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 128
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 122
+    },
+    {
+      "date": "1974-09-28",
+      "rank": 117
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 129
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Whole Lotta Shakin' Goin' On",
+      "id": null
+    },
+    {
+      "title": "Sister Justice",
+      "id": null
+    },
+    {
+      "title": "Alisan",
+      "id": null
+    },
+    {
+      "title": "Swamp Boy",
+      "id": null
+    },
+    {
+      "title": "Satisfaction",
+      "id": null
+    },
+    {
+      "title": "Thumbsucker",
+      "id": null
+    },
+    {
+      "title": "You Better Believe It",
+      "id": null
+    },
+    {
+      "title": "I Love to See You Fly",
+      "id": null
+    },
+    {
+      "title": "Back Where I Belong",
+      "id": null
+    },
+    {
+      "title": "Last of the Sunshine Days",
+      "id": null
+    }
+  ]
+}

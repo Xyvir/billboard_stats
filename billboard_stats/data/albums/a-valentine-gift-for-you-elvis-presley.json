@@ -1,1 +1,74 @@
-{"id": "a-valentine-gift-for-you-elvis-presley", "title": "A Valentine Gift For You", "artist": "Elvis Presley", "peak": 154, "history": [{"date": "1985-03-02", "rank": 164}, {"date": "1985-03-09", "rank": 154}, {"date": "1985-03-16", "rank": 169}]}
+{
+  "id": "a-valentine-gift-for-you-elvis-presley",
+  "title": "A Valentine Gift For You",
+  "artist": "Elvis Presley",
+  "peak": 154,
+  "history": [
+    {
+      "date": "1985-03-02",
+      "rank": 164
+    },
+    {
+      "date": "1985-03-09",
+      "rank": 154
+    },
+    {
+      "date": "1985-03-16",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Give Me the Right",
+      "id": "in-the-ghetto-elvis-presley"
+    },
+    {
+      "title": "It Feels So Right",
+      "id": "i-feel-so-bad-elvis-presley"
+    },
+    {
+      "title": "Love Letters",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "Are You Lonesome Tonight?",
+      "id": null
+    },
+    {
+      "title": "I Need Somebody to Lean On",
+      "id": null
+    },
+    {
+      "title": "Young and Beautiful",
+      "id": null
+    },
+    {
+      "title": "Playing for Keeps",
+      "id": null
+    },
+    {
+      "title": "Tell Me Why",
+      "id": null
+    },
+    {
+      "title": "I Was the One",
+      "id": null
+    },
+    {
+      "title": "Fever",
+      "id": null
+    },
+    {
+      "title": "Tomorrow Is a Long Time",
+      "id": null
+    },
+    {
+      "title": "Fame and Fortune",
+      "id": null
+    },
+    {
+      "title": "Can’t Help Falling in Love",
+      "id": null
+    }
+  ]
+}

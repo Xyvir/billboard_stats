@@ -1,1 +1,78 @@
-{"id": "autumn-variations-ed-sheeran", "title": "Autumn Variations", "artist": "Ed Sheeran", "peak": 4, "history": [{"date": "2023-10-14", "rank": 4}, {"date": "2023-10-21", "rank": 96}]}
+{
+  "id": "autumn-variations-ed-sheeran",
+  "title": "Autumn Variations",
+  "artist": "Ed Sheeran",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2023-10-14",
+      "rank": 4
+    },
+    {
+      "date": "2023-10-21",
+      "rank": 96
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Spring",
+      "id": "sing-ed-sheeran"
+    },
+    {
+      "title": "Magical",
+      "id": null
+    },
+    {
+      "title": "England",
+      "id": null
+    },
+    {
+      "title": "Amazing",
+      "id": null
+    },
+    {
+      "title": "Plastic Bag",
+      "id": null
+    },
+    {
+      "title": "Blue",
+      "id": null
+    },
+    {
+      "title": "American Town",
+      "id": null
+    },
+    {
+      "title": "That’s on Me",
+      "id": null
+    },
+    {
+      "title": "Page",
+      "id": null
+    },
+    {
+      "title": "Midnight",
+      "id": null
+    },
+    {
+      "title": "Punchline",
+      "id": null
+    },
+    {
+      "title": "When Will I Be Alright",
+      "id": null
+    },
+    {
+      "title": "The Day I Was Born",
+      "id": null
+    },
+    {
+      "title": "Head > Heels",
+      "id": null
+    },
+    {
+      "title": "Autumn Variations (trailer)",
+      "id": null
+    }
+  ]
+}
