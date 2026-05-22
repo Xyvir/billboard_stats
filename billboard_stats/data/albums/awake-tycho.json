@@ -1,1 +1,50 @@
-{"id": "awake-tycho", "title": "Awake", "artist": "Tycho", "peak": 23, "history": [{"date": "2014-04-05", "rank": 23}, {"date": "2014-04-12", "rank": 105}]}
+{
+  "id": "awake-tycho",
+  "title": "Awake",
+  "artist": "Tycho",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2014-04-05",
+      "rank": 23
+    },
+    {
+      "date": "2014-04-12",
+      "rank": 105
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Awake",
+      "id": null
+    },
+    {
+      "title": "Montana",
+      "id": null
+    },
+    {
+      "title": "L",
+      "id": null
+    },
+    {
+      "title": "Dye",
+      "id": null
+    },
+    {
+      "title": "See",
+      "id": null
+    },
+    {
+      "title": "Apogee",
+      "id": null
+    },
+    {
+      "title": "Spectre",
+      "id": null
+    },
+    {
+      "title": "Plains",
+      "id": null
+    }
+  ]
+}

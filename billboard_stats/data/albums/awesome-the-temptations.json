@@ -1,1 +1,74 @@
-{"id": "awesome-the-temptations", "title": "Awesome", "artist": "The Temptations", "peak": 140, "history": [{"date": "2001-12-08", "rank": 140}, {"date": "2001-12-15", "rank": 143}]}
+{
+  "id": "awesome-the-temptations",
+  "title": "Awesome",
+  "artist": "The Temptations",
+  "peak": 140,
+  "history": [
+    {
+      "date": "2001-12-08",
+      "rank": 140
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lady",
+      "id": "lady-soul-the-temptations"
+    },
+    {
+      "title": "Race for Your Heart",
+      "id": "aiming-at-your-heart-the-temptations"
+    },
+    {
+      "title": "Swept Away",
+      "id": "sail-away-the-temptations"
+    },
+    {
+      "title": "My Baby",
+      "id": "my-baby-the-temptations"
+    },
+    {
+      "title": "A Love I Can See",
+      "id": "all-i-need-the-temptations"
+    },
+    {
+      "title": "Awesome Intro",
+      "id": null
+    },
+    {
+      "title": "Hurt So Bad",
+      "id": null
+    },
+    {
+      "title": "4 Days",
+      "id": null
+    },
+    {
+      "title": "Forget About It",
+      "id": null
+    },
+    {
+      "title": "Awesome",
+      "id": null
+    },
+    {
+      "title": "Open Letter, My One Temptation (interlude)",
+      "id": null
+    },
+    {
+      "title": "So Crazy",
+      "id": null
+    },
+    {
+      "title": "That’s What Heartaches Are Made",
+      "id": null
+    },
+    {
+      "title": "I Feel Good",
+      "id": null
+    }
+  ]
+}
