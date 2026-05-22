@@ -1,1 +1,34 @@
-{"id": "72-seasons-metallica", "title": "72 Seasons", "artist": "Metallica", "peak": 2, "history": [{"date": "2023-04-29", "rank": 2}, {"date": "2023-05-06", "rank": 14}, {"date": "2023-05-13", "rank": 48}, {"date": "2023-05-20", "rank": 69}, {"date": "2023-05-27", "rank": 145}]}
+{
+  "id": "72-seasons-metallica",
+  "title": "72 Seasons",
+  "artist": "Metallica",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2023-04-29",
+      "rank": 2
+    },
+    {
+      "date": "2023-05-06",
+      "rank": 14
+    },
+    {
+      "date": "2023-05-13",
+      "rank": 48
+    },
+    {
+      "date": "2023-05-20",
+      "rank": 69
+    },
+    {
+      "date": "2023-05-27",
+      "rank": 145
+    }
+  ],
+  "tracks": [
+    {
+      "title": "72 Seasons",
+      "id": null
+    }
+  ]
+}

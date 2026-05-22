@@ -1,1 +1,62 @@
-{"id": "7-beach-house", "title": "7", "artist": "Beach House", "peak": 20, "history": [{"date": "2018-05-26", "rank": 20}, {"date": "2018-06-02", "rank": 159}]}
+{
+  "id": "7-beach-house",
+  "title": "7",
+  "artist": "Beach House",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2018-05-26",
+      "rank": 20
+    },
+    {
+      "date": "2018-06-02",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dark Spring",
+      "id": null
+    },
+    {
+      "title": "Pay No Mind",
+      "id": null
+    },
+    {
+      "title": "Lemon Glow",
+      "id": null
+    },
+    {
+      "title": "L’Inconnue",
+      "id": null
+    },
+    {
+      "title": "Drunk in LA",
+      "id": null
+    },
+    {
+      "title": "Dive",
+      "id": null
+    },
+    {
+      "title": "Black Car",
+      "id": null
+    },
+    {
+      "title": "Lose Your Smile",
+      "id": null
+    },
+    {
+      "title": "Woo",
+      "id": null
+    },
+    {
+      "title": "Girl of the Year",
+      "id": null
+    },
+    {
+      "title": "Last Ride",
+      "id": null
+    }
+  ]
+}
