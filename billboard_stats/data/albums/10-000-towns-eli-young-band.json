@@ -1,1 +1,78 @@
-{"id": "10-000-towns-eli-young-band", "title": "10,000 Towns", "artist": "Eli Young Band", "peak": 5, "history": [{"date": "2014-03-22", "rank": 5}, {"date": "2014-03-29", "rank": 34}, {"date": "2014-04-05", "rank": 75}, {"date": "2014-04-12", "rank": 107}, {"date": "2014-04-19", "rank": 151}, {"date": "2014-04-26", "rank": 173}]}
+{
+  "id": "10-000-towns-eli-young-band",
+  "title": "10,000 Towns",
+  "artist": "Eli Young Band",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2014-03-22",
+      "rank": 5
+    },
+    {
+      "date": "2014-03-29",
+      "rank": 34
+    },
+    {
+      "date": "2014-04-05",
+      "rank": 75
+    },
+    {
+      "date": "2014-04-12",
+      "rank": 107
+    },
+    {
+      "date": "2014-04-19",
+      "rank": 151
+    },
+    {
+      "date": "2014-04-26",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Drunk Last Night",
+      "id": "drunk-last-night-eli-young-band"
+    },
+    {
+      "title": "Dust",
+      "id": "dust-eli-young-band"
+    },
+    {
+      "title": "10,000 Towns",
+      "id": null
+    },
+    {
+      "title": "Angel Like You",
+      "id": null
+    },
+    {
+      "title": "Let's Do Something Tonight",
+      "id": null
+    },
+    {
+      "title": "Your Last Broken Heart",
+      "id": null
+    },
+    {
+      "title": "What Does",
+      "id": null
+    },
+    {
+      "title": "A Lot Like Love",
+      "id": null
+    },
+    {
+      "title": "Just Add Moonlight",
+      "id": null
+    },
+    {
+      "title": "Revelations",
+      "id": null
+    },
+    {
+      "title": "Prayer for the Road",
+      "id": null
+    }
+  ]
+}
