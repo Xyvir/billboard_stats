@@ -1,1 +1,58 @@
-{"id": "begin-david-archuleta", "title": "Begin.", "artist": "David Archuleta", "peak": 28, "history": [{"date": "2012-08-25", "rank": 28}, {"date": "2012-09-01", "rank": 138}]}
+{
+  "id": "begin-david-archuleta",
+  "title": "Begin.",
+  "artist": "David Archuleta",
+  "peak": 28,
+  "history": [
+    {
+      "date": "2012-08-25",
+      "rank": 28
+    },
+    {
+      "date": "2012-09-01",
+      "rank": 138
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Angel",
+      "id": "angels-david-archuleta"
+    },
+    {
+      "title": "Beautiful",
+      "id": null
+    },
+    {
+      "title": "Somewhere Only We Know",
+      "id": null
+    },
+    {
+      "title": "Everybody Hurts",
+      "id": null
+    },
+    {
+      "title": "Don't Give Up",
+      "id": null
+    },
+    {
+      "title": "Bridge Over Troubled Water",
+      "id": null
+    },
+    {
+      "title": "Broken",
+      "id": null
+    },
+    {
+      "title": "True Colors",
+      "id": null
+    },
+    {
+      "title": "Pride (In the Name of Love)",
+      "id": null
+    },
+    {
+      "title": "Be Still, My Soul",
+      "id": null
+    }
+  ]
+}
