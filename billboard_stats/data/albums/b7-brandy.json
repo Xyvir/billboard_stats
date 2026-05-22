@@ -1,1 +1,78 @@
-{"id": "b7-brandy", "title": "B7", "artist": "Brandy", "peak": 12, "history": [{"date": "2020-08-15", "rank": 12}, {"date": "2020-08-22", "rank": 191}]}
+{
+  "id": "b7-brandy",
+  "title": "B7",
+  "artist": "Brandy",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2020-08-15",
+      "rank": 12
+    },
+    {
+      "date": "2020-08-22",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Baby Mama",
+      "id": "baby-brandy"
+    },
+    {
+      "title": "Saving All My Love",
+      "id": null
+    },
+    {
+      "title": "Unconditional Oceans",
+      "id": null
+    },
+    {
+      "title": "Rather Be",
+      "id": null
+    },
+    {
+      "title": "All My Life, Pt. 1",
+      "id": null
+    },
+    {
+      "title": "Lucid Dreams",
+      "id": null
+    },
+    {
+      "title": "Borderline",
+      "id": null
+    },
+    {
+      "title": "No Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Say Something",
+      "id": null
+    },
+    {
+      "title": "All My Life, Pt. 2",
+      "id": null
+    },
+    {
+      "title": "I Am More",
+      "id": null
+    },
+    {
+      "title": "High Heels",
+      "id": null
+    },
+    {
+      "title": "All My Life, Pt. 3",
+      "id": null
+    },
+    {
+      "title": "Love Again",
+      "id": null
+    },
+    {
+      "title": "Bye Bipolar",
+      "id": null
+    }
+  ]
+}

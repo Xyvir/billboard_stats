@@ -1,1 +1,246 @@
-{"id": "a-wolf-in-sheep-s-clothing-black-sheep", "title": "A Wolf In Sheep's Clothing", "artist": "Black Sheep", "peak": 30, "history": [{"date": "1991-11-09", "rank": 132}, {"date": "1991-11-16", "rank": 127}, {"date": "1991-11-23", "rank": 159}, {"date": "1991-11-30", "rank": 195}, {"date": "1992-01-11", "rank": 154}, {"date": "1992-01-18", "rank": 141}, {"date": "1992-01-25", "rank": 104}, {"date": "1992-02-01", "rank": 76}, {"date": "1992-02-08", "rank": 69}, {"date": "1992-02-15", "rank": 55}, {"date": "1992-02-22", "rank": 43}, {"date": "1992-02-29", "rank": 46}, {"date": "1992-03-07", "rank": 45}, {"date": "1992-03-14", "rank": 49}, {"date": "1992-03-21", "rank": 41}, {"date": "1992-03-28", "rank": 41}, {"date": "1992-04-04", "rank": 31}, {"date": "1992-04-11", "rank": 30}, {"date": "1992-04-18", "rank": 34}, {"date": "1992-04-25", "rank": 35}, {"date": "1992-05-02", "rank": 39}, {"date": "1992-05-09", "rank": 39}, {"date": "1992-05-16", "rank": 55}, {"date": "1992-05-23", "rank": 64}, {"date": "1992-05-30", "rank": 68}, {"date": "1992-06-06", "rank": 65}, {"date": "1992-06-13", "rank": 60}, {"date": "1992-06-20", "rank": 69}, {"date": "1992-06-27", "rank": 77}, {"date": "1992-07-04", "rank": 89}, {"date": "1992-07-11", "rank": 91}, {"date": "1992-07-18", "rank": 108}, {"date": "1992-07-25", "rank": 108}, {"date": "1992-08-01", "rank": 130}, {"date": "1992-08-08", "rank": 143}, {"date": "1992-08-15", "rank": 163}, {"date": "1992-08-22", "rank": 146}, {"date": "1992-08-29", "rank": 150}, {"date": "1992-09-05", "rank": 180}, {"date": "1992-09-12", "rank": 197}, {"date": "1992-09-26", "rank": 186}]}
+{
+  "id": "a-wolf-in-sheep-s-clothing-black-sheep",
+  "title": "A Wolf In Sheep's Clothing",
+  "artist": "Black Sheep",
+  "peak": 30,
+  "history": [
+    {
+      "date": "1991-11-09",
+      "rank": 132
+    },
+    {
+      "date": "1991-11-16",
+      "rank": 127
+    },
+    {
+      "date": "1991-11-23",
+      "rank": 159
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 195
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 154
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 141
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 104
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 76
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 69
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 55
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 43
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 46
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 45
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 49
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 41
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 41
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 31
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 30
+    },
+    {
+      "date": "1992-04-18",
+      "rank": 34
+    },
+    {
+      "date": "1992-04-25",
+      "rank": 35
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 39
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 39
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 55
+    },
+    {
+      "date": "1992-05-23",
+      "rank": 64
+    },
+    {
+      "date": "1992-05-30",
+      "rank": 68
+    },
+    {
+      "date": "1992-06-06",
+      "rank": 65
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 60
+    },
+    {
+      "date": "1992-06-20",
+      "rank": 69
+    },
+    {
+      "date": "1992-06-27",
+      "rank": 77
+    },
+    {
+      "date": "1992-07-04",
+      "rank": 89
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 91
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 108
+    },
+    {
+      "date": "1992-07-25",
+      "rank": 108
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 130
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 143
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 163
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 146
+    },
+    {
+      "date": "1992-08-29",
+      "rank": 150
+    },
+    {
+      "date": "1992-09-05",
+      "rank": 180
+    },
+    {
+      "date": "1992-09-12",
+      "rank": 197
+    },
+    {
+      "date": "1992-09-26",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Strobelite Honey",
+      "id": "strobelite-honey-black-sheep"
+    },
+    {
+      "title": "The Choice Is Yours",
+      "id": "the-choice-is-yours-black-sheep"
+    },
+    {
+      "title": "The Choice Is Yours (revisited)",
+      "id": "the-choice-is-yours-black-sheep"
+    },
+    {
+      "title": "Butt in the Meantime",
+      "id": null
+    },
+    {
+      "title": "Have U.N.E. Pull",
+      "id": null
+    },
+    {
+      "title": "Are You Mad?",
+      "id": null
+    },
+    {
+      "title": "To Whom It May Concern",
+      "id": null
+    },
+    {
+      "title": "Similak Child",
+      "id": null
+    },
+    {
+      "title": "Try Counting Sheep",
+      "id": null
+    },
+    {
+      "title": "Flavor of the Month",
+      "id": null
+    },
+    {
+      "title": "La Menage",
+      "id": null
+    },
+    {
+      "title": "Gimme the Finga",
+      "id": null
+    },
+    {
+      "title": "Hoes We Knows",
+      "id": null
+    },
+    {
+      "title": "Go to Hail",
+      "id": null
+    },
+    {
+      "title": "Black With N.V. (No Vision)",
+      "id": null
+    },
+    {
+      "title": "Pass the 40",
+      "id": null
+    },
+    {
+      "title": "Blunted 10",
+      "id": null
+    },
+    {
+      "title": "Yes",
+      "id": null
+    }
+  ]
+}

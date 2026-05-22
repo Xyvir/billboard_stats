@@ -1,1 +1,74 @@
-{"id": "babe-ruth-babe-ruth", "title": "Babe Ruth", "artist": "Babe Ruth", "peak": 75, "history": [{"date": "1975-02-22", "rank": 95}, {"date": "1975-03-01", "rank": 90}, {"date": "1975-03-08", "rank": 79}, {"date": "1975-03-15", "rank": 79}, {"date": "1975-03-22", "rank": 75}, {"date": "1975-03-29", "rank": 91}, {"date": "1975-04-05", "rank": 141}]}
+{
+  "id": "babe-ruth-babe-ruth",
+  "title": "Babe Ruth",
+  "artist": "Babe Ruth",
+  "peak": 75,
+  "history": [
+    {
+      "date": "1975-02-22",
+      "rank": 95
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 90
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 79
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 79
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 75
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 91
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 141
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dancer",
+      "id": null
+    },
+    {
+      "title": "Somebody's Nobody",
+      "id": null
+    },
+    {
+      "title": "A Fistful of Dollars",
+      "id": null
+    },
+    {
+      "title": "We People Darker Than Blue",
+      "id": null
+    },
+    {
+      "title": "Jack O’Lantern",
+      "id": null
+    },
+    {
+      "title": "Private Number",
+      "id": null
+    },
+    {
+      "title": "Turquoise",
+      "id": null
+    },
+    {
+      "title": "Sad but Rich",
+      "id": null
+    },
+    {
+      "title": "The Duchess of Orleans",
+      "id": null
+    }
+  ]
+}

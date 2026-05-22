@@ -1,1 +1,70 @@
-{"id": "axis-bold-as-love-the-jimi-hendrix-experience", "title": "Axis: Bold As Love", "artist": "The Jimi Hendrix Experience", "peak": 67, "history": [{"date": "2010-03-27", "rank": 67}, {"date": "2010-04-03", "rank": 178}]}
+{
+  "id": "axis-bold-as-love-the-jimi-hendrix-experience",
+  "title": "Axis: Bold As Love",
+  "artist": "The Jimi Hendrix Experience",
+  "peak": 67,
+  "history": [
+    {
+      "date": "2010-03-27",
+      "rank": 67
+    },
+    {
+      "date": "2010-04-03",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Up From the Skies",
+      "id": "up-from-the-skies-the-jimi-hendrix-experience"
+    },
+    {
+      "title": "EXP",
+      "id": null
+    },
+    {
+      "title": "Spanish Castle Magic",
+      "id": null
+    },
+    {
+      "title": "Wait Until Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Ain’t No Telling",
+      "id": null
+    },
+    {
+      "title": "Little Wing",
+      "id": null
+    },
+    {
+      "title": "If 6 Was 9",
+      "id": null
+    },
+    {
+      "title": "You Got Me Floatin’",
+      "id": null
+    },
+    {
+      "title": "Castles Made of Sand",
+      "id": null
+    },
+    {
+      "title": "She’s So Fine",
+      "id": null
+    },
+    {
+      "title": "One Rainy Wish",
+      "id": null
+    },
+    {
+      "title": "Little Miss Lover",
+      "id": null
+    },
+    {
+      "title": "Bold as Love",
+      "id": null
+    }
+  ]
+}

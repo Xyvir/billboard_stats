@@ -1,1 +1,54 @@
-{"id": "a-wonderful-world-susan-boyle", "title": "A Wonderful World", "artist": "Susan Boyle", "peak": 150, "history": [{"date": "2016-11-26", "rank": 150}]}
+{
+  "id": "a-wonderful-world-susan-boyle",
+  "title": "A Wonderful World",
+  "artist": "Susan Boyle",
+  "peak": 150,
+  "history": [
+    {
+      "date": "2016-11-26",
+      "rank": 150
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Have a Dream",
+      "id": "i-dreamed-a-dream-susan-boyle"
+    },
+    {
+      "title": "What a Wonderful World",
+      "id": null
+    },
+    {
+      "title": "When I Fall in Love",
+      "id": null
+    },
+    {
+      "title": "Angels",
+      "id": null
+    },
+    {
+      "title": "Somewhere Out There",
+      "id": null
+    },
+    {
+      "title": "Always on My Mind",
+      "id": null
+    },
+    {
+      "title": "May You Never Be Alone",
+      "id": null
+    },
+    {
+      "title": "Mull of Kintyre",
+      "id": null
+    },
+    {
+      "title": "Like a Prayer",
+      "id": null
+    },
+    {
+      "title": "When You Wish Upon a Star",
+      "id": null
+    }
+  ]
+}
