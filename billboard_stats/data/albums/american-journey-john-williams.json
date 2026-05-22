@@ -1,1 +1,86 @@
-{"id": "american-journey-john-williams", "title": "American Journey", "artist": "John Williams", "peak": 98, "history": [{"date": "2002-02-23", "rank": 146}, {"date": "2002-03-02", "rank": 98}, {"date": "2002-03-09", "rank": 123}, {"date": "2002-03-16", "rank": 123}]}
+{
+  "id": "american-journey-john-williams",
+  "title": "American Journey",
+  "artist": "John Williams",
+  "peak": 98,
+  "history": [
+    {
+      "date": "2002-02-23",
+      "rank": 146
+    },
+    {
+      "date": "2002-03-02",
+      "rank": 98
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 123
+    },
+    {
+      "date": "2002-03-16",
+      "rank": 123
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Call of the Champions",
+      "id": null
+    },
+    {
+      "title": "American Journey: I. Immigration and Building",
+      "id": null
+    },
+    {
+      "title": "American Journey: II. The Country at War",
+      "id": null
+    },
+    {
+      "title": "American Journey: III. Popular Entertainment",
+      "id": null
+    },
+    {
+      "title": "American Journey: IV. Arts and Sports",
+      "id": null
+    },
+    {
+      "title": "American Journey: V. Civil Rights and the Women's Movement",
+      "id": null
+    },
+    {
+      "title": "American Journey: VI. Flight and Technology",
+      "id": null
+    },
+    {
+      "title": "Song for World Peace",
+      "id": null
+    },
+    {
+      "title": "Jubilee 350",
+      "id": null
+    },
+    {
+      "title": "The Mission Theme",
+      "id": null
+    },
+    {
+      "title": "For New York (Variations on Themes of Leonard Bernstein)",
+      "id": null
+    },
+    {
+      "title": "Sound the Bells!",
+      "id": null
+    },
+    {
+      "title": "Hymn to New England",
+      "id": null
+    },
+    {
+      "title": "Celebrate Discovery",
+      "id": null
+    },
+    {
+      "title": "Summon the Heroes",
+      "id": null
+    }
+  ]
+}

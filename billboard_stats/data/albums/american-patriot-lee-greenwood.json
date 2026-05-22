@@ -1,1 +1,54 @@
-{"id": "american-patriot-lee-greenwood", "title": "American Patriot", "artist": "Lee Greenwood", "peak": 172, "history": [{"date": "2015-07-18", "rank": 172}]}
+{
+  "id": "american-patriot-lee-greenwood",
+  "title": "American Patriot",
+  "artist": "Lee Greenwood",
+  "peak": 172,
+  "history": [
+    {
+      "date": "2015-07-18",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "God Bless the USA",
+      "id": "god-bless-the-usa-lee-greenwood"
+    },
+    {
+      "title": "God Bless America",
+      "id": "god-bless-the-usa-lee-greenwood"
+    },
+    {
+      "title": "The Pledge of Allegiance",
+      "id": null
+    },
+    {
+      "title": "America",
+      "id": null
+    },
+    {
+      "title": "This Land Is Your Land",
+      "id": null
+    },
+    {
+      "title": "The Battle Hymn of the Republic",
+      "id": null
+    },
+    {
+      "title": "Dixie",
+      "id": null
+    },
+    {
+      "title": "The Great Defenders",
+      "id": null
+    },
+    {
+      "title": "America the Beautiful",
+      "id": null
+    },
+    {
+      "title": "Star Spangled Banner",
+      "id": null
+    }
+  ]
+}
