@@ -1,1 +1,98 @@
-{"id": "a-jethro-tull", "title": "A", "artist": "Jethro Tull", "peak": 30, "history": [{"date": "1980-09-13", "rank": 113}, {"date": "1980-09-20", "rank": 63}, {"date": "1980-09-27", "rank": 41}, {"date": "1980-10-04", "rank": 33}, {"date": "1980-10-11", "rank": 30}, {"date": "1980-10-18", "rank": 30}, {"date": "1980-10-25", "rank": 40}, {"date": "1980-11-01", "rank": 71}, {"date": "1980-11-08", "rank": 83}, {"date": "1980-11-15", "rank": 95}, {"date": "1980-11-22", "rank": 126}, {"date": "1980-11-29", "rank": 158}]}
+{
+  "id": "a-jethro-tull",
+  "title": "A",
+  "artist": "Jethro Tull",
+  "peak": 30,
+  "history": [
+    {
+      "date": "1980-09-13",
+      "rank": 113
+    },
+    {
+      "date": "1980-09-20",
+      "rank": 63
+    },
+    {
+      "date": "1980-09-27",
+      "rank": 41
+    },
+    {
+      "date": "1980-10-04",
+      "rank": 33
+    },
+    {
+      "date": "1980-10-11",
+      "rank": 30
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 30
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 40
+    },
+    {
+      "date": "1980-11-01",
+      "rank": 71
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 83
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 95
+    },
+    {
+      "date": "1980-11-22",
+      "rank": 126
+    },
+    {
+      "date": "1980-11-29",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Crossfire",
+      "id": null
+    },
+    {
+      "title": "Fylingdale Flyer",
+      "id": null
+    },
+    {
+      "title": "Working John, Working Joe",
+      "id": null
+    },
+    {
+      "title": "Black Sunday",
+      "id": null
+    },
+    {
+      "title": "Protect and Survive",
+      "id": null
+    },
+    {
+      "title": "Batteries Not Included",
+      "id": null
+    },
+    {
+      "title": "Uniform",
+      "id": null
+    },
+    {
+      "title": "4.W.D. (Low Ratio)",
+      "id": null
+    },
+    {
+      "title": "The Pine Marten’s Jig",
+      "id": null
+    },
+    {
+      "title": "And Further On",
+      "id": null
+    }
+  ]
+}

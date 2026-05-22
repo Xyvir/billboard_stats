@@ -1,1 +1,66 @@
-{"id": "a-jolly-christmas-from-frank-sinatra-frank-sinatra", "title": "A Jolly Christmas From Frank Sinatra", "artist": "Frank Sinatra", "peak": 23, "history": [{"date": "2016-12-31", "rank": 137}, {"date": "2017-01-07", "rank": 179}, {"date": "2019-12-21", "rank": 23}, {"date": "2021-01-09", "rank": 164}, {"date": "2022-11-26", "rank": 158}]}
+{
+  "id": "a-jolly-christmas-from-frank-sinatra-frank-sinatra",
+  "title": "A Jolly Christmas From Frank Sinatra",
+  "artist": "Frank Sinatra",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2016-12-31",
+      "rank": 137
+    },
+    {
+      "date": "2017-01-07",
+      "rank": 179
+    },
+    {
+      "date": "2019-12-21",
+      "rank": 23
+    },
+    {
+      "date": "2021-01-09",
+      "rank": 164
+    },
+    {
+      "date": "2022-11-26",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "White Christmas",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Home for Christmas (If Only in My Dreams)",
+      "id": null
+    },
+    {
+      "title": "The Christmas Song",
+      "id": null
+    },
+    {
+      "title": "Have Yourself a Merry Little Christmas",
+      "id": null
+    },
+    {
+      "title": "Silent Night",
+      "id": null
+    },
+    {
+      "title": "O Little Town of Bethlehem",
+      "id": null
+    },
+    {
+      "title": "The Christmas Waltz",
+      "id": null
+    },
+    {
+      "title": "Adeste Fideles",
+      "id": null
+    },
+    {
+      "title": "It Came Upon a Midnight Clear",
+      "id": null
+    }
+  ]
+}

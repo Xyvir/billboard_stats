@@ -1,1 +1,74 @@
-{"id": "a-kind-of-magic-queen", "title": "A Kind Of Magic", "artist": "Queen", "peak": 46, "history": [{"date": "1986-07-19", "rank": 125}, {"date": "1986-07-26", "rank": 72}, {"date": "1986-08-02", "rank": 47}, {"date": "1986-08-09", "rank": 46}, {"date": "1986-08-16", "rank": 46}, {"date": "1986-08-23", "rank": 46}, {"date": "1986-08-30", "rank": 69}, {"date": "1986-09-06", "rank": 78}, {"date": "1986-09-13", "rank": 93}, {"date": "1986-09-20", "rank": 99}, {"date": "1986-09-27", "rank": 118}, {"date": "1986-10-04", "rank": 150}, {"date": "1986-10-11", "rank": 189}]}
+{
+  "id": "a-kind-of-magic-queen",
+  "title": "A Kind Of Magic",
+  "artist": "Queen",
+  "peak": 46,
+  "history": [
+    {
+      "date": "1986-07-19",
+      "rank": 125
+    },
+    {
+      "date": "1986-07-26",
+      "rank": 72
+    },
+    {
+      "date": "1986-08-02",
+      "rank": 47
+    },
+    {
+      "date": "1986-08-09",
+      "rank": 46
+    },
+    {
+      "date": "1986-08-16",
+      "rank": 46
+    },
+    {
+      "date": "1986-08-23",
+      "rank": 46
+    },
+    {
+      "date": "1986-08-30",
+      "rank": 69
+    },
+    {
+      "date": "1986-09-06",
+      "rank": 78
+    },
+    {
+      "date": "1986-09-13",
+      "rank": 93
+    },
+    {
+      "date": "1986-09-20",
+      "rank": 99
+    },
+    {
+      "date": "1986-09-27",
+      "rank": 118
+    },
+    {
+      "date": "1986-10-04",
+      "rank": 150
+    },
+    {
+      "date": "1986-10-11",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Kind of Magic",
+      "id": "a-kind-of-magic-queen"
+    },
+    {
+      "title": "One Vision",
+      "id": "one-vision-queen"
+    },
+    {
+      "title": "A Dozen Red Roses for My Darling",
+      "id": null
+    }
+  ]
+}

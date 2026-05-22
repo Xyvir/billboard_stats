@@ -1,1 +1,194 @@
-{"id": "alannah-myles-alannah-myles", "title": "Alannah Myles", "artist": "Alannah Myles", "peak": 5, "history": [{"date": "1990-01-13", "rank": 194}, {"date": "1990-01-20", "rank": 126}, {"date": "1990-01-27", "rank": 92}, {"date": "1990-02-03", "rank": 66}, {"date": "1990-02-10", "rank": 44}, {"date": "1990-02-17", "rank": 36}, {"date": "1990-02-24", "rank": 26}, {"date": "1990-03-03", "rank": 19}, {"date": "1990-03-10", "rank": 13}, {"date": "1990-03-17", "rank": 9}, {"date": "1990-03-24", "rank": 8}, {"date": "1990-03-31", "rank": 6}, {"date": "1990-04-07", "rank": 5}, {"date": "1990-04-14", "rank": 5}, {"date": "1990-04-21", "rank": 6}, {"date": "1990-04-28", "rank": 7}, {"date": "1990-05-05", "rank": 10}, {"date": "1990-05-12", "rank": 17}, {"date": "1990-05-19", "rank": 22}, {"date": "1990-05-26", "rank": 26}, {"date": "1990-06-02", "rank": 27}, {"date": "1990-06-09", "rank": 30}, {"date": "1990-06-16", "rank": 36}, {"date": "1990-06-23", "rank": 44}, {"date": "1990-06-30", "rank": 37}, {"date": "1990-07-07", "rank": 43}, {"date": "1990-07-14", "rank": 48}, {"date": "1990-07-21", "rank": 55}, {"date": "1990-07-28", "rank": 62}, {"date": "1990-08-04", "rank": 71}, {"date": "1990-08-11", "rank": 88}, {"date": "1990-08-18", "rank": 116}, {"date": "1990-08-25", "rank": 128}, {"date": "1990-09-01", "rank": 134}, {"date": "1990-09-08", "rank": 172}, {"date": "1990-09-15", "rank": 179}]}
+{
+  "id": "alannah-myles-alannah-myles",
+  "title": "Alannah Myles",
+  "artist": "Alannah Myles",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1990-01-13",
+      "rank": 194
+    },
+    {
+      "date": "1990-01-20",
+      "rank": 126
+    },
+    {
+      "date": "1990-01-27",
+      "rank": 92
+    },
+    {
+      "date": "1990-02-03",
+      "rank": 66
+    },
+    {
+      "date": "1990-02-10",
+      "rank": 44
+    },
+    {
+      "date": "1990-02-17",
+      "rank": 36
+    },
+    {
+      "date": "1990-02-24",
+      "rank": 26
+    },
+    {
+      "date": "1990-03-03",
+      "rank": 19
+    },
+    {
+      "date": "1990-03-10",
+      "rank": 13
+    },
+    {
+      "date": "1990-03-17",
+      "rank": 9
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 8
+    },
+    {
+      "date": "1990-03-31",
+      "rank": 6
+    },
+    {
+      "date": "1990-04-07",
+      "rank": 5
+    },
+    {
+      "date": "1990-04-14",
+      "rank": 5
+    },
+    {
+      "date": "1990-04-21",
+      "rank": 6
+    },
+    {
+      "date": "1990-04-28",
+      "rank": 7
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 10
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 17
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 22
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 26
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 27
+    },
+    {
+      "date": "1990-06-09",
+      "rank": 30
+    },
+    {
+      "date": "1990-06-16",
+      "rank": 36
+    },
+    {
+      "date": "1990-06-23",
+      "rank": 44
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 37
+    },
+    {
+      "date": "1990-07-07",
+      "rank": 43
+    },
+    {
+      "date": "1990-07-14",
+      "rank": 48
+    },
+    {
+      "date": "1990-07-21",
+      "rank": 55
+    },
+    {
+      "date": "1990-07-28",
+      "rank": 62
+    },
+    {
+      "date": "1990-08-04",
+      "rank": 71
+    },
+    {
+      "date": "1990-08-11",
+      "rank": 88
+    },
+    {
+      "date": "1990-08-18",
+      "rank": 116
+    },
+    {
+      "date": "1990-08-25",
+      "rank": 128
+    },
+    {
+      "date": "1990-09-01",
+      "rank": 134
+    },
+    {
+      "date": "1990-09-08",
+      "rank": 172
+    },
+    {
+      "date": "1990-09-15",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Is",
+      "id": "love-is-alannah-myles"
+    },
+    {
+      "title": "Black Velvet",
+      "id": "black-velvet-alannah-myles"
+    },
+    {
+      "title": "Lover of Mine",
+      "id": "love-is-alannah-myles"
+    },
+    {
+      "title": "Still Got This Thing",
+      "id": null
+    },
+    {
+      "title": "Rock This Joint",
+      "id": null
+    },
+    {
+      "title": "Kick Start My Heart",
+      "id": null
+    },
+    {
+      "title": "If You Want To",
+      "id": null
+    },
+    {
+      "title": "Just One Kiss",
+      "id": null
+    },
+    {
+      "title": "Who Loves You",
+      "id": null
+    },
+    {
+      "title": "Hurry Make Love",
+      "id": null
+    }
+  ]
+}
