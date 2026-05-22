@@ -1,1 +1,218 @@
-{"id": "3lw-3lw", "title": "3LW", "artist": "3LW", "peak": 29, "history": [{"date": "2000-12-23", "rank": 69}, {"date": "2000-12-30", "rank": 78}, {"date": "2001-01-06", "rank": 69}, {"date": "2001-01-13", "rank": 61}, {"date": "2001-01-20", "rank": 64}, {"date": "2001-01-27", "rank": 61}, {"date": "2001-02-03", "rank": 51}, {"date": "2001-02-10", "rank": 42}, {"date": "2001-02-17", "rank": 34}, {"date": "2001-02-24", "rank": 35}, {"date": "2001-03-03", "rank": 37}, {"date": "2001-03-10", "rank": 35}, {"date": "2001-03-17", "rank": 37}, {"date": "2001-03-24", "rank": 34}, {"date": "2001-03-31", "rank": 34}, {"date": "2001-04-07", "rank": 41}, {"date": "2001-04-14", "rank": 44}, {"date": "2001-04-21", "rank": 50}, {"date": "2001-04-28", "rank": 29}, {"date": "2001-05-05", "rank": 46}, {"date": "2001-05-12", "rank": 55}, {"date": "2001-05-19", "rank": 59}, {"date": "2001-05-26", "rank": 80}, {"date": "2001-06-02", "rank": 71}, {"date": "2001-06-09", "rank": 77}, {"date": "2001-06-16", "rank": 53}, {"date": "2001-06-23", "rank": 59}, {"date": "2001-06-30", "rank": 69}, {"date": "2001-07-07", "rank": 69}, {"date": "2001-07-14", "rank": 68}, {"date": "2001-07-21", "rank": 80}, {"date": "2001-07-28", "rank": 82}, {"date": "2001-08-04", "rank": 96}, {"date": "2001-08-11", "rank": 109}, {"date": "2001-08-18", "rank": 132}, {"date": "2001-08-25", "rank": 144}, {"date": "2001-09-01", "rank": 147}, {"date": "2001-09-08", "rank": 158}, {"date": "2001-09-15", "rank": 170}, {"date": "2001-09-22", "rank": 175}]}
+{
+  "id": "3lw-3lw",
+  "title": "3LW",
+  "artist": "3LW",
+  "peak": 29,
+  "history": [
+    {
+      "date": "2000-12-23",
+      "rank": 69
+    },
+    {
+      "date": "2000-12-30",
+      "rank": 78
+    },
+    {
+      "date": "2001-01-06",
+      "rank": 69
+    },
+    {
+      "date": "2001-01-13",
+      "rank": 61
+    },
+    {
+      "date": "2001-01-20",
+      "rank": 64
+    },
+    {
+      "date": "2001-01-27",
+      "rank": 61
+    },
+    {
+      "date": "2001-02-03",
+      "rank": 51
+    },
+    {
+      "date": "2001-02-10",
+      "rank": 42
+    },
+    {
+      "date": "2001-02-17",
+      "rank": 34
+    },
+    {
+      "date": "2001-02-24",
+      "rank": 35
+    },
+    {
+      "date": "2001-03-03",
+      "rank": 37
+    },
+    {
+      "date": "2001-03-10",
+      "rank": 35
+    },
+    {
+      "date": "2001-03-17",
+      "rank": 37
+    },
+    {
+      "date": "2001-03-24",
+      "rank": 34
+    },
+    {
+      "date": "2001-03-31",
+      "rank": 34
+    },
+    {
+      "date": "2001-04-07",
+      "rank": 41
+    },
+    {
+      "date": "2001-04-14",
+      "rank": 44
+    },
+    {
+      "date": "2001-04-21",
+      "rank": 50
+    },
+    {
+      "date": "2001-04-28",
+      "rank": 29
+    },
+    {
+      "date": "2001-05-05",
+      "rank": 46
+    },
+    {
+      "date": "2001-05-12",
+      "rank": 55
+    },
+    {
+      "date": "2001-05-19",
+      "rank": 59
+    },
+    {
+      "date": "2001-05-26",
+      "rank": 80
+    },
+    {
+      "date": "2001-06-02",
+      "rank": 71
+    },
+    {
+      "date": "2001-06-09",
+      "rank": 77
+    },
+    {
+      "date": "2001-06-16",
+      "rank": 53
+    },
+    {
+      "date": "2001-06-23",
+      "rank": 59
+    },
+    {
+      "date": "2001-06-30",
+      "rank": 69
+    },
+    {
+      "date": "2001-07-07",
+      "rank": 69
+    },
+    {
+      "date": "2001-07-14",
+      "rank": 68
+    },
+    {
+      "date": "2001-07-21",
+      "rank": 80
+    },
+    {
+      "date": "2001-07-28",
+      "rank": 82
+    },
+    {
+      "date": "2001-08-04",
+      "rank": 96
+    },
+    {
+      "date": "2001-08-11",
+      "rank": 109
+    },
+    {
+      "date": "2001-08-18",
+      "rank": 132
+    },
+    {
+      "date": "2001-08-25",
+      "rank": 144
+    },
+    {
+      "date": "2001-09-01",
+      "rank": 147
+    },
+    {
+      "date": "2001-09-08",
+      "rank": 158
+    },
+    {
+      "date": "2001-09-15",
+      "rank": 170
+    },
+    {
+      "date": "2001-09-22",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No More (Baby I’ma Do Right)",
+      "id": "no-more-baby-i-ma-do-right-3lw"
+    },
+    {
+      "title": "Playas Gon’ Play",
+      "id": "playas-gon-play-3lw"
+    },
+    {
+      "title": "More Than Friends (That’s Right)",
+      "id": "no-more-baby-i-ma-do-right-3lw"
+    },
+    {
+      "title": "Is You Feelin’ Me",
+      "id": null
+    },
+    {
+      "title": "Gettin Too Heavy",
+      "id": null
+    },
+    {
+      "title": "I’m Gonna Make You Miss Me",
+      "id": null
+    },
+    {
+      "title": "Not This Time",
+      "id": null
+    },
+    {
+      "title": "Curious",
+      "id": null
+    },
+    {
+      "title": "Til I Say So",
+      "id": null
+    },
+    {
+      "title": "Crush on You",
+      "id": null
+    },
+    {
+      "title": "Ocean",
+      "id": null
+    },
+    {
+      "title": "I Can’t Take It (No More remix)",
+      "id": null
+    }
+  ]
+}

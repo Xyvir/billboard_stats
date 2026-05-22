@@ -1,1 +1,66 @@
-{"id": "3-the-purple-album-lukas-graham", "title": "3 (The Purple Album)", "artist": "Lukas Graham", "peak": 89, "history": [{"date": "2018-11-10", "rank": 89}]}
+{
+  "id": "3-the-purple-album-lukas-graham",
+  "title": "3 (The Purple Album)",
+  "artist": "Lukas Graham",
+  "peak": 89,
+  "history": [
+    {
+      "date": "2018-11-10",
+      "rank": 89
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Someone",
+      "id": "love-someone-lukas-graham"
+    },
+    {
+      "title": "Love Someone (live in Paris)",
+      "id": "love-someone-lukas-graham"
+    },
+    {
+      "title": "Not a Damn Thing Changed",
+      "id": null
+    },
+    {
+      "title": "Lullaby",
+      "id": null
+    },
+    {
+      "title": "You’re Not the Only One (Redemption Song)",
+      "id": null
+    },
+    {
+      "title": "Promise",
+      "id": null
+    },
+    {
+      "title": "Stick Around",
+      "id": null
+    },
+    {
+      "title": "Unhappy",
+      "id": null
+    },
+    {
+      "title": "Everything That Isn’t Me",
+      "id": null
+    },
+    {
+      "title": "Hold My Hand",
+      "id": null
+    },
+    {
+      "title": "Say Yes (Church Ballad)",
+      "id": null
+    },
+    {
+      "title": "7 Years (live in Paris)",
+      "id": null
+    },
+    {
+      "title": "You’re Not the Only One (Redemption Song) (live in Paris)",
+      "id": null
+    }
+  ]
+}
