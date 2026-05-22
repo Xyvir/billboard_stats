@@ -1,1 +1,58 @@
-{"id": "amazon-beach-the-kings", "title": "Amazon Beach", "artist": "The Kings", "peak": 170, "history": [{"date": "1981-09-26", "rank": 184}, {"date": "1981-10-03", "rank": 174}, {"date": "1981-10-10", "rank": 170}, {"date": "1981-10-17", "rank": 188}]}
+{
+  "id": "amazon-beach-the-kings",
+  "title": "Amazon Beach",
+  "artist": "The Kings",
+  "peak": 170,
+  "history": [
+    {
+      "date": "1981-09-26",
+      "rank": 184
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 174
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 170
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All the Way",
+      "id": null
+    },
+    {
+      "title": "Amazon Beach",
+      "id": null
+    },
+    {
+      "title": "The Fools Are in Love",
+      "id": null
+    },
+    {
+      "title": "Surprises",
+      "id": null
+    },
+    {
+      "title": "Got Two Girlfriends",
+      "id": null
+    },
+    {
+      "title": "The Loading Zone",
+      "id": null
+    },
+    {
+      "title": "Why Don't Love Do",
+      "id": null
+    },
+    {
+      "title": "Equal Noise",
+      "id": null
+    }
+  ]
+}

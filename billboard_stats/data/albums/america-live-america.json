@@ -1,1 +1,94 @@
-{"id": "america-live-america", "title": "America/Live", "artist": "America", "peak": 129, "history": [{"date": "1977-12-17", "rank": 151}, {"date": "1977-12-24", "rank": 141}, {"date": "1977-12-31", "rank": 141}, {"date": "1978-01-07", "rank": 129}, {"date": "1978-01-14", "rank": 129}, {"date": "1978-01-21", "rank": 173}, {"date": "1978-01-28", "rank": 198}]}
+{
+  "id": "america-live-america",
+  "title": "America/Live",
+  "artist": "America",
+  "peak": 129,
+  "history": [
+    {
+      "date": "1977-12-17",
+      "rank": 151
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 141
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 141
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 129
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 129
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 173
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tin Man",
+      "id": "tin-man-america"
+    },
+    {
+      "title": "Muskrat Love",
+      "id": "muskrat-love-america"
+    },
+    {
+      "title": "I Need You",
+      "id": "i-need-you-america"
+    },
+    {
+      "title": "Daisy Jane",
+      "id": "daisy-jane-america"
+    },
+    {
+      "title": "Amber Cascades",
+      "id": "amber-cascades-america"
+    },
+    {
+      "title": "Ventura Highway",
+      "id": "ventura-highway-america"
+    },
+    {
+      "title": "Sister Golden Hair",
+      "id": "sister-golden-hair-america"
+    },
+    {
+      "title": "A Horse With No Name",
+      "id": "a-horse-with-no-name-america"
+    },
+    {
+      "title": "Old Man Took",
+      "id": null
+    },
+    {
+      "title": "Company",
+      "id": null
+    },
+    {
+      "title": "Hollywood",
+      "id": null
+    },
+    {
+      "title": "Sergeant Darkness",
+      "id": null
+    },
+    {
+      "title": "To Each His Own",
+      "id": null
+    },
+    {
+      "title": "Another Try",
+      "id": null
+    }
+  ]
+}
