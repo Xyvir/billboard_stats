@@ -1,1 +1,86 @@
-{"id": "at-the-movies-dave-koz", "title": "At The Movies", "artist": "Dave Koz", "peak": 86, "history": [{"date": "2007-02-17", "rank": 86}, {"date": "2007-02-24", "rank": 144}, {"date": "2007-03-03", "rank": 141}, {"date": "2007-03-10", "rank": 173}, {"date": "2007-03-17", "rank": 162}]}
+{
+  "id": "at-the-movies-dave-koz",
+  "title": "At The Movies",
+  "artist": "Dave Koz",
+  "peak": 86,
+  "history": [
+    {
+      "date": "2007-02-17",
+      "rank": 86
+    },
+    {
+      "date": "2007-02-24",
+      "rank": 144
+    },
+    {
+      "date": "2007-03-03",
+      "rank": 141
+    },
+    {
+      "date": "2007-03-10",
+      "rank": 173
+    },
+    {
+      "date": "2007-03-17",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Over the Rainbow",
+      "id": null
+    },
+    {
+      "title": "Moon River",
+      "id": null
+    },
+    {
+      "title": "As Time Goes By",
+      "id": null
+    },
+    {
+      "title": "Somewhere",
+      "id": null
+    },
+    {
+      "title": "The Shadow of Your Smile",
+      "id": null
+    },
+    {
+      "title": "The Pink Panther",
+      "id": null
+    },
+    {
+      "title": "The Way We Were",
+      "id": null
+    },
+    {
+      "title": "The Summer Knows",
+      "id": null
+    },
+    {
+      "title": "It Might Be You",
+      "id": null
+    },
+    {
+      "title": "Cinema Paradiso Suite",
+      "id": null
+    },
+    {
+      "title": "A Whole New World",
+      "id": null
+    },
+    {
+      "title": "Schindler’s List",
+      "id": null
+    },
+    {
+      "title": "It Might Be You (instrumental version)",
+      "id": null
+    },
+    {
+      "title": "The Shadow of Your Smile (instrumental version)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "at-the-speed-of-life-xzibit", "title": "At The Speed Of Life", "artist": "Xzibit", "peak": 74, "history": [{"date": "1996-11-02", "rank": 74}, {"date": "1996-11-09", "rank": 118}, {"date": "1996-11-16", "rank": 159}, {"date": "1996-11-23", "rank": 189}]}
+{
+  "id": "at-the-speed-of-life-xzibit",
+  "title": "At The Speed Of Life",
+  "artist": "Xzibit",
+  "peak": 74,
+  "history": [
+    {
+      "date": "1996-11-02",
+      "rank": 74
+    },
+    {
+      "date": "1996-11-09",
+      "rank": 118
+    },
+    {
+      "date": "1996-11-16",
+      "rank": 159
+    },
+    {
+      "date": "1996-11-23",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Paparazzi",
+      "id": "paparazzi-xzibit"
+    },
+    {
+      "title": "Grand Opening (interlude)",
+      "id": null
+    },
+    {
+      "title": "At the Speed of Life",
+      "id": null
+    },
+    {
+      "title": "Just Maintain",
+      "id": null
+    },
+    {
+      "title": "Eyes May Shine",
+      "id": null
+    },
+    {
+      "title": "Positively Negative",
+      "id": null
+    },
+    {
+      "title": "Don’t Hate Me (interlude)",
+      "id": null
+    },
+    {
+      "title": "The Foundation",
+      "id": null
+    },
+    {
+      "title": "Mrs. Crabtree (interlude)",
+      "id": null
+    },
+    {
+      "title": "Bird’s Eye View",
+      "id": null
+    },
+    {
+      "title": "Hit & Run, Part II",
+      "id": null
+    },
+    {
+      "title": "Carry the Weight",
+      "id": null
+    },
+    {
+      "title": "Plastic Surgery",
+      "id": null
+    },
+    {
+      "title": "Enemies & Friends",
+      "id": null
+    },
+    {
+      "title": "Last Words (interlude)",
+      "id": null
+    }
+  ]
+}

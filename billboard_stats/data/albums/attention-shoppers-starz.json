@@ -1,1 +1,82 @@
-{"id": "attention-shoppers-starz", "title": "Attention Shoppers", "artist": "Starz", "peak": 105, "history": [{"date": "1978-02-11", "rank": 163}, {"date": "1978-02-18", "rank": 153}, {"date": "1978-02-25", "rank": 140}, {"date": "1978-03-04", "rank": 128}, {"date": "1978-03-11", "rank": 118}, {"date": "1978-03-18", "rank": 108}, {"date": "1978-03-25", "rank": 105}, {"date": "1978-04-01", "rank": 185}, {"date": "1978-04-08", "rank": 185}]}
+{
+  "id": "attention-shoppers-starz",
+  "title": "Attention Shoppers",
+  "artist": "Starz",
+  "peak": 105,
+  "history": [
+    {
+      "date": "1978-02-11",
+      "rank": 163
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 153
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 140
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 128
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 118
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 108
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 105
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 185
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hold On to the Night",
+      "id": "hold-on-to-the-night-starz"
+    },
+    {
+      "title": "(Any Way That You Want It) I’ll Be There",
+      "id": "any-way-that-you-want-it-i-ll-be-there-starz"
+    },
+    {
+      "title": "She",
+      "id": null
+    },
+    {
+      "title": "Third Time’s the Charm",
+      "id": null
+    },
+    {
+      "title": "Waitin’ on You",
+      "id": null
+    },
+    {
+      "title": "X‐Ray Spex",
+      "id": null
+    },
+    {
+      "title": "Good Ale We Seek",
+      "id": null
+    },
+    {
+      "title": "Don’t Think",
+      "id": null
+    },
+    {
+      "title": "Johnny All‐Alone",
+      "id": null
+    }
+  ]
+}
