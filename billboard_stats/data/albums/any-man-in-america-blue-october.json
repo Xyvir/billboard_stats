@@ -1,1 +1,78 @@
-{"id": "any-man-in-america-blue-october", "title": "Any Man In America", "artist": "Blue October", "peak": 8, "history": [{"date": "2011-09-03", "rank": 8}, {"date": "2011-09-10", "rank": 77}, {"date": "2011-09-17", "rank": 161}, {"date": "2011-09-24", "rank": 168}]}
+{
+  "id": "any-man-in-america-blue-october",
+  "title": "Any Man In America",
+  "artist": "Blue October",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2011-09-03",
+      "rank": 8
+    },
+    {
+      "date": "2011-09-10",
+      "rank": 77
+    },
+    {
+      "date": "2011-09-17",
+      "rank": 161
+    },
+    {
+      "date": "2011-09-24",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "For the Love",
+      "id": "into-the-ocean-blue-october"
+    },
+    {
+      "title": "Everything (AM Limbo)",
+      "id": null
+    },
+    {
+      "title": "The Feel Again (Stay)",
+      "id": null
+    },
+    {
+      "title": "The Money Tree",
+      "id": null
+    },
+    {
+      "title": "Drama Everything",
+      "id": null
+    },
+    {
+      "title": "The Chills",
+      "id": null
+    },
+    {
+      "title": "The Flight (Lincoln to Minneapolis)",
+      "id": null
+    },
+    {
+      "title": "Any Man in America",
+      "id": null
+    },
+    {
+      "title": "You Waited Too Long",
+      "id": null
+    },
+    {
+      "title": "The Honesty",
+      "id": null
+    },
+    {
+      "title": "The Getting Over It Part",
+      "id": null
+    },
+    {
+      "title": "The Worry List",
+      "id": null
+    },
+    {
+      "title": "The Follow Through",
+      "id": null
+    }
+  ]
+}
