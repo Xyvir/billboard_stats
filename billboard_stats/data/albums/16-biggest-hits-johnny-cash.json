@@ -1,1 +1,90 @@
-{"id": "16-biggest-hits-johnny-cash", "title": "16 Biggest Hits", "artist": "Johnny Cash", "peak": 65, "history": [{"date": "1999-05-08", "rank": 185}, {"date": "2012-02-25", "rank": 133}, {"date": "2012-11-03", "rank": 198}, {"date": "2013-01-12", "rank": 65}]}
+{
+  "id": "16-biggest-hits-johnny-cash",
+  "title": "16 Biggest Hits",
+  "artist": "Johnny Cash",
+  "peak": 65,
+  "history": [
+    {
+      "date": "1999-05-08",
+      "rank": 185
+    },
+    {
+      "date": "2012-02-25",
+      "rank": 133
+    },
+    {
+      "date": "2012-11-03",
+      "rank": 198
+    },
+    {
+      "date": "2013-01-12",
+      "rank": 65
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Take Your Guns to Town",
+      "id": "don-t-take-your-guns-to-town-johnny-cash"
+    },
+    {
+      "title": "Ring of Fire",
+      "id": "ring-of-fire-johnny-cash"
+    },
+    {
+      "title": "Understand Your Man",
+      "id": "understand-your-man-johnny-cash"
+    },
+    {
+      "title": "Folsom Prison Blues",
+      "id": "folsom-prison-blues-johnny-cash"
+    },
+    {
+      "title": "Daddy Sang Bass",
+      "id": "daddy-sang-bass-johnny-cash"
+    },
+    {
+      "title": "A Boy Named Sue",
+      "id": "a-boy-named-sue-johnny-cash"
+    },
+    {
+      "title": "Sunday Morning Coming Down",
+      "id": "sunday-morning-coming-down-johnny-cash"
+    },
+    {
+      "title": "Flesh and Blood",
+      "id": "flesh-and-blood-johnny-cash"
+    },
+    {
+      "title": "Man in Black",
+      "id": "man-in-black-johnny-cash"
+    },
+    {
+      "title": "I Walk the Line",
+      "id": null
+    },
+    {
+      "title": "I Still Miss Someone",
+      "id": null
+    },
+    {
+      "title": "The Legend of John Henry’s Hammer",
+      "id": null
+    },
+    {
+      "title": "In the Jailhouse Now",
+      "id": null
+    },
+    {
+      "title": "The Ballad of Ira Hayes",
+      "id": null
+    },
+    {
+      "title": "One Piece at a Time",
+      "id": null
+    },
+    {
+      "title": "(Ghost) Riders in the Sky",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,110 @@
-{"id": "16-greatest-hits-steppenwolf", "title": "16 Greatest Hits", "artist": "Steppenwolf", "peak": 152, "history": [{"date": "1973-02-24", "rank": 184}, {"date": "1973-03-03", "rank": 180}, {"date": "1973-03-10", "rank": 165}, {"date": "1973-03-17", "rank": 159}, {"date": "1973-03-24", "rank": 157}, {"date": "1973-03-31", "rank": 152}, {"date": "1973-04-07", "rank": 152}, {"date": "1973-04-14", "rank": 178}, {"date": "1973-04-21", "rank": 183}]}
+{
+  "id": "16-greatest-hits-steppenwolf",
+  "title": "16 Greatest Hits",
+  "artist": "Steppenwolf",
+  "peak": 152,
+  "history": [
+    {
+      "date": "1973-02-24",
+      "rank": 184
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 180
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 165
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 159
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 157
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 152
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 152
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 178
+    },
+    {
+      "date": "1973-04-21",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Born to Be Wild",
+      "id": "born-to-be-wild-steppenwolf"
+    },
+    {
+      "title": "It’s Never Too Late",
+      "id": "it-s-never-too-late-steppenwolf"
+    },
+    {
+      "title": "Rock Me",
+      "id": "rock-me-steppenwolf"
+    },
+    {
+      "title": "Hey Lawdy Mama",
+      "id": "hey-lawdy-mama-steppenwolf"
+    },
+    {
+      "title": "Move Over",
+      "id": "move-over-steppenwolf"
+    },
+    {
+      "title": "Who Needs Ya",
+      "id": "who-needs-ya-steppenwolf"
+    },
+    {
+      "title": "Snowblind Friend",
+      "id": "snow-blind-friend-steppenwolf"
+    },
+    {
+      "title": "Ride With Me",
+      "id": "ride-with-me-steppenwolf"
+    },
+    {
+      "title": "Magic Carpet Ride",
+      "id": "magic-carpet-ride-steppenwolf"
+    },
+    {
+      "title": "Screaming Night Hog",
+      "id": "screaming-night-hog-steppenwolf"
+    },
+    {
+      "title": "For Ladies Only",
+      "id": "for-ladies-only-steppenwolf"
+    },
+    {
+      "title": "Monster",
+      "id": "monster-steppenwolf"
+    },
+    {
+      "title": "The Pusher",
+      "id": null
+    },
+    {
+      "title": "Sookie Sookie",
+      "id": null
+    },
+    {
+      "title": "Jupiter Child",
+      "id": null
+    },
+    {
+      "title": "Tenderness",
+      "id": null
+    }
+  ]
+}
