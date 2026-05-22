@@ -1,1 +1,74 @@
-{"id": "basic-glen-campbell", "title": "Basic", "artist": "Glen Campbell", "peak": 164, "history": [{"date": "1978-12-16", "rank": 175}, {"date": "1978-12-23", "rank": 164}, {"date": "1978-12-30", "rank": 164}, {"date": "1979-01-06", "rank": 164}, {"date": "1979-01-13", "rank": 187}]}
+{
+  "id": "basic-glen-campbell",
+  "title": "Basic",
+  "artist": "Glen Campbell",
+  "peak": 164,
+  "history": [
+    {
+      "date": "1978-12-16",
+      "rank": 175
+    },
+    {
+      "date": "1978-12-23",
+      "rank": 164
+    },
+    {
+      "date": "1978-12-30",
+      "rank": 164
+    },
+    {
+      "date": "1979-01-06",
+      "rank": 164
+    },
+    {
+      "date": "1979-01-13",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Can You Fool",
+      "id": "can-you-fool-glen-campbell"
+    },
+    {
+      "title": "I’m Gonna Love You",
+      "id": "i-m-not-gonna-miss-you-glen-campbell"
+    },
+    {
+      "title": "(You've Got To) Sing It Nice and Loud for Me Sonny",
+      "id": null
+    },
+    {
+      "title": "Stranger in the Mirror",
+      "id": null
+    },
+    {
+      "title": "(When I Feel Like) I Got No Love in Me",
+      "id": null
+    },
+    {
+      "title": "I See Love",
+      "id": null
+    },
+    {
+      "title": "Love Takes You Higher",
+      "id": null
+    },
+    {
+      "title": "Never Tell You No Lies",
+      "id": null
+    },
+    {
+      "title": "California",
+      "id": null
+    },
+    {
+      "title": "Let's All Sing a Song About It",
+      "id": null
+    },
+    {
+      "title": "Grafhaidh Me Thu",
+      "id": null
+    }
+  ]
+}
