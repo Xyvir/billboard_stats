@@ -1,1 +1,78 @@
-{"id": "127-rose-avenue-hank-williams-jr", "title": "127 Rose Avenue", "artist": "Hank Williams Jr.", "peak": 19, "history": [{"date": "2009-07-04", "rank": 19}, {"date": "2009-07-11", "rank": 65}, {"date": "2009-07-18", "rank": 79}, {"date": "2009-07-25", "rank": 110}, {"date": "2009-08-01", "rank": 147}, {"date": "2009-08-08", "rank": 175}]}
+{
+  "id": "127-rose-avenue-hank-williams-jr",
+  "title": "127 Rose Avenue",
+  "artist": "Hank Williams Jr.",
+  "peak": 19,
+  "history": [
+    {
+      "date": "2009-07-04",
+      "rank": 19
+    },
+    {
+      "date": "2009-07-11",
+      "rank": 65
+    },
+    {
+      "date": "2009-07-18",
+      "rank": 79
+    },
+    {
+      "date": "2009-07-25",
+      "rank": 110
+    },
+    {
+      "date": "2009-08-01",
+      "rank": 147
+    },
+    {
+      "date": "2009-08-08",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Long Gone Lonesome Blues",
+      "id": "long-gone-lonesome-blues-hank-williams-jr"
+    },
+    {
+      "title": "Farm Song",
+      "id": null
+    },
+    {
+      "title": "Red, White & Pink-Slip Blues",
+      "id": null
+    },
+    {
+      "title": "High Maintenance Woman",
+      "id": null
+    },
+    {
+      "title": "Mighty Oak Trees",
+      "id": null
+    },
+    {
+      "title": "Forged by Fire",
+      "id": null
+    },
+    {
+      "title": "Last Driftin’ Cowboy",
+      "id": null
+    },
+    {
+      "title": "127 Rose Avenue",
+      "id": null
+    },
+    {
+      "title": "All the Roads",
+      "id": null
+    },
+    {
+      "title": "Sounds Like Justice",
+      "id": null
+    },
+    {
+      "title": "Gulf Shore Road",
+      "id": null
+    }
+  ]
+}
