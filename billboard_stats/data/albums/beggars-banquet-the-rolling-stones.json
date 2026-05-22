@@ -1,1 +1,78 @@
-{"id": "beggars-banquet-the-rolling-stones", "title": "Beggars Banquet", "artist": "The Rolling Stones", "peak": 118, "history": [{"date": "1980-09-27", "rank": 190}, {"date": "1980-10-04", "rank": 180}, {"date": "1980-10-11", "rank": 170}, {"date": "1980-10-18", "rank": 169}, {"date": "1980-10-25", "rank": 187}, {"date": "1980-11-01", "rank": 181}, {"date": "2023-05-06", "rank": 118}]}
+{
+  "id": "beggars-banquet-the-rolling-stones",
+  "title": "Beggars Banquet",
+  "artist": "The Rolling Stones",
+  "peak": 118,
+  "history": [
+    {
+      "date": "1980-09-27",
+      "rank": 190
+    },
+    {
+      "date": "1980-10-04",
+      "rank": 180
+    },
+    {
+      "date": "1980-10-11",
+      "rank": 170
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 169
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 187
+    },
+    {
+      "date": "1980-11-01",
+      "rank": 181
+    },
+    {
+      "date": "2023-05-06",
+      "rank": 118
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sympathy for the Devil",
+      "id": "sympathy-for-the-devil-remixes-the-rolling-stones"
+    },
+    {
+      "title": "Street Fighting Man",
+      "id": "street-fighting-man-the-rolling-stones"
+    },
+    {
+      "title": "Salt of the Earth",
+      "id": "out-of-tears-the-rolling-stones"
+    },
+    {
+      "title": "No Expectations",
+      "id": null
+    },
+    {
+      "title": "Dear Doctor",
+      "id": null
+    },
+    {
+      "title": "Parachute Woman",
+      "id": null
+    },
+    {
+      "title": "Jig‐Saw Puzzle",
+      "id": null
+    },
+    {
+      "title": "Prodigal Son",
+      "id": null
+    },
+    {
+      "title": "Stray Cat Blues",
+      "id": null
+    },
+    {
+      "title": "Factory Girl",
+      "id": null
+    }
+  ]
+}
