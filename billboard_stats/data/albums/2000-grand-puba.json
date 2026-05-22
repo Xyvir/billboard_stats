@@ -1,1 +1,86 @@
-{"id": "2000-grand-puba", "title": "2000", "artist": "Grand Puba", "peak": 48, "history": [{"date": "1995-07-08", "rank": 48}, {"date": "1995-07-15", "rank": 55}, {"date": "1995-07-22", "rank": 70}, {"date": "1995-07-29", "rank": 93}, {"date": "1995-08-05", "rank": 114}, {"date": "1995-08-12", "rank": 138}, {"date": "1995-08-19", "rank": 152}, {"date": "1995-08-26", "rank": 195}]}
+{
+  "id": "2000-grand-puba",
+  "title": "2000",
+  "artist": "Grand Puba",
+  "peak": 48,
+  "history": [
+    {
+      "date": "1995-07-08",
+      "rank": 48
+    },
+    {
+      "date": "1995-07-15",
+      "rank": 55
+    },
+    {
+      "date": "1995-07-22",
+      "rank": 70
+    },
+    {
+      "date": "1995-07-29",
+      "rank": 93
+    },
+    {
+      "date": "1995-08-05",
+      "rank": 114
+    },
+    {
+      "date": "1995-08-12",
+      "rank": 138
+    },
+    {
+      "date": "1995-08-19",
+      "rank": 152
+    },
+    {
+      "date": "1995-08-26",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Like It (I Wanna Be Where You Are)",
+      "id": "i-like-it-i-wanna-be-where-you-are-grand-puba"
+    },
+    {
+      "title": "Very Special",
+      "id": null
+    },
+    {
+      "title": "A Little of This",
+      "id": null
+    },
+    {
+      "title": "Keep On",
+      "id": null
+    },
+    {
+      "title": "Back Stabbers",
+      "id": null
+    },
+    {
+      "title": "2000",
+      "id": null
+    },
+    {
+      "title": "Amazing",
+      "id": null
+    },
+    {
+      "title": "Don't Waste My Time",
+      "id": null
+    },
+    {
+      "title": "Play It Cool",
+      "id": null
+    },
+    {
+      "title": "Playin' the Game",
+      "id": null
+    },
+    {
+      "title": "Change Gonna Come",
+      "id": null
+    }
+  ]
+}
