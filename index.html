@@ -86,8 +86,8 @@
     <div id="view-home" class="view-section active">
         <div style="margin-bottom: 2rem; display: flex; gap: 1rem; flex-wrap: wrap;">
             <select id="chartType">
-                <option value="hot100">Hot 100</option>
-                <option value="b200" selected>Billboard 200</option>
+                <option value="hot100" selected>Hot 100</option>
+                <option value="b200">Billboard 200</option>
             </select>
             <input type="date" id="dateInput" value="2026-04-04">
             <button onclick="loadChart()">Load Week</button>
@@ -274,6 +274,8 @@
 
         function renderChart(data) {
             const container = document.getElementById('chartContainer');
+            const currentChartType = document.getElementById('chartType').value;
+            const entityType = currentChartType === 'b200' ? 'albums' : 'songs';
             
             data.forEach(track => {
                 const row = document.createElement('div');
@@ -282,13 +284,14 @@
                 // Fallbacks applied in case the ETL hasn't reached this file yet
                 const peak = track.peak_position || '-';
                 const wks = track.weeks_on_chart || '-';
-                const id = track.id || null;
+                const id = track.id || track.album_id || track.song_id || null;
                 const artistId = track.artist_id || null;
+                const title = track.title || track.song || track.album || track.name || 'Unknown';
                 
                 row.innerHTML = `
                     <div class="rank">${track.rank || track.position}</div>
                     <div class="details">
-                        <h3 onclick="loadDetail('songs', '${id}')">${track.title || track.song}</h3>
+                        <h3 onclick="loadDetail('${entityType}', '${id}')">${title}</h3>
                         <p onclick="loadDetail('artists', '${artistId}')">${track.artist}</p>
                         <div style="margin-top: 6px;">
                             <span class="stat-badge">Peak: ${peak}</span>
@@ -357,7 +360,8 @@
                 // Render Catalog of Songs (Artists & Albums)
                 const songs = data.songs || data.tracks || data.items;
                 if (songs && Array.isArray(songs) && songs.length > 0) {
-                    html += `<h3 style="margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;">Songs</h3>`;
+                    const sectionTitle = type === 'albums' ? 'Track Listing' : 'Songs';
+                    html += `<h3 style="margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;">${sectionTitle}</h3>`;
                     html += `<div style="display: flex; flex-direction: column; gap: 5px; margin-top: 1rem;">`;
                     songs.forEach(song => {
                         let songId = '';
