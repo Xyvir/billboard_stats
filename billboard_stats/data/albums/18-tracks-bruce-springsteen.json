@@ -1,1 +1,106 @@
-{"id": "18-tracks-bruce-springsteen", "title": "18 Tracks", "artist": "Bruce Springsteen", "peak": 64, "history": [{"date": "1999-05-01", "rank": 64}, {"date": "1999-05-08", "rank": 100}, {"date": "1999-05-15", "rank": 137}, {"date": "1999-05-22", "rank": 144}, {"date": "1999-05-29", "rank": 170}, {"date": "1999-06-05", "rank": 183}]}
+{
+  "id": "18-tracks-bruce-springsteen",
+  "title": "18 Tracks",
+  "artist": "Bruce Springsteen",
+  "peak": 64,
+  "history": [
+    {
+      "date": "1999-05-01",
+      "rank": 64
+    },
+    {
+      "date": "1999-05-08",
+      "rank": 100
+    },
+    {
+      "date": "1999-05-15",
+      "rank": 137
+    },
+    {
+      "date": "1999-05-22",
+      "rank": 144
+    },
+    {
+      "date": "1999-05-29",
+      "rank": 170
+    },
+    {
+      "date": "1999-06-05",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Born in the U.S.A.",
+      "id": "born-in-the-u-s-a-bruce-springsteen"
+    },
+    {
+      "title": "The Promise",
+      "id": "the-rising-bruce-springsteen"
+    },
+    {
+      "title": "Growin’ Up",
+      "id": null
+    },
+    {
+      "title": "Seaside Bar Song",
+      "id": null
+    },
+    {
+      "title": "Rendezvous",
+      "id": null
+    },
+    {
+      "title": "Hearts of Stone",
+      "id": null
+    },
+    {
+      "title": "Where the Bands Are",
+      "id": null
+    },
+    {
+      "title": "Loose Ends",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be With You",
+      "id": null
+    },
+    {
+      "title": "My Love Will Not Let You Down",
+      "id": null
+    },
+    {
+      "title": "Lion’s Den",
+      "id": null
+    },
+    {
+      "title": "Pink Cadillac",
+      "id": null
+    },
+    {
+      "title": "Janey, Don’t You Lose Heart",
+      "id": null
+    },
+    {
+      "title": "Sad Eyes",
+      "id": null
+    },
+    {
+      "title": "Part Man, Part Monkey",
+      "id": null
+    },
+    {
+      "title": "Trouble River",
+      "id": null
+    },
+    {
+      "title": "Brothers Under the Bridge",
+      "id": null
+    },
+    {
+      "title": "The Fever",
+      "id": null
+    }
+  ]
+}
