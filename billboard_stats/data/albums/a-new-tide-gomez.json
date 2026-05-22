@@ -1,1 +1,70 @@
-{"id": "a-new-tide-gomez", "title": "A New Tide", "artist": "Gomez", "peak": 60, "history": [{"date": "2009-04-18", "rank": 60}, {"date": "2009-04-25", "rank": 168}, {"date": "2009-05-02", "rank": 191}]}
+{
+  "id": "a-new-tide-gomez",
+  "title": "A New Tide",
+  "artist": "Gomez",
+  "peak": 60,
+  "history": [
+    {
+      "date": "2009-04-18",
+      "rank": 60
+    },
+    {
+      "date": "2009-04-25",
+      "rank": 168
+    },
+    {
+      "date": "2009-05-02",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mix",
+      "id": null
+    },
+    {
+      "title": "Little Pieces",
+      "id": null
+    },
+    {
+      "title": "If I Ask You Nicely",
+      "id": null
+    },
+    {
+      "title": "Lost Track",
+      "id": null
+    },
+    {
+      "title": "Win Park Slope",
+      "id": null
+    },
+    {
+      "title": "Bone Tired",
+      "id": null
+    },
+    {
+      "title": "Airstream Driver",
+      "id": null
+    },
+    {
+      "title": "Natural Reaction",
+      "id": null
+    },
+    {
+      "title": "Very Strange",
+      "id": null
+    },
+    {
+      "title": "Other Plans",
+      "id": null
+    },
+    {
+      "title": "Sunset Gates",
+      "id": null
+    },
+    {
+      "title": "Engine",
+      "id": null
+    }
+  ]
+}

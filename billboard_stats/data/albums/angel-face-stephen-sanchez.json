@@ -1,1 +1,74 @@
-{"id": "angel-face-stephen-sanchez", "title": "Angel Face", "artist": "Stephen Sanchez", "peak": 90, "history": [{"date": "2023-10-07", "rank": 90}, {"date": "2023-10-21", "rank": 146}, {"date": "2024-03-02", "rank": 199}]}
+{
+  "id": "angel-face-stephen-sanchez",
+  "title": "Angel Face",
+  "artist": "Stephen Sanchez",
+  "peak": 90,
+  "history": [
+    {
+      "date": "2023-10-07",
+      "rank": 90
+    },
+    {
+      "date": "2023-10-21",
+      "rank": 146
+    },
+    {
+      "date": "2024-03-02",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Until I Found You",
+      "id": "until-i-found-you-stephen-sanchez"
+    },
+    {
+      "title": "Something About Her",
+      "id": null
+    },
+    {
+      "title": "Evangeline",
+      "id": null
+    },
+    {
+      "title": "I Need You Most of All",
+      "id": null
+    },
+    {
+      "title": "Only Girl",
+      "id": null
+    },
+    {
+      "title": "Be More",
+      "id": null
+    },
+    {
+      "title": "Shake",
+      "id": null
+    },
+    {
+      "title": "High",
+      "id": null
+    },
+    {
+      "title": "Doesn’t Do Me Any Good",
+      "id": null
+    },
+    {
+      "title": "No One Knows",
+      "id": null
+    },
+    {
+      "title": "Caught in a Blue",
+      "id": null
+    },
+    {
+      "title": "Death of the Troubadour",
+      "id": null
+    },
+    {
+      "title": "Send My Heart With a Kiss",
+      "id": null
+    }
+  ]
+}

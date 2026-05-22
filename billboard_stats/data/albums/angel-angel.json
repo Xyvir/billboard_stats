@@ -1,1 +1,66 @@
-{"id": "angel-angel", "title": "Angel", "artist": "Angel", "peak": 156, "history": [{"date": "1975-12-20", "rank": 183}, {"date": "1975-12-27", "rank": 172}, {"date": "1976-01-03", "rank": 162}, {"date": "1976-01-10", "rank": 156}, {"date": "1976-01-17", "rank": 156}, {"date": "1976-01-24", "rank": 176}]}
+{
+  "id": "angel-angel",
+  "title": "Angel",
+  "artist": "Angel",
+  "peak": 156,
+  "history": [
+    {
+      "date": "1975-12-20",
+      "rank": 183
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 172
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 162
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 156
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 156
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tower",
+      "id": null
+    },
+    {
+      "title": "Long Time",
+      "id": null
+    },
+    {
+      "title": "Rock & Rollers",
+      "id": null
+    },
+    {
+      "title": "Broken Dreams",
+      "id": null
+    },
+    {
+      "title": "Mariner",
+      "id": null
+    },
+    {
+      "title": "Sunday Morning",
+      "id": null
+    },
+    {
+      "title": "On & On",
+      "id": null
+    },
+    {
+      "title": "Angel (theme)",
+      "id": null
+    }
+  ]
+}
