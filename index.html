@@ -182,12 +182,13 @@
             if (matchedArtists.length > 0) {
                 html += '<div style="padding: 0.5rem; background: #333; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Artists</div>';
                 matchedArtists.forEach(artist => {
-                    let id = artist.id || artist.ref;
+                    let id = artist.id || artist.ref || artist.artist_id || artist.path;
                     if (id) {
-                        id = id.replace(/^artists\//, '').replace(/\.json$/, '');
+                        id = String(id).replace(/^artists\//, '').replace(/\.json$/, '');
                     }
+                    const encodedId = id ? encodeURIComponent(id) : '';
                     html += `<div style="padding: 0.5rem; cursor: pointer; border-bottom: 1px solid var(--border);" 
-                                  onclick="document.getElementById('searchResults').style.display='none'; loadDetail('artists', '${id}')"
+                                  onclick="onArtistSearchClick('${encodedId}')"
                                   onmouseover="this.style.background='#333'" onmouseout="this.style.background='transparent'">
                                   ${artist.name}
                              </div>`;
@@ -197,12 +198,13 @@
             if (matchedSongs.length > 0) {
                 html += '<div style="padding: 0.5rem; background: #333; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Songs</div>';
                 matchedSongs.forEach(song => {
-                    let id = song.id || song.ref;
+                    let id = song.id || song.ref || song.song_id || song.path;
                     if (id) {
-                        id = id.replace(/^songs\//, '').replace(/\.json$/, '');
+                        id = String(id).replace(/^songs\//, '').replace(/\.json$/, '');
                     }
+                    const encodedId = id ? encodeURIComponent(id) : '';
                     html += `<div style="padding: 0.5rem; cursor: pointer; border-bottom: 1px solid var(--border);" 
-                                  onclick="onSongSearchClick('${id}')"
+                                  onclick="onSongSearchClick('${encodedId}')"
                                   onmouseover="this.style.background='#333'" onmouseout="this.style.background='transparent'">
                                 <div style="font-weight: bold; color: white;">${song.name || song.title}</div>
                                 <div style="font-size: 0.8rem; color: #aaa;">${song.artist}</div>
@@ -214,8 +216,15 @@
             resultsContainer.style.display = 'block';
         }
 
-        async function onSongSearchClick(songId) {
+        function onArtistSearchClick(encodedId) {
             document.getElementById('searchResults').style.display = 'none';
+            const artistId = decodeURIComponent(encodedId);
+            loadDetail('artists', artistId);
+        }
+
+        async function onSongSearchClick(encodedId) {
+            document.getElementById('searchResults').style.display = 'none';
+            const songId = decodeURIComponent(encodedId);
             const currentChartType = document.getElementById('chartType').value;
 
             try {
@@ -320,7 +329,7 @@
         }
 
         async function loadDetail(type, itemId) {
-            if (!itemId || itemId === 'null') {
+            if (!itemId || itemId === 'null' || itemId === 'undefined') {
                 alert("This record hasn't been processed by the new ETL yet.");
                 return;
             }
