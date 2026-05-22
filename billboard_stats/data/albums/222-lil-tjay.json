@@ -1,1 +1,82 @@
-{"id": "222-lil-tjay", "title": "222", "artist": "Lil Tjay", "peak": 24, "history": [{"date": "2023-07-29", "rank": 24}, {"date": "2023-08-05", "rank": 107}, {"date": "2023-08-12", "rank": 197}]}
+{
+  "id": "222-lil-tjay",
+  "title": "222",
+  "artist": "Lil Tjay",
+  "peak": 24,
+  "history": [
+    {
+      "date": "2023-07-29",
+      "rank": 24
+    },
+    {
+      "date": "2023-08-05",
+      "rank": 107
+    },
+    {
+      "date": "2023-08-12",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hole in My Heart",
+      "id": "in-my-head-lil-tjay"
+    },
+    {
+      "title": "Beat the Odds Pt 2",
+      "id": "beat-the-odds-lil-tjay"
+    },
+    {
+      "title": "Nightshift",
+      "id": null
+    },
+    {
+      "title": "June 22nd",
+      "id": null
+    },
+    {
+      "title": "Nobody",
+      "id": null
+    },
+    {
+      "title": "Scared 2 Be Lonely",
+      "id": null
+    },
+    {
+      "title": "Stressed",
+      "id": null
+    },
+    {
+      "title": "2 Grown",
+      "id": null
+    },
+    {
+      "title": "Heart Felt Soul",
+      "id": null
+    },
+    {
+      "title": "Bla Bla",
+      "id": null
+    },
+    {
+      "title": "Someone Who Cares",
+      "id": null
+    },
+    {
+      "title": "Forgot I Was the 1?",
+      "id": null
+    },
+    {
+      "title": "Project Walls",
+      "id": null
+    },
+    {
+      "title": "Foster Baby",
+      "id": null
+    },
+    {
+      "title": "Grateful",
+      "id": null
+    }
+  ]
+}
