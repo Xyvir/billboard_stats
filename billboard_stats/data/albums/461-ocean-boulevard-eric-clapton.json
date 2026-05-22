@@ -1,1 +1,154 @@
-{"id": "461-ocean-boulevard-eric-clapton", "title": "461 Ocean Boulevard", "artist": "Eric Clapton", "peak": 1, "history": [{"date": "1974-07-20", "rank": 60}, {"date": "1974-07-27", "rank": 20}, {"date": "1974-08-03", "rank": 5}, {"date": "1974-08-10", "rank": 4}, {"date": "1974-08-17", "rank": 1}, {"date": "1974-08-24", "rank": 1}, {"date": "1974-08-31", "rank": 1}, {"date": "1974-09-07", "rank": 1}, {"date": "1974-09-14", "rank": 3}, {"date": "1974-09-21", "rank": 7}, {"date": "1974-09-28", "rank": 10}, {"date": "1974-10-05", "rank": 13}, {"date": "1974-10-12", "rank": 20}, {"date": "1974-10-19", "rank": 28}, {"date": "1974-10-26", "rank": 33}, {"date": "1974-11-02", "rank": 41}, {"date": "1974-11-09", "rank": 62}, {"date": "1974-11-16", "rank": 67}, {"date": "1974-11-23", "rank": 108}, {"date": "1974-11-30", "rank": 117}, {"date": "1974-12-07", "rank": 144}, {"date": "1974-12-14", "rank": 163}, {"date": "1974-12-21", "rank": 172}, {"date": "1974-12-28", "rank": 180}, {"date": "1975-01-04", "rank": 197}]}
+{
+  "id": "461-ocean-boulevard-eric-clapton",
+  "title": "461 Ocean Boulevard",
+  "artist": "Eric Clapton",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1974-07-20",
+      "rank": 60
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 20
+    },
+    {
+      "date": "1974-08-03",
+      "rank": 5
+    },
+    {
+      "date": "1974-08-10",
+      "rank": 4
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 1
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 1
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 1
+    },
+    {
+      "date": "1974-09-07",
+      "rank": 1
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 3
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 7
+    },
+    {
+      "date": "1974-09-28",
+      "rank": 10
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 13
+    },
+    {
+      "date": "1974-10-12",
+      "rank": 20
+    },
+    {
+      "date": "1974-10-19",
+      "rank": 28
+    },
+    {
+      "date": "1974-10-26",
+      "rank": 33
+    },
+    {
+      "date": "1974-11-02",
+      "rank": 41
+    },
+    {
+      "date": "1974-11-09",
+      "rank": 62
+    },
+    {
+      "date": "1974-11-16",
+      "rank": 67
+    },
+    {
+      "date": "1974-11-23",
+      "rank": 108
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 117
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 144
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 163
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 172
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 180
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Willie and the Hand Jive",
+      "id": "willie-and-the-hand-jive-eric-clapton"
+    },
+    {
+      "title": "I Shot the Sheriff",
+      "id": "i-shot-the-sheriff-eric-clapton"
+    },
+    {
+      "title": "Let It Grow",
+      "id": "let-it-rain-eric-clapton"
+    },
+    {
+      "title": "Motherless Children",
+      "id": null
+    },
+    {
+      "title": "Better Make It Through Today",
+      "id": null
+    },
+    {
+      "title": "Get Ready",
+      "id": null
+    },
+    {
+      "title": "I Can’t Hold Out",
+      "id": null
+    },
+    {
+      "title": "Please Be With Me",
+      "id": null
+    },
+    {
+      "title": "Steady Rollin’ Man",
+      "id": null
+    },
+    {
+      "title": "Mainline Florida",
+      "id": null
+    },
+    {
+      "title": "Give Me Strength",
+      "id": null
+    }
+  ]
+}

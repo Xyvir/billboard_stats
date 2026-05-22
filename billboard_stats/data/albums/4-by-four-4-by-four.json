@@ -1,1 +1,78 @@
-{"id": "4-by-four-4-by-four", "title": "4 By Four", "artist": "4 by Four", "peak": 141, "history": [{"date": "1987-06-27", "rank": 186}, {"date": "1987-07-04", "rank": 184}, {"date": "1987-07-11", "rank": 163}, {"date": "1987-07-18", "rank": 141}, {"date": "1987-07-25", "rank": 141}, {"date": "1987-08-01", "rank": 170}, {"date": "1987-08-08", "rank": 192}]}
+{
+  "id": "4-by-four-4-by-four",
+  "title": "4 By Four",
+  "artist": "4 by Four",
+  "peak": 141,
+  "history": [
+    {
+      "date": "1987-06-27",
+      "rank": 186
+    },
+    {
+      "date": "1987-07-04",
+      "rank": 184
+    },
+    {
+      "date": "1987-07-11",
+      "rank": 163
+    },
+    {
+      "date": "1987-07-18",
+      "rank": 141
+    },
+    {
+      "date": "1987-07-25",
+      "rank": 141
+    },
+    {
+      "date": "1987-08-01",
+      "rank": 170
+    },
+    {
+      "date": "1987-08-08",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Want You for My Girlfriend",
+      "id": "want-you-for-my-girlfriend-4-by-four"
+    },
+    {
+      "title": "Smokin'",
+      "id": null
+    },
+    {
+      "title": "Come Over",
+      "id": null
+    },
+    {
+      "title": "Don't Put the Blame on Me",
+      "id": null
+    },
+    {
+      "title": "Mommy-Daddy",
+      "id": null
+    },
+    {
+      "title": "Problems Too",
+      "id": null
+    },
+    {
+      "title": "You Changed",
+      "id": null
+    },
+    {
+      "title": "This Time I Know It's Real",
+      "id": null
+    },
+    {
+      "title": "Fingertips",
+      "id": null
+    },
+    {
+      "title": "She's Alright",
+      "id": null
+    }
+  ]
+}
