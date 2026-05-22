@@ -274,6 +274,20 @@
             }
         }
 
+        function loadHistoricalChart(date, chartStr) {
+            document.getElementById('dateInput').value = date;
+            
+            // Try to match the dropdown to the chart context if available
+            if (chartStr) {
+                const cleanChart = chartStr.toLowerCase().replace(/[^a-z0-9]/g, '');
+                if (cleanChart.includes('hot')) document.getElementById('chartType').value = 'hot100';
+                if (cleanChart.includes('200')) document.getElementById('chartType').value = 'b200';
+            }
+            
+            showView('view-home');
+            loadChart();
+        }
+
         async function loadChart() {
             const chartType = document.getElementById('chartType').value;
             const rawDate = document.getElementById('dateInput').value;
@@ -355,10 +369,85 @@
                 
                 const data = await response.json();
                 
-                // Extremely basic render, you will need to expand this based on the exact
-                // JSON structure your Python script dumps into the profile files.
-                header.innerHTML = `<h2>${data.name || data.title}</h2>`;
-                stats.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+                header.innerHTML = `<h2 style="margin-bottom: 0.5rem;">${data.name || data.title || 'Profile'}</h2>`;
+                
+                let html = '';
+                
+                if (data.artist) html += `<div style="font-size: 1.1rem; color: #aaa; margin-bottom: 1rem;">${data.artist}</div>`;
+                if (data.peak) html += `<span class="stat-badge" style="font-size: 0.9rem;">Peak: #${data.peak}</span>`;
+                if (data.weeks_on_chart || data.total_weeks) html += `<span class="stat-badge" style="font-size: 0.9rem;">Weeks: ${data.weeks_on_chart || data.total_weeks}</span>`;
+
+                // Render Chart History (Songs & Albums)
+                const history = data.history || data.chart_history || data.charts || data.chart_weeks;
+                if (history && Array.isArray(history) && history.length > 0) {
+                    html += `<h3 style="margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;">Chart History</h3>`;
+                    html += `<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 10px; margin-top: 1rem;">`;
+                    history.forEach(entry => {
+                        const date = entry.date || entry.week || entry.chart_date;
+                        const rank = entry.rank || entry.position;
+                        const chart = entry.chart || entry.chart_name || entry.chart_type || '';
+                        if (date) {
+                            html += `<div style="background: #222; padding: 10px; border-radius: 4px; text-align: center; cursor: pointer; border: 1px solid var(--border);" 
+                                         onmouseover="this.style.borderColor='var(--accent)'" 
+                                         onmouseout="this.style.borderColor='var(--border)'"
+                                         onclick="loadHistoricalChart('${date}', '${chart}')">
+                                        <div style="font-size: 0.8rem; color: #888;">${date}</div>
+                                        <div style="font-size: 1.5rem; font-weight: bold; color: var(--accent); margin-top: 5px;">#${rank}</div>
+                                     </div>`;
+                        }
+                    });
+                    html += `</div>`;
+                }
+
+                // Render Catalog of Songs (Artists & Albums)
+                const songs = data.songs || data.tracks;
+                if (songs && Array.isArray(songs) && songs.length > 0) {
+                    html += `<h3 style="margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;">Songs</h3>`;
+                    html += `<div style="display: flex; flex-direction: column; gap: 5px; margin-top: 1rem;">`;
+                    songs.forEach(song => {
+                        const songId = song.id || song.song_id || song.ref || song.path || '';
+                        const title = song.title || song.name || 'Unknown Song';
+                        const cleanId = String(songId).replace(/^songs\//, '').replace(/\.json$/, '');
+                        const encodedId = cleanId ? encodeURIComponent(cleanId) : '';
+                        
+                        html += `<div style="background: #222; padding: 10px; border-radius: 4px; cursor: pointer; border: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center;"
+                                     onmouseover="this.style.borderColor='var(--accent)'" 
+                                     onmouseout="this.style.borderColor='var(--border)'"
+                                     onclick="loadDetail('songs', '${encodedId}')">
+                                    <strong style="color: white;">${title}</strong>
+                                    ${song.peak ? `<span class="stat-badge">Peak: #${song.peak}</span>` : ''}
+                                 </div>`;
+                    });
+                    html += `</div>`;
+                }
+
+                // Render Catalog of Albums (Artists)
+                const albums = data.albums;
+                if (albums && Array.isArray(albums) && albums.length > 0) {
+                    html += `<h3 style="margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;">Albums</h3>`;
+                    html += `<div style="display: flex; flex-direction: column; gap: 5px; margin-top: 1rem;">`;
+                    albums.forEach(album => {
+                        const albumId = album.id || album.album_id || album.ref || album.path || '';
+                        const title = album.title || album.name || 'Unknown Album';
+                        const cleanId = String(albumId).replace(/^albums\//, '').replace(/\.json$/, '');
+                        const encodedId = cleanId ? encodeURIComponent(cleanId) : '';
+                        
+                        html += `<div style="background: #222; padding: 10px; border-radius: 4px; cursor: pointer; border: 1px solid var(--border);"
+                                     onmouseover="this.style.borderColor='var(--accent)'" 
+                                     onmouseout="this.style.borderColor='var(--border)'"
+                                     onclick="loadDetail('albums', '${encodedId}')">
+                                    <strong style="color: white;">${title}</strong>
+                                 </div>`;
+                    });
+                    html += `</div>`;
+                }
+
+                // Fallback to raw JSON if none of the explicit UI blocks were generated
+                if (!html) {
+                     html = `<pre style="white-space: pre-wrap; word-wrap: break-word;">${JSON.stringify(data, null, 2)}</pre>`;
+                }
+                
+                stats.innerHTML = html;
                 
             } catch (err) {
                 errorDiv.textContent = err.message;
