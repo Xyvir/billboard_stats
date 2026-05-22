@@ -357,6 +357,33 @@
                     html += `</div>`;
                 }
 
+                // If this is an artist and we only have a flat items list, try to split it into albums and songs using search index
+                if (type === 'artists' && !data.albums && !data.songs && data.items) {
+                    const index = await fetchSearchIndex();
+                    if (index && index.albums) {
+                        const albumMap = new Map();
+                        index.albums.forEach(a => {
+                            const id = a.id || a.ref || a.album_id || a.path;
+                            const cleanId = String(id).replace(/^albums\//, '').replace(/\.json$/, '');
+                            albumMap.set(cleanId, a.title || a.name || cleanId);
+                        });
+                        
+                        data.albums = [];
+                        data.songs = [];
+                        
+                        data.items.forEach(item => {
+                            const idStr = typeof item === 'string' ? item : (item.id || item.ref || item.song_id || item.path || '');
+                            const cleanId = String(idStr).replace(/^(songs|albums)\//, '').replace(/\.json$/, '');
+                            
+                            if (albumMap.has(cleanId)) {
+                                data.albums.push({ id: cleanId, title: albumMap.get(cleanId) });
+                            } else {
+                                data.songs.push(item);
+                            }
+                        });
+                    }
+                }
+
                 // Render Catalog of Songs (Artists & Albums)
                 const songs = data.songs || data.tracks || data.items;
                 if (songs && Array.isArray(songs) && songs.length > 0) {
