@@ -1,1 +1,70 @@
-{"id": "3-15-20-childish-gambino", "title": "3.15.20", "artist": "Childish Gambino", "peak": 13, "history": [{"date": "2020-04-04", "rank": 13}, {"date": "2020-04-11", "rank": 59}, {"date": "2020-04-18", "rank": 182}]}
+{
+  "id": "3-15-20-childish-gambino",
+  "title": "3.15.20",
+  "artist": "Childish Gambino",
+  "peak": 13,
+  "history": [
+    {
+      "date": "2020-04-04",
+      "rank": 13
+    },
+    {
+      "date": "2020-04-11",
+      "rank": 59
+    },
+    {
+      "date": "2020-04-18",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "0.00",
+      "id": "v-3005-childish-gambino"
+    },
+    {
+      "title": "Algorhythm",
+      "id": null
+    },
+    {
+      "title": "Time",
+      "id": null
+    },
+    {
+      "title": "12.38",
+      "id": null
+    },
+    {
+      "title": "19.10",
+      "id": null
+    },
+    {
+      "title": "24.19",
+      "id": null
+    },
+    {
+      "title": "32.22",
+      "id": null
+    },
+    {
+      "title": "35.31",
+      "id": null
+    },
+    {
+      "title": "39.28",
+      "id": null
+    },
+    {
+      "title": "42.26",
+      "id": null
+    },
+    {
+      "title": "47.48",
+      "id": null
+    },
+    {
+      "title": "53.49",
+      "id": null
+    }
+  ]
+}
