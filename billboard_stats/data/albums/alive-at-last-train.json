@@ -1,1 +1,90 @@
-{"id": "alive-at-last-train", "title": "Alive At Last", "artist": "Train", "peak": 48, "history": [{"date": "2004-11-20", "rank": 48}, {"date": "2004-11-27", "rank": 93}, {"date": "2004-12-04", "rank": 145}, {"date": "2004-12-11", "rank": 192}]}
+{
+  "id": "alive-at-last-train",
+  "title": "Alive At Last",
+  "artist": "Train",
+  "peak": 48,
+  "history": [
+    {
+      "date": "2004-11-20",
+      "rank": 48
+    },
+    {
+      "date": "2004-11-27",
+      "rank": 93
+    },
+    {
+      "date": "2004-12-04",
+      "rank": 145
+    },
+    {
+      "date": "2004-12-11",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Calling All Angels",
+      "id": "calling-all-angels-train"
+    },
+    {
+      "title": "Meet Virginia",
+      "id": "meet-virginia-train"
+    },
+    {
+      "title": "When I Look to the Sky",
+      "id": "when-i-look-to-the-sky-train"
+    },
+    {
+      "title": "Sweet Rain",
+      "id": "meet-virginia-train"
+    },
+    {
+      "title": "Drops of Jupiter",
+      "id": "drops-of-jupiter-tell-me-train"
+    },
+    {
+      "title": "She’s on Fire",
+      "id": null
+    },
+    {
+      "title": "Save the Day",
+      "id": null
+    },
+    {
+      "title": "Get to Me",
+      "id": null
+    },
+    {
+      "title": "Landmine",
+      "id": null
+    },
+    {
+      "title": "All American Girl",
+      "id": null
+    },
+    {
+      "title": "Latin Interlude",
+      "id": null
+    },
+    {
+      "title": "I Wish You Would",
+      "id": null
+    },
+    {
+      "title": "Free",
+      "id": null
+    },
+    {
+      "title": "Stay With Me",
+      "id": null
+    },
+    {
+      "title": "Ordinary",
+      "id": null
+    },
+    {
+      "title": "New Sensation",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"id": "all-about-love-johnny-mathis", "title": "All About Love", "artist": "Johnny Mathis", "peak": 119, "history": [{"date": "1996-05-25", "rank": 119}]}
+{
+  "id": "all-about-love-johnny-mathis",
+  "title": "All About Love",
+  "artist": "Johnny Mathis",
+  "peak": 119,
+  "history": [
+    {
+      "date": "1996-05-25",
+      "rank": 119
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Every Beat of My Heart",
+      "id": "every-step-of-the-way-johnny-mathis"
+    },
+    {
+      "title": "Let Your Heart Remember",
+      "id": null
+    },
+    {
+      "title": "I Will Walk Away",
+      "id": null
+    },
+    {
+      "title": "Why Goodbye",
+      "id": null
+    },
+    {
+      "title": "Like No One in the World",
+      "id": null
+    },
+    {
+      "title": "One More Night",
+      "id": null
+    },
+    {
+      "title": "Let Me Be the One",
+      "id": null
+    },
+    {
+      "title": "Welcome Home",
+      "id": null
+    },
+    {
+      "title": "Sometimes Love’s Not Enough",
+      "id": null
+    },
+    {
+      "title": "Could It Be Love This Time",
+      "id": null
+    }
+  ]
+}

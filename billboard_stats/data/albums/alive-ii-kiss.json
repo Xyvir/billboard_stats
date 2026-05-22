@@ -1,1 +1,222 @@
-{"id": "alive-ii-kiss", "title": "Alive II", "artist": "Kiss", "peak": 7, "history": [{"date": "1977-11-26", "rank": 19}, {"date": "1977-12-03", "rank": 15}, {"date": "1977-12-10", "rank": 13}, {"date": "1977-12-17", "rank": 11}, {"date": "1977-12-24", "rank": 9}, {"date": "1977-12-31", "rank": 9}, {"date": "1978-01-07", "rank": 7}, {"date": "1978-01-14", "rank": 7}, {"date": "1978-01-21", "rank": 16}, {"date": "1978-01-28", "rank": 24}, {"date": "1978-02-04", "rank": 23}, {"date": "1978-02-11", "rank": 23}, {"date": "1978-02-18", "rank": 28}, {"date": "1978-02-25", "rank": 38}, {"date": "1978-03-04", "rank": 45}, {"date": "1978-03-11", "rank": 50}, {"date": "1978-03-18", "rank": 57}, {"date": "1978-03-25", "rank": 60}, {"date": "1978-04-01", "rank": 56}, {"date": "1978-04-08", "rank": 59}, {"date": "1978-04-15", "rank": 58}, {"date": "1978-04-22", "rank": 71}, {"date": "1978-04-29", "rank": 91}, {"date": "1978-05-06", "rank": 108}, {"date": "1978-05-13", "rank": 110}, {"date": "1978-05-20", "rank": 113}, {"date": "1978-05-27", "rank": 124}, {"date": "1978-06-03", "rank": 133}, {"date": "1978-06-10", "rank": 151}, {"date": "1978-06-17", "rank": 160}, {"date": "1978-08-19", "rank": 175}, {"date": "1978-08-26", "rank": 175}, {"date": "1978-09-02", "rank": 180}]}
+{
+  "id": "alive-ii-kiss",
+  "title": "Alive II",
+  "artist": "Kiss",
+  "peak": 7,
+  "history": [
+    {
+      "date": "1977-11-26",
+      "rank": 19
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 15
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 13
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 11
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 9
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 9
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 7
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 7
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 16
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 24
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 23
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 23
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 28
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 38
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 45
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 50
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 57
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 60
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 56
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 59
+    },
+    {
+      "date": "1978-04-15",
+      "rank": 58
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 71
+    },
+    {
+      "date": "1978-04-29",
+      "rank": 91
+    },
+    {
+      "date": "1978-05-06",
+      "rank": 108
+    },
+    {
+      "date": "1978-05-13",
+      "rank": 110
+    },
+    {
+      "date": "1978-05-20",
+      "rank": 113
+    },
+    {
+      "date": "1978-05-27",
+      "rank": 124
+    },
+    {
+      "date": "1978-06-03",
+      "rank": 133
+    },
+    {
+      "date": "1978-06-10",
+      "rank": 151
+    },
+    {
+      "date": "1978-06-17",
+      "rank": 160
+    },
+    {
+      "date": "1978-08-19",
+      "rank": 175
+    },
+    {
+      "date": "1978-08-26",
+      "rank": 175
+    },
+    {
+      "date": "1978-09-02",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Detroit Rock City",
+      "id": "beth-detroit-rock-city-kiss"
+    },
+    {
+      "title": "Makin’ Love",
+      "id": "calling-dr-love-kiss"
+    },
+    {
+      "title": "Love Gun",
+      "id": "love-gun-kiss"
+    },
+    {
+      "title": "Calling Dr. Love",
+      "id": "calling-dr-love-kiss"
+    },
+    {
+      "title": "Christine Sixteen",
+      "id": "christine-sixteen-kiss"
+    },
+    {
+      "title": "Hard Luck Woman",
+      "id": "hard-luck-woman-kiss"
+    },
+    {
+      "title": "Shout It Out Loud",
+      "id": "shout-it-out-loud-kiss"
+    },
+    {
+      "title": "Rocket Ride",
+      "id": "rocket-ride-kiss"
+    },
+    {
+      "title": "King of the Night Time World",
+      "id": null
+    },
+    {
+      "title": "Ladies Room",
+      "id": null
+    },
+    {
+      "title": "Shock Me",
+      "id": null
+    },
+    {
+      "title": "Tomorrow and Tonight",
+      "id": null
+    },
+    {
+      "title": "I Stole Your Love",
+      "id": null
+    },
+    {
+      "title": "Beth",
+      "id": null
+    },
+    {
+      "title": "God of Thunder",
+      "id": null
+    },
+    {
+      "title": "I Want You",
+      "id": null
+    },
+    {
+      "title": "All American Man",
+      "id": null
+    },
+    {
+      "title": "Rockin’ in the USA",
+      "id": null
+    },
+    {
+      "title": "Larger Than Life",
+      "id": null
+    },
+    {
+      "title": "Any Way You Want It",
+      "id": null
+    }
+  ]
+}
