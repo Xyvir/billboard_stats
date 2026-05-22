@@ -1,1 +1,70 @@
-{"id": "88-elmira-st-danny-gatton", "title": "88 Elmira St.", "artist": "Danny Gatton", "peak": 121, "history": [{"date": "1991-04-27", "rank": 149}, {"date": "1991-05-04", "rank": 125}, {"date": "1991-05-11", "rank": 121}, {"date": "1991-05-18", "rank": 125}]}
+{
+  "id": "88-elmira-st-danny-gatton",
+  "title": "88 Elmira St.",
+  "artist": "Danny Gatton",
+  "peak": 121,
+  "history": [
+    {
+      "date": "1991-04-27",
+      "rank": 149
+    },
+    {
+      "date": "1991-05-04",
+      "rank": 125
+    },
+    {
+      "date": "1991-05-11",
+      "rank": 121
+    },
+    {
+      "date": "1991-05-18",
+      "rank": 125
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Funky Mama",
+      "id": null
+    },
+    {
+      "title": "Elmira St. Boogie",
+      "id": null
+    },
+    {
+      "title": "Blues Newburg",
+      "id": null
+    },
+    {
+      "title": "Quiet Village",
+      "id": null
+    },
+    {
+      "title": "Red Label",
+      "id": null
+    },
+    {
+      "title": "In My Room",
+      "id": null
+    },
+    {
+      "title": "The Simpsons",
+      "id": null
+    },
+    {
+      "title": "Mutha Ship",
+      "id": null
+    },
+    {
+      "title": "Pretty Blue",
+      "id": null
+    },
+    {
+      "title": "Fandingus",
+      "id": null
+    },
+    {
+      "title": "Slidin' Home",
+      "id": null
+    }
+  ]
+}

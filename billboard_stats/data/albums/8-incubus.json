@@ -1,1 +1,74 @@
-{"id": "8-incubus", "title": "8", "artist": "Incubus", "peak": 4, "history": [{"date": "2017-05-13", "rank": 4}, {"date": "2017-05-20", "rank": 127}, {"date": "2017-05-27", "rank": 53}, {"date": "2017-08-12", "rank": 140}, {"date": "2017-10-07", "rank": 158}]}
+{
+  "id": "8-incubus",
+  "title": "8",
+  "artist": "Incubus",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2017-05-13",
+      "rank": 4
+    },
+    {
+      "date": "2017-05-20",
+      "rank": 127
+    },
+    {
+      "date": "2017-05-27",
+      "rank": 53
+    },
+    {
+      "date": "2017-08-12",
+      "rank": 140
+    },
+    {
+      "date": "2017-10-07",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No Fun",
+      "id": null
+    },
+    {
+      "title": "Nimble Bastard",
+      "id": null
+    },
+    {
+      "title": "State of the Art",
+      "id": null
+    },
+    {
+      "title": "Glitterbomb",
+      "id": null
+    },
+    {
+      "title": "Undefeated",
+      "id": null
+    },
+    {
+      "title": "Loneliest",
+      "id": null
+    },
+    {
+      "title": "When I Became a Man",
+      "id": null
+    },
+    {
+      "title": "Familiar Faces",
+      "id": null
+    },
+    {
+      "title": "Love in a Time of Surveillance",
+      "id": null
+    },
+    {
+      "title": "Make No Sound in the Digital Forest",
+      "id": null
+    },
+    {
+      "title": "Throw Out the Map",
+      "id": null
+    }
+  ]
+}

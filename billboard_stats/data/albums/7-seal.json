@@ -1,1 +1,66 @@
-{"id": "7-seal", "title": "7", "artist": "Seal", "peak": 45, "history": [{"date": "2015-11-28", "rank": 45}]}
+{
+  "id": "7-seal",
+  "title": "7",
+  "artist": "Seal",
+  "peak": 45,
+  "history": [
+    {
+      "date": "2015-11-28",
+      "rank": 45
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Redzone Killer",
+      "id": "killer-seal"
+    },
+    {
+      "title": "Daylight Saving",
+      "id": null
+    },
+    {
+      "title": "Every Time I’m With You",
+      "id": null
+    },
+    {
+      "title": "Life on the Dancefloor",
+      "id": null
+    },
+    {
+      "title": "Padded Cell",
+      "id": null
+    },
+    {
+      "title": "Do You Ever",
+      "id": null
+    },
+    {
+      "title": "The Big Love Has Died",
+      "id": null
+    },
+    {
+      "title": "Monascow",
+      "id": null
+    },
+    {
+      "title": "Half a Heart",
+      "id": null
+    },
+    {
+      "title": "Let Yourself",
+      "id": null
+    },
+    {
+      "title": "Love",
+      "id": null
+    },
+    {
+      "title": "We Found Love",
+      "id": null
+    },
+    {
+      "title": "Whatever You Need",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"id": "80-dimes-b-rich", "title": "80 Dimes", "artist": "B Rich", "peak": 100, "history": [{"date": "2002-07-06", "rank": 100}, {"date": "2002-07-13", "rank": 134}, {"date": "2002-07-20", "rank": 160}, {"date": "2002-07-27", "rank": 197}]}
+{
+  "id": "80-dimes-b-rich",
+  "title": "80 Dimes",
+  "artist": "B Rich",
+  "peak": 100,
+  "history": [
+    {
+      "date": "2002-07-06",
+      "rank": 100
+    },
+    {
+      "date": "2002-07-13",
+      "rank": 134
+    },
+    {
+      "date": "2002-07-20",
+      "rank": 160
+    },
+    {
+      "date": "2002-07-27",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Whoa Now",
+      "id": "whoa-now-b-rich"
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Eighty",
+      "id": null
+    },
+    {
+      "title": "Showtime",
+      "id": null
+    },
+    {
+      "title": "Same Pain",
+      "id": null
+    },
+    {
+      "title": "We Goin' Ride",
+      "id": null
+    },
+    {
+      "title": "Back to the Streets",
+      "id": null
+    },
+    {
+      "title": "Friday",
+      "id": null
+    },
+    {
+      "title": "Nightmares",
+      "id": null
+    },
+    {
+      "title": "Hip Hop Slang",
+      "id": null
+    },
+    {
+      "title": "Playin' Games",
+      "id": null
+    },
+    {
+      "title": "Family",
+      "id": null
+    },
+    {
+      "title": "Unsigned Hype Blues",
+      "id": null
+    },
+    {
+      "title": "Letter to the Lord",
+      "id": null
+    },
+    {
+      "title": "Whoa Now (B More version)",
+      "id": null
+    },
+    {
+      "title": "Kamikaze Album Preview",
+      "id": null
+    }
+  ]
+}
