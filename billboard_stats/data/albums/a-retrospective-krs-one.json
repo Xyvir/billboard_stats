@@ -1,1 +1,78 @@
-{"id": "a-retrospective-krs-one", "title": "A Retrospective", "artist": "KRS-One", "peak": 200, "history": [{"date": "2000-09-09", "rank": 200}]}
+{
+  "id": "a-retrospective-krs-one",
+  "title": "A Retrospective",
+  "artist": "KRS-One",
+  "peak": 200,
+  "history": [
+    {
+      "date": "2000-09-09",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sound of da Police",
+      "id": "sound-of-da-police-krs-one"
+    },
+    {
+      "title": "Step Into a World (Rapture’s Delight)",
+      "id": "step-into-a-world-rapture-s-delight-krs-one"
+    },
+    {
+      "title": "MC’s Act Like They Don’t Know (LP version)",
+      "id": "mc-s-act-like-they-don-t-know-krs-one"
+    },
+    {
+      "title": "My Philosophy",
+      "id": null
+    },
+    {
+      "title": "I’m Still #1",
+      "id": null
+    },
+    {
+      "title": "South Bronx",
+      "id": null
+    },
+    {
+      "title": "Love’s Gonna Get’cha (Material Love)",
+      "id": null
+    },
+    {
+      "title": "You Must Learn",
+      "id": null
+    },
+    {
+      "title": "Jack of Spades",
+      "id": null
+    },
+    {
+      "title": "The Bridge Is Over",
+      "id": null
+    },
+    {
+      "title": "Jimmy",
+      "id": null
+    },
+    {
+      "title": "Criminal Minded",
+      "id": null
+    },
+    {
+      "title": "Black Cop",
+      "id": null
+    },
+    {
+      "title": "Why Is That?",
+      "id": null
+    },
+    {
+      "title": "Outta Here",
+      "id": null
+    },
+    {
+      "title": "Essays on BDP-ism",
+      "id": null
+    }
+  ]
+}
