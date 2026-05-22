@@ -222,56 +222,10 @@
             loadDetail('artists', artistId);
         }
 
-        async function onSongSearchClick(encodedId) {
+        function onSongSearchClick(encodedId) {
             document.getElementById('searchResults').style.display = 'none';
             const songId = decodeURIComponent(encodedId);
-            const currentChartType = document.getElementById('chartType').value;
-
-            try {
-                const response = await fetch(`${DATA_DIR}/songs/${songId}.json`);
-                if (!response.ok) throw new Error("Song data not found");
-                const songData = await response.json();
-
-                const history = songData.history || songData.chart_history || songData.charts || songData.chart_weeks || [];
-                
-                // Filter for history matching the currently selected chart dropdown
-                const relevantHistory = history.filter(entry => {
-                    const chartStr = (entry.chart || entry.chart_name || entry.chart_type || entry.name || '').toLowerCase();
-                    
-                    // If the history entry doesn't explicitly name a chart, assume it's valid
-                    if (!chartStr) return true;
-                    
-                    const cleanChartStr = chartStr.replace(/[^a-z0-9]/g, '');
-                    const cleanCurrent = currentChartType.toLowerCase().replace(/[^a-z0-9]/g, '');
-                    return cleanChartStr === cleanCurrent || 
-                           (currentChartType === 'hot100' && chartStr.includes('hot')) || 
-                           (currentChartType === 'b200' && chartStr.includes('200'));
-                });
-                
-                if (relevantHistory.length > 0) {
-                    // Sort descending to find the most recent
-                    relevantHistory.sort((a, b) => {
-                        const dateA = new Date(a.date || a.week || a.chart_date || 0);
-                        const dateB = new Date(b.date || b.week || b.chart_date || 0);
-                        return dateB - dateA;
-                    });
-                    const mostRecentDate = relevantHistory[0].date || relevantHistory[0].week || relevantHistory[0].chart_date;
-
-                    if (mostRecentDate) {
-                        document.getElementById('dateInput').value = mostRecentDate;
-                        loadChart();
-                        return;
-                    }
-                }
-                
-                console.warn("Could not find matching date in history for chart redirect:", songData);
-                alert(`This song doesn't seem to have a recent history on the selected chart (${currentChartType}). Opening its profile instead.`);
-                loadDetail('songs', songId);
-            } catch (error) {
-                console.error("Error fetching song details for redirect:", error);
-                // Fallback to simply opening the song detail view
-                loadDetail('songs', songId);
-            }
+            loadDetail('songs', songId);
         }
 
         function loadHistoricalChart(date, chartStr) {
