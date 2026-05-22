@@ -1,1 +1,226 @@
-{"id": "12-greatest-hits-vol-ii-neil-diamond", "title": "12 Greatest Hits Vol. II", "artist": "Neil Diamond", "peak": 48, "history": [{"date": "1982-05-29", "rank": 152}, {"date": "1982-06-05", "rank": 83}, {"date": "1982-06-12", "rank": 72}, {"date": "1982-06-19", "rank": 60}, {"date": "1982-06-26", "rank": 55}, {"date": "1982-07-03", "rank": 50}, {"date": "1982-07-10", "rank": 48}, {"date": "1982-07-17", "rank": 48}, {"date": "1982-07-24", "rank": 64}, {"date": "1982-07-31", "rank": 65}, {"date": "1982-08-07", "rank": 87}, {"date": "1982-08-14", "rank": 88}, {"date": "1982-08-21", "rank": 88}, {"date": "1982-08-28", "rank": 132}, {"date": "1982-09-04", "rank": 132}, {"date": "1982-09-11", "rank": 145}, {"date": "1982-09-18", "rank": 142}, {"date": "1982-09-25", "rank": 197}, {"date": "1982-10-02", "rank": 191}, {"date": "1982-10-09", "rank": 184}, {"date": "1982-10-16", "rank": 164}, {"date": "1982-10-23", "rank": 161}, {"date": "1982-10-30", "rank": 162}, {"date": "1982-11-06", "rank": 160}, {"date": "1982-11-13", "rank": 160}, {"date": "1982-11-20", "rank": 164}, {"date": "1982-11-27", "rank": 161}, {"date": "1982-12-04", "rank": 168}, {"date": "1982-12-11", "rank": 176}, {"date": "1982-12-18", "rank": 167}, {"date": "1982-12-25", "rank": 159}, {"date": "1983-01-01", "rank": 159}, {"date": "1983-01-08", "rank": 150}, {"date": "1983-01-15", "rank": 140}, {"date": "1983-01-22", "rank": 140}, {"date": "1983-01-29", "rank": 154}, {"date": "1983-02-05", "rank": 170}, {"date": "1983-02-12", "rank": 179}, {"date": "1983-02-19", "rank": 177}, {"date": "1983-02-26", "rank": 176}, {"date": "1983-03-05", "rank": 171}, {"date": "1983-03-12", "rank": 197}]}
+{
+  "id": "12-greatest-hits-vol-ii-neil-diamond",
+  "title": "12 Greatest Hits Vol. II",
+  "artist": "Neil Diamond",
+  "peak": 48,
+  "history": [
+    {
+      "date": "1982-05-29",
+      "rank": 152
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 83
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 72
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 60
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 55
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 50
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 48
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 48
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 64
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 65
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 87
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 88
+    },
+    {
+      "date": "1982-08-21",
+      "rank": 88
+    },
+    {
+      "date": "1982-08-28",
+      "rank": 132
+    },
+    {
+      "date": "1982-09-04",
+      "rank": 132
+    },
+    {
+      "date": "1982-09-11",
+      "rank": 145
+    },
+    {
+      "date": "1982-09-18",
+      "rank": 142
+    },
+    {
+      "date": "1982-09-25",
+      "rank": 197
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 191
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 184
+    },
+    {
+      "date": "1982-10-16",
+      "rank": 164
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 161
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 162
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 160
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 160
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 164
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 161
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 168
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 176
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 167
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 159
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 159
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 150
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 140
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 140
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 154
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 170
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 179
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 177
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 176
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 171
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hello Again",
+      "id": "hello-again-neil-diamond"
+    },
+    {
+      "title": "Forever in Blue Jeans",
+      "id": "forever-in-blue-jeans-neil-diamond"
+    },
+    {
+      "title": "September Morn",
+      "id": "september-morn-neil-diamond"
+    },
+    {
+      "title": "Desirée",
+      "id": "desiree-neil-diamond"
+    },
+    {
+      "title": "You Don’t Bring Me Flowers",
+      "id": "you-don-t-bring-me-flowers-barbra-streisand-neil-diamond"
+    },
+    {
+      "title": "America",
+      "id": "america-neil-diamond"
+    },
+    {
+      "title": "Be",
+      "id": "be-neil-diamond"
+    },
+    {
+      "title": "Longfellow Serenade",
+      "id": "longfellow-serenade-neil-diamond"
+    },
+    {
+      "title": "If You Know What I Mean",
+      "id": "if-you-know-what-i-mean-neil-diamond"
+    },
+    {
+      "title": "Yesterday’s Songs",
+      "id": "yesterday-s-songs-neil-diamond"
+    },
+    {
+      "title": "Love on the Rocks",
+      "id": "love-on-the-rocks-neil-diamond"
+    },
+    {
+      "title": "Beautiful Noise",
+      "id": null
+    }
+  ]
+}
