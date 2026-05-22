@@ -1,1 +1,126 @@
-{"id": "a-single-man-elton-john", "title": "A Single Man", "artist": "Elton John", "peak": 15, "history": [{"date": "1978-11-11", "rank": 50}, {"date": "1978-11-18", "rank": 25}, {"date": "1978-11-25", "rank": 21}, {"date": "1978-12-02", "rank": 17}, {"date": "1978-12-09", "rank": 15}, {"date": "1978-12-16", "rank": 15}, {"date": "1978-12-23", "rank": 25}, {"date": "1978-12-30", "rank": 25}, {"date": "1979-01-06", "rank": 43}, {"date": "1979-01-13", "rank": 62}, {"date": "1979-01-20", "rank": 76}, {"date": "1979-01-27", "rank": 87}, {"date": "1979-02-03", "rank": 87}, {"date": "1979-02-10", "rank": 135}, {"date": "1979-02-17", "rank": 158}, {"date": "1979-02-24", "rank": 159}, {"date": "1979-03-03", "rank": 184}, {"date": "1979-03-10", "rank": 186}]}
+{
+  "id": "a-single-man-elton-john",
+  "title": "A Single Man",
+  "artist": "Elton John",
+  "peak": 15,
+  "history": [
+    {
+      "date": "1978-11-11",
+      "rank": 50
+    },
+    {
+      "date": "1978-11-18",
+      "rank": 25
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 21
+    },
+    {
+      "date": "1978-12-02",
+      "rank": 17
+    },
+    {
+      "date": "1978-12-09",
+      "rank": 15
+    },
+    {
+      "date": "1978-12-16",
+      "rank": 15
+    },
+    {
+      "date": "1978-12-23",
+      "rank": 25
+    },
+    {
+      "date": "1978-12-30",
+      "rank": 25
+    },
+    {
+      "date": "1979-01-06",
+      "rank": 43
+    },
+    {
+      "date": "1979-01-13",
+      "rank": 62
+    },
+    {
+      "date": "1979-01-20",
+      "rank": 76
+    },
+    {
+      "date": "1979-01-27",
+      "rank": 87
+    },
+    {
+      "date": "1979-02-03",
+      "rank": 87
+    },
+    {
+      "date": "1979-02-10",
+      "rank": 135
+    },
+    {
+      "date": "1979-02-17",
+      "rank": 158
+    },
+    {
+      "date": "1979-02-24",
+      "rank": 159
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 184
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Part Time Love",
+      "id": "part-time-love-elton-john"
+    },
+    {
+      "title": "Shine on Through",
+      "id": null
+    },
+    {
+      "title": "Return to Paradise",
+      "id": null
+    },
+    {
+      "title": "I Don’t Care",
+      "id": null
+    },
+    {
+      "title": "Big Dipper",
+      "id": null
+    },
+    {
+      "title": "It Ain’t Gonna Be Easy",
+      "id": null
+    },
+    {
+      "title": "Georgia",
+      "id": null
+    },
+    {
+      "title": "Shooting Star",
+      "id": null
+    },
+    {
+      "title": "Madness",
+      "id": null
+    },
+    {
+      "title": "Reverie",
+      "id": null
+    },
+    {
+      "title": "Song for Guy",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,42 @@
-{"id": "ask-for-it-hole", "title": "Ask For It", "artist": "Hole", "peak": 172, "history": [{"date": "1995-10-14", "rank": 172}, {"date": "1995-10-21", "rank": 172}]}
+{
+  "id": "ask-for-it-hole",
+  "title": "Ask For It",
+  "artist": "Hole",
+  "peak": 172,
+  "history": [
+    {
+      "date": "1995-10-14",
+      "rank": 172
+    },
+    {
+      "date": "1995-10-21",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Doll Parts",
+      "id": "doll-parts-hole"
+    },
+    {
+      "title": "Over the Edge",
+      "id": null
+    },
+    {
+      "title": "Pale Blue Eyes",
+      "id": null
+    },
+    {
+      "title": "Drown Soda",
+      "id": null
+    },
+    {
+      "title": "Violet",
+      "id": null
+    },
+    {
+      "title": "Forming / Hot Chocolate Boy",
+      "id": null
+    }
+  ]
+}
