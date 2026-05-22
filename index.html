@@ -362,8 +362,8 @@
                 if (songs && Array.isArray(songs) && songs.length > 0) {
                     const sectionTitle = type === 'albums' ? 'Track Listing' : 'Songs';
                     html += `<h3 style="margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;">${sectionTitle}</h3>`;
-                    html += `<div style="display: flex; flex-direction: column; gap: 5px; margin-top: 1rem;">`;
-                    songs.forEach(song => {
+                    
+                    const renderSongRow = (song) => {
                         let songId = '';
                         let title = 'Unknown Song';
                         let peakHtml = '';
@@ -385,15 +385,66 @@
                         const cleanId = String(songId).replace(/^songs\//, '').replace(/\.json$/, '');
                         const encodedId = cleanId ? encodeURIComponent(cleanId) : '';
                         
-                        html += `<div style="background: #222; padding: 10px; border-radius: 4px; cursor: pointer; border: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center;"
+                        return `<div style="background: #222; padding: 10px; border-radius: 4px; cursor: pointer; border: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center;"
                                      onmouseover="this.style.borderColor='var(--accent)'" 
                                      onmouseout="this.style.borderColor='var(--border)'"
                                      onclick="loadDetail('songs', '${encodedId}')">
                                     <strong style="color: white;">${title}</strong>
                                     ${peakHtml}
                                  </div>`;
-                    });
-                    html += `</div>`;
+                    };
+
+                    if (type === 'artists') {
+                        // Group songs by their album
+                        const groupedSongs = {};
+                        songs.forEach(song => {
+                            const albumName = (song && typeof song === 'object' && (song.album || song.album_name)) ? (song.album || song.album_name) : 'Singles / Unknown Album';
+                            if (!groupedSongs[albumName]) groupedSongs[albumName] = [];
+                            groupedSongs[albumName].push(song);
+                        });
+
+                        // Create a lookup to see if the album exists in the BB200 history so we can link it
+                        const albumLookup = {};
+                        if (data.albums && Array.isArray(data.albums)) {
+                            data.albums.forEach(a => {
+                                const aTitle = a.title || a.name;
+                                const aId = a.id || a.album_id || a.ref || a.path || '';
+                                if (aTitle && aId) {
+                                    albumLookup[aTitle] = aId;
+                                }
+                            });
+                        }
+
+                        for (const [albumName, albumSongs] of Object.entries(groupedSongs)) {
+                            html += `<div style="margin-top: 1.5rem;">`;
+                            const matchedAlbumId = albumLookup[albumName];
+                            
+                            if (matchedAlbumId) {
+                                const cleanId = String(matchedAlbumId).replace(/^albums\//, '').replace(/\.json$/, '');
+                                const encodedId = cleanId ? encodeURIComponent(cleanId) : '';
+                                html += `<h4 style="margin: 0 0 0.75rem 0; cursor: pointer; color: var(--text); display: inline-block;"
+                                             onmouseover="this.style.color='var(--accent)'; this.style.textDecoration='underline';" 
+                                             onmouseout="this.style.color='var(--text)'; this.style.textDecoration='none';"
+                                             onclick="loadDetail('albums', '${encodedId}')">💿 ${albumName}</h4>`;
+                            } else {
+                                // Use a slightly different icon if it's just singles
+                                html += `<h4 style="margin: 0 0 0.75rem 0; color: #aaa;">${albumName === 'Singles / Unknown Album' ? '🎵' : '💿'} ${albumName}</h4>`;
+                            }
+                            
+                            html += `<div style="display: flex; flex-direction: column; gap: 5px;">`;
+                            albumSongs.forEach(song => {
+                                html += renderSongRow(song);
+                            });
+                            html += `</div></div>`;
+                        }
+                    } else {
+                        // If we are looking at an album's tracklist, leave it as a flat list
+                        html += `<div style="display: flex; flex-direction: column; gap: 5px; margin-top: 1rem;">`;
+                        songs.forEach(song => {
+                            html += renderSongRow(song);
+                        });
+                        html += `</div>`;
+                    }
                 }
 
                 // Render Catalog of Albums (Artists)
