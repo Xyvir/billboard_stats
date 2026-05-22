@@ -1,1 +1,54 @@
-{"id": "american-beauty-grateful-dead", "title": "American Beauty", "artist": "Grateful Dead", "peak": 19, "history": [{"date": "2020-11-14", "rank": 19}]}
+{
+  "id": "american-beauty-grateful-dead",
+  "title": "American Beauty",
+  "artist": "Grateful Dead",
+  "peak": 19,
+  "history": [
+    {
+      "date": "2020-11-14",
+      "rank": 19
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sugar Magnolia",
+      "id": "sugar-magnolia-grateful-dead"
+    },
+    {
+      "title": "Truckin’",
+      "id": "truckin-grateful-dead"
+    },
+    {
+      "title": "Box of Rain",
+      "id": null
+    },
+    {
+      "title": "Friend of the Devil",
+      "id": null
+    },
+    {
+      "title": "Operator",
+      "id": null
+    },
+    {
+      "title": "Candyman",
+      "id": null
+    },
+    {
+      "title": "Ripple",
+      "id": null
+    },
+    {
+      "title": "Brokedown Palace",
+      "id": null
+    },
+    {
+      "title": "Till the Morning Comes",
+      "id": null
+    },
+    {
+      "title": "Attics of My Life",
+      "id": null
+    }
+  ]
+}

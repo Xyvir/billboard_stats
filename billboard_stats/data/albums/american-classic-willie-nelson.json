@@ -1,1 +1,82 @@
-{"id": "american-classic-willie-nelson", "title": "American Classic", "artist": "Willie Nelson", "peak": 43, "history": [{"date": "2009-09-12", "rank": 43}, {"date": "2009-09-19", "rank": 61}, {"date": "2009-09-26", "rank": 76}, {"date": "2009-10-03", "rank": 110}, {"date": "2009-10-10", "rank": 137}, {"date": "2009-10-17", "rank": 177}]}
+{
+  "id": "american-classic-willie-nelson",
+  "title": "American Classic",
+  "artist": "Willie Nelson",
+  "peak": 43,
+  "history": [
+    {
+      "date": "2009-09-12",
+      "rank": 43
+    },
+    {
+      "date": "2009-09-19",
+      "rank": 61
+    },
+    {
+      "date": "2009-09-26",
+      "rank": 76
+    },
+    {
+      "date": "2009-10-03",
+      "rank": 110
+    },
+    {
+      "date": "2009-10-10",
+      "rank": 137
+    },
+    {
+      "date": "2009-10-17",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Always on My Mind",
+      "id": "always-on-my-mind-willie-nelson"
+    },
+    {
+      "title": "The Nearness of You",
+      "id": null
+    },
+    {
+      "title": "Fly Me to the Moon",
+      "id": null
+    },
+    {
+      "title": "Come Rain or Shine",
+      "id": null
+    },
+    {
+      "title": "If I Had You",
+      "id": null
+    },
+    {
+      "title": "Ain’t Misbehavin’",
+      "id": null
+    },
+    {
+      "title": "I Miss You So",
+      "id": null
+    },
+    {
+      "title": "Because of You",
+      "id": null
+    },
+    {
+      "title": "Baby, It’s Cold Outside",
+      "id": null
+    },
+    {
+      "title": "Angel Eyes",
+      "id": null
+    },
+    {
+      "title": "On the Street Where You Live",
+      "id": null
+    },
+    {
+      "title": "Since I Fell for You",
+      "id": null
+    }
+  ]
+}

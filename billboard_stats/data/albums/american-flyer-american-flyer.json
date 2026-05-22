@@ -1,1 +1,98 @@
-{"id": "american-flyer-american-flyer", "title": "American Flyer", "artist": "American Flyer", "peak": 87, "history": [{"date": "1976-09-04", "rank": 120}, {"date": "1976-09-11", "rank": 108}, {"date": "1976-09-18", "rank": 98}, {"date": "1976-09-25", "rank": 88}, {"date": "1976-10-02", "rank": 88}, {"date": "1976-10-09", "rank": 90}, {"date": "1976-10-16", "rank": 87}, {"date": "1976-10-23", "rank": 191}, {"date": "1976-10-30", "rank": 189}, {"date": "1976-11-06", "rank": 189}]}
+{
+  "id": "american-flyer-american-flyer",
+  "title": "American Flyer",
+  "artist": "American Flyer",
+  "peak": 87,
+  "history": [
+    {
+      "date": "1976-09-04",
+      "rank": 120
+    },
+    {
+      "date": "1976-09-11",
+      "rank": 108
+    },
+    {
+      "date": "1976-09-18",
+      "rank": 98
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 88
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 88
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 90
+    },
+    {
+      "date": "1976-10-16",
+      "rank": 87
+    },
+    {
+      "date": "1976-10-23",
+      "rank": 191
+    },
+    {
+      "date": "1976-10-30",
+      "rank": 189
+    },
+    {
+      "date": "1976-11-06",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let Me Down Easy",
+      "id": "let-me-down-easy-american-flyer"
+    },
+    {
+      "title": "Light of Your Love",
+      "id": null
+    },
+    {
+      "title": "Such a Beautiful Feeling",
+      "id": null
+    },
+    {
+      "title": "Back in '57",
+      "id": null
+    },
+    {
+      "title": "Lady Blue Eyes",
+      "id": null
+    },
+    {
+      "title": "M",
+      "id": null
+    },
+    {
+      "title": "The Woman in Your Heart",
+      "id": null
+    },
+    {
+      "title": "Love Has No Pride",
+      "id": null
+    },
+    {
+      "title": "Queen of All My Days",
+      "id": null
+    },
+    {
+      "title": "Drive Away",
+      "id": null
+    },
+    {
+      "title": "Call Me, Tell Me",
+      "id": null
+    },
+    {
+      "title": "End of a Love Song",
+      "id": null
+    }
+  ]
+}
