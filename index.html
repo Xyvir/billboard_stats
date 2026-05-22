@@ -85,12 +85,10 @@
     
     <div id="view-home" class="view-section active">
         <div style="margin-bottom: 2rem; display: flex; gap: 1rem; flex-wrap: wrap;">
-            <select id="chartType">
-                <option value="hot100" selected>Hot 100</option>
-                <option value="b200">Billboard 200</option>
-            </select>
+            <button id="btn-hot100" onclick="switchChart('hot100')" style="background: var(--accent); color: white;">Hot 100</button>
+            <button id="btn-b200" onclick="switchChart('b200')" style="background: #333; color: white;">Billboard 200</button>
             <input type="date" id="dateInput" value="2026-04-04">
-            <button onclick="loadChart()">Load Week</button>
+            <button onclick="loadChart()" style="background: #444;">Load Week</button>
             <div style="position: relative;">
                 <input type="text" id="searchInput" placeholder="Search (Artist/Song)..." onkeyup="handleSearch(event)" onfocus="handleSearch(event)">
                 <div id="searchResults" style="display: none; position: absolute; top: 100%; left: 0; background: #222; border: 1px solid var(--border); width: 300px; max-height: 400px; overflow-y: auto; z-index: 1000; border-radius: 4px; box-shadow: 0 4px 6px rgba(0,0,0,0.5);"></div>
@@ -115,6 +113,24 @@
     <script>
         const DATA_DIR = './billboard_stats/data';
         let searchIndex = null;
+        let currentChartType = 'hot100';
+
+        function switchChart(type) {
+            currentChartType = type;
+            const hot100Btn = document.getElementById('btn-hot100');
+            const b200Btn = document.getElementById('btn-b200');
+            
+            if (type === 'hot100') {
+                document.documentElement.style.setProperty('--accent', '#ff4757');
+                hot100Btn.style.background = 'var(--accent)';
+                b200Btn.style.background = '#333';
+            } else {
+                document.documentElement.style.setProperty('--accent', '#a55eea');
+                b200Btn.style.background = 'var(--accent)';
+                hot100Btn.style.background = '#333';
+            }
+            loadChart();
+        }
 
         // Close search results when clicking outside
         document.addEventListener('click', (e) => {
@@ -234,8 +250,14 @@
             // Try to match the dropdown to the chart context if available
             if (chartStr) {
                 const cleanChart = chartStr.toLowerCase().replace(/[^a-z0-9]/g, '');
-                if (cleanChart.includes('hot')) document.getElementById('chartType').value = 'hot100';
-                if (cleanChart.includes('200')) document.getElementById('chartType').value = 'b200';
+                if (cleanChart.includes('hot')) {
+                    switchChart('hot100');
+                    return;
+                }
+                if (cleanChart.includes('200')) {
+                    switchChart('b200');
+                    return;
+                }
             }
             
             showView('view-home');
@@ -243,7 +265,7 @@
         }
 
         async function loadChart() {
-            const chartType = document.getElementById('chartType').value;
+            const chartType = currentChartType;
             const rawDate = document.getElementById('dateInput').value;
             if (!rawDate) return;
 
@@ -350,13 +372,23 @@
                         const rank = entry.rank || entry.position;
                         const chart = entry.chart || entry.chart_name || entry.chart_type || '';
                         if (date) {
+                            let entryColor = 'var(--accent)';
+                            let entryChartTitle = chart;
+                            if (chart.toLowerCase().includes('hot') || (!chart && type === 'songs')) {
+                                entryColor = '#ff4757';
+                                entryChartTitle = 'Hot 100';
+                            } else if (chart.toLowerCase().includes('200') || (!chart && type === 'albums')) {
+                                entryColor = '#a55eea';
+                                entryChartTitle = 'Billboard 200';
+                            }
+
                             html += `<div style="background: #222; padding: 10px; border-radius: 4px; text-align: center; cursor: pointer; border: 1px solid var(--border);" 
-                                         onmouseover="this.style.borderColor='var(--accent)'" 
+                                         onmouseover="this.style.borderColor='${entryColor}'" 
                                          onmouseout="this.style.borderColor='var(--border)'"
                                          onclick="loadHistoricalChart('${date}', '${chart}')">
                                         <div style="font-size: 0.8rem; color: #888;">${date}</div>
-                                        <div style="font-size: 1.5rem; font-weight: bold; color: var(--accent); margin-top: 5px;">#${rank}</div>
-                                    ${chart ? `<div style="font-size: 0.7rem; color: #555; margin-top: 5px; text-transform: uppercase; letter-spacing: 0.5px;">${chart}</div>` : ''}
+                                        <div style="font-size: 1.5rem; font-weight: bold; color: ${entryColor}; margin-top: 5px;">#${rank}</div>
+                                        <div style="font-size: 0.7rem; color: ${entryColor}; margin-top: 5px; text-transform: uppercase; letter-spacing: 0.5px;">${entryChartTitle}</div>
                                      </div>`;
                         }
                     });

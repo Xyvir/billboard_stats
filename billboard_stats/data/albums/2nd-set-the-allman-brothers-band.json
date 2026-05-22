@@ -1,1 +1,58 @@
-{"id": "2nd-set-the-allman-brothers-band", "title": "2nd Set", "artist": "The Allman Brothers Band", "peak": 88, "history": [{"date": "1995-05-27", "rank": 88}, {"date": "1995-06-03", "rank": 135}, {"date": "1995-06-10", "rank": 160}, {"date": "1995-06-17", "rank": 164}]}
+{
+  "id": "2nd-set-the-allman-brothers-band",
+  "title": "2nd Set",
+  "artist": "The Allman Brothers Band",
+  "peak": 88,
+  "history": [
+    {
+      "date": "1995-05-27",
+      "rank": 88
+    },
+    {
+      "date": "1995-06-03",
+      "rank": 135
+    },
+    {
+      "date": "1995-06-10",
+      "rank": 160
+    },
+    {
+      "date": "1995-06-17",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Jessica",
+      "id": "jessica-the-allman-brothers-band"
+    },
+    {
+      "title": "Sailin’ ’Cross the Devil’s Sea",
+      "id": null
+    },
+    {
+      "title": "You Don’t Love Me",
+      "id": null
+    },
+    {
+      "title": "Soulshine",
+      "id": null
+    },
+    {
+      "title": "Back Where It All Begins",
+      "id": null
+    },
+    {
+      "title": "In Memory of Elizabeth Reed",
+      "id": null
+    },
+    {
+      "title": "The Same Thing",
+      "id": null
+    },
+    {
+      "title": "No One to Run With",
+      "id": null
+    }
+  ]
+}
