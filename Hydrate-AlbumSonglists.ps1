@@ -9,7 +9,7 @@ $albumFiles = Get-ChildItem -Path $AlbumsDir -Filter "*.json" | Sort-Object Name
 Write-Host "Found $($albumFiles.Count) total album files."
 
 $batchCount = 0
-$batchSize = 10
+$batchSize = 40
 
 foreach ($file in $albumFiles) {
     # Check if hydrated
