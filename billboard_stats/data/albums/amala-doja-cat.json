@@ -1,1 +1,78 @@
-{"id": "amala-doja-cat", "title": "Amala", "artist": "Doja Cat", "peak": 138, "history": [{"date": "2019-08-31", "rank": 162}, {"date": "2019-11-09", "rank": 138}, {"date": "2019-11-23", "rank": 170}, {"date": "2019-11-30", "rank": 200}]}
+{
+  "id": "amala-doja-cat",
+  "title": "Amala",
+  "artist": "Doja Cat",
+  "peak": 138,
+  "history": [
+    {
+      "date": "2019-08-31",
+      "rank": 162
+    },
+    {
+      "date": "2019-11-09",
+      "rank": 138
+    },
+    {
+      "date": "2019-11-23",
+      "rank": 170
+    },
+    {
+      "date": "2019-11-30",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fancy",
+      "id": "candy-doja-cat"
+    },
+    {
+      "title": "Candy",
+      "id": "candy-doja-cat"
+    },
+    {
+      "title": "Go to Town",
+      "id": null
+    },
+    {
+      "title": "Cookie Jar",
+      "id": null
+    },
+    {
+      "title": "Roll With Us",
+      "id": null
+    },
+    {
+      "title": "Wine Pon You",
+      "id": null
+    },
+    {
+      "title": "Wild Beach",
+      "id": null
+    },
+    {
+      "title": "Morning Light",
+      "id": null
+    },
+    {
+      "title": "Game",
+      "id": null
+    },
+    {
+      "title": "Casual",
+      "id": null
+    },
+    {
+      "title": "Down Low",
+      "id": null
+    },
+    {
+      "title": "Body Language",
+      "id": null
+    },
+    {
+      "title": "All Nighter",
+      "id": null
+    }
+  ]
+}
