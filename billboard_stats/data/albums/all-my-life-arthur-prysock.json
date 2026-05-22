@@ -1,1 +1,58 @@
-{"id": "all-my-life-arthur-prysock", "title": "All My Life", "artist": "Arthur Prysock", "peak": 153, "history": [{"date": "1977-01-29", "rank": 180}, {"date": "1977-02-05", "rank": 170}, {"date": "1977-02-12", "rank": 158}, {"date": "1977-02-19", "rank": 153}]}
+{
+  "id": "all-my-life-arthur-prysock",
+  "title": "All My Life",
+  "artist": "Arthur Prysock",
+  "peak": 153,
+  "history": [
+    {
+      "date": "1977-01-29",
+      "rank": 180
+    },
+    {
+      "date": "1977-02-05",
+      "rank": 170
+    },
+    {
+      "date": "1977-02-12",
+      "rank": 158
+    },
+    {
+      "date": "1977-02-19",
+      "rank": 153
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When Love Is New",
+      "id": "when-love-is-new-arthur-prysock"
+    },
+    {
+      "title": "I Wantcha Baby",
+      "id": null
+    },
+    {
+      "title": "All My Life",
+      "id": null
+    },
+    {
+      "title": "I Love Makin’ Love to You",
+      "id": null
+    },
+    {
+      "title": "Baby I’m the One",
+      "id": null
+    },
+    {
+      "title": "One Broken Heart",
+      "id": null
+    },
+    {
+      "title": "All I Need Is You Tonight",
+      "id": null
+    },
+    {
+      "title": "This Is What You Mean to Me",
+      "id": null
+    }
+  ]
+}

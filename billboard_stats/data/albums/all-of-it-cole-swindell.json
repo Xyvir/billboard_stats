@@ -1,1 +1,102 @@
-{"id": "all-of-it-cole-swindell", "title": "All Of It", "artist": "Cole Swindell", "peak": 7, "history": [{"date": "2018-09-01", "rank": 7}, {"date": "2018-09-08", "rank": 37}, {"date": "2018-09-15", "rank": 61}, {"date": "2018-09-22", "rank": 90}, {"date": "2018-09-29", "rank": 83}, {"date": "2018-10-06", "rank": 78}, {"date": "2018-10-13", "rank": 126}, {"date": "2018-10-20", "rank": 197}, {"date": "2018-10-27", "rank": 165}, {"date": "2018-11-03", "rank": 166}, {"date": "2018-11-17", "rank": 117}]}
+{
+  "id": "all-of-it-cole-swindell",
+  "title": "All Of It",
+  "artist": "Cole Swindell",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2018-09-01",
+      "rank": 7
+    },
+    {
+      "date": "2018-09-08",
+      "rank": 37
+    },
+    {
+      "date": "2018-09-15",
+      "rank": 61
+    },
+    {
+      "date": "2018-09-22",
+      "rank": 90
+    },
+    {
+      "date": "2018-09-29",
+      "rank": 83
+    },
+    {
+      "date": "2018-10-06",
+      "rank": 78
+    },
+    {
+      "date": "2018-10-13",
+      "rank": 126
+    },
+    {
+      "date": "2018-10-20",
+      "rank": 197
+    },
+    {
+      "date": "2018-10-27",
+      "rank": 165
+    },
+    {
+      "date": "2018-11-03",
+      "rank": 166
+    },
+    {
+      "date": "2018-11-17",
+      "rank": 117
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love You Too Late",
+      "id": "love-you-too-late-cole-swindell"
+    },
+    {
+      "title": "Break Up in the End",
+      "id": "break-up-in-the-end-cole-swindell"
+    },
+    {
+      "title": "All of It",
+      "id": null
+    },
+    {
+      "title": "Somebody’s Been Drinkin’",
+      "id": null
+    },
+    {
+      "title": "Sounded Good Last Night",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Your Small Town",
+      "id": null
+    },
+    {
+      "title": "The Ones Who Got Me Here",
+      "id": null
+    },
+    {
+      "title": "20 in a Chevy",
+      "id": null
+    },
+    {
+      "title": "Reason to Drink",
+      "id": null
+    },
+    {
+      "title": "Her",
+      "id": null
+    },
+    {
+      "title": "Both Sides of the Mississippi",
+      "id": null
+    },
+    {
+      "title": "Dad’s Old Number",
+      "id": null
+    }
+  ]
+}
