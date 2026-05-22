@@ -400,13 +400,29 @@
                 }
 
                 // Render Catalog of Songs (Artists & Albums)
-                const songs = data.songs || data.tracks;
+                const songs = data.songs || data.tracks || data.items;
                 if (songs && Array.isArray(songs) && songs.length > 0) {
                     html += `<h3 style="margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;">Songs</h3>`;
                     html += `<div style="display: flex; flex-direction: column; gap: 5px; margin-top: 1rem;">`;
                     songs.forEach(song => {
-                        const songId = song.id || song.song_id || song.ref || song.path || '';
-                        const title = song.title || song.name || 'Unknown Song';
+                        let songId = '';
+                        let title = 'Unknown Song';
+                        let peakHtml = '';
+
+                        if (typeof song === 'string') {
+                            songId = song;
+                            // Clean up ID to make a readable title
+                            let cleanTitle = songId;
+                            if (data.id && cleanTitle.endsWith('-' + data.id)) {
+                                cleanTitle = cleanTitle.slice(0, -(data.id.length + 1));
+                            }
+                            title = cleanTitle.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+                        } else {
+                            songId = song.id || song.song_id || song.ref || song.path || '';
+                            title = song.title || song.name || 'Unknown Song';
+                            peakHtml = song.peak ? `<span class="stat-badge">Peak: #${song.peak}</span>` : '';
+                        }
+
                         const cleanId = String(songId).replace(/^songs\//, '').replace(/\.json$/, '');
                         const encodedId = cleanId ? encodeURIComponent(cleanId) : '';
                         
@@ -415,7 +431,7 @@
                                      onmouseout="this.style.borderColor='var(--border)'"
                                      onclick="loadDetail('songs', '${encodedId}')">
                                     <strong style="color: white;">${title}</strong>
-                                    ${song.peak ? `<span class="stat-badge">Peak: #${song.peak}</span>` : ''}
+                                    ${peakHtml}
                                  </div>`;
                     });
                     html += `</div>`;
