@@ -87,8 +87,7 @@
         <div style="margin-bottom: 2rem; display: flex; gap: 1rem; flex-wrap: wrap;">
             <button id="btn-hot100" onclick="switchChart('hot100')" style="background: var(--accent); color: white;">Hot 100</button>
             <button id="btn-b200" onclick="switchChart('b200')" style="background: #333; color: white;">Billboard 200</button>
-            <input type="date" id="dateInput" value="2026-04-04">
-            <button onclick="loadChart()" style="background: #444;">Load Week</button>
+            <input type="date" id="dateInput" value="2026-04-04" onchange="loadChart()">
             <div style="position: relative;">
                 <input type="text" id="searchInput" placeholder="Search (Artist/Song)..." onkeyup="handleSearch(event)" onfocus="handleSearch(event)">
                 <div id="searchResults" style="display: none; position: absolute; top: 100%; left: 0; background: #222; border: 1px solid var(--border); width: 300px; max-height: 400px; overflow-y: auto; z-index: 1000; border-radius: 4px; box-shadow: 0 4px 6px rgba(0,0,0,0.5);"></div>
@@ -296,7 +295,6 @@
 
         function renderChart(data) {
             const container = document.getElementById('chartContainer');
-            const currentChartType = document.getElementById('chartType').value;
             const entityType = currentChartType === 'b200' ? 'albums' : 'songs';
             
             data.forEach(track => {
