@@ -1,1 +1,146 @@
-{"id": "all-the-greatest-hits-commodores", "title": "All The Greatest Hits", "artist": "Commodores", "peak": 37, "history": [{"date": "1982-12-04", "rank": 78}, {"date": "1982-12-11", "rank": 60}, {"date": "1982-12-18", "rank": 52}, {"date": "1982-12-25", "rank": 45}, {"date": "1983-01-01", "rank": 45}, {"date": "1983-01-08", "rank": 41}, {"date": "1983-01-15", "rank": 38}, {"date": "1983-01-22", "rank": 37}, {"date": "1983-01-29", "rank": 37}, {"date": "1983-02-05", "rank": 37}, {"date": "1983-02-12", "rank": 55}, {"date": "1983-02-19", "rank": 55}, {"date": "1983-02-26", "rank": 56}, {"date": "1983-03-05", "rank": 83}, {"date": "1983-03-12", "rank": 83}, {"date": "1983-03-19", "rank": 83}, {"date": "1983-03-26", "rank": 100}, {"date": "1983-04-02", "rank": 123}, {"date": "1983-04-09", "rank": 142}, {"date": "1983-04-16", "rank": 142}, {"date": "1983-04-23", "rank": 142}, {"date": "1983-04-30", "rank": 158}, {"date": "1983-05-07", "rank": 175}, {"date": "1983-05-14", "rank": 193}]}
+{
+  "id": "all-the-greatest-hits-commodores",
+  "title": "All The Greatest Hits",
+  "artist": "Commodores",
+  "peak": 37,
+  "history": [
+    {
+      "date": "1982-12-04",
+      "rank": 78
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 60
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 52
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 45
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 45
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 41
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 38
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 37
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 37
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 37
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 55
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 55
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 56
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 83
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 83
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 83
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 100
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 123
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 142
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 142
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 142
+    },
+    {
+      "date": "1983-04-30",
+      "rank": 158
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 175
+    },
+    {
+      "date": "1983-05-14",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Painted Picture",
+      "id": "painted-picture-commodores"
+    },
+    {
+      "title": "Sail On",
+      "id": "sail-on-commodores"
+    },
+    {
+      "title": "Still",
+      "id": "still-commodores"
+    },
+    {
+      "title": "Machine Gun",
+      "id": "machine-gun-commodores"
+    },
+    {
+      "title": "Brick House",
+      "id": "brick-house-commodores"
+    },
+    {
+      "title": "Easy",
+      "id": "easy-commodores"
+    },
+    {
+      "title": "Oh No",
+      "id": "oh-no-commodores"
+    },
+    {
+      "title": "Three Times a Lady",
+      "id": "three-times-a-lady-commodores"
+    },
+    {
+      "title": "Lady",
+      "id": null
+    },
+    {
+      "title": "Reach High",
+      "id": null
+    }
+  ]
+}

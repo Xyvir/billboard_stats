@@ -1,1 +1,106 @@
-{"id": "all-the-way-calloway", "title": "All The Way", "artist": "Calloway", "peak": 80, "history": [{"date": "1990-03-31", "rank": 142}, {"date": "1990-04-07", "rank": 127}, {"date": "1990-04-14", "rank": 117}, {"date": "1990-04-21", "rank": 90}, {"date": "1990-04-28", "rank": 84}, {"date": "1990-05-05", "rank": 80}, {"date": "1990-05-12", "rank": 86}, {"date": "1990-05-19", "rank": 87}, {"date": "1990-05-26", "rank": 89}, {"date": "1990-06-02", "rank": 105}, {"date": "1990-06-09", "rank": 111}, {"date": "1990-06-16", "rank": 126}, {"date": "1990-06-23", "rank": 142}, {"date": "1990-06-30", "rank": 198}]}
+{
+  "id": "all-the-way-calloway",
+  "title": "All The Way",
+  "artist": "Calloway",
+  "peak": 80,
+  "history": [
+    {
+      "date": "1990-03-31",
+      "rank": 142
+    },
+    {
+      "date": "1990-04-07",
+      "rank": 127
+    },
+    {
+      "date": "1990-04-14",
+      "rank": 117
+    },
+    {
+      "date": "1990-04-21",
+      "rank": 90
+    },
+    {
+      "date": "1990-04-28",
+      "rank": 84
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 80
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 86
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 87
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 89
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 105
+    },
+    {
+      "date": "1990-06-09",
+      "rank": 111
+    },
+    {
+      "date": "1990-06-16",
+      "rank": 126
+    },
+    {
+      "date": "1990-06-23",
+      "rank": 142
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Wanna Be Rich",
+      "id": "i-wanna-be-rich-calloway"
+    },
+    {
+      "title": "All the Way",
+      "id": "all-the-way-calloway"
+    },
+    {
+      "title": "Sir Lancelot",
+      "id": null
+    },
+    {
+      "title": "Love Circles",
+      "id": null
+    },
+    {
+      "title": "Freaks Compete",
+      "id": null
+    },
+    {
+      "title": "You Are My Everything",
+      "id": null
+    },
+    {
+      "title": "I Want You",
+      "id": null
+    },
+    {
+      "title": "Sugar Free",
+      "id": null
+    },
+    {
+      "title": "You Can Count on Me",
+      "id": null
+    },
+    {
+      "title": "Holiday",
+      "id": null
+    }
+  ]
+}
