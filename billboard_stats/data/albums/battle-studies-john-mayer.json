@@ -1,1 +1,278 @@
-{"id": "battle-studies-john-mayer", "title": "Battle Studies", "artist": "John Mayer", "peak": 1, "history": [{"date": "2009-12-05", "rank": 1}, {"date": "2009-12-12", "rank": 13}, {"date": "2009-12-19", "rank": 17}, {"date": "2009-12-26", "rank": 26}, {"date": "2010-01-02", "rank": 15}, {"date": "2010-01-09", "rank": 19}, {"date": "2010-01-16", "rank": 19}, {"date": "2010-01-23", "rank": 19}, {"date": "2010-01-30", "rank": 21}, {"date": "2010-02-06", "rank": 26}, {"date": "2010-02-13", "rank": 25}, {"date": "2010-02-20", "rank": 37}, {"date": "2010-02-27", "rank": 40}, {"date": "2010-03-06", "rank": 40}, {"date": "2010-03-13", "rank": 40}, {"date": "2010-03-20", "rank": 44}, {"date": "2010-03-27", "rank": 52}, {"date": "2010-04-03", "rank": 59}, {"date": "2010-04-10", "rank": 62}, {"date": "2010-04-17", "rank": 67}, {"date": "2010-04-24", "rank": 60}, {"date": "2010-05-01", "rank": 60}, {"date": "2010-05-08", "rank": 78}, {"date": "2010-05-15", "rank": 82}, {"date": "2010-05-22", "rank": 80}, {"date": "2010-05-29", "rank": 105}, {"date": "2010-06-05", "rank": 107}, {"date": "2010-06-12", "rank": 128}, {"date": "2010-06-19", "rank": 100}, {"date": "2010-06-26", "rank": 96}, {"date": "2010-07-03", "rank": 83}, {"date": "2010-07-10", "rank": 75}, {"date": "2010-07-17", "rank": 77}, {"date": "2010-07-24", "rank": 71}, {"date": "2010-07-31", "rank": 73}, {"date": "2010-08-07", "rank": 63}, {"date": "2010-08-14", "rank": 62}, {"date": "2010-08-21", "rank": 60}, {"date": "2010-08-28", "rank": 57}, {"date": "2010-09-04", "rank": 63}, {"date": "2010-09-11", "rank": 68}, {"date": "2010-09-18", "rank": 58}, {"date": "2010-09-25", "rank": 52}, {"date": "2010-10-02", "rank": 88}, {"date": "2010-10-09", "rank": 76}, {"date": "2010-10-16", "rank": 108}, {"date": "2010-10-23", "rank": 96}, {"date": "2010-10-30", "rank": 105}, {"date": "2010-11-06", "rank": 112}, {"date": "2010-11-13", "rank": 127}, {"date": "2010-11-20", "rank": 136}, {"date": "2010-11-27", "rank": 196}, {"date": "2010-12-11", "rank": 97}, {"date": "2010-12-18", "rank": 196}]}
+{
+  "id": "battle-studies-john-mayer",
+  "title": "Battle Studies",
+  "artist": "John Mayer",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2009-12-05",
+      "rank": 1
+    },
+    {
+      "date": "2009-12-12",
+      "rank": 13
+    },
+    {
+      "date": "2009-12-19",
+      "rank": 17
+    },
+    {
+      "date": "2009-12-26",
+      "rank": 26
+    },
+    {
+      "date": "2010-01-02",
+      "rank": 15
+    },
+    {
+      "date": "2010-01-09",
+      "rank": 19
+    },
+    {
+      "date": "2010-01-16",
+      "rank": 19
+    },
+    {
+      "date": "2010-01-23",
+      "rank": 19
+    },
+    {
+      "date": "2010-01-30",
+      "rank": 21
+    },
+    {
+      "date": "2010-02-06",
+      "rank": 26
+    },
+    {
+      "date": "2010-02-13",
+      "rank": 25
+    },
+    {
+      "date": "2010-02-20",
+      "rank": 37
+    },
+    {
+      "date": "2010-02-27",
+      "rank": 40
+    },
+    {
+      "date": "2010-03-06",
+      "rank": 40
+    },
+    {
+      "date": "2010-03-13",
+      "rank": 40
+    },
+    {
+      "date": "2010-03-20",
+      "rank": 44
+    },
+    {
+      "date": "2010-03-27",
+      "rank": 52
+    },
+    {
+      "date": "2010-04-03",
+      "rank": 59
+    },
+    {
+      "date": "2010-04-10",
+      "rank": 62
+    },
+    {
+      "date": "2010-04-17",
+      "rank": 67
+    },
+    {
+      "date": "2010-04-24",
+      "rank": 60
+    },
+    {
+      "date": "2010-05-01",
+      "rank": 60
+    },
+    {
+      "date": "2010-05-08",
+      "rank": 78
+    },
+    {
+      "date": "2010-05-15",
+      "rank": 82
+    },
+    {
+      "date": "2010-05-22",
+      "rank": 80
+    },
+    {
+      "date": "2010-05-29",
+      "rank": 105
+    },
+    {
+      "date": "2010-06-05",
+      "rank": 107
+    },
+    {
+      "date": "2010-06-12",
+      "rank": 128
+    },
+    {
+      "date": "2010-06-19",
+      "rank": 100
+    },
+    {
+      "date": "2010-06-26",
+      "rank": 96
+    },
+    {
+      "date": "2010-07-03",
+      "rank": 83
+    },
+    {
+      "date": "2010-07-10",
+      "rank": 75
+    },
+    {
+      "date": "2010-07-17",
+      "rank": 77
+    },
+    {
+      "date": "2010-07-24",
+      "rank": 71
+    },
+    {
+      "date": "2010-07-31",
+      "rank": 73
+    },
+    {
+      "date": "2010-08-07",
+      "rank": 63
+    },
+    {
+      "date": "2010-08-14",
+      "rank": 62
+    },
+    {
+      "date": "2010-08-21",
+      "rank": 60
+    },
+    {
+      "date": "2010-08-28",
+      "rank": 57
+    },
+    {
+      "date": "2010-09-04",
+      "rank": 63
+    },
+    {
+      "date": "2010-09-11",
+      "rank": 68
+    },
+    {
+      "date": "2010-09-18",
+      "rank": 58
+    },
+    {
+      "date": "2010-09-25",
+      "rank": 52
+    },
+    {
+      "date": "2010-10-02",
+      "rank": 88
+    },
+    {
+      "date": "2010-10-09",
+      "rank": 76
+    },
+    {
+      "date": "2010-10-16",
+      "rank": 108
+    },
+    {
+      "date": "2010-10-23",
+      "rank": 96
+    },
+    {
+      "date": "2010-10-30",
+      "rank": 105
+    },
+    {
+      "date": "2010-11-06",
+      "rank": 112
+    },
+    {
+      "date": "2010-11-13",
+      "rank": 127
+    },
+    {
+      "date": "2010-11-20",
+      "rank": 136
+    },
+    {
+      "date": "2010-11-27",
+      "rank": 196
+    },
+    {
+      "date": "2010-12-11",
+      "rank": 97
+    },
+    {
+      "date": "2010-12-18",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heartbreak Warfare",
+      "id": "heartbreak-warfare-john-mayer"
+    },
+    {
+      "title": "Half of My Heart",
+      "id": "half-of-my-heart-john-mayer"
+    },
+    {
+      "title": "Who Says",
+      "id": "who-says-john-mayer"
+    },
+    {
+      "title": "War of My Life",
+      "id": "half-of-my-heart-john-mayer"
+    },
+    {
+      "title": "Say",
+      "id": "say-john-mayer"
+    },
+    {
+      "title": "All We Ever Do Is Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "Perfectly Lonely",
+      "id": null
+    },
+    {
+      "title": "Assassin",
+      "id": null
+    },
+    {
+      "title": "Crossroads",
+      "id": null
+    },
+    {
+      "title": "Edge of Desire",
+      "id": null
+    },
+    {
+      "title": "Do You Know Me",
+      "id": null
+    },
+    {
+      "title": "Friends, Lovers or Nothing",
+      "id": null
+    },
+    {
+      "title": "I’m on Fire",
+      "id": null
+    }
+  ]
+}

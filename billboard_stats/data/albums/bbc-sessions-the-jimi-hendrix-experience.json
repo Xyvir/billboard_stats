@@ -1,1 +1,130 @@
-{"id": "bbc-sessions-the-jimi-hendrix-experience", "title": "BBC Sessions", "artist": "The Jimi Hendrix Experience", "peak": 50, "history": [{"date": "1998-06-20", "rank": 50}, {"date": "1998-06-27", "rank": 73}, {"date": "1998-07-04", "rank": 90}, {"date": "1998-07-11", "rank": 109}, {"date": "1998-07-18", "rank": 133}, {"date": "1998-07-25", "rank": 145}, {"date": "1998-08-01", "rank": 162}, {"date": "1998-08-08", "rank": 168}, {"date": "1998-08-15", "rank": 198}]}
+{
+  "id": "bbc-sessions-the-jimi-hendrix-experience",
+  "title": "BBC Sessions",
+  "artist": "The Jimi Hendrix Experience",
+  "peak": 50,
+  "history": [
+    {
+      "date": "1998-06-20",
+      "rank": 50
+    },
+    {
+      "date": "1998-06-27",
+      "rank": 73
+    },
+    {
+      "date": "1998-07-04",
+      "rank": 90
+    },
+    {
+      "date": "1998-07-11",
+      "rank": 109
+    },
+    {
+      "date": "1998-07-18",
+      "rank": 133
+    },
+    {
+      "date": "1998-07-25",
+      "rank": 145
+    },
+    {
+      "date": "1998-08-01",
+      "rank": 162
+    },
+    {
+      "date": "1998-08-08",
+      "rank": 168
+    },
+    {
+      "date": "1998-08-15",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Purple Haze",
+      "id": "purple-haze-the-jimi-hendrix-experience"
+    },
+    {
+      "title": "Stone Free",
+      "id": null
+    },
+    {
+      "title": "A Brand New Sound",
+      "id": null
+    },
+    {
+      "title": "Hey Joe",
+      "id": null
+    },
+    {
+      "title": "Foxy Lady",
+      "id": null
+    },
+    {
+      "title": "Love or Confusion",
+      "id": null
+    },
+    {
+      "title": "Radio One",
+      "id": null
+    },
+    {
+      "title": "Wait Until Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Day Tripper",
+      "id": null
+    },
+    {
+      "title": "Introducing the Experience",
+      "id": null
+    },
+    {
+      "title": "Little Miss Lover",
+      "id": null
+    },
+    {
+      "title": "Jammin’",
+      "id": null
+    },
+    {
+      "title": "I Was Made to Love Her",
+      "id": null
+    },
+    {
+      "title": "Alexis Korner Introduction (The Jimi Hendrix Experience BBC Sessions)",
+      "id": null
+    },
+    {
+      "title": "Can You Please Crawl Out Your Window?",
+      "id": null
+    },
+    {
+      "title": "(I’m Your) Hoochie Coochie Man",
+      "id": null
+    },
+    {
+      "title": "A Happening for Lulu",
+      "id": null
+    },
+    {
+      "title": "Voodoo Child (slight return)",
+      "id": null
+    },
+    {
+      "title": "Lulu Introduction",
+      "id": null
+    },
+    {
+      "title": "Sunshine of Your Love",
+      "id": null
+    },
+    {
+      "title": "BBC Sessions",
+      "id": null
+    }
+  ]
+}

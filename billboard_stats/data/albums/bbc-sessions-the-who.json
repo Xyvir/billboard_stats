@@ -1,1 +1,122 @@
-{"id": "bbc-sessions-the-who", "title": "BBC Sessions", "artist": "The Who", "peak": 101, "history": [{"date": "2000-03-04", "rank": 101}, {"date": "2000-03-11", "rank": 144}, {"date": "2000-03-18", "rank": 185}]}
+{
+  "id": "bbc-sessions-the-who",
+  "title": "BBC Sessions",
+  "artist": "The Who",
+  "peak": 101,
+  "history": [
+    {
+      "date": "2000-03-04",
+      "rank": 101
+    },
+    {
+      "date": "2000-03-11",
+      "rank": 144
+    },
+    {
+      "date": "2000-03-18",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Generation (Radio 1 jingle)",
+      "id": "my-generation-the-who"
+    },
+    {
+      "title": "My Generation",
+      "id": "my-generation-the-who"
+    },
+    {
+      "title": "Happy Jack",
+      "id": "happy-jack-the-who"
+    },
+    {
+      "title": "Pictures of Lily",
+      "id": "pictures-of-lily-the-who"
+    },
+    {
+      "title": "The Seeker",
+      "id": "the-seeker-the-who"
+    },
+    {
+      "title": "I’m Free",
+      "id": "i-m-free-the-who"
+    },
+    {
+      "title": "Relay",
+      "id": "the-relay-the-who"
+    },
+    {
+      "title": "Long Live Rock",
+      "id": "long-live-rock-the-who"
+    },
+    {
+      "title": "Anyway, Anyhow, Anywhere",
+      "id": null
+    },
+    {
+      "title": "Good Lovin’",
+      "id": null
+    },
+    {
+      "title": "Just You and Me, Darling",
+      "id": null
+    },
+    {
+      "title": "Leaving Here",
+      "id": null
+    },
+    {
+      "title": "The Good’s Gone",
+      "id": null
+    },
+    {
+      "title": "La La La Lies",
+      "id": null
+    },
+    {
+      "title": "Substitute",
+      "id": null
+    },
+    {
+      "title": "Dancing in the Street",
+      "id": null
+    },
+    {
+      "title": "Disguises",
+      "id": null
+    },
+    {
+      "title": "I’m a Boy",
+      "id": null
+    },
+    {
+      "title": "Run Run Run",
+      "id": null
+    },
+    {
+      "title": "Boris the Spider",
+      "id": null
+    },
+    {
+      "title": "See My Way",
+      "id": null
+    },
+    {
+      "title": "A Quick One (While He’s Away)",
+      "id": null
+    },
+    {
+      "title": "Substitute (2)",
+      "id": null
+    },
+    {
+      "title": "Shakin’ All Over",
+      "id": null
+    },
+    {
+      "title": "Boris the Spider (Radio 1 jingle)",
+      "id": null
+    }
+  ]
+}
