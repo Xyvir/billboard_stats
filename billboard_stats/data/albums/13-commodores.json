@@ -1,1 +1,50 @@
-{"id": "13-commodores", "title": "13", "artist": "Commodores", "peak": 159, "history": [{"date": "1983-12-03", "rank": 159}, {"date": "1983-12-10", "rank": 196}]}
+{
+  "id": "13-commodores",
+  "title": "13",
+  "artist": "Commodores",
+  "peak": 159,
+  "history": [
+    {
+      "date": "1983-12-03",
+      "rank": 159
+    },
+    {
+      "date": "1983-12-10",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Only You",
+      "id": "only-you-commodores"
+    },
+    {
+      "title": "I’m in Love",
+      "id": null
+    },
+    {
+      "title": "Turn Off the Lights",
+      "id": null
+    },
+    {
+      "title": "Nothing Like a Woman",
+      "id": null
+    },
+    {
+      "title": "Captured",
+      "id": null
+    },
+    {
+      "title": "Touchdown",
+      "id": null
+    },
+    {
+      "title": "Welcome Home",
+      "id": null
+    },
+    {
+      "title": "Ooo, Woman You",
+      "id": null
+    }
+  ]
+}

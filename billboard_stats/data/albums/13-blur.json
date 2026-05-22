@@ -1,1 +1,82 @@
-{"id": "13-blur", "title": "13", "artist": "Blur", "peak": 80, "history": [{"date": "1999-04-10", "rank": 80}, {"date": "1999-04-17", "rank": 120}, {"date": "1999-04-24", "rank": 143}, {"date": "1999-05-01", "rank": 174}, {"date": "1999-05-08", "rank": 193}]}
+{
+  "id": "13-blur",
+  "title": "13",
+  "artist": "Blur",
+  "peak": 80,
+  "history": [
+    {
+      "date": "1999-04-10",
+      "rank": 80
+    },
+    {
+      "date": "1999-04-17",
+      "rank": 120
+    },
+    {
+      "date": "1999-04-24",
+      "rank": 143
+    },
+    {
+      "date": "1999-05-01",
+      "rank": 174
+    },
+    {
+      "date": "1999-05-08",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tender",
+      "id": null
+    },
+    {
+      "title": "Bugman",
+      "id": null
+    },
+    {
+      "title": "Coffee & TV",
+      "id": null
+    },
+    {
+      "title": "Swamp Song",
+      "id": null
+    },
+    {
+      "title": "1992",
+      "id": null
+    },
+    {
+      "title": "B.L.U.R.E.M.I.",
+      "id": null
+    },
+    {
+      "title": "Battle",
+      "id": null
+    },
+    {
+      "title": "Mellow Song",
+      "id": null
+    },
+    {
+      "title": "Trailerpark",
+      "id": null
+    },
+    {
+      "title": "Caramel",
+      "id": null
+    },
+    {
+      "title": "Trimm Trabb",
+      "id": null
+    },
+    {
+      "title": "No Distance Left to Run",
+      "id": null
+    },
+    {
+      "title": "Optigan 1",
+      "id": null
+    }
+  ]
+}
