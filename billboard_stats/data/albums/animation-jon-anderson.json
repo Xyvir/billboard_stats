@@ -1,1 +1,74 @@
-{"id": "animation-jon-anderson", "title": "Animation", "artist": "Jon Anderson", "peak": 176, "history": [{"date": "1982-07-03", "rank": 183}, {"date": "1982-07-10", "rank": 177}, {"date": "1982-07-17", "rank": 176}, {"date": "1982-07-24", "rank": 192}, {"date": "1982-07-31", "rank": 191}]}
+{
+  "id": "animation-jon-anderson",
+  "title": "Animation",
+  "artist": "Jon Anderson",
+  "peak": 176,
+  "history": [
+    {
+      "date": "1982-07-03",
+      "rank": 183
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 177
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 176
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 192
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Olympia",
+      "id": null
+    },
+    {
+      "title": "Animation",
+      "id": null
+    },
+    {
+      "title": "Surrender",
+      "id": null
+    },
+    {
+      "title": "All in a Matter of Time",
+      "id": null
+    },
+    {
+      "title": "Unlearning",
+      "id": null
+    },
+    {
+      "title": "Boundaries",
+      "id": null
+    },
+    {
+      "title": "Pressure Point",
+      "id": null
+    },
+    {
+      "title": "Much Better Reason",
+      "id": null
+    },
+    {
+      "title": "All Gods Children",
+      "id": null
+    },
+    {
+      "title": "The Spell",
+      "id": null
+    },
+    {
+      "title": "Spider",
+      "id": null
+    }
+  ]
+}

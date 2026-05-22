@@ -1,1 +1,54 @@
-{"id": "anima-thom-yorke", "title": "Anima", "artist": "Thom Yorke", "peak": 59, "history": [{"date": "2019-07-13", "rank": 187}, {"date": "2019-08-03", "rank": 59}]}
+{
+  "id": "anima-thom-yorke",
+  "title": "Anima",
+  "artist": "Thom Yorke",
+  "peak": 59,
+  "history": [
+    {
+      "date": "2019-07-13",
+      "rank": 187
+    },
+    {
+      "date": "2019-08-03",
+      "rank": 59
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Traffic",
+      "id": null
+    },
+    {
+      "title": "Last I Heard (…He Was Circling the Drain)",
+      "id": null
+    },
+    {
+      "title": "Twist",
+      "id": null
+    },
+    {
+      "title": "Dawn Chorus",
+      "id": null
+    },
+    {
+      "title": "I Am a Very Rude Person",
+      "id": null
+    },
+    {
+      "title": "Not the News",
+      "id": null
+    },
+    {
+      "title": "The Axe",
+      "id": null
+    },
+    {
+      "title": "Impossible Knots",
+      "id": null
+    },
+    {
+      "title": "Runwayaway",
+      "id": null
+    }
+  ]
+}

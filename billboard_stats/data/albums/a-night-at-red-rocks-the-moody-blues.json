@@ -1,1 +1,90 @@
-{"id": "a-night-at-red-rocks-the-moody-blues", "title": "A Night At Red Rocks", "artist": "The Moody Blues", "peak": 93, "history": [{"date": "1993-03-27", "rank": 144}, {"date": "1993-04-03", "rank": 93}, {"date": "1993-04-10", "rank": 102}, {"date": "1993-04-17", "rank": 134}, {"date": "1993-04-24", "rank": 170}]}
+{
+  "id": "a-night-at-red-rocks-the-moody-blues",
+  "title": "A Night At Red Rocks",
+  "artist": "The Moody Blues",
+  "peak": 93,
+  "history": [
+    {
+      "date": "1993-03-27",
+      "rank": 144
+    },
+    {
+      "date": "1993-04-03",
+      "rank": 93
+    },
+    {
+      "date": "1993-04-10",
+      "rank": 102
+    },
+    {
+      "date": "1993-04-17",
+      "rank": 134
+    },
+    {
+      "date": "1993-04-24",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tuesday Afternoon (Forever Afternoon)",
+      "id": "tuesday-afternoon-forever-afternoon-the-moody-blues"
+    },
+    {
+      "title": "I Know You're Out There Somewhere",
+      "id": "i-know-you-re-out-there-somewhere-the-moody-blues"
+    },
+    {
+      "title": "The Voice",
+      "id": "the-voice-the-moody-blues"
+    },
+    {
+      "title": "Your Wildest Dreams",
+      "id": "your-wildest-dreams-the-moody-blues"
+    },
+    {
+      "title": "Isn't Life Strange",
+      "id": "isn-t-life-strange-the-moody-blues"
+    },
+    {
+      "title": "The Other Side of Life",
+      "id": "the-other-side-of-life-the-moody-blues"
+    },
+    {
+      "title": "I'm Just a Singer (in a Rock and Roll Band)",
+      "id": "i-m-just-a-singer-in-a-rock-and-roll-band-the-moody-blues"
+    },
+    {
+      "title": "Nights in White Satin",
+      "id": "nights-in-white-satin-the-moody-blues"
+    },
+    {
+      "title": "Question",
+      "id": "question-the-moody-blues"
+    },
+    {
+      "title": "Ride My See-Saw",
+      "id": "ride-my-see-saw-the-moody-blues"
+    },
+    {
+      "title": "Overture",
+      "id": null
+    },
+    {
+      "title": "Late Lament",
+      "id": null
+    },
+    {
+      "title": "For My Lady",
+      "id": null
+    },
+    {
+      "title": "Lean on Me (Tonight)",
+      "id": null
+    },
+    {
+      "title": "Lovely to See You",
+      "id": null
+    }
+  ]
+}

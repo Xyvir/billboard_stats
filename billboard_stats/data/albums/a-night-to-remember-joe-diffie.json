@@ -1,1 +1,54 @@
-{"id": "a-night-to-remember-joe-diffie", "title": "A Night To Remember", "artist": "Joe Diffie", "peak": 189, "history": [{"date": "1999-06-19", "rank": 189}]}
+{
+  "id": "a-night-to-remember-joe-diffie",
+  "title": "A Night To Remember",
+  "artist": "Joe Diffie",
+  "peak": 189,
+  "history": [
+    {
+      "date": "1999-06-19",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Night to Remember",
+      "id": "a-night-to-remember-joe-diffie"
+    },
+    {
+      "title": "The Quittin’ Kind",
+      "id": "the-quittin-kind-joe-diffie"
+    },
+    {
+      "title": "It’s Always Somethin’",
+      "id": "it-s-always-somethin-joe-diffie"
+    },
+    {
+      "title": "You Can’t Go Home",
+      "id": null
+    },
+    {
+      "title": "I’m the Only Thing I’ll Hold Against You",
+      "id": null
+    },
+    {
+      "title": "Better Off Gone",
+      "id": null
+    },
+    {
+      "title": "Are We Even Yet",
+      "id": null
+    },
+    {
+      "title": "My Heart’s in Over My Head",
+      "id": null
+    },
+    {
+      "title": "Not in This Lifetime",
+      "id": null
+    },
+    {
+      "title": "Don’t Our Love Look Natural",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "a-night-on-the-town-brownsville-station", "title": "A Night On The Town", "artist": "Brownsville Station", "peak": 190, "history": [{"date": "1972-10-07", "rank": 200}, {"date": "1972-10-14", "rank": 199}, {"date": "1972-10-21", "rank": 199}, {"date": "1972-10-28", "rank": 191}, {"date": "1972-11-04", "rank": 190}]}
+{
+  "id": "a-night-on-the-town-brownsville-station",
+  "title": "A Night On The Town",
+  "artist": "Brownsville Station",
+  "peak": 190,
+  "history": [
+    {
+      "date": "1972-10-07",
+      "rank": 200
+    },
+    {
+      "date": "1972-10-14",
+      "rank": 199
+    },
+    {
+      "date": "1972-10-21",
+      "rank": 199
+    },
+    {
+      "date": "1972-10-28",
+      "rank": 191
+    },
+    {
+      "date": "1972-11-04",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rock With the Music",
+      "id": null
+    },
+    {
+      "title": "I Got Time",
+      "id": null
+    },
+    {
+      "title": "Lovin' Lady Lee",
+      "id": null
+    },
+    {
+      "title": "Mad for Me",
+      "id": null
+    },
+    {
+      "title": "Mister Robert",
+      "id": null
+    },
+    {
+      "title": "Wanted (Dead or Alive)",
+      "id": null
+    },
+    {
+      "title": "Country Flavor",
+      "id": null
+    },
+    {
+      "title": "Jonah's Here to Stay",
+      "id": null
+    },
+    {
+      "title": "Leavin’ Here",
+      "id": null
+    },
+    {
+      "title": "The Man Who Wanted More (Saints Rock & Roll)",
+      "id": null
+    }
+  ]
+}
