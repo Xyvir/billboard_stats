@@ -1,1 +1,62 @@
-{"id": "35-mph-town-toby-keith", "title": "35 mph Town", "artist": "Toby Keith", "peak": 14, "history": [{"date": "2015-10-31", "rank": 14}, {"date": "2015-11-07", "rank": 66}, {"date": "2015-11-14", "rank": 144}]}
+{
+  "id": "35-mph-town-toby-keith",
+  "title": "35 mph Town",
+  "artist": "Toby Keith",
+  "peak": 14,
+  "history": [
+    {
+      "date": "2015-10-31",
+      "rank": 14
+    },
+    {
+      "date": "2015-11-07",
+      "rank": 66
+    },
+    {
+      "date": "2015-11-14",
+      "rank": 144
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Drunk Americans",
+      "id": "made-in-america-toby-keith"
+    },
+    {
+      "title": "Good Gets Here",
+      "id": "god-love-her-toby-keith"
+    },
+    {
+      "title": "35 mph Town",
+      "id": null
+    },
+    {
+      "title": "Rum Is the Reason",
+      "id": null
+    },
+    {
+      "title": "What She Left Behind",
+      "id": null
+    },
+    {
+      "title": "10 Foot Pole",
+      "id": null
+    },
+    {
+      "title": "Haggard, Hank & Her",
+      "id": null
+    },
+    {
+      "title": "Sailboat for Sale",
+      "id": null
+    },
+    {
+      "title": "Every Time I Drink I Fall in Love",
+      "id": null
+    },
+    {
+      "title": "Beautiful Stranger",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,314 @@
-{"id": "35-biggest-hits-tim-mcgraw", "title": "35 Biggest Hits", "artist": "Tim McGraw", "peak": 47, "history": [{"date": "2015-07-04", "rank": 47}, {"date": "2015-07-11", "rank": 73}, {"date": "2015-07-18", "rank": 103}, {"date": "2015-07-25", "rank": 94}, {"date": "2015-08-01", "rank": 108}, {"date": "2015-08-08", "rank": 114}, {"date": "2015-08-15", "rank": 126}, {"date": "2015-08-22", "rank": 115}, {"date": "2015-08-29", "rank": 96}, {"date": "2015-09-05", "rank": 114}, {"date": "2015-09-12", "rank": 118}, {"date": "2015-09-19", "rank": 129}, {"date": "2015-09-26", "rank": 113}, {"date": "2015-10-03", "rank": 133}, {"date": "2015-10-10", "rank": 159}, {"date": "2015-10-17", "rank": 164}, {"date": "2015-10-24", "rank": 169}, {"date": "2015-10-31", "rank": 158}, {"date": "2015-11-07", "rank": 169}, {"date": "2016-07-02", "rank": 170}, {"date": "2017-01-28", "rank": 193}, {"date": "2017-07-29", "rank": 154}, {"date": "2017-08-05", "rank": 166}, {"date": "2017-08-12", "rank": 166}, {"date": "2017-08-19", "rank": 162}, {"date": "2017-08-26", "rank": 182}, {"date": "2017-09-02", "rank": 185}, {"date": "2017-09-09", "rank": 186}, {"date": "2019-02-16", "rank": 166}, {"date": "2019-03-09", "rank": 166}, {"date": "2019-03-30", "rank": 157}, {"date": "2019-06-08", "rank": 128}, {"date": "2020-03-21", "rank": 141}, {"date": "2020-03-28", "rank": 142}, {"date": "2020-04-04", "rank": 133}, {"date": "2020-06-06", "rank": 114}, {"date": "2020-06-20", "rank": 124}, {"date": "2020-06-27", "rank": 124}, {"date": "2020-07-04", "rank": 131}, {"date": "2020-07-11", "rank": 135}]}
+{
+  "id": "35-biggest-hits-tim-mcgraw",
+  "title": "35 Biggest Hits",
+  "artist": "Tim McGraw",
+  "peak": 47,
+  "history": [
+    {
+      "date": "2015-07-04",
+      "rank": 47
+    },
+    {
+      "date": "2015-07-11",
+      "rank": 73
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 103
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 94
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 108
+    },
+    {
+      "date": "2015-08-08",
+      "rank": 114
+    },
+    {
+      "date": "2015-08-15",
+      "rank": 126
+    },
+    {
+      "date": "2015-08-22",
+      "rank": 115
+    },
+    {
+      "date": "2015-08-29",
+      "rank": 96
+    },
+    {
+      "date": "2015-09-05",
+      "rank": 114
+    },
+    {
+      "date": "2015-09-12",
+      "rank": 118
+    },
+    {
+      "date": "2015-09-19",
+      "rank": 129
+    },
+    {
+      "date": "2015-09-26",
+      "rank": 113
+    },
+    {
+      "date": "2015-10-03",
+      "rank": 133
+    },
+    {
+      "date": "2015-10-10",
+      "rank": 159
+    },
+    {
+      "date": "2015-10-17",
+      "rank": 164
+    },
+    {
+      "date": "2015-10-24",
+      "rank": 169
+    },
+    {
+      "date": "2015-10-31",
+      "rank": 158
+    },
+    {
+      "date": "2015-11-07",
+      "rank": 169
+    },
+    {
+      "date": "2016-07-02",
+      "rank": 170
+    },
+    {
+      "date": "2017-01-28",
+      "rank": 193
+    },
+    {
+      "date": "2017-07-29",
+      "rank": 154
+    },
+    {
+      "date": "2017-08-05",
+      "rank": 166
+    },
+    {
+      "date": "2017-08-12",
+      "rank": 166
+    },
+    {
+      "date": "2017-08-19",
+      "rank": 162
+    },
+    {
+      "date": "2017-08-26",
+      "rank": 182
+    },
+    {
+      "date": "2017-09-02",
+      "rank": 185
+    },
+    {
+      "date": "2017-09-09",
+      "rank": 186
+    },
+    {
+      "date": "2019-02-16",
+      "rank": 166
+    },
+    {
+      "date": "2019-03-09",
+      "rank": 166
+    },
+    {
+      "date": "2019-03-30",
+      "rank": 157
+    },
+    {
+      "date": "2019-06-08",
+      "rank": 128
+    },
+    {
+      "date": "2020-03-21",
+      "rank": 141
+    },
+    {
+      "date": "2020-03-28",
+      "rank": 142
+    },
+    {
+      "date": "2020-04-04",
+      "rank": 133
+    },
+    {
+      "date": "2020-06-06",
+      "rank": 114
+    },
+    {
+      "date": "2020-06-20",
+      "rank": 124
+    },
+    {
+      "date": "2020-06-27",
+      "rank": 124
+    },
+    {
+      "date": "2020-07-04",
+      "rank": 131
+    },
+    {
+      "date": "2020-07-11",
+      "rank": 135
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Indian Outlaw",
+      "id": "indian-outlaw-tim-mcgraw"
+    },
+    {
+      "title": "Don’t Take the Girl",
+      "id": "don-t-take-the-girl-tim-mcgraw"
+    },
+    {
+      "title": "I Like It, I Love It",
+      "id": "i-like-it-i-love-it-tim-mcgraw"
+    },
+    {
+      "title": "Can’t Be Really Gone",
+      "id": "can-t-be-really-gone-tim-mcgraw"
+    },
+    {
+      "title": "One of These Days",
+      "id": "one-of-these-days-tim-mcgraw"
+    },
+    {
+      "title": "Where the Green Grass Grows",
+      "id": "where-the-green-grass-grows-tim-mcgraw"
+    },
+    {
+      "title": "For a Little While",
+      "id": "for-a-little-while-tim-mcgraw"
+    },
+    {
+      "title": "Please Remember Me",
+      "id": "please-remember-me-tim-mcgraw"
+    },
+    {
+      "title": "Something Like That",
+      "id": "something-like-that-tim-mcgraw"
+    },
+    {
+      "title": "My Best Friend",
+      "id": "my-best-friend-tim-mcgraw"
+    },
+    {
+      "title": "My Next Thirty Years",
+      "id": "my-next-thirty-years-tim-mcgraw"
+    },
+    {
+      "title": "Grown Men Don’t Cry",
+      "id": "grown-men-don-t-cry-tim-mcgraw"
+    },
+    {
+      "title": "Angry All the Time",
+      "id": "angry-all-the-time-tim-mcgraw"
+    },
+    {
+      "title": "The Cowboy in Me",
+      "id": "the-cowboy-in-me-tim-mcgraw"
+    },
+    {
+      "title": "Red Ragtop",
+      "id": "red-rag-top-tim-mcgraw"
+    },
+    {
+      "title": "She’s My Kind of Rain",
+      "id": "she-s-my-kind-of-rain-tim-mcgraw"
+    },
+    {
+      "title": "Real Good Man",
+      "id": "real-good-man-tim-mcgraw"
+    },
+    {
+      "title": "Watch the Wind Blow By",
+      "id": "watch-the-wind-blow-by-tim-mcgraw"
+    },
+    {
+      "title": "Live Like You Were Dying",
+      "id": "live-like-you-were-dying-tim-mcgraw"
+    },
+    {
+      "title": "Back When (single edit)",
+      "id": "back-when-tim-mcgraw"
+    },
+    {
+      "title": "My Old Friend",
+      "id": "my-old-friend-tim-mcgraw"
+    },
+    {
+      "title": "When the Stars Go Blue",
+      "id": "when-the-stars-go-blue-tim-mcgraw"
+    },
+    {
+      "title": "My Little Girl",
+      "id": "my-little-girl-tim-mcgraw"
+    },
+    {
+      "title": "Last Dollar (Fly Away)",
+      "id": "last-dollar-fly-away-tim-mcgraw"
+    },
+    {
+      "title": "If You’re Reading This",
+      "id": "if-you-re-reading-this-tim-mcgraw"
+    },
+    {
+      "title": "Let It Go",
+      "id": "let-it-go-tim-mcgraw"
+    },
+    {
+      "title": "Southern Voice",
+      "id": "southern-voice-tim-mcgraw"
+    },
+    {
+      "title": "Felt Good on My Lips",
+      "id": "felt-good-on-my-lips-tim-mcgraw"
+    },
+    {
+      "title": "Better Than I Used to Be",
+      "id": "better-than-i-used-to-be-tim-mcgraw"
+    },
+    {
+      "title": "Down on the Farm",
+      "id": null
+    },
+    {
+      "title": "Not a Moment Too Soon",
+      "id": null
+    },
+    {
+      "title": "She Never Lets It Go to Her Heart",
+      "id": null
+    },
+    {
+      "title": "It’s Your Love",
+      "id": null
+    },
+    {
+      "title": "Everywhere (album version)",
+      "id": null
+    },
+    {
+      "title": "Just to See You Smile",
+      "id": null
+    },
+    {
+      "title": "Just When I Need You Most (live)",
+      "id": null
+    }
+  ]
+}
