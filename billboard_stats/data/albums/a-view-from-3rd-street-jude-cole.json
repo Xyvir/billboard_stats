@@ -1,1 +1,98 @@
-{"id": "a-view-from-3rd-street-jude-cole", "title": "A View From 3rd Street", "artist": "Jude Cole", "peak": 138, "history": [{"date": "1990-05-05", "rank": 184}, {"date": "1990-05-12", "rank": 182}, {"date": "1990-05-19", "rank": 170}, {"date": "1990-05-26", "rank": 144}, {"date": "1990-06-02", "rank": 138}, {"date": "1990-06-09", "rank": 142}, {"date": "1990-06-16", "rank": 140}, {"date": "1990-06-23", "rank": 158}, {"date": "1990-06-30", "rank": 140}, {"date": "1990-07-07", "rank": 158}, {"date": "1990-07-14", "rank": 169}, {"date": "1990-07-21", "rank": 200}]}
+{
+  "id": "a-view-from-3rd-street-jude-cole",
+  "title": "A View From 3rd Street",
+  "artist": "Jude Cole",
+  "peak": 138,
+  "history": [
+    {
+      "date": "1990-05-05",
+      "rank": 184
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 182
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 170
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 144
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 138
+    },
+    {
+      "date": "1990-06-09",
+      "rank": 142
+    },
+    {
+      "date": "1990-06-16",
+      "rank": 140
+    },
+    {
+      "date": "1990-06-23",
+      "rank": 158
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 140
+    },
+    {
+      "date": "1990-07-07",
+      "rank": 158
+    },
+    {
+      "date": "1990-07-14",
+      "rank": 169
+    },
+    {
+      "date": "1990-07-21",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Baby, It’s Tonight",
+      "id": "baby-it-s-tonight-jude-cole"
+    },
+    {
+      "title": "House Full of Reasons",
+      "id": "house-full-of-reasons-jude-cole"
+    },
+    {
+      "title": "Time for Letting Go",
+      "id": "time-for-letting-go-jude-cole"
+    },
+    {
+      "title": "Hallowed Ground",
+      "id": null
+    },
+    {
+      "title": "Get Me Through the Night",
+      "id": null
+    },
+    {
+      "title": "Stranger to Myself",
+      "id": null
+    },
+    {
+      "title": "This Time It’s Us",
+      "id": null
+    },
+    {
+      "title": "Heart of Blues",
+      "id": null
+    },
+    {
+      "title": "Compared to Nothing",
+      "id": null
+    },
+    {
+      "title": "Prove Me Wrong",
+      "id": null
+    }
+  ]
+}

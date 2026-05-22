@@ -1,1 +1,110 @@
-{"id": "avril-lavigne-avril-lavigne", "title": "Avril Lavigne", "artist": "Avril Lavigne", "peak": 5, "history": [{"date": "2013-11-23", "rank": 5}, {"date": "2013-11-30", "rank": 26}, {"date": "2013-12-07", "rank": 64}, {"date": "2013-12-14", "rank": 73}, {"date": "2013-12-21", "rank": 140}, {"date": "2013-12-28", "rank": 174}, {"date": "2014-01-04", "rank": 135}, {"date": "2014-01-11", "rank": 99}, {"date": "2014-01-18", "rank": 89}, {"date": "2014-01-25", "rank": 115}, {"date": "2014-02-01", "rank": 186}, {"date": "2015-08-29", "rank": 146}]}
+{
+  "id": "avril-lavigne-avril-lavigne",
+  "title": "Avril Lavigne",
+  "artist": "Avril Lavigne",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2013-11-23",
+      "rank": 5
+    },
+    {
+      "date": "2013-11-30",
+      "rank": 26
+    },
+    {
+      "date": "2013-12-07",
+      "rank": 64
+    },
+    {
+      "date": "2013-12-14",
+      "rank": 73
+    },
+    {
+      "date": "2013-12-21",
+      "rank": 140
+    },
+    {
+      "date": "2013-12-28",
+      "rank": 174
+    },
+    {
+      "date": "2014-01-04",
+      "rank": 135
+    },
+    {
+      "date": "2014-01-11",
+      "rank": 99
+    },
+    {
+      "date": "2014-01-18",
+      "rank": 89
+    },
+    {
+      "date": "2014-01-25",
+      "rank": 115
+    },
+    {
+      "date": "2014-02-01",
+      "rank": 186
+    },
+    {
+      "date": "2015-08-29",
+      "rank": 146
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rock n Roll",
+      "id": "rock-n-roll-avril-lavigne"
+    },
+    {
+      "title": "Here’s to Never Growing Up",
+      "id": "here-s-to-never-growing-up-avril-lavigne"
+    },
+    {
+      "title": "Hello Kitty",
+      "id": "hello-kitty-avril-lavigne"
+    },
+    {
+      "title": "17",
+      "id": null
+    },
+    {
+      "title": "Bitchin’ Summer",
+      "id": null
+    },
+    {
+      "title": "Let Me Go",
+      "id": null
+    },
+    {
+      "title": "Give You What You Like",
+      "id": null
+    },
+    {
+      "title": "Bad Girl",
+      "id": null
+    },
+    {
+      "title": "You Ain’t Seen Nothin’ Yet",
+      "id": null
+    },
+    {
+      "title": "Sippin’ on Sunshine",
+      "id": null
+    },
+    {
+      "title": "Hello Heartache",
+      "id": null
+    },
+    {
+      "title": "Falling Fast",
+      "id": null
+    },
+    {
+      "title": "Hush Hush",
+      "id": null
+    }
+  ]
+}
