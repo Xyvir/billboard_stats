@@ -1,1 +1,334 @@
-{"id": "anthology-2-the-beatles", "title": "Anthology 2", "artist": "The Beatles", "peak": 1, "history": [{"date": "1996-04-06", "rank": 1}, {"date": "1996-04-13", "rank": 2}, {"date": "1996-04-20", "rank": 4}, {"date": "1996-04-27", "rank": 8}, {"date": "1996-05-04", "rank": 17}, {"date": "1996-05-11", "rank": 23}, {"date": "1996-05-18", "rank": 29}, {"date": "1996-05-25", "rank": 27}, {"date": "1996-06-01", "rank": 42}, {"date": "1996-06-08", "rank": 56}, {"date": "1996-06-15", "rank": 66}, {"date": "1996-06-22", "rank": 77}, {"date": "1996-06-29", "rank": 54}, {"date": "1996-07-06", "rank": 71}, {"date": "1996-07-13", "rank": 119}, {"date": "1996-07-20", "rank": 137}, {"date": "1996-07-27", "rank": 128}, {"date": "1996-08-03", "rank": 148}, {"date": "1996-08-10", "rank": 164}, {"date": "1996-08-17", "rank": 174}, {"date": "1996-08-24", "rank": 193}, {"date": "1996-08-31", "rank": 188}, {"date": "1996-09-14", "rank": 197}, {"date": "1996-09-21", "rank": 162}, {"date": "1996-09-28", "rank": 148}, {"date": "1996-10-05", "rank": 191}, {"date": "1996-11-16", "rank": 138}, {"date": "1996-11-23", "rank": 161}, {"date": "1996-11-30", "rank": 148}, {"date": "1996-12-07", "rank": 146}, {"date": "1996-12-14", "rank": 127}, {"date": "1996-12-21", "rank": 111}, {"date": "1996-12-28", "rank": 96}, {"date": "1997-01-04", "rank": 97}, {"date": "1997-01-11", "rank": 111}, {"date": "1997-01-18", "rank": 177}, {"date": "1997-01-25", "rank": 194}]}
+{
+  "id": "anthology-2-the-beatles",
+  "title": "Anthology 2",
+  "artist": "The Beatles",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1996-04-06",
+      "rank": 1
+    },
+    {
+      "date": "1996-04-13",
+      "rank": 2
+    },
+    {
+      "date": "1996-04-20",
+      "rank": 4
+    },
+    {
+      "date": "1996-04-27",
+      "rank": 8
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 17
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 23
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 29
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 27
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 42
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 56
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 66
+    },
+    {
+      "date": "1996-06-22",
+      "rank": 77
+    },
+    {
+      "date": "1996-06-29",
+      "rank": 54
+    },
+    {
+      "date": "1996-07-06",
+      "rank": 71
+    },
+    {
+      "date": "1996-07-13",
+      "rank": 119
+    },
+    {
+      "date": "1996-07-20",
+      "rank": 137
+    },
+    {
+      "date": "1996-07-27",
+      "rank": 128
+    },
+    {
+      "date": "1996-08-03",
+      "rank": 148
+    },
+    {
+      "date": "1996-08-10",
+      "rank": 164
+    },
+    {
+      "date": "1996-08-17",
+      "rank": 174
+    },
+    {
+      "date": "1996-08-24",
+      "rank": 193
+    },
+    {
+      "date": "1996-08-31",
+      "rank": 188
+    },
+    {
+      "date": "1996-09-14",
+      "rank": 197
+    },
+    {
+      "date": "1996-09-21",
+      "rank": 162
+    },
+    {
+      "date": "1996-09-28",
+      "rank": 148
+    },
+    {
+      "date": "1996-10-05",
+      "rank": 191
+    },
+    {
+      "date": "1996-11-16",
+      "rank": 138
+    },
+    {
+      "date": "1996-11-23",
+      "rank": 161
+    },
+    {
+      "date": "1996-11-30",
+      "rank": 148
+    },
+    {
+      "date": "1996-12-07",
+      "rank": 146
+    },
+    {
+      "date": "1996-12-14",
+      "rank": 127
+    },
+    {
+      "date": "1996-12-21",
+      "rank": 111
+    },
+    {
+      "date": "1996-12-28",
+      "rank": 96
+    },
+    {
+      "date": "1997-01-04",
+      "rank": 97
+    },
+    {
+      "date": "1997-01-11",
+      "rank": 111
+    },
+    {
+      "date": "1997-01-18",
+      "rank": 177
+    },
+    {
+      "date": "1997-01-25",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Real Love",
+      "id": "real-love-the-beatles"
+    },
+    {
+      "title": "Yes It Is",
+      "id": "yes-it-is-the-beatles"
+    },
+    {
+      "title": "Yesterday",
+      "id": "yesterday-the-beatles"
+    },
+    {
+      "title": "I Feel Fine",
+      "id": "i-feel-fine-the-beatles"
+    },
+    {
+      "title": "Ticket to Ride",
+      "id": "ticket-to-ride-the-beatles"
+    },
+    {
+      "title": "Help!",
+      "id": "help-the-beatles"
+    },
+    {
+      "title": "Got to Get You Into My Life",
+      "id": "got-to-get-you-into-my-life-the-beatles"
+    },
+    {
+      "title": "Eleanor Rigby (strings only)",
+      "id": "eleanor-rigby-the-beatles"
+    },
+    {
+      "title": "She’s a Woman",
+      "id": "she-s-a-woman-the-beatles"
+    },
+    {
+      "title": "Strawberry Fields Forever (demo sequence)",
+      "id": "strawberry-fields-forever-the-beatles"
+    },
+    {
+      "title": "Strawberry Fields Forever (take 1)",
+      "id": "strawberry-fields-forever-the-beatles"
+    },
+    {
+      "title": "Strawberry Fields Forever (take 7 & edit piece)",
+      "id": "strawberry-fields-forever-the-beatles"
+    },
+    {
+      "title": "Penny Lane",
+      "id": "penny-lane-the-beatles"
+    },
+    {
+      "title": "Sgt. Pepper’s Lonely Hearts Club Band (reprise)",
+      "id": "sgt-pepper-s-lonely-hearts-club-band-with-a-little-help-from-my-friends-the-beatles"
+    },
+    {
+      "title": "I Am the Walrus",
+      "id": "i-am-the-walrus-the-beatles"
+    },
+    {
+      "title": "Hello, Goodbye",
+      "id": "hello-goodbye-the-beatles"
+    },
+    {
+      "title": "Lady Madonna",
+      "id": "lady-madonna-the-beatles"
+    },
+    {
+      "title": "I’m Down",
+      "id": null
+    },
+    {
+      "title": "You’ve Got to Hide Your Love Away",
+      "id": null
+    },
+    {
+      "title": "If You’ve Got Trouble",
+      "id": null
+    },
+    {
+      "title": "That Means a Lot",
+      "id": null
+    },
+    {
+      "title": "It’s Only Love",
+      "id": null
+    },
+    {
+      "title": "Everybody’s Trying to Be My Baby",
+      "id": null
+    },
+    {
+      "title": "Norwegian Wood (This Bird Has Flown)",
+      "id": null
+    },
+    {
+      "title": "I’m Looking Through You",
+      "id": null
+    },
+    {
+      "title": "12‐Bar Original",
+      "id": null
+    },
+    {
+      "title": "Tomorrow Never Knows",
+      "id": null
+    },
+    {
+      "title": "And Your Bird Can Sing",
+      "id": null
+    },
+    {
+      "title": "Taxman",
+      "id": null
+    },
+    {
+      "title": "I’m Only Sleeping (rehearsal)",
+      "id": null
+    },
+    {
+      "title": "I’m Only Sleeping (take 1)",
+      "id": null
+    },
+    {
+      "title": "Rock and Roll Music",
+      "id": null
+    },
+    {
+      "title": "A Day in the Life",
+      "id": null
+    },
+    {
+      "title": "Good Morning Good Morning",
+      "id": null
+    },
+    {
+      "title": "Only a Northern Song",
+      "id": null
+    },
+    {
+      "title": "Being for the Benefit of Mr. Kite! (takes 1 and 2)",
+      "id": null
+    },
+    {
+      "title": "Being for the Benefit of Mr. Kite! (take 7)",
+      "id": null
+    },
+    {
+      "title": "Lucy in the Sky With Diamonds",
+      "id": null
+    },
+    {
+      "title": "Within You Without You (instrumental)",
+      "id": null
+    },
+    {
+      "title": "You Know My Name (Look Up the Number)",
+      "id": null
+    },
+    {
+      "title": "The Fool on the Hill (demo)",
+      "id": null
+    },
+    {
+      "title": "Your Mother Should Know",
+      "id": null
+    },
+    {
+      "title": "The Fool on the Hill (take 4)",
+      "id": null
+    },
+    {
+      "title": "Across the Universe",
+      "id": null
+    }
+  ]
+}

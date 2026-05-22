@@ -1,1 +1,194 @@
-{"id": "anthology-gladys-knight-and-the-pips", "title": "Anthology", "artist": "Gladys Knight And The Pips", "peak": 77, "history": [{"date": "1974-02-16", "rank": 145}, {"date": "1974-02-23", "rank": 126}, {"date": "1974-03-02", "rank": 111}, {"date": "1974-03-09", "rank": 96}, {"date": "1974-03-16", "rank": 86}, {"date": "1974-03-23", "rank": 81}, {"date": "1974-03-30", "rank": 80}, {"date": "1974-04-06", "rank": 77}, {"date": "1974-04-13", "rank": 87}, {"date": "1974-04-20", "rank": 98}, {"date": "1974-04-27", "rank": 97}, {"date": "1974-05-04", "rank": 98}, {"date": "1974-05-11", "rank": 116}, {"date": "1974-05-18", "rank": 122}, {"date": "1974-05-25", "rank": 126}, {"date": "1974-06-01", "rank": 136}, {"date": "1974-06-08", "rank": 130}, {"date": "1974-06-15", "rank": 143}, {"date": "1974-06-22", "rank": 143}, {"date": "1974-06-29", "rank": 135}, {"date": "1974-07-06", "rank": 157}, {"date": "1974-07-13", "rank": 167}, {"date": "1974-07-20", "rank": 174}]}
+{
+  "id": "anthology-gladys-knight-and-the-pips",
+  "title": "Anthology",
+  "artist": "Gladys Knight And The Pips",
+  "peak": 77,
+  "history": [
+    {
+      "date": "1974-02-16",
+      "rank": 145
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 126
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 111
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 96
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 86
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 81
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 80
+    },
+    {
+      "date": "1974-04-06",
+      "rank": 77
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 87
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 98
+    },
+    {
+      "date": "1974-04-27",
+      "rank": 97
+    },
+    {
+      "date": "1974-05-04",
+      "rank": 98
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 116
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 122
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 126
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 136
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 130
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 143
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 143
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 135
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 157
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 167
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Every Beat of My Heart",
+      "id": "every-beat-of-my-heart-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Letter Full of Tears",
+      "id": "letter-full-of-tears-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Giving Up",
+      "id": "giving-up-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Take Me in Your Arms and Love Me",
+      "id": "take-me-in-your-arms-and-love-me-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Everybody Needs Love (single version)",
+      "id": "everybody-needs-love-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "I Heard It Through the Grapevine",
+      "id": "i-heard-it-through-the-grapevine-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "The End of Our Road",
+      "id": "the-end-of-our-road-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "It Should Have Been Me",
+      "id": "it-should-have-been-me-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "I Wish It Would Rain",
+      "id": "i-wish-it-would-rain-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Didn't You Know (You'd Had To Cry Sometimes)",
+      "id": "didn-t-you-know-you-d-have-to-cry-sometime-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "The Nitty Gritty",
+      "id": "the-nitty-gritty-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Friendship Train",
+      "id": "friendship-train-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "You Need to Love Like I Do (Don't You)",
+      "id": "you-need-love-like-i-do-don-t-you-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "If I Were Your Woman",
+      "id": "if-i-were-your-woman-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "I Don't Want to Do Wrong",
+      "id": "i-don-t-want-to-do-wrong-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Make Me the Woman That You Go Home To",
+      "id": "make-me-the-woman-that-you-go-home-to-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Help Me Make It Through the Night",
+      "id": "help-me-make-it-through-the-night-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Neither One of Us (Wants to Be the First to Say Goodbye)",
+      "id": "neither-one-of-us-wants-to-be-the-first-to-say-goodbye-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Daddy Could Swear, I Declare",
+      "id": "daddy-could-swear-i-declare-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Just Walk in My Shoes",
+      "id": null
+    },
+    {
+      "title": "The Tracks of My Tears",
+      "id": null
+    },
+    {
+      "title": "Every Little Bit Hurts",
+      "id": null
+    },
+    {
+      "title": "For Once in My Life",
+      "id": null
+    }
+  ]
+}

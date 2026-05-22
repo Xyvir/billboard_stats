@@ -1,1 +1,366 @@
-{"id": "anthology-1-the-beatles", "title": "Anthology 1", "artist": "The Beatles", "peak": 1, "history": [{"date": "1995-12-09", "rank": 1}, {"date": "1995-12-16", "rank": 1}, {"date": "1995-12-23", "rank": 1}, {"date": "1995-12-30", "rank": 2}, {"date": "1996-01-06", "rank": 3}, {"date": "1996-01-13", "rank": 9}, {"date": "1996-01-20", "rank": 11}, {"date": "1996-01-27", "rank": 21}, {"date": "1996-02-03", "rank": 30}, {"date": "1996-02-10", "rank": 45}, {"date": "1996-02-17", "rank": 60}, {"date": "1996-02-24", "rank": 67}, {"date": "1996-03-02", "rank": 59}, {"date": "1996-03-09", "rank": 93}, {"date": "1996-03-16", "rank": 104}, {"date": "1996-03-23", "rank": 95}, {"date": "1996-03-30", "rank": 83}, {"date": "1996-04-06", "rank": 44}, {"date": "1996-04-13", "rank": 63}, {"date": "1996-04-20", "rank": 77}, {"date": "1996-04-27", "rank": 100}, {"date": "1996-05-04", "rank": 131}, {"date": "1996-05-11", "rank": 151}, {"date": "1996-05-18", "rank": 181}, {"date": "1996-05-25", "rank": 152}, {"date": "1996-12-21", "rank": 192}, {"date": "1996-12-28", "rank": 168}, {"date": "1997-01-04", "rank": 156}, {"date": "1997-01-11", "rank": 197}]}
+{
+  "id": "anthology-1-the-beatles",
+  "title": "Anthology 1",
+  "artist": "The Beatles",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1995-12-09",
+      "rank": 1
+    },
+    {
+      "date": "1995-12-16",
+      "rank": 1
+    },
+    {
+      "date": "1995-12-23",
+      "rank": 1
+    },
+    {
+      "date": "1995-12-30",
+      "rank": 2
+    },
+    {
+      "date": "1996-01-06",
+      "rank": 3
+    },
+    {
+      "date": "1996-01-13",
+      "rank": 9
+    },
+    {
+      "date": "1996-01-20",
+      "rank": 11
+    },
+    {
+      "date": "1996-01-27",
+      "rank": 21
+    },
+    {
+      "date": "1996-02-03",
+      "rank": 30
+    },
+    {
+      "date": "1996-02-10",
+      "rank": 45
+    },
+    {
+      "date": "1996-02-17",
+      "rank": 60
+    },
+    {
+      "date": "1996-02-24",
+      "rank": 67
+    },
+    {
+      "date": "1996-03-02",
+      "rank": 59
+    },
+    {
+      "date": "1996-03-09",
+      "rank": 93
+    },
+    {
+      "date": "1996-03-16",
+      "rank": 104
+    },
+    {
+      "date": "1996-03-23",
+      "rank": 95
+    },
+    {
+      "date": "1996-03-30",
+      "rank": 83
+    },
+    {
+      "date": "1996-04-06",
+      "rank": 44
+    },
+    {
+      "date": "1996-04-13",
+      "rank": 63
+    },
+    {
+      "date": "1996-04-20",
+      "rank": 77
+    },
+    {
+      "date": "1996-04-27",
+      "rank": 100
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 131
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 151
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 181
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 152
+    },
+    {
+      "date": "1996-12-21",
+      "rank": 192
+    },
+    {
+      "date": "1996-12-28",
+      "rank": 168
+    },
+    {
+      "date": "1997-01-04",
+      "rank": 156
+    },
+    {
+      "date": "1997-01-11",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Free as a Bird",
+      "id": "free-as-a-bird-the-beatles"
+    },
+    {
+      "title": "Hallelujah, I Love Her So",
+      "id": "and-i-love-her-the-beatles"
+    },
+    {
+      "title": "You’ll Be Mine",
+      "id": "yellow-submarine-the-beatles"
+    },
+    {
+      "title": "Ain’t She Sweet",
+      "id": "ain-t-she-sweet-the-beatles"
+    },
+    {
+      "title": "Love Me Do",
+      "id": "love-me-do-the-beatles"
+    },
+    {
+      "title": "Please Please Me",
+      "id": "please-please-me-the-beatles"
+    },
+    {
+      "title": "I’ll Get You",
+      "id": "p-s-i-love-you-the-beatles"
+    },
+    {
+      "title": "I Saw Her Standing There",
+      "id": "i-saw-her-standing-there-the-beatles"
+    },
+    {
+      "title": "From Me to You",
+      "id": "from-me-to-you-the-beatles"
+    },
+    {
+      "title": "Roll Over Beethoven",
+      "id": "roll-over-beethoven-the-beatles"
+    },
+    {
+      "title": "She Loves You",
+      "id": "she-loves-you-the-beatles"
+    },
+    {
+      "title": "Twist and Shout",
+      "id": "twist-and-shout-the-beatles"
+    },
+    {
+      "title": "I Want to Hold Your Hand",
+      "id": "i-want-to-hold-your-hand-the-beatles"
+    },
+    {
+      "title": "Can’t Buy Me Love",
+      "id": "can-t-buy-me-love-the-beatles"
+    },
+    {
+      "title": "All My Loving",
+      "id": "all-my-loving-the-beatles"
+    },
+    {
+      "title": "You Can’t Do That",
+      "id": "you-can-t-do-that-the-beatles"
+    },
+    {
+      "title": "And I Love Her",
+      "id": "and-i-love-her-the-beatles"
+    },
+    {
+      "title": "A Hard Day’s Night",
+      "id": "a-hard-day-s-night-the-beatles"
+    },
+    {
+      "title": "I Wanna Be Your Man",
+      "id": "i-want-to-hold-your-hand-the-beatles"
+    },
+    {
+      "title": "Eight Days a Week (sequence)",
+      "id": "eight-days-a-week-the-beatles"
+    },
+    {
+      "title": "Eight Days a Week (complete)",
+      "id": "eight-days-a-week-the-beatles"
+    },
+    {
+      "title": "We Were Four Guys… That’s All (interview)",
+      "id": null
+    },
+    {
+      "title": "That’ll Be the Day",
+      "id": null
+    },
+    {
+      "title": "In Spite of All the Danger",
+      "id": null
+    },
+    {
+      "title": "Sometimes I’d Borrow… Those Still Exist (interview)",
+      "id": null
+    },
+    {
+      "title": "Cayenne",
+      "id": null
+    },
+    {
+      "title": "First of All… It Didn’t Do a Thing Here (interview)",
+      "id": null
+    },
+    {
+      "title": "My Bonnie",
+      "id": null
+    },
+    {
+      "title": "Cry for a Shadow",
+      "id": null
+    },
+    {
+      "title": "Brian Was a Beautiful Guy… He Presented Us Well (interview)",
+      "id": null
+    },
+    {
+      "title": "I Secured Them… A Beatle Drink Even Then (reading)",
+      "id": null
+    },
+    {
+      "title": "Searchin’",
+      "id": null
+    },
+    {
+      "title": "Three Cool Cats",
+      "id": null
+    },
+    {
+      "title": "The Sheik of Araby",
+      "id": null
+    },
+    {
+      "title": "Like Dreamers Do",
+      "id": null
+    },
+    {
+      "title": "Hello Little Girl",
+      "id": null
+    },
+    {
+      "title": "Well, the Recording Test… By My Artists (reading)",
+      "id": null
+    },
+    {
+      "title": "Besame Mucho",
+      "id": null
+    },
+    {
+      "title": "How Do You Do It",
+      "id": null
+    },
+    {
+      "title": "One After 909 (sequence)",
+      "id": null
+    },
+    {
+      "title": "One After 909 (complete)",
+      "id": null
+    },
+    {
+      "title": "Lend Me Your Comb",
+      "id": null
+    },
+    {
+      "title": "We Were Performers… in Britain (interview)",
+      "id": null
+    },
+    {
+      "title": "Money (That’s What I Want)",
+      "id": null
+    },
+    {
+      "title": "You Really Got a Hold on Me",
+      "id": null
+    },
+    {
+      "title": "Till There Was You",
+      "id": null
+    },
+    {
+      "title": "This Boy",
+      "id": null
+    },
+    {
+      "title": "Boys, What I Was Thinking (comedy)",
+      "id": null
+    },
+    {
+      "title": "Moonlight Bay",
+      "id": null
+    },
+    {
+      "title": "Long Tall Sally",
+      "id": null
+    },
+    {
+      "title": "Boys",
+      "id": null
+    },
+    {
+      "title": "Shout",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Back (take 2)",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Back (take 3)",
+      "id": null
+    },
+    {
+      "title": "You Know What to Do",
+      "id": null
+    },
+    {
+      "title": "No Reply (demo)",
+      "id": null
+    },
+    {
+      "title": "Mr. Moonlight",
+      "id": null
+    },
+    {
+      "title": "Leave My Kitten Alone",
+      "id": null
+    },
+    {
+      "title": "No Reply",
+      "id": null
+    },
+    {
+      "title": "Kansas City / Hey‐Hey‐Hey‐Hey!",
+      "id": null
+    }
+  ]
+}

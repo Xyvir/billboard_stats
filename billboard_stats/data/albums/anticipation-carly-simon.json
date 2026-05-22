@@ -1,1 +1,74 @@
-{"id": "anticipation-carly-simon", "title": "Anticipation", "artist": "Carly Simon", "peak": 96, "history": [{"date": "1972-05-20", "rank": 96}, {"date": "1972-05-27", "rank": 106}, {"date": "1972-06-03", "rank": 110}, {"date": "1972-06-10", "rank": 117}, {"date": "1972-06-17", "rank": 133}, {"date": "1972-06-24", "rank": 164}]}
+{
+  "id": "anticipation-carly-simon",
+  "title": "Anticipation",
+  "artist": "Carly Simon",
+  "peak": 96,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 96
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 106
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 110
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 117
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 133
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Anticipation",
+      "id": "anticipation-carly-simon"
+    },
+    {
+      "title": "Legend in Your Own Time",
+      "id": "legend-in-your-own-time-carly-simon"
+    },
+    {
+      "title": "Summer’s Coming Around Again",
+      "id": "coming-around-again-carly-simon"
+    },
+    {
+      "title": "Our First Day Together",
+      "id": null
+    },
+    {
+      "title": "The Girl You Think You See",
+      "id": null
+    },
+    {
+      "title": "Share the End",
+      "id": null
+    },
+    {
+      "title": "The Garden",
+      "id": null
+    },
+    {
+      "title": "Three Days",
+      "id": null
+    },
+    {
+      "title": "Julie Through the Glass",
+      "id": null
+    },
+    {
+      "title": "I’ve Got to Have You",
+      "id": null
+    }
+  ]
+}

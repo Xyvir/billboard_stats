@@ -1,1 +1,78 @@
-{"id": "anthology-the-babys", "title": "Anthology", "artist": "The Babys", "peak": 138, "history": [{"date": "1981-11-07", "rank": 163}, {"date": "1981-11-14", "rank": 152}, {"date": "1981-11-21", "rank": 142}, {"date": "1981-11-28", "rank": 138}, {"date": "1981-12-05", "rank": 153}, {"date": "1981-12-12", "rank": 153}, {"date": "1981-12-19", "rank": 180}]}
+{
+  "id": "anthology-the-babys",
+  "title": "Anthology",
+  "artist": "The Babys",
+  "peak": 138,
+  "history": [
+    {
+      "date": "1981-11-07",
+      "rank": 163
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 152
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 142
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 138
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 153
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 153
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Head First",
+      "id": "head-first-the-babys"
+    },
+    {
+      "title": "Isn’t It Time",
+      "id": "isn-t-it-time-the-babys"
+    },
+    {
+      "title": "Midnight Rendezvous",
+      "id": "midnight-rendezvous-the-babys"
+    },
+    {
+      "title": "Back on My Feet Again",
+      "id": "back-on-my-feet-again-the-babys"
+    },
+    {
+      "title": "Turn and Walk Away",
+      "id": "turn-and-walk-away-the-babys"
+    },
+    {
+      "title": "Every Time I Think of You",
+      "id": "every-time-i-think-of-you-the-babys"
+    },
+    {
+      "title": "If You've Got the Time",
+      "id": "if-you-ve-got-the-time-the-babys"
+    },
+    {
+      "title": "Money",
+      "id": null
+    },
+    {
+      "title": "Give Me Your Love",
+      "id": null
+    },
+    {
+      "title": "Sweet 17",
+      "id": null
+    }
+  ]
+}

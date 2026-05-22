@@ -1,1 +1,270 @@
-{"id": "anthology-3-the-beatles", "title": "Anthology 3", "artist": "The Beatles", "peak": 1, "history": [{"date": "1996-11-16", "rank": 1}, {"date": "1996-11-23", "rank": 5}, {"date": "1996-11-30", "rank": 12}, {"date": "1996-12-07", "rank": 24}, {"date": "1996-12-14", "rank": 21}, {"date": "1996-12-21", "rank": 16}, {"date": "1996-12-28", "rank": 17}, {"date": "1997-01-04", "rank": 17}, {"date": "1997-01-11", "rank": 28}, {"date": "1997-01-18", "rank": 57}, {"date": "1997-01-25", "rank": 74}, {"date": "1997-02-01", "rank": 97}, {"date": "1997-02-08", "rank": 121}, {"date": "1997-02-15", "rank": 145}, {"date": "1997-02-22", "rank": 160}, {"date": "1997-03-01", "rank": 151}]}
+{
+  "id": "anthology-3-the-beatles",
+  "title": "Anthology 3",
+  "artist": "The Beatles",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1996-11-16",
+      "rank": 1
+    },
+    {
+      "date": "1996-11-23",
+      "rank": 5
+    },
+    {
+      "date": "1996-11-30",
+      "rank": 12
+    },
+    {
+      "date": "1996-12-07",
+      "rank": 24
+    },
+    {
+      "date": "1996-12-14",
+      "rank": 21
+    },
+    {
+      "date": "1996-12-21",
+      "rank": 16
+    },
+    {
+      "date": "1996-12-28",
+      "rank": 17
+    },
+    {
+      "date": "1997-01-04",
+      "rank": 17
+    },
+    {
+      "date": "1997-01-11",
+      "rank": 28
+    },
+    {
+      "date": "1997-01-18",
+      "rank": 57
+    },
+    {
+      "date": "1997-01-25",
+      "rank": 74
+    },
+    {
+      "date": "1997-02-01",
+      "rank": 97
+    },
+    {
+      "date": "1997-02-08",
+      "rank": 121
+    },
+    {
+      "date": "1997-02-15",
+      "rank": 145
+    },
+    {
+      "date": "1997-02-22",
+      "rank": 160
+    },
+    {
+      "date": "1997-03-01",
+      "rank": 151
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ob‐La‐Di, Ob‐La‐Da",
+      "id": "ob-la-di-ob-la-da-the-beatles"
+    },
+    {
+      "title": "Hey Jude",
+      "id": "hey-jude-the-beatles"
+    },
+    {
+      "title": "The Long and Winding Road",
+      "id": "the-long-and-winding-road-for-you-blue-the-beatles"
+    },
+    {
+      "title": "Something",
+      "id": "something-the-beatles"
+    },
+    {
+      "title": "Come Together",
+      "id": "come-together-something-the-beatles"
+    },
+    {
+      "title": "Ain’t She Sweet",
+      "id": "ain-t-she-sweet-the-beatles"
+    },
+    {
+      "title": "Let It Be",
+      "id": "let-it-be-the-beatles"
+    },
+    {
+      "title": "I Me Mine",
+      "id": "i-feel-fine-the-beatles"
+    },
+    {
+      "title": "A Beginning",
+      "id": null
+    },
+    {
+      "title": "Happiness Is a Warm Gun",
+      "id": null
+    },
+    {
+      "title": "Helter Skelter",
+      "id": null
+    },
+    {
+      "title": "Mean Mr. Mustard",
+      "id": null
+    },
+    {
+      "title": "Polythene Pam",
+      "id": null
+    },
+    {
+      "title": "Glass Onion",
+      "id": null
+    },
+    {
+      "title": "Junk",
+      "id": null
+    },
+    {
+      "title": "Piggies",
+      "id": null
+    },
+    {
+      "title": "Honey Pie",
+      "id": null
+    },
+    {
+      "title": "Don’t Pass Me By",
+      "id": null
+    },
+    {
+      "title": "Good Night",
+      "id": null
+    },
+    {
+      "title": "Cry Baby Cry",
+      "id": null
+    },
+    {
+      "title": "Blackbird",
+      "id": null
+    },
+    {
+      "title": "Sexy Sadie",
+      "id": null
+    },
+    {
+      "title": "While My Guitar Gently Weeps",
+      "id": null
+    },
+    {
+      "title": "Not Guilty",
+      "id": null
+    },
+    {
+      "title": "Mother Nature’s Son",
+      "id": null
+    },
+    {
+      "title": "Rocky Raccoon",
+      "id": null
+    },
+    {
+      "title": "What’s the New Mary Jane",
+      "id": null
+    },
+    {
+      "title": "Step Inside Love / Los Paranoias",
+      "id": null
+    },
+    {
+      "title": "I’m So Tired",
+      "id": null
+    },
+    {
+      "title": "I Will",
+      "id": null
+    },
+    {
+      "title": "Why Don’t We Do It in the Road?",
+      "id": null
+    },
+    {
+      "title": "Julia",
+      "id": null
+    },
+    {
+      "title": "I’ve Got a Feeling",
+      "id": null
+    },
+    {
+      "title": "She Came In Through the Bathroom Window",
+      "id": null
+    },
+    {
+      "title": "Dig a Pony",
+      "id": null
+    },
+    {
+      "title": "Two of Us",
+      "id": null
+    },
+    {
+      "title": "For You Blue",
+      "id": null
+    },
+    {
+      "title": "Teddy Boy",
+      "id": null
+    },
+    {
+      "title": "Medley: Rip It Up / Shake, Rattle and Roll / Blue Suede Shoes",
+      "id": null
+    },
+    {
+      "title": "Oh! Darling",
+      "id": null
+    },
+    {
+      "title": "All Things Must Pass",
+      "id": null
+    },
+    {
+      "title": "Mailman, Bring Me No More Blues",
+      "id": null
+    },
+    {
+      "title": "Get Back",
+      "id": null
+    },
+    {
+      "title": "Old Brown Shoe",
+      "id": null
+    },
+    {
+      "title": "Octopus’s Garden",
+      "id": null
+    },
+    {
+      "title": "Maxwell’s Silver Hammer",
+      "id": null
+    },
+    {
+      "title": "Come and Get It",
+      "id": null
+    },
+    {
+      "title": "Because",
+      "id": null
+    },
+    {
+      "title": "The End",
+      "id": null
+    }
+  ]
+}

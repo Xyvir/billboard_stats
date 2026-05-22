@@ -1,1 +1,762 @@
-{"id": "anthology-collection-the-beatles", "title": "Anthology Collection", "artist": "The Beatles", "peak": 113, "history": [{"date": "2025-12-06", "rank": 113}]}
+{
+  "id": "anthology-collection-the-beatles",
+  "title": "Anthology Collection",
+  "artist": "The Beatles",
+  "peak": 113,
+  "history": [
+    {
+      "date": "2025-12-06",
+      "rank": 113
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Free as a Bird",
+      "id": "free-as-a-bird-the-beatles"
+    },
+    {
+      "title": "Hallelujah, I Love Her So",
+      "id": "and-i-love-her-the-beatles"
+    },
+    {
+      "title": "You’ll Be Mine",
+      "id": "yellow-submarine-the-beatles"
+    },
+    {
+      "title": "Ain’t She Sweet",
+      "id": "ain-t-she-sweet-the-beatles"
+    },
+    {
+      "title": "Love Me Do",
+      "id": "love-me-do-the-beatles"
+    },
+    {
+      "title": "Please Please Me",
+      "id": "please-please-me-the-beatles"
+    },
+    {
+      "title": "I’ll Get You",
+      "id": "p-s-i-love-you-the-beatles"
+    },
+    {
+      "title": "I Saw Her Standing There",
+      "id": "i-saw-her-standing-there-the-beatles"
+    },
+    {
+      "title": "From Me to You",
+      "id": "from-me-to-you-the-beatles"
+    },
+    {
+      "title": "Roll Over Beethoven",
+      "id": "roll-over-beethoven-the-beatles"
+    },
+    {
+      "title": "She Loves You",
+      "id": "she-loves-you-the-beatles"
+    },
+    {
+      "title": "Twist and Shout",
+      "id": "twist-and-shout-the-beatles"
+    },
+    {
+      "title": "I Want to Hold Your Hand",
+      "id": "i-want-to-hold-your-hand-the-beatles"
+    },
+    {
+      "title": "Can’t Buy Me Love",
+      "id": "can-t-buy-me-love-the-beatles"
+    },
+    {
+      "title": "All My Loving",
+      "id": "all-my-loving-the-beatles"
+    },
+    {
+      "title": "You Can’t Do That",
+      "id": "you-can-t-do-that-the-beatles"
+    },
+    {
+      "title": "And I Love Her",
+      "id": "and-i-love-her-the-beatles"
+    },
+    {
+      "title": "A Hard Day’s Night",
+      "id": "a-hard-day-s-night-the-beatles"
+    },
+    {
+      "title": "I Wanna Be Your Man",
+      "id": "i-want-to-hold-your-hand-the-beatles"
+    },
+    {
+      "title": "Eight Days a Week (sequence)",
+      "id": "eight-days-a-week-the-beatles"
+    },
+    {
+      "title": "Eight Days a Week (complete)",
+      "id": "eight-days-a-week-the-beatles"
+    },
+    {
+      "title": "Real Love",
+      "id": "real-love-the-beatles"
+    },
+    {
+      "title": "Yes It Is",
+      "id": "yes-it-is-the-beatles"
+    },
+    {
+      "title": "Yesterday",
+      "id": "yesterday-the-beatles"
+    },
+    {
+      "title": "I Feel Fine",
+      "id": "i-feel-fine-the-beatles"
+    },
+    {
+      "title": "Ticket to Ride",
+      "id": "ticket-to-ride-the-beatles"
+    },
+    {
+      "title": "Help!",
+      "id": "help-the-beatles"
+    },
+    {
+      "title": "Got to Get You Into My Life",
+      "id": "got-to-get-you-into-my-life-the-beatles"
+    },
+    {
+      "title": "Eleanor Rigby (strings only)",
+      "id": "eleanor-rigby-the-beatles"
+    },
+    {
+      "title": "She’s a Woman",
+      "id": "she-s-a-woman-the-beatles"
+    },
+    {
+      "title": "Strawberry Fields Forever (demo sequence)",
+      "id": "strawberry-fields-forever-the-beatles"
+    },
+    {
+      "title": "Strawberry Fields Forever (take 1)",
+      "id": "strawberry-fields-forever-the-beatles"
+    },
+    {
+      "title": "Strawberry Fields Forever (take 7 & edit piece)",
+      "id": "strawberry-fields-forever-the-beatles"
+    },
+    {
+      "title": "Penny Lane",
+      "id": "penny-lane-the-beatles"
+    },
+    {
+      "title": "Sgt. Pepper’s Lonely Hearts Club Band (reprise)",
+      "id": "sgt-pepper-s-lonely-hearts-club-band-with-a-little-help-from-my-friends-the-beatles"
+    },
+    {
+      "title": "I Am the Walrus",
+      "id": "i-am-the-walrus-the-beatles"
+    },
+    {
+      "title": "Hello, Goodbye",
+      "id": "hello-goodbye-the-beatles"
+    },
+    {
+      "title": "Lady Madonna",
+      "id": "lady-madonna-the-beatles"
+    },
+    {
+      "title": "Ob‐La‐Di, Ob‐La‐Da",
+      "id": "ob-la-di-ob-la-da-the-beatles"
+    },
+    {
+      "title": "Hey Jude",
+      "id": "hey-jude-the-beatles"
+    },
+    {
+      "title": "The Long and Winding Road",
+      "id": "the-long-and-winding-road-for-you-blue-the-beatles"
+    },
+    {
+      "title": "Something",
+      "id": "something-the-beatles"
+    },
+    {
+      "title": "Come Together",
+      "id": "come-together-something-the-beatles"
+    },
+    {
+      "title": "Let It Be",
+      "id": "let-it-be-the-beatles"
+    },
+    {
+      "title": "I Me Mine",
+      "id": "i-feel-fine-the-beatles"
+    },
+    {
+      "title": "I Saw Her Standing There (take 2)",
+      "id": "i-saw-her-standing-there-the-beatles"
+    },
+    {
+      "title": "If I Fell (take 11)",
+      "id": "if-i-fell-the-beatles"
+    },
+    {
+      "title": "Matchbox (take 1)",
+      "id": "matchbox-the-beatles"
+    },
+    {
+      "title": "Got to Get You Into My Life (second version – unnumbered mix)",
+      "id": "got-to-get-you-into-my-life-the-beatles"
+    },
+    {
+      "title": "Strawberry Fields Forever (take 26)",
+      "id": "strawberry-fields-forever-the-beatles"
+    },
+    {
+      "title": "Baby, You’re a Rich Man (takes 11 and 12)",
+      "id": "baby-you-re-a-rich-man-the-beatles"
+    },
+    {
+      "title": "Free as a Bird (2025 mix)",
+      "id": "free-as-a-bird-the-beatles"
+    },
+    {
+      "title": "Real Love (2025 mix)",
+      "id": "real-love-the-beatles"
+    },
+    {
+      "title": "Now and Then",
+      "id": "now-and-then-the-beatles"
+    },
+    {
+      "title": "We Were Four Guys… That’s All (interview)",
+      "id": null
+    },
+    {
+      "title": "That’ll Be the Day",
+      "id": null
+    },
+    {
+      "title": "In Spite of All the Danger",
+      "id": null
+    },
+    {
+      "title": "Sometimes I’d Borrow… Those Still Exist (interview)",
+      "id": null
+    },
+    {
+      "title": "Cayenne",
+      "id": null
+    },
+    {
+      "title": "First of All… It Didn’t Do a Thing Here (interview)",
+      "id": null
+    },
+    {
+      "title": "My Bonnie",
+      "id": null
+    },
+    {
+      "title": "Cry for a Shadow",
+      "id": null
+    },
+    {
+      "title": "Brian Was a Beautiful Guy… He Presented Us Well (interview)",
+      "id": null
+    },
+    {
+      "title": "I Secured Them… A Beatle Drink Even Then (reading)",
+      "id": null
+    },
+    {
+      "title": "Searchin’",
+      "id": null
+    },
+    {
+      "title": "Three Cool Cats",
+      "id": null
+    },
+    {
+      "title": "The Sheik of Araby",
+      "id": null
+    },
+    {
+      "title": "Like Dreamers Do",
+      "id": null
+    },
+    {
+      "title": "Hello Little Girl",
+      "id": null
+    },
+    {
+      "title": "Well, the Recording Test… By My Artists (reading)",
+      "id": null
+    },
+    {
+      "title": "Besame Mucho",
+      "id": null
+    },
+    {
+      "title": "How Do You Do It",
+      "id": null
+    },
+    {
+      "title": "One After 909 (sequence)",
+      "id": null
+    },
+    {
+      "title": "One After 909 (complete)",
+      "id": null
+    },
+    {
+      "title": "Lend Me Your Comb",
+      "id": null
+    },
+    {
+      "title": "We Were Performers… in Britain (interview)",
+      "id": null
+    },
+    {
+      "title": "Money (That’s What I Want)",
+      "id": null
+    },
+    {
+      "title": "You Really Got a Hold on Me",
+      "id": null
+    },
+    {
+      "title": "Till There Was You",
+      "id": null
+    },
+    {
+      "title": "This Boy",
+      "id": null
+    },
+    {
+      "title": "Boys, What I Was Thinking (comedy)",
+      "id": null
+    },
+    {
+      "title": "Moonlight Bay",
+      "id": null
+    },
+    {
+      "title": "Long Tall Sally",
+      "id": null
+    },
+    {
+      "title": "Boys",
+      "id": null
+    },
+    {
+      "title": "Shout",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Back (take 2)",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Back (take 3)",
+      "id": null
+    },
+    {
+      "title": "You Know What to Do",
+      "id": null
+    },
+    {
+      "title": "No Reply (demo)",
+      "id": null
+    },
+    {
+      "title": "Mr. Moonlight",
+      "id": null
+    },
+    {
+      "title": "Leave My Kitten Alone",
+      "id": null
+    },
+    {
+      "title": "No Reply",
+      "id": null
+    },
+    {
+      "title": "Kansas City / Hey‐Hey‐Hey‐Hey!",
+      "id": null
+    },
+    {
+      "title": "I’m Down",
+      "id": null
+    },
+    {
+      "title": "You’ve Got to Hide Your Love Away",
+      "id": null
+    },
+    {
+      "title": "If You’ve Got Trouble",
+      "id": null
+    },
+    {
+      "title": "That Means a Lot",
+      "id": null
+    },
+    {
+      "title": "It’s Only Love",
+      "id": null
+    },
+    {
+      "title": "Everybody’s Trying to Be My Baby",
+      "id": null
+    },
+    {
+      "title": "Norwegian Wood (This Bird Has Flown)",
+      "id": null
+    },
+    {
+      "title": "I’m Looking Through You",
+      "id": null
+    },
+    {
+      "title": "12‐Bar Original",
+      "id": null
+    },
+    {
+      "title": "Tomorrow Never Knows",
+      "id": null
+    },
+    {
+      "title": "And Your Bird Can Sing",
+      "id": null
+    },
+    {
+      "title": "Taxman",
+      "id": null
+    },
+    {
+      "title": "I’m Only Sleeping (rehearsal)",
+      "id": null
+    },
+    {
+      "title": "I’m Only Sleeping (take 1)",
+      "id": null
+    },
+    {
+      "title": "Rock and Roll Music",
+      "id": null
+    },
+    {
+      "title": "A Day in the Life",
+      "id": null
+    },
+    {
+      "title": "Good Morning Good Morning",
+      "id": null
+    },
+    {
+      "title": "Only a Northern Song",
+      "id": null
+    },
+    {
+      "title": "Being for the Benefit of Mr. Kite! (takes 1 and 2)",
+      "id": null
+    },
+    {
+      "title": "Being for the Benefit of Mr. Kite! (take 7)",
+      "id": null
+    },
+    {
+      "title": "Lucy in the Sky With Diamonds",
+      "id": null
+    },
+    {
+      "title": "Within You Without You (instrumental)",
+      "id": null
+    },
+    {
+      "title": "You Know My Name (Look Up the Number)",
+      "id": null
+    },
+    {
+      "title": "The Fool on the Hill (demo)",
+      "id": null
+    },
+    {
+      "title": "Your Mother Should Know",
+      "id": null
+    },
+    {
+      "title": "The Fool on the Hill (take 4)",
+      "id": null
+    },
+    {
+      "title": "Across the Universe",
+      "id": null
+    },
+    {
+      "title": "A Beginning",
+      "id": null
+    },
+    {
+      "title": "Happiness Is a Warm Gun",
+      "id": null
+    },
+    {
+      "title": "Helter Skelter",
+      "id": null
+    },
+    {
+      "title": "Mean Mr. Mustard",
+      "id": null
+    },
+    {
+      "title": "Polythene Pam",
+      "id": null
+    },
+    {
+      "title": "Glass Onion",
+      "id": null
+    },
+    {
+      "title": "Junk",
+      "id": null
+    },
+    {
+      "title": "Piggies",
+      "id": null
+    },
+    {
+      "title": "Honey Pie",
+      "id": null
+    },
+    {
+      "title": "Don’t Pass Me By",
+      "id": null
+    },
+    {
+      "title": "Good Night",
+      "id": null
+    },
+    {
+      "title": "Cry Baby Cry",
+      "id": null
+    },
+    {
+      "title": "Blackbird",
+      "id": null
+    },
+    {
+      "title": "Sexy Sadie",
+      "id": null
+    },
+    {
+      "title": "While My Guitar Gently Weeps",
+      "id": null
+    },
+    {
+      "title": "Not Guilty",
+      "id": null
+    },
+    {
+      "title": "Mother Nature’s Son",
+      "id": null
+    },
+    {
+      "title": "Rocky Raccoon",
+      "id": null
+    },
+    {
+      "title": "What’s the New Mary Jane",
+      "id": null
+    },
+    {
+      "title": "Step Inside Love / Los Paranoias",
+      "id": null
+    },
+    {
+      "title": "I’m So Tired",
+      "id": null
+    },
+    {
+      "title": "I Will",
+      "id": null
+    },
+    {
+      "title": "Why Don’t We Do It in the Road?",
+      "id": null
+    },
+    {
+      "title": "Julia",
+      "id": null
+    },
+    {
+      "title": "I’ve Got a Feeling",
+      "id": null
+    },
+    {
+      "title": "She Came In Through the Bathroom Window",
+      "id": null
+    },
+    {
+      "title": "Dig a Pony",
+      "id": null
+    },
+    {
+      "title": "Two of Us",
+      "id": null
+    },
+    {
+      "title": "For You Blue",
+      "id": null
+    },
+    {
+      "title": "Teddy Boy",
+      "id": null
+    },
+    {
+      "title": "Medley: Rip It Up / Shake, Rattle and Roll / Blue Suede Shoes",
+      "id": null
+    },
+    {
+      "title": "Oh! Darling",
+      "id": null
+    },
+    {
+      "title": "All Things Must Pass",
+      "id": null
+    },
+    {
+      "title": "Mailman, Bring Me No More Blues",
+      "id": null
+    },
+    {
+      "title": "Get Back",
+      "id": null
+    },
+    {
+      "title": "Old Brown Shoe",
+      "id": null
+    },
+    {
+      "title": "Octopus’s Garden",
+      "id": null
+    },
+    {
+      "title": "Maxwell’s Silver Hammer",
+      "id": null
+    },
+    {
+      "title": "Come and Get It",
+      "id": null
+    },
+    {
+      "title": "Because",
+      "id": null
+    },
+    {
+      "title": "The End",
+      "id": null
+    },
+    {
+      "title": "Money (That’s What I Want) (studio outtake)",
+      "id": null
+    },
+    {
+      "title": "Tell Me Why (takes 4 and 5)",
+      "id": null
+    },
+    {
+      "title": "Every Little Thing (takes 6 and 7)",
+      "id": null
+    },
+    {
+      "title": "I Need You (take 1)",
+      "id": null
+    },
+    {
+      "title": "I’ve Just Seen a Face (take 3)",
+      "id": null
+    },
+    {
+      "title": "In My Life (take 1)",
+      "id": null
+    },
+    {
+      "title": "Nowhere Man (first version – take 2)",
+      "id": null
+    },
+    {
+      "title": "Love You To (take 7)",
+      "id": null
+    },
+    {
+      "title": "She’s Leaving Home (take 1 / instrumental)",
+      "id": null
+    },
+    {
+      "title": "All You Need Is Love (rehearsal for BBC Broadcast)",
+      "id": null
+    },
+    {
+      "title": "The Fool on the Hill (take 5 – instrumental)",
+      "id": null
+    },
+    {
+      "title": "I Am the Walrus (take 19 – strings, brass, clarinet overdub)",
+      "id": null
+    },
+    {
+      "title": "Hey Bulldog (take 4 – instrumental)",
+      "id": null
+    },
+    {
+      "title": "Good Night (take 10 with a guitar part from take 5)",
+      "id": null
+    },
+    {
+      "title": "While My Guitar Gently Weeps (third version – take 27)",
+      "id": null
+    },
+    {
+      "title": "(You’re So Square) Baby, I Don’t Care (studio jam)",
+      "id": null
+    },
+    {
+      "title": "Helter Skelter (second version – take 17)",
+      "id": null
+    },
+    {
+      "title": "I Will (take 29)",
+      "id": null
+    },
+    {
+      "title": "Can You Take Me Back? (take 1)",
+      "id": null
+    },
+    {
+      "title": "Julia (two rehearsals)",
+      "id": null
+    },
+    {
+      "title": "Get Back (take 8)",
+      "id": null
+    },
+    {
+      "title": "Octopus’s Garden (rehearsal, mono)",
+      "id": null
+    },
+    {
+      "title": "Don’t Let Me Down (first rooftop performance)",
+      "id": null
+    },
+    {
+      "title": "You Never Give Me Your Money (take 36)",
+      "id": null
+    },
+    {
+      "title": "Here Comes the Sun (take 9)",
+      "id": null
+    },
+    {
+      "title": "Something (take 39 / instrumental / strings only)",
+      "id": null
+    }
+  ]
+}
