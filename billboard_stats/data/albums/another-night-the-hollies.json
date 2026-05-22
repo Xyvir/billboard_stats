@@ -1,1 +1,90 @@
-{"id": "another-night-the-hollies", "title": "Another Night", "artist": "The Hollies", "peak": 123, "history": [{"date": "1975-03-29", "rank": 166}, {"date": "1975-04-05", "rank": 134}, {"date": "1975-04-12", "rank": 123}, {"date": "1975-04-19", "rank": 123}, {"date": "1975-04-26", "rank": 165}, {"date": "1975-07-05", "rank": 181}, {"date": "1975-07-12", "rank": 169}, {"date": "1975-07-19", "rank": 158}, {"date": "1975-07-26", "rank": 148}, {"date": "1975-08-02", "rank": 148}]}
+{
+  "id": "another-night-the-hollies",
+  "title": "Another Night",
+  "artist": "The Hollies",
+  "peak": 123,
+  "history": [
+    {
+      "date": "1975-03-29",
+      "rank": 166
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 134
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 123
+    },
+    {
+      "date": "1975-04-19",
+      "rank": 123
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 165
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 181
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 169
+    },
+    {
+      "date": "1975-07-19",
+      "rank": 158
+    },
+    {
+      "date": "1975-07-26",
+      "rank": 148
+    },
+    {
+      "date": "1975-08-02",
+      "rank": 148
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Another Night",
+      "id": "another-night-the-hollies"
+    },
+    {
+      "title": "4th of July, Asbury Park (Sandy)",
+      "id": null
+    },
+    {
+      "title": "Lonely Hobo Lullaby",
+      "id": null
+    },
+    {
+      "title": "Second Hand Hangups",
+      "id": null
+    },
+    {
+      "title": "Time Machine Jive",
+      "id": null
+    },
+    {
+      "title": "I’m Down",
+      "id": null
+    },
+    {
+      "title": "Look Out Johnny",
+      "id": null
+    },
+    {
+      "title": "Give Me Time",
+      "id": null
+    },
+    {
+      "title": "You Gave Me Life (With That Look in Your Eyes)",
+      "id": null
+    },
+    {
+      "title": "Lucy",
+      "id": null
+    }
+  ]
+}

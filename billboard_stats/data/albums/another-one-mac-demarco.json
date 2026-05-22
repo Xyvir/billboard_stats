@@ -1,1 +1,82 @@
-{"id": "another-one-mac-demarco", "title": "Another One", "artist": "Mac DeMarco", "peak": 25, "history": [{"date": "2015-08-29", "rank": 25}, {"date": "2015-09-05", "rank": 136}]}
+{
+  "id": "another-one-mac-demarco",
+  "title": "Another One",
+  "artist": "Mac DeMarco",
+  "peak": 25,
+  "history": [
+    {
+      "date": "2015-08-29",
+      "rank": 25
+    },
+    {
+      "date": "2015-09-05",
+      "rank": 136
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No Other Heart",
+      "id": "heart-to-heart-mac-demarco"
+    },
+    {
+      "title": "A Heart Like Hers",
+      "id": "heart-to-heart-mac-demarco"
+    },
+    {
+      "title": "The Way You’d Love Her",
+      "id": null
+    },
+    {
+      "title": "Another One",
+      "id": null
+    },
+    {
+      "title": "Just to Put Me Down",
+      "id": null
+    },
+    {
+      "title": "I've Been Waiting for Her",
+      "id": null
+    },
+    {
+      "title": "Without Me",
+      "id": null
+    },
+    {
+      "title": "My House by the Water",
+      "id": null
+    },
+    {
+      "title": "The Way You’d Love Her Instrumental",
+      "id": null
+    },
+    {
+      "title": "Another (Instrumental) One",
+      "id": null
+    },
+    {
+      "title": "No Other Instrumental Heart",
+      "id": null
+    },
+    {
+      "title": "Just to Put Me Down Instrumental?",
+      "id": null
+    },
+    {
+      "title": "A (Instrumental) Heart Like Hers",
+      "id": null
+    },
+    {
+      "title": "I've Been Waiting for Her Instrumental",
+      "id": null
+    },
+    {
+      "title": "Instrumental Without Me",
+      "id": null
+    },
+    {
+      "title": "My Instrumental House by the Water",
+      "id": null
+    }
+  ]
+}

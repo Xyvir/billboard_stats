@@ -1,1 +1,166 @@
-{"id": "another-step-kim-wilde", "title": "Another Step", "artist": "Kim Wilde", "peak": 40, "history": [{"date": "1987-04-04", "rank": 185}, {"date": "1987-04-11", "rank": 155}, {"date": "1987-04-18", "rank": 115}, {"date": "1987-04-25", "rank": 103}, {"date": "1987-05-02", "rank": 65}, {"date": "1987-05-09", "rank": 60}, {"date": "1987-05-16", "rank": 52}, {"date": "1987-05-23", "rank": 49}, {"date": "1987-05-30", "rank": 44}, {"date": "1987-06-06", "rank": 42}, {"date": "1987-06-13", "rank": 40}, {"date": "1987-06-20", "rank": 40}, {"date": "1987-06-27", "rank": 50}, {"date": "1987-07-04", "rank": 52}, {"date": "1987-07-11", "rank": 48}, {"date": "1987-07-18", "rank": 65}, {"date": "1987-07-25", "rank": 70}, {"date": "1987-08-01", "rank": 59}, {"date": "1987-08-08", "rank": 66}, {"date": "1987-08-15", "rank": 76}, {"date": "1987-08-22", "rank": 83}, {"date": "1987-08-29", "rank": 87}, {"date": "1987-09-05", "rank": 122}, {"date": "1987-09-12", "rank": 138}, {"date": "1987-09-19", "rank": 159}, {"date": "1987-09-26", "rank": 191}]}
+{
+  "id": "another-step-kim-wilde",
+  "title": "Another Step",
+  "artist": "Kim Wilde",
+  "peak": 40,
+  "history": [
+    {
+      "date": "1987-04-04",
+      "rank": 185
+    },
+    {
+      "date": "1987-04-11",
+      "rank": 155
+    },
+    {
+      "date": "1987-04-18",
+      "rank": 115
+    },
+    {
+      "date": "1987-04-25",
+      "rank": 103
+    },
+    {
+      "date": "1987-05-02",
+      "rank": 65
+    },
+    {
+      "date": "1987-05-09",
+      "rank": 60
+    },
+    {
+      "date": "1987-05-16",
+      "rank": 52
+    },
+    {
+      "date": "1987-05-23",
+      "rank": 49
+    },
+    {
+      "date": "1987-05-30",
+      "rank": 44
+    },
+    {
+      "date": "1987-06-06",
+      "rank": 42
+    },
+    {
+      "date": "1987-06-13",
+      "rank": 40
+    },
+    {
+      "date": "1987-06-20",
+      "rank": 40
+    },
+    {
+      "date": "1987-06-27",
+      "rank": 50
+    },
+    {
+      "date": "1987-07-04",
+      "rank": 52
+    },
+    {
+      "date": "1987-07-11",
+      "rank": 48
+    },
+    {
+      "date": "1987-07-18",
+      "rank": 65
+    },
+    {
+      "date": "1987-07-25",
+      "rank": 70
+    },
+    {
+      "date": "1987-08-01",
+      "rank": 59
+    },
+    {
+      "date": "1987-08-08",
+      "rank": 66
+    },
+    {
+      "date": "1987-08-15",
+      "rank": 76
+    },
+    {
+      "date": "1987-08-22",
+      "rank": 83
+    },
+    {
+      "date": "1987-08-29",
+      "rank": 87
+    },
+    {
+      "date": "1987-09-05",
+      "rank": 122
+    },
+    {
+      "date": "1987-09-12",
+      "rank": 138
+    },
+    {
+      "date": "1987-09-19",
+      "rank": 159
+    },
+    {
+      "date": "1987-09-26",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Keep Me Hangin’ On",
+      "id": "you-keep-me-hangin-on-kim-wilde"
+    },
+    {
+      "title": "Say You Really Want Me",
+      "id": "say-you-really-want-me-kim-wilde"
+    },
+    {
+      "title": "Hit Him",
+      "id": null
+    },
+    {
+      "title": "Another Step (Closer to You)",
+      "id": null
+    },
+    {
+      "title": "The Thrill of It",
+      "id": null
+    },
+    {
+      "title": "I’ve Got So Much Love",
+      "id": null
+    },
+    {
+      "title": "Victim",
+      "id": null
+    },
+    {
+      "title": "Schoolgirl",
+      "id": null
+    },
+    {
+      "title": "She Hasn’t Got Time for You",
+      "id": null
+    },
+    {
+      "title": "Brothers",
+      "id": null
+    },
+    {
+      "title": "Missing",
+      "id": null
+    },
+    {
+      "title": "How Do You Want My Love",
+      "id": null
+    },
+    {
+      "title": "Don’t Say Nothing’s Changed",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,338 @@
-{"id": "another-level-blackstreet", "title": "Another Level", "artist": "Blackstreet", "peak": 3, "history": [{"date": "1996-09-28", "rank": 3}, {"date": "1996-10-05", "rank": 5}, {"date": "1996-10-12", "rank": 5}, {"date": "1996-10-19", "rank": 10}, {"date": "1996-10-26", "rank": 11}, {"date": "1996-11-02", "rank": 14}, {"date": "1996-11-09", "rank": 15}, {"date": "1996-11-16", "rank": 18}, {"date": "1996-11-23", "rank": 20}, {"date": "1996-11-30", "rank": 25}, {"date": "1996-12-07", "rank": 31}, {"date": "1996-12-14", "rank": 24}, {"date": "1996-12-21", "rank": 24}, {"date": "1996-12-28", "rank": 24}, {"date": "1997-01-04", "rank": 24}, {"date": "1997-01-11", "rank": 19}, {"date": "1997-01-18", "rank": 16}, {"date": "1997-01-25", "rank": 14}, {"date": "1997-02-01", "rank": 15}, {"date": "1997-02-08", "rank": 14}, {"date": "1997-02-15", "rank": 17}, {"date": "1997-02-22", "rank": 17}, {"date": "1997-03-01", "rank": 17}, {"date": "1997-03-08", "rank": 15}, {"date": "1997-03-15", "rank": 12}, {"date": "1997-03-22", "rank": 13}, {"date": "1997-03-29", "rank": 12}, {"date": "1997-04-05", "rank": 13}, {"date": "1997-04-12", "rank": 15}, {"date": "1997-04-19", "rank": 11}, {"date": "1997-04-26", "rank": 10}, {"date": "1997-05-03", "rank": 9}, {"date": "1997-05-10", "rank": 12}, {"date": "1997-05-17", "rank": 14}, {"date": "1997-05-24", "rank": 14}, {"date": "1997-05-31", "rank": 14}, {"date": "1997-06-07", "rank": 23}, {"date": "1997-06-14", "rank": 23}, {"date": "1997-06-21", "rank": 27}, {"date": "1997-06-28", "rank": 36}, {"date": "1997-07-05", "rank": 43}, {"date": "1997-07-12", "rank": 52}, {"date": "1997-07-19", "rank": 49}, {"date": "1997-07-26", "rank": 57}, {"date": "1997-08-02", "rank": 57}, {"date": "1997-08-09", "rank": 55}, {"date": "1997-08-16", "rank": 67}, {"date": "1997-08-23", "rank": 66}, {"date": "1997-08-30", "rank": 75}, {"date": "1997-09-06", "rank": 81}, {"date": "1997-09-13", "rank": 99}, {"date": "1997-09-20", "rank": 91}, {"date": "1997-09-27", "rank": 94}, {"date": "1997-10-04", "rank": 100}, {"date": "1997-10-11", "rank": 119}, {"date": "1997-10-18", "rank": 145}, {"date": "1997-10-25", "rank": 159}, {"date": "1997-11-01", "rank": 164}, {"date": "1997-11-08", "rank": 172}, {"date": "1997-11-15", "rank": 200}]}
+{
+  "id": "another-level-blackstreet",
+  "title": "Another Level",
+  "artist": "Blackstreet",
+  "peak": 3,
+  "history": [
+    {
+      "date": "1996-09-28",
+      "rank": 3
+    },
+    {
+      "date": "1996-10-05",
+      "rank": 5
+    },
+    {
+      "date": "1996-10-12",
+      "rank": 5
+    },
+    {
+      "date": "1996-10-19",
+      "rank": 10
+    },
+    {
+      "date": "1996-10-26",
+      "rank": 11
+    },
+    {
+      "date": "1996-11-02",
+      "rank": 14
+    },
+    {
+      "date": "1996-11-09",
+      "rank": 15
+    },
+    {
+      "date": "1996-11-16",
+      "rank": 18
+    },
+    {
+      "date": "1996-11-23",
+      "rank": 20
+    },
+    {
+      "date": "1996-11-30",
+      "rank": 25
+    },
+    {
+      "date": "1996-12-07",
+      "rank": 31
+    },
+    {
+      "date": "1996-12-14",
+      "rank": 24
+    },
+    {
+      "date": "1996-12-21",
+      "rank": 24
+    },
+    {
+      "date": "1996-12-28",
+      "rank": 24
+    },
+    {
+      "date": "1997-01-04",
+      "rank": 24
+    },
+    {
+      "date": "1997-01-11",
+      "rank": 19
+    },
+    {
+      "date": "1997-01-18",
+      "rank": 16
+    },
+    {
+      "date": "1997-01-25",
+      "rank": 14
+    },
+    {
+      "date": "1997-02-01",
+      "rank": 15
+    },
+    {
+      "date": "1997-02-08",
+      "rank": 14
+    },
+    {
+      "date": "1997-02-15",
+      "rank": 17
+    },
+    {
+      "date": "1997-02-22",
+      "rank": 17
+    },
+    {
+      "date": "1997-03-01",
+      "rank": 17
+    },
+    {
+      "date": "1997-03-08",
+      "rank": 15
+    },
+    {
+      "date": "1997-03-15",
+      "rank": 12
+    },
+    {
+      "date": "1997-03-22",
+      "rank": 13
+    },
+    {
+      "date": "1997-03-29",
+      "rank": 12
+    },
+    {
+      "date": "1997-04-05",
+      "rank": 13
+    },
+    {
+      "date": "1997-04-12",
+      "rank": 15
+    },
+    {
+      "date": "1997-04-19",
+      "rank": 11
+    },
+    {
+      "date": "1997-04-26",
+      "rank": 10
+    },
+    {
+      "date": "1997-05-03",
+      "rank": 9
+    },
+    {
+      "date": "1997-05-10",
+      "rank": 12
+    },
+    {
+      "date": "1997-05-17",
+      "rank": 14
+    },
+    {
+      "date": "1997-05-24",
+      "rank": 14
+    },
+    {
+      "date": "1997-05-31",
+      "rank": 14
+    },
+    {
+      "date": "1997-06-07",
+      "rank": 23
+    },
+    {
+      "date": "1997-06-14",
+      "rank": 23
+    },
+    {
+      "date": "1997-06-21",
+      "rank": 27
+    },
+    {
+      "date": "1997-06-28",
+      "rank": 36
+    },
+    {
+      "date": "1997-07-05",
+      "rank": 43
+    },
+    {
+      "date": "1997-07-12",
+      "rank": 52
+    },
+    {
+      "date": "1997-07-19",
+      "rank": 49
+    },
+    {
+      "date": "1997-07-26",
+      "rank": 57
+    },
+    {
+      "date": "1997-08-02",
+      "rank": 57
+    },
+    {
+      "date": "1997-08-09",
+      "rank": 55
+    },
+    {
+      "date": "1997-08-16",
+      "rank": 67
+    },
+    {
+      "date": "1997-08-23",
+      "rank": 66
+    },
+    {
+      "date": "1997-08-30",
+      "rank": 75
+    },
+    {
+      "date": "1997-09-06",
+      "rank": 81
+    },
+    {
+      "date": "1997-09-13",
+      "rank": 99
+    },
+    {
+      "date": "1997-09-20",
+      "rank": 91
+    },
+    {
+      "date": "1997-09-27",
+      "rank": 94
+    },
+    {
+      "date": "1997-10-04",
+      "rank": 100
+    },
+    {
+      "date": "1997-10-11",
+      "rank": 119
+    },
+    {
+      "date": "1997-10-18",
+      "rank": 145
+    },
+    {
+      "date": "1997-10-25",
+      "rank": 159
+    },
+    {
+      "date": "1997-11-01",
+      "rank": 164
+    },
+    {
+      "date": "1997-11-08",
+      "rank": 172
+    },
+    {
+      "date": "1997-11-15",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Never Gonna Let You Go",
+      "id": "before-i-let-you-go-blackstreet"
+    },
+    {
+      "title": "Black & Street Intro",
+      "id": null
+    },
+    {
+      "title": "This Is How We Roll",
+      "id": null
+    },
+    {
+      "title": "No Diggity",
+      "id": null
+    },
+    {
+      "title": "Fix",
+      "id": null
+    },
+    {
+      "title": "Good Lovin’",
+      "id": null
+    },
+    {
+      "title": "Let’s Stay in Love",
+      "id": null
+    },
+    {
+      "title": "We Gonna Take U Back (lude) / Don’t Leave Me",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be Your Man",
+      "id": null
+    },
+    {
+      "title": "Taja’s Lude (interlude)",
+      "id": null
+    },
+    {
+      "title": "My Paradise (interlude)",
+      "id": null
+    },
+    {
+      "title": "Deja’s Poem",
+      "id": null
+    },
+    {
+      "title": "(Money Can’t) Buy Me Love",
+      "id": null
+    },
+    {
+      "title": "Blackstreet (on the Radio) (radio interview)",
+      "id": null
+    },
+    {
+      "title": "I Can’t Get You (Out of My Mind)",
+      "id": null
+    },
+    {
+      "title": "I’ll Give It to You",
+      "id": null
+    },
+    {
+      "title": "Happy Song (Tonite)",
+      "id": null
+    },
+    {
+      "title": "Motherlude",
+      "id": null
+    },
+    {
+      "title": "The Lord Is Real (Time Will Reveal)",
+      "id": null
+    },
+    {
+      "title": "No Diggity (Jungle mix)",
+      "id": null
+    },
+    {
+      "title": "Don’t Leave (Goodbye remix)",
+      "id": null
+    },
+    {
+      "title": "Fix (Linslee mix)",
+      "id": null
+    }
+  ]
+}

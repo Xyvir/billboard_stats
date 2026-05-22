@@ -1,1 +1,86 @@
-{"id": "another-journal-entry-barlowgirl", "title": "Another Journal Entry", "artist": "BarlowGirl", "peak": 85, "history": [{"date": "2005-10-15", "rank": 85}, {"date": "2005-10-22", "rank": 145}, {"date": "2005-10-29", "rank": 184}, {"date": "2005-11-12", "rank": 196}, {"date": "2006-09-23", "rank": 192}, {"date": "2006-09-30", "rank": 177}, {"date": "2006-12-09", "rank": 197}]}
+{
+  "id": "another-journal-entry-barlowgirl",
+  "title": "Another Journal Entry",
+  "artist": "BarlowGirl",
+  "peak": 85,
+  "history": [
+    {
+      "date": "2005-10-15",
+      "rank": 85
+    },
+    {
+      "date": "2005-10-22",
+      "rank": 145
+    },
+    {
+      "date": "2005-10-29",
+      "rank": 184
+    },
+    {
+      "date": "2005-11-12",
+      "rank": 196
+    },
+    {
+      "date": "2006-09-23",
+      "rank": 192
+    },
+    {
+      "date": "2006-09-30",
+      "rank": 177
+    },
+    {
+      "date": "2006-12-09",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Grey",
+      "id": null
+    },
+    {
+      "title": "Let Go",
+      "id": null
+    },
+    {
+      "title": "I Need You to Love Me",
+      "id": null
+    },
+    {
+      "title": "Enough Edit | Del",
+      "id": null
+    },
+    {
+      "title": "Porcelain Heart",
+      "id": null
+    },
+    {
+      "title": "Take Me Away",
+      "id": null
+    },
+    {
+      "title": "Psalm 73 (My God's Enough)",
+      "id": null
+    },
+    {
+      "title": "5 Minutes of Fame",
+      "id": null
+    },
+    {
+      "title": "Thoughts of You",
+      "id": null
+    },
+    {
+      "title": "No One Like You",
+      "id": null
+    },
+    {
+      "title": "Never Alone (acoustic version)",
+      "id": null
+    },
+    {
+      "title": "Never Alone (remix)",
+      "id": null
+    }
+  ]
+}

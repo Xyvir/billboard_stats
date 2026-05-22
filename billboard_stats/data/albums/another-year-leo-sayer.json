@@ -1,1 +1,78 @@
-{"id": "another-year-leo-sayer", "title": "Another Year", "artist": "Leo Sayer", "peak": 125, "history": [{"date": "1975-10-11", "rank": 181}, {"date": "1975-10-18", "rank": 146}, {"date": "1975-10-25", "rank": 134}, {"date": "1975-11-01", "rank": 130}, {"date": "1975-11-08", "rank": 127}, {"date": "1975-11-15", "rank": 125}, {"date": "1975-11-22", "rank": 182}]}
+{
+  "id": "another-year-leo-sayer",
+  "title": "Another Year",
+  "artist": "Leo Sayer",
+  "peak": 125,
+  "history": [
+    {
+      "date": "1975-10-11",
+      "rank": 181
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 146
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 134
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 130
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 127
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 125
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bedsitterland",
+      "id": null
+    },
+    {
+      "title": "Unlucky in Love",
+      "id": null
+    },
+    {
+      "title": "The Last Gig of Johnny B. Goode",
+      "id": null
+    },
+    {
+      "title": "On the Old Dirt Road",
+      "id": null
+    },
+    {
+      "title": "I Will Not Stop Fighting",
+      "id": null
+    },
+    {
+      "title": "Moonlighting",
+      "id": null
+    },
+    {
+      "title": "Streets of Your Town",
+      "id": null
+    },
+    {
+      "title": "The Kid’s Grown Up",
+      "id": null
+    },
+    {
+      "title": "Only Dreaming",
+      "id": null
+    },
+    {
+      "title": "Another Year",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,94 @@
-{"id": "another-minute-cause-and-effect", "title": "Another Minute", "artist": "Cause And Effect", "peak": 141, "history": [{"date": "1992-04-04", "rank": 198}, {"date": "1992-04-11", "rank": 176}, {"date": "1992-04-18", "rank": 191}, {"date": "1992-04-25", "rank": 185}, {"date": "1992-05-02", "rank": 154}, {"date": "1992-05-09", "rank": 141}, {"date": "1992-05-16", "rank": 158}, {"date": "1992-05-23", "rank": 157}, {"date": "1992-05-30", "rank": 152}, {"date": "1992-06-06", "rank": 158}, {"date": "1992-06-13", "rank": 182}]}
+{
+  "id": "another-minute-cause-and-effect",
+  "title": "Another Minute",
+  "artist": "Cause And Effect",
+  "peak": 141,
+  "history": [
+    {
+      "date": "1992-04-04",
+      "rank": 198
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 176
+    },
+    {
+      "date": "1992-04-18",
+      "rank": 191
+    },
+    {
+      "date": "1992-04-25",
+      "rank": 185
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 154
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 141
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 158
+    },
+    {
+      "date": "1992-05-23",
+      "rank": 157
+    },
+    {
+      "date": "1992-05-30",
+      "rank": 152
+    },
+    {
+      "date": "1992-06-06",
+      "rank": 158
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Think You Know Her",
+      "id": "you-think-you-know-her-cause-and-effect"
+    },
+    {
+      "title": "Another Minute",
+      "id": "another-minute-cause-and-effect"
+    },
+    {
+      "title": "You Think You Know Her (Unfaithful Mix)",
+      "id": "you-think-you-know-her-cause-and-effect"
+    },
+    {
+      "title": "Farewell to Arms",
+      "id": null
+    },
+    {
+      "title": "Something New",
+      "id": null
+    },
+    {
+      "title": "The Echoing Green",
+      "id": null
+    },
+    {
+      "title": "What Do You See?",
+      "id": null
+    },
+    {
+      "title": "New World",
+      "id": null
+    },
+    {
+      "title": "Nothing Comes to Mind",
+      "id": null
+    },
+    {
+      "title": "The Beginning of the End",
+      "id": null
+    }
+  ]
+}
