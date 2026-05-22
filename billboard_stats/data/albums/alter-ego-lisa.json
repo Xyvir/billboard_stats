@@ -1,1 +1,74 @@
-{"id": "alter-ego-lisa", "title": "Alter Ego", "artist": "LISA", "peak": 7, "history": [{"date": "2025-03-15", "rank": 7}, {"date": "2025-03-22", "rank": 62}, {"date": "2025-03-29", "rank": 125}, {"date": "2025-04-05", "rank": 143}]}
+{
+  "id": "alter-ego-lisa",
+  "title": "Alter Ego",
+  "artist": "LISA",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2025-03-15",
+      "rank": 7
+    },
+    {
+      "date": "2025-03-22",
+      "rank": 62
+    },
+    {
+      "date": "2025-03-29",
+      "rank": 125
+    },
+    {
+      "date": "2025-04-05",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rockstar",
+      "id": "rockstar-lisa"
+    },
+    {
+      "title": "Elastigirl",
+      "id": null
+    },
+    {
+      "title": "Thunder",
+      "id": null
+    },
+    {
+      "title": "New Woman",
+      "id": null
+    },
+    {
+      "title": "FXCK UP THE WORLD",
+      "id": null
+    },
+    {
+      "title": "Rapunzel",
+      "id": null
+    },
+    {
+      "title": "Moonlit Floor",
+      "id": null
+    },
+    {
+      "title": "When I’m With You",
+      "id": null
+    },
+    {
+      "title": "BADGRRRL",
+      "id": null
+    },
+    {
+      "title": "Lifestyle",
+      "id": null
+    },
+    {
+      "title": "Chill",
+      "id": null
+    },
+    {
+      "title": "Dream",
+      "id": null
+    }
+  ]
+}

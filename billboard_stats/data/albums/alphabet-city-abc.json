@@ -1,1 +1,170 @@
-{"id": "alphabet-city-abc", "title": "Alphabet City", "artist": "ABC", "peak": 48, "history": [{"date": "1987-08-22", "rank": 114}, {"date": "1987-08-29", "rank": 65}, {"date": "1987-09-05", "rank": 54}, {"date": "1987-09-12", "rank": 52}, {"date": "1987-09-19", "rank": 48}, {"date": "1987-09-26", "rank": 48}, {"date": "1987-10-03", "rank": 48}, {"date": "1987-10-10", "rank": 52}, {"date": "1987-10-17", "rank": 58}, {"date": "1987-10-24", "rank": 61}, {"date": "1987-10-31", "rank": 70}, {"date": "1987-11-07", "rank": 78}, {"date": "1987-11-14", "rank": 91}, {"date": "1987-11-21", "rank": 96}, {"date": "1987-11-28", "rank": 96}, {"date": "1987-12-05", "rank": 121}, {"date": "1987-12-12", "rank": 128}, {"date": "1987-12-19", "rank": 146}, {"date": "1987-12-26", "rank": 168}, {"date": "1988-01-02", "rank": 168}, {"date": "1988-01-09", "rank": 175}, {"date": "1988-01-16", "rank": 182}, {"date": "1988-01-23", "rank": 177}, {"date": "1988-01-30", "rank": 166}, {"date": "1988-02-06", "rank": 181}]}
+{
+  "id": "alphabet-city-abc",
+  "title": "Alphabet City",
+  "artist": "ABC",
+  "peak": 48,
+  "history": [
+    {
+      "date": "1987-08-22",
+      "rank": 114
+    },
+    {
+      "date": "1987-08-29",
+      "rank": 65
+    },
+    {
+      "date": "1987-09-05",
+      "rank": 54
+    },
+    {
+      "date": "1987-09-12",
+      "rank": 52
+    },
+    {
+      "date": "1987-09-19",
+      "rank": 48
+    },
+    {
+      "date": "1987-09-26",
+      "rank": 48
+    },
+    {
+      "date": "1987-10-03",
+      "rank": 48
+    },
+    {
+      "date": "1987-10-10",
+      "rank": 52
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 58
+    },
+    {
+      "date": "1987-10-24",
+      "rank": 61
+    },
+    {
+      "date": "1987-10-31",
+      "rank": 70
+    },
+    {
+      "date": "1987-11-07",
+      "rank": 78
+    },
+    {
+      "date": "1987-11-14",
+      "rank": 91
+    },
+    {
+      "date": "1987-11-21",
+      "rank": 96
+    },
+    {
+      "date": "1987-11-28",
+      "rank": 96
+    },
+    {
+      "date": "1987-12-05",
+      "rank": 121
+    },
+    {
+      "date": "1987-12-12",
+      "rank": 128
+    },
+    {
+      "date": "1987-12-19",
+      "rank": 146
+    },
+    {
+      "date": "1987-12-26",
+      "rank": 168
+    },
+    {
+      "date": "1988-01-02",
+      "rank": 168
+    },
+    {
+      "date": "1988-01-09",
+      "rank": 175
+    },
+    {
+      "date": "1988-01-16",
+      "rank": 182
+    },
+    {
+      "date": "1988-01-23",
+      "rank": 177
+    },
+    {
+      "date": "1988-01-30",
+      "rank": 166
+    },
+    {
+      "date": "1988-02-06",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When Smokey Sings",
+      "id": "when-smokey-sings-abc"
+    },
+    {
+      "title": "When Smokey Sings (The Miami mix)",
+      "id": "when-smokey-sings-abc"
+    },
+    {
+      "title": "Avenue A",
+      "id": null
+    },
+    {
+      "title": "The Night You Murdered Love",
+      "id": null
+    },
+    {
+      "title": "Think Again",
+      "id": null
+    },
+    {
+      "title": "Rage and Then Regret",
+      "id": null
+    },
+    {
+      "title": "Ark‐Angel",
+      "id": null
+    },
+    {
+      "title": "King Without a Crown",
+      "id": null
+    },
+    {
+      "title": "Bad Blood",
+      "id": null
+    },
+    {
+      "title": "Jealous Lover",
+      "id": null
+    },
+    {
+      "title": "One Day",
+      "id": null
+    },
+    {
+      "title": "Avenue Z",
+      "id": null
+    },
+    {
+      "title": "Minneapolis",
+      "id": null
+    },
+    {
+      "title": "The Night You Murdered Love (The Whole Story)",
+      "id": null
+    },
+    {
+      "title": "Chicago (abridged)",
+      "id": null
+    }
+  ]
+}
