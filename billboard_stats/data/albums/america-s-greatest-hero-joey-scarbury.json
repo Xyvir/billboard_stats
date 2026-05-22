@@ -1,1 +1,86 @@
-{"id": "america-s-greatest-hero-joey-scarbury", "title": "America's Greatest Hero", "artist": "Joey Scarbury", "peak": 104, "history": [{"date": "1981-08-22", "rank": 167}, {"date": "1981-08-29", "rank": 138}, {"date": "1981-09-05", "rank": 130}, {"date": "1981-09-12", "rank": 114}, {"date": "1981-09-19", "rank": 104}, {"date": "1981-09-26", "rank": 104}, {"date": "1981-10-03", "rank": 120}, {"date": "1981-10-10", "rank": 178}, {"date": "1981-10-17", "rank": 181}]}
+{
+  "id": "america-s-greatest-hero-joey-scarbury",
+  "title": "America's Greatest Hero",
+  "artist": "Joey Scarbury",
+  "peak": 104,
+  "history": [
+    {
+      "date": "1981-08-22",
+      "rank": 167
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 138
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 130
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 114
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 104
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 104
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 120
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 178
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Believe It or Not (from “Greatest American Hero”)",
+      "id": "theme-from-greatest-american-hero-believe-it-or-not-joey-scarbury"
+    },
+    {
+      "title": "When She Dances",
+      "id": "when-she-dances-joey-scarbury"
+    },
+    {
+      "title": "Love Me Like the Last Time",
+      "id": null
+    },
+    {
+      "title": "Stolen Night",
+      "id": null
+    },
+    {
+      "title": "There Is a River",
+      "id": null
+    },
+    {
+      "title": "Everything but Love",
+      "id": null
+    },
+    {
+      "title": "Take This Heart of Mine",
+      "id": null
+    },
+    {
+      "title": "That Little Bit of Us",
+      "id": null
+    },
+    {
+      "title": "Some of My Old Friends",
+      "id": null
+    },
+    {
+      "title": "Down the Backstairs of My Life",
+      "id": null
+    }
+  ]
+}

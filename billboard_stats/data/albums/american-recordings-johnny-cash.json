@@ -1,1 +1,98 @@
-{"id": "american-recordings-johnny-cash", "title": "American Recordings", "artist": "Johnny Cash", "peak": 110, "history": [{"date": "1994-05-14", "rank": 128}, {"date": "1994-05-21", "rank": 110}, {"date": "1994-05-28", "rank": 121}, {"date": "1994-06-04", "rank": 129}, {"date": "1994-06-11", "rank": 136}, {"date": "1994-06-18", "rank": 148}, {"date": "1994-06-25", "rank": 152}, {"date": "1994-07-02", "rank": 125}, {"date": "1994-07-09", "rank": 172}]}
+{
+  "id": "american-recordings-johnny-cash",
+  "title": "American Recordings",
+  "artist": "Johnny Cash",
+  "peak": 110,
+  "history": [
+    {
+      "date": "1994-05-14",
+      "rank": 128
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 110
+    },
+    {
+      "date": "1994-05-28",
+      "rank": 121
+    },
+    {
+      "date": "1994-06-04",
+      "rank": 129
+    },
+    {
+      "date": "1994-06-11",
+      "rank": 136
+    },
+    {
+      "date": "1994-06-18",
+      "rank": 148
+    },
+    {
+      "date": "1994-06-25",
+      "rank": 152
+    },
+    {
+      "date": "1994-07-02",
+      "rank": 125
+    },
+    {
+      "date": "1994-07-09",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tennessee Stud",
+      "id": "tennessee-flat-top-box-johnny-cash"
+    },
+    {
+      "title": "Delia’s Gone",
+      "id": null
+    },
+    {
+      "title": "Let the Train Blow the Whistle",
+      "id": null
+    },
+    {
+      "title": "The Beast in Me",
+      "id": null
+    },
+    {
+      "title": "Drive On",
+      "id": null
+    },
+    {
+      "title": "Why Me Lord",
+      "id": null
+    },
+    {
+      "title": "Thirteen",
+      "id": null
+    },
+    {
+      "title": "Oh, Bury Me Not (Introduction: A Cowboy’s Prayer)",
+      "id": null
+    },
+    {
+      "title": "Bird on a Wire",
+      "id": null
+    },
+    {
+      "title": "Down There by the Train",
+      "id": null
+    },
+    {
+      "title": "Redemption",
+      "id": null
+    },
+    {
+      "title": "Like a Soldier",
+      "id": null
+    },
+    {
+      "title": "The Man Who Couldn’t Cry",
+      "id": null
+    }
+  ]
+}

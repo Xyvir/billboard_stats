@@ -1,1 +1,74 @@
-{"id": "america-thirty-seconds-to-mars", "title": "America", "artist": "Thirty Seconds To Mars", "peak": 2, "history": [{"date": "2018-04-21", "rank": 2}, {"date": "2018-04-28", "rank": 72}, {"date": "2018-05-05", "rank": 92}, {"date": "2018-05-12", "rank": 96}]}
+{
+  "id": "america-thirty-seconds-to-mars",
+  "title": "America",
+  "artist": "Thirty Seconds To Mars",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2018-04-21",
+      "rank": 2
+    },
+    {
+      "date": "2018-04-28",
+      "rank": 72
+    },
+    {
+      "date": "2018-05-05",
+      "rank": 92
+    },
+    {
+      "date": "2018-05-12",
+      "rank": 96
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Walk on Water",
+      "id": null
+    },
+    {
+      "title": "Dangerous Night",
+      "id": null
+    },
+    {
+      "title": "Rescue Me",
+      "id": null
+    },
+    {
+      "title": "One Track Mind",
+      "id": null
+    },
+    {
+      "title": "Monolith",
+      "id": null
+    },
+    {
+      "title": "Love Is Madness",
+      "id": null
+    },
+    {
+      "title": "Great Wide Open",
+      "id": null
+    },
+    {
+      "title": "Hail to the Victor",
+      "id": null
+    },
+    {
+      "title": "Dawn Will Rise",
+      "id": null
+    },
+    {
+      "title": "Remedy",
+      "id": null
+    },
+    {
+      "title": "Live Like a Dream",
+      "id": null
+    },
+    {
+      "title": "Rider",
+      "id": null
+    }
+  ]
+}
