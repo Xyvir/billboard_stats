@@ -1,1 +1,70 @@
-{"id": "all-mixed-up-alexander-o-neal", "title": "All Mixed Up", "artist": "Alexander O'Neal", "peak": 185, "history": [{"date": "1989-02-25", "rank": 189}, {"date": "1989-03-04", "rank": 189}, {"date": "1989-03-11", "rank": 186}, {"date": "1989-03-18", "rank": 185}, {"date": "1989-03-25", "rank": 185}]}
+{
+  "id": "all-mixed-up-alexander-o-neal",
+  "title": "All Mixed Up",
+  "artist": "Alexander O'Neal",
+  "peak": 185,
+  "history": [
+    {
+      "date": "1989-02-25",
+      "rank": 189
+    },
+    {
+      "date": "1989-03-04",
+      "rank": 189
+    },
+    {
+      "date": "1989-03-11",
+      "rank": 186
+    },
+    {
+      "date": "1989-03-18",
+      "rank": 185
+    },
+    {
+      "date": "1989-03-25",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Criticize (remix)",
+      "id": "criticize-alexander-o-neal"
+    },
+    {
+      "title": "Fake 88 (House mix)",
+      "id": null
+    },
+    {
+      "title": "(What Can I Say) To Make You Love Me (Hateful Club mix)",
+      "id": null
+    },
+    {
+      "title": "Never Knew Love Like This (extended version)",
+      "id": null
+    },
+    {
+      "title": "Criticize (Ben Liebrand remix)",
+      "id": null
+    },
+    {
+      "title": "The Lovers (extended version)",
+      "id": null
+    },
+    {
+      "title": "(What Can I Say) To Make You Love Me (Ben Liebrand remix)",
+      "id": null
+    },
+    {
+      "title": "Fake (extended version)",
+      "id": null
+    },
+    {
+      "title": "You Were Meant to Be My Lady (88 Keith Cohen Extended remix)",
+      "id": null
+    },
+    {
+      "title": "Innocent (88 Keith Cohen House mix)",
+      "id": null
+    }
+  ]
+}

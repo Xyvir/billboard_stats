@@ -1,1 +1,98 @@
-{"id": "allies-crosby-stills-nash", "title": "Allies", "artist": "Crosby, Stills & Nash", "peak": 43, "history": [{"date": "1983-07-02", "rank": 150}, {"date": "1983-07-09", "rank": 71}, {"date": "1983-07-16", "rank": 55}, {"date": "1983-07-23", "rank": 49}, {"date": "1983-07-30", "rank": 46}, {"date": "1983-08-06", "rank": 43}, {"date": "1983-08-13", "rank": 43}, {"date": "1983-08-20", "rank": 61}, {"date": "1983-08-27", "rank": 97}, {"date": "1983-09-03", "rank": 124}, {"date": "1983-09-10", "rank": 162}, {"date": "1983-09-17", "rank": 199}]}
+{
+  "id": "allies-crosby-stills-nash",
+  "title": "Allies",
+  "artist": "Crosby, Stills & Nash",
+  "peak": 43,
+  "history": [
+    {
+      "date": "1983-07-02",
+      "rank": 150
+    },
+    {
+      "date": "1983-07-09",
+      "rank": 71
+    },
+    {
+      "date": "1983-07-16",
+      "rank": 55
+    },
+    {
+      "date": "1983-07-23",
+      "rank": 49
+    },
+    {
+      "date": "1983-07-30",
+      "rank": 46
+    },
+    {
+      "date": "1983-08-06",
+      "rank": 43
+    },
+    {
+      "date": "1983-08-13",
+      "rank": 43
+    },
+    {
+      "date": "1983-08-20",
+      "rank": 61
+    },
+    {
+      "date": "1983-08-27",
+      "rank": 97
+    },
+    {
+      "date": "1983-09-03",
+      "rank": 124
+    },
+    {
+      "date": "1983-09-10",
+      "rank": 162
+    },
+    {
+      "date": "1983-09-17",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "War Games",
+      "id": "war-games-crosby-stills-nash"
+    },
+    {
+      "title": "Wasted on the Way",
+      "id": "wasted-on-the-way-crosby-stills-nash"
+    },
+    {
+      "title": "Raise a Voice",
+      "id": null
+    },
+    {
+      "title": "Turn Your Back on Love",
+      "id": null
+    },
+    {
+      "title": "Barrel of Pain",
+      "id": null
+    },
+    {
+      "title": "Shadow Captain",
+      "id": null
+    },
+    {
+      "title": "Dark Star",
+      "id": null
+    },
+    {
+      "title": "Blackbird",
+      "id": null
+    },
+    {
+      "title": "He Played Real Good for Free",
+      "id": null
+    },
+    {
+      "title": "For What It's Worth",
+      "id": null
+    }
+  ]
+}

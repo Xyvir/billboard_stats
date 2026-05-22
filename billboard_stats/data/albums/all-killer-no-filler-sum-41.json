@@ -1,1 +1,262 @@
-{"id": "all-killer-no-filler-sum-41", "title": "All Killer No Filler", "artist": "Sum 41", "peak": 13, "history": [{"date": "2001-05-26", "rank": 23}, {"date": "2001-06-02", "rank": 31}, {"date": "2001-06-09", "rank": 35}, {"date": "2001-06-16", "rank": 27}, {"date": "2001-06-23", "rank": 31}, {"date": "2001-06-30", "rank": 32}, {"date": "2001-07-07", "rank": 24}, {"date": "2001-07-14", "rank": 27}, {"date": "2001-07-21", "rank": 30}, {"date": "2001-07-28", "rank": 16}, {"date": "2001-08-04", "rank": 13}, {"date": "2001-08-11", "rank": 16}, {"date": "2001-08-18", "rank": 19}, {"date": "2001-08-25", "rank": 18}, {"date": "2001-09-01", "rank": 17}, {"date": "2001-09-08", "rank": 22}, {"date": "2001-09-15", "rank": 30}, {"date": "2001-09-22", "rank": 27}, {"date": "2001-09-29", "rank": 36}, {"date": "2001-10-06", "rank": 44}, {"date": "2001-10-13", "rank": 43}, {"date": "2001-10-20", "rank": 44}, {"date": "2001-10-27", "rank": 42}, {"date": "2001-11-03", "rank": 43}, {"date": "2001-11-10", "rank": 50}, {"date": "2001-11-17", "rank": 60}, {"date": "2001-11-24", "rank": 64}, {"date": "2001-12-01", "rank": 82}, {"date": "2001-12-08", "rank": 79}, {"date": "2001-12-15", "rank": 84}, {"date": "2001-12-22", "rank": 83}, {"date": "2001-12-29", "rank": 72}, {"date": "2002-01-05", "rank": 79}, {"date": "2002-01-12", "rank": 62}, {"date": "2002-01-19", "rank": 62}, {"date": "2002-01-26", "rank": 85}, {"date": "2002-02-02", "rank": 90}, {"date": "2002-02-09", "rank": 84}, {"date": "2002-02-16", "rank": 107}, {"date": "2002-02-23", "rank": 115}, {"date": "2002-03-02", "rank": 112}, {"date": "2002-03-09", "rank": 118}, {"date": "2002-03-16", "rank": 152}, {"date": "2002-03-23", "rank": 153}, {"date": "2002-03-30", "rank": 154}, {"date": "2002-04-06", "rank": 167}, {"date": "2002-04-13", "rank": 156}, {"date": "2002-04-20", "rank": 175}, {"date": "2002-05-04", "rank": 200}]}
+{
+  "id": "all-killer-no-filler-sum-41",
+  "title": "All Killer No Filler",
+  "artist": "Sum 41",
+  "peak": 13,
+  "history": [
+    {
+      "date": "2001-05-26",
+      "rank": 23
+    },
+    {
+      "date": "2001-06-02",
+      "rank": 31
+    },
+    {
+      "date": "2001-06-09",
+      "rank": 35
+    },
+    {
+      "date": "2001-06-16",
+      "rank": 27
+    },
+    {
+      "date": "2001-06-23",
+      "rank": 31
+    },
+    {
+      "date": "2001-06-30",
+      "rank": 32
+    },
+    {
+      "date": "2001-07-07",
+      "rank": 24
+    },
+    {
+      "date": "2001-07-14",
+      "rank": 27
+    },
+    {
+      "date": "2001-07-21",
+      "rank": 30
+    },
+    {
+      "date": "2001-07-28",
+      "rank": 16
+    },
+    {
+      "date": "2001-08-04",
+      "rank": 13
+    },
+    {
+      "date": "2001-08-11",
+      "rank": 16
+    },
+    {
+      "date": "2001-08-18",
+      "rank": 19
+    },
+    {
+      "date": "2001-08-25",
+      "rank": 18
+    },
+    {
+      "date": "2001-09-01",
+      "rank": 17
+    },
+    {
+      "date": "2001-09-08",
+      "rank": 22
+    },
+    {
+      "date": "2001-09-15",
+      "rank": 30
+    },
+    {
+      "date": "2001-09-22",
+      "rank": 27
+    },
+    {
+      "date": "2001-09-29",
+      "rank": 36
+    },
+    {
+      "date": "2001-10-06",
+      "rank": 44
+    },
+    {
+      "date": "2001-10-13",
+      "rank": 43
+    },
+    {
+      "date": "2001-10-20",
+      "rank": 44
+    },
+    {
+      "date": "2001-10-27",
+      "rank": 42
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 43
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 50
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 60
+    },
+    {
+      "date": "2001-11-24",
+      "rank": 64
+    },
+    {
+      "date": "2001-12-01",
+      "rank": 82
+    },
+    {
+      "date": "2001-12-08",
+      "rank": 79
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 84
+    },
+    {
+      "date": "2001-12-22",
+      "rank": 83
+    },
+    {
+      "date": "2001-12-29",
+      "rank": 72
+    },
+    {
+      "date": "2002-01-05",
+      "rank": 79
+    },
+    {
+      "date": "2002-01-12",
+      "rank": 62
+    },
+    {
+      "date": "2002-01-19",
+      "rank": 62
+    },
+    {
+      "date": "2002-01-26",
+      "rank": 85
+    },
+    {
+      "date": "2002-02-02",
+      "rank": 90
+    },
+    {
+      "date": "2002-02-09",
+      "rank": 84
+    },
+    {
+      "date": "2002-02-16",
+      "rank": 107
+    },
+    {
+      "date": "2002-02-23",
+      "rank": 115
+    },
+    {
+      "date": "2002-03-02",
+      "rank": 112
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 118
+    },
+    {
+      "date": "2002-03-16",
+      "rank": 152
+    },
+    {
+      "date": "2002-03-23",
+      "rank": 153
+    },
+    {
+      "date": "2002-03-30",
+      "rank": 154
+    },
+    {
+      "date": "2002-04-06",
+      "rank": 167
+    },
+    {
+      "date": "2002-04-13",
+      "rank": 156
+    },
+    {
+      "date": "2002-04-20",
+      "rank": 175
+    },
+    {
+      "date": "2002-05-04",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fat Lip",
+      "id": "fat-lip-sum-41"
+    },
+    {
+      "title": "Introduction to Destruction",
+      "id": null
+    },
+    {
+      "title": "Nothing on My Back",
+      "id": null
+    },
+    {
+      "title": "Never Wake Up",
+      "id": null
+    },
+    {
+      "title": "Rhythms",
+      "id": null
+    },
+    {
+      "title": "Motivation",
+      "id": null
+    },
+    {
+      "title": "In Too Deep",
+      "id": null
+    },
+    {
+      "title": "Summer",
+      "id": null
+    },
+    {
+      "title": "Handle This",
+      "id": null
+    },
+    {
+      "title": "Crazy Amanda Bunkface",
+      "id": null
+    },
+    {
+      "title": "All She’s Got",
+      "id": null
+    },
+    {
+      "title": "Heart Attack",
+      "id": null
+    },
+    {
+      "title": "Pain for Pleasure",
+      "id": null
+    },
+    {
+      "title": "Makes No Difference",
+      "id": null
+    }
+  ]
+}
