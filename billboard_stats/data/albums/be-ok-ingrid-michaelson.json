@@ -1,1 +1,70 @@
-{"id": "be-ok-ingrid-michaelson", "title": "Be OK", "artist": "Ingrid Michaelson", "peak": 35, "history": [{"date": "2008-11-01", "rank": 35}, {"date": "2008-11-08", "rank": 73}, {"date": "2008-11-15", "rank": 138}, {"date": "2008-11-22", "rank": 177}]}
+{
+  "id": "be-ok-ingrid-michaelson",
+  "title": "Be OK",
+  "artist": "Ingrid Michaelson",
+  "peak": 35,
+  "history": [
+    {
+      "date": "2008-11-01",
+      "rank": 35
+    },
+    {
+      "date": "2008-11-08",
+      "rank": 73
+    },
+    {
+      "date": "2008-11-15",
+      "rank": 138
+    },
+    {
+      "date": "2008-11-22",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Be OK",
+      "id": "be-ok-ingrid-michaelson"
+    },
+    {
+      "title": "Giving Up",
+      "id": null
+    },
+    {
+      "title": "Over the Rainbow",
+      "id": null
+    },
+    {
+      "title": "The Chain (live from Webster Hall)",
+      "id": null
+    },
+    {
+      "title": "Lady in Spain",
+      "id": null
+    },
+    {
+      "title": "Keep Breathing",
+      "id": null
+    },
+    {
+      "title": "Oh What a Day",
+      "id": null
+    },
+    {
+      "title": "The Way I Am (recorded live on WERS)",
+      "id": null
+    },
+    {
+      "title": "Can’t Help Falling in Love With You",
+      "id": null
+    },
+    {
+      "title": "You and I",
+      "id": null
+    },
+    {
+      "title": "Be OK (acoustic)",
+      "id": null
+    }
+  ]
+}

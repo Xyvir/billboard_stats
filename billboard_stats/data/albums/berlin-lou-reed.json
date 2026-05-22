@@ -1,1 +1,94 @@
-{"id": "berlin-lou-reed", "title": "Berlin", "artist": "Lou Reed", "peak": 98, "history": [{"date": "1973-10-20", "rank": 186}, {"date": "1973-10-27", "rank": 153}, {"date": "1973-11-03", "rank": 127}, {"date": "1973-11-10", "rank": 117}, {"date": "1973-11-17", "rank": 112}, {"date": "1973-11-24", "rank": 103}, {"date": "1973-12-01", "rank": 98}, {"date": "1973-12-08", "rank": 108}, {"date": "1973-12-15", "rank": 136}, {"date": "1973-12-22", "rank": 162}, {"date": "1973-12-29", "rank": 198}]}
+{
+  "id": "berlin-lou-reed",
+  "title": "Berlin",
+  "artist": "Lou Reed",
+  "peak": 98,
+  "history": [
+    {
+      "date": "1973-10-20",
+      "rank": 186
+    },
+    {
+      "date": "1973-10-27",
+      "rank": 153
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 127
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 117
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 112
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 103
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 98
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 108
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 136
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 162
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Berlin",
+      "id": null
+    },
+    {
+      "title": "Lady Day",
+      "id": null
+    },
+    {
+      "title": "Men of Good Fortune",
+      "id": null
+    },
+    {
+      "title": "Caroline Says I",
+      "id": null
+    },
+    {
+      "title": "How Do You Think It Feels",
+      "id": null
+    },
+    {
+      "title": "Oh, Jim",
+      "id": null
+    },
+    {
+      "title": "Caroline Says II",
+      "id": null
+    },
+    {
+      "title": "The Kids",
+      "id": null
+    },
+    {
+      "title": "The Bed",
+      "id": null
+    },
+    {
+      "title": "Sad Song",
+      "id": null
+    }
+  ]
+}
