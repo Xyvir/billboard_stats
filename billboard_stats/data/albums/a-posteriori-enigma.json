@@ -1,1 +1,70 @@
-{"id": "a-posteriori-enigma", "title": "A Posteriori", "artist": "Enigma", "peak": 95, "history": [{"date": "2006-10-14", "rank": 95}, {"date": "2006-10-21", "rank": 154}, {"date": "2006-10-28", "rank": 195}]}
+{
+  "id": "a-posteriori-enigma",
+  "title": "A Posteriori",
+  "artist": "Enigma",
+  "peak": 95,
+  "history": [
+    {
+      "date": "2006-10-14",
+      "rank": 95
+    },
+    {
+      "date": "2006-10-21",
+      "rank": 154
+    },
+    {
+      "date": "2006-10-28",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Eppur si muove",
+      "id": null
+    },
+    {
+      "title": "Feel Me Heaven",
+      "id": null
+    },
+    {
+      "title": "Dreaming of Andromeda",
+      "id": null
+    },
+    {
+      "title": "Dancing With Mephisto",
+      "id": null
+    },
+    {
+      "title": "Northern Lights",
+      "id": null
+    },
+    {
+      "title": "Invisible Love",
+      "id": null
+    },
+    {
+      "title": "Message From Io",
+      "id": null
+    },
+    {
+      "title": "Hello and Welcome",
+      "id": null
+    },
+    {
+      "title": "20.000 Miles Over the Sea",
+      "id": null
+    },
+    {
+      "title": "Sitting on the Moon",
+      "id": null
+    },
+    {
+      "title": "The Alchemist",
+      "id": null
+    },
+    {
+      "title": "Goodbye Milky Way",
+      "id": null
+    }
+  ]
+}
