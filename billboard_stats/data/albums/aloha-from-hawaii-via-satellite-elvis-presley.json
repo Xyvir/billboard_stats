@@ -1,1 +1,314 @@
-{"id": "aloha-from-hawaii-via-satellite-elvis-presley", "title": "Aloha From Hawaii Via Satellite", "artist": "Elvis Presley", "peak": 1, "history": [{"date": "1973-02-24", "rank": 99}, {"date": "1973-03-03", "rank": 58}, {"date": "1973-03-10", "rank": 31}, {"date": "1973-03-17", "rank": 20}, {"date": "1973-03-24", "rank": 13}, {"date": "1973-03-31", "rank": 11}, {"date": "1973-04-07", "rank": 11}, {"date": "1973-04-14", "rank": 10}, {"date": "1973-04-21", "rank": 4}, {"date": "1973-04-28", "rank": 2}, {"date": "1973-05-05", "rank": 1}, {"date": "1973-05-12", "rank": 3}, {"date": "1973-05-19", "rank": 7}, {"date": "1973-05-26", "rank": 8}, {"date": "1973-06-02", "rank": 14}, {"date": "1973-06-09", "rank": 17}, {"date": "1973-06-16", "rank": 31}, {"date": "1973-06-23", "rank": 30}, {"date": "1973-06-30", "rank": 31}, {"date": "1973-07-07", "rank": 33}, {"date": "1973-07-14", "rank": 37}, {"date": "1973-07-21", "rank": 46}, {"date": "1973-07-28", "rank": 50}, {"date": "1973-08-04", "rank": 67}, {"date": "1973-08-11", "rank": 77}, {"date": "1973-08-18", "rank": 86}, {"date": "1973-08-25", "rank": 90}, {"date": "1973-09-01", "rank": 91}, {"date": "1973-09-08", "rank": 93}, {"date": "1973-09-15", "rank": 99}, {"date": "1973-09-22", "rank": 114}, {"date": "1973-09-29", "rank": 121}, {"date": "1973-10-06", "rank": 137}, {"date": "1973-10-13", "rank": 151}, {"date": "1973-10-20", "rank": 151}, {"date": "1973-12-29", "rank": 130}, {"date": "1974-01-05", "rank": 114}, {"date": "1974-01-12", "rank": 87}, {"date": "1974-01-19", "rank": 80}, {"date": "1974-01-26", "rank": 77}, {"date": "1974-02-02", "rank": 80}, {"date": "1974-02-09", "rank": 81}, {"date": "1974-02-16", "rank": 83}, {"date": "1974-02-23", "rank": 87}, {"date": "1974-03-02", "rank": 88}, {"date": "1974-03-09", "rank": 104}, {"date": "1974-03-16", "rank": 119}, {"date": "1974-03-23", "rank": 137}, {"date": "1974-03-30", "rank": 138}, {"date": "1974-04-06", "rank": 141}, {"date": "1974-04-13", "rank": 160}, {"date": "1974-04-20", "rank": 184}]}
+{
+  "id": "aloha-from-hawaii-via-satellite-elvis-presley",
+  "title": "Aloha From Hawaii Via Satellite",
+  "artist": "Elvis Presley",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1973-02-24",
+      "rank": 99
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 58
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 31
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 20
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 13
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 11
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 11
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 10
+    },
+    {
+      "date": "1973-04-21",
+      "rank": 4
+    },
+    {
+      "date": "1973-04-28",
+      "rank": 2
+    },
+    {
+      "date": "1973-05-05",
+      "rank": 1
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 3
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 7
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 8
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 14
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 17
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 31
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 30
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 31
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 33
+    },
+    {
+      "date": "1973-07-14",
+      "rank": 37
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 46
+    },
+    {
+      "date": "1973-07-28",
+      "rank": 50
+    },
+    {
+      "date": "1973-08-04",
+      "rank": 67
+    },
+    {
+      "date": "1973-08-11",
+      "rank": 77
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 86
+    },
+    {
+      "date": "1973-08-25",
+      "rank": 90
+    },
+    {
+      "date": "1973-09-01",
+      "rank": 91
+    },
+    {
+      "date": "1973-09-08",
+      "rank": 93
+    },
+    {
+      "date": "1973-09-15",
+      "rank": 99
+    },
+    {
+      "date": "1973-09-22",
+      "rank": 114
+    },
+    {
+      "date": "1973-09-29",
+      "rank": 121
+    },
+    {
+      "date": "1973-10-06",
+      "rank": 137
+    },
+    {
+      "date": "1973-10-13",
+      "rank": 151
+    },
+    {
+      "date": "1973-10-20",
+      "rank": 151
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 130
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 114
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 87
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 80
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 77
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 80
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 81
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 83
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 87
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 88
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 104
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 119
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 137
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 138
+    },
+    {
+      "date": "1974-04-06",
+      "rank": 141
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 160
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Burning Love",
+      "id": "burning-love-elvis-presley"
+    },
+    {
+      "title": "Steamroller Blues",
+      "id": "steamroller-blues-fool-elvis-presley"
+    },
+    {
+      "title": "My Way",
+      "id": "my-way-elvis-presley"
+    },
+    {
+      "title": "Love Me",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "It’s Over",
+      "id": "it-s-only-love-elvis-presley"
+    },
+    {
+      "title": "I Can’t Stop Loving You",
+      "id": "ain-t-that-loving-you-baby-elvis-presley"
+    },
+    {
+      "title": "What Now My Love",
+      "id": "it-s-only-love-elvis-presley"
+    },
+    {
+      "title": "Suspicious Minds",
+      "id": "suspicious-minds-elvis-presley"
+    },
+    {
+      "title": "American Trilogy",
+      "id": "an-american-trilogy-elvis-presley"
+    },
+    {
+      "title": "Intro: Also sprach Zarathustra",
+      "id": null
+    },
+    {
+      "title": "See See Rider",
+      "id": null
+    },
+    {
+      "title": "Something",
+      "id": null
+    },
+    {
+      "title": "You Gave Me a Mountain",
+      "id": null
+    },
+    {
+      "title": "Johnny B. Goode",
+      "id": null
+    },
+    {
+      "title": "Blue Suede Shoes",
+      "id": null
+    },
+    {
+      "title": "I’m So Lonesome I Could Cry",
+      "id": null
+    },
+    {
+      "title": "Hound Dog",
+      "id": null
+    },
+    {
+      "title": "Fever",
+      "id": null
+    },
+    {
+      "title": "Welcome to My World",
+      "id": null
+    },
+    {
+      "title": "Intros by Elvis",
+      "id": null
+    },
+    {
+      "title": "I’ll Remember You",
+      "id": null
+    },
+    {
+      "title": "Medley: Long Tall Sally / Whole Lotta Shakin’ Goin’ On",
+      "id": null
+    },
+    {
+      "title": "A Big Hunk o’ Love",
+      "id": null
+    },
+    {
+      "title": "Can’t Help Falling in Love",
+      "id": null
+    }
+  ]
+}
