@@ -1,1 +1,102 @@
-{"id": "bad-attitude-meat-loaf", "title": "Bad Attitude", "artist": "Meat Loaf", "peak": 74, "history": [{"date": "1985-05-18", "rank": 125}, {"date": "1985-05-25", "rank": 87}, {"date": "1985-06-01", "rank": 80}, {"date": "1985-06-08", "rank": 77}, {"date": "1985-06-15", "rank": 77}, {"date": "1985-06-22", "rank": 74}, {"date": "1985-06-29", "rank": 129}, {"date": "1985-07-06", "rank": 129}, {"date": "1985-07-13", "rank": 157}, {"date": "1985-07-20", "rank": 198}]}
+{
+  "id": "bad-attitude-meat-loaf",
+  "title": "Bad Attitude",
+  "artist": "Meat Loaf",
+  "peak": 74,
+  "history": [
+    {
+      "date": "1985-05-18",
+      "rank": 125
+    },
+    {
+      "date": "1985-05-25",
+      "rank": 87
+    },
+    {
+      "date": "1985-06-01",
+      "rank": 80
+    },
+    {
+      "date": "1985-06-08",
+      "rank": 77
+    },
+    {
+      "date": "1985-06-15",
+      "rank": 77
+    },
+    {
+      "date": "1985-06-22",
+      "rank": 74
+    },
+    {
+      "date": "1985-06-29",
+      "rank": 129
+    },
+    {
+      "date": "1985-07-06",
+      "rank": 129
+    },
+    {
+      "date": "1985-07-13",
+      "rank": 157
+    },
+    {
+      "date": "1985-07-20",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Paradise by the Dashboard Light (live)",
+      "id": "paradise-by-the-dashboard-light-meat-loaf"
+    },
+    {
+      "title": "Two Out of Three Ain’t Bad (live)",
+      "id": "two-out-of-three-ain-t-bad-meat-loaf"
+    },
+    {
+      "title": "Rock ’n’ Roll Mercenaries",
+      "id": null
+    },
+    {
+      "title": "Getting Away With Murder",
+      "id": null
+    },
+    {
+      "title": "Modern Girl",
+      "id": null
+    },
+    {
+      "title": "Jumpin' the Gun",
+      "id": null
+    },
+    {
+      "title": "Nowhere Fast",
+      "id": null
+    },
+    {
+      "title": "Standing on the Outside",
+      "id": null
+    },
+    {
+      "title": "Piece of the Action",
+      "id": null
+    },
+    {
+      "title": "Cheatin’ in Your Dreams",
+      "id": null
+    },
+    {
+      "title": "Bad Attitude",
+      "id": null
+    },
+    {
+      "title": "Blind Before I Stop",
+      "id": null
+    },
+    {
+      "title": "Bat Out of Hell (live)",
+      "id": null
+    }
+  ]
+}

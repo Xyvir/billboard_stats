@@ -1,1 +1,66 @@
-{"id": "back-to-us-rascal-flatts", "title": "Back To Us", "artist": "Rascal Flatts", "peak": 11, "history": [{"date": "2017-06-10", "rank": 11}, {"date": "2017-06-17", "rank": 55}, {"date": "2017-06-24", "rank": 120}, {"date": "2017-07-01", "rank": 148}]}
+{
+  "id": "back-to-us-rascal-flatts",
+  "title": "Back To Us",
+  "artist": "Rascal Flatts",
+  "peak": 11,
+  "history": [
+    {
+      "date": "2017-06-10",
+      "rank": 11
+    },
+    {
+      "date": "2017-06-17",
+      "rank": 55
+    },
+    {
+      "date": "2017-06-24",
+      "rank": 120
+    },
+    {
+      "date": "2017-07-01",
+      "rank": 148
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Yours If You Want It",
+      "id": "yours-if-you-want-it-rascal-flatts"
+    },
+    {
+      "title": "Back to Us",
+      "id": null
+    },
+    {
+      "title": "I Know You Won’t",
+      "id": null
+    },
+    {
+      "title": "Hopin’ You Were Lookin’",
+      "id": null
+    },
+    {
+      "title": "Dance",
+      "id": null
+    },
+    {
+      "title": "Are You Happy Now",
+      "id": null
+    },
+    {
+      "title": "Love What You’ve Done With the Place",
+      "id": null
+    },
+    {
+      "title": "Kiss You While I Can",
+      "id": null
+    },
+    {
+      "title": "Vandalized",
+      "id": null
+    },
+    {
+      "title": "Our Night to Shine",
+      "id": null
+    }
+  ]
+}

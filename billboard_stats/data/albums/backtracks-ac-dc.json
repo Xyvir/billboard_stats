@@ -1,1 +1,126 @@
-{"id": "backtracks-ac-dc", "title": "Backtracks", "artist": "AC/DC", "peak": 39, "history": [{"date": "2009-11-28", "rank": 39}, {"date": "2009-12-05", "rank": 163}]}
+{
+  "id": "backtracks-ac-dc",
+  "title": "Backtracks",
+  "artist": "AC/DC",
+  "peak": 39,
+  "history": [
+    {
+      "date": "2009-11-28",
+      "rank": 39
+    },
+    {
+      "date": "2009-12-05",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Back in Black",
+      "id": "back-in-black-ac-dc"
+    },
+    {
+      "title": "Guns for Hire",
+      "id": "guns-for-hire-ac-dc"
+    },
+    {
+      "title": "You Shook Me All Night Long",
+      "id": "you-shook-me-all-night-long-ac-dc"
+    },
+    {
+      "title": "Highway to Hell",
+      "id": "highway-to-hell-ac-dc"
+    },
+    {
+      "title": "Stick Around",
+      "id": null
+    },
+    {
+      "title": "Love Song",
+      "id": null
+    },
+    {
+      "title": "Fling Thing",
+      "id": null
+    },
+    {
+      "title": "R.I.P. (Rock in Peace)",
+      "id": null
+    },
+    {
+      "title": "Carry Me Home",
+      "id": null
+    },
+    {
+      "title": "Crabsody in Blue",
+      "id": null
+    },
+    {
+      "title": "Cold Hearted Man",
+      "id": null
+    },
+    {
+      "title": "Snake Eye",
+      "id": null
+    },
+    {
+      "title": "Borrowed Time",
+      "id": null
+    },
+    {
+      "title": "Down on the Borderline",
+      "id": null
+    },
+    {
+      "title": "Big Gun",
+      "id": null
+    },
+    {
+      "title": "Cyberspace",
+      "id": null
+    },
+    {
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "id": null
+    },
+    {
+      "title": "Dog Eat Dog",
+      "id": null
+    },
+    {
+      "title": "Live Wire",
+      "id": null
+    },
+    {
+      "title": "Shot Down in Flames",
+      "id": null
+    },
+    {
+      "title": "T.N.T.",
+      "id": null
+    },
+    {
+      "title": "Let There Be Rock",
+      "id": null
+    },
+    {
+      "title": "Rock and Roll Ain’t Noise Pollution",
+      "id": null
+    },
+    {
+      "title": "This House Is on Fire",
+      "id": null
+    },
+    {
+      "title": "Jailbreak",
+      "id": null
+    },
+    {
+      "title": "For Those About to Rock (We Salute You)",
+      "id": null
+    },
+    {
+      "title": "Safe in New York City",
+      "id": null
+    }
+  ]
+}

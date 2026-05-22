@@ -1,1 +1,62 @@
-{"id": "back-to-the-country-loretta-lynn", "title": "Back To The Country", "artist": "Loretta Lynn", "peak": 182, "history": [{"date": "1975-04-19", "rank": 187}, {"date": "1975-04-26", "rank": 182}]}
+{
+  "id": "back-to-the-country-loretta-lynn",
+  "title": "Back To The Country",
+  "artist": "Loretta Lynn",
+  "peak": 182,
+  "history": [
+    {
+      "date": "1975-04-19",
+      "rank": 187
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Pill",
+      "id": "the-pill-loretta-lynn"
+    },
+    {
+      "title": "Will You Be There",
+      "id": null
+    },
+    {
+      "title": "It’s Time to Pay the Fiddler",
+      "id": null
+    },
+    {
+      "title": "Paper Roses",
+      "id": null
+    },
+    {
+      "title": "You Love Everybody but You",
+      "id": null
+    },
+    {
+      "title": "Mad Mrs. Jesse Brown",
+      "id": null
+    },
+    {
+      "title": "Back to the Country",
+      "id": null
+    },
+    {
+      "title": "The Hands of Yesterday",
+      "id": null
+    },
+    {
+      "title": "I Can Help",
+      "id": null
+    },
+    {
+      "title": "Another You",
+      "id": null
+    },
+    {
+      "title": "Jimmy on My Mind",
+      "id": null
+    }
+  ]
+}

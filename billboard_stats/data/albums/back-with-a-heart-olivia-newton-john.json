@@ -1,1 +1,78 @@
-{"id": "back-with-a-heart-olivia-newton-john", "title": "Back With A Heart", "artist": "Olivia Newton-John", "peak": 59, "history": [{"date": "1998-05-30", "rank": 59}, {"date": "1998-06-06", "rank": 97}, {"date": "1998-06-13", "rank": 129}, {"date": "1998-06-20", "rank": 147}, {"date": "1998-06-27", "rank": 154}, {"date": "1998-07-04", "rank": 148}]}
+{
+  "id": "back-with-a-heart-olivia-newton-john",
+  "title": "Back With A Heart",
+  "artist": "Olivia Newton-John",
+  "peak": 59,
+  "history": [
+    {
+      "date": "1998-05-30",
+      "rank": 59
+    },
+    {
+      "date": "1998-06-06",
+      "rank": 97
+    },
+    {
+      "date": "1998-06-13",
+      "rank": 129
+    },
+    {
+      "date": "1998-06-20",
+      "rank": 147
+    },
+    {
+      "date": "1998-06-27",
+      "rank": 154
+    },
+    {
+      "date": "1998-07-04",
+      "rank": 148
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Honestly Love You",
+      "id": "i-honestly-love-you-olivia-newton-john"
+    },
+    {
+      "title": "Precious Love",
+      "id": null
+    },
+    {
+      "title": "Closer to Me",
+      "id": null
+    },
+    {
+      "title": "Fight for Our Love",
+      "id": null
+    },
+    {
+      "title": "Spinning His Wheels",
+      "id": null
+    },
+    {
+      "title": "Under My Skin",
+      "id": null
+    },
+    {
+      "title": "Love Is a Gift",
+      "id": null
+    },
+    {
+      "title": "I Don't Wanna Say Goodnight",
+      "id": null
+    },
+    {
+      "title": "Don't Say That",
+      "id": null
+    },
+    {
+      "title": "Attention",
+      "id": null
+    },
+    {
+      "title": "Back With a Heart",
+      "id": null
+    }
+  ]
+}

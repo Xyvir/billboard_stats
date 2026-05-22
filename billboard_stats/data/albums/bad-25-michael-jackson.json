@@ -1,1 +1,114 @@
-{"id": "bad-25-michael-jackson", "title": "Bad: 25", "artist": "Michael Jackson", "peak": 46, "history": [{"date": "2012-10-06", "rank": 46}, {"date": "2012-10-13", "rank": 176}]}
+{
+  "id": "bad-25-michael-jackson",
+  "title": "Bad: 25",
+  "artist": "Michael Jackson",
+  "peak": 46,
+  "history": [
+    {
+      "date": "2012-10-06",
+      "rank": 46
+    },
+    {
+      "date": "2012-10-13",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bad",
+      "id": "bad-michael-jackson"
+    },
+    {
+      "title": "The Way You Make Me Feel",
+      "id": "the-way-you-make-me-feel-michael-jackson"
+    },
+    {
+      "title": "Another Part of Me",
+      "id": "another-part-of-me-michael-jackson"
+    },
+    {
+      "title": "Man in the Mirror",
+      "id": "man-in-the-mirror-michael-jackson"
+    },
+    {
+      "title": "Dirty Diana",
+      "id": "dirty-diana-michael-jackson"
+    },
+    {
+      "title": "Smooth Criminal",
+      "id": "smooth-criminal-michael-jackson"
+    },
+    {
+      "title": "Speed Demon",
+      "id": null
+    },
+    {
+      "title": "Liberian Girl",
+      "id": null
+    },
+    {
+      "title": "Just Good Friends",
+      "id": null
+    },
+    {
+      "title": "I Just Can’t Stop Loving You",
+      "id": null
+    },
+    {
+      "title": "Leave Me Alone",
+      "id": null
+    },
+    {
+      "title": "Don’t Be Messin’ Round",
+      "id": null
+    },
+    {
+      "title": "I’m So Blue",
+      "id": null
+    },
+    {
+      "title": "Song Groove (a.k.a. Abortion Papers)",
+      "id": null
+    },
+    {
+      "title": "Free",
+      "id": null
+    },
+    {
+      "title": "Price of Fame",
+      "id": null
+    },
+    {
+      "title": "Al Capone",
+      "id": null
+    },
+    {
+      "title": "Streetwalker",
+      "id": null
+    },
+    {
+      "title": "Fly Away",
+      "id": null
+    },
+    {
+      "title": "Todo mi amor eres tú (I Just Can’t Stop Loving You, Spanish version)",
+      "id": null
+    },
+    {
+      "title": "Je ne veux pas la fin de nous (I Just Can’t Stop Loving You, French version)",
+      "id": null
+    },
+    {
+      "title": "Bad (remix by Afrojack DJ Buddha edit)",
+      "id": null
+    },
+    {
+      "title": "Speed Demon (remix by Nero)",
+      "id": null
+    },
+    {
+      "title": "Bad (remix by Afrojack - club mix)",
+      "id": null
+    }
+  ]
+}
