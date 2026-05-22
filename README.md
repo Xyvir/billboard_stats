@@ -1,3 +1,9 @@
+> **Note:** This project is a fork of the original Billboard Stats application, modified into a sheer static-site version designed to run directly on GitHub Pages.
+> 
+> Original project link: [https://github.com/jaimeberdejo/billboard_stats](https://github.com/jaimeberdejo/billboard_stats)
+
+---
+
 # Billboard Stats
 
 A web app for exploring Billboard chart history — browse the Hot 100 and Billboard 200, search any artist or song, and dig into historical records going back to 1958.

@@ -87,7 +87,7 @@
         <div style="margin-bottom: 2rem; display: flex; gap: 1rem; flex-wrap: wrap;">
             <select id="chartType">
                 <option value="hot100">Hot 100</option>
-                <option value="b200">Billboard 200</option>
+                <option value="b200" selected>Billboard 200</option>
             </select>
             <input type="date" id="dateInput" value="2026-04-04">
             <button onclick="loadChart()">Load Week</button>
@@ -345,6 +345,11 @@
                 loading.style.display = 'none';
             }
         }
+
+        // Load the initial chart (BB200) automatically when the page loads
+        document.addEventListener('DOMContentLoaded', () => {
+            loadChart();
+        });
     </script>
 </body>
 </html>
