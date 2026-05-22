@@ -330,7 +330,13 @@
                 
                 let html = '';
                 
-                if (data.artist) html += `<div style="font-size: 1.1rem; color: #aaa; margin-bottom: 1rem;">${data.artist}</div>`;
+                if (data.artist) {
+                    const artistId = encodeURIComponent(data.artist.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''));
+                    html += `<div style="font-size: 1.1rem; color: #aaa; margin-bottom: 1rem; cursor: pointer; display: inline-block;" 
+                                  onmouseover="this.style.color='var(--accent)'" 
+                                  onmouseout="this.style.color='#aaa'"
+                                  onclick="loadDetail('artists', '${artistId}')">${data.artist}</div><br>`;
+                }
                 if (data.peak) html += `<span class="stat-badge" style="font-size: 0.9rem;">Peak: #${data.peak}</span>`;
                 if (data.weeks_on_chart || data.total_weeks) html += `<span class="stat-badge" style="font-size: 0.9rem;">Weeks: ${data.weeks_on_chart || data.total_weeks}</span>`;
 
