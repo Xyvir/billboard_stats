@@ -1,1 +1,226 @@
-{"id": "back-on-the-block-quincy-jones", "title": "Back On The Block", "artist": "Quincy Jones", "peak": 9, "history": [{"date": "1989-12-09", "rank": 102}, {"date": "1989-12-16", "rank": 49}, {"date": "1989-12-23", "rank": 27}, {"date": "1989-12-30", "rank": 22}, {"date": "1990-01-06", "rank": 22}, {"date": "1990-01-13", "rank": 21}, {"date": "1990-01-20", "rank": 16}, {"date": "1990-01-27", "rank": 13}, {"date": "1990-02-03", "rank": 9}, {"date": "1990-02-10", "rank": 9}, {"date": "1990-02-17", "rank": 10}, {"date": "1990-02-24", "rank": 11}, {"date": "1990-03-03", "rank": 11}, {"date": "1990-03-10", "rank": 11}, {"date": "1990-03-17", "rank": 13}, {"date": "1990-03-24", "rank": 13}, {"date": "1990-03-31", "rank": 13}, {"date": "1990-04-07", "rank": 12}, {"date": "1990-04-14", "rank": 13}, {"date": "1990-04-21", "rank": 16}, {"date": "1990-04-28", "rank": 21}, {"date": "1990-05-05", "rank": 23}, {"date": "1990-05-12", "rank": 34}, {"date": "1990-05-19", "rank": 37}, {"date": "1990-05-26", "rank": 41}, {"date": "1990-06-02", "rank": 47}, {"date": "1990-06-09", "rank": 47}, {"date": "1990-06-16", "rank": 64}, {"date": "1990-06-23", "rank": 76}, {"date": "1990-06-30", "rank": 75}, {"date": "1990-07-07", "rank": 86}, {"date": "1990-07-14", "rank": 101}, {"date": "1990-07-21", "rank": 127}, {"date": "1990-07-28", "rank": 199}, {"date": "1991-03-09", "rank": 187}, {"date": "1991-03-16", "rank": 140}, {"date": "1991-03-23", "rank": 143}, {"date": "1991-03-30", "rank": 142}, {"date": "1991-04-06", "rank": 149}, {"date": "1991-04-13", "rank": 199}]}
+{
+  "id": "back-on-the-block-quincy-jones",
+  "title": "Back On The Block",
+  "artist": "Quincy Jones",
+  "peak": 9,
+  "history": [
+    {
+      "date": "1989-12-09",
+      "rank": 102
+    },
+    {
+      "date": "1989-12-16",
+      "rank": 49
+    },
+    {
+      "date": "1989-12-23",
+      "rank": 27
+    },
+    {
+      "date": "1989-12-30",
+      "rank": 22
+    },
+    {
+      "date": "1990-01-06",
+      "rank": 22
+    },
+    {
+      "date": "1990-01-13",
+      "rank": 21
+    },
+    {
+      "date": "1990-01-20",
+      "rank": 16
+    },
+    {
+      "date": "1990-01-27",
+      "rank": 13
+    },
+    {
+      "date": "1990-02-03",
+      "rank": 9
+    },
+    {
+      "date": "1990-02-10",
+      "rank": 9
+    },
+    {
+      "date": "1990-02-17",
+      "rank": 10
+    },
+    {
+      "date": "1990-02-24",
+      "rank": 11
+    },
+    {
+      "date": "1990-03-03",
+      "rank": 11
+    },
+    {
+      "date": "1990-03-10",
+      "rank": 11
+    },
+    {
+      "date": "1990-03-17",
+      "rank": 13
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 13
+    },
+    {
+      "date": "1990-03-31",
+      "rank": 13
+    },
+    {
+      "date": "1990-04-07",
+      "rank": 12
+    },
+    {
+      "date": "1990-04-14",
+      "rank": 13
+    },
+    {
+      "date": "1990-04-21",
+      "rank": 16
+    },
+    {
+      "date": "1990-04-28",
+      "rank": 21
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 23
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 34
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 37
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 41
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 47
+    },
+    {
+      "date": "1990-06-09",
+      "rank": 47
+    },
+    {
+      "date": "1990-06-16",
+      "rank": 64
+    },
+    {
+      "date": "1990-06-23",
+      "rank": 76
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 75
+    },
+    {
+      "date": "1990-07-07",
+      "rank": 86
+    },
+    {
+      "date": "1990-07-14",
+      "rank": 101
+    },
+    {
+      "date": "1990-07-21",
+      "rank": 127
+    },
+    {
+      "date": "1990-07-28",
+      "rank": 199
+    },
+    {
+      "date": "1991-03-09",
+      "rank": 187
+    },
+    {
+      "date": "1991-03-16",
+      "rank": 140
+    },
+    {
+      "date": "1991-03-23",
+      "rank": 143
+    },
+    {
+      "date": "1991-03-30",
+      "rank": 142
+    },
+    {
+      "date": "1991-04-06",
+      "rank": 149
+    },
+    {
+      "date": "1991-04-13",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Secret Garden (Sweet Seduction Suite)",
+      "id": "the-secret-garden-quincy-jones"
+    },
+    {
+      "title": "[Prologue (2 Q's Rap)]",
+      "id": null
+    },
+    {
+      "title": "Back on the Block",
+      "id": null
+    },
+    {
+      "title": "I Don't Go for That",
+      "id": null
+    },
+    {
+      "title": "I'll Be Good to You",
+      "id": null
+    },
+    {
+      "title": "[The Verb to Be]",
+      "id": null
+    },
+    {
+      "title": "Wee B. Dooinit",
+      "id": null
+    },
+    {
+      "title": "The Places You Find Love",
+      "id": null
+    },
+    {
+      "title": "[Jazz Corner of the Word]",
+      "id": null
+    },
+    {
+      "title": "Birdland",
+      "id": null
+    },
+    {
+      "title": "Setembro (Brazilian Wedding Song)",
+      "id": null
+    },
+    {
+      "title": "One Man Woman",
+      "id": null
+    },
+    {
+      "title": "Tomorrow (A Better You, Better Me)",
+      "id": null
+    },
+    {
+      "title": "Prelude to the Garden",
+      "id": null
+    }
+  ]
+}

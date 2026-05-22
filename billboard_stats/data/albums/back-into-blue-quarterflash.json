@@ -1,1 +1,70 @@
-{"id": "back-into-blue-quarterflash", "title": "Back Into Blue", "artist": "Quarterflash", "peak": 150, "history": [{"date": "1985-10-05", "rank": 159}, {"date": "1985-10-12", "rank": 153}, {"date": "1985-10-19", "rank": 150}, {"date": "1985-10-26", "rank": 150}, {"date": "1985-11-02", "rank": 178}]}
+{
+  "id": "back-into-blue-quarterflash",
+  "title": "Back Into Blue",
+  "artist": "Quarterflash",
+  "peak": 150,
+  "history": [
+    {
+      "date": "1985-10-05",
+      "rank": 159
+    },
+    {
+      "date": "1985-10-12",
+      "rank": 153
+    },
+    {
+      "date": "1985-10-19",
+      "rank": 150
+    },
+    {
+      "date": "1985-10-26",
+      "rank": 150
+    },
+    {
+      "date": "1985-11-02",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Talk to Me",
+      "id": "talk-to-me-quarterflash"
+    },
+    {
+      "title": "Come to Me",
+      "id": "talk-to-me-quarterflash"
+    },
+    {
+      "title": "Walking on Ice",
+      "id": null
+    },
+    {
+      "title": "Caught in the Rain",
+      "id": null
+    },
+    {
+      "title": "Back Into Blue",
+      "id": null
+    },
+    {
+      "title": "I Want to Believe It’s You",
+      "id": null
+    },
+    {
+      "title": "Love Without a Net (You Keep Falling)",
+      "id": null
+    },
+    {
+      "title": "Grace Under Fire",
+      "id": null
+    },
+    {
+      "title": "Just for You",
+      "id": null
+    },
+    {
+      "title": "Welcome to the City",
+      "id": null
+    }
+  ]
+}

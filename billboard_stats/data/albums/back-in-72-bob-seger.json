@@ -1,1 +1,86 @@
-{"id": "back-in-72-bob-seger", "title": "Back In '72", "artist": "Bob Seger", "peak": 188, "history": [{"date": "1973-03-03", "rank": 198}, {"date": "1973-03-10", "rank": 196}, {"date": "1973-03-17", "rank": 188}, {"date": "1973-03-24", "rank": 188}, {"date": "1973-03-31", "rank": 189}, {"date": "1973-04-07", "rank": 192}]}
+{
+  "id": "back-in-72-bob-seger",
+  "title": "Back In '72",
+  "artist": "Bob Seger",
+  "peak": 188,
+  "history": [
+    {
+      "date": "1973-03-03",
+      "rank": 198
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 196
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 188
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 188
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 189
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lookin’ Back",
+      "id": "lookin-back-bob-seger"
+    },
+    {
+      "title": "Midnight Rider",
+      "id": null
+    },
+    {
+      "title": "So I Wrote You a Song",
+      "id": null
+    },
+    {
+      "title": "Stealer",
+      "id": null
+    },
+    {
+      "title": "Rosalie",
+      "id": null
+    },
+    {
+      "title": "Turn the Page",
+      "id": null
+    },
+    {
+      "title": "Back in ’72",
+      "id": null
+    },
+    {
+      "title": "Neon Sky",
+      "id": null
+    },
+    {
+      "title": "I’ve Been Working",
+      "id": null
+    },
+    {
+      "title": "I’ve Got Time",
+      "id": null
+    },
+    {
+      "title": "Persecution Smith",
+      "id": null
+    },
+    {
+      "title": "Chain Smokin’",
+      "id": null
+    },
+    {
+      "title": "Heavy Music – Part 2",
+      "id": null
+    }
+  ]
+}
