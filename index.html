@@ -363,7 +363,18 @@
                 // Render Chart History (Songs & Albums)
                 const history = data.history || data.chart_history || data.charts || data.chart_weeks;
                 if (history && Array.isArray(history) && history.length > 0) {
-                    html += `<h3 style="margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;">Chart History</h3>`;
+                    let titleText = 'Chart History';
+                    let titleColor = '#ffffff';
+                    
+                    if (type === 'songs') {
+                        titleText = 'Top100 Chart History';
+                        titleColor = '#ff4757';
+                    } else if (type === 'albums') {
+                        titleText = 'BB200 Chart History';
+                        titleColor = '#a55eea';
+                    }
+
+                    html += `<h3 style="margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; color: ${titleColor};">${titleText}</h3>`;
                     html += `<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 10px; margin-top: 1rem;">`;
                     history.forEach(entry => {
                         const date = entry.date || entry.week || entry.chart_date;
@@ -371,13 +382,10 @@
                         const chart = entry.chart || entry.chart_name || entry.chart_type || '';
                         if (date) {
                             let entryColor = 'var(--accent)';
-                            let entryChartTitle = chart;
                             if (chart.toLowerCase().includes('hot') || (!chart && type === 'songs')) {
                                 entryColor = '#ff4757';
-                                entryChartTitle = 'Hot 100';
                             } else if (chart.toLowerCase().includes('200') || (!chart && type === 'albums')) {
                                 entryColor = '#a55eea';
-                                entryChartTitle = 'Billboard 200';
                             }
 
                             html += `<div style="background: #222; padding: 10px; border-radius: 4px; text-align: center; cursor: pointer; border: 1px solid var(--border);" 
@@ -386,7 +394,6 @@
                                          onclick="loadHistoricalChart('${date}', '${chart}')">
                                         <div style="font-size: 0.8rem; color: #888;">${date}</div>
                                         <div style="font-size: 1.5rem; font-weight: bold; color: ${entryColor}; margin-top: 5px;">#${rank}</div>
-                                        <div style="font-size: 0.7rem; color: ${entryColor}; margin-top: 5px; text-transform: uppercase; letter-spacing: 0.5px;">${entryChartTitle}</div>
                                      </div>`;
                         }
                     });
