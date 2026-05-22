@@ -1,1 +1,70 @@
-{"id": "a-child-s-adventure-marianne-faithfull", "title": "A Child's Adventure", "artist": "Marianne Faithfull", "peak": 107, "history": [{"date": "1983-03-26", "rank": 119}, {"date": "1983-04-02", "rank": 111}, {"date": "1983-04-09", "rank": 107}, {"date": "1983-04-16", "rank": 107}, {"date": "1983-04-23", "rank": 146}, {"date": "1983-04-30", "rank": 178}, {"date": "1983-05-07", "rank": 199}]}
+{
+  "id": "a-child-s-adventure-marianne-faithfull",
+  "title": "A Child's Adventure",
+  "artist": "Marianne Faithfull",
+  "peak": 107,
+  "history": [
+    {
+      "date": "1983-03-26",
+      "rank": 119
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 111
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 107
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 107
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 146
+    },
+    {
+      "date": "1983-04-30",
+      "rank": 178
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Times Square",
+      "id": null
+    },
+    {
+      "title": "The Blue Millionaire",
+      "id": null
+    },
+    {
+      "title": "Falling From Grace",
+      "id": null
+    },
+    {
+      "title": "Morning Come",
+      "id": null
+    },
+    {
+      "title": "Ashes in My Hand",
+      "id": null
+    },
+    {
+      "title": "Running for Our Lives",
+      "id": null
+    },
+    {
+      "title": "Ireland",
+      "id": null
+    },
+    {
+      "title": "She’s Got a Problem",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"id": "a-christmas-album-michael-crawford", "title": "A Christmas Album", "artist": "Michael Crawford", "peak": 98, "history": [{"date": "1999-12-04", "rank": 112}, {"date": "1999-12-11", "rank": 116}, {"date": "1999-12-18", "rank": 98}, {"date": "1999-12-25", "rank": 128}, {"date": "2000-01-01", "rank": 108}, {"date": "2000-01-08", "rank": 167}]}
+{
+  "id": "a-christmas-album-michael-crawford",
+  "title": "A Christmas Album",
+  "artist": "Michael Crawford",
+  "peak": 98,
+  "history": [
+    {
+      "date": "1999-12-04",
+      "rank": 112
+    },
+    {
+      "date": "1999-12-11",
+      "rank": 116
+    },
+    {
+      "date": "1999-12-18",
+      "rank": 98
+    },
+    {
+      "date": "1999-12-25",
+      "rank": 128
+    },
+    {
+      "date": "2000-01-01",
+      "rank": 108
+    },
+    {
+      "date": "2000-01-08",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Very Best Time of the Year, It's the Most Wonderful Time of the Year",
+      "id": null
+    },
+    {
+      "title": "Peace, Peace, Silent Night",
+      "id": null
+    },
+    {
+      "title": "Mary Did You Know?",
+      "id": null
+    },
+    {
+      "title": "A Strange Way to Save the World",
+      "id": null
+    },
+    {
+      "title": "A Journey to Bethlehem (A Christmas Medley)",
+      "id": null
+    },
+    {
+      "title": "O Holy Night",
+      "id": null
+    },
+    {
+      "title": "Scarlet Ribbons",
+      "id": null
+    },
+    {
+      "title": "Candlelight Carol",
+      "id": null
+    },
+    {
+      "title": "Angels We Have Heard on High, Joy to the World",
+      "id": null
+    },
+    {
+      "title": "All Is Well",
+      "id": null
+    }
+  ]
+}

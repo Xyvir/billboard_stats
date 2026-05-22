@@ -1,1 +1,82 @@
-{"id": "a-cappella-todd-rundgren", "title": "A Cappella", "artist": "Todd Rundgren", "peak": 128, "history": [{"date": "1985-10-12", "rank": 188}, {"date": "1985-10-19", "rank": 155}, {"date": "1985-10-26", "rank": 140}, {"date": "1985-11-02", "rank": 130}, {"date": "1985-11-09", "rank": 128}, {"date": "1985-11-16", "rank": 128}, {"date": "1985-11-23", "rank": 198}, {"date": "1985-11-30", "rank": 196}]}
+{
+  "id": "a-cappella-todd-rundgren",
+  "title": "A Cappella",
+  "artist": "Todd Rundgren",
+  "peak": 128,
+  "history": [
+    {
+      "date": "1985-10-12",
+      "rank": 188
+    },
+    {
+      "date": "1985-10-19",
+      "rank": 155
+    },
+    {
+      "date": "1985-10-26",
+      "rank": 140
+    },
+    {
+      "date": "1985-11-02",
+      "rank": 130
+    },
+    {
+      "date": "1985-11-09",
+      "rank": 128
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 128
+    },
+    {
+      "date": "1985-11-23",
+      "rank": 198
+    },
+    {
+      "date": "1985-11-30",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blue Orpheus",
+      "id": null
+    },
+    {
+      "title": "Johnee Jingo",
+      "id": null
+    },
+    {
+      "title": "Pretending to Care",
+      "id": null
+    },
+    {
+      "title": "Hodja",
+      "id": null
+    },
+    {
+      "title": "Lost Horizon",
+      "id": null
+    },
+    {
+      "title": "Something to Fall Back On",
+      "id": null
+    },
+    {
+      "title": "Miracle in the Bazaar",
+      "id": null
+    },
+    {
+      "title": "Lockjaw",
+      "id": null
+    },
+    {
+      "title": "Honest Work",
+      "id": null
+    },
+    {
+      "title": "Mighty Love",
+      "id": null
+    }
+  ]
+}
