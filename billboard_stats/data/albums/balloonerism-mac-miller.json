@@ -1,1 +1,86 @@
-{"id": "balloonerism-mac-miller", "title": "Balloonerism", "artist": "Mac Miller", "peak": 3, "history": [{"date": "2025-02-01", "rank": 3}, {"date": "2025-02-08", "rank": 21}, {"date": "2025-02-15", "rank": 64}, {"date": "2025-02-22", "rank": 131}, {"date": "2025-03-01", "rank": 196}]}
+{
+  "id": "balloonerism-mac-miller",
+  "title": "Balloonerism",
+  "artist": "Mac Miller",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2025-02-01",
+      "rank": 3
+    },
+    {
+      "date": "2025-02-08",
+      "rank": 21
+    },
+    {
+      "date": "2025-02-15",
+      "rank": 64
+    },
+    {
+      "date": "2025-02-22",
+      "rank": 131
+    },
+    {
+      "date": "2025-03-01",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "5 Dollar Pony Rides",
+      "id": "5-dollar-pony-rides-mac-miller"
+    },
+    {
+      "title": "Stoned",
+      "id": "stoned-mac-miller"
+    },
+    {
+      "title": "Funny Papers",
+      "id": "funny-papers-mac-miller"
+    },
+    {
+      "title": "Tambourine Dream",
+      "id": null
+    },
+    {
+      "title": "DJ’s Chord Organ",
+      "id": null
+    },
+    {
+      "title": "Do You Have a Destination?",
+      "id": null
+    },
+    {
+      "title": "Friendly Hallucinations",
+      "id": null
+    },
+    {
+      "title": "Mrs. Deborah Downer",
+      "id": null
+    },
+    {
+      "title": "Shangri‐La",
+      "id": null
+    },
+    {
+      "title": "Excelsior",
+      "id": null
+    },
+    {
+      "title": "Transformations",
+      "id": null
+    },
+    {
+      "title": "Manakins",
+      "id": null
+    },
+    {
+      "title": "Rick’s Piano",
+      "id": null
+    },
+    {
+      "title": "Tomorrow Will Never Know",
+      "id": null
+    }
+  ]
+}

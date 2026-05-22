@@ -1,1 +1,282 @@
-{"id": "bananarama-bananarama", "title": "Bananarama", "artist": "Bananarama", "peak": 30, "history": [{"date": "1984-06-02", "rank": 187}, {"date": "1984-06-09", "rank": 153}, {"date": "1984-06-16", "rank": 127}, {"date": "1984-06-23", "rank": 114}, {"date": "1984-06-30", "rank": 108}, {"date": "1984-07-07", "rank": 103}, {"date": "1984-07-14", "rank": 99}, {"date": "1984-07-21", "rank": 99}, {"date": "1984-07-28", "rank": 92}, {"date": "1984-08-04", "rank": 87}, {"date": "1984-08-11", "rank": 74}, {"date": "1984-08-18", "rank": 63}, {"date": "1984-08-25", "rank": 52}, {"date": "1984-09-01", "rank": 44}, {"date": "1984-09-08", "rank": 41}, {"date": "1984-09-15", "rank": 37}, {"date": "1984-09-22", "rank": 34}, {"date": "1984-09-29", "rank": 30}, {"date": "1984-10-06", "rank": 30}, {"date": "1984-10-13", "rank": 30}, {"date": "1984-10-20", "rank": 30}, {"date": "1984-10-27", "rank": 30}, {"date": "1984-11-03", "rank": 44}, {"date": "1984-11-10", "rank": 52}, {"date": "1984-11-17", "rank": 52}, {"date": "1984-11-24", "rank": 64}, {"date": "1984-12-01", "rank": 77}, {"date": "1984-12-08", "rank": 98}, {"date": "1984-12-15", "rank": 104}, {"date": "1984-12-22", "rank": 111}, {"date": "1984-12-29", "rank": 111}, {"date": "1985-01-05", "rank": 127}, {"date": "1985-01-12", "rank": 145}, {"date": "1985-01-19", "rank": 159}, {"date": "1985-01-26", "rank": 174}, {"date": "1985-02-02", "rank": 174}]}
+{
+  "id": "bananarama-bananarama",
+  "title": "Bananarama",
+  "artist": "Bananarama",
+  "peak": 30,
+  "history": [
+    {
+      "date": "1984-06-02",
+      "rank": 187
+    },
+    {
+      "date": "1984-06-09",
+      "rank": 153
+    },
+    {
+      "date": "1984-06-16",
+      "rank": 127
+    },
+    {
+      "date": "1984-06-23",
+      "rank": 114
+    },
+    {
+      "date": "1984-06-30",
+      "rank": 108
+    },
+    {
+      "date": "1984-07-07",
+      "rank": 103
+    },
+    {
+      "date": "1984-07-14",
+      "rank": 99
+    },
+    {
+      "date": "1984-07-21",
+      "rank": 99
+    },
+    {
+      "date": "1984-07-28",
+      "rank": 92
+    },
+    {
+      "date": "1984-08-04",
+      "rank": 87
+    },
+    {
+      "date": "1984-08-11",
+      "rank": 74
+    },
+    {
+      "date": "1984-08-18",
+      "rank": 63
+    },
+    {
+      "date": "1984-08-25",
+      "rank": 52
+    },
+    {
+      "date": "1984-09-01",
+      "rank": 44
+    },
+    {
+      "date": "1984-09-08",
+      "rank": 41
+    },
+    {
+      "date": "1984-09-15",
+      "rank": 37
+    },
+    {
+      "date": "1984-09-22",
+      "rank": 34
+    },
+    {
+      "date": "1984-09-29",
+      "rank": 30
+    },
+    {
+      "date": "1984-10-06",
+      "rank": 30
+    },
+    {
+      "date": "1984-10-13",
+      "rank": 30
+    },
+    {
+      "date": "1984-10-20",
+      "rank": 30
+    },
+    {
+      "date": "1984-10-27",
+      "rank": 30
+    },
+    {
+      "date": "1984-11-03",
+      "rank": 44
+    },
+    {
+      "date": "1984-11-10",
+      "rank": 52
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 52
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 64
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 77
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 98
+    },
+    {
+      "date": "1984-12-15",
+      "rank": 104
+    },
+    {
+      "date": "1984-12-22",
+      "rank": 111
+    },
+    {
+      "date": "1984-12-29",
+      "rank": 111
+    },
+    {
+      "date": "1985-01-05",
+      "rank": 127
+    },
+    {
+      "date": "1985-01-12",
+      "rank": 145
+    },
+    {
+      "date": "1985-01-19",
+      "rank": 159
+    },
+    {
+      "date": "1985-01-26",
+      "rank": 174
+    },
+    {
+      "date": "1985-02-02",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cruel Summer",
+      "id": "cruel-summer-bananarama"
+    },
+    {
+      "title": "Robert De Niro’s Waiting",
+      "id": "robert-de-niro-s-waiting-bananarama"
+    },
+    {
+      "title": "The Wild Life",
+      "id": "the-wild-life-bananarama"
+    },
+    {
+      "title": "Robert de Niro’s Waiting (extended version)",
+      "id": "robert-de-niro-s-waiting-bananarama"
+    },
+    {
+      "title": "The Wild Life (extended version)",
+      "id": "the-wild-life-bananarama"
+    },
+    {
+      "title": "Robert De Niro’s Waiting (7″ version)",
+      "id": "robert-de-niro-s-waiting-bananarama"
+    },
+    {
+      "title": "Cruel Summer (Cruel dub)",
+      "id": "cruel-summer-bananarama"
+    },
+    {
+      "title": "The Wild Life (dub version)",
+      "id": "the-wild-life-bananarama"
+    },
+    {
+      "title": "Cruel Summer (Summer dub)",
+      "id": "cruel-summer-bananarama"
+    },
+    {
+      "title": "The Wild Life (instrumental)",
+      "id": "the-wild-life-bananarama"
+    },
+    {
+      "title": "Rough Justice",
+      "id": null
+    },
+    {
+      "title": "King of the Jungle",
+      "id": null
+    },
+    {
+      "title": "Dream Baby",
+      "id": null
+    },
+    {
+      "title": "Link",
+      "id": null
+    },
+    {
+      "title": "Hot Line to Heaven",
+      "id": null
+    },
+    {
+      "title": "State I’m In",
+      "id": null
+    },
+    {
+      "title": "Through a Child’s Eyes",
+      "id": null
+    },
+    {
+      "title": "Cairo",
+      "id": null
+    },
+    {
+      "title": "Push!",
+      "id": null
+    },
+    {
+      "title": "Live Now",
+      "id": null
+    },
+    {
+      "title": "Rough Justice (extended version)",
+      "id": null
+    },
+    {
+      "title": "Cruel Summer (’89 Swing Beat dub)",
+      "id": null
+    },
+    {
+      "title": "Cruel Summer (’89 Swing Beat version)",
+      "id": null
+    },
+    {
+      "title": "Rough Justice (7″ version)",
+      "id": null
+    },
+    {
+      "title": "Hotline to Heaven (7″ version)",
+      "id": null
+    },
+    {
+      "title": "Rough Justice (original 12″ mix)",
+      "id": null
+    },
+    {
+      "title": "King of the Jungle (Unsegued version)",
+      "id": null
+    },
+    {
+      "title": "Dream Baby (Unsegued version)",
+      "id": null
+    },
+    {
+      "title": "Push! (extended version)",
+      "id": null
+    },
+    {
+      "title": "State I’m In (extended version)",
+      "id": null
+    },
+    {
+      "title": "State I’m In (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Cruel Summer (’89 Swing Beat instrumental)",
+      "id": null
+    }
+  ]
+}

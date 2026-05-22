@@ -1,1 +1,218 @@
-{"id": "balance-van-halen", "title": "Balance", "artist": "Van Halen", "peak": 1, "history": [{"date": "1995-02-11", "rank": 1}, {"date": "1995-02-18", "rank": 2}, {"date": "1995-02-25", "rank": 3}, {"date": "1995-03-04", "rank": 4}, {"date": "1995-03-11", "rank": 7}, {"date": "1995-03-18", "rank": 10}, {"date": "1995-03-25", "rank": 11}, {"date": "1995-04-01", "rank": 15}, {"date": "1995-04-08", "rank": 15}, {"date": "1995-04-15", "rank": 16}, {"date": "1995-04-22", "rank": 14}, {"date": "1995-04-29", "rank": 18}, {"date": "1995-05-06", "rank": 18}, {"date": "1995-05-13", "rank": 19}, {"date": "1995-05-20", "rank": 21}, {"date": "1995-05-27", "rank": 26}, {"date": "1995-06-03", "rank": 29}, {"date": "1995-06-10", "rank": 33}, {"date": "1995-06-17", "rank": 37}, {"date": "1995-06-24", "rank": 45}, {"date": "1995-07-01", "rank": 51}, {"date": "1995-07-08", "rank": 58}, {"date": "1995-07-15", "rank": 69}, {"date": "1995-07-22", "rank": 85}, {"date": "1995-07-29", "rank": 78}, {"date": "1995-08-05", "rank": 85}, {"date": "1995-08-12", "rank": 82}, {"date": "1995-08-19", "rank": 79}, {"date": "1995-08-26", "rank": 77}, {"date": "1995-09-02", "rank": 72}, {"date": "1995-09-09", "rank": 73}, {"date": "1995-09-16", "rank": 78}, {"date": "1995-09-23", "rank": 84}, {"date": "1995-09-30", "rank": 100}, {"date": "1995-10-07", "rank": 102}, {"date": "1995-10-14", "rank": 122}, {"date": "1995-10-21", "rank": 128}, {"date": "1995-10-28", "rank": 137}, {"date": "1995-11-04", "rank": 154}, {"date": "1995-11-11", "rank": 197}, {"date": "1995-11-18", "rank": 200}]}
+{
+  "id": "balance-van-halen",
+  "title": "Balance",
+  "artist": "Van Halen",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1995-02-11",
+      "rank": 1
+    },
+    {
+      "date": "1995-02-18",
+      "rank": 2
+    },
+    {
+      "date": "1995-02-25",
+      "rank": 3
+    },
+    {
+      "date": "1995-03-04",
+      "rank": 4
+    },
+    {
+      "date": "1995-03-11",
+      "rank": 7
+    },
+    {
+      "date": "1995-03-18",
+      "rank": 10
+    },
+    {
+      "date": "1995-03-25",
+      "rank": 11
+    },
+    {
+      "date": "1995-04-01",
+      "rank": 15
+    },
+    {
+      "date": "1995-04-08",
+      "rank": 15
+    },
+    {
+      "date": "1995-04-15",
+      "rank": 16
+    },
+    {
+      "date": "1995-04-22",
+      "rank": 14
+    },
+    {
+      "date": "1995-04-29",
+      "rank": 18
+    },
+    {
+      "date": "1995-05-06",
+      "rank": 18
+    },
+    {
+      "date": "1995-05-13",
+      "rank": 19
+    },
+    {
+      "date": "1995-05-20",
+      "rank": 21
+    },
+    {
+      "date": "1995-05-27",
+      "rank": 26
+    },
+    {
+      "date": "1995-06-03",
+      "rank": 29
+    },
+    {
+      "date": "1995-06-10",
+      "rank": 33
+    },
+    {
+      "date": "1995-06-17",
+      "rank": 37
+    },
+    {
+      "date": "1995-06-24",
+      "rank": 45
+    },
+    {
+      "date": "1995-07-01",
+      "rank": 51
+    },
+    {
+      "date": "1995-07-08",
+      "rank": 58
+    },
+    {
+      "date": "1995-07-15",
+      "rank": 69
+    },
+    {
+      "date": "1995-07-22",
+      "rank": 85
+    },
+    {
+      "date": "1995-07-29",
+      "rank": 78
+    },
+    {
+      "date": "1995-08-05",
+      "rank": 85
+    },
+    {
+      "date": "1995-08-12",
+      "rank": 82
+    },
+    {
+      "date": "1995-08-19",
+      "rank": 79
+    },
+    {
+      "date": "1995-08-26",
+      "rank": 77
+    },
+    {
+      "date": "1995-09-02",
+      "rank": 72
+    },
+    {
+      "date": "1995-09-09",
+      "rank": 73
+    },
+    {
+      "date": "1995-09-16",
+      "rank": 78
+    },
+    {
+      "date": "1995-09-23",
+      "rank": 84
+    },
+    {
+      "date": "1995-09-30",
+      "rank": 100
+    },
+    {
+      "date": "1995-10-07",
+      "rank": 102
+    },
+    {
+      "date": "1995-10-14",
+      "rank": 122
+    },
+    {
+      "date": "1995-10-21",
+      "rank": 128
+    },
+    {
+      "date": "1995-10-28",
+      "rank": 137
+    },
+    {
+      "date": "1995-11-04",
+      "rank": 154
+    },
+    {
+      "date": "1995-11-11",
+      "rank": 197
+    },
+    {
+      "date": "1995-11-18",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Can’t Stop Lovin’ You",
+      "id": "can-t-stop-lovin-you-van-halen"
+    },
+    {
+      "title": "Not Enough",
+      "id": "not-enough-van-halen"
+    },
+    {
+      "title": "The Seventh Seal",
+      "id": null
+    },
+    {
+      "title": "Don’t Tell Me (What Love Can Do)",
+      "id": null
+    },
+    {
+      "title": "Amsterdam",
+      "id": null
+    },
+    {
+      "title": "Big Fat Money",
+      "id": null
+    },
+    {
+      "title": "Doin’ Time",
+      "id": null
+    },
+    {
+      "title": "Aftershock",
+      "id": null
+    },
+    {
+      "title": "Strung Out",
+      "id": null
+    },
+    {
+      "title": "Take Me Back (Déjà Vu)",
+      "id": null
+    },
+    {
+      "title": "Feelin’",
+      "id": null
+    }
+  ]
+}

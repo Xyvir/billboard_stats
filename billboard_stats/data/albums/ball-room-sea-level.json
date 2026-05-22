@@ -1,1 +1,70 @@
-{"id": "ball-room-sea-level", "title": "Ball Room", "artist": "Sea Level", "peak": 152, "history": [{"date": "1980-08-23", "rank": 178}, {"date": "1980-08-30", "rank": 164}, {"date": "1980-09-06", "rank": 154}, {"date": "1980-09-13", "rank": 152}, {"date": "1980-09-20", "rank": 164}, {"date": "1980-09-27", "rank": 171}]}
+{
+  "id": "ball-room-sea-level",
+  "title": "Ball Room",
+  "artist": "Sea Level",
+  "peak": 152,
+  "history": [
+    {
+      "date": "1980-08-23",
+      "rank": 178
+    },
+    {
+      "date": "1980-08-30",
+      "rank": 164
+    },
+    {
+      "date": "1980-09-06",
+      "rank": 154
+    },
+    {
+      "date": "1980-09-13",
+      "rank": 152
+    },
+    {
+      "date": "1980-09-20",
+      "rank": 164
+    },
+    {
+      "date": "1980-09-27",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wild Side",
+      "id": null
+    },
+    {
+      "title": "School Teacher",
+      "id": null
+    },
+    {
+      "title": "Comfort Range",
+      "id": null
+    },
+    {
+      "title": "Anxiously Awaiting",
+      "id": null
+    },
+    {
+      "title": "Struttin'",
+      "id": null
+    },
+    {
+      "title": "We Will Wait",
+      "id": null
+    },
+    {
+      "title": "You Mean So Much to Me",
+      "id": null
+    },
+    {
+      "title": "Don't Want to Be Wrong",
+      "id": null
+    },
+    {
+      "title": "Bandstand",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "bad-vibrations-a-day-to-remember", "title": "Bad Vibrations", "artist": "A Day to Remember", "peak": 2, "history": [{"date": "2016-09-24", "rank": 2}, {"date": "2016-10-01", "rank": 28}, {"date": "2016-10-08", "rank": 92}, {"date": "2016-10-15", "rank": 136}]}
+{
+  "id": "bad-vibrations-a-day-to-remember",
+  "title": "Bad Vibrations",
+  "artist": "A Day to Remember",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2016-09-24",
+      "rank": 2
+    },
+    {
+      "date": "2016-10-01",
+      "rank": 28
+    },
+    {
+      "date": "2016-10-08",
+      "rank": 92
+    },
+    {
+      "date": "2016-10-15",
+      "rank": 136
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bad Vibrations",
+      "id": null
+    },
+    {
+      "title": "Paranoia",
+      "id": null
+    },
+    {
+      "title": "Naivety",
+      "id": null
+    },
+    {
+      "title": "Exposed",
+      "id": null
+    },
+    {
+      "title": "Bullfight",
+      "id": null
+    },
+    {
+      "title": "Reassemble",
+      "id": null
+    },
+    {
+      "title": "Justified",
+      "id": null
+    },
+    {
+      "title": "We Got This",
+      "id": null
+    },
+    {
+      "title": "Same About You",
+      "id": null
+    },
+    {
+      "title": "Turn Off the Radio",
+      "id": null
+    },
+    {
+      "title": "Forgive and Forget",
+      "id": null
+    }
+  ]
+}

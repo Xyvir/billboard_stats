@@ -1,1 +1,82 @@
-{"id": "ba-fa-the-hudson-brothers", "title": "Ba-Fa", "artist": "The Hudson Brothers", "peak": 165, "history": [{"date": "1975-12-13", "rank": 189}, {"date": "1975-12-20", "rank": 179}, {"date": "1975-12-27", "rank": 167}, {"date": "1976-01-03", "rank": 167}, {"date": "1976-01-10", "rank": 165}, {"date": "1976-01-17", "rank": 165}]}
+{
+  "id": "ba-fa-the-hudson-brothers",
+  "title": "Ba-Fa",
+  "artist": "The Hudson Brothers",
+  "peak": 165,
+  "history": [
+    {
+      "date": "1975-12-13",
+      "rank": 189
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 179
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 167
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 167
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 165
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lonely School Year",
+      "id": "lonely-school-year-the-hudson-brothers"
+    },
+    {
+      "title": "Rendezvous",
+      "id": "rendezvous-the-hudson-brothers"
+    },
+    {
+      "title": "Spinning the Wheel (With the Girl You Love)",
+      "id": null
+    },
+    {
+      "title": "Hard on Me",
+      "id": null
+    },
+    {
+      "title": "Oh Gabriel",
+      "id": null
+    },
+    {
+      "title": "Smooth Talker",
+      "id": null
+    },
+    {
+      "title": "My Career",
+      "id": null
+    },
+    {
+      "title": "Apple Pie Hero",
+      "id": null
+    },
+    {
+      "title": "Playmate",
+      "id": null
+    },
+    {
+      "title": "With Somebody Else",
+      "id": null
+    },
+    {
+      "title": "Bernie Was a Friend of Ours",
+      "id": null
+    },
+    {
+      "title": "My Heart Can't Take It",
+      "id": null
+    }
+  ]
+}
