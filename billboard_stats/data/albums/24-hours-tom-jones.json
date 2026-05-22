@@ -1,1 +1,74 @@
-{"id": "24-hours-tom-jones", "title": "24 Hours", "artist": "Tom Jones", "peak": 105, "history": [{"date": "2008-12-13", "rank": 105}, {"date": "2008-12-20", "rank": 144}, {"date": "2008-12-27", "rank": 158}]}
+{
+  "id": "24-hours-tom-jones",
+  "title": "24 Hours",
+  "artist": "Tom Jones",
+  "peak": 105,
+  "history": [
+    {
+      "date": "2008-12-13",
+      "rank": 105
+    },
+    {
+      "date": "2008-12-20",
+      "rank": 144
+    },
+    {
+      "date": "2008-12-27",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m Alive",
+      "id": null
+    },
+    {
+      "title": "If He Should Ever Leave You",
+      "id": null
+    },
+    {
+      "title": "We Got Love",
+      "id": null
+    },
+    {
+      "title": "Feels Like Music",
+      "id": null
+    },
+    {
+      "title": "Give a Little Love",
+      "id": null
+    },
+    {
+      "title": "The Road",
+      "id": null
+    },
+    {
+      "title": "In Style and Rhythm",
+      "id": null
+    },
+    {
+      "title": "Sugar Daddy",
+      "id": null
+    },
+    {
+      "title": "Seasons",
+      "id": null
+    },
+    {
+      "title": "Never",
+      "id": null
+    },
+    {
+      "title": "The Hitter",
+      "id": null
+    },
+    {
+      "title": "Seen That Face",
+      "id": null
+    },
+    {
+      "title": "24 Hours / Take Me Back to the Party",
+      "id": null
+    }
+  ]
+}
