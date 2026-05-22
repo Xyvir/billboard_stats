@@ -1,1 +1,66 @@
-{"id": "armando-pitbull", "title": "Armando", "artist": "Pitbull", "peak": 65, "history": [{"date": "2010-11-20", "rank": 65}, {"date": "2010-11-27", "rank": 127}]}
+{
+  "id": "armando-pitbull",
+  "title": "Armando",
+  "artist": "Pitbull",
+  "peak": 65,
+  "history": [
+    {
+      "date": "2010-11-20",
+      "rank": 65
+    },
+    {
+      "date": "2010-11-27",
+      "rank": 127
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bon, Bon",
+      "id": "bon-bon-pitbull"
+    },
+    {
+      "title": "Armando (intro)",
+      "id": null
+    },
+    {
+      "title": "Maldito alcohol",
+      "id": null
+    },
+    {
+      "title": "Esta noche (DJ Antoine vs. Mad Mark & Clubzound mix)",
+      "id": null
+    },
+    {
+      "title": "Mujeres",
+      "id": null
+    },
+    {
+      "title": "Guantanamera (She's Hot)",
+      "id": null
+    },
+    {
+      "title": "Tu cuerpo",
+      "id": null
+    },
+    {
+      "title": "Vida 23",
+      "id": null
+    },
+    {
+      "title": "Amorosa",
+      "id": null
+    },
+    {
+      "title": "Watagatapitusberry (remix)",
+      "id": null
+    },
+    {
+      "title": "Orgullo",
+      "id": null
+    },
+    {
+      "title": "Pregúntale",
+      "id": null
+    }
+  ]
+}

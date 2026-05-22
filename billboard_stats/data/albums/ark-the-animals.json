@@ -1,1 +1,102 @@
-{"id": "ark-the-animals", "title": "Ark", "artist": "The Animals", "peak": 66, "history": [{"date": "1983-09-10", "rank": 97}, {"date": "1983-09-17", "rank": 73}, {"date": "1983-09-24", "rank": 68}, {"date": "1983-10-01", "rank": 68}, {"date": "1983-10-08", "rank": 66}, {"date": "1983-10-15", "rank": 68}, {"date": "1983-10-22", "rank": 99}, {"date": "1983-10-29", "rank": 115}, {"date": "1983-11-05", "rank": 140}, {"date": "1983-11-12", "rank": 155}]}
+{
+  "id": "ark-the-animals",
+  "title": "Ark",
+  "artist": "The Animals",
+  "peak": 66,
+  "history": [
+    {
+      "date": "1983-09-10",
+      "rank": 97
+    },
+    {
+      "date": "1983-09-17",
+      "rank": 73
+    },
+    {
+      "date": "1983-09-24",
+      "rank": 68
+    },
+    {
+      "date": "1983-10-01",
+      "rank": 68
+    },
+    {
+      "date": "1983-10-08",
+      "rank": 66
+    },
+    {
+      "date": "1983-10-15",
+      "rank": 68
+    },
+    {
+      "date": "1983-10-22",
+      "rank": 99
+    },
+    {
+      "date": "1983-10-29",
+      "rank": 115
+    },
+    {
+      "date": "1983-11-05",
+      "rank": 140
+    },
+    {
+      "date": "1983-11-12",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Night",
+      "id": "the-night-the-animals"
+    },
+    {
+      "title": "Crystal Nights",
+      "id": "the-night-the-animals"
+    },
+    {
+      "title": "Loose Change",
+      "id": null
+    },
+    {
+      "title": "Love Is for All Time",
+      "id": null
+    },
+    {
+      "title": "My Favorite Enemy",
+      "id": null
+    },
+    {
+      "title": "Prisoner of the Light",
+      "id": null
+    },
+    {
+      "title": "Being There",
+      "id": null
+    },
+    {
+      "title": "Hard Times",
+      "id": null
+    },
+    {
+      "title": "Trying to Get You",
+      "id": null
+    },
+    {
+      "title": "Just Can’t Get Enough",
+      "id": null
+    },
+    {
+      "title": "Melt Down",
+      "id": null
+    },
+    {
+      "title": "Gotta Get Back to You",
+      "id": null
+    },
+    {
+      "title": "No John No",
+      "id": null
+    }
+  ]
+}

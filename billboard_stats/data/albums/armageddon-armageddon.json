@@ -1,1 +1,54 @@
-{"id": "armageddon-armageddon", "title": "Armageddon", "artist": "Armageddon", "peak": 151, "history": [{"date": "1975-06-07", "rank": 184}, {"date": "1975-06-14", "rank": 173}, {"date": "1975-06-21", "rank": 167}, {"date": "1975-06-28", "rank": 163}, {"date": "1975-07-05", "rank": 159}, {"date": "1975-07-12", "rank": 151}]}
+{
+  "id": "armageddon-armageddon",
+  "title": "Armageddon",
+  "artist": "Armageddon",
+  "peak": 151,
+  "history": [
+    {
+      "date": "1975-06-07",
+      "rank": 184
+    },
+    {
+      "date": "1975-06-14",
+      "rank": 173
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 167
+    },
+    {
+      "date": "1975-06-28",
+      "rank": 163
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 159
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 151
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Buzzard",
+      "id": null
+    },
+    {
+      "title": "Silver Tightrope",
+      "id": null
+    },
+    {
+      "title": "Paths and Planes and Future Gains",
+      "id": null
+    },
+    {
+      "title": "Last Stand Before",
+      "id": null
+    },
+    {
+      "title": "Basking in the White of the Midnight Sun",
+      "id": null
+    }
+  ]
+}

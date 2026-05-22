@@ -1,1 +1,94 @@
-{"id": "arrival-journey", "title": "Arrival", "artist": "Journey", "peak": 56, "history": [{"date": "2001-04-21", "rank": 56}, {"date": "2001-04-28", "rank": 102}, {"date": "2001-05-05", "rank": 110}, {"date": "2001-05-12", "rank": 112}, {"date": "2001-05-19", "rank": 138}, {"date": "2001-05-26", "rank": 159}]}
+{
+  "id": "arrival-journey",
+  "title": "Arrival",
+  "artist": "Journey",
+  "peak": 56,
+  "history": [
+    {
+      "date": "2001-04-21",
+      "rank": 56
+    },
+    {
+      "date": "2001-04-28",
+      "rank": 102
+    },
+    {
+      "date": "2001-05-05",
+      "rank": 110
+    },
+    {
+      "date": "2001-05-12",
+      "rank": 112
+    },
+    {
+      "date": "2001-05-19",
+      "rank": 138
+    },
+    {
+      "date": "2001-05-26",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "With Your Love",
+      "id": "when-you-love-a-woman-journey"
+    },
+    {
+      "title": "Higher Place",
+      "id": null
+    },
+    {
+      "title": "All the Way",
+      "id": null
+    },
+    {
+      "title": "Signs of Life",
+      "id": null
+    },
+    {
+      "title": "All the Things",
+      "id": null
+    },
+    {
+      "title": "Loved by You",
+      "id": null
+    },
+    {
+      "title": "Livin’ to Do",
+      "id": null
+    },
+    {
+      "title": "World Gone Wild",
+      "id": null
+    },
+    {
+      "title": "I Got a Reason",
+      "id": null
+    },
+    {
+      "title": "Lifetime of Dreams",
+      "id": null
+    },
+    {
+      "title": "Live and Breathe",
+      "id": null
+    },
+    {
+      "title": "Nothin’ Comes Close",
+      "id": null
+    },
+    {
+      "title": "To Be Alive Again",
+      "id": null
+    },
+    {
+      "title": "Kiss Me Softly",
+      "id": null
+    },
+    {
+      "title": "We Will Meet Again",
+      "id": null
+    }
+  ]
+}

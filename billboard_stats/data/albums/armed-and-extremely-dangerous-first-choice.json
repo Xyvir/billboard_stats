@@ -1,1 +1,66 @@
-{"id": "armed-and-extremely-dangerous-first-choice", "title": "Armed And Extremely Dangerous", "artist": "First Choice", "peak": 184, "history": [{"date": "1973-10-27", "rank": 189}, {"date": "1973-11-03", "rank": 187}, {"date": "1973-11-10", "rank": 184}, {"date": "1973-11-17", "rank": 200}]}
+{
+  "id": "armed-and-extremely-dangerous-first-choice",
+  "title": "Armed And Extremely Dangerous",
+  "artist": "First Choice",
+  "peak": 184,
+  "history": [
+    {
+      "date": "1973-10-27",
+      "rank": 189
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 187
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 184
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Smarty Pants",
+      "id": "smarty-pants-first-choice"
+    },
+    {
+      "title": "Newsy Neighbors",
+      "id": "newsy-neighbors-first-choice"
+    },
+    {
+      "title": "Armed and Extremely Dangerous",
+      "id": "armed-and-extremely-dangerous-first-choice"
+    },
+    {
+      "title": "Runnin' Out of Fools",
+      "id": null
+    },
+    {
+      "title": "A Boy Named Junior",
+      "id": null
+    },
+    {
+      "title": "Love and Happiness",
+      "id": null
+    },
+    {
+      "title": "Wake Up to Me",
+      "id": null
+    },
+    {
+      "title": "This Little Woman",
+      "id": null
+    },
+    {
+      "title": "This Is the House",
+      "id": null
+    },
+    {
+      "title": "One Step Away",
+      "id": null
+    }
+  ]
+}

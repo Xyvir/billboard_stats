@@ -1,1 +1,134 @@
-{"id": "a-rock-hardy", "title": "A Rock", "artist": "HARDY", "peak": 24, "history": [{"date": "2020-09-19", "rank": 24}, {"date": "2020-09-26", "rank": 58}, {"date": "2020-10-03", "rank": 95}, {"date": "2020-10-10", "rank": 121}, {"date": "2020-10-17", "rank": 99}, {"date": "2020-10-24", "rank": 101}, {"date": "2020-10-31", "rank": 98}, {"date": "2020-11-07", "rank": 103}, {"date": "2020-11-14", "rank": 118}, {"date": "2020-11-21", "rank": 121}, {"date": "2020-11-28", "rank": 157}, {"date": "2020-12-05", "rank": 178}, {"date": "2022-05-21", "rank": 196}, {"date": "2022-05-28", "rank": 182}, {"date": "2022-06-11", "rank": 187}, {"date": "2022-06-18", "rank": 192}, {"date": "2022-06-25", "rank": 190}, {"date": "2022-07-02", "rank": 194}, {"date": "2022-07-16", "rank": 200}]}
+{
+  "id": "a-rock-hardy",
+  "title": "A Rock",
+  "artist": "HARDY",
+  "peak": 24,
+  "history": [
+    {
+      "date": "2020-09-19",
+      "rank": 24
+    },
+    {
+      "date": "2020-09-26",
+      "rank": 58
+    },
+    {
+      "date": "2020-10-03",
+      "rank": 95
+    },
+    {
+      "date": "2020-10-10",
+      "rank": 121
+    },
+    {
+      "date": "2020-10-17",
+      "rank": 99
+    },
+    {
+      "date": "2020-10-24",
+      "rank": 101
+    },
+    {
+      "date": "2020-10-31",
+      "rank": 98
+    },
+    {
+      "date": "2020-11-07",
+      "rank": 103
+    },
+    {
+      "date": "2020-11-14",
+      "rank": 118
+    },
+    {
+      "date": "2020-11-21",
+      "rank": 121
+    },
+    {
+      "date": "2020-11-28",
+      "rank": 157
+    },
+    {
+      "date": "2020-12-05",
+      "rank": 178
+    },
+    {
+      "date": "2022-05-21",
+      "rank": 196
+    },
+    {
+      "date": "2022-05-28",
+      "rank": 182
+    },
+    {
+      "date": "2022-06-11",
+      "rank": 187
+    },
+    {
+      "date": "2022-06-18",
+      "rank": 192
+    },
+    {
+      "date": "2022-06-25",
+      "rank": 190
+    },
+    {
+      "date": "2022-07-02",
+      "rank": 194
+    },
+    {
+      "date": "2022-07-16",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "TRUCK",
+      "id": "truck-bed-hardy"
+    },
+    {
+      "title": "GIVE HEAVEN SOME HELL",
+      "id": "give-heaven-some-hell-hardy"
+    },
+    {
+      "title": "BOYFRIEND",
+      "id": null
+    },
+    {
+      "title": "BOOTS",
+      "id": null
+    },
+    {
+      "title": "WHERE YA AT",
+      "id": null
+    },
+    {
+      "title": "AIN'T A BAD DAY",
+      "id": null
+    },
+    {
+      "title": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
+      "id": null
+    },
+    {
+      "title": "SO CLOSE (feat. Ashland Craft)",
+      "id": null
+    },
+    {
+      "title": "BROKE BOY",
+      "id": null
+    },
+    {
+      "title": "HATE YOUR HOMETOWN",
+      "id": null
+    },
+    {
+      "title": "UNAPOLOGETICALLY COUNTRY AS HELL",
+      "id": null
+    },
+    {
+      "title": "A ROCK",
+      "id": null
+    }
+  ]
+}

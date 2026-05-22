@@ -1,1 +1,86 @@
-{"id": "arrivals-departures-silverstein", "title": "Arrivals & Departures", "artist": "Silverstein", "peak": 25, "history": [{"date": "2007-07-21", "rank": 25}, {"date": "2007-07-28", "rank": 56}, {"date": "2007-08-04", "rank": 92}, {"date": "2007-08-11", "rank": 132}, {"date": "2007-08-18", "rank": 163}, {"date": "2007-08-25", "rank": 171}, {"date": "2007-09-01", "rank": 190}, {"date": "2007-09-08", "rank": 198}]}
+{
+  "id": "arrivals-departures-silverstein",
+  "title": "Arrivals & Departures",
+  "artist": "Silverstein",
+  "peak": 25,
+  "history": [
+    {
+      "date": "2007-07-21",
+      "rank": 25
+    },
+    {
+      "date": "2007-07-28",
+      "rank": 56
+    },
+    {
+      "date": "2007-08-04",
+      "rank": 92
+    },
+    {
+      "date": "2007-08-11",
+      "rank": 132
+    },
+    {
+      "date": "2007-08-18",
+      "rank": 163
+    },
+    {
+      "date": "2007-08-25",
+      "rank": 171
+    },
+    {
+      "date": "2007-09-01",
+      "rank": 190
+    },
+    {
+      "date": "2007-09-08",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sound of the Sun",
+      "id": null
+    },
+    {
+      "title": "Bodies and Words",
+      "id": null
+    },
+    {
+      "title": "If You Could See Into My Soul",
+      "id": null
+    },
+    {
+      "title": "Worlds Apart",
+      "id": null
+    },
+    {
+      "title": "My Disaster",
+      "id": null
+    },
+    {
+      "title": "Still Dreaming",
+      "id": null
+    },
+    {
+      "title": "The Sand Will Turn to Glass",
+      "id": null
+    },
+    {
+      "title": "Here Today, Gone Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Vanity and Greed",
+      "id": null
+    },
+    {
+      "title": "Love With Caution",
+      "id": null
+    },
+    {
+      "title": "True Romance",
+      "id": null
+    }
+  ]
+}

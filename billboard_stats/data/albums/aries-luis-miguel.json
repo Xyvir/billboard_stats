@@ -1,1 +1,62 @@
-{"id": "aries-luis-miguel", "title": "Aries", "artist": "Luis Miguel", "peak": 182, "history": [{"date": "1993-07-10", "rank": 182}, {"date": "1993-07-17", "rank": 187}, {"date": "1993-07-24", "rank": 195}]}
+{
+  "id": "aries-luis-miguel",
+  "title": "Aries",
+  "artist": "Luis Miguel",
+  "peak": 182,
+  "history": [
+    {
+      "date": "1993-07-10",
+      "rank": 182
+    },
+    {
+      "date": "1993-07-17",
+      "rank": 187
+    },
+    {
+      "date": "1993-07-24",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Suave",
+      "id": null
+    },
+    {
+      "title": "Me niego a estar solo",
+      "id": null
+    },
+    {
+      "title": "Luz verde",
+      "id": null
+    },
+    {
+      "title": "Hasta el fin",
+      "id": null
+    },
+    {
+      "title": "Ayer",
+      "id": null
+    },
+    {
+      "title": "Que nivel de mujer",
+      "id": null
+    },
+    {
+      "title": "Pensar en ti",
+      "id": null
+    },
+    {
+      "title": "Dame tu amor",
+      "id": null
+    },
+    {
+      "title": "Hasta que me olvides",
+      "id": null
+    },
+    {
+      "title": "Tú y yo",
+      "id": null
+    }
+  ]
+}
