@@ -1,1 +1,50 @@
-{"id": "bachman-turner-overdrive-bachman-turner-overdrive", "title": "Bachman Turner Overdrive", "artist": "Bachman-Turner Overdrive", "peak": 191, "history": [{"date": "1984-09-29", "rank": 194}, {"date": "1984-10-06", "rank": 191}]}
+{
+  "id": "bachman-turner-overdrive-bachman-turner-overdrive",
+  "title": "Bachman Turner Overdrive",
+  "artist": "Bachman-Turner Overdrive",
+  "peak": 191,
+  "history": [
+    {
+      "date": "1984-09-29",
+      "rank": 194
+    },
+    {
+      "date": "1984-10-06",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Gimme Your Money Please",
+      "id": "gimme-your-money-please-bachman-turner-overdrive"
+    },
+    {
+      "title": "Blue Collar",
+      "id": "blue-collar-bachman-turner-overdrive"
+    },
+    {
+      "title": "Hold Back the Water",
+      "id": null
+    },
+    {
+      "title": "Little Gandy Dancer",
+      "id": null
+    },
+    {
+      "title": "Stayed Awake All Night",
+      "id": null
+    },
+    {
+      "title": "Down and Out Man",
+      "id": null
+    },
+    {
+      "title": "Don’t Get Yourself in Trouble",
+      "id": null
+    },
+    {
+      "title": "Thank You for the Feelin’",
+      "id": null
+    }
+  ]
+}

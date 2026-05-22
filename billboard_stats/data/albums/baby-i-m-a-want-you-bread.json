@@ -1,1 +1,222 @@
-{"id": "baby-i-m-a-want-you-bread", "title": "Baby I'm-A Want You", "artist": "Bread", "peak": 10, "history": [{"date": "1972-05-20", "rank": 11}, {"date": "1972-05-27", "rank": 10}, {"date": "1972-06-03", "rank": 14}, {"date": "1972-06-10", "rank": 19}, {"date": "1972-06-17", "rank": 20}, {"date": "1972-06-24", "rank": 39}, {"date": "1972-07-01", "rank": 43}, {"date": "1972-07-08", "rank": 47}, {"date": "1972-07-15", "rank": 53}, {"date": "1972-07-22", "rank": 56}, {"date": "1972-07-29", "rank": 60}, {"date": "1972-08-05", "rank": 71}, {"date": "1972-08-12", "rank": 78}, {"date": "1972-08-19", "rank": 80}, {"date": "1972-08-26", "rank": 96}, {"date": "1972-09-02", "rank": 102}, {"date": "1972-09-09", "rank": 102}, {"date": "1972-09-16", "rank": 97}, {"date": "1972-09-23", "rank": 97}, {"date": "1972-09-30", "rank": 82}, {"date": "1972-10-07", "rank": 86}, {"date": "1972-10-14", "rank": 88}, {"date": "1972-10-21", "rank": 96}, {"date": "1972-10-28", "rank": 93}, {"date": "1972-11-04", "rank": 93}, {"date": "1972-11-11", "rank": 95}, {"date": "1972-11-18", "rank": 112}, {"date": "1972-11-25", "rank": 108}, {"date": "1972-12-02", "rank": 114}, {"date": "1972-12-09", "rank": 121}, {"date": "1972-12-16", "rank": 136}, {"date": "1972-12-23", "rank": 148}, {"date": "1972-12-30", "rank": 158}, {"date": "1973-01-06", "rank": 154}, {"date": "1973-01-13", "rank": 154}, {"date": "1973-01-20", "rank": 156}, {"date": "1973-01-27", "rank": 159}, {"date": "1973-02-03", "rank": 161}, {"date": "1973-02-10", "rank": 160}, {"date": "1973-02-17", "rank": 166}, {"date": "1973-02-24", "rank": 166}]}
+{
+  "id": "baby-i-m-a-want-you-bread",
+  "title": "Baby I'm-A Want You",
+  "artist": "Bread",
+  "peak": 10,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 11
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 10
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 14
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 19
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 20
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 39
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 43
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 47
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 53
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 56
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 60
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 71
+    },
+    {
+      "date": "1972-08-12",
+      "rank": 78
+    },
+    {
+      "date": "1972-08-19",
+      "rank": 80
+    },
+    {
+      "date": "1972-08-26",
+      "rank": 96
+    },
+    {
+      "date": "1972-09-02",
+      "rank": 102
+    },
+    {
+      "date": "1972-09-09",
+      "rank": 102
+    },
+    {
+      "date": "1972-09-16",
+      "rank": 97
+    },
+    {
+      "date": "1972-09-23",
+      "rank": 97
+    },
+    {
+      "date": "1972-09-30",
+      "rank": 82
+    },
+    {
+      "date": "1972-10-07",
+      "rank": 86
+    },
+    {
+      "date": "1972-10-14",
+      "rank": 88
+    },
+    {
+      "date": "1972-10-21",
+      "rank": 96
+    },
+    {
+      "date": "1972-10-28",
+      "rank": 93
+    },
+    {
+      "date": "1972-11-04",
+      "rank": 93
+    },
+    {
+      "date": "1972-11-11",
+      "rank": 95
+    },
+    {
+      "date": "1972-11-18",
+      "rank": 112
+    },
+    {
+      "date": "1972-11-25",
+      "rank": 108
+    },
+    {
+      "date": "1972-12-02",
+      "rank": 114
+    },
+    {
+      "date": "1972-12-09",
+      "rank": 121
+    },
+    {
+      "date": "1972-12-16",
+      "rank": 136
+    },
+    {
+      "date": "1972-12-23",
+      "rank": 148
+    },
+    {
+      "date": "1972-12-30",
+      "rank": 158
+    },
+    {
+      "date": "1973-01-06",
+      "rank": 154
+    },
+    {
+      "date": "1973-01-13",
+      "rank": 154
+    },
+    {
+      "date": "1973-01-20",
+      "rank": 156
+    },
+    {
+      "date": "1973-01-27",
+      "rank": 159
+    },
+    {
+      "date": "1973-02-03",
+      "rank": 161
+    },
+    {
+      "date": "1973-02-10",
+      "rank": 160
+    },
+    {
+      "date": "1973-02-17",
+      "rank": 166
+    },
+    {
+      "date": "1973-02-24",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mother Freedom",
+      "id": "mother-freedom-bread"
+    },
+    {
+      "title": "Baby I’m‐a Want You",
+      "id": "baby-i-m-a-want-you-bread"
+    },
+    {
+      "title": "Everything I Own",
+      "id": "everything-i-own-bread"
+    },
+    {
+      "title": "Diary",
+      "id": "diary-bread"
+    },
+    {
+      "title": "Down on My Knees",
+      "id": null
+    },
+    {
+      "title": "Nobody Like You",
+      "id": null
+    },
+    {
+      "title": "Dream Lady",
+      "id": null
+    },
+    {
+      "title": "Daughter",
+      "id": null
+    },
+    {
+      "title": "Games of Magic",
+      "id": null
+    },
+    {
+      "title": "This Isn’t What the Governmeant",
+      "id": null
+    },
+    {
+      "title": "Just Like Yesterday",
+      "id": null
+    },
+    {
+      "title": "I Don’t Love You",
+      "id": null
+    }
+  ]
+}
