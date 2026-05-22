@@ -1,1 +1,66 @@
-{"id": "2-mudcrutch", "title": "2", "artist": "Mudcrutch", "peak": 10, "history": [{"date": "2016-06-11", "rank": 10}, {"date": "2016-06-18", "rank": 89}, {"date": "2016-06-25", "rank": 193}]}
+{
+  "id": "2-mudcrutch",
+  "title": "2",
+  "artist": "Mudcrutch",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2016-06-11",
+      "rank": 10
+    },
+    {
+      "date": "2016-06-18",
+      "rank": 89
+    },
+    {
+      "date": "2016-06-25",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Trailer",
+      "id": null
+    },
+    {
+      "title": "Dreams of Flying",
+      "id": null
+    },
+    {
+      "title": "Beautiful Blue",
+      "id": null
+    },
+    {
+      "title": "Beautiful World",
+      "id": null
+    },
+    {
+      "title": "I Forgive It All",
+      "id": null
+    },
+    {
+      "title": "The Other Side of the Mountain",
+      "id": null
+    },
+    {
+      "title": "Hope",
+      "id": null
+    },
+    {
+      "title": "Welcome to Hell",
+      "id": null
+    },
+    {
+      "title": "Save Your Water",
+      "id": null
+    },
+    {
+      "title": "Victim of Circumstance",
+      "id": null
+    },
+    {
+      "title": "Hungry No More",
+      "id": null
+    }
+  ]
+}
