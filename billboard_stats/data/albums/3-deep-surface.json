@@ -1,1 +1,194 @@
-{"id": "3-deep-surface", "title": "3 Deep", "artist": "Surface", "peak": 65, "history": [{"date": "1990-11-24", "rank": 175}, {"date": "1990-12-01", "rank": 122}, {"date": "1990-12-08", "rank": 126}, {"date": "1990-12-15", "rank": 123}, {"date": "1990-12-22", "rank": 128}, {"date": "1990-12-29", "rank": 128}, {"date": "1991-01-05", "rank": 125}, {"date": "1991-01-12", "rank": 120}, {"date": "1991-01-19", "rank": 115}, {"date": "1991-01-26", "rank": 103}, {"date": "1991-02-02", "rank": 92}, {"date": "1991-02-09", "rank": 76}, {"date": "1991-02-16", "rank": 76}, {"date": "1991-02-23", "rank": 65}, {"date": "1991-03-02", "rank": 65}, {"date": "1991-03-09", "rank": 77}, {"date": "1991-03-16", "rank": 83}, {"date": "1991-03-23", "rank": 101}, {"date": "1991-03-30", "rank": 103}, {"date": "1991-04-06", "rank": 107}, {"date": "1991-04-13", "rank": 144}, {"date": "1991-04-20", "rank": 166}, {"date": "1991-04-27", "rank": 180}, {"date": "1991-05-04", "rank": 197}, {"date": "1991-05-11", "rank": 199}, {"date": "1991-05-25", "rank": 160}, {"date": "1991-06-01", "rank": 150}, {"date": "1991-06-08", "rank": 165}, {"date": "1991-06-15", "rank": 162}, {"date": "1991-06-22", "rank": 162}, {"date": "1991-06-29", "rank": 191}, {"date": "1991-07-06", "rank": 184}, {"date": "1991-07-13", "rank": 179}, {"date": "1991-07-20", "rank": 195}]}
+{
+  "id": "3-deep-surface",
+  "title": "3 Deep",
+  "artist": "Surface",
+  "peak": 65,
+  "history": [
+    {
+      "date": "1990-11-24",
+      "rank": 175
+    },
+    {
+      "date": "1990-12-01",
+      "rank": 122
+    },
+    {
+      "date": "1990-12-08",
+      "rank": 126
+    },
+    {
+      "date": "1990-12-15",
+      "rank": 123
+    },
+    {
+      "date": "1990-12-22",
+      "rank": 128
+    },
+    {
+      "date": "1990-12-29",
+      "rank": 128
+    },
+    {
+      "date": "1991-01-05",
+      "rank": 125
+    },
+    {
+      "date": "1991-01-12",
+      "rank": 120
+    },
+    {
+      "date": "1991-01-19",
+      "rank": 115
+    },
+    {
+      "date": "1991-01-26",
+      "rank": 103
+    },
+    {
+      "date": "1991-02-02",
+      "rank": 92
+    },
+    {
+      "date": "1991-02-09",
+      "rank": 76
+    },
+    {
+      "date": "1991-02-16",
+      "rank": 76
+    },
+    {
+      "date": "1991-02-23",
+      "rank": 65
+    },
+    {
+      "date": "1991-03-02",
+      "rank": 65
+    },
+    {
+      "date": "1991-03-09",
+      "rank": 77
+    },
+    {
+      "date": "1991-03-16",
+      "rank": 83
+    },
+    {
+      "date": "1991-03-23",
+      "rank": 101
+    },
+    {
+      "date": "1991-03-30",
+      "rank": 103
+    },
+    {
+      "date": "1991-04-06",
+      "rank": 107
+    },
+    {
+      "date": "1991-04-13",
+      "rank": 144
+    },
+    {
+      "date": "1991-04-20",
+      "rank": 166
+    },
+    {
+      "date": "1991-04-27",
+      "rank": 180
+    },
+    {
+      "date": "1991-05-04",
+      "rank": 197
+    },
+    {
+      "date": "1991-05-11",
+      "rank": 199
+    },
+    {
+      "date": "1991-05-25",
+      "rank": 160
+    },
+    {
+      "date": "1991-06-01",
+      "rank": 150
+    },
+    {
+      "date": "1991-06-08",
+      "rank": 165
+    },
+    {
+      "date": "1991-06-15",
+      "rank": 162
+    },
+    {
+      "date": "1991-06-22",
+      "rank": 162
+    },
+    {
+      "date": "1991-06-29",
+      "rank": 191
+    },
+    {
+      "date": "1991-07-06",
+      "rank": 184
+    },
+    {
+      "date": "1991-07-13",
+      "rank": 179
+    },
+    {
+      "date": "1991-07-20",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The First Time",
+      "id": "the-first-time-surface"
+    },
+    {
+      "title": "Give Her Your Love",
+      "id": "shower-me-with-your-love-surface"
+    },
+    {
+      "title": "Never Gonna Let You Down",
+      "id": "never-gonna-let-you-down-surface"
+    },
+    {
+      "title": "All I Want is You",
+      "id": null
+    },
+    {
+      "title": "Tomorrow",
+      "id": null
+    },
+    {
+      "title": "You're the One",
+      "id": null
+    },
+    {
+      "title": "\"10\"",
+      "id": null
+    },
+    {
+      "title": "Don't Wanna Turn You Off",
+      "id": null
+    },
+    {
+      "title": "When It Comes to Love",
+      "id": null
+    },
+    {
+      "title": "Ain't Givin' Up",
+      "id": null
+    },
+    {
+      "title": "Love X Trust",
+      "id": null
+    },
+    {
+      "title": "Kid Stuff, (Believe in Yourself)",
+      "id": null
+    }
+  ]
+}

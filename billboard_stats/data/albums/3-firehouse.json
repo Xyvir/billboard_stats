@@ -1,1 +1,90 @@
-{"id": "3-firehouse", "title": "3", "artist": "Firehouse", "peak": 66, "history": [{"date": "1995-04-29", "rank": 70}, {"date": "1995-05-06", "rank": 66}, {"date": "1995-05-13", "rank": 88}, {"date": "1995-05-20", "rank": 94}, {"date": "1995-05-27", "rank": 113}, {"date": "1995-06-03", "rank": 123}, {"date": "1995-06-10", "rank": 140}, {"date": "1995-06-17", "rank": 153}, {"date": "1995-06-24", "rank": 183}]}
+{
+  "id": "3-firehouse",
+  "title": "3",
+  "artist": "Firehouse",
+  "peak": 66,
+  "history": [
+    {
+      "date": "1995-04-29",
+      "rank": 70
+    },
+    {
+      "date": "1995-05-06",
+      "rank": 66
+    },
+    {
+      "date": "1995-05-13",
+      "rank": 88
+    },
+    {
+      "date": "1995-05-20",
+      "rank": 94
+    },
+    {
+      "date": "1995-05-27",
+      "rank": 113
+    },
+    {
+      "date": "1995-06-03",
+      "rank": 123
+    },
+    {
+      "date": "1995-06-10",
+      "rank": 140
+    },
+    {
+      "date": "1995-06-17",
+      "rank": 153
+    },
+    {
+      "date": "1995-06-24",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Live My Life for You",
+      "id": "i-live-my-life-for-you-firehouse"
+    },
+    {
+      "title": "I Live My Life For You (Acoustic)",
+      "id": "i-live-my-life-for-you-firehouse"
+    },
+    {
+      "title": "Love Is a Dangerous Thing",
+      "id": null
+    },
+    {
+      "title": "What’s Wrong",
+      "id": null
+    },
+    {
+      "title": "Somethin’ ’bout Your Body",
+      "id": null
+    },
+    {
+      "title": "Trying to Make a Living",
+      "id": null
+    },
+    {
+      "title": "Here for You",
+      "id": null
+    },
+    {
+      "title": "Get a Life",
+      "id": null
+    },
+    {
+      "title": "Two Sides",
+      "id": null
+    },
+    {
+      "title": "No One at All",
+      "id": null
+    },
+    {
+      "title": "Temptation",
+      "id": null
+    }
+  ]
+}
