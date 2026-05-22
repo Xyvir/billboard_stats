@@ -1,1 +1,114 @@
-{"id": "beauty-stab-abc", "title": "Beauty Stab", "artist": "ABC", "peak": 69, "history": [{"date": "1983-12-17", "rank": 86}, {"date": "1983-12-24", "rank": 77}, {"date": "1983-12-31", "rank": 77}, {"date": "1984-01-07", "rank": 73}, {"date": "1984-01-14", "rank": 72}, {"date": "1984-01-21", "rank": 72}, {"date": "1984-01-28", "rank": 69}, {"date": "1984-02-04", "rank": 69}, {"date": "1984-02-11", "rank": 88}, {"date": "1984-02-18", "rank": 86}, {"date": "1984-02-25", "rank": 96}, {"date": "1984-03-03", "rank": 103}, {"date": "1984-03-10", "rank": 115}, {"date": "1984-03-17", "rank": 158}]}
+{
+  "id": "beauty-stab-abc",
+  "title": "Beauty Stab",
+  "artist": "ABC",
+  "peak": 69,
+  "history": [
+    {
+      "date": "1983-12-17",
+      "rank": 86
+    },
+    {
+      "date": "1983-12-24",
+      "rank": 77
+    },
+    {
+      "date": "1983-12-31",
+      "rank": 77
+    },
+    {
+      "date": "1984-01-07",
+      "rank": 73
+    },
+    {
+      "date": "1984-01-14",
+      "rank": 72
+    },
+    {
+      "date": "1984-01-21",
+      "rank": 72
+    },
+    {
+      "date": "1984-01-28",
+      "rank": 69
+    },
+    {
+      "date": "1984-02-04",
+      "rank": 69
+    },
+    {
+      "date": "1984-02-11",
+      "rank": 88
+    },
+    {
+      "date": "1984-02-18",
+      "rank": 86
+    },
+    {
+      "date": "1984-02-25",
+      "rank": 96
+    },
+    {
+      "date": "1984-03-03",
+      "rank": 103
+    },
+    {
+      "date": "1984-03-10",
+      "rank": 115
+    },
+    {
+      "date": "1984-03-17",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "That Was Then but This Is Now",
+      "id": "that-was-then-but-this-is-now-abc"
+    },
+    {
+      "title": "Love’s a Dangerous Language",
+      "id": null
+    },
+    {
+      "title": "If I Ever Thought You’d Be Lonely",
+      "id": null
+    },
+    {
+      "title": "The Power of Persuasion",
+      "id": null
+    },
+    {
+      "title": "Beauty Stab",
+      "id": null
+    },
+    {
+      "title": "By Default by Design",
+      "id": null
+    },
+    {
+      "title": "Hey Citizen!",
+      "id": null
+    },
+    {
+      "title": "King Money",
+      "id": null
+    },
+    {
+      "title": "Bite the Hand",
+      "id": null
+    },
+    {
+      "title": "Unzip",
+      "id": null
+    },
+    {
+      "title": "S.O.S.",
+      "id": null
+    },
+    {
+      "title": "United Kingdom",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,162 @@
-{"id": "be-common", "title": "Be", "artist": "Common", "peak": 2, "history": [{"date": "2005-06-11", "rank": 2}, {"date": "2005-06-18", "rank": 6}, {"date": "2005-06-25", "rank": 14}, {"date": "2005-07-02", "rank": 19}, {"date": "2005-07-09", "rank": 22}, {"date": "2005-07-16", "rank": 31}, {"date": "2005-07-23", "rank": 35}, {"date": "2005-07-30", "rank": 36}, {"date": "2005-08-06", "rank": 35}, {"date": "2005-08-13", "rank": 58}, {"date": "2005-08-20", "rank": 71}, {"date": "2005-08-27", "rank": 58}, {"date": "2005-09-03", "rank": 74}, {"date": "2005-09-10", "rank": 72}, {"date": "2005-09-17", "rank": 55}, {"date": "2005-09-24", "rank": 80}, {"date": "2005-10-01", "rank": 104}, {"date": "2005-10-08", "rank": 138}, {"date": "2005-10-15", "rank": 115}, {"date": "2005-10-22", "rank": 150}, {"date": "2005-10-29", "rank": 146}, {"date": "2005-11-05", "rank": 142}, {"date": "2005-11-12", "rank": 143}, {"date": "2005-11-19", "rank": 156}, {"date": "2005-11-26", "rank": 182}, {"date": "2005-12-03", "rank": 190}, {"date": "2006-01-14", "rank": 187}]}
+{
+  "id": "be-common",
+  "title": "Be",
+  "artist": "Common",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2005-06-11",
+      "rank": 2
+    },
+    {
+      "date": "2005-06-18",
+      "rank": 6
+    },
+    {
+      "date": "2005-06-25",
+      "rank": 14
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 19
+    },
+    {
+      "date": "2005-07-09",
+      "rank": 22
+    },
+    {
+      "date": "2005-07-16",
+      "rank": 31
+    },
+    {
+      "date": "2005-07-23",
+      "rank": 35
+    },
+    {
+      "date": "2005-07-30",
+      "rank": 36
+    },
+    {
+      "date": "2005-08-06",
+      "rank": 35
+    },
+    {
+      "date": "2005-08-13",
+      "rank": 58
+    },
+    {
+      "date": "2005-08-20",
+      "rank": 71
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 58
+    },
+    {
+      "date": "2005-09-03",
+      "rank": 74
+    },
+    {
+      "date": "2005-09-10",
+      "rank": 72
+    },
+    {
+      "date": "2005-09-17",
+      "rank": 55
+    },
+    {
+      "date": "2005-09-24",
+      "rank": 80
+    },
+    {
+      "date": "2005-10-01",
+      "rank": 104
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 138
+    },
+    {
+      "date": "2005-10-15",
+      "rank": 115
+    },
+    {
+      "date": "2005-10-22",
+      "rank": 150
+    },
+    {
+      "date": "2005-10-29",
+      "rank": 146
+    },
+    {
+      "date": "2005-11-05",
+      "rank": 142
+    },
+    {
+      "date": "2005-11-12",
+      "rank": 143
+    },
+    {
+      "date": "2005-11-19",
+      "rank": 156
+    },
+    {
+      "date": "2005-11-26",
+      "rank": 182
+    },
+    {
+      "date": "2005-12-03",
+      "rank": 190
+    },
+    {
+      "date": "2006-01-14",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "GO!",
+      "id": "go-common"
+    },
+    {
+      "title": "Be (intro)",
+      "id": null
+    },
+    {
+      "title": "The Corner",
+      "id": null
+    },
+    {
+      "title": "Faithful",
+      "id": null
+    },
+    {
+      "title": "Testify",
+      "id": null
+    },
+    {
+      "title": "Love Is…",
+      "id": null
+    },
+    {
+      "title": "Chi‐City",
+      "id": null
+    },
+    {
+      "title": "The Food (live)",
+      "id": null
+    },
+    {
+      "title": "Real People",
+      "id": null
+    },
+    {
+      "title": "They Say",
+      "id": null
+    },
+    {
+      "title": "It’s Your World, Parts 1 & 2",
+      "id": null
+    }
+  ]
+}
