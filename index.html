@@ -643,9 +643,46 @@
             }
         }
 
-        // Load the initial chart (BB200) automatically when the page loads
-        document.addEventListener('DOMContentLoaded', () => {
+        async function initializeLatestChart() {
+            const dateInput = document.getElementById('dateInput');
+            
+            let d = new Date();
+            let diff = 6 - d.getUTCDay();
+            d.setUTCDate(d.getUTCDate() + diff);
+            
+            let foundDate = null;
+            let attempts = 0;
+            const maxAttempts = 8; 
+
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('loading').textContent = 'Finding latest chart...';
+
+            while (attempts < maxAttempts) {
+                const dateStr = d.toISOString().split('T')[0];
+                try {
+                    const response = await fetch(`${DATA_DIR}/hot100/${dateStr}.json`, { method: 'HEAD' });
+                    if (response.ok) {
+                        foundDate = dateStr;
+                        break;
+                    }
+                } catch (e) {}
+                
+                d.setUTCDate(d.getUTCDate() - 7);
+                attempts++;
+            }
+
+            if (foundDate) {
+                dateInput.value = foundDate;
+            } else {
+                dateInput.value = "2026-05-16";
+            }
+            
+            document.getElementById('loading').textContent = 'Fetching data...';
             loadChart();
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            initializeLatestChart();
         });
     </script>
 </body>

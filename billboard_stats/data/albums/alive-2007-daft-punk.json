@@ -1,1 +1,74 @@
-{"id": "alive-2007-daft-punk", "title": "Alive 2007", "artist": "Daft Punk", "peak": 169, "history": [{"date": "2007-12-22", "rank": 169}, {"date": "2008-01-19", "rank": 187}, {"date": "2008-01-26", "rank": 182}]}
+{
+  "id": "alive-2007-daft-punk",
+  "title": "Alive 2007",
+  "artist": "Daft Punk",
+  "peak": 169,
+  "history": [
+    {
+      "date": "2007-12-22",
+      "rank": 169
+    },
+    {
+      "date": "2008-01-19",
+      "rank": 187
+    },
+    {
+      "date": "2008-01-26",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One More Time / Aerodynamic",
+      "id": "one-more-time-daft-punk"
+    },
+    {
+      "title": "Robot Rock / Oh Yeah",
+      "id": null
+    },
+    {
+      "title": "Touch It / Technologic",
+      "id": null
+    },
+    {
+      "title": "Television Rules the Nation / Crescendolls",
+      "id": null
+    },
+    {
+      "title": "Too Long / Steam Machine",
+      "id": null
+    },
+    {
+      "title": "Around the World / Harder Better Faster Stronger",
+      "id": null
+    },
+    {
+      "title": "Burnin’ / Too Long",
+      "id": null
+    },
+    {
+      "title": "Face to Face / Short Circuit",
+      "id": null
+    },
+    {
+      "title": "Aerodynamic Beats / Forget About the World",
+      "id": null
+    },
+    {
+      "title": "Prime Time of Your Life / Brainwasher / Rollin’ and Scratchin’ / Alive",
+      "id": null
+    },
+    {
+      "title": "Da Funk / Daftendirekt",
+      "id": null
+    },
+    {
+      "title": "Superheroes / Human After All / Rock’n Roll",
+      "id": null
+    },
+    {
+      "title": "Human After All / Together / One More Time (reprise) / Music Sounds Better With You",
+      "id": null
+    }
+  ]
+}
