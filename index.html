@@ -34,7 +34,12 @@
             font-weight: bold;
             border: none;
         }
-        button:hover { background: #ff6b81; }
+        button:hover:not(:disabled) { background: #ff6b81; }
+        button:disabled {
+            background: #222 !important;
+            color: #555 !important;
+            cursor: not-allowed;
+        }
         
         input[type="date"]::-webkit-calendar-picker-indicator {
             filter: invert(42%) sepia(76%) saturate(3199%) hue-rotate(326deg) brightness(102%) contrast(103%);
@@ -87,7 +92,11 @@
         <div style="margin-bottom: 2rem; display: flex; gap: 1rem; flex-wrap: wrap;">
             <button id="btn-hot100" onclick="switchChart('hot100')" style="background: var(--accent); color: white;">Hot 100</button>
             <button id="btn-b200" onclick="switchChart('b200')" style="background: #333; color: white;">Billboard 200</button>
-            <input type="date" id="dateInput" value="2026-04-04" onchange="loadChart()">
+            <div style="display: flex; align-items: center; gap: 0.5rem;">
+                <button id="btn-prev-week" onclick="changeWeek(-1)" style="background: #444;">&lt; Prev</button>
+                <input type="date" id="dateInput" value="2026-04-04" onchange="loadChart()">
+                <button id="btn-next-week" onclick="changeWeek(1)" style="background: #444;">Next &gt;</button>
+            </div>
             <div style="position: relative;">
                 <input type="text" id="searchInput" placeholder="Search (Artist/Song)..." onkeyup="handleSearch(event)" onfocus="handleSearch(event)">
                 <div id="searchResults" style="display: none; position: absolute; top: 100%; left: 0; background: #222; border: 1px solid var(--border); width: 300px; max-height: 400px; overflow-y: auto; z-index: 1000; border-radius: 4px; box-shadow: 0 4px 6px rgba(0,0,0,0.5);"></div>
@@ -148,6 +157,30 @@
             const diff = 6 - d.getUTCDay(); 
             d.setUTCDate(d.getUTCDate() + diff);
             return d.toISOString().split('T')[0];
+        }
+
+        function updateWeekButtons(currentDate) {
+            const minDate = "1958-08-04";
+            const maxDate = "2026-05-16";
+            document.getElementById('btn-prev-week').disabled = currentDate <= minDate;
+            document.getElementById('btn-next-week').disabled = currentDate >= maxDate;
+        }
+
+        function changeWeek(offset) {
+            const dateInput = document.getElementById('dateInput');
+            const d = new Date(dateInput.value + "T00:00:00Z");
+            d.setUTCDate(d.getUTCDate() + (offset * 7));
+            const newDateStr = d.toISOString().split('T')[0];
+            const snappedDate = snapToSaturday(newDateStr);
+            
+            const minDate = "1958-08-04";
+            const maxDate = "2026-05-16";
+            
+            if (snappedDate < minDate) dateInput.value = minDate;
+            else if (snappedDate > maxDate) dateInput.value = maxDate;
+            else dateInput.value = snappedDate;
+            
+            loadChart();
         }
 
         async function fetchSearchIndex() {
@@ -278,6 +311,7 @@
 
             const snappedDate = snapToSaturday(rawDate);
             document.getElementById('dateInput').value = snappedDate;
+            updateWeekButtons(snappedDate);
 
             try {
                 const response = await fetch(`${DATA_DIR}/${chartType}/${snappedDate}.json`);
