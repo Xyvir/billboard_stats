@@ -1,1 +1,82 @@
-{"id": "all-that-matters-portrait", "title": "All That Matters", "artist": "Portrait", "peak": 131, "history": [{"date": "1995-03-25", "rank": 131}, {"date": "1995-04-01", "rank": 149}, {"date": "1995-04-08", "rank": 178}, {"date": "1995-04-15", "rank": 166}, {"date": "1995-04-22", "rank": 159}]}
+{
+  "id": "all-that-matters-portrait",
+  "title": "All That Matters",
+  "artist": "Portrait",
+  "peak": 131,
+  "history": [
+    {
+      "date": "1995-03-25",
+      "rank": 131
+    },
+    {
+      "date": "1995-04-01",
+      "rank": 149
+    },
+    {
+      "date": "1995-04-08",
+      "rank": 178
+    },
+    {
+      "date": "1995-04-15",
+      "rank": 166
+    },
+    {
+      "date": "1995-04-22",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "How Deep Is Your Love",
+      "id": "how-deep-is-your-love-portrait"
+    },
+    {
+      "title": "Here’s a Kiss",
+      "id": null
+    },
+    {
+      "title": "I Can Call You",
+      "id": null
+    },
+    {
+      "title": "All That Matters",
+      "id": null
+    },
+    {
+      "title": "All Natural Girl",
+      "id": null
+    },
+    {
+      "title": "Friday Night",
+      "id": null
+    },
+    {
+      "title": "Interlude: Michael’s Mood",
+      "id": null
+    },
+    {
+      "title": "Hold Me Close",
+      "id": null
+    },
+    {
+      "title": "Lovin’ U Is Ah-Ight",
+      "id": null
+    },
+    {
+      "title": "Much Too Much",
+      "id": null
+    },
+    {
+      "title": "Heartstrings",
+      "id": null
+    },
+    {
+      "title": "Lay You Down",
+      "id": null
+    },
+    {
+      "title": "Me Oh My",
+      "id": null
+    }
+  ]
+}

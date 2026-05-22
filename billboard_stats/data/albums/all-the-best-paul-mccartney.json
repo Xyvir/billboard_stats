@@ -1,1 +1,146 @@
-{"id": "all-the-best-paul-mccartney", "title": "All The Best", "artist": "Paul McCartney", "peak": 62, "history": [{"date": "1987-12-19", "rank": 120}, {"date": "1987-12-26", "rank": 72}, {"date": "1988-01-02", "rank": 72}, {"date": "1988-01-09", "rank": 62}, {"date": "1988-01-16", "rank": 62}, {"date": "1988-01-23", "rank": 62}, {"date": "1988-01-30", "rank": 68}, {"date": "1988-02-06", "rank": 72}, {"date": "1988-02-13", "rank": 82}, {"date": "1988-02-20", "rank": 95}, {"date": "1988-02-27", "rank": 99}, {"date": "1988-03-05", "rank": 109}, {"date": "1988-03-12", "rank": 110}, {"date": "1988-03-19", "rank": 129}, {"date": "1988-03-26", "rank": 140}, {"date": "1988-04-02", "rank": 167}, {"date": "1988-04-09", "rank": 163}]}
+{
+  "id": "all-the-best-paul-mccartney",
+  "title": "All The Best",
+  "artist": "Paul McCartney",
+  "peak": 62,
+  "history": [
+    {
+      "date": "1987-12-19",
+      "rank": 120
+    },
+    {
+      "date": "1987-12-26",
+      "rank": 72
+    },
+    {
+      "date": "1988-01-02",
+      "rank": 72
+    },
+    {
+      "date": "1988-01-09",
+      "rank": 62
+    },
+    {
+      "date": "1988-01-16",
+      "rank": 62
+    },
+    {
+      "date": "1988-01-23",
+      "rank": 62
+    },
+    {
+      "date": "1988-01-30",
+      "rank": 68
+    },
+    {
+      "date": "1988-02-06",
+      "rank": 72
+    },
+    {
+      "date": "1988-02-13",
+      "rank": 82
+    },
+    {
+      "date": "1988-02-20",
+      "rank": 95
+    },
+    {
+      "date": "1988-02-27",
+      "rank": 99
+    },
+    {
+      "date": "1988-03-05",
+      "rank": 109
+    },
+    {
+      "date": "1988-03-12",
+      "rank": 110
+    },
+    {
+      "date": "1988-03-19",
+      "rank": 129
+    },
+    {
+      "date": "1988-03-26",
+      "rank": 140
+    },
+    {
+      "date": "1988-04-02",
+      "rank": 167
+    },
+    {
+      "date": "1988-04-09",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No More Lonely Nights",
+      "id": "no-more-lonely-nights-paul-mccartney"
+    },
+    {
+      "title": "Pipes of Peace",
+      "id": "hope-of-deliverance-paul-mccartney"
+    },
+    {
+      "title": "Jet",
+      "id": null
+    },
+    {
+      "title": "Band on the Run",
+      "id": null
+    },
+    {
+      "title": "Coming Up",
+      "id": null
+    },
+    {
+      "title": "Ebony and Ivory",
+      "id": null
+    },
+    {
+      "title": "Listen to What the Man Said",
+      "id": null
+    },
+    {
+      "title": "Silly Love Songs",
+      "id": null
+    },
+    {
+      "title": "Let ’Em In",
+      "id": null
+    },
+    {
+      "title": "C Moon",
+      "id": null
+    },
+    {
+      "title": "Live and Let Die",
+      "id": null
+    },
+    {
+      "title": "Another Day",
+      "id": null
+    },
+    {
+      "title": "Once Upon a Long Ago",
+      "id": null
+    },
+    {
+      "title": "Say Say Say",
+      "id": null
+    },
+    {
+      "title": "My Love",
+      "id": null
+    },
+    {
+      "title": "We All Stand Together",
+      "id": null
+    },
+    {
+      "title": "Mull of Kintyre",
+      "id": null
+    }
+  ]
+}

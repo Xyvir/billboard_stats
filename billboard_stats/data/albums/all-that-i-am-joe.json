@@ -1,1 +1,242 @@
-{"id": "all-that-i-am-joe", "title": "All That I Am", "artist": "Joe", "peak": 13, "history": [{"date": "1997-08-16", "rank": 13}, {"date": "1997-08-23", "rank": 21}, {"date": "1997-08-30", "rank": 28}, {"date": "1997-09-06", "rank": 28}, {"date": "1997-09-13", "rank": 26}, {"date": "1997-09-20", "rank": 23}, {"date": "1997-09-27", "rank": 30}, {"date": "1997-10-04", "rank": 40}, {"date": "1997-10-11", "rank": 49}, {"date": "1997-10-18", "rank": 61}, {"date": "1997-10-25", "rank": 64}, {"date": "1997-11-01", "rank": 69}, {"date": "1997-11-08", "rank": 74}, {"date": "1997-11-15", "rank": 84}, {"date": "1997-11-22", "rank": 99}, {"date": "1997-11-29", "rank": 124}, {"date": "1997-12-06", "rank": 133}, {"date": "1997-12-13", "rank": 152}, {"date": "1997-12-20", "rank": 153}, {"date": "1997-12-27", "rank": 152}, {"date": "1998-01-03", "rank": 170}, {"date": "1998-01-10", "rank": 166}, {"date": "1998-01-17", "rank": 133}, {"date": "1998-01-24", "rank": 113}, {"date": "1998-01-31", "rank": 116}, {"date": "1998-02-07", "rank": 113}, {"date": "1998-02-14", "rank": 90}, {"date": "1998-02-21", "rank": 91}, {"date": "1998-02-28", "rank": 100}, {"date": "1998-03-07", "rank": 98}, {"date": "1998-03-14", "rank": 115}, {"date": "1998-03-21", "rank": 118}, {"date": "1998-03-28", "rank": 128}, {"date": "1998-04-04", "rank": 136}, {"date": "1998-04-11", "rank": 156}, {"date": "1998-04-18", "rank": 164}, {"date": "1998-04-25", "rank": 192}, {"date": "1998-05-02", "rank": 173}, {"date": "1998-05-09", "rank": 165}, {"date": "1998-05-16", "rank": 162}, {"date": "1998-05-23", "rank": 164}, {"date": "1998-05-30", "rank": 155}, {"date": "1998-06-06", "rank": 170}, {"date": "1998-06-13", "rank": 180}, {"date": "1998-06-20", "rank": 178}, {"date": "1998-06-27", "rank": 196}]}
+{
+  "id": "all-that-i-am-joe",
+  "title": "All That I Am",
+  "artist": "Joe",
+  "peak": 13,
+  "history": [
+    {
+      "date": "1997-08-16",
+      "rank": 13
+    },
+    {
+      "date": "1997-08-23",
+      "rank": 21
+    },
+    {
+      "date": "1997-08-30",
+      "rank": 28
+    },
+    {
+      "date": "1997-09-06",
+      "rank": 28
+    },
+    {
+      "date": "1997-09-13",
+      "rank": 26
+    },
+    {
+      "date": "1997-09-20",
+      "rank": 23
+    },
+    {
+      "date": "1997-09-27",
+      "rank": 30
+    },
+    {
+      "date": "1997-10-04",
+      "rank": 40
+    },
+    {
+      "date": "1997-10-11",
+      "rank": 49
+    },
+    {
+      "date": "1997-10-18",
+      "rank": 61
+    },
+    {
+      "date": "1997-10-25",
+      "rank": 64
+    },
+    {
+      "date": "1997-11-01",
+      "rank": 69
+    },
+    {
+      "date": "1997-11-08",
+      "rank": 74
+    },
+    {
+      "date": "1997-11-15",
+      "rank": 84
+    },
+    {
+      "date": "1997-11-22",
+      "rank": 99
+    },
+    {
+      "date": "1997-11-29",
+      "rank": 124
+    },
+    {
+      "date": "1997-12-06",
+      "rank": 133
+    },
+    {
+      "date": "1997-12-13",
+      "rank": 152
+    },
+    {
+      "date": "1997-12-20",
+      "rank": 153
+    },
+    {
+      "date": "1997-12-27",
+      "rank": 152
+    },
+    {
+      "date": "1998-01-03",
+      "rank": 170
+    },
+    {
+      "date": "1998-01-10",
+      "rank": 166
+    },
+    {
+      "date": "1998-01-17",
+      "rank": 133
+    },
+    {
+      "date": "1998-01-24",
+      "rank": 113
+    },
+    {
+      "date": "1998-01-31",
+      "rank": 116
+    },
+    {
+      "date": "1998-02-07",
+      "rank": 113
+    },
+    {
+      "date": "1998-02-14",
+      "rank": 90
+    },
+    {
+      "date": "1998-02-21",
+      "rank": 91
+    },
+    {
+      "date": "1998-02-28",
+      "rank": 100
+    },
+    {
+      "date": "1998-03-07",
+      "rank": 98
+    },
+    {
+      "date": "1998-03-14",
+      "rank": 115
+    },
+    {
+      "date": "1998-03-21",
+      "rank": 118
+    },
+    {
+      "date": "1998-03-28",
+      "rank": 128
+    },
+    {
+      "date": "1998-04-04",
+      "rank": 136
+    },
+    {
+      "date": "1998-04-11",
+      "rank": 156
+    },
+    {
+      "date": "1998-04-18",
+      "rank": 164
+    },
+    {
+      "date": "1998-04-25",
+      "rank": 192
+    },
+    {
+      "date": "1998-05-02",
+      "rank": 173
+    },
+    {
+      "date": "1998-05-09",
+      "rank": 165
+    },
+    {
+      "date": "1998-05-16",
+      "rank": 162
+    },
+    {
+      "date": "1998-05-23",
+      "rank": 164
+    },
+    {
+      "date": "1998-05-30",
+      "rank": 155
+    },
+    {
+      "date": "1998-06-06",
+      "rank": 170
+    },
+    {
+      "date": "1998-06-13",
+      "rank": 180
+    },
+    {
+      "date": "1998-06-20",
+      "rank": 178
+    },
+    {
+      "date": "1998-06-27",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All the Things (Your Man Won’t Do)",
+      "id": "all-the-things-your-man-won-t-do-from-don-t-be-a-menace-joe"
+    },
+    {
+      "title": "Don't Wanna Be a Player",
+      "id": "don-t-wanna-be-a-player-from-booty-call-joe"
+    },
+    {
+      "title": "The Love Scene",
+      "id": null
+    },
+    {
+      "title": "Good Girls",
+      "id": null
+    },
+    {
+      "title": "How Soon",
+      "id": null
+    },
+    {
+      "title": "Sanctified Girl (Can't Fight This Feeling)",
+      "id": null
+    },
+    {
+      "title": "All That I Am",
+      "id": null
+    },
+    {
+      "title": "No One Else Comes Close",
+      "id": null
+    },
+    {
+      "title": "Come Around",
+      "id": null
+    },
+    {
+      "title": "U Shoulda Told Me (U Had a Man)",
+      "id": null
+    },
+    {
+      "title": "Love Don't Make No Sense",
+      "id": null
+    },
+    {
+      "title": "No One Else Comes Close (unplugged)",
+      "id": null
+    }
+  ]
+}

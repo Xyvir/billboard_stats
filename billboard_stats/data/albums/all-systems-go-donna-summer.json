@@ -1,1 +1,70 @@
-{"id": "all-systems-go-donna-summer", "title": "All Systems Go", "artist": "Donna Summer", "peak": 122, "history": [{"date": "1987-10-10", "rank": 165}, {"date": "1987-10-17", "rank": 135}, {"date": "1987-10-24", "rank": 130}, {"date": "1987-10-31", "rank": 122}, {"date": "1987-11-07", "rank": 122}, {"date": "1987-11-14", "rank": 182}]}
+{
+  "id": "all-systems-go-donna-summer",
+  "title": "All Systems Go",
+  "artist": "Donna Summer",
+  "peak": 122,
+  "history": [
+    {
+      "date": "1987-10-10",
+      "rank": 165
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 135
+    },
+    {
+      "date": "1987-10-24",
+      "rank": 130
+    },
+    {
+      "date": "1987-10-31",
+      "rank": 122
+    },
+    {
+      "date": "1987-11-07",
+      "rank": 122
+    },
+    {
+      "date": "1987-11-14",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Shock",
+      "id": "i-love-you-donna-summer"
+    },
+    {
+      "title": "Dinner With Gershwin",
+      "id": "dinner-with-gershwin-donna-summer"
+    },
+    {
+      "title": "Thinkin’ Bout My Baby",
+      "id": "there-goes-my-baby-donna-summer"
+    },
+    {
+      "title": "All Systems Go",
+      "id": null
+    },
+    {
+      "title": "Bad Reputation",
+      "id": null
+    },
+    {
+      "title": "Jeremy",
+      "id": null
+    },
+    {
+      "title": "Only the Fool Survives",
+      "id": null
+    },
+    {
+      "title": "Fascination",
+      "id": null
+    },
+    {
+      "title": "Voices Cryin' Out",
+      "id": null
+    }
+  ]
+}
