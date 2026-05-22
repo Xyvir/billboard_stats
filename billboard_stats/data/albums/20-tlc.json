@@ -1,1 +1,90 @@
-{"id": "20-tlc", "title": "20", "artist": "TLC", "peak": 12, "history": [{"date": "2013-11-02", "rank": 72}, {"date": "2013-11-09", "rank": 12}, {"date": "2013-11-16", "rank": 32}, {"date": "2013-11-23", "rank": 96}, {"date": "2013-11-30", "rank": 97}, {"date": "2013-12-07", "rank": 199}]}
+{
+  "id": "20-tlc",
+  "title": "20",
+  "artist": "TLC",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2013-11-02",
+      "rank": 72
+    },
+    {
+      "date": "2013-11-09",
+      "rank": 12
+    },
+    {
+      "date": "2013-11-16",
+      "rank": 32
+    },
+    {
+      "date": "2013-11-23",
+      "rank": 96
+    },
+    {
+      "date": "2013-11-30",
+      "rank": 97
+    },
+    {
+      "date": "2013-12-07",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ain’t 2 Proud 2 Beg",
+      "id": "ain-t-2-proud-2-beg-tlc"
+    },
+    {
+      "title": "What About Your Friends",
+      "id": "what-about-your-friends-tlc"
+    },
+    {
+      "title": "Baby-Baby-Baby",
+      "id": "baby-baby-baby-tlc"
+    },
+    {
+      "title": "Hat 2 Da Back",
+      "id": "hat-2-da-back-tlc"
+    },
+    {
+      "title": "Creep",
+      "id": "creep-tlc"
+    },
+    {
+      "title": "Waterfalls",
+      "id": "waterfalls-tlc"
+    },
+    {
+      "title": "Red Light Special",
+      "id": "red-light-special-tlc"
+    },
+    {
+      "title": "Diggin’ on You",
+      "id": "diggin-on-you-tlc"
+    },
+    {
+      "title": "No Scrubs",
+      "id": "no-scrubs-tlc"
+    },
+    {
+      "title": "Unpretty",
+      "id": "unpretty-tlc"
+    },
+    {
+      "title": "Silly Ho",
+      "id": "silly-ho-tlc"
+    },
+    {
+      "title": "Damaged",
+      "id": "damaged-tlc"
+    },
+    {
+      "title": "Kick Your Game",
+      "id": null
+    },
+    {
+      "title": "Meant to Be",
+      "id": null
+    }
+  ]
+}

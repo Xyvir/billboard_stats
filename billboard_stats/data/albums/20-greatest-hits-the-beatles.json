@@ -1,1 +1,202 @@
-{"id": "20-greatest-hits-the-beatles", "title": "20 Greatest Hits", "artist": "The Beatles", "peak": 50, "history": [{"date": "1982-11-13", "rank": 108}, {"date": "1982-11-20", "rank": 93}, {"date": "1982-11-27", "rank": 83}, {"date": "1982-12-04", "rank": 73}, {"date": "1982-12-11", "rank": 67}, {"date": "1982-12-18", "rank": 61}, {"date": "1982-12-25", "rank": 57}, {"date": "1983-01-01", "rank": 57}, {"date": "1983-01-08", "rank": 54}, {"date": "1983-01-15", "rank": 50}, {"date": "1983-01-22", "rank": 50}, {"date": "1983-01-29", "rank": 62}, {"date": "1983-02-05", "rank": 65}, {"date": "1983-02-12", "rank": 75}, {"date": "1983-02-19", "rank": 106}, {"date": "1983-02-26", "rank": 138}, {"date": "1983-03-05", "rank": 159}, {"date": "1984-03-03", "rank": 186}, {"date": "1984-03-10", "rank": 165}, {"date": "1984-03-17", "rank": 146}, {"date": "1984-03-24", "rank": 142}, {"date": "1984-03-31", "rank": 158}, {"date": "1984-04-07", "rank": 155}, {"date": "1984-04-14", "rank": 157}, {"date": "1984-04-21", "rank": 158}, {"date": "1984-04-28", "rank": 172}, {"date": "1984-05-05", "rank": 200}, {"date": "1984-05-12", "rank": 197}]}
+{
+  "id": "20-greatest-hits-the-beatles",
+  "title": "20 Greatest Hits",
+  "artist": "The Beatles",
+  "peak": 50,
+  "history": [
+    {
+      "date": "1982-11-13",
+      "rank": 108
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 93
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 83
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 73
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 67
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 61
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 57
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 57
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 54
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 50
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 50
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 62
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 65
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 75
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 106
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 138
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 159
+    },
+    {
+      "date": "1984-03-03",
+      "rank": 186
+    },
+    {
+      "date": "1984-03-10",
+      "rank": 165
+    },
+    {
+      "date": "1984-03-17",
+      "rank": 146
+    },
+    {
+      "date": "1984-03-24",
+      "rank": 142
+    },
+    {
+      "date": "1984-03-31",
+      "rank": 158
+    },
+    {
+      "date": "1984-04-07",
+      "rank": 155
+    },
+    {
+      "date": "1984-04-14",
+      "rank": 157
+    },
+    {
+      "date": "1984-04-21",
+      "rank": 158
+    },
+    {
+      "date": "1984-04-28",
+      "rank": 172
+    },
+    {
+      "date": "1984-05-05",
+      "rank": 200
+    },
+    {
+      "date": "1984-05-12",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "She Loves You",
+      "id": "she-loves-you-the-beatles"
+    },
+    {
+      "title": "Love Me Do",
+      "id": "love-me-do-the-beatles"
+    },
+    {
+      "title": "I Want to Hold Your Hand",
+      "id": "i-want-to-hold-your-hand-the-beatles"
+    },
+    {
+      "title": "Can’t Buy Me Love",
+      "id": "can-t-buy-me-love-the-beatles"
+    },
+    {
+      "title": "A Hard Day’s Night",
+      "id": "a-hard-day-s-night-the-beatles"
+    },
+    {
+      "title": "I Feel Fine",
+      "id": "i-feel-fine-the-beatles"
+    },
+    {
+      "title": "Eight Days a Week",
+      "id": "eight-days-a-week-the-beatles"
+    },
+    {
+      "title": "Ticket to Ride",
+      "id": "ticket-to-ride-the-beatles"
+    },
+    {
+      "title": "Help!",
+      "id": "help-the-beatles"
+    },
+    {
+      "title": "Yesterday",
+      "id": "yesterday-the-beatles"
+    },
+    {
+      "title": "We Can Work It Out",
+      "id": "we-can-work-it-out-the-beatles"
+    },
+    {
+      "title": "Paperback Writer",
+      "id": "paperback-writer-the-beatles"
+    },
+    {
+      "title": "Penny Lane",
+      "id": "penny-lane-the-beatles"
+    },
+    {
+      "title": "All You Need Is Love",
+      "id": "all-you-need-is-love-the-beatles"
+    },
+    {
+      "title": "Hello, Goodbye",
+      "id": "hello-goodbye-the-beatles"
+    },
+    {
+      "title": "Hey Jude",
+      "id": "hey-jude-the-beatles"
+    },
+    {
+      "title": "Come Together",
+      "id": "come-together-something-the-beatles"
+    },
+    {
+      "title": "Let It Be",
+      "id": "let-it-be-the-beatles"
+    },
+    {
+      "title": "The Long and Winding Road",
+      "id": "the-long-and-winding-road-for-you-blue-the-beatles"
+    },
+    {
+      "title": "Get Back",
+      "id": null
+    }
+  ]
+}
