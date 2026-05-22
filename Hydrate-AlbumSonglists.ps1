@@ -22,9 +22,10 @@ foreach ($file in $albumFiles) {
         $batchCount++
         
         if ($batchCount -ge $batchSize) {
-            Write-Host "Batch of $batchSize reached. Committing to git..."
+            Write-Host "Batch of $batchSize reached. Committing and pushing to git..."
             git add $AlbumsDir
             git commit -m "Hydrated $batchSize albums"
+            git push
             $batchCount = 0
         }
     }
