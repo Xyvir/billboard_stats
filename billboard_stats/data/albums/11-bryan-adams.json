@@ -1,1 +1,70 @@
-{"id": "11-bryan-adams", "title": "11", "artist": "Bryan Adams", "peak": 80, "history": [{"date": "2008-05-31", "rank": 80}, {"date": "2008-06-07", "rank": 108}, {"date": "2008-06-14", "rank": 166}, {"date": "2008-06-21", "rank": 188}]}
+{
+  "id": "11-bryan-adams",
+  "title": "11",
+  "artist": "Bryan Adams",
+  "peak": 80,
+  "history": [
+    {
+      "date": "2008-05-31",
+      "rank": 80
+    },
+    {
+      "date": "2008-06-07",
+      "rank": 108
+    },
+    {
+      "date": "2008-06-14",
+      "rank": 166
+    },
+    {
+      "date": "2008-06-21",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Ain’t Losin’ the Fight",
+      "id": "heat-of-the-night-bryan-adams"
+    },
+    {
+      "title": "Tonight We Have Stars",
+      "id": null
+    },
+    {
+      "title": "I Thought I’d Seen Everything",
+      "id": null
+    },
+    {
+      "title": "Oxygen",
+      "id": null
+    },
+    {
+      "title": "We Found What We Were Looking For",
+      "id": null
+    },
+    {
+      "title": "Broken Wings",
+      "id": null
+    },
+    {
+      "title": "Somethin’ to Believe In",
+      "id": null
+    },
+    {
+      "title": "Mysterious Ways",
+      "id": null
+    },
+    {
+      "title": "She’s Got a Way",
+      "id": null
+    },
+    {
+      "title": "Flowers Grown Wild",
+      "id": null
+    },
+    {
+      "title": "Walk On By",
+      "id": null
+    }
+  ]
+}

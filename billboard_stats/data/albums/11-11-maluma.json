@@ -1,1 +1,94 @@
-{"id": "11-11-maluma", "title": "11:11", "artist": "Maluma", "peak": 30, "history": [{"date": "2019-06-01", "rank": 30}, {"date": "2019-06-08", "rank": 77}, {"date": "2019-06-15", "rank": 117}, {"date": "2019-06-22", "rank": 148}, {"date": "2019-06-29", "rank": 187}]}
+{
+  "id": "11-11-maluma",
+  "title": "11:11",
+  "artist": "Maluma",
+  "peak": 30,
+  "history": [
+    {
+      "date": "2019-06-01",
+      "rank": 30
+    },
+    {
+      "date": "2019-06-08",
+      "rank": 77
+    },
+    {
+      "date": "2019-06-15",
+      "rank": 117
+    },
+    {
+      "date": "2019-06-22",
+      "rank": 148
+    },
+    {
+      "date": "2019-06-29",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "HP",
+      "id": "hp-maluma"
+    },
+    {
+      "title": "11 PM",
+      "id": null
+    },
+    {
+      "title": "No se me quita",
+      "id": null
+    },
+    {
+      "title": "Dispuesto",
+      "id": null
+    },
+    {
+      "title": "No puedo olvidarte",
+      "id": null
+    },
+    {
+      "title": "Me enamoré de ti",
+      "id": null
+    },
+    {
+      "title": "Extrañándote",
+      "id": null
+    },
+    {
+      "title": "Shhh (Calla')",
+      "id": null
+    },
+    {
+      "title": "Dinero tiene cualquiera",
+      "id": null
+    },
+    {
+      "title": "Soltera",
+      "id": null
+    },
+    {
+      "title": "Te quiero",
+      "id": null
+    },
+    {
+      "title": "Instinto natural",
+      "id": null
+    },
+    {
+      "title": "Tu vecina",
+      "id": null
+    },
+    {
+      "title": "La flaca",
+      "id": null
+    },
+    {
+      "title": "Puesto pa' ti",
+      "id": null
+    },
+    {
+      "title": "Déjale saber",
+      "id": null
+    }
+  ]
+}
