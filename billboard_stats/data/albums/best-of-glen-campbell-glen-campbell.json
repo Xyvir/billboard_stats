@@ -1,1 +1,74 @@
-{"id": "best-of-glen-campbell-glen-campbell", "title": "Best Of Glen Campbell", "artist": "Glen Campbell", "peak": 116, "history": [{"date": "1976-11-27", "rank": 129}, {"date": "1976-12-04", "rank": 117}, {"date": "1976-12-11", "rank": 116}, {"date": "1976-12-18", "rank": 136}, {"date": "1976-12-25", "rank": 156}, {"date": "1977-01-01", "rank": 156}]}
+{
+  "id": "best-of-glen-campbell-glen-campbell",
+  "title": "Best Of Glen Campbell",
+  "artist": "Glen Campbell",
+  "peak": 116,
+  "history": [
+    {
+      "date": "1976-11-27",
+      "rank": 129
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 117
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 116
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 136
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 156
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Gentle on My Mind",
+      "id": "gentle-on-my-mind-glen-campbell"
+    },
+    {
+      "title": "By the Time I Get to Phoenix",
+      "id": "by-the-time-i-get-to-phoenix-glen-campbell"
+    },
+    {
+      "title": "Dreams of the Everyday Housewife",
+      "id": "dreams-of-the-everyday-housewife-glen-campbell"
+    },
+    {
+      "title": "Wichita Lineman",
+      "id": "wichita-lineman-glen-campbell"
+    },
+    {
+      "title": "Galveston",
+      "id": "galveston-glen-campbell"
+    },
+    {
+      "title": "Honey Come Back",
+      "id": "honey-come-back-glen-campbell"
+    },
+    {
+      "title": "It’s Only Make Believe",
+      "id": "it-s-only-make-believe-glen-campbell"
+    },
+    {
+      "title": "Rhinestone Cowboy",
+      "id": "rhinestone-cowboy-glen-campbell"
+    },
+    {
+      "title": "Country Boy (You Got Your Feet in L.A.)",
+      "id": "country-boy-you-got-your-feet-in-l-a-glen-campbell"
+    },
+    {
+      "title": "Southern Nights",
+      "id": "southern-nights-glen-campbell"
+    }
+  ]
+}

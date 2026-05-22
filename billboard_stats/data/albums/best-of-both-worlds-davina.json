@@ -1,1 +1,70 @@
-{"id": "best-of-both-worlds-davina", "title": "Best Of Both Worlds", "artist": "Davina", "peak": 180, "history": [{"date": "1998-04-25", "rank": 180}, {"date": "1998-05-02", "rank": 186}]}
+{
+  "id": "best-of-both-worlds-davina",
+  "title": "Best Of Both Worlds",
+  "artist": "Davina",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1998-04-25",
+      "rank": 180
+    },
+    {
+      "date": "1998-05-02",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Come Over to My Place",
+      "id": "come-over-to-my-place-davina"
+    },
+    {
+      "title": "So Good",
+      "id": "so-good-davina"
+    },
+    {
+      "title": "Comin’ for You",
+      "id": null
+    },
+    {
+      "title": "When It Rains",
+      "id": null
+    },
+    {
+      "title": "Love’s Comin’ Down",
+      "id": null
+    },
+    {
+      "title": "I Can’t Help It",
+      "id": null
+    },
+    {
+      "title": "Give Me Love",
+      "id": null
+    },
+    {
+      "title": "Mercy",
+      "id": null
+    },
+    {
+      "title": "Getz No Where",
+      "id": null
+    },
+    {
+      "title": "Only One Reason",
+      "id": null
+    },
+    {
+      "title": "The Way I Feel About You",
+      "id": null
+    },
+    {
+      "title": "After the Rain",
+      "id": null
+    },
+    {
+      "title": "My Cryin' Blues",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,422 @@
-{"id": "best-of-bowie-david-bowie", "title": "Best Of Bowie", "artist": "David Bowie", "peak": 4, "history": [{"date": "2002-11-09", "rank": 70}, {"date": "2002-11-09", "rank": 108}, {"date": "2002-11-16", "rank": 121}, {"date": "2002-11-23", "rank": 158}, {"date": "2002-11-30", "rank": 181}, {"date": "2003-01-18", "rank": 192}, {"date": "2003-01-25", "rank": 180}, {"date": "2003-02-01", "rank": 187}, {"date": "2003-02-08", "rank": 179}, {"date": "2003-02-15", "rank": 196}, {"date": "2003-12-20", "rank": 180}, {"date": "2004-01-17", "rank": 176}, {"date": "2004-01-24", "rank": 165}, {"date": "2004-01-31", "rank": 154}, {"date": "2004-02-07", "rank": 171}, {"date": "2004-02-14", "rank": 185}, {"date": "2004-02-21", "rank": 190}, {"date": "2004-05-08", "rank": 195}, {"date": "2004-05-15", "rank": 190}, {"date": "2011-01-29", "rank": 190}, {"date": "2011-02-05", "rank": 191}, {"date": "2012-05-05", "rank": 84}, {"date": "2012-07-07", "rank": 185}, {"date": "2013-01-26", "rank": 187}, {"date": "2016-01-30", "rank": 4}, {"date": "2016-02-06", "rank": 7}, {"date": "2016-02-13", "rank": 14}, {"date": "2016-02-20", "rank": 32}, {"date": "2016-02-27", "rank": 47}, {"date": "2016-03-05", "rank": 39}, {"date": "2016-03-12", "rank": 42}, {"date": "2016-03-19", "rank": 65}, {"date": "2016-03-26", "rank": 79}, {"date": "2016-04-02", "rank": 87}, {"date": "2016-04-09", "rank": 81}, {"date": "2016-04-16", "rank": 100}, {"date": "2016-04-23", "rank": 116}, {"date": "2016-04-30", "rank": 121}, {"date": "2016-05-07", "rank": 116}, {"date": "2016-05-14", "rank": 88}, {"date": "2016-05-21", "rank": 118}, {"date": "2016-05-28", "rank": 130}, {"date": "2016-06-04", "rank": 140}, {"date": "2016-06-11", "rank": 185}, {"date": "2016-06-18", "rank": 151}, {"date": "2016-06-25", "rank": 156}, {"date": "2016-07-02", "rank": 176}, {"date": "2016-07-09", "rank": 176}, {"date": "2016-07-16", "rank": 182}, {"date": "2016-07-23", "rank": 144}, {"date": "2016-07-30", "rank": 149}, {"date": "2016-08-06", "rank": 196}, {"date": "2016-08-13", "rank": 178}, {"date": "2016-08-20", "rank": 172}, {"date": "2016-08-27", "rank": 186}, {"date": "2016-09-03", "rank": 184}]}
+{
+  "id": "best-of-bowie-david-bowie",
+  "title": "Best Of Bowie",
+  "artist": "David Bowie",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2002-11-09",
+      "rank": 70
+    },
+    {
+      "date": "2002-11-09",
+      "rank": 108
+    },
+    {
+      "date": "2002-11-16",
+      "rank": 121
+    },
+    {
+      "date": "2002-11-23",
+      "rank": 158
+    },
+    {
+      "date": "2002-11-30",
+      "rank": 181
+    },
+    {
+      "date": "2003-01-18",
+      "rank": 192
+    },
+    {
+      "date": "2003-01-25",
+      "rank": 180
+    },
+    {
+      "date": "2003-02-01",
+      "rank": 187
+    },
+    {
+      "date": "2003-02-08",
+      "rank": 179
+    },
+    {
+      "date": "2003-02-15",
+      "rank": 196
+    },
+    {
+      "date": "2003-12-20",
+      "rank": 180
+    },
+    {
+      "date": "2004-01-17",
+      "rank": 176
+    },
+    {
+      "date": "2004-01-24",
+      "rank": 165
+    },
+    {
+      "date": "2004-01-31",
+      "rank": 154
+    },
+    {
+      "date": "2004-02-07",
+      "rank": 171
+    },
+    {
+      "date": "2004-02-14",
+      "rank": 185
+    },
+    {
+      "date": "2004-02-21",
+      "rank": 190
+    },
+    {
+      "date": "2004-05-08",
+      "rank": 195
+    },
+    {
+      "date": "2004-05-15",
+      "rank": 190
+    },
+    {
+      "date": "2011-01-29",
+      "rank": 190
+    },
+    {
+      "date": "2011-02-05",
+      "rank": 191
+    },
+    {
+      "date": "2012-05-05",
+      "rank": 84
+    },
+    {
+      "date": "2012-07-07",
+      "rank": 185
+    },
+    {
+      "date": "2013-01-26",
+      "rank": 187
+    },
+    {
+      "date": "2016-01-30",
+      "rank": 4
+    },
+    {
+      "date": "2016-02-06",
+      "rank": 7
+    },
+    {
+      "date": "2016-02-13",
+      "rank": 14
+    },
+    {
+      "date": "2016-02-20",
+      "rank": 32
+    },
+    {
+      "date": "2016-02-27",
+      "rank": 47
+    },
+    {
+      "date": "2016-03-05",
+      "rank": 39
+    },
+    {
+      "date": "2016-03-12",
+      "rank": 42
+    },
+    {
+      "date": "2016-03-19",
+      "rank": 65
+    },
+    {
+      "date": "2016-03-26",
+      "rank": 79
+    },
+    {
+      "date": "2016-04-02",
+      "rank": 87
+    },
+    {
+      "date": "2016-04-09",
+      "rank": 81
+    },
+    {
+      "date": "2016-04-16",
+      "rank": 100
+    },
+    {
+      "date": "2016-04-23",
+      "rank": 116
+    },
+    {
+      "date": "2016-04-30",
+      "rank": 121
+    },
+    {
+      "date": "2016-05-07",
+      "rank": 116
+    },
+    {
+      "date": "2016-05-14",
+      "rank": 88
+    },
+    {
+      "date": "2016-05-21",
+      "rank": 118
+    },
+    {
+      "date": "2016-05-28",
+      "rank": 130
+    },
+    {
+      "date": "2016-06-04",
+      "rank": 140
+    },
+    {
+      "date": "2016-06-11",
+      "rank": 185
+    },
+    {
+      "date": "2016-06-18",
+      "rank": 151
+    },
+    {
+      "date": "2016-06-25",
+      "rank": 156
+    },
+    {
+      "date": "2016-07-02",
+      "rank": 176
+    },
+    {
+      "date": "2016-07-09",
+      "rank": 176
+    },
+    {
+      "date": "2016-07-16",
+      "rank": 182
+    },
+    {
+      "date": "2016-07-23",
+      "rank": 144
+    },
+    {
+      "date": "2016-07-30",
+      "rank": 149
+    },
+    {
+      "date": "2016-08-06",
+      "rank": 196
+    },
+    {
+      "date": "2016-08-13",
+      "rank": 178
+    },
+    {
+      "date": "2016-08-20",
+      "rank": 172
+    },
+    {
+      "date": "2016-08-27",
+      "rank": 186
+    },
+    {
+      "date": "2016-09-03",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Five Years",
+      "id": "golden-years-david-bowie"
+    },
+    {
+      "title": "Starman",
+      "id": "starman-david-bowie"
+    },
+    {
+      "title": "The Jean Genie",
+      "id": "the-jean-genie-david-bowie"
+    },
+    {
+      "title": "Space Oddity",
+      "id": "space-oddity-david-bowie"
+    },
+    {
+      "title": "Rebel Rebel",
+      "id": "rebel-rebel-david-bowie"
+    },
+    {
+      "title": "Young Americains",
+      "id": "young-americans-david-bowie"
+    },
+    {
+      "title": "Fashion",
+      "id": "fashion-david-bowie"
+    },
+    {
+      "title": "Let’s Dance",
+      "id": "let-s-dance-david-bowie"
+    },
+    {
+      "title": "China Girl",
+      "id": "china-girl-david-bowie"
+    },
+    {
+      "title": "Modern Love",
+      "id": "modern-love-david-bowie"
+    },
+    {
+      "title": "Cat People (Putting Out Fire)",
+      "id": "cat-people-putting-out-fire-david-bowie"
+    },
+    {
+      "title": "Blue Jean",
+      "id": "blue-jean-david-bowie"
+    },
+    {
+      "title": "Absolute Beginners",
+      "id": "absolute-beginners-david-bowie"
+    },
+    {
+      "title": "Day‐In Day‐Out",
+      "id": "day-in-day-out-david-bowie"
+    },
+    {
+      "title": "Never Let Me Down",
+      "id": "never-let-me-down-david-bowie"
+    },
+    {
+      "title": "Fame ’90",
+      "id": "fame-david-bowie"
+    },
+    {
+      "title": "The Heart’s Filthy Lesson",
+      "id": "the-hearts-filthy-lesson-david-bowie"
+    },
+    {
+      "title": "I’m Afraid of Americans",
+      "id": "i-m-afraid-of-americans-david-bowie"
+    },
+    {
+      "title": "Oh! You Pretty Things",
+      "id": null
+    },
+    {
+      "title": "Queen Bitch",
+      "id": null
+    },
+    {
+      "title": "John, I’m Only Dancing",
+      "id": null
+    },
+    {
+      "title": "Drive‐In Saturday",
+      "id": null
+    },
+    {
+      "title": "Life on Mars?",
+      "id": null
+    },
+    {
+      "title": "Ziggy Stardust",
+      "id": null
+    },
+    {
+      "title": "Be My Wife",
+      "id": null
+    },
+    {
+      "title": "“Heroes”",
+      "id": null
+    },
+    {
+      "title": "Boys Keep Swinging",
+      "id": null
+    },
+    {
+      "title": "D.J.",
+      "id": null
+    },
+    {
+      "title": "Look Back in Anger",
+      "id": null
+    },
+    {
+      "title": "Ashes to Ashes",
+      "id": null
+    },
+    {
+      "title": "Wild Is the Wind",
+      "id": null
+    },
+    {
+      "title": "Loving the Alien",
+      "id": null
+    },
+    {
+      "title": "Dancing in the Street",
+      "id": null
+    },
+    {
+      "title": "Underground",
+      "id": null
+    },
+    {
+      "title": "As the World Falls Down",
+      "id": null
+    },
+    {
+      "title": "Time Will Crawl",
+      "id": null
+    },
+    {
+      "title": "Jump They Say",
+      "id": null
+    },
+    {
+      "title": "Black Tie White Noise",
+      "id": null
+    },
+    {
+      "title": "Miracle Goodnight",
+      "id": null
+    },
+    {
+      "title": "Buddha of Suburbia",
+      "id": null
+    },
+    {
+      "title": "Strangers When We Meet",
+      "id": null
+    },
+    {
+      "title": "Hallo Spaceboy",
+      "id": null
+    },
+    {
+      "title": "Little Wonder",
+      "id": null
+    },
+    {
+      "title": "Dead Man Walking",
+      "id": null
+    },
+    {
+      "title": "Seven Years in Tibet",
+      "id": null
+    },
+    {
+      "title": "Thursday’s Child",
+      "id": null
+    },
+    {
+      "title": "Survive",
+      "id": null
+    }
+  ]
+}

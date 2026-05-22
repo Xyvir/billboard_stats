@@ -1,1 +1,86 @@
-{"id": "best-of-free-free", "title": "Best Of Free", "artist": "Free", "peak": 120, "history": [{"date": "1975-05-24", "rank": 181}, {"date": "1975-05-31", "rank": 151}, {"date": "1975-06-07", "rank": 132}, {"date": "1975-06-14", "rank": 120}, {"date": "1975-06-21", "rank": 120}, {"date": "1975-06-28", "rank": 131}, {"date": "1975-07-05", "rank": 153}]}
+{
+  "id": "best-of-free-free",
+  "title": "Best Of Free",
+  "artist": "Free",
+  "peak": 120,
+  "history": [
+    {
+      "date": "1975-05-24",
+      "rank": 181
+    },
+    {
+      "date": "1975-05-31",
+      "rank": 151
+    },
+    {
+      "date": "1975-06-07",
+      "rank": 132
+    },
+    {
+      "date": "1975-06-14",
+      "rank": 120
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 120
+    },
+    {
+      "date": "1975-06-28",
+      "rank": 131
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 153
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All Right Now",
+      "id": "all-right-now-free"
+    },
+    {
+      "title": "The Stealer",
+      "id": "stealer-free"
+    },
+    {
+      "title": "Fire and Water",
+      "id": null
+    },
+    {
+      "title": "The Highway Song",
+      "id": null
+    },
+    {
+      "title": "Little Bit of Love",
+      "id": null
+    },
+    {
+      "title": "Mouthful of Grass",
+      "id": null
+    },
+    {
+      "title": "My Brother Jake",
+      "id": null
+    },
+    {
+      "title": "The Hunter",
+      "id": null
+    },
+    {
+      "title": "Woman",
+      "id": null
+    },
+    {
+      "title": "Catch a Train",
+      "id": null
+    },
+    {
+      "title": "I’m a Mover",
+      "id": null
+    },
+    {
+      "title": "Goodbye",
+      "id": null
+    }
+  ]
+}

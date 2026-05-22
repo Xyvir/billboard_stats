@@ -1,1 +1,78 @@
-{"id": "best-of-joan-baez-joan-baez", "title": "Best Of Joan Baez", "artist": "Joan Baez", "peak": 121, "history": [{"date": "1977-12-17", "rank": 157}, {"date": "1977-12-24", "rank": 125}, {"date": "1977-12-31", "rank": 125}, {"date": "1978-01-07", "rank": 121}, {"date": "1978-01-14", "rank": 121}, {"date": "1978-01-21", "rank": 129}, {"date": "1978-01-28", "rank": 129}, {"date": "1978-02-04", "rank": 197}]}
+{
+  "id": "best-of-joan-baez-joan-baez",
+  "title": "Best Of Joan Baez",
+  "artist": "Joan Baez",
+  "peak": 121,
+  "history": [
+    {
+      "date": "1977-12-17",
+      "rank": 157
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 125
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 125
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 121
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 121
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 129
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 129
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "There but for Fortune",
+      "id": "there-but-for-fortune-joan-baez"
+    },
+    {
+      "title": "The Night They Drove Old Dixie Down",
+      "id": "the-night-they-drove-old-dixie-down-joan-baez"
+    },
+    {
+      "title": "We Shall Overcome",
+      "id": "we-shall-overcome-joan-baez"
+    },
+    {
+      "title": "The Water Is Wide",
+      "id": null
+    },
+    {
+      "title": "Last Night I Had the Strangest Dream",
+      "id": null
+    },
+    {
+      "title": "I Am a Poor Wayfaring Stranger",
+      "id": null
+    },
+    {
+      "title": "Joe Hill",
+      "id": null
+    },
+    {
+      "title": "Pack Up Your Sorrows",
+      "id": null
+    },
+    {
+      "title": "Silver Dagger",
+      "id": null
+    }
+  ]
+}

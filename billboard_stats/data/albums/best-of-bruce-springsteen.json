@@ -1,1 +1,106 @@
-{"id": "best-of-bruce-springsteen", "title": "Best Of", "artist": "Bruce Springsteen", "peak": 121, "history": [{"date": "2024-05-04", "rank": 121}]}
+{
+  "id": "best-of-bruce-springsteen",
+  "title": "Best Of",
+  "artist": "Bruce Springsteen",
+  "peak": 121,
+  "history": [
+    {
+      "date": "2024-05-04",
+      "rank": 121
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Brilliant Disguise",
+      "id": "brilliant-disguise-bruce-springsteen"
+    },
+    {
+      "title": "Tunnel of Love",
+      "id": "tunnel-of-love-bruce-springsteen"
+    },
+    {
+      "title": "War",
+      "id": "war-bruce-springsteen"
+    },
+    {
+      "title": "Fire",
+      "id": "fire-bruce-springsteen"
+    },
+    {
+      "title": "My Hometown",
+      "id": "my-hometown-bruce-springsteen"
+    },
+    {
+      "title": "Dancing in the Dark",
+      "id": "dancing-in-the-dark-bruce-springsteen"
+    },
+    {
+      "title": "Cover Me",
+      "id": "cover-me-bruce-springsteen"
+    },
+    {
+      "title": "Born in the U.S.A.",
+      "id": "born-in-the-u-s-a-bruce-springsteen"
+    },
+    {
+      "title": "Born to Run",
+      "id": "born-to-run-bruce-springsteen"
+    },
+    {
+      "title": "Tenth Avenue Freeze‐Out",
+      "id": "tenth-avenue-freeze-out-bruce-springsteen"
+    },
+    {
+      "title": "Badlands",
+      "id": "badlands-bruce-springsteen"
+    },
+    {
+      "title": "Prove It All Night",
+      "id": "prove-it-all-night-bruce-springsteen"
+    },
+    {
+      "title": "Hungry Heart",
+      "id": "hungry-heart-bruce-springsteen"
+    },
+    {
+      "title": "Fade Away",
+      "id": "fade-away-bruce-springsteen"
+    },
+    {
+      "title": "I’m on Fire",
+      "id": "i-m-on-fire-bruce-springsteen"
+    },
+    {
+      "title": "I’m Goin’ Down",
+      "id": "i-m-goin-down-bruce-springsteen"
+    },
+    {
+      "title": "Glory Days",
+      "id": "glory-days-bruce-springsteen"
+    },
+    {
+      "title": "One Step Up",
+      "id": "one-step-up-bruce-springsteen"
+    },
+    {
+      "title": "Merry Christmas Baby",
+      "id": null
+    },
+    {
+      "title": "Stand on It",
+      "id": null
+    },
+    {
+      "title": "Janey, Don’t You Lose Heart",
+      "id": null
+    },
+    {
+      "title": "Pink Cadillac",
+      "id": null
+    },
+    {
+      "title": "Spare Parts",
+      "id": null
+    }
+  ]
+}

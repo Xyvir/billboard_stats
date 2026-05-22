@@ -1,1 +1,66 @@
-{"id": "best-from-the-farewell-concert-the-statler-brothers", "title": "Best From The Farewell Concert", "artist": "The Statler Brothers", "peak": 145, "history": [{"date": "2013-08-10", "rank": 145}, {"date": "2014-03-29", "rank": 171}]}
+{
+  "id": "best-from-the-farewell-concert-the-statler-brothers",
+  "title": "Best From The Farewell Concert",
+  "artist": "The Statler Brothers",
+  "peak": 145,
+  "history": [
+    {
+      "date": "2013-08-10",
+      "rank": 145
+    },
+    {
+      "date": "2014-03-29",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bed of Roses",
+      "id": "bed-of-rose-s-the-statler-brothers"
+    },
+    {
+      "title": "Flowers on the Wall",
+      "id": "flowers-on-the-wall-the-statler-brothers"
+    },
+    {
+      "title": "I'll Go to My Grave Loving You",
+      "id": "i-ll-go-to-my-grave-loving-you-the-statler-brothers"
+    },
+    {
+      "title": "Do You Remember These",
+      "id": null
+    },
+    {
+      "title": "Do You Know You Are My Sunshine",
+      "id": null
+    },
+    {
+      "title": "Class of '57",
+      "id": null
+    },
+    {
+      "title": "Memories Are Made of This",
+      "id": null
+    },
+    {
+      "title": "Whatever Happened to Randolph Scott",
+      "id": null
+    },
+    {
+      "title": "More Than a Name on a Wall",
+      "id": null
+    },
+    {
+      "title": "Elizabeth",
+      "id": null
+    },
+    {
+      "title": "This Ole House",
+      "id": null
+    },
+    {
+      "title": "Amazing Grace",
+      "id": null
+    }
+  ]
+}

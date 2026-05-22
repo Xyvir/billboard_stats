@@ -1,1 +1,78 @@
-{"id": "best-of-kansas-kansas", "title": "Best Of Kansas", "artist": "Kansas", "peak": 154, "history": [{"date": "1984-09-08", "rank": 162}, {"date": "1984-09-15", "rank": 154}, {"date": "1984-09-22", "rank": 154}, {"date": "1984-09-29", "rank": 192}, {"date": "1984-10-06", "rank": 190}]}
+{
+  "id": "best-of-kansas-kansas",
+  "title": "Best Of Kansas",
+  "artist": "Kansas",
+  "peak": 154,
+  "history": [
+    {
+      "date": "1984-09-08",
+      "rank": 162
+    },
+    {
+      "date": "1984-09-15",
+      "rank": 154
+    },
+    {
+      "date": "1984-09-22",
+      "rank": 154
+    },
+    {
+      "date": "1984-09-29",
+      "rank": 192
+    },
+    {
+      "date": "1984-10-06",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Carry On Wayward Son",
+      "id": "carry-on-wayward-son-kansas"
+    },
+    {
+      "title": "Point of Know Return",
+      "id": "point-of-know-return-kansas"
+    },
+    {
+      "title": "Fight Fire With Fire",
+      "id": "fight-fire-with-fire-kansas"
+    },
+    {
+      "title": "Dust in the Wind",
+      "id": "dust-in-the-wind-kansas"
+    },
+    {
+      "title": "Hold On",
+      "id": "hold-on-kansas"
+    },
+    {
+      "title": "Play the Game Tonight",
+      "id": "play-the-game-tonight-kansas"
+    },
+    {
+      "title": "Song for America",
+      "id": null
+    },
+    {
+      "title": "No One Together",
+      "id": null
+    },
+    {
+      "title": "The Wall",
+      "id": null
+    },
+    {
+      "title": "The Pinnacle",
+      "id": null
+    },
+    {
+      "title": "The Devil Game",
+      "id": null
+    },
+    {
+      "title": "Closet Chronicles",
+      "id": null
+    }
+  ]
+}
