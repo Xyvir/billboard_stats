@@ -1,1 +1,98 @@
-{"id": "a-decade-of-hits-the-charlie-daniels-band", "title": "A Decade Of Hits", "artist": "The Charlie Daniels Band", "peak": 84, "history": [{"date": "1983-07-23", "rank": 147}, {"date": "1983-07-30", "rank": 100}, {"date": "1983-08-06", "rank": 88}, {"date": "1983-08-13", "rank": 86}, {"date": "1983-08-20", "rank": 84}, {"date": "1983-08-27", "rank": 91}, {"date": "1983-09-03", "rank": 89}, {"date": "1983-09-10", "rank": 87}, {"date": "1983-09-17", "rank": 114}, {"date": "1983-09-24", "rank": 135}, {"date": "1983-10-01", "rank": 143}, {"date": "1983-10-08", "rank": 184}]}
+{
+  "id": "a-decade-of-hits-the-charlie-daniels-band",
+  "title": "A Decade Of Hits",
+  "artist": "The Charlie Daniels Band",
+  "peak": 84,
+  "history": [
+    {
+      "date": "1983-07-23",
+      "rank": 147
+    },
+    {
+      "date": "1983-07-30",
+      "rank": 100
+    },
+    {
+      "date": "1983-08-06",
+      "rank": 88
+    },
+    {
+      "date": "1983-08-13",
+      "rank": 86
+    },
+    {
+      "date": "1983-08-20",
+      "rank": 84
+    },
+    {
+      "date": "1983-08-27",
+      "rank": 91
+    },
+    {
+      "date": "1983-09-03",
+      "rank": 89
+    },
+    {
+      "date": "1983-09-10",
+      "rank": 87
+    },
+    {
+      "date": "1983-09-17",
+      "rank": 114
+    },
+    {
+      "date": "1983-09-24",
+      "rank": 135
+    },
+    {
+      "date": "1983-10-01",
+      "rank": 143
+    },
+    {
+      "date": "1983-10-08",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Devil Went Down to Georgia",
+      "id": "the-devil-went-down-to-georgia-the-charlie-daniels-band"
+    },
+    {
+      "title": "The South’s Gonna Do It Again",
+      "id": "the-south-s-gonna-do-it-the-charlie-daniels-band"
+    },
+    {
+      "title": "In America",
+      "id": "in-america-the-charlie-daniels-band"
+    },
+    {
+      "title": "Still in Saigon",
+      "id": "still-in-saigon-the-charlie-daniels-band"
+    },
+    {
+      "title": "Long Haired Country Boy",
+      "id": "long-haired-country-boy-the-charlie-daniels-band"
+    },
+    {
+      "title": "The Legend of Wooley Swamp",
+      "id": "the-legend-of-wooley-swamp-the-charlie-daniels-band"
+    },
+    {
+      "title": "Stroker's Theme",
+      "id": null
+    },
+    {
+      "title": "Uneasy Rider",
+      "id": null
+    },
+    {
+      "title": "Let It Roll",
+      "id": null
+    },
+    {
+      "title": "Everytime I See Him",
+      "id": null
+    }
+  ]
+}

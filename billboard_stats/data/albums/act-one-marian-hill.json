@@ -1,1 +1,122 @@
-{"id": "act-one-marian-hill", "title": "Act One", "artist": "Marian Hill", "peak": 42, "history": [{"date": "2017-02-04", "rank": 87}, {"date": "2017-02-11", "rank": 45}, {"date": "2017-02-18", "rank": 42}, {"date": "2017-02-25", "rank": 43}, {"date": "2017-03-04", "rank": 63}, {"date": "2017-03-11", "rank": 47}, {"date": "2017-03-18", "rank": 46}, {"date": "2017-03-25", "rank": 53}, {"date": "2017-04-01", "rank": 56}, {"date": "2017-04-08", "rank": 70}, {"date": "2017-04-15", "rank": 79}, {"date": "2017-04-22", "rank": 98}, {"date": "2017-04-29", "rank": 90}, {"date": "2017-05-06", "rank": 88}, {"date": "2017-05-13", "rank": 135}, {"date": "2017-05-20", "rank": 174}]}
+{
+  "id": "act-one-marian-hill",
+  "title": "Act One",
+  "artist": "Marian Hill",
+  "peak": 42,
+  "history": [
+    {
+      "date": "2017-02-04",
+      "rank": 87
+    },
+    {
+      "date": "2017-02-11",
+      "rank": 45
+    },
+    {
+      "date": "2017-02-18",
+      "rank": 42
+    },
+    {
+      "date": "2017-02-25",
+      "rank": 43
+    },
+    {
+      "date": "2017-03-04",
+      "rank": 63
+    },
+    {
+      "date": "2017-03-11",
+      "rank": 47
+    },
+    {
+      "date": "2017-03-18",
+      "rank": 46
+    },
+    {
+      "date": "2017-03-25",
+      "rank": 53
+    },
+    {
+      "date": "2017-04-01",
+      "rank": 56
+    },
+    {
+      "date": "2017-04-08",
+      "rank": 70
+    },
+    {
+      "date": "2017-04-15",
+      "rank": 79
+    },
+    {
+      "date": "2017-04-22",
+      "rank": 98
+    },
+    {
+      "date": "2017-04-29",
+      "rank": 90
+    },
+    {
+      "date": "2017-05-06",
+      "rank": 88
+    },
+    {
+      "date": "2017-05-13",
+      "rank": 135
+    },
+    {
+      "date": "2017-05-20",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Down",
+      "id": "down-marian-hill"
+    },
+    {
+      "title": "Talk to Me",
+      "id": null
+    },
+    {
+      "title": "Wild",
+      "id": null
+    },
+    {
+      "title": "Bout You",
+      "id": null
+    },
+    {
+      "title": "Take Your Time",
+      "id": null
+    },
+    {
+      "title": "I Know Why",
+      "id": null
+    },
+    {
+      "title": "Good",
+      "id": null
+    },
+    {
+      "title": "Thinking",
+      "id": null
+    },
+    {
+      "title": "Sad Song",
+      "id": null
+    },
+    {
+      "title": "Mistaken",
+      "id": null
+    },
+    {
+      "title": "Same Thing",
+      "id": null
+    },
+    {
+      "title": "I Want You",
+      "id": null
+    }
+  ]
+}

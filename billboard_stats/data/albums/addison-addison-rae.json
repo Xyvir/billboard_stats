@@ -1,1 +1,86 @@
-{"id": "addison-addison-rae", "title": "Addison", "artist": "Addison Rae", "peak": 4, "history": [{"date": "2025-06-21", "rank": 4}, {"date": "2025-06-28", "rank": 39}, {"date": "2025-07-05", "rank": 69}, {"date": "2025-07-12", "rank": 113}, {"date": "2025-07-19", "rank": 146}, {"date": "2025-07-26", "rank": 173}, {"date": "2025-09-27", "rank": 189}]}
+{
+  "id": "addison-addison-rae",
+  "title": "Addison",
+  "artist": "Addison Rae",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2025-06-21",
+      "rank": 4
+    },
+    {
+      "date": "2025-06-28",
+      "rank": 39
+    },
+    {
+      "date": "2025-07-05",
+      "rank": 69
+    },
+    {
+      "date": "2025-07-12",
+      "rank": 113
+    },
+    {
+      "date": "2025-07-19",
+      "rank": 146
+    },
+    {
+      "date": "2025-07-26",
+      "rank": 173
+    },
+    {
+      "date": "2025-09-27",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Diet Pepsi",
+      "id": "diet-pepsi-addison-rae"
+    },
+    {
+      "title": "Fame Is a Gun",
+      "id": "fame-is-a-gun-addison-rae"
+    },
+    {
+      "title": "Headphones On",
+      "id": "headphones-on-addison-rae"
+    },
+    {
+      "title": "New York",
+      "id": null
+    },
+    {
+      "title": "Money Is Everything",
+      "id": null
+    },
+    {
+      "title": "Aquamarine",
+      "id": null
+    },
+    {
+      "title": "Lost & Found",
+      "id": null
+    },
+    {
+      "title": "High Fashion",
+      "id": null
+    },
+    {
+      "title": "Summer Forever",
+      "id": null
+    },
+    {
+      "title": "In the Rain",
+      "id": null
+    },
+    {
+      "title": "Times Like These",
+      "id": null
+    },
+    {
+      "title": "Life’s No Fun Through Clear Waters",
+      "id": null
+    }
+  ]
+}
