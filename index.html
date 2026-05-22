@@ -412,13 +412,20 @@
                         const cleanId = String(songId).replace(/^songs\//, '').replace(/\.json$/, '');
                         const encodedId = cleanId ? encodeURIComponent(cleanId) : '';
                         
-                        return `<div style="background: #222; padding: 10px; border-radius: 4px; cursor: pointer; border: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center;"
-                                     onmouseover="this.style.borderColor='var(--accent)'" 
-                                     onmouseout="this.style.borderColor='var(--border)'"
-                                     onclick="loadDetail('songs', '${encodedId}')">
-                                    <strong style="color: white;">${title}</strong>
-                                    ${peakHtml}
-                                 </div>`;
+                        if (!encodedId) {
+                            return `<div style="background: #1a1a1a; padding: 10px; border-radius: 4px; border: 1px solid #333; display: flex; justify-content: space-between; align-items: center;">
+                                        <strong style="color: #888;">${title}</strong>
+                                        <span class="stat-badge" style="background: #333; color: #666;">Album Track</span>
+                                     </div>`;
+                        } else {
+                            return `<div style="background: #222; padding: 10px; border-radius: 4px; cursor: pointer; border: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center;"
+                                         onmouseover="this.style.borderColor='var(--accent)'" 
+                                         onmouseout="this.style.borderColor='var(--border)'"
+                                         onclick="loadDetail('songs', '${encodedId}')">
+                                        <strong style="color: white;">${title}</strong>
+                                        ${peakHtml}
+                                     </div>`;
+                        }
                     };
 
                     if (type === 'artists') {
