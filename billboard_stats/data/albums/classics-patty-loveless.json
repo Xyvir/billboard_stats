@@ -1,1 +1,90 @@
-{"id": "classics-patty-loveless", "title": "Classics", "artist": "Patty Loveless", "peak": 99, "history": [{"date": "1999-04-10", "rank": 99}, {"date": "1999-04-17", "rank": 112}, {"date": "1999-04-24", "rank": 126}, {"date": "1999-05-01", "rank": 137}, {"date": "1999-05-08", "rank": 155}, {"date": "1999-05-15", "rank": 156}, {"date": "1999-05-22", "rank": 160}, {"date": "1999-05-29", "rank": 159}]}
+{
+  "id": "classics-patty-loveless",
+  "title": "Classics",
+  "artist": "Patty Loveless",
+  "peak": 99,
+  "history": [
+    {
+      "date": "1999-04-10",
+      "rank": 99
+    },
+    {
+      "date": "1999-04-17",
+      "rank": 112
+    },
+    {
+      "date": "1999-04-24",
+      "rank": 126
+    },
+    {
+      "date": "1999-05-01",
+      "rank": 137
+    },
+    {
+      "date": "1999-05-08",
+      "rank": 155
+    },
+    {
+      "date": "1999-05-15",
+      "rank": 156
+    },
+    {
+      "date": "1999-05-22",
+      "rank": 160
+    },
+    {
+      "date": "1999-05-29",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Can't Get Enough",
+      "id": "can-t-get-enough-patty-loveless"
+    },
+    {
+      "title": "You Can Feel Bad",
+      "id": null
+    },
+    {
+      "title": "Lonely Too Long",
+      "id": null
+    },
+    {
+      "title": "I Just Wanna Be Loved by You",
+      "id": null
+    },
+    {
+      "title": "You Don’t Even Know Who I Am",
+      "id": null
+    },
+    {
+      "title": "Here I Am",
+      "id": null
+    },
+    {
+      "title": "You Don’t Seem to Miss Me",
+      "id": null
+    },
+    {
+      "title": "Nothin' but the Wheel",
+      "id": null
+    },
+    {
+      "title": "My Kind of Woman, My Kind of Man",
+      "id": null
+    },
+    {
+      "title": "Blame It on Your Heart",
+      "id": null
+    },
+    {
+      "title": "I Try to Think About Elvis",
+      "id": null
+    },
+    {
+      "title": "How Can I Help You Say Goodbye",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"id": "classic-christmas-george-strait", "title": "Classic Christmas", "artist": "George Strait", "peak": 86, "history": [{"date": "2008-11-29", "rank": 177}, {"date": "2008-12-06", "rank": 103}, {"date": "2008-12-13", "rank": 125}, {"date": "2008-12-20", "rank": 90}, {"date": "2008-12-27", "rank": 86}, {"date": "2009-01-03", "rank": 112}, {"date": "2009-01-10", "rank": 200}]}
+{
+  "id": "classic-christmas-george-strait",
+  "title": "Classic Christmas",
+  "artist": "George Strait",
+  "peak": 86,
+  "history": [
+    {
+      "date": "2008-11-29",
+      "rank": 177
+    },
+    {
+      "date": "2008-12-06",
+      "rank": 103
+    },
+    {
+      "date": "2008-12-13",
+      "rank": 125
+    },
+    {
+      "date": "2008-12-20",
+      "rank": 90
+    },
+    {
+      "date": "2008-12-27",
+      "rank": 86
+    },
+    {
+      "date": "2009-01-03",
+      "rank": 112
+    },
+    {
+      "date": "2009-01-10",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Joy to the World",
+      "id": null
+    },
+    {
+      "title": "We Three Kings",
+      "id": null
+    },
+    {
+      "title": "Silent Night",
+      "id": null
+    },
+    {
+      "title": "Jingle Bells",
+      "id": null
+    },
+    {
+      "title": "O Come All Ye Faithful",
+      "id": null
+    },
+    {
+      "title": "Up on the Housetop",
+      "id": null
+    },
+    {
+      "title": "We Wish You a Merry Christmas",
+      "id": null
+    },
+    {
+      "title": "O Christmas Tree",
+      "id": null
+    },
+    {
+      "title": "Hark! The Herald Angels Sing",
+      "id": null
+    },
+    {
+      "title": "Deck the Halls",
+      "id": null
+    }
+  ]
+}

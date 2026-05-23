@@ -1,1 +1,90 @@
-{"id": "clancy-twenty-one-pilots", "title": "Clancy", "artist": "Twenty One Pilots", "peak": 3, "history": [{"date": "2024-06-08", "rank": 3}, {"date": "2024-06-15", "rank": 15}, {"date": "2024-06-22", "rank": 35}, {"date": "2024-06-29", "rank": 55}, {"date": "2024-07-06", "rank": 81}, {"date": "2024-07-13", "rank": 128}, {"date": "2024-07-20", "rank": 168}]}
+{
+  "id": "clancy-twenty-one-pilots",
+  "title": "Clancy",
+  "artist": "Twenty One Pilots",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2024-06-08",
+      "rank": 3
+    },
+    {
+      "date": "2024-06-15",
+      "rank": 15
+    },
+    {
+      "date": "2024-06-22",
+      "rank": 35
+    },
+    {
+      "date": "2024-06-29",
+      "rank": 55
+    },
+    {
+      "date": "2024-07-06",
+      "rank": 81
+    },
+    {
+      "date": "2024-07-13",
+      "rank": 128
+    },
+    {
+      "date": "2024-07-20",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Overcompensate",
+      "id": "overcompensate-twenty-one-pilots"
+    },
+    {
+      "title": "Next Semester",
+      "id": null
+    },
+    {
+      "title": "Backslide",
+      "id": null
+    },
+    {
+      "title": "Midwest Indigo",
+      "id": null
+    },
+    {
+      "title": "Routines in the Night",
+      "id": null
+    },
+    {
+      "title": "Vignette",
+      "id": null
+    },
+    {
+      "title": "The Craving (Jenna’s version)",
+      "id": null
+    },
+    {
+      "title": "Lavish",
+      "id": null
+    },
+    {
+      "title": "Navigating",
+      "id": null
+    },
+    {
+      "title": "Snap Back",
+      "id": null
+    },
+    {
+      "title": "Oldies Station",
+      "id": null
+    },
+    {
+      "title": "At the Risk of Feeling Dumb",
+      "id": null
+    },
+    {
+      "title": "Paladin Strait",
+      "id": null
+    }
+  ]
+}

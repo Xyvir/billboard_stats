@@ -1,1 +1,62 @@
-{"id": "classic-christmas-album-neil-diamond", "title": "Classic Christmas Album", "artist": "Neil Diamond", "peak": 193, "history": [{"date": "2013-12-28", "rank": 193}]}
+{
+  "id": "classic-christmas-album-neil-diamond",
+  "title": "Classic Christmas Album",
+  "artist": "Neil Diamond",
+  "peak": 193,
+  "history": [
+    {
+      "date": "2013-12-28",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "White Christmas",
+      "id": null
+    },
+    {
+      "title": "Joy to the World",
+      "id": null
+    },
+    {
+      "title": "O Come All Ye Faithful",
+      "id": null
+    },
+    {
+      "title": "The First Noel",
+      "id": null
+    },
+    {
+      "title": "Winter Wonderland",
+      "id": null
+    },
+    {
+      "title": "You Make It Feel Like Christmas",
+      "id": null
+    },
+    {
+      "title": "The Christmas Song",
+      "id": null
+    },
+    {
+      "title": "O Holy Night",
+      "id": null
+    },
+    {
+      "title": "Silver Bells",
+      "id": null
+    },
+    {
+      "title": "Sleigh Ride",
+      "id": null
+    },
+    {
+      "title": "Have Yourself a Merry Little Christmas",
+      "id": null
+    },
+    {
+      "title": "Silent Night",
+      "id": null
+    }
+  ]
+}

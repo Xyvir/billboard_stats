@@ -1,1 +1,82 @@
-{"id": "classics-paul-williams", "title": "Classics", "artist": "Paul Williams", "peak": 155, "history": [{"date": "1977-08-06", "rank": 182}, {"date": "1977-08-13", "rank": 177}, {"date": "1977-08-20", "rank": 197}, {"date": "1977-08-27", "rank": 192}, {"date": "1977-09-03", "rank": 182}, {"date": "1977-09-10", "rank": 171}, {"date": "1977-09-17", "rank": 160}, {"date": "1977-09-24", "rank": 155}]}
+{
+  "id": "classics-paul-williams",
+  "title": "Classics",
+  "artist": "Paul Williams",
+  "peak": 155,
+  "history": [
+    {
+      "date": "1977-08-06",
+      "rank": 182
+    },
+    {
+      "date": "1977-08-13",
+      "rank": 177
+    },
+    {
+      "date": "1977-08-20",
+      "rank": 197
+    },
+    {
+      "date": "1977-08-27",
+      "rank": 192
+    },
+    {
+      "date": "1977-09-03",
+      "rank": 182
+    },
+    {
+      "date": "1977-09-10",
+      "rank": 171
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 160
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Waking Up Alone",
+      "id": "waking-up-alone-paul-williams"
+    },
+    {
+      "title": "You and Me Against the World",
+      "id": null
+    },
+    {
+      "title": "We've Only Just Begun",
+      "id": null
+    },
+    {
+      "title": "Loneliness",
+      "id": null
+    },
+    {
+      "title": "Evergreen",
+      "id": null
+    },
+    {
+      "title": "An Old Fashioned Love Song",
+      "id": null
+    },
+    {
+      "title": "With One More Look at You",
+      "id": null
+    },
+    {
+      "title": "That's Enough for Me",
+      "id": null
+    },
+    {
+      "title": "Rainy Days and Mondays",
+      "id": null
+    },
+    {
+      "title": "I Won't Last a Day Without You",
+      "id": null
+    }
+  ]
+}

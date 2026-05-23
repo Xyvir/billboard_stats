@@ -1,1 +1,138 @@
-{"id": "classic-crystal-crystal-gayle", "title": "Classic Crystal", "artist": "Crystal Gayle", "peak": 62, "history": [{"date": "1979-11-17", "rank": 86}, {"date": "1979-11-24", "rank": 76}, {"date": "1979-12-01", "rank": 67}, {"date": "1979-12-08", "rank": 67}, {"date": "1979-12-15", "rank": 66}, {"date": "1979-12-22", "rank": 65}, {"date": "1979-12-29", "rank": 65}, {"date": "1980-01-05", "rank": 62}, {"date": "1980-01-12", "rank": 62}, {"date": "1980-01-19", "rank": 62}, {"date": "1980-01-26", "rank": 71}, {"date": "1980-02-02", "rank": 70}, {"date": "1980-02-09", "rank": 70}, {"date": "1980-02-16", "rank": 82}, {"date": "1980-02-23", "rank": 90}, {"date": "1980-03-01", "rank": 130}, {"date": "1980-03-08", "rank": 130}, {"date": "1980-03-15", "rank": 131}, {"date": "1980-03-22", "rank": 167}, {"date": "1980-03-29", "rank": 167}, {"date": "1980-04-05", "rank": 198}, {"date": "1980-04-12", "rank": 199}]}
+{
+  "id": "classic-crystal-crystal-gayle",
+  "title": "Classic Crystal",
+  "artist": "Crystal Gayle",
+  "peak": 62,
+  "history": [
+    {
+      "date": "1979-11-17",
+      "rank": 86
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 76
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 67
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 67
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 66
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 65
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 65
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 62
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 62
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 62
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 71
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 70
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 70
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 82
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 90
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 130
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 130
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 131
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 167
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 167
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 198
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t It Make My Brown Eyes Blue",
+      "id": "don-t-it-make-my-brown-eyes-blue-crystal-gayle"
+    },
+    {
+      "title": "Ready for the Times to Get Better",
+      "id": "ready-for-the-times-to-get-better-crystal-gayle"
+    },
+    {
+      "title": "When I Dream",
+      "id": "when-i-dream-crystal-gayle"
+    },
+    {
+      "title": "I’ll Get Over You",
+      "id": "i-ll-get-over-you-crystal-gayle"
+    },
+    {
+      "title": "Talking in Your Sleep",
+      "id": "talking-in-your-sleep-crystal-gayle"
+    },
+    {
+      "title": "Somebody Loves You",
+      "id": null
+    },
+    {
+      "title": "You Never Miss a Real Good Thing (Till He Says Goodbye)",
+      "id": null
+    },
+    {
+      "title": "I’ll Do It All Over Again",
+      "id": null
+    },
+    {
+      "title": "Wrong Road Again",
+      "id": null
+    },
+    {
+      "title": "Why Have You Left the One You Left Me For",
+      "id": null
+    }
+  ]
+}

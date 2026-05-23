@@ -1,1 +1,70 @@
-{"id": "classic-songs-my-way-paul-anka", "title": "Classic Songs: My Way", "artist": "Paul Anka", "peak": 139, "history": [{"date": "2007-09-22", "rank": 139}, {"date": "2007-09-29", "rank": 198}]}
+{
+  "id": "classic-songs-my-way-paul-anka",
+  "title": "Classic Songs: My Way",
+  "artist": "Paul Anka",
+  "peak": 139,
+  "history": [
+    {
+      "date": "2007-09-22",
+      "rank": 139
+    },
+    {
+      "date": "2007-09-29",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Time After Time",
+      "id": "times-of-your-life-paul-anka"
+    },
+    {
+      "title": "Get Here",
+      "id": null
+    },
+    {
+      "title": "Mr. Brightside",
+      "id": null
+    },
+    {
+      "title": "Waiting for a Girl Like You",
+      "id": null
+    },
+    {
+      "title": "Ordinary World",
+      "id": null
+    },
+    {
+      "title": "Heaven",
+      "id": null
+    },
+    {
+      "title": "Bad Day",
+      "id": null
+    },
+    {
+      "title": "I Go to Extremes",
+      "id": null
+    },
+    {
+      "title": "Both Sides Now",
+      "id": null
+    },
+    {
+      "title": "You Are My Destiny",
+      "id": null
+    },
+    {
+      "title": "Walking in Memphis",
+      "id": null
+    },
+    {
+      "title": "Against the Wind",
+      "id": null
+    },
+    {
+      "title": "My Way",
+      "id": null
+    }
+  ]
+}

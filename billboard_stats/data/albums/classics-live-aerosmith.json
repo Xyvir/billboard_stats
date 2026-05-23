@@ -1,1 +1,90 @@
-{"id": "classics-live-aerosmith", "title": "Classics Live", "artist": "Aerosmith", "peak": 84, "history": [{"date": "1986-04-26", "rank": 123}, {"date": "1986-05-03", "rank": 113}, {"date": "1986-05-10", "rank": 100}, {"date": "1986-05-17", "rank": 98}, {"date": "1986-05-24", "rank": 95}, {"date": "1986-05-31", "rank": 91}, {"date": "1986-06-07", "rank": 86}, {"date": "1986-06-14", "rank": 84}, {"date": "1986-06-21", "rank": 106}, {"date": "1986-06-28", "rank": 135}, {"date": "1986-07-05", "rank": 153}, {"date": "1986-07-12", "rank": 175}]}
+{
+  "id": "classics-live-aerosmith",
+  "title": "Classics Live",
+  "artist": "Aerosmith",
+  "peak": 84,
+  "history": [
+    {
+      "date": "1986-04-26",
+      "rank": 123
+    },
+    {
+      "date": "1986-05-03",
+      "rank": 113
+    },
+    {
+      "date": "1986-05-10",
+      "rank": 100
+    },
+    {
+      "date": "1986-05-17",
+      "rank": 98
+    },
+    {
+      "date": "1986-05-24",
+      "rank": 95
+    },
+    {
+      "date": "1986-05-31",
+      "rank": 91
+    },
+    {
+      "date": "1986-06-07",
+      "rank": 86
+    },
+    {
+      "date": "1986-06-14",
+      "rank": 84
+    },
+    {
+      "date": "1986-06-21",
+      "rank": 106
+    },
+    {
+      "date": "1986-06-28",
+      "rank": 135
+    },
+    {
+      "date": "1986-07-05",
+      "rank": 153
+    },
+    {
+      "date": "1986-07-12",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Kings and Queens",
+      "id": "kings-and-queens-aerosmith"
+    },
+    {
+      "title": "Sweet Emotion",
+      "id": "sweet-emotion-aerosmith"
+    },
+    {
+      "title": "Dream On",
+      "id": "dream-on-aerosmith"
+    },
+    {
+      "title": "Mama Kin",
+      "id": "amazing-aerosmith"
+    },
+    {
+      "title": "Train Kept A‐Rollin’",
+      "id": null
+    },
+    {
+      "title": "Three Mile Smile / Reefer Head Woman",
+      "id": null
+    },
+    {
+      "title": "Lord of the Thighs",
+      "id": null
+    },
+    {
+      "title": "Major Barbara",
+      "id": null
+    }
+  ]
+}
