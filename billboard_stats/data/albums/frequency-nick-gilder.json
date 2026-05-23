@@ -1,1 +1,78 @@
-{"id": "frequency-nick-gilder", "title": "Frequency", "artist": "Nick Gilder", "peak": 127, "history": [{"date": "1979-07-07", "rank": 179}, {"date": "1979-07-14", "rank": 147}, {"date": "1979-07-21", "rank": 137}, {"date": "1979-07-28", "rank": 127}, {"date": "1979-08-04", "rank": 127}, {"date": "1979-08-11", "rank": 157}, {"date": "1979-08-18", "rank": 159}, {"date": "1979-08-25", "rank": 200}]}
+{
+  "id": "frequency-nick-gilder",
+  "title": "Frequency",
+  "artist": "Nick Gilder",
+  "peak": 127,
+  "history": [
+    {
+      "date": "1979-07-07",
+      "rank": 179
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 147
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 137
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 127
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 127
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 157
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 159
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Watcher of the Night",
+      "id": "here-comes-the-night-nick-gilder"
+    },
+    {
+      "title": "(You Really) Rock Me",
+      "id": null
+    },
+    {
+      "title": "Time After Time",
+      "id": null
+    },
+    {
+      "title": "Metro Jets",
+      "id": null
+    },
+    {
+      "title": "Electric Love",
+      "id": null
+    },
+    {
+      "title": "The Brightest Star",
+      "id": null
+    },
+    {
+      "title": "Worlds Collide",
+      "id": null
+    },
+    {
+      "title": "Hold on Me Tonight",
+      "id": null
+    },
+    {
+      "title": "Into the 80's",
+      "id": null
+    }
+  ]
+}

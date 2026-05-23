@@ -1,1 +1,70 @@
-{"id": "free-the-music-jerrod-niemann", "title": "Free The Music", "artist": "Jerrod Niemann", "peak": 62, "history": [{"date": "2012-10-20", "rank": 62}, {"date": "2012-10-27", "rank": 128}, {"date": "2012-11-03", "rank": 189}]}
+{
+  "id": "free-the-music-jerrod-niemann",
+  "title": "Free The Music",
+  "artist": "Jerrod Niemann",
+  "peak": 62,
+  "history": [
+    {
+      "date": "2012-10-20",
+      "rank": 62
+    },
+    {
+      "date": "2012-10-27",
+      "rank": 128
+    },
+    {
+      "date": "2012-11-03",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shinin’ on Me",
+      "id": "shinin-on-me-jerrod-niemann"
+    },
+    {
+      "title": "Free the Music",
+      "id": null
+    },
+    {
+      "title": "Whiskey Kinda Way",
+      "id": null
+    },
+    {
+      "title": "Get On Up",
+      "id": null
+    },
+    {
+      "title": "I’ll Have to Kill the Pain",
+      "id": null
+    },
+    {
+      "title": "Only God Could Love You More",
+      "id": null
+    },
+    {
+      "title": "Honky Tonk Fever",
+      "id": null
+    },
+    {
+      "title": "Guessing Games",
+      "id": null
+    },
+    {
+      "title": "It Won’t Matter Anymore",
+      "id": null
+    },
+    {
+      "title": "I’m All About You",
+      "id": null
+    },
+    {
+      "title": "Real Women Drink Beer",
+      "id": null
+    },
+    {
+      "title": "Fraction of a Man",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "free-the-party", "title": "Free", "artist": "The Party", "peak": 163, "history": [{"date": "1992-09-12", "rank": 163}, {"date": "1992-09-19", "rank": 192}, {"date": "1992-09-26", "rank": 181}, {"date": "1992-10-03", "rank": 195}]}
+{
+  "id": "free-the-party",
+  "title": "Free",
+  "artist": "The Party",
+  "peak": 163,
+  "history": [
+    {
+      "date": "1992-09-12",
+      "rank": 163
+    },
+    {
+      "date": "1992-09-19",
+      "rank": 192
+    },
+    {
+      "date": "1992-09-26",
+      "rank": 181
+    },
+    {
+      "date": "1992-10-03",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All About Love",
+      "id": "i-found-love-the-party"
+    },
+    {
+      "title": "In My Life",
+      "id": "in-my-dreams-the-party"
+    },
+    {
+      "title": "Free",
+      "id": null
+    },
+    {
+      "title": "Change On Me",
+      "id": null
+    },
+    {
+      "title": "I Want You",
+      "id": null
+    },
+    {
+      "title": "Where Is My Romeo?",
+      "id": null
+    },
+    {
+      "title": "Frontin'",
+      "id": null
+    },
+    {
+      "title": "Let's Get Right Down To It",
+      "id": null
+    },
+    {
+      "title": "At All Times",
+      "id": null
+    },
+    {
+      "title": "It's Out Of My Heart",
+      "id": null
+    },
+    {
+      "title": "Needin' Someone",
+      "id": null
+    },
+    {
+      "title": "Independent Woman",
+      "id": null
+    },
+    {
+      "title": "Cappuccino and Bacon",
+      "id": null
+    },
+    {
+      "title": "Life Ain't Nothin' But A Party",
+      "id": null
+    },
+    {
+      "title": "Quien Es Mi Romeo?",
+      "id": null
+    }
+  ]
+}
