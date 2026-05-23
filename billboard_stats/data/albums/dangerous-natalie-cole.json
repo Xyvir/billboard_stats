@@ -1,1 +1,82 @@
-{"id": "dangerous-natalie-cole", "title": "Dangerous", "artist": "Natalie Cole", "peak": 140, "history": [{"date": "1985-06-29", "rank": 176}, {"date": "1985-07-06", "rank": 149}, {"date": "1985-07-13", "rank": 143}, {"date": "1985-07-20", "rank": 140}, {"date": "1985-07-27", "rank": 140}, {"date": "1985-08-03", "rank": 158}, {"date": "1985-08-10", "rank": 197}, {"date": "1985-08-17", "rank": 198}, {"date": "1985-08-24", "rank": 198}]}
+{
+  "id": "dangerous-natalie-cole",
+  "title": "Dangerous",
+  "artist": "Natalie Cole",
+  "peak": 140,
+  "history": [
+    {
+      "date": "1985-06-29",
+      "rank": 176
+    },
+    {
+      "date": "1985-07-06",
+      "rank": 149
+    },
+    {
+      "date": "1985-07-13",
+      "rank": 143
+    },
+    {
+      "date": "1985-07-20",
+      "rank": 140
+    },
+    {
+      "date": "1985-07-27",
+      "rank": 140
+    },
+    {
+      "date": "1985-08-03",
+      "rank": 158
+    },
+    {
+      "date": "1985-08-10",
+      "rank": 197
+    },
+    {
+      "date": "1985-08-17",
+      "rank": 198
+    },
+    {
+      "date": "1985-08-24",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dangerous",
+      "id": "dangerous-natalie-cole"
+    },
+    {
+      "title": "A Little Bit Of Heaven",
+      "id": "a-little-bit-of-heaven-natalie-cole"
+    },
+    {
+      "title": "Bill The Kid Next Door",
+      "id": null
+    },
+    {
+      "title": "Secrets",
+      "id": null
+    },
+    {
+      "title": "Nobody's Soldier",
+      "id": null
+    },
+    {
+      "title": "Opposites Attract",
+      "id": null
+    },
+    {
+      "title": "Your Car (My Garage)",
+      "id": null
+    },
+    {
+      "title": "Love Is On The Way",
+      "id": null
+    },
+    {
+      "title": "The Gift",
+      "id": null
+    }
+  ]
+}

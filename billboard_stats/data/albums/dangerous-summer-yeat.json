@@ -1,1 +1,58 @@
-{"id": "dangerous-summer-yeat", "title": "Dangerous Summer", "artist": "Yeat", "peak": 9, "history": [{"date": "2025-08-16", "rank": 9}, {"date": "2025-08-23", "rank": 148}]}
+{
+  "id": "dangerous-summer-yeat",
+  "title": "Dangerous Summer",
+  "artist": "Yeat",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2025-08-16",
+      "rank": 9
+    },
+    {
+      "date": "2025-08-23",
+      "rank": 148
+    }
+  ],
+  "tracks": [
+    {
+      "title": "COMË N GO",
+      "id": "come-n-go-yeat"
+    },
+    {
+      "title": "PUT IT ONG",
+      "id": null
+    },
+    {
+      "title": "LOCO",
+      "id": null
+    },
+    {
+      "title": "LOOSE LEAF",
+      "id": null
+    },
+    {
+      "title": "OH I DID",
+      "id": null
+    },
+    {
+      "title": "IM YEAT",
+      "id": null
+    },
+    {
+      "title": "M.F.U.",
+      "id": null
+    },
+    {
+      "title": "2TONE",
+      "id": null
+    },
+    {
+      "title": "FLY NITË",
+      "id": null
+    },
+    {
+      "title": "GROWING PAINS",
+      "id": null
+    }
+  ]
+}

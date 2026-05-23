@@ -1,1 +1,198 @@
-{"id": "dangerous-toys-dangerous-toys", "title": "Dangerous Toys", "artist": "Dangerous Toys", "peak": 65, "history": [{"date": "1989-06-17", "rank": 172}, {"date": "1989-06-24", "rank": 149}, {"date": "1989-07-01", "rank": 141}, {"date": "1989-07-08", "rank": 110}, {"date": "1989-07-15", "rank": 107}, {"date": "1989-07-22", "rank": 93}, {"date": "1989-07-29", "rank": 85}, {"date": "1989-08-05", "rank": 84}, {"date": "1989-08-12", "rank": 75}, {"date": "1989-08-19", "rank": 71}, {"date": "1989-08-26", "rank": 67}, {"date": "1989-09-02", "rank": 67}, {"date": "1989-09-09", "rank": 66}, {"date": "1989-09-16", "rank": 65}, {"date": "1989-09-23", "rank": 65}, {"date": "1989-09-30", "rank": 65}, {"date": "1989-10-07", "rank": 73}, {"date": "1989-10-14", "rank": 74}, {"date": "1989-10-21", "rank": 75}, {"date": "1989-10-28", "rank": 75}, {"date": "1989-11-04", "rank": 79}, {"date": "1989-11-11", "rank": 76}, {"date": "1989-11-18", "rank": 73}, {"date": "1989-11-25", "rank": 81}, {"date": "1989-12-02", "rank": 87}, {"date": "1989-12-09", "rank": 101}, {"date": "1989-12-16", "rank": 138}, {"date": "1989-12-23", "rank": 148}, {"date": "1989-12-30", "rank": 166}, {"date": "1990-01-06", "rank": 166}, {"date": "1990-01-13", "rank": 165}, {"date": "1990-01-20", "rank": 142}, {"date": "1990-01-27", "rank": 178}, {"date": "1990-02-03", "rank": 167}, {"date": "1990-02-10", "rank": 180}, {"date": "1990-02-17", "rank": 181}]}
+{
+  "id": "dangerous-toys-dangerous-toys",
+  "title": "Dangerous Toys",
+  "artist": "Dangerous Toys",
+  "peak": 65,
+  "history": [
+    {
+      "date": "1989-06-17",
+      "rank": 172
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 149
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 141
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 110
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 107
+    },
+    {
+      "date": "1989-07-22",
+      "rank": 93
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 85
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 84
+    },
+    {
+      "date": "1989-08-12",
+      "rank": 75
+    },
+    {
+      "date": "1989-08-19",
+      "rank": 71
+    },
+    {
+      "date": "1989-08-26",
+      "rank": 67
+    },
+    {
+      "date": "1989-09-02",
+      "rank": 67
+    },
+    {
+      "date": "1989-09-09",
+      "rank": 66
+    },
+    {
+      "date": "1989-09-16",
+      "rank": 65
+    },
+    {
+      "date": "1989-09-23",
+      "rank": 65
+    },
+    {
+      "date": "1989-09-30",
+      "rank": 65
+    },
+    {
+      "date": "1989-10-07",
+      "rank": 73
+    },
+    {
+      "date": "1989-10-14",
+      "rank": 74
+    },
+    {
+      "date": "1989-10-21",
+      "rank": 75
+    },
+    {
+      "date": "1989-10-28",
+      "rank": 75
+    },
+    {
+      "date": "1989-11-04",
+      "rank": 79
+    },
+    {
+      "date": "1989-11-11",
+      "rank": 76
+    },
+    {
+      "date": "1989-11-18",
+      "rank": 73
+    },
+    {
+      "date": "1989-11-25",
+      "rank": 81
+    },
+    {
+      "date": "1989-12-02",
+      "rank": 87
+    },
+    {
+      "date": "1989-12-09",
+      "rank": 101
+    },
+    {
+      "date": "1989-12-16",
+      "rank": 138
+    },
+    {
+      "date": "1989-12-23",
+      "rank": 148
+    },
+    {
+      "date": "1989-12-30",
+      "rank": 166
+    },
+    {
+      "date": "1990-01-06",
+      "rank": 166
+    },
+    {
+      "date": "1990-01-13",
+      "rank": 165
+    },
+    {
+      "date": "1990-01-20",
+      "rank": 142
+    },
+    {
+      "date": "1990-01-27",
+      "rank": 178
+    },
+    {
+      "date": "1990-02-03",
+      "rank": 167
+    },
+    {
+      "date": "1990-02-10",
+      "rank": 180
+    },
+    {
+      "date": "1990-02-17",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Teas’n, Pleas’n",
+      "id": null
+    },
+    {
+      "title": "Scared",
+      "id": null
+    },
+    {
+      "title": "Bones in the Gutter",
+      "id": null
+    },
+    {
+      "title": "Take Me Drunk",
+      "id": null
+    },
+    {
+      "title": "Feels Like a Hammer",
+      "id": null
+    },
+    {
+      "title": "Sport’n a Woody",
+      "id": null
+    },
+    {
+      "title": "Queen of the Nile",
+      "id": null
+    },
+    {
+      "title": "Outlaw",
+      "id": null
+    },
+    {
+      "title": "Here Comes Trouble",
+      "id": null
+    },
+    {
+      "title": "Ten Boots (Stompin’)",
+      "id": null
+    },
+    {
+      "title": "That Dog",
+      "id": null
+    }
+  ]
+}
