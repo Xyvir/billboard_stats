@@ -1,1 +1,66 @@
-{"id": "elton-john-elton-john", "title": "Elton John", "artist": "Elton John", "peak": 143, "history": [{"date": "2020-09-12", "rank": 143}]}
+{
+  "id": "elton-john-elton-john",
+  "title": "Elton John",
+  "artist": "Elton John",
+  "peak": 143,
+  "history": [
+    {
+      "date": "2020-09-12",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Your Song",
+      "id": "your-song-elton-john"
+    },
+    {
+      "title": "Border Song",
+      "id": "border-song-elton-john"
+    },
+    {
+      "title": "The Cage",
+      "id": "the-one-elton-john"
+    },
+    {
+      "title": "I Need You to Turn To",
+      "id": null
+    },
+    {
+      "title": "Take Me to the Pilot",
+      "id": null
+    },
+    {
+      "title": "No Shoe Strings on Louise",
+      "id": null
+    },
+    {
+      "title": "First Episode at Hienton",
+      "id": null
+    },
+    {
+      "title": "Sixty Years On",
+      "id": null
+    },
+    {
+      "title": "The Greatest Discovery",
+      "id": null
+    },
+    {
+      "title": "The King Must Die",
+      "id": null
+    },
+    {
+      "title": "Bad Side of the Moon",
+      "id": null
+    },
+    {
+      "title": "Grey Seal",
+      "id": null
+    },
+    {
+      "title": "Rock and Roll Madonna",
+      "id": null
+    }
+  ]
+}

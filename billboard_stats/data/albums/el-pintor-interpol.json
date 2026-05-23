@@ -1,1 +1,70 @@
-{"id": "el-pintor-interpol", "title": "El Pintor", "artist": "Interpol", "peak": 7, "history": [{"date": "2014-09-27", "rank": 7}, {"date": "2014-10-04", "rank": 34}, {"date": "2014-10-11", "rank": 68}, {"date": "2014-10-18", "rank": 106}, {"date": "2014-10-25", "rank": 161}]}
+{
+  "id": "el-pintor-interpol",
+  "title": "El Pintor",
+  "artist": "Interpol",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2014-09-27",
+      "rank": 7
+    },
+    {
+      "date": "2014-10-04",
+      "rank": 34
+    },
+    {
+      "date": "2014-10-11",
+      "rank": 68
+    },
+    {
+      "date": "2014-10-18",
+      "rank": 106
+    },
+    {
+      "date": "2014-10-25",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All the Rage Back Home",
+      "id": null
+    },
+    {
+      "title": "My Desire",
+      "id": null
+    },
+    {
+      "title": "Anywhere",
+      "id": null
+    },
+    {
+      "title": "Same Town, New Story",
+      "id": null
+    },
+    {
+      "title": "My Blue Supreme",
+      "id": null
+    },
+    {
+      "title": "Everything Is Wrong",
+      "id": null
+    },
+    {
+      "title": "Breaker 1",
+      "id": null
+    },
+    {
+      "title": "Ancient Ways",
+      "id": null
+    },
+    {
+      "title": "Tidal Wave",
+      "id": null
+    },
+    {
+      "title": "Twice as Hard",
+      "id": null
+    }
+  ]
+}

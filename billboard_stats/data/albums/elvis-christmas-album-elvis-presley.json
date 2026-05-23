@@ -1,1 +1,70 @@
-{"id": "elvis-christmas-album-elvis-presley", "title": "Elvis' Christmas Album", "artist": "Elvis Presley", "peak": 28, "history": [{"date": "1985-12-28", "rank": 178}, {"date": "1986-01-04", "rank": 178}, {"date": "2024-01-06", "rank": 28}]}
+{
+  "id": "elvis-christmas-album-elvis-presley",
+  "title": "Elvis' Christmas Album",
+  "artist": "Elvis Presley",
+  "peak": 28,
+  "history": [
+    {
+      "date": "1985-12-28",
+      "rank": 178
+    },
+    {
+      "date": "1986-01-04",
+      "rank": 178
+    },
+    {
+      "date": "2024-01-06",
+      "rank": 28
+    }
+  ],
+  "tracks": [
+    {
+      "title": "White Christmas",
+      "id": "blue-christmas-elvis-presley"
+    },
+    {
+      "title": "I’ll Be Home for Christmas",
+      "id": "blue-christmas-elvis-presley"
+    },
+    {
+      "title": "Blue Christmas",
+      "id": "blue-christmas-elvis-presley"
+    },
+    {
+      "title": "Silent Night",
+      "id": "one-night-elvis-presley"
+    },
+    {
+      "title": "I Believe",
+      "id": "life-only-believe-elvis-presley"
+    },
+    {
+      "title": "Santa Claus Is Back in Town",
+      "id": null
+    },
+    {
+      "title": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+      "id": null
+    },
+    {
+      "title": "Santa Bring My Baby Back (to Me)",
+      "id": null
+    },
+    {
+      "title": "O Little Town of Bethlehem",
+      "id": null
+    },
+    {
+      "title": "(There’ll Be) Peace in the Valley for Me",
+      "id": null
+    },
+    {
+      "title": "Take My Hand, Precious Lord",
+      "id": null
+    },
+    {
+      "title": "It Is No Secret (What God Can Do)",
+      "id": null
+    }
+  ]
+}

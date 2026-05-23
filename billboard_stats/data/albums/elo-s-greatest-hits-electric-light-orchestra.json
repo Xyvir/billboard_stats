@@ -1,1 +1,114 @@
-{"id": "elo-s-greatest-hits-electric-light-orchestra", "title": "ELO's Greatest Hits", "artist": "Electric Light Orchestra", "peak": 30, "history": [{"date": "1979-12-08", "rank": 62}, {"date": "1979-12-15", "rank": 40}, {"date": "1979-12-22", "rank": 32}, {"date": "1979-12-29", "rank": 32}, {"date": "1980-01-05", "rank": 30}, {"date": "1980-01-12", "rank": 30}, {"date": "1980-01-19", "rank": 30}, {"date": "1980-01-26", "rank": 34}, {"date": "1980-02-02", "rank": 32}, {"date": "1980-02-09", "rank": 71}, {"date": "1980-02-16", "rank": 108}, {"date": "1980-02-23", "rank": 108}, {"date": "1980-03-01", "rank": 123}, {"date": "1980-03-08", "rank": 159}, {"date": "1980-03-15", "rank": 175}]}
+{
+  "id": "elo-s-greatest-hits-electric-light-orchestra",
+  "title": "ELO's Greatest Hits",
+  "artist": "Electric Light Orchestra",
+  "peak": 30,
+  "history": [
+    {
+      "date": "1979-12-08",
+      "rank": 62
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 40
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 32
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 32
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 30
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 30
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 30
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 34
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 32
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 71
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 108
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 108
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 123
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 159
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Evil Woman",
+      "id": "evil-woman-electric-light-orchestra"
+    },
+    {
+      "title": "Livin’ Thing",
+      "id": "livin-thing-electric-light-orchestra"
+    },
+    {
+      "title": "Can’t Get It Out of My Head",
+      "id": "can-t-get-it-out-of-my-head-electric-light-orchestra"
+    },
+    {
+      "title": "Showdown",
+      "id": "showdown-electric-light-orchestra"
+    },
+    {
+      "title": "Turn to Stone",
+      "id": "turn-to-stone-electric-light-orchestra"
+    },
+    {
+      "title": "Sweet Talkin’ Woman",
+      "id": "sweet-talkin-woman-electric-light-orchestra"
+    },
+    {
+      "title": "Telephone Line",
+      "id": "telephone-line-electric-light-orchestra"
+    },
+    {
+      "title": "Strange Magic",
+      "id": "strange-magic-electric-light-orchestra"
+    },
+    {
+      "title": "Mr. Blue Sky",
+      "id": "mr-blue-sky-electric-light-orchestra"
+    },
+    {
+      "title": "Rockaria!",
+      "id": null
+    },
+    {
+      "title": "Ma‐Ma‐Ma Belle",
+      "id": null
+    }
+  ]
+}

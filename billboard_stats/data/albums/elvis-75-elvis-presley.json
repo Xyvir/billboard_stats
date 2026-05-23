@@ -1,1 +1,330 @@
-{"id": "elvis-75-elvis-presley", "title": "Elvis: 75", "artist": "Elvis Presley", "peak": 43, "history": [{"date": "2010-01-23", "rank": 47}, {"date": "2010-01-30", "rank": 43}, {"date": "2010-02-06", "rank": 138}, {"date": "2010-05-01", "rank": 186}, {"date": "2013-03-30", "rank": 44}]}
+{
+  "id": "elvis-75-elvis-presley",
+  "title": "Elvis: 75",
+  "artist": "Elvis Presley",
+  "peak": 43,
+  "history": [
+    {
+      "date": "2010-01-23",
+      "rank": 47
+    },
+    {
+      "date": "2010-01-30",
+      "rank": 43
+    },
+    {
+      "date": "2010-02-06",
+      "rank": 138
+    },
+    {
+      "date": "2010-05-01",
+      "rank": 186
+    },
+    {
+      "date": "2013-03-30",
+      "rank": 44
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Me Tender",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "Trying to Get to You",
+      "id": "in-the-ghetto-elvis-presley"
+    },
+    {
+      "title": "One Night",
+      "id": "one-night-elvis-presley"
+    },
+    {
+      "title": "(Marie’s the Name) His Latest Flame",
+      "id": "marie-s-the-name-his-latest-flame-elvis-presley"
+    },
+    {
+      "title": "Viva Las Vegas",
+      "id": "viva-las-vegas-elvis-presley"
+    },
+    {
+      "title": "Kissin’ Cousins",
+      "id": "suspicious-minds-elvis-presley"
+    },
+    {
+      "title": "Aint That Loving You Baby",
+      "id": "ain-t-that-loving-you-baby-elvis-presley"
+    },
+    {
+      "title": "Love Letters",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "All That I Am",
+      "id": "follow-that-dream-elvis-presley"
+    },
+    {
+      "title": "Guitar Man",
+      "id": "guitar-man-elvis-presley"
+    },
+    {
+      "title": "If I Can Dream",
+      "id": "if-i-can-dream-elvis-presley"
+    },
+    {
+      "title": "In the Ghetto",
+      "id": "in-the-ghetto-elvis-presley"
+    },
+    {
+      "title": "Suspicious Minds",
+      "id": "suspicious-minds-elvis-presley"
+    },
+    {
+      "title": "Don’t Cry Daddy",
+      "id": "don-t-cry-daddy-rubberneckin-elvis-presley"
+    },
+    {
+      "title": "The Wonder of You",
+      "id": "the-wonder-of-you-mama-liked-the-roses-elvis-presley"
+    },
+    {
+      "title": "You Don’t Have to Say You Love Me",
+      "id": "you-don-t-have-to-say-you-love-me-patch-it-up-elvis-presley"
+    },
+    {
+      "title": "There Goes My Everything",
+      "id": "i-really-don-t-want-to-know-there-goes-my-everything-elvis-presley"
+    },
+    {
+      "title": "Until It’s Time for You to Go",
+      "id": "until-it-s-time-for-you-to-go-elvis-presley"
+    },
+    {
+      "title": "An American Trilogy",
+      "id": "an-american-trilogy-elvis-presley"
+    },
+    {
+      "title": "Burning Love",
+      "id": "burning-love-elvis-presley"
+    },
+    {
+      "title": "My Boy",
+      "id": "my-boy-elvis-presley"
+    },
+    {
+      "title": "Promised Land",
+      "id": "promised-land-elvis-presley"
+    },
+    {
+      "title": "Suspicion",
+      "id": "suspicious-minds-elvis-presley"
+    },
+    {
+      "title": "Way Down",
+      "id": "way-down-elvis-presley"
+    },
+    {
+      "title": "My Way (master)",
+      "id": "my-way-elvis-presley"
+    },
+    {
+      "title": "It’s Only Love",
+      "id": "it-s-only-love-elvis-presley"
+    },
+    {
+      "title": "Heartbreak Hotel",
+      "id": null
+    },
+    {
+      "title": "Blue Suede Shoes",
+      "id": null
+    },
+    {
+      "title": "I Want You, I Need You, I Love You",
+      "id": null
+    },
+    {
+      "title": "Hound Dog",
+      "id": null
+    },
+    {
+      "title": "Blue Moon",
+      "id": null
+    },
+    {
+      "title": "Too Much",
+      "id": null
+    },
+    {
+      "title": "All Shook Up",
+      "id": null
+    },
+    {
+      "title": "(Let Me Be Your) Teddy Bear",
+      "id": null
+    },
+    {
+      "title": "Paralyzed",
+      "id": null
+    },
+    {
+      "title": "Party",
+      "id": null
+    },
+    {
+      "title": "Got a Lot o’ Livin’ to Do",
+      "id": null
+    },
+    {
+      "title": "Lawdy, Miss Clawdy",
+      "id": null
+    },
+    {
+      "title": "Jailhouse Rock",
+      "id": null
+    },
+    {
+      "title": "Don’t",
+      "id": null
+    },
+    {
+      "title": "Wear My Ring Around Your Neck",
+      "id": null
+    },
+    {
+      "title": "Hard Headed Woman",
+      "id": null
+    },
+    {
+      "title": "King Creole",
+      "id": null
+    },
+    {
+      "title": "(Now and Then There’s) a Fool Such as I",
+      "id": null
+    },
+    {
+      "title": "A Big Hunk o’ Love",
+      "id": null
+    },
+    {
+      "title": "Stuck on You",
+      "id": null
+    },
+    {
+      "title": "A Mess of Blues",
+      "id": null
+    },
+    {
+      "title": "It’s Now or Never",
+      "id": null
+    },
+    {
+      "title": "Are You Lonesome Tonight?",
+      "id": null
+    },
+    {
+      "title": "Wooden Heart",
+      "id": null
+    },
+    {
+      "title": "Surrender",
+      "id": null
+    },
+    {
+      "title": "Wild in the Country",
+      "id": null
+    },
+    {
+      "title": "Rock‐a‐Hula Baby",
+      "id": null
+    },
+    {
+      "title": "Can’t Help Falling in Love",
+      "id": null
+    },
+    {
+      "title": "Good Luck Charm",
+      "id": null
+    },
+    {
+      "title": "She’s Not You",
+      "id": null
+    },
+    {
+      "title": "Return to Sender",
+      "id": null
+    },
+    {
+      "title": "One Broken Heart for Sale",
+      "id": null
+    },
+    {
+      "title": "(You’re the) Devil in Disguise",
+      "id": null
+    },
+    {
+      "title": "Bossa Nova Baby",
+      "id": null
+    },
+    {
+      "title": "Kiss Me Quick",
+      "id": null
+    },
+    {
+      "title": "Such a Night",
+      "id": null
+    },
+    {
+      "title": "Crying in the Chapel",
+      "id": null
+    },
+    {
+      "title": "Tell Me Why",
+      "id": null
+    },
+    {
+      "title": "U.S. Male",
+      "id": null
+    },
+    {
+      "title": "I’ve Lost You",
+      "id": null
+    },
+    {
+      "title": "Rags to Riches",
+      "id": null
+    },
+    {
+      "title": "I Just Can’t Help Believin’",
+      "id": null
+    },
+    {
+      "title": "Always on My Mind",
+      "id": null
+    },
+    {
+      "title": "Fool",
+      "id": null
+    },
+    {
+      "title": "The Girl of My Best Friend",
+      "id": null
+    },
+    {
+      "title": "Moody Blue",
+      "id": null
+    },
+    {
+      "title": "A Little Less Conversation (JXL radio edit remix)",
+      "id": null
+    },
+    {
+      "title": "Rubberneckin’ (Paul Oakenfold remix, radio edit)",
+      "id": null
+    },
+    {
+      "title": "That’s All Right",
+      "id": null
+    }
+  ]
+}

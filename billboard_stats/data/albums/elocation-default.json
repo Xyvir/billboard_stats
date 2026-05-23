@@ -1,1 +1,74 @@
-{"id": "elocation-default", "title": "Elocation", "artist": "Default", "peak": 105, "history": [{"date": "2003-12-13", "rank": 105}, {"date": "2003-12-20", "rank": 185}, {"date": "2004-01-17", "rank": 185}]}
+{
+  "id": "elocation-default",
+  "title": "Elocation",
+  "artist": "Default",
+  "peak": 105,
+  "history": [
+    {
+      "date": "2003-12-13",
+      "rank": 105
+    },
+    {
+      "date": "2003-12-20",
+      "rank": 185
+    },
+    {
+      "date": "2004-01-17",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Who Followed Who?",
+      "id": null
+    },
+    {
+      "title": "(Taking My) Life Away",
+      "id": null
+    },
+    {
+      "title": "Movin' On",
+      "id": null
+    },
+    {
+      "title": "Throw It All Away",
+      "id": null
+    },
+    {
+      "title": "Cruel",
+      "id": null
+    },
+    {
+      "title": "Made to Lie",
+      "id": null
+    },
+    {
+      "title": "Crossing the Line",
+      "id": null
+    },
+    {
+      "title": "Without You",
+      "id": null
+    },
+    {
+      "title": "Break Down Doors",
+      "id": null
+    },
+    {
+      "title": "Enough",
+      "id": null
+    },
+    {
+      "title": "All She Wrote",
+      "id": null
+    },
+    {
+      "title": "Alone",
+      "id": null
+    },
+    {
+      "title": "Let You Down (acoustic)",
+      "id": null
+    }
+  ]
+}
