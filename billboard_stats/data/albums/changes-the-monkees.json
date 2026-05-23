@@ -1,1 +1,74 @@
-{"id": "changes-the-monkees", "title": "Changes", "artist": "The Monkees", "peak": 152, "history": [{"date": "1986-11-08", "rank": 174}, {"date": "1986-11-15", "rank": 154}, {"date": "1986-11-22", "rank": 152}, {"date": "1986-11-29", "rank": 199}]}
+{
+  "id": "changes-the-monkees",
+  "title": "Changes",
+  "artist": "The Monkees",
+  "peak": 152,
+  "history": [
+    {
+      "date": "1986-11-08",
+      "rank": 174
+    },
+    {
+      "date": "1986-11-15",
+      "rank": 154
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 152
+    },
+    {
+      "date": "1986-11-29",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Oh My My",
+      "id": "oh-my-my-the-monkees"
+    },
+    {
+      "title": "It’s Got to Be Love",
+      "id": "it-s-nice-to-be-with-you-the-monkees"
+    },
+    {
+      "title": "Ticket on a Ferry Ride",
+      "id": null
+    },
+    {
+      "title": "You’re So Good to Me",
+      "id": null
+    },
+    {
+      "title": "Acapulco Sun",
+      "id": null
+    },
+    {
+      "title": "99 Pounds",
+      "id": null
+    },
+    {
+      "title": "Tell Me Love",
+      "id": null
+    },
+    {
+      "title": "Do You Feel It Too",
+      "id": null
+    },
+    {
+      "title": "I Love You Better",
+      "id": null
+    },
+    {
+      "title": "All Alone in the Dark",
+      "id": null
+    },
+    {
+      "title": "Midnight Train",
+      "id": null
+    },
+    {
+      "title": "I Never Thought It Peculiar",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "chaos-and-disorder-prince", "title": "Chaos And Disorder", "artist": "Prince", "peak": 26, "history": [{"date": "1996-07-27", "rank": 26}, {"date": "1996-08-03", "rank": 65}, {"date": "1996-08-10", "rank": 107}, {"date": "1996-08-17", "rank": 179}]}
+{
+  "id": "chaos-and-disorder-prince",
+  "title": "Chaos And Disorder",
+  "artist": "Prince",
+  "peak": 26,
+  "history": [
+    {
+      "date": "1996-07-27",
+      "rank": 26
+    },
+    {
+      "date": "1996-08-03",
+      "rank": 65
+    },
+    {
+      "date": "1996-08-10",
+      "rank": 107
+    },
+    {
+      "date": "1996-08-17",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Into the Light",
+      "id": "sign-o-the-times-prince"
+    },
+    {
+      "title": "Had U",
+      "id": "i-hate-u-prince"
+    },
+    {
+      "title": "Chaos and Disorder",
+      "id": null
+    },
+    {
+      "title": "I Like It There",
+      "id": null
+    },
+    {
+      "title": "Dinner With Delores",
+      "id": null
+    },
+    {
+      "title": "The Same December",
+      "id": null
+    },
+    {
+      "title": "Right the Wrong",
+      "id": null
+    },
+    {
+      "title": "Zannalee",
+      "id": null
+    },
+    {
+      "title": "I Rock, Therefore I Am",
+      "id": null
+    },
+    {
+      "title": "I Will",
+      "id": null
+    },
+    {
+      "title": "Dig U Better Dead",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,298 @@
-{"id": "chant-the-benedictine-monks-of-santo-domingo-de-silos", "title": "Chant", "artist": "The Benedictine Monks Of Santo Domingo De Silos", "peak": 3, "history": [{"date": "1994-04-02", "rank": 47}, {"date": "1994-04-09", "rank": 32}, {"date": "1994-04-16", "rank": 13}, {"date": "1994-04-23", "rank": 12}, {"date": "1994-04-30", "rank": 6}, {"date": "1994-05-07", "rank": 5}, {"date": "1994-05-14", "rank": 4}, {"date": "1994-05-21", "rank": 5}, {"date": "1994-05-28", "rank": 3}, {"date": "1994-06-04", "rank": 4}, {"date": "1994-06-11", "rank": 4}, {"date": "1994-06-18", "rank": 7}, {"date": "1994-06-25", "rank": 13}, {"date": "1994-07-02", "rank": 12}, {"date": "1994-07-09", "rank": 15}, {"date": "1994-07-16", "rank": 19}, {"date": "1994-07-23", "rank": 12}, {"date": "1994-07-30", "rank": 12}, {"date": "1994-08-06", "rank": 17}, {"date": "1994-08-13", "rank": 21}, {"date": "1994-08-20", "rank": 18}, {"date": "1994-08-27", "rank": 19}, {"date": "1994-09-03", "rank": 27}, {"date": "1994-09-10", "rank": 31}, {"date": "1994-09-17", "rank": 36}, {"date": "1994-09-24", "rank": 41}, {"date": "1994-10-01", "rank": 45}, {"date": "1994-10-08", "rank": 46}, {"date": "1994-10-15", "rank": 53}, {"date": "1994-10-22", "rank": 65}, {"date": "1994-10-29", "rank": 60}, {"date": "1994-11-05", "rank": 64}, {"date": "1994-11-12", "rank": 58}, {"date": "1994-11-19", "rank": 66}, {"date": "1994-11-26", "rank": 68}, {"date": "1994-12-03", "rank": 78}, {"date": "1994-12-10", "rank": 73}, {"date": "1994-12-17", "rank": 71}, {"date": "1994-12-24", "rank": 62}, {"date": "1994-12-31", "rank": 43}, {"date": "1995-01-07", "rank": 44}, {"date": "1995-01-14", "rank": 85}, {"date": "1995-01-21", "rank": 90}, {"date": "1995-01-28", "rank": 93}, {"date": "1995-02-04", "rank": 95}, {"date": "1995-02-11", "rank": 111}, {"date": "1995-02-18", "rank": 120}, {"date": "1995-02-25", "rank": 130}, {"date": "1995-03-04", "rank": 144}, {"date": "1995-03-11", "rank": 162}, {"date": "1995-03-18", "rank": 173}, {"date": "1995-03-25", "rank": 187}, {"date": "1995-04-01", "rank": 193}]}
+{
+  "id": "chant-the-benedictine-monks-of-santo-domingo-de-silos",
+  "title": "Chant",
+  "artist": "The Benedictine Monks Of Santo Domingo De Silos",
+  "peak": 3,
+  "history": [
+    {
+      "date": "1994-04-02",
+      "rank": 47
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 32
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 13
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 12
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 6
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 5
+    },
+    {
+      "date": "1994-05-14",
+      "rank": 4
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 5
+    },
+    {
+      "date": "1994-05-28",
+      "rank": 3
+    },
+    {
+      "date": "1994-06-04",
+      "rank": 4
+    },
+    {
+      "date": "1994-06-11",
+      "rank": 4
+    },
+    {
+      "date": "1994-06-18",
+      "rank": 7
+    },
+    {
+      "date": "1994-06-25",
+      "rank": 13
+    },
+    {
+      "date": "1994-07-02",
+      "rank": 12
+    },
+    {
+      "date": "1994-07-09",
+      "rank": 15
+    },
+    {
+      "date": "1994-07-16",
+      "rank": 19
+    },
+    {
+      "date": "1994-07-23",
+      "rank": 12
+    },
+    {
+      "date": "1994-07-30",
+      "rank": 12
+    },
+    {
+      "date": "1994-08-06",
+      "rank": 17
+    },
+    {
+      "date": "1994-08-13",
+      "rank": 21
+    },
+    {
+      "date": "1994-08-20",
+      "rank": 18
+    },
+    {
+      "date": "1994-08-27",
+      "rank": 19
+    },
+    {
+      "date": "1994-09-03",
+      "rank": 27
+    },
+    {
+      "date": "1994-09-10",
+      "rank": 31
+    },
+    {
+      "date": "1994-09-17",
+      "rank": 36
+    },
+    {
+      "date": "1994-09-24",
+      "rank": 41
+    },
+    {
+      "date": "1994-10-01",
+      "rank": 45
+    },
+    {
+      "date": "1994-10-08",
+      "rank": 46
+    },
+    {
+      "date": "1994-10-15",
+      "rank": 53
+    },
+    {
+      "date": "1994-10-22",
+      "rank": 65
+    },
+    {
+      "date": "1994-10-29",
+      "rank": 60
+    },
+    {
+      "date": "1994-11-05",
+      "rank": 64
+    },
+    {
+      "date": "1994-11-12",
+      "rank": 58
+    },
+    {
+      "date": "1994-11-19",
+      "rank": 66
+    },
+    {
+      "date": "1994-11-26",
+      "rank": 68
+    },
+    {
+      "date": "1994-12-03",
+      "rank": 78
+    },
+    {
+      "date": "1994-12-10",
+      "rank": 73
+    },
+    {
+      "date": "1994-12-17",
+      "rank": 71
+    },
+    {
+      "date": "1994-12-24",
+      "rank": 62
+    },
+    {
+      "date": "1994-12-31",
+      "rank": 43
+    },
+    {
+      "date": "1995-01-07",
+      "rank": 44
+    },
+    {
+      "date": "1995-01-14",
+      "rank": 85
+    },
+    {
+      "date": "1995-01-21",
+      "rank": 90
+    },
+    {
+      "date": "1995-01-28",
+      "rank": 93
+    },
+    {
+      "date": "1995-02-04",
+      "rank": 95
+    },
+    {
+      "date": "1995-02-11",
+      "rank": 111
+    },
+    {
+      "date": "1995-02-18",
+      "rank": 120
+    },
+    {
+      "date": "1995-02-25",
+      "rank": 130
+    },
+    {
+      "date": "1995-03-04",
+      "rank": 144
+    },
+    {
+      "date": "1995-03-11",
+      "rank": 162
+    },
+    {
+      "date": "1995-03-18",
+      "rank": 173
+    },
+    {
+      "date": "1995-03-25",
+      "rank": 187
+    },
+    {
+      "date": "1995-04-01",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Puer natus est nobis: Introito (Modo VII)",
+      "id": null
+    },
+    {
+      "title": "Os iusti: Gradual (Modo I)",
+      "id": null
+    },
+    {
+      "title": "Christus factus est pro nobis: Gradual (Modo V)",
+      "id": null
+    },
+    {
+      "title": "Mandatum novum do vobis: Antífona y Salmo 132 (Modo III)",
+      "id": null
+    },
+    {
+      "title": "Media vita in morte sumus: Responsorio (Modo IV)",
+      "id": null
+    },
+    {
+      "title": "Alleluia, beatus vir qui suffert (Modo I)",
+      "id": null
+    },
+    {
+      "title": "Spiritus domini: Introito (Modo VIII)",
+      "id": null
+    },
+    {
+      "title": "Improperium: Ofertorio (Modo VIII)",
+      "id": null
+    },
+    {
+      "title": "Laetatus sum: Gradual (Modo VII)",
+      "id": null
+    },
+    {
+      "title": "Kyrie XI, A (Modo I)",
+      "id": null
+    },
+    {
+      "title": "Puer natus in Bethlehem: Ritmo (Modo I)",
+      "id": null
+    },
+    {
+      "title": "Jacta cogitatum tuum: Gradual (Modo VII)",
+      "id": null
+    },
+    {
+      "title": "Verbum caro factum est: Responsorio (Modo VIII)",
+      "id": null
+    },
+    {
+      "title": "Genuit puerpera regem: Antífona y Salmo 99 (Modo II)",
+      "id": null
+    },
+    {
+      "title": "Occuli omnium: Gradual (Modo VII)",
+      "id": null
+    },
+    {
+      "title": "Ave mundi spes Maria: Secuencia (Modos VII y VIII)",
+      "id": null
+    },
+    {
+      "title": "Kyrie fons bonitatis: Tropo (Modo III)",
+      "id": null
+    },
+    {
+      "title": "Sequence in mode 1 \"Veni sancte spiritus\"",
+      "id": null
+    },
+    {
+      "title": "Hosanna filio David: Antífona (Modo VII)",
+      "id": null
+    }
+  ]
+}

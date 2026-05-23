@@ -1,1 +1,218 @@
-{"id": "changes-in-latitudes-changes-in-attitudes-jimmy-buffett", "title": "Changes In Latitudes, Changes In Attitudes", "artist": "Jimmy Buffett", "peak": 12, "history": [{"date": "1977-02-12", "rank": 130}, {"date": "1977-02-19", "rank": 88}, {"date": "1977-02-26", "rank": 64}, {"date": "1977-03-05", "rank": 54}, {"date": "1977-03-12", "rank": 46}, {"date": "1977-03-19", "rank": 43}, {"date": "1977-03-26", "rank": 40}, {"date": "1977-04-02", "rank": 39}, {"date": "1977-04-09", "rank": 37}, {"date": "1977-04-16", "rank": 37}, {"date": "1977-04-23", "rank": 47}, {"date": "1977-04-30", "rank": 45}, {"date": "1977-05-07", "rank": 43}, {"date": "1977-05-14", "rank": 42}, {"date": "1977-05-21", "rank": 39}, {"date": "1977-05-28", "rank": 36}, {"date": "1977-06-04", "rank": 32}, {"date": "1977-06-11", "rank": 28}, {"date": "1977-06-18", "rank": 26}, {"date": "1977-06-25", "rank": 25}, {"date": "1977-07-02", "rank": 19}, {"date": "1977-07-09", "rank": 16}, {"date": "1977-07-16", "rank": 15}, {"date": "1977-07-23", "rank": 12}, {"date": "1977-07-30", "rank": 12}, {"date": "1977-08-06", "rank": 13}, {"date": "1977-08-13", "rank": 15}, {"date": "1977-08-20", "rank": 17}, {"date": "1977-08-27", "rank": 35}, {"date": "1977-09-03", "rank": 41}, {"date": "1977-09-10", "rank": 47}, {"date": "1977-09-17", "rank": 47}, {"date": "1977-09-24", "rank": 46}, {"date": "1977-10-01", "rank": 44}, {"date": "1977-10-08", "rank": 43}, {"date": "1977-10-15", "rank": 81}, {"date": "1977-10-22", "rank": 82}, {"date": "1977-10-29", "rank": 77}, {"date": "1977-11-05", "rank": 76}, {"date": "1977-11-12", "rank": 72}, {"date": "1977-11-19", "rank": 124}, {"date": "1977-11-26", "rank": 183}]}
+{
+  "id": "changes-in-latitudes-changes-in-attitudes-jimmy-buffett",
+  "title": "Changes In Latitudes, Changes In Attitudes",
+  "artist": "Jimmy Buffett",
+  "peak": 12,
+  "history": [
+    {
+      "date": "1977-02-12",
+      "rank": 130
+    },
+    {
+      "date": "1977-02-19",
+      "rank": 88
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 64
+    },
+    {
+      "date": "1977-03-05",
+      "rank": 54
+    },
+    {
+      "date": "1977-03-12",
+      "rank": 46
+    },
+    {
+      "date": "1977-03-19",
+      "rank": 43
+    },
+    {
+      "date": "1977-03-26",
+      "rank": 40
+    },
+    {
+      "date": "1977-04-02",
+      "rank": 39
+    },
+    {
+      "date": "1977-04-09",
+      "rank": 37
+    },
+    {
+      "date": "1977-04-16",
+      "rank": 37
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 47
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 45
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 43
+    },
+    {
+      "date": "1977-05-14",
+      "rank": 42
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 39
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 36
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 32
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 28
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 26
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 25
+    },
+    {
+      "date": "1977-07-02",
+      "rank": 19
+    },
+    {
+      "date": "1977-07-09",
+      "rank": 16
+    },
+    {
+      "date": "1977-07-16",
+      "rank": 15
+    },
+    {
+      "date": "1977-07-23",
+      "rank": 12
+    },
+    {
+      "date": "1977-07-30",
+      "rank": 12
+    },
+    {
+      "date": "1977-08-06",
+      "rank": 13
+    },
+    {
+      "date": "1977-08-13",
+      "rank": 15
+    },
+    {
+      "date": "1977-08-20",
+      "rank": 17
+    },
+    {
+      "date": "1977-08-27",
+      "rank": 35
+    },
+    {
+      "date": "1977-09-03",
+      "rank": 41
+    },
+    {
+      "date": "1977-09-10",
+      "rank": 47
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 47
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 46
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 44
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 43
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 81
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 82
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 77
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 76
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 72
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 124
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Changes in Latitudes, Changes in Attitudes",
+      "id": "changes-in-latitudes-changes-in-attitudes-jimmy-buffett"
+    },
+    {
+      "title": "Margaritaville",
+      "id": "margaritaville-jimmy-buffett"
+    },
+    {
+      "title": "Wonder Why We Ever Go Home",
+      "id": null
+    },
+    {
+      "title": "Banana Republics",
+      "id": null
+    },
+    {
+      "title": "Tampico Trauma",
+      "id": null
+    },
+    {
+      "title": "Lovely Cruise",
+      "id": null
+    },
+    {
+      "title": "In the Shelter",
+      "id": null
+    },
+    {
+      "title": "Miss You So Badly",
+      "id": null
+    },
+    {
+      "title": "Biloxi",
+      "id": null
+    },
+    {
+      "title": "Landfall",
+      "id": null
+    }
+  ]
+}
