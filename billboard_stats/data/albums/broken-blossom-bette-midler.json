@@ -1,1 +1,110 @@
-{"id": "broken-blossom-bette-midler", "title": "Broken Blossom", "artist": "Bette Midler", "peak": 51, "history": [{"date": "1977-12-17", "rank": 109}, {"date": "1977-12-24", "rank": 93}, {"date": "1977-12-31", "rank": 93}, {"date": "1978-01-07", "rank": 82}, {"date": "1978-01-14", "rank": 72}, {"date": "1978-01-21", "rank": 66}, {"date": "1978-01-28", "rank": 61}, {"date": "1978-02-04", "rank": 56}, {"date": "1978-02-11", "rank": 55}, {"date": "1978-02-18", "rank": 51}, {"date": "1978-02-25", "rank": 51}, {"date": "1978-03-04", "rank": 60}, {"date": "1978-03-11", "rank": 122}, {"date": "1978-03-18", "rank": 162}]}
+{
+  "id": "broken-blossom-bette-midler",
+  "title": "Broken Blossom",
+  "artist": "Bette Midler",
+  "peak": 51,
+  "history": [
+    {
+      "date": "1977-12-17",
+      "rank": 109
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 93
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 93
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 82
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 72
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 66
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 61
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 56
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 55
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 51
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 51
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 60
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 122
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Storybook Children",
+      "id": "storybook-children-daybreak-bette-midler"
+    },
+    {
+      "title": "Make Yourself Comfortable",
+      "id": null
+    },
+    {
+      "title": "You Don’t Know Me",
+      "id": null
+    },
+    {
+      "title": "Say Goodbye to Hollywood",
+      "id": null
+    },
+    {
+      "title": "I Never Talk to Strangers",
+      "id": null
+    },
+    {
+      "title": "Red",
+      "id": null
+    },
+    {
+      "title": "Empty Bed Blues",
+      "id": null
+    },
+    {
+      "title": "A Dream Is a Wish Your Heart Makes",
+      "id": null
+    },
+    {
+      "title": "Paradise",
+      "id": null
+    },
+    {
+      "title": "Yellow Beach Umbrella",
+      "id": null
+    },
+    {
+      "title": "La Vie en rose",
+      "id": null
+    }
+  ]
+}
