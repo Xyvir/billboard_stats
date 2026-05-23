@@ -1,1 +1,94 @@
-{"id": "colores-j-balvin", "title": "Colores", "artist": "J Balvin", "peak": 15, "history": [{"date": "2020-04-04", "rank": 15}, {"date": "2020-04-11", "rank": 51}, {"date": "2020-04-18", "rank": 82}, {"date": "2020-04-25", "rank": 93}, {"date": "2020-05-02", "rank": 116}, {"date": "2020-05-09", "rank": 128}, {"date": "2020-05-16", "rank": 129}, {"date": "2020-05-23", "rank": 146}, {"date": "2020-05-30", "rank": 160}, {"date": "2020-06-06", "rank": 169}, {"date": "2020-06-27", "rank": 192}]}
+{
+  "id": "colores-j-balvin",
+  "title": "Colores",
+  "artist": "J Balvin",
+  "peak": 15,
+  "history": [
+    {
+      "date": "2020-04-04",
+      "rank": 15
+    },
+    {
+      "date": "2020-04-11",
+      "rank": 51
+    },
+    {
+      "date": "2020-04-18",
+      "rank": 82
+    },
+    {
+      "date": "2020-04-25",
+      "rank": 93
+    },
+    {
+      "date": "2020-05-02",
+      "rank": 116
+    },
+    {
+      "date": "2020-05-09",
+      "rank": 128
+    },
+    {
+      "date": "2020-05-16",
+      "rank": 129
+    },
+    {
+      "date": "2020-05-23",
+      "rank": 146
+    },
+    {
+      "date": "2020-05-30",
+      "rank": 160
+    },
+    {
+      "date": "2020-06-06",
+      "rank": 169
+    },
+    {
+      "date": "2020-06-27",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Amarillo",
+      "id": null
+    },
+    {
+      "title": "Azul",
+      "id": null
+    },
+    {
+      "title": "Rojo",
+      "id": null
+    },
+    {
+      "title": "Rosa",
+      "id": null
+    },
+    {
+      "title": "Morado",
+      "id": null
+    },
+    {
+      "title": "Verde",
+      "id": null
+    },
+    {
+      "title": "Negro",
+      "id": null
+    },
+    {
+      "title": "Gris",
+      "id": null
+    },
+    {
+      "title": "Arcoíris",
+      "id": null
+    },
+    {
+      "title": "Blanco",
+      "id": null
+    }
+  ]
+}
