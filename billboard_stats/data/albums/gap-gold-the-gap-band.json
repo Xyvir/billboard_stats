@@ -1,1 +1,114 @@
-{"id": "gap-gold-the-gap-band", "title": "Gap Gold", "artist": "The Gap Band", "peak": 103, "history": [{"date": "1985-03-09", "rank": 188}, {"date": "1985-03-16", "rank": 166}, {"date": "1985-03-23", "rank": 150}, {"date": "1985-03-30", "rank": 128}, {"date": "1985-04-06", "rank": 108}, {"date": "1985-04-13", "rank": 103}, {"date": "1985-04-20", "rank": 103}, {"date": "1985-04-27", "rank": 114}, {"date": "1985-05-04", "rank": 116}, {"date": "1985-05-11", "rank": 127}, {"date": "1985-05-18", "rank": 138}, {"date": "1985-05-25", "rank": 139}, {"date": "1985-06-01", "rank": 141}, {"date": "1985-06-08", "rank": 162}, {"date": "1985-06-15", "rank": 184}, {"date": "1985-06-22", "rank": 197}]}
+{
+  "id": "gap-gold-the-gap-band",
+  "title": "Gap Gold",
+  "artist": "The Gap Band",
+  "peak": 103,
+  "history": [
+    {
+      "date": "1985-03-09",
+      "rank": 188
+    },
+    {
+      "date": "1985-03-16",
+      "rank": 166
+    },
+    {
+      "date": "1985-03-23",
+      "rank": 150
+    },
+    {
+      "date": "1985-03-30",
+      "rank": 128
+    },
+    {
+      "date": "1985-04-06",
+      "rank": 108
+    },
+    {
+      "date": "1985-04-13",
+      "rank": 103
+    },
+    {
+      "date": "1985-04-20",
+      "rank": 103
+    },
+    {
+      "date": "1985-04-27",
+      "rank": 114
+    },
+    {
+      "date": "1985-05-04",
+      "rank": 116
+    },
+    {
+      "date": "1985-05-11",
+      "rank": 127
+    },
+    {
+      "date": "1985-05-18",
+      "rank": 138
+    },
+    {
+      "date": "1985-05-25",
+      "rank": 139
+    },
+    {
+      "date": "1985-06-01",
+      "rank": 141
+    },
+    {
+      "date": "1985-06-08",
+      "rank": 162
+    },
+    {
+      "date": "1985-06-15",
+      "rank": 184
+    },
+    {
+      "date": "1985-06-22",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Burn Rubber (Why You Wanna Hurt Me)",
+      "id": "burn-rubber-why-you-wanna-hurt-me-the-gap-band"
+    },
+    {
+      "title": "Outstanding",
+      "id": "outstanding-the-gap-band"
+    },
+    {
+      "title": "You Dropped a Bomb on Me",
+      "id": "you-dropped-a-bomb-on-me-the-gap-band"
+    },
+    {
+      "title": "Early in the Morning",
+      "id": "early-in-the-morning-the-gap-band"
+    },
+    {
+      "title": "Yearning for Your Love",
+      "id": "yearning-for-your-love-the-gap-band"
+    },
+    {
+      "title": "I Don’t Believe You Want to Get Up and Dance (Oops)",
+      "id": null
+    },
+    {
+      "title": "Party Train",
+      "id": null
+    },
+    {
+      "title": "Stay With Me",
+      "id": null
+    },
+    {
+      "title": "Shake",
+      "id": null
+    },
+    {
+      "title": "Season’s No Reason to Change",
+      "id": null
+    }
+  ]
+}

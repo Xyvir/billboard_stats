@@ -1,1 +1,294 @@
-{"id": "garage-inc-metallica", "title": "Garage Inc.", "artist": "Metallica", "peak": 2, "history": [{"date": "1998-12-12", "rank": 2}, {"date": "1998-12-19", "rank": 5}, {"date": "1998-12-26", "rank": 10}, {"date": "1999-01-02", "rank": 11}, {"date": "1999-01-09", "rank": 12}, {"date": "1999-01-16", "rank": 18}, {"date": "1999-01-23", "rank": 22}, {"date": "1999-01-30", "rank": 29}, {"date": "1999-02-06", "rank": 36}, {"date": "1999-02-13", "rank": 36}, {"date": "1999-02-20", "rank": 39}, {"date": "1999-02-27", "rank": 41}, {"date": "1999-03-06", "rank": 48}, {"date": "1999-03-13", "rank": 56}, {"date": "1999-03-20", "rank": 57}, {"date": "1999-03-27", "rank": 64}, {"date": "1999-04-03", "rank": 66}, {"date": "1999-04-10", "rank": 67}, {"date": "1999-04-17", "rank": 72}, {"date": "1999-04-24", "rank": 73}, {"date": "1999-05-01", "rank": 75}, {"date": "1999-05-08", "rank": 66}, {"date": "1999-05-15", "rank": 76}, {"date": "1999-05-22", "rank": 82}, {"date": "1999-05-29", "rank": 83}, {"date": "1999-06-05", "rank": 82}, {"date": "1999-06-12", "rank": 92}, {"date": "1999-06-19", "rank": 97}, {"date": "1999-06-26", "rank": 107}, {"date": "1999-07-03", "rank": 114}, {"date": "1999-07-10", "rank": 130}, {"date": "1999-07-17", "rank": 145}, {"date": "1999-07-24", "rank": 146}, {"date": "1999-07-31", "rank": 147}, {"date": "1999-08-07", "rank": 140}, {"date": "1999-08-14", "rank": 147}, {"date": "1999-08-21", "rank": 151}, {"date": "1999-08-28", "rank": 159}, {"date": "1999-09-04", "rank": 159}, {"date": "1999-09-11", "rank": 176}, {"date": "1999-09-18", "rank": 176}, {"date": "1999-09-25", "rank": 178}, {"date": "1999-10-02", "rank": 176}, {"date": "1999-10-09", "rank": 187}]}
+{
+  "id": "garage-inc-metallica",
+  "title": "Garage Inc.",
+  "artist": "Metallica",
+  "peak": 2,
+  "history": [
+    {
+      "date": "1998-12-12",
+      "rank": 2
+    },
+    {
+      "date": "1998-12-19",
+      "rank": 5
+    },
+    {
+      "date": "1998-12-26",
+      "rank": 10
+    },
+    {
+      "date": "1999-01-02",
+      "rank": 11
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 12
+    },
+    {
+      "date": "1999-01-16",
+      "rank": 18
+    },
+    {
+      "date": "1999-01-23",
+      "rank": 22
+    },
+    {
+      "date": "1999-01-30",
+      "rank": 29
+    },
+    {
+      "date": "1999-02-06",
+      "rank": 36
+    },
+    {
+      "date": "1999-02-13",
+      "rank": 36
+    },
+    {
+      "date": "1999-02-20",
+      "rank": 39
+    },
+    {
+      "date": "1999-02-27",
+      "rank": 41
+    },
+    {
+      "date": "1999-03-06",
+      "rank": 48
+    },
+    {
+      "date": "1999-03-13",
+      "rank": 56
+    },
+    {
+      "date": "1999-03-20",
+      "rank": 57
+    },
+    {
+      "date": "1999-03-27",
+      "rank": 64
+    },
+    {
+      "date": "1999-04-03",
+      "rank": 66
+    },
+    {
+      "date": "1999-04-10",
+      "rank": 67
+    },
+    {
+      "date": "1999-04-17",
+      "rank": 72
+    },
+    {
+      "date": "1999-04-24",
+      "rank": 73
+    },
+    {
+      "date": "1999-05-01",
+      "rank": 75
+    },
+    {
+      "date": "1999-05-08",
+      "rank": 66
+    },
+    {
+      "date": "1999-05-15",
+      "rank": 76
+    },
+    {
+      "date": "1999-05-22",
+      "rank": 82
+    },
+    {
+      "date": "1999-05-29",
+      "rank": 83
+    },
+    {
+      "date": "1999-06-05",
+      "rank": 82
+    },
+    {
+      "date": "1999-06-12",
+      "rank": 92
+    },
+    {
+      "date": "1999-06-19",
+      "rank": 97
+    },
+    {
+      "date": "1999-06-26",
+      "rank": 107
+    },
+    {
+      "date": "1999-07-03",
+      "rank": 114
+    },
+    {
+      "date": "1999-07-10",
+      "rank": 130
+    },
+    {
+      "date": "1999-07-17",
+      "rank": 145
+    },
+    {
+      "date": "1999-07-24",
+      "rank": 146
+    },
+    {
+      "date": "1999-07-31",
+      "rank": 147
+    },
+    {
+      "date": "1999-08-07",
+      "rank": 140
+    },
+    {
+      "date": "1999-08-14",
+      "rank": 147
+    },
+    {
+      "date": "1999-08-21",
+      "rank": 151
+    },
+    {
+      "date": "1999-08-28",
+      "rank": 159
+    },
+    {
+      "date": "1999-09-04",
+      "rank": 159
+    },
+    {
+      "date": "1999-09-11",
+      "rank": 176
+    },
+    {
+      "date": "1999-09-18",
+      "rank": 176
+    },
+    {
+      "date": "1999-09-25",
+      "rank": 178
+    },
+    {
+      "date": "1999-10-02",
+      "rank": 176
+    },
+    {
+      "date": "1999-10-09",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Free Speech for the Dumb",
+      "id": null
+    },
+    {
+      "title": "It’s Electric",
+      "id": null
+    },
+    {
+      "title": "Sabbra Cadabra",
+      "id": null
+    },
+    {
+      "title": "Turn the Page",
+      "id": null
+    },
+    {
+      "title": "Die, Die My Darling",
+      "id": null
+    },
+    {
+      "title": "Loverman",
+      "id": null
+    },
+    {
+      "title": "Mercyful Fate",
+      "id": null
+    },
+    {
+      "title": "Astronomy",
+      "id": null
+    },
+    {
+      "title": "Whiskey in the Jar",
+      "id": null
+    },
+    {
+      "title": "Tuesday’s Gone",
+      "id": null
+    },
+    {
+      "title": "The More I See",
+      "id": null
+    },
+    {
+      "title": "Helpless",
+      "id": null
+    },
+    {
+      "title": "The Small Hours",
+      "id": null
+    },
+    {
+      "title": "The Wait",
+      "id": null
+    },
+    {
+      "title": "Crash Course in Brain Surgery",
+      "id": null
+    },
+    {
+      "title": "Last Caress / Green Hell",
+      "id": null
+    },
+    {
+      "title": "Am I Evil?",
+      "id": null
+    },
+    {
+      "title": "Blitzkrieg",
+      "id": null
+    },
+    {
+      "title": "Breadfan",
+      "id": null
+    },
+    {
+      "title": "The Prince",
+      "id": null
+    },
+    {
+      "title": "Stone Cold Crazy",
+      "id": null
+    },
+    {
+      "title": "So What",
+      "id": null
+    },
+    {
+      "title": "Killing Time",
+      "id": null
+    },
+    {
+      "title": "Overkill",
+      "id": null
+    },
+    {
+      "title": "Damage Case",
+      "id": null
+    },
+    {
+      "title": "Stone Dead Forever",
+      "id": null
+    },
+    {
+      "title": "Too Late Too Late",
+      "id": null
+    }
+  ]
+}
