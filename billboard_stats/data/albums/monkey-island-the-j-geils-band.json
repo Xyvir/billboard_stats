@@ -1,1 +1,114 @@
-{"id": "monkey-island-the-j-geils-band", "title": "Monkey Island", "artist": "The J. Geils Band", "peak": 51, "history": [{"date": "1977-07-09", "rank": 123}, {"date": "1977-07-16", "rank": 113}, {"date": "1977-07-23", "rank": 101}, {"date": "1977-07-30", "rank": 83}, {"date": "1977-08-06", "rank": 73}, {"date": "1977-08-13", "rank": 60}, {"date": "1977-08-20", "rank": 58}, {"date": "1977-08-27", "rank": 51}, {"date": "1977-09-03", "rank": 87}, {"date": "1977-09-10", "rank": 108}, {"date": "1977-09-17", "rank": 105}, {"date": "1977-09-24", "rank": 103}, {"date": "1977-10-01", "rank": 103}, {"date": "1977-10-08", "rank": 115}, {"date": "1977-10-15", "rank": 132}, {"date": "1977-10-22", "rank": 177}, {"date": "1977-10-29", "rank": 198}]}
+{
+  "id": "monkey-island-the-j-geils-band",
+  "title": "Monkey Island",
+  "artist": "The J. Geils Band",
+  "peak": 51,
+  "history": [
+    {
+      "date": "1977-07-09",
+      "rank": 123
+    },
+    {
+      "date": "1977-07-16",
+      "rank": 113
+    },
+    {
+      "date": "1977-07-23",
+      "rank": 101
+    },
+    {
+      "date": "1977-07-30",
+      "rank": 83
+    },
+    {
+      "date": "1977-08-06",
+      "rank": 73
+    },
+    {
+      "date": "1977-08-13",
+      "rank": 60
+    },
+    {
+      "date": "1977-08-20",
+      "rank": 58
+    },
+    {
+      "date": "1977-08-27",
+      "rank": 51
+    },
+    {
+      "date": "1977-09-03",
+      "rank": 87
+    },
+    {
+      "date": "1977-09-10",
+      "rank": 108
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 105
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 103
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 103
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 115
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 132
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 177
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Do",
+      "id": "i-do-the-j-geils-band"
+    },
+    {
+      "title": "Surrender",
+      "id": null
+    },
+    {
+      "title": "You’re the Only One",
+      "id": null
+    },
+    {
+      "title": "Somebody",
+      "id": null
+    },
+    {
+      "title": "I’m Falling",
+      "id": null
+    },
+    {
+      "title": "Monkey Island",
+      "id": null
+    },
+    {
+      "title": "I’m Not Rough",
+      "id": null
+    },
+    {
+      "title": "So Good",
+      "id": null
+    },
+    {
+      "title": "Wreckage",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,50 @@
-{"id": "monica-jack-harlow", "title": "Monica", "artist": "Jack Harlow", "peak": 40, "history": [{"date": "2026-03-28", "rank": 40}]}
+{
+  "id": "monica-jack-harlow",
+  "title": "Monica",
+  "artist": "Jack Harlow",
+  "peak": 40,
+  "history": [
+    {
+      "date": "2026-03-28",
+      "rank": 40
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Trade Places",
+      "id": "trade-places-jack-harlow"
+    },
+    {
+      "title": "Lonesome",
+      "id": "lovin-on-me-jack-harlow"
+    },
+    {
+      "title": "Living Alone",
+      "id": "lovin-on-me-jack-harlow"
+    },
+    {
+      "title": "Prague",
+      "id": null
+    },
+    {
+      "title": "My Winter",
+      "id": null
+    },
+    {
+      "title": "Move Along",
+      "id": null
+    },
+    {
+      "title": "All of My Friends",
+      "id": null
+    },
+    {
+      "title": "Against the Grain",
+      "id": null
+    },
+    {
+      "title": "Say Hello",
+      "id": null
+    }
+  ]
+}

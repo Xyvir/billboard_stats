@@ -1,1 +1,138 @@
-{"id": "monolith-kansas", "title": "Monolith", "artist": "Kansas", "peak": 10, "history": [{"date": "1979-06-09", "rank": 75}, {"date": "1979-06-16", "rank": 14}, {"date": "1979-06-23", "rank": 12}, {"date": "1979-06-30", "rank": 10}, {"date": "1979-07-07", "rank": 10}, {"date": "1979-07-14", "rank": 17}, {"date": "1979-07-21", "rank": 18}, {"date": "1979-07-28", "rank": 21}, {"date": "1979-08-04", "rank": 21}, {"date": "1979-08-11", "rank": 31}, {"date": "1979-08-18", "rank": 50}, {"date": "1979-08-25", "rank": 50}, {"date": "1979-09-01", "rank": 92}, {"date": "1979-09-08", "rank": 92}, {"date": "1979-09-15", "rank": 89}, {"date": "1979-09-22", "rank": 86}, {"date": "1979-09-29", "rank": 89}, {"date": "1979-10-06", "rank": 93}, {"date": "1979-10-13", "rank": 118}, {"date": "1979-10-20", "rank": 155}, {"date": "1979-10-27", "rank": 167}, {"date": "1979-11-03", "rank": 173}, {"date": "1979-11-10", "rank": 183}, {"date": "1979-11-17", "rank": 183}]}
+{
+  "id": "monolith-kansas",
+  "title": "Monolith",
+  "artist": "Kansas",
+  "peak": 10,
+  "history": [
+    {
+      "date": "1979-06-09",
+      "rank": 75
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 14
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 12
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 10
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 10
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 17
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 18
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 21
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 21
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 31
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 50
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 50
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 92
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 92
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 89
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 86
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 89
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 93
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 118
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 155
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 167
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 173
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 183
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "People of the South Wind",
+      "id": "people-of-the-south-wind-kansas"
+    },
+    {
+      "title": "Reason to Be",
+      "id": "reason-to-be-kansas"
+    },
+    {
+      "title": "On the Other Side",
+      "id": null
+    },
+    {
+      "title": "Angels Have Fallen",
+      "id": null
+    },
+    {
+      "title": "How My Soul Cries Out for You",
+      "id": null
+    },
+    {
+      "title": "A Glimpse of Home",
+      "id": null
+    },
+    {
+      "title": "Away From You",
+      "id": null
+    },
+    {
+      "title": "Stay Out of Trouble",
+      "id": null
+    }
+  ]
+}
