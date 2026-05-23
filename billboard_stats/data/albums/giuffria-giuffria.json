@@ -1,1 +1,166 @@
-{"id": "giuffria-giuffria", "title": "Giuffria", "artist": "Giuffria", "peak": 26, "history": [{"date": "1984-12-08", "rank": 160}, {"date": "1984-12-15", "rank": 97}, {"date": "1984-12-22", "rank": 75}, {"date": "1984-12-29", "rank": 75}, {"date": "1985-01-05", "rank": 71}, {"date": "1985-01-12", "rank": 52}, {"date": "1985-01-19", "rank": 42}, {"date": "1985-01-26", "rank": 40}, {"date": "1985-02-02", "rank": 38}, {"date": "1985-02-09", "rank": 35}, {"date": "1985-02-16", "rank": 31}, {"date": "1985-02-23", "rank": 28}, {"date": "1985-03-02", "rank": 26}, {"date": "1985-03-09", "rank": 26}, {"date": "1985-03-16", "rank": 45}, {"date": "1985-03-23", "rank": 46}, {"date": "1985-03-30", "rank": 43}, {"date": "1985-04-06", "rank": 43}, {"date": "1985-04-13", "rank": 42}, {"date": "1985-04-20", "rank": 55}, {"date": "1985-04-27", "rank": 55}, {"date": "1985-05-04", "rank": 64}, {"date": "1985-05-11", "rank": 69}, {"date": "1985-05-18", "rank": 79}, {"date": "1985-05-25", "rank": 102}, {"date": "1985-06-01", "rank": 127}, {"date": "1985-06-08", "rank": 142}, {"date": "1985-06-15", "rank": 150}, {"date": "1985-06-22", "rank": 182}]}
+{
+  "id": "giuffria-giuffria",
+  "title": "Giuffria",
+  "artist": "Giuffria",
+  "peak": 26,
+  "history": [
+    {
+      "date": "1984-12-08",
+      "rank": 160
+    },
+    {
+      "date": "1984-12-15",
+      "rank": 97
+    },
+    {
+      "date": "1984-12-22",
+      "rank": 75
+    },
+    {
+      "date": "1984-12-29",
+      "rank": 75
+    },
+    {
+      "date": "1985-01-05",
+      "rank": 71
+    },
+    {
+      "date": "1985-01-12",
+      "rank": 52
+    },
+    {
+      "date": "1985-01-19",
+      "rank": 42
+    },
+    {
+      "date": "1985-01-26",
+      "rank": 40
+    },
+    {
+      "date": "1985-02-02",
+      "rank": 38
+    },
+    {
+      "date": "1985-02-09",
+      "rank": 35
+    },
+    {
+      "date": "1985-02-16",
+      "rank": 31
+    },
+    {
+      "date": "1985-02-23",
+      "rank": 28
+    },
+    {
+      "date": "1985-03-02",
+      "rank": 26
+    },
+    {
+      "date": "1985-03-09",
+      "rank": 26
+    },
+    {
+      "date": "1985-03-16",
+      "rank": 45
+    },
+    {
+      "date": "1985-03-23",
+      "rank": 46
+    },
+    {
+      "date": "1985-03-30",
+      "rank": 43
+    },
+    {
+      "date": "1985-04-06",
+      "rank": 43
+    },
+    {
+      "date": "1985-04-13",
+      "rank": 42
+    },
+    {
+      "date": "1985-04-20",
+      "rank": 55
+    },
+    {
+      "date": "1985-04-27",
+      "rank": 55
+    },
+    {
+      "date": "1985-05-04",
+      "rank": 64
+    },
+    {
+      "date": "1985-05-11",
+      "rank": 69
+    },
+    {
+      "date": "1985-05-18",
+      "rank": 79
+    },
+    {
+      "date": "1985-05-25",
+      "rank": 102
+    },
+    {
+      "date": "1985-06-01",
+      "rank": 127
+    },
+    {
+      "date": "1985-06-08",
+      "rank": 142
+    },
+    {
+      "date": "1985-06-15",
+      "rank": 150
+    },
+    {
+      "date": "1985-06-22",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Call to the Heart",
+      "id": "call-to-the-heart-giuffria"
+    },
+    {
+      "title": "Lonely in Love",
+      "id": "lonely-in-love-giuffria"
+    },
+    {
+      "title": "Do Me Right",
+      "id": null
+    },
+    {
+      "title": "Don’t Tear Me Down",
+      "id": null
+    },
+    {
+      "title": "Dance",
+      "id": null
+    },
+    {
+      "title": "Trouble Again",
+      "id": null
+    },
+    {
+      "title": "Turn Me On",
+      "id": null
+    },
+    {
+      "title": "Line of Fire",
+      "id": null
+    },
+    {
+      "title": "The Awakening",
+      "id": null
+    },
+    {
+      "title": "Out of the Blue (Too Far Gone)",
+      "id": null
+    }
+  ]
+}
