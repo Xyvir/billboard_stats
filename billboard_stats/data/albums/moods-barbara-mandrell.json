@@ -1,1 +1,86 @@
-{"id": "moods-barbara-mandrell", "title": "Moods", "artist": "Barbara Mandrell", "peak": 132, "history": [{"date": "1979-05-26", "rank": 166}, {"date": "1979-06-02", "rank": 166}, {"date": "1979-06-09", "rank": 156}, {"date": "1979-06-16", "rank": 146}, {"date": "1979-06-23", "rank": 136}, {"date": "1979-06-30", "rank": 136}, {"date": "1979-07-07", "rank": 132}, {"date": "1979-07-14", "rank": 162}, {"date": "1979-07-21", "rank": 197}]}
+{
+  "id": "moods-barbara-mandrell",
+  "title": "Moods",
+  "artist": "Barbara Mandrell",
+  "peak": 132,
+  "history": [
+    {
+      "date": "1979-05-26",
+      "rank": 166
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 166
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 156
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 146
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 136
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 136
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 132
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 162
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "(If Loving You Is Wrong) I Don’t Want to Be Right",
+      "id": "if-loving-you-is-wrong-i-don-t-want-to-be-right-barbara-mandrell"
+    },
+    {
+      "title": "Sleeping Single in a Double Bed",
+      "id": null
+    },
+    {
+      "title": "No Walls, No Ceilings, No Floors",
+      "id": null
+    },
+    {
+      "title": "It's a Crying Shame",
+      "id": null
+    },
+    {
+      "title": "Early Fall",
+      "id": null
+    },
+    {
+      "title": "Pity Party",
+      "id": null
+    },
+    {
+      "title": "I Feel the Hurt Coming On",
+      "id": null
+    },
+    {
+      "title": "Just One More of Your Goodbyes",
+      "id": null
+    },
+    {
+      "title": "I Believe You",
+      "id": null
+    },
+    {
+      "title": "Don't Bother to Knock",
+      "id": null
+    }
+  ]
+}

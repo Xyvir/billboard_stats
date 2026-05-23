@@ -1,1 +1,62 @@
-{"id": "moon-music-coldplay", "title": "Moon Music", "artist": "Coldplay", "peak": 1, "history": [{"date": "2024-10-19", "rank": 1}, {"date": "2024-10-26", "rank": 29}, {"date": "2024-11-02", "rank": 121}]}
+{
+  "id": "moon-music-coldplay",
+  "title": "Moon Music",
+  "artist": "Coldplay",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2024-10-19",
+      "rank": 1
+    },
+    {
+      "date": "2024-10-26",
+      "rank": 29
+    },
+    {
+      "date": "2024-11-02",
+      "rank": 121
+    }
+  ],
+  "tracks": [
+    {
+      "title": "feelslikeimfallinginlove",
+      "id": "feelslikeimfallinginlove-coldplay"
+    },
+    {
+      "title": "MOON MUSiC",
+      "id": null
+    },
+    {
+      "title": "WE PRAY",
+      "id": null
+    },
+    {
+      "title": "JUPiTER",
+      "id": null
+    },
+    {
+      "title": "GOOD FEELiNGS",
+      "id": null
+    },
+    {
+      "title": "🌈",
+      "id": null
+    },
+    {
+      "title": "iAAM",
+      "id": null
+    },
+    {
+      "title": "AETERNA",
+      "id": null
+    },
+    {
+      "title": "ALL MY LOVE",
+      "id": null
+    },
+    {
+      "title": "ONE WORLD",
+      "id": null
+    }
+  ]
+}

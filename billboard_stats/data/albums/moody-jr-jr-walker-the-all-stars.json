@@ -1,1 +1,66 @@
-{"id": "moody-jr-jr-walker-the-all-stars", "title": "Moody Jr.", "artist": "Jr. Walker & The All Stars", "peak": 163, "history": [{"date": "1972-05-20", "rank": 163}, {"date": "1972-05-27", "rank": 163}, {"date": "1972-06-03", "rank": 167}, {"date": "1972-06-10", "rank": 173}]}
+{
+  "id": "moody-jr-jr-walker-the-all-stars",
+  "title": "Moody Jr.",
+  "artist": "Jr. Walker & The All Stars",
+  "peak": 163,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 163
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 163
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 167
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Way Back Home (vocal)",
+      "id": "way-back-home-jr-walker-the-all-stars"
+    },
+    {
+      "title": "Walk in the Night",
+      "id": "walk-in-the-night-jr-walker-the-all-stars"
+    },
+    {
+      "title": "I Don't Want to Do Wrong",
+      "id": null
+    },
+    {
+      "title": "Bristol's Way",
+      "id": null
+    },
+    {
+      "title": "Don't Blame the Children",
+      "id": null
+    },
+    {
+      "title": "Me and My Family",
+      "id": null
+    },
+    {
+      "title": "Groove Thang",
+      "id": null
+    },
+    {
+      "title": "Still Water (medley)",
+      "id": null
+    },
+    {
+      "title": "Never Can Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "Moody Junior",
+      "id": null
+    }
+  ]
+}
