@@ -1,1 +1,58 @@
-{"id": "greatest-hits-big-rich", "title": "Greatest Hits", "artist": "Big & Rich", "peak": 148, "history": [{"date": "2009-10-17", "rank": 148}, {"date": "2009-10-24", "rank": 196}]}
+{
+  "id": "greatest-hits-big-rich",
+  "title": "Greatest Hits",
+  "artist": "Big & Rich",
+  "peak": 148,
+  "history": [
+    {
+      "date": "2009-10-17",
+      "rank": 148
+    },
+    {
+      "date": "2009-10-24",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Save a Horse (Ride a Cowboy)",
+      "id": "save-a-horse-ride-a-cowboy-big-rich"
+    },
+    {
+      "title": "Holy Water",
+      "id": "holy-water-big-rich"
+    },
+    {
+      "title": "Comin’ to Your City",
+      "id": "comin-to-your-city-big-rich"
+    },
+    {
+      "title": "8th of November",
+      "id": "8th-of-november-big-rich"
+    },
+    {
+      "title": "Lost in This Moment",
+      "id": "lost-in-this-moment-big-rich"
+    },
+    {
+      "title": "Big Time",
+      "id": null
+    },
+    {
+      "title": "Rollin' (The Ballad of Big & Rich)",
+      "id": null
+    },
+    {
+      "title": "Fake ID",
+      "id": null
+    },
+    {
+      "title": "Love Train",
+      "id": null
+    },
+    {
+      "title": "Party Like Cowboyz",
+      "id": null
+    }
+  ]
+}

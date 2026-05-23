@@ -1,1 +1,94 @@
-{"id": "greatest-hits-amy-grant", "title": "Greatest Hits", "artist": "Amy Grant", "peak": 196, "history": [{"date": "2007-10-27", "rank": 196}, {"date": "2007-11-03", "rank": 196}]}
+{
+  "id": "greatest-hits-amy-grant",
+  "title": "Greatest Hits",
+  "artist": "Amy Grant",
+  "peak": 196,
+  "history": [
+    {
+      "date": "2007-10-27",
+      "rank": 196
+    },
+    {
+      "date": "2007-11-03",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lucky One",
+      "id": "lucky-one-amy-grant"
+    },
+    {
+      "title": "Baby Baby",
+      "id": "baby-baby-amy-grant"
+    },
+    {
+      "title": "Every Heartbeat",
+      "id": "every-heartbeat-amy-grant"
+    },
+    {
+      "title": "That’s What Love Is For",
+      "id": "that-s-what-love-is-for-amy-grant"
+    },
+    {
+      "title": "Good for Me",
+      "id": "good-for-me-amy-grant"
+    },
+    {
+      "title": "I Will Remember You",
+      "id": "i-will-remember-you-amy-grant"
+    },
+    {
+      "title": "Lead Me On",
+      "id": "lead-me-on-amy-grant"
+    },
+    {
+      "title": "Find a Way",
+      "id": "find-a-way-amy-grant"
+    },
+    {
+      "title": "Simple Things",
+      "id": null
+    },
+    {
+      "title": "Takes a Little Time",
+      "id": null
+    },
+    {
+      "title": "House of Love",
+      "id": null
+    },
+    {
+      "title": "Saved By Love",
+      "id": null
+    },
+    {
+      "title": "Stay for a While",
+      "id": null
+    },
+    {
+      "title": "Thy Word",
+      "id": null
+    },
+    {
+      "title": "Angels",
+      "id": null
+    },
+    {
+      "title": "El-Shaddai",
+      "id": null
+    },
+    {
+      "title": "In a Little While",
+      "id": null
+    },
+    {
+      "title": "Father’s Eyes",
+      "id": null
+    },
+    {
+      "title": "Old Man’s Rubble",
+      "id": null
+    }
+  ]
+}

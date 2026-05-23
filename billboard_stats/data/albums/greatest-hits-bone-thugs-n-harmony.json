@@ -1,1 +1,390 @@
-{"id": "greatest-hits-bone-thugs-n-harmony", "title": "Greatest Hits", "artist": "Bone Thugs-N-Harmony", "peak": 95, "history": [{"date": "2004-12-04", "rank": 187}, {"date": "2005-01-15", "rank": 158}, {"date": "2005-01-22", "rank": 142}, {"date": "2005-01-29", "rank": 161}, {"date": "2005-02-05", "rank": 148}, {"date": "2005-02-12", "rank": 173}, {"date": "2005-02-19", "rank": 161}, {"date": "2005-02-26", "rank": 186}, {"date": "2005-03-05", "rank": 151}, {"date": "2005-03-12", "rank": 104}, {"date": "2005-03-19", "rank": 133}, {"date": "2005-03-26", "rank": 103}, {"date": "2005-04-02", "rank": 117}, {"date": "2005-04-09", "rank": 148}, {"date": "2005-04-16", "rank": 127}, {"date": "2005-04-23", "rank": 128}, {"date": "2005-04-30", "rank": 95}, {"date": "2005-05-07", "rank": 103}, {"date": "2005-05-14", "rank": 112}, {"date": "2005-05-21", "rank": 129}, {"date": "2005-05-28", "rank": 126}, {"date": "2005-06-04", "rank": 130}, {"date": "2005-06-11", "rank": 130}, {"date": "2005-06-18", "rank": 120}, {"date": "2005-06-25", "rank": 157}, {"date": "2005-07-02", "rank": 156}, {"date": "2005-07-09", "rank": 144}, {"date": "2005-07-16", "rank": 158}, {"date": "2005-07-23", "rank": 156}, {"date": "2005-07-30", "rank": 161}, {"date": "2005-08-06", "rank": 150}, {"date": "2005-08-13", "rank": 166}, {"date": "2005-08-20", "rank": 166}, {"date": "2005-08-27", "rank": 179}, {"date": "2005-09-03", "rank": 176}, {"date": "2005-09-10", "rank": 177}, {"date": "2005-09-17", "rank": 188}, {"date": "2005-09-24", "rank": 152}, {"date": "2005-10-01", "rank": 182}, {"date": "2005-10-08", "rank": 181}, {"date": "2006-01-14", "rank": 189}, {"date": "2006-02-11", "rank": 198}, {"date": "2006-02-18", "rank": 163}, {"date": "2006-02-25", "rank": 195}, {"date": "2006-03-04", "rank": 188}, {"date": "2006-03-11", "rank": 184}, {"date": "2006-03-18", "rank": 178}, {"date": "2006-03-25", "rank": 182}, {"date": "2006-04-01", "rank": 191}, {"date": "2006-04-08", "rank": 194}, {"date": "2006-05-20", "rank": 191}, {"date": "2006-06-03", "rank": 190}, {"date": "2006-06-10", "rank": 189}, {"date": "2006-06-17", "rank": 165}, {"date": "2006-06-24", "rank": 191}, {"date": "2006-07-01", "rank": 184}, {"date": "2006-07-08", "rank": 170}, {"date": "2006-07-15", "rank": 188}, {"date": "2006-07-22", "rank": 174}, {"date": "2006-07-29", "rank": 190}, {"date": "2006-08-05", "rank": 150}, {"date": "2006-08-12", "rank": 143}, {"date": "2006-08-19", "rank": 135}, {"date": "2006-08-26", "rank": 149}, {"date": "2006-09-02", "rank": 153}, {"date": "2006-09-09", "rank": 158}, {"date": "2006-09-16", "rank": 177}, {"date": "2006-09-23", "rank": 187}, {"date": "2006-10-07", "rank": 185}]}
+{
+  "id": "greatest-hits-bone-thugs-n-harmony",
+  "title": "Greatest Hits",
+  "artist": "Bone Thugs-N-Harmony",
+  "peak": 95,
+  "history": [
+    {
+      "date": "2004-12-04",
+      "rank": 187
+    },
+    {
+      "date": "2005-01-15",
+      "rank": 158
+    },
+    {
+      "date": "2005-01-22",
+      "rank": 142
+    },
+    {
+      "date": "2005-01-29",
+      "rank": 161
+    },
+    {
+      "date": "2005-02-05",
+      "rank": 148
+    },
+    {
+      "date": "2005-02-12",
+      "rank": 173
+    },
+    {
+      "date": "2005-02-19",
+      "rank": 161
+    },
+    {
+      "date": "2005-02-26",
+      "rank": 186
+    },
+    {
+      "date": "2005-03-05",
+      "rank": 151
+    },
+    {
+      "date": "2005-03-12",
+      "rank": 104
+    },
+    {
+      "date": "2005-03-19",
+      "rank": 133
+    },
+    {
+      "date": "2005-03-26",
+      "rank": 103
+    },
+    {
+      "date": "2005-04-02",
+      "rank": 117
+    },
+    {
+      "date": "2005-04-09",
+      "rank": 148
+    },
+    {
+      "date": "2005-04-16",
+      "rank": 127
+    },
+    {
+      "date": "2005-04-23",
+      "rank": 128
+    },
+    {
+      "date": "2005-04-30",
+      "rank": 95
+    },
+    {
+      "date": "2005-05-07",
+      "rank": 103
+    },
+    {
+      "date": "2005-05-14",
+      "rank": 112
+    },
+    {
+      "date": "2005-05-21",
+      "rank": 129
+    },
+    {
+      "date": "2005-05-28",
+      "rank": 126
+    },
+    {
+      "date": "2005-06-04",
+      "rank": 130
+    },
+    {
+      "date": "2005-06-11",
+      "rank": 130
+    },
+    {
+      "date": "2005-06-18",
+      "rank": 120
+    },
+    {
+      "date": "2005-06-25",
+      "rank": 157
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 156
+    },
+    {
+      "date": "2005-07-09",
+      "rank": 144
+    },
+    {
+      "date": "2005-07-16",
+      "rank": 158
+    },
+    {
+      "date": "2005-07-23",
+      "rank": 156
+    },
+    {
+      "date": "2005-07-30",
+      "rank": 161
+    },
+    {
+      "date": "2005-08-06",
+      "rank": 150
+    },
+    {
+      "date": "2005-08-13",
+      "rank": 166
+    },
+    {
+      "date": "2005-08-20",
+      "rank": 166
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 179
+    },
+    {
+      "date": "2005-09-03",
+      "rank": 176
+    },
+    {
+      "date": "2005-09-10",
+      "rank": 177
+    },
+    {
+      "date": "2005-09-17",
+      "rank": 188
+    },
+    {
+      "date": "2005-09-24",
+      "rank": 152
+    },
+    {
+      "date": "2005-10-01",
+      "rank": 182
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 181
+    },
+    {
+      "date": "2006-01-14",
+      "rank": 189
+    },
+    {
+      "date": "2006-02-11",
+      "rank": 198
+    },
+    {
+      "date": "2006-02-18",
+      "rank": 163
+    },
+    {
+      "date": "2006-02-25",
+      "rank": 195
+    },
+    {
+      "date": "2006-03-04",
+      "rank": 188
+    },
+    {
+      "date": "2006-03-11",
+      "rank": 184
+    },
+    {
+      "date": "2006-03-18",
+      "rank": 178
+    },
+    {
+      "date": "2006-03-25",
+      "rank": 182
+    },
+    {
+      "date": "2006-04-01",
+      "rank": 191
+    },
+    {
+      "date": "2006-04-08",
+      "rank": 194
+    },
+    {
+      "date": "2006-05-20",
+      "rank": 191
+    },
+    {
+      "date": "2006-06-03",
+      "rank": 190
+    },
+    {
+      "date": "2006-06-10",
+      "rank": 189
+    },
+    {
+      "date": "2006-06-17",
+      "rank": 165
+    },
+    {
+      "date": "2006-06-24",
+      "rank": 191
+    },
+    {
+      "date": "2006-07-01",
+      "rank": 184
+    },
+    {
+      "date": "2006-07-08",
+      "rank": 170
+    },
+    {
+      "date": "2006-07-15",
+      "rank": 188
+    },
+    {
+      "date": "2006-07-22",
+      "rank": 174
+    },
+    {
+      "date": "2006-07-29",
+      "rank": 190
+    },
+    {
+      "date": "2006-08-05",
+      "rank": 150
+    },
+    {
+      "date": "2006-08-12",
+      "rank": 143
+    },
+    {
+      "date": "2006-08-19",
+      "rank": 135
+    },
+    {
+      "date": "2006-08-26",
+      "rank": 149
+    },
+    {
+      "date": "2006-09-02",
+      "rank": 153
+    },
+    {
+      "date": "2006-09-09",
+      "rank": 158
+    },
+    {
+      "date": "2006-09-16",
+      "rank": 177
+    },
+    {
+      "date": "2006-09-23",
+      "rank": 187
+    },
+    {
+      "date": "2006-10-07",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Thuggish Ruggish Bone",
+      "id": "thuggish-ruggish-bone-bone-thugs-n-harmony"
+    },
+    {
+      "title": "1st of tha Month",
+      "id": "1st-of-tha-month-bone-thugs-n-harmony"
+    },
+    {
+      "title": "Tha Crossroads",
+      "id": "tha-crossroads-bone-thugs-n-harmony"
+    },
+    {
+      "title": "Look Into My Eyes",
+      "id": "look-into-my-eyes-from-batman-robin-bone-thugs-n-harmony"
+    },
+    {
+      "title": "Carole of the Bones",
+      "id": null
+    },
+    {
+      "title": "Foe tha Love of $",
+      "id": null
+    },
+    {
+      "title": "Shoot ’Em Up",
+      "id": null
+    },
+    {
+      "title": "Buddah Lovaz",
+      "id": null
+    },
+    {
+      "title": "Days of Our Livez",
+      "id": null
+    },
+    {
+      "title": "Thug Luv",
+      "id": null
+    },
+    {
+      "title": "Notorious Thugs",
+      "id": null
+    },
+    {
+      "title": "Breakdown",
+      "id": null
+    },
+    {
+      "title": "All Good W/ Mo Thug Family",
+      "id": null
+    },
+    {
+      "title": "Blaze It",
+      "id": null
+    },
+    {
+      "title": "Get Cha Thug On",
+      "id": null
+    },
+    {
+      "title": "Thug Mentality",
+      "id": null
+    },
+    {
+      "title": "Resurrection (Paper, Paper)",
+      "id": null
+    },
+    {
+      "title": "Ecstasy",
+      "id": null
+    },
+    {
+      "title": "Weed Song",
+      "id": null
+    },
+    {
+      "title": "Still the Greatest",
+      "id": null
+    },
+    {
+      "title": "Get Up & Get It",
+      "id": null
+    },
+    {
+      "title": "Money, Money",
+      "id": null
+    },
+    {
+      "title": "Ghetto Cowboy",
+      "id": null
+    },
+    {
+      "title": "Thugz Cry",
+      "id": null
+    },
+    {
+      "title": "Home",
+      "id": null
+    },
+    {
+      "title": "Cleveland Is the City",
+      "id": null
+    }
+  ]
+}

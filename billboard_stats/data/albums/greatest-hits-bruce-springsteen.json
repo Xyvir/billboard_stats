@@ -1,1 +1,286 @@
-{"id": "greatest-hits-bruce-springsteen", "title": "Greatest Hits", "artist": "Bruce Springsteen", "peak": 1, "history": [{"date": "1995-03-18", "rank": 1}, {"date": "1995-03-25", "rank": 1}, {"date": "1995-04-01", "rank": 2}, {"date": "1995-04-08", "rank": 2}, {"date": "1995-04-15", "rank": 4}, {"date": "1995-04-22", "rank": 5}, {"date": "1995-04-29", "rank": 10}, {"date": "1995-05-06", "rank": 13}, {"date": "1995-05-13", "rank": 13}, {"date": "1995-05-20", "rank": 16}, {"date": "1995-05-27", "rank": 15}, {"date": "1995-06-03", "rank": 20}, {"date": "1995-06-10", "rank": 24}, {"date": "1995-06-17", "rank": 31}, {"date": "1995-06-24", "rank": 34}, {"date": "1995-07-01", "rank": 37}, {"date": "1995-07-08", "rank": 41}, {"date": "1995-07-15", "rank": 51}, {"date": "1995-07-22", "rank": 54}, {"date": "1995-07-29", "rank": 56}, {"date": "1995-08-05", "rank": 75}, {"date": "1995-08-12", "rank": 80}, {"date": "1995-08-19", "rank": 91}, {"date": "1995-08-26", "rank": 94}, {"date": "1995-09-02", "rank": 109}, {"date": "1995-09-09", "rank": 122}, {"date": "1995-09-16", "rank": 128}, {"date": "1995-09-23", "rank": 121}, {"date": "1995-09-30", "rank": 149}, {"date": "1995-10-07", "rank": 162}, {"date": "1995-10-14", "rank": 186}, {"date": "1996-02-10", "rank": 186}, {"date": "2012-03-24", "rank": 176}, {"date": "2012-08-18", "rank": 77}, {"date": "2012-09-22", "rank": 190}, {"date": "2012-11-03", "rank": 199}, {"date": "2012-11-10", "rank": 162}, {"date": "2013-08-17", "rank": 66}, {"date": "2014-07-19", "rank": 192}, {"date": "2016-07-16", "rank": 192}, {"date": "2016-07-23", "rank": 167}, {"date": "2016-10-15", "rank": 178}, {"date": "2017-07-22", "rank": 177}, {"date": "2018-05-05", "rank": 96}, {"date": "2018-07-14", "rank": 189}, {"date": "2020-07-18", "rank": 159}, {"date": "2021-07-17", "rank": 121}, {"date": "2022-07-16", "rank": 129}, {"date": "2023-07-15", "rank": 133}, {"date": "2024-07-13", "rank": 158}, {"date": "2025-07-19", "rank": 107}]}
+{
+  "id": "greatest-hits-bruce-springsteen",
+  "title": "Greatest Hits",
+  "artist": "Bruce Springsteen",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1995-03-18",
+      "rank": 1
+    },
+    {
+      "date": "1995-03-25",
+      "rank": 1
+    },
+    {
+      "date": "1995-04-01",
+      "rank": 2
+    },
+    {
+      "date": "1995-04-08",
+      "rank": 2
+    },
+    {
+      "date": "1995-04-15",
+      "rank": 4
+    },
+    {
+      "date": "1995-04-22",
+      "rank": 5
+    },
+    {
+      "date": "1995-04-29",
+      "rank": 10
+    },
+    {
+      "date": "1995-05-06",
+      "rank": 13
+    },
+    {
+      "date": "1995-05-13",
+      "rank": 13
+    },
+    {
+      "date": "1995-05-20",
+      "rank": 16
+    },
+    {
+      "date": "1995-05-27",
+      "rank": 15
+    },
+    {
+      "date": "1995-06-03",
+      "rank": 20
+    },
+    {
+      "date": "1995-06-10",
+      "rank": 24
+    },
+    {
+      "date": "1995-06-17",
+      "rank": 31
+    },
+    {
+      "date": "1995-06-24",
+      "rank": 34
+    },
+    {
+      "date": "1995-07-01",
+      "rank": 37
+    },
+    {
+      "date": "1995-07-08",
+      "rank": 41
+    },
+    {
+      "date": "1995-07-15",
+      "rank": 51
+    },
+    {
+      "date": "1995-07-22",
+      "rank": 54
+    },
+    {
+      "date": "1995-07-29",
+      "rank": 56
+    },
+    {
+      "date": "1995-08-05",
+      "rank": 75
+    },
+    {
+      "date": "1995-08-12",
+      "rank": 80
+    },
+    {
+      "date": "1995-08-19",
+      "rank": 91
+    },
+    {
+      "date": "1995-08-26",
+      "rank": 94
+    },
+    {
+      "date": "1995-09-02",
+      "rank": 109
+    },
+    {
+      "date": "1995-09-09",
+      "rank": 122
+    },
+    {
+      "date": "1995-09-16",
+      "rank": 128
+    },
+    {
+      "date": "1995-09-23",
+      "rank": 121
+    },
+    {
+      "date": "1995-09-30",
+      "rank": 149
+    },
+    {
+      "date": "1995-10-07",
+      "rank": 162
+    },
+    {
+      "date": "1995-10-14",
+      "rank": 186
+    },
+    {
+      "date": "1996-02-10",
+      "rank": 186
+    },
+    {
+      "date": "2012-03-24",
+      "rank": 176
+    },
+    {
+      "date": "2012-08-18",
+      "rank": 77
+    },
+    {
+      "date": "2012-09-22",
+      "rank": 190
+    },
+    {
+      "date": "2012-11-03",
+      "rank": 199
+    },
+    {
+      "date": "2012-11-10",
+      "rank": 162
+    },
+    {
+      "date": "2013-08-17",
+      "rank": 66
+    },
+    {
+      "date": "2014-07-19",
+      "rank": 192
+    },
+    {
+      "date": "2016-07-16",
+      "rank": 192
+    },
+    {
+      "date": "2016-07-23",
+      "rank": 167
+    },
+    {
+      "date": "2016-10-15",
+      "rank": 178
+    },
+    {
+      "date": "2017-07-22",
+      "rank": 177
+    },
+    {
+      "date": "2018-05-05",
+      "rank": 96
+    },
+    {
+      "date": "2018-07-14",
+      "rank": 189
+    },
+    {
+      "date": "2020-07-18",
+      "rank": 159
+    },
+    {
+      "date": "2021-07-17",
+      "rank": 121
+    },
+    {
+      "date": "2022-07-16",
+      "rank": 129
+    },
+    {
+      "date": "2023-07-15",
+      "rank": 133
+    },
+    {
+      "date": "2024-07-13",
+      "rank": 158
+    },
+    {
+      "date": "2025-07-19",
+      "rank": 107
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Born to Run",
+      "id": "born-to-run-bruce-springsteen"
+    },
+    {
+      "title": "Badlands",
+      "id": "badlands-bruce-springsteen"
+    },
+    {
+      "title": "The River",
+      "id": "the-rising-bruce-springsteen"
+    },
+    {
+      "title": "Hungry Heart",
+      "id": "hungry-heart-bruce-springsteen"
+    },
+    {
+      "title": "Dancing in the Dark",
+      "id": "dancing-in-the-dark-bruce-springsteen"
+    },
+    {
+      "title": "Born in the U.S.A.",
+      "id": "born-in-the-u-s-a-bruce-springsteen"
+    },
+    {
+      "title": "My Hometown",
+      "id": "my-hometown-bruce-springsteen"
+    },
+    {
+      "title": "Glory Days",
+      "id": "glory-days-bruce-springsteen"
+    },
+    {
+      "title": "Brilliant Disguise",
+      "id": "brilliant-disguise-bruce-springsteen"
+    },
+    {
+      "title": "Human Touch",
+      "id": "human-touch-better-days-bruce-springsteen"
+    },
+    {
+      "title": "Better Days",
+      "id": "human-touch-better-days-bruce-springsteen"
+    },
+    {
+      "title": "Streets of Philadelphia",
+      "id": "streets-of-philadelphia-from-philadelphia-bruce-springsteen"
+    },
+    {
+      "title": "Secret Garden",
+      "id": "secret-garden-bruce-springsteen"
+    },
+    {
+      "title": "Thunder Road",
+      "id": null
+    },
+    {
+      "title": "Atlantic City",
+      "id": null
+    },
+    {
+      "title": "Murder Incorporated",
+      "id": null
+    },
+    {
+      "title": "Blood Brothers",
+      "id": null
+    },
+    {
+      "title": "This Hard Land",
+      "id": null
+    }
+  ]
+}

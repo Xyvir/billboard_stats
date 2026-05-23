@@ -1,1 +1,78 @@
-{"id": "greatest-hits-b-b-king", "title": "Greatest Hits", "artist": "B.B. King", "peak": 118, "history": [{"date": "2015-05-30", "rank": 118}]}
+{
+  "id": "greatest-hits-b-b-king",
+  "title": "Greatest Hits",
+  "artist": "B.B. King",
+  "peak": 118,
+  "history": [
+    {
+      "date": "2015-05-30",
+      "rank": 118
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sweet Little Angel (live)",
+      "id": "just-a-little-love-b-b-king"
+    },
+    {
+      "title": "Paying the Cost to Be the Boss",
+      "id": "paying-the-cost-to-be-the-boss-b-b-king"
+    },
+    {
+      "title": "Don’t Answer the Door",
+      "id": "don-t-answer-the-door-part-1-b-b-king"
+    },
+    {
+      "title": "Why I Sing the Blues",
+      "id": "why-i-sing-the-blues-b-b-king"
+    },
+    {
+      "title": "The Thrill Is Gone",
+      "id": "the-thrill-is-gone-b-b-king"
+    },
+    {
+      "title": "I Like to Live the Love",
+      "id": "i-like-to-live-the-love-b-b-king"
+    },
+    {
+      "title": "Hummingbird",
+      "id": "hummingbird-b-b-king"
+    },
+    {
+      "title": "To Know You Is to Love You",
+      "id": "to-know-you-is-to-love-you-b-b-king"
+    },
+    {
+      "title": "Chains and Things",
+      "id": "chains-and-things-b-b-king"
+    },
+    {
+      "title": "When Love Comes to Town",
+      "id": "when-love-comes-to-town-u2-with-b-b-king"
+    },
+    {
+      "title": "Everyday I Have the Blues (live)",
+      "id": null
+    },
+    {
+      "title": "How Blue Can You Get",
+      "id": null
+    },
+    {
+      "title": "Better Not Look Down",
+      "id": null
+    },
+    {
+      "title": "Never Make a Move Too Soon",
+      "id": null
+    },
+    {
+      "title": "There Must Be a Better World Somewhere",
+      "id": null
+    },
+    {
+      "title": "Playin’ With My Friends",
+      "id": null
+    }
+  ]
+}

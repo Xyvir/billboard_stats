@@ -1,1 +1,102 @@
-{"id": "greatest-hits-avril-lavigne", "title": "Greatest Hits", "artist": "Avril Lavigne", "peak": 76, "history": [{"date": "2024-07-06", "rank": 76}, {"date": "2024-09-07", "rank": 188}, {"date": "2024-09-14", "rank": 197}]}
+{
+  "id": "greatest-hits-avril-lavigne",
+  "title": "Greatest Hits",
+  "artist": "Avril Lavigne",
+  "peak": 76,
+  "history": [
+    {
+      "date": "2024-07-06",
+      "rank": 76
+    },
+    {
+      "date": "2024-09-07",
+      "rank": 188
+    },
+    {
+      "date": "2024-09-14",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sk8er Boi",
+      "id": "sk8er-boi-avril-lavigne"
+    },
+    {
+      "title": "Girlfriend",
+      "id": "girlfriend-avril-lavigne"
+    },
+    {
+      "title": "What the Hell",
+      "id": "what-the-hell-avril-lavigne"
+    },
+    {
+      "title": "Complicated",
+      "id": "complicated-avril-lavigne"
+    },
+    {
+      "title": "Don’t Tell Me",
+      "id": "don-t-tell-me-avril-lavigne"
+    },
+    {
+      "title": "Losing Grip",
+      "id": "losing-grip-avril-lavigne"
+    },
+    {
+      "title": "My Happy Ending",
+      "id": "my-happy-ending-avril-lavigne"
+    },
+    {
+      "title": "Nobody’s Home",
+      "id": "nobody-s-home-avril-lavigne"
+    },
+    {
+      "title": "I’m With You",
+      "id": "i-m-with-you-avril-lavigne"
+    },
+    {
+      "title": "When You're Gone",
+      "id": "when-you-re-gone-avril-lavigne"
+    },
+    {
+      "title": "Smile",
+      "id": "smile-avril-lavigne"
+    },
+    {
+      "title": "Love It When You Hate Me",
+      "id": "when-you-re-gone-avril-lavigne"
+    },
+    {
+      "title": "Rock n Roll",
+      "id": "rock-n-roll-avril-lavigne"
+    },
+    {
+      "title": "Here’s to Never Growing Up",
+      "id": "here-s-to-never-growing-up-avril-lavigne"
+    },
+    {
+      "title": "Keep Holding On",
+      "id": "keep-holding-on-avril-lavigne"
+    },
+    {
+      "title": "Head Above Water",
+      "id": "head-above-water-avril-lavigne"
+    },
+    {
+      "title": "I'm a Mess",
+      "id": null
+    },
+    {
+      "title": "He Wasn’t",
+      "id": null
+    },
+    {
+      "title": "Bite Me",
+      "id": null
+    },
+    {
+      "title": "Bois Lie",
+      "id": null
+    }
+  ]
+}

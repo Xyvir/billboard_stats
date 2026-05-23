@@ -1,1 +1,82 @@
-{"id": "greatest-hits-blackhawk", "title": "Greatest Hits", "artist": "BlackHawk", "peak": 152, "history": [{"date": "2000-06-03", "rank": 152}, {"date": "2000-06-10", "rank": 186}, {"date": "2000-06-17", "rank": 197}]}
+{
+  "id": "greatest-hits-blackhawk",
+  "title": "Greatest Hits",
+  "artist": "BlackHawk",
+  "peak": 152,
+  "history": [
+    {
+      "date": "2000-06-03",
+      "rank": 152
+    },
+    {
+      "date": "2000-06-10",
+      "rank": 186
+    },
+    {
+      "date": "2000-06-17",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "There You Have It",
+      "id": "there-you-have-it-blackhawk"
+    },
+    {
+      "title": "Goodbye Says It All",
+      "id": null
+    },
+    {
+      "title": "I’m Not Strong Enough to Say No",
+      "id": null
+    },
+    {
+      "title": "Every Once in a While",
+      "id": null
+    },
+    {
+      "title": "I Sure Can Smell the Rain",
+      "id": null
+    },
+    {
+      "title": "That's Just About Right",
+      "id": null
+    },
+    {
+      "title": "Big Guitar",
+      "id": null
+    },
+    {
+      "title": "Almost a Memory Now",
+      "id": null
+    },
+    {
+      "title": "Always Have, Always Will",
+      "id": null
+    },
+    {
+      "title": "Like There Ain’t No Yesterday",
+      "id": null
+    },
+    {
+      "title": "Postmarked Birmingham",
+      "id": null
+    },
+    {
+      "title": "Down in Flames",
+      "id": null
+    },
+    {
+      "title": "It Takes a Woman",
+      "id": null
+    },
+    {
+      "title": "I Need You All the Time",
+      "id": null
+    },
+    {
+      "title": "Ships in Heaven",
+      "id": null
+    }
+  ]
+}

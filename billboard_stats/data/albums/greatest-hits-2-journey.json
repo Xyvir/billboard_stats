@@ -1,1 +1,82 @@
-{"id": "greatest-hits-2-journey", "title": "Greatest Hits 2", "artist": "Journey", "peak": 93, "history": [{"date": "2011-11-19", "rank": 93}]}
+{
+  "id": "greatest-hits-2-journey",
+  "title": "Greatest Hits 2",
+  "artist": "Journey",
+  "peak": 93,
+  "history": [
+    {
+      "date": "2011-11-19",
+      "rank": 93
+    }
+  ],
+  "tracks": [
+    {
+      "title": "After the Fall",
+      "id": "after-the-fall-journey"
+    },
+    {
+      "title": "The Party’s Over (Hopelessly in Love) (live)",
+      "id": "the-party-s-over-hopelessly-in-love-journey"
+    },
+    {
+      "title": "Still They Ride",
+      "id": "still-they-ride-journey"
+    },
+    {
+      "title": "Good Morning Girl",
+      "id": "good-morning-girl-stay-awhile-journey"
+    },
+    {
+      "title": "Suzanne",
+      "id": "suzanne-journey"
+    },
+    {
+      "title": "Feeling That Way",
+      "id": "wheel-in-the-sky-journey"
+    },
+    {
+      "title": "Anytime",
+      "id": "anytime-journey"
+    },
+    {
+      "title": "Walks Like a Lady",
+      "id": "walks-like-a-lady-journey"
+    },
+    {
+      "title": "Just the Same Way",
+      "id": "just-the-same-way-journey"
+    },
+    {
+      "title": "Stone in Love",
+      "id": null
+    },
+    {
+      "title": "Chain Reaction",
+      "id": null
+    },
+    {
+      "title": "Escape",
+      "id": null
+    },
+    {
+      "title": "Stay Awhile",
+      "id": null
+    },
+    {
+      "title": "Little Girl",
+      "id": null
+    },
+    {
+      "title": "Patiently",
+      "id": null
+    },
+    {
+      "title": "When I Think of You",
+      "id": null
+    },
+    {
+      "title": "Mother, Father",
+      "id": null
+    }
+  ]
+}

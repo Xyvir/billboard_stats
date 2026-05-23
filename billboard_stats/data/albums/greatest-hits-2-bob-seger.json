@@ -1,1 +1,178 @@
-{"id": "greatest-hits-2-bob-seger", "title": "Greatest Hits 2", "artist": "Bob Seger", "peak": 23, "history": [{"date": "2003-11-22", "rank": 23}, {"date": "2003-11-29", "rank": 67}, {"date": "2003-12-06", "rank": 89}, {"date": "2003-12-13", "rank": 102}, {"date": "2003-12-20", "rank": 95}, {"date": "2003-12-27", "rank": 120}, {"date": "2004-01-03", "rank": 123}, {"date": "2004-01-10", "rank": 106}, {"date": "2004-01-17", "rank": 71}, {"date": "2004-01-24", "rank": 73}, {"date": "2004-01-31", "rank": 92}, {"date": "2004-02-07", "rank": 106}, {"date": "2004-02-14", "rank": 111}, {"date": "2004-02-21", "rank": 106}, {"date": "2004-02-28", "rank": 131}, {"date": "2004-03-06", "rank": 152}, {"date": "2004-03-13", "rank": 171}, {"date": "2004-03-20", "rank": 178}, {"date": "2004-03-27", "rank": 196}, {"date": "2004-04-03", "rank": 161}, {"date": "2004-04-10", "rank": 141}, {"date": "2004-04-17", "rank": 170}, {"date": "2004-04-24", "rank": 196}, {"date": "2004-05-01", "rank": 193}, {"date": "2004-05-08", "rank": 194}, {"date": "2004-05-15", "rank": 199}]}
+{
+  "id": "greatest-hits-2-bob-seger",
+  "title": "Greatest Hits 2",
+  "artist": "Bob Seger",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2003-11-22",
+      "rank": 23
+    },
+    {
+      "date": "2003-11-29",
+      "rank": 67
+    },
+    {
+      "date": "2003-12-06",
+      "rank": 89
+    },
+    {
+      "date": "2003-12-13",
+      "rank": 102
+    },
+    {
+      "date": "2003-12-20",
+      "rank": 95
+    },
+    {
+      "date": "2003-12-27",
+      "rank": 120
+    },
+    {
+      "date": "2004-01-03",
+      "rank": 123
+    },
+    {
+      "date": "2004-01-10",
+      "rank": 106
+    },
+    {
+      "date": "2004-01-17",
+      "rank": 71
+    },
+    {
+      "date": "2004-01-24",
+      "rank": 73
+    },
+    {
+      "date": "2004-01-31",
+      "rank": 92
+    },
+    {
+      "date": "2004-02-07",
+      "rank": 106
+    },
+    {
+      "date": "2004-02-14",
+      "rank": 111
+    },
+    {
+      "date": "2004-02-21",
+      "rank": 106
+    },
+    {
+      "date": "2004-02-28",
+      "rank": 131
+    },
+    {
+      "date": "2004-03-06",
+      "rank": 152
+    },
+    {
+      "date": "2004-03-13",
+      "rank": 171
+    },
+    {
+      "date": "2004-03-20",
+      "rank": 178
+    },
+    {
+      "date": "2004-03-27",
+      "rank": 196
+    },
+    {
+      "date": "2004-04-03",
+      "rank": 161
+    },
+    {
+      "date": "2004-04-10",
+      "rank": 141
+    },
+    {
+      "date": "2004-04-17",
+      "rank": 170
+    },
+    {
+      "date": "2004-04-24",
+      "rank": 196
+    },
+    {
+      "date": "2004-05-01",
+      "rank": 193
+    },
+    {
+      "date": "2004-05-08",
+      "rank": 194
+    },
+    {
+      "date": "2004-05-15",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Understanding",
+      "id": "understanding-bob-seger"
+    },
+    {
+      "title": "Katmandu",
+      "id": "katmandu-bob-seger"
+    },
+    {
+      "title": "Fire Lake",
+      "id": "fire-lake-bob-seger"
+    },
+    {
+      "title": "Tryin’ to Live My Life Without You",
+      "id": "tryin-to-live-my-life-without-you-bob-seger"
+    },
+    {
+      "title": "Rock and Roll Never Forgets",
+      "id": "rock-and-roll-never-forgets-bob-seger"
+    },
+    {
+      "title": "The Fire Down Below",
+      "id": null
+    },
+    {
+      "title": "Her Strut",
+      "id": null
+    },
+    {
+      "title": "Beautiful Loser",
+      "id": null
+    },
+    {
+      "title": "Sunspot Baby",
+      "id": null
+    },
+    {
+      "title": "Shame on the Moon",
+      "id": null
+    },
+    {
+      "title": "Shakedown",
+      "id": null
+    },
+    {
+      "title": "Manhattan",
+      "id": null
+    },
+    {
+      "title": "New Coat of Paint",
+      "id": null
+    },
+    {
+      "title": "Chances Are",
+      "id": null
+    },
+    {
+      "title": "Satisfied",
+      "id": null
+    },
+    {
+      "title": "Tomorrow",
+      "id": null
+    }
+  ]
+}

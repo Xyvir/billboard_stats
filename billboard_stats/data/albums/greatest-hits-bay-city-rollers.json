@@ -1,1 +1,106 @@
-{"id": "greatest-hits-bay-city-rollers", "title": "Greatest Hits", "artist": "Bay City Rollers", "peak": 77, "history": [{"date": "1977-12-03", "rank": 101}, {"date": "1977-12-10", "rank": 91}, {"date": "1977-12-17", "rank": 81}, {"date": "1977-12-24", "rank": 79}, {"date": "1977-12-31", "rank": 79}, {"date": "1978-01-07", "rank": 77}, {"date": "1978-01-14", "rank": 100}, {"date": "1978-01-21", "rank": 97}, {"date": "1978-01-28", "rank": 96}, {"date": "1978-02-04", "rank": 152}, {"date": "1978-02-11", "rank": 200}]}
+{
+  "id": "greatest-hits-bay-city-rollers",
+  "title": "Greatest Hits",
+  "artist": "Bay City Rollers",
+  "peak": 77,
+  "history": [
+    {
+      "date": "1977-12-03",
+      "rank": 101
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 91
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 81
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 79
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 79
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 77
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 100
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 97
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 96
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 152
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Only Want to Be With You",
+      "id": "i-only-want-to-be-with-you-bay-city-rollers"
+    },
+    {
+      "title": "Rock ’n’ Roll Love Letters",
+      "id": "rock-and-roll-love-letter-bay-city-rollers"
+    },
+    {
+      "title": "Yesterdays’s Heroes",
+      "id": "yesterday-s-hero-bay-city-rollers"
+    },
+    {
+      "title": "Money Money",
+      "id": "money-honey-bay-city-rollers"
+    },
+    {
+      "title": "Rock ’n’ Roll Honeymoon",
+      "id": "rock-and-roll-love-letter-bay-city-rollers"
+    },
+    {
+      "title": "Bye Bye Baby",
+      "id": null
+    },
+    {
+      "title": "Cut and Run",
+      "id": null
+    },
+    {
+      "title": "I Was Only Dreaming",
+      "id": null
+    },
+    {
+      "title": "Before the Edge",
+      "id": null
+    },
+    {
+      "title": "Shang a Lang",
+      "id": null
+    },
+    {
+      "title": "She Can’t Say No",
+      "id": null
+    },
+    {
+      "title": "Don’t Stop Believing",
+      "id": null
+    },
+    {
+      "title": "Electric Wheels",
+      "id": null
+    }
+  ]
+}

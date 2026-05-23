@@ -1,1 +1,78 @@
-{"id": "greatest-hits-bjork", "title": "Greatest Hits", "artist": "Bjork", "peak": 115, "history": [{"date": "2002-11-23", "rank": 115}, {"date": "2002-11-30", "rank": 186}]}
+{
+  "id": "greatest-hits-bjork",
+  "title": "Greatest Hits",
+  "artist": "Bjork",
+  "peak": 115,
+  "history": [
+    {
+      "date": "2002-11-23",
+      "rank": 115
+    },
+    {
+      "date": "2002-11-30",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Big Time Sensuality (The Fluke Minimix)",
+      "id": "big-time-sensuality-bjork"
+    },
+    {
+      "title": "All Is Full of Love",
+      "id": null
+    },
+    {
+      "title": "Hyper‐Ballad",
+      "id": null
+    },
+    {
+      "title": "Human Behaviour",
+      "id": null
+    },
+    {
+      "title": "Jóga",
+      "id": null
+    },
+    {
+      "title": "Bachelorette",
+      "id": null
+    },
+    {
+      "title": "Army of Me",
+      "id": null
+    },
+    {
+      "title": "Pagan Poetry",
+      "id": null
+    },
+    {
+      "title": "Venus as a Boy",
+      "id": null
+    },
+    {
+      "title": "Hunter",
+      "id": null
+    },
+    {
+      "title": "Hidden Place",
+      "id": null
+    },
+    {
+      "title": "Isobel",
+      "id": null
+    },
+    {
+      "title": "Possibly Maybe",
+      "id": null
+    },
+    {
+      "title": "Play Dead",
+      "id": null
+    },
+    {
+      "title": "It’s in Our Hands",
+      "id": null
+    }
+  ]
+}

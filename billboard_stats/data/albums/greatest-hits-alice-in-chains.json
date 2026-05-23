@@ -1,1 +1,106 @@
-{"id": "greatest-hits-alice-in-chains", "title": "Greatest Hits", "artist": "Alice in Chains", "peak": 112, "history": [{"date": "2001-09-15", "rank": 112}, {"date": "2001-09-22", "rank": 141}, {"date": "2001-09-29", "rank": 170}, {"date": "2001-10-06", "rank": 188}]}
+{
+  "id": "greatest-hits-alice-in-chains",
+  "title": "Greatest Hits",
+  "artist": "Alice in Chains",
+  "peak": 112,
+  "history": [
+    {
+      "date": "2001-09-15",
+      "rank": 112
+    },
+    {
+      "date": "2001-09-22",
+      "rank": 141
+    },
+    {
+      "date": "2001-09-29",
+      "rank": 170
+    },
+    {
+      "date": "2001-10-06",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Man in the Box",
+      "id": null
+    },
+    {
+      "title": "Them Bones",
+      "id": null
+    },
+    {
+      "title": "Rooster",
+      "id": null
+    },
+    {
+      "title": "Angry Chair",
+      "id": null
+    },
+    {
+      "title": "Would?",
+      "id": null
+    },
+    {
+      "title": "No Excuses",
+      "id": null
+    },
+    {
+      "title": "I Stay Away",
+      "id": null
+    },
+    {
+      "title": "Grind",
+      "id": null
+    },
+    {
+      "title": "Heaven Beside You",
+      "id": null
+    },
+    {
+      "title": "Again",
+      "id": null
+    },
+    {
+      "title": "Man in the Box (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Them Bones (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Rooster (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Angry Chair (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Would? (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "No Excuses (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "I Stay Away (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Grind (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Heaven Beside You (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Again (5.1 mix)",
+      "id": null
+    }
+  ]
+}

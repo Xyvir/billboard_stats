@@ -1,1 +1,110 @@
-{"id": "greatest-hits-anne-murray", "title": "Greatest Hits", "artist": "Anne Murray", "peak": 177, "history": [{"date": "1983-12-24", "rank": 186}, {"date": "1983-12-31", "rank": 186}, {"date": "1984-01-07", "rank": 183}, {"date": "1984-01-14", "rank": 179}, {"date": "1984-01-21", "rank": 177}]}
+{
+  "id": "greatest-hits-anne-murray",
+  "title": "Greatest Hits",
+  "artist": "Anne Murray",
+  "peak": 177,
+  "history": [
+    {
+      "date": "1983-12-24",
+      "rank": 186
+    },
+    {
+      "date": "1983-12-31",
+      "rank": 186
+    },
+    {
+      "date": "1984-01-07",
+      "rank": 183
+    },
+    {
+      "date": "1984-01-14",
+      "rank": 179
+    },
+    {
+      "date": "1984-01-21",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Snowbird",
+      "id": "snowbird-anne-murray"
+    },
+    {
+      "title": "Things",
+      "id": "things-anne-murray"
+    },
+    {
+      "title": "You Won’t See Me",
+      "id": "you-won-t-see-me-anne-murray"
+    },
+    {
+      "title": "Daydream Believer",
+      "id": "daydream-believer-anne-murray"
+    },
+    {
+      "title": "I’m Happy Just to Dance With You",
+      "id": "i-m-happy-just-to-dance-with-you-anne-murray"
+    },
+    {
+      "title": "You Needed Me",
+      "id": "you-needed-me-anne-murray"
+    },
+    {
+      "title": "Lucky Me",
+      "id": "lucky-me-anne-murray"
+    },
+    {
+      "title": "Shadows in the Moonlight",
+      "id": "shadows-in-the-moonlight-anne-murray"
+    },
+    {
+      "title": "I Just Fall in Love Again",
+      "id": "i-just-fall-in-love-again-anne-murray"
+    },
+    {
+      "title": "Broken Hearted Me",
+      "id": "broken-hearted-me-anne-murray"
+    },
+    {
+      "title": "Danny’s Song",
+      "id": "danny-s-song-anne-murray"
+    },
+    {
+      "title": "Could I Have This Dance",
+      "id": "could-i-have-this-dance-anne-murray"
+    },
+    {
+      "title": "I’ll Always Love You",
+      "id": null
+    },
+    {
+      "title": "Your Are My Sunshine / Open Up Your Heart",
+      "id": null
+    },
+    {
+      "title": "Put Your Hand in the Hand",
+      "id": null
+    },
+    {
+      "title": "You’re a Part of Me",
+      "id": null
+    },
+    {
+      "title": "Walk Right Back",
+      "id": null
+    },
+    {
+      "title": "You’ve Got What It Takes",
+      "id": null
+    },
+    {
+      "title": "Highly Prized Possession",
+      "id": null
+    },
+    {
+      "title": "Tennessee Waltz",
+      "id": null
+    }
+  ]
+}

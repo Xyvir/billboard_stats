@@ -1,1 +1,194 @@
-{"id": "greatest-hits-al-green", "title": "Greatest Hits", "artist": "Al Green", "peak": 127, "history": [{"date": "1995-08-19", "rank": 171}, {"date": "1995-08-26", "rank": 177}, {"date": "1995-09-02", "rank": 195}, {"date": "1995-09-09", "rank": 188}, {"date": "1995-09-16", "rank": 168}, {"date": "1995-09-23", "rank": 141}, {"date": "1995-09-30", "rank": 127}, {"date": "1995-10-07", "rank": 141}, {"date": "1995-10-14", "rank": 143}, {"date": "1995-10-21", "rank": 155}, {"date": "1995-10-28", "rank": 159}, {"date": "1995-11-04", "rank": 160}, {"date": "1995-11-11", "rank": 171}, {"date": "1995-11-18", "rank": 171}, {"date": "1995-11-25", "rank": 193}, {"date": "1995-12-02", "rank": 200}, {"date": "1996-01-27", "rank": 181}, {"date": "1996-02-03", "rank": 169}, {"date": "1996-02-10", "rank": 171}, {"date": "1996-02-17", "rank": 185}, {"date": "1996-02-24", "rank": 173}, {"date": "1996-03-02", "rank": 192}, {"date": "1996-03-09", "rank": 194}, {"date": "1996-03-16", "rank": 190}, {"date": "1996-03-23", "rank": 194}, {"date": "1996-06-08", "rank": 196}, {"date": "1996-06-15", "rank": 193}, {"date": "1996-09-14", "rank": 188}, {"date": "1996-09-21", "rank": 198}, {"date": "2012-08-25", "rank": 196}, {"date": "2015-01-17", "rank": 184}]}
+{
+  "id": "greatest-hits-al-green",
+  "title": "Greatest Hits",
+  "artist": "Al Green",
+  "peak": 127,
+  "history": [
+    {
+      "date": "1995-08-19",
+      "rank": 171
+    },
+    {
+      "date": "1995-08-26",
+      "rank": 177
+    },
+    {
+      "date": "1995-09-02",
+      "rank": 195
+    },
+    {
+      "date": "1995-09-09",
+      "rank": 188
+    },
+    {
+      "date": "1995-09-16",
+      "rank": 168
+    },
+    {
+      "date": "1995-09-23",
+      "rank": 141
+    },
+    {
+      "date": "1995-09-30",
+      "rank": 127
+    },
+    {
+      "date": "1995-10-07",
+      "rank": 141
+    },
+    {
+      "date": "1995-10-14",
+      "rank": 143
+    },
+    {
+      "date": "1995-10-21",
+      "rank": 155
+    },
+    {
+      "date": "1995-10-28",
+      "rank": 159
+    },
+    {
+      "date": "1995-11-04",
+      "rank": 160
+    },
+    {
+      "date": "1995-11-11",
+      "rank": 171
+    },
+    {
+      "date": "1995-11-18",
+      "rank": 171
+    },
+    {
+      "date": "1995-11-25",
+      "rank": 193
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 200
+    },
+    {
+      "date": "1996-01-27",
+      "rank": 181
+    },
+    {
+      "date": "1996-02-03",
+      "rank": 169
+    },
+    {
+      "date": "1996-02-10",
+      "rank": 171
+    },
+    {
+      "date": "1996-02-17",
+      "rank": 185
+    },
+    {
+      "date": "1996-02-24",
+      "rank": 173
+    },
+    {
+      "date": "1996-03-02",
+      "rank": 192
+    },
+    {
+      "date": "1996-03-09",
+      "rank": 194
+    },
+    {
+      "date": "1996-03-16",
+      "rank": 190
+    },
+    {
+      "date": "1996-03-23",
+      "rank": 194
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 196
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 193
+    },
+    {
+      "date": "1996-09-14",
+      "rank": 188
+    },
+    {
+      "date": "1996-09-21",
+      "rank": 198
+    },
+    {
+      "date": "2012-08-25",
+      "rank": 196
+    },
+    {
+      "date": "2015-01-17",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tired of Being Alone",
+      "id": "tired-of-being-alone-al-green"
+    },
+    {
+      "title": "Call Me (Come Back Home)",
+      "id": "call-me-come-back-home-al-green"
+    },
+    {
+      "title": "I’m Still in Love With You",
+      "id": "i-m-still-in-love-with-you-al-green"
+    },
+    {
+      "title": "Here I Am (Come and Take Me)",
+      "id": "here-i-am-come-take-me-al-green"
+    },
+    {
+      "title": "Let’s Stay Together",
+      "id": "let-s-stay-together-al-green"
+    },
+    {
+      "title": "I Can’t Get Next to You",
+      "id": "i-can-t-get-next-to-you-al-green"
+    },
+    {
+      "title": "You Ought to Be With Me",
+      "id": "you-ought-to-be-with-me-al-green"
+    },
+    {
+      "title": "Look What You Done for Me",
+      "id": "look-what-you-done-for-me-al-green"
+    },
+    {
+      "title": "Let’s Get Married",
+      "id": "let-s-get-married-al-green"
+    },
+    {
+      "title": "Livin’ for You",
+      "id": "livin-for-you-al-green"
+    },
+    {
+      "title": "Sha-La-La (Make Me Happy)",
+      "id": "sha-la-la-make-me-happy-al-green"
+    },
+    {
+      "title": "L‐O‐V‐E (Love)",
+      "id": "l-o-v-e-love-al-green"
+    },
+    {
+      "title": "Full of Fire",
+      "id": "full-of-fire-al-green"
+    },
+    {
+      "title": "Belle",
+      "id": "belle-al-green"
+    },
+    {
+      "title": "Love and Happiness",
+      "id": null
+    }
+  ]
+}
