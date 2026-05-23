@@ -1,1 +1,90 @@
-{"id": "i-like-your-style-jermaine-jackson", "title": "I Like Your Style", "artist": "Jermaine Jackson", "peak": 86, "history": [{"date": "1981-09-26", "rank": 126}, {"date": "1981-10-03", "rank": 114}, {"date": "1981-10-10", "rank": 97}, {"date": "1981-10-17", "rank": 87}, {"date": "1981-10-24", "rank": 86}, {"date": "1981-10-31", "rank": 103}, {"date": "1981-11-07", "rank": 113}, {"date": "1981-11-14", "rank": 154}, {"date": "1981-11-21", "rank": 178}, {"date": "1981-11-28", "rank": 191}]}
+{
+  "id": "i-like-your-style-jermaine-jackson",
+  "title": "I Like Your Style",
+  "artist": "Jermaine Jackson",
+  "peak": 86,
+  "history": [
+    {
+      "date": "1981-09-26",
+      "rank": 126
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 114
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 97
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 87
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 86
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 103
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 113
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 154
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 178
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I'm Just Too Shy",
+      "id": "i-m-just-too-shy-jermaine-jackson"
+    },
+    {
+      "title": "I Gotta Have Ya",
+      "id": null
+    },
+    {
+      "title": "You're Givin' Me the Run-Around",
+      "id": null
+    },
+    {
+      "title": "Paradise in Your Eyes",
+      "id": null
+    },
+    {
+      "title": "Is It Always Gonna Be Like This",
+      "id": null
+    },
+    {
+      "title": "Signed, Sealed, Delivered I'm Yours",
+      "id": null
+    },
+    {
+      "title": "Maybe Next Time",
+      "id": null
+    },
+    {
+      "title": "I Can't Take No More",
+      "id": null
+    },
+    {
+      "title": "It's Still Undone",
+      "id": null
+    },
+    {
+      "title": "I'm My Brother's Keeper",
+      "id": null
+    }
+  ]
+}

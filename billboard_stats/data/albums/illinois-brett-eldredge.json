@@ -1,1 +1,222 @@
-{"id": "illinois-brett-eldredge", "title": "Illinois", "artist": "Brett Eldredge", "peak": 3, "history": [{"date": "2015-10-03", "rank": 3}, {"date": "2015-10-10", "rank": 28}, {"date": "2015-10-17", "rank": 44}, {"date": "2015-10-24", "rank": 57}, {"date": "2015-10-31", "rank": 68}, {"date": "2015-11-07", "rank": 86}, {"date": "2015-11-14", "rank": 101}, {"date": "2015-11-21", "rank": 124}, {"date": "2015-11-28", "rank": 144}, {"date": "2015-12-05", "rank": 192}, {"date": "2016-01-16", "rank": 186}, {"date": "2016-01-23", "rank": 164}, {"date": "2016-01-30", "rank": 119}, {"date": "2016-02-06", "rank": 99}, {"date": "2016-02-13", "rank": 100}, {"date": "2016-02-20", "rank": 108}, {"date": "2016-02-27", "rank": 129}, {"date": "2016-03-05", "rank": 119}, {"date": "2016-03-12", "rank": 113}, {"date": "2016-03-19", "rank": 103}, {"date": "2016-03-26", "rank": 104}, {"date": "2016-04-02", "rank": 93}, {"date": "2016-04-09", "rank": 100}, {"date": "2016-04-16", "rank": 69}, {"date": "2016-04-23", "rank": 78}, {"date": "2016-04-30", "rank": 127}, {"date": "2016-05-07", "rank": 154}, {"date": "2016-05-14", "rank": 168}, {"date": "2016-05-21", "rank": 171}, {"date": "2016-07-16", "rank": 197}, {"date": "2016-07-23", "rank": 191}, {"date": "2016-08-13", "rank": 194}, {"date": "2016-08-20", "rank": 114}, {"date": "2016-08-27", "rank": 167}, {"date": "2016-09-03", "rank": 198}, {"date": "2016-09-10", "rank": 165}, {"date": "2016-10-22", "rank": 199}, {"date": "2016-11-19", "rank": 186}, {"date": "2016-11-26", "rank": 195}, {"date": "2017-01-14", "rank": 190}, {"date": "2017-01-21", "rank": 173}]}
+{
+  "id": "illinois-brett-eldredge",
+  "title": "Illinois",
+  "artist": "Brett Eldredge",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2015-10-03",
+      "rank": 3
+    },
+    {
+      "date": "2015-10-10",
+      "rank": 28
+    },
+    {
+      "date": "2015-10-17",
+      "rank": 44
+    },
+    {
+      "date": "2015-10-24",
+      "rank": 57
+    },
+    {
+      "date": "2015-10-31",
+      "rank": 68
+    },
+    {
+      "date": "2015-11-07",
+      "rank": 86
+    },
+    {
+      "date": "2015-11-14",
+      "rank": 101
+    },
+    {
+      "date": "2015-11-21",
+      "rank": 124
+    },
+    {
+      "date": "2015-11-28",
+      "rank": 144
+    },
+    {
+      "date": "2015-12-05",
+      "rank": 192
+    },
+    {
+      "date": "2016-01-16",
+      "rank": 186
+    },
+    {
+      "date": "2016-01-23",
+      "rank": 164
+    },
+    {
+      "date": "2016-01-30",
+      "rank": 119
+    },
+    {
+      "date": "2016-02-06",
+      "rank": 99
+    },
+    {
+      "date": "2016-02-13",
+      "rank": 100
+    },
+    {
+      "date": "2016-02-20",
+      "rank": 108
+    },
+    {
+      "date": "2016-02-27",
+      "rank": 129
+    },
+    {
+      "date": "2016-03-05",
+      "rank": 119
+    },
+    {
+      "date": "2016-03-12",
+      "rank": 113
+    },
+    {
+      "date": "2016-03-19",
+      "rank": 103
+    },
+    {
+      "date": "2016-03-26",
+      "rank": 104
+    },
+    {
+      "date": "2016-04-02",
+      "rank": 93
+    },
+    {
+      "date": "2016-04-09",
+      "rank": 100
+    },
+    {
+      "date": "2016-04-16",
+      "rank": 69
+    },
+    {
+      "date": "2016-04-23",
+      "rank": 78
+    },
+    {
+      "date": "2016-04-30",
+      "rank": 127
+    },
+    {
+      "date": "2016-05-07",
+      "rank": 154
+    },
+    {
+      "date": "2016-05-14",
+      "rank": 168
+    },
+    {
+      "date": "2016-05-21",
+      "rank": 171
+    },
+    {
+      "date": "2016-07-16",
+      "rank": 197
+    },
+    {
+      "date": "2016-07-23",
+      "rank": 191
+    },
+    {
+      "date": "2016-08-13",
+      "rank": 194
+    },
+    {
+      "date": "2016-08-20",
+      "rank": 114
+    },
+    {
+      "date": "2016-08-27",
+      "rank": 167
+    },
+    {
+      "date": "2016-09-03",
+      "rank": 198
+    },
+    {
+      "date": "2016-09-10",
+      "rank": 165
+    },
+    {
+      "date": "2016-10-22",
+      "rank": 199
+    },
+    {
+      "date": "2016-11-19",
+      "rank": 186
+    },
+    {
+      "date": "2016-11-26",
+      "rank": 195
+    },
+    {
+      "date": "2017-01-14",
+      "rank": 190
+    },
+    {
+      "date": "2017-01-21",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lose My Mind",
+      "id": "lose-my-mind-brett-eldredge"
+    },
+    {
+      "title": "Wanna Be That Song",
+      "id": "wanna-be-that-song-brett-eldredge"
+    },
+    {
+      "title": "Drunk on Your Love",
+      "id": "drunk-on-your-love-brett-eldredge"
+    },
+    {
+      "title": "Fire",
+      "id": null
+    },
+    {
+      "title": "You Can’t Stop Me",
+      "id": null
+    },
+    {
+      "title": "Time Well Spent",
+      "id": null
+    },
+    {
+      "title": "If You Were My Girl",
+      "id": null
+    },
+    {
+      "title": "Illinois",
+      "id": null
+    },
+    {
+      "title": "Just a Taste",
+      "id": null
+    },
+    {
+      "title": "Lose It All",
+      "id": null
+    },
+    {
+      "title": "Shadow",
+      "id": null
+    },
+    {
+      "title": "Going Away for a While",
+      "id": null
+    }
+  ]
+}
