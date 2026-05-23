@@ -1,1 +1,74 @@
-{"id": "i-am-i-nuclear-valdez", "title": "I Am I", "artist": "Nuclear Valdez", "peak": 175, "history": [{"date": "1990-02-24", "rank": 187}, {"date": "1990-03-03", "rank": 199}, {"date": "1990-03-10", "rank": 194}, {"date": "1990-03-17", "rank": 175}, {"date": "1990-03-24", "rank": 195}]}
+{
+  "id": "i-am-i-nuclear-valdez",
+  "title": "I Am I",
+  "artist": "Nuclear Valdez",
+  "peak": 175,
+  "history": [
+    {
+      "date": "1990-02-24",
+      "rank": 187
+    },
+    {
+      "date": "1990-03-03",
+      "rank": 199
+    },
+    {
+      "date": "1990-03-10",
+      "rank": 194
+    },
+    {
+      "date": "1990-03-17",
+      "rank": 175
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Summer",
+      "id": null
+    },
+    {
+      "title": "Hope",
+      "id": null
+    },
+    {
+      "title": "Trace The Thunder",
+      "id": null
+    },
+    {
+      "title": "If I Knew Then",
+      "id": null
+    },
+    {
+      "title": "Unsung Hero (Song For Lenny Bruce)",
+      "id": null
+    },
+    {
+      "title": "Strength",
+      "id": null
+    },
+    {
+      "title": "Eve",
+      "id": null
+    },
+    {
+      "title": "Apache",
+      "id": null
+    },
+    {
+      "title": "Run Through The Fields",
+      "id": null
+    },
+    {
+      "title": "Where Do We Go From Here",
+      "id": null
+    },
+    {
+      "title": "Rising Sun",
+      "id": null
+    }
+  ]
+}

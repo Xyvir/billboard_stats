@@ -1,1 +1,210 @@
-{"id": "i-am-earth-wind-fire", "title": "I Am", "artist": "Earth, Wind & Fire", "peak": 3, "history": [{"date": "1979-06-16", "rank": 62}, {"date": "1979-06-23", "rank": 8}, {"date": "1979-06-30", "rank": 4}, {"date": "1979-07-07", "rank": 4}, {"date": "1979-07-14", "rank": 3}, {"date": "1979-07-21", "rank": 3}, {"date": "1979-07-28", "rank": 3}, {"date": "1979-08-04", "rank": 7}, {"date": "1979-08-11", "rank": 6}, {"date": "1979-08-18", "rank": 6}, {"date": "1979-08-25", "rank": 5}, {"date": "1979-09-01", "rank": 4}, {"date": "1979-09-08", "rank": 4}, {"date": "1979-09-15", "rank": 7}, {"date": "1979-09-22", "rank": 8}, {"date": "1979-09-29", "rank": 8}, {"date": "1979-10-06", "rank": 11}, {"date": "1979-10-13", "rank": 17}, {"date": "1979-10-20", "rank": 23}, {"date": "1979-10-27", "rank": 35}, {"date": "1979-11-03", "rank": 39}, {"date": "1979-11-10", "rank": 53}, {"date": "1979-11-17", "rank": 78}, {"date": "1979-11-24", "rank": 95}, {"date": "1979-12-01", "rank": 95}, {"date": "1979-12-08", "rank": 95}, {"date": "1979-12-15", "rank": 95}, {"date": "1979-12-22", "rank": 100}, {"date": "1979-12-29", "rank": 100}, {"date": "1980-01-05", "rank": 107}, {"date": "1980-01-12", "rank": 105}, {"date": "1980-01-19", "rank": 129}, {"date": "1980-01-26", "rank": 129}, {"date": "1980-02-02", "rank": 127}, {"date": "1980-02-09", "rank": 123}, {"date": "1980-02-16", "rank": 132}, {"date": "1980-02-23", "rank": 132}, {"date": "1980-03-01", "rank": 185}]}
+{
+  "id": "i-am-earth-wind-fire",
+  "title": "I Am",
+  "artist": "Earth, Wind & Fire",
+  "peak": 3,
+  "history": [
+    {
+      "date": "1979-06-16",
+      "rank": 62
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 8
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 4
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 4
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 3
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 3
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 3
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 7
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 6
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 6
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 5
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 4
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 4
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 7
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 8
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 8
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 11
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 17
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 23
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 35
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 39
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 53
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 78
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 95
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 95
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 95
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 95
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 100
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 100
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 107
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 105
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 129
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 129
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 127
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 123
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 132
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 132
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "In the Stone",
+      "id": "in-the-stone-earth-wind-fire"
+    },
+    {
+      "title": "Can’t Let Go",
+      "id": "can-t-hide-love-earth-wind-fire"
+    },
+    {
+      "title": "After the Love Has Gone",
+      "id": "after-the-love-has-gone-earth-wind-fire"
+    },
+    {
+      "title": "Star",
+      "id": "star-earth-wind-fire"
+    },
+    {
+      "title": "Let Your Feelings Show",
+      "id": null
+    },
+    {
+      "title": "Boogie Wonderland",
+      "id": null
+    },
+    {
+      "title": "Wait",
+      "id": null
+    },
+    {
+      "title": "Rock That!",
+      "id": null
+    },
+    {
+      "title": "You and I",
+      "id": null
+    },
+    {
+      "title": "Diana",
+      "id": null
+    },
+    {
+      "title": "Dirty (interlude)",
+      "id": null
+    },
+    {
+      "title": "Dirty (Junior’s Juke)",
+      "id": null
+    }
+  ]
+}
