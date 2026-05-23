@@ -1,1 +1,66 @@
-{"id": "echo-the-bunnymen-echo-the-bunnymen", "title": "Echo & The Bunnymen", "artist": "Echo & The Bunnymen", "peak": 188, "history": [{"date": "1984-02-11", "rank": 192}, {"date": "1984-02-18", "rank": 188}, {"date": "1984-02-25", "rank": 196}]}
+{
+  "id": "echo-the-bunnymen-echo-the-bunnymen",
+  "title": "Echo & The Bunnymen",
+  "artist": "Echo & The Bunnymen",
+  "peak": 188,
+  "history": [
+    {
+      "date": "1984-02-11",
+      "rank": 192
+    },
+    {
+      "date": "1984-02-18",
+      "rank": 188
+    },
+    {
+      "date": "1984-02-25",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Game",
+      "id": null
+    },
+    {
+      "title": "Over You",
+      "id": null
+    },
+    {
+      "title": "Bedbugs and Ballyhoo",
+      "id": null
+    },
+    {
+      "title": "All in Your Mind",
+      "id": null
+    },
+    {
+      "title": "Bombers Bay",
+      "id": null
+    },
+    {
+      "title": "Lips Like Sugar",
+      "id": null
+    },
+    {
+      "title": "Lost and Found",
+      "id": null
+    },
+    {
+      "title": "New Direction",
+      "id": null
+    },
+    {
+      "title": "Blue Blue Ocean",
+      "id": null
+    },
+    {
+      "title": "Satellite",
+      "id": null
+    },
+    {
+      "title": "All My Life",
+      "id": null
+    }
+  ]
+}

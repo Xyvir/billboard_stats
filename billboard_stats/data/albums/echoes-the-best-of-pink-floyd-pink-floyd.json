@@ -1,1 +1,218 @@
-{"id": "echoes-the-best-of-pink-floyd-pink-floyd", "title": "Echoes: The Best Of Pink Floyd", "artist": "Pink Floyd", "peak": 2, "history": [{"date": "2001-11-24", "rank": 2}, {"date": "2001-12-01", "rank": 12}, {"date": "2001-12-08", "rank": 18}, {"date": "2001-12-15", "rank": 16}, {"date": "2001-12-22", "rank": 16}, {"date": "2001-12-29", "rank": 18}, {"date": "2002-01-05", "rank": 18}, {"date": "2002-01-12", "rank": 18}, {"date": "2002-01-19", "rank": 17}, {"date": "2002-01-26", "rank": 19}, {"date": "2002-02-02", "rank": 22}, {"date": "2002-02-09", "rank": 30}, {"date": "2002-02-16", "rank": 44}, {"date": "2002-02-23", "rank": 53}, {"date": "2002-03-02", "rank": 56}, {"date": "2002-03-09", "rank": 76}, {"date": "2002-03-16", "rank": 93}, {"date": "2002-03-23", "rank": 108}, {"date": "2002-03-30", "rank": 121}, {"date": "2002-04-06", "rank": 135}, {"date": "2002-04-13", "rank": 160}, {"date": "2002-04-20", "rank": 168}, {"date": "2002-04-27", "rank": 175}, {"date": "2002-05-04", "rank": 180}, {"date": "2002-05-11", "rank": 182}, {"date": "2002-05-18", "rank": 198}]}
+{
+  "id": "echoes-the-best-of-pink-floyd-pink-floyd",
+  "title": "Echoes: The Best Of Pink Floyd",
+  "artist": "Pink Floyd",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2001-11-24",
+      "rank": 2
+    },
+    {
+      "date": "2001-12-01",
+      "rank": 12
+    },
+    {
+      "date": "2001-12-08",
+      "rank": 18
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 16
+    },
+    {
+      "date": "2001-12-22",
+      "rank": 16
+    },
+    {
+      "date": "2001-12-29",
+      "rank": 18
+    },
+    {
+      "date": "2002-01-05",
+      "rank": 18
+    },
+    {
+      "date": "2002-01-12",
+      "rank": 18
+    },
+    {
+      "date": "2002-01-19",
+      "rank": 17
+    },
+    {
+      "date": "2002-01-26",
+      "rank": 19
+    },
+    {
+      "date": "2002-02-02",
+      "rank": 22
+    },
+    {
+      "date": "2002-02-09",
+      "rank": 30
+    },
+    {
+      "date": "2002-02-16",
+      "rank": 44
+    },
+    {
+      "date": "2002-02-23",
+      "rank": 53
+    },
+    {
+      "date": "2002-03-02",
+      "rank": 56
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 76
+    },
+    {
+      "date": "2002-03-16",
+      "rank": 93
+    },
+    {
+      "date": "2002-03-23",
+      "rank": 108
+    },
+    {
+      "date": "2002-03-30",
+      "rank": 121
+    },
+    {
+      "date": "2002-04-06",
+      "rank": 135
+    },
+    {
+      "date": "2002-04-13",
+      "rank": 160
+    },
+    {
+      "date": "2002-04-20",
+      "rank": 168
+    },
+    {
+      "date": "2002-04-27",
+      "rank": 175
+    },
+    {
+      "date": "2002-05-04",
+      "rank": 180
+    },
+    {
+      "date": "2002-05-11",
+      "rank": 182
+    },
+    {
+      "date": "2002-05-18",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Another Brick in the Wall, Part 2",
+      "id": "another-brick-in-the-wall-part-ii-pink-floyd"
+    },
+    {
+      "title": "Marooned",
+      "id": "money-pink-floyd"
+    },
+    {
+      "title": "Money",
+      "id": "money-pink-floyd"
+    },
+    {
+      "title": "Learning to Fly",
+      "id": "learning-to-fly-pink-floyd"
+    },
+    {
+      "title": "Astronomy Domine",
+      "id": null
+    },
+    {
+      "title": "See Emily Play",
+      "id": null
+    },
+    {
+      "title": "The Happiest Days of Our Lives",
+      "id": null
+    },
+    {
+      "title": "Echoes",
+      "id": null
+    },
+    {
+      "title": "Hey You",
+      "id": null
+    },
+    {
+      "title": "The Great Gig in the Sky",
+      "id": null
+    },
+    {
+      "title": "Set the Controls for the Heart of the Sun",
+      "id": null
+    },
+    {
+      "title": "Keep Talking",
+      "id": null
+    },
+    {
+      "title": "Sheep",
+      "id": null
+    },
+    {
+      "title": "Sorrow",
+      "id": null
+    },
+    {
+      "title": "Shine On You Crazy Diamond, Parts 1–7",
+      "id": null
+    },
+    {
+      "title": "Time",
+      "id": null
+    },
+    {
+      "title": "The Fletcher Memorial Home",
+      "id": null
+    },
+    {
+      "title": "Comfortably Numb",
+      "id": null
+    },
+    {
+      "title": "When the Tigers Broke Free",
+      "id": null
+    },
+    {
+      "title": "One of These Days",
+      "id": null
+    },
+    {
+      "title": "Us and Them",
+      "id": null
+    },
+    {
+      "title": "Arnold Layne",
+      "id": null
+    },
+    {
+      "title": "Wish You Were Here",
+      "id": null
+    },
+    {
+      "title": "Jugband Blues",
+      "id": null
+    },
+    {
+      "title": "High Hopes",
+      "id": null
+    },
+    {
+      "title": "Bike",
+      "id": null
+    }
+  ]
+}

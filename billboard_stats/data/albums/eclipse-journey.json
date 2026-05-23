@@ -1,1 +1,90 @@
-{"id": "eclipse-journey", "title": "Eclipse", "artist": "Journey", "peak": 13, "history": [{"date": "2011-06-11", "rank": 13}, {"date": "2011-06-18", "rank": 47}, {"date": "2011-06-25", "rank": 68}, {"date": "2011-07-02", "rank": 92}, {"date": "2011-07-09", "rank": 145}, {"date": "2011-08-13", "rank": 113}, {"date": "2011-08-20", "rank": 186}]}
+{
+  "id": "eclipse-journey",
+  "title": "Eclipse",
+  "artist": "Journey",
+  "peak": 13,
+  "history": [
+    {
+      "date": "2011-06-11",
+      "rank": 13
+    },
+    {
+      "date": "2011-06-18",
+      "rank": 47
+    },
+    {
+      "date": "2011-06-25",
+      "rank": 68
+    },
+    {
+      "date": "2011-07-02",
+      "rank": 92
+    },
+    {
+      "date": "2011-07-09",
+      "rank": 145
+    },
+    {
+      "date": "2011-08-13",
+      "rank": 113
+    },
+    {
+      "date": "2011-08-20",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Stop Believin’ (live)",
+      "id": "don-t-stop-believin-journey"
+    },
+    {
+      "title": "City of Hope",
+      "id": null
+    },
+    {
+      "title": "Edge of the Moment",
+      "id": null
+    },
+    {
+      "title": "Chain of Love",
+      "id": null
+    },
+    {
+      "title": "Tantra",
+      "id": null
+    },
+    {
+      "title": "Anything Is Possible",
+      "id": null
+    },
+    {
+      "title": "Resonate",
+      "id": null
+    },
+    {
+      "title": "She’s a Mystery",
+      "id": null
+    },
+    {
+      "title": "Human Feel",
+      "id": null
+    },
+    {
+      "title": "Ritual",
+      "id": null
+    },
+    {
+      "title": "To Whom It May Concern",
+      "id": null
+    },
+    {
+      "title": "Someone",
+      "id": null
+    },
+    {
+      "title": "Venus",
+      "id": null
+    }
+  ]
+}

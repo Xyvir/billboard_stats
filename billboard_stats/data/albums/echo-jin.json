@@ -1,1 +1,46 @@
-{"id": "echo-jin", "title": "Echo", "artist": "Jin", "peak": 3, "history": [{"date": "2025-05-31", "rank": 3}, {"date": "2025-06-07", "rank": 122}]}
+{
+  "id": "echo-jin",
+  "title": "Echo",
+  "artist": "Jin",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2025-05-31",
+      "rank": 3
+    },
+    {
+      "date": "2025-06-07",
+      "rank": 122
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Say You Love Me",
+      "id": "don-t-say-you-love-me-jin"
+    },
+    {
+      "title": "Nothing Without Your Love",
+      "id": null
+    },
+    {
+      "title": "Loser",
+      "id": null
+    },
+    {
+      "title": "Rope It",
+      "id": null
+    },
+    {
+      "title": "With the Clouds",
+      "id": null
+    },
+    {
+      "title": "Background",
+      "id": null
+    },
+    {
+      "title": "To Me, Today",
+      "id": null
+    }
+  ]
+}

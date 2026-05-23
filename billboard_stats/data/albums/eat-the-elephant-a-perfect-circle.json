@@ -1,1 +1,74 @@
-{"id": "eat-the-elephant-a-perfect-circle", "title": "Eat The Elephant", "artist": "A Perfect Circle", "peak": 3, "history": [{"date": "2018-05-05", "rank": 3}, {"date": "2018-05-12", "rank": 28}, {"date": "2018-05-19", "rank": 81}, {"date": "2018-05-26", "rank": 148}]}
+{
+  "id": "eat-the-elephant-a-perfect-circle",
+  "title": "Eat The Elephant",
+  "artist": "A Perfect Circle",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2018-05-05",
+      "rank": 3
+    },
+    {
+      "date": "2018-05-12",
+      "rank": 28
+    },
+    {
+      "date": "2018-05-19",
+      "rank": 81
+    },
+    {
+      "date": "2018-05-26",
+      "rank": 148
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Eat the Elephant",
+      "id": null
+    },
+    {
+      "title": "Disillusioned",
+      "id": null
+    },
+    {
+      "title": "The Contrarian",
+      "id": null
+    },
+    {
+      "title": "The Doomed",
+      "id": null
+    },
+    {
+      "title": "So Long, and Thanks for All the Fish",
+      "id": null
+    },
+    {
+      "title": "TalkTalk",
+      "id": null
+    },
+    {
+      "title": "By and Down the River",
+      "id": null
+    },
+    {
+      "title": "Delicious",
+      "id": null
+    },
+    {
+      "title": "DLB",
+      "id": null
+    },
+    {
+      "title": "Hourglass",
+      "id": null
+    },
+    {
+      "title": "Feathers",
+      "id": null
+    },
+    {
+      "title": "Get the Lead Out",
+      "id": null
+    }
+  ]
+}
