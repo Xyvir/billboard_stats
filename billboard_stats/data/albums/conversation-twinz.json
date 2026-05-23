@@ -1,1 +1,102 @@
-{"id": "conversation-twinz", "title": "Conversation", "artist": "Twinz", "peak": 36, "history": [{"date": "1995-09-09", "rank": 36}, {"date": "1995-09-16", "rank": 58}, {"date": "1995-09-23", "rank": 64}, {"date": "1995-09-30", "rank": 78}, {"date": "1995-10-07", "rank": 83}, {"date": "1995-10-14", "rank": 110}, {"date": "1995-10-21", "rank": 127}, {"date": "1995-10-28", "rank": 162}, {"date": "1995-11-04", "rank": 171}]}
+{
+  "id": "conversation-twinz",
+  "title": "Conversation",
+  "artist": "Twinz",
+  "peak": 36,
+  "history": [
+    {
+      "date": "1995-09-09",
+      "rank": 36
+    },
+    {
+      "date": "1995-09-16",
+      "rank": 58
+    },
+    {
+      "date": "1995-09-23",
+      "rank": 64
+    },
+    {
+      "date": "1995-09-30",
+      "rank": 78
+    },
+    {
+      "date": "1995-10-07",
+      "rank": 83
+    },
+    {
+      "date": "1995-10-14",
+      "rank": 110
+    },
+    {
+      "date": "1995-10-21",
+      "rank": 127
+    },
+    {
+      "date": "1995-10-28",
+      "rank": 162
+    },
+    {
+      "date": "1995-11-04",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Round & Round",
+      "id": "round-round-twinz"
+    },
+    {
+      "title": "Conversation #1",
+      "id": null
+    },
+    {
+      "title": "Good Times",
+      "id": null
+    },
+    {
+      "title": "4 Eyes 2 Heads",
+      "id": null
+    },
+    {
+      "title": "Jump Ta This",
+      "id": null
+    },
+    {
+      "title": "Eastside LB",
+      "id": null
+    },
+    {
+      "title": "Sorry I Kept You",
+      "id": null
+    },
+    {
+      "title": "Conversation #2",
+      "id": null
+    },
+    {
+      "title": "Journey Wit Me",
+      "id": null
+    },
+    {
+      "title": "Hollywood",
+      "id": null
+    },
+    {
+      "title": "1st Round Draft Pick",
+      "id": null
+    },
+    {
+      "title": "Conversation #3",
+      "id": null
+    },
+    {
+      "title": "Don't Get It Twisted",
+      "id": null
+    },
+    {
+      "title": "Pass it On",
+      "id": null
+    }
+  ]
+}

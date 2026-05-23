@@ -1,1 +1,46 @@
-{"id": "cool-it-down-yeah-yeah-yeahs", "title": "Cool It Down", "artist": "Yeah Yeah Yeahs", "peak": 45, "history": [{"date": "2022-10-15", "rank": 45}]}
+{
+  "id": "cool-it-down-yeah-yeah-yeahs",
+  "title": "Cool It Down",
+  "artist": "Yeah Yeah Yeahs",
+  "peak": 45,
+  "history": [
+    {
+      "date": "2022-10-15",
+      "rank": 45
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mars",
+      "id": "maps-yeah-yeah-yeahs"
+    },
+    {
+      "title": "Spitting Off the Edge of the World",
+      "id": null
+    },
+    {
+      "title": "Lovebomb",
+      "id": null
+    },
+    {
+      "title": "Wolf",
+      "id": null
+    },
+    {
+      "title": "Fleez",
+      "id": null
+    },
+    {
+      "title": "Burning",
+      "id": null
+    },
+    {
+      "title": "Blacktop",
+      "id": null
+    },
+    {
+      "title": "Different Today",
+      "id": null
+    }
+  ]
+}
