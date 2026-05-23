@@ -1,1 +1,82 @@
-{"id": "high-road-kesha", "title": "High Road", "artist": "Kesha", "peak": 7, "history": [{"date": "2020-02-15", "rank": 7}, {"date": "2020-02-22", "rank": 139}]}
+{
+  "id": "high-road-kesha",
+  "title": "High Road",
+  "artist": "Kesha",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2020-02-15",
+      "rank": 7
+    },
+    {
+      "date": "2020-02-22",
+      "rank": 139
+    }
+  ],
+  "tracks": [
+    {
+      "title": "High Road",
+      "id": "holiday-road-kesha"
+    },
+    {
+      "title": "Tonight",
+      "id": null
+    },
+    {
+      "title": "My Own Dance",
+      "id": null
+    },
+    {
+      "title": "Raising Hell",
+      "id": null
+    },
+    {
+      "title": "Shadow",
+      "id": null
+    },
+    {
+      "title": "Honey",
+      "id": null
+    },
+    {
+      "title": "Cowboy Blues",
+      "id": null
+    },
+    {
+      "title": "Resentment",
+      "id": null
+    },
+    {
+      "title": "Little Bit of Love",
+      "id": null
+    },
+    {
+      "title": "Birthday Suit",
+      "id": null
+    },
+    {
+      "title": "Kinky",
+      "id": null
+    },
+    {
+      "title": "Potato Song (Cuz I Want To)",
+      "id": null
+    },
+    {
+      "title": "BFF",
+      "id": null
+    },
+    {
+      "title": "Father Daughter Dance",
+      "id": null
+    },
+    {
+      "title": "Chasing Thunder",
+      "id": null
+    },
+    {
+      "title": "Big Bad Wolf",
+      "id": null
+    }
+  ]
+}

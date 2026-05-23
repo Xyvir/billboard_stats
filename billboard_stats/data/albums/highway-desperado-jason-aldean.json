@@ -1,1 +1,78 @@
-{"id": "highway-desperado-jason-aldean", "title": "Highway Desperado", "artist": "Jason Aldean", "peak": 19, "history": [{"date": "2023-11-18", "rank": 19}, {"date": "2023-11-25", "rank": 81}, {"date": "2023-12-02", "rank": 161}]}
+{
+  "id": "highway-desperado-jason-aldean",
+  "title": "Highway Desperado",
+  "artist": "Jason Aldean",
+  "peak": 19,
+  "history": [
+    {
+      "date": "2023-11-18",
+      "rank": 19
+    },
+    {
+      "date": "2023-11-25",
+      "rank": 81
+    },
+    {
+      "date": "2023-12-02",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let Your Boys Be Country",
+      "id": "let-your-boys-be-country-jason-aldean"
+    },
+    {
+      "title": "Try That in a Small Town",
+      "id": "try-that-in-a-small-town-jason-aldean"
+    },
+    {
+      "title": "Whiskey Drink",
+      "id": "whiskey-drink-jason-aldean"
+    },
+    {
+      "title": "Tough Crowd",
+      "id": null
+    },
+    {
+      "title": "Knew You’d Come Around",
+      "id": null
+    },
+    {
+      "title": "Hungover in a Hotel",
+      "id": null
+    },
+    {
+      "title": "Whose Rearview",
+      "id": null
+    },
+    {
+      "title": "I’m Over You",
+      "id": null
+    },
+    {
+      "title": "Rather Watch You",
+      "id": null
+    },
+    {
+      "title": "Breakup Breakdown",
+      "id": null
+    },
+    {
+      "title": "Get Away From You",
+      "id": null
+    },
+    {
+      "title": "Changing Bars",
+      "id": null
+    },
+    {
+      "title": "From This Beer On",
+      "id": null
+    },
+    {
+      "title": "Highway Desperado",
+      "id": null
+    }
+  ]
+}
