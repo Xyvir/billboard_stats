@@ -1,1 +1,58 @@
-{"id": "black-bach-lamont-dozier", "title": "Black Bach", "artist": "Lamont Dozier", "peak": 186, "history": [{"date": "1975-01-25", "rank": 191}, {"date": "1975-02-01", "rank": 186}]}
+{
+  "id": "black-bach-lamont-dozier",
+  "title": "Black Bach",
+  "artist": "Lamont Dozier",
+  "peak": 186,
+  "history": [
+    {
+      "date": "1975-01-25",
+      "rank": 191
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let Me Start Tonight",
+      "id": "let-me-start-tonite-lamont-dozier"
+    },
+    {
+      "title": "Shine",
+      "id": null
+    },
+    {
+      "title": "Put Out My Fire",
+      "id": null
+    },
+    {
+      "title": "All Cried Out",
+      "id": null
+    },
+    {
+      "title": "Intermission",
+      "id": null
+    },
+    {
+      "title": "Prelude",
+      "id": null
+    },
+    {
+      "title": "Rose",
+      "id": null
+    },
+    {
+      "title": "Thank You for the Dream",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be With You",
+      "id": null
+    },
+    {
+      "title": "Blue Sky and Silver Bird",
+      "id": null
+    }
+  ]
+}

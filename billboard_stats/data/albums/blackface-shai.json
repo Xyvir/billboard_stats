@@ -1,1 +1,114 @@
-{"id": "blackface-shai", "title": "Blackface", "artist": "Shai", "peak": 42, "history": [{"date": "1995-11-04", "rank": 42}, {"date": "1995-11-11", "rank": 58}, {"date": "1995-11-18", "rank": 66}, {"date": "1995-11-25", "rank": 91}, {"date": "1995-12-02", "rank": 109}, {"date": "1995-12-09", "rank": 162}, {"date": "1995-12-16", "rank": 188}, {"date": "1996-01-13", "rank": 162}, {"date": "1996-01-20", "rank": 190}, {"date": "1996-01-27", "rank": 154}, {"date": "1996-02-03", "rank": 190}]}
+{
+  "id": "blackface-shai",
+  "title": "Blackface",
+  "artist": "Shai",
+  "peak": 42,
+  "history": [
+    {
+      "date": "1995-11-04",
+      "rank": 42
+    },
+    {
+      "date": "1995-11-11",
+      "rank": 58
+    },
+    {
+      "date": "1995-11-18",
+      "rank": 66
+    },
+    {
+      "date": "1995-11-25",
+      "rank": 91
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 109
+    },
+    {
+      "date": "1995-12-09",
+      "rank": 162
+    },
+    {
+      "date": "1995-12-16",
+      "rank": 188
+    },
+    {
+      "date": "1996-01-13",
+      "rank": 162
+    },
+    {
+      "date": "1996-01-20",
+      "rank": 190
+    },
+    {
+      "date": "1996-01-27",
+      "rank": 154
+    },
+    {
+      "date": "1996-02-03",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Come With Me",
+      "id": "come-with-me-shai"
+    },
+    {
+      "title": "I Don't Wanna Be Alone",
+      "id": "i-don-t-wanna-be-alone-shai"
+    },
+    {
+      "title": "The Place Where You Belong",
+      "id": "the-place-where-you-belong-from-beverly-hills-cop-iii-shai"
+    },
+    {
+      "title": "Come With Me (a cappella)",
+      "id": "come-with-me-shai"
+    },
+    {
+      "title": "During the Storm",
+      "id": null
+    },
+    {
+      "title": "Mr. Turn U Out",
+      "id": null
+    },
+    {
+      "title": "Concert A (The Hidden One)",
+      "id": null
+    },
+    {
+      "title": "Falling",
+      "id": null
+    },
+    {
+      "title": "Planet Solitude",
+      "id": null
+    },
+    {
+      "title": "Did You Know",
+      "id": null
+    },
+    {
+      "title": "To Get to Know You",
+      "id": null
+    },
+    {
+      "title": "Let's Go Back",
+      "id": null
+    },
+    {
+      "title": "Will I Find Someone",
+      "id": null
+    },
+    {
+      "title": "95",
+      "id": null
+    },
+    {
+      "title": "If I Gave (A Confession)",
+      "id": null
+    }
+  ]
+}
