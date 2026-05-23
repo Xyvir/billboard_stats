@@ -1,1 +1,62 @@
-{"id": "hannah-montana-hits-remixed-hannah-montana", "title": "Hannah Montana: Hits Remixed", "artist": "Hannah Montana", "peak": 103, "history": [{"date": "2008-09-06", "rank": 103}, {"date": "2008-09-13", "rank": 136}, {"date": "2008-09-20", "rank": 148}, {"date": "2008-09-27", "rank": 156}, {"date": "2008-10-04", "rank": 170}]}
+{
+  "id": "hannah-montana-hits-remixed-hannah-montana",
+  "title": "Hannah Montana: Hits Remixed",
+  "artist": "Hannah Montana",
+  "peak": 103,
+  "history": [
+    {
+      "date": "2008-09-06",
+      "rank": 103
+    },
+    {
+      "date": "2008-09-13",
+      "rank": 136
+    },
+    {
+      "date": "2008-09-20",
+      "rank": 148
+    },
+    {
+      "date": "2008-09-27",
+      "rank": 156
+    },
+    {
+      "date": "2008-10-04",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pumpin’ Up the Party (remix)",
+      "id": "pumpin-up-the-party-hannah-montana"
+    },
+    {
+      "title": "The Other Side of Me (remix)",
+      "id": "the-other-side-of-me-hannah-montana"
+    },
+    {
+      "title": "Rock Star (remix)",
+      "id": "rock-star-hannah-montana"
+    },
+    {
+      "title": "Who Said (remix)",
+      "id": "who-said-hannah-montana"
+    },
+    {
+      "title": "Nobody’s Perfect (remix)",
+      "id": "nobody-s-perfect-hannah-montana"
+    },
+    {
+      "title": "The Best of Both Worlds (remix)",
+      "id": "best-of-both-worlds-hannah-montana"
+    },
+    {
+      "title": "If We Were a Movie (remix)",
+      "id": "if-we-were-a-movie-hannah-montana"
+    },
+    {
+      "title": "We Got the Party (remix)",
+      "id": null
+    }
+  ]
+}
