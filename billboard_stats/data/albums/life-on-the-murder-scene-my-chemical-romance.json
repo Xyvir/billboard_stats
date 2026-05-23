@@ -1,1 +1,74 @@
-{"id": "life-on-the-murder-scene-my-chemical-romance", "title": "Life On The Murder Scene", "artist": "My Chemical Romance", "peak": 30, "history": [{"date": "2006-04-08", "rank": 30}, {"date": "2006-04-15", "rank": 101}, {"date": "2006-04-22", "rank": 169}, {"date": "2006-04-29", "rank": 186}, {"date": "2020-12-12", "rank": 118}]}
+{
+  "id": "life-on-the-murder-scene-my-chemical-romance",
+  "title": "Life On The Murder Scene",
+  "artist": "My Chemical Romance",
+  "peak": 30,
+  "history": [
+    {
+      "date": "2006-04-08",
+      "rank": 30
+    },
+    {
+      "date": "2006-04-15",
+      "rank": 101
+    },
+    {
+      "date": "2006-04-22",
+      "rank": 169
+    },
+    {
+      "date": "2006-04-29",
+      "rank": 186
+    },
+    {
+      "date": "2020-12-12",
+      "rank": 118
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Ghost of You",
+      "id": "the-ghost-of-you-my-chemical-romance"
+    },
+    {
+      "title": "I’m Not Okay (I Promise)",
+      "id": "i-m-not-okay-i-promise-my-chemical-romance"
+    },
+    {
+      "title": "Thank You for the Venom",
+      "id": null
+    },
+    {
+      "title": "Cemetery Drive",
+      "id": null
+    },
+    {
+      "title": "Give ’Em Hell, Kid",
+      "id": null
+    },
+    {
+      "title": "Headfirst for Halos",
+      "id": null
+    },
+    {
+      "title": "Helena",
+      "id": null
+    },
+    {
+      "title": "You Know What They Do to Guys Like Us in Prison",
+      "id": null
+    },
+    {
+      "title": "I Never Told You What I Do for a Living (demo)",
+      "id": null
+    },
+    {
+      "title": "Bury Me in Black (demo)",
+      "id": null
+    },
+    {
+      "title": "Desert Song",
+      "id": null
+    }
+  ]
+}
