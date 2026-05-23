@@ -1,1 +1,62 @@
-{"id": "hello-from-las-vegas-lionel-richie", "title": "Hello From Las Vegas", "artist": "Lionel Richie", "peak": 2, "history": [{"date": "2019-08-31", "rank": 2}]}
+{
+  "id": "hello-from-las-vegas-lionel-richie",
+  "title": "Hello From Las Vegas",
+  "artist": "Lionel Richie",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2019-08-31",
+      "rank": 2
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Easy / My Love",
+      "id": "my-love-lionel-richie"
+    },
+    {
+      "title": "Running With the Night",
+      "id": "running-with-the-night-lionel-richie"
+    },
+    {
+      "title": "Penny Lover",
+      "id": "penny-lover-lionel-richie"
+    },
+    {
+      "title": "Truly",
+      "id": "truly-lionel-richie"
+    },
+    {
+      "title": "Stuck on You",
+      "id": "stuck-on-you-lionel-richie"
+    },
+    {
+      "title": "Dancing on the Ceiling",
+      "id": "dancing-on-the-ceiling-lionel-richie"
+    },
+    {
+      "title": "Hello",
+      "id": "hello-lionel-richie"
+    },
+    {
+      "title": "Say You, Say Me",
+      "id": "say-you-say-me-lionel-richie"
+    },
+    {
+      "title": "All Night Long (All Night)",
+      "id": "all-night-long-all-night-lionel-richie"
+    },
+    {
+      "title": "Three Times a Lady",
+      "id": null
+    },
+    {
+      "title": "Brick House / Skin Tight / Fire",
+      "id": null
+    },
+    {
+      "title": "We Are the World",
+      "id": null
+    }
+  ]
+}

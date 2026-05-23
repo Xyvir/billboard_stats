@@ -1,1 +1,66 @@
-{"id": "hello-dolly-louis-armstrong", "title": "Hello, Dolly", "artist": "Louis Armstrong", "peak": 190, "history": [{"date": "2010-07-24", "rank": 190}]}
+{
+  "id": "hello-dolly-louis-armstrong",
+  "title": "Hello, Dolly",
+  "artist": "Louis Armstrong",
+  "peak": 190,
+  "history": [
+    {
+      "date": "2010-07-24",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When It's Sleepy Time Down South",
+      "id": null
+    },
+    {
+      "title": "Indiana",
+      "id": null
+    },
+    {
+      "title": "Give Me a Kiss to Build a Dream On",
+      "id": null
+    },
+    {
+      "title": "The Bucket's Got a Hole in It",
+      "id": null
+    },
+    {
+      "title": "Mack the Knife",
+      "id": null
+    },
+    {
+      "title": "When the Sainst Go Marching In",
+      "id": null
+    },
+    {
+      "title": "Hello Dolly",
+      "id": null
+    },
+    {
+      "title": "Ole Miss",
+      "id": null
+    },
+    {
+      "title": "C’est si bon",
+      "id": null
+    },
+    {
+      "title": "La Vie en rose",
+      "id": null
+    },
+    {
+      "title": "The Faithful Hussar",
+      "id": null
+    },
+    {
+      "title": "After You've Gone",
+      "id": null
+    },
+    {
+      "title": "New Orleans Function Medley: Free as a Bird / Oh, Didn't He Ramble",
+      "id": null
+    }
+  ]
+}

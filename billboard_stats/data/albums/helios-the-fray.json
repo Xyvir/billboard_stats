@@ -1,1 +1,86 @@
-{"id": "helios-the-fray", "title": "Helios", "artist": "The Fray", "peak": 8, "history": [{"date": "2014-03-15", "rank": 8}, {"date": "2014-03-22", "rank": 47}, {"date": "2014-03-29", "rank": 77}, {"date": "2014-04-05", "rank": 113}, {"date": "2014-04-12", "rank": 174}, {"date": "2014-07-05", "rank": 183}]}
+{
+  "id": "helios-the-fray",
+  "title": "Helios",
+  "artist": "The Fray",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2014-03-15",
+      "rank": 8
+    },
+    {
+      "date": "2014-03-22",
+      "rank": 47
+    },
+    {
+      "date": "2014-03-29",
+      "rank": 77
+    },
+    {
+      "date": "2014-04-05",
+      "rank": 113
+    },
+    {
+      "date": "2014-04-12",
+      "rank": 174
+    },
+    {
+      "date": "2014-07-05",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Don’t Die",
+      "id": "love-don-t-die-the-fray"
+    },
+    {
+      "title": "Hold My Hand",
+      "id": null
+    },
+    {
+      "title": "Give It Away",
+      "id": null
+    },
+    {
+      "title": "Closer to Me",
+      "id": null
+    },
+    {
+      "title": "Hurricane",
+      "id": null
+    },
+    {
+      "title": "Keep On Wanting",
+      "id": null
+    },
+    {
+      "title": "Our Last Days",
+      "id": null
+    },
+    {
+      "title": "Break Your Plans",
+      "id": null
+    },
+    {
+      "title": "Wherever This Goes",
+      "id": null
+    },
+    {
+      "title": "Shadow and a Dancer",
+      "id": null
+    },
+    {
+      "title": "Same as You",
+      "id": null
+    },
+    {
+      "title": "Winter Sun",
+      "id": null
+    },
+    {
+      "title": "500,000 Acres",
+      "id": null
+    }
+  ]
+}
