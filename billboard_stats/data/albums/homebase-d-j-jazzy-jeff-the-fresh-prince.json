@@ -1,1 +1,230 @@
-{"id": "homebase-d-j-jazzy-jeff-the-fresh-prince", "title": "Homebase", "artist": "D.J. Jazzy Jeff & The Fresh Prince", "peak": 12, "history": [{"date": "1991-07-27", "rank": 15}, {"date": "1991-08-03", "rank": 12}, {"date": "1991-08-10", "rank": 13}, {"date": "1991-08-17", "rank": 13}, {"date": "1991-08-24", "rank": 13}, {"date": "1991-08-31", "rank": 14}, {"date": "1991-09-07", "rank": 15}, {"date": "1991-09-14", "rank": 17}, {"date": "1991-09-21", "rank": 20}, {"date": "1991-09-28", "rank": 26}, {"date": "1991-10-05", "rank": 29}, {"date": "1991-10-12", "rank": 31}, {"date": "1991-10-19", "rank": 39}, {"date": "1991-10-26", "rank": 44}, {"date": "1991-11-02", "rank": 46}, {"date": "1991-11-09", "rank": 47}, {"date": "1991-11-16", "rank": 48}, {"date": "1991-11-23", "rank": 53}, {"date": "1991-11-30", "rank": 52}, {"date": "1991-12-07", "rank": 57}, {"date": "1991-12-14", "rank": 63}, {"date": "1991-12-21", "rank": 51}, {"date": "1991-12-28", "rank": 51}, {"date": "1992-01-04", "rank": 58}, {"date": "1992-01-11", "rank": 61}, {"date": "1992-01-18", "rank": 44}, {"date": "1992-01-25", "rank": 43}, {"date": "1992-02-01", "rank": 50}, {"date": "1992-02-08", "rank": 59}, {"date": "1992-02-15", "rank": 53}, {"date": "1992-02-22", "rank": 57}, {"date": "1992-02-29", "rank": 71}, {"date": "1992-03-07", "rank": 79}, {"date": "1992-03-14", "rank": 82}, {"date": "1992-03-21", "rank": 91}, {"date": "1992-03-28", "rank": 114}, {"date": "1992-04-04", "rank": 126}, {"date": "1992-04-11", "rank": 143}, {"date": "1992-04-18", "rank": 164}, {"date": "1992-04-25", "rank": 170}, {"date": "1992-05-02", "rank": 176}, {"date": "1992-05-09", "rank": 192}]}
+{
+  "id": "homebase-d-j-jazzy-jeff-the-fresh-prince",
+  "title": "Homebase",
+  "artist": "D.J. Jazzy Jeff & The Fresh Prince",
+  "peak": 12,
+  "history": [
+    {
+      "date": "1991-07-27",
+      "rank": 15
+    },
+    {
+      "date": "1991-08-03",
+      "rank": 12
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 13
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 13
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 13
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 14
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 15
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 17
+    },
+    {
+      "date": "1991-09-21",
+      "rank": 20
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 26
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 29
+    },
+    {
+      "date": "1991-10-12",
+      "rank": 31
+    },
+    {
+      "date": "1991-10-19",
+      "rank": 39
+    },
+    {
+      "date": "1991-10-26",
+      "rank": 44
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 46
+    },
+    {
+      "date": "1991-11-09",
+      "rank": 47
+    },
+    {
+      "date": "1991-11-16",
+      "rank": 48
+    },
+    {
+      "date": "1991-11-23",
+      "rank": 53
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 52
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 57
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 63
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 51
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 51
+    },
+    {
+      "date": "1992-01-04",
+      "rank": 58
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 61
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 44
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 43
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 50
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 59
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 53
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 57
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 71
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 79
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 82
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 91
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 114
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 126
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 143
+    },
+    {
+      "date": "1992-04-18",
+      "rank": 164
+    },
+    {
+      "date": "1992-04-25",
+      "rank": 170
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 176
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Summertime",
+      "id": "summertime-d-j-jazzy-jeff-the-fresh-prince"
+    },
+    {
+      "title": "Ring My Bell",
+      "id": "ring-my-bell-d-j-jazzy-jeff-the-fresh-prince"
+    },
+    {
+      "title": "Summertime (reprise)",
+      "id": "summertime-d-j-jazzy-jeff-the-fresh-prince"
+    },
+    {
+      "title": "I’m All That",
+      "id": null
+    },
+    {
+      "title": "The Things That U Do",
+      "id": null
+    },
+    {
+      "title": "This Boy Is Smooth",
+      "id": null
+    },
+    {
+      "title": "A Dog Is a Dog",
+      "id": null
+    },
+    {
+      "title": "Caught in the Middle (Love & Life)",
+      "id": null
+    },
+    {
+      "title": "Trapped on the Dance Floor",
+      "id": null
+    },
+    {
+      "title": "Who Stole the D.J.",
+      "id": null
+    },
+    {
+      "title": "You Saw My Blinker",
+      "id": null
+    },
+    {
+      "title": "Dumb Dancin’",
+      "id": null
+    },
+    {
+      "title": "Ring My Bell (Mr. Lee’s radio mix)",
+      "id": null
+    }
+  ]
+}

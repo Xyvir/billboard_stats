@@ -1,1 +1,218 @@
-{"id": "homecoming-america", "title": "Homecoming", "artist": "America", "peak": 9, "history": [{"date": "1972-12-02", "rank": 128}, {"date": "1972-12-09", "rank": 70}, {"date": "1972-12-16", "rank": 32}, {"date": "1972-12-23", "rank": 19}, {"date": "1972-12-30", "rank": 11}, {"date": "1973-01-06", "rank": 9}, {"date": "1973-01-13", "rank": 9}, {"date": "1973-01-20", "rank": 9}, {"date": "1973-01-27", "rank": 9}, {"date": "1973-02-03", "rank": 15}, {"date": "1973-02-10", "rank": 14}, {"date": "1973-02-17", "rank": 21}, {"date": "1973-02-24", "rank": 24}, {"date": "1973-03-03", "rank": 26}, {"date": "1973-03-10", "rank": 26}, {"date": "1973-03-17", "rank": 29}, {"date": "1973-03-24", "rank": 31}, {"date": "1973-03-31", "rank": 39}, {"date": "1973-04-07", "rank": 44}, {"date": "1973-04-14", "rank": 46}, {"date": "1973-04-21", "rank": 48}, {"date": "1973-04-28", "rank": 49}, {"date": "1973-05-05", "rank": 63}, {"date": "1973-05-12", "rank": 77}, {"date": "1973-05-19", "rank": 100}, {"date": "1973-05-26", "rank": 103}, {"date": "1973-06-02", "rank": 103}, {"date": "1973-06-09", "rank": 124}, {"date": "1973-06-16", "rank": 126}, {"date": "1973-06-23", "rank": 142}, {"date": "1973-06-30", "rank": 150}, {"date": "1973-07-07", "rank": 162}]}
+{
+  "id": "homecoming-america",
+  "title": "Homecoming",
+  "artist": "America",
+  "peak": 9,
+  "history": [
+    {
+      "date": "1972-12-02",
+      "rank": 128
+    },
+    {
+      "date": "1972-12-09",
+      "rank": 70
+    },
+    {
+      "date": "1972-12-16",
+      "rank": 32
+    },
+    {
+      "date": "1972-12-23",
+      "rank": 19
+    },
+    {
+      "date": "1972-12-30",
+      "rank": 11
+    },
+    {
+      "date": "1973-01-06",
+      "rank": 9
+    },
+    {
+      "date": "1973-01-13",
+      "rank": 9
+    },
+    {
+      "date": "1973-01-20",
+      "rank": 9
+    },
+    {
+      "date": "1973-01-27",
+      "rank": 9
+    },
+    {
+      "date": "1973-02-03",
+      "rank": 15
+    },
+    {
+      "date": "1973-02-10",
+      "rank": 14
+    },
+    {
+      "date": "1973-02-17",
+      "rank": 21
+    },
+    {
+      "date": "1973-02-24",
+      "rank": 24
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 26
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 26
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 29
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 31
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 39
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 44
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 46
+    },
+    {
+      "date": "1973-04-21",
+      "rank": 48
+    },
+    {
+      "date": "1973-04-28",
+      "rank": 49
+    },
+    {
+      "date": "1973-05-05",
+      "rank": 63
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 77
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 100
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 103
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 103
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 124
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 126
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 142
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 150
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ventura Highway",
+      "id": "ventura-highway-america"
+    },
+    {
+      "title": "Don’t Cross the River",
+      "id": "don-t-cross-the-river-america"
+    },
+    {
+      "title": "Only in Your Heart",
+      "id": "only-in-your-heart-america"
+    },
+    {
+      "title": "California Revisited",
+      "id": "california-dreamin-america"
+    },
+    {
+      "title": "Saturn Nights",
+      "id": "woman-tonight-america"
+    },
+    {
+      "title": "Ventura Highway (5.1 mix)",
+      "id": "ventura-highway-america"
+    },
+    {
+      "title": "Don’t Cross the River (5.1 mix)",
+      "id": "don-t-cross-the-river-america"
+    },
+    {
+      "title": "Only in Your Heart (5.1 mix)",
+      "id": "only-in-your-heart-america"
+    },
+    {
+      "title": "California Revisited (5.1 mix)",
+      "id": "california-dreamin-america"
+    },
+    {
+      "title": "To Each His Own",
+      "id": null
+    },
+    {
+      "title": "Moon Song",
+      "id": null
+    },
+    {
+      "title": "Till the Sun Comes Up Again",
+      "id": null
+    },
+    {
+      "title": "Cornwall Blank",
+      "id": null
+    },
+    {
+      "title": "Head and Heart",
+      "id": null
+    },
+    {
+      "title": "To Each His Own (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Moon Song (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Till the Sun Comes Up Again (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Cornwall Blank (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Head and Heart (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Saturn Nights (5.1 mix)",
+      "id": null
+    }
+  ]
+}

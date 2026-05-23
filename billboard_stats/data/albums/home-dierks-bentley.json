@@ -1,1 +1,186 @@
-{"id": "home-dierks-bentley", "title": "Home", "artist": "Dierks Bentley", "peak": 7, "history": [{"date": "2012-02-25", "rank": 7}, {"date": "2012-03-03", "rank": 24}, {"date": "2012-03-10", "rank": 36}, {"date": "2012-03-17", "rank": 71}, {"date": "2012-03-24", "rank": 74}, {"date": "2012-03-31", "rank": 86}, {"date": "2012-04-07", "rank": 86}, {"date": "2012-04-14", "rank": 107}, {"date": "2012-04-21", "rank": 81}, {"date": "2012-04-28", "rank": 107}, {"date": "2012-05-05", "rank": 110}, {"date": "2012-05-12", "rank": 123}, {"date": "2012-05-19", "rank": 125}, {"date": "2012-05-26", "rank": 122}, {"date": "2012-06-02", "rank": 116}, {"date": "2012-06-09", "rank": 137}, {"date": "2012-06-16", "rank": 103}, {"date": "2012-06-23", "rank": 121}, {"date": "2012-06-30", "rank": 120}, {"date": "2012-07-07", "rank": 136}, {"date": "2012-07-14", "rank": 124}, {"date": "2012-07-21", "rank": 128}, {"date": "2012-07-28", "rank": 118}, {"date": "2012-08-04", "rank": 142}, {"date": "2012-08-11", "rank": 133}, {"date": "2012-08-18", "rank": 140}, {"date": "2012-08-25", "rank": 128}, {"date": "2012-09-01", "rank": 152}, {"date": "2012-09-08", "rank": 163}, {"date": "2012-09-15", "rank": 186}, {"date": "2012-09-22", "rank": 188}, {"date": "2012-11-17", "rank": 146}]}
+{
+  "id": "home-dierks-bentley",
+  "title": "Home",
+  "artist": "Dierks Bentley",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2012-02-25",
+      "rank": 7
+    },
+    {
+      "date": "2012-03-03",
+      "rank": 24
+    },
+    {
+      "date": "2012-03-10",
+      "rank": 36
+    },
+    {
+      "date": "2012-03-17",
+      "rank": 71
+    },
+    {
+      "date": "2012-03-24",
+      "rank": 74
+    },
+    {
+      "date": "2012-03-31",
+      "rank": 86
+    },
+    {
+      "date": "2012-04-07",
+      "rank": 86
+    },
+    {
+      "date": "2012-04-14",
+      "rank": 107
+    },
+    {
+      "date": "2012-04-21",
+      "rank": 81
+    },
+    {
+      "date": "2012-04-28",
+      "rank": 107
+    },
+    {
+      "date": "2012-05-05",
+      "rank": 110
+    },
+    {
+      "date": "2012-05-12",
+      "rank": 123
+    },
+    {
+      "date": "2012-05-19",
+      "rank": 125
+    },
+    {
+      "date": "2012-05-26",
+      "rank": 122
+    },
+    {
+      "date": "2012-06-02",
+      "rank": 116
+    },
+    {
+      "date": "2012-06-09",
+      "rank": 137
+    },
+    {
+      "date": "2012-06-16",
+      "rank": 103
+    },
+    {
+      "date": "2012-06-23",
+      "rank": 121
+    },
+    {
+      "date": "2012-06-30",
+      "rank": 120
+    },
+    {
+      "date": "2012-07-07",
+      "rank": 136
+    },
+    {
+      "date": "2012-07-14",
+      "rank": 124
+    },
+    {
+      "date": "2012-07-21",
+      "rank": 128
+    },
+    {
+      "date": "2012-07-28",
+      "rank": 118
+    },
+    {
+      "date": "2012-08-04",
+      "rank": 142
+    },
+    {
+      "date": "2012-08-11",
+      "rank": 133
+    },
+    {
+      "date": "2012-08-18",
+      "rank": 140
+    },
+    {
+      "date": "2012-08-25",
+      "rank": 128
+    },
+    {
+      "date": "2012-09-01",
+      "rank": 152
+    },
+    {
+      "date": "2012-09-08",
+      "rank": 163
+    },
+    {
+      "date": "2012-09-15",
+      "rank": 186
+    },
+    {
+      "date": "2012-09-22",
+      "rank": 188
+    },
+    {
+      "date": "2012-11-17",
+      "rank": 146
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Am I the Only One",
+      "id": "am-i-the-only-one-dierks-bentley"
+    },
+    {
+      "title": "Tip It on Back",
+      "id": "tip-it-on-back-dierks-bentley"
+    },
+    {
+      "title": "Home",
+      "id": "home-dierks-bentley"
+    },
+    {
+      "title": "5-1-5-0",
+      "id": "5-1-5-0-dierks-bentley"
+    },
+    {
+      "title": "Gonna Die Young",
+      "id": null
+    },
+    {
+      "title": "Diamonds Make Babies",
+      "id": null
+    },
+    {
+      "title": "In My Head",
+      "id": null
+    },
+    {
+      "title": "Breathe You In",
+      "id": null
+    },
+    {
+      "title": "The Woods",
+      "id": null
+    },
+    {
+      "title": "When You Gonna Come Around",
+      "id": null
+    },
+    {
+      "title": "Heart of a Lonely Girl",
+      "id": null
+    },
+    {
+      "title": "Thinking of You",
+      "id": null
+    }
+  ]
+}
