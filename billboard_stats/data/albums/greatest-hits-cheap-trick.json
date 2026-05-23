@@ -1,1 +1,78 @@
-{"id": "greatest-hits-cheap-trick", "title": "Greatest Hits", "artist": "Cheap Trick", "peak": 174, "history": [{"date": "1991-10-19", "rank": 190}, {"date": "1991-10-26", "rank": 174}, {"date": "1991-11-02", "rank": 187}]}
+{
+  "id": "greatest-hits-cheap-trick",
+  "title": "Greatest Hits",
+  "artist": "Cheap Trick",
+  "peak": 174,
+  "history": [
+    {
+      "date": "1991-10-19",
+      "rank": 190
+    },
+    {
+      "date": "1991-10-26",
+      "rank": 174
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dream Police",
+      "id": "dream-police-cheap-trick"
+    },
+    {
+      "title": "Don’t Be Cruel",
+      "id": "don-t-be-cruel-cheap-trick"
+    },
+    {
+      "title": "Tonight It’s You",
+      "id": "tonight-it-s-you-cheap-trick"
+    },
+    {
+      "title": "She’s Tight",
+      "id": "she-s-tight-cheap-trick"
+    },
+    {
+      "title": "I Want You to Want Me",
+      "id": "i-want-you-to-want-me-cheap-trick"
+    },
+    {
+      "title": "If You Want My Love",
+      "id": "if-you-want-my-love-cheap-trick"
+    },
+    {
+      "title": "Ain’t That a Shame (live)",
+      "id": "ain-t-that-a-shame-cheap-trick"
+    },
+    {
+      "title": "Surrender",
+      "id": "surrender-cheap-trick"
+    },
+    {
+      "title": "The Flame",
+      "id": "the-flame-cheap-trick"
+    },
+    {
+      "title": "Can’t Stop Fallin’ Into Love",
+      "id": "can-t-stop-falling-into-love-cheap-trick"
+    },
+    {
+      "title": "Voices",
+      "id": "voices-cheap-trick"
+    },
+    {
+      "title": "Clock Strikes Ten (live)",
+      "id": null
+    },
+    {
+      "title": "I Can’t Take It",
+      "id": null
+    },
+    {
+      "title": "Magical Mystery Tour",
+      "id": null
+    }
+  ]
+}

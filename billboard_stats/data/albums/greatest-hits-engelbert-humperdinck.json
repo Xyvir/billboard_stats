@@ -1,1 +1,122 @@
-{"id": "greatest-hits-engelbert-humperdinck", "title": "Greatest Hits", "artist": "Engelbert Humperdinck", "peak": 103, "history": [{"date": "1974-12-21", "rank": 163}, {"date": "1974-12-28", "rank": 139}, {"date": "1975-01-04", "rank": 127}, {"date": "1975-01-11", "rank": 117}, {"date": "1975-01-18", "rank": 106}, {"date": "1975-01-25", "rank": 106}, {"date": "1975-02-01", "rank": 103}, {"date": "1975-02-08", "rank": 103}, {"date": "1975-02-15", "rank": 138}, {"date": "1975-02-22", "rank": 135}, {"date": "1975-03-01", "rank": 152}, {"date": "1975-07-05", "rank": 187}, {"date": "1975-07-12", "rank": 176}, {"date": "1975-07-19", "rank": 172}]}
+{
+  "id": "greatest-hits-engelbert-humperdinck",
+  "title": "Greatest Hits",
+  "artist": "Engelbert Humperdinck",
+  "peak": 103,
+  "history": [
+    {
+      "date": "1974-12-21",
+      "rank": 163
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 139
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 127
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 117
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 106
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 106
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 103
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 103
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 138
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 135
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 152
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 187
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 176
+    },
+    {
+      "date": "1975-07-19",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Man Without Love",
+      "id": "a-man-without-love-quando-m-innamoro-engelbert-humperdinck"
+    },
+    {
+      "title": "The Way It Used to Be",
+      "id": "the-way-it-used-to-be-engelbert-humperdinck"
+    },
+    {
+      "title": "There Goes My Everything",
+      "id": "there-goes-my-everything-engelbert-humperdinck"
+    },
+    {
+      "title": "Les Bicyclettes de Belsize",
+      "id": "les-bicyclettes-de-belsize-engelbert-humperdinck"
+    },
+    {
+      "title": "Winter World of Love",
+      "id": "winter-world-of-love-engelbert-humperdinck"
+    },
+    {
+      "title": "I'm a Better Man",
+      "id": "i-m-a-better-man-engelbert-humperdinck"
+    },
+    {
+      "title": "Am I That Easy to Forget",
+      "id": "am-i-that-easy-to-forget-engelbert-humperdinck"
+    },
+    {
+      "title": "The Last Waltz",
+      "id": "the-last-waltz-engelbert-humperdinck"
+    },
+    {
+      "title": "Release Me",
+      "id": null
+    },
+    {
+      "title": "Quando quando quando",
+      "id": null
+    },
+    {
+      "title": "Everybody Knows We're Through",
+      "id": null
+    },
+    {
+      "title": "There’s a Kind of Hush",
+      "id": null
+    },
+    {
+      "title": "Ten Guitars",
+      "id": null
+    },
+    {
+      "title": "My World",
+      "id": null
+    }
+  ]
+}

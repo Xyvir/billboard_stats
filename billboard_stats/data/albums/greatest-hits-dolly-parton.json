@@ -1,1 +1,150 @@
-{"id": "greatest-hits-dolly-parton", "title": "Greatest Hits", "artist": "Dolly Parton", "peak": 77, "history": [{"date": "1982-10-16", "rank": 171}, {"date": "1982-10-23", "rank": 137}, {"date": "1982-10-30", "rank": 126}, {"date": "1982-11-06", "rank": 107}, {"date": "1982-11-13", "rank": 94}, {"date": "1982-11-20", "rank": 85}, {"date": "1982-11-27", "rank": 85}, {"date": "1982-12-04", "rank": 77}, {"date": "1982-12-11", "rank": 77}, {"date": "1982-12-18", "rank": 82}, {"date": "1982-12-25", "rank": 108}, {"date": "1983-01-01", "rank": 108}, {"date": "1983-01-08", "rank": 108}, {"date": "1983-01-15", "rank": 108}, {"date": "1983-01-22", "rank": 113}, {"date": "1983-01-29", "rank": 124}, {"date": "1983-02-05", "rank": 124}, {"date": "1983-02-12", "rank": 122}, {"date": "1983-02-19", "rank": 134}, {"date": "1983-02-26", "rank": 182}, {"date": "1983-03-05", "rank": 184}, {"date": "1983-03-12", "rank": 184}, {"date": "1983-03-19", "rank": 189}]}
+{
+  "id": "greatest-hits-dolly-parton",
+  "title": "Greatest Hits",
+  "artist": "Dolly Parton",
+  "peak": 77,
+  "history": [
+    {
+      "date": "1982-10-16",
+      "rank": 171
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 137
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 126
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 107
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 94
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 85
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 85
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 77
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 77
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 82
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 108
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 108
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 108
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 108
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 113
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 124
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 124
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 122
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 134
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 182
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 184
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 184
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "9 to 5",
+      "id": "9-to-5-dolly-parton"
+    },
+    {
+      "title": "But You Know I Love You",
+      "id": "but-you-know-i-love-you-dolly-parton"
+    },
+    {
+      "title": "Heartbreak Express",
+      "id": "heartbreaker-dolly-parton"
+    },
+    {
+      "title": "Here You Come Again",
+      "id": "here-you-come-again-dolly-parton"
+    },
+    {
+      "title": "Islands in the Stream",
+      "id": "islands-in-the-stream-kenny-rogers-duet-with-dolly-parton"
+    },
+    {
+      "title": "Two Doors Down",
+      "id": "two-doors-down-dolly-parton"
+    },
+    {
+      "title": "I Will Always Love You",
+      "id": "i-will-always-love-you-dolly-parton"
+    },
+    {
+      "title": "Old Flames Can’t Hold a Candle to You",
+      "id": null
+    },
+    {
+      "title": "Applejack",
+      "id": null
+    },
+    {
+      "title": "Me and Little Andy",
+      "id": null
+    },
+    {
+      "title": "It’s All Wrong, but It’s All Right",
+      "id": null
+    },
+    {
+      "title": "Do I Ever Cross Your Mind",
+      "id": null
+    }
+  ]
+}

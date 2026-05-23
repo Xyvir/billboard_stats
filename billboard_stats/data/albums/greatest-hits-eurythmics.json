@@ -1,1 +1,174 @@
-{"id": "greatest-hits-eurythmics", "title": "Greatest Hits", "artist": "Eurythmics", "peak": 72, "history": [{"date": "1991-06-15", "rank": 119}, {"date": "1991-06-22", "rank": 113}, {"date": "1991-06-29", "rank": 84}, {"date": "1991-07-06", "rank": 77}, {"date": "1991-07-13", "rank": 78}, {"date": "1991-07-20", "rank": 78}, {"date": "1991-07-27", "rank": 72}, {"date": "1991-08-03", "rank": 78}, {"date": "1991-08-10", "rank": 88}, {"date": "1991-08-17", "rank": 89}, {"date": "1991-08-24", "rank": 85}, {"date": "1991-08-31", "rank": 90}, {"date": "1991-09-07", "rank": 95}, {"date": "1991-09-14", "rank": 100}, {"date": "1991-09-21", "rank": 108}, {"date": "1991-09-28", "rank": 127}, {"date": "1991-10-05", "rank": 116}, {"date": "1991-10-12", "rank": 132}, {"date": "1991-10-19", "rank": 172}, {"date": "1991-10-26", "rank": 175}, {"date": "1991-11-02", "rank": 181}, {"date": "1991-11-09", "rank": 195}, {"date": "1991-11-16", "rank": 199}]}
+{
+  "id": "greatest-hits-eurythmics",
+  "title": "Greatest Hits",
+  "artist": "Eurythmics",
+  "peak": 72,
+  "history": [
+    {
+      "date": "1991-06-15",
+      "rank": 119
+    },
+    {
+      "date": "1991-06-22",
+      "rank": 113
+    },
+    {
+      "date": "1991-06-29",
+      "rank": 84
+    },
+    {
+      "date": "1991-07-06",
+      "rank": 77
+    },
+    {
+      "date": "1991-07-13",
+      "rank": 78
+    },
+    {
+      "date": "1991-07-20",
+      "rank": 78
+    },
+    {
+      "date": "1991-07-27",
+      "rank": 72
+    },
+    {
+      "date": "1991-08-03",
+      "rank": 78
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 88
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 89
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 85
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 90
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 95
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 100
+    },
+    {
+      "date": "1991-09-21",
+      "rank": 108
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 127
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 116
+    },
+    {
+      "date": "1991-10-12",
+      "rank": 132
+    },
+    {
+      "date": "1991-10-19",
+      "rank": 172
+    },
+    {
+      "date": "1991-10-26",
+      "rank": 175
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 181
+    },
+    {
+      "date": "1991-11-09",
+      "rank": 195
+    },
+    {
+      "date": "1991-11-16",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Is a Stranger",
+      "id": "love-is-a-stranger-eurythmics"
+    },
+    {
+      "title": "Sweet Dreams (Are Made of This)",
+      "id": "sweet-dreams-are-made-of-this-eurythmics"
+    },
+    {
+      "title": "Who’s That Girl?",
+      "id": "who-s-that-girl-eurythmics"
+    },
+    {
+      "title": "Right by Your Side",
+      "id": "right-by-your-side-eurythmics"
+    },
+    {
+      "title": "Here Comes the Rain Again",
+      "id": "here-comes-the-rain-again-eurythmics"
+    },
+    {
+      "title": "There Must Be an Angel (Playing With My Heart)",
+      "id": "there-must-be-an-angel-eurythmics"
+    },
+    {
+      "title": "It’s Alright (Baby’s Coming Back)",
+      "id": "it-s-all-right-baby-s-coming-back-eurythmics"
+    },
+    {
+      "title": "You Have Placed a Chill in My Heart",
+      "id": "you-have-placed-a-chill-in-my-heart-eurythmics"
+    },
+    {
+      "title": "Sexcrime (Nineteen Eighty‐Four) (single mix)",
+      "id": "sex-crime-nineteen-eighty-four-eurythmics"
+    },
+    {
+      "title": "Thorn in My Side",
+      "id": "thorn-in-my-side-eurythmics"
+    },
+    {
+      "title": "Don’t Ask Me Why",
+      "id": "don-t-ask-me-why-eurythmics"
+    },
+    {
+      "title": "Would I Lie to You?",
+      "id": "would-i-lie-to-you-eurythmics"
+    },
+    {
+      "title": "Missionary Man",
+      "id": "missionary-man-eurythmics"
+    },
+    {
+      "title": "I Need a Man",
+      "id": "i-need-a-man-eurythmics"
+    },
+    {
+      "title": "Sisters Are Doin’ It for Themselves",
+      "id": null
+    },
+    {
+      "title": "When Tomorrow Comes",
+      "id": null
+    },
+    {
+      "title": "Miracle of Love",
+      "id": null
+    },
+    {
+      "title": "Angel",
+      "id": null
+    }
+  ]
+}

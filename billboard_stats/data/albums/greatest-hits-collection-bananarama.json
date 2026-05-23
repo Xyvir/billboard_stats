@@ -1,1 +1,106 @@
-{"id": "greatest-hits-collection-bananarama", "title": "Greatest Hits Collection", "artist": "Bananarama", "peak": 151, "history": [{"date": "1988-12-03", "rank": 168}, {"date": "1988-12-10", "rank": 151}, {"date": "1988-12-17", "rank": 151}, {"date": "1988-12-24", "rank": 174}, {"date": "1988-12-31", "rank": 174}, {"date": "1989-01-07", "rank": 169}, {"date": "1989-01-14", "rank": 193}, {"date": "1989-01-21", "rank": 191}, {"date": "1989-01-28", "rank": 193}]}
+{
+  "id": "greatest-hits-collection-bananarama",
+  "title": "Greatest Hits Collection",
+  "artist": "Bananarama",
+  "peak": 151,
+  "history": [
+    {
+      "date": "1988-12-03",
+      "rank": 168
+    },
+    {
+      "date": "1988-12-10",
+      "rank": 151
+    },
+    {
+      "date": "1988-12-17",
+      "rank": 151
+    },
+    {
+      "date": "1988-12-24",
+      "rank": 174
+    },
+    {
+      "date": "1988-12-31",
+      "rank": 174
+    },
+    {
+      "date": "1989-01-07",
+      "rank": 169
+    },
+    {
+      "date": "1989-01-14",
+      "rank": 193
+    },
+    {
+      "date": "1989-01-21",
+      "rank": 191
+    },
+    {
+      "date": "1989-01-28",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Venus",
+      "id": "venus-bananarama"
+    },
+    {
+      "title": "I Heard a Rumour",
+      "id": "i-heard-a-rumour-from-disorderlies-bananarama"
+    },
+    {
+      "title": "Love in the First Degree",
+      "id": "love-in-the-first-degree-bananarama"
+    },
+    {
+      "title": "I Can’t Help It",
+      "id": "i-can-t-help-it-bananarama"
+    },
+    {
+      "title": "Love, Truth and Honesty",
+      "id": "love-truth-honesty-bananarama"
+    },
+    {
+      "title": "Robert de Niro’s Waiting",
+      "id": "robert-de-niro-s-waiting-bananarama"
+    },
+    {
+      "title": "Cruel Summer",
+      "id": "cruel-summer-bananarama"
+    },
+    {
+      "title": "A Trick of the Night",
+      "id": "a-trick-of-the-night-bananarama"
+    },
+    {
+      "title": "I Want You Back",
+      "id": null
+    },
+    {
+      "title": "Nathan Jones (psycho 7″ edit)",
+      "id": null
+    },
+    {
+      "title": "Really Saying Something",
+      "id": null
+    },
+    {
+      "title": "Shy Boy",
+      "id": null
+    },
+    {
+      "title": "Na Na Hey Hey Kiss Him Goodbye",
+      "id": null
+    },
+    {
+      "title": "Aie A Mwana",
+      "id": null
+    },
+    {
+      "title": "Help!",
+      "id": null
+    }
+  ]
+}

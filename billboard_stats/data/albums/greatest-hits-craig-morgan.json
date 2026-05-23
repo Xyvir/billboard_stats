@@ -1,1 +1,70 @@
-{"id": "greatest-hits-craig-morgan", "title": "Greatest Hits", "artist": "Craig Morgan", "peak": 113, "history": [{"date": "2008-10-18", "rank": 124}, {"date": "2008-10-25", "rank": 113}, {"date": "2008-11-01", "rank": 162}, {"date": "2008-11-08", "rank": 169}]}
+{
+  "id": "greatest-hits-craig-morgan",
+  "title": "Greatest Hits",
+  "artist": "Craig Morgan",
+  "peak": 113,
+  "history": [
+    {
+      "date": "2008-10-18",
+      "rank": 124
+    },
+    {
+      "date": "2008-10-25",
+      "rank": 113
+    },
+    {
+      "date": "2008-11-01",
+      "rank": 162
+    },
+    {
+      "date": "2008-11-08",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Almost Home",
+      "id": "almost-home-craig-morgan"
+    },
+    {
+      "title": "Redneck Yacht Club",
+      "id": "redneck-yacht-club-craig-morgan"
+    },
+    {
+      "title": "International Harvester",
+      "id": "international-harvester-craig-morgan"
+    },
+    {
+      "title": "That’s What I Love About Sunday",
+      "id": "that-s-what-i-love-about-sunday-craig-morgan"
+    },
+    {
+      "title": "Tough",
+      "id": "tough-craig-morgan"
+    },
+    {
+      "title": "Little Bit of Life",
+      "id": "little-bit-of-life-craig-morgan"
+    },
+    {
+      "title": "I Got You",
+      "id": "i-got-you-craig-morgan"
+    },
+    {
+      "title": "I Love It",
+      "id": null
+    },
+    {
+      "title": "I'm Country",
+      "id": null
+    },
+    {
+      "title": "Every Friday Afternoon",
+      "id": null
+    },
+    {
+      "title": "I Am",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"id": "greatest-hits-gretchen-wilson", "title": "Greatest Hits", "artist": "Gretchen Wilson", "peak": 168, "history": [{"date": "2010-02-06", "rank": 168}]}
+{
+  "id": "greatest-hits-gretchen-wilson",
+  "title": "Greatest Hits",
+  "artist": "Gretchen Wilson",
+  "peak": 168,
+  "history": [
+    {
+      "date": "2010-02-06",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Redneck Woman",
+      "id": "redneck-woman-gretchen-wilson"
+    },
+    {
+      "title": "Here for the Party",
+      "id": "here-for-the-party-gretchen-wilson"
+    },
+    {
+      "title": "Homewrecker",
+      "id": "homewrecker-gretchen-wilson"
+    },
+    {
+      "title": "When I Think About Cheatin’",
+      "id": "when-i-think-about-cheatin-gretchen-wilson"
+    },
+    {
+      "title": "All Jacked Up",
+      "id": "all-jacked-up-gretchen-wilson"
+    },
+    {
+      "title": "California Girls",
+      "id": null
+    },
+    {
+      "title": "Politically Uncorrect",
+      "id": null
+    },
+    {
+      "title": "I Don’t Feel Like Loving You Today",
+      "id": null
+    },
+    {
+      "title": "One of the Boys",
+      "id": null
+    },
+    {
+      "title": "Come to Bed",
+      "id": null
+    },
+    {
+      "title": "Barracuda (live)",
+      "id": null
+    }
+  ]
+}

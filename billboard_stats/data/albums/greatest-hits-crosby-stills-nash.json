@@ -1,1 +1,122 @@
-{"id": "greatest-hits-crosby-stills-nash", "title": "Greatest Hits", "artist": "Crosby, Stills & Nash", "peak": 24, "history": [{"date": "2005-04-02", "rank": 24}, {"date": "2005-04-09", "rank": 83}, {"date": "2005-04-16", "rank": 101}, {"date": "2005-04-23", "rank": 107}, {"date": "2005-04-30", "rank": 110}, {"date": "2005-05-07", "rank": 133}, {"date": "2005-05-14", "rank": 149}, {"date": "2005-05-21", "rank": 179}, {"date": "2023-02-04", "rank": 156}]}
+{
+  "id": "greatest-hits-crosby-stills-nash",
+  "title": "Greatest Hits",
+  "artist": "Crosby, Stills & Nash",
+  "peak": 24,
+  "history": [
+    {
+      "date": "2005-04-02",
+      "rank": 24
+    },
+    {
+      "date": "2005-04-09",
+      "rank": 83
+    },
+    {
+      "date": "2005-04-16",
+      "rank": 101
+    },
+    {
+      "date": "2005-04-23",
+      "rank": 107
+    },
+    {
+      "date": "2005-04-30",
+      "rank": 110
+    },
+    {
+      "date": "2005-05-07",
+      "rank": 133
+    },
+    {
+      "date": "2005-05-14",
+      "rank": 149
+    },
+    {
+      "date": "2005-05-21",
+      "rank": 179
+    },
+    {
+      "date": "2023-02-04",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Suite: Judy Blue Eyes",
+      "id": "suite-judy-blue-eyes-crosby-stills-nash"
+    },
+    {
+      "title": "Just a Song Before I Go",
+      "id": "just-a-song-before-i-go-crosby-stills-nash"
+    },
+    {
+      "title": "Southern Cross",
+      "id": "southern-cross-crosby-stills-nash"
+    },
+    {
+      "title": "Marrakesh Express",
+      "id": "marrakesh-express-crosby-stills-nash"
+    },
+    {
+      "title": "Wasted on the Way",
+      "id": "wasted-on-the-way-crosby-stills-nash"
+    },
+    {
+      "title": "Long Time Gone",
+      "id": null
+    },
+    {
+      "title": "Helplessly Hoping",
+      "id": null
+    },
+    {
+      "title": "Shadow Captain",
+      "id": null
+    },
+    {
+      "title": "Our House",
+      "id": null
+    },
+    {
+      "title": "Guinnevere",
+      "id": null
+    },
+    {
+      "title": "See the Changes",
+      "id": null
+    },
+    {
+      "title": "Teach Your Children",
+      "id": null
+    },
+    {
+      "title": "Wooden Ships",
+      "id": null
+    },
+    {
+      "title": "Delta",
+      "id": null
+    },
+    {
+      "title": "49 Bye‐Byes",
+      "id": null
+    },
+    {
+      "title": "Carry On",
+      "id": null
+    },
+    {
+      "title": "In My Dreams",
+      "id": null
+    },
+    {
+      "title": "Cathedral",
+      "id": null
+    },
+    {
+      "title": "Daylight Again",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "greatest-hits-dave-sugar", "title": "Greatest Hits", "artist": "Dave & Sugar", "peak": 179, "history": [{"date": "1981-03-07", "rank": 189}, {"date": "1981-03-14", "rank": 179}, {"date": "1981-03-21", "rank": 179}, {"date": "1981-03-28", "rank": 186}]}
+{
+  "id": "greatest-hits-dave-sugar",
+  "title": "Greatest Hits",
+  "artist": "Dave & Sugar",
+  "peak": 179,
+  "history": [
+    {
+      "date": "1981-03-07",
+      "rank": 189
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 179
+    },
+    {
+      "date": "1981-03-21",
+      "rank": 179
+    },
+    {
+      "date": "1981-03-28",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s a Heartache",
+      "id": null
+    },
+    {
+      "title": "Queen of the Silver Dollar",
+      "id": null
+    },
+    {
+      "title": "Tear Time",
+      "id": null
+    },
+    {
+      "title": "Golden Tears",
+      "id": null
+    },
+    {
+      "title": "The Door Is Always Open",
+      "id": null
+    },
+    {
+      "title": "Don’t Throw It All Away",
+      "id": null
+    },
+    {
+      "title": "Gotta Quit Lookin’ at You Baby",
+      "id": null
+    },
+    {
+      "title": "Baby Take Your Coat Off",
+      "id": null
+    },
+    {
+      "title": "I’m Knee Deep In Loving You",
+      "id": null
+    },
+    {
+      "title": "My World Begins and Ends With You",
+      "id": null
+    },
+    {
+      "title": "Can’t Help but Wonder",
+      "id": null
+    }
+  ]
+}

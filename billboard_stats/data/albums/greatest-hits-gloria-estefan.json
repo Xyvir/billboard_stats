@@ -1,1 +1,382 @@
-{"id": "greatest-hits-gloria-estefan", "title": "Greatest Hits", "artist": "Gloria Estefan", "peak": 15, "history": [{"date": "1992-11-21", "rank": 36}, {"date": "1992-11-28", "rank": 17}, {"date": "1992-12-05", "rank": 23}, {"date": "1992-12-12", "rank": 24}, {"date": "1992-12-19", "rank": 16}, {"date": "1992-12-26", "rank": 15}, {"date": "1993-01-02", "rank": 23}, {"date": "1993-01-09", "rank": 31}, {"date": "1993-01-16", "rank": 31}, {"date": "1993-01-23", "rank": 37}, {"date": "1993-01-30", "rank": 31}, {"date": "1993-02-06", "rank": 29}, {"date": "1993-02-13", "rank": 30}, {"date": "1993-02-20", "rank": 33}, {"date": "1993-02-27", "rank": 36}, {"date": "1993-03-06", "rank": 37}, {"date": "1993-03-13", "rank": 45}, {"date": "1993-03-20", "rank": 45}, {"date": "1993-03-27", "rank": 48}, {"date": "1993-04-03", "rank": 50}, {"date": "1993-04-10", "rank": 49}, {"date": "1993-04-17", "rank": 47}, {"date": "1993-04-24", "rank": 43}, {"date": "1993-05-01", "rank": 52}, {"date": "1993-05-08", "rank": 52}, {"date": "1993-05-15", "rank": 52}, {"date": "1993-05-22", "rank": 55}, {"date": "1993-05-29", "rank": 55}, {"date": "1993-06-05", "rank": 60}, {"date": "1993-06-12", "rank": 58}, {"date": "1993-06-19", "rank": 70}, {"date": "1993-06-26", "rank": 75}, {"date": "1993-07-03", "rank": 80}, {"date": "1993-07-10", "rank": 93}, {"date": "1993-07-17", "rank": 97}, {"date": "1993-07-24", "rank": 102}, {"date": "1993-07-31", "rank": 105}, {"date": "1993-08-07", "rank": 104}, {"date": "1993-08-14", "rank": 113}, {"date": "1993-08-21", "rank": 121}, {"date": "1993-08-28", "rank": 109}, {"date": "1993-09-04", "rank": 116}, {"date": "1993-09-11", "rank": 126}, {"date": "1993-09-18", "rank": 141}, {"date": "1993-09-25", "rank": 133}, {"date": "1993-10-02", "rank": 129}, {"date": "1993-10-09", "rank": 141}, {"date": "1993-10-16", "rank": 154}, {"date": "1993-10-23", "rank": 153}, {"date": "1993-10-30", "rank": 160}, {"date": "1993-11-06", "rank": 162}, {"date": "1993-11-13", "rank": 167}, {"date": "1993-11-20", "rank": 167}, {"date": "1993-11-27", "rank": 152}, {"date": "1993-12-04", "rank": 158}, {"date": "1993-12-11", "rank": 155}, {"date": "1993-12-18", "rank": 137}, {"date": "1993-12-25", "rank": 144}, {"date": "1994-01-01", "rank": 142}, {"date": "1994-01-08", "rank": 137}, {"date": "1994-01-15", "rank": 163}, {"date": "1994-01-22", "rank": 150}, {"date": "1994-01-29", "rank": 154}, {"date": "1994-02-05", "rank": 164}, {"date": "1994-02-12", "rank": 175}, {"date": "1994-02-19", "rank": 181}, {"date": "1994-02-26", "rank": 178}, {"date": "1994-03-05", "rank": 171}, {"date": "1994-03-12", "rank": 178}, {"date": "1994-03-19", "rank": 167}, {"date": "1994-03-26", "rank": 176}, {"date": "1994-04-02", "rank": 178}, {"date": "1994-04-09", "rank": 200}, {"date": "1994-04-16", "rank": 186}, {"date": "1994-04-23", "rank": 200}, {"date": "1994-04-30", "rank": 192}, {"date": "1994-05-07", "rank": 194}]}
+{
+  "id": "greatest-hits-gloria-estefan",
+  "title": "Greatest Hits",
+  "artist": "Gloria Estefan",
+  "peak": 15,
+  "history": [
+    {
+      "date": "1992-11-21",
+      "rank": 36
+    },
+    {
+      "date": "1992-11-28",
+      "rank": 17
+    },
+    {
+      "date": "1992-12-05",
+      "rank": 23
+    },
+    {
+      "date": "1992-12-12",
+      "rank": 24
+    },
+    {
+      "date": "1992-12-19",
+      "rank": 16
+    },
+    {
+      "date": "1992-12-26",
+      "rank": 15
+    },
+    {
+      "date": "1993-01-02",
+      "rank": 23
+    },
+    {
+      "date": "1993-01-09",
+      "rank": 31
+    },
+    {
+      "date": "1993-01-16",
+      "rank": 31
+    },
+    {
+      "date": "1993-01-23",
+      "rank": 37
+    },
+    {
+      "date": "1993-01-30",
+      "rank": 31
+    },
+    {
+      "date": "1993-02-06",
+      "rank": 29
+    },
+    {
+      "date": "1993-02-13",
+      "rank": 30
+    },
+    {
+      "date": "1993-02-20",
+      "rank": 33
+    },
+    {
+      "date": "1993-02-27",
+      "rank": 36
+    },
+    {
+      "date": "1993-03-06",
+      "rank": 37
+    },
+    {
+      "date": "1993-03-13",
+      "rank": 45
+    },
+    {
+      "date": "1993-03-20",
+      "rank": 45
+    },
+    {
+      "date": "1993-03-27",
+      "rank": 48
+    },
+    {
+      "date": "1993-04-03",
+      "rank": 50
+    },
+    {
+      "date": "1993-04-10",
+      "rank": 49
+    },
+    {
+      "date": "1993-04-17",
+      "rank": 47
+    },
+    {
+      "date": "1993-04-24",
+      "rank": 43
+    },
+    {
+      "date": "1993-05-01",
+      "rank": 52
+    },
+    {
+      "date": "1993-05-08",
+      "rank": 52
+    },
+    {
+      "date": "1993-05-15",
+      "rank": 52
+    },
+    {
+      "date": "1993-05-22",
+      "rank": 55
+    },
+    {
+      "date": "1993-05-29",
+      "rank": 55
+    },
+    {
+      "date": "1993-06-05",
+      "rank": 60
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 58
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 70
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 75
+    },
+    {
+      "date": "1993-07-03",
+      "rank": 80
+    },
+    {
+      "date": "1993-07-10",
+      "rank": 93
+    },
+    {
+      "date": "1993-07-17",
+      "rank": 97
+    },
+    {
+      "date": "1993-07-24",
+      "rank": 102
+    },
+    {
+      "date": "1993-07-31",
+      "rank": 105
+    },
+    {
+      "date": "1993-08-07",
+      "rank": 104
+    },
+    {
+      "date": "1993-08-14",
+      "rank": 113
+    },
+    {
+      "date": "1993-08-21",
+      "rank": 121
+    },
+    {
+      "date": "1993-08-28",
+      "rank": 109
+    },
+    {
+      "date": "1993-09-04",
+      "rank": 116
+    },
+    {
+      "date": "1993-09-11",
+      "rank": 126
+    },
+    {
+      "date": "1993-09-18",
+      "rank": 141
+    },
+    {
+      "date": "1993-09-25",
+      "rank": 133
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 129
+    },
+    {
+      "date": "1993-10-09",
+      "rank": 141
+    },
+    {
+      "date": "1993-10-16",
+      "rank": 154
+    },
+    {
+      "date": "1993-10-23",
+      "rank": 153
+    },
+    {
+      "date": "1993-10-30",
+      "rank": 160
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 162
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 167
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 167
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 152
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 158
+    },
+    {
+      "date": "1993-12-11",
+      "rank": 155
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 137
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 144
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 142
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 137
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 163
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 150
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 154
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 164
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 175
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 181
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 178
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 171
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 178
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 167
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 176
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 178
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 200
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 186
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 200
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 192
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Can’t Stay Away From You",
+      "id": "can-t-forget-you-gloria-estefan"
+    },
+    {
+      "title": "Anything for You",
+      "id": "can-t-forget-you-gloria-estefan"
+    },
+    {
+      "title": "Here We Are",
+      "id": "here-we-are-gloria-estefan"
+    },
+    {
+      "title": "Get on Your Feet",
+      "id": "get-on-your-feet-gloria-estefan"
+    },
+    {
+      "title": "Don’t Wanna Lose You",
+      "id": "don-t-wanna-lose-you-gloria-estefan"
+    },
+    {
+      "title": "Coming Out of the Dark",
+      "id": "coming-out-of-the-dark-gloria-estefan"
+    },
+    {
+      "title": "I See Your Smile",
+      "id": "i-see-your-smile-gloria-estefan"
+    },
+    {
+      "title": "Always Tomorrow",
+      "id": "always-tomorrow-gloria-estefan"
+    },
+    {
+      "title": "Dr. Beat",
+      "id": null
+    },
+    {
+      "title": "Conga",
+      "id": null
+    },
+    {
+      "title": "Words Get in the Way",
+      "id": null
+    },
+    {
+      "title": "Bad Boy (remix)",
+      "id": null
+    },
+    {
+      "title": "1, 2, 3 (remix)",
+      "id": null
+    },
+    {
+      "title": "Rhythm Is Gonna Get You",
+      "id": null
+    },
+    {
+      "title": "Christmas Through Your Eyes",
+      "id": null
+    },
+    {
+      "title": "Go Away",
+      "id": null
+    }
+  ]
+}

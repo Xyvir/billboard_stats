@@ -1,1 +1,82 @@
-{"id": "greatest-hits-charley-pride", "title": "Greatest Hits", "artist": "Charley Pride", "peak": 185, "history": [{"date": "1981-11-21", "rank": 190}, {"date": "1981-11-28", "rank": 190}, {"date": "1981-12-05", "rank": 185}, {"date": "1981-12-12", "rank": 187}, {"date": "1981-12-19", "rank": 192}, {"date": "1981-12-26", "rank": 192}, {"date": "1982-01-02", "rank": 192}]}
+{
+  "id": "greatest-hits-charley-pride",
+  "title": "Greatest Hits",
+  "artist": "Charley Pride",
+  "peak": 185,
+  "history": [
+    {
+      "date": "1981-11-21",
+      "rank": 190
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 190
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 185
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 187
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 192
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 192
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Never Been So Loved (In All My Life)",
+      "id": null
+    },
+    {
+      "title": "Missin’ You",
+      "id": null
+    },
+    {
+      "title": "You’re My Jamaica",
+      "id": null
+    },
+    {
+      "title": "When I Stop Leaving (I’ll Be Gone)",
+      "id": null
+    },
+    {
+      "title": "Honky Tonk Blues",
+      "id": null
+    },
+    {
+      "title": "Burgers and Fries",
+      "id": null
+    },
+    {
+      "title": "Roll On Mississippi",
+      "id": null
+    },
+    {
+      "title": "Whole Lotta Things to Sing About",
+      "id": null
+    },
+    {
+      "title": "She’s Just an Old Love Turned Memory",
+      "id": null
+    },
+    {
+      "title": "Someone Loves You Honey",
+      "id": null
+    },
+    {
+      "title": "Where Do I Put Her Memory",
+      "id": null
+    }
+  ]
+}
