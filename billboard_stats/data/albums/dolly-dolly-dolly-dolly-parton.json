@@ -1,1 +1,102 @@
-{"id": "dolly-dolly-dolly-dolly-parton", "title": "Dolly, Dolly, Dolly", "artist": "Dolly Parton", "peak": 71, "history": [{"date": "1980-05-03", "rank": 99}, {"date": "1980-05-10", "rank": 89}, {"date": "1980-05-17", "rank": 76}, {"date": "1980-05-24", "rank": 74}, {"date": "1980-05-31", "rank": 71}, {"date": "1980-06-07", "rank": 74}, {"date": "1980-06-14", "rank": 74}, {"date": "1980-06-21", "rank": 121}, {"date": "1980-06-28", "rank": 117}, {"date": "1980-07-05", "rank": 115}, {"date": "1980-07-12", "rank": 112}, {"date": "1980-07-19", "rank": 111}, {"date": "1980-07-26", "rank": 155}]}
+{
+  "id": "dolly-dolly-dolly-dolly-parton",
+  "title": "Dolly, Dolly, Dolly",
+  "artist": "Dolly Parton",
+  "peak": 71,
+  "history": [
+    {
+      "date": "1980-05-03",
+      "rank": 99
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 89
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 76
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 74
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 71
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 74
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 74
+    },
+    {
+      "date": "1980-06-21",
+      "rank": 121
+    },
+    {
+      "date": "1980-06-28",
+      "rank": 117
+    },
+    {
+      "date": "1980-07-05",
+      "rank": 115
+    },
+    {
+      "date": "1980-07-12",
+      "rank": 112
+    },
+    {
+      "date": "1980-07-19",
+      "rank": 111
+    },
+    {
+      "date": "1980-07-26",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Starting Over Again",
+      "id": "starting-over-again-dolly-parton"
+    },
+    {
+      "title": "You’re the Only One I Ever Needed",
+      "id": "you-re-the-only-one-dolly-parton"
+    },
+    {
+      "title": "Same Old Fool",
+      "id": null
+    },
+    {
+      "title": "Old Flames Can’t Hold a Candle to You",
+      "id": null
+    },
+    {
+      "title": "Say Goodnight",
+      "id": null
+    },
+    {
+      "title": "Fool for Your Love",
+      "id": null
+    },
+    {
+      "title": "Even a Fool Would Let Go",
+      "id": null
+    },
+    {
+      "title": "Sweet Agony",
+      "id": null
+    },
+    {
+      "title": "I Knew You When",
+      "id": null
+    },
+    {
+      "title": "Packin’ It Up",
+      "id": null
+    }
+  ]
+}

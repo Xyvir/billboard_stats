@@ -1,1 +1,74 @@
-{"id": "doe-or-die-az", "title": "Doe Or Die", "artist": "AZ", "peak": 15, "history": [{"date": "1995-10-28", "rank": 15}, {"date": "1995-11-04", "rank": 27}, {"date": "1995-11-11", "rank": 53}, {"date": "1995-11-18", "rank": 78}, {"date": "1995-11-25", "rank": 127}, {"date": "1995-12-02", "rank": 193}]}
+{
+  "id": "doe-or-die-az",
+  "title": "Doe Or Die",
+  "artist": "AZ",
+  "peak": 15,
+  "history": [
+    {
+      "date": "1995-10-28",
+      "rank": 15
+    },
+    {
+      "date": "1995-11-04",
+      "rank": 27
+    },
+    {
+      "date": "1995-11-11",
+      "rank": 53
+    },
+    {
+      "date": "1995-11-18",
+      "rank": 78
+    },
+    {
+      "date": "1995-11-25",
+      "rank": 127
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tribute (intro)",
+      "id": null
+    },
+    {
+      "title": "Feel My Pain",
+      "id": null
+    },
+    {
+      "title": "Gimmie Yours",
+      "id": null
+    },
+    {
+      "title": "Nothing Move",
+      "id": null
+    },
+    {
+      "title": "Rather Unique",
+      "id": null
+    },
+    {
+      "title": "The Calm",
+      "id": null
+    },
+    {
+      "title": "Your World Don't Stop",
+      "id": null
+    },
+    {
+      "title": "I'm Ill",
+      "id": null
+    },
+    {
+      "title": "I Feel 4 U",
+      "id": null
+    },
+    {
+      "title": "[untitled] / Make Believe",
+      "id": null
+    }
+  ]
+}

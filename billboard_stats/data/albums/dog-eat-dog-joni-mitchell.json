@@ -1,1 +1,130 @@
-{"id": "dog-eat-dog-joni-mitchell", "title": "Dog Eat Dog", "artist": "Joni Mitchell", "peak": 63, "history": [{"date": "1985-11-23", "rank": 73}, {"date": "1985-11-30", "rank": 70}, {"date": "1985-12-07", "rank": 65}, {"date": "1985-12-14", "rank": 63}, {"date": "1985-12-21", "rank": 63}, {"date": "1985-12-28", "rank": 63}, {"date": "1986-01-04", "rank": 63}, {"date": "1986-01-11", "rank": 63}, {"date": "1986-01-18", "rank": 71}, {"date": "1986-01-25", "rank": 71}, {"date": "1986-02-01", "rank": 76}, {"date": "1986-02-08", "rank": 89}, {"date": "1986-02-15", "rank": 96}, {"date": "1986-02-22", "rank": 115}, {"date": "1986-03-01", "rank": 121}, {"date": "1986-03-08", "rank": 127}, {"date": "1986-03-15", "rank": 143}, {"date": "1986-03-22", "rank": 175}, {"date": "1986-03-29", "rank": 185}]}
+{
+  "id": "dog-eat-dog-joni-mitchell",
+  "title": "Dog Eat Dog",
+  "artist": "Joni Mitchell",
+  "peak": 63,
+  "history": [
+    {
+      "date": "1985-11-23",
+      "rank": 73
+    },
+    {
+      "date": "1985-11-30",
+      "rank": 70
+    },
+    {
+      "date": "1985-12-07",
+      "rank": 65
+    },
+    {
+      "date": "1985-12-14",
+      "rank": 63
+    },
+    {
+      "date": "1985-12-21",
+      "rank": 63
+    },
+    {
+      "date": "1985-12-28",
+      "rank": 63
+    },
+    {
+      "date": "1986-01-04",
+      "rank": 63
+    },
+    {
+      "date": "1986-01-11",
+      "rank": 63
+    },
+    {
+      "date": "1986-01-18",
+      "rank": 71
+    },
+    {
+      "date": "1986-01-25",
+      "rank": 71
+    },
+    {
+      "date": "1986-02-01",
+      "rank": 76
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 89
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 96
+    },
+    {
+      "date": "1986-02-22",
+      "rank": 115
+    },
+    {
+      "date": "1986-03-01",
+      "rank": 121
+    },
+    {
+      "date": "1986-03-08",
+      "rank": 127
+    },
+    {
+      "date": "1986-03-15",
+      "rank": 143
+    },
+    {
+      "date": "1986-03-22",
+      "rank": 175
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Good Friends",
+      "id": "good-friends-joni-mitchell"
+    },
+    {
+      "title": "Good Friends (demo)",
+      "id": "good-friends-joni-mitchell"
+    },
+    {
+      "title": "Fiction",
+      "id": null
+    },
+    {
+      "title": "The Three Great Stimulants",
+      "id": null
+    },
+    {
+      "title": "Tax Free",
+      "id": null
+    },
+    {
+      "title": "Smokin’ (Empty, Try Another)",
+      "id": null
+    },
+    {
+      "title": "Dog Eat Dog",
+      "id": null
+    },
+    {
+      "title": "Shiny Toys",
+      "id": null
+    },
+    {
+      "title": "Ethiopia",
+      "id": null
+    },
+    {
+      "title": "Impossible Dreamer",
+      "id": null
+    },
+    {
+      "title": "Lucky Girl",
+      "id": null
+    }
+  ]
+}
