@@ -1,1 +1,70 @@
-{"id": "country-boy-ricky-skaggs", "title": "Country Boy", "artist": "Ricky Skaggs", "peak": 180, "history": [{"date": "1984-11-10", "rank": 195}, {"date": "1984-11-17", "rank": 187}, {"date": "1984-11-24", "rank": 182}, {"date": "1984-12-01", "rank": 180}, {"date": "1984-12-08", "rank": 200}]}
+{
+  "id": "country-boy-ricky-skaggs",
+  "title": "Country Boy",
+  "artist": "Ricky Skaggs",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1984-11-10",
+      "rank": 195
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 187
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 182
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 180
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Country Boy",
+      "id": null
+    },
+    {
+      "title": "Something in My Heart",
+      "id": null
+    },
+    {
+      "title": "Patiently Waiting",
+      "id": null
+    },
+    {
+      "title": "Two Highways",
+      "id": null
+    },
+    {
+      "title": "Wheel Hoss",
+      "id": null
+    },
+    {
+      "title": "Rendezvous",
+      "id": null
+    },
+    {
+      "title": "Brand New Me",
+      "id": null
+    },
+    {
+      "title": "Window Up Above",
+      "id": null
+    },
+    {
+      "title": "Baby, I'm in Love With You",
+      "id": null
+    },
+    {
+      "title": "I'm Ready to Go",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"id": "cottonwood-nle-choppa", "title": "Cottonwood", "artist": "NLE Choppa", "peak": 57, "history": [{"date": "2020-01-04", "rank": 57}, {"date": "2020-01-11", "rank": 60}, {"date": "2020-01-18", "rank": 72}, {"date": "2020-01-25", "rank": 93}, {"date": "2020-02-01", "rank": 118}, {"date": "2020-02-08", "rank": 136}, {"date": "2020-02-15", "rank": 173}, {"date": "2020-02-22", "rank": 191}]}
+{
+  "id": "cottonwood-nle-choppa",
+  "title": "Cottonwood",
+  "artist": "NLE Choppa",
+  "peak": 57,
+  "history": [
+    {
+      "date": "2020-01-04",
+      "rank": 57
+    },
+    {
+      "date": "2020-01-11",
+      "rank": 60
+    },
+    {
+      "date": "2020-01-18",
+      "rank": 72
+    },
+    {
+      "date": "2020-01-25",
+      "rank": 93
+    },
+    {
+      "date": "2020-02-01",
+      "rank": 118
+    },
+    {
+      "date": "2020-02-08",
+      "rank": 136
+    },
+    {
+      "date": "2020-02-15",
+      "rank": 173
+    },
+    {
+      "date": "2020-02-22",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shotta Flow",
+      "id": "shotta-flow-nle-choppa"
+    },
+    {
+      "title": "Shotta Flow (remix)",
+      "id": "shotta-flow-6-nle-choppa"
+    },
+    {
+      "title": "Untold",
+      "id": null
+    },
+    {
+      "title": "Step",
+      "id": null
+    },
+    {
+      "title": "Side",
+      "id": null
+    },
+    {
+      "title": "Clicc Clacc",
+      "id": null
+    },
+    {
+      "title": "Matrix",
+      "id": null
+    },
+    {
+      "title": "N.W.A.",
+      "id": null
+    },
+    {
+      "title": "Chances",
+      "id": null
+    },
+    {
+      "title": "Cruze",
+      "id": null
+    }
+  ]
+}

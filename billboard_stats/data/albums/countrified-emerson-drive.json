@@ -1,1 +1,86 @@
-{"id": "countrified-emerson-drive", "title": "Countrified", "artist": "Emerson Drive", "peak": 141, "history": [{"date": "2007-05-26", "rank": 173}, {"date": "2007-06-02", "rank": 157}, {"date": "2007-06-09", "rank": 151}, {"date": "2007-06-16", "rank": 141}, {"date": "2007-06-23", "rank": 157}, {"date": "2007-06-30", "rank": 156}, {"date": "2007-07-07", "rank": 168}, {"date": "2007-07-14", "rank": 157}]}
+{
+  "id": "countrified-emerson-drive",
+  "title": "Countrified",
+  "artist": "Emerson Drive",
+  "peak": 141,
+  "history": [
+    {
+      "date": "2007-05-26",
+      "rank": 173
+    },
+    {
+      "date": "2007-06-02",
+      "rank": 157
+    },
+    {
+      "date": "2007-06-09",
+      "rank": 151
+    },
+    {
+      "date": "2007-06-16",
+      "rank": 141
+    },
+    {
+      "date": "2007-06-23",
+      "rank": 157
+    },
+    {
+      "date": "2007-06-30",
+      "rank": 156
+    },
+    {
+      "date": "2007-07-07",
+      "rank": 168
+    },
+    {
+      "date": "2007-07-14",
+      "rank": 157
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Moments",
+      "id": "moments-emerson-drive"
+    },
+    {
+      "title": "A Good Man",
+      "id": null
+    },
+    {
+      "title": "Testify",
+      "id": null
+    },
+    {
+      "title": "Sweet Natural Girl",
+      "id": null
+    },
+    {
+      "title": "You Still Own Me",
+      "id": null
+    },
+    {
+      "title": "Lucky Man",
+      "id": null
+    },
+    {
+      "title": "Everyday Woman",
+      "id": null
+    },
+    {
+      "title": "Countrified Soul",
+      "id": null
+    },
+    {
+      "title": "Painted Too Much of This Town",
+      "id": null
+    },
+    {
+      "title": "A Boy Becomes a Man",
+      "id": null
+    },
+    {
+      "title": "Devil Went Down to Georgia",
+      "id": null
+    }
+  ]
+}
