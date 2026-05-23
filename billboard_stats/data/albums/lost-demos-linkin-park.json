@@ -1,1 +1,70 @@
-{"id": "lost-demos-linkin-park", "title": "Lost Demos", "artist": "Linkin Park", "peak": 191, "history": [{"date": "2023-12-09", "rank": 191}]}
+{
+  "id": "lost-demos-linkin-park",
+  "title": "Lost Demos",
+  "artist": "Linkin Park",
+  "peak": 191,
+  "history": [
+    {
+      "date": "2023-12-09",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lost",
+      "id": "lost-linkin-park"
+    },
+    {
+      "title": "Healing Foot",
+      "id": "lying-from-you-linkin-park"
+    },
+    {
+      "title": "Cuidado (Lying From You demo)",
+      "id": "lying-from-you-linkin-park"
+    },
+    {
+      "title": "Fighting Myself",
+      "id": null
+    },
+    {
+      "title": "More the Victim",
+      "id": null
+    },
+    {
+      "title": "Massive",
+      "id": null
+    },
+    {
+      "title": "A6 (Meteora|20 demo)",
+      "id": null
+    },
+    {
+      "title": "Husky (Hit the Floor demo)",
+      "id": null
+    },
+    {
+      "title": "Interrogation (Easier to Run demo)",
+      "id": null
+    },
+    {
+      "title": "Faint (Meteora|20 demo)",
+      "id": null
+    },
+    {
+      "title": "Plaster 2 (Figure.09 demo)",
+      "id": null
+    },
+    {
+      "title": "Shifter (From the Inside demo)",
+      "id": null
+    },
+    {
+      "title": "Wesside",
+      "id": null
+    },
+    {
+      "title": "Resolution",
+      "id": null
+    }
+  ]
+}
