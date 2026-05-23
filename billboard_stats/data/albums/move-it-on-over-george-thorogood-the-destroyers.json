@@ -1,1 +1,238 @@
-{"id": "move-it-on-over-george-thorogood-the-destroyers", "title": "Move It On Over", "artist": "George Thorogood & The Destroyers", "peak": 33, "history": [{"date": "1978-12-09", "rank": 133}, {"date": "1978-12-16", "rank": 122}, {"date": "1978-12-23", "rank": 113}, {"date": "1978-12-30", "rank": 113}, {"date": "1979-01-06", "rank": 106}, {"date": "1979-01-13", "rank": 98}, {"date": "1979-01-20", "rank": 95}, {"date": "1979-01-27", "rank": 95}, {"date": "1979-02-03", "rank": 95}, {"date": "1979-02-10", "rank": 94}, {"date": "1979-02-17", "rank": 88}, {"date": "1979-02-24", "rank": 78}, {"date": "1979-03-03", "rank": 70}, {"date": "1979-03-10", "rank": 60}, {"date": "1979-03-17", "rank": 50}, {"date": "1979-03-24", "rank": 43}, {"date": "1979-03-31", "rank": 39}, {"date": "1979-04-07", "rank": 36}, {"date": "1979-04-14", "rank": 34}, {"date": "1979-04-21", "rank": 34}, {"date": "1979-04-28", "rank": 33}, {"date": "1979-05-05", "rank": 35}, {"date": "1979-05-12", "rank": 35}, {"date": "1979-05-19", "rank": 54}, {"date": "1979-05-26", "rank": 54}, {"date": "1979-06-02", "rank": 62}, {"date": "1979-06-09", "rank": 74}, {"date": "1979-06-16", "rank": 86}, {"date": "1979-06-23", "rank": 87}, {"date": "1979-06-30", "rank": 88}, {"date": "1979-07-07", "rank": 92}, {"date": "1979-07-14", "rank": 100}, {"date": "1979-07-21", "rank": 101}, {"date": "1979-07-28", "rank": 101}, {"date": "1979-08-04", "rank": 103}, {"date": "1979-08-11", "rank": 102}, {"date": "1979-08-18", "rank": 101}, {"date": "1979-08-25", "rank": 112}, {"date": "1979-09-01", "rank": 132}, {"date": "1979-09-08", "rank": 133}, {"date": "1979-09-15", "rank": 135}, {"date": "1979-09-22", "rank": 131}, {"date": "1979-09-29", "rank": 131}, {"date": "1979-10-06", "rank": 131}, {"date": "1979-10-13", "rank": 131}, {"date": "1979-10-20", "rank": 165}, {"date": "1979-10-27", "rank": 176}]}
+{
+  "id": "move-it-on-over-george-thorogood-the-destroyers",
+  "title": "Move It On Over",
+  "artist": "George Thorogood & The Destroyers",
+  "peak": 33,
+  "history": [
+    {
+      "date": "1978-12-09",
+      "rank": 133
+    },
+    {
+      "date": "1978-12-16",
+      "rank": 122
+    },
+    {
+      "date": "1978-12-23",
+      "rank": 113
+    },
+    {
+      "date": "1978-12-30",
+      "rank": 113
+    },
+    {
+      "date": "1979-01-06",
+      "rank": 106
+    },
+    {
+      "date": "1979-01-13",
+      "rank": 98
+    },
+    {
+      "date": "1979-01-20",
+      "rank": 95
+    },
+    {
+      "date": "1979-01-27",
+      "rank": 95
+    },
+    {
+      "date": "1979-02-03",
+      "rank": 95
+    },
+    {
+      "date": "1979-02-10",
+      "rank": 94
+    },
+    {
+      "date": "1979-02-17",
+      "rank": 88
+    },
+    {
+      "date": "1979-02-24",
+      "rank": 78
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 70
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 60
+    },
+    {
+      "date": "1979-03-17",
+      "rank": 50
+    },
+    {
+      "date": "1979-03-24",
+      "rank": 43
+    },
+    {
+      "date": "1979-03-31",
+      "rank": 39
+    },
+    {
+      "date": "1979-04-07",
+      "rank": 36
+    },
+    {
+      "date": "1979-04-14",
+      "rank": 34
+    },
+    {
+      "date": "1979-04-21",
+      "rank": 34
+    },
+    {
+      "date": "1979-04-28",
+      "rank": 33
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 35
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 35
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 54
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 54
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 62
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 74
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 86
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 87
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 88
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 92
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 100
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 101
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 101
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 103
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 102
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 101
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 112
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 132
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 133
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 135
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 131
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 131
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 131
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 131
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 165
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Move It On Over",
+      "id": null
+    },
+    {
+      "title": "Who Do You Love?",
+      "id": null
+    },
+    {
+      "title": "The Sky Is Crying",
+      "id": null
+    },
+    {
+      "title": "Cocaine Blues",
+      "id": null
+    },
+    {
+      "title": "It Wasn’t Me",
+      "id": null
+    },
+    {
+      "title": "That Same Thing",
+      "id": null
+    },
+    {
+      "title": "So Much Trouble",
+      "id": null
+    },
+    {
+      "title": "I’m Just Your Good Thing",
+      "id": null
+    },
+    {
+      "title": "Baby Please Set a Date",
+      "id": null
+    },
+    {
+      "title": "New Hawaiian Boogie",
+      "id": null
+    }
+  ]
+}

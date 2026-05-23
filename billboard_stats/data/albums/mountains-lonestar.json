@@ -1,1 +1,66 @@
-{"id": "mountains-lonestar", "title": "Mountains", "artist": "Lonestar", "peak": 37, "history": [{"date": "2006-11-04", "rank": 37}, {"date": "2006-11-11", "rank": 120}, {"date": "2006-11-18", "rank": 168}]}
+{
+  "id": "mountains-lonestar",
+  "title": "Mountains",
+  "artist": "Lonestar",
+  "peak": 37,
+  "history": [
+    {
+      "date": "2006-11-04",
+      "rank": 37
+    },
+    {
+      "date": "2006-11-11",
+      "rank": 120
+    },
+    {
+      "date": "2006-11-18",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mountains",
+      "id": "mountains-lonestar"
+    },
+    {
+      "title": "Nothing to Prove",
+      "id": null
+    },
+    {
+      "title": "Long Lost Smile",
+      "id": null
+    },
+    {
+      "title": "Thought It Was You",
+      "id": null
+    },
+    {
+      "title": "Hey God",
+      "id": null
+    },
+    {
+      "title": "I Wanna Do It for You",
+      "id": null
+    },
+    {
+      "title": "Cowboy Girl",
+      "id": null
+    },
+    {
+      "title": "What She Had To",
+      "id": null
+    },
+    {
+      "title": "One of Those Nights",
+      "id": null
+    },
+    {
+      "title": "Careful Where You Kiss Me",
+      "id": null
+    },
+    {
+      "title": "Always in the Band",
+      "id": null
+    }
+  ]
+}

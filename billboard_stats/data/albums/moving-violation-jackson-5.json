@@ -1,1 +1,106 @@
-{"id": "moving-violation-jackson-5", "title": "Moving Violation", "artist": "Jackson 5", "peak": 36, "history": [{"date": "1975-06-14", "rank": 124}, {"date": "1975-06-21", "rank": 114}, {"date": "1975-06-28", "rank": 94}, {"date": "1975-07-05", "rank": 78}, {"date": "1975-07-12", "rank": 68}, {"date": "1975-07-19", "rank": 57}, {"date": "1975-07-26", "rank": 46}, {"date": "1975-08-02", "rank": 38}, {"date": "1975-08-09", "rank": 38}, {"date": "1975-08-16", "rank": 36}, {"date": "1975-08-23", "rank": 53}, {"date": "1975-08-30", "rank": 58}, {"date": "1975-09-06", "rank": 97}, {"date": "1975-09-13", "rank": 129}, {"date": "1975-09-20", "rank": 176}]}
+{
+  "id": "moving-violation-jackson-5",
+  "title": "Moving Violation",
+  "artist": "Jackson 5",
+  "peak": 36,
+  "history": [
+    {
+      "date": "1975-06-14",
+      "rank": 124
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 114
+    },
+    {
+      "date": "1975-06-28",
+      "rank": 94
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 78
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 68
+    },
+    {
+      "date": "1975-07-19",
+      "rank": 57
+    },
+    {
+      "date": "1975-07-26",
+      "rank": 46
+    },
+    {
+      "date": "1975-08-02",
+      "rank": 38
+    },
+    {
+      "date": "1975-08-09",
+      "rank": 38
+    },
+    {
+      "date": "1975-08-16",
+      "rank": 36
+    },
+    {
+      "date": "1975-08-23",
+      "rank": 53
+    },
+    {
+      "date": "1975-08-30",
+      "rank": 58
+    },
+    {
+      "date": "1975-09-06",
+      "rank": 97
+    },
+    {
+      "date": "1975-09-13",
+      "rank": 129
+    },
+    {
+      "date": "1975-09-20",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Forever Came Today",
+      "id": "forever-came-today-jackson-5"
+    },
+    {
+      "title": "Moving Violation",
+      "id": null
+    },
+    {
+      "title": "(You Were Made) Especially for Me",
+      "id": null
+    },
+    {
+      "title": "Honey Love",
+      "id": null
+    },
+    {
+      "title": "Body Language (Do the Love Dance)",
+      "id": null
+    },
+    {
+      "title": "All I Do Is Think of You",
+      "id": null
+    },
+    {
+      "title": "Breezy",
+      "id": null
+    },
+    {
+      "title": "Call of the Wild",
+      "id": null
+    },
+    {
+      "title": "Time Explosion",
+      "id": null
+    }
+  ]
+}
