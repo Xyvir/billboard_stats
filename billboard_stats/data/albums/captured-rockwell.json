@@ -1,1 +1,78 @@
-{"id": "captured-rockwell", "title": "Captured", "artist": "Rockwell", "peak": 120, "history": [{"date": "1985-02-23", "rank": 157}, {"date": "1985-03-02", "rank": 131}, {"date": "1985-03-09", "rank": 125}, {"date": "1985-03-16", "rank": 120}, {"date": "1985-03-23", "rank": 120}, {"date": "1985-03-30", "rank": 129}, {"date": "1985-04-06", "rank": 156}, {"date": "1985-04-13", "rank": 171}, {"date": "1985-04-20", "rank": 197}]}
+{
+  "id": "captured-rockwell",
+  "title": "Captured",
+  "artist": "Rockwell",
+  "peak": 120,
+  "history": [
+    {
+      "date": "1985-02-23",
+      "rank": 157
+    },
+    {
+      "date": "1985-03-02",
+      "rank": 131
+    },
+    {
+      "date": "1985-03-09",
+      "rank": 125
+    },
+    {
+      "date": "1985-03-16",
+      "rank": 120
+    },
+    {
+      "date": "1985-03-23",
+      "rank": 120
+    },
+    {
+      "date": "1985-03-30",
+      "rank": 129
+    },
+    {
+      "date": "1985-04-06",
+      "rank": 156
+    },
+    {
+      "date": "1985-04-13",
+      "rank": 171
+    },
+    {
+      "date": "1985-04-20",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Peeping Tom",
+      "id": null
+    },
+    {
+      "title": "He's a Cobra",
+      "id": null
+    },
+    {
+      "title": "T.V. Psychology",
+      "id": null
+    },
+    {
+      "title": "We Live in a Jungle",
+      "id": null
+    },
+    {
+      "title": "Captured (By an Evil Mind)",
+      "id": null
+    },
+    {
+      "title": "Don't It Make You Cry",
+      "id": null
+    },
+    {
+      "title": "Tokyo",
+      "id": null
+    },
+    {
+      "title": "Costa Rica",
+      "id": null
+    }
+  ]
+}

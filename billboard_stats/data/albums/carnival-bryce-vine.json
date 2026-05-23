@@ -1,1 +1,62 @@
-{"id": "carnival-bryce-vine", "title": "Carnival", "artist": "Bryce Vine", "peak": 99, "history": [{"date": "2019-08-10", "rank": 99}, {"date": "2019-08-17", "rank": 148}, {"date": "2019-08-24", "rank": 171}]}
+{
+  "id": "carnival-bryce-vine",
+  "title": "Carnival",
+  "artist": "Bryce Vine",
+  "peak": 99,
+  "history": [
+    {
+      "date": "2019-08-10",
+      "rank": 99
+    },
+    {
+      "date": "2019-08-17",
+      "rank": 148
+    },
+    {
+      "date": "2019-08-24",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Drew Barrymore",
+      "id": "drew-barrymore-bryce-vine"
+    },
+    {
+      "title": "Classic and Perfect",
+      "id": null
+    },
+    {
+      "title": "La La Land",
+      "id": null
+    },
+    {
+      "title": "Love Is a Blessing",
+      "id": null
+    },
+    {
+      "title": "Voicemail (interlude)",
+      "id": null
+    },
+    {
+      "title": "Deep in Shallow Water",
+      "id": null
+    },
+    {
+      "title": "Love Me Hate Me",
+      "id": null
+    },
+    {
+      "title": "Factory Love",
+      "id": null
+    },
+    {
+      "title": "San Junipero",
+      "id": null
+    },
+    {
+      "title": "Havana (outro)",
+      "id": null
+    }
+  ]
+}

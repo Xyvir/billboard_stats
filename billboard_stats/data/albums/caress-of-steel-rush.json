@@ -1,1 +1,54 @@
-{"id": "caress-of-steel-rush", "title": "Caress Of Steel", "artist": "Rush", "peak": 148, "history": [{"date": "1975-10-18", "rank": 189}, {"date": "1975-10-25", "rank": 166}, {"date": "1975-11-01", "rank": 156}, {"date": "1975-11-08", "rank": 148}, {"date": "1975-11-15", "rank": 153}, {"date": "1975-11-22", "rank": 169}]}
+{
+  "id": "caress-of-steel-rush",
+  "title": "Caress Of Steel",
+  "artist": "Rush",
+  "peak": 148,
+  "history": [
+    {
+      "date": "1975-10-18",
+      "rank": 189
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 166
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 156
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 148
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 153
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bastille Day",
+      "id": null
+    },
+    {
+      "title": "I Think I’m Going Bald",
+      "id": null
+    },
+    {
+      "title": "Lakeside Park",
+      "id": null
+    },
+    {
+      "title": "The Necromancer: I. Into the Darkness / II. Under the Shadow / III. Return of the Prince",
+      "id": null
+    },
+    {
+      "title": "The Fountain of Lamneth: I. In the Valley / II. Didacts and Narpets / III. No One at the Bridge / IV. Panacea / V. Bacchus Plateau / VI. The Fountain",
+      "id": null
+    }
+  ]
+}

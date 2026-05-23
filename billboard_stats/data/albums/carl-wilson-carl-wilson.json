@@ -1,1 +1,50 @@
-{"id": "carl-wilson-carl-wilson", "title": "Carl Wilson", "artist": "Carl Wilson", "peak": 185, "history": [{"date": "1981-05-02", "rank": 187}, {"date": "1981-05-09", "rank": 185}]}
+{
+  "id": "carl-wilson-carl-wilson",
+  "title": "Carl Wilson",
+  "artist": "Carl Wilson",
+  "peak": 185,
+  "history": [
+    {
+      "date": "1981-05-02",
+      "rank": 187
+    },
+    {
+      "date": "1981-05-09",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What You Gonna Do About Me?",
+      "id": "what-you-do-to-me-carl-wilson"
+    },
+    {
+      "title": "Hold Me",
+      "id": null
+    },
+    {
+      "title": "Bright Lights",
+      "id": null
+    },
+    {
+      "title": "The Right Lane",
+      "id": null
+    },
+    {
+      "title": "Hurry Love",
+      "id": null
+    },
+    {
+      "title": "Heaven",
+      "id": null
+    },
+    {
+      "title": "The Grammy",
+      "id": null
+    },
+    {
+      "title": "Seems So Long Ago",
+      "id": null
+    }
+  ]
+}

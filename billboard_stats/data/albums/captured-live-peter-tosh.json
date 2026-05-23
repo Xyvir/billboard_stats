@@ -1,1 +1,70 @@
-{"id": "captured-live-peter-tosh", "title": "Captured Live", "artist": "Peter Tosh", "peak": 152, "history": [{"date": "1984-09-22", "rank": 190}, {"date": "1984-09-29", "rank": 168}, {"date": "1984-10-06", "rank": 160}, {"date": "1984-10-13", "rank": 157}, {"date": "1984-10-20", "rank": 152}, {"date": "1984-10-27", "rank": 152}, {"date": "1984-11-03", "rank": 169}, {"date": "1984-11-10", "rank": 173}]}
+{
+  "id": "captured-live-peter-tosh",
+  "title": "Captured Live",
+  "artist": "Peter Tosh",
+  "peak": 152,
+  "history": [
+    {
+      "date": "1984-09-22",
+      "rank": 190
+    },
+    {
+      "date": "1984-09-29",
+      "rank": 168
+    },
+    {
+      "date": "1984-10-06",
+      "rank": 160
+    },
+    {
+      "date": "1984-10-13",
+      "rank": 157
+    },
+    {
+      "date": "1984-10-20",
+      "rank": 152
+    },
+    {
+      "date": "1984-10-27",
+      "rank": 152
+    },
+    {
+      "date": "1984-11-03",
+      "rank": 169
+    },
+    {
+      "date": "1984-11-10",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Johnny B. Goode",
+      "id": "johnny-b-goode-peter-tosh"
+    },
+    {
+      "title": "Coming In Hot",
+      "id": null
+    },
+    {
+      "title": "Bush Doctor",
+      "id": null
+    },
+    {
+      "title": "African",
+      "id": null
+    },
+    {
+      "title": "Get Up Stand Up",
+      "id": null
+    },
+    {
+      "title": "Equal Rights/Downpresser Man",
+      "id": null
+    },
+    {
+      "title": "Rastafari Is",
+      "id": null
+    }
+  ]
+}
