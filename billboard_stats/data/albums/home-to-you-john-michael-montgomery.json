@@ -1,1 +1,66 @@
-{"id": "home-to-you-john-michael-montgomery", "title": "Home To You", "artist": "John Michael Montgomery", "peak": 135, "history": [{"date": "1999-06-12", "rank": 135}, {"date": "1999-06-19", "rank": 168}, {"date": "1999-10-30", "rank": 197}, {"date": "1999-11-06", "rank": 193}]}
+{
+  "id": "home-to-you-john-michael-montgomery",
+  "title": "Home To You",
+  "artist": "John Michael Montgomery",
+  "peak": 135,
+  "history": [
+    {
+      "date": "1999-06-12",
+      "rank": 135
+    },
+    {
+      "date": "1999-06-19",
+      "rank": 168
+    },
+    {
+      "date": "1999-10-30",
+      "rank": 197
+    },
+    {
+      "date": "1999-11-06",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hello L‐O‐V‐E",
+      "id": "hello-l-o-v-e-john-michael-montgomery"
+    },
+    {
+      "title": "Home to You",
+      "id": "home-to-you-john-michael-montgomery"
+    },
+    {
+      "title": "Love Made Me Do It",
+      "id": null
+    },
+    {
+      "title": "Your Love Lingers On",
+      "id": null
+    },
+    {
+      "title": "You Are",
+      "id": null
+    },
+    {
+      "title": "Sinkin’ In",
+      "id": null
+    },
+    {
+      "title": "Holdin' An Amazing Love",
+      "id": null
+    },
+    {
+      "title": "When Your Arms Were Around",
+      "id": null
+    },
+    {
+      "title": "Love Is Our Business",
+      "id": null
+    },
+    {
+      "title": "Nothing Catches Jesus by Surprise",
+      "id": null
+    }
+  ]
+}
