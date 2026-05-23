@@ -1,1 +1,50 @@
-{"id": "keys-to-ascension-yes", "title": "Keys To Ascension", "artist": "Yes", "peak": 99, "history": [{"date": "1996-11-16", "rank": 99}]}
+{
+  "id": "keys-to-ascension-yes",
+  "title": "Keys To Ascension",
+  "artist": "Yes",
+  "peak": 99,
+  "history": [
+    {
+      "date": "1996-11-16",
+      "rank": 99
+    }
+  ],
+  "tracks": [
+    {
+      "title": "America",
+      "id": "america-yes"
+    },
+    {
+      "title": "Roundabout",
+      "id": "roundabout-yes"
+    },
+    {
+      "title": "Siberian Khatru",
+      "id": null
+    },
+    {
+      "title": "The Revealing Science of God",
+      "id": null
+    },
+    {
+      "title": "Onward",
+      "id": null
+    },
+    {
+      "title": "Awaken",
+      "id": null
+    },
+    {
+      "title": "Starship Trooper: a. Lifeseeker / b. Disillusion / c. Würm",
+      "id": null
+    },
+    {
+      "title": "Be the One: a. The One / b. Humankind / c. Skates",
+      "id": null
+    },
+    {
+      "title": "That, That Is: a. Togetherness / b. Crossfire / c. The Giving Things / d. That Is / e. All in All / f. How Did Heaven Begin / g. Agree to Agree",
+      "id": null
+    }
+  ]
+}

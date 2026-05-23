@@ -1,1 +1,286 @@
-{"id": "kenny-rogers-kenny-rogers", "title": "Kenny Rogers", "artist": "Kenny Rogers", "peak": 30, "history": [{"date": "1977-05-07", "rank": 163}, {"date": "1977-05-14", "rank": 139}, {"date": "1977-05-21", "rank": 70}, {"date": "1977-05-28", "rank": 57}, {"date": "1977-06-04", "rank": 47}, {"date": "1977-06-11", "rank": 37}, {"date": "1977-06-18", "rank": 33}, {"date": "1977-06-25", "rank": 30}, {"date": "1977-07-02", "rank": 30}, {"date": "1977-07-09", "rank": 54}, {"date": "1977-07-16", "rank": 56}, {"date": "1977-07-23", "rank": 59}, {"date": "1977-07-30", "rank": 64}, {"date": "1977-08-06", "rank": 104}, {"date": "1977-08-13", "rank": 100}, {"date": "1977-08-20", "rank": 121}, {"date": "1977-08-27", "rank": 120}, {"date": "1977-09-03", "rank": 119}, {"date": "1977-09-10", "rank": 119}, {"date": "1977-09-17", "rank": 162}, {"date": "1977-09-24", "rank": 154}, {"date": "1977-10-01", "rank": 154}, {"date": "1980-05-10", "rank": 190}, {"date": "1980-05-17", "rank": 187}, {"date": "1980-05-24", "rank": 187}, {"date": "2007-06-30", "rank": 180}]}
+{
+  "id": "kenny-rogers-kenny-rogers",
+  "title": "Kenny Rogers",
+  "artist": "Kenny Rogers",
+  "peak": 30,
+  "history": [
+    {
+      "date": "1977-05-07",
+      "rank": 163
+    },
+    {
+      "date": "1977-05-14",
+      "rank": 139
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 70
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 57
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 47
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 37
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 33
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 30
+    },
+    {
+      "date": "1977-07-02",
+      "rank": 30
+    },
+    {
+      "date": "1977-07-09",
+      "rank": 54
+    },
+    {
+      "date": "1977-07-16",
+      "rank": 56
+    },
+    {
+      "date": "1977-07-23",
+      "rank": 59
+    },
+    {
+      "date": "1977-07-30",
+      "rank": 64
+    },
+    {
+      "date": "1977-08-06",
+      "rank": 104
+    },
+    {
+      "date": "1977-08-13",
+      "rank": 100
+    },
+    {
+      "date": "1977-08-20",
+      "rank": 121
+    },
+    {
+      "date": "1977-08-27",
+      "rank": 120
+    },
+    {
+      "date": "1977-09-03",
+      "rank": 119
+    },
+    {
+      "date": "1977-09-10",
+      "rank": 119
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 162
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 154
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 154
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 190
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 187
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 187
+    },
+    {
+      "date": "2007-06-30",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Woman",
+      "id": "a-love-song-kenny-rogers"
+    },
+    {
+      "title": "Ruby, Don’t Take Your Love to Town",
+      "id": null
+    },
+    {
+      "title": "Something’s Burning",
+      "id": null
+    },
+    {
+      "title": "Once Again She’s All Alone",
+      "id": null
+    },
+    {
+      "title": "But You Know That I Love You",
+      "id": null
+    },
+    {
+      "title": "For the Good Times",
+      "id": null
+    },
+    {
+      "title": "She Even Woke Me Up to Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "Heed the Call",
+      "id": null
+    },
+    {
+      "title": "Sunshine",
+      "id": null
+    },
+    {
+      "title": "After All",
+      "id": null
+    },
+    {
+      "title": "A Stranger in My Place",
+      "id": null
+    },
+    {
+      "title": "Always Leaving, Always Gone",
+      "id": null
+    },
+    {
+      "title": "Calico Silver",
+      "id": null
+    },
+    {
+      "title": "Church Without a Name",
+      "id": null
+    },
+    {
+      "title": "Elvira",
+      "id": null
+    },
+    {
+      "title": "Girl Get a Hold of Yourself",
+      "id": null
+    },
+    {
+      "title": "Homemade Lies",
+      "id": null
+    },
+    {
+      "title": "If Wishes Were Horses",
+      "id": null
+    },
+    {
+      "title": "Shine on Ruby Mountain",
+      "id": null
+    },
+    {
+      "title": "Ticket to Nowhere",
+      "id": null
+    },
+    {
+      "title": "Just Dropped In (to See What Condition My Condition Was In)",
+      "id": null
+    },
+    {
+      "title": "Reuben James",
+      "id": null
+    },
+    {
+      "title": "All God’s Lonely Children",
+      "id": null
+    },
+    {
+      "title": "Goodtime Liberator",
+      "id": null
+    },
+    {
+      "title": "Hurry Up Love",
+      "id": null
+    },
+    {
+      "title": "I Found a Reason",
+      "id": null
+    },
+    {
+      "title": "I Just Wanna Give My Love to You",
+      "id": null
+    },
+    {
+      "title": "I’m Gonna Sing You a Sad Song Susie",
+      "id": null
+    },
+    {
+      "title": "Me and Bobby McGee",
+      "id": null
+    },
+    {
+      "title": "Molly",
+      "id": null
+    },
+    {
+      "title": "My Washington Woman",
+      "id": null
+    },
+    {
+      "title": "A New Design",
+      "id": null
+    },
+    {
+      "title": "Poem for a Little Lady",
+      "id": null
+    },
+    {
+      "title": "Run Thru Your Mind",
+      "id": null
+    },
+    {
+      "title": "Shadow in the Corner of Your Mind",
+      "id": null
+    },
+    {
+      "title": "Sleep Comes Easy",
+      "id": null
+    },
+    {
+      "title": "Tell It All Brother",
+      "id": null
+    },
+    {
+      "title": "Trying Just as Hard",
+      "id": null
+    },
+    {
+      "title": "Tulsa Turnaround",
+      "id": null
+    },
+    {
+      "title": "The Way It Used to Be",
+      "id": null
+    },
+    {
+      "title": "We All Got to Help Each Other",
+      "id": null
+    },
+    {
+      "title": "What Am I Gonna Do",
+      "id": null
+    },
+    {
+      "title": "Where Does Rosie Go",
+      "id": null
+    }
+  ]
+}

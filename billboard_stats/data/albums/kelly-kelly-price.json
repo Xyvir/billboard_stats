@@ -1,1 +1,82 @@
-{"id": "kelly-kelly-price", "title": "Kelly", "artist": "Kelly Price", "peak": 36, "history": [{"date": "2011-05-21", "rank": 36}, {"date": "2011-05-28", "rank": 51}, {"date": "2011-06-04", "rank": 78}, {"date": "2011-06-11", "rank": 102}, {"date": "2011-06-18", "rank": 110}, {"date": "2011-06-25", "rank": 157}]}
+{
+  "id": "kelly-kelly-price",
+  "title": "Kelly",
+  "artist": "Kelly Price",
+  "peak": 36,
+  "history": [
+    {
+      "date": "2011-05-21",
+      "rank": 36
+    },
+    {
+      "date": "2011-05-28",
+      "rank": 51
+    },
+    {
+      "date": "2011-06-04",
+      "rank": 78
+    },
+    {
+      "date": "2011-06-11",
+      "rank": 102
+    },
+    {
+      "date": "2011-06-18",
+      "rank": 110
+    },
+    {
+      "date": "2011-06-25",
+      "rank": 157
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tired",
+      "id": null
+    },
+    {
+      "title": "And You Don't Stop",
+      "id": null
+    },
+    {
+      "title": "Not My Daddy",
+      "id": null
+    },
+    {
+      "title": "Himaholic",
+      "id": null
+    },
+    {
+      "title": "I'm Sorry",
+      "id": null
+    },
+    {
+      "title": "The Rain",
+      "id": null
+    },
+    {
+      "title": "Vexed",
+      "id": null
+    },
+    {
+      "title": "Speechless",
+      "id": null
+    },
+    {
+      "title": "Feels So Good",
+      "id": null
+    },
+    {
+      "title": "You Don't Have To Worry",
+      "id": null
+    },
+    {
+      "title": "Lil Sumn-Sumn",
+      "id": null
+    },
+    {
+      "title": "Get Right or Get Left",
+      "id": null
+    }
+  ]
+}
