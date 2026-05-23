@@ -1,1 +1,98 @@
-{"id": "greatest-hits-the-doobie-brothers", "title": "Greatest Hits", "artist": "The Doobie Brothers", "peak": 142, "history": [{"date": "2001-09-22", "rank": 142}, {"date": "2001-09-29", "rank": 181}]}
+{
+  "id": "greatest-hits-the-doobie-brothers",
+  "title": "Greatest Hits",
+  "artist": "The Doobie Brothers",
+  "peak": 142,
+  "history": [
+    {
+      "date": "2001-09-22",
+      "rank": 142
+    },
+    {
+      "date": "2001-09-29",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Listen to the Music",
+      "id": "listen-to-the-music-the-doobie-brothers"
+    },
+    {
+      "title": "Jesus Is Just Alright (single version)",
+      "id": "jesus-is-just-alright-the-doobie-brothers"
+    },
+    {
+      "title": "Long Train Runnin’",
+      "id": "long-train-runnin-the-doobie-brothers"
+    },
+    {
+      "title": "China Grove",
+      "id": "china-grove-the-doobie-brothers"
+    },
+    {
+      "title": "Black Water",
+      "id": "black-water-the-doobie-brothers"
+    },
+    {
+      "title": "Take Me in Your Arms (Rock Me a Little While)",
+      "id": "take-me-in-your-arms-rock-me-the-doobie-brothers"
+    },
+    {
+      "title": "It Keeps You Runnin’ (single version)",
+      "id": "it-keeps-you-runnin-the-doobie-brothers"
+    },
+    {
+      "title": "Takin’ It to the Streets",
+      "id": "takin-it-to-the-streets-the-doobie-brothers"
+    },
+    {
+      "title": "You Belong to Me",
+      "id": "you-belong-to-me-the-doobie-brothers"
+    },
+    {
+      "title": "Echoes of Love",
+      "id": "echoes-of-love-the-doobie-brothers"
+    },
+    {
+      "title": "What a Fool Believes",
+      "id": "what-a-fool-believes-the-doobie-brothers"
+    },
+    {
+      "title": "Minute by Minute",
+      "id": "minute-by-minute-the-doobie-brothers"
+    },
+    {
+      "title": "Dependin’ on You (single version)",
+      "id": "dependin-on-you-the-doobie-brothers"
+    },
+    {
+      "title": "One Step Closer",
+      "id": "one-step-closer-the-doobie-brothers"
+    },
+    {
+      "title": "Real Love",
+      "id": "real-love-the-doobie-brothers"
+    },
+    {
+      "title": "The Doctor",
+      "id": "the-doctor-the-doobie-brothers"
+    },
+    {
+      "title": "Rockin’ Down the Highway",
+      "id": null
+    },
+    {
+      "title": "Without You",
+      "id": null
+    },
+    {
+      "title": "Nobody (single version)",
+      "id": null
+    },
+    {
+      "title": "Dangerous",
+      "id": null
+    }
+  ]
+}

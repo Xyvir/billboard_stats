@@ -1,1 +1,102 @@
-{"id": "greatest-hits-the-cure", "title": "Greatest Hits", "artist": "The Cure", "peak": 58, "history": [{"date": "2001-12-01", "rank": 58}, {"date": "2001-12-08", "rank": 163}, {"date": "2001-12-15", "rank": 189}, {"date": "2026-05-02", "rank": 93}]}
+{
+  "id": "greatest-hits-the-cure",
+  "title": "Greatest Hits",
+  "artist": "The Cure",
+  "peak": 58,
+  "history": [
+    {
+      "date": "2001-12-01",
+      "rank": 58
+    },
+    {
+      "date": "2001-12-08",
+      "rank": 163
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 189
+    },
+    {
+      "date": "2026-05-02",
+      "rank": 93
+    }
+  ],
+  "tracks": [
+    {
+      "title": "In Between Days",
+      "id": "in-between-days-the-cure"
+    },
+    {
+      "title": "Close to Me",
+      "id": "close-to-me-the-cure"
+    },
+    {
+      "title": "Why Can’t I Be You?",
+      "id": "why-can-t-i-be-you-the-cure"
+    },
+    {
+      "title": "Just Like Heaven",
+      "id": "just-like-heaven-the-cure"
+    },
+    {
+      "title": "Lullaby",
+      "id": "lullaby-the-cure"
+    },
+    {
+      "title": "Lovesong",
+      "id": "love-song-the-cure"
+    },
+    {
+      "title": "Never Enough",
+      "id": "never-enough-the-cure"
+    },
+    {
+      "title": "High",
+      "id": "high-the-cure"
+    },
+    {
+      "title": "Friday I’m in Love",
+      "id": "friday-i-m-in-love-the-cure"
+    },
+    {
+      "title": "Mint Car",
+      "id": "mint-car-the-cure"
+    },
+    {
+      "title": "Inbetween Days",
+      "id": "in-between-days-the-cure"
+    },
+    {
+      "title": "Boys Don’t Cry",
+      "id": null
+    },
+    {
+      "title": "A Forest",
+      "id": null
+    },
+    {
+      "title": "Let’s Go to Bed",
+      "id": null
+    },
+    {
+      "title": "The Walk",
+      "id": null
+    },
+    {
+      "title": "The Lovecats",
+      "id": null
+    },
+    {
+      "title": "Wrong Number",
+      "id": null
+    },
+    {
+      "title": "Cut Here",
+      "id": null
+    },
+    {
+      "title": "Just Say Yes",
+      "id": null
+    }
+  ]
+}

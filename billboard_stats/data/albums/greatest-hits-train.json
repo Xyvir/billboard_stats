@@ -1,1 +1,118 @@
-{"id": "greatest-hits-train", "title": "Greatest Hits", "artist": "Train", "peak": 105, "history": [{"date": "2018-11-24", "rank": 105}, {"date": "2019-07-06", "rank": 192}, {"date": "2019-07-20", "rank": 192}, {"date": "2019-07-27", "rank": 190}, {"date": "2019-08-03", "rank": 179}, {"date": "2019-08-10", "rank": 182}, {"date": "2019-08-17", "rank": 181}, {"date": "2019-08-24", "rank": 182}, {"date": "2019-08-31", "rank": 190}, {"date": "2024-06-08", "rank": 195}]}
+{
+  "id": "greatest-hits-train",
+  "title": "Greatest Hits",
+  "artist": "Train",
+  "peak": 105,
+  "history": [
+    {
+      "date": "2018-11-24",
+      "rank": 105
+    },
+    {
+      "date": "2019-07-06",
+      "rank": 192
+    },
+    {
+      "date": "2019-07-20",
+      "rank": 192
+    },
+    {
+      "date": "2019-07-27",
+      "rank": 190
+    },
+    {
+      "date": "2019-08-03",
+      "rank": 179
+    },
+    {
+      "date": "2019-08-10",
+      "rank": 182
+    },
+    {
+      "date": "2019-08-17",
+      "rank": 181
+    },
+    {
+      "date": "2019-08-24",
+      "rank": 182
+    },
+    {
+      "date": "2019-08-31",
+      "rank": 190
+    },
+    {
+      "date": "2024-06-08",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Meet Virginia",
+      "id": "meet-virginia-train"
+    },
+    {
+      "title": "Drops of Jupiter",
+      "id": "drops-of-jupiter-tell-me-train"
+    },
+    {
+      "title": "Calling All Angels",
+      "id": "calling-all-angels-train"
+    },
+    {
+      "title": "When I Look to the Sky",
+      "id": "when-i-look-to-the-sky-train"
+    },
+    {
+      "title": "Hey, Soul Sister",
+      "id": "hey-soul-sister-train"
+    },
+    {
+      "title": "If It’s Love",
+      "id": "if-it-s-love-train"
+    },
+    {
+      "title": "Marry Me",
+      "id": "marry-me-train"
+    },
+    {
+      "title": "Save Me, San Francisco",
+      "id": "save-me-san-francisco-train"
+    },
+    {
+      "title": "Drive By",
+      "id": "drive-by-train"
+    },
+    {
+      "title": "50 Ways to Say Goodbye",
+      "id": "50-ways-to-say-goodbye-train"
+    },
+    {
+      "title": "Angel in Blue Jeans",
+      "id": "angel-in-blue-jeans-train"
+    },
+    {
+      "title": "Play That Song",
+      "id": "play-that-song-train"
+    },
+    {
+      "title": "Get to Me",
+      "id": null
+    },
+    {
+      "title": "Cab",
+      "id": null
+    },
+    {
+      "title": "Bruises",
+      "id": null
+    },
+    {
+      "title": "Call Me Sir",
+      "id": null
+    },
+    {
+      "title": "Careless Whisper",
+      "id": null
+    }
+  ]
+}

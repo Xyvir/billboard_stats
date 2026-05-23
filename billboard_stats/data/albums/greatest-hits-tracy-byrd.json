@@ -1,1 +1,66 @@
-{"id": "greatest-hits-tracy-byrd", "title": "Greatest Hits", "artist": "Tracy Byrd", "peak": 61, "history": [{"date": "2005-02-26", "rank": 61}, {"date": "2005-03-05", "rank": 142}]}
+{
+  "id": "greatest-hits-tracy-byrd",
+  "title": "Greatest Hits",
+  "artist": "Tracy Byrd",
+  "peak": 61,
+  "history": [
+    {
+      "date": "2005-02-26",
+      "rank": 61
+    },
+    {
+      "date": "2005-03-05",
+      "rank": 142
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Truth About Men",
+      "id": "the-truth-about-men-tracy-byrd"
+    },
+    {
+      "title": "Just Let Me Be in Love",
+      "id": "just-let-me-be-in-love-tracy-byrd"
+    },
+    {
+      "title": "Drinkin’ Bone",
+      "id": "drinkin-bone-tracy-byrd"
+    },
+    {
+      "title": "Watermelon Crawl",
+      "id": "watermelon-crawl-tracy-byrd"
+    },
+    {
+      "title": "Keeper of the Stars",
+      "id": "the-keeper-of-the-stars-tracy-byrd"
+    },
+    {
+      "title": "Ten Rounds With Jose Cuervo",
+      "id": "ten-rounds-with-jose-cuervo-tracy-byrd"
+    },
+    {
+      "title": "Put Your Hand in Mine",
+      "id": "put-your-hand-in-mine-tracy-byrd"
+    },
+    {
+      "title": "I’m From the Country",
+      "id": "i-m-from-the-country-tracy-byrd"
+    },
+    {
+      "title": "A Good Way to Get on My Bad Side",
+      "id": null
+    },
+    {
+      "title": "Tiny Town",
+      "id": null
+    },
+    {
+      "title": "Johnny Cash",
+      "id": null
+    },
+    {
+      "title": "Revenge of a Middle-Aged Woman",
+      "id": null
+    }
+  ]
+}

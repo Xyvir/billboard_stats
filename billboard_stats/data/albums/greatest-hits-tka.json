@@ -1,1 +1,102 @@
-{"id": "greatest-hits-tka", "title": "Greatest Hits", "artist": "TKA", "peak": 131, "history": [{"date": "1992-04-25", "rank": 155}, {"date": "1992-05-02", "rank": 137}, {"date": "1992-05-09", "rank": 137}, {"date": "1992-05-16", "rank": 131}, {"date": "1992-05-23", "rank": 140}, {"date": "1992-05-30", "rank": 175}, {"date": "1992-06-06", "rank": 180}, {"date": "1992-06-13", "rank": 160}, {"date": "1992-07-11", "rank": 189}]}
+{
+  "id": "greatest-hits-tka",
+  "title": "Greatest Hits",
+  "artist": "TKA",
+  "peak": 131,
+  "history": [
+    {
+      "date": "1992-04-25",
+      "rank": 155
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 137
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 137
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 131
+    },
+    {
+      "date": "1992-05-23",
+      "rank": 140
+    },
+    {
+      "date": "1992-05-30",
+      "rank": 175
+    },
+    {
+      "date": "1992-06-06",
+      "rank": 180
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 160
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One Way Love",
+      "id": "one-way-love-tka"
+    },
+    {
+      "title": "Come Get My Love",
+      "id": "one-way-love-tka"
+    },
+    {
+      "title": "You Are the One",
+      "id": "you-are-the-one-tka"
+    },
+    {
+      "title": "I Won't Give Up on You",
+      "id": "i-won-t-give-up-on-you-tka"
+    },
+    {
+      "title": "Louder Than Love",
+      "id": "louder-than-love-tka"
+    },
+    {
+      "title": "Maria",
+      "id": "maria-tka"
+    },
+    {
+      "title": "Scars of Love",
+      "id": null
+    },
+    {
+      "title": "Tears May Fall (1992 remix)",
+      "id": null
+    },
+    {
+      "title": "X-ray Vision",
+      "id": null
+    },
+    {
+      "title": "Don't Be Afraid",
+      "id": null
+    },
+    {
+      "title": "Crash (Have Some Fun)",
+      "id": null
+    },
+    {
+      "title": "Give Your Love to Me",
+      "id": null
+    },
+    {
+      "title": "I Can't Help It",
+      "id": null
+    },
+    {
+      "title": "Is It Love",
+      "id": null
+    }
+  ]
+}

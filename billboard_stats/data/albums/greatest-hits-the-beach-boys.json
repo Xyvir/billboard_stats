@@ -1,1 +1,78 @@
-{"id": "greatest-hits-the-beach-boys", "title": "Greatest Hits", "artist": "The Beach Boys", "peak": 198, "history": [{"date": "1996-04-20", "rank": 198}]}
+{
+  "id": "greatest-hits-the-beach-boys",
+  "title": "Greatest Hits",
+  "artist": "The Beach Boys",
+  "peak": 198,
+  "history": [
+    {
+      "date": "1996-04-20",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sloop John B",
+      "id": "sloop-john-b-the-beach-boys"
+    },
+    {
+      "title": "California Girls",
+      "id": "california-girls-the-beach-boys"
+    },
+    {
+      "title": "Barbara Ann",
+      "id": "barbara-ann-the-beach-boys"
+    },
+    {
+      "title": "I Get Around",
+      "id": "i-get-around-the-beach-boys"
+    },
+    {
+      "title": "Wild Honey",
+      "id": "wild-honey-the-beach-boys"
+    },
+    {
+      "title": "I Can Hear Music",
+      "id": "i-can-hear-music-the-beach-boys"
+    },
+    {
+      "title": "Darlin’",
+      "id": "darlin-the-beach-boys"
+    },
+    {
+      "title": "God Only Knows",
+      "id": "god-only-knows-the-beach-boys"
+    },
+    {
+      "title": "Do It Again",
+      "id": "do-it-again-the-beach-boys"
+    },
+    {
+      "title": "Bluebirds Over the Mountain",
+      "id": "bluebirds-over-the-mountain-the-beach-boys"
+    },
+    {
+      "title": "Help Me, Rhonda",
+      "id": "help-me-rhonda-the-beach-boys"
+    },
+    {
+      "title": "Break Away",
+      "id": "break-away-the-beach-boys"
+    },
+    {
+      "title": "Heroes and Villains",
+      "id": "heroes-and-villains-the-beach-boys"
+    },
+    {
+      "title": "Good Vibrations",
+      "id": "good-vibrations-the-beach-boys"
+    },
+    {
+      "title": "Cottonfields (The Cotton Song)",
+      "id": null
+    },
+    {
+      "title": "Then I Kissed Her",
+      "id": null
+    }
+  ]
+}

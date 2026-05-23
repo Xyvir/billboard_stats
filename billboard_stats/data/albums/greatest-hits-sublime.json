@@ -1,1 +1,86 @@
-{"id": "greatest-hits-sublime", "title": "Greatest Hits", "artist": "Sublime", "peak": 114, "history": [{"date": "1999-11-27", "rank": 114}, {"date": "1999-12-04", "rank": 133}, {"date": "1999-12-11", "rank": 183}, {"date": "1999-12-18", "rank": 192}, {"date": "2000-01-08", "rank": 188}, {"date": "2000-01-15", "rank": 145}, {"date": "2000-01-22", "rank": 160}, {"date": "2000-01-29", "rank": 180}, {"date": "2000-02-05", "rank": 177}]}
+{
+  "id": "greatest-hits-sublime",
+  "title": "Greatest Hits",
+  "artist": "Sublime",
+  "peak": 114,
+  "history": [
+    {
+      "date": "1999-11-27",
+      "rank": 114
+    },
+    {
+      "date": "1999-12-04",
+      "rank": 133
+    },
+    {
+      "date": "1999-12-11",
+      "rank": 183
+    },
+    {
+      "date": "1999-12-18",
+      "rank": 192
+    },
+    {
+      "date": "2000-01-08",
+      "rank": 188
+    },
+    {
+      "date": "2000-01-15",
+      "rank": 145
+    },
+    {
+      "date": "2000-01-22",
+      "rank": 160
+    },
+    {
+      "date": "2000-01-29",
+      "rank": 180
+    },
+    {
+      "date": "2000-02-05",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Doin’ Time",
+      "id": "doin-time-sublime"
+    },
+    {
+      "title": "What I Got",
+      "id": null
+    },
+    {
+      "title": "Wrong Way",
+      "id": null
+    },
+    {
+      "title": "Santeria",
+      "id": null
+    },
+    {
+      "title": "40 oz. to Freedom",
+      "id": null
+    },
+    {
+      "title": "Smoke Two Joints",
+      "id": null
+    },
+    {
+      "title": "Date Rape",
+      "id": null
+    },
+    {
+      "title": "Saw Red",
+      "id": null
+    },
+    {
+      "title": "Badfish",
+      "id": null
+    },
+    {
+      "title": "Poolshark",
+      "id": null
+    }
+  ]
+}

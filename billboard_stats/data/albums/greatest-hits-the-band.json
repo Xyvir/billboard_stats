@@ -1,1 +1,90 @@
-{"id": "greatest-hits-the-band", "title": "Greatest Hits", "artist": "The Band", "peak": 83, "history": [{"date": "2012-05-05", "rank": 83}, {"date": "2012-05-12", "rank": 197}]}
+{
+  "id": "greatest-hits-the-band",
+  "title": "Greatest Hits",
+  "artist": "The Band",
+  "peak": 83,
+  "history": [
+    {
+      "date": "2012-05-05",
+      "rank": 83
+    },
+    {
+      "date": "2012-05-12",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Weight",
+      "id": "the-weight-the-band"
+    },
+    {
+      "title": "Up on Cripple Creek",
+      "id": "up-on-cripple-creek-the-band"
+    },
+    {
+      "title": "Rag Mama Rag",
+      "id": "rag-mama-rag-the-band"
+    },
+    {
+      "title": "Stage Fright",
+      "id": "the-weight-the-band"
+    },
+    {
+      "title": "Time to Kill",
+      "id": "time-to-kill-the-band"
+    },
+    {
+      "title": "Life Is a Carnival",
+      "id": "life-is-a-carnival-the-band"
+    },
+    {
+      "title": "Ain’t Got No Home",
+      "id": "ain-t-got-no-home-the-band"
+    },
+    {
+      "title": "Ophelia",
+      "id": "ophelia-the-band"
+    },
+    {
+      "title": "Tears of Rage",
+      "id": null
+    },
+    {
+      "title": "Chest Fever",
+      "id": null
+    },
+    {
+      "title": "I Shall Be Released",
+      "id": null
+    },
+    {
+      "title": "The Night They Drove Old Dixie Down",
+      "id": null
+    },
+    {
+      "title": "King Harvest (Has Surely Come)",
+      "id": null
+    },
+    {
+      "title": "The Shape I’m In",
+      "id": null
+    },
+    {
+      "title": "When I Paint My Masterpiece",
+      "id": null
+    },
+    {
+      "title": "It Makes No Difference",
+      "id": null
+    },
+    {
+      "title": "Acadian Driftwood",
+      "id": null
+    },
+    {
+      "title": "The Saga of Pepote Rouge",
+      "id": null
+    }
+  ]
+}

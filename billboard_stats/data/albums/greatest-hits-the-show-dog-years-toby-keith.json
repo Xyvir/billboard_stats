@@ -1,1 +1,82 @@
-{"id": "greatest-hits-the-show-dog-years-toby-keith", "title": "Greatest Hits: The Show Dog Years", "artist": "Toby Keith", "peak": 43, "history": [{"date": "2024-02-17", "rank": 43}, {"date": "2024-02-24", "rank": 80}]}
+{
+  "id": "greatest-hits-the-show-dog-years-toby-keith",
+  "title": "Greatest Hits: The Show Dog Years",
+  "artist": "Toby Keith",
+  "peak": 43,
+  "history": [
+    {
+      "date": "2024-02-17",
+      "rank": 43
+    },
+    {
+      "date": "2024-02-24",
+      "rank": 80
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Made in America",
+      "id": "made-in-america-toby-keith"
+    },
+    {
+      "title": "Beers Ago",
+      "id": "beers-ago-toby-keith"
+    },
+    {
+      "title": "Red Solo Cup",
+      "id": "red-solo-cup-toby-keith"
+    },
+    {
+      "title": "American Ride",
+      "id": "american-ride-toby-keith"
+    },
+    {
+      "title": "God Love Her",
+      "id": "god-love-her-toby-keith"
+    },
+    {
+      "title": "Trailerhood",
+      "id": "trailerhood-toby-keith"
+    },
+    {
+      "title": "Cryin’ for Me (Wayman’s Song)",
+      "id": "cryin-for-me-wayman-s-song-toby-keith"
+    },
+    {
+      "title": "She Never Cried in Front of Me",
+      "id": "she-never-cried-in-front-of-me-toby-keith"
+    },
+    {
+      "title": "High Maintenance Woman",
+      "id": "high-maintenance-woman-toby-keith"
+    },
+    {
+      "title": "Love Me If You Can",
+      "id": "love-me-if-you-can-toby-keith"
+    },
+    {
+      "title": "Lost You Anyway",
+      "id": "lost-you-anyway-toby-keith"
+    },
+    {
+      "title": "American Ride (Official Remix)",
+      "id": "american-ride-toby-keith"
+    },
+    {
+      "title": "That's Country Bro",
+      "id": null
+    },
+    {
+      "title": "Don’t Let the Old Man In",
+      "id": null
+    },
+    {
+      "title": "Hope on the Rocks",
+      "id": null
+    },
+    {
+      "title": "Back in the 405",
+      "id": null
+    }
+  ]
+}

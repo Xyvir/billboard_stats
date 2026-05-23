@@ -1,1 +1,130 @@
-{"id": "greatest-hits-vol-ii-barry-manilow", "title": "Greatest Hits-vol Ii", "artist": "Barry Manilow", "peak": 30, "history": [{"date": "1983-12-03", "rank": 59}, {"date": "1983-12-10", "rank": 49}, {"date": "1983-12-17", "rank": 39}, {"date": "1983-12-24", "rank": 34}, {"date": "1983-12-31", "rank": 34}, {"date": "1984-01-07", "rank": 31}, {"date": "1984-01-14", "rank": 30}, {"date": "1984-01-21", "rank": 30}, {"date": "1984-01-28", "rank": 39}, {"date": "1984-02-04", "rank": 45}, {"date": "1984-02-11", "rank": 49}, {"date": "1984-02-18", "rank": 53}, {"date": "1984-02-25", "rank": 59}, {"date": "1984-03-03", "rank": 70}, {"date": "1984-03-10", "rank": 69}, {"date": "1984-03-17", "rank": 91}, {"date": "1984-03-24", "rank": 121}, {"date": "1984-03-31", "rank": 142}, {"date": "1984-04-07", "rank": 182}]}
+{
+  "id": "greatest-hits-vol-ii-barry-manilow",
+  "title": "Greatest Hits-vol Ii",
+  "artist": "Barry Manilow",
+  "peak": 30,
+  "history": [
+    {
+      "date": "1983-12-03",
+      "rank": 59
+    },
+    {
+      "date": "1983-12-10",
+      "rank": 49
+    },
+    {
+      "date": "1983-12-17",
+      "rank": 39
+    },
+    {
+      "date": "1983-12-24",
+      "rank": 34
+    },
+    {
+      "date": "1983-12-31",
+      "rank": 34
+    },
+    {
+      "date": "1984-01-07",
+      "rank": 31
+    },
+    {
+      "date": "1984-01-14",
+      "rank": 30
+    },
+    {
+      "date": "1984-01-21",
+      "rank": 30
+    },
+    {
+      "date": "1984-01-28",
+      "rank": 39
+    },
+    {
+      "date": "1984-02-04",
+      "rank": 45
+    },
+    {
+      "date": "1984-02-11",
+      "rank": 49
+    },
+    {
+      "date": "1984-02-18",
+      "rank": 53
+    },
+    {
+      "date": "1984-02-25",
+      "rank": 59
+    },
+    {
+      "date": "1984-03-03",
+      "rank": 70
+    },
+    {
+      "date": "1984-03-10",
+      "rank": 69
+    },
+    {
+      "date": "1984-03-17",
+      "rank": 91
+    },
+    {
+      "date": "1984-03-24",
+      "rank": 121
+    },
+    {
+      "date": "1984-03-31",
+      "rank": 142
+    },
+    {
+      "date": "1984-04-07",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ships",
+      "id": "ships-barry-manilow"
+    },
+    {
+      "title": "Some Kind of Friend",
+      "id": "some-kind-of-friend-barry-manilow"
+    },
+    {
+      "title": "I Made It Through the Rain",
+      "id": "i-made-it-through-the-rain-barry-manilow"
+    },
+    {
+      "title": "Read ’em and Weep",
+      "id": "read-em-and-weep-barry-manilow"
+    },
+    {
+      "title": "Somewhere Down the Road",
+      "id": "somewhere-down-the-road-barry-manilow"
+    },
+    {
+      "title": "The Old Songs",
+      "id": "the-old-songs-barry-manilow"
+    },
+    {
+      "title": "Let’s Hang On",
+      "id": "let-s-hang-on-barry-manilow"
+    },
+    {
+      "title": "Memory",
+      "id": "memory-barry-manilow"
+    },
+    {
+      "title": "Put a Quarter in the Jukebox",
+      "id": null
+    },
+    {
+      "title": "One Voice",
+      "id": null
+    },
+    {
+      "title": "You’re Lookin’ Hot Tonight",
+      "id": null
+    }
+  ]
+}

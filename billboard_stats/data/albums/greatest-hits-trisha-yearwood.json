@@ -1,1 +1,98 @@
-{"id": "greatest-hits-trisha-yearwood", "title": "Greatest Hits", "artist": "Trisha Yearwood", "peak": 22, "history": [{"date": "2007-09-29", "rank": 22}, {"date": "2007-10-06", "rank": 64}, {"date": "2007-10-13", "rank": 107}, {"date": "2007-10-20", "rank": 157}, {"date": "2007-10-27", "rank": 195}]}
+{
+  "id": "greatest-hits-trisha-yearwood",
+  "title": "Greatest Hits",
+  "artist": "Trisha Yearwood",
+  "peak": 22,
+  "history": [
+    {
+      "date": "2007-09-29",
+      "rank": 22
+    },
+    {
+      "date": "2007-10-06",
+      "rank": 64
+    },
+    {
+      "date": "2007-10-13",
+      "rank": 107
+    },
+    {
+      "date": "2007-10-20",
+      "rank": 157
+    },
+    {
+      "date": "2007-10-27",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Song Remembers When",
+      "id": "the-song-remembers-when-trisha-yearwood"
+    },
+    {
+      "title": "How Do I Live",
+      "id": "how-do-i-live-from-con-air-trisha-yearwood"
+    },
+    {
+      "title": "There Goes My Baby",
+      "id": "there-goes-my-baby-trisha-yearwood"
+    },
+    {
+      "title": "Powerful Thing",
+      "id": "powerful-thing-trisha-yearwood"
+    },
+    {
+      "title": "I Would’ve Loved You Anyway",
+      "id": "i-would-ve-loved-you-anyway-trisha-yearwood"
+    },
+    {
+      "title": "She’s in Love With the Boy",
+      "id": null
+    },
+    {
+      "title": "Like We Never Had a Broken Heart",
+      "id": null
+    },
+    {
+      "title": "The Woman Before Me",
+      "id": null
+    },
+    {
+      "title": "Wrong Side of Memphis",
+      "id": null
+    },
+    {
+      "title": "Walkaway Joe",
+      "id": null
+    },
+    {
+      "title": "XXX’s and OOO’s (an American Girl)",
+      "id": null
+    },
+    {
+      "title": "Thinkin’ About You",
+      "id": null
+    },
+    {
+      "title": "Believe Me Baby (I Lied)",
+      "id": null
+    },
+    {
+      "title": "Everybody Knows",
+      "id": null
+    },
+    {
+      "title": "Perfect Love",
+      "id": null
+    },
+    {
+      "title": "Just a Cup of Coffee",
+      "id": null
+    },
+    {
+      "title": "Nothin’ to Lose",
+      "id": null
+    }
+  ]
+}

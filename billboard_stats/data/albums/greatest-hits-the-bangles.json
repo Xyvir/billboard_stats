@@ -1,1 +1,102 @@
-{"id": "greatest-hits-the-bangles", "title": "Greatest Hits", "artist": "The Bangles", "peak": 97, "history": [{"date": "1990-05-26", "rank": 149}, {"date": "1990-06-02", "rank": 98}, {"date": "1990-06-09", "rank": 101}, {"date": "1990-06-16", "rank": 97}, {"date": "1990-06-23", "rank": 108}, {"date": "1990-06-30", "rank": 120}, {"date": "1990-07-07", "rank": 129}, {"date": "1990-07-14", "rank": 167}, {"date": "1990-07-21", "rank": 190}]}
+{
+  "id": "greatest-hits-the-bangles",
+  "title": "Greatest Hits",
+  "artist": "The Bangles",
+  "peak": 97,
+  "history": [
+    {
+      "date": "1990-05-26",
+      "rank": 149
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 98
+    },
+    {
+      "date": "1990-06-09",
+      "rank": 101
+    },
+    {
+      "date": "1990-06-16",
+      "rank": 97
+    },
+    {
+      "date": "1990-06-23",
+      "rank": 108
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 120
+    },
+    {
+      "date": "1990-07-07",
+      "rank": 129
+    },
+    {
+      "date": "1990-07-14",
+      "rank": 167
+    },
+    {
+      "date": "1990-07-21",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Manic Monday",
+      "id": "manic-monday-the-bangles"
+    },
+    {
+      "title": "If She Knew What She Wants",
+      "id": "if-she-knew-what-she-wants-the-bangles"
+    },
+    {
+      "title": "Walk Like an Egyptian",
+      "id": "walk-like-an-egyptian-the-bangles"
+    },
+    {
+      "title": "Walking Down Your Street",
+      "id": "walking-down-your-street-the-bangles"
+    },
+    {
+      "title": "Hazy Shade of Winter",
+      "id": "hazy-shade-of-winter-the-bangles"
+    },
+    {
+      "title": "In Your Room",
+      "id": "in-your-room-the-bangles"
+    },
+    {
+      "title": "Eternal Flame",
+      "id": "eternal-flame-the-bangles"
+    },
+    {
+      "title": "Be With You",
+      "id": "be-with-you-the-bangles"
+    },
+    {
+      "title": "Hero Takes a Fall",
+      "id": null
+    },
+    {
+      "title": "Going Down to Liverpool",
+      "id": null
+    },
+    {
+      "title": "Following",
+      "id": null
+    },
+    {
+      "title": "I’ll Set You Free",
+      "id": null
+    },
+    {
+      "title": "Everything I Wanted",
+      "id": null
+    },
+    {
+      "title": "Where Were You When I Needed You",
+      "id": null
+    }
+  ]
+}
