@@ -1,1 +1,218 @@
-{"id": "invasion-of-your-privacy-ratt", "title": "Invasion Of Your Privacy", "artist": "Ratt", "peak": 7, "history": [{"date": "1985-06-29", "rank": 29}, {"date": "1985-07-06", "rank": 15}, {"date": "1985-07-13", "rank": 11}, {"date": "1985-07-20", "rank": 10}, {"date": "1985-07-27", "rank": 7}, {"date": "1985-08-03", "rank": 9}, {"date": "1985-08-10", "rank": 9}, {"date": "1985-08-17", "rank": 11}, {"date": "1985-08-24", "rank": 10}, {"date": "1985-08-31", "rank": 10}, {"date": "1985-09-07", "rank": 12}, {"date": "1985-09-14", "rank": 12}, {"date": "1985-09-21", "rank": 21}, {"date": "1985-09-28", "rank": 20}, {"date": "1985-10-05", "rank": 25}, {"date": "1985-10-12", "rank": 31}, {"date": "1985-10-19", "rank": 38}, {"date": "1985-10-26", "rank": 38}, {"date": "1985-11-02", "rank": 41}, {"date": "1985-11-09", "rank": 56}, {"date": "1985-11-16", "rank": 56}, {"date": "1985-11-23", "rank": 67}, {"date": "1985-11-30", "rank": 74}, {"date": "1985-12-07", "rank": 85}, {"date": "1985-12-14", "rank": 101}, {"date": "1985-12-21", "rank": 101}, {"date": "1985-12-28", "rank": 93}, {"date": "1986-01-04", "rank": 93}, {"date": "1986-01-11", "rank": 92}, {"date": "1986-01-18", "rank": 93}, {"date": "1986-01-25", "rank": 93}, {"date": "1986-02-01", "rank": 111}, {"date": "1986-02-08", "rank": 108}, {"date": "1986-02-15", "rank": 108}, {"date": "1986-02-22", "rank": 126}, {"date": "1986-03-01", "rank": 146}, {"date": "1986-03-08", "rank": 152}, {"date": "1986-03-15", "rank": 166}, {"date": "1986-03-22", "rank": 183}, {"date": "1986-03-29", "rank": 180}, {"date": "1986-04-05", "rank": 180}, {"date": "1986-04-12", "rank": 196}]}
+{
+  "id": "invasion-of-your-privacy-ratt",
+  "title": "Invasion Of Your Privacy",
+  "artist": "Ratt",
+  "peak": 7,
+  "history": [
+    {
+      "date": "1985-06-29",
+      "rank": 29
+    },
+    {
+      "date": "1985-07-06",
+      "rank": 15
+    },
+    {
+      "date": "1985-07-13",
+      "rank": 11
+    },
+    {
+      "date": "1985-07-20",
+      "rank": 10
+    },
+    {
+      "date": "1985-07-27",
+      "rank": 7
+    },
+    {
+      "date": "1985-08-03",
+      "rank": 9
+    },
+    {
+      "date": "1985-08-10",
+      "rank": 9
+    },
+    {
+      "date": "1985-08-17",
+      "rank": 11
+    },
+    {
+      "date": "1985-08-24",
+      "rank": 10
+    },
+    {
+      "date": "1985-08-31",
+      "rank": 10
+    },
+    {
+      "date": "1985-09-07",
+      "rank": 12
+    },
+    {
+      "date": "1985-09-14",
+      "rank": 12
+    },
+    {
+      "date": "1985-09-21",
+      "rank": 21
+    },
+    {
+      "date": "1985-09-28",
+      "rank": 20
+    },
+    {
+      "date": "1985-10-05",
+      "rank": 25
+    },
+    {
+      "date": "1985-10-12",
+      "rank": 31
+    },
+    {
+      "date": "1985-10-19",
+      "rank": 38
+    },
+    {
+      "date": "1985-10-26",
+      "rank": 38
+    },
+    {
+      "date": "1985-11-02",
+      "rank": 41
+    },
+    {
+      "date": "1985-11-09",
+      "rank": 56
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 56
+    },
+    {
+      "date": "1985-11-23",
+      "rank": 67
+    },
+    {
+      "date": "1985-11-30",
+      "rank": 74
+    },
+    {
+      "date": "1985-12-07",
+      "rank": 85
+    },
+    {
+      "date": "1985-12-14",
+      "rank": 101
+    },
+    {
+      "date": "1985-12-21",
+      "rank": 101
+    },
+    {
+      "date": "1985-12-28",
+      "rank": 93
+    },
+    {
+      "date": "1986-01-04",
+      "rank": 93
+    },
+    {
+      "date": "1986-01-11",
+      "rank": 92
+    },
+    {
+      "date": "1986-01-18",
+      "rank": 93
+    },
+    {
+      "date": "1986-01-25",
+      "rank": 93
+    },
+    {
+      "date": "1986-02-01",
+      "rank": 111
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 108
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 108
+    },
+    {
+      "date": "1986-02-22",
+      "rank": 126
+    },
+    {
+      "date": "1986-03-01",
+      "rank": 146
+    },
+    {
+      "date": "1986-03-08",
+      "rank": 152
+    },
+    {
+      "date": "1986-03-15",
+      "rank": 166
+    },
+    {
+      "date": "1986-03-22",
+      "rank": 183
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 180
+    },
+    {
+      "date": "1986-04-05",
+      "rank": 180
+    },
+    {
+      "date": "1986-04-12",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You’re in Love",
+      "id": "you-re-in-love-ratt"
+    },
+    {
+      "title": "Lay It Down",
+      "id": "lay-it-down-ratt"
+    },
+    {
+      "title": "Never Use Love",
+      "id": null
+    },
+    {
+      "title": "Give It All",
+      "id": null
+    },
+    {
+      "title": "Closer to My Heart",
+      "id": null
+    },
+    {
+      "title": "Between the Eyes",
+      "id": null
+    },
+    {
+      "title": "What You Give Is What You Get",
+      "id": null
+    },
+    {
+      "title": "Got Me on the Line",
+      "id": null
+    },
+    {
+      "title": "You Should Know by Now",
+      "id": null
+    },
+    {
+      "title": "Dangerous but Worth the Risk",
+      "id": null
+    }
+  ]
+}

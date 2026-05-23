@@ -1,1 +1,54 @@
-{"id": "invitation-joe-sample", "title": "Invitation", "artist": "Joe Sample", "peak": 194, "history": [{"date": "1993-04-10", "rank": 194}]}
+{
+  "id": "invitation-joe-sample",
+  "title": "Invitation",
+  "artist": "Joe Sample",
+  "peak": 194,
+  "history": [
+    {
+      "date": "1993-04-10",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Black Is the Color",
+      "id": null
+    },
+    {
+      "title": "A House Is Not a Home",
+      "id": null
+    },
+    {
+      "title": "Come Rain or Come Shine",
+      "id": null
+    },
+    {
+      "title": "Invitation",
+      "id": null
+    },
+    {
+      "title": "Summertime",
+      "id": null
+    },
+    {
+      "title": "Nica’s Dream",
+      "id": null
+    },
+    {
+      "title": "Stormy Weather",
+      "id": null
+    },
+    {
+      "title": "Django",
+      "id": null
+    },
+    {
+      "title": "My One and Only Love",
+      "id": null
+    },
+    {
+      "title": "Mood Indigo",
+      "id": null
+    }
+  ]
+}
