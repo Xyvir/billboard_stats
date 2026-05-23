@@ -1,1 +1,54 @@
-{"id": "master-funk-watsonian-institute", "title": "Master Funk", "artist": "Watsonian Institute", "peak": 154, "history": [{"date": "1978-04-15", "rank": 160}, {"date": "1978-04-22", "rank": 155}, {"date": "1978-04-29", "rank": 154}, {"date": "1978-05-06", "rank": 193}]}
+{
+  "id": "master-funk-watsonian-institute",
+  "title": "Master Funk",
+  "artist": "Watsonian Institute",
+  "peak": 154,
+  "history": [
+    {
+      "date": "1978-04-15",
+      "rank": 160
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 155
+    },
+    {
+      "date": "1978-04-29",
+      "rank": 154
+    },
+    {
+      "date": "1978-05-06",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Institute",
+      "id": null
+    },
+    {
+      "title": "Master Funk",
+      "id": null
+    },
+    {
+      "title": "The Funk If I Know",
+      "id": null
+    },
+    {
+      "title": "Lady Voo Doo",
+      "id": null
+    },
+    {
+      "title": "De John's Delight",
+      "id": null
+    },
+    {
+      "title": "Coming Around",
+      "id": null
+    },
+    {
+      "title": "Virginia's Pretty Funky",
+      "id": null
+    }
+  ]
+}

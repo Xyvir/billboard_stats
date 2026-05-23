@@ -1,1 +1,86 @@
-{"id": "masterpiece-theatre-en-vogue", "title": "Masterpiece Theatre", "artist": "En Vogue", "peak": 67, "history": [{"date": "2000-06-10", "rank": 67}, {"date": "2000-06-17", "rank": 99}, {"date": "2000-06-24", "rank": 145}, {"date": "2000-07-01", "rank": 176}, {"date": "2000-07-08", "rank": 196}]}
+{
+  "id": "masterpiece-theatre-en-vogue",
+  "title": "Masterpiece Theatre",
+  "artist": "En Vogue",
+  "peak": 67,
+  "history": [
+    {
+      "date": "2000-06-10",
+      "rank": 67
+    },
+    {
+      "date": "2000-06-17",
+      "rank": 99
+    },
+    {
+      "date": "2000-06-24",
+      "rank": 145
+    },
+    {
+      "date": "2000-07-01",
+      "rank": 176
+    },
+    {
+      "date": "2000-07-08",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Riddle",
+      "id": "riddle-en-vogue"
+    },
+    {
+      "title": "Love Won’t Take Me Out",
+      "id": "love-don-t-love-you-en-vogue"
+    },
+    {
+      "title": "No No No (Can’t Come Back)",
+      "id": null
+    },
+    {
+      "title": "Falling in Love",
+      "id": null
+    },
+    {
+      "title": "Suite (intro)",
+      "id": null
+    },
+    {
+      "title": "Love U Crazay",
+      "id": null
+    },
+    {
+      "title": "Sad but True",
+      "id": null
+    },
+    {
+      "title": "Whatever Will Be Will Be",
+      "id": null
+    },
+    {
+      "title": "Suite (outro)",
+      "id": null
+    },
+    {
+      "title": "Beat of Love",
+      "id": null
+    },
+    {
+      "title": "Latin Soul",
+      "id": null
+    },
+    {
+      "title": "Work It Out",
+      "id": null
+    },
+    {
+      "title": "Those Dogs",
+      "id": null
+    },
+    {
+      "title": "Number One Man",
+      "id": null
+    }
+  ]
+}

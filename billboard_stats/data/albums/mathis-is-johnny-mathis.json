@@ -1,1 +1,66 @@
-{"id": "mathis-is-johnny-mathis", "title": "Mathis Is...", "artist": "Johnny Mathis", "peak": 139, "history": [{"date": "1977-03-19", "rank": 150}, {"date": "1977-03-26", "rank": 139}, {"date": "1977-04-02", "rank": 139}, {"date": "1977-04-09", "rank": 145}, {"date": "1977-04-16", "rank": 174}]}
+{
+  "id": "mathis-is-johnny-mathis",
+  "title": "Mathis Is...",
+  "artist": "Johnny Mathis",
+  "peak": 139,
+  "history": [
+    {
+      "date": "1977-03-19",
+      "rank": 150
+    },
+    {
+      "date": "1977-03-26",
+      "rank": 139
+    },
+    {
+      "date": "1977-04-02",
+      "rank": 139
+    },
+    {
+      "date": "1977-04-09",
+      "rank": 145
+    },
+    {
+      "date": "1977-04-16",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "World of Laughter",
+      "id": "sooner-or-later-johnny-mathis"
+    },
+    {
+      "title": "As Long as We’re Together",
+      "id": null
+    },
+    {
+      "title": "Lullaby of Love",
+      "id": null
+    },
+    {
+      "title": "Loving You, Losing You",
+      "id": null
+    },
+    {
+      "title": "I’ll Make You Happy",
+      "id": null
+    },
+    {
+      "title": "Heaven Must Have Made You Just for Me",
+      "id": null
+    },
+    {
+      "title": "Hung Up in the Middle of Love",
+      "id": null
+    },
+    {
+      "title": "I Don’t Want to Say No",
+      "id": null
+    },
+    {
+      "title": "Sweet Love of Mine",
+      "id": null
+    }
+  ]
+}
