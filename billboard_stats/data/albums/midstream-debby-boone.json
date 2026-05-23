@@ -1,1 +1,78 @@
-{"id": "midstream-debby-boone", "title": "Midstream", "artist": "Debby Boone", "peak": 147, "history": [{"date": "1978-08-12", "rank": 175}, {"date": "1978-08-19", "rank": 156}, {"date": "1978-08-26", "rank": 150}, {"date": "1978-09-02", "rank": 147}, {"date": "1978-09-09", "rank": 197}]}
+{
+  "id": "midstream-debby-boone",
+  "title": "Midstream",
+  "artist": "Debby Boone",
+  "peak": 147,
+  "history": [
+    {
+      "date": "1978-08-12",
+      "rank": 175
+    },
+    {
+      "date": "1978-08-19",
+      "rank": 156
+    },
+    {
+      "date": "1978-08-26",
+      "rank": 150
+    },
+    {
+      "date": "1978-09-02",
+      "rank": 147
+    },
+    {
+      "date": "1978-09-09",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "California",
+      "id": "california-debby-boone"
+    },
+    {
+      "title": "God Knows",
+      "id": null
+    },
+    {
+      "title": "What Becomes Of My World",
+      "id": null
+    },
+    {
+      "title": "Another Goodbye",
+      "id": null
+    },
+    {
+      "title": "Don't You Love Me Anymore",
+      "id": null
+    },
+    {
+      "title": "Oh, No, Not My Baby",
+      "id": null
+    },
+    {
+      "title": "I'd Rather Leave While I'm In Love",
+      "id": null
+    },
+    {
+      "title": "When You're Loved",
+      "id": null
+    },
+    {
+      "title": "When It's Over",
+      "id": null
+    },
+    {
+      "title": "Come Share My Love",
+      "id": null
+    },
+    {
+      "title": "It Was Such A Good Day",
+      "id": null
+    },
+    {
+      "title": "If Ever I See You Again",
+      "id": null
+    }
+  ]
+}

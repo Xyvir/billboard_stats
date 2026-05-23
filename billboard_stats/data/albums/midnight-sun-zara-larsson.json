@@ -1,1 +1,22 @@
-{"id": "midnight-sun-zara-larsson", "title": "Midnight Sun", "artist": "Zara Larsson", "peak": 36, "history": [{"date": "2025-10-11", "rank": 119}, {"date": "2026-05-16", "rank": 36}]}
+{
+  "id": "midnight-sun-zara-larsson",
+  "title": "Midnight Sun",
+  "artist": "Zara Larsson",
+  "peak": 36,
+  "history": [
+    {
+      "date": "2025-10-11",
+      "rank": 119
+    },
+    {
+      "date": "2026-05-16",
+      "rank": 36
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Midnight Sun",
+      "id": "midnight-sun-zara-larsson"
+    }
+  ]
+}
