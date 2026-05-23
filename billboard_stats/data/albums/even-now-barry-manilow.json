@@ -1,1 +1,298 @@
-{"id": "even-now-barry-manilow", "title": "Even Now", "artist": "Barry Manilow", "peak": 3, "history": [{"date": "1978-02-25", "rank": 59}, {"date": "1978-03-04", "rank": 22}, {"date": "1978-03-11", "rank": 11}, {"date": "1978-03-18", "rank": 8}, {"date": "1978-03-25", "rank": 6}, {"date": "1978-04-01", "rank": 4}, {"date": "1978-04-08", "rank": 3}, {"date": "1978-04-15", "rank": 3}, {"date": "1978-04-22", "rank": 3}, {"date": "1978-04-29", "rank": 9}, {"date": "1978-05-06", "rank": 11}, {"date": "1978-05-13", "rank": 14}, {"date": "1978-05-20", "rank": 16}, {"date": "1978-05-27", "rank": 23}, {"date": "1978-06-03", "rank": 32}, {"date": "1978-06-10", "rank": 40}, {"date": "1978-06-17", "rank": 40}, {"date": "1978-06-24", "rank": 40}, {"date": "1978-07-01", "rank": 37}, {"date": "1978-07-08", "rank": 34}, {"date": "1978-07-15", "rank": 33}, {"date": "1978-07-22", "rank": 27}, {"date": "1978-07-29", "rank": 24}, {"date": "1978-08-05", "rank": 22}, {"date": "1978-08-12", "rank": 20}, {"date": "1978-08-19", "rank": 19}, {"date": "1978-08-26", "rank": 19}, {"date": "1978-09-02", "rank": 27}, {"date": "1978-09-09", "rank": 27}, {"date": "1978-09-16", "rank": 45}, {"date": "1978-09-23", "rank": 45}, {"date": "1978-09-30", "rank": 44}, {"date": "1978-10-07", "rank": 55}, {"date": "1978-10-14", "rank": 52}, {"date": "1978-10-21", "rank": 49}, {"date": "1978-10-28", "rank": 49}, {"date": "1978-11-04", "rank": 49}, {"date": "1978-11-11", "rank": 93}, {"date": "1978-11-18", "rank": 92}, {"date": "1978-11-25", "rank": 90}, {"date": "1978-12-02", "rank": 112}, {"date": "1978-12-09", "rank": 127}, {"date": "1978-12-16", "rank": 178}, {"date": "1978-12-23", "rank": 176}, {"date": "1978-12-30", "rank": 176}, {"date": "1979-01-06", "rank": 176}, {"date": "1979-01-13", "rank": 160}, {"date": "1979-01-20", "rank": 155}, {"date": "1979-01-27", "rank": 155}, {"date": "1979-02-03", "rank": 155}, {"date": "1979-02-10", "rank": 150}, {"date": "1979-02-17", "rank": 149}, {"date": "1979-02-24", "rank": 151}, {"date": "1979-03-03", "rank": 154}, {"date": "1979-03-10", "rank": 155}, {"date": "1979-03-17", "rank": 158}, {"date": "1979-03-24", "rank": 158}, {"date": "1979-03-31", "rank": 178}]}
+{
+  "id": "even-now-barry-manilow",
+  "title": "Even Now",
+  "artist": "Barry Manilow",
+  "peak": 3,
+  "history": [
+    {
+      "date": "1978-02-25",
+      "rank": 59
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 22
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 11
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 8
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 6
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 4
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 3
+    },
+    {
+      "date": "1978-04-15",
+      "rank": 3
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 3
+    },
+    {
+      "date": "1978-04-29",
+      "rank": 9
+    },
+    {
+      "date": "1978-05-06",
+      "rank": 11
+    },
+    {
+      "date": "1978-05-13",
+      "rank": 14
+    },
+    {
+      "date": "1978-05-20",
+      "rank": 16
+    },
+    {
+      "date": "1978-05-27",
+      "rank": 23
+    },
+    {
+      "date": "1978-06-03",
+      "rank": 32
+    },
+    {
+      "date": "1978-06-10",
+      "rank": 40
+    },
+    {
+      "date": "1978-06-17",
+      "rank": 40
+    },
+    {
+      "date": "1978-06-24",
+      "rank": 40
+    },
+    {
+      "date": "1978-07-01",
+      "rank": 37
+    },
+    {
+      "date": "1978-07-08",
+      "rank": 34
+    },
+    {
+      "date": "1978-07-15",
+      "rank": 33
+    },
+    {
+      "date": "1978-07-22",
+      "rank": 27
+    },
+    {
+      "date": "1978-07-29",
+      "rank": 24
+    },
+    {
+      "date": "1978-08-05",
+      "rank": 22
+    },
+    {
+      "date": "1978-08-12",
+      "rank": 20
+    },
+    {
+      "date": "1978-08-19",
+      "rank": 19
+    },
+    {
+      "date": "1978-08-26",
+      "rank": 19
+    },
+    {
+      "date": "1978-09-02",
+      "rank": 27
+    },
+    {
+      "date": "1978-09-09",
+      "rank": 27
+    },
+    {
+      "date": "1978-09-16",
+      "rank": 45
+    },
+    {
+      "date": "1978-09-23",
+      "rank": 45
+    },
+    {
+      "date": "1978-09-30",
+      "rank": 44
+    },
+    {
+      "date": "1978-10-07",
+      "rank": 55
+    },
+    {
+      "date": "1978-10-14",
+      "rank": 52
+    },
+    {
+      "date": "1978-10-21",
+      "rank": 49
+    },
+    {
+      "date": "1978-10-28",
+      "rank": 49
+    },
+    {
+      "date": "1978-11-04",
+      "rank": 49
+    },
+    {
+      "date": "1978-11-11",
+      "rank": 93
+    },
+    {
+      "date": "1978-11-18",
+      "rank": 92
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 90
+    },
+    {
+      "date": "1978-12-02",
+      "rank": 112
+    },
+    {
+      "date": "1978-12-09",
+      "rank": 127
+    },
+    {
+      "date": "1978-12-16",
+      "rank": 178
+    },
+    {
+      "date": "1978-12-23",
+      "rank": 176
+    },
+    {
+      "date": "1978-12-30",
+      "rank": 176
+    },
+    {
+      "date": "1979-01-06",
+      "rank": 176
+    },
+    {
+      "date": "1979-01-13",
+      "rank": 160
+    },
+    {
+      "date": "1979-01-20",
+      "rank": 155
+    },
+    {
+      "date": "1979-01-27",
+      "rank": 155
+    },
+    {
+      "date": "1979-02-03",
+      "rank": 155
+    },
+    {
+      "date": "1979-02-10",
+      "rank": 150
+    },
+    {
+      "date": "1979-02-17",
+      "rank": 149
+    },
+    {
+      "date": "1979-02-24",
+      "rank": 151
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 154
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 155
+    },
+    {
+      "date": "1979-03-17",
+      "rank": 158
+    },
+    {
+      "date": "1979-03-24",
+      "rank": 158
+    },
+    {
+      "date": "1979-03-31",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Copacabana",
+      "id": "copacabana-at-the-copa-barry-manilow"
+    },
+    {
+      "title": "Somewhere in the Night",
+      "id": "somewhere-in-the-night-barry-manilow"
+    },
+    {
+      "title": "A Linda Song",
+      "id": "the-old-songs-barry-manilow"
+    },
+    {
+      "title": "Can’t Smile Without You",
+      "id": "can-t-smile-without-you-barry-manilow"
+    },
+    {
+      "title": "Even Now",
+      "id": "even-now-barry-manilow"
+    },
+    {
+      "title": "Leavin’ in the Morning",
+      "id": null
+    },
+    {
+      "title": "Where Do I Go From Here",
+      "id": null
+    },
+    {
+      "title": "I Was a Fool (to Let You Go)",
+      "id": null
+    },
+    {
+      "title": "Losing Touch",
+      "id": null
+    },
+    {
+      "title": "I Just Want to Be the One in Your Life",
+      "id": null
+    },
+    {
+      "title": "Starting Again",
+      "id": null
+    },
+    {
+      "title": "Sunrise",
+      "id": null
+    },
+    {
+      "title": "I’m Comin’ Home Again (unfinished track)",
+      "id": null
+    },
+    {
+      "title": "No Love for Jenny",
+      "id": null
+    }
+  ]
+}

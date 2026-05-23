@@ -1,1 +1,126 @@
-{"id": "euphoria-def-leppard", "title": "Euphoria", "artist": "Def Leppard", "peak": 11, "history": [{"date": "1999-06-26", "rank": 11}, {"date": "1999-07-03", "rank": 27}, {"date": "1999-07-10", "rank": 35}, {"date": "1999-07-17", "rank": 44}, {"date": "1999-07-24", "rank": 47}, {"date": "1999-07-31", "rank": 59}, {"date": "1999-08-07", "rank": 65}, {"date": "1999-08-14", "rank": 80}, {"date": "1999-08-21", "rank": 93}, {"date": "1999-08-28", "rank": 104}, {"date": "1999-09-04", "rank": 122}, {"date": "1999-09-11", "rank": 134}, {"date": "1999-09-18", "rank": 164}, {"date": "1999-09-25", "rank": 165}, {"date": "1999-10-02", "rank": 175}, {"date": "1999-10-30", "rank": 183}]}
+{
+  "id": "euphoria-def-leppard",
+  "title": "Euphoria",
+  "artist": "Def Leppard",
+  "peak": 11,
+  "history": [
+    {
+      "date": "1999-06-26",
+      "rank": 11
+    },
+    {
+      "date": "1999-07-03",
+      "rank": 27
+    },
+    {
+      "date": "1999-07-10",
+      "rank": 35
+    },
+    {
+      "date": "1999-07-17",
+      "rank": 44
+    },
+    {
+      "date": "1999-07-24",
+      "rank": 47
+    },
+    {
+      "date": "1999-07-31",
+      "rank": 59
+    },
+    {
+      "date": "1999-08-07",
+      "rank": 65
+    },
+    {
+      "date": "1999-08-14",
+      "rank": 80
+    },
+    {
+      "date": "1999-08-21",
+      "rank": 93
+    },
+    {
+      "date": "1999-08-28",
+      "rank": 104
+    },
+    {
+      "date": "1999-09-04",
+      "rank": 122
+    },
+    {
+      "date": "1999-09-11",
+      "rank": 134
+    },
+    {
+      "date": "1999-09-18",
+      "rank": 164
+    },
+    {
+      "date": "1999-09-25",
+      "rank": 165
+    },
+    {
+      "date": "1999-10-02",
+      "rank": 175
+    },
+    {
+      "date": "1999-10-30",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All Night",
+      "id": "tonight-def-leppard"
+    },
+    {
+      "title": "Demolition Man",
+      "id": null
+    },
+    {
+      "title": "Promises",
+      "id": null
+    },
+    {
+      "title": "Back in Your Face",
+      "id": null
+    },
+    {
+      "title": "Goodbye",
+      "id": null
+    },
+    {
+      "title": "Paper Sun",
+      "id": null
+    },
+    {
+      "title": "It’s Only Love",
+      "id": null
+    },
+    {
+      "title": "21st Century Sha La La La Girl",
+      "id": null
+    },
+    {
+      "title": "To Be Alive",
+      "id": null
+    },
+    {
+      "title": "Disintegrate",
+      "id": null
+    },
+    {
+      "title": "Guilty",
+      "id": null
+    },
+    {
+      "title": "Day After Day",
+      "id": null
+    },
+    {
+      "title": "Kings of Oblivion",
+      "id": null
+    }
+  ]
+}
