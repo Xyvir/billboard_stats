@@ -1,1 +1,210 @@
-{"id": "fantasy-carole-king", "title": "Fantasy", "artist": "Carole King", "peak": 6, "history": [{"date": "1973-06-23", "rank": 43}, {"date": "1973-06-30", "rank": 17}, {"date": "1973-07-07", "rank": 9}, {"date": "1973-07-14", "rank": 7}, {"date": "1973-07-21", "rank": 6}, {"date": "1973-07-28", "rank": 6}, {"date": "1973-08-04", "rank": 6}, {"date": "1973-08-11", "rank": 11}, {"date": "1973-08-18", "rank": 12}, {"date": "1973-08-25", "rank": 14}, {"date": "1973-09-01", "rank": 21}, {"date": "1973-09-08", "rank": 23}, {"date": "1973-09-15", "rank": 26}, {"date": "1973-09-22", "rank": 28}, {"date": "1973-09-29", "rank": 32}, {"date": "1973-10-06", "rank": 37}, {"date": "1973-10-13", "rank": 42}, {"date": "1973-10-20", "rank": 48}, {"date": "1973-10-27", "rank": 56}, {"date": "1973-11-03", "rank": 56}, {"date": "1973-11-10", "rank": 59}, {"date": "1973-11-17", "rank": 84}, {"date": "1973-11-24", "rank": 104}, {"date": "1973-12-01", "rank": 116}, {"date": "1973-12-08", "rank": 117}, {"date": "1973-12-15", "rank": 118}, {"date": "1973-12-22", "rank": 115}, {"date": "1973-12-29", "rank": 113}, {"date": "1974-01-05", "rank": 121}, {"date": "1974-01-12", "rank": 125}, {"date": "1974-01-19", "rank": 127}, {"date": "1974-01-26", "rank": 131}, {"date": "1974-02-02", "rank": 133}, {"date": "1974-02-09", "rank": 148}, {"date": "1974-02-16", "rank": 158}, {"date": "1974-02-23", "rank": 167}, {"date": "1974-03-02", "rank": 182}]}
+{
+  "id": "fantasy-carole-king",
+  "title": "Fantasy",
+  "artist": "Carole King",
+  "peak": 6,
+  "history": [
+    {
+      "date": "1973-06-23",
+      "rank": 43
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 17
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 9
+    },
+    {
+      "date": "1973-07-14",
+      "rank": 7
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 6
+    },
+    {
+      "date": "1973-07-28",
+      "rank": 6
+    },
+    {
+      "date": "1973-08-04",
+      "rank": 6
+    },
+    {
+      "date": "1973-08-11",
+      "rank": 11
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 12
+    },
+    {
+      "date": "1973-08-25",
+      "rank": 14
+    },
+    {
+      "date": "1973-09-01",
+      "rank": 21
+    },
+    {
+      "date": "1973-09-08",
+      "rank": 23
+    },
+    {
+      "date": "1973-09-15",
+      "rank": 26
+    },
+    {
+      "date": "1973-09-22",
+      "rank": 28
+    },
+    {
+      "date": "1973-09-29",
+      "rank": 32
+    },
+    {
+      "date": "1973-10-06",
+      "rank": 37
+    },
+    {
+      "date": "1973-10-13",
+      "rank": 42
+    },
+    {
+      "date": "1973-10-20",
+      "rank": 48
+    },
+    {
+      "date": "1973-10-27",
+      "rank": 56
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 56
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 59
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 84
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 104
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 116
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 117
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 118
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 115
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 113
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 121
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 125
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 127
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 131
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 133
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 148
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 158
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 167
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Light Up My Life",
+      "id": "you-light-up-my-life-believe-in-humanity-carole-king"
+    },
+    {
+      "title": "Corazón",
+      "id": "coraz-n-carole-king"
+    },
+    {
+      "title": "Believe in Humanity",
+      "id": "you-light-up-my-life-believe-in-humanity-carole-king"
+    },
+    {
+      "title": "Fantasy Beginning",
+      "id": null
+    },
+    {
+      "title": "You’ve Been Around Too Long",
+      "id": null
+    },
+    {
+      "title": "Being at War With Each Other",
+      "id": null
+    },
+    {
+      "title": "Directions",
+      "id": null
+    },
+    {
+      "title": "That’s How Things Go Down",
+      "id": null
+    },
+    {
+      "title": "Weekdays",
+      "id": null
+    },
+    {
+      "title": "Haywood",
+      "id": null
+    },
+    {
+      "title": "A Quiet Place to Live",
+      "id": null
+    },
+    {
+      "title": "Welfare Symphony",
+      "id": null
+    },
+    {
+      "title": "Fantasy End",
+      "id": null
+    }
+  ]
+}

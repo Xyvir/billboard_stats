@@ -1,1 +1,58 @@
-{"id": "fans-malcolm-mclaren", "title": "Fans", "artist": "Malcolm McLaren", "peak": 190, "history": [{"date": "1985-02-02", "rank": 195}, {"date": "1985-02-09", "rank": 191}, {"date": "1985-02-16", "rank": 190}, {"date": "1985-02-23", "rank": 190}, {"date": "1985-03-02", "rank": 195}, {"date": "1985-03-09", "rank": 197}]}
+{
+  "id": "fans-malcolm-mclaren",
+  "title": "Fans",
+  "artist": "Malcolm McLaren",
+  "peak": 190,
+  "history": [
+    {
+      "date": "1985-02-02",
+      "rank": 195
+    },
+    {
+      "date": "1985-02-09",
+      "rank": 191
+    },
+    {
+      "date": "1985-02-16",
+      "rank": 190
+    },
+    {
+      "date": "1985-02-23",
+      "rank": 190
+    },
+    {
+      "date": "1985-03-02",
+      "rank": 195
+    },
+    {
+      "date": "1985-03-09",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Madam Butterfly (Un del di vedremo)",
+      "id": null
+    },
+    {
+      "title": "Fans (Nessun dorma)",
+      "id": null
+    },
+    {
+      "title": "Carmen (L’Oiseau Rebelle)",
+      "id": null
+    },
+    {
+      "title": "Boys’ Chorus (Là sui monti dell’est)",
+      "id": null
+    },
+    {
+      "title": "Lauretta (O mio babbino caro)",
+      "id": null
+    },
+    {
+      "title": "Death of Butterfly (Tu tu piccolo)",
+      "id": null
+    }
+  ]
+}

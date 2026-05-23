@@ -1,1 +1,90 @@
-{"id": "famous-friends-chris-young", "title": "Famous Friends", "artist": "Chris Young", "peak": 13, "history": [{"date": "2021-08-21", "rank": 13}, {"date": "2021-08-28", "rank": 101}, {"date": "2021-09-04", "rank": 157}, {"date": "2021-09-11", "rank": 199}, {"date": "2021-09-18", "rank": 198}, {"date": "2022-06-18", "rank": 152}]}
+{
+  "id": "famous-friends-chris-young",
+  "title": "Famous Friends",
+  "artist": "Chris Young",
+  "peak": 13,
+  "history": [
+    {
+      "date": "2021-08-21",
+      "rank": 13
+    },
+    {
+      "date": "2021-08-28",
+      "rank": 101
+    },
+    {
+      "date": "2021-09-04",
+      "rank": 157
+    },
+    {
+      "date": "2021-09-11",
+      "rank": 199
+    },
+    {
+      "date": "2021-09-18",
+      "rank": 198
+    },
+    {
+      "date": "2022-06-18",
+      "rank": 152
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Raised on Country",
+      "id": "raised-on-country-chris-young"
+    },
+    {
+      "title": "Famous Friends",
+      "id": null
+    },
+    {
+      "title": "Town Ain't Big Enough",
+      "id": null
+    },
+    {
+      "title": "Drowning",
+      "id": null
+    },
+    {
+      "title": "Rescue Me",
+      "id": null
+    },
+    {
+      "title": "Break Like You Do",
+      "id": null
+    },
+    {
+      "title": "At the End of a Bar",
+      "id": null
+    },
+    {
+      "title": "Love Looks Good on You",
+      "id": null
+    },
+    {
+      "title": "One of Them Nights",
+      "id": null
+    },
+    {
+      "title": "When You’re Drinking",
+      "id": null
+    },
+    {
+      "title": "Cross Every Line",
+      "id": null
+    },
+    {
+      "title": "Hold My Beer Watch This",
+      "id": null
+    },
+    {
+      "title": "Best Seat in the House",
+      "id": null
+    },
+    {
+      "title": "Tonight We’re Dancing",
+      "id": null
+    }
+  ]
+}
