@@ -1,1 +1,94 @@
-{"id": "midnight-cafe-smokie", "title": "Midnight Cafe", "artist": "Smokie", "peak": 173, "history": [{"date": "1977-01-22", "rank": 184}, {"date": "1977-01-29", "rank": 173}, {"date": "1977-02-05", "rank": 173}, {"date": "1977-02-12", "rank": 182}, {"date": "1977-02-19", "rank": 176}, {"date": "1977-02-26", "rank": 191}]}
+{
+  "id": "midnight-cafe-smokie",
+  "title": "Midnight Cafe",
+  "artist": "Smokie",
+  "peak": 173,
+  "history": [
+    {
+      "date": "1977-01-22",
+      "rank": 184
+    },
+    {
+      "date": "1977-01-29",
+      "rank": 173
+    },
+    {
+      "date": "1977-02-05",
+      "rank": 173
+    },
+    {
+      "date": "1977-02-12",
+      "rank": 182
+    },
+    {
+      "date": "1977-02-19",
+      "rank": 176
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Living Next Door to Alice",
+      "id": "living-next-door-to-alice-smokie"
+    },
+    {
+      "title": "Something’s Been Making Me Blue",
+      "id": null
+    },
+    {
+      "title": "Wild Wild Angels",
+      "id": null
+    },
+    {
+      "title": "Poor Lady (Midnight Baby)",
+      "id": null
+    },
+    {
+      "title": "When My Back Was Against the Wall",
+      "id": null
+    },
+    {
+      "title": "Make Ya Boogie",
+      "id": null
+    },
+    {
+      "title": "Stranger",
+      "id": null
+    },
+    {
+      "title": "What Can I Do?",
+      "id": null
+    },
+    {
+      "title": "Little Lucy",
+      "id": null
+    },
+    {
+      "title": "Going Home",
+      "id": null
+    },
+    {
+      "title": "Train Song",
+      "id": null
+    },
+    {
+      "title": "The Loser",
+      "id": null
+    },
+    {
+      "title": "I'll Meet You at Midnight",
+      "id": null
+    },
+    {
+      "title": "Miss You",
+      "id": null
+    },
+    {
+      "title": "Run to You",
+      "id": null
+    }
+  ]
+}

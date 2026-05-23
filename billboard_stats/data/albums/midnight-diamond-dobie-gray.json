@@ -1,1 +1,66 @@
-{"id": "midnight-diamond-dobie-gray", "title": "Midnight Diamond", "artist": "Dobie Gray", "peak": 174, "history": [{"date": "1979-02-17", "rank": 190}, {"date": "1979-02-24", "rank": 180}, {"date": "1979-03-03", "rank": 174}, {"date": "1979-03-10", "rank": 200}]}
+{
+  "id": "midnight-diamond-dobie-gray",
+  "title": "Midnight Diamond",
+  "artist": "Dobie Gray",
+  "peak": 174,
+  "history": [
+    {
+      "date": "1979-02-17",
+      "rank": 190
+    },
+    {
+      "date": "1979-02-24",
+      "rank": 180
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 174
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Can Do It",
+      "id": "you-can-do-it-dobie-gray"
+    },
+    {
+      "title": "We've Got to Get It on Again",
+      "id": null
+    },
+    {
+      "title": "Let This Man Take Hold of Your Life",
+      "id": null
+    },
+    {
+      "title": "Weekend Friend",
+      "id": null
+    },
+    {
+      "title": "Miss You Nights",
+      "id": null
+    },
+    {
+      "title": "I Can See Clearly Now",
+      "id": null
+    },
+    {
+      "title": "Sharing the Night Together",
+      "id": null
+    },
+    {
+      "title": "Who’s Loving You",
+      "id": null
+    },
+    {
+      "title": "I'll Be Your Hold Me Tight",
+      "id": null
+    },
+    {
+      "title": "Thank You for Tonight",
+      "id": null
+    }
+  ]
+}
