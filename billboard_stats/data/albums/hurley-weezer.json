@@ -1,1 +1,82 @@
-{"id": "hurley-weezer", "title": "Hurley", "artist": "Weezer", "peak": 6, "history": [{"date": "2010-10-02", "rank": 6}, {"date": "2010-10-09", "rank": 24}, {"date": "2010-10-16", "rank": 60}, {"date": "2010-10-23", "rank": 113}, {"date": "2010-10-30", "rank": 147}, {"date": "2010-11-06", "rank": 151}, {"date": "2010-11-13", "rank": 190}, {"date": "2010-12-11", "rank": 138}]}
+{
+  "id": "hurley-weezer",
+  "title": "Hurley",
+  "artist": "Weezer",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2010-10-02",
+      "rank": 6
+    },
+    {
+      "date": "2010-10-09",
+      "rank": 24
+    },
+    {
+      "date": "2010-10-16",
+      "rank": 60
+    },
+    {
+      "date": "2010-10-23",
+      "rank": 113
+    },
+    {
+      "date": "2010-10-30",
+      "rank": 147
+    },
+    {
+      "date": "2010-11-06",
+      "rank": 151
+    },
+    {
+      "date": "2010-11-13",
+      "rank": 190
+    },
+    {
+      "date": "2010-12-11",
+      "rank": 138
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Run Away",
+      "id": "go-away-weezer"
+    },
+    {
+      "title": "Memories",
+      "id": null
+    },
+    {
+      "title": "Ruling Me",
+      "id": null
+    },
+    {
+      "title": "Trainwrecks",
+      "id": null
+    },
+    {
+      "title": "Unspoken",
+      "id": null
+    },
+    {
+      "title": "Where’s My Sex?",
+      "id": null
+    },
+    {
+      "title": "Hang On",
+      "id": null
+    },
+    {
+      "title": "Smart Girls",
+      "id": null
+    },
+    {
+      "title": "Brave New World",
+      "id": null
+    },
+    {
+      "title": "Time Flies",
+      "id": null
+    }
+  ]
+}

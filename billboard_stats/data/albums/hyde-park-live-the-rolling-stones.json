@@ -1,1 +1,98 @@
-{"id": "hyde-park-live-the-rolling-stones", "title": "Hyde Park Live", "artist": "The Rolling Stones", "peak": 19, "history": [{"date": "2013-08-10", "rank": 19}, {"date": "2013-08-17", "rank": 176}, {"date": "2013-08-31", "rank": 199}]}
+{
+  "id": "hyde-park-live-the-rolling-stones",
+  "title": "Hyde Park Live",
+  "artist": "The Rolling Stones",
+  "peak": 19,
+  "history": [
+    {
+      "date": "2013-08-10",
+      "rank": 19
+    },
+    {
+      "date": "2013-08-17",
+      "rank": 176
+    },
+    {
+      "date": "2013-08-31",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Start Me Up",
+      "id": "start-me-up-the-rolling-stones"
+    },
+    {
+      "title": "It’s Only Rock ’n’ Roll (But I Like It)",
+      "id": "it-s-only-rock-n-roll-but-i-like-it-the-rolling-stones"
+    },
+    {
+      "title": "Tumbling Dice",
+      "id": "tumbling-dice-the-rolling-stones"
+    },
+    {
+      "title": "Emotional Rescue",
+      "id": "emotional-rescue-the-rolling-stones"
+    },
+    {
+      "title": "Street Fighting Man",
+      "id": "street-fighting-man-the-rolling-stones"
+    },
+    {
+      "title": "Ruby Tuesday",
+      "id": "ruby-tuesday-the-rolling-stones"
+    },
+    {
+      "title": "Paint It Black",
+      "id": "paint-it-black-the-rolling-stones"
+    },
+    {
+      "title": "Honky Tonk Women",
+      "id": "honky-tonk-women-the-rolling-stones"
+    },
+    {
+      "title": "Miss You",
+      "id": "miss-you-the-rolling-stones"
+    },
+    {
+      "title": "Jumpin’ Jack Flash",
+      "id": "jumpin-jack-flash-the-rolling-stones"
+    },
+    {
+      "title": "Sympathy for the Devil",
+      "id": "sympathy-for-the-devil-remixes-the-rolling-stones"
+    },
+    {
+      "title": "Brown Sugar",
+      "id": "brown-sugar-the-rolling-stones"
+    },
+    {
+      "title": "You Can’t Always Get What You Want",
+      "id": "you-can-t-always-get-what-you-want-the-rolling-stones"
+    },
+    {
+      "title": "(I Can’t Get No) Satisfaction",
+      "id": "i-can-t-get-no-satisfaction-the-rolling-stones"
+    },
+    {
+      "title": "Doom and Gloom",
+      "id": null
+    },
+    {
+      "title": "You Got the Silver",
+      "id": null
+    },
+    {
+      "title": "Before They Make Me Run",
+      "id": null
+    },
+    {
+      "title": "Midnight Rambler",
+      "id": null
+    },
+    {
+      "title": "Gimme Shelter",
+      "id": null
+    }
+  ]
+}

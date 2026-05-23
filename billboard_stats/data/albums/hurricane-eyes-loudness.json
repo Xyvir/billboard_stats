@@ -1,1 +1,66 @@
-{"id": "hurricane-eyes-loudness", "title": "Hurricane Eyes", "artist": "Loudness", "peak": 190, "history": [{"date": "1987-08-15", "rank": 192}, {"date": "1987-08-22", "rank": 192}, {"date": "1987-08-29", "rank": 190}, {"date": "1987-09-05", "rank": 199}]}
+{
+  "id": "hurricane-eyes-loudness",
+  "title": "Hurricane Eyes",
+  "artist": "Loudness",
+  "peak": 190,
+  "history": [
+    {
+      "date": "1987-08-15",
+      "rank": 192
+    },
+    {
+      "date": "1987-08-22",
+      "rank": 192
+    },
+    {
+      "date": "1987-08-29",
+      "rank": 190
+    },
+    {
+      "date": "1987-09-05",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "S.D.I.",
+      "id": null
+    },
+    {
+      "title": "This Lonely Heart",
+      "id": null
+    },
+    {
+      "title": "Rock ’n’ Roll Gypsy",
+      "id": null
+    },
+    {
+      "title": "In My Dreams",
+      "id": null
+    },
+    {
+      "title": "Take Me Home",
+      "id": null
+    },
+    {
+      "title": "Strike of the Sword",
+      "id": null
+    },
+    {
+      "title": "Rock This Way",
+      "id": null
+    },
+    {
+      "title": "In This World Beyond",
+      "id": null
+    },
+    {
+      "title": "Hungry Hunter",
+      "id": null
+    },
+    {
+      "title": "So Lonely",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"id": "hungry-again-dolly-parton", "title": "Hungry Again", "artist": "Dolly Parton", "peak": 167, "history": [{"date": "1998-09-12", "rank": 167}, {"date": "1998-09-19", "rank": 171}]}
+{
+  "id": "hungry-again-dolly-parton",
+  "title": "Hungry Again",
+  "artist": "Dolly Parton",
+  "peak": 167,
+  "history": [
+    {
+      "date": "1998-09-12",
+      "rank": 167
+    },
+    {
+      "date": "1998-09-19",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Still Lost You",
+      "id": "i-will-always-love-you-dolly-parton"
+    },
+    {
+      "title": "Hungry Again",
+      "id": null
+    },
+    {
+      "title": "The Salt in My Tears",
+      "id": null
+    },
+    {
+      "title": "Honky Tonk Songs",
+      "id": null
+    },
+    {
+      "title": "Blue Valley Songbird",
+      "id": null
+    },
+    {
+      "title": "I Wanna Go Back There",
+      "id": null
+    },
+    {
+      "title": "When Jesus Comes Calling for Me",
+      "id": null
+    },
+    {
+      "title": "Time and Tears",
+      "id": null
+    },
+    {
+      "title": "I’ll Never Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "The Camel’s Heart",
+      "id": null
+    },
+    {
+      "title": "Paradise Road",
+      "id": null
+    },
+    {
+      "title": "Shine On",
+      "id": null
+    }
+  ]
+}

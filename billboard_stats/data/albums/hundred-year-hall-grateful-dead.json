@@ -1,1 +1,122 @@
-{"id": "hundred-year-hall-grateful-dead", "title": "Hundred Year Hall", "artist": "Grateful Dead", "peak": 26, "history": [{"date": "1995-10-14", "rank": 26}, {"date": "1995-10-21", "rank": 37}, {"date": "1995-10-28", "rank": 64}, {"date": "1995-11-04", "rank": 81}, {"date": "1995-11-11", "rank": 102}, {"date": "1995-11-18", "rank": 121}, {"date": "1995-11-25", "rank": 160}, {"date": "1995-12-02", "rank": 199}, {"date": "1995-12-16", "rank": 163}, {"date": "1995-12-23", "rank": 194}, {"date": "1995-12-30", "rank": 178}, {"date": "1996-01-06", "rank": 160}, {"date": "1996-01-13", "rank": 189}]}
+{
+  "id": "hundred-year-hall-grateful-dead",
+  "title": "Hundred Year Hall",
+  "artist": "Grateful Dead",
+  "peak": 26,
+  "history": [
+    {
+      "date": "1995-10-14",
+      "rank": 26
+    },
+    {
+      "date": "1995-10-21",
+      "rank": 37
+    },
+    {
+      "date": "1995-10-28",
+      "rank": 64
+    },
+    {
+      "date": "1995-11-04",
+      "rank": 81
+    },
+    {
+      "date": "1995-11-11",
+      "rank": 102
+    },
+    {
+      "date": "1995-11-18",
+      "rank": 121
+    },
+    {
+      "date": "1995-11-25",
+      "rank": 160
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 199
+    },
+    {
+      "date": "1995-12-16",
+      "rank": 163
+    },
+    {
+      "date": "1995-12-23",
+      "rank": 194
+    },
+    {
+      "date": "1995-12-30",
+      "rank": 178
+    },
+    {
+      "date": "1996-01-06",
+      "rank": 160
+    },
+    {
+      "date": "1996-01-13",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Truckin’",
+      "id": "truckin-grateful-dead"
+    },
+    {
+      "title": "Sugar Magnolia",
+      "id": "sugar-magnolia-grateful-dead"
+    },
+    {
+      "title": "Bertha",
+      "id": null
+    },
+    {
+      "title": "Me and My Uncle",
+      "id": null
+    },
+    {
+      "title": "Next Time You See Me",
+      "id": null
+    },
+    {
+      "title": "China Cat Sunflower",
+      "id": null
+    },
+    {
+      "title": "I Know You Rider",
+      "id": null
+    },
+    {
+      "title": "Jack Straw",
+      "id": null
+    },
+    {
+      "title": "Big Railroad Blues",
+      "id": null
+    },
+    {
+      "title": "Playing in the Band",
+      "id": null
+    },
+    {
+      "title": "Turn On Your Lovelight",
+      "id": null
+    },
+    {
+      "title": "Going Down the Road Feelin’ Bad",
+      "id": null
+    },
+    {
+      "title": "One More Saturday Night",
+      "id": null
+    },
+    {
+      "title": "The Other One",
+      "id": null
+    },
+    {
+      "title": "Comes a Time",
+      "id": null
+    }
+  ]
+}
