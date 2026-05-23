@@ -1,1 +1,62 @@
-{"id": "hey-jude-the-beatles", "title": "Hey Jude", "artist": "The Beatles", "peak": 72, "history": [{"date": "2014-02-08", "rank": 72}, {"date": "2014-02-15", "rank": 191}, {"date": "2014-03-01", "rank": 186}]}
+{
+  "id": "hey-jude-the-beatles",
+  "title": "Hey Jude",
+  "artist": "The Beatles",
+  "peak": 72,
+  "history": [
+    {
+      "date": "2014-02-08",
+      "rank": 72
+    },
+    {
+      "date": "2014-02-15",
+      "rank": 191
+    },
+    {
+      "date": "2014-03-01",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Can’t Buy Me Love",
+      "id": "can-t-buy-me-love-the-beatles"
+    },
+    {
+      "title": "I Should Have Known Better",
+      "id": "i-should-have-known-better-the-beatles"
+    },
+    {
+      "title": "Paperback Writer",
+      "id": "paperback-writer-the-beatles"
+    },
+    {
+      "title": "Rain",
+      "id": "rain-the-beatles"
+    },
+    {
+      "title": "Lady Madonna",
+      "id": "lady-madonna-the-beatles"
+    },
+    {
+      "title": "Revolution",
+      "id": "revolution-the-beatles"
+    },
+    {
+      "title": "Hey Jude",
+      "id": "hey-jude-the-beatles"
+    },
+    {
+      "title": "The Ballad of John and Yoko",
+      "id": "the-ballad-of-john-and-yoko-the-beatles"
+    },
+    {
+      "title": "Old Brown Shoe",
+      "id": null
+    },
+    {
+      "title": "Don’t Let Me Down",
+      "id": null
+    }
+  ]
+}

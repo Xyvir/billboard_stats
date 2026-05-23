@@ -1,1 +1,222 @@
-{"id": "high-adventure-kenny-loggins", "title": "High Adventure", "artist": "Kenny Loggins", "peak": 13, "history": [{"date": "1982-09-25", "rank": 31}, {"date": "1982-10-02", "rank": 22}, {"date": "1982-10-09", "rank": 17}, {"date": "1982-10-16", "rank": 15}, {"date": "1982-10-23", "rank": 13}, {"date": "1982-10-30", "rank": 13}, {"date": "1982-11-06", "rank": 13}, {"date": "1982-11-13", "rank": 30}, {"date": "1982-11-20", "rank": 39}, {"date": "1982-11-27", "rank": 44}, {"date": "1982-12-04", "rank": 42}, {"date": "1982-12-11", "rank": 42}, {"date": "1982-12-18", "rank": 42}, {"date": "1982-12-25", "rank": 42}, {"date": "1983-01-01", "rank": 42}, {"date": "1983-01-08", "rank": 42}, {"date": "1983-01-15", "rank": 54}, {"date": "1983-01-22", "rank": 53}, {"date": "1983-01-29", "rank": 53}, {"date": "1983-02-05", "rank": 53}, {"date": "1983-02-12", "rank": 53}, {"date": "1983-02-19", "rank": 53}, {"date": "1983-02-26", "rank": 52}, {"date": "1983-03-05", "rank": 52}, {"date": "1983-03-12", "rank": 52}, {"date": "1983-03-19", "rank": 52}, {"date": "1983-03-26", "rank": 50}, {"date": "1983-04-02", "rank": 50}, {"date": "1983-04-09", "rank": 50}, {"date": "1983-04-16", "rank": 50}, {"date": "1983-04-23", "rank": 50}, {"date": "1983-04-30", "rank": 58}, {"date": "1983-05-07", "rank": 64}, {"date": "1983-05-14", "rank": 69}, {"date": "1983-05-21", "rank": 66}, {"date": "1983-05-28", "rank": 78}, {"date": "1983-06-04", "rank": 88}, {"date": "1983-06-11", "rank": 91}, {"date": "1983-06-18", "rank": 123}, {"date": "1983-06-25", "rank": 142}, {"date": "1983-07-02", "rank": 157}, {"date": "1983-07-09", "rank": 173}, {"date": "1983-07-16", "rank": 178}, {"date": "1983-07-23", "rank": 199}]}
+{
+  "id": "high-adventure-kenny-loggins",
+  "title": "High Adventure",
+  "artist": "Kenny Loggins",
+  "peak": 13,
+  "history": [
+    {
+      "date": "1982-09-25",
+      "rank": 31
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 22
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 17
+    },
+    {
+      "date": "1982-10-16",
+      "rank": 15
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 13
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 13
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 13
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 30
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 39
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 44
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 42
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 42
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 42
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 42
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 42
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 42
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 54
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 53
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 53
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 53
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 53
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 53
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 52
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 52
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 52
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 52
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 50
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 50
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 50
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 50
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 50
+    },
+    {
+      "date": "1983-04-30",
+      "rank": 58
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 64
+    },
+    {
+      "date": "1983-05-14",
+      "rank": 69
+    },
+    {
+      "date": "1983-05-21",
+      "rank": 66
+    },
+    {
+      "date": "1983-05-28",
+      "rank": 78
+    },
+    {
+      "date": "1983-06-04",
+      "rank": 88
+    },
+    {
+      "date": "1983-06-11",
+      "rank": 91
+    },
+    {
+      "date": "1983-06-18",
+      "rank": 123
+    },
+    {
+      "date": "1983-06-25",
+      "rank": 142
+    },
+    {
+      "date": "1983-07-02",
+      "rank": 157
+    },
+    {
+      "date": "1983-07-09",
+      "rank": 173
+    },
+    {
+      "date": "1983-07-16",
+      "rank": 178
+    },
+    {
+      "date": "1983-07-23",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heartlight",
+      "id": "welcome-to-heartlight-kenny-loggins"
+    },
+    {
+      "title": "Heart to Heart",
+      "id": "heart-to-heart-kenny-loggins"
+    },
+    {
+      "title": "Don’t Fight It",
+      "id": null
+    },
+    {
+      "title": "I Gotta Try",
+      "id": null
+    },
+    {
+      "title": "Swear Your Love",
+      "id": null
+    },
+    {
+      "title": "The More We Try",
+      "id": null
+    },
+    {
+      "title": "If It’s Not What You’re Looking For",
+      "id": null
+    },
+    {
+      "title": "It Must Be Imagination",
+      "id": null
+    },
+    {
+      "title": "Only a Miracle",
+      "id": null
+    }
+  ]
+}

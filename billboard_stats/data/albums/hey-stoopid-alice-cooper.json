@@ -1,1 +1,118 @@
-{"id": "hey-stoopid-alice-cooper", "title": "Hey Stoopid", "artist": "Alice Cooper", "peak": 47, "history": [{"date": "1991-07-20", "rank": 47}, {"date": "1991-07-27", "rank": 53}, {"date": "1991-08-03", "rank": 52}, {"date": "1991-08-10", "rank": 58}, {"date": "1991-08-17", "rank": 61}, {"date": "1991-08-24", "rank": 56}, {"date": "1991-08-31", "rank": 64}, {"date": "1991-09-07", "rank": 80}, {"date": "1991-09-14", "rank": 80}, {"date": "1991-09-21", "rank": 92}, {"date": "1991-09-28", "rank": 132}, {"date": "1991-10-05", "rank": 170}, {"date": "1991-11-02", "rank": 191}]}
+{
+  "id": "hey-stoopid-alice-cooper",
+  "title": "Hey Stoopid",
+  "artist": "Alice Cooper",
+  "peak": 47,
+  "history": [
+    {
+      "date": "1991-07-20",
+      "rank": 47
+    },
+    {
+      "date": "1991-07-27",
+      "rank": 53
+    },
+    {
+      "date": "1991-08-03",
+      "rank": 52
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 58
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 61
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 56
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 64
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 80
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 80
+    },
+    {
+      "date": "1991-09-21",
+      "rank": 92
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 132
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 170
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hey Stoopid",
+      "id": "hey-stoopid-alice-cooper"
+    },
+    {
+      "title": "Love’s a Loaded Gun",
+      "id": null
+    },
+    {
+      "title": "Snakebite",
+      "id": null
+    },
+    {
+      "title": "Burning Our Bed",
+      "id": null
+    },
+    {
+      "title": "Dangerous Tonight",
+      "id": null
+    },
+    {
+      "title": "Might as Well Be on Mars",
+      "id": null
+    },
+    {
+      "title": "Feed My Frankenstein",
+      "id": null
+    },
+    {
+      "title": "Hurricane Years",
+      "id": null
+    },
+    {
+      "title": "Little by Little",
+      "id": null
+    },
+    {
+      "title": "Die for You",
+      "id": null
+    },
+    {
+      "title": "Dirty Dreams",
+      "id": null
+    },
+    {
+      "title": "Wind‐Up Toy",
+      "id": null
+    },
+    {
+      "title": "Fire",
+      "id": null
+    },
+    {
+      "title": "It Rained All Night",
+      "id": null
+    }
+  ]
+}

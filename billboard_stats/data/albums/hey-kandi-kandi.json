@@ -1,1 +1,98 @@
-{"id": "hey-kandi-kandi", "title": "Hey Kandi...", "artist": "Kandi", "peak": 72, "history": [{"date": "2000-10-07", "rank": 72}, {"date": "2000-10-14", "rank": 75}, {"date": "2000-10-21", "rank": 94}, {"date": "2000-10-28", "rank": 105}, {"date": "2000-11-04", "rank": 119}, {"date": "2000-11-11", "rank": 146}, {"date": "2000-11-18", "rank": 171}, {"date": "2000-11-25", "rank": 192}]}
+{
+  "id": "hey-kandi-kandi",
+  "title": "Hey Kandi...",
+  "artist": "Kandi",
+  "peak": 72,
+  "history": [
+    {
+      "date": "2000-10-07",
+      "rank": 72
+    },
+    {
+      "date": "2000-10-14",
+      "rank": 75
+    },
+    {
+      "date": "2000-10-21",
+      "rank": 94
+    },
+    {
+      "date": "2000-10-28",
+      "rank": 105
+    },
+    {
+      "date": "2000-11-04",
+      "rank": 119
+    },
+    {
+      "date": "2000-11-11",
+      "rank": 146
+    },
+    {
+      "date": "2000-11-18",
+      "rank": 171
+    },
+    {
+      "date": "2000-11-25",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Think I’m Not (LP version)",
+      "id": "don-t-think-i-m-not-kandi"
+    },
+    {
+      "title": "Introduction",
+      "id": null
+    },
+    {
+      "title": "Hey Kandi",
+      "id": null
+    },
+    {
+      "title": "Cheatin’ on Me",
+      "id": null
+    },
+    {
+      "title": "What I’m Gon’ Do to You",
+      "id": null
+    },
+    {
+      "title": "Pants on Fire",
+      "id": null
+    },
+    {
+      "title": "Can’t Come Back",
+      "id": null
+    },
+    {
+      "title": "I Wanna Know",
+      "id": null
+    },
+    {
+      "title": "Talking ’bout You",
+      "id": null
+    },
+    {
+      "title": "Sucka for You",
+      "id": null
+    },
+    {
+      "title": "I Won’t Bite My Tongue",
+      "id": null
+    },
+    {
+      "title": "Just So You Know",
+      "id": null
+    },
+    {
+      "title": "Easier",
+      "id": null
+    },
+    {
+      "title": "Outro",
+      "id": null
+    }
+  ]
+}
