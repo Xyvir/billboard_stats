@@ -1,1 +1,90 @@
-{"id": "doris-earl-sweatshirt", "title": "Doris", "artist": "Earl Sweatshirt", "peak": 5, "history": [{"date": "2013-09-07", "rank": 5}, {"date": "2013-09-14", "rank": 49}, {"date": "2013-09-21", "rank": 93}, {"date": "2013-09-28", "rank": 112}, {"date": "2013-10-05", "rank": 181}]}
+{
+  "id": "doris-earl-sweatshirt",
+  "title": "Doris",
+  "artist": "Earl Sweatshirt",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2013-09-07",
+      "rank": 5
+    },
+    {
+      "date": "2013-09-14",
+      "rank": 49
+    },
+    {
+      "date": "2013-09-21",
+      "rank": 93
+    },
+    {
+      "date": "2013-09-28",
+      "rank": 112
+    },
+    {
+      "date": "2013-10-05",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pre",
+      "id": null
+    },
+    {
+      "title": "Burgundy",
+      "id": null
+    },
+    {
+      "title": "20 Wave Caps",
+      "id": null
+    },
+    {
+      "title": "Sunday",
+      "id": null
+    },
+    {
+      "title": "Hive",
+      "id": null
+    },
+    {
+      "title": "Chum",
+      "id": null
+    },
+    {
+      "title": "Sasquatch",
+      "id": null
+    },
+    {
+      "title": "Centurion",
+      "id": null
+    },
+    {
+      "title": "523",
+      "id": null
+    },
+    {
+      "title": "Uncle Al",
+      "id": null
+    },
+    {
+      "title": "Guild",
+      "id": null
+    },
+    {
+      "title": "Molasses",
+      "id": null
+    },
+    {
+      "title": "Whoa",
+      "id": null
+    },
+    {
+      "title": "Hoarse",
+      "id": null
+    },
+    {
+      "title": "Knight",
+      "id": null
+    }
+  ]
+}

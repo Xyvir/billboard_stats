@@ -1,1 +1,110 @@
-{"id": "dopamine-lil-tecca", "title": "Dopamine", "artist": "Lil Tecca", "peak": 3, "history": [{"date": "2025-06-28", "rank": 3}, {"date": "2025-07-05", "rank": 14}, {"date": "2025-07-12", "rank": 33}, {"date": "2025-07-19", "rank": 59}, {"date": "2025-07-26", "rank": 103}, {"date": "2025-08-02", "rank": 146}, {"date": "2025-08-09", "rank": 157}, {"date": "2025-08-16", "rank": 183}]}
+{
+  "id": "dopamine-lil-tecca",
+  "title": "Dopamine",
+  "artist": "Lil Tecca",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2025-06-28",
+      "rank": 3
+    },
+    {
+      "date": "2025-07-05",
+      "rank": 14
+    },
+    {
+      "date": "2025-07-12",
+      "rank": 33
+    },
+    {
+      "date": "2025-07-19",
+      "rank": 59
+    },
+    {
+      "date": "2025-07-26",
+      "rank": 103
+    },
+    {
+      "date": "2025-08-02",
+      "rank": 146
+    },
+    {
+      "date": "2025-08-09",
+      "rank": 157
+    },
+    {
+      "date": "2025-08-16",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dark Thoughts",
+      "id": "dark-thoughts-lil-tecca"
+    },
+    {
+      "title": "OWA OWA",
+      "id": "owa-owa-lil-tecca"
+    },
+    {
+      "title": "Half the Plot",
+      "id": "half-the-plot-lil-tecca"
+    },
+    {
+      "title": "The Truth",
+      "id": null
+    },
+    {
+      "title": "Favorite Lie",
+      "id": null
+    },
+    {
+      "title": "Hollywood",
+      "id": null
+    },
+    {
+      "title": "X Factor",
+      "id": null
+    },
+    {
+      "title": "Don’t Rush",
+      "id": null
+    },
+    {
+      "title": "Boys Don’t Cry",
+      "id": null
+    },
+    {
+      "title": "Sure of It",
+      "id": null
+    },
+    {
+      "title": "LYK",
+      "id": null
+    },
+    {
+      "title": "On Your Own",
+      "id": null
+    },
+    {
+      "title": "One Night",
+      "id": null
+    },
+    {
+      "title": "Irish Goodbye",
+      "id": null
+    },
+    {
+      "title": "Wake Up",
+      "id": null
+    },
+    {
+      "title": "Malibu's Most Wanted",
+      "id": null
+    },
+    {
+      "title": "Tic Tac Toe",
+      "id": null
+    }
+  ]
+}

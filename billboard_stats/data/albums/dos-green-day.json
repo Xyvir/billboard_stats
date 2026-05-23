@@ -1,1 +1,98 @@
-{"id": "dos-green-day", "title": "Dos!", "artist": "Green Day", "peak": 9, "history": [{"date": "2012-12-01", "rank": 9}, {"date": "2012-12-08", "rank": 75}, {"date": "2012-12-15", "rank": 93}, {"date": "2012-12-22", "rank": 78}, {"date": "2012-12-29", "rank": 71}, {"date": "2013-01-05", "rank": 96}, {"date": "2013-01-12", "rank": 120}, {"date": "2013-01-19", "rank": 116}, {"date": "2013-01-26", "rank": 131}]}
+{
+  "id": "dos-green-day",
+  "title": "Dos!",
+  "artist": "Green Day",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2012-12-01",
+      "rank": 9
+    },
+    {
+      "date": "2012-12-08",
+      "rank": 75
+    },
+    {
+      "date": "2012-12-15",
+      "rank": 93
+    },
+    {
+      "date": "2012-12-22",
+      "rank": 78
+    },
+    {
+      "date": "2012-12-29",
+      "rank": 71
+    },
+    {
+      "date": "2013-01-05",
+      "rank": 96
+    },
+    {
+      "date": "2013-01-12",
+      "rank": 120
+    },
+    {
+      "date": "2013-01-19",
+      "rank": 116
+    },
+    {
+      "date": "2013-01-26",
+      "rank": 131
+    }
+  ],
+  "tracks": [
+    {
+      "title": "See You Tonight",
+      "id": null
+    },
+    {
+      "title": "Fuck Time",
+      "id": null
+    },
+    {
+      "title": "Stop When the Red Lights Flash",
+      "id": null
+    },
+    {
+      "title": "Lazy Bones",
+      "id": null
+    },
+    {
+      "title": "Wild One",
+      "id": null
+    },
+    {
+      "title": "Makeout Party",
+      "id": null
+    },
+    {
+      "title": "Stray Heart",
+      "id": null
+    },
+    {
+      "title": "Ashley",
+      "id": null
+    },
+    {
+      "title": "Baby Eyes",
+      "id": null
+    },
+    {
+      "title": "Lady Cobra",
+      "id": null
+    },
+    {
+      "title": "Nightlife",
+      "id": null
+    },
+    {
+      "title": "Wow! That’s Loud",
+      "id": null
+    },
+    {
+      "title": "Amy",
+      "id": null
+    }
+  ]
+}

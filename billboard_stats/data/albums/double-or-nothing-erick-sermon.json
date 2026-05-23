@@ -1,1 +1,94 @@
-{"id": "double-or-nothing-erick-sermon", "title": "Double Or Nothing", "artist": "Erick Sermon", "peak": 35, "history": [{"date": "1995-11-25", "rank": 35}, {"date": "1995-12-02", "rank": 71}, {"date": "1995-12-09", "rank": 141}, {"date": "1995-12-16", "rank": 185}]}
+{
+  "id": "double-or-nothing-erick-sermon",
+  "title": "Double Or Nothing",
+  "artist": "Erick Sermon",
+  "peak": 35,
+  "history": [
+    {
+      "date": "1995-11-25",
+      "rank": 35
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 71
+    },
+    {
+      "date": "1995-12-09",
+      "rank": 141
+    },
+    {
+      "date": "1995-12-16",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bomdigi",
+      "id": "bomdigi-erick-sermon"
+    },
+    {
+      "title": "Intro (skit)",
+      "id": null
+    },
+    {
+      "title": "Freak Out",
+      "id": null
+    },
+    {
+      "title": "In the Heat",
+      "id": null
+    },
+    {
+      "title": "Tell ’em",
+      "id": null
+    },
+    {
+      "title": "In the Studio (skit)",
+      "id": null
+    },
+    {
+      "title": "Boy Meets World",
+      "id": null
+    },
+    {
+      "title": "Welcome",
+      "id": null
+    },
+    {
+      "title": "Live in the Backyard (skit)",
+      "id": null
+    },
+    {
+      "title": "Set It Off",
+      "id": null
+    },
+    {
+      "title": "Focus",
+      "id": null
+    },
+    {
+      "title": "Move On",
+      "id": null
+    },
+    {
+      "title": "Smooth Thought (skit)",
+      "id": null
+    },
+    {
+      "title": "Do Your Thing",
+      "id": null
+    },
+    {
+      "title": "Man Above",
+      "id": null
+    },
+    {
+      "title": "The Message (skit)",
+      "id": null
+    },
+    {
+      "title": "Open Fire",
+      "id": null
+    }
+  ]
+}
