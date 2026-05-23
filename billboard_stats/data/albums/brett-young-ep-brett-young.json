@@ -1,1 +1,46 @@
-{"id": "brett-young-ep-brett-young", "title": "Brett Young EP", "artist": "Brett Young", "peak": 189, "history": [{"date": "2016-10-08", "rank": 189}, {"date": "2016-10-15", "rank": 196}, {"date": "2016-11-05", "rank": 191}]}
+{
+  "id": "brett-young-ep-brett-young",
+  "title": "Brett Young EP",
+  "artist": "Brett Young",
+  "peak": 189,
+  "history": [
+    {
+      "date": "2016-10-08",
+      "rank": 189
+    },
+    {
+      "date": "2016-10-15",
+      "rank": 196
+    },
+    {
+      "date": "2016-11-05",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sleep Without You",
+      "id": "sleep-without-you-brett-young"
+    },
+    {
+      "title": "In Case You Didn’t Know",
+      "id": "in-case-you-didn-t-know-brett-young"
+    },
+    {
+      "title": "Like I Loved You",
+      "id": "like-i-loved-you-brett-young"
+    },
+    {
+      "title": "You Ain’t Here to Kiss Me",
+      "id": null
+    },
+    {
+      "title": "Left Side of Leavin’",
+      "id": null
+    },
+    {
+      "title": "Beautiful Believer",
+      "id": null
+    }
+  ]
+}

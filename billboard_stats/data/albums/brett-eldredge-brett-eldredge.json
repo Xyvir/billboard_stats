@@ -1,1 +1,82 @@
-{"id": "brett-eldredge-brett-eldredge", "title": "Brett Eldredge", "artist": "Brett Eldredge", "peak": 2, "history": [{"date": "2017-08-26", "rank": 2}, {"date": "2017-09-02", "rank": 39}, {"date": "2017-09-09", "rank": 94}, {"date": "2017-09-16", "rank": 134}, {"date": "2017-09-23", "rank": 103}, {"date": "2017-09-30", "rank": 179}]}
+{
+  "id": "brett-eldredge-brett-eldredge",
+  "title": "Brett Eldredge",
+  "artist": "Brett Eldredge",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2017-08-26",
+      "rank": 2
+    },
+    {
+      "date": "2017-09-02",
+      "rank": 39
+    },
+    {
+      "date": "2017-09-09",
+      "rank": 94
+    },
+    {
+      "date": "2017-09-16",
+      "rank": 134
+    },
+    {
+      "date": "2017-09-23",
+      "rank": 103
+    },
+    {
+      "date": "2017-09-30",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Someone",
+      "id": "love-someone-brett-eldredge"
+    },
+    {
+      "title": "The Long Way",
+      "id": "the-long-way-brett-eldredge"
+    },
+    {
+      "title": "Superhero",
+      "id": null
+    },
+    {
+      "title": "The Reason",
+      "id": null
+    },
+    {
+      "title": "Somethin’ I’m Good At",
+      "id": null
+    },
+    {
+      "title": "Haven’t Met You",
+      "id": null
+    },
+    {
+      "title": "No Stopping You",
+      "id": null
+    },
+    {
+      "title": "Brother",
+      "id": null
+    },
+    {
+      "title": "Heartbreaker",
+      "id": null
+    },
+    {
+      "title": "Crystal Clear",
+      "id": null
+    },
+    {
+      "title": "Cycles",
+      "id": null
+    },
+    {
+      "title": "Castaway",
+      "id": null
+    }
+  ]
+}

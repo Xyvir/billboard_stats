@@ -1,1 +1,234 @@
-{"id": "breezy-chris-brown", "title": "Breezy", "artist": "Chris Brown", "peak": 4, "history": [{"date": "2022-07-09", "rank": 4}, {"date": "2022-07-16", "rank": 8}, {"date": "2022-07-23", "rank": 10}, {"date": "2022-07-30", "rank": 16}, {"date": "2022-08-06", "rank": 20}, {"date": "2022-08-13", "rank": 24}, {"date": "2022-08-20", "rank": 27}, {"date": "2022-08-27", "rank": 36}, {"date": "2022-09-03", "rank": 40}, {"date": "2022-09-10", "rank": 48}, {"date": "2022-09-17", "rank": 56}, {"date": "2022-09-24", "rank": 60}, {"date": "2022-10-01", "rank": 81}, {"date": "2022-10-08", "rank": 94}, {"date": "2022-10-15", "rank": 110}, {"date": "2022-10-22", "rank": 126}, {"date": "2022-10-29", "rank": 128}, {"date": "2022-11-05", "rank": 137}, {"date": "2022-11-12", "rank": 145}, {"date": "2022-11-19", "rank": 172}, {"date": "2022-11-26", "rank": 183}, {"date": "2022-12-03", "rank": 141}, {"date": "2022-12-10", "rank": 188}]}
+{
+  "id": "breezy-chris-brown",
+  "title": "Breezy",
+  "artist": "Chris Brown",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2022-07-09",
+      "rank": 4
+    },
+    {
+      "date": "2022-07-16",
+      "rank": 8
+    },
+    {
+      "date": "2022-07-23",
+      "rank": 10
+    },
+    {
+      "date": "2022-07-30",
+      "rank": 16
+    },
+    {
+      "date": "2022-08-06",
+      "rank": 20
+    },
+    {
+      "date": "2022-08-13",
+      "rank": 24
+    },
+    {
+      "date": "2022-08-20",
+      "rank": 27
+    },
+    {
+      "date": "2022-08-27",
+      "rank": 36
+    },
+    {
+      "date": "2022-09-03",
+      "rank": 40
+    },
+    {
+      "date": "2022-09-10",
+      "rank": 48
+    },
+    {
+      "date": "2022-09-17",
+      "rank": 56
+    },
+    {
+      "date": "2022-09-24",
+      "rank": 60
+    },
+    {
+      "date": "2022-10-01",
+      "rank": 81
+    },
+    {
+      "date": "2022-10-08",
+      "rank": 94
+    },
+    {
+      "date": "2022-10-15",
+      "rank": 110
+    },
+    {
+      "date": "2022-10-22",
+      "rank": 126
+    },
+    {
+      "date": "2022-10-29",
+      "rank": 128
+    },
+    {
+      "date": "2022-11-05",
+      "rank": 137
+    },
+    {
+      "date": "2022-11-12",
+      "rank": 145
+    },
+    {
+      "date": "2022-11-19",
+      "rank": 172
+    },
+    {
+      "date": "2022-11-26",
+      "rank": 183
+    },
+    {
+      "date": "2022-12-03",
+      "rank": 141
+    },
+    {
+      "date": "2022-12-10",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "WE (Warm Embrace)",
+      "id": "we-warm-embrace-chris-brown"
+    },
+    {
+      "title": "Dream",
+      "id": "dreamer-chris-brown"
+    },
+    {
+      "title": "Iffy",
+      "id": "iffy-chris-brown"
+    },
+    {
+      "title": "Till the Wheels Fall Off",
+      "id": null
+    },
+    {
+      "title": "C.A.B. (Catch a Body)",
+      "id": null
+    },
+    {
+      "title": "Pitch Black",
+      "id": null
+    },
+    {
+      "title": "Possessive",
+      "id": null
+    },
+    {
+      "title": "Addicted",
+      "id": null
+    },
+    {
+      "title": "Call Me Every Day",
+      "id": null
+    },
+    {
+      "title": "Closure",
+      "id": null
+    },
+    {
+      "title": "Need You Right Here",
+      "id": null
+    },
+    {
+      "title": "Sex Memories",
+      "id": null
+    },
+    {
+      "title": "Hmhmm",
+      "id": null
+    },
+    {
+      "title": "Psychic",
+      "id": null
+    },
+    {
+      "title": "Show It",
+      "id": null
+    },
+    {
+      "title": "Sleep at Night",
+      "id": null
+    },
+    {
+      "title": "Passing Time",
+      "id": null
+    },
+    {
+      "title": "Forbidden",
+      "id": null
+    },
+    {
+      "title": "Bad Then a Beach",
+      "id": null
+    },
+    {
+      "title": "Survive the Night",
+      "id": null
+    },
+    {
+      "title": "Slide",
+      "id": null
+    },
+    {
+      "title": "Harder",
+      "id": null
+    },
+    {
+      "title": "On Some New Shit",
+      "id": null
+    },
+    {
+      "title": "Luckiest Man",
+      "id": null
+    },
+    {
+      "title": "Hit My Line",
+      "id": null
+    },
+    {
+      "title": "Inner Peace",
+      "id": null
+    },
+    {
+      "title": "Talm’ Bout",
+      "id": null
+    },
+    {
+      "title": "Hate Me Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Hate Being Human",
+      "id": null
+    },
+    {
+      "title": "Nobody Has To Know",
+      "id": null
+    },
+    {
+      "title": "Special Delivery",
+      "id": null
+    },
+    {
+      "title": "Petty",
+      "id": null
+    },
+    {
+      "title": "In The City",
+      "id": null
+    }
+  ]
+}

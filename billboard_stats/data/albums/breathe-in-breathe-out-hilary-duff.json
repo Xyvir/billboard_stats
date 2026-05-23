@@ -1,1 +1,74 @@
-{"id": "breathe-in-breathe-out-hilary-duff", "title": "Breathe In. Breathe Out.", "artist": "Hilary Duff", "peak": 5, "history": [{"date": "2015-07-04", "rank": 5}, {"date": "2015-07-11", "rank": 65}, {"date": "2015-07-18", "rank": 134}, {"date": "2015-07-25", "rank": 163}]}
+{
+  "id": "breathe-in-breathe-out-hilary-duff",
+  "title": "Breathe In. Breathe Out.",
+  "artist": "Hilary Duff",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2015-07-04",
+      "rank": 5
+    },
+    {
+      "date": "2015-07-11",
+      "rank": 65
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 134
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sparks",
+      "id": "sparks-hilary-duff"
+    },
+    {
+      "title": "My Kind",
+      "id": null
+    },
+    {
+      "title": "One in a Million",
+      "id": null
+    },
+    {
+      "title": "Confetti",
+      "id": null
+    },
+    {
+      "title": "Breathe In. Breathe Out.",
+      "id": null
+    },
+    {
+      "title": "Lies",
+      "id": null
+    },
+    {
+      "title": "Arms Around a Memory",
+      "id": null
+    },
+    {
+      "title": "Stay in Love",
+      "id": null
+    },
+    {
+      "title": "Brave Heart",
+      "id": null
+    },
+    {
+      "title": "Tattoo",
+      "id": null
+    },
+    {
+      "title": "Picture This",
+      "id": null
+    },
+    {
+      "title": "Night Like This",
+      "id": null
+    }
+  ]
+}
