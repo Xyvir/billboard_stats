@@ -1,1 +1,210 @@
-{"id": "luther-vandross-luther-vandross", "title": "Luther Vandross", "artist": "Luther Vandross", "peak": 6, "history": [{"date": "2001-07-07", "rank": 6}, {"date": "2001-07-14", "rank": 12}, {"date": "2001-07-21", "rank": 12}, {"date": "2001-07-28", "rank": 13}, {"date": "2001-08-04", "rank": 20}, {"date": "2001-08-11", "rank": 28}, {"date": "2001-08-18", "rank": 34}, {"date": "2001-08-25", "rank": 34}, {"date": "2001-09-01", "rank": 43}, {"date": "2001-09-08", "rank": 44}, {"date": "2001-09-15", "rank": 51}, {"date": "2001-09-22", "rank": 57}, {"date": "2001-09-29", "rank": 70}, {"date": "2001-10-06", "rank": 84}, {"date": "2001-10-13", "rank": 80}, {"date": "2001-10-20", "rank": 84}, {"date": "2001-10-27", "rank": 91}, {"date": "2001-11-03", "rank": 97}, {"date": "2001-11-10", "rank": 113}, {"date": "2001-11-17", "rank": 103}, {"date": "2001-11-24", "rank": 117}, {"date": "2001-12-01", "rank": 140}, {"date": "2001-12-08", "rank": 153}, {"date": "2001-12-15", "rank": 182}, {"date": "2002-01-05", "rank": 198}, {"date": "2002-01-26", "rank": 188}, {"date": "2002-02-02", "rank": 191}, {"date": "2002-02-09", "rank": 199}, {"date": "2002-02-16", "rank": 164}, {"date": "2002-02-23", "rank": 153}, {"date": "2002-03-02", "rank": 146}, {"date": "2002-03-09", "rank": 147}, {"date": "2002-03-16", "rank": 162}, {"date": "2002-03-23", "rank": 191}, {"date": "2002-03-30", "rank": 186}, {"date": "2002-04-06", "rank": 192}, {"date": "2002-05-04", "rank": 194}, {"date": "2002-05-18", "rank": 194}, {"date": "2002-05-25", "rank": 185}, {"date": "2002-06-01", "rank": 196}, {"date": "2002-07-06", "rank": 198}]}
+{
+  "id": "luther-vandross-luther-vandross",
+  "title": "Luther Vandross",
+  "artist": "Luther Vandross",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2001-07-07",
+      "rank": 6
+    },
+    {
+      "date": "2001-07-14",
+      "rank": 12
+    },
+    {
+      "date": "2001-07-21",
+      "rank": 12
+    },
+    {
+      "date": "2001-07-28",
+      "rank": 13
+    },
+    {
+      "date": "2001-08-04",
+      "rank": 20
+    },
+    {
+      "date": "2001-08-11",
+      "rank": 28
+    },
+    {
+      "date": "2001-08-18",
+      "rank": 34
+    },
+    {
+      "date": "2001-08-25",
+      "rank": 34
+    },
+    {
+      "date": "2001-09-01",
+      "rank": 43
+    },
+    {
+      "date": "2001-09-08",
+      "rank": 44
+    },
+    {
+      "date": "2001-09-15",
+      "rank": 51
+    },
+    {
+      "date": "2001-09-22",
+      "rank": 57
+    },
+    {
+      "date": "2001-09-29",
+      "rank": 70
+    },
+    {
+      "date": "2001-10-06",
+      "rank": 84
+    },
+    {
+      "date": "2001-10-13",
+      "rank": 80
+    },
+    {
+      "date": "2001-10-20",
+      "rank": 84
+    },
+    {
+      "date": "2001-10-27",
+      "rank": 91
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 97
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 113
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 103
+    },
+    {
+      "date": "2001-11-24",
+      "rank": 117
+    },
+    {
+      "date": "2001-12-01",
+      "rank": 140
+    },
+    {
+      "date": "2001-12-08",
+      "rank": 153
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 182
+    },
+    {
+      "date": "2002-01-05",
+      "rank": 198
+    },
+    {
+      "date": "2002-01-26",
+      "rank": 188
+    },
+    {
+      "date": "2002-02-02",
+      "rank": 191
+    },
+    {
+      "date": "2002-02-09",
+      "rank": 199
+    },
+    {
+      "date": "2002-02-16",
+      "rank": 164
+    },
+    {
+      "date": "2002-02-23",
+      "rank": 153
+    },
+    {
+      "date": "2002-03-02",
+      "rank": 146
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 147
+    },
+    {
+      "date": "2002-03-16",
+      "rank": 162
+    },
+    {
+      "date": "2002-03-23",
+      "rank": 191
+    },
+    {
+      "date": "2002-03-30",
+      "rank": 186
+    },
+    {
+      "date": "2002-04-06",
+      "rank": 192
+    },
+    {
+      "date": "2002-05-04",
+      "rank": 194
+    },
+    {
+      "date": "2002-05-18",
+      "rank": 194
+    },
+    {
+      "date": "2002-05-25",
+      "rank": 185
+    },
+    {
+      "date": "2002-06-01",
+      "rank": 196
+    },
+    {
+      "date": "2002-07-06",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bad Boy / Having a Party",
+      "id": "bad-boy-having-a-party-luther-vandross"
+    },
+    {
+      "title": "Never Too Much",
+      "id": "never-too-much-luther-vandross"
+    },
+    {
+      "title": "Better Love",
+      "id": "stop-to-love-luther-vandross"
+    },
+    {
+      "title": "You’re the Sweetest One",
+      "id": "your-secret-love-luther-vandross"
+    },
+    {
+      "title": "Since I Lost My Baby",
+      "id": null
+    },
+    {
+      "title": "She Loves Me Back",
+      "id": null
+    },
+    {
+      "title": "A House Is Not a Home",
+      "id": null
+    },
+    {
+      "title": "She’s a Super Lady",
+      "id": null
+    },
+    {
+      "title": "Sugar and Spice (I Found Me a Girl)",
+      "id": null
+    }
+  ]
+}

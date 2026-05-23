@@ -1,1 +1,62 @@
-{"id": "luis-miguel-luis-miguel", "title": "Luis Miguel", "artist": "Luis Miguel", "peak": 45, "history": [{"date": "2010-10-02", "rank": 45}, {"date": "2010-10-09", "rank": 69}, {"date": "2010-10-16", "rank": 194}]}
+{
+  "id": "luis-miguel-luis-miguel",
+  "title": "Luis Miguel",
+  "artist": "Luis Miguel",
+  "peak": 45,
+  "history": [
+    {
+      "date": "2010-10-02",
+      "rank": 45
+    },
+    {
+      "date": "2010-10-09",
+      "rank": 69
+    },
+    {
+      "date": "2010-10-16",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Labios de miel",
+      "id": null
+    },
+    {
+      "title": "Mujer de fuego",
+      "id": null
+    },
+    {
+      "title": "Tres palabras",
+      "id": null
+    },
+    {
+      "title": "Ella es así",
+      "id": null
+    },
+    {
+      "title": "No existen límites",
+      "id": null
+    },
+    {
+      "title": "Siento",
+      "id": null
+    },
+    {
+      "title": "Lo que queda de mí",
+      "id": null
+    },
+    {
+      "title": "Es por ti",
+      "id": null
+    },
+    {
+      "title": "De quién es usted",
+      "id": null
+    },
+    {
+      "title": "Tal vez me mientes",
+      "id": null
+    }
+  ]
+}

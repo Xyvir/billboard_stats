@@ -1,1 +1,70 @@
-{"id": "lunch-audience", "title": "Lunch", "artist": "Audience", "peak": 175, "history": [{"date": "1972-06-24", "rank": 191}, {"date": "1972-07-01", "rank": 185}, {"date": "1972-07-08", "rank": 179}, {"date": "1972-07-15", "rank": 175}, {"date": "1972-07-22", "rank": 175}]}
+{
+  "id": "lunch-audience",
+  "title": "Lunch",
+  "artist": "Audience",
+  "peak": 175,
+  "history": [
+    {
+      "date": "1972-06-24",
+      "rank": 191
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 185
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 179
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 175
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stand by the Door",
+      "id": null
+    },
+    {
+      "title": "Seven Sore Bruises",
+      "id": null
+    },
+    {
+      "title": "Hula Girl",
+      "id": null
+    },
+    {
+      "title": "Ain't the Man You Need",
+      "id": null
+    },
+    {
+      "title": "In Accord",
+      "id": null
+    },
+    {
+      "title": "Barracuda Dan",
+      "id": null
+    },
+    {
+      "title": "Thunder and Lightnin'",
+      "id": null
+    },
+    {
+      "title": "Party Games",
+      "id": null
+    },
+    {
+      "title": "Trombone Gulch",
+      "id": null
+    },
+    {
+      "title": "Buy Me an Island",
+      "id": null
+    }
+  ]
+}
