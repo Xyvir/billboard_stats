@@ -1,1 +1,374 @@
-{"id": "mama-said-knock-you-out-ll-cool-j", "title": "Mama Said Knock You Out", "artist": "LL Cool J", "peak": 16, "history": [{"date": "1990-10-06", "rank": 42}, {"date": "1990-10-13", "rank": 25}, {"date": "1990-10-20", "rank": 17}, {"date": "1990-10-27", "rank": 18}, {"date": "1990-11-03", "rank": 16}, {"date": "1990-11-10", "rank": 20}, {"date": "1990-11-17", "rank": 28}, {"date": "1990-11-24", "rank": 29}, {"date": "1990-12-01", "rank": 41}, {"date": "1990-12-08", "rank": 44}, {"date": "1990-12-15", "rank": 46}, {"date": "1990-12-22", "rank": 45}, {"date": "1990-12-29", "rank": 45}, {"date": "1991-01-05", "rank": 56}, {"date": "1991-01-12", "rank": 46}, {"date": "1991-01-19", "rank": 39}, {"date": "1991-01-26", "rank": 36}, {"date": "1991-02-02", "rank": 34}, {"date": "1991-02-09", "rank": 31}, {"date": "1991-02-16", "rank": 30}, {"date": "1991-02-23", "rank": 29}, {"date": "1991-03-02", "rank": 26}, {"date": "1991-03-09", "rank": 26}, {"date": "1991-03-16", "rank": 24}, {"date": "1991-03-23", "rank": 24}, {"date": "1991-03-30", "rank": 22}, {"date": "1991-04-06", "rank": 21}, {"date": "1991-04-13", "rank": 23}, {"date": "1991-04-20", "rank": 21}, {"date": "1991-04-27", "rank": 22}, {"date": "1991-05-04", "rank": 24}, {"date": "1991-05-11", "rank": 21}, {"date": "1991-05-18", "rank": 18}, {"date": "1991-05-25", "rank": 19}, {"date": "1991-06-01", "rank": 18}, {"date": "1991-06-08", "rank": 19}, {"date": "1991-06-15", "rank": 19}, {"date": "1991-06-22", "rank": 18}, {"date": "1991-06-29", "rank": 20}, {"date": "1991-07-06", "rank": 20}, {"date": "1991-07-13", "rank": 23}, {"date": "1991-07-20", "rank": 28}, {"date": "1991-07-27", "rank": 30}, {"date": "1991-08-03", "rank": 34}, {"date": "1991-08-10", "rank": 41}, {"date": "1991-08-17", "rank": 50}, {"date": "1991-08-24", "rank": 50}, {"date": "1991-08-31", "rank": 54}, {"date": "1991-09-07", "rank": 52}, {"date": "1991-09-14", "rank": 46}, {"date": "1991-09-21", "rank": 51}, {"date": "1991-09-28", "rank": 55}, {"date": "1991-10-05", "rank": 58}, {"date": "1991-10-12", "rank": 67}, {"date": "1991-10-19", "rank": 88}, {"date": "1991-10-26", "rank": 99}, {"date": "1991-11-02", "rank": 102}, {"date": "1991-11-09", "rank": 123}, {"date": "1991-11-16", "rank": 130}, {"date": "1991-11-23", "rank": 138}, {"date": "1991-11-30", "rank": 144}, {"date": "1991-12-07", "rank": 157}, {"date": "1991-12-14", "rank": 158}, {"date": "1991-12-21", "rank": 145}, {"date": "1991-12-28", "rank": 145}, {"date": "1992-01-04", "rank": 123}, {"date": "1992-01-11", "rank": 119}, {"date": "1992-01-18", "rank": 111}, {"date": "1992-01-25", "rank": 138}, {"date": "1992-02-01", "rank": 153}, {"date": "1992-02-08", "rank": 177}, {"date": "1992-02-15", "rank": 172}, {"date": "1992-02-22", "rank": 176}, {"date": "1992-03-07", "rank": 200}, {"date": "1992-03-14", "rank": 194}, {"date": "1992-03-21", "rank": 178}]}
+{
+  "id": "mama-said-knock-you-out-ll-cool-j",
+  "title": "Mama Said Knock You Out",
+  "artist": "LL Cool J",
+  "peak": 16,
+  "history": [
+    {
+      "date": "1990-10-06",
+      "rank": 42
+    },
+    {
+      "date": "1990-10-13",
+      "rank": 25
+    },
+    {
+      "date": "1990-10-20",
+      "rank": 17
+    },
+    {
+      "date": "1990-10-27",
+      "rank": 18
+    },
+    {
+      "date": "1990-11-03",
+      "rank": 16
+    },
+    {
+      "date": "1990-11-10",
+      "rank": 20
+    },
+    {
+      "date": "1990-11-17",
+      "rank": 28
+    },
+    {
+      "date": "1990-11-24",
+      "rank": 29
+    },
+    {
+      "date": "1990-12-01",
+      "rank": 41
+    },
+    {
+      "date": "1990-12-08",
+      "rank": 44
+    },
+    {
+      "date": "1990-12-15",
+      "rank": 46
+    },
+    {
+      "date": "1990-12-22",
+      "rank": 45
+    },
+    {
+      "date": "1990-12-29",
+      "rank": 45
+    },
+    {
+      "date": "1991-01-05",
+      "rank": 56
+    },
+    {
+      "date": "1991-01-12",
+      "rank": 46
+    },
+    {
+      "date": "1991-01-19",
+      "rank": 39
+    },
+    {
+      "date": "1991-01-26",
+      "rank": 36
+    },
+    {
+      "date": "1991-02-02",
+      "rank": 34
+    },
+    {
+      "date": "1991-02-09",
+      "rank": 31
+    },
+    {
+      "date": "1991-02-16",
+      "rank": 30
+    },
+    {
+      "date": "1991-02-23",
+      "rank": 29
+    },
+    {
+      "date": "1991-03-02",
+      "rank": 26
+    },
+    {
+      "date": "1991-03-09",
+      "rank": 26
+    },
+    {
+      "date": "1991-03-16",
+      "rank": 24
+    },
+    {
+      "date": "1991-03-23",
+      "rank": 24
+    },
+    {
+      "date": "1991-03-30",
+      "rank": 22
+    },
+    {
+      "date": "1991-04-06",
+      "rank": 21
+    },
+    {
+      "date": "1991-04-13",
+      "rank": 23
+    },
+    {
+      "date": "1991-04-20",
+      "rank": 21
+    },
+    {
+      "date": "1991-04-27",
+      "rank": 22
+    },
+    {
+      "date": "1991-05-04",
+      "rank": 24
+    },
+    {
+      "date": "1991-05-11",
+      "rank": 21
+    },
+    {
+      "date": "1991-05-18",
+      "rank": 18
+    },
+    {
+      "date": "1991-05-25",
+      "rank": 19
+    },
+    {
+      "date": "1991-06-01",
+      "rank": 18
+    },
+    {
+      "date": "1991-06-08",
+      "rank": 19
+    },
+    {
+      "date": "1991-06-15",
+      "rank": 19
+    },
+    {
+      "date": "1991-06-22",
+      "rank": 18
+    },
+    {
+      "date": "1991-06-29",
+      "rank": 20
+    },
+    {
+      "date": "1991-07-06",
+      "rank": 20
+    },
+    {
+      "date": "1991-07-13",
+      "rank": 23
+    },
+    {
+      "date": "1991-07-20",
+      "rank": 28
+    },
+    {
+      "date": "1991-07-27",
+      "rank": 30
+    },
+    {
+      "date": "1991-08-03",
+      "rank": 34
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 41
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 50
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 50
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 54
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 52
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 46
+    },
+    {
+      "date": "1991-09-21",
+      "rank": 51
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 55
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 58
+    },
+    {
+      "date": "1991-10-12",
+      "rank": 67
+    },
+    {
+      "date": "1991-10-19",
+      "rank": 88
+    },
+    {
+      "date": "1991-10-26",
+      "rank": 99
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 102
+    },
+    {
+      "date": "1991-11-09",
+      "rank": 123
+    },
+    {
+      "date": "1991-11-16",
+      "rank": 130
+    },
+    {
+      "date": "1991-11-23",
+      "rank": 138
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 144
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 157
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 158
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 145
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 145
+    },
+    {
+      "date": "1992-01-04",
+      "rank": 123
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 119
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 111
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 138
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 153
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 177
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 172
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 176
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 200
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 194
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Boomin’ System",
+      "id": "the-boomin-system-ll-cool-j"
+    },
+    {
+      "title": "Around the Way Girl",
+      "id": "around-the-way-girl-ll-cool-j"
+    },
+    {
+      "title": "Mama Said Knock You Out",
+      "id": "mama-said-knock-you-out-ll-cool-j"
+    },
+    {
+      "title": "6 Minutes of Pleasure",
+      "id": "6-minutes-of-pleasure-ll-cool-j"
+    },
+    {
+      "title": "Mama Said Knock You Out (Steering mix)",
+      "id": "mama-said-knock-you-out-ll-cool-j"
+    },
+    {
+      "title": "Eat ’Em Up L Chill",
+      "id": null
+    },
+    {
+      "title": "Mr. Good Bar",
+      "id": null
+    },
+    {
+      "title": "Murdergram",
+      "id": null
+    },
+    {
+      "title": "Cheesy Rat Blues",
+      "id": null
+    },
+    {
+      "title": "Farmers Blvd. (Our Anthem)",
+      "id": null
+    },
+    {
+      "title": "Milky Cereal",
+      "id": null
+    },
+    {
+      "title": "Jingling Baby (Remixed but Still Jingling)",
+      "id": null
+    },
+    {
+      "title": "To da Break of Dawn",
+      "id": null
+    },
+    {
+      "title": "Illegal Search",
+      "id": null
+    },
+    {
+      "title": "The Power of God",
+      "id": null
+    }
+  ]
+}
