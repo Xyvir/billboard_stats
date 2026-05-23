@@ -1,1 +1,70 @@
-{"id": "blue-mountain-bob-weir", "title": "Blue Mountain", "artist": "Bob Weir", "peak": 14, "history": [{"date": "2016-10-22", "rank": 14}, {"date": "2016-10-29", "rank": 118}, {"date": "2016-11-05", "rank": 161}]}
+{
+  "id": "blue-mountain-bob-weir",
+  "title": "Blue Mountain",
+  "artist": "Bob Weir",
+  "peak": 14,
+  "history": [
+    {
+      "date": "2016-10-22",
+      "rank": 14
+    },
+    {
+      "date": "2016-10-29",
+      "rank": 118
+    },
+    {
+      "date": "2016-11-05",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Only a River",
+      "id": null
+    },
+    {
+      "title": "Cottonwood Lullaby",
+      "id": null
+    },
+    {
+      "title": "Gonesville",
+      "id": null
+    },
+    {
+      "title": "Lay My Lily Down",
+      "id": null
+    },
+    {
+      "title": "Gallop on the Run",
+      "id": null
+    },
+    {
+      "title": "Whatever Happened to Rose",
+      "id": null
+    },
+    {
+      "title": "Ghost Towns",
+      "id": null
+    },
+    {
+      "title": "Darkest Hour",
+      "id": null
+    },
+    {
+      "title": "Ki-Yi Bossie",
+      "id": null
+    },
+    {
+      "title": "Storm Country",
+      "id": null
+    },
+    {
+      "title": "Blue Mountain",
+      "id": null
+    },
+    {
+      "title": "One More River to Cross",
+      "id": null
+    }
+  ]
+}

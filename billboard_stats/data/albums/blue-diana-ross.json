@@ -1,1 +1,78 @@
-{"id": "blue-diana-ross", "title": "Blue", "artist": "Diana Ross", "peak": 146, "history": [{"date": "2006-07-08", "rank": 146}]}
+{
+  "id": "blue-diana-ross",
+  "title": "Blue",
+  "artist": "Diana Ross",
+  "peak": 146,
+  "history": [
+    {
+      "date": "2006-07-08",
+      "rank": 146
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let’s Do It",
+      "id": "let-s-go-up-diana-ross"
+    },
+    {
+      "title": "You’ve Changed",
+      "id": "love-hangover-diana-ross"
+    },
+    {
+      "title": "What a Diff’rence a Day Makes",
+      "id": null
+    },
+    {
+      "title": "No More",
+      "id": null
+    },
+    {
+      "title": "I Loves Ya Porgy",
+      "id": null
+    },
+    {
+      "title": "Smile",
+      "id": null
+    },
+    {
+      "title": "But Beautiful",
+      "id": null
+    },
+    {
+      "title": "Had You Been Around",
+      "id": null
+    },
+    {
+      "title": "Little Girl Blue",
+      "id": null
+    },
+    {
+      "title": "Can’t Get Started With You",
+      "id": null
+    },
+    {
+      "title": "Love Is Here to Stay",
+      "id": null
+    },
+    {
+      "title": "My Man (Mon Homme)",
+      "id": null
+    },
+    {
+      "title": "Easy Living",
+      "id": null
+    },
+    {
+      "title": "Solitude",
+      "id": null
+    },
+    {
+      "title": "He’s Funny That Way",
+      "id": null
+    },
+    {
+      "title": "T’ain’t Nobody’s Bizness If I Do",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,110 @@
-{"id": "blueprint-2-1-jay-z", "title": "Blueprint 2.1", "artist": "Jay-Z", "peak": 17, "history": [{"date": "2003-04-26", "rank": 17}, {"date": "2003-05-03", "rank": 62}, {"date": "2003-05-10", "rank": 65}, {"date": "2003-05-17", "rank": 66}, {"date": "2003-05-24", "rank": 99}, {"date": "2003-05-31", "rank": 103}, {"date": "2003-06-07", "rank": 127}, {"date": "2003-06-14", "rank": 128}, {"date": "2003-06-21", "rank": 156}, {"date": "2003-06-28", "rank": 187}, {"date": "2003-07-05", "rank": 188}, {"date": "2003-07-12", "rank": 190}, {"date": "2003-07-19", "rank": 196}]}
+{
+  "id": "blueprint-2-1-jay-z",
+  "title": "Blueprint 2.1",
+  "artist": "Jay-Z",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2003-04-26",
+      "rank": 17
+    },
+    {
+      "date": "2003-05-03",
+      "rank": 62
+    },
+    {
+      "date": "2003-05-10",
+      "rank": 65
+    },
+    {
+      "date": "2003-05-17",
+      "rank": 66
+    },
+    {
+      "date": "2003-05-24",
+      "rank": 99
+    },
+    {
+      "date": "2003-05-31",
+      "rank": 103
+    },
+    {
+      "date": "2003-06-07",
+      "rank": 127
+    },
+    {
+      "date": "2003-06-14",
+      "rank": 128
+    },
+    {
+      "date": "2003-06-21",
+      "rank": 156
+    },
+    {
+      "date": "2003-06-28",
+      "rank": 187
+    },
+    {
+      "date": "2003-07-05",
+      "rank": 188
+    },
+    {
+      "date": "2003-07-12",
+      "rank": 190
+    },
+    {
+      "date": "2003-07-19",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Excuse Me Miss",
+      "id": "excuse-me-miss-jay-z"
+    },
+    {
+      "title": "A Dream",
+      "id": null
+    },
+    {
+      "title": "Hovi Baby",
+      "id": null
+    },
+    {
+      "title": "The Watcher 2",
+      "id": null
+    },
+    {
+      "title": "’03 Bonnie & Clyde",
+      "id": null
+    },
+    {
+      "title": "All Around the World",
+      "id": null
+    },
+    {
+      "title": "Guns & Roses",
+      "id": null
+    },
+    {
+      "title": "U Don’t Know (remix)",
+      "id": null
+    },
+    {
+      "title": "Meet the Parents",
+      "id": null
+    },
+    {
+      "title": "Some How Some Way",
+      "id": null
+    },
+    {
+      "title": "The Bounce",
+      "id": null
+    },
+    {
+      "title": "What They Gonna Do, Part II / La La La (Excuse Me Miss Again) / Stop",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,282 @@
-{"id": "blue-light-red-light-harry-connick-jr", "title": "Blue Light, Red Light", "artist": "Harry Connick, Jr.", "peak": 17, "history": [{"date": "1991-10-12", "rank": 23}, {"date": "1991-10-19", "rank": 23}, {"date": "1991-10-26", "rank": 26}, {"date": "1991-11-02", "rank": 21}, {"date": "1991-11-09", "rank": 21}, {"date": "1991-11-16", "rank": 23}, {"date": "1991-11-23", "rank": 24}, {"date": "1991-11-30", "rank": 27}, {"date": "1991-12-07", "rank": 27}, {"date": "1991-12-14", "rank": 23}, {"date": "1991-12-21", "rank": 23}, {"date": "1991-12-28", "rank": 23}, {"date": "1992-01-04", "rank": 20}, {"date": "1992-01-11", "rank": 19}, {"date": "1992-01-18", "rank": 26}, {"date": "1992-01-25", "rank": 34}, {"date": "1992-02-01", "rank": 36}, {"date": "1992-02-08", "rank": 30}, {"date": "1992-02-15", "rank": 26}, {"date": "1992-02-22", "rank": 24}, {"date": "1992-02-29", "rank": 17}, {"date": "1992-03-07", "rank": 31}, {"date": "1992-03-14", "rank": 40}, {"date": "1992-03-21", "rank": 43}, {"date": "1992-03-28", "rank": 44}, {"date": "1992-04-04", "rank": 44}, {"date": "1992-04-11", "rank": 44}, {"date": "1992-04-18", "rank": 62}, {"date": "1992-04-25", "rank": 75}, {"date": "1992-05-02", "rank": 88}, {"date": "1992-05-09", "rank": 107}, {"date": "1992-05-16", "rank": 106}, {"date": "1992-05-23", "rank": 82}, {"date": "1992-05-30", "rank": 114}, {"date": "1992-06-06", "rank": 128}, {"date": "1992-06-13", "rank": 116}, {"date": "1992-06-20", "rank": 125}, {"date": "1992-06-27", "rank": 128}, {"date": "1992-07-04", "rank": 90}, {"date": "1992-07-11", "rank": 111}, {"date": "1992-07-18", "rank": 144}, {"date": "1992-07-25", "rank": 156}, {"date": "1992-08-01", "rank": 158}, {"date": "1992-08-08", "rank": 161}, {"date": "1992-08-15", "rank": 171}, {"date": "1992-08-22", "rank": 164}, {"date": "1992-08-29", "rank": 173}, {"date": "1992-09-05", "rank": 190}, {"date": "1992-09-12", "rank": 182}, {"date": "1993-01-02", "rank": 181}, {"date": "1993-01-09", "rank": 164}]}
+{
+  "id": "blue-light-red-light-harry-connick-jr",
+  "title": "Blue Light, Red Light",
+  "artist": "Harry Connick, Jr.",
+  "peak": 17,
+  "history": [
+    {
+      "date": "1991-10-12",
+      "rank": 23
+    },
+    {
+      "date": "1991-10-19",
+      "rank": 23
+    },
+    {
+      "date": "1991-10-26",
+      "rank": 26
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 21
+    },
+    {
+      "date": "1991-11-09",
+      "rank": 21
+    },
+    {
+      "date": "1991-11-16",
+      "rank": 23
+    },
+    {
+      "date": "1991-11-23",
+      "rank": 24
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 27
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 27
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 23
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 23
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 23
+    },
+    {
+      "date": "1992-01-04",
+      "rank": 20
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 19
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 26
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 34
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 36
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 30
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 26
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 24
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 17
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 31
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 40
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 43
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 44
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 44
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 44
+    },
+    {
+      "date": "1992-04-18",
+      "rank": 62
+    },
+    {
+      "date": "1992-04-25",
+      "rank": 75
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 88
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 107
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 106
+    },
+    {
+      "date": "1992-05-23",
+      "rank": 82
+    },
+    {
+      "date": "1992-05-30",
+      "rank": 114
+    },
+    {
+      "date": "1992-06-06",
+      "rank": 128
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 116
+    },
+    {
+      "date": "1992-06-20",
+      "rank": 125
+    },
+    {
+      "date": "1992-06-27",
+      "rank": 128
+    },
+    {
+      "date": "1992-07-04",
+      "rank": 90
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 111
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 144
+    },
+    {
+      "date": "1992-07-25",
+      "rank": 156
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 158
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 161
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 171
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 164
+    },
+    {
+      "date": "1992-08-29",
+      "rank": 173
+    },
+    {
+      "date": "1992-09-05",
+      "rank": 190
+    },
+    {
+      "date": "1992-09-12",
+      "rank": 182
+    },
+    {
+      "date": "1993-01-02",
+      "rank": 181
+    },
+    {
+      "date": "1993-01-09",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blue Light, Red Light (Someone’s There)",
+      "id": null
+    },
+    {
+      "title": "A Blessing and a Curse",
+      "id": null
+    },
+    {
+      "title": "You Didn’t Know Me When",
+      "id": null
+    },
+    {
+      "title": "Jill",
+      "id": null
+    },
+    {
+      "title": "He Is They Are",
+      "id": null
+    },
+    {
+      "title": "With Imagination (I’ll Get There)",
+      "id": null
+    },
+    {
+      "title": "If I Could Give You More",
+      "id": null
+    },
+    {
+      "title": "The Last Payday",
+      "id": null
+    },
+    {
+      "title": "It’s Time",
+      "id": null
+    },
+    {
+      "title": "She Belongs to Me",
+      "id": null
+    },
+    {
+      "title": "Sonny Cried",
+      "id": null
+    },
+    {
+      "title": "Just Kiss Me",
+      "id": null
+    },
+    {
+      "title": "Stompin' at the Savoy (live)",
+      "id": null
+    },
+    {
+      "title": "I Could Write a Book (live)",
+      "id": null
+    },
+    {
+      "title": "Don't Get Around Much Anymore (live)",
+      "id": null
+    },
+    {
+      "title": "Recipe for Love (live)",
+      "id": null
+    },
+    {
+      "title": "It Had to Be You (live)",
+      "id": null
+    }
+  ]
+}
