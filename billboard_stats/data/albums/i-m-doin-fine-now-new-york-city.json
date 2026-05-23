@@ -1,1 +1,94 @@
-{"id": "i-m-doin-fine-now-new-york-city", "title": "I'm Doin' Fine Now", "artist": "New York City", "peak": 122, "history": [{"date": "1973-06-16", "rank": 192}, {"date": "1973-06-23", "rank": 169}, {"date": "1973-06-30", "rank": 148}, {"date": "1973-07-07", "rank": 133}, {"date": "1973-07-14", "rank": 130}, {"date": "1973-07-21", "rank": 122}, {"date": "1973-07-28", "rank": 134}, {"date": "1973-08-04", "rank": 137}, {"date": "1973-08-11", "rank": 170}, {"date": "1973-08-18", "rank": 187}]}
+{
+  "id": "i-m-doin-fine-now-new-york-city",
+  "title": "I'm Doin' Fine Now",
+  "artist": "New York City",
+  "peak": 122,
+  "history": [
+    {
+      "date": "1973-06-16",
+      "rank": 192
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 169
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 148
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 133
+    },
+    {
+      "date": "1973-07-14",
+      "rank": 130
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 122
+    },
+    {
+      "date": "1973-07-28",
+      "rank": 134
+    },
+    {
+      "date": "1973-08-04",
+      "rank": 137
+    },
+    {
+      "date": "1973-08-11",
+      "rank": 170
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Make Me Twice the Man",
+      "id": "make-me-twice-the-man-new-york-city"
+    },
+    {
+      "title": "Quick, Fast, in a Hurry",
+      "id": "quick-fast-in-a-hurry-new-york-city"
+    },
+    {
+      "title": "I’m Doin’ Fine Now",
+      "id": "i-m-doin-fine-now-new-york-city"
+    },
+    {
+      "title": "Hang Your Head in Shame",
+      "id": null
+    },
+    {
+      "title": "By the Time I Get to Phoenix",
+      "id": null
+    },
+    {
+      "title": "Sanity",
+      "id": null
+    },
+    {
+      "title": "Hang On Sloopy",
+      "id": null
+    },
+    {
+      "title": "Set the Record Straight",
+      "id": null
+    },
+    {
+      "title": "Uncle James",
+      "id": null
+    },
+    {
+      "title": "Ain’t It So",
+      "id": null
+    },
+    {
+      "title": "Reach Out",
+      "id": null
+    }
+  ]
+}
