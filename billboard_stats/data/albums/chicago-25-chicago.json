@@ -1,1 +1,110 @@
-{"id": "chicago-25-chicago", "title": "Chicago 25", "artist": "Chicago", "peak": 47, "history": [{"date": "1998-11-28", "rank": 178}, {"date": "1998-12-05", "rank": 129}, {"date": "1998-12-12", "rank": 47}, {"date": "1998-12-19", "rank": 49}, {"date": "1998-12-26", "rank": 60}, {"date": "1999-01-02", "rank": 70}, {"date": "1999-01-09", "rank": 96}]}
+{
+  "id": "chicago-25-chicago",
+  "title": "Chicago 25",
+  "artist": "Chicago",
+  "peak": 47,
+  "history": [
+    {
+      "date": "1998-11-28",
+      "rank": 178
+    },
+    {
+      "date": "1998-12-05",
+      "rank": 129
+    },
+    {
+      "date": "1998-12-12",
+      "rank": 47
+    },
+    {
+      "date": "1998-12-19",
+      "rank": 49
+    },
+    {
+      "date": "1998-12-26",
+      "rank": 60
+    },
+    {
+      "date": "1999-01-02",
+      "rank": 70
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 96
+    }
+  ],
+  "tracks": [
+    {
+      "title": "25 or 6 to 4",
+      "id": "25-or-6-to-4-chicago"
+    },
+    {
+      "title": "If You Leave Me Now",
+      "id": "if-you-leave-me-now-chicago"
+    },
+    {
+      "title": "Does Anybody Really Know What Time It Is?",
+      "id": "does-anybody-really-know-what-time-it-is-chicago"
+    },
+    {
+      "title": "Hard to Say I’m Sorry / Get Away",
+      "id": "hard-to-say-i-m-sorry-chicago"
+    },
+    {
+      "title": "Just You ’n’ Me",
+      "id": "just-you-n-me-chicago"
+    },
+    {
+      "title": "Saturday in the Park",
+      "id": "saturday-in-the-park-chicago"
+    },
+    {
+      "title": "Colour My World",
+      "id": "beginnings-colour-my-world-chicago"
+    },
+    {
+      "title": "Wishing You Were Here",
+      "id": "wishing-you-were-here-chicago"
+    },
+    {
+      "title": "Alive Again",
+      "id": "alive-again-chicago"
+    },
+    {
+      "title": "No Tell Lover",
+      "id": "no-tell-lover-chicago"
+    },
+    {
+      "title": "Make Me Smile",
+      "id": "make-me-smile-chicago"
+    },
+    {
+      "title": "Another Rainy Day in New York City",
+      "id": "another-rainy-day-in-new-york-city-chicago"
+    },
+    {
+      "title": "Feelin’ Stronger Every Day",
+      "id": "feelin-stronger-every-day-chicago"
+    },
+    {
+      "title": "Baby, What a Big Suprise",
+      "id": "baby-what-a-big-surprise-chicago"
+    },
+    {
+      "title": "(I’ve Been) Searching So Long",
+      "id": "i-ve-been-searchin-so-long-chicago"
+    },
+    {
+      "title": "Hard Habit to Break",
+      "id": "hard-habit-to-break-chicago"
+    },
+    {
+      "title": "Gone Long Gone",
+      "id": "gone-long-gone-chicago"
+    },
+    {
+      "title": "I’m a Man",
+      "id": null
+    }
+  ]
+}

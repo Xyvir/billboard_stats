@@ -1,1 +1,98 @@
-{"id": "chicago-13-chicago", "title": "Chicago 13", "artist": "Chicago", "peak": 21, "history": [{"date": "1979-09-01", "rank": 45}, {"date": "1979-09-08", "rank": 33}, {"date": "1979-09-15", "rank": 26}, {"date": "1979-09-22", "rank": 23}, {"date": "1979-09-29", "rank": 21}, {"date": "1979-10-06", "rank": 21}, {"date": "1979-10-13", "rank": 73}, {"date": "1979-10-20", "rank": 128}, {"date": "1979-10-27", "rank": 162}, {"date": "1979-11-03", "rank": 181}]}
+{
+  "id": "chicago-13-chicago",
+  "title": "Chicago 13",
+  "artist": "Chicago",
+  "peak": 21,
+  "history": [
+    {
+      "date": "1979-09-01",
+      "rank": 45
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 33
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 26
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 23
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 21
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 21
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 73
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 128
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 162
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Must Have Been Crazy",
+      "id": "must-have-been-crazy-chicago"
+    },
+    {
+      "title": "Street Player",
+      "id": null
+    },
+    {
+      "title": "Mama Take",
+      "id": null
+    },
+    {
+      "title": "Window Dreamin’",
+      "id": null
+    },
+    {
+      "title": "Paradise Alley",
+      "id": null
+    },
+    {
+      "title": "Aloha Mama",
+      "id": null
+    },
+    {
+      "title": "Reruns",
+      "id": null
+    },
+    {
+      "title": "Loser With a Broken Heart",
+      "id": null
+    },
+    {
+      "title": "Life Is What It Is",
+      "id": null
+    },
+    {
+      "title": "Run Away",
+      "id": null
+    },
+    {
+      "title": "Closer to You",
+      "id": null
+    },
+    {
+      "title": "Street Player (dance mix)",
+      "id": null
+    }
+  ]
+}
