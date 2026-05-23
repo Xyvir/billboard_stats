@@ -1,1 +1,66 @@
-{"id": "i-wanna-be-selfish-ashford-simpson", "title": "I Wanna Be Selfish", "artist": "Ashford & Simpson", "peak": 195, "history": [{"date": "1974-07-20", "rank": 195}, {"date": "1974-07-27", "rank": 199}, {"date": "1974-08-03", "rank": 199}, {"date": "1974-08-10", "rank": 200}]}
+{
+  "id": "i-wanna-be-selfish-ashford-simpson",
+  "title": "I Wanna Be Selfish",
+  "artist": "Ashford & Simpson",
+  "peak": 195,
+  "history": [
+    {
+      "date": "1974-07-20",
+      "rank": 195
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 199
+    },
+    {
+      "date": "1974-08-03",
+      "rank": 199
+    },
+    {
+      "date": "1974-08-10",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Spoiled",
+      "id": "solid-ashford-simpson"
+    },
+    {
+      "title": "Everybody’s Got to Give It Up",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be Selfish",
+      "id": null
+    },
+    {
+      "title": "I Had a Love",
+      "id": null
+    },
+    {
+      "title": "Main Line",
+      "id": null
+    },
+    {
+      "title": "Ain’t That Something",
+      "id": null
+    },
+    {
+      "title": "Don’t Fight It",
+      "id": null
+    },
+    {
+      "title": "Ain’t Nothin’ but a Maybe",
+      "id": null
+    },
+    {
+      "title": "Over to Where You Are",
+      "id": null
+    },
+    {
+      "title": "Take All the Time You Need",
+      "id": null
+    }
+  ]
+}
