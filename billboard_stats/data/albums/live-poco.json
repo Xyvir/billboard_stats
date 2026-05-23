@@ -1,1 +1,54 @@
-{"id": "live-poco", "title": "Live", "artist": "Poco", "peak": 169, "history": [{"date": "1976-04-03", "rank": 184}, {"date": "1976-04-10", "rank": 171}, {"date": "1976-04-17", "rank": 169}, {"date": "1976-04-24", "rank": 169}]}
+{
+  "id": "live-poco",
+  "title": "Live",
+  "artist": "Poco",
+  "peak": 169,
+  "history": [
+    {
+      "date": "1976-04-03",
+      "rank": 184
+    },
+    {
+      "date": "1976-04-10",
+      "rank": 171
+    },
+    {
+      "date": "1976-04-17",
+      "rank": 169
+    },
+    {
+      "date": "1976-04-24",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ride The Country",
+      "id": "under-the-gun-poco"
+    },
+    {
+      "title": "Medley: Blue Water/Fool's Gold/Rocky Mountain Breakdown",
+      "id": null
+    },
+    {
+      "title": "Bad Weather",
+      "id": null
+    },
+    {
+      "title": "Angel",
+      "id": null
+    },
+    {
+      "title": "High And Dry",
+      "id": null
+    },
+    {
+      "title": "Restrain",
+      "id": null
+    },
+    {
+      "title": "A Good Feelin' To Know",
+      "id": null
+    }
+  ]
+}

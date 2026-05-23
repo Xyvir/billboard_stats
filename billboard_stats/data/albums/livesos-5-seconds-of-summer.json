@@ -1,1 +1,102 @@
-{"id": "livesos-5-seconds-of-summer", "title": "LIVESOS", "artist": "5 Seconds of Summer", "peak": 13, "history": [{"date": "2015-01-03", "rank": 13}, {"date": "2015-01-10", "rank": 18}, {"date": "2015-01-17", "rank": 22}, {"date": "2015-01-24", "rank": 37}, {"date": "2015-01-31", "rank": 132}, {"date": "2015-02-07", "rank": 143}, {"date": "2015-02-14", "rank": 197}]}
+{
+  "id": "livesos-5-seconds-of-summer",
+  "title": "LIVESOS",
+  "artist": "5 Seconds of Summer",
+  "peak": 13,
+  "history": [
+    {
+      "date": "2015-01-03",
+      "rank": 13
+    },
+    {
+      "date": "2015-01-10",
+      "rank": 18
+    },
+    {
+      "date": "2015-01-17",
+      "rank": 22
+    },
+    {
+      "date": "2015-01-24",
+      "rank": 37
+    },
+    {
+      "date": "2015-01-31",
+      "rank": 132
+    },
+    {
+      "date": "2015-02-07",
+      "rank": 143
+    },
+    {
+      "date": "2015-02-14",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Amnesia",
+      "id": "amnesia-5-seconds-of-summer"
+    },
+    {
+      "title": "Everything I Didn’t Say",
+      "id": "everything-i-didn-t-say-5-seconds-of-summer"
+    },
+    {
+      "title": "Kiss Me Kiss Me",
+      "id": "kiss-me-kiss-me-5-seconds-of-summer"
+    },
+    {
+      "title": "Good Girls",
+      "id": "good-girls-5-seconds-of-summer"
+    },
+    {
+      "title": "She Looks So Perfect",
+      "id": "she-looks-so-perfect-5-seconds-of-summer"
+    },
+    {
+      "title": "18",
+      "id": null
+    },
+    {
+      "title": "Out of My Limit",
+      "id": null
+    },
+    {
+      "title": "Disconnected",
+      "id": null
+    },
+    {
+      "title": "Beside You",
+      "id": null
+    },
+    {
+      "title": "Long Way Home",
+      "id": null
+    },
+    {
+      "title": "Heartache on the Big Screen",
+      "id": null
+    },
+    {
+      "title": "American Idiot",
+      "id": null
+    },
+    {
+      "title": "Teenage Dream",
+      "id": null
+    },
+    {
+      "title": "What I Like About You",
+      "id": null
+    },
+    {
+      "title": "End Up Here",
+      "id": null
+    },
+    {
+      "title": "What I Like About You (studio mix)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"id": "live-rare-korn", "title": "Live & Rare", "artist": "Korn", "peak": 51, "history": [{"date": "2006-05-27", "rank": 51}, {"date": "2006-06-03", "rank": 99}, {"date": "2006-06-10", "rank": 144}, {"date": "2006-06-17", "rank": 171}]}
+{
+  "id": "live-rare-korn",
+  "title": "Live & Rare",
+  "artist": "Korn",
+  "peak": 51,
+  "history": [
+    {
+      "date": "2006-05-27",
+      "rank": 51
+    },
+    {
+      "date": "2006-06-03",
+      "rank": 99
+    },
+    {
+      "date": "2006-06-10",
+      "rank": 144
+    },
+    {
+      "date": "2006-06-17",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Did My Time",
+      "id": "did-my-time-korn"
+    },
+    {
+      "title": "Here to Stay",
+      "id": "here-to-stay-korn"
+    },
+    {
+      "title": "Blind",
+      "id": null
+    },
+    {
+      "title": "Falling Away From Me",
+      "id": null
+    },
+    {
+      "title": "Right Now",
+      "id": null
+    },
+    {
+      "title": "Got the Life",
+      "id": null
+    },
+    {
+      "title": "Freak on a Leash",
+      "id": null
+    },
+    {
+      "title": "Another Brick in the Wall, Parts 1, 2 & 3",
+      "id": null
+    },
+    {
+      "title": "One",
+      "id": null
+    },
+    {
+      "title": "My Gift to You",
+      "id": null
+    },
+    {
+      "title": "A.D.I.D.A.S.",
+      "id": null
+    },
+    {
+      "title": "Earache My Eye",
+      "id": null
+    },
+    {
+      "title": "Proud",
+      "id": null
+    }
+  ]
+}
