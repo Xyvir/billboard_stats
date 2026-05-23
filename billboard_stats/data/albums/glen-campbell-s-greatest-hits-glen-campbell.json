@@ -1,1 +1,82 @@
-{"id": "glen-campbell-s-greatest-hits-glen-campbell", "title": "Glen Campbell's Greatest Hits", "artist": "Glen Campbell", "peak": 151, "history": [{"date": "1975-09-27", "rank": 175}, {"date": "1975-10-04", "rank": 164}, {"date": "1975-10-11", "rank": 160}, {"date": "1975-10-18", "rank": 153}, {"date": "1975-10-25", "rank": 151}, {"date": "1975-11-01", "rank": 173}]}
+{
+  "id": "glen-campbell-s-greatest-hits-glen-campbell",
+  "title": "Glen Campbell's Greatest Hits",
+  "artist": "Glen Campbell",
+  "peak": 151,
+  "history": [
+    {
+      "date": "1975-09-27",
+      "rank": 175
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 164
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 160
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 153
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 151
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Honey Come Back",
+      "id": "honey-come-back-glen-campbell"
+    },
+    {
+      "title": "Gentle on My Mind",
+      "id": "gentle-on-my-mind-glen-campbell"
+    },
+    {
+      "title": "Everything a Man Could Ever Need",
+      "id": "everything-a-man-could-ever-need-glen-campbell"
+    },
+    {
+      "title": "Galveston",
+      "id": "galveston-glen-campbell"
+    },
+    {
+      "title": "Try a Little Kindness",
+      "id": "try-a-little-kindness-glen-campbell"
+    },
+    {
+      "title": "Dreams of the Everyday Housewife",
+      "id": "dreams-of-the-everyday-housewife-glen-campbell"
+    },
+    {
+      "title": "By the Time I Get to Phoenix",
+      "id": "by-the-time-i-get-to-phoenix-glen-campbell"
+    },
+    {
+      "title": "Dream Baby (How Long Must I Dream)",
+      "id": "dream-baby-how-long-must-i-dream-glen-campbell"
+    },
+    {
+      "title": "Where’s the Playground, Susie?",
+      "id": "where-s-the-playground-susie-glen-campbell"
+    },
+    {
+      "title": "It’s Only Make Believe",
+      "id": "it-s-only-make-believe-glen-campbell"
+    },
+    {
+      "title": "Wichita Lineman",
+      "id": "wichita-lineman-glen-campbell"
+    },
+    {
+      "title": "All I Have to Do Is Dream",
+      "id": "all-i-have-to-do-is-dream-bobbie-gentry-glen-campbell"
+    }
+  ]
+}
