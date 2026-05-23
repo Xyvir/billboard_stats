@@ -1,1 +1,102 @@
-{"id": "down-to-earth-rainbow", "title": "Down To Earth", "artist": "Rainbow", "peak": 66, "history": [{"date": "1979-08-25", "rank": 110}, {"date": "1979-09-01", "rank": 100}, {"date": "1979-09-08", "rank": 90}, {"date": "1979-09-15", "rank": 80}, {"date": "1979-09-22", "rank": 69}, {"date": "1979-09-29", "rank": 67}, {"date": "1979-10-06", "rank": 66}, {"date": "1979-10-13", "rank": 69}, {"date": "1979-10-20", "rank": 109}, {"date": "1979-10-27", "rank": 119}, {"date": "1979-11-03", "rank": 118}, {"date": "1979-11-10", "rank": 164}, {"date": "1979-11-17", "rank": 179}, {"date": "1979-11-24", "rank": 197}, {"date": "1979-12-01", "rank": 198}]}
+{
+  "id": "down-to-earth-rainbow",
+  "title": "Down To Earth",
+  "artist": "Rainbow",
+  "peak": 66,
+  "history": [
+    {
+      "date": "1979-08-25",
+      "rank": 110
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 100
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 90
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 80
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 69
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 67
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 66
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 69
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 109
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 119
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 118
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 164
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 179
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 197
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Since You Been Gone",
+      "id": "since-you-been-gone-rainbow"
+    },
+    {
+      "title": "All Night Long",
+      "id": null
+    },
+    {
+      "title": "Eyes of the World",
+      "id": null
+    },
+    {
+      "title": "No Time to Lose",
+      "id": null
+    },
+    {
+      "title": "Makin’ Love",
+      "id": null
+    },
+    {
+      "title": "Love’s No Friend",
+      "id": null
+    },
+    {
+      "title": "Danger Zone",
+      "id": null
+    },
+    {
+      "title": "Lost in Hollywood",
+      "id": null
+    }
+  ]
+}

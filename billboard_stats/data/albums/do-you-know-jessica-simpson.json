@@ -1,1 +1,90 @@
-{"id": "do-you-know-jessica-simpson", "title": "Do You Know", "artist": "Jessica Simpson", "peak": 4, "history": [{"date": "2008-09-27", "rank": 4}, {"date": "2008-10-04", "rank": 18}, {"date": "2008-10-11", "rank": 37}, {"date": "2008-10-18", "rank": 56}, {"date": "2008-10-25", "rank": 71}, {"date": "2008-11-01", "rank": 93}, {"date": "2008-11-08", "rank": 116}, {"date": "2008-11-15", "rank": 182}, {"date": "2008-11-22", "rank": 190}]}
+{
+  "id": "do-you-know-jessica-simpson",
+  "title": "Do You Know",
+  "artist": "Jessica Simpson",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2008-09-27",
+      "rank": 4
+    },
+    {
+      "date": "2008-10-04",
+      "rank": 18
+    },
+    {
+      "date": "2008-10-11",
+      "rank": 37
+    },
+    {
+      "date": "2008-10-18",
+      "rank": 56
+    },
+    {
+      "date": "2008-10-25",
+      "rank": 71
+    },
+    {
+      "date": "2008-11-01",
+      "rank": 93
+    },
+    {
+      "date": "2008-11-08",
+      "rank": 116
+    },
+    {
+      "date": "2008-11-15",
+      "rank": 182
+    },
+    {
+      "date": "2008-11-22",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Come on Over",
+      "id": "come-on-over-jessica-simpson"
+    },
+    {
+      "title": "Remember That",
+      "id": null
+    },
+    {
+      "title": "Pray Out Loud",
+      "id": null
+    },
+    {
+      "title": "You’re My Sunday",
+      "id": null
+    },
+    {
+      "title": "Sipping on History",
+      "id": null
+    },
+    {
+      "title": "Still Beautiful",
+      "id": null
+    },
+    {
+      "title": "Still Don’t Stop Me",
+      "id": null
+    },
+    {
+      "title": "When I Loved You Like That",
+      "id": null
+    },
+    {
+      "title": "Might as Well Be Making Love",
+      "id": null
+    },
+    {
+      "title": "Man Enough",
+      "id": null
+    },
+    {
+      "title": "Do You Know",
+      "id": null
+    }
+  ]
+}
