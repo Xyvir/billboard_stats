@@ -1,1 +1,238 @@
-{"id": "jojo-jojo", "title": "JoJo", "artist": "JoJo", "peak": 4, "history": [{"date": "2004-07-10", "rank": 4}, {"date": "2004-07-17", "rank": 17}, {"date": "2004-07-24", "rank": 11}, {"date": "2004-07-31", "rank": 12}, {"date": "2004-08-07", "rank": 14}, {"date": "2004-08-14", "rank": 20}, {"date": "2004-08-21", "rank": 18}, {"date": "2004-08-28", "rank": 24}, {"date": "2004-09-04", "rank": 25}, {"date": "2004-09-11", "rank": 35}, {"date": "2004-09-18", "rank": 35}, {"date": "2004-09-25", "rank": 26}, {"date": "2004-10-02", "rank": 30}, {"date": "2004-10-09", "rank": 36}, {"date": "2004-10-16", "rank": 42}, {"date": "2004-10-23", "rank": 49}, {"date": "2004-10-30", "rank": 42}, {"date": "2004-11-06", "rank": 44}, {"date": "2004-11-13", "rank": 43}, {"date": "2004-11-20", "rank": 44}, {"date": "2004-11-27", "rank": 56}, {"date": "2004-12-04", "rank": 42}, {"date": "2004-12-11", "rank": 49}, {"date": "2004-12-18", "rank": 53}, {"date": "2004-12-25", "rank": 51}, {"date": "2005-01-01", "rank": 49}, {"date": "2005-01-08", "rank": 43}, {"date": "2005-01-15", "rank": 45}, {"date": "2005-01-22", "rank": 57}, {"date": "2005-01-29", "rank": 58}, {"date": "2005-02-05", "rank": 54}, {"date": "2005-02-12", "rank": 76}, {"date": "2005-02-19", "rank": 92}, {"date": "2005-02-26", "rank": 110}, {"date": "2005-03-05", "rank": 117}, {"date": "2005-03-12", "rank": 130}, {"date": "2005-03-19", "rank": 145}, {"date": "2005-03-26", "rank": 155}, {"date": "2005-04-02", "rank": 162}, {"date": "2005-04-09", "rank": 137}, {"date": "2005-04-16", "rank": 183}]}
+{
+  "id": "jojo-jojo",
+  "title": "JoJo",
+  "artist": "JoJo",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2004-07-10",
+      "rank": 4
+    },
+    {
+      "date": "2004-07-17",
+      "rank": 17
+    },
+    {
+      "date": "2004-07-24",
+      "rank": 11
+    },
+    {
+      "date": "2004-07-31",
+      "rank": 12
+    },
+    {
+      "date": "2004-08-07",
+      "rank": 14
+    },
+    {
+      "date": "2004-08-14",
+      "rank": 20
+    },
+    {
+      "date": "2004-08-21",
+      "rank": 18
+    },
+    {
+      "date": "2004-08-28",
+      "rank": 24
+    },
+    {
+      "date": "2004-09-04",
+      "rank": 25
+    },
+    {
+      "date": "2004-09-11",
+      "rank": 35
+    },
+    {
+      "date": "2004-09-18",
+      "rank": 35
+    },
+    {
+      "date": "2004-09-25",
+      "rank": 26
+    },
+    {
+      "date": "2004-10-02",
+      "rank": 30
+    },
+    {
+      "date": "2004-10-09",
+      "rank": 36
+    },
+    {
+      "date": "2004-10-16",
+      "rank": 42
+    },
+    {
+      "date": "2004-10-23",
+      "rank": 49
+    },
+    {
+      "date": "2004-10-30",
+      "rank": 42
+    },
+    {
+      "date": "2004-11-06",
+      "rank": 44
+    },
+    {
+      "date": "2004-11-13",
+      "rank": 43
+    },
+    {
+      "date": "2004-11-20",
+      "rank": 44
+    },
+    {
+      "date": "2004-11-27",
+      "rank": 56
+    },
+    {
+      "date": "2004-12-04",
+      "rank": 42
+    },
+    {
+      "date": "2004-12-11",
+      "rank": 49
+    },
+    {
+      "date": "2004-12-18",
+      "rank": 53
+    },
+    {
+      "date": "2004-12-25",
+      "rank": 51
+    },
+    {
+      "date": "2005-01-01",
+      "rank": 49
+    },
+    {
+      "date": "2005-01-08",
+      "rank": 43
+    },
+    {
+      "date": "2005-01-15",
+      "rank": 45
+    },
+    {
+      "date": "2005-01-22",
+      "rank": 57
+    },
+    {
+      "date": "2005-01-29",
+      "rank": 58
+    },
+    {
+      "date": "2005-02-05",
+      "rank": 54
+    },
+    {
+      "date": "2005-02-12",
+      "rank": 76
+    },
+    {
+      "date": "2005-02-19",
+      "rank": 92
+    },
+    {
+      "date": "2005-02-26",
+      "rank": 110
+    },
+    {
+      "date": "2005-03-05",
+      "rank": 117
+    },
+    {
+      "date": "2005-03-12",
+      "rank": 130
+    },
+    {
+      "date": "2005-03-19",
+      "rank": 145
+    },
+    {
+      "date": "2005-03-26",
+      "rank": 155
+    },
+    {
+      "date": "2005-04-02",
+      "rank": 162
+    },
+    {
+      "date": "2005-04-09",
+      "rank": 137
+    },
+    {
+      "date": "2005-04-16",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Leave (Get Out)",
+      "id": "leave-get-out-jojo"
+    },
+    {
+      "title": "Butterflies",
+      "id": null
+    },
+    {
+      "title": "Breezy",
+      "id": null
+    },
+    {
+      "title": "Baby It’s You",
+      "id": null
+    },
+    {
+      "title": "Not That Kinda Girl",
+      "id": null
+    },
+    {
+      "title": "The Happy Song",
+      "id": null
+    },
+    {
+      "title": "Homeboy",
+      "id": null
+    },
+    {
+      "title": "City Lights",
+      "id": null
+    },
+    {
+      "title": "Use My Shoulder",
+      "id": null
+    },
+    {
+      "title": "Never Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "Weak",
+      "id": null
+    },
+    {
+      "title": "Keep On Keepin’ On",
+      "id": null
+    },
+    {
+      "title": "Sunshine",
+      "id": null
+    },
+    {
+      "title": "Yes or No",
+      "id": null
+    },
+    {
+      "title": "Fairy Tales",
+      "id": null
+    },
+    {
+      "title": "Back and Forth",
+      "id": null
+    }
+  ]
+}

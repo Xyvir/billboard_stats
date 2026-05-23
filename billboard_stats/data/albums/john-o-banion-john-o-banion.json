@@ -1,1 +1,66 @@
-{"id": "john-o-banion-john-o-banion", "title": "John O'banion", "artist": "John O'Banion", "peak": 164, "history": [{"date": "1981-05-16", "rank": 176}, {"date": "1981-05-23", "rank": 169}, {"date": "1981-05-30", "rank": 168}, {"date": "1981-06-06", "rank": 164}]}
+{
+  "id": "john-o-banion-john-o-banion",
+  "title": "John O'banion",
+  "artist": "John O'Banion",
+  "peak": 164,
+  "history": [
+    {
+      "date": "1981-05-16",
+      "rank": 176
+    },
+    {
+      "date": "1981-05-23",
+      "rank": 169
+    },
+    {
+      "date": "1981-05-30",
+      "rank": 168
+    },
+    {
+      "date": "1981-06-06",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love You Like I Never Loved Before",
+      "id": "love-you-like-i-never-loved-before-john-o-banion"
+    },
+    {
+      "title": "You’re in My Life Again",
+      "id": null
+    },
+    {
+      "title": "Love Is Blind",
+      "id": null
+    },
+    {
+      "title": "Our Love Can Make It",
+      "id": null
+    },
+    {
+      "title": "Love Is in Your Eyes",
+      "id": null
+    },
+    {
+      "title": "Come to My Love",
+      "id": null
+    },
+    {
+      "title": "Take a Chance on Love",
+      "id": null
+    },
+    {
+      "title": "Walk Away Renee",
+      "id": null
+    },
+    {
+      "title": "If You Love Me",
+      "id": null
+    },
+    {
+      "title": "She’s Not for You",
+      "id": null
+    }
+  ]
+}

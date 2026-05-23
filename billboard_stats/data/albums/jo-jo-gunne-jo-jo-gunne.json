@@ -1,1 +1,86 @@
-{"id": "jo-jo-gunne-jo-jo-gunne", "title": "Jo Jo Gunne", "artist": "Jo Jo Gunne", "peak": 57, "history": [{"date": "1972-05-20", "rank": 59}, {"date": "1972-05-27", "rank": 57}, {"date": "1972-06-03", "rank": 57}, {"date": "1972-06-10", "rank": 61}, {"date": "1972-06-17", "rank": 74}, {"date": "1972-06-24", "rank": 80}, {"date": "1972-07-01", "rank": 80}, {"date": "1972-07-08", "rank": 97}, {"date": "1972-07-15", "rank": 131}, {"date": "1972-07-22", "rank": 133}]}
+{
+  "id": "jo-jo-gunne-jo-jo-gunne",
+  "title": "Jo Jo Gunne",
+  "artist": "Jo Jo Gunne",
+  "peak": 57,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 59
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 57
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 57
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 61
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 74
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 80
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 80
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 97
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 131
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 133
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Run Run Run",
+      "id": "run-run-run-jo-jo-gunne"
+    },
+    {
+      "title": "Shake That Fat",
+      "id": null
+    },
+    {
+      "title": "Babylon",
+      "id": null
+    },
+    {
+      "title": "I Make Love",
+      "id": null
+    },
+    {
+      "title": "Barstow Blue Eyes",
+      "id": null
+    },
+    {
+      "title": "99 Days",
+      "id": null
+    },
+    {
+      "title": "Academy Award",
+      "id": null
+    },
+    {
+      "title": "Take It Easy",
+      "id": null
+    },
+    {
+      "title": "Flying Home",
+      "id": null
+    }
+  ]
+}
