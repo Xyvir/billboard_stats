@@ -1,1 +1,74 @@
-{"id": "dig-out-your-soul-oasis", "title": "Dig Out Your Soul", "artist": "Oasis", "peak": 5, "history": [{"date": "2008-10-25", "rank": 5}, {"date": "2008-11-01", "rank": 36}, {"date": "2008-11-08", "rank": 69}, {"date": "2008-11-15", "rank": 113}, {"date": "2008-11-22", "rank": 145}]}
+{
+  "id": "dig-out-your-soul-oasis",
+  "title": "Dig Out Your Soul",
+  "artist": "Oasis",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2008-10-25",
+      "rank": 5
+    },
+    {
+      "date": "2008-11-01",
+      "rank": 36
+    },
+    {
+      "date": "2008-11-08",
+      "rank": 69
+    },
+    {
+      "date": "2008-11-15",
+      "rank": 113
+    },
+    {
+      "date": "2008-11-22",
+      "rank": 145
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Shock of the Lightning",
+      "id": "the-shock-of-the-lightning-oasis"
+    },
+    {
+      "title": "Bag It Up",
+      "id": null
+    },
+    {
+      "title": "The Turning",
+      "id": null
+    },
+    {
+      "title": "Waiting for the Rapture",
+      "id": null
+    },
+    {
+      "title": "I’m Outta Time",
+      "id": null
+    },
+    {
+      "title": "(Get Off Your) High Horse Lady",
+      "id": null
+    },
+    {
+      "title": "Falling Down",
+      "id": null
+    },
+    {
+      "title": "To Be Where There’s Life",
+      "id": null
+    },
+    {
+      "title": "Ain’t Got Nothin’",
+      "id": null
+    },
+    {
+      "title": "The Nature of Reality",
+      "id": null
+    },
+    {
+      "title": "Soldier On",
+      "id": null
+    }
+  ]
+}

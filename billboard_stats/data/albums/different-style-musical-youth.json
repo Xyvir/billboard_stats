@@ -1,1 +1,98 @@
-{"id": "different-style-musical-youth", "title": "Different Style", "artist": "Musical Youth", "peak": 144, "history": [{"date": "1983-12-17", "rank": 191}, {"date": "1983-12-24", "rank": 185}, {"date": "1983-12-31", "rank": 185}, {"date": "1984-01-07", "rank": 180}, {"date": "1984-01-14", "rank": 174}, {"date": "1984-01-21", "rank": 168}, {"date": "1984-01-28", "rank": 167}, {"date": "1984-02-04", "rank": 153}, {"date": "1984-02-11", "rank": 149}, {"date": "1984-02-18", "rank": 144}, {"date": "1984-02-25", "rank": 160}, {"date": "1984-03-03", "rank": 196}]}
+{
+  "id": "different-style-musical-youth",
+  "title": "Different Style",
+  "artist": "Musical Youth",
+  "peak": 144,
+  "history": [
+    {
+      "date": "1983-12-17",
+      "rank": 191
+    },
+    {
+      "date": "1983-12-24",
+      "rank": 185
+    },
+    {
+      "date": "1983-12-31",
+      "rank": 185
+    },
+    {
+      "date": "1984-01-07",
+      "rank": 180
+    },
+    {
+      "date": "1984-01-14",
+      "rank": 174
+    },
+    {
+      "date": "1984-01-21",
+      "rank": 168
+    },
+    {
+      "date": "1984-01-28",
+      "rank": 167
+    },
+    {
+      "date": "1984-02-04",
+      "rank": 153
+    },
+    {
+      "date": "1984-02-11",
+      "rank": 149
+    },
+    {
+      "date": "1984-02-18",
+      "rank": 144
+    },
+    {
+      "date": "1984-02-25",
+      "rank": 160
+    },
+    {
+      "date": "1984-03-03",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "She's in Trouble",
+      "id": "she-s-trouble-musical-youth"
+    },
+    {
+      "title": "007 (Shanty Town)",
+      "id": null
+    },
+    {
+      "title": "Yard Stylee",
+      "id": null
+    },
+    {
+      "title": "Air Taxi",
+      "id": null
+    },
+    {
+      "title": "Sixteen",
+      "id": null
+    },
+    {
+      "title": "Incommunicado",
+      "id": null
+    },
+    {
+      "title": "Tell Me Why",
+      "id": null
+    },
+    {
+      "title": "Mash It the Youth Man, Mash It",
+      "id": null
+    },
+    {
+      "title": "Whatcha Talking 'Bout",
+      "id": null
+    },
+    {
+      "title": "No Strings",
+      "id": null
+    }
+  ]
+}
