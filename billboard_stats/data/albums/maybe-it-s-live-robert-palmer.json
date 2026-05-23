@@ -1,1 +1,70 @@
-{"id": "maybe-it-s-live-robert-palmer", "title": "Maybe It's Live", "artist": "Robert Palmer", "peak": 148, "history": [{"date": "1982-05-15", "rank": 158}, {"date": "1982-05-22", "rank": 151}, {"date": "1982-05-29", "rank": 148}, {"date": "1982-06-05", "rank": 184}, {"date": "1982-06-12", "rank": 188}]}
+{
+  "id": "maybe-it-s-live-robert-palmer",
+  "title": "Maybe It's Live",
+  "artist": "Robert Palmer",
+  "peak": 148,
+  "history": [
+    {
+      "date": "1982-05-15",
+      "rank": 158
+    },
+    {
+      "date": "1982-05-22",
+      "rank": 151
+    },
+    {
+      "date": "1982-05-29",
+      "rank": 148
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 184
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Every Kinda People",
+      "id": "every-kinda-people-robert-palmer"
+    },
+    {
+      "title": "Bad Case of Lovin’ You (Doctor, Doctor)",
+      "id": "bad-case-of-loving-you-doctor-doctor-robert-palmer"
+    },
+    {
+      "title": "Sneakin’ Sally Thru the Alley",
+      "id": null
+    },
+    {
+      "title": "What’s It Take",
+      "id": null
+    },
+    {
+      "title": "Best of Both Worlds",
+      "id": null
+    },
+    {
+      "title": "Some Guys Have All the Luck",
+      "id": null
+    },
+    {
+      "title": "Style Kills",
+      "id": null
+    },
+    {
+      "title": "Si Chatouilleux",
+      "id": null
+    },
+    {
+      "title": "Maybe It’s You",
+      "id": null
+    },
+    {
+      "title": "What Do You Care",
+      "id": null
+    }
+  ]
+}

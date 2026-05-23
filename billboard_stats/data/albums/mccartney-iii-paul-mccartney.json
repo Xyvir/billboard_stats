@@ -1,1 +1,70 @@
-{"id": "mccartney-iii-paul-mccartney", "title": "McCartney III", "artist": "Paul McCartney", "peak": 2, "history": [{"date": "2021-01-02", "rank": 2}, {"date": "2021-01-09", "rank": 37}, {"date": "2021-01-16", "rank": 90}, {"date": "2021-01-23", "rank": 200}]}
+{
+  "id": "mccartney-iii-paul-mccartney",
+  "title": "McCartney III",
+  "artist": "Paul McCartney",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2021-01-02",
+      "rank": 2
+    },
+    {
+      "date": "2021-01-09",
+      "rank": 37
+    },
+    {
+      "date": "2021-01-16",
+      "rank": 90
+    },
+    {
+      "date": "2021-01-23",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Long Tailed Winter Bird",
+      "id": null
+    },
+    {
+      "title": "Find My Way",
+      "id": null
+    },
+    {
+      "title": "Pretty Boys",
+      "id": null
+    },
+    {
+      "title": "Women and Wives",
+      "id": null
+    },
+    {
+      "title": "Lavatory Lil",
+      "id": null
+    },
+    {
+      "title": "Deep Deep Feeling",
+      "id": null
+    },
+    {
+      "title": "Slidin’",
+      "id": null
+    },
+    {
+      "title": "The Kiss of Venus",
+      "id": null
+    },
+    {
+      "title": "Seize the Day",
+      "id": null
+    },
+    {
+      "title": "Deep Down",
+      "id": null
+    },
+    {
+      "title": "Winter Bird/When Winter Comes",
+      "id": null
+    }
+  ]
+}
