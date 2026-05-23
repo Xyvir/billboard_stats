@@ -1,1 +1,82 @@
-{"id": "lil-herb-g-herbo", "title": "Lil Herb", "artist": "G Herbo", "peak": 15, "history": [{"date": "2025-11-22", "rank": 15}, {"date": "2025-11-29", "rank": 43}, {"date": "2025-12-06", "rank": 131}]}
+{
+  "id": "lil-herb-g-herbo",
+  "title": "Lil Herb",
+  "artist": "G Herbo",
+  "peak": 15,
+  "history": [
+    {
+      "date": "2025-11-22",
+      "rank": 15
+    },
+    {
+      "date": "2025-11-29",
+      "rank": 43
+    },
+    {
+      "date": "2025-12-06",
+      "rank": 131
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Went Legit (Bonus)",
+      "id": "went-legit-g-herbo"
+    },
+    {
+      "title": "Every Night",
+      "id": null
+    },
+    {
+      "title": "Reason",
+      "id": null
+    },
+    {
+      "title": "Longevity",
+      "id": null
+    },
+    {
+      "title": "Blitz",
+      "id": null
+    },
+    {
+      "title": "Radar",
+      "id": null
+    },
+    {
+      "title": "Where Would I Be?",
+      "id": null
+    },
+    {
+      "title": "Win Again",
+      "id": null
+    },
+    {
+      "title": "1 Chance",
+      "id": null
+    },
+    {
+      "title": "Emergency",
+      "id": null
+    },
+    {
+      "title": "Fallen Soldiers",
+      "id": null
+    },
+    {
+      "title": "Give It All",
+      "id": null
+    },
+    {
+      "title": "Whatever U Want",
+      "id": null
+    },
+    {
+      "title": "Thank Me",
+      "id": null
+    },
+    {
+      "title": "Colossal",
+      "id": null
+    }
+  ]
+}

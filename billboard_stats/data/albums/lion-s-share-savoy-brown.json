@@ -1,1 +1,86 @@
-{"id": "lion-s-share-savoy-brown", "title": "Lion's Share", "artist": "Savoy Brown", "peak": 151, "history": [{"date": "1972-11-04", "rank": 195}, {"date": "1972-11-11", "rank": 187}, {"date": "1972-11-18", "rank": 160}, {"date": "1972-11-25", "rank": 154}, {"date": "1972-12-02", "rank": 151}, {"date": "1972-12-09", "rank": 151}, {"date": "1972-12-16", "rank": 152}, {"date": "1972-12-23", "rank": 159}, {"date": "1972-12-30", "rank": 173}, {"date": "1973-01-06", "rank": 198}]}
+{
+  "id": "lion-s-share-savoy-brown",
+  "title": "Lion's Share",
+  "artist": "Savoy Brown",
+  "peak": 151,
+  "history": [
+    {
+      "date": "1972-11-04",
+      "rank": 195
+    },
+    {
+      "date": "1972-11-11",
+      "rank": 187
+    },
+    {
+      "date": "1972-11-18",
+      "rank": 160
+    },
+    {
+      "date": "1972-11-25",
+      "rank": 154
+    },
+    {
+      "date": "1972-12-02",
+      "rank": 151
+    },
+    {
+      "date": "1972-12-09",
+      "rank": 151
+    },
+    {
+      "date": "1972-12-16",
+      "rank": 152
+    },
+    {
+      "date": "1972-12-23",
+      "rank": 159
+    },
+    {
+      "date": "1972-12-30",
+      "rank": 173
+    },
+    {
+      "date": "1973-01-06",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "So Tired",
+      "id": "i-m-tired-savoy-brown"
+    },
+    {
+      "title": "Shot in the Head",
+      "id": null
+    },
+    {
+      "title": "Second Try",
+      "id": null
+    },
+    {
+      "title": "The Saddest Feeling",
+      "id": null
+    },
+    {
+      "title": "I Can’t Find You",
+      "id": null
+    },
+    {
+      "title": "Howling for My Darling",
+      "id": null
+    },
+    {
+      "title": "Denim Demon",
+      "id": null
+    },
+    {
+      "title": "Love Me Please",
+      "id": null
+    },
+    {
+      "title": "I Hate to See You Go",
+      "id": null
+    }
+  ]
+}

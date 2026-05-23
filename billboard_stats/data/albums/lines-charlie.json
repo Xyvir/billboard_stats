@@ -1,1 +1,102 @@
-{"id": "lines-charlie", "title": "Lines", "artist": "Charlie", "peak": 75, "history": [{"date": "1978-04-15", "rank": 123}, {"date": "1978-04-22", "rank": 113}, {"date": "1978-04-29", "rank": 106}, {"date": "1978-05-06", "rank": 96}, {"date": "1978-05-13", "rank": 86}, {"date": "1978-05-20", "rank": 79}, {"date": "1978-05-27", "rank": 79}, {"date": "1978-06-03", "rank": 76}, {"date": "1978-06-10", "rank": 75}, {"date": "1978-06-17", "rank": 90}, {"date": "1978-06-24", "rank": 127}, {"date": "1978-07-01", "rank": 147}, {"date": "1978-07-08", "rank": 158}, {"date": "1978-07-15", "rank": 179}]}
+{
+  "id": "lines-charlie",
+  "title": "Lines",
+  "artist": "Charlie",
+  "peak": 75,
+  "history": [
+    {
+      "date": "1978-04-15",
+      "rank": 123
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 113
+    },
+    {
+      "date": "1978-04-29",
+      "rank": 106
+    },
+    {
+      "date": "1978-05-06",
+      "rank": 96
+    },
+    {
+      "date": "1978-05-13",
+      "rank": 86
+    },
+    {
+      "date": "1978-05-20",
+      "rank": 79
+    },
+    {
+      "date": "1978-05-27",
+      "rank": 79
+    },
+    {
+      "date": "1978-06-03",
+      "rank": 76
+    },
+    {
+      "date": "1978-06-10",
+      "rank": 75
+    },
+    {
+      "date": "1978-06-17",
+      "rank": 90
+    },
+    {
+      "date": "1978-06-24",
+      "rank": 127
+    },
+    {
+      "date": "1978-07-01",
+      "rank": 147
+    },
+    {
+      "date": "1978-07-08",
+      "rank": 158
+    },
+    {
+      "date": "1978-07-15",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "She Loves to Be in Love",
+      "id": "she-loves-to-be-in-love-charlie"
+    },
+    {
+      "title": "No More Heartache",
+      "id": null
+    },
+    {
+      "title": "Life So Cruel",
+      "id": null
+    },
+    {
+      "title": "Watching T.V.",
+      "id": null
+    },
+    {
+      "title": "Out of Control",
+      "id": null
+    },
+    {
+      "title": "L.A. Dreamer",
+      "id": null
+    },
+    {
+      "title": "No Strangers in Paradise",
+      "id": null
+    },
+    {
+      "title": "Keep Me in Mind",
+      "id": null
+    },
+    {
+      "title": "I Like to Rock and Roll",
+      "id": null
+    }
+  ]
+}
