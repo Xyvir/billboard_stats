@@ -1,1 +1,62 @@
-{"id": "chosen-maneskin", "title": "Chosen", "artist": "Maneskin", "peak": 103, "history": [{"date": "2021-07-17", "rank": 132}, {"date": "2021-07-24", "rank": 103}, {"date": "2021-07-31", "rank": 108}, {"date": "2021-08-07", "rank": 119}, {"date": "2021-08-14", "rank": 153}, {"date": "2021-08-21", "rank": 185}]}
+{
+  "id": "chosen-maneskin",
+  "title": "Chosen",
+  "artist": "Maneskin",
+  "peak": 103,
+  "history": [
+    {
+      "date": "2021-07-17",
+      "rank": 132
+    },
+    {
+      "date": "2021-07-24",
+      "rank": 103
+    },
+    {
+      "date": "2021-07-31",
+      "rank": 108
+    },
+    {
+      "date": "2021-08-07",
+      "rank": 119
+    },
+    {
+      "date": "2021-08-14",
+      "rank": 153
+    },
+    {
+      "date": "2021-08-21",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Beggin’",
+      "id": "beggin-maneskin"
+    },
+    {
+      "title": "Chosen",
+      "id": null
+    },
+    {
+      "title": "Recovery",
+      "id": null
+    },
+    {
+      "title": "Vengo dalla luna",
+      "id": null
+    },
+    {
+      "title": "Let’s Get It Started",
+      "id": null
+    },
+    {
+      "title": "Somebody Told Me",
+      "id": null
+    },
+    {
+      "title": "You Need Me, I Don’t Need You",
+      "id": null
+    }
+  ]
+}

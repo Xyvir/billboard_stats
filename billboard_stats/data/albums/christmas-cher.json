@@ -1,1 +1,94 @@
-{"id": "christmas-cher", "title": "Christmas", "artist": "Cher", "peak": 32, "history": [{"date": "2023-11-04", "rank": 32}, {"date": "2023-11-25", "rank": 185}, {"date": "2023-12-02", "rank": 66}, {"date": "2023-12-09", "rank": 46}, {"date": "2023-12-16", "rank": 43}, {"date": "2023-12-23", "rank": 59}, {"date": "2023-12-30", "rank": 56}, {"date": "2024-01-06", "rank": 54}]}
+{
+  "id": "christmas-cher",
+  "title": "Christmas",
+  "artist": "Cher",
+  "peak": 32,
+  "history": [
+    {
+      "date": "2023-11-04",
+      "rank": 32
+    },
+    {
+      "date": "2023-11-25",
+      "rank": 185
+    },
+    {
+      "date": "2023-12-02",
+      "rank": 66
+    },
+    {
+      "date": "2023-12-09",
+      "rank": 46
+    },
+    {
+      "date": "2023-12-16",
+      "rank": 43
+    },
+    {
+      "date": "2023-12-23",
+      "rank": 59
+    },
+    {
+      "date": "2023-12-30",
+      "rank": 56
+    },
+    {
+      "date": "2024-01-06",
+      "rank": 54
+    }
+  ],
+  "tracks": [
+    {
+      "title": "DJ Play a Christmas Song",
+      "id": "dj-play-a-christmas-song-cher"
+    },
+    {
+      "title": "I Like Christmas",
+      "id": "dj-play-a-christmas-song-cher"
+    },
+    {
+      "title": "What Christmas Means to Me",
+      "id": null
+    },
+    {
+      "title": "Run Rudolph Run",
+      "id": null
+    },
+    {
+      "title": "Christmas (Baby, Please Come Home)",
+      "id": null
+    },
+    {
+      "title": "Angels in the Snow",
+      "id": null
+    },
+    {
+      "title": "Home",
+      "id": null
+    },
+    {
+      "title": "Drop Top Sleigh Ride",
+      "id": null
+    },
+    {
+      "title": "Please Come Home for Christmas",
+      "id": null
+    },
+    {
+      "title": "Christmas Ain’t Christmas Without You",
+      "id": null
+    },
+    {
+      "title": "Santa Baby",
+      "id": null
+    },
+    {
+      "title": "Put a Little Holiday in Your Heart",
+      "id": null
+    },
+    {
+      "title": "This Will Be Our Year",
+      "id": null
+    }
+  ]
+}
