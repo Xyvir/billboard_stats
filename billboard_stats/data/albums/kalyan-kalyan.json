@@ -1,1 +1,38 @@
-{"id": "kalyan-kalyan", "title": "Kalyan", "artist": "Kalyan", "peak": 173, "history": [{"date": "1977-04-16", "rank": 190}, {"date": "1977-04-23", "rank": 179}, {"date": "1977-04-30", "rank": 173}, {"date": "1977-05-07", "rank": 197}]}
+{
+  "id": "kalyan-kalyan",
+  "title": "Kalyan",
+  "artist": "Kalyan",
+  "peak": 173,
+  "history": [
+    {
+      "date": "1977-04-16",
+      "rank": 190
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 179
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 173
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Raga Shuddh Kalyan: Alap, Jor, Ladant & Ulta Jhala",
+      "id": null
+    },
+    {
+      "title": "Raga Shuddh Kalyan: Vilambit Gat In Tintal",
+      "id": null
+    },
+    {
+      "title": "Raga Shukla Bilawal: Drut Gat In Tintal",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,242 @@
-{"id": "juve-the-great-juvenile", "title": "Juve The Great", "artist": "Juvenile", "peak": 28, "history": [{"date": "2004-01-10", "rank": 32}, {"date": "2004-01-17", "rank": 32}, {"date": "2004-01-24", "rank": 31}, {"date": "2004-01-31", "rank": 32}, {"date": "2004-02-07", "rank": 31}, {"date": "2004-02-14", "rank": 28}, {"date": "2004-02-21", "rank": 35}, {"date": "2004-02-28", "rank": 63}, {"date": "2004-03-06", "rank": 54}, {"date": "2004-03-13", "rank": 55}, {"date": "2004-03-20", "rank": 56}, {"date": "2004-03-27", "rank": 58}, {"date": "2004-04-03", "rank": 61}, {"date": "2004-04-10", "rank": 79}, {"date": "2004-04-17", "rank": 107}, {"date": "2004-04-24", "rank": 123}, {"date": "2004-05-01", "rank": 66}, {"date": "2004-05-08", "rank": 79}, {"date": "2004-05-15", "rank": 74}, {"date": "2004-05-22", "rank": 98}, {"date": "2004-05-29", "rank": 70}, {"date": "2004-06-05", "rank": 61}, {"date": "2004-06-12", "rank": 59}, {"date": "2004-06-19", "rank": 49}, {"date": "2004-06-26", "rank": 44}, {"date": "2004-07-03", "rank": 38}, {"date": "2004-07-10", "rank": 28}, {"date": "2004-07-17", "rank": 30}, {"date": "2004-07-24", "rank": 28}, {"date": "2004-07-31", "rank": 28}, {"date": "2004-08-07", "rank": 30}, {"date": "2004-08-14", "rank": 41}, {"date": "2004-08-21", "rank": 43}, {"date": "2004-08-28", "rank": 44}, {"date": "2004-09-04", "rank": 65}, {"date": "2004-09-11", "rank": 82}, {"date": "2004-09-18", "rank": 97}, {"date": "2004-09-25", "rank": 101}, {"date": "2004-10-02", "rank": 119}, {"date": "2004-10-09", "rank": 131}, {"date": "2004-10-16", "rank": 171}]}
+{
+  "id": "juve-the-great-juvenile",
+  "title": "Juve The Great",
+  "artist": "Juvenile",
+  "peak": 28,
+  "history": [
+    {
+      "date": "2004-01-10",
+      "rank": 32
+    },
+    {
+      "date": "2004-01-17",
+      "rank": 32
+    },
+    {
+      "date": "2004-01-24",
+      "rank": 31
+    },
+    {
+      "date": "2004-01-31",
+      "rank": 32
+    },
+    {
+      "date": "2004-02-07",
+      "rank": 31
+    },
+    {
+      "date": "2004-02-14",
+      "rank": 28
+    },
+    {
+      "date": "2004-02-21",
+      "rank": 35
+    },
+    {
+      "date": "2004-02-28",
+      "rank": 63
+    },
+    {
+      "date": "2004-03-06",
+      "rank": 54
+    },
+    {
+      "date": "2004-03-13",
+      "rank": 55
+    },
+    {
+      "date": "2004-03-20",
+      "rank": 56
+    },
+    {
+      "date": "2004-03-27",
+      "rank": 58
+    },
+    {
+      "date": "2004-04-03",
+      "rank": 61
+    },
+    {
+      "date": "2004-04-10",
+      "rank": 79
+    },
+    {
+      "date": "2004-04-17",
+      "rank": 107
+    },
+    {
+      "date": "2004-04-24",
+      "rank": 123
+    },
+    {
+      "date": "2004-05-01",
+      "rank": 66
+    },
+    {
+      "date": "2004-05-08",
+      "rank": 79
+    },
+    {
+      "date": "2004-05-15",
+      "rank": 74
+    },
+    {
+      "date": "2004-05-22",
+      "rank": 98
+    },
+    {
+      "date": "2004-05-29",
+      "rank": 70
+    },
+    {
+      "date": "2004-06-05",
+      "rank": 61
+    },
+    {
+      "date": "2004-06-12",
+      "rank": 59
+    },
+    {
+      "date": "2004-06-19",
+      "rank": 49
+    },
+    {
+      "date": "2004-06-26",
+      "rank": 44
+    },
+    {
+      "date": "2004-07-03",
+      "rank": 38
+    },
+    {
+      "date": "2004-07-10",
+      "rank": 28
+    },
+    {
+      "date": "2004-07-17",
+      "rank": 30
+    },
+    {
+      "date": "2004-07-24",
+      "rank": 28
+    },
+    {
+      "date": "2004-07-31",
+      "rank": 28
+    },
+    {
+      "date": "2004-08-07",
+      "rank": 30
+    },
+    {
+      "date": "2004-08-14",
+      "rank": 41
+    },
+    {
+      "date": "2004-08-21",
+      "rank": 43
+    },
+    {
+      "date": "2004-08-28",
+      "rank": 44
+    },
+    {
+      "date": "2004-09-04",
+      "rank": 65
+    },
+    {
+      "date": "2004-09-11",
+      "rank": 82
+    },
+    {
+      "date": "2004-09-18",
+      "rank": 97
+    },
+    {
+      "date": "2004-09-25",
+      "rank": 101
+    },
+    {
+      "date": "2004-10-02",
+      "rank": 119
+    },
+    {
+      "date": "2004-10-09",
+      "rank": 131
+    },
+    {
+      "date": "2004-10-16",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "In My Life",
+      "id": null
+    },
+    {
+      "title": "Enemy Turf",
+      "id": null
+    },
+    {
+      "title": "Outside (skit)",
+      "id": null
+    },
+    {
+      "title": "Bounce Back",
+      "id": null
+    },
+    {
+      "title": "Down South Posted",
+      "id": null
+    },
+    {
+      "title": "It Ain't Mines",
+      "id": null
+    },
+    {
+      "title": "Numb Numb",
+      "id": null
+    },
+    {
+      "title": "Lil Daddy",
+      "id": null
+    },
+    {
+      "title": "Fuckin With Me",
+      "id": null
+    },
+    {
+      "title": "Cock It",
+      "id": null
+    },
+    {
+      "title": "Club (skit)",
+      "id": null
+    },
+    {
+      "title": "Juve 'The Great'",
+      "id": null
+    },
+    {
+      "title": "Head in Advance",
+      "id": null
+    },
+    {
+      "title": "For Everybody",
+      "id": null
+    },
+    {
+      "title": "At the Door (skit)",
+      "id": null
+    },
+    {
+      "title": "Slow Motion",
+      "id": null
+    }
+  ]
+}

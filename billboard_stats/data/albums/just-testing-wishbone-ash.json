@@ -1,1 +1,62 @@
-{"id": "just-testing-wishbone-ash", "title": "Just Testing", "artist": "Wishbone Ash", "peak": 179, "history": [{"date": "1980-03-29", "rank": 180}, {"date": "1980-04-05", "rank": 179}]}
+{
+  "id": "just-testing-wishbone-ash",
+  "title": "Just Testing",
+  "artist": "Wishbone Ash",
+  "peak": 179,
+  "history": [
+    {
+      "date": "1980-03-29",
+      "rank": 180
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Living Proof",
+      "id": null
+    },
+    {
+      "title": "Haunting Me",
+      "id": null
+    },
+    {
+      "title": "Insomnia",
+      "id": null
+    },
+    {
+      "title": "Helpless",
+      "id": null
+    },
+    {
+      "title": "Pay the Price",
+      "id": null
+    },
+    {
+      "title": "New Rising Star",
+      "id": null
+    },
+    {
+      "title": "Master of Disguise",
+      "id": null
+    },
+    {
+      "title": "Life Line",
+      "id": null
+    },
+    {
+      "title": "Come On",
+      "id": null
+    },
+    {
+      "title": "Fast Johnny",
+      "id": null
+    },
+    {
+      "title": "Blowin’ Free",
+      "id": null
+    }
+  ]
+}

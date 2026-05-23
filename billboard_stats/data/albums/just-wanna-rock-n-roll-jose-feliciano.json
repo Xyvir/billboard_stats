@@ -1,1 +1,70 @@
-{"id": "just-wanna-rock-n-roll-jose-feliciano", "title": "Just Wanna Rock 'n' Roll", "artist": "Jose Feliciano", "peak": 165, "history": [{"date": "1975-09-06", "rank": 188}, {"date": "1975-09-13", "rank": 169}, {"date": "1975-09-20", "rank": 169}, {"date": "1975-09-27", "rank": 165}]}
+{
+  "id": "just-wanna-rock-n-roll-jose-feliciano",
+  "title": "Just Wanna Rock 'n' Roll",
+  "artist": "Jose Feliciano",
+  "peak": 165,
+  "history": [
+    {
+      "date": "1975-09-06",
+      "rank": 188
+    },
+    {
+      "date": "1975-09-13",
+      "rank": 169
+    },
+    {
+      "date": "1975-09-20",
+      "rank": 169
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Twilight Time",
+      "id": "light-my-fire-jose-feliciano"
+    },
+    {
+      "title": "Rock 'n' Roll",
+      "id": null
+    },
+    {
+      "title": "No Jive",
+      "id": null
+    },
+    {
+      "title": "Must Be the Breeze",
+      "id": null
+    },
+    {
+      "title": "Ain't That Peculiar",
+      "id": null
+    },
+    {
+      "title": "Marie",
+      "id": null
+    },
+    {
+      "title": "Suspicions",
+      "id": null
+    },
+    {
+      "title": "I Can't Get Next to You",
+      "id": null
+    },
+    {
+      "title": "Thank God",
+      "id": null
+    },
+    {
+      "title": "Affirmation",
+      "id": null
+    },
+    {
+      "title": "Not That Kind of Guy (Hot Burrito #1)",
+      "id": null
+    }
+  ]
+}
