@@ -1,1 +1,66 @@
-{"id": "fastlife-joe-jonas", "title": "Fastlife", "artist": "Joe Jonas", "peak": 15, "history": [{"date": "2011-10-29", "rank": 15}, {"date": "2011-11-05", "rank": 122}]}
+{
+  "id": "fastlife-joe-jonas",
+  "title": "Fastlife",
+  "artist": "Joe Jonas",
+  "peak": 15,
+  "history": [
+    {
+      "date": "2011-10-29",
+      "rank": 15
+    },
+    {
+      "date": "2011-11-05",
+      "rank": 122
+    }
+  ],
+  "tracks": [
+    {
+      "title": "See No More",
+      "id": "see-no-more-joe-jonas"
+    },
+    {
+      "title": "All This Time",
+      "id": null
+    },
+    {
+      "title": "Just in Love (Promo Only clean edit)",
+      "id": null
+    },
+    {
+      "title": "Love Slayer",
+      "id": null
+    },
+    {
+      "title": "Fastlife",
+      "id": null
+    },
+    {
+      "title": "Make You Mine",
+      "id": null
+    },
+    {
+      "title": "Sorry",
+      "id": null
+    },
+    {
+      "title": "Kleptomaniac",
+      "id": null
+    },
+    {
+      "title": "Not Right Now",
+      "id": null
+    },
+    {
+      "title": "Take It and Run",
+      "id": null
+    },
+    {
+      "title": "Lighthouse",
+      "id": null
+    },
+    {
+      "title": "Just in Love",
+      "id": null
+    }
+  ]
+}

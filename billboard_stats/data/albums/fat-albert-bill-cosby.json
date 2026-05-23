@@ -1,1 +1,54 @@
-{"id": "fat-albert-bill-cosby", "title": "Fat Albert", "artist": "Bill Cosby", "peak": 187, "history": [{"date": "1973-06-16", "rank": 200}, {"date": "1973-06-23", "rank": 195}, {"date": "1973-06-30", "rank": 190}, {"date": "1973-07-07", "rank": 187}]}
+{
+  "id": "fat-albert-bill-cosby",
+  "title": "Fat Albert",
+  "artist": "Bill Cosby",
+  "peak": 187,
+  "history": [
+    {
+      "date": "1973-06-16",
+      "rank": 200
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 195
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 190
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fat Albert's Car",
+      "id": null
+    },
+    {
+      "title": "Fat Albert Plays Dead",
+      "id": null
+    },
+    {
+      "title": "Fat Albert Got a Hernia",
+      "id": null
+    },
+    {
+      "title": "My Wife and Kids",
+      "id": null
+    },
+    {
+      "title": "My Dad's Car",
+      "id": null
+    },
+    {
+      "title": "My Brother, Russell",
+      "id": null
+    },
+    {
+      "title": "Fernet Branca",
+      "id": null
+    }
+  ]
+}
