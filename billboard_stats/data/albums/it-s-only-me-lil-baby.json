@@ -1,1 +1,430 @@
-{"id": "it-s-only-me-lil-baby", "title": "It's Only Me", "artist": "Lil Baby", "peak": 1, "history": [{"date": "2022-10-29", "rank": 1}, {"date": "2022-11-05", "rank": 2}, {"date": "2022-11-12", "rank": 2}, {"date": "2022-11-19", "rank": 3}, {"date": "2022-11-26", "rank": 4}, {"date": "2022-12-03", "rank": 4}, {"date": "2022-12-10", "rank": 5}, {"date": "2022-12-17", "rank": 11}, {"date": "2022-12-24", "rank": 15}, {"date": "2022-12-31", "rank": 23}, {"date": "2023-01-07", "rank": 20}, {"date": "2023-01-14", "rank": 9}, {"date": "2023-01-21", "rank": 8}, {"date": "2023-01-28", "rank": 9}, {"date": "2023-02-04", "rank": 10}, {"date": "2023-02-11", "rank": 12}, {"date": "2023-02-18", "rank": 13}, {"date": "2023-02-25", "rank": 13}, {"date": "2023-03-04", "rank": 11}, {"date": "2023-03-11", "rank": 16}, {"date": "2023-03-18", "rank": 16}, {"date": "2023-03-25", "rank": 15}, {"date": "2023-04-01", "rank": 17}, {"date": "2023-04-08", "rank": 20}, {"date": "2023-04-15", "rank": 22}, {"date": "2023-04-22", "rank": 22}, {"date": "2023-04-29", "rank": 22}, {"date": "2023-05-06", "rank": 25}, {"date": "2023-05-13", "rank": 25}, {"date": "2023-05-20", "rank": 27}, {"date": "2023-05-27", "rank": 26}, {"date": "2023-06-03", "rank": 31}, {"date": "2023-06-10", "rank": 34}, {"date": "2023-06-17", "rank": 40}, {"date": "2023-06-24", "rank": 44}, {"date": "2023-07-01", "rank": 46}, {"date": "2023-07-08", "rank": 53}, {"date": "2023-07-15", "rank": 53}, {"date": "2023-07-22", "rank": 59}, {"date": "2023-07-29", "rank": 63}, {"date": "2023-08-05", "rank": 65}, {"date": "2023-08-12", "rank": 63}, {"date": "2023-08-19", "rank": 67}, {"date": "2023-08-26", "rank": 64}, {"date": "2023-09-02", "rank": 74}, {"date": "2023-09-09", "rank": 74}, {"date": "2023-09-16", "rank": 69}, {"date": "2023-09-23", "rank": 69}, {"date": "2023-09-30", "rank": 85}, {"date": "2023-10-07", "rank": 81}, {"date": "2023-10-14", "rank": 88}, {"date": "2023-10-21", "rank": 90}, {"date": "2023-10-28", "rank": 90}, {"date": "2023-11-04", "rank": 91}, {"date": "2023-11-11", "rank": 95}, {"date": "2023-11-18", "rank": 100}, {"date": "2023-11-25", "rank": 123}, {"date": "2023-12-02", "rank": 135}, {"date": "2023-12-09", "rank": 149}, {"date": "2023-12-16", "rank": 131}, {"date": "2023-12-23", "rank": 155}, {"date": "2023-12-30", "rank": 181}, {"date": "2024-01-06", "rank": 171}, {"date": "2024-01-13", "rank": 117}, {"date": "2024-01-20", "rank": 120}, {"date": "2024-01-27", "rank": 135}, {"date": "2024-02-03", "rank": 127}, {"date": "2024-02-10", "rank": 129}, {"date": "2024-02-17", "rank": 133}, {"date": "2024-02-24", "rank": 138}, {"date": "2024-03-02", "rank": 140}, {"date": "2024-03-09", "rank": 142}, {"date": "2024-03-16", "rank": 143}, {"date": "2024-03-23", "rank": 151}, {"date": "2024-03-30", "rank": 150}, {"date": "2024-04-06", "rank": 179}, {"date": "2024-04-13", "rank": 177}, {"date": "2024-04-20", "rank": 190}, {"date": "2024-04-27", "rank": 185}, {"date": "2024-05-04", "rank": 187}, {"date": "2024-05-11", "rank": 189}, {"date": "2024-05-18", "rank": 190}]}
+{
+  "id": "it-s-only-me-lil-baby",
+  "title": "It's Only Me",
+  "artist": "Lil Baby",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2022-10-29",
+      "rank": 1
+    },
+    {
+      "date": "2022-11-05",
+      "rank": 2
+    },
+    {
+      "date": "2022-11-12",
+      "rank": 2
+    },
+    {
+      "date": "2022-11-19",
+      "rank": 3
+    },
+    {
+      "date": "2022-11-26",
+      "rank": 4
+    },
+    {
+      "date": "2022-12-03",
+      "rank": 4
+    },
+    {
+      "date": "2022-12-10",
+      "rank": 5
+    },
+    {
+      "date": "2022-12-17",
+      "rank": 11
+    },
+    {
+      "date": "2022-12-24",
+      "rank": 15
+    },
+    {
+      "date": "2022-12-31",
+      "rank": 23
+    },
+    {
+      "date": "2023-01-07",
+      "rank": 20
+    },
+    {
+      "date": "2023-01-14",
+      "rank": 9
+    },
+    {
+      "date": "2023-01-21",
+      "rank": 8
+    },
+    {
+      "date": "2023-01-28",
+      "rank": 9
+    },
+    {
+      "date": "2023-02-04",
+      "rank": 10
+    },
+    {
+      "date": "2023-02-11",
+      "rank": 12
+    },
+    {
+      "date": "2023-02-18",
+      "rank": 13
+    },
+    {
+      "date": "2023-02-25",
+      "rank": 13
+    },
+    {
+      "date": "2023-03-04",
+      "rank": 11
+    },
+    {
+      "date": "2023-03-11",
+      "rank": 16
+    },
+    {
+      "date": "2023-03-18",
+      "rank": 16
+    },
+    {
+      "date": "2023-03-25",
+      "rank": 15
+    },
+    {
+      "date": "2023-04-01",
+      "rank": 17
+    },
+    {
+      "date": "2023-04-08",
+      "rank": 20
+    },
+    {
+      "date": "2023-04-15",
+      "rank": 22
+    },
+    {
+      "date": "2023-04-22",
+      "rank": 22
+    },
+    {
+      "date": "2023-04-29",
+      "rank": 22
+    },
+    {
+      "date": "2023-05-06",
+      "rank": 25
+    },
+    {
+      "date": "2023-05-13",
+      "rank": 25
+    },
+    {
+      "date": "2023-05-20",
+      "rank": 27
+    },
+    {
+      "date": "2023-05-27",
+      "rank": 26
+    },
+    {
+      "date": "2023-06-03",
+      "rank": 31
+    },
+    {
+      "date": "2023-06-10",
+      "rank": 34
+    },
+    {
+      "date": "2023-06-17",
+      "rank": 40
+    },
+    {
+      "date": "2023-06-24",
+      "rank": 44
+    },
+    {
+      "date": "2023-07-01",
+      "rank": 46
+    },
+    {
+      "date": "2023-07-08",
+      "rank": 53
+    },
+    {
+      "date": "2023-07-15",
+      "rank": 53
+    },
+    {
+      "date": "2023-07-22",
+      "rank": 59
+    },
+    {
+      "date": "2023-07-29",
+      "rank": 63
+    },
+    {
+      "date": "2023-08-05",
+      "rank": 65
+    },
+    {
+      "date": "2023-08-12",
+      "rank": 63
+    },
+    {
+      "date": "2023-08-19",
+      "rank": 67
+    },
+    {
+      "date": "2023-08-26",
+      "rank": 64
+    },
+    {
+      "date": "2023-09-02",
+      "rank": 74
+    },
+    {
+      "date": "2023-09-09",
+      "rank": 74
+    },
+    {
+      "date": "2023-09-16",
+      "rank": 69
+    },
+    {
+      "date": "2023-09-23",
+      "rank": 69
+    },
+    {
+      "date": "2023-09-30",
+      "rank": 85
+    },
+    {
+      "date": "2023-10-07",
+      "rank": 81
+    },
+    {
+      "date": "2023-10-14",
+      "rank": 88
+    },
+    {
+      "date": "2023-10-21",
+      "rank": 90
+    },
+    {
+      "date": "2023-10-28",
+      "rank": 90
+    },
+    {
+      "date": "2023-11-04",
+      "rank": 91
+    },
+    {
+      "date": "2023-11-11",
+      "rank": 95
+    },
+    {
+      "date": "2023-11-18",
+      "rank": 100
+    },
+    {
+      "date": "2023-11-25",
+      "rank": 123
+    },
+    {
+      "date": "2023-12-02",
+      "rank": 135
+    },
+    {
+      "date": "2023-12-09",
+      "rank": 149
+    },
+    {
+      "date": "2023-12-16",
+      "rank": 131
+    },
+    {
+      "date": "2023-12-23",
+      "rank": 155
+    },
+    {
+      "date": "2023-12-30",
+      "rank": 181
+    },
+    {
+      "date": "2024-01-06",
+      "rank": 171
+    },
+    {
+      "date": "2024-01-13",
+      "rank": 117
+    },
+    {
+      "date": "2024-01-20",
+      "rank": 120
+    },
+    {
+      "date": "2024-01-27",
+      "rank": 135
+    },
+    {
+      "date": "2024-02-03",
+      "rank": 127
+    },
+    {
+      "date": "2024-02-10",
+      "rank": 129
+    },
+    {
+      "date": "2024-02-17",
+      "rank": 133
+    },
+    {
+      "date": "2024-02-24",
+      "rank": 138
+    },
+    {
+      "date": "2024-03-02",
+      "rank": 140
+    },
+    {
+      "date": "2024-03-09",
+      "rank": 142
+    },
+    {
+      "date": "2024-03-16",
+      "rank": 143
+    },
+    {
+      "date": "2024-03-23",
+      "rank": 151
+    },
+    {
+      "date": "2024-03-30",
+      "rank": 150
+    },
+    {
+      "date": "2024-04-06",
+      "rank": 179
+    },
+    {
+      "date": "2024-04-13",
+      "rank": 177
+    },
+    {
+      "date": "2024-04-20",
+      "rank": 190
+    },
+    {
+      "date": "2024-04-27",
+      "rank": 185
+    },
+    {
+      "date": "2024-05-04",
+      "rank": 187
+    },
+    {
+      "date": "2024-05-11",
+      "rank": 189
+    },
+    {
+      "date": "2024-05-18",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Real Spill",
+      "id": "real-spill-lil-baby"
+    },
+    {
+      "title": "Stand on It",
+      "id": "stand-on-it-lil-baby"
+    },
+    {
+      "title": "Heyy",
+      "id": "heyy-lil-baby"
+    },
+    {
+      "title": "California Breeze",
+      "id": "california-breeze-lil-baby"
+    },
+    {
+      "title": "Perfect Timing",
+      "id": "perfect-timing-lil-baby"
+    },
+    {
+      "title": "Never Hating",
+      "id": "everything-lil-baby"
+    },
+    {
+      "title": "Not Finished",
+      "id": "not-finished-lil-baby"
+    },
+    {
+      "title": "In a Minute",
+      "id": "in-a-minute-lil-baby"
+    },
+    {
+      "title": "Waterfall Flow",
+      "id": "waterfall-flow-lil-baby"
+    },
+    {
+      "title": "Everything",
+      "id": "everything-lil-baby"
+    },
+    {
+      "title": "Double Down",
+      "id": "double-down-lil-baby"
+    },
+    {
+      "title": "Top Priority",
+      "id": "top-priority-lil-baby"
+    },
+    {
+      "title": "Danger",
+      "id": "danger-lil-baby"
+    },
+    {
+      "title": "FR",
+      "id": "fr-lil-baby"
+    },
+    {
+      "title": "No Fly Zone",
+      "id": "no-fly-zone-lil-baby"
+    },
+    {
+      "title": "Russian Roulette",
+      "id": "russian-roulette-lil-baby"
+    },
+    {
+      "title": "Pop Out",
+      "id": null
+    },
+    {
+      "title": "Forever",
+      "id": null
+    },
+    {
+      "title": "From Now On",
+      "id": null
+    },
+    {
+      "title": "Cost to Be Alive",
+      "id": null
+    },
+    {
+      "title": "Stop Playin",
+      "id": null
+    },
+    {
+      "title": "Back and Forth",
+      "id": null
+    },
+    {
+      "title": "Shiest Talk",
+      "id": null
+    }
+  ]
+}

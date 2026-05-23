@@ -1,1 +1,98 @@
-{"id": "it-s-tee-time-sweet-tee", "title": "It's Tee Time", "artist": "Sweet Tee", "peak": 169, "history": [{"date": "1989-02-25", "rank": 180}, {"date": "1989-03-04", "rank": 179}, {"date": "1989-03-11", "rank": 169}, {"date": "1989-03-18", "rank": 169}, {"date": "1989-03-25", "rank": 169}, {"date": "1989-04-01", "rank": 174}, {"date": "1989-04-08", "rank": 174}, {"date": "1989-04-15", "rank": 191}, {"date": "1989-04-22", "rank": 187}, {"date": "1989-04-29", "rank": 181}, {"date": "1989-05-06", "rank": 181}, {"date": "1989-05-13", "rank": 171}, {"date": "1989-05-20", "rank": 184}]}
+{
+  "id": "it-s-tee-time-sweet-tee",
+  "title": "It's Tee Time",
+  "artist": "Sweet Tee",
+  "peak": 169,
+  "history": [
+    {
+      "date": "1989-02-25",
+      "rank": 180
+    },
+    {
+      "date": "1989-03-04",
+      "rank": 179
+    },
+    {
+      "date": "1989-03-11",
+      "rank": 169
+    },
+    {
+      "date": "1989-03-18",
+      "rank": 169
+    },
+    {
+      "date": "1989-03-25",
+      "rank": 169
+    },
+    {
+      "date": "1989-04-01",
+      "rank": 174
+    },
+    {
+      "date": "1989-04-08",
+      "rank": 174
+    },
+    {
+      "date": "1989-04-15",
+      "rank": 191
+    },
+    {
+      "date": "1989-04-22",
+      "rank": 187
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 181
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 181
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 171
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "On the Smooth Tip",
+      "id": null
+    },
+    {
+      "title": "Let’s Dance",
+      "id": null
+    },
+    {
+      "title": "I Got da Feelin’",
+      "id": null
+    },
+    {
+      "title": "Show and Prove",
+      "id": null
+    },
+    {
+      "title": "Work Out",
+      "id": null
+    },
+    {
+      "title": "It’s My Beat",
+      "id": null
+    },
+    {
+      "title": "As the Beat Goes On",
+      "id": null
+    },
+    {
+      "title": "It’s Like That Y’all",
+      "id": null
+    },
+    {
+      "title": "Why Did It Have to Be Me",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "it-s-like-this-rickie-lee-jones", "title": "It's Like This", "artist": "Rickie Lee Jones", "peak": 148, "history": [{"date": "2000-09-30", "rank": 148}, {"date": "2000-10-07", "rank": 182}]}
+{
+  "id": "it-s-like-this-rickie-lee-jones",
+  "title": "It's Like This",
+  "artist": "Rickie Lee Jones",
+  "peak": 148,
+  "history": [
+    {
+      "date": "2000-09-30",
+      "rank": 148
+    },
+    {
+      "date": "2000-10-07",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Chuck E's in Love (Live in Chicago 1999)",
+      "id": "chuck-e-s-in-love-rickie-lee-jones"
+    },
+    {
+      "title": "Show Biz Kids",
+      "id": null
+    },
+    {
+      "title": "Trouble Man",
+      "id": null
+    },
+    {
+      "title": "For No One",
+      "id": null
+    },
+    {
+      "title": "Smile",
+      "id": null
+    },
+    {
+      "title": "Low Spark of High Heeled Boys",
+      "id": null
+    },
+    {
+      "title": "On the Street Where You Live",
+      "id": null
+    },
+    {
+      "title": "I Can't Get Started",
+      "id": null
+    },
+    {
+      "title": "Up a Lazy River",
+      "id": null
+    },
+    {
+      "title": "Someone to Watch Over Me",
+      "id": null
+    },
+    {
+      "title": "Cycles",
+      "id": null
+    },
+    {
+      "title": "One Hand, One Heart",
+      "id": null
+    },
+    {
+      "title": "Company (Live in NYC 1999)",
+      "id": null
+    }
+  ]
+}

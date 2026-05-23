@@ -1,1 +1,82 @@
-{"id": "it-s-not-over-the-hits-so-far-daughtry", "title": "It's Not Over... The Hits So Far", "artist": "Daughtry", "peak": 43, "history": [{"date": "2016-03-05", "rank": 43}, {"date": "2016-03-12", "rank": 61}, {"date": "2016-03-19", "rank": 105}, {"date": "2016-03-26", "rank": 147}, {"date": "2016-04-02", "rank": 191}]}
+{
+  "id": "it-s-not-over-the-hits-so-far-daughtry",
+  "title": "It's Not Over... The Hits So Far",
+  "artist": "Daughtry",
+  "peak": 43,
+  "history": [
+    {
+      "date": "2016-03-05",
+      "rank": 43
+    },
+    {
+      "date": "2016-03-12",
+      "rank": 61
+    },
+    {
+      "date": "2016-03-19",
+      "rank": 105
+    },
+    {
+      "date": "2016-03-26",
+      "rank": 147
+    },
+    {
+      "date": "2016-04-02",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s Not Over",
+      "id": "it-s-not-over-daughtry"
+    },
+    {
+      "title": "Home",
+      "id": "home-daughtry"
+    },
+    {
+      "title": "Over You",
+      "id": "over-you-daughtry"
+    },
+    {
+      "title": "What About Now",
+      "id": "what-about-now-daughtry"
+    },
+    {
+      "title": "Feels Like Tonight",
+      "id": "feels-like-tonight-daughtry"
+    },
+    {
+      "title": "No Surprise",
+      "id": "no-surprise-daughtry"
+    },
+    {
+      "title": "September",
+      "id": "september-daughtry"
+    },
+    {
+      "title": "Life After You",
+      "id": "life-after-you-daughtry"
+    },
+    {
+      "title": "Crawling Back to You",
+      "id": "crawling-back-to-you-daughtry"
+    },
+    {
+      "title": "Waiting for Superman",
+      "id": "waiting-for-superman-daughtry"
+    },
+    {
+      "title": "Long Live Rock & Roll",
+      "id": null
+    },
+    {
+      "title": "Torches",
+      "id": null
+    },
+    {
+      "title": "Go Down",
+      "id": null
+    }
+  ]
+}

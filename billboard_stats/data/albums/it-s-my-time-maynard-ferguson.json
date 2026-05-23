@@ -1,1 +1,50 @@
-{"id": "it-s-my-time-maynard-ferguson", "title": "It's My Time", "artist": "Maynard Ferguson", "peak": 188, "history": [{"date": "1980-09-27", "rank": 188}, {"date": "1980-10-04", "rank": 188}]}
+{
+  "id": "it-s-my-time-maynard-ferguson",
+  "title": "It's My Time",
+  "artist": "Maynard Ferguson",
+  "peak": 188,
+  "history": [
+    {
+      "date": "1980-09-27",
+      "rank": 188
+    },
+    {
+      "date": "1980-10-04",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It's My Time",
+      "id": null
+    },
+    {
+      "title": "Dance to Your Heart",
+      "id": null
+    },
+    {
+      "title": "Everybody Loves the Blues",
+      "id": null
+    },
+    {
+      "title": "An Offering of Love, Part 1",
+      "id": null
+    },
+    {
+      "title": "Star",
+      "id": null
+    },
+    {
+      "title": "You Can Have Me Anytime",
+      "id": null
+    },
+    {
+      "title": "Red Creek",
+      "id": null
+    },
+    {
+      "title": "The Spirit of St. Frederick",
+      "id": null
+    }
+  ]
+}

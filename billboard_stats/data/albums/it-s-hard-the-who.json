@@ -1,1 +1,194 @@
-{"id": "it-s-hard-the-who", "title": "It's Hard", "artist": "The Who", "peak": 8, "history": [{"date": "1982-09-25", "rank": 22}, {"date": "1982-10-02", "rank": 12}, {"date": "1982-10-09", "rank": 10}, {"date": "1982-10-16", "rank": 10}, {"date": "1982-10-23", "rank": 8}, {"date": "1982-10-30", "rank": 8}, {"date": "1982-11-06", "rank": 8}, {"date": "1982-11-13", "rank": 8}, {"date": "1982-11-20", "rank": 8}, {"date": "1982-11-27", "rank": 22}, {"date": "1982-12-04", "rank": 44}, {"date": "1982-12-11", "rank": 57}, {"date": "1982-12-18", "rank": 73}, {"date": "1982-12-25", "rank": 70}, {"date": "1983-01-01", "rank": 70}, {"date": "1983-01-08", "rank": 70}, {"date": "1983-01-15", "rank": 68}, {"date": "1983-01-22", "rank": 72}, {"date": "1983-01-29", "rank": 72}, {"date": "1983-02-05", "rank": 77}, {"date": "1983-02-12", "rank": 83}, {"date": "1983-02-19", "rank": 109}, {"date": "1983-02-26", "rank": 106}, {"date": "1983-03-05", "rank": 106}, {"date": "1983-03-12", "rank": 106}, {"date": "1983-03-19", "rank": 108}, {"date": "1983-03-26", "rank": 132}, {"date": "1983-04-02", "rank": 159}, {"date": "1983-04-09", "rank": 157}, {"date": "1983-04-16", "rank": 177}, {"date": "1983-04-23", "rank": 179}, {"date": "1983-04-30", "rank": 197}]}
+{
+  "id": "it-s-hard-the-who",
+  "title": "It's Hard",
+  "artist": "The Who",
+  "peak": 8,
+  "history": [
+    {
+      "date": "1982-09-25",
+      "rank": 22
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 12
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 10
+    },
+    {
+      "date": "1982-10-16",
+      "rank": 10
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 8
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 8
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 8
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 8
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 8
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 22
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 44
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 57
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 73
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 70
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 70
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 70
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 68
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 72
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 72
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 77
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 83
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 109
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 106
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 106
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 106
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 108
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 132
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 159
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 157
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 177
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 179
+    },
+    {
+      "date": "1983-04-30",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Athena",
+      "id": "athena-the-who"
+    },
+    {
+      "title": "Eminence Front",
+      "id": "eminence-front-the-who"
+    },
+    {
+      "title": "It’s Your Turn",
+      "id": null
+    },
+    {
+      "title": "Cooks County",
+      "id": null
+    },
+    {
+      "title": "It’s Hard",
+      "id": null
+    },
+    {
+      "title": "Dangerous",
+      "id": null
+    },
+    {
+      "title": "I’ve Known No War",
+      "id": null
+    },
+    {
+      "title": "One Life’s Enough",
+      "id": null
+    },
+    {
+      "title": "One at a Time",
+      "id": null
+    },
+    {
+      "title": "Why Did I Fall for That",
+      "id": null
+    },
+    {
+      "title": "A Man Is a Man",
+      "id": null
+    },
+    {
+      "title": "Cry If You Want",
+      "id": null
+    },
+    {
+      "title": "Dangerous (live)",
+      "id": null
+    },
+    {
+      "title": "Cry If You Want (live)",
+      "id": null
+    }
+  ]
+}
