@@ -1,1 +1,106 @@
-{"id": "breach-twenty-one-pilots", "title": "Breach", "artist": "Twenty One Pilots", "peak": 1, "history": [{"date": "2025-09-27", "rank": 1}, {"date": "2025-10-04", "rank": 12}, {"date": "2025-10-11", "rank": 30}, {"date": "2025-10-18", "rank": 46}, {"date": "2025-10-25", "rank": 67}, {"date": "2025-11-01", "rank": 111}, {"date": "2025-11-08", "rank": 136}, {"date": "2025-11-15", "rank": 158}, {"date": "2025-11-22", "rank": 171}, {"date": "2026-03-07", "rank": 177}, {"date": "2026-03-21", "rank": 186}]}
+{
+  "id": "breach-twenty-one-pilots",
+  "title": "Breach",
+  "artist": "Twenty One Pilots",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2025-09-27",
+      "rank": 1
+    },
+    {
+      "date": "2025-10-04",
+      "rank": 12
+    },
+    {
+      "date": "2025-10-11",
+      "rank": 30
+    },
+    {
+      "date": "2025-10-18",
+      "rank": 46
+    },
+    {
+      "date": "2025-10-25",
+      "rank": 67
+    },
+    {
+      "date": "2025-11-01",
+      "rank": 111
+    },
+    {
+      "date": "2025-11-08",
+      "rank": 136
+    },
+    {
+      "date": "2025-11-15",
+      "rank": 158
+    },
+    {
+      "date": "2025-11-22",
+      "rank": 171
+    },
+    {
+      "date": "2026-03-07",
+      "rank": 177
+    },
+    {
+      "date": "2026-03-21",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "City Walls",
+      "id": "city-walls-twenty-one-pilots"
+    },
+    {
+      "title": "The Contract",
+      "id": "the-craving-twenty-one-pilots"
+    },
+    {
+      "title": "RAWFEAR",
+      "id": null
+    },
+    {
+      "title": "Drum Show",
+      "id": null
+    },
+    {
+      "title": "Garbage",
+      "id": null
+    },
+    {
+      "title": "Downstairs",
+      "id": null
+    },
+    {
+      "title": "Robot Voices",
+      "id": null
+    },
+    {
+      "title": "Center Mass",
+      "id": null
+    },
+    {
+      "title": "Cottonwood",
+      "id": null
+    },
+    {
+      "title": "One Way",
+      "id": null
+    },
+    {
+      "title": "Days Lie Dormant",
+      "id": null
+    },
+    {
+      "title": "Tally",
+      "id": null
+    },
+    {
+      "title": "Intentions",
+      "id": null
+    }
+  ]
+}

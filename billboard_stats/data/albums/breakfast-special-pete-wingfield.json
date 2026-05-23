@@ -1,1 +1,70 @@
-{"id": "breakfast-special-pete-wingfield", "title": "Breakfast Special", "artist": "Pete Wingfield", "peak": 165, "history": [{"date": "1975-12-06", "rank": 182}, {"date": "1975-12-13", "rank": 171}, {"date": "1975-12-20", "rank": 165}, {"date": "1975-12-27", "rank": 199}, {"date": "1976-01-03", "rank": 197}]}
+{
+  "id": "breakfast-special-pete-wingfield",
+  "title": "Breakfast Special",
+  "artist": "Pete Wingfield",
+  "peak": 165,
+  "history": [
+    {
+      "date": "1975-12-06",
+      "rank": 182
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 171
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 165
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 199
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Eighteen With a Bullet",
+      "id": "eighteen-with-a-bullet-pete-wingfield"
+    },
+    {
+      "title": "A Whole Pot of Jelly (For a Little Slice of Toast)",
+      "id": null
+    },
+    {
+      "title": "Hold Me Closer",
+      "id": null
+    },
+    {
+      "title": "Shadow of a Doubt",
+      "id": null
+    },
+    {
+      "title": "Anytime",
+      "id": null
+    },
+    {
+      "title": "Please",
+      "id": null
+    },
+    {
+      "title": "Lovin’ as You Wanna Be",
+      "id": null
+    },
+    {
+      "title": "Kangaroo Dip",
+      "id": null
+    },
+    {
+      "title": "Number One Priority",
+      "id": null
+    },
+    {
+      "title": "Shining Eyes",
+      "id": null
+    }
+  ]
+}

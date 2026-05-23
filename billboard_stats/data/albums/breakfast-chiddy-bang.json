@@ -1,1 +1,86 @@
-{"id": "breakfast-chiddy-bang", "title": "Breakfast", "artist": "Chiddy Bang", "peak": 8, "history": [{"date": "2012-03-10", "rank": 8}, {"date": "2012-03-17", "rank": 55}, {"date": "2012-03-24", "rank": 121}, {"date": "2012-03-31", "rank": 149}, {"date": "2012-04-07", "rank": 146}]}
+{
+  "id": "breakfast-chiddy-bang",
+  "title": "Breakfast",
+  "artist": "Chiddy Bang",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2012-03-10",
+      "rank": 8
+    },
+    {
+      "date": "2012-03-17",
+      "rank": 55
+    },
+    {
+      "date": "2012-03-24",
+      "rank": 121
+    },
+    {
+      "date": "2012-03-31",
+      "rank": 149
+    },
+    {
+      "date": "2012-04-07",
+      "rank": 146
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Breakfast",
+      "id": null
+    },
+    {
+      "title": "Handclaps & Guitars",
+      "id": null
+    },
+    {
+      "title": "Mind Your Manners",
+      "id": null
+    },
+    {
+      "title": "Ray Charles",
+      "id": null
+    },
+    {
+      "title": "Does She Love Me?",
+      "id": null
+    },
+    {
+      "title": "Run It Back",
+      "id": null
+    },
+    {
+      "title": "Out 2 Space",
+      "id": null
+    },
+    {
+      "title": "Whatever We Want",
+      "id": null
+    },
+    {
+      "title": "Interlude",
+      "id": null
+    },
+    {
+      "title": "Talking to Myself",
+      "id": null
+    },
+    {
+      "title": "Happening",
+      "id": null
+    },
+    {
+      "title": "Baby Roulette",
+      "id": null
+    },
+    {
+      "title": "4th Quarter",
+      "id": null
+    }
+  ]
+}

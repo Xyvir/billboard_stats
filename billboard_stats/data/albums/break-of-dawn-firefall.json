@@ -1,1 +1,62 @@
-{"id": "break-of-dawn-firefall", "title": "Break Of Dawn", "artist": "Firefall", "peak": 199, "history": [{"date": "1983-03-12", "rank": 200}, {"date": "1983-03-19", "rank": 200}, {"date": "1983-03-26", "rank": 199}]}
+{
+  "id": "break-of-dawn-firefall",
+  "title": "Break Of Dawn",
+  "artist": "Firefall",
+  "peak": 199,
+  "history": [
+    {
+      "date": "1983-03-12",
+      "rank": 200
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 200
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Always",
+      "id": "always-firefall"
+    },
+    {
+      "title": "Break of Dawn",
+      "id": null
+    },
+    {
+      "title": "Body and Soul",
+      "id": null
+    },
+    {
+      "title": "Falling in Love",
+      "id": null
+    },
+    {
+      "title": "In the Dead of Night",
+      "id": null
+    },
+    {
+      "title": "It's Not Too Late",
+      "id": null
+    },
+    {
+      "title": "Take Me Back",
+      "id": null
+    },
+    {
+      "title": "Fall For You",
+      "id": null
+    },
+    {
+      "title": "Suddenly",
+      "id": null
+    },
+    {
+      "title": "Don't Tell Me Why",
+      "id": null
+    }
+  ]
+}
