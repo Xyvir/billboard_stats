@@ -1,1 +1,86 @@
-{"id": "i-still-do-eric-clapton", "title": "I Still Do", "artist": "Eric Clapton", "peak": 6, "history": [{"date": "2016-06-11", "rank": 6}, {"date": "2016-06-18", "rank": 29}, {"date": "2016-06-25", "rank": 59}, {"date": "2016-07-02", "rank": 77}, {"date": "2016-07-09", "rank": 77}, {"date": "2016-07-16", "rank": 177}]}
+{
+  "id": "i-still-do-eric-clapton",
+  "title": "I Still Do",
+  "artist": "Eric Clapton",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2016-06-11",
+      "rank": 6
+    },
+    {
+      "date": "2016-06-18",
+      "rank": 29
+    },
+    {
+      "date": "2016-06-25",
+      "rank": 59
+    },
+    {
+      "date": "2016-07-02",
+      "rank": 77
+    },
+    {
+      "date": "2016-07-09",
+      "rank": 77
+    },
+    {
+      "date": "2016-07-16",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Freight Train",
+      "id": "let-it-rain-eric-clapton"
+    },
+    {
+      "title": "Alabama Woman Blues",
+      "id": null
+    },
+    {
+      "title": "Can’t Let You Do It",
+      "id": null
+    },
+    {
+      "title": "I Will Be There",
+      "id": null
+    },
+    {
+      "title": "Spiral",
+      "id": null
+    },
+    {
+      "title": "Catch the Blues",
+      "id": null
+    },
+    {
+      "title": "Cypress Grove",
+      "id": null
+    },
+    {
+      "title": "Little Man, You’ve Had a Busy Day",
+      "id": null
+    },
+    {
+      "title": "Stones in My Passway",
+      "id": null
+    },
+    {
+      "title": "I Dreamed I Saw St. Augustine",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Alright",
+      "id": null
+    },
+    {
+      "title": "Somebody’s Knockin’",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Seeing You",
+      "id": null
+    }
+  ]
+}
