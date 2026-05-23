@@ -1,1 +1,90 @@
-{"id": "got-to-be-there-michael-jackson", "title": "Got To Be There", "artist": "Michael Jackson", "peak": 44, "history": [{"date": "1972-05-20", "rank": 44}, {"date": "1972-05-27", "rank": 65}, {"date": "1972-06-03", "rank": 68}, {"date": "1972-06-10", "rank": 79}, {"date": "1972-06-17", "rank": 81}, {"date": "1972-06-24", "rank": 90}, {"date": "1972-07-01", "rank": 102}, {"date": "1972-07-08", "rank": 110}, {"date": "1972-07-15", "rank": 134}, {"date": "1972-07-22", "rank": 143}]}
+{
+  "id": "got-to-be-there-michael-jackson",
+  "title": "Got To Be There",
+  "artist": "Michael Jackson",
+  "peak": 44,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 44
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 65
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 68
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 79
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 81
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 90
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 102
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 110
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 134
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Wanna Be Where You Are",
+      "id": "i-wanna-be-where-you-are-michael-jackson"
+    },
+    {
+      "title": "Got to Be There",
+      "id": "got-to-be-there-michael-jackson"
+    },
+    {
+      "title": "Rockin’ Robin",
+      "id": "rockin-robin-michael-jackson"
+    },
+    {
+      "title": "You’ve Got a Friend",
+      "id": "you-are-not-alone-michael-jackson"
+    },
+    {
+      "title": "Ain’t No Sunshine",
+      "id": null
+    },
+    {
+      "title": "Girl Don’t Take Your Love From Me",
+      "id": null
+    },
+    {
+      "title": "In Our Small Way",
+      "id": null
+    },
+    {
+      "title": "Wings of My Love",
+      "id": null
+    },
+    {
+      "title": "Maria (You Were the Only One)",
+      "id": null
+    },
+    {
+      "title": "Love Is Here and Now You’re Gone",
+      "id": null
+    }
+  ]
+}
