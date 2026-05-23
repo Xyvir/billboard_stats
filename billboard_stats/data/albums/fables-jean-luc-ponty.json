@@ -1,1 +1,54 @@
-{"id": "fables-jean-luc-ponty", "title": "Fables", "artist": "Jean Luc Ponty", "peak": 166, "history": [{"date": "1985-11-02", "rank": 176}, {"date": "1985-11-09", "rank": 171}, {"date": "1985-11-16", "rank": 166}, {"date": "1985-11-23", "rank": 166}]}
+{
+  "id": "fables-jean-luc-ponty",
+  "title": "Fables",
+  "artist": "Jean Luc Ponty",
+  "peak": 166,
+  "history": [
+    {
+      "date": "1985-11-02",
+      "rank": 176
+    },
+    {
+      "date": "1985-11-09",
+      "rank": 171
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 166
+    },
+    {
+      "date": "1985-11-23",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Infinite Pursuit",
+      "id": null
+    },
+    {
+      "title": "Elephants in Love",
+      "id": null
+    },
+    {
+      "title": "Radioactive Legacy",
+      "id": null
+    },
+    {
+      "title": "Cats Tales",
+      "id": null
+    },
+    {
+      "title": "Perpetual Rondo",
+      "id": null
+    },
+    {
+      "title": "In the Kingdom of Peace",
+      "id": null
+    },
+    {
+      "title": "Plastic Idols",
+      "id": null
+    }
+  ]
+}
