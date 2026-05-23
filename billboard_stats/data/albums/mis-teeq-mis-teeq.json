@@ -1,1 +1,70 @@
-{"id": "mis-teeq-mis-teeq", "title": "Mis-Teeq", "artist": "Mis-Teeq", "peak": 125, "history": [{"date": "2004-08-07", "rank": 125}, {"date": "2004-08-14", "rank": 191}]}
+{
+  "id": "mis-teeq-mis-teeq",
+  "title": "Mis-Teeq",
+  "artist": "Mis-Teeq",
+  "peak": 125,
+  "history": [
+    {
+      "date": "2004-08-07",
+      "rank": 125
+    },
+    {
+      "date": "2004-08-14",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Scandalous (radio edit)",
+      "id": "scandalous-mis-teeq"
+    },
+    {
+      "title": "One Night Stand",
+      "id": null
+    },
+    {
+      "title": "Best Friends",
+      "id": null
+    },
+    {
+      "title": "Can’t Get It Back (Ignorant’s radio edit)",
+      "id": null
+    },
+    {
+      "title": "Home Tonight",
+      "id": null
+    },
+    {
+      "title": "Roll On (Blacksmith Rub)",
+      "id": null
+    },
+    {
+      "title": "All I Want",
+      "id": null
+    },
+    {
+      "title": "That’s Just Not Me",
+      "id": null
+    },
+    {
+      "title": "How Does It Feel",
+      "id": null
+    },
+    {
+      "title": "B With Me",
+      "id": null
+    },
+    {
+      "title": "Do Me Like That",
+      "id": null
+    },
+    {
+      "title": "Dance Your Cares Away",
+      "id": null
+    },
+    {
+      "title": "Can’t Get It Back (Salaam Remi mix)",
+      "id": null
+    }
+  ]
+}

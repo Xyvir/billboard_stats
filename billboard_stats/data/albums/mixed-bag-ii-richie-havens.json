@@ -1,1 +1,58 @@
-{"id": "mixed-bag-ii-richie-havens", "title": "Mixed Bag II", "artist": "Richie Havens", "peak": 186, "history": [{"date": "1974-10-12", "rank": 190}, {"date": "1974-10-19", "rank": 186}, {"date": "1974-10-26", "rank": 200}]}
+{
+  "id": "mixed-bag-ii-richie-havens",
+  "title": "Mixed Bag II",
+  "artist": "Richie Havens",
+  "peak": 186,
+  "history": [
+    {
+      "date": "1974-10-12",
+      "rank": 190
+    },
+    {
+      "date": "1974-10-19",
+      "rank": 186
+    },
+    {
+      "date": "1974-10-26",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ooh Child",
+      "id": null
+    },
+    {
+      "title": "Headkeeper",
+      "id": null
+    },
+    {
+      "title": "Wandering Angus",
+      "id": null
+    },
+    {
+      "title": "Sad Eyed Lady (Of the Lowlands)",
+      "id": null
+    },
+    {
+      "title": "Someone Suite",
+      "id": null
+    },
+    {
+      "title": "Band on the Run",
+      "id": null
+    },
+    {
+      "title": "The Loner",
+      "id": null
+    },
+    {
+      "title": "The Makings of You",
+      "id": null
+    },
+    {
+      "title": "The Indian Prayer",
+      "id": null
+    }
+  ]
+}

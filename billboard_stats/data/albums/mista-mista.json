@@ -1,1 +1,70 @@
-{"id": "mista-mista", "title": "Mista", "artist": "Mista", "peak": 183, "history": [{"date": "1996-08-17", "rank": 192}, {"date": "1996-08-24", "rank": 185}, {"date": "1996-08-31", "rank": 183}]}
+{
+  "id": "mista-mista",
+  "title": "Mista",
+  "artist": "Mista",
+  "peak": 183,
+  "history": [
+    {
+      "date": "1996-08-17",
+      "rank": 192
+    },
+    {
+      "date": "1996-08-24",
+      "rank": 185
+    },
+    {
+      "date": "1996-08-31",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blackberry Molasses",
+      "id": "blackberry-molasses-mista"
+    },
+    {
+      "title": "Lady",
+      "id": "lady-mista"
+    },
+    {
+      "title": "Fresh Groove",
+      "id": null
+    },
+    {
+      "title": "Things You Do",
+      "id": null
+    },
+    {
+      "title": "If My Baby",
+      "id": null
+    },
+    {
+      "title": "I Think That I Should Be",
+      "id": null
+    },
+    {
+      "title": "What Love Is",
+      "id": null
+    },
+    {
+      "title": "Tears, Scars & Lies",
+      "id": null
+    },
+    {
+      "title": "Everything Must Change (interlude)",
+      "id": null
+    },
+    {
+      "title": "What About Us",
+      "id": null
+    },
+    {
+      "title": "Crossroads",
+      "id": null
+    },
+    {
+      "title": "I'll Sweat You",
+      "id": null
+    }
+  ]
+}

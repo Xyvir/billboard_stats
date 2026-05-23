@@ -1,1 +1,78 @@
-{"id": "mi-tiempo-chayanne", "title": "Mi Tiempo", "artist": "Chayanne", "peak": 42, "history": [{"date": "2007-04-28", "rank": 42}, {"date": "2007-05-05", "rank": 100}, {"date": "2007-05-12", "rank": 152}, {"date": "2007-05-26", "rank": 126}, {"date": "2007-06-02", "rank": 198}]}
+{
+  "id": "mi-tiempo-chayanne",
+  "title": "Mi Tiempo",
+  "artist": "Chayanne",
+  "peak": 42,
+  "history": [
+    {
+      "date": "2007-04-28",
+      "rank": 42
+    },
+    {
+      "date": "2007-05-05",
+      "rank": 100
+    },
+    {
+      "date": "2007-05-12",
+      "rank": 152
+    },
+    {
+      "date": "2007-05-26",
+      "rank": 126
+    },
+    {
+      "date": "2007-06-02",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Si nos quedara poco tiempo",
+      "id": null
+    },
+    {
+      "title": "Lola",
+      "id": null
+    },
+    {
+      "title": "Cuestión de feeling",
+      "id": null
+    },
+    {
+      "title": "Tengo miedo",
+      "id": null
+    },
+    {
+      "title": "Indispensable",
+      "id": null
+    },
+    {
+      "title": "Bailarina",
+      "id": null
+    },
+    {
+      "title": "Te amaré",
+      "id": null
+    },
+    {
+      "title": "Sin palabras de relleno",
+      "id": null
+    },
+    {
+      "title": "Me voy a Rio",
+      "id": null
+    },
+    {
+      "title": "Loco por vos",
+      "id": null
+    },
+    {
+      "title": "Juicio final",
+      "id": null
+    },
+    {
+      "title": "Lola (Spanglish version)",
+      "id": null
+    }
+  ]
+}
