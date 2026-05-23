@@ -1,1 +1,86 @@
-{"id": "live-2pac", "title": "Live", "artist": "2Pac", "peak": 54, "history": [{"date": "2004-08-21", "rank": 185}, {"date": "2004-08-28", "rank": 54}, {"date": "2004-09-04", "rank": 88}, {"date": "2004-09-11", "rank": 128}, {"date": "2004-09-18", "rank": 172}, {"date": "2004-09-25", "rank": 188}]}
+{
+  "id": "live-2pac",
+  "title": "Live",
+  "artist": "2Pac",
+  "peak": 54,
+  "history": [
+    {
+      "date": "2004-08-21",
+      "rank": 185
+    },
+    {
+      "date": "2004-08-28",
+      "rank": 54
+    },
+    {
+      "date": "2004-09-04",
+      "rank": 88
+    },
+    {
+      "date": "2004-09-11",
+      "rank": 128
+    },
+    {
+      "date": "2004-09-18",
+      "rank": 172
+    },
+    {
+      "date": "2004-09-25",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "So Many Tears",
+      "id": "so-many-tears-2pac"
+    },
+    {
+      "title": "Medley: California Love / So Many Tears",
+      "id": null
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Ambitionz az a Ridah",
+      "id": null
+    },
+    {
+      "title": "Troublesome",
+      "id": null
+    },
+    {
+      "title": "Hit ’Em Up",
+      "id": null
+    },
+    {
+      "title": "Tattoo Tears",
+      "id": null
+    },
+    {
+      "title": "Heartz of Men",
+      "id": null
+    },
+    {
+      "title": "All About You",
+      "id": null
+    },
+    {
+      "title": "Never Call You Bitch Again",
+      "id": null
+    },
+    {
+      "title": "How Do You Want It",
+      "id": null
+    },
+    {
+      "title": "2 of Amerikaz Most Wanted",
+      "id": null
+    },
+    {
+      "title": "California Love",
+      "id": null
+    }
+  ]
+}

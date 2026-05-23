@@ -1,1 +1,258 @@
-{"id": "live-ac-dc", "title": "Live", "artist": "AC/DC", "peak": 15, "history": [{"date": "1992-11-14", "rank": 26}, {"date": "1992-11-21", "rank": 15}, {"date": "1992-11-28", "rank": 18}, {"date": "1992-12-05", "rank": 26}, {"date": "1992-12-12", "rank": 39}, {"date": "1992-12-19", "rank": 42}, {"date": "1992-12-26", "rank": 43}, {"date": "1993-01-02", "rank": 53}, {"date": "1993-01-09", "rank": 54}, {"date": "1993-01-16", "rank": 38}, {"date": "1993-01-23", "rank": 40}, {"date": "1993-01-30", "rank": 41}, {"date": "1993-02-06", "rank": 46}, {"date": "1993-02-13", "rank": 55}, {"date": "1993-02-20", "rank": 55}, {"date": "1993-02-27", "rank": 64}, {"date": "1993-03-06", "rank": 72}, {"date": "1993-03-13", "rank": 75}, {"date": "1993-03-20", "rank": 74}, {"date": "1993-03-27", "rank": 82}, {"date": "1993-04-03", "rank": 89}, {"date": "1993-04-10", "rank": 101}, {"date": "1993-04-17", "rank": 107}, {"date": "1993-04-24", "rank": 113}, {"date": "1993-05-01", "rank": 112}, {"date": "1993-05-08", "rank": 129}, {"date": "1993-05-15", "rank": 131}, {"date": "1993-05-22", "rank": 143}, {"date": "1993-05-29", "rank": 147}, {"date": "1993-06-05", "rank": 142}, {"date": "1993-06-12", "rank": 140}, {"date": "1993-06-19", "rank": 143}, {"date": "1993-06-26", "rank": 128}, {"date": "1993-07-03", "rank": 150}, {"date": "1993-07-10", "rank": 152}, {"date": "1993-07-17", "rank": 151}, {"date": "1993-07-24", "rank": 154}, {"date": "1993-07-31", "rank": 155}, {"date": "1993-08-07", "rank": 155}, {"date": "1993-08-14", "rank": 160}, {"date": "1993-08-21", "rank": 160}, {"date": "1993-08-28", "rank": 155}, {"date": "1993-09-04", "rank": 152}, {"date": "1993-09-11", "rank": 167}, {"date": "1993-09-18", "rank": 171}, {"date": "1993-09-25", "rank": 173}, {"date": "1993-10-02", "rank": 190}, {"date": "1993-10-09", "rank": 190}]}
+{
+  "id": "live-ac-dc",
+  "title": "Live",
+  "artist": "AC/DC",
+  "peak": 15,
+  "history": [
+    {
+      "date": "1992-11-14",
+      "rank": 26
+    },
+    {
+      "date": "1992-11-21",
+      "rank": 15
+    },
+    {
+      "date": "1992-11-28",
+      "rank": 18
+    },
+    {
+      "date": "1992-12-05",
+      "rank": 26
+    },
+    {
+      "date": "1992-12-12",
+      "rank": 39
+    },
+    {
+      "date": "1992-12-19",
+      "rank": 42
+    },
+    {
+      "date": "1992-12-26",
+      "rank": 43
+    },
+    {
+      "date": "1993-01-02",
+      "rank": 53
+    },
+    {
+      "date": "1993-01-09",
+      "rank": 54
+    },
+    {
+      "date": "1993-01-16",
+      "rank": 38
+    },
+    {
+      "date": "1993-01-23",
+      "rank": 40
+    },
+    {
+      "date": "1993-01-30",
+      "rank": 41
+    },
+    {
+      "date": "1993-02-06",
+      "rank": 46
+    },
+    {
+      "date": "1993-02-13",
+      "rank": 55
+    },
+    {
+      "date": "1993-02-20",
+      "rank": 55
+    },
+    {
+      "date": "1993-02-27",
+      "rank": 64
+    },
+    {
+      "date": "1993-03-06",
+      "rank": 72
+    },
+    {
+      "date": "1993-03-13",
+      "rank": 75
+    },
+    {
+      "date": "1993-03-20",
+      "rank": 74
+    },
+    {
+      "date": "1993-03-27",
+      "rank": 82
+    },
+    {
+      "date": "1993-04-03",
+      "rank": 89
+    },
+    {
+      "date": "1993-04-10",
+      "rank": 101
+    },
+    {
+      "date": "1993-04-17",
+      "rank": 107
+    },
+    {
+      "date": "1993-04-24",
+      "rank": 113
+    },
+    {
+      "date": "1993-05-01",
+      "rank": 112
+    },
+    {
+      "date": "1993-05-08",
+      "rank": 129
+    },
+    {
+      "date": "1993-05-15",
+      "rank": 131
+    },
+    {
+      "date": "1993-05-22",
+      "rank": 143
+    },
+    {
+      "date": "1993-05-29",
+      "rank": 147
+    },
+    {
+      "date": "1993-06-05",
+      "rank": 142
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 140
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 143
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 128
+    },
+    {
+      "date": "1993-07-03",
+      "rank": 150
+    },
+    {
+      "date": "1993-07-10",
+      "rank": 152
+    },
+    {
+      "date": "1993-07-17",
+      "rank": 151
+    },
+    {
+      "date": "1993-07-24",
+      "rank": 154
+    },
+    {
+      "date": "1993-07-31",
+      "rank": 155
+    },
+    {
+      "date": "1993-08-07",
+      "rank": 155
+    },
+    {
+      "date": "1993-08-14",
+      "rank": 160
+    },
+    {
+      "date": "1993-08-21",
+      "rank": 160
+    },
+    {
+      "date": "1993-08-28",
+      "rank": 155
+    },
+    {
+      "date": "1993-09-04",
+      "rank": 152
+    },
+    {
+      "date": "1993-09-11",
+      "rank": 167
+    },
+    {
+      "date": "1993-09-18",
+      "rank": 171
+    },
+    {
+      "date": "1993-09-25",
+      "rank": 173
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 190
+    },
+    {
+      "date": "1993-10-09",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Back in Black",
+      "id": "back-in-black-ac-dc"
+    },
+    {
+      "title": "Moneytalks",
+      "id": "moneytalks-ac-dc"
+    },
+    {
+      "title": "You Shook Me All Night Long",
+      "id": "you-shook-me-all-night-long-ac-dc"
+    },
+    {
+      "title": "Highway to Hell",
+      "id": "highway-to-hell-ac-dc"
+    },
+    {
+      "title": "Thunderstruck",
+      "id": null
+    },
+    {
+      "title": "Shoot to Thrill",
+      "id": null
+    },
+    {
+      "title": "Who Made Who",
+      "id": null
+    },
+    {
+      "title": "Heatseeker",
+      "id": null
+    },
+    {
+      "title": "The Jack",
+      "id": null
+    },
+    {
+      "title": "Hells Bells",
+      "id": null
+    },
+    {
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "id": null
+    },
+    {
+      "title": "Whole Lotta Rosie",
+      "id": null
+    },
+    {
+      "title": "T.N.T.",
+      "id": null
+    },
+    {
+      "title": "For Those About to Rock (We Salute You)",
+      "id": null
+    }
+  ]
+}

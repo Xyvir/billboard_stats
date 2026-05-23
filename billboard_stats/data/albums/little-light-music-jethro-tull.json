@@ -1,1 +1,86 @@
-{"id": "little-light-music-jethro-tull", "title": "Little Light Music", "artist": "Jethro Tull", "peak": 150, "history": [{"date": "1992-10-10", "rank": 150}, {"date": "1992-10-17", "rank": 187}]}
+{
+  "id": "little-light-music-jethro-tull",
+  "title": "Little Light Music",
+  "artist": "Jethro Tull",
+  "peak": 150,
+  "history": [
+    {
+      "date": "1992-10-10",
+      "rank": 150
+    },
+    {
+      "date": "1992-10-17",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Living in the Past",
+      "id": "living-in-the-past-jethro-tull"
+    },
+    {
+      "title": "Locomotive Breath",
+      "id": "locomotive-breath-jethro-tull"
+    },
+    {
+      "title": "Someday the Sun Won’t Shine for You",
+      "id": null
+    },
+    {
+      "title": "Life Is a Long Song",
+      "id": null
+    },
+    {
+      "title": "Under Wraps",
+      "id": null
+    },
+    {
+      "title": "Rocks on the Road",
+      "id": null
+    },
+    {
+      "title": "Nursie",
+      "id": null
+    },
+    {
+      "title": "Too Old to Rock and Roll, Too Young to Die",
+      "id": null
+    },
+    {
+      "title": "One White Duck",
+      "id": null
+    },
+    {
+      "title": "A New Day Yesterday",
+      "id": null
+    },
+    {
+      "title": "John Barleycorn",
+      "id": null
+    },
+    {
+      "title": "Look Into the Sun",
+      "id": null
+    },
+    {
+      "title": "A Christmas Song",
+      "id": null
+    },
+    {
+      "title": "From a Dead Beat to an Old Greaser",
+      "id": null
+    },
+    {
+      "title": "This Is Not Love",
+      "id": null
+    },
+    {
+      "title": "Bourée",
+      "id": null
+    },
+    {
+      "title": "Pussy Willow",
+      "id": null
+    }
+  ]
+}

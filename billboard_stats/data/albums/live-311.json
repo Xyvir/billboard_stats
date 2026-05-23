@@ -1,1 +1,50 @@
-{"id": "live-311", "title": "Live", "artist": "311", "peak": 77, "history": [{"date": "1998-11-21", "rank": 77}, {"date": "1998-11-28", "rank": 117}]}
+{
+  "id": "live-311",
+  "title": "Live",
+  "artist": "311",
+  "peak": 77,
+  "history": [
+    {
+      "date": "1998-11-21",
+      "rank": 77
+    },
+    {
+      "date": "1998-11-28",
+      "rank": 117
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Freak Out",
+      "id": null
+    },
+    {
+      "title": "Homebrew",
+      "id": null
+    },
+    {
+      "title": "Misdirected Hostility",
+      "id": null
+    },
+    {
+      "title": "Down",
+      "id": null
+    },
+    {
+      "title": "Light Years",
+      "id": null
+    },
+    {
+      "title": "Beautiful Disaster",
+      "id": null
+    },
+    {
+      "title": "Applied Science",
+      "id": null
+    },
+    {
+      "title": "Feels So Good",
+      "id": null
+    }
+  ]
+}

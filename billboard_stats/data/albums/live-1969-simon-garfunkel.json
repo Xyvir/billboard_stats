@@ -1,1 +1,98 @@
-{"id": "live-1969-simon-garfunkel", "title": "Live 1969", "artist": "Simon & Garfunkel", "peak": 33, "history": [{"date": "2008-04-12", "rank": 33}, {"date": "2008-04-19", "rank": 54}, {"date": "2008-04-26", "rank": 43}, {"date": "2008-05-03", "rank": 117}, {"date": "2008-05-10", "rank": 172}]}
+{
+  "id": "live-1969-simon-garfunkel",
+  "title": "Live 1969",
+  "artist": "Simon & Garfunkel",
+  "peak": 33,
+  "history": [
+    {
+      "date": "2008-04-12",
+      "rank": 33
+    },
+    {
+      "date": "2008-04-19",
+      "rank": 54
+    },
+    {
+      "date": "2008-04-26",
+      "rank": 43
+    },
+    {
+      "date": "2008-05-03",
+      "rank": 117
+    },
+    {
+      "date": "2008-05-10",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Homeward Bound",
+      "id": "homeward-bound-simon-garfunkel"
+    },
+    {
+      "title": "At the Zoo",
+      "id": "at-the-zoo-simon-garfunkel"
+    },
+    {
+      "title": "For Emily, Whenever I May Find Her",
+      "id": "for-emily-whenever-i-may-find-her-simon-garfunkel"
+    },
+    {
+      "title": "Scarborough Fair / Canticle",
+      "id": "scarborough-fair-canticle-simon-garfunkel"
+    },
+    {
+      "title": "Mrs. Robinson",
+      "id": "mrs-robinson-simon-garfunkel"
+    },
+    {
+      "title": "The Boxer",
+      "id": "the-boxer-simon-garfunkel"
+    },
+    {
+      "title": "Bridge Over Troubled Water",
+      "id": "bridge-over-troubled-water-simon-garfunkel"
+    },
+    {
+      "title": "The Sound of Silence",
+      "id": "the-sound-of-silence-simon-garfunkel"
+    },
+    {
+      "title": "I Am a Rock",
+      "id": "i-am-a-rock-simon-garfunkel"
+    },
+    {
+      "title": "The 59th Street Bridge Song (Feelin’ Groovy)",
+      "id": null
+    },
+    {
+      "title": "Song for the Asking",
+      "id": null
+    },
+    {
+      "title": "Why Don’t You Write Me",
+      "id": null
+    },
+    {
+      "title": "So Long, Frank Lloyd Wright",
+      "id": null
+    },
+    {
+      "title": "That Silver‐Haired Daddy of Mine",
+      "id": null
+    },
+    {
+      "title": "Old Friends / Bookends Theme",
+      "id": null
+    },
+    {
+      "title": "Leaves That Are Green",
+      "id": null
+    },
+    {
+      "title": "Kathy’s Song",
+      "id": null
+    }
+  ]
+}
