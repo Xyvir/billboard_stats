@@ -1,1 +1,98 @@
-{"id": "made-in-america-blues-brothers", "title": "Made In America", "artist": "Blues Brothers", "peak": 49, "history": [{"date": "1980-12-27", "rank": 125}, {"date": "1981-01-03", "rank": 125}, {"date": "1981-01-10", "rank": 86}, {"date": "1981-01-17", "rank": 75}, {"date": "1981-01-24", "rank": 64}, {"date": "1981-01-31", "rank": 53}, {"date": "1981-02-07", "rank": 51}, {"date": "1981-02-14", "rank": 49}, {"date": "1981-02-21", "rank": 56}, {"date": "1981-02-28", "rank": 96}, {"date": "1981-03-07", "rank": 135}, {"date": "1981-03-14", "rank": 198}]}
+{
+  "id": "made-in-america-blues-brothers",
+  "title": "Made In America",
+  "artist": "Blues Brothers",
+  "peak": 49,
+  "history": [
+    {
+      "date": "1980-12-27",
+      "rank": 125
+    },
+    {
+      "date": "1981-01-03",
+      "rank": 125
+    },
+    {
+      "date": "1981-01-10",
+      "rank": 86
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 75
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 64
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 53
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 51
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 49
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 56
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 96
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 135
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Soul Finger",
+      "id": "soul-man-blues-brothers"
+    },
+    {
+      "title": "Who’s Making Love",
+      "id": "who-s-making-love-blues-brothers"
+    },
+    {
+      "title": "Do You Love Me",
+      "id": null
+    },
+    {
+      "title": "Guilty",
+      "id": null
+    },
+    {
+      "title": "Perry Mason Theme",
+      "id": null
+    },
+    {
+      "title": "Riot in Cell Block Number Nine",
+      "id": null
+    },
+    {
+      "title": "Green Onions",
+      "id": null
+    },
+    {
+      "title": "I Ain’t Got You",
+      "id": null
+    },
+    {
+      "title": "From the Bottom",
+      "id": null
+    },
+    {
+      "title": "Going Back to Miami",
+      "id": null
+    }
+  ]
+}

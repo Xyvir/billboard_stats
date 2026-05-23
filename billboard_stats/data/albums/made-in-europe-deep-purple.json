@@ -1,1 +1,54 @@
-{"id": "made-in-europe-deep-purple", "title": "Made In Europe", "artist": "Deep Purple", "peak": 148, "history": [{"date": "1976-11-27", "rank": 163}, {"date": "1976-12-04", "rank": 152}, {"date": "1976-12-11", "rank": 148}, {"date": "1976-12-18", "rank": 174}, {"date": "1976-12-25", "rank": 179}, {"date": "1977-01-01", "rank": 179}]}
+{
+  "id": "made-in-europe-deep-purple",
+  "title": "Made In Europe",
+  "artist": "Deep Purple",
+  "peak": 148,
+  "history": [
+    {
+      "date": "1976-11-27",
+      "rank": 163
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 152
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 148
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 174
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 179
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Burn",
+      "id": null
+    },
+    {
+      "title": "Mistreated (interpolating Rock Me Baby)",
+      "id": null
+    },
+    {
+      "title": "Lady Double Dealer",
+      "id": null
+    },
+    {
+      "title": "You Fool No One",
+      "id": null
+    },
+    {
+      "title": "Stormbringer",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,118 @@
-{"id": "macon-jason-aldean", "title": "Macon", "artist": "Jason Aldean", "peak": 8, "history": [{"date": "2021-11-27", "rank": 8}, {"date": "2021-12-04", "rank": 42}, {"date": "2021-12-11", "rank": 75}, {"date": "2021-12-18", "rank": 100}, {"date": "2021-12-25", "rank": 126}, {"date": "2022-01-01", "rank": 145}, {"date": "2022-01-08", "rank": 134}, {"date": "2022-01-15", "rank": 113}, {"date": "2022-01-22", "rank": 117}, {"date": "2022-01-29", "rank": 128}, {"date": "2022-02-05", "rank": 153}, {"date": "2022-02-12", "rank": 180}]}
+{
+  "id": "macon-jason-aldean",
+  "title": "Macon",
+  "artist": "Jason Aldean",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2021-11-27",
+      "rank": 8
+    },
+    {
+      "date": "2021-12-04",
+      "rank": 42
+    },
+    {
+      "date": "2021-12-11",
+      "rank": 75
+    },
+    {
+      "date": "2021-12-18",
+      "rank": 100
+    },
+    {
+      "date": "2021-12-25",
+      "rank": 126
+    },
+    {
+      "date": "2022-01-01",
+      "rank": 145
+    },
+    {
+      "date": "2022-01-08",
+      "rank": 134
+    },
+    {
+      "date": "2022-01-15",
+      "rank": 113
+    },
+    {
+      "date": "2022-01-22",
+      "rank": 117
+    },
+    {
+      "date": "2022-01-29",
+      "rank": 128
+    },
+    {
+      "date": "2022-02-05",
+      "rank": 153
+    },
+    {
+      "date": "2022-02-12",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "That’s What Tequila Does",
+      "id": "that-s-what-tequila-does-jason-aldean"
+    },
+    {
+      "title": "Big Green Tractor (live from Dallas, TX)",
+      "id": "big-green-tractor-jason-aldean"
+    },
+    {
+      "title": "After You",
+      "id": null
+    },
+    {
+      "title": "Over You Again",
+      "id": null
+    },
+    {
+      "title": "Small Town Small",
+      "id": null
+    },
+    {
+      "title": "If I Didn’t Love You",
+      "id": null
+    },
+    {
+      "title": "Story for Another Glass",
+      "id": null
+    },
+    {
+      "title": "Heaven",
+      "id": null
+    },
+    {
+      "title": "This Bar Don’t Work Anymore",
+      "id": null
+    },
+    {
+      "title": "The Sad Songs",
+      "id": null
+    },
+    {
+      "title": "Watching You Love Me",
+      "id": null
+    },
+    {
+      "title": "Amarillo Sky (live from Nashville, TN)",
+      "id": null
+    },
+    {
+      "title": "Johnny Cash (live from Los Angeles, CA)",
+      "id": null
+    },
+    {
+      "title": "She’s Country (live from Las Vegas, NV)",
+      "id": null
+    },
+    {
+      "title": "My Kinda Party (live from St. Louis, MO)",
+      "id": null
+    }
+  ]
+}
