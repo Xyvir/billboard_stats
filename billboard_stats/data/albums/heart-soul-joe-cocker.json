@@ -1,1 +1,74 @@
-{"id": "heart-soul-joe-cocker", "title": "Heart & Soul", "artist": "Joe Cocker", "peak": 61, "history": [{"date": "2005-02-19", "rank": 61}, {"date": "2005-02-26", "rank": 126}, {"date": "2005-03-05", "rank": 188}]}
+{
+  "id": "heart-soul-joe-cocker",
+  "title": "Heart & Soul",
+  "artist": "Joe Cocker",
+  "peak": 61,
+  "history": [
+    {
+      "date": "2005-02-19",
+      "rank": 61
+    },
+    {
+      "date": "2005-02-26",
+      "rank": 126
+    },
+    {
+      "date": "2005-03-05",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One",
+      "id": null
+    },
+    {
+      "title": "I (Who Have Nothing)",
+      "id": null
+    },
+    {
+      "title": "What’s Goin On",
+      "id": null
+    },
+    {
+      "title": "Chain of Fools",
+      "id": null
+    },
+    {
+      "title": "Maybe I’m Amazed",
+      "id": null
+    },
+    {
+      "title": "I Keep Forgetting",
+      "id": null
+    },
+    {
+      "title": "I Put a Spell on You",
+      "id": null
+    },
+    {
+      "title": "Every Kind of People",
+      "id": null
+    },
+    {
+      "title": "Love Don’t Live Here Anymore",
+      "id": null
+    },
+    {
+      "title": "Don’t Let Me Be Lonely",
+      "id": null
+    },
+    {
+      "title": "Jealous Guy",
+      "id": null
+    },
+    {
+      "title": "Everybody Hurts",
+      "id": null
+    },
+    {
+      "title": "One (live)",
+      "id": null
+    }
+  ]
+}

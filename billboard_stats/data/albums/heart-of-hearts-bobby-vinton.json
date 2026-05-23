@@ -1,1 +1,74 @@
-{"id": "heart-of-hearts-bobby-vinton", "title": "Heart Of Hearts", "artist": "Bobby Vinton", "peak": 108, "history": [{"date": "1975-07-19", "rank": 128}, {"date": "1975-07-26", "rank": 118}, {"date": "1975-08-02", "rank": 108}, {"date": "1975-08-09", "rank": 108}, {"date": "1975-08-16", "rank": 162}]}
+{
+  "id": "heart-of-hearts-bobby-vinton",
+  "title": "Heart Of Hearts",
+  "artist": "Bobby Vinton",
+  "peak": 108,
+  "history": [
+    {
+      "date": "1975-07-19",
+      "rank": 128
+    },
+    {
+      "date": "1975-07-26",
+      "rank": 118
+    },
+    {
+      "date": "1975-08-02",
+      "rank": 108
+    },
+    {
+      "date": "1975-08-09",
+      "rank": 108
+    },
+    {
+      "date": "1975-08-16",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wooden Heart",
+      "id": "wooden-heart-bobby-vinton"
+    },
+    {
+      "title": "Beer Barrel Polka",
+      "id": "beer-barrel-polka-dick-and-jane-bobby-vinton"
+    },
+    {
+      "title": "Lovely Lady",
+      "id": null
+    },
+    {
+      "title": "Feelings",
+      "id": null
+    },
+    {
+      "title": "I Won’t Give Up",
+      "id": null
+    },
+    {
+      "title": "Why Can’t I Get Over You",
+      "id": null
+    },
+    {
+      "title": "Adios Amigo",
+      "id": null
+    },
+    {
+      "title": "You’ve Got Your Momma’s Eyes",
+      "id": null
+    },
+    {
+      "title": "My Song",
+      "id": null
+    },
+    {
+      "title": "Charlie",
+      "id": null
+    },
+    {
+      "title": "Polka Pose",
+      "id": null
+    }
+  ]
+}
