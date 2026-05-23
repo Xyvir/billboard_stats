@@ -1,1 +1,90 @@
-{"id": "face-the-music-nkotb", "title": "Face The Music", "artist": "NKOTB", "peak": 37, "history": [{"date": "1994-02-12", "rank": 37}, {"date": "1994-02-19", "rank": 75}, {"date": "1994-02-26", "rank": 101}, {"date": "1994-03-05", "rank": 124}, {"date": "1994-03-12", "rank": 152}, {"date": "1994-03-19", "rank": 188}]}
+{
+  "id": "face-the-music-nkotb",
+  "title": "Face The Music",
+  "artist": "NKOTB",
+  "peak": 37,
+  "history": [
+    {
+      "date": "1994-02-12",
+      "rank": 37
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 75
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 101
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 124
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 152
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dirty Dawg",
+      "id": "dirty-dawg-nkotb"
+    },
+    {
+      "title": "If You Go Away",
+      "id": "if-you-go-away-nkotb"
+    },
+    {
+      "title": "Intro: Face the Music",
+      "id": null
+    },
+    {
+      "title": "You Got the Flavor",
+      "id": null
+    },
+    {
+      "title": "Girls",
+      "id": null
+    },
+    {
+      "title": "Keep on Smilin’",
+      "id": null
+    },
+    {
+      "title": "Never Let You Go",
+      "id": null
+    },
+    {
+      "title": "Keepin’ My Fingers Crossed",
+      "id": null
+    },
+    {
+      "title": "Mrs. Right",
+      "id": null
+    },
+    {
+      "title": "Since You Walked Into My Life",
+      "id": null
+    },
+    {
+      "title": "Let’s Play House",
+      "id": null
+    },
+    {
+      "title": "I Can’t Believe It’s Over",
+      "id": null
+    },
+    {
+      "title": "I’ll Still Be Lovin’ You",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Waitin’",
+      "id": null
+    }
+  ]
+}

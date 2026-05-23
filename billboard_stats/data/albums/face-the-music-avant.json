@@ -1,1 +1,78 @@
-{"id": "face-the-music-avant", "title": "Face The Music", "artist": "Avant", "peak": 40, "history": [{"date": "2013-02-23", "rank": 40}, {"date": "2013-03-02", "rank": 71}, {"date": "2013-03-09", "rank": 90}, {"date": "2013-03-16", "rank": 119}, {"date": "2013-03-23", "rank": 139}]}
+{
+  "id": "face-the-music-avant",
+  "title": "Face The Music",
+  "artist": "Avant",
+  "peak": 40,
+  "history": [
+    {
+      "date": "2013-02-23",
+      "rank": 40
+    },
+    {
+      "date": "2013-03-02",
+      "rank": 71
+    },
+    {
+      "date": "2013-03-09",
+      "rank": 90
+    },
+    {
+      "date": "2013-03-16",
+      "rank": 119
+    },
+    {
+      "date": "2013-03-23",
+      "rank": 139
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When It's Over",
+      "id": "when-it-hurts-avant"
+    },
+    {
+      "title": "Toast to Love",
+      "id": null
+    },
+    {
+      "title": "80 in a 30",
+      "id": null
+    },
+    {
+      "title": "You & I",
+      "id": null
+    },
+    {
+      "title": "More",
+      "id": null
+    },
+    {
+      "title": "Excited",
+      "id": null
+    },
+    {
+      "title": "Don't Know How",
+      "id": null
+    },
+    {
+      "title": "Nobody's Business",
+      "id": null
+    },
+    {
+      "title": "Best Friend",
+      "id": null
+    },
+    {
+      "title": "Like You",
+      "id": null
+    },
+    {
+      "title": "No",
+      "id": null
+    },
+    {
+      "title": "Gratitude",
+      "id": null
+    }
+  ]
+}

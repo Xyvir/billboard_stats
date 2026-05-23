@@ -1,1 +1,82 @@
-{"id": "face-to-face-gq", "title": "Face To Face", "artist": "GQ", "peak": 140, "history": [{"date": "1981-11-14", "rank": 187}, {"date": "1981-11-21", "rank": 165}, {"date": "1981-11-28", "rank": 155}, {"date": "1981-12-05", "rank": 140}, {"date": "1981-12-12", "rank": 140}, {"date": "1981-12-19", "rank": 163}, {"date": "1981-12-26", "rank": 190}, {"date": "1982-01-02", "rank": 190}]}
+{
+  "id": "face-to-face-gq",
+  "title": "Face To Face",
+  "artist": "GQ",
+  "peak": 140,
+  "history": [
+    {
+      "date": "1981-11-14",
+      "rank": 187
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 165
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 155
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 140
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 140
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 163
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 190
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sad Girl",
+      "id": "sad-girl-gq"
+    },
+    {
+      "title": "Shake",
+      "id": null
+    },
+    {
+      "title": "You Put Some Love In My Life",
+      "id": null
+    },
+    {
+      "title": "Shy Baby",
+      "id": null
+    },
+    {
+      "title": "I Love (The Skin You're In)",
+      "id": null
+    },
+    {
+      "title": "Boogie Shoogie Feelin'",
+      "id": null
+    },
+    {
+      "title": "Dark Side Of The Sun",
+      "id": null
+    },
+    {
+      "title": "Face To Face",
+      "id": null
+    },
+    {
+      "title": "You've Got The Floor",
+      "id": null
+    },
+    {
+      "title": "Try Smurfin'",
+      "id": null
+    }
+  ]
+}
