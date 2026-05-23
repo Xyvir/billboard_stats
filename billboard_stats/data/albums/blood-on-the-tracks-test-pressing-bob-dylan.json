@@ -1,1 +1,54 @@
-{"id": "blood-on-the-tracks-test-pressing-bob-dylan", "title": "Blood On The Tracks: Test Pressing", "artist": "Bob Dylan", "peak": 130, "history": [{"date": "2019-04-27", "rank": 130}]}
+{
+  "id": "blood-on-the-tracks-test-pressing-bob-dylan",
+  "title": "Blood On The Tracks: Test Pressing",
+  "artist": "Bob Dylan",
+  "peak": 130,
+  "history": [
+    {
+      "date": "2019-04-27",
+      "rank": 130
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tangled Up in Blue",
+      "id": "tangled-up-in-blue-bob-dylan"
+    },
+    {
+      "title": "Simple Twist of Fate",
+      "id": null
+    },
+    {
+      "title": "You’re a Big Girl Now",
+      "id": null
+    },
+    {
+      "title": "Idiot Wind",
+      "id": null
+    },
+    {
+      "title": "You’re Gonna Make Me Lonesome When You Go",
+      "id": null
+    },
+    {
+      "title": "Meet Me in the Morning",
+      "id": null
+    },
+    {
+      "title": "Lily, Rosemary and the Jack of Hearts",
+      "id": null
+    },
+    {
+      "title": "If You See Her, Say Hello",
+      "id": null
+    },
+    {
+      "title": "Shelter From the Storm",
+      "id": null
+    },
+    {
+      "title": "Buckets of Rain",
+      "id": null
+    }
+  ]
+}

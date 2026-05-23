@@ -1,1 +1,86 @@
-{"id": "bloodline-glen-campbell", "title": "Bloodline", "artist": "Glen Campbell", "peak": 63, "history": [{"date": "1976-05-01", "rank": 97}, {"date": "1976-05-08", "rank": 75}, {"date": "1976-05-15", "rank": 63}, {"date": "1976-05-22", "rank": 63}, {"date": "1976-05-29", "rank": 113}, {"date": "1976-06-05", "rank": 130}, {"date": "1976-06-12", "rank": 128}, {"date": "1976-06-19", "rank": 152}, {"date": "1976-06-26", "rank": 196}]}
+{
+  "id": "bloodline-glen-campbell",
+  "title": "Bloodline",
+  "artist": "Glen Campbell",
+  "peak": 63,
+  "history": [
+    {
+      "date": "1976-05-01",
+      "rank": 97
+    },
+    {
+      "date": "1976-05-08",
+      "rank": 75
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 63
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 63
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 113
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 130
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 128
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 152
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Medley: Don’t Pull Your Love / Then You Can Tell Me Goodbye",
+      "id": "don-t-pull-your-love-then-you-can-tell-me-goodbye-glen-campbell"
+    },
+    {
+      "title": "Baby Don't Be Giving Me Up",
+      "id": null
+    },
+    {
+      "title": "See You on Sunday",
+      "id": null
+    },
+    {
+      "title": "Christiaan No",
+      "id": null
+    },
+    {
+      "title": "Bloodline",
+      "id": null
+    },
+    {
+      "title": "Everytime I Sing a Love Song",
+      "id": null
+    },
+    {
+      "title": "Lay Me Down (Roll Me Out to Sea)",
+      "id": null
+    },
+    {
+      "title": "The Bottom Line",
+      "id": null
+    },
+    {
+      "title": "I Got Love for You Ruby",
+      "id": null
+    },
+    {
+      "title": "San Francisco Is a Lonely Town",
+      "id": null
+    }
+  ]
+}

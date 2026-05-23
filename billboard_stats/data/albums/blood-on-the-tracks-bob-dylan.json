@@ -1,1 +1,146 @@
-{"id": "blood-on-the-tracks-bob-dylan", "title": "Blood On The Tracks", "artist": "Bob Dylan", "peak": 1, "history": [{"date": "1975-02-08", "rank": 15}, {"date": "1975-02-15", "rank": 4}, {"date": "1975-02-22", "rank": 2}, {"date": "1975-03-01", "rank": 1}, {"date": "1975-03-08", "rank": 1}, {"date": "1975-03-15", "rank": 2}, {"date": "1975-03-22", "rank": 3}, {"date": "1975-03-29", "rank": 3}, {"date": "1975-04-05", "rank": 4}, {"date": "1975-04-12", "rank": 4}, {"date": "1975-04-19", "rank": 12}, {"date": "1975-04-26", "rank": 15}, {"date": "1975-05-03", "rank": 27}, {"date": "1975-05-10", "rank": 38}, {"date": "1975-05-17", "rank": 50}, {"date": "1975-05-24", "rank": 55}, {"date": "1975-05-31", "rank": 62}, {"date": "1975-06-07", "rank": 81}, {"date": "1975-06-14", "rank": 106}, {"date": "1975-06-21", "rank": 116}, {"date": "1975-06-28", "rank": 135}, {"date": "1975-07-05", "rank": 135}, {"date": "1975-07-12", "rank": 140}, {"date": "1975-07-19", "rank": 185}]}
+{
+  "id": "blood-on-the-tracks-bob-dylan",
+  "title": "Blood On The Tracks",
+  "artist": "Bob Dylan",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1975-02-08",
+      "rank": 15
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 4
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 2
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 1
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 1
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 2
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 3
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 3
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 4
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 4
+    },
+    {
+      "date": "1975-04-19",
+      "rank": 12
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 15
+    },
+    {
+      "date": "1975-05-03",
+      "rank": 27
+    },
+    {
+      "date": "1975-05-10",
+      "rank": 38
+    },
+    {
+      "date": "1975-05-17",
+      "rank": 50
+    },
+    {
+      "date": "1975-05-24",
+      "rank": 55
+    },
+    {
+      "date": "1975-05-31",
+      "rank": 62
+    },
+    {
+      "date": "1975-06-07",
+      "rank": 81
+    },
+    {
+      "date": "1975-06-14",
+      "rank": 106
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 116
+    },
+    {
+      "date": "1975-06-28",
+      "rank": 135
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 135
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 140
+    },
+    {
+      "date": "1975-07-19",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tangled Up in Blue",
+      "id": "tangled-up-in-blue-bob-dylan"
+    },
+    {
+      "title": "Simple Twist of Fate",
+      "id": null
+    },
+    {
+      "title": "You’re a Big Girl Now",
+      "id": null
+    },
+    {
+      "title": "Idiot Wind",
+      "id": null
+    },
+    {
+      "title": "You’re Gonna Make Me Lonesome When You Go",
+      "id": null
+    },
+    {
+      "title": "Meet Me in the Morning",
+      "id": null
+    },
+    {
+      "title": "Lily, Rosemary and the Jack of Hearts",
+      "id": null
+    },
+    {
+      "title": "If You See Her, Say Hello",
+      "id": null
+    },
+    {
+      "title": "Shelter From the Storm",
+      "id": null
+    },
+    {
+      "title": "Buckets of Rain",
+      "id": null
+    }
+  ]
+}
