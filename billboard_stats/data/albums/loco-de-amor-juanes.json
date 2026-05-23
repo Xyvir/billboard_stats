@@ -1,1 +1,78 @@
-{"id": "loco-de-amor-juanes", "title": "Loco de Amor", "artist": "Juanes", "peak": 36, "history": [{"date": "2014-03-29", "rank": 36}, {"date": "2014-04-05", "rank": 150}]}
+{
+  "id": "loco-de-amor-juanes",
+  "title": "Loco de Amor",
+  "artist": "Juanes",
+  "peak": 36,
+  "history": [
+    {
+      "date": "2014-03-29",
+      "rank": 36
+    },
+    {
+      "date": "2014-04-05",
+      "rank": 150
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Me enamoré de ti",
+      "id": "me-enamora-juanes"
+    },
+    {
+      "title": "Mil pedazos",
+      "id": null
+    },
+    {
+      "title": "Loco de amor",
+      "id": null
+    },
+    {
+      "title": "La luz",
+      "id": null
+    },
+    {
+      "title": "La verdad",
+      "id": null
+    },
+    {
+      "title": "Una flor",
+      "id": null
+    },
+    {
+      "title": "Delirio",
+      "id": null
+    },
+    {
+      "title": "Laberinto",
+      "id": null
+    },
+    {
+      "title": "Persiguiendo el sol",
+      "id": null
+    },
+    {
+      "title": "Corazón invisible",
+      "id": null
+    },
+    {
+      "title": "Radio Elvis",
+      "id": null
+    },
+    {
+      "title": "Juntos (Together)",
+      "id": null
+    },
+    {
+      "title": "La luz (Tigo music sessions)",
+      "id": null
+    },
+    {
+      "title": "Es por ti (Tigo music sessions)",
+      "id": null
+    },
+    {
+      "title": "Mil pedazos (Tigo music sessions)",
+      "id": null
+    }
+  ]
+}
