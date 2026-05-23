@@ -1,1 +1,82 @@
-{"id": "hot-tracks-nazareth", "title": "Hot Tracks", "artist": "Nazareth", "peak": 120, "history": [{"date": "1977-07-02", "rank": 121}, {"date": "1977-07-09", "rank": 120}, {"date": "1977-07-16", "rank": 120}, {"date": "1977-07-23", "rank": 128}, {"date": "1977-07-30", "rank": 138}, {"date": "1977-08-06", "rank": 197}]}
+{
+  "id": "hot-tracks-nazareth",
+  "title": "Hot Tracks",
+  "artist": "Nazareth",
+  "peak": 120,
+  "history": [
+    {
+      "date": "1977-07-02",
+      "rank": 121
+    },
+    {
+      "date": "1977-07-09",
+      "rank": 120
+    },
+    {
+      "date": "1977-07-16",
+      "rank": 120
+    },
+    {
+      "date": "1977-07-23",
+      "rank": 128
+    },
+    {
+      "date": "1977-07-30",
+      "rank": 138
+    },
+    {
+      "date": "1977-08-06",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Hurts",
+      "id": "love-hurts-nazareth"
+    },
+    {
+      "title": "Shanghai’d in Shanghai",
+      "id": null
+    },
+    {
+      "title": "Carry Out Feelings",
+      "id": null
+    },
+    {
+      "title": "Razamanaz",
+      "id": null
+    },
+    {
+      "title": "Hair of the Dog",
+      "id": null
+    },
+    {
+      "title": "I Want to Do Everything for You",
+      "id": null
+    },
+    {
+      "title": "This Flight Tonight",
+      "id": null
+    },
+    {
+      "title": "Broken Down Angel",
+      "id": null
+    },
+    {
+      "title": "Born to Love",
+      "id": null
+    },
+    {
+      "title": "My White Bicycle",
+      "id": null
+    },
+    {
+      "title": "Go Down Fighting",
+      "id": null
+    },
+    {
+      "title": "Vancouver Shakedown",
+      "id": null
+    }
+  ]
+}

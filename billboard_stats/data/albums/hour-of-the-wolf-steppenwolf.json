@@ -1,1 +1,58 @@
-{"id": "hour-of-the-wolf-steppenwolf", "title": "Hour Of The Wolf", "artist": "Steppenwolf", "peak": 155, "history": [{"date": "1975-09-20", "rank": 180}, {"date": "1975-09-27", "rank": 170}, {"date": "1975-10-04", "rank": 160}, {"date": "1975-10-11", "rank": 155}]}
+{
+  "id": "hour-of-the-wolf-steppenwolf",
+  "title": "Hour Of The Wolf",
+  "artist": "Steppenwolf",
+  "peak": 155,
+  "history": [
+    {
+      "date": "1975-09-20",
+      "rank": 180
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 170
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 160
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Caroline",
+      "id": null
+    },
+    {
+      "title": "Annie, Annie Over",
+      "id": null
+    },
+    {
+      "title": "Two for the Love of One",
+      "id": null
+    },
+    {
+      "title": "Just for Tonight",
+      "id": null
+    },
+    {
+      "title": "Hard Rock Road",
+      "id": null
+    },
+    {
+      "title": "Someone Told a Lie",
+      "id": null
+    },
+    {
+      "title": "Another’s Lifetime",
+      "id": null
+    },
+    {
+      "title": "Mr. Penny Pincher",
+      "id": null
+    }
+  ]
+}

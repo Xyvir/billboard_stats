@@ -1,1 +1,66 @@
-{"id": "hot-wire-kix", "title": "Hot Wire", "artist": "Kix", "peak": 64, "history": [{"date": "1991-07-27", "rank": 101}, {"date": "1991-08-03", "rank": 80}, {"date": "1991-08-10", "rank": 84}, {"date": "1991-08-17", "rank": 71}, {"date": "1991-08-24", "rank": 64}, {"date": "1991-08-31", "rank": 67}, {"date": "1991-09-07", "rank": 79}, {"date": "1991-09-14", "rank": 93}, {"date": "1991-09-21", "rank": 129}, {"date": "1991-09-28", "rank": 146}, {"date": "1991-10-05", "rank": 185}]}
+{
+  "id": "hot-wire-kix",
+  "title": "Hot Wire",
+  "artist": "Kix",
+  "peak": 64,
+  "history": [
+    {
+      "date": "1991-07-27",
+      "rank": 101
+    },
+    {
+      "date": "1991-08-03",
+      "rank": 80
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 84
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 71
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 64
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 67
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 79
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 93
+    },
+    {
+      "date": "1991-09-21",
+      "rank": 129
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 146
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hot Wire",
+      "id": null
+    },
+    {
+      "title": "Blow My Fuse (live in Japan)",
+      "id": null
+    },
+    {
+      "title": "Cold Blood (live in Japan)",
+      "id": null
+    }
+  ]
+}
