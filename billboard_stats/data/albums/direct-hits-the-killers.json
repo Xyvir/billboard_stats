@@ -1,1 +1,82 @@
-{"id": "direct-hits-the-killers", "title": "Direct Hits", "artist": "The Killers", "peak": 20, "history": [{"date": "2013-11-30", "rank": 20}, {"date": "2013-12-07", "rank": 77}, {"date": "2014-01-11", "rank": 190}]}
+{
+  "id": "direct-hits-the-killers",
+  "title": "Direct Hits",
+  "artist": "The Killers",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2013-11-30",
+      "rank": 20
+    },
+    {
+      "date": "2013-12-07",
+      "rank": 77
+    },
+    {
+      "date": "2014-01-11",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mr. Brightside",
+      "id": "mr-brightside-the-killers"
+    },
+    {
+      "title": "Somebody Told Me",
+      "id": "somebody-told-me-the-killers"
+    },
+    {
+      "title": "All These Things That I’ve Done",
+      "id": "all-these-things-that-i-ve-done-the-killers"
+    },
+    {
+      "title": "When You Were Young",
+      "id": "when-you-were-young-the-killers"
+    },
+    {
+      "title": "Read My Mind",
+      "id": "read-my-mind-the-killers"
+    },
+    {
+      "title": "Human",
+      "id": "human-the-killers"
+    },
+    {
+      "title": "Spaceman",
+      "id": "spaceman-the-killers"
+    },
+    {
+      "title": "Runaways",
+      "id": "runaways-the-killers"
+    },
+    {
+      "title": "Smile Like You Mean It",
+      "id": null
+    },
+    {
+      "title": "For Reasons Unknown",
+      "id": null
+    },
+    {
+      "title": "A Dustland Fairytale",
+      "id": null
+    },
+    {
+      "title": "Miss Atomic Bomb",
+      "id": null
+    },
+    {
+      "title": "The Way It Was",
+      "id": null
+    },
+    {
+      "title": "Shot at the Night",
+      "id": null
+    },
+    {
+      "title": "Just Another Girl",
+      "id": null
+    }
+  ]
+}

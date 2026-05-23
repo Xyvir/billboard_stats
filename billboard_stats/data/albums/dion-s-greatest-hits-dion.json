@@ -1,1 +1,70 @@
-{"id": "dion-s-greatest-hits-dion", "title": "Dion's Greatest Hits", "artist": "Dion", "peak": 194, "history": [{"date": "1973-03-24", "rank": 199}, {"date": "1973-03-31", "rank": 197}, {"date": "1973-04-07", "rank": 196}, {"date": "1973-04-14", "rank": 196}, {"date": "1973-04-21", "rank": 194}]}
+{
+  "id": "dion-s-greatest-hits-dion",
+  "title": "Dion's Greatest Hits",
+  "artist": "Dion",
+  "peak": 194,
+  "history": [
+    {
+      "date": "1973-03-24",
+      "rank": 199
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 197
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 196
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 196
+    },
+    {
+      "date": "1973-04-21",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Runaround Sue",
+      "id": "runaround-sue-dion"
+    },
+    {
+      "title": "A Lover’s Prayer",
+      "id": "lovers-who-wander-dion"
+    },
+    {
+      "title": "Lovers Who Wander",
+      "id": "lovers-who-wander-dion"
+    },
+    {
+      "title": "Lonely Teenager",
+      "id": "lonely-teenager-dion"
+    },
+    {
+      "title": "The Wanderer",
+      "id": "the-wanderer-dion"
+    },
+    {
+      "title": "A Teenager in Love",
+      "id": null
+    },
+    {
+      "title": "Where or When",
+      "id": null
+    },
+    {
+      "title": "I Wonder Why",
+      "id": null
+    },
+    {
+      "title": "No One Knows",
+      "id": null
+    },
+    {
+      "title": "When You Wish Upon a Star",
+      "id": null
+    }
+  ]
+}
