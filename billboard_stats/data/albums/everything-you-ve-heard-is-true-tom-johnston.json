@@ -1,1 +1,94 @@
-{"id": "everything-you-ve-heard-is-true-tom-johnston", "title": "Everything You've Heard Is True", "artist": "Tom Johnston", "peak": 100, "history": [{"date": "1979-10-20", "rank": 166}, {"date": "1979-10-27", "rank": 154}, {"date": "1979-11-03", "rank": 147}, {"date": "1979-11-10", "rank": 138}, {"date": "1979-11-17", "rank": 127}, {"date": "1979-11-24", "rank": 116}, {"date": "1979-12-01", "rank": 103}, {"date": "1979-12-08", "rank": 100}, {"date": "1979-12-15", "rank": 100}, {"date": "1979-12-22", "rank": 155}, {"date": "1979-12-29", "rank": 155}, {"date": "1980-01-05", "rank": 191}, {"date": "1980-01-12", "rank": 188}]}
+{
+  "id": "everything-you-ve-heard-is-true-tom-johnston",
+  "title": "Everything You've Heard Is True",
+  "artist": "Tom Johnston",
+  "peak": 100,
+  "history": [
+    {
+      "date": "1979-10-20",
+      "rank": 166
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 154
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 147
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 138
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 127
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 116
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 103
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 100
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 100
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 155
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 155
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 191
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Savannah Nights",
+      "id": "savannah-nights-tom-johnston"
+    },
+    {
+      "title": "Down Along the River",
+      "id": null
+    },
+    {
+      "title": "Show Me",
+      "id": null
+    },
+    {
+      "title": "I Can Count on You",
+      "id": null
+    },
+    {
+      "title": "Small Time Talk",
+      "id": null
+    },
+    {
+      "title": "Reachin’ Out for Lovin’ From You",
+      "id": null
+    },
+    {
+      "title": "Outlaw",
+      "id": null
+    },
+    {
+      "title": "Man on the Stage",
+      "id": null
+    }
+  ]
+}
