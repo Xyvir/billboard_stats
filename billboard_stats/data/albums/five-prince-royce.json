@@ -1,1 +1,70 @@
-{"id": "five-prince-royce", "title": "FIVE", "artist": "Prince Royce", "peak": 25, "history": [{"date": "2017-03-18", "rank": 25}, {"date": "2017-03-25", "rank": 134}, {"date": "2017-04-01", "rank": 185}]}
+{
+  "id": "five-prince-royce",
+  "title": "FIVE",
+  "artist": "Prince Royce",
+  "peak": 25,
+  "history": [
+    {
+      "date": "2017-03-18",
+      "rank": 25
+    },
+    {
+      "date": "2017-03-25",
+      "rank": 134
+    },
+    {
+      "date": "2017-04-01",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No te olvides",
+      "id": null
+    },
+    {
+      "title": "Culpa al corazón",
+      "id": null
+    },
+    {
+      "title": "Dilema",
+      "id": null
+    },
+    {
+      "title": "La carretera",
+      "id": null
+    },
+    {
+      "title": "Ganas locas",
+      "id": null
+    },
+    {
+      "title": "Deja vu",
+      "id": null
+    },
+    {
+      "title": "Asalto",
+      "id": null
+    },
+    {
+      "title": "Just as I Am",
+      "id": null
+    },
+    {
+      "title": "Amor prohibido",
+      "id": null
+    },
+    {
+      "title": "Moneda",
+      "id": null
+    },
+    {
+      "title": "X",
+      "id": null
+    },
+    {
+      "title": "Tumbao",
+      "id": null
+    }
+  ]
+}

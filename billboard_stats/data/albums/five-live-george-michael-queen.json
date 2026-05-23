@@ -1,1 +1,82 @@
-{"id": "five-live-george-michael-queen", "title": "Five Live", "artist": "George Michael & Queen", "peak": 46, "history": [{"date": "1993-05-08", "rank": 46}, {"date": "1993-05-15", "rank": 47}, {"date": "1993-05-22", "rank": 50}, {"date": "1993-05-29", "rank": 60}, {"date": "1993-06-05", "rank": 61}, {"date": "1993-06-12", "rank": 71}, {"date": "1993-06-19", "rank": 80}, {"date": "1993-06-26", "rank": 90}, {"date": "1993-07-03", "rank": 104}, {"date": "1993-07-10", "rank": 121}, {"date": "1993-07-17", "rank": 133}, {"date": "1993-07-24", "rank": 138}, {"date": "1993-07-31", "rank": 154}, {"date": "1993-08-07", "rank": 158}, {"date": "1993-08-14", "rank": 176}]}
+{
+  "id": "five-live-george-michael-queen",
+  "title": "Five Live",
+  "artist": "George Michael & Queen",
+  "peak": 46,
+  "history": [
+    {
+      "date": "1993-05-08",
+      "rank": 46
+    },
+    {
+      "date": "1993-05-15",
+      "rank": 47
+    },
+    {
+      "date": "1993-05-22",
+      "rank": 50
+    },
+    {
+      "date": "1993-05-29",
+      "rank": 60
+    },
+    {
+      "date": "1993-06-05",
+      "rank": 61
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 71
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 80
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 90
+    },
+    {
+      "date": "1993-07-03",
+      "rank": 104
+    },
+    {
+      "date": "1993-07-10",
+      "rank": 121
+    },
+    {
+      "date": "1993-07-17",
+      "rank": 133
+    },
+    {
+      "date": "1993-07-24",
+      "rank": 138
+    },
+    {
+      "date": "1993-07-31",
+      "rank": 154
+    },
+    {
+      "date": "1993-08-07",
+      "rank": 158
+    },
+    {
+      "date": "1993-08-14",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Somebody to Love",
+      "id": "somebody-to-love-george-michael-queen"
+    },
+    {
+      "title": "Killer / Papa Was a Rollin’ Stone (PM Dawn remix)",
+      "id": null
+    },
+    {
+      "title": "These Are the Days of Our Lives",
+      "id": null
+    }
+  ]
+}

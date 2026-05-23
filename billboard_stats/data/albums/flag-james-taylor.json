@@ -1,1 +1,198 @@
-{"id": "flag-james-taylor", "title": "Flag", "artist": "James Taylor", "peak": 10, "history": [{"date": "1979-05-12", "rank": 51}, {"date": "1979-05-19", "rank": 20}, {"date": "1979-05-26", "rank": 16}, {"date": "1979-06-02", "rank": 12}, {"date": "1979-06-09", "rank": 11}, {"date": "1979-06-16", "rank": 10}, {"date": "1979-06-23", "rank": 11}, {"date": "1979-06-30", "rank": 17}, {"date": "1979-07-07", "rank": 34}, {"date": "1979-07-14", "rank": 38}, {"date": "1979-07-21", "rank": 38}, {"date": "1979-07-28", "rank": 49}, {"date": "1979-08-04", "rank": 45}, {"date": "1979-08-11", "rank": 44}, {"date": "1979-08-18", "rank": 43}, {"date": "1979-08-25", "rank": 49}, {"date": "1979-09-01", "rank": 108}, {"date": "1979-09-08", "rank": 108}, {"date": "1979-09-15", "rank": 110}, {"date": "1979-09-22", "rank": 109}, {"date": "1979-09-29", "rank": 111}, {"date": "1979-10-06", "rank": 117}, {"date": "1979-10-13", "rank": 173}]}
+{
+  "id": "flag-james-taylor",
+  "title": "Flag",
+  "artist": "James Taylor",
+  "peak": 10,
+  "history": [
+    {
+      "date": "1979-05-12",
+      "rank": 51
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 20
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 16
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 12
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 11
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 10
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 11
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 17
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 34
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 38
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 38
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 49
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 45
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 44
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 43
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 49
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 108
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 108
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 110
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 109
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 111
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 117
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Company Man",
+      "id": "handy-man-james-taylor"
+    },
+    {
+      "title": "Rainy Day Man",
+      "id": "handy-man-james-taylor"
+    },
+    {
+      "title": "Up on the Roof",
+      "id": "up-on-the-roof-james-taylor"
+    },
+    {
+      "title": "Up on the Roof (5.1 mix)",
+      "id": "up-on-the-roof-james-taylor"
+    },
+    {
+      "title": "Johnnie Comes Back",
+      "id": null
+    },
+    {
+      "title": "Day Tripper",
+      "id": null
+    },
+    {
+      "title": "I Will Not Lie for You",
+      "id": null
+    },
+    {
+      "title": "Brother Trucker",
+      "id": null
+    },
+    {
+      "title": "Is That the Way You Look?",
+      "id": null
+    },
+    {
+      "title": "B.S.U.R.",
+      "id": null
+    },
+    {
+      "title": "Millworker",
+      "id": null
+    },
+    {
+      "title": "Chanson Française",
+      "id": null
+    },
+    {
+      "title": "Sleep Come Free Me",
+      "id": null
+    },
+    {
+      "title": "Company Man (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Johnnie Comes Back (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Day Tripper (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "I Will Not Lie for You (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Brother Trucker (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Is That the Way You Look? (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "B.S.U.R. (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Rainy Day Man (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Millworker (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Chanson Française (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Sleep Come Free Me (5.1 mix)",
+      "id": null
+    }
+  ]
+}

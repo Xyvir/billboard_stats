@@ -1,1 +1,66 @@
-{"id": "five-man-london-jam-tesla", "title": "Five Man London Jam", "artist": "Tesla", "peak": 129, "history": [{"date": "2020-04-11", "rank": 129}]}
+{
+  "id": "five-man-london-jam-tesla",
+  "title": "Five Man London Jam",
+  "artist": "Tesla",
+  "peak": 129,
+  "history": [
+    {
+      "date": "2020-04-11",
+      "rank": 129
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Signs",
+      "id": "signs-tesla"
+    },
+    {
+      "title": "What You Give",
+      "id": "what-you-give-tesla"
+    },
+    {
+      "title": "Love Song",
+      "id": "love-song-tesla"
+    },
+    {
+      "title": "Cumin’ Atcha Live / Truckin’",
+      "id": null
+    },
+    {
+      "title": "Tied to the Tracks",
+      "id": null
+    },
+    {
+      "title": "We Can Work It Out",
+      "id": null
+    },
+    {
+      "title": "California Summer Song",
+      "id": null
+    },
+    {
+      "title": "Forever Loving You",
+      "id": null
+    },
+    {
+      "title": "Miles Away",
+      "id": null
+    },
+    {
+      "title": "Paradise",
+      "id": null
+    },
+    {
+      "title": "Call It What You Want",
+      "id": null
+    },
+    {
+      "title": "Stir It Up",
+      "id": null
+    },
+    {
+      "title": "Into the Now",
+      "id": null
+    }
+  ]
+}

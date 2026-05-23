@@ -1,1 +1,74 @@
-{"id": "flashback-with-the-monkees-the-monkees", "title": "Flashback With The Monkees", "artist": "The Monkees", "peak": 125, "history": [{"date": "2012-03-17", "rank": 125}, {"date": "2012-03-24", "rank": 172}, {"date": "2012-03-31", "rank": 159}, {"date": "2012-04-07", "rank": 157}, {"date": "2012-04-14", "rank": 178}, {"date": "2012-04-21", "rank": 183}]}
+{
+  "id": "flashback-with-the-monkees-the-monkees",
+  "title": "Flashback With The Monkees",
+  "artist": "The Monkees",
+  "peak": 125,
+  "history": [
+    {
+      "date": "2012-03-17",
+      "rank": 125
+    },
+    {
+      "date": "2012-03-24",
+      "rank": 172
+    },
+    {
+      "date": "2012-03-31",
+      "rank": 159
+    },
+    {
+      "date": "2012-04-07",
+      "rank": 157
+    },
+    {
+      "date": "2012-04-14",
+      "rank": 178
+    },
+    {
+      "date": "2012-04-21",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Last Train to Clarksville",
+      "id": "last-train-to-clarksville-the-monkees"
+    },
+    {
+      "title": "I'm A Believer",
+      "id": "i-m-a-believer-the-monkees"
+    },
+    {
+      "title": "A Little Bit Me, a Little Bit You",
+      "id": "a-little-bit-me-a-little-bit-you-the-monkees"
+    },
+    {
+      "title": "Pleasant Valley Sunday",
+      "id": "pleasant-valley-sunday-the-monkees"
+    },
+    {
+      "title": "Words",
+      "id": "words-the-monkees"
+    },
+    {
+      "title": "Daydream Believer",
+      "id": "daydream-believer-the-monkees"
+    },
+    {
+      "title": "Valleri",
+      "id": "valleri-the-monkees"
+    },
+    {
+      "title": "Porpoise Song (Theme From 'Head')",
+      "id": "porpoise-song-the-monkees"
+    },
+    {
+      "title": "(Theme From) The Monkees",
+      "id": null
+    },
+    {
+      "title": "She",
+      "id": null
+    }
+  ]
+}
