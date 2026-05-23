@@ -1,1 +1,78 @@
-{"id": "born-kenny-chesney", "title": "Born", "artist": "Kenny Chesney", "peak": 20, "history": [{"date": "2024-04-06", "rank": 20}, {"date": "2024-04-13", "rank": 123}]}
+{
+  "id": "born-kenny-chesney",
+  "title": "Born",
+  "artist": "Kenny Chesney",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2024-04-06",
+      "rank": 20
+    },
+    {
+      "date": "2024-04-13",
+      "rank": 123
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Take Her Home",
+      "id": "take-her-home-kenny-chesney"
+    },
+    {
+      "title": "Few Good Stories",
+      "id": "the-good-stuff-kenny-chesney"
+    },
+    {
+      "title": "Born",
+      "id": null
+    },
+    {
+      "title": "Just to Say We Did",
+      "id": null
+    },
+    {
+      "title": "Thinkin’ Bout",
+      "id": null
+    },
+    {
+      "title": "Guilty Pleasure",
+      "id": null
+    },
+    {
+      "title": "One More Sunset",
+      "id": null
+    },
+    {
+      "title": "Top Down",
+      "id": null
+    },
+    {
+      "title": "The Way I Love You Now",
+      "id": null
+    },
+    {
+      "title": "This Too Shall Pass",
+      "id": null
+    },
+    {
+      "title": "Blame It on the Salt",
+      "id": null
+    },
+    {
+      "title": "Come Here, Go Away",
+      "id": null
+    },
+    {
+      "title": "One Lonely Island",
+      "id": null
+    },
+    {
+      "title": "Long Gone",
+      "id": null
+    },
+    {
+      "title": "Wherever You Are Tonight",
+      "id": null
+    }
+  ]
+}

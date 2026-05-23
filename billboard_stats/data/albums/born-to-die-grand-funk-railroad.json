@@ -1,1 +1,102 @@
-{"id": "born-to-die-grand-funk-railroad", "title": "Born To Die", "artist": "Grand Funk Railroad", "peak": 47, "history": [{"date": "1976-01-31", "rank": 120}, {"date": "1976-02-07", "rank": 66}, {"date": "1976-02-14", "rank": 53}, {"date": "1976-02-21", "rank": 49}, {"date": "1976-02-28", "rank": 48}, {"date": "1976-03-06", "rank": 47}, {"date": "1976-03-13", "rank": 84}, {"date": "1976-03-20", "rank": 84}, {"date": "1976-03-27", "rank": 115}, {"date": "1976-04-03", "rank": 140}, {"date": "1976-04-10", "rank": 196}]}
+{
+  "id": "born-to-die-grand-funk-railroad",
+  "title": "Born To Die",
+  "artist": "Grand Funk Railroad",
+  "peak": 47,
+  "history": [
+    {
+      "date": "1976-01-31",
+      "rank": 120
+    },
+    {
+      "date": "1976-02-07",
+      "rank": 66
+    },
+    {
+      "date": "1976-02-14",
+      "rank": 53
+    },
+    {
+      "date": "1976-02-21",
+      "rank": 49
+    },
+    {
+      "date": "1976-02-28",
+      "rank": 48
+    },
+    {
+      "date": "1976-03-06",
+      "rank": 47
+    },
+    {
+      "date": "1976-03-13",
+      "rank": 84
+    },
+    {
+      "date": "1976-03-20",
+      "rank": 84
+    },
+    {
+      "date": "1976-03-27",
+      "rank": 115
+    },
+    {
+      "date": "1976-04-03",
+      "rank": 140
+    },
+    {
+      "date": "1976-04-10",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sally",
+      "id": "sally-grand-funk-railroad"
+    },
+    {
+      "title": "Take Me",
+      "id": "take-me-grand-funk-railroad"
+    },
+    {
+      "title": "Born to Die",
+      "id": null
+    },
+    {
+      "title": "Dues",
+      "id": null
+    },
+    {
+      "title": "I Fell for Your Love",
+      "id": null
+    },
+    {
+      "title": "Talk to the People",
+      "id": null
+    },
+    {
+      "title": "Genevieve",
+      "id": null
+    },
+    {
+      "title": "Love Is Dyin’",
+      "id": null
+    },
+    {
+      "title": "Politician",
+      "id": null
+    },
+    {
+      "title": "Good Things",
+      "id": null
+    },
+    {
+      "title": "Bare Naked Woman (live rehearsal)",
+      "id": null
+    },
+    {
+      "title": "Genevieve (live rehearsal)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,94 @@
-{"id": "born-pink-blackpink", "title": "Born Pink", "artist": "BLACKPINK", "peak": 1, "history": [{"date": "2022-10-01", "rank": 1}, {"date": "2022-10-08", "rank": 4}, {"date": "2022-10-15", "rank": 24}, {"date": "2022-10-22", "rank": 45}, {"date": "2022-10-29", "rank": 68}, {"date": "2022-11-05", "rank": 100}, {"date": "2022-11-12", "rank": 93}, {"date": "2022-11-19", "rank": 141}, {"date": "2022-11-26", "rank": 160}, {"date": "2022-12-03", "rank": 166}, {"date": "2022-12-10", "rank": 140}, {"date": "2022-12-31", "rank": 186}, {"date": "2023-01-07", "rank": 192}]}
+{
+  "id": "born-pink-blackpink",
+  "title": "Born Pink",
+  "artist": "BLACKPINK",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2022-10-01",
+      "rank": 1
+    },
+    {
+      "date": "2022-10-08",
+      "rank": 4
+    },
+    {
+      "date": "2022-10-15",
+      "rank": 24
+    },
+    {
+      "date": "2022-10-22",
+      "rank": 45
+    },
+    {
+      "date": "2022-10-29",
+      "rank": 68
+    },
+    {
+      "date": "2022-11-05",
+      "rank": 100
+    },
+    {
+      "date": "2022-11-12",
+      "rank": 93
+    },
+    {
+      "date": "2022-11-19",
+      "rank": 141
+    },
+    {
+      "date": "2022-11-26",
+      "rank": 160
+    },
+    {
+      "date": "2022-12-03",
+      "rank": 166
+    },
+    {
+      "date": "2022-12-10",
+      "rank": 140
+    },
+    {
+      "date": "2022-12-31",
+      "rank": 186
+    },
+    {
+      "date": "2023-01-07",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pink Venom",
+      "id": "pink-venom-blackpink"
+    },
+    {
+      "title": "Shut Down",
+      "id": "shut-down-blackpink"
+    },
+    {
+      "title": "Typa Girl",
+      "id": null
+    },
+    {
+      "title": "Yeah Yeah Yeah",
+      "id": null
+    },
+    {
+      "title": "Hard to Love",
+      "id": null
+    },
+    {
+      "title": "The Happiest Girl",
+      "id": null
+    },
+    {
+      "title": "Tally",
+      "id": null
+    },
+    {
+      "title": "Ready for Love",
+      "id": null
+    }
+  ]
+}
