@@ -1,1 +1,94 @@
-{"id": "fired-up-randy-houser", "title": "Fired Up", "artist": "Randy Houser", "peak": 15, "history": [{"date": "2016-04-02", "rank": 15}, {"date": "2016-04-09", "rank": 62}, {"date": "2016-04-16", "rank": 119}, {"date": "2016-04-23", "rank": 153}]}
+{
+  "id": "fired-up-randy-houser",
+  "title": "Fired Up",
+  "artist": "Randy Houser",
+  "peak": 15,
+  "history": [
+    {
+      "date": "2016-04-02",
+      "rank": 15
+    },
+    {
+      "date": "2016-04-09",
+      "rank": 62
+    },
+    {
+      "date": "2016-04-16",
+      "rank": 119
+    },
+    {
+      "date": "2016-04-23",
+      "rank": 153
+    }
+  ],
+  "tracks": [
+    {
+      "title": "We Went",
+      "id": "we-went-randy-houser"
+    },
+    {
+      "title": "Back",
+      "id": null
+    },
+    {
+      "title": "Chasing Down a Good Time",
+      "id": null
+    },
+    {
+      "title": "Senior Year",
+      "id": null
+    },
+    {
+      "title": "Mine Tonight",
+      "id": null
+    },
+    {
+      "title": "Lucky Me",
+      "id": null
+    },
+    {
+      "title": "Song Number 7",
+      "id": null
+    },
+    {
+      "title": "Before Midnight",
+      "id": null
+    },
+    {
+      "title": "True",
+      "id": null
+    },
+    {
+      "title": "Yesterday’s Whiskey",
+      "id": null
+    },
+    {
+      "title": "Fired Up",
+      "id": null
+    },
+    {
+      "title": "Little Bit Older",
+      "id": null
+    },
+    {
+      "title": "Gotta Get You Home",
+      "id": null
+    },
+    {
+      "title": "Hot Beer and Cold Women",
+      "id": null
+    },
+    {
+      "title": "Same Ole Saturday Night",
+      "id": null
+    },
+    {
+      "title": "One Way",
+      "id": null
+    },
+    {
+      "title": "Whiskeysippi River",
+      "id": null
+    }
+  ]
+}

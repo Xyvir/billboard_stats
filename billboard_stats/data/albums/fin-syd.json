@@ -1,1 +1,62 @@
-{"id": "fin-syd", "title": "Fin", "artist": "Syd", "peak": 75, "history": [{"date": "2017-02-25", "rank": 75}]}
+{
+  "id": "fin-syd",
+  "title": "Fin",
+  "artist": "Syd",
+  "peak": 75,
+  "history": [
+    {
+      "date": "2017-02-25",
+      "rank": 75
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shake Em Off",
+      "id": null
+    },
+    {
+      "title": "Know",
+      "id": null
+    },
+    {
+      "title": "No Complaints",
+      "id": null
+    },
+    {
+      "title": "Nothin to Somethin",
+      "id": null
+    },
+    {
+      "title": "All About Me",
+      "id": null
+    },
+    {
+      "title": "Smile More",
+      "id": null
+    },
+    {
+      "title": "Got Her Own",
+      "id": null
+    },
+    {
+      "title": "Drown in It",
+      "id": null
+    },
+    {
+      "title": "Body",
+      "id": null
+    },
+    {
+      "title": "Dollar Bills",
+      "id": null
+    },
+    {
+      "title": "Over",
+      "id": null
+    },
+    {
+      "title": "Insecurities",
+      "id": null
+    }
+  ]
+}

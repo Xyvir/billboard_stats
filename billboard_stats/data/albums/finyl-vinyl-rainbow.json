@@ -1,1 +1,110 @@
-{"id": "finyl-vinyl-rainbow", "title": "Finyl Vinyl", "artist": "Rainbow", "peak": 87, "history": [{"date": "1986-03-15", "rank": 139}, {"date": "1986-03-22", "rank": 106}, {"date": "1986-03-29", "rank": 89}, {"date": "1986-04-05", "rank": 87}, {"date": "1986-04-12", "rank": 87}, {"date": "1986-04-19", "rank": 104}, {"date": "1986-04-26", "rank": 115}, {"date": "1986-05-03", "rank": 166}, {"date": "1986-05-10", "rank": 166}, {"date": "1986-05-17", "rank": 188}]}
+{
+  "id": "finyl-vinyl-rainbow",
+  "title": "Finyl Vinyl",
+  "artist": "Rainbow",
+  "peak": 87,
+  "history": [
+    {
+      "date": "1986-03-15",
+      "rank": 139
+    },
+    {
+      "date": "1986-03-22",
+      "rank": 106
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 89
+    },
+    {
+      "date": "1986-04-05",
+      "rank": 87
+    },
+    {
+      "date": "1986-04-12",
+      "rank": 87
+    },
+    {
+      "date": "1986-04-19",
+      "rank": 104
+    },
+    {
+      "date": "1986-04-26",
+      "rank": 115
+    },
+    {
+      "date": "1986-05-03",
+      "rank": 166
+    },
+    {
+      "date": "1986-05-10",
+      "rank": 166
+    },
+    {
+      "date": "1986-05-17",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Street of Dreams",
+      "id": "street-of-dreams-rainbow"
+    },
+    {
+      "title": "Since You’ve Been Gone",
+      "id": "since-you-been-gone-rainbow"
+    },
+    {
+      "title": "Stone Cold",
+      "id": "stone-cold-rainbow"
+    },
+    {
+      "title": "Spotlight Kid",
+      "id": null
+    },
+    {
+      "title": "I Surrender",
+      "id": null
+    },
+    {
+      "title": "Miss Mistreated",
+      "id": null
+    },
+    {
+      "title": "Jealous Lover",
+      "id": null
+    },
+    {
+      "title": "Can’t Happen Here",
+      "id": null
+    },
+    {
+      "title": "Tearin’ Out My Heart",
+      "id": null
+    },
+    {
+      "title": "Bad Girl",
+      "id": null
+    },
+    {
+      "title": "Difficult to Cure",
+      "id": null
+    },
+    {
+      "title": "Power",
+      "id": null
+    },
+    {
+      "title": "Man on the Silver Mountain",
+      "id": null
+    },
+    {
+      "title": "Long Live Rock ’n’ Roll",
+      "id": null
+    },
+    {
+      "title": "Weiss Heim",
+      "id": null
+    }
+  ]
+}
