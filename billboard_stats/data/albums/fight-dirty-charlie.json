@@ -1,1 +1,90 @@
-{"id": "fight-dirty-charlie", "title": "Fight Dirty", "artist": "Charlie", "peak": 60, "history": [{"date": "1979-09-01", "rank": 112}, {"date": "1979-09-08", "rank": 102}, {"date": "1979-09-15", "rank": 92}, {"date": "1979-09-22", "rank": 81}, {"date": "1979-09-29", "rank": 71}, {"date": "1979-10-06", "rank": 61}, {"date": "1979-10-13", "rank": 60}, {"date": "1979-10-20", "rank": 60}, {"date": "1979-10-27", "rank": 139}, {"date": "1979-11-03", "rank": 188}]}
+{
+  "id": "fight-dirty-charlie",
+  "title": "Fight Dirty",
+  "artist": "Charlie",
+  "peak": 60,
+  "history": [
+    {
+      "date": "1979-09-01",
+      "rank": 112
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 102
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 92
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 81
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 71
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 61
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 60
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 60
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 139
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Killer Cut",
+      "id": "killer-cut-charlie"
+    },
+    {
+      "title": "Fight Dirty",
+      "id": null
+    },
+    {
+      "title": "Don't Count Me Out",
+      "id": null
+    },
+    {
+      "title": "Heartless",
+      "id": null
+    },
+    {
+      "title": "Too Late",
+      "id": null
+    },
+    {
+      "title": "So Alone",
+      "id": null
+    },
+    {
+      "title": "Just One More Smiling Face",
+      "id": null
+    },
+    {
+      "title": "California",
+      "id": null
+    },
+    {
+      "title": "The End of It All",
+      "id": null
+    },
+    {
+      "title": "Runaway",
+      "id": null
+    }
+  ]
+}

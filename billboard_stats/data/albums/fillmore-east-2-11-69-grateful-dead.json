@@ -1,1 +1,86 @@
-{"id": "fillmore-east-2-11-69-grateful-dead", "title": "Fillmore East 2-11-69", "artist": "Grateful Dead", "peak": 77, "history": [{"date": "1997-11-15", "rank": 77}, {"date": "1997-11-22", "rank": 166}]}
+{
+  "id": "fillmore-east-2-11-69-grateful-dead",
+  "title": "Fillmore East 2-11-69",
+  "artist": "Grateful Dead",
+  "peak": 77,
+  "history": [
+    {
+      "date": "1997-11-15",
+      "rank": 77
+    },
+    {
+      "date": "1997-11-22",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Introduction",
+      "id": "truckin-grateful-dead"
+    },
+    {
+      "title": "Good Morning Little Schoolgirl",
+      "id": null
+    },
+    {
+      "title": "Cryptical Envelopment",
+      "id": null
+    },
+    {
+      "title": "The Other One",
+      "id": null
+    },
+    {
+      "title": "Doin’ That Rag",
+      "id": null
+    },
+    {
+      "title": "I’m a King Bee",
+      "id": null
+    },
+    {
+      "title": "Turn On Your Lovelight",
+      "id": null
+    },
+    {
+      "title": "Hey Jude",
+      "id": null
+    },
+    {
+      "title": "Dupree’s Diamond Blues",
+      "id": null
+    },
+    {
+      "title": "Mountains of the Moon",
+      "id": null
+    },
+    {
+      "title": "Dark Star",
+      "id": null
+    },
+    {
+      "title": "St. Stephen",
+      "id": null
+    },
+    {
+      "title": "The Eleven",
+      "id": null
+    },
+    {
+      "title": "Drums",
+      "id": null
+    },
+    {
+      "title": "Caution (Do Not Step On Tracks)",
+      "id": null
+    },
+    {
+      "title": "Feedback",
+      "id": null
+    },
+    {
+      "title": "We Bid You Goodnight",
+      "id": null
+    }
+  ]
+}
