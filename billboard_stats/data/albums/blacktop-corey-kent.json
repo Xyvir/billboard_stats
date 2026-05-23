@@ -1,1 +1,54 @@
-{"id": "blacktop-corey-kent", "title": "Blacktop", "artist": "Corey Kent", "peak": 165, "history": [{"date": "2023-06-17", "rank": 165}]}
+{
+  "id": "blacktop-corey-kent",
+  "title": "Blacktop",
+  "artist": "Corey Kent",
+  "peak": 165,
+  "history": [
+    {
+      "date": "2023-06-17",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wild as Her",
+      "id": "wild-as-her-corey-kent"
+    },
+    {
+      "title": "Long Story Short",
+      "id": null
+    },
+    {
+      "title": "Something’s Gonna Kill Me",
+      "id": null
+    },
+    {
+      "title": "Man of the House",
+      "id": null
+    },
+    {
+      "title": "Gone as You",
+      "id": null
+    },
+    {
+      "title": "Bic Flame",
+      "id": null
+    },
+    {
+      "title": "Call It a Night",
+      "id": null
+    },
+    {
+      "title": "How You Know You Made It",
+      "id": null
+    },
+    {
+      "title": "Hood of That Car",
+      "id": null
+    },
+    {
+      "title": "Once or Twice",
+      "id": null
+    }
+  ]
+}

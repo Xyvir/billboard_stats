@@ -1,1 +1,410 @@
-{"id": "black-sea-xtc", "title": "Black Sea", "artist": "XTC", "peak": 41, "history": [{"date": "1980-11-22", "rank": 159}, {"date": "1980-11-29", "rank": 149}, {"date": "1980-12-06", "rank": 93}, {"date": "1980-12-13", "rank": 77}, {"date": "1980-12-20", "rank": 69}, {"date": "1980-12-27", "rank": 58}, {"date": "1981-01-03", "rank": 58}, {"date": "1981-01-10", "rank": 50}, {"date": "1981-01-17", "rank": 46}, {"date": "1981-01-24", "rank": 46}, {"date": "1981-01-31", "rank": 44}, {"date": "1981-02-07", "rank": 42}, {"date": "1981-02-14", "rank": 42}, {"date": "1981-02-21", "rank": 41}, {"date": "1981-02-28", "rank": 42}, {"date": "1981-03-07", "rank": 46}, {"date": "1981-03-14", "rank": 46}, {"date": "1981-03-21", "rank": 63}, {"date": "1981-03-28", "rank": 69}, {"date": "1981-04-04", "rank": 90}, {"date": "1981-04-11", "rank": 104}, {"date": "1981-04-18", "rank": 117}, {"date": "1981-04-25", "rank": 131}, {"date": "1981-05-02", "rank": 194}]}
+{
+  "id": "black-sea-xtc",
+  "title": "Black Sea",
+  "artist": "XTC",
+  "peak": 41,
+  "history": [
+    {
+      "date": "1980-11-22",
+      "rank": 159
+    },
+    {
+      "date": "1980-11-29",
+      "rank": 149
+    },
+    {
+      "date": "1980-12-06",
+      "rank": 93
+    },
+    {
+      "date": "1980-12-13",
+      "rank": 77
+    },
+    {
+      "date": "1980-12-20",
+      "rank": 69
+    },
+    {
+      "date": "1980-12-27",
+      "rank": 58
+    },
+    {
+      "date": "1981-01-03",
+      "rank": 58
+    },
+    {
+      "date": "1981-01-10",
+      "rank": 50
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 46
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 46
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 44
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 42
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 42
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 41
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 42
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 46
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 46
+    },
+    {
+      "date": "1981-03-21",
+      "rank": 63
+    },
+    {
+      "date": "1981-03-28",
+      "rank": 69
+    },
+    {
+      "date": "1981-04-04",
+      "rank": 90
+    },
+    {
+      "date": "1981-04-11",
+      "rank": 104
+    },
+    {
+      "date": "1981-04-18",
+      "rank": 117
+    },
+    {
+      "date": "1981-04-25",
+      "rank": 131
+    },
+    {
+      "date": "1981-05-02",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Respectable Street",
+      "id": null
+    },
+    {
+      "title": "Generals and Majors",
+      "id": null
+    },
+    {
+      "title": "Living Through Another Cuba",
+      "id": null
+    },
+    {
+      "title": "Love at First Sight",
+      "id": null
+    },
+    {
+      "title": "Rocket From a Bottle",
+      "id": null
+    },
+    {
+      "title": "No Language in Our Lungs",
+      "id": null
+    },
+    {
+      "title": "Towers of London",
+      "id": null
+    },
+    {
+      "title": "Paper and Iron (Notes and Coins)",
+      "id": null
+    },
+    {
+      "title": "Burning With Optimism’s Flames",
+      "id": null
+    },
+    {
+      "title": "Sgt. Rock (Is Going to Help Me)",
+      "id": null
+    },
+    {
+      "title": "Travels in Nihilon",
+      "id": null
+    },
+    {
+      "title": "Smokeless Zone",
+      "id": null
+    },
+    {
+      "title": "Don’t Lose Your Temper",
+      "id": null
+    },
+    {
+      "title": "Take This Town",
+      "id": null
+    },
+    {
+      "title": "Ban the Bomb",
+      "id": null
+    },
+    {
+      "title": "The Somnambulist",
+      "id": null
+    },
+    {
+      "title": "History of Rock ’n’ Roll",
+      "id": null
+    },
+    {
+      "title": "Respectable Street (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Generals and Majors (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Living Through Another Cuba (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Love at First Sight (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Rocket From a Bottle (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "No Language in Our Lungs (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Towers of London (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Paper and Iron (Notes and Coins) (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Burning With Optimism's Flames (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Sgt. Rock (Is Going to Help Me) (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Travels in Nihilon (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Respectable Street (single version, 5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Smokeless Zone (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Don't Lose Your Temper (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Take This Town (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Ban the Bomb (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Towers of London (early version, 5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "The Somnambulist (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "History of Rock 'n' Roll (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Respectable Street (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Generals and Majors (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Living Through Another Cuba (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Love at First Sight (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Rocket From a Bottle (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "No Language in Our Lungs (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Towers of London (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Paper and Iron (Notes and Coins) (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Burning With Optimism's Flames (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Sgt. Rock (Is Going to Help Me) (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Travels in Nihilon (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Respectable Street (single version, instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Smokeless Zone (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Don't Lose Your Temper (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Take This Town (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Ban the Bomb (instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Towers of London (early version, instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Take This Town (original stereo mix)",
+      "id": null
+    },
+    {
+      "title": "History of Rock 'n' Roll (original stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Rocket From a Bottle (unused single remix)",
+      "id": null
+    },
+    {
+      "title": "Sgt. Rock (Is Going to Help Me) (early version)",
+      "id": null
+    },
+    {
+      "title": "Generals and Majors (live studio demo)",
+      "id": null
+    },
+    {
+      "title": "Cuba Dub (rough mix)",
+      "id": null
+    },
+    {
+      "title": "Towers of London (early version)",
+      "id": null
+    },
+    {
+      "title": "Rocket From a Bottle (early version)",
+      "id": null
+    },
+    {
+      "title": "Smokeless Zone (unfinished rough)",
+      "id": null
+    },
+    {
+      "title": "Burning With Optimism’s Flames (live studio demo)",
+      "id": null
+    },
+    {
+      "title": "Paper and Iron (live studio demo)",
+      "id": null
+    },
+    {
+      "title": "Ban the Bomb (early backing track)",
+      "id": null
+    },
+    {
+      "title": "Travels in Nihilon (live studio demo)",
+      "id": null
+    },
+    {
+      "title": "Respectable Street (live studio demo)",
+      "id": null
+    },
+    {
+      "title": "Don't Lose Your Temper (live studio demo)",
+      "id": null
+    },
+    {
+      "title": "No Language in Our Lungs (live studio demo)",
+      "id": null
+    },
+    {
+      "title": "Pearl (live studio demo)",
+      "id": null
+    },
+    {
+      "title": "Holding the Baby (live studio demo)",
+      "id": null
+    },
+    {
+      "title": "Monkeys in Human Skin Suits (live studio demo)",
+      "id": null
+    },
+    {
+      "title": "Jumping the Gap (demo)",
+      "id": null
+    },
+    {
+      "title": "Spy in Space (demo)",
+      "id": null
+    },
+    {
+      "title": "Walking to Work (demo)",
+      "id": null
+    },
+    {
+      "title": "General and Majors",
+      "id": null
+    }
+  ]
+}
