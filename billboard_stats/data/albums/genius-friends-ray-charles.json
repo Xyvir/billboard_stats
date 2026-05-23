@@ -1,1 +1,94 @@
-{"id": "genius-friends-ray-charles", "title": "Genius & Friends", "artist": "Ray Charles", "peak": 36, "history": [{"date": "2005-10-08", "rank": 36}, {"date": "2005-10-15", "rank": 60}, {"date": "2005-10-22", "rank": 104}, {"date": "2005-10-29", "rank": 108}, {"date": "2005-11-05", "rank": 124}, {"date": "2005-11-12", "rank": 151}, {"date": "2005-11-19", "rank": 195}]}
+{
+  "id": "genius-friends-ray-charles",
+  "title": "Genius & Friends",
+  "artist": "Ray Charles",
+  "peak": 36,
+  "history": [
+    {
+      "date": "2005-10-08",
+      "rank": 36
+    },
+    {
+      "date": "2005-10-15",
+      "rank": 60
+    },
+    {
+      "date": "2005-10-22",
+      "rank": 104
+    },
+    {
+      "date": "2005-10-29",
+      "rank": 108
+    },
+    {
+      "date": "2005-11-05",
+      "rank": 124
+    },
+    {
+      "date": "2005-11-12",
+      "rank": 151
+    },
+    {
+      "date": "2005-11-19",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Are My Sunshine",
+      "id": "you-are-my-sunshine-ray-charles"
+    },
+    {
+      "title": "You Were There",
+      "id": "if-you-were-mine-ray-charles"
+    },
+    {
+      "title": "Surrender to Love",
+      "id": "born-to-lose-ray-charles"
+    },
+    {
+      "title": "All I Want to Do",
+      "id": null
+    },
+    {
+      "title": "It All Goes by So Fast",
+      "id": null
+    },
+    {
+      "title": "Imagine",
+      "id": null
+    },
+    {
+      "title": "Compared to What",
+      "id": null
+    },
+    {
+      "title": "Big Bad Love",
+      "id": null
+    },
+    {
+      "title": "I Will Be There",
+      "id": null
+    },
+    {
+      "title": "Blame It on the Sun",
+      "id": null
+    },
+    {
+      "title": "Touch",
+      "id": null
+    },
+    {
+      "title": "Shout",
+      "id": null
+    },
+    {
+      "title": "Busted",
+      "id": null
+    },
+    {
+      "title": "America the Beautiful",
+      "id": null
+    }
+  ]
+}

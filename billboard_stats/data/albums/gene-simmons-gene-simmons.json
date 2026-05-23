@@ -1,1 +1,142 @@
-{"id": "gene-simmons-gene-simmons", "title": "Gene Simmons", "artist": "Gene Simmons", "peak": 22, "history": [{"date": "1978-10-14", "rank": 88}, {"date": "1978-10-21", "rank": 56}, {"date": "1978-10-28", "rank": 46}, {"date": "1978-11-04", "rank": 42}, {"date": "1978-11-11", "rank": 38}, {"date": "1978-11-18", "rank": 34}, {"date": "1978-11-25", "rank": 32}, {"date": "1978-12-02", "rank": 30}, {"date": "1978-12-09", "rank": 28}, {"date": "1978-12-16", "rank": 26}, {"date": "1978-12-23", "rank": 23}, {"date": "1978-12-30", "rank": 23}, {"date": "1979-01-06", "rank": 22}, {"date": "1979-01-13", "rank": 22}, {"date": "1979-01-20", "rank": 30}, {"date": "1979-01-27", "rank": 39}, {"date": "1979-02-03", "rank": 69}, {"date": "1979-02-10", "rank": 116}, {"date": "1979-02-17", "rank": 151}, {"date": "1979-02-24", "rank": 167}, {"date": "1979-03-03", "rank": 170}, {"date": "1979-03-10", "rank": 179}]}
+{
+  "id": "gene-simmons-gene-simmons",
+  "title": "Gene Simmons",
+  "artist": "Gene Simmons",
+  "peak": 22,
+  "history": [
+    {
+      "date": "1978-10-14",
+      "rank": 88
+    },
+    {
+      "date": "1978-10-21",
+      "rank": 56
+    },
+    {
+      "date": "1978-10-28",
+      "rank": 46
+    },
+    {
+      "date": "1978-11-04",
+      "rank": 42
+    },
+    {
+      "date": "1978-11-11",
+      "rank": 38
+    },
+    {
+      "date": "1978-11-18",
+      "rank": 34
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 32
+    },
+    {
+      "date": "1978-12-02",
+      "rank": 30
+    },
+    {
+      "date": "1978-12-09",
+      "rank": 28
+    },
+    {
+      "date": "1978-12-16",
+      "rank": 26
+    },
+    {
+      "date": "1978-12-23",
+      "rank": 23
+    },
+    {
+      "date": "1978-12-30",
+      "rank": 23
+    },
+    {
+      "date": "1979-01-06",
+      "rank": 22
+    },
+    {
+      "date": "1979-01-13",
+      "rank": 22
+    },
+    {
+      "date": "1979-01-20",
+      "rank": 30
+    },
+    {
+      "date": "1979-01-27",
+      "rank": 39
+    },
+    {
+      "date": "1979-02-03",
+      "rank": 69
+    },
+    {
+      "date": "1979-02-10",
+      "rank": 116
+    },
+    {
+      "date": "1979-02-17",
+      "rank": 151
+    },
+    {
+      "date": "1979-02-24",
+      "rank": 167
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 170
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Radioactive",
+      "id": "radioactive-gene-simmons"
+    },
+    {
+      "title": "Burning Up With Fever",
+      "id": null
+    },
+    {
+      "title": "See You Tonite",
+      "id": null
+    },
+    {
+      "title": "Tunnel of Love",
+      "id": null
+    },
+    {
+      "title": "True Confessions",
+      "id": null
+    },
+    {
+      "title": "Living in Sin",
+      "id": null
+    },
+    {
+      "title": "Always Near You/Nowhere to Hide",
+      "id": null
+    },
+    {
+      "title": "Man of 1,000 Faces",
+      "id": null
+    },
+    {
+      "title": "Mr. Make Believe",
+      "id": null
+    },
+    {
+      "title": "See You in Your Dreams",
+      "id": null
+    },
+    {
+      "title": "When You Wish Upon a Star",
+      "id": null
+    }
+  ]
+}

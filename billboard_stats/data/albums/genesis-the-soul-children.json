@@ -1,1 +1,62 @@
-{"id": "genesis-the-soul-children", "title": "Genesis", "artist": "The Soul Children", "peak": 162, "history": [{"date": "1972-05-20", "rank": 162}, {"date": "1972-05-27", "rank": 188}, {"date": "1972-06-03", "rank": 188}]}
+{
+  "id": "genesis-the-soul-children",
+  "title": "Genesis",
+  "artist": "The Soul Children",
+  "peak": 162,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 162
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 188
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hearsay",
+      "id": "hearsay-the-soul-children"
+    },
+    {
+      "title": "I Want to Be Loved",
+      "id": null
+    },
+    {
+      "title": "Don’t Take My Sunshine",
+      "id": null
+    },
+    {
+      "title": "All That Shines Ain’t Gold",
+      "id": null
+    },
+    {
+      "title": "It Hurts Me to My Heart",
+      "id": null
+    },
+    {
+      "title": "I’m Loving You More Everyday",
+      "id": null
+    },
+    {
+      "title": "Just the One (I’ve Been Looking for)",
+      "id": null
+    },
+    {
+      "title": "Never Get Enough of Your Love",
+      "id": null
+    },
+    {
+      "title": "All Day Preachin’",
+      "id": null
+    },
+    {
+      "title": "Get Up About Yourself",
+      "id": null
+    }
+  ]
+}
