@@ -1,1 +1,26 @@
-{"id": "good-man-ne-yo", "title": "Good Man", "artist": "Ne-Yo", "peak": 33, "history": [{"date": "2018-06-23", "rank": 33}, {"date": "2018-06-30", "rank": 108}, {"date": "2018-07-07", "rank": 163}]}
+{
+  "id": "good-man-ne-yo",
+  "title": "Good Man",
+  "artist": "Ne-Yo",
+  "peak": 33,
+  "history": [
+    {
+      "date": "2018-06-23",
+      "rank": 33
+    },
+    {
+      "date": "2018-06-30",
+      "rank": 108
+    },
+    {
+      "date": "2018-07-07",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "GOOD MAN",
+      "id": null
+    }
+  ]
+}
