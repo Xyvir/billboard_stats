@@ -1,1 +1,234 @@
-{"id": "ladies-gentlemen-the-best-of-george-michael-george-michael", "title": "Ladies & Gentlemen: The Best Of George Michael", "artist": "George Michael", "peak": 24, "history": [{"date": "1998-11-28", "rank": 24}, {"date": "1998-12-05", "rank": 39}, {"date": "1998-12-12", "rank": 58}, {"date": "1998-12-19", "rank": 59}, {"date": "1998-12-26", "rank": 79}, {"date": "1999-01-02", "rank": 88}, {"date": "1999-01-09", "rank": 91}, {"date": "1999-01-16", "rank": 77}, {"date": "1999-01-23", "rank": 74}, {"date": "1999-01-30", "rank": 79}, {"date": "1999-02-06", "rank": 82}, {"date": "1999-02-13", "rank": 84}, {"date": "1999-02-20", "rank": 89}, {"date": "1999-02-27", "rank": 91}, {"date": "1999-03-06", "rank": 96}, {"date": "1999-03-13", "rank": 117}, {"date": "1999-03-20", "rank": 130}, {"date": "1999-03-27", "rank": 142}, {"date": "1999-04-03", "rank": 145}, {"date": "1999-04-10", "rank": 171}, {"date": "1999-04-17", "rank": 195}, {"date": "1999-04-24", "rank": 189}, {"date": "1999-05-01", "rank": 192}, {"date": "2017-01-14", "rank": 84}, {"date": "2017-01-21", "rank": 195}, {"date": "2017-01-28", "rank": 41}, {"date": "2017-02-04", "rank": 154}]}
+{
+  "id": "ladies-gentlemen-the-best-of-george-michael-george-michael",
+  "title": "Ladies & Gentlemen: The Best Of George Michael",
+  "artist": "George Michael",
+  "peak": 24,
+  "history": [
+    {
+      "date": "1998-11-28",
+      "rank": 24
+    },
+    {
+      "date": "1998-12-05",
+      "rank": 39
+    },
+    {
+      "date": "1998-12-12",
+      "rank": 58
+    },
+    {
+      "date": "1998-12-19",
+      "rank": 59
+    },
+    {
+      "date": "1998-12-26",
+      "rank": 79
+    },
+    {
+      "date": "1999-01-02",
+      "rank": 88
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 91
+    },
+    {
+      "date": "1999-01-16",
+      "rank": 77
+    },
+    {
+      "date": "1999-01-23",
+      "rank": 74
+    },
+    {
+      "date": "1999-01-30",
+      "rank": 79
+    },
+    {
+      "date": "1999-02-06",
+      "rank": 82
+    },
+    {
+      "date": "1999-02-13",
+      "rank": 84
+    },
+    {
+      "date": "1999-02-20",
+      "rank": 89
+    },
+    {
+      "date": "1999-02-27",
+      "rank": 91
+    },
+    {
+      "date": "1999-03-06",
+      "rank": 96
+    },
+    {
+      "date": "1999-03-13",
+      "rank": 117
+    },
+    {
+      "date": "1999-03-20",
+      "rank": 130
+    },
+    {
+      "date": "1999-03-27",
+      "rank": 142
+    },
+    {
+      "date": "1999-04-03",
+      "rank": 145
+    },
+    {
+      "date": "1999-04-10",
+      "rank": 171
+    },
+    {
+      "date": "1999-04-17",
+      "rank": 195
+    },
+    {
+      "date": "1999-04-24",
+      "rank": 189
+    },
+    {
+      "date": "1999-05-01",
+      "rank": 192
+    },
+    {
+      "date": "2017-01-14",
+      "rank": 84
+    },
+    {
+      "date": "2017-01-21",
+      "rank": 195
+    },
+    {
+      "date": "2017-01-28",
+      "rank": 41
+    },
+    {
+      "date": "2017-02-04",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Jesus to a Child",
+      "id": "jesus-to-a-child-george-michael"
+    },
+    {
+      "title": "Father Figure",
+      "id": "father-figure-george-michael"
+    },
+    {
+      "title": "Careless Whisper",
+      "id": "careless-whisper-wham-featuring-george-michael"
+    },
+    {
+      "title": "Kissing a Fool",
+      "id": "kissing-a-fool-george-michael"
+    },
+    {
+      "title": "Praying for Time",
+      "id": "praying-for-time-george-michael"
+    },
+    {
+      "title": "One More Try",
+      "id": "one-more-try-george-michael"
+    },
+    {
+      "title": "A Different Corner",
+      "id": "a-different-corner-george-michael"
+    },
+    {
+      "title": "Fastlove",
+      "id": "fastlove-george-michael"
+    },
+    {
+      "title": "Too Funky",
+      "id": "too-funky-george-michael"
+    },
+    {
+      "title": "Freedom 90",
+      "id": "freedom-george-michael"
+    },
+    {
+      "title": "Killer / Papa Was a Rollin’ Stone",
+      "id": "killer-papa-was-a-rollin-stone-george-michael"
+    },
+    {
+      "title": "I Knew You Were Waiting (for Me)",
+      "id": "i-knew-you-were-waiting-for-me-aretha-franklin-george-michael"
+    },
+    {
+      "title": "Faith",
+      "id": "faith-george-michael"
+    },
+    {
+      "title": "Monkey",
+      "id": "monkey-george-michael"
+    },
+    {
+      "title": "Don’t Let the Sun Go Down on Me",
+      "id": null
+    },
+    {
+      "title": "You Have Been Loved",
+      "id": null
+    },
+    {
+      "title": "I Can’t Make You Love Me",
+      "id": null
+    },
+    {
+      "title": "Heal the Pain",
+      "id": null
+    },
+    {
+      "title": "A Moment With You",
+      "id": null
+    },
+    {
+      "title": "Desafinado",
+      "id": null
+    },
+    {
+      "title": "Cowboys and Angels",
+      "id": null
+    },
+    {
+      "title": "Outside",
+      "id": null
+    },
+    {
+      "title": "As (original)",
+      "id": null
+    },
+    {
+      "title": "Star People 97",
+      "id": null
+    },
+    {
+      "title": "The Strangest Thing 97",
+      "id": null
+    },
+    {
+      "title": "Fantasy",
+      "id": null
+    },
+    {
+      "title": "Spinning the Wheel",
+      "id": null
+    },
+    {
+      "title": "Waiting for That Day / You Can’t Always Get What You Want",
+      "id": null
+    },
+    {
+      "title": "Somebody to Love",
+      "id": null
+    }
+  ]
+}

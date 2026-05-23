@@ -1,1 +1,74 @@
-{"id": "la-diva-aretha-franklin", "title": "La Diva", "artist": "Aretha Franklin", "peak": 146, "history": [{"date": "1979-10-13", "rank": 174}, {"date": "1979-10-20", "rank": 163}, {"date": "1979-10-27", "rank": 151}, {"date": "1979-11-03", "rank": 149}, {"date": "1979-11-10", "rank": 146}, {"date": "1979-11-17", "rank": 173}]}
+{
+  "id": "la-diva-aretha-franklin",
+  "title": "La Diva",
+  "artist": "Aretha Franklin",
+  "peak": 146,
+  "history": [
+    {
+      "date": "1979-10-13",
+      "rank": 174
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 163
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 151
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 149
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 146
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Feeling",
+      "id": "the-weight-aretha-franklin"
+    },
+    {
+      "title": "Ladies Only",
+      "id": null
+    },
+    {
+      "title": "It’s Gonna Get a Bit Better",
+      "id": null
+    },
+    {
+      "title": "What If I Should Ever Need You",
+      "id": null
+    },
+    {
+      "title": "Honey I Need Your Love",
+      "id": null
+    },
+    {
+      "title": "I Was Made for You",
+      "id": null
+    },
+    {
+      "title": "Only Star",
+      "id": null
+    },
+    {
+      "title": "Reasons Why",
+      "id": null
+    },
+    {
+      "title": "You Brought Me Back to Life",
+      "id": null
+    },
+    {
+      "title": "Half a Love",
+      "id": null
+    }
+  ]
+}
