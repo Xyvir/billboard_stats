@@ -1,1 +1,134 @@
-{"id": "everybody-likes-some-kind-of-music-billy-preston", "title": "Everybody Likes Some Kind Of Music", "artist": "Billy Preston", "peak": 52, "history": [{"date": "1973-10-27", "rank": 170}, {"date": "1973-11-03", "rank": 130}, {"date": "1973-11-10", "rank": 105}, {"date": "1973-11-17", "rank": 73}, {"date": "1973-11-24", "rank": 62}, {"date": "1973-12-01", "rank": 58}, {"date": "1973-12-08", "rank": 52}, {"date": "1973-12-15", "rank": 59}, {"date": "1973-12-22", "rank": 69}, {"date": "1973-12-29", "rank": 79}, {"date": "1974-01-05", "rank": 79}, {"date": "1974-01-12", "rank": 91}, {"date": "1974-01-19", "rank": 99}, {"date": "1974-01-26", "rank": 112}, {"date": "1974-02-02", "rank": 146}, {"date": "1974-02-09", "rank": 169}, {"date": "1974-02-16", "rank": 183}, {"date": "1974-02-23", "rank": 184}]}
+{
+  "id": "everybody-likes-some-kind-of-music-billy-preston",
+  "title": "Everybody Likes Some Kind Of Music",
+  "artist": "Billy Preston",
+  "peak": 52,
+  "history": [
+    {
+      "date": "1973-10-27",
+      "rank": 170
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 130
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 105
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 73
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 62
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 58
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 52
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 59
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 69
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 79
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 79
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 91
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 99
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 112
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 146
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 169
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 183
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You’re So Unique",
+      "id": "you-re-so-unique-billy-preston"
+    },
+    {
+      "title": "Space Race",
+      "id": "space-race-billy-preston"
+    },
+    {
+      "title": "Everybody Likes Some Kind of Music",
+      "id": null
+    },
+    {
+      "title": "How Long Has the Train Been Gone?",
+      "id": null
+    },
+    {
+      "title": "My Soul Is a Witness",
+      "id": null
+    },
+    {
+      "title": "Sunday Morning",
+      "id": null
+    },
+    {
+      "title": "You’ve Got Me for Company",
+      "id": null
+    },
+    {
+      "title": "Listen to the Wind",
+      "id": null
+    },
+    {
+      "title": "Everybody Likes Some Kind of Music (reprise)",
+      "id": null
+    },
+    {
+      "title": "Do You Love Me?",
+      "id": null
+    },
+    {
+      "title": "I’m So Tired",
+      "id": null
+    },
+    {
+      "title": "It’s Alright Ma (I’m Only Bleeding)",
+      "id": null
+    },
+    {
+      "title": "Minuet for Me",
+      "id": null
+    }
+  ]
+}

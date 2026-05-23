@@ -1,1 +1,90 @@
-{"id": "evergreen-pentatonix", "title": "Evergreen", "artist": "Pentatonix", "peak": 72, "history": [{"date": "2021-11-13", "rank": 109}, {"date": "2021-12-04", "rank": 177}, {"date": "2021-12-11", "rank": 72}, {"date": "2021-12-18", "rank": 74}, {"date": "2021-12-25", "rank": 98}, {"date": "2022-01-01", "rank": 79}]}
+{
+  "id": "evergreen-pentatonix",
+  "title": "Evergreen",
+  "artist": "Pentatonix",
+  "peak": 72,
+  "history": [
+    {
+      "date": "2021-11-13",
+      "rank": 109
+    },
+    {
+      "date": "2021-12-04",
+      "rank": 177
+    },
+    {
+      "date": "2021-12-11",
+      "rank": 72
+    },
+    {
+      "date": "2021-12-18",
+      "rank": 74
+    },
+    {
+      "date": "2021-12-25",
+      "rank": 98
+    },
+    {
+      "date": "2022-01-01",
+      "rank": 79
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s Been a Long, Long Time",
+      "id": null
+    },
+    {
+      "title": "Wonderful Christmastime",
+      "id": null
+    },
+    {
+      "title": "I Saw Three Ships",
+      "id": null
+    },
+    {
+      "title": "Home for the Holidays",
+      "id": null
+    },
+    {
+      "title": "River",
+      "id": null
+    },
+    {
+      "title": "Over the River",
+      "id": null
+    },
+    {
+      "title": "The Prayer",
+      "id": null
+    },
+    {
+      "title": "Evergreen",
+      "id": null
+    },
+    {
+      "title": "Frosty the Snowman",
+      "id": null
+    },
+    {
+      "title": "I Just Called to Say I Love You",
+      "id": null
+    },
+    {
+      "title": "Little Saint Nick",
+      "id": null
+    },
+    {
+      "title": "It Came Upon the Midnight Clear",
+      "id": null
+    },
+    {
+      "title": "My Heart With You",
+      "id": null
+    },
+    {
+      "title": "We Wish You a Merry Christmas",
+      "id": null
+    }
+  ]
+}

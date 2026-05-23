@@ -1,1 +1,74 @@
-{"id": "everlasting-love-carl-carlton", "title": "Everlasting Love", "artist": "Carl Carlton", "peak": 132, "history": [{"date": "1975-01-18", "rank": 181}, {"date": "1975-01-25", "rank": 169}, {"date": "1975-02-01", "rank": 154}, {"date": "1975-02-08", "rank": 143}, {"date": "1975-02-15", "rank": 132}, {"date": "1975-02-22", "rank": 132}, {"date": "1975-03-01", "rank": 150}]}
+{
+  "id": "everlasting-love-carl-carlton",
+  "title": "Everlasting Love",
+  "artist": "Carl Carlton",
+  "peak": 132,
+  "history": [
+    {
+      "date": "1975-01-18",
+      "rank": 181
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 169
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 154
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 143
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 132
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 132
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 150
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Everlasting Love",
+      "id": "everlasting-love-carl-carlton"
+    },
+    {
+      "title": "Smokin' Room",
+      "id": "smokin-room-carl-carlton"
+    },
+    {
+      "title": "Morning, Noon and Night",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be Your Main Squeeze",
+      "id": null
+    },
+    {
+      "title": "Our Day Will Come",
+      "id": null
+    },
+    {
+      "title": "La La Song",
+      "id": null
+    },
+    {
+      "title": "Signed Sealed and Delivered",
+      "id": null
+    },
+    {
+      "title": "Hurt So Bad",
+      "id": null
+    },
+    {
+      "title": "Lonely Teardrops",
+      "id": null
+    }
+  ]
+}
