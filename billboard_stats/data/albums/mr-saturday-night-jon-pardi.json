@@ -1,1 +1,78 @@
-{"id": "mr-saturday-night-jon-pardi", "title": "Mr. Saturday Night", "artist": "Jon Pardi", "peak": 34, "history": [{"date": "2022-09-17", "rank": 34}, {"date": "2022-09-24", "rank": 129}, {"date": "2022-10-01", "rank": 161}]}
+{
+  "id": "mr-saturday-night-jon-pardi",
+  "title": "Mr. Saturday Night",
+  "artist": "Jon Pardi",
+  "peak": 34,
+  "history": [
+    {
+      "date": "2022-09-17",
+      "rank": 34
+    },
+    {
+      "date": "2022-09-24",
+      "rank": 129
+    },
+    {
+      "date": "2022-10-01",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Last Night Lonely",
+      "id": "last-night-lonely-jon-pardi"
+    },
+    {
+      "title": "Your Heart or Mine",
+      "id": "your-heart-or-mine-jon-pardi"
+    },
+    {
+      "title": "Mr. Saturday Night",
+      "id": null
+    },
+    {
+      "title": "Fill ’Er Up",
+      "id": null
+    },
+    {
+      "title": "Neon Light Speed",
+      "id": null
+    },
+    {
+      "title": "New Place to Drink",
+      "id": null
+    },
+    {
+      "title": "Santa Cruz",
+      "id": null
+    },
+    {
+      "title": "Longneck Way to Go",
+      "id": null
+    },
+    {
+      "title": "Raincheck",
+      "id": null
+    },
+    {
+      "title": "Workin’ on a New One",
+      "id": null
+    },
+    {
+      "title": "Hung the Moon",
+      "id": null
+    },
+    {
+      "title": "The Day I Stop Dancin’",
+      "id": null
+    },
+    {
+      "title": "Smokin’ a Doobie",
+      "id": null
+    },
+    {
+      "title": "Reverse Cowgirl",
+      "id": null
+    }
+  ]
+}

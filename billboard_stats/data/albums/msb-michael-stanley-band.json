@@ -1,1 +1,82 @@
-{"id": "msb-michael-stanley-band", "title": "MSB", "artist": "Michael Stanley Band", "peak": 136, "history": [{"date": "1982-09-04", "rank": 175}, {"date": "1982-09-11", "rank": 165}, {"date": "1982-09-18", "rank": 155}, {"date": "1982-09-25", "rank": 147}, {"date": "1982-10-02", "rank": 136}, {"date": "1982-10-09", "rank": 136}]}
+{
+  "id": "msb-michael-stanley-band",
+  "title": "MSB",
+  "artist": "Michael Stanley Band",
+  "peak": 136,
+  "history": [
+    {
+      "date": "1982-09-04",
+      "rank": 175
+    },
+    {
+      "date": "1982-09-11",
+      "rank": 165
+    },
+    {
+      "date": "1982-09-18",
+      "rank": 155
+    },
+    {
+      "date": "1982-09-25",
+      "rank": 147
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 136
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 136
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When I’m Holding You Tight",
+      "id": "when-i-m-holding-you-tight-michael-stanley-band"
+    },
+    {
+      "title": "Love Hurts",
+      "id": "lover-michael-stanley-band"
+    },
+    {
+      "title": "Take the Time",
+      "id": "take-the-time-michael-stanley-band"
+    },
+    {
+      "title": "In Between the Lines",
+      "id": null
+    },
+    {
+      "title": "If You Love Me",
+      "id": null
+    },
+    {
+      "title": "Night by Night",
+      "id": null
+    },
+    {
+      "title": "Spanish Nights",
+      "id": null
+    },
+    {
+      "title": "One of Those Dreams",
+      "id": null
+    },
+    {
+      "title": "Hang Tough",
+      "id": null
+    },
+    {
+      "title": "Just a Little Bit Longer",
+      "id": null
+    },
+    {
+      "title": "In Between the Lines (live)",
+      "id": null
+    },
+    {
+      "title": "Fire in the Hole (live)",
+      "id": null
+    }
+  ]
+}

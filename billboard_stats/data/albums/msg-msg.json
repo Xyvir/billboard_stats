@@ -1,1 +1,42 @@
-{"id": "msg-msg", "title": "MSG", "artist": "MSG", "peak": 180, "history": [{"date": "1992-03-07", "rank": 188}, {"date": "1992-03-14", "rank": 186}, {"date": "1992-03-21", "rank": 180}, {"date": "1992-03-28", "rank": 199}]}
+{
+  "id": "msg-msg",
+  "title": "MSG",
+  "artist": "MSG",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1992-03-07",
+      "rank": 188
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 186
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 180
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "바라만 본다",
+      "id": null
+    },
+    {
+      "title": "나를 아는 사람",
+      "id": null
+    },
+    {
+      "title": "바라만 본다 (inst.)",
+      "id": null
+    },
+    {
+      "title": "나를 아는 사람 (inst.)",
+      "id": null
+    }
+  ]
+}
