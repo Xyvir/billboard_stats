@@ -1,1 +1,82 @@
-{"id": "check-it-out-tavares", "title": "Check It Out", "artist": "Tavares", "peak": 160, "history": [{"date": "1974-02-09", "rank": 185}, {"date": "1974-02-16", "rank": 180}, {"date": "1974-02-23", "rank": 168}, {"date": "1974-03-02", "rank": 163}, {"date": "1974-03-09", "rank": 160}, {"date": "1974-03-16", "rank": 177}, {"date": "1974-03-23", "rank": 179}, {"date": "1974-03-30", "rank": 200}]}
+{
+  "id": "check-it-out-tavares",
+  "title": "Check It Out",
+  "artist": "Tavares",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1974-02-09",
+      "rank": 185
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 180
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 168
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 163
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 160
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 177
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 179
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "That’s the Sound That Lonely Makes",
+      "id": "that-s-the-sound-that-lonely-makes-tavares"
+    },
+    {
+      "title": "Check It Out",
+      "id": "check-it-out-tavares"
+    },
+    {
+      "title": "If That’s the Way You Want It",
+      "id": null
+    },
+    {
+      "title": "Strangers in Dark Corners",
+      "id": null
+    },
+    {
+      "title": "Wish You Were With Me Mary",
+      "id": null
+    },
+    {
+      "title": "I’ll Never Say Never Again",
+      "id": null
+    },
+    {
+      "title": "Little Girl",
+      "id": null
+    },
+    {
+      "title": "Let’s Make the Best of What We Got",
+      "id": null
+    },
+    {
+      "title": "I’m in Love",
+      "id": null
+    },
+    {
+      "title": "Mama’s Little Girl",
+      "id": null
+    }
+  ]
+}

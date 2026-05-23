@@ -1,1 +1,158 @@
-{"id": "charmbracelet-mariah-carey", "title": "Charmbracelet", "artist": "Mariah Carey", "peak": 3, "history": [{"date": "2002-12-21", "rank": 3}, {"date": "2002-12-28", "rank": 14}, {"date": "2003-01-04", "rank": 18}, {"date": "2003-01-11", "rank": 25}, {"date": "2003-01-18", "rank": 30}, {"date": "2003-01-25", "rank": 31}, {"date": "2003-02-01", "rank": 37}, {"date": "2003-02-08", "rank": 34}, {"date": "2003-02-15", "rank": 40}, {"date": "2003-02-22", "rank": 53}, {"date": "2003-03-01", "rank": 66}, {"date": "2003-03-08", "rank": 64}, {"date": "2003-03-15", "rank": 78}, {"date": "2003-03-22", "rank": 77}, {"date": "2003-03-29", "rank": 100}, {"date": "2003-04-05", "rank": 116}, {"date": "2003-04-12", "rank": 152}, {"date": "2003-04-19", "rank": 161}, {"date": "2003-04-26", "rank": 182}, {"date": "2003-05-03", "rank": 131}, {"date": "2003-05-10", "rank": 169}, {"date": "2003-05-17", "rank": 199}]}
+{
+  "id": "charmbracelet-mariah-carey",
+  "title": "Charmbracelet",
+  "artist": "Mariah Carey",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2002-12-21",
+      "rank": 3
+    },
+    {
+      "date": "2002-12-28",
+      "rank": 14
+    },
+    {
+      "date": "2003-01-04",
+      "rank": 18
+    },
+    {
+      "date": "2003-01-11",
+      "rank": 25
+    },
+    {
+      "date": "2003-01-18",
+      "rank": 30
+    },
+    {
+      "date": "2003-01-25",
+      "rank": 31
+    },
+    {
+      "date": "2003-02-01",
+      "rank": 37
+    },
+    {
+      "date": "2003-02-08",
+      "rank": 34
+    },
+    {
+      "date": "2003-02-15",
+      "rank": 40
+    },
+    {
+      "date": "2003-02-22",
+      "rank": 53
+    },
+    {
+      "date": "2003-03-01",
+      "rank": 66
+    },
+    {
+      "date": "2003-03-08",
+      "rank": 64
+    },
+    {
+      "date": "2003-03-15",
+      "rank": 78
+    },
+    {
+      "date": "2003-03-22",
+      "rank": 77
+    },
+    {
+      "date": "2003-03-29",
+      "rank": 100
+    },
+    {
+      "date": "2003-04-05",
+      "rank": 116
+    },
+    {
+      "date": "2003-04-12",
+      "rank": 152
+    },
+    {
+      "date": "2003-04-19",
+      "rank": 161
+    },
+    {
+      "date": "2003-04-26",
+      "rank": 182
+    },
+    {
+      "date": "2003-05-03",
+      "rank": 131
+    },
+    {
+      "date": "2003-05-10",
+      "rank": 169
+    },
+    {
+      "date": "2003-05-17",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Through the Rain",
+      "id": "through-the-rain-mariah-carey"
+    },
+    {
+      "title": "The One",
+      "id": "honey-mariah-carey"
+    },
+    {
+      "title": "Through the Rain (remix)",
+      "id": "through-the-rain-mariah-carey"
+    },
+    {
+      "title": "Boy (I Need You)",
+      "id": null
+    },
+    {
+      "title": "Yours",
+      "id": null
+    },
+    {
+      "title": "You Got Me",
+      "id": null
+    },
+    {
+      "title": "I Only Wanted",
+      "id": null
+    },
+    {
+      "title": "Clown",
+      "id": null
+    },
+    {
+      "title": "My Saving Grace",
+      "id": null
+    },
+    {
+      "title": "You Had Your Chance",
+      "id": null
+    },
+    {
+      "title": "Lullaby",
+      "id": null
+    },
+    {
+      "title": "Irresistible",
+      "id": null
+    },
+    {
+      "title": "Subtle Invitation",
+      "id": null
+    },
+    {
+      "title": "Bringin’ On the Heartbreak",
+      "id": null
+    },
+    {
+      "title": "Sunflowers for Alfred Roy",
+      "id": null
+    }
+  ]
+}

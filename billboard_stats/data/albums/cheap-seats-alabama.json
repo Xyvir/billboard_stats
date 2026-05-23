@@ -1,1 +1,206 @@
-{"id": "cheap-seats-alabama", "title": "Cheap Seats", "artist": "Alabama", "peak": 76, "history": [{"date": "1993-10-30", "rank": 89}, {"date": "1993-11-06", "rank": 87}, {"date": "1993-11-13", "rank": 76}, {"date": "1993-11-20", "rank": 104}, {"date": "1993-11-27", "rank": 110}, {"date": "1993-12-04", "rank": 125}, {"date": "1993-12-11", "rank": 130}, {"date": "1993-12-18", "rank": 126}, {"date": "1993-12-25", "rank": 117}, {"date": "1994-01-01", "rank": 112}, {"date": "1994-01-08", "rank": 117}, {"date": "1994-01-15", "rank": 111}, {"date": "1994-01-22", "rank": 105}, {"date": "1994-01-29", "rank": 150}, {"date": "1994-02-05", "rank": 149}, {"date": "1994-02-12", "rank": 156}, {"date": "1994-02-19", "rank": 162}, {"date": "1994-02-26", "rank": 150}, {"date": "1994-03-05", "rank": 147}, {"date": "1994-03-12", "rank": 162}, {"date": "1994-03-19", "rank": 175}, {"date": "1994-03-26", "rank": 184}, {"date": "1994-04-02", "rank": 196}, {"date": "1994-04-30", "rank": 190}, {"date": "1994-05-07", "rank": 179}, {"date": "1994-05-14", "rank": 158}, {"date": "1994-05-21", "rank": 147}, {"date": "1994-05-28", "rank": 142}, {"date": "1994-06-04", "rank": 154}, {"date": "1994-06-11", "rank": 159}, {"date": "1994-06-18", "rank": 144}, {"date": "1994-06-25", "rank": 144}, {"date": "1994-07-02", "rank": 139}, {"date": "1994-07-09", "rank": 130}, {"date": "1994-07-16", "rank": 166}, {"date": "1994-07-23", "rank": 172}, {"date": "1994-07-30", "rank": 196}, {"date": "1994-08-06", "rank": 199}]}
+{
+  "id": "cheap-seats-alabama",
+  "title": "Cheap Seats",
+  "artist": "Alabama",
+  "peak": 76,
+  "history": [
+    {
+      "date": "1993-10-30",
+      "rank": 89
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 87
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 76
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 104
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 110
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 125
+    },
+    {
+      "date": "1993-12-11",
+      "rank": 130
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 126
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 117
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 112
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 117
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 111
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 105
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 150
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 149
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 156
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 162
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 150
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 147
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 162
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 175
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 184
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 196
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 190
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 179
+    },
+    {
+      "date": "1994-05-14",
+      "rank": 158
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 147
+    },
+    {
+      "date": "1994-05-28",
+      "rank": 142
+    },
+    {
+      "date": "1994-06-04",
+      "rank": 154
+    },
+    {
+      "date": "1994-06-11",
+      "rank": 159
+    },
+    {
+      "date": "1994-06-18",
+      "rank": 144
+    },
+    {
+      "date": "1994-06-25",
+      "rank": 144
+    },
+    {
+      "date": "1994-07-02",
+      "rank": 139
+    },
+    {
+      "date": "1994-07-09",
+      "rank": 130
+    },
+    {
+      "date": "1994-07-16",
+      "rank": 166
+    },
+    {
+      "date": "1994-07-23",
+      "rank": 172
+    },
+    {
+      "date": "1994-07-30",
+      "rank": 196
+    },
+    {
+      "date": "1994-08-06",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Still Goin’ Strong",
+      "id": null
+    },
+    {
+      "title": "T.L.C.A.S.A.P.",
+      "id": null
+    },
+    {
+      "title": "Katy Brought My Guitar Back Today",
+      "id": null
+    },
+    {
+      "title": "On This Side of the Moon",
+      "id": null
+    },
+    {
+      "title": "The Cheap Seats",
+      "id": null
+    },
+    {
+      "title": "Reckless",
+      "id": null
+    },
+    {
+      "title": "That Feeling",
+      "id": null
+    },
+    {
+      "title": "This Love’s on Me",
+      "id": null
+    },
+    {
+      "title": "Clear Water Blues",
+      "id": null
+    },
+    {
+      "title": "A Better Word for Love",
+      "id": null
+    },
+    {
+      "title": "Angels Among Us",
+      "id": null
+    }
+  ]
+}
