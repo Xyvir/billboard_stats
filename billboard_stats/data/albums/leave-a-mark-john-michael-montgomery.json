@@ -1,1 +1,70 @@
-{"id": "leave-a-mark-john-michael-montgomery", "title": "Leave A Mark", "artist": "John Michael Montgomery", "peak": 95, "history": [{"date": "1998-05-23", "rank": 95}, {"date": "1998-05-30", "rank": 105}, {"date": "1998-06-06", "rank": 147}, {"date": "1998-06-13", "rank": 181}, {"date": "1999-02-27", "rank": 189}]}
+{
+  "id": "leave-a-mark-john-michael-montgomery",
+  "title": "Leave A Mark",
+  "artist": "John Michael Montgomery",
+  "peak": 95,
+  "history": [
+    {
+      "date": "1998-05-23",
+      "rank": 95
+    },
+    {
+      "date": "1998-05-30",
+      "rank": 105
+    },
+    {
+      "date": "1998-06-06",
+      "rank": 147
+    },
+    {
+      "date": "1998-06-13",
+      "rank": 181
+    },
+    {
+      "date": "1999-02-27",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cover You in Kisses",
+      "id": "cover-you-in-kisses-john-michael-montgomery"
+    },
+    {
+      "title": "Hold on to Me",
+      "id": "hold-on-to-me-john-michael-montgomery"
+    },
+    {
+      "title": "Little Cowboy’s Cry",
+      "id": null
+    },
+    {
+      "title": "It Gets Me Every Time",
+      "id": null
+    },
+    {
+      "title": "I Don’t Want This Song to End",
+      "id": null
+    },
+    {
+      "title": "Love Working on You",
+      "id": null
+    },
+    {
+      "title": "I Couldn’t Dream",
+      "id": null
+    },
+    {
+      "title": "You’re the Ticket",
+      "id": null
+    },
+    {
+      "title": "I Never Stopped Lovin’ You",
+      "id": null
+    },
+    {
+      "title": "This One's Gonna 'Leave a Mark'",
+      "id": null
+    }
+  ]
+}

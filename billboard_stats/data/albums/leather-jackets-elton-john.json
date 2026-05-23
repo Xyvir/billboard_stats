@@ -1,1 +1,90 @@
-{"id": "leather-jackets-elton-john", "title": "Leather Jackets", "artist": "Elton John", "peak": 91, "history": [{"date": "1986-12-06", "rank": 120}, {"date": "1986-12-13", "rank": 94}, {"date": "1986-12-20", "rank": 91}, {"date": "1986-12-27", "rank": 91}, {"date": "1987-01-03", "rank": 91}, {"date": "1987-01-10", "rank": 114}, {"date": "1987-01-17", "rank": 149}, {"date": "1987-01-24", "rank": 187}, {"date": "1987-01-31", "rank": 179}]}
+{
+  "id": "leather-jackets-elton-john",
+  "title": "Leather Jackets",
+  "artist": "Elton John",
+  "peak": 91,
+  "history": [
+    {
+      "date": "1986-12-06",
+      "rank": 120
+    },
+    {
+      "date": "1986-12-13",
+      "rank": 94
+    },
+    {
+      "date": "1986-12-20",
+      "rank": 91
+    },
+    {
+      "date": "1986-12-27",
+      "rank": 91
+    },
+    {
+      "date": "1987-01-03",
+      "rank": 91
+    },
+    {
+      "date": "1987-01-10",
+      "rank": 114
+    },
+    {
+      "date": "1987-01-17",
+      "rank": 149
+    },
+    {
+      "date": "1987-01-24",
+      "rank": 187
+    },
+    {
+      "date": "1987-01-31",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heartache All Over the World",
+      "id": "heartache-all-over-the-world-elton-john"
+    },
+    {
+      "title": "Memory of Love",
+      "id": "victim-of-love-elton-john"
+    },
+    {
+      "title": "Leather Jackets",
+      "id": null
+    },
+    {
+      "title": "Hoop of Fire",
+      "id": null
+    },
+    {
+      "title": "Don’t Trust That Woman",
+      "id": null
+    },
+    {
+      "title": "Go It Alone",
+      "id": null
+    },
+    {
+      "title": "Gypsy Heart",
+      "id": null
+    },
+    {
+      "title": "Slow Rivers",
+      "id": null
+    },
+    {
+      "title": "Angeline",
+      "id": null
+    },
+    {
+      "title": "Paris",
+      "id": null
+    },
+    {
+      "title": "I Fall Apart",
+      "id": null
+    }
+  ]
+}
