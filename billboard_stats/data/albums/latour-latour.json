@@ -1,1 +1,74 @@
-{"id": "latour-latour", "title": "LaTour", "artist": "LaTour", "peak": 145, "history": [{"date": "1991-05-11", "rank": 179}, {"date": "1991-05-18", "rank": 145}, {"date": "1991-05-25", "rank": 184}, {"date": "1991-06-01", "rank": 200}]}
+{
+  "id": "latour-latour",
+  "title": "LaTour",
+  "artist": "LaTour",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1991-05-11",
+      "rank": 179
+    },
+    {
+      "date": "1991-05-18",
+      "rank": 145
+    },
+    {
+      "date": "1991-05-25",
+      "rank": 184
+    },
+    {
+      "date": "1991-06-01",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "People Are Still Having Sex",
+      "id": "people-are-still-having-sex-latour"
+    },
+    {
+      "title": "People Are Still Having Sex (Remix)",
+      "id": "people-are-still-having-sex-latour"
+    },
+    {
+      "title": "Allen's Got a New Hi-Fi",
+      "id": null
+    },
+    {
+      "title": "Involved",
+      "id": null
+    },
+    {
+      "title": "Cold",
+      "id": null
+    },
+    {
+      "title": "Fantasy Soldiers",
+      "id": null
+    },
+    {
+      "title": "Amazing You",
+      "id": null
+    },
+    {
+      "title": "Laurie Monster",
+      "id": null
+    },
+    {
+      "title": "Psych",
+      "id": null
+    },
+    {
+      "title": "Dark Sunglasses",
+      "id": null
+    },
+    {
+      "title": "Blue",
+      "id": null
+    },
+    {
+      "title": "Allen's Got a New Hi-Fi (Remix)",
+      "id": null
+    }
+  ]
+}

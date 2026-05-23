@@ -1,1 +1,286 @@
-{"id": "late-registration-kanye-west", "title": "Late Registration", "artist": "Kanye West", "peak": 1, "history": [{"date": "2005-09-17", "rank": 1}, {"date": "2005-09-24", "rank": 1}, {"date": "2005-10-01", "rank": 2}, {"date": "2005-10-08", "rank": 3}, {"date": "2005-10-15", "rank": 5}, {"date": "2005-10-22", "rank": 6}, {"date": "2005-10-29", "rank": 5}, {"date": "2005-11-05", "rank": 10}, {"date": "2005-11-12", "rank": 8}, {"date": "2005-11-19", "rank": 11}, {"date": "2005-11-26", "rank": 13}, {"date": "2005-12-03", "rank": 24}, {"date": "2005-12-10", "rank": 22}, {"date": "2005-12-17", "rank": 35}, {"date": "2005-12-24", "rank": 37}, {"date": "2005-12-31", "rank": 35}, {"date": "2006-01-07", "rank": 33}, {"date": "2006-01-14", "rank": 26}, {"date": "2006-01-21", "rank": 19}, {"date": "2006-01-28", "rank": 29}, {"date": "2006-02-04", "rank": 36}, {"date": "2006-02-11", "rank": 43}, {"date": "2006-02-18", "rank": 50}, {"date": "2006-02-25", "rank": 30}, {"date": "2006-03-04", "rank": 42}, {"date": "2006-03-11", "rank": 39}, {"date": "2006-03-18", "rank": 58}, {"date": "2006-03-25", "rank": 67}, {"date": "2006-04-01", "rank": 77}, {"date": "2006-04-08", "rank": 96}, {"date": "2006-04-15", "rank": 107}, {"date": "2006-04-22", "rank": 137}, {"date": "2006-04-29", "rank": 150}, {"date": "2006-05-06", "rank": 144}, {"date": "2006-05-13", "rank": 150}, {"date": "2006-05-20", "rank": 176}, {"date": "2006-05-27", "rank": 200}, {"date": "2016-03-05", "rank": 170}, {"date": "2016-04-23", "rank": 176}, {"date": "2016-04-30", "rank": 189}, {"date": "2022-03-05", "rank": 184}, {"date": "2022-03-12", "rank": 137}, {"date": "2022-03-19", "rank": 162}, {"date": "2022-03-26", "rank": 181}, {"date": "2022-05-21", "rank": 145}, {"date": "2022-05-28", "rank": 165}, {"date": "2022-06-04", "rank": 191}, {"date": "2022-07-02", "rank": 199}]}
+{
+  "id": "late-registration-kanye-west",
+  "title": "Late Registration",
+  "artist": "Kanye West",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2005-09-17",
+      "rank": 1
+    },
+    {
+      "date": "2005-09-24",
+      "rank": 1
+    },
+    {
+      "date": "2005-10-01",
+      "rank": 2
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 3
+    },
+    {
+      "date": "2005-10-15",
+      "rank": 5
+    },
+    {
+      "date": "2005-10-22",
+      "rank": 6
+    },
+    {
+      "date": "2005-10-29",
+      "rank": 5
+    },
+    {
+      "date": "2005-11-05",
+      "rank": 10
+    },
+    {
+      "date": "2005-11-12",
+      "rank": 8
+    },
+    {
+      "date": "2005-11-19",
+      "rank": 11
+    },
+    {
+      "date": "2005-11-26",
+      "rank": 13
+    },
+    {
+      "date": "2005-12-03",
+      "rank": 24
+    },
+    {
+      "date": "2005-12-10",
+      "rank": 22
+    },
+    {
+      "date": "2005-12-17",
+      "rank": 35
+    },
+    {
+      "date": "2005-12-24",
+      "rank": 37
+    },
+    {
+      "date": "2005-12-31",
+      "rank": 35
+    },
+    {
+      "date": "2006-01-07",
+      "rank": 33
+    },
+    {
+      "date": "2006-01-14",
+      "rank": 26
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 19
+    },
+    {
+      "date": "2006-01-28",
+      "rank": 29
+    },
+    {
+      "date": "2006-02-04",
+      "rank": 36
+    },
+    {
+      "date": "2006-02-11",
+      "rank": 43
+    },
+    {
+      "date": "2006-02-18",
+      "rank": 50
+    },
+    {
+      "date": "2006-02-25",
+      "rank": 30
+    },
+    {
+      "date": "2006-03-04",
+      "rank": 42
+    },
+    {
+      "date": "2006-03-11",
+      "rank": 39
+    },
+    {
+      "date": "2006-03-18",
+      "rank": 58
+    },
+    {
+      "date": "2006-03-25",
+      "rank": 67
+    },
+    {
+      "date": "2006-04-01",
+      "rank": 77
+    },
+    {
+      "date": "2006-04-08",
+      "rank": 96
+    },
+    {
+      "date": "2006-04-15",
+      "rank": 107
+    },
+    {
+      "date": "2006-04-22",
+      "rank": 137
+    },
+    {
+      "date": "2006-04-29",
+      "rank": 150
+    },
+    {
+      "date": "2006-05-06",
+      "rank": 144
+    },
+    {
+      "date": "2006-05-13",
+      "rank": 150
+    },
+    {
+      "date": "2006-05-20",
+      "rank": 176
+    },
+    {
+      "date": "2006-05-27",
+      "rank": 200
+    },
+    {
+      "date": "2016-03-05",
+      "rank": 170
+    },
+    {
+      "date": "2016-04-23",
+      "rank": 176
+    },
+    {
+      "date": "2016-04-30",
+      "rank": 189
+    },
+    {
+      "date": "2022-03-05",
+      "rank": 184
+    },
+    {
+      "date": "2022-03-12",
+      "rank": 137
+    },
+    {
+      "date": "2022-03-19",
+      "rank": 162
+    },
+    {
+      "date": "2022-03-26",
+      "rank": 181
+    },
+    {
+      "date": "2022-05-21",
+      "rank": 145
+    },
+    {
+      "date": "2022-05-28",
+      "rank": 165
+    },
+    {
+      "date": "2022-06-04",
+      "rank": 191
+    },
+    {
+      "date": "2022-07-02",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Touch the Sky",
+      "id": "through-the-wire-kanye-west"
+    },
+    {
+      "title": "Skit #2",
+      "id": "pt-2-kanye-west"
+    },
+    {
+      "title": "Diamonds From Sierra Leone (remix)",
+      "id": "diamonds-from-sierra-leone-kanye-west"
+    },
+    {
+      "title": "Diamonds From Sierra Leone",
+      "id": "diamonds-from-sierra-leone-kanye-west"
+    },
+    {
+      "title": "Wake Up Mr. West",
+      "id": null
+    },
+    {
+      "title": "Heard ’Em Say",
+      "id": null
+    },
+    {
+      "title": "Gold Digger",
+      "id": null
+    },
+    {
+      "title": "Skit #1",
+      "id": null
+    },
+    {
+      "title": "Drive Slow",
+      "id": null
+    },
+    {
+      "title": "My Way Home",
+      "id": null
+    },
+    {
+      "title": "Crack Music",
+      "id": null
+    },
+    {
+      "title": "Roses",
+      "id": null
+    },
+    {
+      "title": "Bring Me Down",
+      "id": null
+    },
+    {
+      "title": "Addiction",
+      "id": null
+    },
+    {
+      "title": "We Major",
+      "id": null
+    },
+    {
+      "title": "Skit #3",
+      "id": null
+    },
+    {
+      "title": "Hey Mama",
+      "id": null
+    },
+    {
+      "title": "Celebration",
+      "id": null
+    },
+    {
+      "title": "Skit #4",
+      "id": null
+    },
+    {
+      "title": "Gone",
+      "id": null
+    },
+    {
+      "title": "Late",
+      "id": null
+    }
+  ]
+}
