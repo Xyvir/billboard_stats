@@ -1,1 +1,50 @@
-{"id": "just-another-band-from-l-a-the-mothers", "title": "Just Another Band From L.A.", "artist": "The Mothers", "peak": 85, "history": [{"date": "1972-05-20", "rank": 85}, {"date": "1972-05-27", "rank": 95}, {"date": "1972-06-03", "rank": 118}, {"date": "1972-06-10", "rank": 123}, {"date": "1972-06-17", "rank": 160}]}
+{
+  "id": "just-another-band-from-l-a-the-mothers",
+  "title": "Just Another Band From L.A.",
+  "artist": "The Mothers",
+  "peak": 85,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 85
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 95
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 118
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 123
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Billy the Mountain",
+      "id": null
+    },
+    {
+      "title": "Call Any Vegetable",
+      "id": null
+    },
+    {
+      "title": "Eddie, Are You Kidding?",
+      "id": null
+    },
+    {
+      "title": "Magdalena",
+      "id": null
+    },
+    {
+      "title": "Dog Breath",
+      "id": null
+    }
+  ]
+}

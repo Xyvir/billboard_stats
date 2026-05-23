@@ -1,1 +1,66 @@
-{"id": "just-a-singer-lobo", "title": "Just A Singer", "artist": "Lobo", "peak": 183, "history": [{"date": "1974-08-10", "rank": 193}, {"date": "1974-08-17", "rank": 187}, {"date": "1974-08-24", "rank": 183}, {"date": "1974-08-31", "rank": 185}]}
+{
+  "id": "just-a-singer-lobo",
+  "title": "Just A Singer",
+  "artist": "Lobo",
+  "peak": 183,
+  "history": [
+    {
+      "date": "1974-08-10",
+      "rank": 193
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 187
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 183
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rings",
+      "id": "rings-lobo"
+    },
+    {
+      "title": "The Shelter of Your Eyes",
+      "id": null
+    },
+    {
+      "title": "I'm Only Sleeping",
+      "id": null
+    },
+    {
+      "title": "Daydream Believer",
+      "id": null
+    },
+    {
+      "title": "Reason to Believe",
+      "id": null
+    },
+    {
+      "title": "Armstrong",
+      "id": null
+    },
+    {
+      "title": "Universal Soldier",
+      "id": null
+    },
+    {
+      "title": "Let’s Get Together",
+      "id": null
+    },
+    {
+      "title": "Lodi",
+      "id": null
+    },
+    {
+      "title": "All for the Love of a Girl",
+      "id": null
+    }
+  ]
+}

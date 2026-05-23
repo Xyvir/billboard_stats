@@ -1,1 +1,62 @@
-{"id": "just-as-i-am-bill-withers", "title": "Just As I Am", "artist": "Bill Withers", "peak": 86, "history": [{"date": "2020-04-18", "rank": 86}]}
+{
+  "id": "just-as-i-am-bill-withers",
+  "title": "Just As I Am",
+  "artist": "Bill Withers",
+  "peak": 86,
+  "history": [
+    {
+      "date": "2020-04-18",
+      "rank": 86
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ain’t No Sunshine",
+      "id": "ain-t-no-sunshine-bill-withers"
+    },
+    {
+      "title": "Grandma’s Hands",
+      "id": "grandma-s-hands-bill-withers"
+    },
+    {
+      "title": "Let It Be",
+      "id": "let-us-love-bill-withers"
+    },
+    {
+      "title": "Harlem",
+      "id": null
+    },
+    {
+      "title": "Sweet Wanomi",
+      "id": null
+    },
+    {
+      "title": "Everybody’s Talkin’",
+      "id": null
+    },
+    {
+      "title": "Do It Good",
+      "id": null
+    },
+    {
+      "title": "Hope She’ll Be Happier",
+      "id": null
+    },
+    {
+      "title": "I’m Her Daddy",
+      "id": null
+    },
+    {
+      "title": "In My Heart",
+      "id": null
+    },
+    {
+      "title": "Moanin’ and Groanin’",
+      "id": null
+    },
+    {
+      "title": "Better Off Dead",
+      "id": null
+    }
+  ]
+}
