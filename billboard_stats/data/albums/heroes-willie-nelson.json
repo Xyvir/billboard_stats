@@ -1,1 +1,94 @@
-{"id": "heroes-willie-nelson", "title": "Heroes", "artist": "Willie Nelson", "peak": 18, "history": [{"date": "2012-06-02", "rank": 18}, {"date": "2012-06-09", "rank": 48}, {"date": "2012-06-16", "rank": 85}, {"date": "2012-06-23", "rank": 73}, {"date": "2012-06-30", "rank": 81}, {"date": "2012-07-07", "rank": 120}, {"date": "2012-07-14", "rank": 171}]}
+{
+  "id": "heroes-willie-nelson",
+  "title": "Heroes",
+  "artist": "Willie Nelson",
+  "peak": 18,
+  "history": [
+    {
+      "date": "2012-06-02",
+      "rank": 18
+    },
+    {
+      "date": "2012-06-09",
+      "rank": 48
+    },
+    {
+      "date": "2012-06-16",
+      "rank": 85
+    },
+    {
+      "date": "2012-06-23",
+      "rank": 73
+    },
+    {
+      "date": "2012-06-30",
+      "rank": 81
+    },
+    {
+      "date": "2012-07-07",
+      "rank": 120
+    },
+    {
+      "date": "2012-07-14",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Horse Called Music",
+      "id": null
+    },
+    {
+      "title": "Roll Me Up and Smoke Me When I Die",
+      "id": null
+    },
+    {
+      "title": "That’s All There Is to This Song",
+      "id": null
+    },
+    {
+      "title": "No Place to Fly",
+      "id": null
+    },
+    {
+      "title": "Every Time He Drinks He Thinks of Her",
+      "id": null
+    },
+    {
+      "title": "Come on Up to the House",
+      "id": null
+    },
+    {
+      "title": "Hero",
+      "id": null
+    },
+    {
+      "title": "My Window Faces the South",
+      "id": null
+    },
+    {
+      "title": "The Sound of Your Memory",
+      "id": null
+    },
+    {
+      "title": "Cold War With You",
+      "id": null
+    },
+    {
+      "title": "Just Breathe",
+      "id": null
+    },
+    {
+      "title": "Home in San Antone",
+      "id": null
+    },
+    {
+      "title": "Come on Back Jesus",
+      "id": null
+    },
+    {
+      "title": "The Scientist",
+      "id": null
+    }
+  ]
+}

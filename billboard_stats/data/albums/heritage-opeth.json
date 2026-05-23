@@ -1,1 +1,62 @@
-{"id": "heritage-opeth", "title": "Heritage", "artist": "Opeth", "peak": 19, "history": [{"date": "2011-10-08", "rank": 19}, {"date": "2011-10-15", "rank": 86}, {"date": "2011-10-22", "rank": 180}]}
+{
+  "id": "heritage-opeth",
+  "title": "Heritage",
+  "artist": "Opeth",
+  "peak": 19,
+  "history": [
+    {
+      "date": "2011-10-08",
+      "rank": 19
+    },
+    {
+      "date": "2011-10-15",
+      "rank": 86
+    },
+    {
+      "date": "2011-10-22",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heritage",
+      "id": null
+    },
+    {
+      "title": "The Devil’s Orchard",
+      "id": null
+    },
+    {
+      "title": "I Feel the Dark",
+      "id": null
+    },
+    {
+      "title": "Slither",
+      "id": null
+    },
+    {
+      "title": "Nepenthe",
+      "id": null
+    },
+    {
+      "title": "Häxprocess",
+      "id": null
+    },
+    {
+      "title": "Famine",
+      "id": null
+    },
+    {
+      "title": "The Lines in My Hand",
+      "id": null
+    },
+    {
+      "title": "Folklore",
+      "id": null
+    },
+    {
+      "title": "Marrow of the Earth",
+      "id": null
+    }
+  ]
+}

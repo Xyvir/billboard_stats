@@ -1,1 +1,74 @@
-{"id": "heroes-zeros-glen-burtnick", "title": "Heroes & Zeros", "artist": "Glen Burtnick", "peak": 147, "history": [{"date": "1987-10-24", "rank": 156}, {"date": "1987-10-31", "rank": 147}, {"date": "1987-11-07", "rank": 147}, {"date": "1987-11-14", "rank": 159}, {"date": "1987-11-21", "rank": 166}, {"date": "1987-11-28", "rank": 186}]}
+{
+  "id": "heroes-zeros-glen-burtnick",
+  "title": "Heroes & Zeros",
+  "artist": "Glen Burtnick",
+  "peak": 147,
+  "history": [
+    {
+      "date": "1987-10-24",
+      "rank": 156
+    },
+    {
+      "date": "1987-10-31",
+      "rank": 147
+    },
+    {
+      "date": "1987-11-07",
+      "rank": 147
+    },
+    {
+      "date": "1987-11-14",
+      "rank": 159
+    },
+    {
+      "date": "1987-11-21",
+      "rank": 166
+    },
+    {
+      "date": "1987-11-28",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Follow You",
+      "id": "follow-you-glen-burtnick"
+    },
+    {
+      "title": "Spinning My Wheels",
+      "id": null
+    },
+    {
+      "title": "Walls Came Down",
+      "id": null
+    },
+    {
+      "title": "Stupid Boys",
+      "id": null
+    },
+    {
+      "title": "Love Goes On",
+      "id": null
+    },
+    {
+      "title": "Heard It on the Radio",
+      "id": null
+    },
+    {
+      "title": "Abalene",
+      "id": null
+    },
+    {
+      "title": "Here Comes Sally",
+      "id": null
+    },
+    {
+      "title": "Scattered",
+      "id": null
+    },
+    {
+      "title": "The Day Your Ship Gets Thru",
+      "id": null
+    }
+  ]
+}

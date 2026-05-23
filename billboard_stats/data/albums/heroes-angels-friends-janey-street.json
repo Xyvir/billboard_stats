@@ -1,1 +1,70 @@
-{"id": "heroes-angels-friends-janey-street", "title": "Heroes, Angels & Friends", "artist": "Janey Street", "peak": 145, "history": [{"date": "1984-11-03", "rank": 165}, {"date": "1984-11-10", "rank": 156}, {"date": "1984-11-17", "rank": 151}, {"date": "1984-11-24", "rank": 145}, {"date": "1984-12-01", "rank": 145}, {"date": "1984-12-08", "rank": 175}]}
+{
+  "id": "heroes-angels-friends-janey-street",
+  "title": "Heroes, Angels & Friends",
+  "artist": "Janey Street",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1984-11-03",
+      "rank": 165
+    },
+    {
+      "date": "1984-11-10",
+      "rank": 156
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 151
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 145
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 145
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Say Hello to Ronnie",
+      "id": "say-hello-to-ronnie-janey-street"
+    },
+    {
+      "title": "Me and My Friends",
+      "id": null
+    },
+    {
+      "title": "Under the Clock",
+      "id": null
+    },
+    {
+      "title": "There Ain't No Angels in the Sky",
+      "id": null
+    },
+    {
+      "title": "Jimmy (Lives in the House Down the Street)",
+      "id": null
+    },
+    {
+      "title": "Where Are the Heroes",
+      "id": null
+    },
+    {
+      "title": "Let's Give in to the Night",
+      "id": null
+    },
+    {
+      "title": "(How long) Till My Ship Comes In",
+      "id": null
+    },
+    {
+      "title": "In My Mind",
+      "id": null
+    }
+  ]
+}
