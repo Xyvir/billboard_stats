@@ -1,1 +1,202 @@
-{"id": "friend-or-foe-adam-ant", "title": "Friend Or Foe", "artist": "Adam Ant", "peak": 16, "history": [{"date": "1982-11-06", "rank": 189}, {"date": "1982-11-13", "rank": 97}, {"date": "1982-11-20", "rank": 62}, {"date": "1982-11-27", "rank": 47}, {"date": "1982-12-04", "rank": 43}, {"date": "1982-12-11", "rank": 39}, {"date": "1982-12-18", "rank": 39}, {"date": "1982-12-25", "rank": 37}, {"date": "1983-01-01", "rank": 37}, {"date": "1983-01-08", "rank": 32}, {"date": "1983-01-15", "rank": 30}, {"date": "1983-01-22", "rank": 26}, {"date": "1983-01-29", "rank": 22}, {"date": "1983-02-05", "rank": 21}, {"date": "1983-02-12", "rank": 21}, {"date": "1983-02-19", "rank": 21}, {"date": "1983-02-26", "rank": 21}, {"date": "1983-03-05", "rank": 16}, {"date": "1983-03-12", "rank": 16}, {"date": "1983-03-19", "rank": 16}, {"date": "1983-03-26", "rank": 30}, {"date": "1983-04-02", "rank": 52}, {"date": "1983-04-09", "rank": 63}, {"date": "1983-04-16", "rank": 65}, {"date": "1983-04-23", "rank": 69}, {"date": "1983-04-30", "rank": 80}, {"date": "1983-05-07", "rank": 86}, {"date": "1983-05-14", "rank": 96}, {"date": "1983-05-21", "rank": 94}, {"date": "1983-05-28", "rank": 100}, {"date": "1983-06-04", "rank": 105}, {"date": "1983-06-11", "rank": 111}, {"date": "1983-06-18", "rank": 126}, {"date": "1983-06-25", "rank": 143}, {"date": "1983-07-02", "rank": 154}, {"date": "1983-07-09", "rank": 178}]}
+{
+  "id": "friend-or-foe-adam-ant",
+  "title": "Friend Or Foe",
+  "artist": "Adam Ant",
+  "peak": 16,
+  "history": [
+    {
+      "date": "1982-11-06",
+      "rank": 189
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 97
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 62
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 47
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 43
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 39
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 39
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 37
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 37
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 32
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 30
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 26
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 22
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 21
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 21
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 21
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 21
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 16
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 16
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 16
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 30
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 52
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 63
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 65
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 69
+    },
+    {
+      "date": "1983-04-30",
+      "rank": 80
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 86
+    },
+    {
+      "date": "1983-05-14",
+      "rank": 96
+    },
+    {
+      "date": "1983-05-21",
+      "rank": 94
+    },
+    {
+      "date": "1983-05-28",
+      "rank": 100
+    },
+    {
+      "date": "1983-06-04",
+      "rank": 105
+    },
+    {
+      "date": "1983-06-11",
+      "rank": 111
+    },
+    {
+      "date": "1983-06-18",
+      "rank": 126
+    },
+    {
+      "date": "1983-06-25",
+      "rank": 143
+    },
+    {
+      "date": "1983-07-02",
+      "rank": 154
+    },
+    {
+      "date": "1983-07-09",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Desperate but Not Serious",
+      "id": "desperate-but-not-serious-adam-ant"
+    },
+    {
+      "title": "Goody Two Shoes",
+      "id": "goody-two-shoes-adam-ant"
+    },
+    {
+      "title": "Friend or Foe",
+      "id": null
+    },
+    {
+      "title": "Something Girls",
+      "id": null
+    },
+    {
+      "title": "Place in the Country",
+      "id": null
+    },
+    {
+      "title": "Here Comes the Grump",
+      "id": null
+    },
+    {
+      "title": "Hello, I Love You",
+      "id": null
+    },
+    {
+      "title": "Crackpot History and the Right to Lie",
+      "id": null
+    },
+    {
+      "title": "Made of Money",
+      "id": null
+    },
+    {
+      "title": "Cajun Twisters",
+      "id": null
+    },
+    {
+      "title": "Try This for Sighs",
+      "id": null
+    },
+    {
+      "title": "Man Called Marco",
+      "id": null
+    }
+  ]
+}

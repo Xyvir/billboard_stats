@@ -1,1 +1,154 @@
-{"id": "friends-dionne-warwick", "title": "Friends", "artist": "Dionne Warwick", "peak": 12, "history": [{"date": "1985-12-21", "rank": 69}, {"date": "1985-12-28", "rank": 54}, {"date": "1986-01-04", "rank": 54}, {"date": "1986-01-11", "rank": 40}, {"date": "1986-01-18", "rank": 29}, {"date": "1986-01-25", "rank": 22}, {"date": "1986-02-01", "rank": 18}, {"date": "1986-02-08", "rank": 16}, {"date": "1986-02-15", "rank": 14}, {"date": "1986-02-22", "rank": 13}, {"date": "1986-03-01", "rank": 12}, {"date": "1986-03-08", "rank": 12}, {"date": "1986-03-15", "rank": 13}, {"date": "1986-03-22", "rank": 16}, {"date": "1986-03-29", "rank": 23}, {"date": "1986-04-05", "rank": 26}, {"date": "1986-04-12", "rank": 42}, {"date": "1986-04-19", "rank": 50}, {"date": "1986-04-26", "rank": 59}, {"date": "1986-05-03", "rank": 77}, {"date": "1986-05-10", "rank": 87}, {"date": "1986-05-17", "rank": 108}, {"date": "1986-05-24", "rank": 132}, {"date": "1986-05-31", "rank": 155}, {"date": "1986-06-07", "rank": 164}, {"date": "1986-06-14", "rank": 192}]}
+{
+  "id": "friends-dionne-warwick",
+  "title": "Friends",
+  "artist": "Dionne Warwick",
+  "peak": 12,
+  "history": [
+    {
+      "date": "1985-12-21",
+      "rank": 69
+    },
+    {
+      "date": "1985-12-28",
+      "rank": 54
+    },
+    {
+      "date": "1986-01-04",
+      "rank": 54
+    },
+    {
+      "date": "1986-01-11",
+      "rank": 40
+    },
+    {
+      "date": "1986-01-18",
+      "rank": 29
+    },
+    {
+      "date": "1986-01-25",
+      "rank": 22
+    },
+    {
+      "date": "1986-02-01",
+      "rank": 18
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 16
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 14
+    },
+    {
+      "date": "1986-02-22",
+      "rank": 13
+    },
+    {
+      "date": "1986-03-01",
+      "rank": 12
+    },
+    {
+      "date": "1986-03-08",
+      "rank": 12
+    },
+    {
+      "date": "1986-03-15",
+      "rank": 13
+    },
+    {
+      "date": "1986-03-22",
+      "rank": 16
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 23
+    },
+    {
+      "date": "1986-04-05",
+      "rank": 26
+    },
+    {
+      "date": "1986-04-12",
+      "rank": 42
+    },
+    {
+      "date": "1986-04-19",
+      "rank": 50
+    },
+    {
+      "date": "1986-04-26",
+      "rank": 59
+    },
+    {
+      "date": "1986-05-03",
+      "rank": 77
+    },
+    {
+      "date": "1986-05-10",
+      "rank": 87
+    },
+    {
+      "date": "1986-05-17",
+      "rank": 108
+    },
+    {
+      "date": "1986-05-24",
+      "rank": 132
+    },
+    {
+      "date": "1986-05-31",
+      "rank": 155
+    },
+    {
+      "date": "1986-06-07",
+      "rank": 164
+    },
+    {
+      "date": "1986-06-14",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Whisper in the Dark",
+      "id": "whisper-in-the-dark-dionne-warwick"
+    },
+    {
+      "title": "That’s What Friends Are For",
+      "id": null
+    },
+    {
+      "title": "Remember Your Heart",
+      "id": null
+    },
+    {
+      "title": "Love at Second Sight",
+      "id": null
+    },
+    {
+      "title": "Moments Aren’t Moments",
+      "id": null
+    },
+    {
+      "title": "Stronger Than Before",
+      "id": null
+    },
+    {
+      "title": "Stay Devoted",
+      "id": null
+    },
+    {
+      "title": "No One There (to Sing Me a Love Song)",
+      "id": null
+    },
+    {
+      "title": "How Long?",
+      "id": null
+    },
+    {
+      "title": "Extravagant Gestures",
+      "id": null
+    }
+  ]
+}

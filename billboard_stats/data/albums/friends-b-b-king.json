@@ -1,1 +1,62 @@
-{"id": "friends-b-b-king", "title": "Friends", "artist": "B.B. King", "peak": 153, "history": [{"date": "1974-08-17", "rank": 182}, {"date": "1974-08-24", "rank": 171}, {"date": "1974-08-31", "rank": 161}, {"date": "1974-09-07", "rank": 157}, {"date": "1974-09-14", "rank": 153}, {"date": "1974-09-21", "rank": 174}]}
+{
+  "id": "friends-b-b-king",
+  "title": "Friends",
+  "artist": "B.B. King",
+  "peak": 153,
+  "history": [
+    {
+      "date": "1974-08-17",
+      "rank": 182
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 171
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 161
+    },
+    {
+      "date": "1974-09-07",
+      "rank": 157
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 153
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Got Them Blues",
+      "id": "why-i-sing-the-blues-b-b-king"
+    },
+    {
+      "title": "Philadelphia",
+      "id": "philadelphia-b-b-king"
+    },
+    {
+      "title": "Friends",
+      "id": null
+    },
+    {
+      "title": "Baby I’m Yours",
+      "id": null
+    },
+    {
+      "title": "Up at 5 AM",
+      "id": null
+    },
+    {
+      "title": "When Everything Else Is Gone",
+      "id": null
+    },
+    {
+      "title": "My Song",
+      "id": null
+    }
+  ]
+}

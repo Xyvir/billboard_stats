@@ -1,1 +1,202 @@
-{"id": "friends-shalamar", "title": "Friends", "artist": "Shalamar", "peak": 35, "history": [{"date": "1982-02-20", "rank": 115}, {"date": "1982-02-27", "rank": 101}, {"date": "1982-03-06", "rank": 91}, {"date": "1982-03-13", "rank": 80}, {"date": "1982-03-20", "rank": 67}, {"date": "1982-03-27", "rank": 59}, {"date": "1982-04-03", "rank": 57}, {"date": "1982-04-10", "rank": 55}, {"date": "1982-04-17", "rank": 49}, {"date": "1982-04-24", "rank": 46}, {"date": "1982-05-01", "rank": 41}, {"date": "1982-05-08", "rank": 37}, {"date": "1982-05-15", "rank": 37}, {"date": "1982-05-22", "rank": 35}, {"date": "1982-05-29", "rank": 43}, {"date": "1982-06-05", "rank": 98}, {"date": "1982-06-12", "rank": 98}, {"date": "1982-06-19", "rank": 102}, {"date": "1982-06-26", "rank": 106}, {"date": "1982-07-03", "rank": 118}, {"date": "1982-07-10", "rank": 143}, {"date": "1982-07-17", "rank": 160}, {"date": "1982-07-24", "rank": 173}, {"date": "1982-07-31", "rank": 173}, {"date": "1982-08-07", "rank": 193}]}
+{
+  "id": "friends-shalamar",
+  "title": "Friends",
+  "artist": "Shalamar",
+  "peak": 35,
+  "history": [
+    {
+      "date": "1982-02-20",
+      "rank": 115
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 101
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 91
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 80
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 67
+    },
+    {
+      "date": "1982-03-27",
+      "rank": 59
+    },
+    {
+      "date": "1982-04-03",
+      "rank": 57
+    },
+    {
+      "date": "1982-04-10",
+      "rank": 55
+    },
+    {
+      "date": "1982-04-17",
+      "rank": 49
+    },
+    {
+      "date": "1982-04-24",
+      "rank": 46
+    },
+    {
+      "date": "1982-05-01",
+      "rank": 41
+    },
+    {
+      "date": "1982-05-08",
+      "rank": 37
+    },
+    {
+      "date": "1982-05-15",
+      "rank": 37
+    },
+    {
+      "date": "1982-05-22",
+      "rank": 35
+    },
+    {
+      "date": "1982-05-29",
+      "rank": 43
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 98
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 98
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 102
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 106
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 118
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 143
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 160
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 173
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 173
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Night to Remember",
+      "id": "a-night-to-remember-shalamar"
+    },
+    {
+      "title": "A Night to Remember (12\" M+M mix)",
+      "id": "a-night-to-remember-shalamar"
+    },
+    {
+      "title": "A Night to Remember (UK 12\" remix)",
+      "id": "a-night-to-remember-shalamar"
+    },
+    {
+      "title": "A Night to Remember (12\" M+M instrumental mix)",
+      "id": "a-night-to-remember-shalamar"
+    },
+    {
+      "title": "Don’t Try to Change Me",
+      "id": null
+    },
+    {
+      "title": "Help Me",
+      "id": null
+    },
+    {
+      "title": "On Top of the World",
+      "id": null
+    },
+    {
+      "title": "I Don’t Wanna Be the Last to Know",
+      "id": null
+    },
+    {
+      "title": "Friends",
+      "id": null
+    },
+    {
+      "title": "Playing to Win",
+      "id": null
+    },
+    {
+      "title": "I Just Stopped by Because I Had To",
+      "id": null
+    },
+    {
+      "title": "There It Is",
+      "id": null
+    },
+    {
+      "title": "I Can Make You Feel Good",
+      "id": null
+    },
+    {
+      "title": "Talk to Me",
+      "id": null
+    },
+    {
+      "title": "Good Feelings",
+      "id": null
+    },
+    {
+      "title": "Sweeter as the Days Go By",
+      "id": null
+    },
+    {
+      "title": "There It Is (12\" M+M instrumental mix)",
+      "id": null
+    },
+    {
+      "title": "Friends (extended version)",
+      "id": null
+    },
+    {
+      "title": "I Can Make You Feel Good (UK single version)",
+      "id": null
+    },
+    {
+      "title": "Help Me (US single version)",
+      "id": null
+    },
+    {
+      "title": "Friends (UK single version)",
+      "id": null
+    },
+    {
+      "title": "There It Is (extended version)",
+      "id": null
+    },
+    {
+      "title": "A Mix to Remember (12\" version): A Night to Remember / There It Is / Over and Over / I Can Make You Feel Good / I Owe You One",
+      "id": null
+    }
+  ]
+}
