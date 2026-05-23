@@ -1,1 +1,54 @@
-{"id": "miami-pop-festival-the-jimi-hendrix-experience", "title": "Miami Pop Festival", "artist": "The Jimi Hendrix Experience", "peak": 39, "history": [{"date": "2013-11-23", "rank": 39}, {"date": "2013-11-30", "rank": 130}]}
+{
+  "id": "miami-pop-festival-the-jimi-hendrix-experience",
+  "title": "Miami Pop Festival",
+  "artist": "The Jimi Hendrix Experience",
+  "peak": 39,
+  "history": [
+    {
+      "date": "2013-11-23",
+      "rank": 39
+    },
+    {
+      "date": "2013-11-30",
+      "rank": 130
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Purple Haze",
+      "id": "purple-haze-the-jimi-hendrix-experience"
+    },
+    {
+      "title": "Introduction",
+      "id": null
+    },
+    {
+      "title": "Hey Joe",
+      "id": null
+    },
+    {
+      "title": "Foxey Lady",
+      "id": null
+    },
+    {
+      "title": "Tax Free",
+      "id": null
+    },
+    {
+      "title": "Fire",
+      "id": null
+    },
+    {
+      "title": "Hear My Train a Comin’",
+      "id": null
+    },
+    {
+      "title": "I Don’t Live Today",
+      "id": null
+    },
+    {
+      "title": "Red House",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "mgmt-mgmt", "title": "MGMT", "artist": "MGMT", "peak": 14, "history": [{"date": "2013-10-05", "rank": 14}, {"date": "2013-10-12", "rank": 97}, {"date": "2013-10-19", "rank": 195}]}
+{
+  "id": "mgmt-mgmt",
+  "title": "MGMT",
+  "artist": "MGMT",
+  "peak": 14,
+  "history": [
+    {
+      "date": "2013-10-05",
+      "rank": 14
+    },
+    {
+      "date": "2013-10-12",
+      "rank": 97
+    },
+    {
+      "date": "2013-10-19",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Alien Days",
+      "id": null
+    },
+    {
+      "title": "Cool Song No. 2",
+      "id": null
+    },
+    {
+      "title": "Mystery Disease",
+      "id": null
+    },
+    {
+      "title": "Introspection",
+      "id": null
+    },
+    {
+      "title": "Your Life Is a Lie",
+      "id": null
+    },
+    {
+      "title": "A Good Sadness",
+      "id": null
+    },
+    {
+      "title": "Astro-Mancy",
+      "id": null
+    },
+    {
+      "title": "I Love You Too, Death",
+      "id": null
+    },
+    {
+      "title": "Plenty of Girls in the Sea",
+      "id": null
+    },
+    {
+      "title": "An Orphan of Fortune",
+      "id": null
+    }
+  ]
+}

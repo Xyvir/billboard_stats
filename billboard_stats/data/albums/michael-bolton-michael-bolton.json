@@ -1,1 +1,98 @@
-{"id": "michael-bolton-michael-bolton", "title": "Michael Bolton", "artist": "Michael Bolton", "peak": 89, "history": [{"date": "1983-05-07", "rank": 195}, {"date": "1983-05-14", "rank": 181}, {"date": "1983-05-21", "rank": 158}, {"date": "1983-05-28", "rank": 137}, {"date": "1983-06-04", "rank": 131}, {"date": "1983-06-11", "rank": 99}, {"date": "1983-06-18", "rank": 91}, {"date": "1983-06-25", "rank": 89}, {"date": "1983-07-02", "rank": 118}, {"date": "1983-07-09", "rank": 124}, {"date": "1983-07-16", "rank": 143}, {"date": "1983-07-23", "rank": 157}, {"date": "1983-07-30", "rank": 196}]}
+{
+  "id": "michael-bolton-michael-bolton",
+  "title": "Michael Bolton",
+  "artist": "Michael Bolton",
+  "peak": 89,
+  "history": [
+    {
+      "date": "1983-05-07",
+      "rank": 195
+    },
+    {
+      "date": "1983-05-14",
+      "rank": 181
+    },
+    {
+      "date": "1983-05-21",
+      "rank": 158
+    },
+    {
+      "date": "1983-05-28",
+      "rank": 137
+    },
+    {
+      "date": "1983-06-04",
+      "rank": 131
+    },
+    {
+      "date": "1983-06-11",
+      "rank": 99
+    },
+    {
+      "date": "1983-06-18",
+      "rank": 91
+    },
+    {
+      "date": "1983-06-25",
+      "rank": 89
+    },
+    {
+      "date": "1983-07-02",
+      "rank": 118
+    },
+    {
+      "date": "1983-07-09",
+      "rank": 124
+    },
+    {
+      "date": "1983-07-16",
+      "rank": 143
+    },
+    {
+      "date": "1983-07-23",
+      "rank": 157
+    },
+    {
+      "date": "1983-07-30",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fools Game",
+      "id": "fools-game-michael-bolton"
+    },
+    {
+      "title": "Back in My Arms Again",
+      "id": "when-i-m-back-on-my-feet-again-michael-bolton"
+    },
+    {
+      "title": "She Did the Same Thing",
+      "id": null
+    },
+    {
+      "title": "Hometown Hero",
+      "id": null
+    },
+    {
+      "title": "Can’t Hold On, Can't Let Go",
+      "id": null
+    },
+    {
+      "title": "Fighting for My Life",
+      "id": null
+    },
+    {
+      "title": "Paradise",
+      "id": null
+    },
+    {
+      "title": "Carrie",
+      "id": null
+    },
+    {
+      "title": "I Almost Believed You",
+      "id": null
+    }
+  ]
+}

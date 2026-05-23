@@ -1,1 +1,230 @@
-{"id": "mezmerize-system-of-a-down", "title": "Mezmerize", "artist": "System of a Down", "peak": 1, "history": [{"date": "2005-06-04", "rank": 1}, {"date": "2005-06-11", "rank": 4}, {"date": "2005-06-18", "rank": 2}, {"date": "2005-06-25", "rank": 6}, {"date": "2005-07-02", "rank": 10}, {"date": "2005-07-09", "rank": 10}, {"date": "2005-07-16", "rank": 11}, {"date": "2005-07-23", "rank": 14}, {"date": "2005-07-30", "rank": 19}, {"date": "2005-08-06", "rank": 23}, {"date": "2005-08-13", "rank": 28}, {"date": "2005-08-20", "rank": 25}, {"date": "2005-08-27", "rank": 23}, {"date": "2005-09-03", "rank": 27}, {"date": "2005-09-10", "rank": 26}, {"date": "2005-09-17", "rank": 38}, {"date": "2005-09-24", "rank": 39}, {"date": "2005-10-01", "rank": 53}, {"date": "2005-10-08", "rank": 56}, {"date": "2005-10-15", "rank": 67}, {"date": "2005-10-22", "rank": 82}, {"date": "2005-10-29", "rank": 82}, {"date": "2005-11-05", "rank": 93}, {"date": "2005-11-12", "rank": 95}, {"date": "2005-11-19", "rank": 101}, {"date": "2005-11-26", "rank": 104}, {"date": "2005-12-03", "rank": 108}, {"date": "2005-12-10", "rank": 87}, {"date": "2005-12-17", "rank": 111}, {"date": "2005-12-24", "rank": 90}, {"date": "2005-12-31", "rank": 117}, {"date": "2006-01-07", "rank": 108}, {"date": "2006-01-14", "rank": 83}, {"date": "2006-01-21", "rank": 106}, {"date": "2006-01-28", "rank": 108}, {"date": "2006-02-04", "rank": 121}, {"date": "2006-02-11", "rank": 136}, {"date": "2006-02-18", "rank": 152}, {"date": "2006-02-25", "rank": 169}, {"date": "2006-03-04", "rank": 172}, {"date": "2006-03-11", "rank": 187}, {"date": "2006-03-18", "rank": 196}, {"date": "2006-03-25", "rank": 199}, {"date": "2006-04-01", "rank": 200}]}
+{
+  "id": "mezmerize-system-of-a-down",
+  "title": "Mezmerize",
+  "artist": "System of a Down",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2005-06-04",
+      "rank": 1
+    },
+    {
+      "date": "2005-06-11",
+      "rank": 4
+    },
+    {
+      "date": "2005-06-18",
+      "rank": 2
+    },
+    {
+      "date": "2005-06-25",
+      "rank": 6
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 10
+    },
+    {
+      "date": "2005-07-09",
+      "rank": 10
+    },
+    {
+      "date": "2005-07-16",
+      "rank": 11
+    },
+    {
+      "date": "2005-07-23",
+      "rank": 14
+    },
+    {
+      "date": "2005-07-30",
+      "rank": 19
+    },
+    {
+      "date": "2005-08-06",
+      "rank": 23
+    },
+    {
+      "date": "2005-08-13",
+      "rank": 28
+    },
+    {
+      "date": "2005-08-20",
+      "rank": 25
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 23
+    },
+    {
+      "date": "2005-09-03",
+      "rank": 27
+    },
+    {
+      "date": "2005-09-10",
+      "rank": 26
+    },
+    {
+      "date": "2005-09-17",
+      "rank": 38
+    },
+    {
+      "date": "2005-09-24",
+      "rank": 39
+    },
+    {
+      "date": "2005-10-01",
+      "rank": 53
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 56
+    },
+    {
+      "date": "2005-10-15",
+      "rank": 67
+    },
+    {
+      "date": "2005-10-22",
+      "rank": 82
+    },
+    {
+      "date": "2005-10-29",
+      "rank": 82
+    },
+    {
+      "date": "2005-11-05",
+      "rank": 93
+    },
+    {
+      "date": "2005-11-12",
+      "rank": 95
+    },
+    {
+      "date": "2005-11-19",
+      "rank": 101
+    },
+    {
+      "date": "2005-11-26",
+      "rank": 104
+    },
+    {
+      "date": "2005-12-03",
+      "rank": 108
+    },
+    {
+      "date": "2005-12-10",
+      "rank": 87
+    },
+    {
+      "date": "2005-12-17",
+      "rank": 111
+    },
+    {
+      "date": "2005-12-24",
+      "rank": 90
+    },
+    {
+      "date": "2005-12-31",
+      "rank": 117
+    },
+    {
+      "date": "2006-01-07",
+      "rank": 108
+    },
+    {
+      "date": "2006-01-14",
+      "rank": 83
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 106
+    },
+    {
+      "date": "2006-01-28",
+      "rank": 108
+    },
+    {
+      "date": "2006-02-04",
+      "rank": 121
+    },
+    {
+      "date": "2006-02-11",
+      "rank": 136
+    },
+    {
+      "date": "2006-02-18",
+      "rank": 152
+    },
+    {
+      "date": "2006-02-25",
+      "rank": 169
+    },
+    {
+      "date": "2006-03-04",
+      "rank": 172
+    },
+    {
+      "date": "2006-03-11",
+      "rank": 187
+    },
+    {
+      "date": "2006-03-18",
+      "rank": 196
+    },
+    {
+      "date": "2006-03-25",
+      "rank": 199
+    },
+    {
+      "date": "2006-04-01",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "B.Y.O.B.",
+      "id": "b-y-o-b-system-of-a-down"
+    },
+    {
+      "title": "Soldier Side (intro)",
+      "id": null
+    },
+    {
+      "title": "Revenga",
+      "id": null
+    },
+    {
+      "title": "Cigaro",
+      "id": null
+    },
+    {
+      "title": "Radio/Video",
+      "id": null
+    },
+    {
+      "title": "This Cocaine Makes Me Feel Like I’m on This Song",
+      "id": null
+    },
+    {
+      "title": "Violent Pornography",
+      "id": null
+    },
+    {
+      "title": "Question!",
+      "id": null
+    },
+    {
+      "title": "Sad Statue",
+      "id": null
+    },
+    {
+      "title": "Old School Hollywood",
+      "id": null
+    },
+    {
+      "title": "Lost in Hollywood",
+      "id": null
+    }
+  ]
+}

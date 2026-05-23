@@ -1,1 +1,74 @@
-{"id": "michael-ray-michael-ray", "title": "Michael Ray", "artist": "Michael Ray", "peak": 21, "history": [{"date": "2015-08-29", "rank": 21}, {"date": "2015-09-05", "rank": 92}, {"date": "2015-09-12", "rank": 119}, {"date": "2015-09-19", "rank": 197}]}
+{
+  "id": "michael-ray-michael-ray",
+  "title": "Michael Ray",
+  "artist": "Michael Ray",
+  "peak": 21,
+  "history": [
+    {
+      "date": "2015-08-29",
+      "rank": 21
+    },
+    {
+      "date": "2015-09-05",
+      "rank": 92
+    },
+    {
+      "date": "2015-09-12",
+      "rank": 119
+    },
+    {
+      "date": "2015-09-19",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Kiss You in the Morning",
+      "id": "kiss-you-in-the-morning-michael-ray"
+    },
+    {
+      "title": "Think a Little Less",
+      "id": "think-a-little-less-michael-ray"
+    },
+    {
+      "title": "Another Girl",
+      "id": null
+    },
+    {
+      "title": "Look Like This",
+      "id": null
+    },
+    {
+      "title": "Real Men Love Jesus",
+      "id": null
+    },
+    {
+      "title": "Livin’ It Up",
+      "id": null
+    },
+    {
+      "title": "Run Away With You",
+      "id": null
+    },
+    {
+      "title": "Wish I Was Here",
+      "id": null
+    },
+    {
+      "title": "This Love",
+      "id": null
+    },
+    {
+      "title": "Drivin’ All Night",
+      "id": null
+    },
+    {
+      "title": "Everything in Between",
+      "id": null
+    },
+    {
+      "title": "Somewhere South",
+      "id": null
+    }
+  ]
+}

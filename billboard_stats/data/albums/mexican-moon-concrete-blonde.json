@@ -1,1 +1,50 @@
-{"id": "mexican-moon-concrete-blonde", "title": "Mexican Moon", "artist": "Concrete Blonde", "peak": 67, "history": [{"date": "1993-11-06", "rank": 67}, {"date": "1993-11-13", "rank": 111}, {"date": "1993-11-20", "rank": 127}, {"date": "1993-11-27", "rank": 158}, {"date": "1993-12-04", "rank": 181}]}
+{
+  "id": "mexican-moon-concrete-blonde",
+  "title": "Mexican Moon",
+  "artist": "Concrete Blonde",
+  "peak": 67,
+  "history": [
+    {
+      "date": "1993-11-06",
+      "rank": 67
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 111
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 127
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 158
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mexican Moon",
+      "id": null
+    },
+    {
+      "title": "Bajo la Luna mexicana",
+      "id": null
+    },
+    {
+      "title": "Mandocello",
+      "id": null
+    },
+    {
+      "title": "Castles Made of Sand",
+      "id": null
+    },
+    {
+      "title": "Shout",
+      "id": null
+    }
+  ]
+}
