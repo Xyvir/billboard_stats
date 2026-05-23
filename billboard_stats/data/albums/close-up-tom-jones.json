@@ -1,1 +1,130 @@
-{"id": "close-up-tom-jones", "title": "Close Up", "artist": "Tom Jones", "peak": 64, "history": [{"date": "1972-06-17", "rank": 146}, {"date": "1972-06-24", "rank": 110}, {"date": "1972-07-01", "rank": 83}, {"date": "1972-07-08", "rank": 79}, {"date": "1972-07-15", "rank": 73}, {"date": "1972-07-22", "rank": 69}, {"date": "1972-07-29", "rank": 66}, {"date": "1972-08-05", "rank": 64}, {"date": "1972-08-12", "rank": 66}, {"date": "1972-08-19", "rank": 66}, {"date": "1972-08-26", "rank": 68}, {"date": "1972-09-02", "rank": 70}, {"date": "1972-09-09", "rank": 90}, {"date": "1972-09-16", "rank": 90}, {"date": "1972-09-23", "rank": 93}, {"date": "1972-09-30", "rank": 93}, {"date": "1972-10-07", "rank": 103}, {"date": "1972-10-14", "rank": 112}, {"date": "1972-10-21", "rank": 121}, {"date": "1972-10-28", "rank": 134}]}
+{
+  "id": "close-up-tom-jones",
+  "title": "Close Up",
+  "artist": "Tom Jones",
+  "peak": 64,
+  "history": [
+    {
+      "date": "1972-06-17",
+      "rank": 146
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 110
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 83
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 79
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 73
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 69
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 66
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 64
+    },
+    {
+      "date": "1972-08-12",
+      "rank": 66
+    },
+    {
+      "date": "1972-08-19",
+      "rank": 66
+    },
+    {
+      "date": "1972-08-26",
+      "rank": 68
+    },
+    {
+      "date": "1972-09-02",
+      "rank": 70
+    },
+    {
+      "date": "1972-09-09",
+      "rank": 90
+    },
+    {
+      "date": "1972-09-16",
+      "rank": 90
+    },
+    {
+      "date": "1972-09-23",
+      "rank": 93
+    },
+    {
+      "date": "1972-09-30",
+      "rank": 93
+    },
+    {
+      "date": "1972-10-07",
+      "rank": 103
+    },
+    {
+      "date": "1972-10-14",
+      "rank": 112
+    },
+    {
+      "date": "1972-10-21",
+      "rank": 121
+    },
+    {
+      "date": "1972-10-28",
+      "rank": 134
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Young New Mexican Puppeteer",
+      "id": "the-young-new-mexican-puppeteer-tom-jones"
+    },
+    {
+      "title": "Witch Queen of New Orleans",
+      "id": null
+    },
+    {
+      "title": "Tired of Being Alone",
+      "id": null
+    },
+    {
+      "title": "Woman You Took My Life",
+      "id": null
+    },
+    {
+      "title": "If",
+      "id": null
+    },
+    {
+      "title": "All I Ever Need Is You",
+      "id": null
+    },
+    {
+      "title": "You’ve Got a Friend",
+      "id": null
+    },
+    {
+      "title": "Time to Get It Together",
+      "id": null
+    },
+    {
+      "title": "I Won’t Be Sorry to See Suzanne Again",
+      "id": null
+    },
+    {
+      "title": "Kiss an Angel Good Morning",
+      "id": null
+    }
+  ]
+}

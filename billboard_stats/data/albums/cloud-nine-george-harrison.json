@@ -1,1 +1,178 @@
-{"id": "cloud-nine-george-harrison", "title": "Cloud Nine", "artist": "George Harrison", "peak": 8, "history": [{"date": "1987-11-21", "rank": 77}, {"date": "1987-11-28", "rank": 23}, {"date": "1987-12-05", "rank": 18}, {"date": "1987-12-12", "rank": 15}, {"date": "1987-12-19", "rank": 12}, {"date": "1987-12-26", "rank": 11}, {"date": "1988-01-02", "rank": 11}, {"date": "1988-01-09", "rank": 9}, {"date": "1988-01-16", "rank": 10}, {"date": "1988-01-23", "rank": 8}, {"date": "1988-01-30", "rank": 9}, {"date": "1988-02-06", "rank": 9}, {"date": "1988-02-13", "rank": 10}, {"date": "1988-02-20", "rank": 9}, {"date": "1988-02-27", "rank": 10}, {"date": "1988-03-05", "rank": 10}, {"date": "1988-03-12", "rank": 14}, {"date": "1988-03-19", "rank": 19}, {"date": "1988-03-26", "rank": 24}, {"date": "1988-04-02", "rank": 28}, {"date": "1988-04-09", "rank": 34}, {"date": "1988-04-16", "rank": 37}, {"date": "1988-04-23", "rank": 38}, {"date": "1988-04-30", "rank": 51}, {"date": "1988-05-07", "rank": 62}, {"date": "1988-05-14", "rank": 73}, {"date": "1988-05-21", "rank": 79}, {"date": "1988-05-28", "rank": 88}, {"date": "1988-06-04", "rank": 129}, {"date": "1988-06-11", "rank": 139}, {"date": "1988-06-18", "rank": 188}]}
+{
+  "id": "cloud-nine-george-harrison",
+  "title": "Cloud Nine",
+  "artist": "George Harrison",
+  "peak": 8,
+  "history": [
+    {
+      "date": "1987-11-21",
+      "rank": 77
+    },
+    {
+      "date": "1987-11-28",
+      "rank": 23
+    },
+    {
+      "date": "1987-12-05",
+      "rank": 18
+    },
+    {
+      "date": "1987-12-12",
+      "rank": 15
+    },
+    {
+      "date": "1987-12-19",
+      "rank": 12
+    },
+    {
+      "date": "1987-12-26",
+      "rank": 11
+    },
+    {
+      "date": "1988-01-02",
+      "rank": 11
+    },
+    {
+      "date": "1988-01-09",
+      "rank": 9
+    },
+    {
+      "date": "1988-01-16",
+      "rank": 10
+    },
+    {
+      "date": "1988-01-23",
+      "rank": 8
+    },
+    {
+      "date": "1988-01-30",
+      "rank": 9
+    },
+    {
+      "date": "1988-02-06",
+      "rank": 9
+    },
+    {
+      "date": "1988-02-13",
+      "rank": 10
+    },
+    {
+      "date": "1988-02-20",
+      "rank": 9
+    },
+    {
+      "date": "1988-02-27",
+      "rank": 10
+    },
+    {
+      "date": "1988-03-05",
+      "rank": 10
+    },
+    {
+      "date": "1988-03-12",
+      "rank": 14
+    },
+    {
+      "date": "1988-03-19",
+      "rank": 19
+    },
+    {
+      "date": "1988-03-26",
+      "rank": 24
+    },
+    {
+      "date": "1988-04-02",
+      "rank": 28
+    },
+    {
+      "date": "1988-04-09",
+      "rank": 34
+    },
+    {
+      "date": "1988-04-16",
+      "rank": 37
+    },
+    {
+      "date": "1988-04-23",
+      "rank": 38
+    },
+    {
+      "date": "1988-04-30",
+      "rank": 51
+    },
+    {
+      "date": "1988-05-07",
+      "rank": 62
+    },
+    {
+      "date": "1988-05-14",
+      "rank": 73
+    },
+    {
+      "date": "1988-05-21",
+      "rank": 79
+    },
+    {
+      "date": "1988-05-28",
+      "rank": 88
+    },
+    {
+      "date": "1988-06-04",
+      "rank": 129
+    },
+    {
+      "date": "1988-06-11",
+      "rank": 139
+    },
+    {
+      "date": "1988-06-18",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "This Is Love",
+      "id": "this-song-george-harrison"
+    },
+    {
+      "title": "When We Was Fab",
+      "id": "when-we-was-fab-george-harrison"
+    },
+    {
+      "title": "Got My Mind Set on You",
+      "id": "got-my-mind-set-on-you-george-harrison"
+    },
+    {
+      "title": "Cloud 9",
+      "id": null
+    },
+    {
+      "title": "That’s What It Takes",
+      "id": null
+    },
+    {
+      "title": "Fish on the Sand",
+      "id": null
+    },
+    {
+      "title": "Just for Today",
+      "id": null
+    },
+    {
+      "title": "Devil’s Radio",
+      "id": null
+    },
+    {
+      "title": "Someplace Else",
+      "id": null
+    },
+    {
+      "title": "Wreck of the Hesperus",
+      "id": null
+    },
+    {
+      "title": "Breath Away From Heaven",
+      "id": null
+    }
+  ]
+}
