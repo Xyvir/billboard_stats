@@ -1,1 +1,58 @@
-{"id": "interview-gentle-giant", "title": "Interview", "artist": "Gentle Giant", "peak": 137, "history": [{"date": "1976-05-29", "rank": 149}, {"date": "1976-06-05", "rank": 137}, {"date": "1976-06-12", "rank": 137}, {"date": "1976-06-19", "rank": 137}, {"date": "1976-06-26", "rank": 166}]}
+{
+  "id": "interview-gentle-giant",
+  "title": "Interview",
+  "artist": "Gentle Giant",
+  "peak": 137,
+  "history": [
+    {
+      "date": "1976-05-29",
+      "rank": 149
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 137
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 137
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 137
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Interview (original 1976 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Give It Back",
+      "id": null
+    },
+    {
+      "title": "Design",
+      "id": null
+    },
+    {
+      "title": "Another Show",
+      "id": null
+    },
+    {
+      "title": "Empty City",
+      "id": null
+    },
+    {
+      "title": "Timing",
+      "id": null
+    },
+    {
+      "title": "I Lost My Head",
+      "id": null
+    }
+  ]
+}
