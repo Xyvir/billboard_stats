@@ -1,1 +1,74 @@
-{"id": "los-dioses-anuel-aa-ozuna", "title": "Los Dioses", "artist": "Anuel AA & Ozuna", "peak": 10, "history": [{"date": "2021-02-06", "rank": 10}, {"date": "2021-02-13", "rank": 39}, {"date": "2021-02-20", "rank": 104}, {"date": "2021-02-27", "rank": 161}]}
+{
+  "id": "los-dioses-anuel-aa-ozuna",
+  "title": "Los Dioses",
+  "artist": "Anuel AA & Ozuna",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2021-02-06",
+      "rank": 10
+    },
+    {
+      "date": "2021-02-13",
+      "rank": 39
+    },
+    {
+      "date": "2021-02-20",
+      "rank": 104
+    },
+    {
+      "date": "2021-02-27",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Antes",
+      "id": "antes-anuel-aa-ozuna"
+    },
+    {
+      "title": "Los Dioses",
+      "id": null
+    },
+    {
+      "title": "100",
+      "id": null
+    },
+    {
+      "title": "Dime tú",
+      "id": null
+    },
+    {
+      "title": "RD",
+      "id": null
+    },
+    {
+      "title": "Nena buena",
+      "id": null
+    },
+    {
+      "title": "Contra el mundo",
+      "id": null
+    },
+    {
+      "title": "Perreo",
+      "id": null
+    },
+    {
+      "title": "Perfecto",
+      "id": null
+    },
+    {
+      "title": "La María",
+      "id": null
+    },
+    {
+      "title": "Nunca",
+      "id": null
+    },
+    {
+      "title": "Municiones",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"id": "lost-americana-mgk", "title": "Lost Americana", "artist": "MGK", "peak": 4, "history": [{"date": "2025-08-23", "rank": 4}, {"date": "2025-08-30", "rank": 39}, {"date": "2025-09-06", "rank": 125}, {"date": "2025-09-13", "rank": 179}]}
+{
+  "id": "lost-americana-mgk",
+  "title": "Lost Americana",
+  "artist": "MGK",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2025-08-23",
+      "rank": 4
+    },
+    {
+      "date": "2025-08-30",
+      "rank": 39
+    },
+    {
+      "date": "2025-09-06",
+      "rank": 125
+    },
+    {
+      "date": "2025-09-13",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "cliché",
+      "id": "cliche-mgk"
+    },
+    {
+      "title": "outlaw overture",
+      "id": null
+    },
+    {
+      "title": "dont wait run fast",
+      "id": null
+    },
+    {
+      "title": "goddamn",
+      "id": null
+    },
+    {
+      "title": "vampire diaries",
+      "id": null
+    },
+    {
+      "title": "miss sunshine",
+      "id": null
+    },
+    {
+      "title": "sweet coraline",
+      "id": null
+    },
+    {
+      "title": "indigo",
+      "id": null
+    },
+    {
+      "title": "starman",
+      "id": null
+    },
+    {
+      "title": "tell me what’s up",
+      "id": null
+    },
+    {
+      "title": "can’t stay here",
+      "id": null
+    },
+    {
+      "title": "treading water",
+      "id": null
+    },
+    {
+      "title": "orpheus",
+      "id": null
+    }
+  ]
+}

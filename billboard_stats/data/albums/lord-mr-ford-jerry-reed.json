@@ -1,1 +1,66 @@
-{"id": "lord-mr-ford-jerry-reed", "title": "Lord, Mr. Ford", "artist": "Jerry Reed", "peak": 183, "history": [{"date": "1973-08-11", "rank": 197}, {"date": "1973-08-18", "rank": 188}, {"date": "1973-08-25", "rank": 183}, {"date": "1973-09-01", "rank": 196}]}
+{
+  "id": "lord-mr-ford-jerry-reed",
+  "title": "Lord, Mr. Ford",
+  "artist": "Jerry Reed",
+  "peak": 183,
+  "history": [
+    {
+      "date": "1973-08-11",
+      "rank": 197
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 188
+    },
+    {
+      "date": "1973-08-25",
+      "rank": 183
+    },
+    {
+      "date": "1973-09-01",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lord, Mr. Ford",
+      "id": "lord-mr-ford-jerry-reed"
+    },
+    {
+      "title": "Folsom Prison Blues",
+      "id": null
+    },
+    {
+      "title": "Rainbow Ride",
+      "id": null
+    },
+    {
+      "title": "Two-Timin'",
+      "id": null
+    },
+    {
+      "title": "That Lucky Old Sun (Just Rolled Around Heaven All Day)",
+      "id": null
+    },
+    {
+      "title": "You Can’t Keep Me Here in Tennessee",
+      "id": null
+    },
+    {
+      "title": "The Lady Is a Woman",
+      "id": null
+    },
+    {
+      "title": "Pickie, Pickie, Pickie",
+      "id": null
+    },
+    {
+      "title": "One Sweet Reason",
+      "id": null
+    },
+    {
+      "title": "I’m Gonna Write a Song",
+      "id": null
+    }
+  ]
+}
