@@ -1,1 +1,74 @@
-{"id": "louder-lea-michele", "title": "Louder", "artist": "Lea Michele", "peak": 4, "history": [{"date": "2014-03-22", "rank": 4}, {"date": "2014-03-29", "rank": 32}, {"date": "2014-04-05", "rank": 59}, {"date": "2014-04-12", "rank": 108}, {"date": "2014-04-19", "rank": 166}]}
+{
+  "id": "louder-lea-michele",
+  "title": "Louder",
+  "artist": "Lea Michele",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2014-03-22",
+      "rank": 4
+    },
+    {
+      "date": "2014-03-29",
+      "rank": 32
+    },
+    {
+      "date": "2014-04-05",
+      "rank": 59
+    },
+    {
+      "date": "2014-04-12",
+      "rank": 108
+    },
+    {
+      "date": "2014-04-19",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cannonball",
+      "id": "cannonball-lea-michele"
+    },
+    {
+      "title": "On My Way",
+      "id": null
+    },
+    {
+      "title": "Burn With You",
+      "id": null
+    },
+    {
+      "title": "Battlefield",
+      "id": null
+    },
+    {
+      "title": "You’re Mine",
+      "id": null
+    },
+    {
+      "title": "Thousand Needles",
+      "id": null
+    },
+    {
+      "title": "Louder",
+      "id": null
+    },
+    {
+      "title": "Cue the Rain",
+      "id": null
+    },
+    {
+      "title": "Don’t Let Go",
+      "id": null
+    },
+    {
+      "title": "Empty Handed",
+      "id": null
+    },
+    {
+      "title": "If You Say So",
+      "id": null
+    }
+  ]
+}
