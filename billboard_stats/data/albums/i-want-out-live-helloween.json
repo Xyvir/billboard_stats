@@ -1,1 +1,62 @@
-{"id": "i-want-out-live-helloween", "title": "I Want Out-Live", "artist": "Helloween", "peak": 123, "history": [{"date": "1989-04-22", "rank": 195}, {"date": "1989-04-29", "rank": 155}, {"date": "1989-05-06", "rank": 138}, {"date": "1989-05-13", "rank": 123}, {"date": "1989-05-20", "rank": 123}, {"date": "1989-05-27", "rank": 144}, {"date": "1989-06-03", "rank": 179}]}
+{
+  "id": "i-want-out-live-helloween",
+  "title": "I Want Out-Live",
+  "artist": "Helloween",
+  "peak": 123,
+  "history": [
+    {
+      "date": "1989-04-22",
+      "rank": 195
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 155
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 138
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 123
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 123
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 144
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intro: Happy Helloween / A Little Time",
+      "id": null
+    },
+    {
+      "title": "Dr. Stein",
+      "id": null
+    },
+    {
+      "title": "Future World",
+      "id": null
+    },
+    {
+      "title": "We Got The Right",
+      "id": null
+    },
+    {
+      "title": "I Want Out",
+      "id": null
+    },
+    {
+      "title": "How Many Tears",
+      "id": null
+    }
+  ]
+}

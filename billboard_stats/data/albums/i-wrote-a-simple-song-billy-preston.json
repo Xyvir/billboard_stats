@@ -1,1 +1,154 @@
-{"id": "i-wrote-a-simple-song-billy-preston", "title": "I Wrote A Simple Song", "artist": "Billy Preston", "peak": 32, "history": [{"date": "1972-05-20", "rank": 81}, {"date": "1972-05-27", "rank": 68}, {"date": "1972-06-03", "rank": 58}, {"date": "1972-06-10", "rank": 49}, {"date": "1972-06-17", "rank": 46}, {"date": "1972-06-24", "rank": 42}, {"date": "1972-07-01", "rank": 38}, {"date": "1972-07-08", "rank": 34}, {"date": "1972-07-15", "rank": 34}, {"date": "1972-07-22", "rank": 33}, {"date": "1972-07-29", "rank": 32}, {"date": "1972-08-05", "rank": 34}, {"date": "1972-08-12", "rank": 39}, {"date": "1972-08-19", "rank": 39}, {"date": "1972-08-26", "rank": 44}, {"date": "1972-09-02", "rank": 52}, {"date": "1972-09-09", "rank": 57}, {"date": "1972-09-16", "rank": 71}, {"date": "1972-09-23", "rank": 80}, {"date": "1972-09-30", "rank": 85}, {"date": "1972-10-07", "rank": 98}, {"date": "1972-10-14", "rank": 114}, {"date": "1972-10-21", "rank": 136}, {"date": "1972-10-28", "rank": 143}, {"date": "1972-11-04", "rank": 158}]}
+{
+  "id": "i-wrote-a-simple-song-billy-preston",
+  "title": "I Wrote A Simple Song",
+  "artist": "Billy Preston",
+  "peak": 32,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 81
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 68
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 58
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 49
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 46
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 42
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 38
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 34
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 34
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 33
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 32
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 34
+    },
+    {
+      "date": "1972-08-12",
+      "rank": 39
+    },
+    {
+      "date": "1972-08-19",
+      "rank": 39
+    },
+    {
+      "date": "1972-08-26",
+      "rank": 44
+    },
+    {
+      "date": "1972-09-02",
+      "rank": 52
+    },
+    {
+      "date": "1972-09-09",
+      "rank": 57
+    },
+    {
+      "date": "1972-09-16",
+      "rank": 71
+    },
+    {
+      "date": "1972-09-23",
+      "rank": 80
+    },
+    {
+      "date": "1972-09-30",
+      "rank": 85
+    },
+    {
+      "date": "1972-10-07",
+      "rank": 98
+    },
+    {
+      "date": "1972-10-14",
+      "rank": 114
+    },
+    {
+      "date": "1972-10-21",
+      "rank": 136
+    },
+    {
+      "date": "1972-10-28",
+      "rank": 143
+    },
+    {
+      "date": "1972-11-04",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Wrote a Simple Song",
+      "id": "i-wrote-a-simple-song-billy-preston"
+    },
+    {
+      "title": "Outa‐Space",
+      "id": "outa-space-billy-preston"
+    },
+    {
+      "title": "Should Have Known Better",
+      "id": null
+    },
+    {
+      "title": "John Henry",
+      "id": null
+    },
+    {
+      "title": "Without a Song",
+      "id": null
+    },
+    {
+      "title": "The Bus",
+      "id": null
+    },
+    {
+      "title": "The Looner Tune",
+      "id": null
+    },
+    {
+      "title": "You Done Got Older",
+      "id": null
+    },
+    {
+      "title": "Swing Down Chariot",
+      "id": null
+    },
+    {
+      "title": "God Is Great",
+      "id": null
+    },
+    {
+      "title": "My Country ’tis of Thee",
+      "id": null
+    }
+  ]
+}

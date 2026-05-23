@@ -1,1 +1,154 @@
-{"id": "i-want-to-live-john-denver", "title": "I Want To Live", "artist": "John Denver", "peak": 45, "history": [{"date": "1977-12-03", "rank": 81}, {"date": "1977-12-10", "rank": 71}, {"date": "1977-12-17", "rank": 61}, {"date": "1977-12-24", "rank": 51}, {"date": "1977-12-31", "rank": 51}, {"date": "1978-01-07", "rank": 46}, {"date": "1978-01-14", "rank": 45}, {"date": "1978-01-21", "rank": 54}, {"date": "1978-01-28", "rank": 59}, {"date": "1978-02-04", "rank": 59}, {"date": "1978-02-11", "rank": 85}, {"date": "1978-02-18", "rank": 85}, {"date": "1978-02-25", "rank": 161}, {"date": "1978-03-04", "rank": 189}, {"date": "1978-03-11", "rank": 190}, {"date": "1978-03-18", "rank": 191}, {"date": "1978-04-15", "rank": 130}, {"date": "1978-04-22", "rank": 121}, {"date": "1978-04-29", "rank": 115}, {"date": "1978-05-06", "rank": 105}, {"date": "1978-05-13", "rank": 105}, {"date": "1978-05-20", "rank": 115}, {"date": "1978-05-27", "rank": 164}, {"date": "1978-06-03", "rank": 162}, {"date": "1978-06-10", "rank": 161}]}
+{
+  "id": "i-want-to-live-john-denver",
+  "title": "I Want To Live",
+  "artist": "John Denver",
+  "peak": 45,
+  "history": [
+    {
+      "date": "1977-12-03",
+      "rank": 81
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 71
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 61
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 51
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 51
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 46
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 45
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 54
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 59
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 59
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 85
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 85
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 161
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 189
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 190
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 191
+    },
+    {
+      "date": "1978-04-15",
+      "rank": 130
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 121
+    },
+    {
+      "date": "1978-04-29",
+      "rank": 115
+    },
+    {
+      "date": "1978-05-06",
+      "rank": 105
+    },
+    {
+      "date": "1978-05-13",
+      "rank": 105
+    },
+    {
+      "date": "1978-05-20",
+      "rank": 115
+    },
+    {
+      "date": "1978-05-27",
+      "rank": 164
+    },
+    {
+      "date": "1978-06-03",
+      "rank": 162
+    },
+    {
+      "date": "1978-06-10",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "How Can I Leave You Again",
+      "id": "how-can-i-leave-you-again-john-denver"
+    },
+    {
+      "title": "It Amazes Me",
+      "id": "it-amazes-me-john-denver"
+    },
+    {
+      "title": "I Want to Live",
+      "id": "i-want-to-live-john-denver"
+    },
+    {
+      "title": "Tradewinds",
+      "id": null
+    },
+    {
+      "title": "Bet on the Blues",
+      "id": null
+    },
+    {
+      "title": "To the Wild Country",
+      "id": null
+    },
+    {
+      "title": "Ripplin' Waters",
+      "id": null
+    },
+    {
+      "title": "Thirsty Boots",
+      "id": null
+    },
+    {
+      "title": "Dearest Esmeralda",
+      "id": null
+    },
+    {
+      "title": "Singing Skies and Dancing Waters",
+      "id": null
+    },
+    {
+      "title": "Druthers",
+      "id": null
+    }
+  ]
+}

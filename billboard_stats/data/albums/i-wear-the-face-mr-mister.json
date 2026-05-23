@@ -1,1 +1,78 @@
-{"id": "i-wear-the-face-mr-mister", "title": "I Wear The Face", "artist": "Mr. Mister", "peak": 170, "history": [{"date": "1984-04-14", "rank": 192}, {"date": "1984-04-21", "rank": 186}, {"date": "1984-04-28", "rank": 182}, {"date": "1984-05-05", "rank": 176}, {"date": "1984-05-12", "rank": 175}, {"date": "1984-05-19", "rank": 174}, {"date": "1984-05-26", "rank": 170}]}
+{
+  "id": "i-wear-the-face-mr-mister",
+  "title": "I Wear The Face",
+  "artist": "Mr. Mister",
+  "peak": 170,
+  "history": [
+    {
+      "date": "1984-04-14",
+      "rank": 192
+    },
+    {
+      "date": "1984-04-21",
+      "rank": 186
+    },
+    {
+      "date": "1984-04-28",
+      "rank": 182
+    },
+    {
+      "date": "1984-05-05",
+      "rank": 176
+    },
+    {
+      "date": "1984-05-12",
+      "rank": 175
+    },
+    {
+      "date": "1984-05-19",
+      "rank": 174
+    },
+    {
+      "date": "1984-05-26",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hunters of the Night",
+      "id": "hunters-of-the-night-mr-mister"
+    },
+    {
+      "title": "Code of Love",
+      "id": null
+    },
+    {
+      "title": "Partners in Crime",
+      "id": null
+    },
+    {
+      "title": "32",
+      "id": null
+    },
+    {
+      "title": "Runaway",
+      "id": null
+    },
+    {
+      "title": "Talk the Talk",
+      "id": null
+    },
+    {
+      "title": "I’ll Let You Drive",
+      "id": null
+    },
+    {
+      "title": "I Get Lost Sometimes",
+      "id": null
+    },
+    {
+      "title": "I Wear the Face",
+      "id": null
+    },
+    {
+      "title": "Life Goes On",
+      "id": null
+    }
+  ]
+}

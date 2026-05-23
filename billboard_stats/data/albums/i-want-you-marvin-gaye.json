@@ -1,1 +1,162 @@
-{"id": "i-want-you-marvin-gaye", "title": "I Want You", "artist": "Marvin Gaye", "peak": 4, "history": [{"date": "1976-04-03", "rank": 72}, {"date": "1976-04-10", "rank": 25}, {"date": "1976-04-17", "rank": 20}, {"date": "1976-04-24", "rank": 12}, {"date": "1976-05-01", "rank": 7}, {"date": "1976-05-08", "rank": 5}, {"date": "1976-05-15", "rank": 5}, {"date": "1976-05-22", "rank": 5}, {"date": "1976-05-29", "rank": 5}, {"date": "1976-06-05", "rank": 4}, {"date": "1976-06-12", "rank": 15}, {"date": "1976-06-19", "rank": 15}, {"date": "1976-06-26", "rank": 16}, {"date": "1976-07-03", "rank": 26}, {"date": "1976-07-10", "rank": 35}, {"date": "1976-07-17", "rank": 36}, {"date": "1976-07-24", "rank": 67}, {"date": "1976-07-31", "rank": 67}, {"date": "1976-08-07", "rank": 87}, {"date": "1976-08-14", "rank": 90}, {"date": "1976-08-21", "rank": 89}, {"date": "1976-08-28", "rank": 89}, {"date": "1976-09-04", "rank": 89}, {"date": "1976-09-11", "rank": 88}, {"date": "1976-09-18", "rank": 167}, {"date": "1976-09-25", "rank": 160}, {"date": "1984-05-12", "rank": 186}, {"date": "1984-05-19", "rank": 183}]}
+{
+  "id": "i-want-you-marvin-gaye",
+  "title": "I Want You",
+  "artist": "Marvin Gaye",
+  "peak": 4,
+  "history": [
+    {
+      "date": "1976-04-03",
+      "rank": 72
+    },
+    {
+      "date": "1976-04-10",
+      "rank": 25
+    },
+    {
+      "date": "1976-04-17",
+      "rank": 20
+    },
+    {
+      "date": "1976-04-24",
+      "rank": 12
+    },
+    {
+      "date": "1976-05-01",
+      "rank": 7
+    },
+    {
+      "date": "1976-05-08",
+      "rank": 5
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 5
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 5
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 5
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 4
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 15
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 15
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 16
+    },
+    {
+      "date": "1976-07-03",
+      "rank": 26
+    },
+    {
+      "date": "1976-07-10",
+      "rank": 35
+    },
+    {
+      "date": "1976-07-17",
+      "rank": 36
+    },
+    {
+      "date": "1976-07-24",
+      "rank": 67
+    },
+    {
+      "date": "1976-07-31",
+      "rank": 67
+    },
+    {
+      "date": "1976-08-07",
+      "rank": 87
+    },
+    {
+      "date": "1976-08-14",
+      "rank": 90
+    },
+    {
+      "date": "1976-08-21",
+      "rank": 89
+    },
+    {
+      "date": "1976-08-28",
+      "rank": 89
+    },
+    {
+      "date": "1976-09-04",
+      "rank": 89
+    },
+    {
+      "date": "1976-09-11",
+      "rank": 88
+    },
+    {
+      "date": "1976-09-18",
+      "rank": 167
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 160
+    },
+    {
+      "date": "1984-05-12",
+      "rank": 186
+    },
+    {
+      "date": "1984-05-19",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Want You (vocal)",
+      "id": "i-want-you-marvin-gaye"
+    },
+    {
+      "title": "After the Dance (instrumental)",
+      "id": "after-the-dance-marvin-gaye"
+    },
+    {
+      "title": "I Want You (intro jam)",
+      "id": "i-want-you-marvin-gaye"
+    },
+    {
+      "title": "After the Dance (vocal)",
+      "id": "after-the-dance-marvin-gaye"
+    },
+    {
+      "title": "Come Live With Me Angel",
+      "id": null
+    },
+    {
+      "title": "Feel All My Love Inside",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be Where You Are",
+      "id": null
+    },
+    {
+      "title": "All the Way Around",
+      "id": null
+    },
+    {
+      "title": "Since I Had You",
+      "id": null
+    },
+    {
+      "title": "Soon I’ll Be Loving You Again",
+      "id": null
+    }
+  ]
+}
