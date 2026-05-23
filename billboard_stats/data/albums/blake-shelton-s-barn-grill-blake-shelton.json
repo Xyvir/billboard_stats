@@ -1,1 +1,262 @@
-{"id": "blake-shelton-s-barn-grill-blake-shelton", "title": "Blake Shelton's Barn & Grill", "artist": "Blake Shelton", "peak": 20, "history": [{"date": "2004-11-13", "rank": 20}, {"date": "2004-11-20", "rank": 46}, {"date": "2004-11-27", "rank": 85}, {"date": "2004-12-04", "rank": 97}, {"date": "2004-12-11", "rank": 115}, {"date": "2004-12-18", "rank": 101}, {"date": "2004-12-25", "rank": 106}, {"date": "2005-01-01", "rank": 109}, {"date": "2005-01-08", "rank": 119}, {"date": "2005-01-15", "rank": 152}, {"date": "2005-01-22", "rank": 124}, {"date": "2005-01-29", "rank": 114}, {"date": "2005-02-05", "rank": 128}, {"date": "2005-02-12", "rank": 123}, {"date": "2005-02-19", "rank": 135}, {"date": "2005-02-26", "rank": 144}, {"date": "2005-03-05", "rank": 169}, {"date": "2005-03-12", "rank": 187}, {"date": "2005-03-19", "rank": 153}, {"date": "2005-03-26", "rank": 130}, {"date": "2005-04-02", "rank": 137}, {"date": "2005-04-09", "rank": 142}, {"date": "2005-04-16", "rank": 130}, {"date": "2005-04-23", "rank": 127}, {"date": "2005-04-30", "rank": 103}, {"date": "2005-05-07", "rank": 109}, {"date": "2005-05-14", "rank": 109}, {"date": "2005-05-21", "rank": 116}, {"date": "2005-05-28", "rank": 118}, {"date": "2005-06-04", "rank": 90}, {"date": "2005-06-11", "rank": 103}, {"date": "2005-06-18", "rank": 106}, {"date": "2005-06-25", "rank": 113}, {"date": "2005-07-02", "rank": 101}, {"date": "2005-07-09", "rank": 120}, {"date": "2005-07-16", "rank": 118}, {"date": "2005-07-23", "rank": 104}, {"date": "2005-07-30", "rank": 103}, {"date": "2005-08-06", "rank": 96}, {"date": "2005-08-13", "rank": 125}, {"date": "2005-08-20", "rank": 124}, {"date": "2005-08-27", "rank": 154}, {"date": "2005-09-03", "rank": 171}, {"date": "2005-09-10", "rank": 193}, {"date": "2005-09-24", "rank": 190}, {"date": "2005-10-01", "rank": 185}, {"date": "2005-10-08", "rank": 200}, {"date": "2006-03-04", "rank": 191}, {"date": "2006-03-11", "rank": 197}, {"date": "2006-03-18", "rank": 195}, {"date": "2006-04-08", "rank": 199}, {"date": "2006-04-15", "rank": 198}]}
+{
+  "id": "blake-shelton-s-barn-grill-blake-shelton",
+  "title": "Blake Shelton's Barn & Grill",
+  "artist": "Blake Shelton",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2004-11-13",
+      "rank": 20
+    },
+    {
+      "date": "2004-11-20",
+      "rank": 46
+    },
+    {
+      "date": "2004-11-27",
+      "rank": 85
+    },
+    {
+      "date": "2004-12-04",
+      "rank": 97
+    },
+    {
+      "date": "2004-12-11",
+      "rank": 115
+    },
+    {
+      "date": "2004-12-18",
+      "rank": 101
+    },
+    {
+      "date": "2004-12-25",
+      "rank": 106
+    },
+    {
+      "date": "2005-01-01",
+      "rank": 109
+    },
+    {
+      "date": "2005-01-08",
+      "rank": 119
+    },
+    {
+      "date": "2005-01-15",
+      "rank": 152
+    },
+    {
+      "date": "2005-01-22",
+      "rank": 124
+    },
+    {
+      "date": "2005-01-29",
+      "rank": 114
+    },
+    {
+      "date": "2005-02-05",
+      "rank": 128
+    },
+    {
+      "date": "2005-02-12",
+      "rank": 123
+    },
+    {
+      "date": "2005-02-19",
+      "rank": 135
+    },
+    {
+      "date": "2005-02-26",
+      "rank": 144
+    },
+    {
+      "date": "2005-03-05",
+      "rank": 169
+    },
+    {
+      "date": "2005-03-12",
+      "rank": 187
+    },
+    {
+      "date": "2005-03-19",
+      "rank": 153
+    },
+    {
+      "date": "2005-03-26",
+      "rank": 130
+    },
+    {
+      "date": "2005-04-02",
+      "rank": 137
+    },
+    {
+      "date": "2005-04-09",
+      "rank": 142
+    },
+    {
+      "date": "2005-04-16",
+      "rank": 130
+    },
+    {
+      "date": "2005-04-23",
+      "rank": 127
+    },
+    {
+      "date": "2005-04-30",
+      "rank": 103
+    },
+    {
+      "date": "2005-05-07",
+      "rank": 109
+    },
+    {
+      "date": "2005-05-14",
+      "rank": 109
+    },
+    {
+      "date": "2005-05-21",
+      "rank": 116
+    },
+    {
+      "date": "2005-05-28",
+      "rank": 118
+    },
+    {
+      "date": "2005-06-04",
+      "rank": 90
+    },
+    {
+      "date": "2005-06-11",
+      "rank": 103
+    },
+    {
+      "date": "2005-06-18",
+      "rank": 106
+    },
+    {
+      "date": "2005-06-25",
+      "rank": 113
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 101
+    },
+    {
+      "date": "2005-07-09",
+      "rank": 120
+    },
+    {
+      "date": "2005-07-16",
+      "rank": 118
+    },
+    {
+      "date": "2005-07-23",
+      "rank": 104
+    },
+    {
+      "date": "2005-07-30",
+      "rank": 103
+    },
+    {
+      "date": "2005-08-06",
+      "rank": 96
+    },
+    {
+      "date": "2005-08-13",
+      "rank": 125
+    },
+    {
+      "date": "2005-08-20",
+      "rank": 124
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 154
+    },
+    {
+      "date": "2005-09-03",
+      "rank": 171
+    },
+    {
+      "date": "2005-09-10",
+      "rank": 193
+    },
+    {
+      "date": "2005-09-24",
+      "rank": 190
+    },
+    {
+      "date": "2005-10-01",
+      "rank": 185
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 200
+    },
+    {
+      "date": "2006-03-04",
+      "rank": 191
+    },
+    {
+      "date": "2006-03-11",
+      "rank": 197
+    },
+    {
+      "date": "2006-03-18",
+      "rank": 195
+    },
+    {
+      "date": "2006-04-08",
+      "rank": 199
+    },
+    {
+      "date": "2006-04-15",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Some Beach",
+      "id": "some-beach-blake-shelton"
+    },
+    {
+      "title": "Nobody but Me",
+      "id": "nobody-but-me-blake-shelton"
+    },
+    {
+      "title": "Goodbye Time",
+      "id": "goodbye-time-blake-shelton"
+    },
+    {
+      "title": "Good Old Boy, Bad Old Boyfriend",
+      "id": null
+    },
+    {
+      "title": "Love Gets in the Way",
+      "id": null
+    },
+    {
+      "title": "Cotton Pickin’ Time",
+      "id": null
+    },
+    {
+      "title": "What’s on My Mind",
+      "id": null
+    },
+    {
+      "title": "When Somebody Knows You That Well",
+      "id": null
+    },
+    {
+      "title": "On a Good Day",
+      "id": null
+    },
+    {
+      "title": "The Bartender",
+      "id": null
+    },
+    {
+      "title": "I Drink",
+      "id": null
+    }
+  ]
+}
