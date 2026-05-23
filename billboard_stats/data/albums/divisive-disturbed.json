@@ -1,1 +1,58 @@
-{"id": "divisive-disturbed", "title": "Divisive", "artist": "Disturbed", "peak": 13, "history": [{"date": "2022-12-03", "rank": 13}, {"date": "2022-12-10", "rank": 186}]}
+{
+  "id": "divisive-disturbed",
+  "title": "Divisive",
+  "artist": "Disturbed",
+  "peak": 13,
+  "history": [
+    {
+      "date": "2022-12-03",
+      "rank": 13
+    },
+    {
+      "date": "2022-12-10",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Feeding the Fire",
+      "id": "inside-the-fire-disturbed"
+    },
+    {
+      "title": "Hey You",
+      "id": null
+    },
+    {
+      "title": "Bad Man",
+      "id": null
+    },
+    {
+      "title": "Divisive",
+      "id": null
+    },
+    {
+      "title": "Unstoppable",
+      "id": null
+    },
+    {
+      "title": "Love to Hate",
+      "id": null
+    },
+    {
+      "title": "Don’t Tell Me",
+      "id": null
+    },
+    {
+      "title": "Take Back Your Life",
+      "id": null
+    },
+    {
+      "title": "Part of Me",
+      "id": null
+    },
+    {
+      "title": "Won’t Back Down",
+      "id": null
+    }
+  ]
+}

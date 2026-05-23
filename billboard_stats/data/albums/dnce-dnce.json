@@ -1,1 +1,102 @@
-{"id": "dnce-dnce", "title": "DNCE", "artist": "DNCE", "peak": 17, "history": [{"date": "2016-12-10", "rank": 17}, {"date": "2016-12-17", "rank": 101}, {"date": "2017-01-21", "rank": 97}, {"date": "2017-01-28", "rank": 190}, {"date": "2017-03-11", "rank": 90}]}
+{
+  "id": "dnce-dnce",
+  "title": "DNCE",
+  "artist": "DNCE",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2016-12-10",
+      "rank": 17
+    },
+    {
+      "date": "2016-12-17",
+      "rank": 101
+    },
+    {
+      "date": "2017-01-21",
+      "rank": 97
+    },
+    {
+      "date": "2017-01-28",
+      "rank": 190
+    },
+    {
+      "date": "2017-03-11",
+      "rank": 90
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cake by the Ocean",
+      "id": "cake-by-the-ocean-dnce"
+    },
+    {
+      "title": "Toothbrush",
+      "id": "toothbrush-dnce"
+    },
+    {
+      "title": "DNCE",
+      "id": null
+    },
+    {
+      "title": "Body Moves",
+      "id": null
+    },
+    {
+      "title": "Doctor You",
+      "id": null
+    },
+    {
+      "title": "Blown",
+      "id": null
+    },
+    {
+      "title": "Good Day",
+      "id": null
+    },
+    {
+      "title": "Almost",
+      "id": null
+    },
+    {
+      "title": "Naked",
+      "id": null
+    },
+    {
+      "title": "Truthfully",
+      "id": null
+    },
+    {
+      "title": "Be Mean",
+      "id": null
+    },
+    {
+      "title": "Zoom",
+      "id": null
+    },
+    {
+      "title": "Pay My Rent",
+      "id": null
+    },
+    {
+      "title": "Unsweet",
+      "id": null
+    },
+    {
+      "title": "Jinx",
+      "id": null
+    },
+    {
+      "title": "Kissing Strangers",
+      "id": null
+    },
+    {
+      "title": "Good Day (End of the World remix)",
+      "id": null
+    },
+    {
+      "title": "Hollow",
+      "id": null
+    }
+  ]
+}

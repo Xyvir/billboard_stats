@@ -1,1 +1,82 @@
-{"id": "d-n-a-mario", "title": "D.N.A.", "artist": "Mario", "peak": 9, "history": [{"date": "2009-10-31", "rank": 9}, {"date": "2009-11-07", "rank": 40}, {"date": "2009-11-14", "rank": 62}, {"date": "2009-11-21", "rank": 98}, {"date": "2009-11-28", "rank": 118}, {"date": "2009-12-05", "rank": 169}]}
+{
+  "id": "d-n-a-mario",
+  "title": "D.N.A.",
+  "artist": "Mario",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2009-10-31",
+      "rank": 9
+    },
+    {
+      "date": "2009-11-07",
+      "rank": 40
+    },
+    {
+      "date": "2009-11-14",
+      "rank": 62
+    },
+    {
+      "date": "2009-11-21",
+      "rank": 98
+    },
+    {
+      "date": "2009-11-28",
+      "rank": 118
+    },
+    {
+      "date": "2009-12-05",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Oh Baby",
+      "id": "ooh-baby-mario"
+    },
+    {
+      "title": "Break Up (radio edit)",
+      "id": null
+    },
+    {
+      "title": "Thinkin About You",
+      "id": null
+    },
+    {
+      "title": "Get Out",
+      "id": null
+    },
+    {
+      "title": "Soundtrack to My Broken Heart",
+      "id": null
+    },
+    {
+      "title": "Starlight",
+      "id": null
+    },
+    {
+      "title": "Stranded",
+      "id": null
+    },
+    {
+      "title": "Before She Said Hi",
+      "id": null
+    },
+    {
+      "title": "I Choose You",
+      "id": null
+    },
+    {
+      "title": "Don't Walk Away",
+      "id": null
+    },
+    {
+      "title": "I Miss My Friend",
+      "id": null
+    },
+    {
+      "title": "The Hardest Moment",
+      "id": null
+    }
+  ]
+}

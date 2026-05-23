@@ -1,1 +1,82 @@
-{"id": "dna-backstreet-boys", "title": "DNA", "artist": "Backstreet Boys", "peak": 1, "history": [{"date": "2019-02-09", "rank": 1}, {"date": "2019-02-16", "rank": 24}, {"date": "2019-02-23", "rank": 34}, {"date": "2019-03-02", "rank": 111}, {"date": "2019-03-09", "rank": 152}, {"date": "2019-08-24", "rank": 200}]}
+{
+  "id": "dna-backstreet-boys",
+  "title": "DNA",
+  "artist": "Backstreet Boys",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2019-02-09",
+      "rank": 1
+    },
+    {
+      "date": "2019-02-16",
+      "rank": 24
+    },
+    {
+      "date": "2019-02-23",
+      "rank": 34
+    },
+    {
+      "date": "2019-03-02",
+      "rank": 111
+    },
+    {
+      "date": "2019-03-09",
+      "rank": 152
+    },
+    {
+      "date": "2019-08-24",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Go Breaking My Heart",
+      "id": "don-t-go-breaking-my-heart-backstreet-boys"
+    },
+    {
+      "title": "Nobody Else",
+      "id": null
+    },
+    {
+      "title": "Breathe",
+      "id": null
+    },
+    {
+      "title": "New Love",
+      "id": null
+    },
+    {
+      "title": "Passionate",
+      "id": null
+    },
+    {
+      "title": "Is It Just Me",
+      "id": null
+    },
+    {
+      "title": "Chances",
+      "id": null
+    },
+    {
+      "title": "No Place",
+      "id": null
+    },
+    {
+      "title": "Chateau",
+      "id": null
+    },
+    {
+      "title": "The Way It Was",
+      "id": null
+    },
+    {
+      "title": "Just Like You Like It",
+      "id": null
+    },
+    {
+      "title": "OK",
+      "id": null
+    }
+  ]
+}
