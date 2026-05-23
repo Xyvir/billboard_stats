@@ -1,1 +1,98 @@
-{"id": "kookoo-debbie-harry", "title": "Kookoo", "artist": "Debbie Harry", "peak": 25, "history": [{"date": "1981-08-29", "rank": 51}, {"date": "1981-09-05", "rank": 31}, {"date": "1981-09-12", "rank": 28}, {"date": "1981-09-19", "rank": 26}, {"date": "1981-09-26", "rank": 25}, {"date": "1981-10-03", "rank": 42}, {"date": "1981-10-10", "rank": 57}, {"date": "1981-10-17", "rank": 57}, {"date": "1981-10-24", "rank": 59}, {"date": "1981-10-31", "rank": 74}, {"date": "1981-11-07", "rank": 132}, {"date": "1981-11-14", "rank": 162}]}
+{
+  "id": "kookoo-debbie-harry",
+  "title": "Kookoo",
+  "artist": "Debbie Harry",
+  "peak": 25,
+  "history": [
+    {
+      "date": "1981-08-29",
+      "rank": 51
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 31
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 28
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 26
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 25
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 42
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 57
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 57
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 59
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 74
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 132
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Jam Was Moving",
+      "id": "the-jam-was-moving-debbie-harry"
+    },
+    {
+      "title": "Backfired",
+      "id": "backfired-debbie-harry"
+    },
+    {
+      "title": "Jump Jump",
+      "id": null
+    },
+    {
+      "title": "Chrome",
+      "id": null
+    },
+    {
+      "title": "Surrender",
+      "id": null
+    },
+    {
+      "title": "Inner City Spillover",
+      "id": null
+    },
+    {
+      "title": "Now I Know You Know",
+      "id": null
+    },
+    {
+      "title": "Under Arrest",
+      "id": null
+    },
+    {
+      "title": "Military Rap",
+      "id": null
+    },
+    {
+      "title": "Oasis",
+      "id": null
+    }
+  ]
+}

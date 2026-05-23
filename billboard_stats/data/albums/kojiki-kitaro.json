@@ -1,1 +1,58 @@
-{"id": "kojiki-kitaro", "title": "Kojiki", "artist": "Kitaro", "peak": 159, "history": [{"date": "1990-05-12", "rank": 184}, {"date": "1990-05-19", "rank": 167}, {"date": "1990-05-26", "rank": 171}, {"date": "1990-06-02", "rank": 159}, {"date": "1990-06-09", "rank": 198}]}
+{
+  "id": "kojiki-kitaro",
+  "title": "Kojiki",
+  "artist": "Kitaro",
+  "peak": 159,
+  "history": [
+    {
+      "date": "1990-05-12",
+      "rank": 184
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 167
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 171
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 159
+    },
+    {
+      "date": "1990-06-09",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hajimari",
+      "id": null
+    },
+    {
+      "title": "Sozo",
+      "id": null
+    },
+    {
+      "title": "Koi",
+      "id": null
+    },
+    {
+      "title": "Orochi",
+      "id": null
+    },
+    {
+      "title": "Nageki",
+      "id": null
+    },
+    {
+      "title": "Matsuri",
+      "id": null
+    },
+    {
+      "title": "Reimei",
+      "id": null
+    }
+  ]
+}

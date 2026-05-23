@@ -1,1 +1,82 @@
-{"id": "kool-jazz-kool-the-gang", "title": "Kool Jazz", "artist": "Kool & The Gang", "peak": 187, "history": [{"date": "1974-01-12", "rank": 191}, {"date": "1974-01-19", "rank": 187}, {"date": "1974-01-26", "rank": 187}, {"date": "1974-02-02", "rank": 190}]}
+{
+  "id": "kool-jazz-kool-the-gang",
+  "title": "Kool Jazz",
+  "artist": "Kool & The Gang",
+  "peak": 187,
+  "history": [
+    {
+      "date": "1974-01-12",
+      "rank": 191
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 187
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 187
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Free",
+      "id": "fresh-kool-the-gang"
+    },
+    {
+      "title": "Breeze and Soul",
+      "id": null
+    },
+    {
+      "title": "Sea of Tranquility",
+      "id": null
+    },
+    {
+      "title": "Sombrero Sam",
+      "id": null
+    },
+    {
+      "title": "Lucky for Me",
+      "id": null
+    },
+    {
+      "title": "Dujii",
+      "id": null
+    },
+    {
+      "title": "Stop, Look, Listen (to Your Heart) / Blowin’ in the Wind, Pts. 1 & 2",
+      "id": null
+    },
+    {
+      "title": "North, East, South, West",
+      "id": null
+    },
+    {
+      "title": "I Remember John W. Coltrane",
+      "id": null
+    },
+    {
+      "title": "Wild and Peaceful",
+      "id": null
+    },
+    {
+      "title": "Winter Sadness",
+      "id": null
+    },
+    {
+      "title": "Summer Madness",
+      "id": null
+    },
+    {
+      "title": "Universal Sound",
+      "id": null
+    },
+    {
+      "title": "Messenger of Wisdom",
+      "id": null
+    }
+  ]
+}
