@@ -1,1 +1,70 @@
-{"id": "comeblack-scorpions", "title": "Comeblack", "artist": "Scorpions", "peak": 90, "history": [{"date": "2012-02-11", "rank": 90}]}
+{
+  "id": "comeblack-scorpions",
+  "title": "Comeblack",
+  "artist": "Scorpions",
+  "peak": 90,
+  "history": [
+    {
+      "date": "2012-02-11",
+      "rank": 90
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rhythm of Love",
+      "id": "rhythm-of-love-scorpions"
+    },
+    {
+      "title": "No One Like You",
+      "id": "no-one-like-you-scorpions"
+    },
+    {
+      "title": "Rock You Like a Hurricane",
+      "id": "rock-you-like-a-hurricane-scorpions"
+    },
+    {
+      "title": "Wind of Change",
+      "id": "wind-of-change-scorpions"
+    },
+    {
+      "title": "Still Loving You",
+      "id": "still-loving-you-scorpions"
+    },
+    {
+      "title": "Still Loving You (Je t’aime encore)",
+      "id": "still-loving-you-scorpions"
+    },
+    {
+      "title": "The Zoo",
+      "id": null
+    },
+    {
+      "title": "Blackout",
+      "id": null
+    },
+    {
+      "title": "Tainted Love",
+      "id": null
+    },
+    {
+      "title": "Children of the Revolution",
+      "id": null
+    },
+    {
+      "title": "Across the Universe",
+      "id": null
+    },
+    {
+      "title": "Tin Soldier",
+      "id": null
+    },
+    {
+      "title": "All Day and All of the Night",
+      "id": null
+    },
+    {
+      "title": "Ruby Tuesday",
+      "id": null
+    }
+  ]
+}
