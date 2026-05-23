@@ -1,1 +1,82 @@
-{"id": "blonde-on-blonde-bob-dylan", "title": "Blonde On Blonde", "artist": "Bob Dylan", "peak": 165, "history": [{"date": "1975-02-22", "rank": 171}, {"date": "1975-03-01", "rank": 165}, {"date": "1975-03-08", "rank": 169}, {"date": "1975-03-15", "rank": 175}]}
+{
+  "id": "blonde-on-blonde-bob-dylan",
+  "title": "Blonde On Blonde",
+  "artist": "Bob Dylan",
+  "peak": 165,
+  "history": [
+    {
+      "date": "1975-02-22",
+      "rank": 171
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 165
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 169
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rainy Day Women #12 & 35",
+      "id": "rainy-day-women-12-35-bob-dylan"
+    },
+    {
+      "title": "I Want You",
+      "id": "i-want-you-bob-dylan"
+    },
+    {
+      "title": "Leopard‐Skin Pill‐Box Hat",
+      "id": "leopard-skin-pill-box-hat-bob-dylan"
+    },
+    {
+      "title": "Just Like a Woman",
+      "id": "just-like-a-woman-bob-dylan"
+    },
+    {
+      "title": "Pledging My Time",
+      "id": null
+    },
+    {
+      "title": "Visions of Johanna",
+      "id": null
+    },
+    {
+      "title": "One of Us Must Know (Sooner or Later)",
+      "id": null
+    },
+    {
+      "title": "Stuck Inside of Mobile With the Memphis Blues Again",
+      "id": null
+    },
+    {
+      "title": "Most Likely You Go Your Way and I’ll Go Mine",
+      "id": null
+    },
+    {
+      "title": "Temporary Like Achilles",
+      "id": null
+    },
+    {
+      "title": "Absolutely Sweet Marie",
+      "id": null
+    },
+    {
+      "title": "4th Time Around",
+      "id": null
+    },
+    {
+      "title": "Obviously Five Believers",
+      "id": null
+    },
+    {
+      "title": "Sad Eyed Lady of the Lowlands",
+      "id": null
+    }
+  ]
+}
