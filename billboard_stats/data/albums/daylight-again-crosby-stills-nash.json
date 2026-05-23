@@ -1,1 +1,258 @@
-{"id": "daylight-again-crosby-stills-nash", "title": "Daylight Again", "artist": "Crosby, Stills & Nash", "peak": 8, "history": [{"date": "1982-07-17", "rank": 51}, {"date": "1982-07-24", "rank": 41}, {"date": "1982-07-31", "rank": 32}, {"date": "1982-08-07", "rank": 10}, {"date": "1982-08-14", "rank": 8}, {"date": "1982-08-21", "rank": 8}, {"date": "1982-08-28", "rank": 8}, {"date": "1982-09-04", "rank": 8}, {"date": "1982-09-11", "rank": 8}, {"date": "1982-09-18", "rank": 11}, {"date": "1982-09-25", "rank": 16}, {"date": "1982-10-02", "rank": 31}, {"date": "1982-10-09", "rank": 31}, {"date": "1982-10-16", "rank": 30}, {"date": "1982-10-23", "rank": 29}, {"date": "1982-10-30", "rank": 27}, {"date": "1982-11-06", "rank": 25}, {"date": "1982-11-13", "rank": 21}, {"date": "1982-11-20", "rank": 18}, {"date": "1982-11-27", "rank": 18}, {"date": "1982-12-04", "rank": 18}, {"date": "1982-12-11", "rank": 16}, {"date": "1982-12-18", "rank": 16}, {"date": "1982-12-25", "rank": 16}, {"date": "1983-01-01", "rank": 16}, {"date": "1983-01-08", "rank": 17}, {"date": "1983-01-15", "rank": 29}, {"date": "1983-01-22", "rank": 29}, {"date": "1983-01-29", "rank": 29}, {"date": "1983-02-05", "rank": 29}, {"date": "1983-02-12", "rank": 39}, {"date": "1983-02-19", "rank": 39}, {"date": "1983-02-26", "rank": 44}, {"date": "1983-03-05", "rank": 74}, {"date": "1983-03-12", "rank": 92}, {"date": "1983-03-19", "rank": 113}, {"date": "1983-03-26", "rank": 136}, {"date": "1983-04-02", "rank": 167}, {"date": "1983-04-09", "rank": 167}, {"date": "1983-04-16", "rank": 167}, {"date": "1983-04-23", "rank": 198}]}
+{
+  "id": "daylight-again-crosby-stills-nash",
+  "title": "Daylight Again",
+  "artist": "Crosby, Stills & Nash",
+  "peak": 8,
+  "history": [
+    {
+      "date": "1982-07-17",
+      "rank": 51
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 41
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 32
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 10
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 8
+    },
+    {
+      "date": "1982-08-21",
+      "rank": 8
+    },
+    {
+      "date": "1982-08-28",
+      "rank": 8
+    },
+    {
+      "date": "1982-09-04",
+      "rank": 8
+    },
+    {
+      "date": "1982-09-11",
+      "rank": 8
+    },
+    {
+      "date": "1982-09-18",
+      "rank": 11
+    },
+    {
+      "date": "1982-09-25",
+      "rank": 16
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 31
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 31
+    },
+    {
+      "date": "1982-10-16",
+      "rank": 30
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 29
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 27
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 25
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 21
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 18
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 18
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 18
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 16
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 16
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 16
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 16
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 17
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 29
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 29
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 29
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 29
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 39
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 39
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 44
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 74
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 92
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 113
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 136
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 167
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 167
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 167
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Just A Song Before I Go",
+      "id": "just-a-song-before-i-go-crosby-stills-nash"
+    },
+    {
+      "title": "Wasted On The Way",
+      "id": "wasted-on-the-way-crosby-stills-nash"
+    },
+    {
+      "title": "Suite: Judy Blue Eyes",
+      "id": "suite-judy-blue-eyes-crosby-stills-nash"
+    },
+    {
+      "title": "Southern Cross",
+      "id": "southern-cross-crosby-stills-nash"
+    },
+    {
+      "title": "Turn Your Back On Love",
+      "id": null
+    },
+    {
+      "title": "Chicago",
+      "id": null
+    },
+    {
+      "title": "Wooden Ships",
+      "id": null
+    },
+    {
+      "title": "Dark Star",
+      "id": null
+    },
+    {
+      "title": "Barrel Of Pain",
+      "id": null
+    },
+    {
+      "title": "To The Last Whale... - A. Crtitical Mass - B. Wind On The Water",
+      "id": null
+    },
+    {
+      "title": "You Don't Have To Cry",
+      "id": null
+    },
+    {
+      "title": "Blackbird",
+      "id": null
+    },
+    {
+      "title": "Delta",
+      "id": null
+    },
+    {
+      "title": "Treetop Flyer",
+      "id": null
+    },
+    {
+      "title": "Magical Child",
+      "id": null
+    },
+    {
+      "title": "Cathedral",
+      "id": null
+    },
+    {
+      "title": "Long Time GOne",
+      "id": null
+    },
+    {
+      "title": "For What It's Worth",
+      "id": null
+    },
+    {
+      "title": "Love The One You're With",
+      "id": null
+    },
+    {
+      "title": "Teach Your Children",
+      "id": null
+    },
+    {
+      "title": "Daylight Again",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "david-foster-david-foster", "title": "David Foster", "artist": "David Foster", "peak": 195, "history": [{"date": "1986-07-19", "rank": 195}, {"date": "1986-07-26", "rank": 195}, {"date": "1986-08-02", "rank": 200}]}
+{
+  "id": "david-foster-david-foster",
+  "title": "David Foster",
+  "artist": "David Foster",
+  "peak": 195,
+  "history": [
+    {
+      "date": "1986-07-19",
+      "rank": 195
+    },
+    {
+      "date": "1986-07-26",
+      "rank": 195
+    },
+    {
+      "date": "1986-08-02",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Theme From St. Elmo’s Fire (instrumental)",
+      "id": "love-theme-from-st-elmo-s-fire-instrumental-david-foster"
+    },
+    {
+      "title": "Theme From the Color Purple (Mailbox/Proud Theme)",
+      "id": null
+    },
+    {
+      "title": "Flight of the Snowbirds",
+      "id": null
+    },
+    {
+      "title": "All That My Heart Can Hold",
+      "id": null
+    },
+    {
+      "title": "The Best of Me",
+      "id": null
+    },
+    {
+      "title": "Tap Dance",
+      "id": null
+    },
+    {
+      "title": "Who’s Gonna Love You Tonight",
+      "id": null
+    },
+    {
+      "title": "Elizabeth",
+      "id": null
+    },
+    {
+      "title": "Playing With Fire",
+      "id": null
+    },
+    {
+      "title": "Sajé",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,178 @@
-{"id": "david-live-david-bowie", "title": "David Live", "artist": "David Bowie", "peak": 8, "history": [{"date": "1974-10-26", "rank": 98}, {"date": "1974-11-02", "rank": 51}, {"date": "1974-11-09", "rank": 40}, {"date": "1974-11-16", "rank": 17}, {"date": "1974-11-23", "rank": 9}, {"date": "1974-11-30", "rank": 8}, {"date": "1974-12-07", "rank": 9}, {"date": "1974-12-14", "rank": 11}, {"date": "1974-12-21", "rank": 19}, {"date": "1974-12-28", "rank": 27}, {"date": "1975-01-04", "rank": 41}, {"date": "1975-01-11", "rank": 61}, {"date": "1975-01-18", "rank": 72}, {"date": "1975-01-25", "rank": 77}, {"date": "1975-02-01", "rank": 89}, {"date": "1975-02-08", "rank": 107}, {"date": "1975-02-15", "rank": 112}, {"date": "1975-02-22", "rank": 117}, {"date": "1975-03-01", "rank": 121}, {"date": "1975-03-08", "rank": 132}, {"date": "1975-03-15", "rank": 143}]}
+{
+  "id": "david-live-david-bowie",
+  "title": "David Live",
+  "artist": "David Bowie",
+  "peak": 8,
+  "history": [
+    {
+      "date": "1974-10-26",
+      "rank": 98
+    },
+    {
+      "date": "1974-11-02",
+      "rank": 51
+    },
+    {
+      "date": "1974-11-09",
+      "rank": 40
+    },
+    {
+      "date": "1974-11-16",
+      "rank": 17
+    },
+    {
+      "date": "1974-11-23",
+      "rank": 9
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 8
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 9
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 11
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 19
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 27
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 41
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 61
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 72
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 77
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 89
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 107
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 112
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 117
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 121
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 132
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rebel Rebel",
+      "id": "rebel-rebel-david-bowie"
+    },
+    {
+      "title": "Changes",
+      "id": "changes-david-bowie"
+    },
+    {
+      "title": "Space Oddity",
+      "id": "space-oddity-david-bowie"
+    },
+    {
+      "title": "The Jean Genie",
+      "id": "the-jean-genie-david-bowie"
+    },
+    {
+      "title": "1984",
+      "id": null
+    },
+    {
+      "title": "Moonage Daydream",
+      "id": null
+    },
+    {
+      "title": "Sweet Thing / Candidate / Sweet Thing (reprise)",
+      "id": null
+    },
+    {
+      "title": "Suffragette City",
+      "id": null
+    },
+    {
+      "title": "Aladdin Sane",
+      "id": null
+    },
+    {
+      "title": "All the Young Dudes",
+      "id": null
+    },
+    {
+      "title": "Cracked Actor",
+      "id": null
+    },
+    {
+      "title": "Rock ’n’ Roll With Me",
+      "id": null
+    },
+    {
+      "title": "Watch That Man",
+      "id": null
+    },
+    {
+      "title": "Knock on Wood",
+      "id": null
+    },
+    {
+      "title": "Here Today, Gone Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Diamond Dogs",
+      "id": null
+    },
+    {
+      "title": "Panic in Detroit",
+      "id": null
+    },
+    {
+      "title": "Big Brother",
+      "id": null
+    },
+    {
+      "title": "Time",
+      "id": null
+    },
+    {
+      "title": "The Width of a Circle",
+      "id": null
+    },
+    {
+      "title": "Rock ’n’ Roll Suicide",
+      "id": null
+    }
+  ]
+}
