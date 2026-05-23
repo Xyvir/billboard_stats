@@ -1,1 +1,138 @@
-{"id": "infidels-bob-dylan", "title": "Infidels", "artist": "Bob Dylan", "peak": 20, "history": [{"date": "1983-11-19", "rank": 71}, {"date": "1983-11-26", "rank": 27}, {"date": "1983-12-03", "rank": 20}, {"date": "1983-12-10", "rank": 20}, {"date": "1983-12-17", "rank": 20}, {"date": "1983-12-24", "rank": 20}, {"date": "1983-12-31", "rank": 20}, {"date": "1984-01-07", "rank": 23}, {"date": "1984-01-14", "rank": 24}, {"date": "1984-01-21", "rank": 32}, {"date": "1984-01-28", "rank": 37}, {"date": "1984-02-04", "rank": 48}, {"date": "1984-02-11", "rank": 54}, {"date": "1984-02-18", "rank": 61}, {"date": "1984-02-25", "rank": 66}, {"date": "1984-03-03", "rank": 74}, {"date": "1984-03-10", "rank": 82}, {"date": "1984-03-17", "rank": 105}, {"date": "1984-03-24", "rank": 128}, {"date": "1984-03-31", "rank": 152}, {"date": "1984-04-07", "rank": 146}, {"date": "1984-04-14", "rank": 152}, {"date": "1984-04-21", "rank": 174}, {"date": "1984-04-28", "rank": 184}]}
+{
+  "id": "infidels-bob-dylan",
+  "title": "Infidels",
+  "artist": "Bob Dylan",
+  "peak": 20,
+  "history": [
+    {
+      "date": "1983-11-19",
+      "rank": 71
+    },
+    {
+      "date": "1983-11-26",
+      "rank": 27
+    },
+    {
+      "date": "1983-12-03",
+      "rank": 20
+    },
+    {
+      "date": "1983-12-10",
+      "rank": 20
+    },
+    {
+      "date": "1983-12-17",
+      "rank": 20
+    },
+    {
+      "date": "1983-12-24",
+      "rank": 20
+    },
+    {
+      "date": "1983-12-31",
+      "rank": 20
+    },
+    {
+      "date": "1984-01-07",
+      "rank": 23
+    },
+    {
+      "date": "1984-01-14",
+      "rank": 24
+    },
+    {
+      "date": "1984-01-21",
+      "rank": 32
+    },
+    {
+      "date": "1984-01-28",
+      "rank": 37
+    },
+    {
+      "date": "1984-02-04",
+      "rank": 48
+    },
+    {
+      "date": "1984-02-11",
+      "rank": 54
+    },
+    {
+      "date": "1984-02-18",
+      "rank": 61
+    },
+    {
+      "date": "1984-02-25",
+      "rank": 66
+    },
+    {
+      "date": "1984-03-03",
+      "rank": 74
+    },
+    {
+      "date": "1984-03-10",
+      "rank": 82
+    },
+    {
+      "date": "1984-03-17",
+      "rank": 105
+    },
+    {
+      "date": "1984-03-24",
+      "rank": 128
+    },
+    {
+      "date": "1984-03-31",
+      "rank": 152
+    },
+    {
+      "date": "1984-04-07",
+      "rank": 146
+    },
+    {
+      "date": "1984-04-14",
+      "rank": 152
+    },
+    {
+      "date": "1984-04-21",
+      "rank": 174
+    },
+    {
+      "date": "1984-04-28",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sweetheart Like You",
+      "id": "sweetheart-like-you-bob-dylan"
+    },
+    {
+      "title": "Jokerman",
+      "id": null
+    },
+    {
+      "title": "Neighborhood Bully",
+      "id": null
+    },
+    {
+      "title": "License to Kill",
+      "id": null
+    },
+    {
+      "title": "Man of Peace",
+      "id": null
+    },
+    {
+      "title": "Union Sundown",
+      "id": null
+    },
+    {
+      "title": "I and I",
+      "id": null
+    },
+    {
+      "title": "Don’t Fall Apart on Me Tonight",
+      "id": null
+    }
+  ]
+}

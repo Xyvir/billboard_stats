@@ -1,1 +1,134 @@
-{"id": "information-dave-edmunds", "title": "Information", "artist": "Dave Edmunds", "peak": 51, "history": [{"date": "1983-05-21", "rank": 137}, {"date": "1983-05-28", "rank": 86}, {"date": "1983-06-04", "rank": 74}, {"date": "1983-06-11", "rank": 59}, {"date": "1983-06-18", "rank": 57}, {"date": "1983-06-25", "rank": 55}, {"date": "1983-07-02", "rank": 55}, {"date": "1983-07-09", "rank": 53}, {"date": "1983-07-16", "rank": 51}, {"date": "1983-07-23", "rank": 51}, {"date": "1983-07-30", "rank": 59}, {"date": "1983-08-06", "rank": 75}, {"date": "1983-08-13", "rank": 93}, {"date": "1983-08-20", "rank": 105}, {"date": "1983-08-27", "rank": 112}, {"date": "1983-09-03", "rank": 125}, {"date": "1983-09-10", "rank": 133}, {"date": "1983-09-17", "rank": 135}, {"date": "1983-09-24", "rank": 152}, {"date": "1983-10-01", "rank": 165}]}
+{
+  "id": "information-dave-edmunds",
+  "title": "Information",
+  "artist": "Dave Edmunds",
+  "peak": 51,
+  "history": [
+    {
+      "date": "1983-05-21",
+      "rank": 137
+    },
+    {
+      "date": "1983-05-28",
+      "rank": 86
+    },
+    {
+      "date": "1983-06-04",
+      "rank": 74
+    },
+    {
+      "date": "1983-06-11",
+      "rank": 59
+    },
+    {
+      "date": "1983-06-18",
+      "rank": 57
+    },
+    {
+      "date": "1983-06-25",
+      "rank": 55
+    },
+    {
+      "date": "1983-07-02",
+      "rank": 55
+    },
+    {
+      "date": "1983-07-09",
+      "rank": 53
+    },
+    {
+      "date": "1983-07-16",
+      "rank": 51
+    },
+    {
+      "date": "1983-07-23",
+      "rank": 51
+    },
+    {
+      "date": "1983-07-30",
+      "rank": 59
+    },
+    {
+      "date": "1983-08-06",
+      "rank": 75
+    },
+    {
+      "date": "1983-08-13",
+      "rank": 93
+    },
+    {
+      "date": "1983-08-20",
+      "rank": 105
+    },
+    {
+      "date": "1983-08-27",
+      "rank": 112
+    },
+    {
+      "date": "1983-09-03",
+      "rank": 125
+    },
+    {
+      "date": "1983-09-10",
+      "rank": 133
+    },
+    {
+      "date": "1983-09-17",
+      "rank": 135
+    },
+    {
+      "date": "1983-09-24",
+      "rank": 152
+    },
+    {
+      "date": "1983-10-01",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Slipping Away",
+      "id": "slipping-away-dave-edmunds"
+    },
+    {
+      "title": "Don’t You Double",
+      "id": null
+    },
+    {
+      "title": "I Want You Bad",
+      "id": null
+    },
+    {
+      "title": "Wait",
+      "id": null
+    },
+    {
+      "title": "The Watch on My Wrist",
+      "id": null
+    },
+    {
+      "title": "The Shape I’m In",
+      "id": null
+    },
+    {
+      "title": "Information",
+      "id": null
+    },
+    {
+      "title": "Feel So Right",
+      "id": null
+    },
+    {
+      "title": "What Have I Got to Do to Win?",
+      "id": null
+    },
+    {
+      "title": "Don’t Call Me Tonight",
+      "id": null
+    },
+    {
+      "title": "Have a Heart",
+      "id": null
+    }
+  ]
+}
