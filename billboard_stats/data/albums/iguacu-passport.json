@@ -1,1 +1,54 @@
-{"id": "iguacu-passport", "title": "Iguacu", "artist": "Passport", "peak": 191, "history": [{"date": "1977-04-23", "rank": 194}, {"date": "1977-04-30", "rank": 194}, {"date": "1977-05-07", "rank": 191}]}
+{
+  "id": "iguacu-passport",
+  "title": "Iguacu",
+  "artist": "Passport",
+  "peak": 191,
+  "history": [
+    {
+      "date": "1977-04-23",
+      "rank": 194
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 194
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bahia do sol",
+      "id": null
+    },
+    {
+      "title": "Aguamarinha",
+      "id": null
+    },
+    {
+      "title": "Bird of Paradise",
+      "id": null
+    },
+    {
+      "title": "Sambukada",
+      "id": null
+    },
+    {
+      "title": "Iguaçu",
+      "id": null
+    },
+    {
+      "title": "Praia Leme",
+      "id": null
+    },
+    {
+      "title": "Heavy Weight",
+      "id": null
+    },
+    {
+      "title": "Guna Guna",
+      "id": null
+    }
+  ]
+}
