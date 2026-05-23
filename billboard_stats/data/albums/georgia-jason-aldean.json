@@ -1,1 +1,94 @@
-{"id": "georgia-jason-aldean", "title": "Georgia", "artist": "Jason Aldean", "peak": 8, "history": [{"date": "2022-05-07", "rank": 8}, {"date": "2022-05-14", "rank": 76}, {"date": "2022-05-21", "rank": 109}, {"date": "2022-05-28", "rank": 133}, {"date": "2022-06-04", "rank": 164}, {"date": "2022-06-11", "rank": 190}]}
+{
+  "id": "georgia-jason-aldean",
+  "title": "Georgia",
+  "artist": "Jason Aldean",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2022-05-07",
+      "rank": 8
+    },
+    {
+      "date": "2022-05-14",
+      "rank": 76
+    },
+    {
+      "date": "2022-05-21",
+      "rank": 109
+    },
+    {
+      "date": "2022-05-28",
+      "rank": 133
+    },
+    {
+      "date": "2022-06-04",
+      "rank": 164
+    },
+    {
+      "date": "2022-06-11",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Trouble With A Heartbreak",
+      "id": "trouble-with-a-heartbreak-jason-aldean"
+    },
+    {
+      "title": "Take a Little Ride (live from Las Vegas, NV)",
+      "id": "take-a-little-ride-jason-aldean"
+    },
+    {
+      "title": "Whiskey Me Away",
+      "id": null
+    },
+    {
+      "title": "The State I’m In",
+      "id": null
+    },
+    {
+      "title": "Midnight and Missin’ You",
+      "id": null
+    },
+    {
+      "title": "Ain’t Enough Cowboy",
+      "id": null
+    },
+    {
+      "title": "God Made Airplanes",
+      "id": null
+    },
+    {
+      "title": "My Weakness",
+      "id": null
+    },
+    {
+      "title": "Holy Water",
+      "id": null
+    },
+    {
+      "title": "Rock and Roll Cowboy",
+      "id": null
+    },
+    {
+      "title": "Your Mama",
+      "id": null
+    },
+    {
+      "title": "Burnin’ It Down (live from St. Louis, MO)",
+      "id": null
+    },
+    {
+      "title": "Any Ol’ Barstool (live from Knoxville, TN)",
+      "id": null
+    },
+    {
+      "title": "Rearview Town (live from St. Louis, MO)",
+      "id": null
+    },
+    {
+      "title": "Blame It on You (live from Manchester, TN)",
+      "id": null
+    }
+  ]
+}

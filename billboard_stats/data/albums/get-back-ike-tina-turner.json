@@ -1,1 +1,98 @@
-{"id": "get-back-ike-tina-turner", "title": "Get Back", "artist": "Ike & Tina Turner", "peak": 189, "history": [{"date": "1985-05-11", "rank": 190}, {"date": "1985-05-18", "rank": 189}]}
+{
+  "id": "get-back-ike-tina-turner",
+  "title": "Get Back",
+  "artist": "Ike & Tina Turner",
+  "peak": 189,
+  "history": [
+    {
+      "date": "1985-05-11",
+      "rank": 190
+    },
+    {
+      "date": "1985-05-18",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Nutbush City Limits",
+      "id": "nutbush-city-limits-ike-tina-turner"
+    },
+    {
+      "title": "Proud Mary",
+      "id": "proud-mary-ike-tina-turner"
+    },
+    {
+      "title": "Sexy Ida (Part 1)",
+      "id": "sexy-ida-part-1-ike-tina-turner"
+    },
+    {
+      "title": "Bold Soul Sister",
+      "id": "bold-soul-sister-ike-tina-turner"
+    },
+    {
+      "title": "Ooh Poo Pah Doo",
+      "id": "ooh-poo-pah-doo-ike-tina-turner"
+    },
+    {
+      "title": "Baby Get It On",
+      "id": "baby-get-it-on-ike-tina-turner"
+    },
+    {
+      "title": "Up In Neah",
+      "id": "up-in-heah-ike-tina-turner"
+    },
+    {
+      "title": "Sexy Ida (Part 2)",
+      "id": "sexy-ida-part-1-ike-tina-turner"
+    },
+    {
+      "title": "It's Gonna Work Out Fine",
+      "id": "it-s-gonna-work-out-fine-ike-tina-turner"
+    },
+    {
+      "title": "Workin' Together",
+      "id": null
+    },
+    {
+      "title": "I'm Yours (Use Me Anyway You Wanna)",
+      "id": null
+    },
+    {
+      "title": "Funker Than A Mosquita's Tweeter",
+      "id": null
+    },
+    {
+      "title": "Stagger Lee And Billy",
+      "id": null
+    },
+    {
+      "title": "River Deep – Mountain High",
+      "id": null
+    },
+    {
+      "title": "Sweet Rhode Island Red",
+      "id": null
+    },
+    {
+      "title": "Honky Tonk Woman",
+      "id": null
+    },
+    {
+      "title": "I Want to Take You Higher",
+      "id": null
+    },
+    {
+      "title": "Come Together",
+      "id": null
+    },
+    {
+      "title": "Get Back",
+      "id": null
+    },
+    {
+      "title": "Acid Queen",
+      "id": null
+    }
+  ]
+}

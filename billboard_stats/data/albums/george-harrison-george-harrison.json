@@ -1,1 +1,126 @@
-{"id": "george-harrison-george-harrison", "title": "George Harrison", "artist": "George Harrison", "peak": 14, "history": [{"date": "1979-03-17", "rank": 28}, {"date": "1979-03-24", "rank": 17}, {"date": "1979-03-31", "rank": 15}, {"date": "1979-04-07", "rank": 15}, {"date": "1979-04-14", "rank": 15}, {"date": "1979-04-21", "rank": 15}, {"date": "1979-04-28", "rank": 14}, {"date": "1979-05-05", "rank": 17}, {"date": "1979-05-12", "rank": 29}, {"date": "1979-05-19", "rank": 53}, {"date": "1979-05-26", "rank": 53}, {"date": "1979-06-02", "rank": 60}, {"date": "1979-06-09", "rank": 79}, {"date": "1979-06-16", "rank": 102}, {"date": "1979-06-23", "rank": 124}, {"date": "1979-06-30", "rank": 155}, {"date": "1979-07-07", "rank": 186}, {"date": "1979-07-14", "rank": 196}]}
+{
+  "id": "george-harrison-george-harrison",
+  "title": "George Harrison",
+  "artist": "George Harrison",
+  "peak": 14,
+  "history": [
+    {
+      "date": "1979-03-17",
+      "rank": 28
+    },
+    {
+      "date": "1979-03-24",
+      "rank": 17
+    },
+    {
+      "date": "1979-03-31",
+      "rank": 15
+    },
+    {
+      "date": "1979-04-07",
+      "rank": 15
+    },
+    {
+      "date": "1979-04-14",
+      "rank": 15
+    },
+    {
+      "date": "1979-04-21",
+      "rank": 15
+    },
+    {
+      "date": "1979-04-28",
+      "rank": 14
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 17
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 29
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 53
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 53
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 60
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 79
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 102
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 124
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 155
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 186
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blow Away",
+      "id": "blow-away-george-harrison"
+    },
+    {
+      "title": "Dark Sweet Lady",
+      "id": "my-sweet-lord-george-harrison"
+    },
+    {
+      "title": "Love Comes to Everyone",
+      "id": null
+    },
+    {
+      "title": "Not Guilty",
+      "id": null
+    },
+    {
+      "title": "Here Comes the Moon",
+      "id": null
+    },
+    {
+      "title": "Soft Hearted Hana",
+      "id": null
+    },
+    {
+      "title": "Faster",
+      "id": null
+    },
+    {
+      "title": "Your Love Is Forever",
+      "id": null
+    },
+    {
+      "title": "Soft Touch",
+      "id": null
+    },
+    {
+      "title": "If You Believe",
+      "id": null
+    },
+    {
+      "title": "Here Comes the Moon (demo)",
+      "id": null
+    }
+  ]
+}
