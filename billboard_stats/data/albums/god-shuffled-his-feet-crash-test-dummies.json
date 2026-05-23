@@ -1,1 +1,226 @@
-{"id": "god-shuffled-his-feet-crash-test-dummies", "title": "God Shuffled His Feet", "artist": "Crash Test Dummies", "peak": 9, "history": [{"date": "1994-01-29", "rank": 125}, {"date": "1994-02-05", "rank": 89}, {"date": "1994-02-12", "rank": 76}, {"date": "1994-02-19", "rank": 47}, {"date": "1994-02-26", "rank": 44}, {"date": "1994-03-05", "rank": 32}, {"date": "1994-03-12", "rank": 21}, {"date": "1994-03-19", "rank": 22}, {"date": "1994-03-26", "rank": 17}, {"date": "1994-04-02", "rank": 15}, {"date": "1994-04-09", "rank": 15}, {"date": "1994-04-16", "rank": 12}, {"date": "1994-04-23", "rank": 11}, {"date": "1994-04-30", "rank": 12}, {"date": "1994-05-07", "rank": 9}, {"date": "1994-05-14", "rank": 14}, {"date": "1994-05-21", "rank": 17}, {"date": "1994-05-28", "rank": 18}, {"date": "1994-06-04", "rank": 21}, {"date": "1994-06-11", "rank": 25}, {"date": "1994-06-18", "rank": 32}, {"date": "1994-06-25", "rank": 38}, {"date": "1994-07-02", "rank": 40}, {"date": "1994-07-09", "rank": 43}, {"date": "1994-07-16", "rank": 49}, {"date": "1994-07-23", "rank": 51}, {"date": "1994-07-30", "rank": 55}, {"date": "1994-08-06", "rank": 57}, {"date": "1994-08-13", "rank": 60}, {"date": "1994-08-20", "rank": 59}, {"date": "1994-08-27", "rank": 73}, {"date": "1994-09-03", "rank": 86}, {"date": "1994-09-10", "rank": 97}, {"date": "1994-09-17", "rank": 112}, {"date": "1994-09-24", "rank": 108}, {"date": "1994-10-01", "rank": 115}, {"date": "1994-10-08", "rank": 125}, {"date": "1994-10-15", "rank": 138}, {"date": "1994-10-22", "rank": 169}, {"date": "1994-10-29", "rank": 173}, {"date": "1994-11-05", "rank": 175}, {"date": "1994-11-12", "rank": 199}]}
+{
+  "id": "god-shuffled-his-feet-crash-test-dummies",
+  "title": "God Shuffled His Feet",
+  "artist": "Crash Test Dummies",
+  "peak": 9,
+  "history": [
+    {
+      "date": "1994-01-29",
+      "rank": 125
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 89
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 76
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 47
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 44
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 32
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 21
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 22
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 17
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 15
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 15
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 12
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 11
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 12
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 9
+    },
+    {
+      "date": "1994-05-14",
+      "rank": 14
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 17
+    },
+    {
+      "date": "1994-05-28",
+      "rank": 18
+    },
+    {
+      "date": "1994-06-04",
+      "rank": 21
+    },
+    {
+      "date": "1994-06-11",
+      "rank": 25
+    },
+    {
+      "date": "1994-06-18",
+      "rank": 32
+    },
+    {
+      "date": "1994-06-25",
+      "rank": 38
+    },
+    {
+      "date": "1994-07-02",
+      "rank": 40
+    },
+    {
+      "date": "1994-07-09",
+      "rank": 43
+    },
+    {
+      "date": "1994-07-16",
+      "rank": 49
+    },
+    {
+      "date": "1994-07-23",
+      "rank": 51
+    },
+    {
+      "date": "1994-07-30",
+      "rank": 55
+    },
+    {
+      "date": "1994-08-06",
+      "rank": 57
+    },
+    {
+      "date": "1994-08-13",
+      "rank": 60
+    },
+    {
+      "date": "1994-08-20",
+      "rank": 59
+    },
+    {
+      "date": "1994-08-27",
+      "rank": 73
+    },
+    {
+      "date": "1994-09-03",
+      "rank": 86
+    },
+    {
+      "date": "1994-09-10",
+      "rank": 97
+    },
+    {
+      "date": "1994-09-17",
+      "rank": 112
+    },
+    {
+      "date": "1994-09-24",
+      "rank": 108
+    },
+    {
+      "date": "1994-10-01",
+      "rank": 115
+    },
+    {
+      "date": "1994-10-08",
+      "rank": 125
+    },
+    {
+      "date": "1994-10-15",
+      "rank": 138
+    },
+    {
+      "date": "1994-10-22",
+      "rank": 169
+    },
+    {
+      "date": "1994-10-29",
+      "rank": 173
+    },
+    {
+      "date": "1994-11-05",
+      "rank": 175
+    },
+    {
+      "date": "1994-11-12",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Afternoons & Coffeespoons",
+      "id": "afternoons-coffeespoons-crash-test-dummies"
+    },
+    {
+      "title": "Mmm Mmm Mmm Mmm",
+      "id": "mmm-mmm-mmm-mmm-crash-test-dummies"
+    },
+    {
+      "title": "God Shuffled His Feet",
+      "id": null
+    },
+    {
+      "title": "In the Days of the Caveman",
+      "id": null
+    },
+    {
+      "title": "Swimming in Your Ocean",
+      "id": null
+    },
+    {
+      "title": "Here I Stand Before Me",
+      "id": null
+    },
+    {
+      "title": "I Think I’ll Disappear Now",
+      "id": null
+    },
+    {
+      "title": "How Does a Duck Know?",
+      "id": null
+    },
+    {
+      "title": "When I Go Out With Artists",
+      "id": null
+    },
+    {
+      "title": "The Psychic",
+      "id": null
+    },
+    {
+      "title": "Two Knights and Maidens",
+      "id": null
+    },
+    {
+      "title": "Untitled",
+      "id": null
+    }
+  ]
+}

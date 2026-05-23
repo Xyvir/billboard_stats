@@ -1,1 +1,70 @@
-{"id": "go-for-your-life-mountain", "title": "Go For Your Life", "artist": "Mountain", "peak": 166, "history": [{"date": "1985-04-27", "rank": 179}, {"date": "1985-05-04", "rank": 174}, {"date": "1985-05-11", "rank": 169}, {"date": "1985-05-18", "rank": 166}, {"date": "1985-05-25", "rank": 166}, {"date": "1985-06-01", "rank": 188}]}
+{
+  "id": "go-for-your-life-mountain",
+  "title": "Go For Your Life",
+  "artist": "Mountain",
+  "peak": 166,
+  "history": [
+    {
+      "date": "1985-04-27",
+      "rank": 179
+    },
+    {
+      "date": "1985-05-04",
+      "rank": 174
+    },
+    {
+      "date": "1985-05-11",
+      "rank": 169
+    },
+    {
+      "date": "1985-05-18",
+      "rank": 166
+    },
+    {
+      "date": "1985-05-25",
+      "rank": 166
+    },
+    {
+      "date": "1985-06-01",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hard Times",
+      "id": null
+    },
+    {
+      "title": "Spark",
+      "id": null
+    },
+    {
+      "title": "She Loves Her Rock (And She Loves It Hard)",
+      "id": null
+    },
+    {
+      "title": "Bardot Damage",
+      "id": null
+    },
+    {
+      "title": "Shimmy on the Footlights",
+      "id": null
+    },
+    {
+      "title": "I Love Young Girls",
+      "id": null
+    },
+    {
+      "title": "Makin' It in Your Car",
+      "id": null
+    },
+    {
+      "title": "Babe in the Woods",
+      "id": null
+    },
+    {
+      "title": "Little Bit of Insanity",
+      "id": null
+    }
+  ]
+}
