@@ -1,1 +1,258 @@
-{"id": "especially-for-you-the-smithereens", "title": "Especially For You", "artist": "The Smithereens", "peak": 51, "history": [{"date": "1986-08-16", "rank": 170}, {"date": "1986-08-23", "rank": 144}, {"date": "1986-08-30", "rank": 141}, {"date": "1986-09-06", "rank": 97}, {"date": "1986-09-13", "rank": 95}, {"date": "1986-09-20", "rank": 84}, {"date": "1986-09-27", "rank": 76}, {"date": "1986-10-04", "rank": 69}, {"date": "1986-10-11", "rank": 66}, {"date": "1986-10-18", "rank": 65}, {"date": "1986-10-25", "rank": 61}, {"date": "1986-11-01", "rank": 61}, {"date": "1986-11-08", "rank": 60}, {"date": "1986-11-15", "rank": 65}, {"date": "1986-11-22", "rank": 61}, {"date": "1986-11-29", "rank": 66}, {"date": "1986-12-06", "rank": 71}, {"date": "1986-12-13", "rank": 68}, {"date": "1986-12-20", "rank": 63}, {"date": "1986-12-27", "rank": 63}, {"date": "1987-01-03", "rank": 63}, {"date": "1987-01-10", "rank": 67}, {"date": "1987-01-17", "rank": 65}, {"date": "1987-01-24", "rank": 62}, {"date": "1987-01-31", "rank": 60}, {"date": "1987-02-07", "rank": 52}, {"date": "1987-02-14", "rank": 52}, {"date": "1987-02-21", "rank": 52}, {"date": "1987-02-28", "rank": 51}, {"date": "1987-03-07", "rank": 53}, {"date": "1987-03-14", "rank": 63}, {"date": "1987-03-21", "rank": 63}, {"date": "1987-03-28", "rank": 63}, {"date": "1987-04-04", "rank": 77}, {"date": "1987-04-11", "rank": 80}, {"date": "1987-04-18", "rank": 80}, {"date": "1987-04-25", "rank": 85}, {"date": "1987-05-02", "rank": 91}, {"date": "1987-05-09", "rank": 91}, {"date": "1987-05-16", "rank": 100}, {"date": "1987-05-23", "rank": 113}, {"date": "1987-05-30", "rank": 118}, {"date": "1987-06-06", "rank": 122}, {"date": "1987-06-13", "rank": 133}, {"date": "1987-06-20", "rank": 149}, {"date": "1987-06-27", "rank": 164}, {"date": "1987-07-04", "rank": 157}, {"date": "1987-07-11", "rank": 182}, {"date": "1987-07-18", "rank": 182}, {"date": "1987-07-25", "rank": 200}]}
+{
+  "id": "especially-for-you-the-smithereens",
+  "title": "Especially For You",
+  "artist": "The Smithereens",
+  "peak": 51,
+  "history": [
+    {
+      "date": "1986-08-16",
+      "rank": 170
+    },
+    {
+      "date": "1986-08-23",
+      "rank": 144
+    },
+    {
+      "date": "1986-08-30",
+      "rank": 141
+    },
+    {
+      "date": "1986-09-06",
+      "rank": 97
+    },
+    {
+      "date": "1986-09-13",
+      "rank": 95
+    },
+    {
+      "date": "1986-09-20",
+      "rank": 84
+    },
+    {
+      "date": "1986-09-27",
+      "rank": 76
+    },
+    {
+      "date": "1986-10-04",
+      "rank": 69
+    },
+    {
+      "date": "1986-10-11",
+      "rank": 66
+    },
+    {
+      "date": "1986-10-18",
+      "rank": 65
+    },
+    {
+      "date": "1986-10-25",
+      "rank": 61
+    },
+    {
+      "date": "1986-11-01",
+      "rank": 61
+    },
+    {
+      "date": "1986-11-08",
+      "rank": 60
+    },
+    {
+      "date": "1986-11-15",
+      "rank": 65
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 61
+    },
+    {
+      "date": "1986-11-29",
+      "rank": 66
+    },
+    {
+      "date": "1986-12-06",
+      "rank": 71
+    },
+    {
+      "date": "1986-12-13",
+      "rank": 68
+    },
+    {
+      "date": "1986-12-20",
+      "rank": 63
+    },
+    {
+      "date": "1986-12-27",
+      "rank": 63
+    },
+    {
+      "date": "1987-01-03",
+      "rank": 63
+    },
+    {
+      "date": "1987-01-10",
+      "rank": 67
+    },
+    {
+      "date": "1987-01-17",
+      "rank": 65
+    },
+    {
+      "date": "1987-01-24",
+      "rank": 62
+    },
+    {
+      "date": "1987-01-31",
+      "rank": 60
+    },
+    {
+      "date": "1987-02-07",
+      "rank": 52
+    },
+    {
+      "date": "1987-02-14",
+      "rank": 52
+    },
+    {
+      "date": "1987-02-21",
+      "rank": 52
+    },
+    {
+      "date": "1987-02-28",
+      "rank": 51
+    },
+    {
+      "date": "1987-03-07",
+      "rank": 53
+    },
+    {
+      "date": "1987-03-14",
+      "rank": 63
+    },
+    {
+      "date": "1987-03-21",
+      "rank": 63
+    },
+    {
+      "date": "1987-03-28",
+      "rank": 63
+    },
+    {
+      "date": "1987-04-04",
+      "rank": 77
+    },
+    {
+      "date": "1987-04-11",
+      "rank": 80
+    },
+    {
+      "date": "1987-04-18",
+      "rank": 80
+    },
+    {
+      "date": "1987-04-25",
+      "rank": 85
+    },
+    {
+      "date": "1987-05-02",
+      "rank": 91
+    },
+    {
+      "date": "1987-05-09",
+      "rank": 91
+    },
+    {
+      "date": "1987-05-16",
+      "rank": 100
+    },
+    {
+      "date": "1987-05-23",
+      "rank": 113
+    },
+    {
+      "date": "1987-05-30",
+      "rank": 118
+    },
+    {
+      "date": "1987-06-06",
+      "rank": 122
+    },
+    {
+      "date": "1987-06-13",
+      "rank": 133
+    },
+    {
+      "date": "1987-06-20",
+      "rank": 149
+    },
+    {
+      "date": "1987-06-27",
+      "rank": 164
+    },
+    {
+      "date": "1987-07-04",
+      "rank": 157
+    },
+    {
+      "date": "1987-07-11",
+      "rank": 182
+    },
+    {
+      "date": "1987-07-18",
+      "rank": 182
+    },
+    {
+      "date": "1987-07-25",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Strangers When We Meet",
+      "id": null
+    },
+    {
+      "title": "Listen to Me Girl",
+      "id": null
+    },
+    {
+      "title": "Groovy Tuesday",
+      "id": null
+    },
+    {
+      "title": "Cigarette",
+      "id": null
+    },
+    {
+      "title": "I Don’t Want to Lose You",
+      "id": null
+    },
+    {
+      "title": "Time and Time Again",
+      "id": null
+    },
+    {
+      "title": "Behind the Wall of Sleep",
+      "id": null
+    },
+    {
+      "title": "In a Lonely Place",
+      "id": null
+    },
+    {
+      "title": "Blood and Roses",
+      "id": null
+    },
+    {
+      "title": "Crazy Mixed‐Up Kid",
+      "id": null
+    },
+    {
+      "title": "Hand of Glory",
+      "id": null
+    },
+    {
+      "title": "Alone at Midnight",
+      "id": null
+    }
+  ]
+}

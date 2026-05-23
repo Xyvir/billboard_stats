@@ -1,1 +1,70 @@
-{"id": "eric-paslay-eric-paslay", "title": "Eric Paslay", "artist": "Eric Paslay", "peak": 31, "history": [{"date": "2014-02-22", "rank": 31}, {"date": "2014-03-01", "rank": 111}, {"date": "2014-03-08", "rank": 158}, {"date": "2015-05-02", "rank": 169}]}
+{
+  "id": "eric-paslay-eric-paslay",
+  "title": "Eric Paslay",
+  "artist": "Eric Paslay",
+  "peak": 31,
+  "history": [
+    {
+      "date": "2014-02-22",
+      "rank": 31
+    },
+    {
+      "date": "2014-03-01",
+      "rank": 111
+    },
+    {
+      "date": "2014-03-08",
+      "rank": 158
+    },
+    {
+      "date": "2015-05-02",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Friday Night",
+      "id": "friday-night-eric-paslay"
+    },
+    {
+      "title": "She Don't Love You",
+      "id": "she-don-t-love-you-eric-paslay"
+    },
+    {
+      "title": "Song About a Girl",
+      "id": "song-about-a-girl-eric-paslay"
+    },
+    {
+      "title": "Keep on Fallin'",
+      "id": null
+    },
+    {
+      "title": "Less Than Whole",
+      "id": null
+    },
+    {
+      "title": "Country Side of Heaven",
+      "id": null
+    },
+    {
+      "title": "Never Really Wanted",
+      "id": null
+    },
+    {
+      "title": "Here Comes Love",
+      "id": null
+    },
+    {
+      "title": "Like a Song",
+      "id": null
+    },
+    {
+      "title": "Good With Wine",
+      "id": null
+    },
+    {
+      "title": "Deep as It Is Wide",
+      "id": null
+    }
+  ]
+}

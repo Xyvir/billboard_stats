@@ -1,1 +1,90 @@
-{"id": "eric-clapton-s-rainbow-concert-eric-clapton", "title": "Eric Clapton's Rainbow Concert", "artist": "Eric Clapton", "peak": 18, "history": [{"date": "1973-09-22", "rank": 115}, {"date": "1973-09-29", "rank": 43}, {"date": "1973-10-06", "rank": 26}, {"date": "1973-10-13", "rank": 26}, {"date": "1973-10-20", "rank": 18}, {"date": "1973-10-27", "rank": 18}, {"date": "1973-11-03", "rank": 24}, {"date": "1973-11-10", "rank": 32}, {"date": "1973-11-17", "rank": 48}, {"date": "1973-11-24", "rank": 70}, {"date": "1973-12-01", "rank": 111}, {"date": "1973-12-08", "rank": 142}, {"date": "1973-12-15", "rank": 158}, {"date": "1973-12-22", "rank": 198}]}
+{
+  "id": "eric-clapton-s-rainbow-concert-eric-clapton",
+  "title": "Eric Clapton's Rainbow Concert",
+  "artist": "Eric Clapton",
+  "peak": 18,
+  "history": [
+    {
+      "date": "1973-09-22",
+      "rank": 115
+    },
+    {
+      "date": "1973-09-29",
+      "rank": 43
+    },
+    {
+      "date": "1973-10-06",
+      "rank": 26
+    },
+    {
+      "date": "1973-10-13",
+      "rank": 26
+    },
+    {
+      "date": "1973-10-20",
+      "rank": 18
+    },
+    {
+      "date": "1973-10-27",
+      "rank": 18
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 24
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 32
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 48
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 70
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 111
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 142
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 158
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Badge",
+      "id": "bad-love-eric-clapton"
+    },
+    {
+      "title": "After Midnight",
+      "id": "after-midnight-eric-clapton"
+    },
+    {
+      "title": "Roll It Over",
+      "id": null
+    },
+    {
+      "title": "Presence of the Lord",
+      "id": null
+    },
+    {
+      "title": "Pearly Queen",
+      "id": null
+    },
+    {
+      "title": "Little Wing",
+      "id": null
+    }
+  ]
+}
