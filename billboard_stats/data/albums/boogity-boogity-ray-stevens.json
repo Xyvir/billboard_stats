@@ -1,1 +1,90 @@
-{"id": "boogity-boogity-ray-stevens", "title": "Boogity Boogity", "artist": "Ray Stevens", "peak": 159, "history": [{"date": "1974-06-15", "rank": 193}, {"date": "1974-06-22", "rank": 190}, {"date": "1974-06-29", "rank": 184}, {"date": "1974-07-06", "rank": 184}, {"date": "1974-07-13", "rank": 173}, {"date": "1974-07-20", "rank": 163}, {"date": "1974-07-27", "rank": 159}, {"date": "1974-08-03", "rank": 163}, {"date": "1974-08-10", "rank": 170}, {"date": "1974-08-17", "rank": 191}, {"date": "1974-08-24", "rank": 200}]}
+{
+  "id": "boogity-boogity-ray-stevens",
+  "title": "Boogity Boogity",
+  "artist": "Ray Stevens",
+  "peak": 159,
+  "history": [
+    {
+      "date": "1974-06-15",
+      "rank": 193
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 190
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 184
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 184
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 173
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 163
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 159
+    },
+    {
+      "date": "1974-08-03",
+      "rank": 163
+    },
+    {
+      "date": "1974-08-10",
+      "rank": 170
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 191
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Streak",
+      "id": "the-streak-ray-stevens"
+    },
+    {
+      "title": "Freddie Feelgood (and His Funky Little Five Piece Band)",
+      "id": "freddie-feelgood-and-his-funky-little-five-piece-band-ray-stevens"
+    },
+    {
+      "title": "The Moonlight Special",
+      "id": "moonlight-special-ray-stevens"
+    },
+    {
+      "title": "Bridget the Midget (Queen of the Blues)",
+      "id": "bridget-the-midget-the-queen-of-the-blues-ray-stevens"
+    },
+    {
+      "title": "Smith and Jones",
+      "id": null
+    },
+    {
+      "title": "Bagpipes That's My Bag",
+      "id": null
+    },
+    {
+      "title": "Don't Boogie Woogie",
+      "id": null
+    },
+    {
+      "title": "Heart Transplant",
+      "id": null
+    },
+    {
+      "title": "Just So Proud to Be Here",
+      "id": null
+    }
+  ]
+}

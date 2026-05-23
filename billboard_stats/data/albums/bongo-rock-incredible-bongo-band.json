@@ -1,1 +1,50 @@
-{"id": "bongo-rock-incredible-bongo-band", "title": "Bongo Rock", "artist": "Incredible Bongo Band", "peak": 197, "history": [{"date": "1973-08-18", "rank": 197}, {"date": "1973-08-25", "rank": 197}]}
+{
+  "id": "bongo-rock-incredible-bongo-band",
+  "title": "Bongo Rock",
+  "artist": "Incredible Bongo Band",
+  "peak": 197,
+  "history": [
+    {
+      "date": "1973-08-18",
+      "rank": 197
+    },
+    {
+      "date": "1973-08-25",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bongo Rock",
+      "id": "bongo-rock-the-incredible-bongo-band"
+    },
+    {
+      "title": "Let There Be Drums",
+      "id": null
+    },
+    {
+      "title": "Apache",
+      "id": null
+    },
+    {
+      "title": "Bongolia",
+      "id": null
+    },
+    {
+      "title": "Last Bongo in Belgium",
+      "id": null
+    },
+    {
+      "title": "Dueling Bongos",
+      "id": null
+    },
+    {
+      "title": "In-A-Gadda-Da-Vida",
+      "id": null
+    },
+    {
+      "title": "Raunchy ’73",
+      "id": null
+    }
+  ]
+}

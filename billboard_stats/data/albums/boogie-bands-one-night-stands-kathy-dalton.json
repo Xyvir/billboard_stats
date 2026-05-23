@@ -1,1 +1,30 @@
-{"id": "boogie-bands-one-night-stands-kathy-dalton", "title": "Boogie Bands & One Night Stands", "artist": "Kathy Dalton", "peak": 190, "history": [{"date": "1974-11-16", "rank": 195}, {"date": "1974-11-23", "rank": 190}, {"date": "1974-11-30", "rank": 195}]}
+{
+  "id": "boogie-bands-one-night-stands-kathy-dalton",
+  "title": "Boogie Bands & One Night Stands",
+  "artist": "Kathy Dalton",
+  "peak": 190,
+  "history": [
+    {
+      "date": "1974-11-16",
+      "rank": 195
+    },
+    {
+      "date": "1974-11-23",
+      "rank": 190
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Boogie Bands and One Night Stands",
+      "id": "boogie-bands-and-one-night-stands-kathy-dalton"
+    },
+    {
+      "title": "Pour Your Wine All Over Me",
+      "id": null
+    }
+  ]
+}

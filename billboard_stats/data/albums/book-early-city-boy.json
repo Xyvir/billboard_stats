@@ -1,1 +1,90 @@
-{"id": "book-early-city-boy", "title": "Book Early", "artist": "City Boy", "peak": 115, "history": [{"date": "1978-09-16", "rank": 170}, {"date": "1978-09-23", "rank": 157}, {"date": "1978-09-30", "rank": 147}, {"date": "1978-10-07", "rank": 137}, {"date": "1978-10-14", "rank": 124}, {"date": "1978-10-21", "rank": 119}, {"date": "1978-10-28", "rank": 115}, {"date": "1978-11-04", "rank": 115}, {"date": "1978-11-11", "rank": 145}]}
+{
+  "id": "book-early-city-boy",
+  "title": "Book Early",
+  "artist": "City Boy",
+  "peak": 115,
+  "history": [
+    {
+      "date": "1978-09-16",
+      "rank": 170
+    },
+    {
+      "date": "1978-09-23",
+      "rank": 157
+    },
+    {
+      "date": "1978-09-30",
+      "rank": 147
+    },
+    {
+      "date": "1978-10-07",
+      "rank": 137
+    },
+    {
+      "date": "1978-10-14",
+      "rank": 124
+    },
+    {
+      "date": "1978-10-21",
+      "rank": 119
+    },
+    {
+      "date": "1978-10-28",
+      "rank": 115
+    },
+    {
+      "date": "1978-11-04",
+      "rank": 115
+    },
+    {
+      "date": "1978-11-11",
+      "rank": 145
+    }
+  ],
+  "tracks": [
+    {
+      "title": "5.7.0.5",
+      "id": "5-7-0-5-city-boy"
+    },
+    {
+      "title": "Summer in the School Yard",
+      "id": null
+    },
+    {
+      "title": "Goodbye Laurelie",
+      "id": null
+    },
+    {
+      "title": "Raise Your Glass (To Foolish Me)",
+      "id": null
+    },
+    {
+      "title": "Cigarettes",
+      "id": null
+    },
+    {
+      "title": "What a Night",
+      "id": null
+    },
+    {
+      "title": "Do What You Do, Do Well",
+      "id": null
+    },
+    {
+      "title": "The World Loves a Dancer",
+      "id": null
+    },
+    {
+      "title": "Beth",
+      "id": null
+    },
+    {
+      "title": "Moving in Circles",
+      "id": null
+    },
+    {
+      "title": "Dangerous Ground",
+      "id": null
+    }
+  ]
+}
