@@ -1,1 +1,230 @@
-{"id": "mother-s-milk-red-hot-chili-peppers", "title": "Mother's Milk", "artist": "Red Hot Chili Peppers", "peak": 52, "history": [{"date": "1989-09-16", "rank": 139}, {"date": "1989-09-23", "rank": 93}, {"date": "1989-09-30", "rank": 74}, {"date": "1989-10-07", "rank": 62}, {"date": "1989-10-14", "rank": 61}, {"date": "1989-10-21", "rank": 54}, {"date": "1989-10-28", "rank": 53}, {"date": "1989-11-04", "rank": 53}, {"date": "1989-11-11", "rank": 53}, {"date": "1989-11-18", "rank": 53}, {"date": "1989-11-25", "rank": 53}, {"date": "1989-12-02", "rank": 52}, {"date": "1989-12-09", "rank": 54}, {"date": "1989-12-16", "rank": 53}, {"date": "1989-12-23", "rank": 58}, {"date": "1989-12-30", "rank": 64}, {"date": "1990-01-06", "rank": 64}, {"date": "1990-01-13", "rank": 60}, {"date": "1990-01-20", "rank": 58}, {"date": "1990-01-27", "rank": 60}, {"date": "1990-02-03", "rank": 60}, {"date": "1990-02-10", "rank": 68}, {"date": "1990-02-17", "rank": 72}, {"date": "1990-02-24", "rank": 72}, {"date": "1990-03-03", "rank": 76}, {"date": "1990-03-10", "rank": 83}, {"date": "1990-03-17", "rank": 90}, {"date": "1990-03-24", "rank": 90}, {"date": "1990-03-31", "rank": 89}, {"date": "1990-04-07", "rank": 102}, {"date": "1990-04-14", "rank": 103}, {"date": "1990-04-21", "rank": 112}, {"date": "1990-04-28", "rank": 122}, {"date": "1990-05-05", "rank": 120}, {"date": "1990-05-12", "rank": 123}, {"date": "1990-05-19", "rank": 122}, {"date": "1990-05-26", "rank": 136}, {"date": "1990-06-02", "rank": 137}, {"date": "1990-06-09", "rank": 153}, {"date": "1990-06-16", "rank": 181}, {"date": "1990-06-23", "rank": 181}, {"date": "1990-06-30", "rank": 197}]}
+{
+  "id": "mother-s-milk-red-hot-chili-peppers",
+  "title": "Mother's Milk",
+  "artist": "Red Hot Chili Peppers",
+  "peak": 52,
+  "history": [
+    {
+      "date": "1989-09-16",
+      "rank": 139
+    },
+    {
+      "date": "1989-09-23",
+      "rank": 93
+    },
+    {
+      "date": "1989-09-30",
+      "rank": 74
+    },
+    {
+      "date": "1989-10-07",
+      "rank": 62
+    },
+    {
+      "date": "1989-10-14",
+      "rank": 61
+    },
+    {
+      "date": "1989-10-21",
+      "rank": 54
+    },
+    {
+      "date": "1989-10-28",
+      "rank": 53
+    },
+    {
+      "date": "1989-11-04",
+      "rank": 53
+    },
+    {
+      "date": "1989-11-11",
+      "rank": 53
+    },
+    {
+      "date": "1989-11-18",
+      "rank": 53
+    },
+    {
+      "date": "1989-11-25",
+      "rank": 53
+    },
+    {
+      "date": "1989-12-02",
+      "rank": 52
+    },
+    {
+      "date": "1989-12-09",
+      "rank": 54
+    },
+    {
+      "date": "1989-12-16",
+      "rank": 53
+    },
+    {
+      "date": "1989-12-23",
+      "rank": 58
+    },
+    {
+      "date": "1989-12-30",
+      "rank": 64
+    },
+    {
+      "date": "1990-01-06",
+      "rank": 64
+    },
+    {
+      "date": "1990-01-13",
+      "rank": 60
+    },
+    {
+      "date": "1990-01-20",
+      "rank": 58
+    },
+    {
+      "date": "1990-01-27",
+      "rank": 60
+    },
+    {
+      "date": "1990-02-03",
+      "rank": 60
+    },
+    {
+      "date": "1990-02-10",
+      "rank": 68
+    },
+    {
+      "date": "1990-02-17",
+      "rank": 72
+    },
+    {
+      "date": "1990-02-24",
+      "rank": 72
+    },
+    {
+      "date": "1990-03-03",
+      "rank": 76
+    },
+    {
+      "date": "1990-03-10",
+      "rank": 83
+    },
+    {
+      "date": "1990-03-17",
+      "rank": 90
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 90
+    },
+    {
+      "date": "1990-03-31",
+      "rank": 89
+    },
+    {
+      "date": "1990-04-07",
+      "rank": 102
+    },
+    {
+      "date": "1990-04-14",
+      "rank": 103
+    },
+    {
+      "date": "1990-04-21",
+      "rank": 112
+    },
+    {
+      "date": "1990-04-28",
+      "rank": 122
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 120
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 123
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 122
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 136
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 137
+    },
+    {
+      "date": "1990-06-09",
+      "rank": 153
+    },
+    {
+      "date": "1990-06-16",
+      "rank": 181
+    },
+    {
+      "date": "1990-06-23",
+      "rank": 181
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Good Time Boys",
+      "id": null
+    },
+    {
+      "title": "Higher Ground",
+      "id": null
+    },
+    {
+      "title": "Subway to Venus",
+      "id": null
+    },
+    {
+      "title": "Magic Johnson",
+      "id": null
+    },
+    {
+      "title": "Nobody Weird Like Me",
+      "id": null
+    },
+    {
+      "title": "Knock Me Down",
+      "id": null
+    },
+    {
+      "title": "Taste the Pain",
+      "id": null
+    },
+    {
+      "title": "Stone Cold Bush",
+      "id": null
+    },
+    {
+      "title": "Fire",
+      "id": null
+    },
+    {
+      "title": "Pretty Little Ditty",
+      "id": null
+    },
+    {
+      "title": "Punk Rock Classic",
+      "id": null
+    },
+    {
+      "title": "Sexy Mexican Maid",
+      "id": null
+    },
+    {
+      "title": "Johnny, Kick a Hole in the Sky",
+      "id": null
+    }
+  ]
+}
