@@ -1,1 +1,102 @@
-{"id": "listen-to-a-country-song-lynn-anderson", "title": "Listen To A Country Song", "artist": "Lynn Anderson", "peak": 160, "history": [{"date": "1972-09-09", "rank": 196}, {"date": "1972-09-16", "rank": 185}, {"date": "1972-09-23", "rank": 169}, {"date": "1972-09-30", "rank": 160}, {"date": "1972-10-07", "rank": 160}, {"date": "1972-10-14", "rank": 169}, {"date": "1972-10-21", "rank": 169}]}
+{
+  "id": "listen-to-a-country-song-lynn-anderson",
+  "title": "Listen To A Country Song",
+  "artist": "Lynn Anderson",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1972-09-09",
+      "rank": 196
+    },
+    {
+      "date": "1972-09-16",
+      "rank": 185
+    },
+    {
+      "date": "1972-09-23",
+      "rank": 169
+    },
+    {
+      "date": "1972-09-30",
+      "rank": 160
+    },
+    {
+      "date": "1972-10-07",
+      "rank": 160
+    },
+    {
+      "date": "1972-10-14",
+      "rank": 169
+    },
+    {
+      "date": "1972-10-21",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Top of the World",
+      "id": "top-of-the-world-lynn-anderson"
+    },
+    {
+      "title": "Rose Garden",
+      "id": "rose-garden-lynn-anderson"
+    },
+    {
+      "title": "Listen to a Country Song",
+      "id": null
+    },
+    {
+      "title": "Snowbird",
+      "id": null
+    },
+    {
+      "title": "Blue Bayou",
+      "id": null
+    },
+    {
+      "title": "I Fall to Pieces",
+      "id": null
+    },
+    {
+      "title": "When I Dream",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Hotel",
+      "id": null
+    },
+    {
+      "title": "You Needed Me",
+      "id": null
+    },
+    {
+      "title": "That’ll Be the Day",
+      "id": null
+    },
+    {
+      "title": "Heaven’s Just a Sin Away",
+      "id": null
+    },
+    {
+      "title": "Stand by Your Man",
+      "id": null
+    },
+    {
+      "title": "Devil Went Down to Georgia",
+      "id": null
+    },
+    {
+      "title": "Midnight Train to Georgia",
+      "id": null
+    },
+    {
+      "title": "Desperado",
+      "id": null
+    },
+    {
+      "title": "You Don't Have to Say You Love Me",
+      "id": null
+    }
+  ]
+}

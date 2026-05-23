@@ -1,1 +1,90 @@
-{"id": "little-caesar-little-caesar", "title": "Little Caesar", "artist": "Little Caesar", "peak": 139, "history": [{"date": "1990-06-30", "rank": 142}, {"date": "1990-07-07", "rank": 144}, {"date": "1990-07-14", "rank": 147}, {"date": "1990-07-21", "rank": 139}, {"date": "1990-07-28", "rank": 145}, {"date": "1990-08-04", "rank": 164}, {"date": "1990-08-11", "rank": 182}, {"date": "1990-08-18", "rank": 200}]}
+{
+  "id": "little-caesar-little-caesar",
+  "title": "Little Caesar",
+  "artist": "Little Caesar",
+  "peak": 139,
+  "history": [
+    {
+      "date": "1990-06-30",
+      "rank": 142
+    },
+    {
+      "date": "1990-07-07",
+      "rank": 144
+    },
+    {
+      "date": "1990-07-14",
+      "rank": 147
+    },
+    {
+      "date": "1990-07-21",
+      "rank": 139
+    },
+    {
+      "date": "1990-07-28",
+      "rank": 145
+    },
+    {
+      "date": "1990-08-04",
+      "rank": 164
+    },
+    {
+      "date": "1990-08-11",
+      "rank": 182
+    },
+    {
+      "date": "1990-08-18",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Chain of Fools",
+      "id": "chain-of-fools-little-caesar"
+    },
+    {
+      "title": "In Your Arms",
+      "id": "in-your-arms-little-caesar"
+    },
+    {
+      "title": "Down‐n‐Dirty",
+      "id": null
+    },
+    {
+      "title": "Hard Times",
+      "id": null
+    },
+    {
+      "title": "From the Start",
+      "id": null
+    },
+    {
+      "title": "Rock‐n‐Roll State of Mind",
+      "id": null
+    },
+    {
+      "title": "Drive It Home",
+      "id": null
+    },
+    {
+      "title": "Midtown",
+      "id": null
+    },
+    {
+      "title": "Cajun Panther",
+      "id": null
+    },
+    {
+      "title": "Wrong Side of the Tracks",
+      "id": null
+    },
+    {
+      "title": "I Wish It Would Rain",
+      "id": null
+    },
+    {
+      "title": "Little Queenie",
+      "id": null
+    }
+  ]
+}
