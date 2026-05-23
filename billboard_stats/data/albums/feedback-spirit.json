@@ -1,1 +1,70 @@
-{"id": "feedback-spirit", "title": "Feedback", "artist": "Spirit", "peak": 124, "history": [{"date": "1972-05-20", "rank": 132}, {"date": "1972-05-27", "rank": 124}, {"date": "1972-06-03", "rank": 126}, {"date": "1972-06-10", "rank": 146}, {"date": "1972-06-17", "rank": 185}]}
+{
+  "id": "feedback-spirit",
+  "title": "Feedback",
+  "artist": "Spirit",
+  "peak": 124,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 132
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 124
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 126
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 146
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Chelsea Girls",
+      "id": null
+    },
+    {
+      "title": "Cadillac Cowboys",
+      "id": null
+    },
+    {
+      "title": "Puesta del Scam",
+      "id": null
+    },
+    {
+      "title": "Ripe and Ready",
+      "id": null
+    },
+    {
+      "title": "Darkness",
+      "id": null
+    },
+    {
+      "title": "Earth Shaker",
+      "id": null
+    },
+    {
+      "title": "Mellow Morning",
+      "id": null
+    },
+    {
+      "title": "Right on Time",
+      "id": null
+    },
+    {
+      "title": "Trancas Fog‐Out",
+      "id": null
+    },
+    {
+      "title": "Witch",
+      "id": null
+    }
+  ]
+}

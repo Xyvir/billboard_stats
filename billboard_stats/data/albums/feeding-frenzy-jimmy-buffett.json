@@ -1,1 +1,134 @@
-{"id": "feeding-frenzy-jimmy-buffett", "title": "Feeding Frenzy", "artist": "Jimmy Buffett", "peak": 68, "history": [{"date": "1990-11-17", "rank": 113}, {"date": "1990-11-24", "rank": 72}, {"date": "1990-12-01", "rank": 68}, {"date": "1990-12-08", "rank": 85}, {"date": "1990-12-15", "rank": 85}, {"date": "1990-12-22", "rank": 87}, {"date": "1990-12-29", "rank": 87}, {"date": "1991-01-05", "rank": 88}, {"date": "1991-01-12", "rank": 99}, {"date": "1991-01-19", "rank": 111}, {"date": "1991-01-26", "rank": 108}, {"date": "1991-02-02", "rank": 148}, {"date": "1991-02-09", "rank": 160}, {"date": "1991-02-16", "rank": 170}, {"date": "1991-02-23", "rank": 199}]}
+{
+  "id": "feeding-frenzy-jimmy-buffett",
+  "title": "Feeding Frenzy",
+  "artist": "Jimmy Buffett",
+  "peak": 68,
+  "history": [
+    {
+      "date": "1990-11-17",
+      "rank": 113
+    },
+    {
+      "date": "1990-11-24",
+      "rank": 72
+    },
+    {
+      "date": "1990-12-01",
+      "rank": 68
+    },
+    {
+      "date": "1990-12-08",
+      "rank": 85
+    },
+    {
+      "date": "1990-12-15",
+      "rank": 85
+    },
+    {
+      "date": "1990-12-22",
+      "rank": 87
+    },
+    {
+      "date": "1990-12-29",
+      "rank": 87
+    },
+    {
+      "date": "1991-01-05",
+      "rank": 88
+    },
+    {
+      "date": "1991-01-12",
+      "rank": 99
+    },
+    {
+      "date": "1991-01-19",
+      "rank": 111
+    },
+    {
+      "date": "1991-01-26",
+      "rank": 108
+    },
+    {
+      "date": "1991-02-02",
+      "rank": 148
+    },
+    {
+      "date": "1991-02-09",
+      "rank": 160
+    },
+    {
+      "date": "1991-02-16",
+      "rank": 170
+    },
+    {
+      "date": "1991-02-23",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Come Monday",
+      "id": "come-monday-jimmy-buffett"
+    },
+    {
+      "title": "Cheeseburger in Paradise",
+      "id": "cheeseburger-in-paradise-jimmy-buffett"
+    },
+    {
+      "title": "Fins",
+      "id": "fins-jimmy-buffett"
+    },
+    {
+      "title": "Margaritaville",
+      "id": "margaritaville-jimmy-buffett"
+    },
+    {
+      "title": "Volcano",
+      "id": "volcano-jimmy-buffett"
+    },
+    {
+      "title": "You’ll Never Work in Dis Bidness Again",
+      "id": null
+    },
+    {
+      "title": "The City",
+      "id": null
+    },
+    {
+      "title": "Last Mango in Paris",
+      "id": null
+    },
+    {
+      "title": "Today’s Message",
+      "id": null
+    },
+    {
+      "title": "A Love Song (From a Different Point of View)",
+      "id": null
+    },
+    {
+      "title": "One Particular Harbour",
+      "id": null
+    },
+    {
+      "title": "Honey Do",
+      "id": null
+    },
+    {
+      "title": "A Pirate Looks at 40",
+      "id": null
+    },
+    {
+      "title": "Jolly Mon",
+      "id": null
+    },
+    {
+      "title": "Gypsies in the Palace",
+      "id": null
+    },
+    {
+      "title": "Jamaica Farewell",
+      "id": null
+    }
+  ]
+}

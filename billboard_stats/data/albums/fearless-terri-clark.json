@@ -1,1 +1,70 @@
-{"id": "fearless-terri-clark", "title": "Fearless", "artist": "Terri Clark", "peak": 85, "history": [{"date": "2000-10-07", "rank": 85}, {"date": "2000-10-14", "rank": 144}, {"date": "2000-10-21", "rank": 175}]}
+{
+  "id": "fearless-terri-clark",
+  "title": "Fearless",
+  "artist": "Terri Clark",
+  "peak": 85,
+  "history": [
+    {
+      "date": "2000-10-07",
+      "rank": 85
+    },
+    {
+      "date": "2000-10-14",
+      "rank": 144
+    },
+    {
+      "date": "2000-10-21",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Little Gasoline",
+      "id": "a-little-gasoline-terri-clark"
+    },
+    {
+      "title": "No Fear",
+      "id": null
+    },
+    {
+      "title": "Sometimes Goodbye",
+      "id": null
+    },
+    {
+      "title": "Take My Time",
+      "id": null
+    },
+    {
+      "title": "Empty",
+      "id": null
+    },
+    {
+      "title": "Getting There",
+      "id": null
+    },
+    {
+      "title": "Easy From Now On",
+      "id": null
+    },
+    {
+      "title": "Last Thing I Wanted",
+      "id": null
+    },
+    {
+      "title": "To Tell You Everything",
+      "id": null
+    },
+    {
+      "title": "The Real Thing",
+      "id": null
+    },
+    {
+      "title": "Midnight’s Gone",
+      "id": null
+    },
+    {
+      "title": "Good Mother",
+      "id": null
+    }
+  ]
+}
