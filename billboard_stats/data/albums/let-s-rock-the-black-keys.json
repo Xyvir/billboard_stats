@@ -1,1 +1,74 @@
-{"id": "let-s-rock-the-black-keys", "title": "'Let's Rock'", "artist": "The Black Keys", "peak": 4, "history": [{"date": "2019-07-13", "rank": 4}, {"date": "2019-07-20", "rank": 35}, {"date": "2019-07-27", "rank": 73}, {"date": "2019-08-03", "rank": 111}]}
+{
+  "id": "let-s-rock-the-black-keys",
+  "title": "'Let's Rock'",
+  "artist": "The Black Keys",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2019-07-13",
+      "rank": 4
+    },
+    {
+      "date": "2019-07-20",
+      "rank": 35
+    },
+    {
+      "date": "2019-07-27",
+      "rank": 73
+    },
+    {
+      "date": "2019-08-03",
+      "rank": 111
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shine a Little Light",
+      "id": null
+    },
+    {
+      "title": "Eagle Birds",
+      "id": null
+    },
+    {
+      "title": "Lo/Hi",
+      "id": null
+    },
+    {
+      "title": "Walk Across the Water",
+      "id": null
+    },
+    {
+      "title": "Tell Me Lies",
+      "id": null
+    },
+    {
+      "title": "Every Little Thing",
+      "id": null
+    },
+    {
+      "title": "Get Yourself Together",
+      "id": null
+    },
+    {
+      "title": "Sit Around and Miss You",
+      "id": null
+    },
+    {
+      "title": "Go",
+      "id": null
+    },
+    {
+      "title": "Breaking Down",
+      "id": null
+    },
+    {
+      "title": "Under the Gun",
+      "id": null
+    },
+    {
+      "title": "Fire Walk With Me",
+      "id": null
+    }
+  ]
+}

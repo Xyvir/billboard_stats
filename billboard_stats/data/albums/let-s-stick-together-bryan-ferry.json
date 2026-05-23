@@ -1,1 +1,74 @@
-{"id": "let-s-stick-together-bryan-ferry", "title": "Let's Stick Together", "artist": "Bryan Ferry", "peak": 160, "history": [{"date": "1976-10-16", "rank": 183}, {"date": "1976-10-23", "rank": 173}, {"date": "1976-10-30", "rank": 163}, {"date": "1976-11-06", "rank": 160}, {"date": "1976-11-13", "rank": 180}]}
+{
+  "id": "let-s-stick-together-bryan-ferry",
+  "title": "Let's Stick Together",
+  "artist": "Bryan Ferry",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1976-10-16",
+      "rank": 183
+    },
+    {
+      "date": "1976-10-23",
+      "rank": 173
+    },
+    {
+      "date": "1976-10-30",
+      "rank": 163
+    },
+    {
+      "date": "1976-11-06",
+      "rank": 160
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heart on My Sleeve",
+      "id": "heart-on-my-sleeve-bryan-ferry"
+    },
+    {
+      "title": "Let’s Stick Together",
+      "id": null
+    },
+    {
+      "title": "Casanova",
+      "id": null
+    },
+    {
+      "title": "Sea Breezes",
+      "id": null
+    },
+    {
+      "title": "Shame, Shame, Shame",
+      "id": null
+    },
+    {
+      "title": "2HB",
+      "id": null
+    },
+    {
+      "title": "The Price of Love",
+      "id": null
+    },
+    {
+      "title": "Chance Meeting",
+      "id": null
+    },
+    {
+      "title": "It’s Only Love",
+      "id": null
+    },
+    {
+      "title": "You Go to My Head",
+      "id": null
+    },
+    {
+      "title": "Re‐Make/Re‐Model",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,214 @@
-{"id": "let-s-stay-together-al-green", "title": "Let's Stay Together", "artist": "Al Green", "peak": 10, "history": [{"date": "1972-05-20", "rank": 10}, {"date": "1972-05-27", "rank": 12}, {"date": "1972-06-03", "rank": 15}, {"date": "1972-06-10", "rank": 14}, {"date": "1972-06-17", "rank": 14}, {"date": "1972-06-24", "rank": 15}, {"date": "1972-07-01", "rank": 30}, {"date": "1972-07-08", "rank": 35}, {"date": "1972-07-15", "rank": 41}, {"date": "1972-07-22", "rank": 41}, {"date": "1972-07-29", "rank": 45}, {"date": "1972-08-05", "rank": 45}, {"date": "1972-08-12", "rank": 51}, {"date": "1972-08-19", "rank": 54}, {"date": "1972-08-26", "rank": 58}, {"date": "1972-09-02", "rank": 58}, {"date": "1972-09-09", "rank": 52}, {"date": "1972-09-16", "rank": 52}, {"date": "1972-09-23", "rank": 57}, {"date": "1972-09-30", "rank": 65}, {"date": "1972-10-07", "rank": 68}, {"date": "1972-10-14", "rank": 70}, {"date": "1972-10-21", "rank": 75}, {"date": "1972-10-28", "rank": 87}, {"date": "1972-11-04", "rank": 87}, {"date": "1972-11-11", "rank": 97}, {"date": "1972-11-18", "rank": 96}, {"date": "1972-11-25", "rank": 96}, {"date": "1972-12-02", "rank": 102}, {"date": "1972-12-09", "rank": 102}, {"date": "1972-12-16", "rank": 112}, {"date": "1972-12-23", "rank": 115}, {"date": "1972-12-30", "rank": 117}, {"date": "1973-01-06", "rank": 123}, {"date": "1973-01-13", "rank": 126}, {"date": "1973-01-20", "rank": 131}, {"date": "1973-01-27", "rank": 136}, {"date": "1973-02-03", "rank": 143}, {"date": "1973-02-10", "rank": 144}, {"date": "1973-02-17", "rank": 148}, {"date": "1973-02-24", "rank": 152}, {"date": "1973-03-03", "rank": 175}]}
+{
+  "id": "let-s-stay-together-al-green",
+  "title": "Let's Stay Together",
+  "artist": "Al Green",
+  "peak": 10,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 10
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 12
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 15
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 14
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 14
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 15
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 30
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 35
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 41
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 41
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 45
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 45
+    },
+    {
+      "date": "1972-08-12",
+      "rank": 51
+    },
+    {
+      "date": "1972-08-19",
+      "rank": 54
+    },
+    {
+      "date": "1972-08-26",
+      "rank": 58
+    },
+    {
+      "date": "1972-09-02",
+      "rank": 58
+    },
+    {
+      "date": "1972-09-09",
+      "rank": 52
+    },
+    {
+      "date": "1972-09-16",
+      "rank": 52
+    },
+    {
+      "date": "1972-09-23",
+      "rank": 57
+    },
+    {
+      "date": "1972-09-30",
+      "rank": 65
+    },
+    {
+      "date": "1972-10-07",
+      "rank": 68
+    },
+    {
+      "date": "1972-10-14",
+      "rank": 70
+    },
+    {
+      "date": "1972-10-21",
+      "rank": 75
+    },
+    {
+      "date": "1972-10-28",
+      "rank": 87
+    },
+    {
+      "date": "1972-11-04",
+      "rank": 87
+    },
+    {
+      "date": "1972-11-11",
+      "rank": 97
+    },
+    {
+      "date": "1972-11-18",
+      "rank": 96
+    },
+    {
+      "date": "1972-11-25",
+      "rank": 96
+    },
+    {
+      "date": "1972-12-02",
+      "rank": 102
+    },
+    {
+      "date": "1972-12-09",
+      "rank": 102
+    },
+    {
+      "date": "1972-12-16",
+      "rank": 112
+    },
+    {
+      "date": "1972-12-23",
+      "rank": 115
+    },
+    {
+      "date": "1972-12-30",
+      "rank": 117
+    },
+    {
+      "date": "1973-01-06",
+      "rank": 123
+    },
+    {
+      "date": "1973-01-13",
+      "rank": 126
+    },
+    {
+      "date": "1973-01-20",
+      "rank": 131
+    },
+    {
+      "date": "1973-01-27",
+      "rank": 136
+    },
+    {
+      "date": "1973-02-03",
+      "rank": 143
+    },
+    {
+      "date": "1973-02-10",
+      "rank": 144
+    },
+    {
+      "date": "1973-02-17",
+      "rank": 148
+    },
+    {
+      "date": "1973-02-24",
+      "rank": 152
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let’s Stay Together",
+      "id": "let-s-stay-together-al-green"
+    },
+    {
+      "title": "La‐La for You",
+      "id": "livin-for-you-al-green"
+    },
+    {
+      "title": "So You’re Leaving",
+      "id": null
+    },
+    {
+      "title": "What Is This Feeling?",
+      "id": null
+    },
+    {
+      "title": "Old Time Lovin’",
+      "id": null
+    },
+    {
+      "title": "I’ve Never Found a Girl (Who Loves Me Like You Do)",
+      "id": null
+    },
+    {
+      "title": "How Can You Mend a Broken Heart",
+      "id": null
+    },
+    {
+      "title": "Judy",
+      "id": null
+    },
+    {
+      "title": "It Ain’t No Fun to Me",
+      "id": null
+    }
+  ]
+}
