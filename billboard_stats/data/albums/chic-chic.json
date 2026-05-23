@@ -1,1 +1,230 @@
-{"id": "chic-chic", "title": "Chic", "artist": "Chic", "peak": 27, "history": [{"date": "1977-12-17", "rank": 143}, {"date": "1977-12-24", "rank": 104}, {"date": "1977-12-31", "rank": 104}, {"date": "1978-01-07", "rank": 92}, {"date": "1978-01-14", "rank": 63}, {"date": "1978-01-21", "rank": 55}, {"date": "1978-01-28", "rank": 50}, {"date": "1978-02-04", "rank": 38}, {"date": "1978-02-11", "rank": 34}, {"date": "1978-02-18", "rank": 30}, {"date": "1978-02-25", "rank": 28}, {"date": "1978-03-04", "rank": 27}, {"date": "1978-03-11", "rank": 39}, {"date": "1978-03-18", "rank": 43}, {"date": "1978-03-25", "rank": 47}, {"date": "1978-04-01", "rank": 43}, {"date": "1978-04-08", "rank": 39}, {"date": "1978-04-15", "rank": 39}, {"date": "1978-04-22", "rank": 39}, {"date": "1978-04-29", "rank": 82}, {"date": "1978-05-06", "rank": 82}, {"date": "1978-05-13", "rank": 80}, {"date": "1978-05-20", "rank": 86}, {"date": "1978-05-27", "rank": 86}, {"date": "1978-06-03", "rank": 81}, {"date": "1978-06-10", "rank": 97}, {"date": "1978-06-17", "rank": 120}, {"date": "1978-06-24", "rank": 135}, {"date": "1978-07-01", "rank": 135}, {"date": "1978-07-08", "rank": 131}, {"date": "1978-07-15", "rank": 137}, {"date": "1978-07-22", "rank": 128}, {"date": "1978-07-29", "rank": 113}, {"date": "1978-08-05", "rank": 103}, {"date": "1978-08-12", "rank": 93}, {"date": "1978-08-19", "rank": 82}, {"date": "1978-08-26", "rank": 82}, {"date": "1978-09-02", "rank": 102}, {"date": "1978-09-09", "rank": 156}, {"date": "1978-09-16", "rank": 176}]}
+{
+  "id": "chic-chic",
+  "title": "Chic",
+  "artist": "Chic",
+  "peak": 27,
+  "history": [
+    {
+      "date": "1977-12-17",
+      "rank": 143
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 104
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 104
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 92
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 63
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 55
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 50
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 38
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 34
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 30
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 28
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 27
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 39
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 43
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 47
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 43
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 39
+    },
+    {
+      "date": "1978-04-15",
+      "rank": 39
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 39
+    },
+    {
+      "date": "1978-04-29",
+      "rank": 82
+    },
+    {
+      "date": "1978-05-06",
+      "rank": 82
+    },
+    {
+      "date": "1978-05-13",
+      "rank": 80
+    },
+    {
+      "date": "1978-05-20",
+      "rank": 86
+    },
+    {
+      "date": "1978-05-27",
+      "rank": 86
+    },
+    {
+      "date": "1978-06-03",
+      "rank": 81
+    },
+    {
+      "date": "1978-06-10",
+      "rank": 97
+    },
+    {
+      "date": "1978-06-17",
+      "rank": 120
+    },
+    {
+      "date": "1978-06-24",
+      "rank": 135
+    },
+    {
+      "date": "1978-07-01",
+      "rank": 135
+    },
+    {
+      "date": "1978-07-08",
+      "rank": 131
+    },
+    {
+      "date": "1978-07-15",
+      "rank": 137
+    },
+    {
+      "date": "1978-07-22",
+      "rank": 128
+    },
+    {
+      "date": "1978-07-29",
+      "rank": 113
+    },
+    {
+      "date": "1978-08-05",
+      "rank": 103
+    },
+    {
+      "date": "1978-08-12",
+      "rank": 93
+    },
+    {
+      "date": "1978-08-19",
+      "rank": 82
+    },
+    {
+      "date": "1978-08-26",
+      "rank": 82
+    },
+    {
+      "date": "1978-09-02",
+      "rank": 102
+    },
+    {
+      "date": "1978-09-09",
+      "rank": 156
+    },
+    {
+      "date": "1978-09-16",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+      "id": "dance-dance-dance-yowsah-yowsah-yowsah-chic"
+    },
+    {
+      "title": "Everybody Dance",
+      "id": "everybody-dance-chic"
+    },
+    {
+      "title": "Le Freak",
+      "id": "le-freak-chic"
+    },
+    {
+      "title": "I Want Your Love",
+      "id": "i-want-your-love-chic"
+    },
+    {
+      "title": "São Paulo",
+      "id": null
+    },
+    {
+      "title": "You Can Get By",
+      "id": null
+    },
+    {
+      "title": "Est-ce que c’est Chic",
+      "id": null
+    },
+    {
+      "title": "Falling in Love With You",
+      "id": null
+    },
+    {
+      "title": "Strike Up the Band",
+      "id": null
+    },
+    {
+      "title": "Chic Cheer",
+      "id": null
+    },
+    {
+      "title": "Savoir Faire",
+      "id": null
+    },
+    {
+      "title": "Happy Man",
+      "id": null
+    },
+    {
+      "title": "At Last I Am Free",
+      "id": null
+    },
+    {
+      "title": "Sometimes You Win",
+      "id": null
+    },
+    {
+      "title": "(Funny) Bone",
+      "id": null
+    }
+  ]
+}

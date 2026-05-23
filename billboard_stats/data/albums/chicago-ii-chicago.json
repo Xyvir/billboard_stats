@@ -1,1 +1,194 @@
-{"id": "chicago-ii-chicago", "title": "Chicago II", "artist": "Chicago", "peak": 111, "history": [{"date": "1974-08-31", "rank": 170}, {"date": "1974-09-07", "rank": 155}, {"date": "1974-09-14", "rank": 149}, {"date": "1974-09-21", "rank": 147}, {"date": "1974-09-28", "rank": 143}, {"date": "1974-10-05", "rank": 138}, {"date": "1974-10-12", "rank": 167}, {"date": "1974-10-19", "rank": 176}, {"date": "1974-10-26", "rank": 171}, {"date": "1975-01-04", "rank": 180}, {"date": "1975-01-11", "rank": 150}, {"date": "1975-01-18", "rank": 139}, {"date": "1975-01-25", "rank": 128}, {"date": "1975-02-01", "rank": 120}, {"date": "1975-02-08", "rank": 111}, {"date": "1975-02-15", "rank": 111}, {"date": "1975-02-22", "rank": 139}, {"date": "1975-03-01", "rank": 147}, {"date": "1975-03-08", "rank": 157}, {"date": "1975-03-15", "rank": 190}, {"date": "1975-05-17", "rank": 182}, {"date": "1975-05-24", "rank": 180}, {"date": "1975-05-31", "rank": 193}]}
+{
+  "id": "chicago-ii-chicago",
+  "title": "Chicago II",
+  "artist": "Chicago",
+  "peak": 111,
+  "history": [
+    {
+      "date": "1974-08-31",
+      "rank": 170
+    },
+    {
+      "date": "1974-09-07",
+      "rank": 155
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 149
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 147
+    },
+    {
+      "date": "1974-09-28",
+      "rank": 143
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 138
+    },
+    {
+      "date": "1974-10-12",
+      "rank": 167
+    },
+    {
+      "date": "1974-10-19",
+      "rank": 176
+    },
+    {
+      "date": "1974-10-26",
+      "rank": 171
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 180
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 150
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 139
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 128
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 120
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 111
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 111
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 139
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 147
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 157
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 190
+    },
+    {
+      "date": "1975-05-17",
+      "rank": 182
+    },
+    {
+      "date": "1975-05-24",
+      "rank": 180
+    },
+    {
+      "date": "1975-05-31",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Make Me Smile",
+      "id": "make-me-smile-chicago"
+    },
+    {
+      "title": "Colour My World",
+      "id": "beginnings-colour-my-world-chicago"
+    },
+    {
+      "title": "25 or 6 to 4",
+      "id": "25-or-6-to-4-chicago"
+    },
+    {
+      "title": "Movin’ In",
+      "id": null
+    },
+    {
+      "title": "The Road",
+      "id": null
+    },
+    {
+      "title": "Poem for the People",
+      "id": null
+    },
+    {
+      "title": "In the Country",
+      "id": null
+    },
+    {
+      "title": "Wake Up Sunshine",
+      "id": null
+    },
+    {
+      "title": "So Much to Say, So Much to Give",
+      "id": null
+    },
+    {
+      "title": "Anxiety’s Moment",
+      "id": null
+    },
+    {
+      "title": "West Virginia Fantasies",
+      "id": null
+    },
+    {
+      "title": "To Be Free",
+      "id": null
+    },
+    {
+      "title": "Now More Than Ever",
+      "id": null
+    },
+    {
+      "title": "Fancy Colours",
+      "id": null
+    },
+    {
+      "title": "Prelude",
+      "id": null
+    },
+    {
+      "title": "A.M. Mourning",
+      "id": null
+    },
+    {
+      "title": "P.M. Mourning",
+      "id": null
+    },
+    {
+      "title": "Memories of Love",
+      "id": null
+    },
+    {
+      "title": "It Better End Soon (1st Movement)",
+      "id": null
+    },
+    {
+      "title": "It Better End Soon (2nd Movement)",
+      "id": null
+    },
+    {
+      "title": "It Better End Soon (3rd Movement)",
+      "id": null
+    },
+    {
+      "title": "It Better End Soon (4th Movement)",
+      "id": null
+    },
+    {
+      "title": "Where Do We Go From Here",
+      "id": null
+    }
+  ]
+}

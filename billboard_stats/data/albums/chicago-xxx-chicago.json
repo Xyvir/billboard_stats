@@ -1,1 +1,70 @@
-{"id": "chicago-xxx-chicago", "title": "Chicago XXX", "artist": "Chicago", "peak": 41, "history": [{"date": "2006-04-08", "rank": 41}, {"date": "2006-04-15", "rank": 123}]}
+{
+  "id": "chicago-xxx-chicago",
+  "title": "Chicago XXX",
+  "artist": "Chicago",
+  "peak": 41,
+  "history": [
+    {
+      "date": "2006-04-08",
+      "rank": 41
+    },
+    {
+      "date": "2006-04-15",
+      "rank": 123
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Feel (Hot single mix)",
+      "id": null
+    },
+    {
+      "title": "King of Might Have Been",
+      "id": null
+    },
+    {
+      "title": "Caroline",
+      "id": null
+    },
+    {
+      "title": "Why Can’t We",
+      "id": null
+    },
+    {
+      "title": "Love Will Come Back",
+      "id": null
+    },
+    {
+      "title": "Long Lost Friend",
+      "id": null
+    },
+    {
+      "title": "90 Degrees and Freezing",
+      "id": null
+    },
+    {
+      "title": "Where Were You",
+      "id": null
+    },
+    {
+      "title": "Already Gone",
+      "id": null
+    },
+    {
+      "title": "Come to Me, Do",
+      "id": null
+    },
+    {
+      "title": "Lovin’ Chains",
+      "id": null
+    },
+    {
+      "title": "Better",
+      "id": null
+    },
+    {
+      "title": "Feel (w/Horns)",
+      "id": null
+    }
+  ]
+}

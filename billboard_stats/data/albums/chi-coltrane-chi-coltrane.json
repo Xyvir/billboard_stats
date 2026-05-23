@@ -1,1 +1,94 @@
-{"id": "chi-coltrane-chi-coltrane", "title": "Chi Coltrane", "artist": "Chi Coltrane", "peak": 148, "history": [{"date": "1972-09-23", "rank": 195}, {"date": "1972-09-30", "rank": 194}, {"date": "1972-10-07", "rank": 185}, {"date": "1972-10-14", "rank": 183}, {"date": "1972-10-21", "rank": 160}, {"date": "1972-10-28", "rank": 154}, {"date": "1972-11-04", "rank": 150}, {"date": "1972-11-11", "rank": 148}, {"date": "1972-11-18", "rank": 155}, {"date": "1972-11-25", "rank": 174}]}
+{
+  "id": "chi-coltrane-chi-coltrane",
+  "title": "Chi Coltrane",
+  "artist": "Chi Coltrane",
+  "peak": 148,
+  "history": [
+    {
+      "date": "1972-09-23",
+      "rank": 195
+    },
+    {
+      "date": "1972-09-30",
+      "rank": 194
+    },
+    {
+      "date": "1972-10-07",
+      "rank": 185
+    },
+    {
+      "date": "1972-10-14",
+      "rank": 183
+    },
+    {
+      "date": "1972-10-21",
+      "rank": 160
+    },
+    {
+      "date": "1972-10-28",
+      "rank": 154
+    },
+    {
+      "date": "1972-11-04",
+      "rank": 150
+    },
+    {
+      "date": "1972-11-11",
+      "rank": 148
+    },
+    {
+      "date": "1972-11-18",
+      "rank": 155
+    },
+    {
+      "date": "1972-11-25",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Thunder and Lightning",
+      "id": "thunder-and-lightning-chi-coltrane"
+    },
+    {
+      "title": "Goodbye John",
+      "id": null
+    },
+    {
+      "title": "You Were My Friend",
+      "id": null
+    },
+    {
+      "title": "Turn Me Around",
+      "id": null
+    },
+    {
+      "title": "Go Like Elijah",
+      "id": null
+    },
+    {
+      "title": "The Tree",
+      "id": null
+    },
+    {
+      "title": "Feelin' Good",
+      "id": null
+    },
+    {
+      "title": "It's Really Come to This",
+      "id": null
+    },
+    {
+      "title": "I Will Not Dance",
+      "id": null
+    },
+    {
+      "title": "Time to Come In",
+      "id": null
+    },
+    {
+      "title": "The Wheel of Life",
+      "id": null
+    }
+  ]
+}
