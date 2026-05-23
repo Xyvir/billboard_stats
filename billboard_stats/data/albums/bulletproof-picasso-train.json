@@ -1,1 +1,86 @@
-{"id": "bulletproof-picasso-train", "title": "Bulletproof Picasso", "artist": "Train", "peak": 5, "history": [{"date": "2014-10-04", "rank": 5}, {"date": "2014-10-11", "rank": 31}, {"date": "2014-10-18", "rank": 60}, {"date": "2014-10-25", "rank": 92}, {"date": "2014-11-01", "rank": 121}, {"date": "2014-11-08", "rank": 153}, {"date": "2014-12-13", "rank": 100}]}
+{
+  "id": "bulletproof-picasso-train",
+  "title": "Bulletproof Picasso",
+  "artist": "Train",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2014-10-04",
+      "rank": 5
+    },
+    {
+      "date": "2014-10-11",
+      "rank": 31
+    },
+    {
+      "date": "2014-10-18",
+      "rank": 60
+    },
+    {
+      "date": "2014-10-25",
+      "rank": 92
+    },
+    {
+      "date": "2014-11-01",
+      "rank": 121
+    },
+    {
+      "date": "2014-11-08",
+      "rank": 153
+    },
+    {
+      "date": "2014-12-13",
+      "rank": 100
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Angel in Blue Jeans",
+      "id": "angel-in-blue-jeans-train"
+    },
+    {
+      "title": "Cadillac, Cadillac",
+      "id": null
+    },
+    {
+      "title": "Bulletproof Picasso",
+      "id": null
+    },
+    {
+      "title": "Give It All",
+      "id": null
+    },
+    {
+      "title": "Wonder What You’re Doing for the Rest of Your Life",
+      "id": null
+    },
+    {
+      "title": "Son of a Prison Guard",
+      "id": null
+    },
+    {
+      "title": "Just a Memory",
+      "id": null
+    },
+    {
+      "title": "I’m Drinkin’ Tonight",
+      "id": null
+    },
+    {
+      "title": "I Will Remember",
+      "id": null
+    },
+    {
+      "title": "The Bridge",
+      "id": null
+    },
+    {
+      "title": "Baby, Happy Birthday",
+      "id": null
+    },
+    {
+      "title": "Don’t Grow Up So Fast",
+      "id": null
+    }
+  ]
+}

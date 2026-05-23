@@ -1,1 +1,306 @@
-{"id": "building-the-perfect-beast-don-henley", "title": "Building The Perfect Beast", "artist": "Don Henley", "peak": 13, "history": [{"date": "1984-12-15", "rank": 47}, {"date": "1984-12-22", "rank": 37}, {"date": "1984-12-29", "rank": 37}, {"date": "1985-01-05", "rank": 32}, {"date": "1985-01-12", "rank": 29}, {"date": "1985-01-19", "rank": 27}, {"date": "1985-01-26", "rank": 23}, {"date": "1985-02-02", "rank": 16}, {"date": "1985-02-09", "rank": 14}, {"date": "1985-02-16", "rank": 14}, {"date": "1985-02-23", "rank": 14}, {"date": "1985-03-02", "rank": 14}, {"date": "1985-03-09", "rank": 14}, {"date": "1985-03-16", "rank": 13}, {"date": "1985-03-23", "rank": 13}, {"date": "1985-03-30", "rank": 13}, {"date": "1985-04-06", "rank": 13}, {"date": "1985-04-13", "rank": 13}, {"date": "1985-04-20", "rank": 16}, {"date": "1985-04-27", "rank": 16}, {"date": "1985-05-04", "rank": 16}, {"date": "1985-05-11", "rank": 22}, {"date": "1985-05-18", "rank": 21}, {"date": "1985-05-25", "rank": 20}, {"date": "1985-06-01", "rank": 17}, {"date": "1985-06-08", "rank": 17}, {"date": "1985-06-15", "rank": 22}, {"date": "1985-06-22", "rank": 28}, {"date": "1985-06-29", "rank": 30}, {"date": "1985-07-06", "rank": 30}, {"date": "1985-07-13", "rank": 36}, {"date": "1985-07-20", "rank": 42}, {"date": "1985-07-27", "rank": 46}, {"date": "1985-08-03", "rank": 54}, {"date": "1985-08-10", "rank": 56}, {"date": "1985-08-17", "rank": 56}, {"date": "1985-08-24", "rank": 61}, {"date": "1985-08-31", "rank": 59}, {"date": "1985-09-07", "rank": 68}, {"date": "1985-09-14", "rank": 63}, {"date": "1985-09-21", "rank": 61}, {"date": "1985-09-28", "rank": 57}, {"date": "1985-10-05", "rank": 53}, {"date": "1985-10-12", "rank": 51}, {"date": "1985-10-19", "rank": 49}, {"date": "1985-10-26", "rank": 46}, {"date": "1985-11-02", "rank": 46}, {"date": "1985-11-09", "rank": 50}, {"date": "1985-11-16", "rank": 63}, {"date": "1985-11-23", "rank": 79}, {"date": "1985-11-30", "rank": 89}, {"date": "1985-12-07", "rank": 115}, {"date": "1985-12-14", "rank": 115}, {"date": "1985-12-21", "rank": 136}, {"date": "1985-12-28", "rank": 157}, {"date": "1986-01-04", "rank": 157}, {"date": "1986-01-11", "rank": 153}, {"date": "1986-01-18", "rank": 148}, {"date": "1986-01-25", "rank": 147}, {"date": "1986-02-01", "rank": 152}, {"date": "1986-02-08", "rank": 172}, {"date": "1986-02-15", "rank": 172}, {"date": "1986-02-22", "rank": 170}]}
+{
+  "id": "building-the-perfect-beast-don-henley",
+  "title": "Building The Perfect Beast",
+  "artist": "Don Henley",
+  "peak": 13,
+  "history": [
+    {
+      "date": "1984-12-15",
+      "rank": 47
+    },
+    {
+      "date": "1984-12-22",
+      "rank": 37
+    },
+    {
+      "date": "1984-12-29",
+      "rank": 37
+    },
+    {
+      "date": "1985-01-05",
+      "rank": 32
+    },
+    {
+      "date": "1985-01-12",
+      "rank": 29
+    },
+    {
+      "date": "1985-01-19",
+      "rank": 27
+    },
+    {
+      "date": "1985-01-26",
+      "rank": 23
+    },
+    {
+      "date": "1985-02-02",
+      "rank": 16
+    },
+    {
+      "date": "1985-02-09",
+      "rank": 14
+    },
+    {
+      "date": "1985-02-16",
+      "rank": 14
+    },
+    {
+      "date": "1985-02-23",
+      "rank": 14
+    },
+    {
+      "date": "1985-03-02",
+      "rank": 14
+    },
+    {
+      "date": "1985-03-09",
+      "rank": 14
+    },
+    {
+      "date": "1985-03-16",
+      "rank": 13
+    },
+    {
+      "date": "1985-03-23",
+      "rank": 13
+    },
+    {
+      "date": "1985-03-30",
+      "rank": 13
+    },
+    {
+      "date": "1985-04-06",
+      "rank": 13
+    },
+    {
+      "date": "1985-04-13",
+      "rank": 13
+    },
+    {
+      "date": "1985-04-20",
+      "rank": 16
+    },
+    {
+      "date": "1985-04-27",
+      "rank": 16
+    },
+    {
+      "date": "1985-05-04",
+      "rank": 16
+    },
+    {
+      "date": "1985-05-11",
+      "rank": 22
+    },
+    {
+      "date": "1985-05-18",
+      "rank": 21
+    },
+    {
+      "date": "1985-05-25",
+      "rank": 20
+    },
+    {
+      "date": "1985-06-01",
+      "rank": 17
+    },
+    {
+      "date": "1985-06-08",
+      "rank": 17
+    },
+    {
+      "date": "1985-06-15",
+      "rank": 22
+    },
+    {
+      "date": "1985-06-22",
+      "rank": 28
+    },
+    {
+      "date": "1985-06-29",
+      "rank": 30
+    },
+    {
+      "date": "1985-07-06",
+      "rank": 30
+    },
+    {
+      "date": "1985-07-13",
+      "rank": 36
+    },
+    {
+      "date": "1985-07-20",
+      "rank": 42
+    },
+    {
+      "date": "1985-07-27",
+      "rank": 46
+    },
+    {
+      "date": "1985-08-03",
+      "rank": 54
+    },
+    {
+      "date": "1985-08-10",
+      "rank": 56
+    },
+    {
+      "date": "1985-08-17",
+      "rank": 56
+    },
+    {
+      "date": "1985-08-24",
+      "rank": 61
+    },
+    {
+      "date": "1985-08-31",
+      "rank": 59
+    },
+    {
+      "date": "1985-09-07",
+      "rank": 68
+    },
+    {
+      "date": "1985-09-14",
+      "rank": 63
+    },
+    {
+      "date": "1985-09-21",
+      "rank": 61
+    },
+    {
+      "date": "1985-09-28",
+      "rank": 57
+    },
+    {
+      "date": "1985-10-05",
+      "rank": 53
+    },
+    {
+      "date": "1985-10-12",
+      "rank": 51
+    },
+    {
+      "date": "1985-10-19",
+      "rank": 49
+    },
+    {
+      "date": "1985-10-26",
+      "rank": 46
+    },
+    {
+      "date": "1985-11-02",
+      "rank": 46
+    },
+    {
+      "date": "1985-11-09",
+      "rank": 50
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 63
+    },
+    {
+      "date": "1985-11-23",
+      "rank": 79
+    },
+    {
+      "date": "1985-11-30",
+      "rank": 89
+    },
+    {
+      "date": "1985-12-07",
+      "rank": 115
+    },
+    {
+      "date": "1985-12-14",
+      "rank": 115
+    },
+    {
+      "date": "1985-12-21",
+      "rank": 136
+    },
+    {
+      "date": "1985-12-28",
+      "rank": 157
+    },
+    {
+      "date": "1986-01-04",
+      "rank": 157
+    },
+    {
+      "date": "1986-01-11",
+      "rank": 153
+    },
+    {
+      "date": "1986-01-18",
+      "rank": 148
+    },
+    {
+      "date": "1986-01-25",
+      "rank": 147
+    },
+    {
+      "date": "1986-02-01",
+      "rank": 152
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 172
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 172
+    },
+    {
+      "date": "1986-02-22",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Boys of Summer",
+      "id": "the-boys-of-summer-don-henley"
+    },
+    {
+      "title": "Not Enough Love in the World",
+      "id": "not-enough-love-in-the-world-don-henley"
+    },
+    {
+      "title": "All She Wants to Do Is Dance",
+      "id": "all-she-wants-to-do-is-dance-don-henley"
+    },
+    {
+      "title": "Sunset Grill",
+      "id": "sunset-grill-don-henley"
+    },
+    {
+      "title": "You Can’t Make Love",
+      "id": null
+    },
+    {
+      "title": "Man With a Mission",
+      "id": null
+    },
+    {
+      "title": "You’re Not Drinking Enough",
+      "id": null
+    },
+    {
+      "title": "Building the Perfect Beast",
+      "id": null
+    },
+    {
+      "title": "A Month of Sundays",
+      "id": null
+    },
+    {
+      "title": "Drivin’ With Your Eyes Closed",
+      "id": null
+    },
+    {
+      "title": "Land of the Living",
+      "id": null
+    }
+  ]
+}

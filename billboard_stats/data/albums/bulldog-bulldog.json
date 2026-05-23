@@ -1,1 +1,98 @@
-{"id": "bulldog-bulldog", "title": "Bulldog", "artist": "Bulldog", "peak": 176, "history": [{"date": "1972-11-18", "rank": 199}, {"date": "1972-11-25", "rank": 193}, {"date": "1972-12-02", "rank": 188}, {"date": "1972-12-09", "rank": 183}, {"date": "1972-12-16", "rank": 180}, {"date": "1972-12-23", "rank": 180}, {"date": "1972-12-30", "rank": 178}, {"date": "1973-01-06", "rank": 176}, {"date": "1973-01-13", "rank": 182}, {"date": "1973-01-20", "rank": 178}, {"date": "1973-01-27", "rank": 187}, {"date": "1973-02-03", "rank": 197}]}
+{
+  "id": "bulldog-bulldog",
+  "title": "Bulldog",
+  "artist": "Bulldog",
+  "peak": 176,
+  "history": [
+    {
+      "date": "1972-11-18",
+      "rank": 199
+    },
+    {
+      "date": "1972-11-25",
+      "rank": 193
+    },
+    {
+      "date": "1972-12-02",
+      "rank": 188
+    },
+    {
+      "date": "1972-12-09",
+      "rank": 183
+    },
+    {
+      "date": "1972-12-16",
+      "rank": 180
+    },
+    {
+      "date": "1972-12-23",
+      "rank": 180
+    },
+    {
+      "date": "1972-12-30",
+      "rank": 178
+    },
+    {
+      "date": "1973-01-06",
+      "rank": 176
+    },
+    {
+      "date": "1973-01-13",
+      "rank": 182
+    },
+    {
+      "date": "1973-01-20",
+      "rank": 178
+    },
+    {
+      "date": "1973-01-27",
+      "rank": 187
+    },
+    {
+      "date": "1973-02-03",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No",
+      "id": "no-bulldog"
+    },
+    {
+      "title": "Rockin' Robin",
+      "id": null
+    },
+    {
+      "title": "Juicin' With Lucy",
+      "id": null
+    },
+    {
+      "title": "Don't Blame It on Me",
+      "id": null
+    },
+    {
+      "title": "You Underlined My Life",
+      "id": null
+    },
+    {
+      "title": "Have a Nice Day",
+      "id": null
+    },
+    {
+      "title": "Too Much Monkey Business",
+      "id": null
+    },
+    {
+      "title": "Parting People Should Be Good Friends",
+      "id": null
+    },
+    {
+      "title": "Good Times Are Comin'",
+      "id": null
+    },
+    {
+      "title": "I'm a Madman",
+      "id": null
+    }
+  ]
+}

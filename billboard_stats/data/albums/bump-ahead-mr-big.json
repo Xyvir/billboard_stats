@@ -1,1 +1,90 @@
-{"id": "bump-ahead-mr-big", "title": "Bump Ahead", "artist": "Mr. Big", "peak": 82, "history": [{"date": "1993-10-09", "rank": 82}, {"date": "1993-10-16", "rank": 120}, {"date": "1993-10-23", "rank": 132}, {"date": "1993-10-30", "rank": 146}, {"date": "1993-11-06", "rank": 156}, {"date": "1993-11-13", "rank": 187}]}
+{
+  "id": "bump-ahead-mr-big",
+  "title": "Bump Ahead",
+  "artist": "Mr. Big",
+  "peak": 82,
+  "history": [
+    {
+      "date": "1993-10-09",
+      "rank": 82
+    },
+    {
+      "date": "1993-10-16",
+      "rank": 120
+    },
+    {
+      "date": "1993-10-23",
+      "rank": 132
+    },
+    {
+      "date": "1993-10-30",
+      "rank": 146
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 156
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wild World",
+      "id": "wild-world-mr-big"
+    },
+    {
+      "title": "Ain’t Seen Love Like That",
+      "id": "ain-t-seen-love-like-that-mr-big"
+    },
+    {
+      "title": "Ain’t Seen Love Like That (early version)",
+      "id": "ain-t-seen-love-like-that-mr-big"
+    },
+    {
+      "title": "Colorado Bulldog",
+      "id": null
+    },
+    {
+      "title": "Price You Gotta Pay",
+      "id": null
+    },
+    {
+      "title": "Promise Her the Moon",
+      "id": null
+    },
+    {
+      "title": "What’s It Gonna Be",
+      "id": null
+    },
+    {
+      "title": "Mr. Gone",
+      "id": null
+    },
+    {
+      "title": "The Whole World’s Gonna Know",
+      "id": null
+    },
+    {
+      "title": "Nothing but Love",
+      "id": null
+    },
+    {
+      "title": "Temperamental",
+      "id": null
+    },
+    {
+      "title": "Mr. Big",
+      "id": null
+    },
+    {
+      "title": "Long Way Down",
+      "id": null
+    },
+    {
+      "title": "Mr. Big (demo)",
+      "id": null
+    }
+  ]
+}

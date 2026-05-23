@@ -1,1 +1,94 @@
-{"id": "buick-sawyer-brown", "title": "Buick", "artist": "Sawyer Brown", "peak": 140, "history": [{"date": "1991-08-31", "rank": 198}, {"date": "1991-09-07", "rank": 190}, {"date": "1991-09-14", "rank": 184}, {"date": "1991-09-21", "rank": 190}, {"date": "1991-09-28", "rank": 170}, {"date": "1991-10-05", "rank": 157}, {"date": "1991-10-12", "rank": 149}, {"date": "1991-10-19", "rank": 140}, {"date": "1991-10-26", "rank": 158}, {"date": "1991-11-02", "rank": 166}, {"date": "1991-11-09", "rank": 176}]}
+{
+  "id": "buick-sawyer-brown",
+  "title": "Buick",
+  "artist": "Sawyer Brown",
+  "peak": 140,
+  "history": [
+    {
+      "date": "1991-08-31",
+      "rank": 198
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 190
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 184
+    },
+    {
+      "date": "1991-09-21",
+      "rank": 190
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 170
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 157
+    },
+    {
+      "date": "1991-10-12",
+      "rank": 149
+    },
+    {
+      "date": "1991-10-19",
+      "rank": 140
+    },
+    {
+      "date": "1991-10-26",
+      "rank": 158
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 166
+    },
+    {
+      "date": "1991-11-09",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mama's Little Baby Loves Me",
+      "id": null
+    },
+    {
+      "title": "My Baby Drives a Buick",
+      "id": null
+    },
+    {
+      "title": "When You Run From Love",
+      "id": null
+    },
+    {
+      "title": "The Walk",
+      "id": null
+    },
+    {
+      "title": "48 Hours Till Monday",
+      "id": null
+    },
+    {
+      "title": "Superman's Daughter",
+      "id": null
+    },
+    {
+      "title": "One Less Pony",
+      "id": null
+    },
+    {
+      "title": "Still Water (Duet With Donna McElroy)",
+      "id": null
+    },
+    {
+      "title": "Stealin' Home",
+      "id": null
+    },
+    {
+      "title": "Thunder Bay",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,106 @@
-{"id": "buffet-hotel-jimmy-buffett", "title": "Buffet Hotel", "artist": "Jimmy Buffett", "peak": 17, "history": [{"date": "2009-12-26", "rank": 17}, {"date": "2010-01-02", "rank": 36}, {"date": "2010-01-09", "rank": 55}, {"date": "2010-01-16", "rank": 88}, {"date": "2010-01-23", "rank": 91}, {"date": "2010-01-30", "rank": 102}, {"date": "2010-02-06", "rank": 119}, {"date": "2010-02-13", "rank": 147}, {"date": "2010-02-20", "rank": 178}, {"date": "2010-05-08", "rank": 138}, {"date": "2010-05-15", "rank": 117}, {"date": "2010-05-22", "rank": 170}]}
+{
+  "id": "buffet-hotel-jimmy-buffett",
+  "title": "Buffet Hotel",
+  "artist": "Jimmy Buffett",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2009-12-26",
+      "rank": 17
+    },
+    {
+      "date": "2010-01-02",
+      "rank": 36
+    },
+    {
+      "date": "2010-01-09",
+      "rank": 55
+    },
+    {
+      "date": "2010-01-16",
+      "rank": 88
+    },
+    {
+      "date": "2010-01-23",
+      "rank": 91
+    },
+    {
+      "date": "2010-01-30",
+      "rank": 102
+    },
+    {
+      "date": "2010-02-06",
+      "rank": 119
+    },
+    {
+      "date": "2010-02-13",
+      "rank": 147
+    },
+    {
+      "date": "2010-02-20",
+      "rank": 178
+    },
+    {
+      "date": "2010-05-08",
+      "rank": 138
+    },
+    {
+      "date": "2010-05-15",
+      "rank": 117
+    },
+    {
+      "date": "2010-05-22",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wings",
+      "id": "fins-jimmy-buffett"
+    },
+    {
+      "title": "Nobody From Nowhere",
+      "id": null
+    },
+    {
+      "title": "Big Top",
+      "id": null
+    },
+    {
+      "title": "Beautiful Swimmers",
+      "id": null
+    },
+    {
+      "title": "Turn Up the Heat and Chill the Rosé",
+      "id": null
+    },
+    {
+      "title": "Summerzcool",
+      "id": null
+    },
+    {
+      "title": "Rhumba Man",
+      "id": null
+    },
+    {
+      "title": "We Learned to Be Cool From You",
+      "id": null
+    },
+    {
+      "title": "Surfing in a Hurricane",
+      "id": null
+    },
+    {
+      "title": "Life Short Call Now",
+      "id": null
+    },
+    {
+      "title": "Buffet Hotel",
+      "id": null
+    },
+    {
+      "title": "A Lot to Drink About",
+      "id": null
+    }
+  ]
+}
