@@ -1,1 +1,70 @@
-{"id": "dallas-floyd-cramer", "title": "Dallas", "artist": "Floyd Cramer", "peak": 170, "history": [{"date": "1980-05-24", "rank": 196}, {"date": "1980-05-31", "rank": 183}, {"date": "1980-06-07", "rank": 173}, {"date": "1980-06-14", "rank": 170}, {"date": "1980-06-21", "rank": 192}]}
+{
+  "id": "dallas-floyd-cramer",
+  "title": "Dallas",
+  "artist": "Floyd Cramer",
+  "peak": 170,
+  "history": [
+    {
+      "date": "1980-05-24",
+      "rank": 196
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 183
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 173
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 170
+    },
+    {
+      "date": "1980-06-21",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dallas",
+      "id": null
+    },
+    {
+      "title": "The Incredible Hulk",
+      "id": null
+    },
+    {
+      "title": "Taxi (Angela)",
+      "id": null
+    },
+    {
+      "title": "All in the Family (Those Where the Days)",
+      "id": null
+    },
+    {
+      "title": "Theme From “The Waltons”",
+      "id": null
+    },
+    {
+      "title": "Little House on the Prairie",
+      "id": null
+    },
+    {
+      "title": "Main Theme From \"The Young and the Restless\" (Nadia's Theme)",
+      "id": null
+    },
+    {
+      "title": "Song From M*A*S*H",
+      "id": null
+    },
+    {
+      "title": "Laverne & Shirley (Making Our Dreams Come True)",
+      "id": null
+    },
+    {
+      "title": "Knots Landing",
+      "id": null
+    }
+  ]
+}

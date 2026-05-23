@@ -1,1 +1,62 @@
-{"id": "dale-pitbull", "title": "Dale", "artist": "Pitbull", "peak": 97, "history": [{"date": "2015-08-08", "rank": 97}]}
+{
+  "id": "dale-pitbull",
+  "title": "Dale",
+  "artist": "Pitbull",
+  "peak": 97,
+  "history": [
+    {
+      "date": "2015-08-08",
+      "rank": 97
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Chi Chi Bon Bon",
+      "id": "bon-bon-pitbull"
+    },
+    {
+      "title": "Piensas (Dile la verdad)",
+      "id": null
+    },
+    {
+      "title": "Como yo le doy",
+      "id": null
+    },
+    {
+      "title": "El taxi",
+      "id": null
+    },
+    {
+      "title": "Yo quiero (Si tú te enamoras)",
+      "id": null
+    },
+    {
+      "title": "El party",
+      "id": null
+    },
+    {
+      "title": "Mami mami",
+      "id": null
+    },
+    {
+      "title": "Baddest Girl in Town",
+      "id": null
+    },
+    {
+      "title": "Haciendo ruido",
+      "id": null
+    },
+    {
+      "title": "Hoy se bebe",
+      "id": null
+    },
+    {
+      "title": "No puedo más",
+      "id": null
+    },
+    {
+      "title": "Que lo que",
+      "id": null
+    }
+  ]
+}

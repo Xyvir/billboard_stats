@@ -1,1 +1,54 @@
-{"id": "d-2-agust-d", "title": "D-2", "artist": "Agust D", "peak": 11, "history": [{"date": "2020-06-06", "rank": 11}]}
+{
+  "id": "d-2-agust-d",
+  "title": "D-2",
+  "artist": "Agust D",
+  "peak": 11,
+  "history": [
+    {
+      "date": "2020-06-06",
+      "rank": 11
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Daechwita",
+      "id": "daechwita-agust-d"
+    },
+    {
+      "title": "Moonlight",
+      "id": null
+    },
+    {
+      "title": "What do you think?",
+      "id": null
+    },
+    {
+      "title": "Strange",
+      "id": null
+    },
+    {
+      "title": "28",
+      "id": null
+    },
+    {
+      "title": "Burn It",
+      "id": null
+    },
+    {
+      "title": "People",
+      "id": null
+    },
+    {
+      "title": "Honsool",
+      "id": null
+    },
+    {
+      "title": "Interlude : Set me free",
+      "id": null
+    },
+    {
+      "title": "Dear my friend",
+      "id": null
+    }
+  ]
+}

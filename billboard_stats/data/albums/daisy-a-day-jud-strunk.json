@@ -1,1 +1,54 @@
-{"id": "daisy-a-day-jud-strunk", "title": "Daisy A Day", "artist": "Jud Strunk", "peak": 138, "history": [{"date": "1973-05-05", "rank": 189}, {"date": "1973-05-12", "rank": 172}, {"date": "1973-05-19", "rank": 164}, {"date": "1973-05-26", "rank": 151}, {"date": "1973-06-02", "rank": 142}, {"date": "1973-06-09", "rank": 138}, {"date": "1973-06-16", "rank": 143}, {"date": "1973-06-23", "rank": 145}, {"date": "1973-06-30", "rank": 166}]}
+{
+  "id": "daisy-a-day-jud-strunk",
+  "title": "Daisy A Day",
+  "artist": "Jud Strunk",
+  "peak": 138,
+  "history": [
+    {
+      "date": "1973-05-05",
+      "rank": 189
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 172
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 164
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 151
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 142
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 138
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 143
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 145
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Daisy a Day",
+      "id": "daisy-a-day-jud-strunk"
+    },
+    {
+      "title": "The Searchers",
+      "id": null
+    }
+  ]
+}
