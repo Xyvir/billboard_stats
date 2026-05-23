@@ -1,1 +1,82 @@
-{"id": "live-at-shea-stadium-the-clash", "title": "Live At Shea Stadium", "artist": "The Clash", "peak": 93, "history": [{"date": "2008-10-25", "rank": 93}, {"date": "2008-11-01", "rank": 193}]}
+{
+  "id": "live-at-shea-stadium-the-clash",
+  "title": "Live At Shea Stadium",
+  "artist": "The Clash",
+  "peak": 93,
+  "history": [
+    {
+      "date": "2008-10-25",
+      "rank": 93
+    },
+    {
+      "date": "2008-11-01",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rock the Casbah",
+      "id": "rock-the-casbah-the-clash"
+    },
+    {
+      "title": "Train in Vain",
+      "id": "train-in-vain-stand-by-me-the-clash"
+    },
+    {
+      "title": "Should I Stay or Should I Go",
+      "id": "should-i-stay-or-should-i-go-the-clash"
+    },
+    {
+      "title": "Kosmo Vinyl Introduction",
+      "id": null
+    },
+    {
+      "title": "London Calling",
+      "id": null
+    },
+    {
+      "title": "Police on My Back",
+      "id": null
+    },
+    {
+      "title": "Guns of Brixton",
+      "id": null
+    },
+    {
+      "title": "Tommy Gun",
+      "id": null
+    },
+    {
+      "title": "The Magnificent Seven",
+      "id": null
+    },
+    {
+      "title": "Armagideon Time",
+      "id": null
+    },
+    {
+      "title": "The Magnificent Seven (return)",
+      "id": null
+    },
+    {
+      "title": "Career Opportunities",
+      "id": null
+    },
+    {
+      "title": "Spanish Bombs",
+      "id": null
+    },
+    {
+      "title": "Clampdown",
+      "id": null
+    },
+    {
+      "title": "English Civil War",
+      "id": null
+    },
+    {
+      "title": "I Fought the Law",
+      "id": null
+    }
+  ]
+}

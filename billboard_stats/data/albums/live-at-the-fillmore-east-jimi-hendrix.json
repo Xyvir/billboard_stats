@@ -1,1 +1,86 @@
-{"id": "live-at-the-fillmore-east-jimi-hendrix", "title": "Live At The Fillmore East", "artist": "Jimi Hendrix", "peak": 65, "history": [{"date": "1999-03-13", "rank": 65}, {"date": "1999-03-20", "rank": 97}, {"date": "1999-03-27", "rank": 130}, {"date": "1999-04-03", "rank": 162}]}
+{
+  "id": "live-at-the-fillmore-east-jimi-hendrix",
+  "title": "Live At The Fillmore East",
+  "artist": "Jimi Hendrix",
+  "peak": 65,
+  "history": [
+    {
+      "date": "1999-03-13",
+      "rank": 65
+    },
+    {
+      "date": "1999-03-20",
+      "rank": 97
+    },
+    {
+      "date": "1999-03-27",
+      "rank": 130
+    },
+    {
+      "date": "1999-04-03",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stone Free",
+      "id": null
+    },
+    {
+      "title": "Power of Soul",
+      "id": null
+    },
+    {
+      "title": "Hear My Train a Comin’",
+      "id": null
+    },
+    {
+      "title": "Izabella",
+      "id": null
+    },
+    {
+      "title": "Machine Gun",
+      "id": null
+    },
+    {
+      "title": "Voodoo Child (slight return)",
+      "id": null
+    },
+    {
+      "title": "We Gotta Live Together",
+      "id": null
+    },
+    {
+      "title": "Auld Lang Syne",
+      "id": null
+    },
+    {
+      "title": "Who Knows",
+      "id": null
+    },
+    {
+      "title": "Them Changes",
+      "id": null
+    },
+    {
+      "title": "Stepping Stone",
+      "id": null
+    },
+    {
+      "title": "Stop",
+      "id": null
+    },
+    {
+      "title": "Earth Blues",
+      "id": null
+    },
+    {
+      "title": "Burning Desire",
+      "id": null
+    },
+    {
+      "title": "Wild Thing",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "live-at-madison-square-garden-shawn-mendes", "title": "Live At Madison Square Garden", "artist": "Shawn Mendes", "peak": 200, "history": [{"date": "2017-01-14", "rank": 200}]}
+{
+  "id": "live-at-madison-square-garden-shawn-mendes",
+  "title": "Live At Madison Square Garden",
+  "artist": "Shawn Mendes",
+  "peak": 200,
+  "history": [
+    {
+      "date": "2017-01-14",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Treat You Better",
+      "id": "treat-you-better-shawn-mendes"
+    },
+    {
+      "title": "Life of the Party",
+      "id": "life-of-the-party-shawn-mendes"
+    },
+    {
+      "title": "Mercy",
+      "id": "mercy-shawn-mendes"
+    },
+    {
+      "title": "Stitches",
+      "id": "stitches-shawn-mendes"
+    },
+    {
+      "title": "The Weight",
+      "id": null
+    },
+    {
+      "title": "Lights On",
+      "id": null
+    },
+    {
+      "title": "I Don’t Even Know Your Name / Aftertaste / Kid in Love / I Want You Back",
+      "id": null
+    },
+    {
+      "title": "Bad Reputation",
+      "id": null
+    },
+    {
+      "title": "Ruin",
+      "id": null
+    },
+    {
+      "title": "Three Empty Words",
+      "id": null
+    },
+    {
+      "title": "Don’t Be a Fool",
+      "id": null
+    },
+    {
+      "title": "Never Be Alone / Hey There Delilah",
+      "id": null
+    }
+  ]
+}

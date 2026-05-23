@@ -1,1 +1,42 @@
-{"id": "live-at-knebworth-1990-pink-floyd", "title": "Live At Knebworth 1990", "artist": "Pink Floyd", "peak": 100, "history": [{"date": "2021-05-15", "rank": 100}]}
+{
+  "id": "live-at-knebworth-1990-pink-floyd",
+  "title": "Live At Knebworth 1990",
+  "artist": "Pink Floyd",
+  "peak": 100,
+  "history": [
+    {
+      "date": "2021-05-15",
+      "rank": 100
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Money",
+      "id": "money-pink-floyd"
+    },
+    {
+      "title": "Run Like Hell",
+      "id": "run-like-hell-pink-floyd"
+    },
+    {
+      "title": "Shine On You Crazy Diamond, Parts 1–5",
+      "id": null
+    },
+    {
+      "title": "The Great Gig in the Sky",
+      "id": null
+    },
+    {
+      "title": "Wish You Were Here",
+      "id": null
+    },
+    {
+      "title": "Sorrow",
+      "id": null
+    },
+    {
+      "title": "Comfortably Numb",
+      "id": null
+    }
+  ]
+}

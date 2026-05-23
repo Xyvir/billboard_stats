@@ -1,1 +1,58 @@
-{"id": "live-at-monterey-the-jimi-hendrix-experience", "title": "Live At Monterey", "artist": "The Jimi Hendrix Experience", "peak": 123, "history": [{"date": "2007-11-03", "rank": 171}, {"date": "2014-05-03", "rank": 123}]}
+{
+  "id": "live-at-monterey-the-jimi-hendrix-experience",
+  "title": "Live At Monterey",
+  "artist": "The Jimi Hendrix Experience",
+  "peak": 123,
+  "history": [
+    {
+      "date": "2007-11-03",
+      "rank": 171
+    },
+    {
+      "date": "2014-05-03",
+      "rank": 123
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Purple Haze",
+      "id": "purple-haze-the-jimi-hendrix-experience"
+    },
+    {
+      "title": "Introduction by Brian Jones",
+      "id": null
+    },
+    {
+      "title": "Killing Floor",
+      "id": null
+    },
+    {
+      "title": "Foxey Lady",
+      "id": null
+    },
+    {
+      "title": "Like a Rolling Stone",
+      "id": null
+    },
+    {
+      "title": "Rock Me Baby",
+      "id": null
+    },
+    {
+      "title": "Hey Joe",
+      "id": null
+    },
+    {
+      "title": "Can You See Me",
+      "id": null
+    },
+    {
+      "title": "The Wind Cries Mary",
+      "id": null
+    },
+    {
+      "title": "Wild Thing",
+      "id": null
+    }
+  ]
+}
