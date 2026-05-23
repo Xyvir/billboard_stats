@@ -1,1 +1,78 @@
-{"id": "le-spank-le-pamplemousse", "title": "Le Spank", "artist": "Le Pamplemousse", "peak": 116, "history": [{"date": "1978-01-21", "rank": 190}, {"date": "1978-01-28", "rank": 180}, {"date": "1978-02-04", "rank": 170}, {"date": "1978-02-11", "rank": 159}, {"date": "1978-02-18", "rank": 149}, {"date": "1978-02-25", "rank": 137}, {"date": "1978-03-04", "rank": 127}, {"date": "1978-03-11", "rank": 117}, {"date": "1978-03-18", "rank": 116}, {"date": "1978-03-25", "rank": 131}, {"date": "1978-04-01", "rank": 155}]}
+{
+  "id": "le-spank-le-pamplemousse",
+  "title": "Le Spank",
+  "artist": "Le Pamplemousse",
+  "peak": 116,
+  "history": [
+    {
+      "date": "1978-01-21",
+      "rank": 190
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 180
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 170
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 159
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 149
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 137
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 127
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 117
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 116
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 131
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Le Spank",
+      "id": "le-spank-le-pamplemousse"
+    },
+    {
+      "title": "Come On Inside",
+      "id": null
+    },
+    {
+      "title": "When She Smiles",
+      "id": null
+    },
+    {
+      "title": "Get Your Boom Boom",
+      "id": null
+    },
+    {
+      "title": "Monkey See Monkey Do",
+      "id": null
+    },
+    {
+      "title": "Cafe Au Lait",
+      "id": null
+    }
+  ]
+}
