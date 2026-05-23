@@ -1,1 +1,182 @@
-{"id": "jump-up-elton-john", "title": "Jump Up", "artist": "Elton John", "peak": 17, "history": [{"date": "1982-05-08", "rank": 83}, {"date": "1982-05-15", "rank": 31}, {"date": "1982-05-22", "rank": 24}, {"date": "1982-05-29", "rank": 22}, {"date": "1982-06-05", "rank": 19}, {"date": "1982-06-12", "rank": 17}, {"date": "1982-06-19", "rank": 17}, {"date": "1982-06-26", "rank": 17}, {"date": "1982-07-03", "rank": 36}, {"date": "1982-07-10", "rank": 47}, {"date": "1982-07-17", "rank": 47}, {"date": "1982-07-24", "rank": 54}, {"date": "1982-07-31", "rank": 60}, {"date": "1982-08-07", "rank": 58}, {"date": "1982-08-14", "rank": 56}, {"date": "1982-08-21", "rank": 56}, {"date": "1982-08-28", "rank": 56}, {"date": "1982-09-04", "rank": 56}, {"date": "1982-09-11", "rank": 52}, {"date": "1982-09-18", "rank": 69}, {"date": "1982-09-25", "rank": 64}, {"date": "1982-10-02", "rank": 58}, {"date": "1982-10-09", "rank": 58}, {"date": "1982-10-16", "rank": 58}, {"date": "1982-10-23", "rank": 84}, {"date": "1982-10-30", "rank": 88}, {"date": "1982-11-06", "rank": 84}, {"date": "1982-11-13", "rank": 116}, {"date": "1982-11-20", "rank": 131}, {"date": "1982-11-27", "rank": 130}, {"date": "1982-12-04", "rank": 179}, {"date": "1982-12-11", "rank": 182}, {"date": "1982-12-18", "rank": 193}]}
+{
+  "id": "jump-up-elton-john",
+  "title": "Jump Up",
+  "artist": "Elton John",
+  "peak": 17,
+  "history": [
+    {
+      "date": "1982-05-08",
+      "rank": 83
+    },
+    {
+      "date": "1982-05-15",
+      "rank": 31
+    },
+    {
+      "date": "1982-05-22",
+      "rank": 24
+    },
+    {
+      "date": "1982-05-29",
+      "rank": 22
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 19
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 17
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 17
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 17
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 36
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 47
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 47
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 54
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 60
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 58
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 56
+    },
+    {
+      "date": "1982-08-21",
+      "rank": 56
+    },
+    {
+      "date": "1982-08-28",
+      "rank": 56
+    },
+    {
+      "date": "1982-09-04",
+      "rank": 56
+    },
+    {
+      "date": "1982-09-11",
+      "rank": 52
+    },
+    {
+      "date": "1982-09-18",
+      "rank": 69
+    },
+    {
+      "date": "1982-09-25",
+      "rank": 64
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 58
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 58
+    },
+    {
+      "date": "1982-10-16",
+      "rank": 58
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 84
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 88
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 84
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 116
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 131
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 130
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 179
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 182
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dear John",
+      "id": "border-song-elton-john"
+    },
+    {
+      "title": "Blue Eyes",
+      "id": "blue-eyes-elton-john"
+    },
+    {
+      "title": "Empty Garden (Hey Hey Johnny)",
+      "id": "empty-garden-hey-hey-johnny-elton-john"
+    },
+    {
+      "title": "Spiteful Child",
+      "id": null
+    },
+    {
+      "title": "Ball & Chain",
+      "id": null
+    },
+    {
+      "title": "Legal Boys",
+      "id": null
+    },
+    {
+      "title": "I Am Your Robot",
+      "id": null
+    },
+    {
+      "title": "Princess",
+      "id": null
+    },
+    {
+      "title": "Where Have All the Good Times Gone?",
+      "id": null
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "id": null
+    }
+  ]
+}

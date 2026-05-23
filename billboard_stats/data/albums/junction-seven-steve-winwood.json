@@ -1,1 +1,70 @@
-{"id": "junction-seven-steve-winwood", "title": "Junction Seven", "artist": "Steve Winwood", "peak": 123, "history": [{"date": "1997-06-21", "rank": 133}, {"date": "1997-06-28", "rank": 123}, {"date": "1997-07-05", "rank": 163}, {"date": "1997-07-12", "rank": 185}]}
+{
+  "id": "junction-seven-steve-winwood",
+  "title": "Junction Seven",
+  "artist": "Steve Winwood",
+  "peak": 123,
+  "history": [
+    {
+      "date": "1997-06-21",
+      "rank": 133
+    },
+    {
+      "date": "1997-06-28",
+      "rank": 123
+    },
+    {
+      "date": "1997-07-05",
+      "rank": 163
+    },
+    {
+      "date": "1997-07-12",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Real Love",
+      "id": "higher-love-steve-winwood"
+    },
+    {
+      "title": "Spy in the House of Love",
+      "id": null
+    },
+    {
+      "title": "Angel of Mercy",
+      "id": null
+    },
+    {
+      "title": "Just Wanna Have Some Fun",
+      "id": null
+    },
+    {
+      "title": "Let Your Love Come Down",
+      "id": null
+    },
+    {
+      "title": "Fill Me Up",
+      "id": null
+    },
+    {
+      "title": "Gotta Get Back to My Baby",
+      "id": null
+    },
+    {
+      "title": "Someone Like You",
+      "id": null
+    },
+    {
+      "title": "Family Affair",
+      "id": null
+    },
+    {
+      "title": "Plenty Lovin’",
+      "id": null
+    },
+    {
+      "title": "Lord of the Street",
+      "id": null
+    }
+  ]
+}
