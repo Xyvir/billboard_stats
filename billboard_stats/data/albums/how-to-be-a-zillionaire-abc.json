@@ -1,1 +1,230 @@
-{"id": "how-to-be-a-zillionaire-abc", "title": "How To Be A Zillionaire", "artist": "ABC", "peak": 30, "history": [{"date": "1985-10-05", "rank": 102}, {"date": "1985-10-12", "rank": 55}, {"date": "1985-10-19", "rank": 44}, {"date": "1985-10-26", "rank": 37}, {"date": "1985-11-02", "rank": 34}, {"date": "1985-11-09", "rank": 33}, {"date": "1985-11-16", "rank": 30}, {"date": "1985-11-23", "rank": 30}, {"date": "1985-11-30", "rank": 33}, {"date": "1985-12-07", "rank": 32}, {"date": "1985-12-14", "rank": 37}, {"date": "1985-12-21", "rank": 45}, {"date": "1985-12-28", "rank": 45}, {"date": "1986-01-04", "rank": 45}, {"date": "1986-01-11", "rank": 50}, {"date": "1986-01-18", "rank": 58}, {"date": "1986-01-25", "rank": 56}, {"date": "1986-02-01", "rank": 66}, {"date": "1986-02-08", "rank": 50}, {"date": "1986-02-15", "rank": 48}, {"date": "1986-02-22", "rank": 43}, {"date": "1986-03-01", "rank": 42}, {"date": "1986-03-08", "rank": 40}, {"date": "1986-03-15", "rank": 37}, {"date": "1986-03-22", "rank": 37}, {"date": "1986-03-29", "rank": 38}, {"date": "1986-04-05", "rank": 35}, {"date": "1986-04-12", "rank": 40}, {"date": "1986-04-19", "rank": 40}, {"date": "1986-04-26", "rank": 48}, {"date": "1986-05-03", "rank": 52}, {"date": "1986-05-10", "rank": 64}, {"date": "1986-05-17", "rank": 69}, {"date": "1986-05-24", "rank": 77}, {"date": "1986-05-31", "rank": 83}, {"date": "1986-06-07", "rank": 84}, {"date": "1986-06-14", "rank": 99}, {"date": "1986-06-21", "rank": 109}, {"date": "1986-06-28", "rank": 123}, {"date": "1986-07-05", "rank": 173}, {"date": "1986-07-12", "rank": 179}]}
+{
+  "id": "how-to-be-a-zillionaire-abc",
+  "title": "How To Be A Zillionaire",
+  "artist": "ABC",
+  "peak": 30,
+  "history": [
+    {
+      "date": "1985-10-05",
+      "rank": 102
+    },
+    {
+      "date": "1985-10-12",
+      "rank": 55
+    },
+    {
+      "date": "1985-10-19",
+      "rank": 44
+    },
+    {
+      "date": "1985-10-26",
+      "rank": 37
+    },
+    {
+      "date": "1985-11-02",
+      "rank": 34
+    },
+    {
+      "date": "1985-11-09",
+      "rank": 33
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 30
+    },
+    {
+      "date": "1985-11-23",
+      "rank": 30
+    },
+    {
+      "date": "1985-11-30",
+      "rank": 33
+    },
+    {
+      "date": "1985-12-07",
+      "rank": 32
+    },
+    {
+      "date": "1985-12-14",
+      "rank": 37
+    },
+    {
+      "date": "1985-12-21",
+      "rank": 45
+    },
+    {
+      "date": "1985-12-28",
+      "rank": 45
+    },
+    {
+      "date": "1986-01-04",
+      "rank": 45
+    },
+    {
+      "date": "1986-01-11",
+      "rank": 50
+    },
+    {
+      "date": "1986-01-18",
+      "rank": 58
+    },
+    {
+      "date": "1986-01-25",
+      "rank": 56
+    },
+    {
+      "date": "1986-02-01",
+      "rank": 66
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 50
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 48
+    },
+    {
+      "date": "1986-02-22",
+      "rank": 43
+    },
+    {
+      "date": "1986-03-01",
+      "rank": 42
+    },
+    {
+      "date": "1986-03-08",
+      "rank": 40
+    },
+    {
+      "date": "1986-03-15",
+      "rank": 37
+    },
+    {
+      "date": "1986-03-22",
+      "rank": 37
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 38
+    },
+    {
+      "date": "1986-04-05",
+      "rank": 35
+    },
+    {
+      "date": "1986-04-12",
+      "rank": 40
+    },
+    {
+      "date": "1986-04-19",
+      "rank": 40
+    },
+    {
+      "date": "1986-04-26",
+      "rank": 48
+    },
+    {
+      "date": "1986-05-03",
+      "rank": 52
+    },
+    {
+      "date": "1986-05-10",
+      "rank": 64
+    },
+    {
+      "date": "1986-05-17",
+      "rank": 69
+    },
+    {
+      "date": "1986-05-24",
+      "rank": 77
+    },
+    {
+      "date": "1986-05-31",
+      "rank": 83
+    },
+    {
+      "date": "1986-06-07",
+      "rank": 84
+    },
+    {
+      "date": "1986-06-14",
+      "rank": 99
+    },
+    {
+      "date": "1986-06-21",
+      "rank": 109
+    },
+    {
+      "date": "1986-06-28",
+      "rank": 123
+    },
+    {
+      "date": "1986-07-05",
+      "rank": 173
+    },
+    {
+      "date": "1986-07-12",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Be Near Me",
+      "id": "be-near-me-abc"
+    },
+    {
+      "title": "Vanity Kills",
+      "id": "vanity-kills-abc"
+    },
+    {
+      "title": "How to Be a Millionaire",
+      "id": "how-to-be-a-millionaire-abc"
+    },
+    {
+      "title": "How to Be a Millionaire (Bond St. mix)",
+      "id": "how-to-be-a-millionaire-abc"
+    },
+    {
+      "title": "Fear of the World",
+      "id": null
+    },
+    {
+      "title": "Ocean Blue",
+      "id": null
+    },
+    {
+      "title": "15 Storey Halo",
+      "id": null
+    },
+    {
+      "title": "A to Z",
+      "id": null
+    },
+    {
+      "title": "Tower of London",
+      "id": null
+    },
+    {
+      "title": "So Hip It Hurts",
+      "id": null
+    },
+    {
+      "title": "Between You & Me",
+      "id": null
+    },
+    {
+      "title": "Fear of the World (In Cinemascope)",
+      "id": null
+    },
+    {
+      "title": "Be Near Me (Munich disco mix)",
+      "id": null
+    },
+    {
+      "title": "Vanity Kills (The Abigail’s Party mix)",
+      "id": null
+    }
+  ]
+}

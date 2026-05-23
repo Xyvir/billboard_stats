@@ -1,1 +1,282 @@
-{"id": "how-to-dismantle-an-atomic-bomb-u2", "title": "How To Dismantle An Atomic Bomb", "artist": "U2", "peak": 1, "history": [{"date": "2004-12-11", "rank": 1}, {"date": "2004-12-18", "rank": 2}, {"date": "2004-12-25", "rank": 2}, {"date": "2005-01-01", "rank": 5}, {"date": "2005-01-08", "rank": 3}, {"date": "2005-01-15", "rank": 14}, {"date": "2005-01-22", "rank": 12}, {"date": "2005-01-29", "rank": 13}, {"date": "2005-02-05", "rank": 22}, {"date": "2005-02-12", "rank": 28}, {"date": "2005-02-19", "rank": 31}, {"date": "2005-02-26", "rank": 34}, {"date": "2005-03-05", "rank": 20}, {"date": "2005-03-12", "rank": 41}, {"date": "2005-03-19", "rank": 48}, {"date": "2005-03-26", "rank": 54}, {"date": "2005-04-02", "rank": 39}, {"date": "2005-04-09", "rank": 34}, {"date": "2005-04-16", "rank": 44}, {"date": "2005-04-23", "rank": 39}, {"date": "2005-04-30", "rank": 39}, {"date": "2005-05-07", "rank": 44}, {"date": "2005-05-14", "rank": 57}, {"date": "2005-05-21", "rank": 66}, {"date": "2005-05-28", "rank": 71}, {"date": "2005-06-04", "rank": 73}, {"date": "2005-06-11", "rank": 79}, {"date": "2005-06-18", "rank": 91}, {"date": "2005-06-25", "rank": 109}, {"date": "2005-07-02", "rank": 106}, {"date": "2005-07-09", "rank": 138}, {"date": "2005-07-16", "rank": 155}, {"date": "2005-07-23", "rank": 148}, {"date": "2005-07-30", "rank": 166}, {"date": "2005-08-06", "rank": 187}, {"date": "2005-08-13", "rank": 191}, {"date": "2005-08-20", "rank": 164}, {"date": "2005-08-27", "rank": 158}, {"date": "2005-09-03", "rank": 150}, {"date": "2005-12-03", "rank": 196}, {"date": "2005-12-10", "rank": 185}, {"date": "2005-12-17", "rank": 183}, {"date": "2005-12-24", "rank": 174}, {"date": "2005-12-31", "rank": 156}, {"date": "2006-01-07", "rank": 147}, {"date": "2006-01-21", "rank": 178}, {"date": "2006-01-28", "rank": 191}, {"date": "2006-02-04", "rank": 175}, {"date": "2006-02-25", "rank": 49}, {"date": "2006-03-04", "rank": 56}, {"date": "2006-03-11", "rank": 96}, {"date": "2006-03-18", "rank": 112}, {"date": "2006-03-25", "rank": 136}, {"date": "2006-04-01", "rank": 164}, {"date": "2006-04-08", "rank": 182}, {"date": "2006-04-15", "rank": 199}]}
+{
+  "id": "how-to-dismantle-an-atomic-bomb-u2",
+  "title": "How To Dismantle An Atomic Bomb",
+  "artist": "U2",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2004-12-11",
+      "rank": 1
+    },
+    {
+      "date": "2004-12-18",
+      "rank": 2
+    },
+    {
+      "date": "2004-12-25",
+      "rank": 2
+    },
+    {
+      "date": "2005-01-01",
+      "rank": 5
+    },
+    {
+      "date": "2005-01-08",
+      "rank": 3
+    },
+    {
+      "date": "2005-01-15",
+      "rank": 14
+    },
+    {
+      "date": "2005-01-22",
+      "rank": 12
+    },
+    {
+      "date": "2005-01-29",
+      "rank": 13
+    },
+    {
+      "date": "2005-02-05",
+      "rank": 22
+    },
+    {
+      "date": "2005-02-12",
+      "rank": 28
+    },
+    {
+      "date": "2005-02-19",
+      "rank": 31
+    },
+    {
+      "date": "2005-02-26",
+      "rank": 34
+    },
+    {
+      "date": "2005-03-05",
+      "rank": 20
+    },
+    {
+      "date": "2005-03-12",
+      "rank": 41
+    },
+    {
+      "date": "2005-03-19",
+      "rank": 48
+    },
+    {
+      "date": "2005-03-26",
+      "rank": 54
+    },
+    {
+      "date": "2005-04-02",
+      "rank": 39
+    },
+    {
+      "date": "2005-04-09",
+      "rank": 34
+    },
+    {
+      "date": "2005-04-16",
+      "rank": 44
+    },
+    {
+      "date": "2005-04-23",
+      "rank": 39
+    },
+    {
+      "date": "2005-04-30",
+      "rank": 39
+    },
+    {
+      "date": "2005-05-07",
+      "rank": 44
+    },
+    {
+      "date": "2005-05-14",
+      "rank": 57
+    },
+    {
+      "date": "2005-05-21",
+      "rank": 66
+    },
+    {
+      "date": "2005-05-28",
+      "rank": 71
+    },
+    {
+      "date": "2005-06-04",
+      "rank": 73
+    },
+    {
+      "date": "2005-06-11",
+      "rank": 79
+    },
+    {
+      "date": "2005-06-18",
+      "rank": 91
+    },
+    {
+      "date": "2005-06-25",
+      "rank": 109
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 106
+    },
+    {
+      "date": "2005-07-09",
+      "rank": 138
+    },
+    {
+      "date": "2005-07-16",
+      "rank": 155
+    },
+    {
+      "date": "2005-07-23",
+      "rank": 148
+    },
+    {
+      "date": "2005-07-30",
+      "rank": 166
+    },
+    {
+      "date": "2005-08-06",
+      "rank": 187
+    },
+    {
+      "date": "2005-08-13",
+      "rank": 191
+    },
+    {
+      "date": "2005-08-20",
+      "rank": 164
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 158
+    },
+    {
+      "date": "2005-09-03",
+      "rank": 150
+    },
+    {
+      "date": "2005-12-03",
+      "rank": 196
+    },
+    {
+      "date": "2005-12-10",
+      "rank": 185
+    },
+    {
+      "date": "2005-12-17",
+      "rank": 183
+    },
+    {
+      "date": "2005-12-24",
+      "rank": 174
+    },
+    {
+      "date": "2005-12-31",
+      "rank": 156
+    },
+    {
+      "date": "2006-01-07",
+      "rank": 147
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 178
+    },
+    {
+      "date": "2006-01-28",
+      "rank": 191
+    },
+    {
+      "date": "2006-02-04",
+      "rank": 175
+    },
+    {
+      "date": "2006-02-25",
+      "rank": 49
+    },
+    {
+      "date": "2006-03-04",
+      "rank": 56
+    },
+    {
+      "date": "2006-03-11",
+      "rank": 96
+    },
+    {
+      "date": "2006-03-18",
+      "rank": 112
+    },
+    {
+      "date": "2006-03-25",
+      "rank": 136
+    },
+    {
+      "date": "2006-04-01",
+      "rank": 164
+    },
+    {
+      "date": "2006-04-08",
+      "rank": 182
+    },
+    {
+      "date": "2006-04-15",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Vertigo",
+      "id": "vertigo-u2"
+    },
+    {
+      "title": "Sometimes You Can’t Make It on Your Own",
+      "id": "sometimes-you-can-t-make-it-on-your-own-u2"
+    },
+    {
+      "title": "Miracle Drug",
+      "id": null
+    },
+    {
+      "title": "Love and Peace or Else",
+      "id": null
+    },
+    {
+      "title": "City of Blinding Lights",
+      "id": null
+    },
+    {
+      "title": "All Because of You",
+      "id": null
+    },
+    {
+      "title": "A Man and a Woman",
+      "id": null
+    },
+    {
+      "title": "Crumbs From Your Table",
+      "id": null
+    },
+    {
+      "title": "One Step Closer",
+      "id": null
+    },
+    {
+      "title": "Original of the Species",
+      "id": null
+    },
+    {
+      "title": "Yahweh",
+      "id": null
+    },
+    {
+      "title": "Fast Cars",
+      "id": null
+    }
+  ]
+}
