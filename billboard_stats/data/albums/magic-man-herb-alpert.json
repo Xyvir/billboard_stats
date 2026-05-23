@@ -1,1 +1,82 @@
-{"id": "magic-man-herb-alpert", "title": "Magic Man", "artist": "Herb Alpert", "peak": 61, "history": [{"date": "1981-08-22", "rank": 94}, {"date": "1981-08-29", "rank": 81}, {"date": "1981-09-05", "rank": 74}, {"date": "1981-09-12", "rank": 65}, {"date": "1981-09-19", "rank": 64}, {"date": "1981-09-26", "rank": 61}, {"date": "1981-10-03", "rank": 70}, {"date": "1981-10-10", "rank": 81}, {"date": "1981-10-17", "rank": 115}, {"date": "1981-10-24", "rank": 161}]}
+{
+  "id": "magic-man-herb-alpert",
+  "title": "Magic Man",
+  "artist": "Herb Alpert",
+  "peak": 61,
+  "history": [
+    {
+      "date": "1981-08-22",
+      "rank": 94
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 81
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 74
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 65
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 64
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 61
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 70
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 81
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 115
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Magic Man",
+      "id": "magic-man-herb-alpert"
+    },
+    {
+      "title": "Manhattan Melody",
+      "id": null
+    },
+    {
+      "title": "I Get It From You",
+      "id": null
+    },
+    {
+      "title": "Secret Garden",
+      "id": null
+    },
+    {
+      "title": "Bésame mucho",
+      "id": null
+    },
+    {
+      "title": "This One’s for Me",
+      "id": null
+    },
+    {
+      "title": "Fantasy Island",
+      "id": null
+    },
+    {
+      "title": "You Smile – The Song Begins",
+      "id": null
+    }
+  ]
+}

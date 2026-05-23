@@ -1,1 +1,58 @@
-{"id": "magic-windows-herbie-hancock", "title": "Magic Windows", "artist": "Herbie Hancock", "peak": 140, "history": [{"date": "1981-10-03", "rank": 181}, {"date": "1981-10-10", "rank": 165}, {"date": "1981-10-17", "rank": 155}, {"date": "1981-10-24", "rank": 145}, {"date": "1981-10-31", "rank": 140}, {"date": "1981-11-07", "rank": 160}]}
+{
+  "id": "magic-windows-herbie-hancock",
+  "title": "Magic Windows",
+  "artist": "Herbie Hancock",
+  "peak": 140,
+  "history": [
+    {
+      "date": "1981-10-03",
+      "rank": 181
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 165
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 155
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 145
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 140
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Magic Number",
+      "id": null
+    },
+    {
+      "title": "Tonight’s the Night",
+      "id": null
+    },
+    {
+      "title": "Everybody’s Broke",
+      "id": null
+    },
+    {
+      "title": "Help Yourself",
+      "id": null
+    },
+    {
+      "title": "Satisfied With Love",
+      "id": null
+    },
+    {
+      "title": "The Twilight Clone",
+      "id": null
+    }
+  ]
+}

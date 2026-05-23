@@ -1,1 +1,86 @@
-{"id": "magic-t-connection", "title": "Magic", "artist": "T-Connection", "peak": 109, "history": [{"date": "1977-05-14", "rank": 187}, {"date": "1977-05-21", "rank": 177}, {"date": "1977-05-28", "rank": 167}, {"date": "1977-06-04", "rank": 154}, {"date": "1977-06-11", "rank": 143}, {"date": "1977-06-18", "rank": 132}, {"date": "1977-06-25", "rank": 121}, {"date": "1977-07-02", "rank": 111}, {"date": "1977-07-09", "rank": 111}, {"date": "1977-07-16", "rank": 109}, {"date": "1977-07-23", "rank": 149}]}
+{
+  "id": "magic-t-connection",
+  "title": "Magic",
+  "artist": "T-Connection",
+  "peak": 109,
+  "history": [
+    {
+      "date": "1977-05-14",
+      "rank": 187
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 177
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 167
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 154
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 143
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 132
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 121
+    },
+    {
+      "date": "1977-07-02",
+      "rank": 111
+    },
+    {
+      "date": "1977-07-09",
+      "rank": 111
+    },
+    {
+      "date": "1977-07-16",
+      "rank": 109
+    },
+    {
+      "date": "1977-07-23",
+      "rank": 149
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Do What Ya Wanna Do",
+      "id": "do-what-you-wanna-do-t-connection"
+    },
+    {
+      "title": "Disco Magic",
+      "id": null
+    },
+    {
+      "title": "Go Back Home",
+      "id": null
+    },
+    {
+      "title": "Got to See My Lady",
+      "id": null
+    },
+    {
+      "title": "Crazy Mixed Up World",
+      "id": null
+    },
+    {
+      "title": "Mothers Love",
+      "id": null
+    },
+    {
+      "title": "Monday Morning",
+      "id": null
+    },
+    {
+      "title": "Peace Line",
+      "id": null
+    }
+  ]
+}

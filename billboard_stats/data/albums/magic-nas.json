@@ -1,1 +1,54 @@
-{"id": "magic-nas", "title": "Magic", "artist": "Nas", "peak": 27, "history": [{"date": "2022-01-08", "rank": 27}, {"date": "2022-01-15", "rank": 121}]}
+{
+  "id": "magic-nas",
+  "title": "Magic",
+  "artist": "Nas",
+  "peak": 27,
+  "history": [
+    {
+      "date": "2022-01-08",
+      "rank": 27
+    },
+    {
+      "date": "2022-01-15",
+      "rank": 121
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Speechless",
+      "id": null
+    },
+    {
+      "title": "Meet Joe Black",
+      "id": null
+    },
+    {
+      "title": "Ugly",
+      "id": null
+    },
+    {
+      "title": "40-16 Building",
+      "id": null
+    },
+    {
+      "title": "Hollywood Gangsta",
+      "id": null
+    },
+    {
+      "title": "Wu for the Children",
+      "id": null
+    },
+    {
+      "title": "Wave Gods",
+      "id": null
+    },
+    {
+      "title": "The Truth",
+      "id": null
+    },
+    {
+      "title": "Dedicated",
+      "id": null
+    }
+  ]
+}
