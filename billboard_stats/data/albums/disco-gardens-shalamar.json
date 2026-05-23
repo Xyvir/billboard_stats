@@ -1,1 +1,62 @@
-{"id": "disco-gardens-shalamar", "title": "Disco Gardens", "artist": "Shalamar", "peak": 171, "history": [{"date": "1978-11-04", "rank": 198}, {"date": "1978-11-11", "rank": 184}, {"date": "1978-11-18", "rank": 174}, {"date": "1978-11-25", "rank": 171}]}
+{
+  "id": "disco-gardens-shalamar",
+  "title": "Disco Gardens",
+  "artist": "Shalamar",
+  "peak": 171,
+  "history": [
+    {
+      "date": "1978-11-04",
+      "rank": 198
+    },
+    {
+      "date": "1978-11-11",
+      "rank": 184
+    },
+    {
+      "date": "1978-11-18",
+      "rank": 174
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Take That to the Bank",
+      "id": "take-that-to-the-bank-shalamar"
+    },
+    {
+      "title": "Take That to the Bank (12\" mix)",
+      "id": "take-that-to-the-bank-shalamar"
+    },
+    {
+      "title": "Tossin Turnin & Swingin",
+      "id": null
+    },
+    {
+      "title": "Shalamar Disco Gardens",
+      "id": null
+    },
+    {
+      "title": "Stay Close to Love",
+      "id": null
+    },
+    {
+      "title": "Leave It All Up to Love",
+      "id": null
+    },
+    {
+      "title": "Lovely Lady",
+      "id": null
+    },
+    {
+      "title": "Cindy, Cindy",
+      "id": null
+    },
+    {
+      "title": "Simon's Theme",
+      "id": null
+    }
+  ]
+}

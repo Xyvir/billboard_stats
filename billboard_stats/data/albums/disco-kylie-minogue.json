@@ -1,1 +1,30 @@
-{"id": "disco-kylie-minogue", "title": "Disco", "artist": "Kylie Minogue", "peak": 26, "history": [{"date": "2020-11-21", "rank": 26}]}
+{
+  "id": "disco-kylie-minogue",
+  "title": "Disco",
+  "artist": "Kylie Minogue",
+  "peak": 26,
+  "history": [
+    {
+      "date": "2020-11-21",
+      "rank": 26
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Your Disco Needs You (UK album version)",
+      "id": null
+    },
+    {
+      "title": "Your Disco Needs You (German Almighty radio edit)",
+      "id": null
+    },
+    {
+      "title": "Your Disco Needs You (UK Almighty remix)",
+      "id": null
+    },
+    {
+      "title": "Your Disco Needs You (German album version) / Password",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "disco-train-donny-osmond", "title": "Disco Train", "artist": "Donny Osmond", "peak": 145, "history": [{"date": "1976-08-21", "rank": 188}, {"date": "1976-08-28", "rank": 177}, {"date": "1976-09-04", "rank": 167}, {"date": "1976-09-11", "rank": 157}, {"date": "1976-09-18", "rank": 151}, {"date": "1976-09-25", "rank": 146}, {"date": "1976-10-02", "rank": 145}, {"date": "1976-10-09", "rank": 196}]}
+{
+  "id": "disco-train-donny-osmond",
+  "title": "Disco Train",
+  "artist": "Donny Osmond",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1976-08-21",
+      "rank": 188
+    },
+    {
+      "date": "1976-08-28",
+      "rank": 177
+    },
+    {
+      "date": "1976-09-04",
+      "rank": 167
+    },
+    {
+      "date": "1976-09-11",
+      "rank": 157
+    },
+    {
+      "date": "1976-09-18",
+      "rank": 151
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 146
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 145
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "C’mon Marianne",
+      "id": "c-mon-marianne-donny-osmond"
+    },
+    {
+      "title": "Old Man Auctioneer",
+      "id": null
+    },
+    {
+      "title": "Swingin’ City Gal",
+      "id": null
+    },
+    {
+      "title": "I Follow the Music (Disco Donny)",
+      "id": null
+    },
+    {
+      "title": "Don’t Need No Money",
+      "id": null
+    },
+    {
+      "title": "I Can’t Put My Finger on It",
+      "id": null
+    },
+    {
+      "title": "Disco Train",
+      "id": null
+    },
+    {
+      "title": "Reachin’ for the Feelin’",
+      "id": null
+    },
+    {
+      "title": "I Got Your Lovin’",
+      "id": null
+    },
+    {
+      "title": "Disco Dancin’",
+      "id": null
+    },
+    {
+      "title": "Never Gonna Let You Go",
+      "id": null
+    }
+  ]
+}

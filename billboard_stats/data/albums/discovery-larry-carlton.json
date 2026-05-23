@@ -1,1 +1,70 @@
-{"id": "discovery-larry-carlton", "title": "Discovery", "artist": "Larry Carlton", "peak": 180, "history": [{"date": "1987-08-01", "rank": 189}, {"date": "1987-08-08", "rank": 184}, {"date": "1987-08-15", "rank": 183}, {"date": "1987-08-22", "rank": 180}, {"date": "1987-08-29", "rank": 192}, {"date": "1987-09-05", "rank": 198}]}
+{
+  "id": "discovery-larry-carlton",
+  "title": "Discovery",
+  "artist": "Larry Carlton",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1987-08-01",
+      "rank": 189
+    },
+    {
+      "date": "1987-08-08",
+      "rank": 184
+    },
+    {
+      "date": "1987-08-15",
+      "rank": 183
+    },
+    {
+      "date": "1987-08-22",
+      "rank": 180
+    },
+    {
+      "date": "1987-08-29",
+      "rank": 192
+    },
+    {
+      "date": "1987-09-05",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hello Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Those Eyes",
+      "id": null
+    },
+    {
+      "title": "Knock on Wood",
+      "id": null
+    },
+    {
+      "title": "Discovery",
+      "id": null
+    },
+    {
+      "title": "My Home Away From Home",
+      "id": null
+    },
+    {
+      "title": "March of the Jazz Angels",
+      "id": null
+    },
+    {
+      "title": "Minute by Minute",
+      "id": null
+    },
+    {
+      "title": "A Place for Skipper",
+      "id": null
+    },
+    {
+      "title": "Her Favorite Song",
+      "id": null
+    }
+  ]
+}

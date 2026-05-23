@@ -1,1 +1,190 @@
-{"id": "discovery-daft-punk", "title": "Discovery", "artist": "Daft Punk", "peak": 23, "history": [{"date": "2001-03-31", "rank": 44}, {"date": "2001-04-07", "rank": 58}, {"date": "2001-04-14", "rank": 62}, {"date": "2001-04-21", "rank": 63}, {"date": "2001-04-28", "rank": 91}, {"date": "2001-05-05", "rank": 81}, {"date": "2001-05-12", "rank": 95}, {"date": "2001-05-19", "rank": 109}, {"date": "2001-05-26", "rank": 127}, {"date": "2001-06-02", "rank": 123}, {"date": "2001-06-09", "rank": 145}, {"date": "2001-06-16", "rank": 149}, {"date": "2001-06-23", "rank": 162}, {"date": "2001-06-30", "rank": 182}, {"date": "2001-07-07", "rank": 194}, {"date": "2001-09-15", "rank": 181}, {"date": "2001-09-22", "rank": 147}, {"date": "2013-04-27", "rank": 135}, {"date": "2013-05-04", "rank": 116}, {"date": "2013-05-11", "rank": 190}, {"date": "2013-05-18", "rank": 162}, {"date": "2013-06-01", "rank": 104}, {"date": "2013-06-08", "rank": 59}, {"date": "2013-06-15", "rank": 112}, {"date": "2013-06-22", "rank": 195}, {"date": "2014-05-17", "rank": 188}, {"date": "2015-03-21", "rank": 23}, {"date": "2015-03-28", "rank": 198}, {"date": "2021-03-06", "rank": 121}, {"date": "2021-03-13", "rank": 195}, {"date": "2024-12-28", "rank": 87}]}
+{
+  "id": "discovery-daft-punk",
+  "title": "Discovery",
+  "artist": "Daft Punk",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2001-03-31",
+      "rank": 44
+    },
+    {
+      "date": "2001-04-07",
+      "rank": 58
+    },
+    {
+      "date": "2001-04-14",
+      "rank": 62
+    },
+    {
+      "date": "2001-04-21",
+      "rank": 63
+    },
+    {
+      "date": "2001-04-28",
+      "rank": 91
+    },
+    {
+      "date": "2001-05-05",
+      "rank": 81
+    },
+    {
+      "date": "2001-05-12",
+      "rank": 95
+    },
+    {
+      "date": "2001-05-19",
+      "rank": 109
+    },
+    {
+      "date": "2001-05-26",
+      "rank": 127
+    },
+    {
+      "date": "2001-06-02",
+      "rank": 123
+    },
+    {
+      "date": "2001-06-09",
+      "rank": 145
+    },
+    {
+      "date": "2001-06-16",
+      "rank": 149
+    },
+    {
+      "date": "2001-06-23",
+      "rank": 162
+    },
+    {
+      "date": "2001-06-30",
+      "rank": 182
+    },
+    {
+      "date": "2001-07-07",
+      "rank": 194
+    },
+    {
+      "date": "2001-09-15",
+      "rank": 181
+    },
+    {
+      "date": "2001-09-22",
+      "rank": 147
+    },
+    {
+      "date": "2013-04-27",
+      "rank": 135
+    },
+    {
+      "date": "2013-05-04",
+      "rank": 116
+    },
+    {
+      "date": "2013-05-11",
+      "rank": 190
+    },
+    {
+      "date": "2013-05-18",
+      "rank": 162
+    },
+    {
+      "date": "2013-06-01",
+      "rank": 104
+    },
+    {
+      "date": "2013-06-08",
+      "rank": 59
+    },
+    {
+      "date": "2013-06-15",
+      "rank": 112
+    },
+    {
+      "date": "2013-06-22",
+      "rank": 195
+    },
+    {
+      "date": "2014-05-17",
+      "rank": 188
+    },
+    {
+      "date": "2015-03-21",
+      "rank": 23
+    },
+    {
+      "date": "2015-03-28",
+      "rank": 198
+    },
+    {
+      "date": "2021-03-06",
+      "rank": 121
+    },
+    {
+      "date": "2021-03-13",
+      "rank": 195
+    },
+    {
+      "date": "2024-12-28",
+      "rank": 87
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One More Time",
+      "id": "one-more-time-daft-punk"
+    },
+    {
+      "title": "Aerodynamic",
+      "id": null
+    },
+    {
+      "title": "Digital Love",
+      "id": null
+    },
+    {
+      "title": "Harder, Better, Faster, Stronger",
+      "id": null
+    },
+    {
+      "title": "Crescendolls",
+      "id": null
+    },
+    {
+      "title": "Nightvision",
+      "id": null
+    },
+    {
+      "title": "Superheroes",
+      "id": null
+    },
+    {
+      "title": "High Life",
+      "id": null
+    },
+    {
+      "title": "Something About Us",
+      "id": null
+    },
+    {
+      "title": "Voyager",
+      "id": null
+    },
+    {
+      "title": "Veridis Quo",
+      "id": null
+    },
+    {
+      "title": "Short Circuit",
+      "id": null
+    },
+    {
+      "title": "Face to Face",
+      "id": null
+    },
+    {
+      "title": "Too Long",
+      "id": null
+    }
+  ]
+}
