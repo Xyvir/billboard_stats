@@ -1,1 +1,82 @@
-{"id": "flex-lene-lovich", "title": "Flex", "artist": "Lene Lovich", "peak": 94, "history": [{"date": "1980-03-08", "rank": 140}, {"date": "1980-03-15", "rank": 130}, {"date": "1980-03-22", "rank": 116}, {"date": "1980-03-29", "rank": 106}, {"date": "1980-04-05", "rank": 96}, {"date": "1980-04-12", "rank": 94}, {"date": "1980-04-19", "rank": 173}, {"date": "1980-04-26", "rank": 173}]}
+{
+  "id": "flex-lene-lovich",
+  "title": "Flex",
+  "artist": "Lene Lovich",
+  "peak": 94,
+  "history": [
+    {
+      "date": "1980-03-08",
+      "rank": 140
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 130
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 116
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 106
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 96
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 94
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 173
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bird Song",
+      "id": null
+    },
+    {
+      "title": "What Will I Do Without You?",
+      "id": null
+    },
+    {
+      "title": "Angels",
+      "id": null
+    },
+    {
+      "title": "The Night",
+      "id": null
+    },
+    {
+      "title": "You Can’t Kill Me",
+      "id": null
+    },
+    {
+      "title": "Egghead",
+      "id": null
+    },
+    {
+      "title": "Wonderful One",
+      "id": null
+    },
+    {
+      "title": "Monkey Talk",
+      "id": null
+    },
+    {
+      "title": "Joan",
+      "id": null
+    },
+    {
+      "title": "The Freeze",
+      "id": null
+    }
+  ]
+}

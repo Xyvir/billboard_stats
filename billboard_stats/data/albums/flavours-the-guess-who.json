@@ -1,1 +1,98 @@
-{"id": "flavours-the-guess-who", "title": "Flavours", "artist": "The Guess Who", "peak": 48, "history": [{"date": "1975-02-01", "rank": 136}, {"date": "1975-02-08", "rank": 92}, {"date": "1975-02-15", "rank": 80}, {"date": "1975-02-22", "rank": 69}, {"date": "1975-03-01", "rank": 58}, {"date": "1975-03-08", "rank": 50}, {"date": "1975-03-15", "rank": 48}, {"date": "1975-03-22", "rank": 95}, {"date": "1975-03-29", "rank": 137}]}
+{
+  "id": "flavours-the-guess-who",
+  "title": "Flavours",
+  "artist": "The Guess Who",
+  "peak": 48,
+  "history": [
+    {
+      "date": "1975-02-01",
+      "rank": 136
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 92
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 80
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 69
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 58
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 50
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 48
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 95
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 137
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dancin’ Fool",
+      "id": "dancin-fool-the-guess-who"
+    },
+    {
+      "title": "Hoe Down Time",
+      "id": "no-time-the-guess-who"
+    },
+    {
+      "title": "Nobody Knows His Name",
+      "id": null
+    },
+    {
+      "title": "Diggin’ Yourself",
+      "id": null
+    },
+    {
+      "title": "Seems Like I Can’t Live With You, but I Can’t Live Without You",
+      "id": null
+    },
+    {
+      "title": "Dirty",
+      "id": null
+    },
+    {
+      "title": "Eye",
+      "id": null
+    },
+    {
+      "title": "Loves Me Like a Brother",
+      "id": null
+    },
+    {
+      "title": "Long Gone",
+      "id": null
+    },
+    {
+      "title": "A Fool, a Fool, I Met a Fool",
+      "id": null
+    },
+    {
+      "title": "Save a Smile",
+      "id": null
+    },
+    {
+      "title": "Roll with the Punches",
+      "id": null
+    },
+    {
+      "title": "Your Back Yard",
+      "id": null
+    }
+  ]
+}

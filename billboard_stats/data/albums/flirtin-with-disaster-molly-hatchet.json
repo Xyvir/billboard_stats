@@ -1,1 +1,242 @@
-{"id": "flirtin-with-disaster-molly-hatchet", "title": "Flirtin' With Disaster", "artist": "Molly Hatchet", "peak": 19, "history": [{"date": "1979-09-29", "rank": 87}, {"date": "1979-10-06", "rank": 40}, {"date": "1979-10-13", "rank": 31}, {"date": "1979-10-20", "rank": 30}, {"date": "1979-10-27", "rank": 28}, {"date": "1979-11-03", "rank": 26}, {"date": "1979-11-10", "rank": 23}, {"date": "1979-11-17", "rank": 20}, {"date": "1979-11-24", "rank": 20}, {"date": "1979-12-01", "rank": 19}, {"date": "1979-12-08", "rank": 19}, {"date": "1979-12-15", "rank": 45}, {"date": "1979-12-22", "rank": 44}, {"date": "1979-12-29", "rank": 44}, {"date": "1980-01-05", "rank": 43}, {"date": "1980-01-12", "rank": 40}, {"date": "1980-01-19", "rank": 36}, {"date": "1980-01-26", "rank": 33}, {"date": "1980-02-02", "rank": 31}, {"date": "1980-02-09", "rank": 31}, {"date": "1980-02-16", "rank": 31}, {"date": "1980-02-23", "rank": 30}, {"date": "1980-03-01", "rank": 34}, {"date": "1980-03-08", "rank": 49}, {"date": "1980-03-15", "rank": 80}, {"date": "1980-03-22", "rank": 86}, {"date": "1980-03-29", "rank": 84}, {"date": "1980-04-05", "rank": 81}, {"date": "1980-04-12", "rank": 83}, {"date": "1980-04-19", "rank": 83}, {"date": "1980-04-26", "rank": 87}, {"date": "1980-05-03", "rank": 96}, {"date": "1980-05-10", "rank": 98}, {"date": "1980-05-17", "rank": 143}, {"date": "1980-05-24", "rank": 141}, {"date": "1980-05-31", "rank": 141}, {"date": "1980-06-07", "rank": 142}, {"date": "1980-06-14", "rank": 161}, {"date": "1980-06-21", "rank": 163}, {"date": "1980-06-28", "rank": 200}, {"date": "1980-07-05", "rank": 200}, {"date": "1980-07-12", "rank": 198}, {"date": "1980-07-19", "rank": 200}, {"date": "1980-11-22", "rank": 144}, {"date": "1980-11-29", "rank": 135}, {"date": "1980-12-06", "rank": 130}, {"date": "1980-12-13", "rank": 174}, {"date": "1980-12-20", "rank": 174}]}
+{
+  "id": "flirtin-with-disaster-molly-hatchet",
+  "title": "Flirtin' With Disaster",
+  "artist": "Molly Hatchet",
+  "peak": 19,
+  "history": [
+    {
+      "date": "1979-09-29",
+      "rank": 87
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 40
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 31
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 30
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 28
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 26
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 23
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 20
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 20
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 19
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 19
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 45
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 44
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 44
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 43
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 40
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 36
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 33
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 31
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 31
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 31
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 30
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 34
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 49
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 80
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 86
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 84
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 81
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 83
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 83
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 87
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 96
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 98
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 143
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 141
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 141
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 142
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 161
+    },
+    {
+      "date": "1980-06-21",
+      "rank": 163
+    },
+    {
+      "date": "1980-06-28",
+      "rank": 200
+    },
+    {
+      "date": "1980-07-05",
+      "rank": 200
+    },
+    {
+      "date": "1980-07-12",
+      "rank": 198
+    },
+    {
+      "date": "1980-07-19",
+      "rank": 200
+    },
+    {
+      "date": "1980-11-22",
+      "rank": 144
+    },
+    {
+      "date": "1980-11-29",
+      "rank": 135
+    },
+    {
+      "date": "1980-12-06",
+      "rank": 130
+    },
+    {
+      "date": "1980-12-13",
+      "rank": 174
+    },
+    {
+      "date": "1980-12-20",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Flirtin’ With Disaster",
+      "id": "flirtin-with-disaster-molly-hatchet"
+    },
+    {
+      "title": "Whiskey Man",
+      "id": null
+    },
+    {
+      "title": "It’s All Over Now",
+      "id": null
+    },
+    {
+      "title": "One Man’s Pleasure",
+      "id": null
+    },
+    {
+      "title": "Jukin’ City",
+      "id": null
+    },
+    {
+      "title": "Boogie No More",
+      "id": null
+    },
+    {
+      "title": "Good Rockin’",
+      "id": null
+    },
+    {
+      "title": "Gunsmoke",
+      "id": null
+    },
+    {
+      "title": "Long Time",
+      "id": null
+    },
+    {
+      "title": "Let the Good Times Roll",
+      "id": null
+    }
+  ]
+}
