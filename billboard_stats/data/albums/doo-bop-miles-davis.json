@@ -1,1 +1,62 @@
-{"id": "doo-bop-miles-davis", "title": "Doo-Bop", "artist": "Miles Davis", "peak": 190, "history": [{"date": "1992-07-25", "rank": 192}, {"date": "1992-08-01", "rank": 200}, {"date": "1992-08-08", "rank": 190}, {"date": "1992-08-15", "rank": 197}]}
+{
+  "id": "doo-bop-miles-davis",
+  "title": "Doo-Bop",
+  "artist": "Miles Davis",
+  "peak": 190,
+  "history": [
+    {
+      "date": "1992-07-25",
+      "rank": 192
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 200
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 190
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mystery",
+      "id": null
+    },
+    {
+      "title": "The Doo‐Bop Song",
+      "id": null
+    },
+    {
+      "title": "Chocolate Chip",
+      "id": null
+    },
+    {
+      "title": "High Speed Chase",
+      "id": null
+    },
+    {
+      "title": "Blow",
+      "id": null
+    },
+    {
+      "title": "Sonya",
+      "id": null
+    },
+    {
+      "title": "Fantasy",
+      "id": null
+    },
+    {
+      "title": "Duke Booty",
+      "id": null
+    },
+    {
+      "title": "Mystery (reprise)",
+      "id": null
+    }
+  ]
+}
