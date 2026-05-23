@@ -1,1 +1,74 @@
-{"id": "bloom-troye-sivan", "title": "Bloom", "artist": "Troye Sivan", "peak": 4, "history": [{"date": "2018-09-15", "rank": 4}, {"date": "2018-09-22", "rank": 44}, {"date": "2018-09-29", "rank": 92}, {"date": "2018-10-06", "rank": 119}, {"date": "2018-10-13", "rank": 169}, {"date": "2018-10-20", "rank": 200}]}
+{
+  "id": "bloom-troye-sivan",
+  "title": "Bloom",
+  "artist": "Troye Sivan",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2018-09-15",
+      "rank": 4
+    },
+    {
+      "date": "2018-09-22",
+      "rank": 44
+    },
+    {
+      "date": "2018-09-29",
+      "rank": 92
+    },
+    {
+      "date": "2018-10-06",
+      "rank": 119
+    },
+    {
+      "date": "2018-10-13",
+      "rank": 169
+    },
+    {
+      "date": "2018-10-20",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My My My!",
+      "id": "my-my-my-troye-sivan"
+    },
+    {
+      "title": "Seventeen",
+      "id": null
+    },
+    {
+      "title": "The Good Side",
+      "id": null
+    },
+    {
+      "title": "Bloom",
+      "id": null
+    },
+    {
+      "title": "Postcard",
+      "id": null
+    },
+    {
+      "title": "Dance to This",
+      "id": null
+    },
+    {
+      "title": "Plum",
+      "id": null
+    },
+    {
+      "title": "What a Heavenly Way to Die",
+      "id": null
+    },
+    {
+      "title": "Lucky Strike",
+      "id": null
+    },
+    {
+      "title": "Animal",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "blow-up-the-smithereens", "title": "Blow Up", "artist": "The Smithereens", "peak": 120, "history": [{"date": "1991-09-28", "rank": 141}, {"date": "1991-10-05", "rank": 120}, {"date": "1991-10-12", "rank": 168}]}
+{
+  "id": "blow-up-the-smithereens",
+  "title": "Blow Up",
+  "artist": "The Smithereens",
+  "peak": 120,
+  "history": [
+    {
+      "date": "1991-09-28",
+      "rank": 141
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 120
+    },
+    {
+      "date": "1991-10-12",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Too Much Passion",
+      "id": "too-much-passion-the-smithereens"
+    },
+    {
+      "title": "Top of the Pops",
+      "id": null
+    },
+    {
+      "title": "Tell Me When Did Things Go So Wrong",
+      "id": null
+    },
+    {
+      "title": "Evening Dress",
+      "id": null
+    },
+    {
+      "title": "Get a Hold of My Heart",
+      "id": null
+    },
+    {
+      "title": "Indigo Blues",
+      "id": null
+    },
+    {
+      "title": "Now and Then",
+      "id": null
+    },
+    {
+      "title": "Girl in Room 12",
+      "id": null
+    },
+    {
+      "title": "Anywhere You Are",
+      "id": null
+    },
+    {
+      "title": "Over and Over Again",
+      "id": null
+    },
+    {
+      "title": "It’s Alright",
+      "id": null
+    },
+    {
+      "title": "If You Want the Sun to Shine",
+      "id": null
+    }
+  ]
+}

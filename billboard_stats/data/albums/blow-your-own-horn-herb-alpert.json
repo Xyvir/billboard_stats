@@ -1,1 +1,82 @@
-{"id": "blow-your-own-horn-herb-alpert", "title": "Blow Your Own Horn", "artist": "Herb Alpert", "peak": 120, "history": [{"date": "1983-09-24", "rank": 142}, {"date": "1983-10-01", "rank": 131}, {"date": "1983-10-08", "rank": 122}, {"date": "1983-10-15", "rank": 120}, {"date": "1983-10-22", "rank": 128}, {"date": "1983-10-29", "rank": 142}, {"date": "1983-11-05", "rank": 164}, {"date": "1983-11-12", "rank": 160}]}
+{
+  "id": "blow-your-own-horn-herb-alpert",
+  "title": "Blow Your Own Horn",
+  "artist": "Herb Alpert",
+  "peak": 120,
+  "history": [
+    {
+      "date": "1983-09-24",
+      "rank": 142
+    },
+    {
+      "date": "1983-10-01",
+      "rank": 131
+    },
+    {
+      "date": "1983-10-08",
+      "rank": 122
+    },
+    {
+      "date": "1983-10-15",
+      "rank": 120
+    },
+    {
+      "date": "1983-10-22",
+      "rank": 128
+    },
+    {
+      "date": "1983-10-29",
+      "rank": 142
+    },
+    {
+      "date": "1983-11-05",
+      "rank": 164
+    },
+    {
+      "date": "1983-11-12",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Red Hot",
+      "id": "red-hot-herb-alpert"
+    },
+    {
+      "title": "Garden Party",
+      "id": "garden-party-herb-alpert"
+    },
+    {
+      "title": "True Confessions",
+      "id": null
+    },
+    {
+      "title": "Blow Your Own Horn",
+      "id": null
+    },
+    {
+      "title": "Gently (Suavemente)",
+      "id": null
+    },
+    {
+      "title": "The Midnight Tango",
+      "id": null
+    },
+    {
+      "title": "Paradise Cove",
+      "id": null
+    },
+    {
+      "title": "Latin Lady",
+      "id": null
+    },
+    {
+      "title": "Oriental Eyes",
+      "id": null
+    },
+    {
+      "title": "Sundown",
+      "id": null
+    }
+  ]
+}
