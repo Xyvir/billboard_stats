@@ -1,1 +1,82 @@
-{"id": "live-at-budokan-ozzy-osbourne", "title": "Live At Budokan", "artist": "Ozzy Osbourne", "peak": 70, "history": [{"date": "2002-07-13", "rank": 70}, {"date": "2002-07-20", "rank": 93}, {"date": "2002-07-27", "rank": 134}, {"date": "2002-08-03", "rank": 161}, {"date": "2002-08-10", "rank": 195}]}
+{
+  "id": "live-at-budokan-ozzy-osbourne",
+  "title": "Live At Budokan",
+  "artist": "Ozzy Osbourne",
+  "peak": 70,
+  "history": [
+    {
+      "date": "2002-07-13",
+      "rank": 70
+    },
+    {
+      "date": "2002-07-20",
+      "rank": 93
+    },
+    {
+      "date": "2002-07-27",
+      "rank": 134
+    },
+    {
+      "date": "2002-08-03",
+      "rank": 161
+    },
+    {
+      "date": "2002-08-10",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Don’t Know",
+      "id": "i-don-t-wanna-stop-ozzy-osbourne"
+    },
+    {
+      "title": "No More Tears",
+      "id": "no-more-tears-ozzy-osbourne"
+    },
+    {
+      "title": "Crazy Train",
+      "id": "crazy-train-ozzy-osbourne"
+    },
+    {
+      "title": "Mama, I’m Coming Home",
+      "id": "mama-i-m-coming-home-ozzy-osbourne"
+    },
+    {
+      "title": "That I Never Had",
+      "id": null
+    },
+    {
+      "title": "Believer",
+      "id": null
+    },
+    {
+      "title": "Junkie",
+      "id": null
+    },
+    {
+      "title": "Mr. Crowley",
+      "id": null
+    },
+    {
+      "title": "Gets Me Through",
+      "id": null
+    },
+    {
+      "title": "I Don’t Want to Change the World",
+      "id": null
+    },
+    {
+      "title": "Road to Nowhere",
+      "id": null
+    },
+    {
+      "title": "Bark at the Moon",
+      "id": null
+    },
+    {
+      "title": "Paranoid",
+      "id": null
+    }
+  ]
+}

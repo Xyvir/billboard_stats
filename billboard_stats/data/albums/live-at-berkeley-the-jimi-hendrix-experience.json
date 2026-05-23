@@ -1,1 +1,62 @@
-{"id": "live-at-berkeley-the-jimi-hendrix-experience", "title": "Live At Berkeley", "artist": "The Jimi Hendrix Experience", "peak": 191, "history": [{"date": "2003-10-04", "rank": 191}]}
+{
+  "id": "live-at-berkeley-the-jimi-hendrix-experience",
+  "title": "Live At Berkeley",
+  "artist": "The Jimi Hendrix Experience",
+  "peak": 191,
+  "history": [
+    {
+      "date": "2003-10-04",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Purple Haze",
+      "id": "purple-haze-the-jimi-hendrix-experience"
+    },
+    {
+      "title": "Introduction",
+      "id": null
+    },
+    {
+      "title": "Pass It On (Straight Ahead)",
+      "id": null
+    },
+    {
+      "title": "Hey Baby (New Rising Sun)",
+      "id": null
+    },
+    {
+      "title": "Lover Man",
+      "id": null
+    },
+    {
+      "title": "Stone Free",
+      "id": null
+    },
+    {
+      "title": "Hey Joe",
+      "id": null
+    },
+    {
+      "title": "I Don’t Live Today",
+      "id": null
+    },
+    {
+      "title": "Machine Gun",
+      "id": null
+    },
+    {
+      "title": "Foxy Lady",
+      "id": null
+    },
+    {
+      "title": "Star Spangled Banner",
+      "id": null
+    },
+    {
+      "title": "Voodoo Child (slight return)",
+      "id": null
+    }
+  ]
+}

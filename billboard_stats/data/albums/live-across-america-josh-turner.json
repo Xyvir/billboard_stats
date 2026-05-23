@@ -1,1 +1,98 @@
-{"id": "live-across-america-josh-turner", "title": "Live Across America", "artist": "Josh Turner", "peak": 48, "history": [{"date": "2012-09-15", "rank": 48}, {"date": "2012-09-22", "rank": 50}, {"date": "2012-09-29", "rank": 56}, {"date": "2012-10-06", "rank": 67}, {"date": "2012-10-13", "rank": 58}, {"date": "2012-10-20", "rank": 60}, {"date": "2012-10-27", "rank": 69}, {"date": "2012-11-03", "rank": 108}, {"date": "2012-11-10", "rank": 137}, {"date": "2012-11-17", "rank": 171}]}
+{
+  "id": "live-across-america-josh-turner",
+  "title": "Live Across America",
+  "artist": "Josh Turner",
+  "peak": 48,
+  "history": [
+    {
+      "date": "2012-09-15",
+      "rank": 48
+    },
+    {
+      "date": "2012-09-22",
+      "rank": 50
+    },
+    {
+      "date": "2012-09-29",
+      "rank": 56
+    },
+    {
+      "date": "2012-10-06",
+      "rank": 67
+    },
+    {
+      "date": "2012-10-13",
+      "rank": 58
+    },
+    {
+      "date": "2012-10-20",
+      "rank": 60
+    },
+    {
+      "date": "2012-10-27",
+      "rank": 69
+    },
+    {
+      "date": "2012-11-03",
+      "rank": 108
+    },
+    {
+      "date": "2012-11-10",
+      "rank": 137
+    },
+    {
+      "date": "2012-11-17",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Would You Go With Me (live in Plant City, FL)",
+      "id": "would-you-go-with-me-josh-turner"
+    },
+    {
+      "title": "Long Black Train (live in Austin, TX)",
+      "id": "long-black-train-josh-turner"
+    },
+    {
+      "title": "I Wouldn't Be a Man (live in Savannah, GA)",
+      "id": "i-wouldn-t-be-a-man-josh-turner"
+    },
+    {
+      "title": "Why Don't We Just Dance (live in Atlantic City, NJ)",
+      "id": "why-don-t-we-just-dance-josh-turner"
+    },
+    {
+      "title": "All Over Me (live in Biloxi, MS)",
+      "id": null
+    },
+    {
+      "title": "Firecracker (live in Lancaster, PA)",
+      "id": null
+    },
+    {
+      "title": "Everything Is Fine (live in Knoxville, TN)",
+      "id": null
+    },
+    {
+      "title": "So Not My Baby (live in Lake Charles, LA)",
+      "id": null
+    },
+    {
+      "title": "Me and God (live in Key Largo, FL)",
+      "id": null
+    },
+    {
+      "title": "Another Try (live in Atlanta, GA)",
+      "id": null
+    },
+    {
+      "title": "Your Man (live in Kansas City, MO)",
+      "id": null
+    },
+    {
+      "title": "America (live in Charlottesville, VA)",
+      "id": null
+    }
+  ]
+}
