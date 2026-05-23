@@ -1,1 +1,66 @@
-{"id": "from-day-1-travis-porter", "title": "From Day 1", "artist": "Travis Porter", "peak": 16, "history": [{"date": "2012-06-16", "rank": 16}, {"date": "2012-06-23", "rank": 76}]}
+{
+  "id": "from-day-1-travis-porter",
+  "title": "From Day 1",
+  "artist": "Travis Porter",
+  "peak": 16,
+  "history": [
+    {
+      "date": "2012-06-16",
+      "rank": 16
+    },
+    {
+      "date": "2012-06-23",
+      "rank": 76
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bring It Back",
+      "id": "bring-it-back-travis-porter"
+    },
+    {
+      "title": "Make It Rain",
+      "id": "make-it-rain-travis-porter"
+    },
+    {
+      "title": "Aww Yea",
+      "id": null
+    },
+    {
+      "title": "Pop a Rubber Band",
+      "id": null
+    },
+    {
+      "title": "Pussy Real Good",
+      "id": null
+    },
+    {
+      "title": "Wobble",
+      "id": null
+    },
+    {
+      "title": "Ayy Ladies",
+      "id": null
+    },
+    {
+      "title": "Ride Like That",
+      "id": null
+    },
+    {
+      "title": "Flood This Shit",
+      "id": null
+    },
+    {
+      "title": "Ballin'",
+      "id": null
+    },
+    {
+      "title": "Party Time",
+      "id": null
+    },
+    {
+      "title": "That Feeling",
+      "id": null
+    }
+  ]
+}

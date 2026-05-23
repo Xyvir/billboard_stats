@@ -1,1 +1,158 @@
-{"id": "from-here-to-now-to-you-jack-johnson", "title": "From Here To Now To You", "artist": "Jack Johnson", "peak": 1, "history": [{"date": "2013-10-05", "rank": 1}, {"date": "2013-10-12", "rank": 5}, {"date": "2013-10-19", "rank": 9}, {"date": "2013-10-26", "rank": 22}, {"date": "2013-11-02", "rank": 35}, {"date": "2013-11-09", "rank": 47}, {"date": "2013-11-16", "rank": 54}, {"date": "2013-11-23", "rank": 88}, {"date": "2013-11-30", "rank": 119}, {"date": "2013-12-07", "rank": 138}, {"date": "2013-12-14", "rank": 106}, {"date": "2013-12-21", "rank": 149}, {"date": "2013-12-28", "rank": 179}, {"date": "2014-01-04", "rank": 122}, {"date": "2014-01-11", "rank": 101}, {"date": "2014-01-18", "rank": 106}, {"date": "2014-01-25", "rank": 121}, {"date": "2014-02-01", "rank": 174}, {"date": "2014-02-15", "rank": 164}, {"date": "2014-02-22", "rank": 185}, {"date": "2014-03-01", "rank": 171}, {"date": "2014-05-10", "rank": 69}, {"date": "2014-06-14", "rank": 86}, {"date": "2014-06-21", "rank": 115}, {"date": "2014-06-28", "rank": 194}]}
+{
+  "id": "from-here-to-now-to-you-jack-johnson",
+  "title": "From Here To Now To You",
+  "artist": "Jack Johnson",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2013-10-05",
+      "rank": 1
+    },
+    {
+      "date": "2013-10-12",
+      "rank": 5
+    },
+    {
+      "date": "2013-10-19",
+      "rank": 9
+    },
+    {
+      "date": "2013-10-26",
+      "rank": 22
+    },
+    {
+      "date": "2013-11-02",
+      "rank": 35
+    },
+    {
+      "date": "2013-11-09",
+      "rank": 47
+    },
+    {
+      "date": "2013-11-16",
+      "rank": 54
+    },
+    {
+      "date": "2013-11-23",
+      "rank": 88
+    },
+    {
+      "date": "2013-11-30",
+      "rank": 119
+    },
+    {
+      "date": "2013-12-07",
+      "rank": 138
+    },
+    {
+      "date": "2013-12-14",
+      "rank": 106
+    },
+    {
+      "date": "2013-12-21",
+      "rank": 149
+    },
+    {
+      "date": "2013-12-28",
+      "rank": 179
+    },
+    {
+      "date": "2014-01-04",
+      "rank": 122
+    },
+    {
+      "date": "2014-01-11",
+      "rank": 101
+    },
+    {
+      "date": "2014-01-18",
+      "rank": 106
+    },
+    {
+      "date": "2014-01-25",
+      "rank": 121
+    },
+    {
+      "date": "2014-02-01",
+      "rank": 174
+    },
+    {
+      "date": "2014-02-15",
+      "rank": 164
+    },
+    {
+      "date": "2014-02-22",
+      "rank": 185
+    },
+    {
+      "date": "2014-03-01",
+      "rank": 171
+    },
+    {
+      "date": "2014-05-10",
+      "rank": 69
+    },
+    {
+      "date": "2014-06-14",
+      "rank": 86
+    },
+    {
+      "date": "2014-06-21",
+      "rank": 115
+    },
+    {
+      "date": "2014-06-28",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Got You",
+      "id": "i-got-you-jack-johnson"
+    },
+    {
+      "title": "Washing Dishes",
+      "id": null
+    },
+    {
+      "title": "Shot Reverse Shot",
+      "id": null
+    },
+    {
+      "title": "Never Fade",
+      "id": null
+    },
+    {
+      "title": "Tape Deck",
+      "id": null
+    },
+    {
+      "title": "Don’t Believe a Thing I Say",
+      "id": null
+    },
+    {
+      "title": "As I Was Saying",
+      "id": null
+    },
+    {
+      "title": "You Remind Me of You",
+      "id": null
+    },
+    {
+      "title": "Radiate",
+      "id": null
+    },
+    {
+      "title": "Ones and Zeros",
+      "id": null
+    },
+    {
+      "title": "Change",
+      "id": null
+    },
+    {
+      "title": "Home",
+      "id": null
+    }
+  ]
+}
