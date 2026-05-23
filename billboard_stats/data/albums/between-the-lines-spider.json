@@ -1,1 +1,58 @@
-{"id": "between-the-lines-spider", "title": "Between The Lines", "artist": "Spider", "peak": 185, "history": [{"date": "1981-07-11", "rank": 189}, {"date": "1981-07-18", "rank": 185}]}
+{
+  "id": "between-the-lines-spider",
+  "title": "Between The Lines",
+  "artist": "Spider",
+  "peak": 185,
+  "history": [
+    {
+      "date": "1981-07-11",
+      "rank": 189
+    },
+    {
+      "date": "1981-07-18",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It Didn’t Take Long",
+      "id": "it-didn-t-take-long-spider"
+    },
+    {
+      "title": "Change",
+      "id": null
+    },
+    {
+      "title": "I Think I Like It",
+      "id": null
+    },
+    {
+      "title": "Between the Lines",
+      "id": null
+    },
+    {
+      "title": "Going By",
+      "id": null
+    },
+    {
+      "title": "Better Be Good to Me",
+      "id": null
+    },
+    {
+      "title": "Can’t Live This Way Anymore",
+      "id": null
+    },
+    {
+      "title": "Faces Are Changing",
+      "id": null
+    },
+    {
+      "title": "Go and Run",
+      "id": null
+    },
+    {
+      "title": "I Love",
+      "id": null
+    }
+  ]
+}
