@@ -1,1 +1,82 @@
-{"id": "custom-built-bret-michaels", "title": "Custom Built", "artist": "Bret Michaels", "peak": 14, "history": [{"date": "2010-07-24", "rank": 14}, {"date": "2010-07-31", "rank": 43}, {"date": "2010-08-07", "rank": 69}, {"date": "2010-08-14", "rank": 121}, {"date": "2010-08-21", "rank": 126}, {"date": "2010-08-28", "rank": 162}]}
+{
+  "id": "custom-built-bret-michaels",
+  "title": "Custom Built",
+  "artist": "Bret Michaels",
+  "peak": 14,
+  "history": [
+    {
+      "date": "2010-07-24",
+      "rank": 14
+    },
+    {
+      "date": "2010-07-31",
+      "rank": 43
+    },
+    {
+      "date": "2010-08-07",
+      "rank": 69
+    },
+    {
+      "date": "2010-08-14",
+      "rank": 121
+    },
+    {
+      "date": "2010-08-21",
+      "rank": 126
+    },
+    {
+      "date": "2010-08-28",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Riding Against the Wind",
+      "id": null
+    },
+    {
+      "title": "Lie to Me",
+      "id": null
+    },
+    {
+      "title": "Nothing to Lose",
+      "id": null
+    },
+    {
+      "title": "Wasted Time",
+      "id": null
+    },
+    {
+      "title": "What I Got",
+      "id": null
+    },
+    {
+      "title": "Every Rose (country version)",
+      "id": null
+    },
+    {
+      "title": "Go That Far (club mix)",
+      "id": null
+    },
+    {
+      "title": "Driven (rock mix)",
+      "id": null
+    },
+    {
+      "title": "Open Road",
+      "id": null
+    },
+    {
+      "title": "Rock’n My Country",
+      "id": null
+    },
+    {
+      "title": "Nothing to Lose (Bret Only demo)",
+      "id": null
+    },
+    {
+      "title": "I’d Die for You",
+      "id": null
+    }
+  ]
+}

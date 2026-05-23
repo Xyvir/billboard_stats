@@ -1,1 +1,114 @@
-{"id": "cyan-three-dog-night", "title": "Cyan", "artist": "Three Dog Night", "peak": 26, "history": [{"date": "1973-10-20", "rank": 182}, {"date": "1973-10-27", "rank": 91}, {"date": "1973-11-03", "rank": 43}, {"date": "1973-11-10", "rank": 34}, {"date": "1973-11-17", "rank": 30}, {"date": "1973-11-24", "rank": 28}, {"date": "1973-12-01", "rank": 27}, {"date": "1973-12-08", "rank": 26}, {"date": "1973-12-15", "rank": 35}, {"date": "1973-12-22", "rank": 49}, {"date": "1973-12-29", "rank": 72}, {"date": "1974-01-05", "rank": 82}, {"date": "1974-01-12", "rank": 84}, {"date": "1974-01-19", "rank": 106}, {"date": "1974-01-26", "rank": 146}, {"date": "1974-02-02", "rank": 159}, {"date": "1974-02-09", "rank": 200}]}
+{
+  "id": "cyan-three-dog-night",
+  "title": "Cyan",
+  "artist": "Three Dog Night",
+  "peak": 26,
+  "history": [
+    {
+      "date": "1973-10-20",
+      "rank": 182
+    },
+    {
+      "date": "1973-10-27",
+      "rank": 91
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 43
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 34
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 30
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 28
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 27
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 26
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 35
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 49
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 72
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 82
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 84
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 106
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 146
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 159
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shambala",
+      "id": "shambala-three-dog-night"
+    },
+    {
+      "title": "Let Me Serenade You",
+      "id": "let-me-serenade-you-three-dog-night"
+    },
+    {
+      "title": "Happy Song",
+      "id": null
+    },
+    {
+      "title": "Play Children Play",
+      "id": null
+    },
+    {
+      "title": "Storybook Feeling",
+      "id": null
+    },
+    {
+      "title": "Ridin’ Thumb",
+      "id": null
+    },
+    {
+      "title": "Singer Man",
+      "id": null
+    },
+    {
+      "title": "Lay Me Down Easy",
+      "id": null
+    },
+    {
+      "title": "Into My Life",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "curtis-in-chicago-curtis-mayfield", "title": "Curtis In Chicago", "artist": "Curtis Mayfield", "peak": 135, "history": [{"date": "1973-11-17", "rank": 173}, {"date": "1973-11-24", "rank": 165}, {"date": "1973-12-01", "rank": 143}, {"date": "1973-12-08", "rank": 138}, {"date": "1973-12-15", "rank": 135}, {"date": "1973-12-22", "rank": 148}, {"date": "1973-12-29", "rank": 168}, {"date": "1974-01-05", "rank": 184}, {"date": "1974-01-12", "rank": 185}, {"date": "1974-01-19", "rank": 192}]}
+{
+  "id": "curtis-in-chicago-curtis-mayfield",
+  "title": "Curtis In Chicago",
+  "artist": "Curtis Mayfield",
+  "peak": 135,
+  "history": [
+    {
+      "date": "1973-11-17",
+      "rank": 173
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 165
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 143
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 138
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 135
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 148
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 168
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 184
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 185
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Superfly",
+      "id": "superfly-curtis-mayfield"
+    },
+    {
+      "title": "If I Were Only a Child Again",
+      "id": "if-i-were-only-a-child-again-curtis-mayfield"
+    },
+    {
+      "title": "Love Oh Love",
+      "id": "so-in-love-curtis-mayfield"
+    },
+    {
+      "title": "For Your Precious Love",
+      "id": null
+    },
+    {
+      "title": "I’m So Proud",
+      "id": null
+    },
+    {
+      "title": "Once in My Life",
+      "id": null
+    },
+    {
+      "title": "Preacher Man",
+      "id": null
+    },
+    {
+      "title": "Duke of Earl",
+      "id": null
+    },
+    {
+      "title": "Amen",
+      "id": null
+    }
+  ]
+}
