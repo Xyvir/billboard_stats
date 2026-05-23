@@ -1,1 +1,78 @@
-{"id": "introducing-lobo-lobo", "title": "Introducing Lobo", "artist": "Lobo", "peak": 163, "history": [{"date": "1973-05-05", "rank": 176}, {"date": "1973-05-12", "rank": 171}, {"date": "1973-05-19", "rank": 168}, {"date": "1973-05-26", "rank": 163}, {"date": "1973-06-02", "rank": 191}]}
+{
+  "id": "introducing-lobo-lobo",
+  "title": "Introducing Lobo",
+  "artist": "Lobo",
+  "peak": 163,
+  "history": [
+    {
+      "date": "1973-05-05",
+      "rank": 176
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 171
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 168
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 163
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Me and You and a Dog Named Boo",
+      "id": "me-and-you-and-a-dog-named-boo-lobo"
+    },
+    {
+      "title": "She Didn't Do Magic",
+      "id": "she-didn-t-do-magic-i-m-the-only-one-lobo"
+    },
+    {
+      "title": "I'm the Only One",
+      "id": "she-didn-t-do-magic-i-m-the-only-one-lobo"
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "The Albatross",
+      "id": null
+    },
+    {
+      "title": "We'll Make It... I Know We Will",
+      "id": null
+    },
+    {
+      "title": "A Little Different",
+      "id": null
+    },
+    {
+      "title": "Reaching Out for Someone",
+      "id": null
+    },
+    {
+      "title": "Little Joe (They're Out to Get Ya)",
+      "id": null
+    },
+    {
+      "title": "We'll Be One by Two Today",
+      "id": null
+    },
+    {
+      "title": "Another Hill to Climb",
+      "id": null
+    },
+    {
+      "title": "Reprise",
+      "id": null
+    }
+  ]
+}
