@@ -1,1 +1,274 @@
-{"id": "desolation-angels-bad-company", "title": "Desolation Angels", "artist": "Bad Company", "peak": 3, "history": [{"date": "1979-03-31", "rank": 30}, {"date": "1979-04-07", "rank": 9}, {"date": "1979-04-14", "rank": 7}, {"date": "1979-04-21", "rank": 6}, {"date": "1979-04-28", "rank": 5}, {"date": "1979-05-05", "rank": 5}, {"date": "1979-05-12", "rank": 4}, {"date": "1979-05-19", "rank": 3}, {"date": "1979-05-26", "rank": 3}, {"date": "1979-06-02", "rank": 10}, {"date": "1979-06-09", "rank": 9}, {"date": "1979-06-16", "rank": 8}, {"date": "1979-06-23", "rank": 6}, {"date": "1979-06-30", "rank": 6}, {"date": "1979-07-07", "rank": 6}, {"date": "1979-07-14", "rank": 13}, {"date": "1979-07-21", "rank": 14}, {"date": "1979-07-28", "rank": 16}, {"date": "1979-08-04", "rank": 17}, {"date": "1979-08-11", "rank": 17}, {"date": "1979-08-18", "rank": 16}, {"date": "1979-08-25", "rank": 24}, {"date": "1979-09-01", "rank": 23}, {"date": "1979-09-08", "rank": 37}, {"date": "1979-09-15", "rank": 44}, {"date": "1979-09-22", "rank": 43}, {"date": "1979-09-29", "rank": 66}, {"date": "1979-10-06", "rank": 76}, {"date": "1979-10-13", "rank": 77}, {"date": "1979-10-20", "rank": 78}, {"date": "1979-10-27", "rank": 83}, {"date": "1979-11-03", "rank": 91}, {"date": "1979-11-10", "rank": 103}, {"date": "1979-11-17", "rank": 120}, {"date": "1979-11-24", "rank": 144}, {"date": "1979-12-01", "rank": 176}, {"date": "1979-12-08", "rank": 197}]}
+{
+  "id": "desolation-angels-bad-company",
+  "title": "Desolation Angels",
+  "artist": "Bad Company",
+  "peak": 3,
+  "history": [
+    {
+      "date": "1979-03-31",
+      "rank": 30
+    },
+    {
+      "date": "1979-04-07",
+      "rank": 9
+    },
+    {
+      "date": "1979-04-14",
+      "rank": 7
+    },
+    {
+      "date": "1979-04-21",
+      "rank": 6
+    },
+    {
+      "date": "1979-04-28",
+      "rank": 5
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 5
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 4
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 3
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 3
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 10
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 9
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 8
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 6
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 6
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 6
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 13
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 14
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 16
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 17
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 17
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 16
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 24
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 23
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 37
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 44
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 43
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 66
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 76
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 77
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 78
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 83
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 91
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 103
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 120
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 144
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 176
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rock ’n’ Roll Fantasy",
+      "id": "rock-n-roll-fantasy-bad-company"
+    },
+    {
+      "title": "Gone, Gone, Gone",
+      "id": "gone-gone-gone-bad-company"
+    },
+    {
+      "title": "Rock ’n’ Roll Fantasy (alternative version 1)",
+      "id": "rock-n-roll-fantasy-bad-company"
+    },
+    {
+      "title": "Rock ’n’ Roll Fantasy (alternative version 2)",
+      "id": "rock-n-roll-fantasy-bad-company"
+    },
+    {
+      "title": "Rock ’n’ Roll Fantasy (alternative version 3)",
+      "id": "rock-n-roll-fantasy-bad-company"
+    },
+    {
+      "title": "Gone, Gone, Gone (alternative take)",
+      "id": "gone-gone-gone-bad-company"
+    },
+    {
+      "title": "Crazy Circles",
+      "id": null
+    },
+    {
+      "title": "Evil Wind",
+      "id": null
+    },
+    {
+      "title": "Early in the Morning",
+      "id": null
+    },
+    {
+      "title": "Lonely for Your Love",
+      "id": null
+    },
+    {
+      "title": "Oh, Atlanta",
+      "id": null
+    },
+    {
+      "title": "Take the Time",
+      "id": null
+    },
+    {
+      "title": "Rhythm Machine",
+      "id": null
+    },
+    {
+      "title": "She Brings Me Love",
+      "id": null
+    },
+    {
+      "title": "Smokin’ 45 (alternative version 1)",
+      "id": null
+    },
+    {
+      "title": "Smokin’ 45 (alternative version 2)",
+      "id": null
+    },
+    {
+      "title": "Rock Fever",
+      "id": null
+    },
+    {
+      "title": "Oh, Atlanta (slow version with Rhodes)",
+      "id": null
+    },
+    {
+      "title": "Crazy Circles (alternative version)",
+      "id": null
+    },
+    {
+      "title": "Early in the Morning (alternative version 1)",
+      "id": null
+    },
+    {
+      "title": "Lonely for Your Love (alternative version 1)",
+      "id": null
+    },
+    {
+      "title": "Take the Time (alternative version 1)",
+      "id": null
+    },
+    {
+      "title": "Evil Wind (alternative version)",
+      "id": null
+    },
+    {
+      "title": "Take the Time (alternative version 2)",
+      "id": null
+    },
+    {
+      "title": "Lonely for Your Love (alternative version 2)",
+      "id": null
+    },
+    {
+      "title": "She Brings Me Love (alternative version)",
+      "id": null
+    },
+    {
+      "title": "What Does It Matter (blues jam)",
+      "id": null
+    },
+    {
+      "title": "Rhythm Machine (alternative version)",
+      "id": null
+    },
+    {
+      "title": "Amen (a cappella)",
+      "id": null
+    }
+  ]
+}
