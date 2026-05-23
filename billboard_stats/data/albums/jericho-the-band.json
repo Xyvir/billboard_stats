@@ -1,1 +1,62 @@
-{"id": "jericho-the-band", "title": "Jericho", "artist": "The Band", "peak": 166, "history": [{"date": "1993-11-20", "rank": 166}]}
+{
+  "id": "jericho-the-band",
+  "title": "Jericho",
+  "artist": "The Band",
+  "peak": 166,
+  "history": [
+    {
+      "date": "1993-11-20",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shine a Light",
+      "id": "the-weight-the-band"
+    },
+    {
+      "title": "Remedy",
+      "id": null
+    },
+    {
+      "title": "Blind Willie McTell",
+      "id": null
+    },
+    {
+      "title": "The Caves of Jericho",
+      "id": null
+    },
+    {
+      "title": "Atlantic City",
+      "id": null
+    },
+    {
+      "title": "Too Soon Gone",
+      "id": null
+    },
+    {
+      "title": "Country Boy",
+      "id": null
+    },
+    {
+      "title": "Move to Japan",
+      "id": null
+    },
+    {
+      "title": "Amazon (River of Dreams)",
+      "id": null
+    },
+    {
+      "title": "Stuff You Gotta Watch",
+      "id": null
+    },
+    {
+      "title": "Same Thing",
+      "id": null
+    },
+    {
+      "title": "Blues Stay Away From Me",
+      "id": null
+    }
+  ]
+}
