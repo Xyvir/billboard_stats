@@ -1,1 +1,94 @@
-{"id": "manilow-sings-sinatra-barry-manilow", "title": "Manilow Sings Sinatra", "artist": "Barry Manilow", "peak": 122, "history": [{"date": "1998-11-28", "rank": 133}, {"date": "1998-12-05", "rank": 140}, {"date": "1998-12-12", "rank": 122}, {"date": "1998-12-19", "rank": 127}, {"date": "1998-12-26", "rank": 129}, {"date": "1999-01-02", "rank": 131}, {"date": "1999-01-09", "rank": 172}]}
+{
+  "id": "manilow-sings-sinatra-barry-manilow",
+  "title": "Manilow Sings Sinatra",
+  "artist": "Barry Manilow",
+  "peak": 122,
+  "history": [
+    {
+      "date": "1998-11-28",
+      "rank": 133
+    },
+    {
+      "date": "1998-12-05",
+      "rank": 140
+    },
+    {
+      "date": "1998-12-12",
+      "rank": 122
+    },
+    {
+      "date": "1998-12-19",
+      "rank": 127
+    },
+    {
+      "date": "1998-12-26",
+      "rank": 129
+    },
+    {
+      "date": "1999-01-02",
+      "rank": 131
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Strangers in the Night",
+      "id": "somewhere-in-the-night-barry-manilow"
+    },
+    {
+      "title": "Here’s to the Man",
+      "id": "somewhere-down-the-road-barry-manilow"
+    },
+    {
+      "title": "One Man in a Spotlight",
+      "id": null
+    },
+    {
+      "title": "I’ve Got the World on a String",
+      "id": null
+    },
+    {
+      "title": "The Second Time Around",
+      "id": null
+    },
+    {
+      "title": "Come Dance With Me / Come Fly With Me",
+      "id": null
+    },
+    {
+      "title": "All the Way",
+      "id": null
+    },
+    {
+      "title": "You Make Me Feel So Young",
+      "id": null
+    },
+    {
+      "title": "In the Wee Small Hours of the Morning",
+      "id": null
+    },
+    {
+      "title": "Summer Wind",
+      "id": null
+    },
+    {
+      "title": "Saturday Night (Is the Loneliest Night in the Week)",
+      "id": null
+    },
+    {
+      "title": "Angel Eyes",
+      "id": null
+    },
+    {
+      "title": "My Kind of Town (Chicago Is)",
+      "id": null
+    },
+    {
+      "title": "Put Your Dreams Away",
+      "id": null
+    }
+  ]
+}

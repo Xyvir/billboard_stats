@@ -1,1 +1,70 @@
-{"id": "man-overboard-bob-welch", "title": "Man Overboard", "artist": "Bob Welch", "peak": 162, "history": [{"date": "1980-10-11", "rank": 178}, {"date": "1980-10-18", "rank": 174}, {"date": "1980-10-25", "rank": 172}, {"date": "1980-11-01", "rank": 162}, {"date": "1980-11-08", "rank": 162}]}
+{
+  "id": "man-overboard-bob-welch",
+  "title": "Man Overboard",
+  "artist": "Bob Welch",
+  "peak": 162,
+  "history": [
+    {
+      "date": "1980-10-11",
+      "rank": 178
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 174
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 172
+    },
+    {
+      "date": "1980-11-01",
+      "rank": 162
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Man Overboard",
+      "id": null
+    },
+    {
+      "title": "Justine",
+      "id": null
+    },
+    {
+      "title": "Nightmare",
+      "id": null
+    },
+    {
+      "title": "B666",
+      "id": null
+    },
+    {
+      "title": "Don’t Rush the Good Things",
+      "id": null
+    },
+    {
+      "title": "The Girl Can’t Stop",
+      "id": null
+    },
+    {
+      "title": "Jealous",
+      "id": null
+    },
+    {
+      "title": "Fate Decides",
+      "id": null
+    },
+    {
+      "title": "Reason",
+      "id": null
+    },
+    {
+      "title": "Those Days Are Gone",
+      "id": null
+    }
+  ]
+}
