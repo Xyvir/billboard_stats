@@ -1,1 +1,102 @@
-{"id": "burgers-hot-tuna", "title": "Burgers", "artist": "Hot Tuna", "peak": 68, "history": [{"date": "1972-05-20", "rank": 68}, {"date": "1972-05-27", "rank": 76}, {"date": "1972-06-03", "rank": 92}, {"date": "1972-06-10", "rank": 92}, {"date": "1972-06-17", "rank": 95}, {"date": "1972-06-24", "rank": 94}, {"date": "1972-07-01", "rank": 94}, {"date": "1972-07-08", "rank": 104}, {"date": "1972-07-15", "rank": 126}, {"date": "1972-07-22", "rank": 126}, {"date": "1972-07-29", "rank": 131}, {"date": "1972-08-05", "rank": 139}, {"date": "1972-08-12", "rank": 139}, {"date": "1972-08-19", "rank": 160}]}
+{
+  "id": "burgers-hot-tuna",
+  "title": "Burgers",
+  "artist": "Hot Tuna",
+  "peak": 68,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 68
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 76
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 92
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 92
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 95
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 94
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 94
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 104
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 126
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 126
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 131
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 139
+    },
+    {
+      "date": "1972-08-12",
+      "rank": 139
+    },
+    {
+      "date": "1972-08-19",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "True Religion",
+      "id": null
+    },
+    {
+      "title": "Highway Song",
+      "id": null
+    },
+    {
+      "title": "99 Year Blues",
+      "id": null
+    },
+    {
+      "title": "Sea Child",
+      "id": null
+    },
+    {
+      "title": "Keep on Truckin’",
+      "id": null
+    },
+    {
+      "title": "Water Song",
+      "id": null
+    },
+    {
+      "title": "Ode for Billie Dean",
+      "id": null
+    },
+    {
+      "title": "Let Us Get Together Right Down Here",
+      "id": null
+    },
+    {
+      "title": "Sunny Day Strut",
+      "id": null
+    }
+  ]
+}
