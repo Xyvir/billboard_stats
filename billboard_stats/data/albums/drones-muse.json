@@ -1,1 +1,130 @@
-{"id": "drones-muse", "title": "Drones", "artist": "Muse", "peak": 1, "history": [{"date": "2015-06-27", "rank": 1}, {"date": "2015-07-04", "rank": 19}, {"date": "2015-07-11", "rank": 41}, {"date": "2015-07-18", "rank": 59}, {"date": "2015-07-25", "rank": 61}, {"date": "2015-08-01", "rank": 138}, {"date": "2015-08-08", "rank": 175}, {"date": "2015-10-24", "rank": 95}, {"date": "2015-10-31", "rank": 55}, {"date": "2015-11-14", "rank": 173}, {"date": "2015-11-21", "rank": 63}, {"date": "2015-11-28", "rank": 155}, {"date": "2015-12-12", "rank": 81}, {"date": "2015-12-19", "rank": 88}, {"date": "2015-12-26", "rank": 101}, {"date": "2016-01-02", "rank": 74}, {"date": "2016-01-09", "rank": 90}, {"date": "2016-01-30", "rank": 126}]}
+{
+  "id": "drones-muse",
+  "title": "Drones",
+  "artist": "Muse",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2015-06-27",
+      "rank": 1
+    },
+    {
+      "date": "2015-07-04",
+      "rank": 19
+    },
+    {
+      "date": "2015-07-11",
+      "rank": 41
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 59
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 61
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 138
+    },
+    {
+      "date": "2015-08-08",
+      "rank": 175
+    },
+    {
+      "date": "2015-10-24",
+      "rank": 95
+    },
+    {
+      "date": "2015-10-31",
+      "rank": 55
+    },
+    {
+      "date": "2015-11-14",
+      "rank": 173
+    },
+    {
+      "date": "2015-11-21",
+      "rank": 63
+    },
+    {
+      "date": "2015-11-28",
+      "rank": 155
+    },
+    {
+      "date": "2015-12-12",
+      "rank": 81
+    },
+    {
+      "date": "2015-12-19",
+      "rank": 88
+    },
+    {
+      "date": "2015-12-26",
+      "rank": 101
+    },
+    {
+      "date": "2016-01-02",
+      "rank": 74
+    },
+    {
+      "date": "2016-01-09",
+      "rank": 90
+    },
+    {
+      "date": "2016-01-30",
+      "rank": 126
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Drones",
+      "id": "madness-muse"
+    },
+    {
+      "title": "Dead Inside",
+      "id": null
+    },
+    {
+      "title": "[Drill Sergeant]",
+      "id": null
+    },
+    {
+      "title": "Psycho",
+      "id": null
+    },
+    {
+      "title": "Mercy",
+      "id": null
+    },
+    {
+      "title": "Reapers",
+      "id": null
+    },
+    {
+      "title": "The Handler",
+      "id": null
+    },
+    {
+      "title": "[JFK]",
+      "id": null
+    },
+    {
+      "title": "Defector",
+      "id": null
+    },
+    {
+      "title": "Revolt",
+      "id": null
+    },
+    {
+      "title": "Aftermath",
+      "id": null
+    },
+    {
+      "title": "The Globalist",
+      "id": null
+    }
+  ]
+}

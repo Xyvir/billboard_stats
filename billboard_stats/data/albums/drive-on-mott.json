@@ -1,1 +1,74 @@
-{"id": "drive-on-mott", "title": "Drive On", "artist": "Mott", "peak": 160, "history": [{"date": "1975-11-01", "rank": 189}, {"date": "1975-11-08", "rank": 179}, {"date": "1975-11-15", "rank": 168}, {"date": "1975-11-22", "rank": 162}, {"date": "1975-11-29", "rank": 160}]}
+{
+  "id": "drive-on-mott",
+  "title": "Drive On",
+  "artist": "Mott",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1975-11-01",
+      "rank": 189
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 179
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 168
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 162
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "By Tonight",
+      "id": null
+    },
+    {
+      "title": "Monte Carlo",
+      "id": null
+    },
+    {
+      "title": "She Does It",
+      "id": null
+    },
+    {
+      "title": "I’ll Tell You Something",
+      "id": null
+    },
+    {
+      "title": "Stiff Upper Lip",
+      "id": null
+    },
+    {
+      "title": "Love Now",
+      "id": null
+    },
+    {
+      "title": "Apologies",
+      "id": null
+    },
+    {
+      "title": "The Great White Wail",
+      "id": null
+    },
+    {
+      "title": "Here We Are",
+      "id": null
+    },
+    {
+      "title": "It Takes One to Know One",
+      "id": null
+    },
+    {
+      "title": "I Can Show You How It Is",
+      "id": null
+    }
+  ]
+}

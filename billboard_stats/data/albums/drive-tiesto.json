@@ -1,1 +1,74 @@
-{"id": "drive-tiesto", "title": "Drive", "artist": "Tiesto", "peak": 87, "history": [{"date": "2023-05-06", "rank": 87}, {"date": "2023-05-13", "rank": 159}, {"date": "2023-05-20", "rank": 171}, {"date": "2023-05-27", "rank": 197}]}
+{
+  "id": "drive-tiesto",
+  "title": "Drive",
+  "artist": "Tiesto",
+  "peak": 87,
+  "history": [
+    {
+      "date": "2023-05-06",
+      "rank": 87
+    },
+    {
+      "date": "2023-05-13",
+      "rank": 159
+    },
+    {
+      "date": "2023-05-20",
+      "rank": 171
+    },
+    {
+      "date": "2023-05-27",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Business",
+      "id": "the-business-tiesto"
+    },
+    {
+      "title": "All Nighter",
+      "id": null
+    },
+    {
+      "title": "The Motto",
+      "id": null
+    },
+    {
+      "title": "10:35",
+      "id": null
+    },
+    {
+      "title": "Chills (LA Hills)",
+      "id": null
+    },
+    {
+      "title": "Hot in It",
+      "id": null
+    },
+    {
+      "title": "Pump It Louder",
+      "id": null
+    },
+    {
+      "title": "Learn 2 Love",
+      "id": null
+    },
+    {
+      "title": "Don't Be Shy",
+      "id": null
+    },
+    {
+      "title": "Bet My Dollar",
+      "id": null
+    },
+    {
+      "title": "Back Around",
+      "id": null
+    },
+    {
+      "title": "Yesterday",
+      "id": null
+    }
+  ]
+}

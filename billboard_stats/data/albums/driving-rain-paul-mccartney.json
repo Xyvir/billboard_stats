@@ -1,1 +1,114 @@
-{"id": "driving-rain-paul-mccartney", "title": "Driving Rain", "artist": "Paul McCartney", "peak": 26, "history": [{"date": "2001-12-01", "rank": 26}, {"date": "2001-12-08", "rank": 65}, {"date": "2001-12-15", "rank": 68}, {"date": "2001-12-22", "rank": 78}, {"date": "2001-12-29", "rank": 102}, {"date": "2002-01-05", "rank": 112}, {"date": "2002-01-12", "rank": 152}, {"date": "2002-01-19", "rank": 171}, {"date": "2002-01-26", "rank": 200}, {"date": "2002-05-25", "rank": 194}]}
+{
+  "id": "driving-rain-paul-mccartney",
+  "title": "Driving Rain",
+  "artist": "Paul McCartney",
+  "peak": 26,
+  "history": [
+    {
+      "date": "2001-12-01",
+      "rank": 26
+    },
+    {
+      "date": "2001-12-08",
+      "rank": 65
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 68
+    },
+    {
+      "date": "2001-12-22",
+      "rank": 78
+    },
+    {
+      "date": "2001-12-29",
+      "rank": 102
+    },
+    {
+      "date": "2002-01-05",
+      "rank": 112
+    },
+    {
+      "date": "2002-01-12",
+      "rank": 152
+    },
+    {
+      "date": "2002-01-19",
+      "rank": 171
+    },
+    {
+      "date": "2002-01-26",
+      "rank": 200
+    },
+    {
+      "date": "2002-05-25",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Freedom",
+      "id": "freedom-paul-mccartney"
+    },
+    {
+      "title": "Lonely Road",
+      "id": null
+    },
+    {
+      "title": "From a Lover to a Friend",
+      "id": null
+    },
+    {
+      "title": "She’s Given Up Talking",
+      "id": null
+    },
+    {
+      "title": "Driving Rain",
+      "id": null
+    },
+    {
+      "title": "I Do",
+      "id": null
+    },
+    {
+      "title": "Tiny Bubble",
+      "id": null
+    },
+    {
+      "title": "Magic",
+      "id": null
+    },
+    {
+      "title": "Your Way",
+      "id": null
+    },
+    {
+      "title": "Spinning on an Axis",
+      "id": null
+    },
+    {
+      "title": "About You",
+      "id": null
+    },
+    {
+      "title": "Heather",
+      "id": null
+    },
+    {
+      "title": "Back in the Sunshine Again",
+      "id": null
+    },
+    {
+      "title": "Your Loving Flame",
+      "id": null
+    },
+    {
+      "title": "Riding Into Jaipur",
+      "id": null
+    },
+    {
+      "title": "Rinse the Raindrops",
+      "id": null
+    }
+  ]
+}

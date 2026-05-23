@@ -1,1 +1,98 @@
-{"id": "dr-john-s-gumbo-dr-john", "title": "Dr. John's Gumbo", "artist": "Dr. John", "peak": 112, "history": [{"date": "1972-05-20", "rank": 175}, {"date": "1972-05-27", "rank": 148}, {"date": "1972-06-03", "rank": 125}, {"date": "1972-06-10", "rank": 119}, {"date": "1972-06-17", "rank": 114}, {"date": "1972-06-24", "rank": 112}, {"date": "1972-07-01", "rank": 112}, {"date": "1972-07-08", "rank": 112}, {"date": "1972-07-15", "rank": 129}, {"date": "1972-07-22", "rank": 138}]}
+{
+  "id": "dr-john-s-gumbo-dr-john",
+  "title": "Dr. John's Gumbo",
+  "artist": "Dr. John",
+  "peak": 112,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 175
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 148
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 125
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 119
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 114
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 112
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 112
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 112
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 129
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 138
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Iko Iko",
+      "id": "iko-iko-dr-john"
+    },
+    {
+      "title": "Blow Wind Blow",
+      "id": null
+    },
+    {
+      "title": "Big Chief",
+      "id": null
+    },
+    {
+      "title": "Somebody Changed the Lock",
+      "id": null
+    },
+    {
+      "title": "Mess Around",
+      "id": null
+    },
+    {
+      "title": "Let the Good Times Roll",
+      "id": null
+    },
+    {
+      "title": "Junko Partner",
+      "id": null
+    },
+    {
+      "title": "Stack‐A‐Lee",
+      "id": null
+    },
+    {
+      "title": "Tipitina",
+      "id": null
+    },
+    {
+      "title": "Those Lonely Lonely Nights",
+      "id": null
+    },
+    {
+      "title": "Huey Smith Medley: High Blood Pressure / Don’t You Just Know It / Well I’ll Be John Brown",
+      "id": null
+    },
+    {
+      "title": "Little Liza Jane",
+      "id": null
+    }
+  ]
+}
