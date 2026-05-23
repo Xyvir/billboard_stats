@@ -1,1 +1,58 @@
-{"id": "dancin-man-q", "title": "Dancin' Man", "artist": "Q", "peak": 140, "history": [{"date": "1977-06-18", "rank": 140}, {"date": "1977-06-25", "rank": 140}]}
+{
+  "id": "dancin-man-q",
+  "title": "Dancin' Man",
+  "artist": "Q",
+  "peak": 140,
+  "history": [
+    {
+      "date": "1977-06-18",
+      "rank": 140
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 140
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dancin’ Man",
+      "id": "dancin-man-q"
+    },
+    {
+      "title": "Do I Love You?",
+      "id": null
+    },
+    {
+      "title": "Knee Deep in Love",
+      "id": null
+    },
+    {
+      "title": "Feel It in Your Backbone, Got It in Your Feet",
+      "id": null
+    },
+    {
+      "title": "Have I Sinned",
+      "id": null
+    },
+    {
+      "title": "Sweet Summertime",
+      "id": null
+    },
+    {
+      "title": "If It Ain’t One Thing, It’s Another",
+      "id": null
+    },
+    {
+      "title": "Feelin’ That Rhythm to the Bone",
+      "id": null
+    },
+    {
+      "title": "Make Us Once Again",
+      "id": null
+    },
+    {
+      "title": "Jump for Joy",
+      "id": null
+    }
+  ]
+}

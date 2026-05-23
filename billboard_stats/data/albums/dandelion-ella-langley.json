@@ -1,1 +1,30 @@
-{"id": "dandelion-ella-langley", "title": "Dandelion", "artist": "Ella Langley", "peak": 1, "history": [{"date": "2026-04-25", "rank": 1}, {"date": "2026-05-02", "rank": 1}, {"date": "2026-05-09", "rank": 2}, {"date": "2026-05-16", "rank": 2}]}
+{
+  "id": "dandelion-ella-langley",
+  "title": "Dandelion",
+  "artist": "Ella Langley",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2026-04-25",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-02",
+      "rank": 1
+    },
+    {
+      "date": "2026-05-09",
+      "rank": 2
+    },
+    {
+      "date": "2026-05-16",
+      "rank": 2
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dandelion",
+      "id": "dandelion-ella-langley"
+    }
+  ]
+}

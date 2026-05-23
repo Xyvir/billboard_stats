@@ -1,1 +1,82 @@
-{"id": "dancing-queen-cher", "title": "Dancing Queen", "artist": "Cher", "peak": 3, "history": [{"date": "2018-10-13", "rank": 3}, {"date": "2018-10-20", "rank": 43}, {"date": "2018-10-27", "rank": 32}, {"date": "2018-11-10", "rank": 36}, {"date": "2018-12-15", "rank": 183}, {"date": "2019-02-16", "rank": 185}, {"date": "2019-04-20", "rank": 143}, {"date": "2019-05-18", "rank": 36}]}
+{
+  "id": "dancing-queen-cher",
+  "title": "Dancing Queen",
+  "artist": "Cher",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2018-10-13",
+      "rank": 3
+    },
+    {
+      "date": "2018-10-20",
+      "rank": 43
+    },
+    {
+      "date": "2018-10-27",
+      "rank": 32
+    },
+    {
+      "date": "2018-11-10",
+      "rank": 36
+    },
+    {
+      "date": "2018-12-15",
+      "rank": 183
+    },
+    {
+      "date": "2019-02-16",
+      "rank": 185
+    },
+    {
+      "date": "2019-04-20",
+      "rank": 143
+    },
+    {
+      "date": "2019-05-18",
+      "rank": 36
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dancing Queen",
+      "id": null
+    },
+    {
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "id": null
+    },
+    {
+      "title": "The Name of the Game",
+      "id": null
+    },
+    {
+      "title": "SOS",
+      "id": null
+    },
+    {
+      "title": "Waterloo",
+      "id": null
+    },
+    {
+      "title": "Mamma Mia",
+      "id": null
+    },
+    {
+      "title": "Chiquitita",
+      "id": null
+    },
+    {
+      "title": "Fernando",
+      "id": null
+    },
+    {
+      "title": "The Winner Takes It All",
+      "id": null
+    },
+    {
+      "title": "One of Us",
+      "id": null
+    }
+  ]
+}

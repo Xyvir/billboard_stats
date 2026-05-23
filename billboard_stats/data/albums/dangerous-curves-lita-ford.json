@@ -1,1 +1,70 @@
-{"id": "dangerous-curves-lita-ford", "title": "Dangerous Curves", "artist": "Lita Ford", "peak": 132, "history": [{"date": "1991-11-30", "rank": 132}, {"date": "1991-12-07", "rank": 142}, {"date": "1991-12-14", "rank": 200}, {"date": "1992-01-25", "rank": 200}]}
+{
+  "id": "dangerous-curves-lita-ford",
+  "title": "Dangerous Curves",
+  "artist": "Lita Ford",
+  "peak": 132,
+  "history": [
+    {
+      "date": "1991-11-30",
+      "rank": 132
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 142
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 200
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shot of Poison",
+      "id": "shot-of-poison-lita-ford"
+    },
+    {
+      "title": "Larger Than Life",
+      "id": null
+    },
+    {
+      "title": "What Do Ya Know About Love",
+      "id": null
+    },
+    {
+      "title": "Bad Love",
+      "id": null
+    },
+    {
+      "title": "Playin’ With Fire",
+      "id": null
+    },
+    {
+      "title": "Hellbound Train",
+      "id": null
+    },
+    {
+      "title": "Black Widow",
+      "id": null
+    },
+    {
+      "title": "Little Too Early",
+      "id": null
+    },
+    {
+      "title": "Holy Man",
+      "id": null
+    },
+    {
+      "title": "Tambourine Dream",
+      "id": null
+    },
+    {
+      "title": "Little Black Spider",
+      "id": null
+    }
+  ]
+}
