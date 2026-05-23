@@ -1,1 +1,66 @@
-{"id": "go-jonsi", "title": "Go", "artist": "Jonsi", "peak": 23, "history": [{"date": "2010-04-24", "rank": 23}, {"date": "2010-05-01", "rank": 69}, {"date": "2010-05-08", "rank": 127}, {"date": "2010-05-15", "rank": 166}, {"date": "2010-09-18", "rank": 170}]}
+{
+  "id": "go-jonsi",
+  "title": "Go",
+  "artist": "Jonsi",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2010-04-24",
+      "rank": 23
+    },
+    {
+      "date": "2010-05-01",
+      "rank": 69
+    },
+    {
+      "date": "2010-05-08",
+      "rank": 127
+    },
+    {
+      "date": "2010-05-15",
+      "rank": 166
+    },
+    {
+      "date": "2010-09-18",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Go Do",
+      "id": null
+    },
+    {
+      "title": "Animal Arithmetic",
+      "id": null
+    },
+    {
+      "title": "Tornado",
+      "id": null
+    },
+    {
+      "title": "Boy Lilikoi",
+      "id": null
+    },
+    {
+      "title": "Sinking Friendships",
+      "id": null
+    },
+    {
+      "title": "Kolniður",
+      "id": null
+    },
+    {
+      "title": "Around Us",
+      "id": null
+    },
+    {
+      "title": "Grow Till Tall",
+      "id": null
+    },
+    {
+      "title": "Hengilás",
+      "id": null
+    }
+  ]
+}

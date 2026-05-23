@@ -1,1 +1,86 @@
-{"id": "gold-b-b-king", "title": "Gold", "artist": "B.B. King", "peak": 189, "history": [{"date": "2015-06-06", "rank": 189}]}
+{
+  "id": "gold-b-b-king",
+  "title": "Gold",
+  "artist": "B.B. King",
+  "peak": 189,
+  "history": [
+    {
+      "date": "2015-06-06",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ain’t Nobody Home",
+      "id": "ain-t-nobody-home-b-b-king"
+    },
+    {
+      "title": "The Thrill Is Gone",
+      "id": "the-thrill-is-gone-b-b-king"
+    },
+    {
+      "title": "Paying the Cost to Be the Boss",
+      "id": "paying-the-cost-to-be-the-boss-b-b-king"
+    },
+    {
+      "title": "Sweet Sixteen",
+      "id": "sweet-sixteen-b-b-king"
+    },
+    {
+      "title": "So Excited",
+      "id": "so-excited-b-b-king"
+    },
+    {
+      "title": "Never Trust a Woman",
+      "id": "never-trust-a-woman-b-b-king"
+    },
+    {
+      "title": "Don't Answer the Door",
+      "id": "don-t-answer-the-door-part-1-b-b-king"
+    },
+    {
+      "title": "Into the Night",
+      "id": null
+    },
+    {
+      "title": "How Blue Can You Get",
+      "id": null
+    },
+    {
+      "title": "My Lucille",
+      "id": null
+    },
+    {
+      "title": "Six Silver String",
+      "id": null
+    },
+    {
+      "title": "Let the Good Times Roll (live)",
+      "id": null
+    },
+    {
+      "title": "Double Trouble",
+      "id": null
+    },
+    {
+      "title": "Every Day I Have the Blues (live)",
+      "id": null
+    },
+    {
+      "title": "Broken Heart",
+      "id": null
+    },
+    {
+      "title": "Playing White My Friends",
+      "id": null
+    },
+    {
+      "title": "I'm Moving On",
+      "id": null
+    },
+    {
+      "title": "The Blues Come Over Me",
+      "id": null
+    }
+  ]
+}

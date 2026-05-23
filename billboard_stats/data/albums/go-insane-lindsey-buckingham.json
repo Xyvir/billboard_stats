@@ -1,1 +1,110 @@
-{"id": "go-insane-lindsey-buckingham", "title": "Go Insane", "artist": "Lindsey Buckingham", "peak": 45, "history": [{"date": "1984-09-01", "rank": 125}, {"date": "1984-09-08", "rank": 62}, {"date": "1984-09-15", "rank": 57}, {"date": "1984-09-22", "rank": 48}, {"date": "1984-09-29", "rank": 45}, {"date": "1984-10-06", "rank": 45}, {"date": "1984-10-13", "rank": 45}, {"date": "1984-10-20", "rank": 45}, {"date": "1984-10-27", "rank": 55}, {"date": "1984-11-03", "rank": 65}, {"date": "1984-11-10", "rank": 96}, {"date": "1984-11-17", "rank": 96}, {"date": "1984-11-24", "rank": 113}, {"date": "1984-12-01", "rank": 133}, {"date": "1984-12-08", "rank": 137}, {"date": "1984-12-15", "rank": 168}]}
+{
+  "id": "go-insane-lindsey-buckingham",
+  "title": "Go Insane",
+  "artist": "Lindsey Buckingham",
+  "peak": 45,
+  "history": [
+    {
+      "date": "1984-09-01",
+      "rank": 125
+    },
+    {
+      "date": "1984-09-08",
+      "rank": 62
+    },
+    {
+      "date": "1984-09-15",
+      "rank": 57
+    },
+    {
+      "date": "1984-09-22",
+      "rank": 48
+    },
+    {
+      "date": "1984-09-29",
+      "rank": 45
+    },
+    {
+      "date": "1984-10-06",
+      "rank": 45
+    },
+    {
+      "date": "1984-10-13",
+      "rank": 45
+    },
+    {
+      "date": "1984-10-20",
+      "rank": 45
+    },
+    {
+      "date": "1984-10-27",
+      "rank": 55
+    },
+    {
+      "date": "1984-11-03",
+      "rank": 65
+    },
+    {
+      "date": "1984-11-10",
+      "rank": 96
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 96
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 113
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 133
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 137
+    },
+    {
+      "date": "1984-12-15",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Go Insane",
+      "id": "go-insane-lindsey-buckingham"
+    },
+    {
+      "title": "I Want You",
+      "id": null
+    },
+    {
+      "title": "Slow Dancing",
+      "id": null
+    },
+    {
+      "title": "I Must Go",
+      "id": null
+    },
+    {
+      "title": "Play in the Rain",
+      "id": null
+    },
+    {
+      "title": "Play in the Rain (continued)",
+      "id": null
+    },
+    {
+      "title": "Loving Cup",
+      "id": null
+    },
+    {
+      "title": "Bang the Drum",
+      "id": null
+    },
+    {
+      "title": "D.W. Suite",
+      "id": null
+    }
+  ]
+}
