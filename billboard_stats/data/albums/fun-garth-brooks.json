@@ -1,1 +1,90 @@
-{"id": "fun-garth-brooks", "title": "Fun", "artist": "Garth Brooks", "peak": 42, "history": [{"date": "2020-12-05", "rank": 42}, {"date": "2020-12-12", "rank": 98}, {"date": "2020-12-19", "rank": 149}, {"date": "2020-12-26", "rank": 145}, {"date": "2021-01-02", "rank": 131}]}
+{
+  "id": "fun-garth-brooks",
+  "title": "Fun",
+  "artist": "Garth Brooks",
+  "peak": 42,
+  "history": [
+    {
+      "date": "2020-12-05",
+      "rank": 42
+    },
+    {
+      "date": "2020-12-12",
+      "rank": 98
+    },
+    {
+      "date": "2020-12-19",
+      "rank": 149
+    },
+    {
+      "date": "2020-12-26",
+      "rank": 145
+    },
+    {
+      "date": "2021-01-02",
+      "rank": 131
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Road I’m On",
+      "id": null
+    },
+    {
+      "title": "That’s What Cowboys Do",
+      "id": null
+    },
+    {
+      "title": "All Day Long",
+      "id": null
+    },
+    {
+      "title": "Shallow",
+      "id": null
+    },
+    {
+      "title": "Dive Bar",
+      "id": null
+    },
+    {
+      "title": "Amen",
+      "id": null
+    },
+    {
+      "title": "The Courage of Love",
+      "id": null
+    },
+    {
+      "title": "I Can Be Me With You",
+      "id": null
+    },
+    {
+      "title": "Message in a Bottle",
+      "id": null
+    },
+    {
+      "title": "Stronger Than Me",
+      "id": null
+    },
+    {
+      "title": "(A Hard Way to Make an) Easy Livin’",
+      "id": null
+    },
+    {
+      "title": "Where the Cross Don’t Burn",
+      "id": null
+    },
+    {
+      "title": "[silence]",
+      "id": null
+    },
+    {
+      "title": "Party Gras (The Mardi Gras Song)",
+      "id": null
+    },
+    {
+      "title": "Sometimes You’ve Got to Die To (Live Again)",
+      "id": null
+    }
+  ]
+}

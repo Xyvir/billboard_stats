@@ -1,1 +1,102 @@
-{"id": "funk-this-chaka-khan", "title": "Funk This", "artist": "Chaka Khan", "peak": 15, "history": [{"date": "2007-10-13", "rank": 15}, {"date": "2007-10-20", "rank": 40}, {"date": "2007-10-27", "rank": 72}, {"date": "2007-11-03", "rank": 79}, {"date": "2007-11-10", "rank": 96}, {"date": "2007-11-17", "rank": 117}, {"date": "2007-11-24", "rank": 152}, {"date": "2007-12-01", "rank": 156}]}
+{
+  "id": "funk-this-chaka-khan",
+  "title": "Funk This",
+  "artist": "Chaka Khan",
+  "peak": 15,
+  "history": [
+    {
+      "date": "2007-10-13",
+      "rank": 15
+    },
+    {
+      "date": "2007-10-20",
+      "rank": 40
+    },
+    {
+      "date": "2007-10-27",
+      "rank": 72
+    },
+    {
+      "date": "2007-11-03",
+      "rank": 79
+    },
+    {
+      "date": "2007-11-10",
+      "rank": 96
+    },
+    {
+      "date": "2007-11-17",
+      "rank": 117
+    },
+    {
+      "date": "2007-11-24",
+      "rank": 152
+    },
+    {
+      "date": "2007-12-01",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One for All Time",
+      "id": "love-you-all-my-lifetime-chaka-khan"
+    },
+    {
+      "title": "Once You Get Started",
+      "id": "once-you-get-started-rufus-featuring-chaka-khan"
+    },
+    {
+      "title": "Back in the Day",
+      "id": null
+    },
+    {
+      "title": "Foolish Fool",
+      "id": null
+    },
+    {
+      "title": "Angel",
+      "id": null
+    },
+    {
+      "title": "Will You Love Me?",
+      "id": null
+    },
+    {
+      "title": "Castles Made of Sand",
+      "id": null
+    },
+    {
+      "title": "Disrespectful",
+      "id": null
+    },
+    {
+      "title": "Sign ‘o’ the Times",
+      "id": null
+    },
+    {
+      "title": "Pack’d My Bags / You Got the Love",
+      "id": null
+    },
+    {
+      "title": "Ladies’ Man",
+      "id": null
+    },
+    {
+      "title": "You Belong to Me",
+      "id": null
+    },
+    {
+      "title": "Hail to the Wrong",
+      "id": null
+    },
+    {
+      "title": "Super Life",
+      "id": null
+    },
+    {
+      "title": "Shining Star",
+      "id": null
+    }
+  ]
+}
