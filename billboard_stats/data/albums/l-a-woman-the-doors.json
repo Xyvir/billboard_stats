@@ -1,1 +1,58 @@
-{"id": "l-a-woman-the-doors", "title": "L.A. Woman", "artist": "The Doors", "peak": 78, "history": [{"date": "2012-02-11", "rank": 78}, {"date": "2012-08-25", "rank": 114}]}
+{
+  "id": "l-a-woman-the-doors",
+  "title": "L.A. Woman",
+  "artist": "The Doors",
+  "peak": 78,
+  "history": [
+    {
+      "date": "2012-02-11",
+      "rank": 78
+    },
+    {
+      "date": "2012-08-25",
+      "rank": 114
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Her Madly",
+      "id": "love-her-madly-the-doors"
+    },
+    {
+      "title": "Riders on the Storm",
+      "id": "riders-on-the-storm-the-doors"
+    },
+    {
+      "title": "The Changeling",
+      "id": null
+    },
+    {
+      "title": "Been Down So Long",
+      "id": null
+    },
+    {
+      "title": "Cars Hiss by My Window",
+      "id": null
+    },
+    {
+      "title": "L.A. Woman",
+      "id": null
+    },
+    {
+      "title": "L’America",
+      "id": null
+    },
+    {
+      "title": "Hyacinth House",
+      "id": null
+    },
+    {
+      "title": "Crawling King Snake",
+      "id": null
+    },
+    {
+      "title": "The WASP (Texas Radio and the Big Beat)",
+      "id": null
+    }
+  ]
+}

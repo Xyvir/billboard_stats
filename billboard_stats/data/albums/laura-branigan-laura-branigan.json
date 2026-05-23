@@ -1,1 +1,74 @@
-{"id": "laura-branigan-laura-branigan", "title": "Laura Branigan", "artist": "Laura Branigan", "peak": 133, "history": [{"date": "1990-04-28", "rank": 172}, {"date": "1990-05-05", "rank": 157}, {"date": "1990-05-12", "rank": 148}, {"date": "1990-05-19", "rank": 133}, {"date": "1990-05-26", "rank": 133}, {"date": "1990-06-02", "rank": 186}]}
+{
+  "id": "laura-branigan-laura-branigan",
+  "title": "Laura Branigan",
+  "artist": "Laura Branigan",
+  "peak": 133,
+  "history": [
+    {
+      "date": "1990-04-28",
+      "rank": 172
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 157
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 148
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 133
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 133
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Lucky One",
+      "id": "the-lucky-one-laura-branigan"
+    },
+    {
+      "title": "All Night With Me",
+      "id": "all-night-with-me-laura-branigan"
+    },
+    {
+      "title": "Ti Amo",
+      "id": "ti-amo-laura-branigan"
+    },
+    {
+      "title": "Solitaire",
+      "id": "solitaire-laura-branigan"
+    },
+    {
+      "title": "How Am I Supposed to Live Without You",
+      "id": "how-am-i-supposed-to-live-without-you-laura-branigan"
+    },
+    {
+      "title": "Self Control",
+      "id": "self-control-laura-branigan"
+    },
+    {
+      "title": "Gloria",
+      "id": "gloria-laura-branigan"
+    },
+    {
+      "title": "Satisfaction",
+      "id": null
+    },
+    {
+      "title": "I Wish We Could Be Alone",
+      "id": null
+    },
+    {
+      "title": "Don’t Show Your Love",
+      "id": null
+    }
+  ]
+}
