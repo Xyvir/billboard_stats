@@ -1,1 +1,110 @@
-{"id": "foursider-herb-alpert", "title": "Foursider", "artist": "Herb Alpert", "peak": 196, "history": [{"date": "1973-12-08", "rank": 200}, {"date": "1973-12-15", "rank": 198}, {"date": "1973-12-22", "rank": 196}, {"date": "1973-12-29", "rank": 200}]}
+{
+  "id": "foursider-herb-alpert",
+  "title": "Foursider",
+  "artist": "Herb Alpert",
+  "peak": 196,
+  "history": [
+    {
+      "date": "1973-12-08",
+      "rank": 200
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 198
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 196
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What Now My Love",
+      "id": "to-wait-for-love-herb-alpert"
+    },
+    {
+      "title": "This Guy’s in Love With You",
+      "id": "this-guy-s-in-love-with-you-herb-alpert"
+    },
+    {
+      "title": "Without Her",
+      "id": "without-her-herb-alpert"
+    },
+    {
+      "title": "The Lonely Bull (El solo toro)",
+      "id": null
+    },
+    {
+      "title": "More",
+      "id": null
+    },
+    {
+      "title": "The Girl From Ipanema",
+      "id": null
+    },
+    {
+      "title": "Hello, Dolly!",
+      "id": null
+    },
+    {
+      "title": "A Taste of Honey",
+      "id": null
+    },
+    {
+      "title": "Whipped Cream",
+      "id": null
+    },
+    {
+      "title": "Tijuana Taxi",
+      "id": null
+    },
+    {
+      "title": "Zorba the Greek",
+      "id": null
+    },
+    {
+      "title": "If I Were a Rich Man",
+      "id": null
+    },
+    {
+      "title": "The Shadow of Your Smile",
+      "id": null
+    },
+    {
+      "title": "Mame",
+      "id": null
+    },
+    {
+      "title": "With a Little Help From My Friends",
+      "id": null
+    },
+    {
+      "title": "Casino Royale",
+      "id": null
+    },
+    {
+      "title": "Cabaret",
+      "id": null
+    },
+    {
+      "title": "Moon River",
+      "id": null
+    },
+    {
+      "title": "Sunny",
+      "id": null
+    },
+    {
+      "title": "Warm",
+      "id": null
+    },
+    {
+      "title": "Last Tango in Paris",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "foxy-brown-willie-hutch", "title": "Foxy Brown", "artist": "Willie Hutch", "peak": 179, "history": [{"date": "1974-05-18", "rank": 190}, {"date": "1974-05-25", "rank": 182}, {"date": "1974-06-01", "rank": 181}, {"date": "1974-06-08", "rank": 179}]}
+{
+  "id": "foxy-brown-willie-hutch",
+  "title": "Foxy Brown",
+  "artist": "Willie Hutch",
+  "peak": 179,
+  "history": [
+    {
+      "date": "1974-05-18",
+      "rank": 190
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 182
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 181
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Chase",
+      "id": null
+    },
+    {
+      "title": "Theme of Foxy Brown",
+      "id": null
+    },
+    {
+      "title": "Overture of Foxy Brown",
+      "id": null
+    },
+    {
+      "title": "Hospital Prelude of Love Theme",
+      "id": null
+    },
+    {
+      "title": "Give Me Some of That Good Old Love",
+      "id": null
+    },
+    {
+      "title": "Out There",
+      "id": null
+    },
+    {
+      "title": "Foxy Lady",
+      "id": null
+    },
+    {
+      "title": "You Sure Know How to Love Your Man",
+      "id": null
+    },
+    {
+      "title": "Have You Ever Asked Yourself Why",
+      "id": null
+    },
+    {
+      "title": "Ain't That Mellow, Mellow",
+      "id": null
+    },
+    {
+      "title": "Whatever You Do (Do It Good)",
+      "id": null
+    }
+  ]
+}

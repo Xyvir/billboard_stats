@@ -1,1 +1,70 @@
-{"id": "four-bloc-party", "title": "Four", "artist": "Bloc Party", "peak": 36, "history": [{"date": "2012-09-08", "rank": 36}, {"date": "2012-09-15", "rank": 126}]}
+{
+  "id": "four-bloc-party",
+  "title": "Four",
+  "artist": "Bloc Party",
+  "peak": 36,
+  "history": [
+    {
+      "date": "2012-09-08",
+      "rank": 36
+    },
+    {
+      "date": "2012-09-15",
+      "rank": 126
+    }
+  ],
+  "tracks": [
+    {
+      "title": "So He Begins to Lie",
+      "id": null
+    },
+    {
+      "title": "3x3",
+      "id": null
+    },
+    {
+      "title": "Octopus",
+      "id": null
+    },
+    {
+      "title": "Real Talk",
+      "id": null
+    },
+    {
+      "title": "Kettling",
+      "id": null
+    },
+    {
+      "title": "Day Four",
+      "id": null
+    },
+    {
+      "title": "Coliseum",
+      "id": null
+    },
+    {
+      "title": "V.A.L.I.S.",
+      "id": null
+    },
+    {
+      "title": "Team A",
+      "id": null
+    },
+    {
+      "title": "Truth",
+      "id": null
+    },
+    {
+      "title": "The Healing",
+      "id": null
+    },
+    {
+      "title": "We Are Not Good People",
+      "id": null
+    },
+    {
+      "title": "Black Crown",
+      "id": null
+    }
+  ]
+}
