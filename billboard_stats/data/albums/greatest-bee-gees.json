@@ -1,1 +1,222 @@
-{"id": "greatest-bee-gees", "title": "Greatest", "artist": "Bee Gees", "peak": 1, "history": [{"date": "1979-11-17", "rank": 10}, {"date": "1979-11-24", "rank": 10}, {"date": "1979-12-01", "rank": 10}, {"date": "1979-12-08", "rank": 6}, {"date": "1979-12-15", "rank": 5}, {"date": "1979-12-22", "rank": 5}, {"date": "1979-12-29", "rank": 5}, {"date": "1980-01-05", "rank": 2}, {"date": "1980-01-12", "rank": 1}, {"date": "1980-01-19", "rank": 4}, {"date": "1980-01-26", "rank": 5}, {"date": "1980-02-02", "rank": 9}, {"date": "1980-02-09", "rank": 9}, {"date": "1980-02-16", "rank": 14}, {"date": "1980-02-23", "rank": 16}, {"date": "1980-03-01", "rank": 22}, {"date": "1980-03-08", "rank": 24}, {"date": "1980-03-15", "rank": 43}, {"date": "1980-03-22", "rank": 47}, {"date": "1980-03-29", "rank": 56}, {"date": "1980-04-05", "rank": 56}, {"date": "1980-04-12", "rank": 60}, {"date": "1980-04-19", "rank": 80}, {"date": "1980-04-26", "rank": 91}, {"date": "1980-05-03", "rank": 106}, {"date": "1980-05-10", "rank": 106}, {"date": "1980-05-17", "rank": 196}, {"date": "1980-05-24", "rank": 197}, {"date": "1980-05-31", "rank": 200}, {"date": "1980-06-07", "rank": 200}, {"date": "1980-06-14", "rank": 200}, {"date": "1980-06-21", "rank": 200}, {"date": "2017-05-06", "rank": 160}]}
+{
+  "id": "greatest-bee-gees",
+  "title": "Greatest",
+  "artist": "Bee Gees",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1979-11-17",
+      "rank": 10
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 10
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 10
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 6
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 5
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 5
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 5
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 2
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 1
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 4
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 5
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 9
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 9
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 14
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 16
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 22
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 24
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 43
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 47
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 56
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 56
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 60
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 80
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 91
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 106
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 106
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 196
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 197
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 200
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 200
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 200
+    },
+    {
+      "date": "1980-06-21",
+      "rank": 200
+    },
+    {
+      "date": "2017-05-06",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Jive Talkin’",
+      "id": "jive-talkin-bee-gees"
+    },
+    {
+      "title": "Night Fever",
+      "id": "night-fever-bee-gees"
+    },
+    {
+      "title": "Tragedy",
+      "id": "tragedy-bee-gees"
+    },
+    {
+      "title": "You Should Be Dancing",
+      "id": "you-should-be-dancing-bee-gees"
+    },
+    {
+      "title": "Stayin’ Alive",
+      "id": "stayin-alive-bee-gees"
+    },
+    {
+      "title": "How Deep Is Your Love",
+      "id": "how-deep-is-your-love-bee-gees"
+    },
+    {
+      "title": "Love So Right",
+      "id": "love-so-right-bee-gees"
+    },
+    {
+      "title": "Too Much Heaven",
+      "id": "too-much-heaven-bee-gees"
+    },
+    {
+      "title": "Fanny (Be Tender With My Love)",
+      "id": "fanny-be-tender-with-my-love-bee-gees"
+    },
+    {
+      "title": "Love Me",
+      "id": "to-love-somebody-bee-gees"
+    },
+    {
+      "title": "Rest Your Love on Me",
+      "id": "to-love-somebody-bee-gees"
+    },
+    {
+      "title": "Nights on Broadway",
+      "id": "nights-on-broadway-bee-gees"
+    },
+    {
+      "title": "Love You Inside Out",
+      "id": "love-you-inside-out-bee-gees"
+    },
+    {
+      "title": "(Our Love) Don’t Throw It All Away",
+      "id": null
+    },
+    {
+      "title": "If I Can’t Have You",
+      "id": null
+    },
+    {
+      "title": "You Stepped Into My Life",
+      "id": null
+    },
+    {
+      "title": "More Than a Woman",
+      "id": null
+    },
+    {
+      "title": "Spirits (Having Flown)",
+      "id": null
+    },
+    {
+      "title": "Wind of Change",
+      "id": null
+    },
+    {
+      "title": "Children of the World",
+      "id": null
+    }
+  ]
+}

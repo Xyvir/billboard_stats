@@ -1,1 +1,118 @@
-{"id": "great-balls-of-fire-dolly-parton", "title": "Great Balls Of Fire", "artist": "Dolly Parton", "peak": 40, "history": [{"date": "1979-06-23", "rank": 72}, {"date": "1979-06-30", "rank": 54}, {"date": "1979-07-07", "rank": 47}, {"date": "1979-07-14", "rank": 42}, {"date": "1979-07-21", "rank": 40}, {"date": "1979-07-28", "rank": 59}, {"date": "1979-08-04", "rank": 73}, {"date": "1979-08-11", "rank": 138}, {"date": "1979-08-18", "rank": 136}, {"date": "1979-08-25", "rank": 133}, {"date": "1979-09-01", "rank": 135}, {"date": "1979-09-08", "rank": 136}, {"date": "1979-09-15", "rank": 137}, {"date": "1979-09-22", "rank": 168}, {"date": "1979-09-29", "rank": 167}, {"date": "1979-10-06", "rank": 167}, {"date": "1979-10-13", "rank": 170}]}
+{
+  "id": "great-balls-of-fire-dolly-parton",
+  "title": "Great Balls Of Fire",
+  "artist": "Dolly Parton",
+  "peak": 40,
+  "history": [
+    {
+      "date": "1979-06-23",
+      "rank": 72
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 54
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 47
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 42
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 40
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 59
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 73
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 138
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 136
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 133
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 135
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 136
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 137
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 168
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 167
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 167
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Down",
+      "id": "downtown-dolly-parton"
+    },
+    {
+      "title": "You’re the Only One",
+      "id": "you-re-the-only-one-dolly-parton"
+    },
+    {
+      "title": "Sweet Summer Lovin’",
+      "id": "sweet-summer-lovin-dolly-parton"
+    },
+    {
+      "title": "Star of the Show",
+      "id": null
+    },
+    {
+      "title": "Help!",
+      "id": null
+    },
+    {
+      "title": "Do You Think That Time Stands Still?",
+      "id": null
+    },
+    {
+      "title": "Great Balls of Fire",
+      "id": null
+    },
+    {
+      "title": "Almost in Love",
+      "id": null
+    },
+    {
+      "title": "It’s Not My Affair Anymore",
+      "id": null
+    },
+    {
+      "title": "Sandy’s Song",
+      "id": null
+    }
+  ]
+}

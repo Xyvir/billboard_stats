@@ -1,1 +1,86 @@
-{"id": "greatest-hits-1979-1990-dionne-warwick", "title": "Greatest Hits 1979-1990", "artist": "Dionne Warwick", "peak": 177, "history": [{"date": "1989-12-23", "rank": 196}, {"date": "1989-12-30", "rank": 196}, {"date": "1990-01-06", "rank": 196}, {"date": "1990-01-13", "rank": 183}, {"date": "1990-01-20", "rank": 177}, {"date": "1990-01-27", "rank": 190}, {"date": "1990-02-03", "rank": 197}]}
+{
+  "id": "greatest-hits-1979-1990-dionne-warwick",
+  "title": "Greatest Hits 1979-1990",
+  "artist": "Dionne Warwick",
+  "peak": 177,
+  "history": [
+    {
+      "date": "1989-12-23",
+      "rank": 196
+    },
+    {
+      "date": "1989-12-30",
+      "rank": 196
+    },
+    {
+      "date": "1990-01-06",
+      "rank": 196
+    },
+    {
+      "date": "1990-01-13",
+      "rank": 183
+    },
+    {
+      "date": "1990-01-20",
+      "rank": 177
+    },
+    {
+      "date": "1990-01-27",
+      "rank": 190
+    },
+    {
+      "date": "1990-02-03",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heartbreaker",
+      "id": "heartbreaker-dionne-warwick"
+    },
+    {
+      "title": "I’ll Never Love This Way Again",
+      "id": "i-ll-never-love-this-way-again-dionne-warwick"
+    },
+    {
+      "title": "Walk Away",
+      "id": "walk-on-by-dionne-warwick"
+    },
+    {
+      "title": "Déjà vu",
+      "id": "deja-vu-dionne-warwick"
+    },
+    {
+      "title": "No Night So Long",
+      "id": "no-night-so-long-dionne-warwick"
+    },
+    {
+      "title": "That’s What Friends Are For",
+      "id": null
+    },
+    {
+      "title": "Love Power",
+      "id": null
+    },
+    {
+      "title": "How Many Times Can We Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "Take Good Care of You and Me",
+      "id": null
+    },
+    {
+      "title": "Friends in Love",
+      "id": null
+    },
+    {
+      "title": "I Don’t Need Another Love",
+      "id": null
+    },
+    {
+      "title": "All the Time",
+      "id": null
+    }
+  ]
+}

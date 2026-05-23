@@ -1,1 +1,74 @@
-{"id": "greatest-hits-1972-1978-10cc", "title": "Greatest Hits 1972-1978", "artist": "10cc", "peak": 188, "history": [{"date": "1979-12-22", "rank": 190}, {"date": "1979-12-29", "rank": 190}, {"date": "1980-01-05", "rank": 188}, {"date": "1980-01-12", "rank": 200}]}
+{
+  "id": "greatest-hits-1972-1978-10cc",
+  "title": "Greatest Hits 1972-1978",
+  "artist": "10cc",
+  "peak": 188,
+  "history": [
+    {
+      "date": "1979-12-22",
+      "rank": 190
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 190
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 188
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rubber Bullets",
+      "id": "rubber-bullets-10cc"
+    },
+    {
+      "title": "Art for Art’s Sake",
+      "id": "art-for-art-s-sake-10cc"
+    },
+    {
+      "title": "I’m Mandy Fly Me",
+      "id": "i-m-mandy-fly-me-10cc"
+    },
+    {
+      "title": "Good Morning Judge",
+      "id": "good-morning-judge-10cc"
+    },
+    {
+      "title": "The Things We Do for Love",
+      "id": "the-things-we-do-for-love-10cc"
+    },
+    {
+      "title": "Dreadlock Holiday",
+      "id": "dreadlock-holiday-10cc"
+    },
+    {
+      "title": "I’m Not in Love",
+      "id": "i-m-not-in-love-10cc"
+    },
+    {
+      "title": "Donna",
+      "id": null
+    },
+    {
+      "title": "Silly Love",
+      "id": null
+    },
+    {
+      "title": "The Dean and I",
+      "id": null
+    },
+    {
+      "title": "Life Is a Minestrone",
+      "id": null
+    },
+    {
+      "title": "The Wall Street Shuffle",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"id": "gravity-james-brown", "title": "Gravity", "artist": "James Brown", "peak": 156, "history": [{"date": "1986-10-18", "rank": 168}, {"date": "1986-10-25", "rank": 163}, {"date": "1986-11-01", "rank": 156}, {"date": "1986-11-08", "rank": 156}, {"date": "1986-11-15", "rank": 161}, {"date": "1986-11-22", "rank": 179}]}
+{
+  "id": "gravity-james-brown",
+  "title": "Gravity",
+  "artist": "James Brown",
+  "peak": 156,
+  "history": [
+    {
+      "date": "1986-10-18",
+      "rank": 168
+    },
+    {
+      "date": "1986-10-25",
+      "rank": 163
+    },
+    {
+      "date": "1986-11-01",
+      "rank": 156
+    },
+    {
+      "date": "1986-11-08",
+      "rank": 156
+    },
+    {
+      "date": "1986-11-15",
+      "rank": 161
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Gravity",
+      "id": "gravity-james-brown"
+    },
+    {
+      "title": "Living in America",
+      "id": "living-in-america-james-brown"
+    },
+    {
+      "title": "Let’s Get Personal",
+      "id": null
+    },
+    {
+      "title": "How Do You Stop",
+      "id": null
+    },
+    {
+      "title": "Turn Me Loose, I’m Dr. Feelgood",
+      "id": null
+    },
+    {
+      "title": "Goliath",
+      "id": null
+    },
+    {
+      "title": "Repeat the Beat (Faith)",
+      "id": null
+    },
+    {
+      "title": "Return to Me",
+      "id": null
+    }
+  ]
+}

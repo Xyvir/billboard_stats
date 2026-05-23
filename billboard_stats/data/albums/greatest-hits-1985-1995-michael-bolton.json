@@ -1,1 +1,246 @@
-{"id": "greatest-hits-1985-1995-michael-bolton", "title": "Greatest Hits 1985-1995", "artist": "Michael Bolton", "peak": 5, "history": [{"date": "1995-10-07", "rank": 5}, {"date": "1995-10-14", "rank": 7}, {"date": "1995-10-21", "rank": 7}, {"date": "1995-10-28", "rank": 11}, {"date": "1995-11-04", "rank": 7}, {"date": "1995-11-11", "rank": 7}, {"date": "1995-11-18", "rank": 12}, {"date": "1995-11-25", "rank": 19}, {"date": "1995-12-02", "rank": 23}, {"date": "1995-12-09", "rank": 31}, {"date": "1995-12-16", "rank": 24}, {"date": "1995-12-23", "rank": 25}, {"date": "1995-12-30", "rank": 27}, {"date": "1996-01-06", "rank": 27}, {"date": "1996-01-13", "rank": 31}, {"date": "1996-01-20", "rank": 27}, {"date": "1996-01-27", "rank": 37}, {"date": "1996-02-03", "rank": 42}, {"date": "1996-02-10", "rank": 46}, {"date": "1996-02-17", "rank": 56}, {"date": "1996-02-24", "rank": 64}, {"date": "1996-03-02", "rank": 60}, {"date": "1996-03-09", "rank": 80}, {"date": "1996-03-16", "rank": 97}, {"date": "1996-03-23", "rank": 34}, {"date": "1996-03-30", "rank": 44}, {"date": "1996-04-06", "rank": 76}, {"date": "1996-04-13", "rank": 95}, {"date": "1996-04-20", "rank": 117}, {"date": "1996-04-27", "rank": 109}, {"date": "1996-05-04", "rank": 120}, {"date": "1996-05-11", "rank": 140}, {"date": "1996-05-18", "rank": 149}, {"date": "1996-05-25", "rank": 123}, {"date": "1996-06-01", "rank": 130}, {"date": "1996-06-08", "rank": 172}, {"date": "1996-06-15", "rank": 184}, {"date": "1996-06-22", "rank": 188}, {"date": "1996-06-29", "rank": 200}, {"date": "1996-09-14", "rank": 174}, {"date": "1996-09-21", "rank": 151}, {"date": "1996-09-28", "rank": 173}]}
+{
+  "id": "greatest-hits-1985-1995-michael-bolton",
+  "title": "Greatest Hits 1985-1995",
+  "artist": "Michael Bolton",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1995-10-07",
+      "rank": 5
+    },
+    {
+      "date": "1995-10-14",
+      "rank": 7
+    },
+    {
+      "date": "1995-10-21",
+      "rank": 7
+    },
+    {
+      "date": "1995-10-28",
+      "rank": 11
+    },
+    {
+      "date": "1995-11-04",
+      "rank": 7
+    },
+    {
+      "date": "1995-11-11",
+      "rank": 7
+    },
+    {
+      "date": "1995-11-18",
+      "rank": 12
+    },
+    {
+      "date": "1995-11-25",
+      "rank": 19
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 23
+    },
+    {
+      "date": "1995-12-09",
+      "rank": 31
+    },
+    {
+      "date": "1995-12-16",
+      "rank": 24
+    },
+    {
+      "date": "1995-12-23",
+      "rank": 25
+    },
+    {
+      "date": "1995-12-30",
+      "rank": 27
+    },
+    {
+      "date": "1996-01-06",
+      "rank": 27
+    },
+    {
+      "date": "1996-01-13",
+      "rank": 31
+    },
+    {
+      "date": "1996-01-20",
+      "rank": 27
+    },
+    {
+      "date": "1996-01-27",
+      "rank": 37
+    },
+    {
+      "date": "1996-02-03",
+      "rank": 42
+    },
+    {
+      "date": "1996-02-10",
+      "rank": 46
+    },
+    {
+      "date": "1996-02-17",
+      "rank": 56
+    },
+    {
+      "date": "1996-02-24",
+      "rank": 64
+    },
+    {
+      "date": "1996-03-02",
+      "rank": 60
+    },
+    {
+      "date": "1996-03-09",
+      "rank": 80
+    },
+    {
+      "date": "1996-03-16",
+      "rank": 97
+    },
+    {
+      "date": "1996-03-23",
+      "rank": 34
+    },
+    {
+      "date": "1996-03-30",
+      "rank": 44
+    },
+    {
+      "date": "1996-04-06",
+      "rank": 76
+    },
+    {
+      "date": "1996-04-13",
+      "rank": 95
+    },
+    {
+      "date": "1996-04-20",
+      "rank": 117
+    },
+    {
+      "date": "1996-04-27",
+      "rank": 109
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 120
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 140
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 149
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 123
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 130
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 172
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 184
+    },
+    {
+      "date": "1996-06-22",
+      "rank": 188
+    },
+    {
+      "date": "1996-06-29",
+      "rank": 200
+    },
+    {
+      "date": "1996-09-14",
+      "rank": 174
+    },
+    {
+      "date": "1996-09-21",
+      "rank": 151
+    },
+    {
+      "date": "1996-09-28",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Soul Provider",
+      "id": "soul-provider-michael-bolton"
+    },
+    {
+      "title": "(Sittin’ on) The Dock of the Bay",
+      "id": "sittin-on-the-dock-of-the-bay-michael-bolton"
+    },
+    {
+      "title": "How Am I Supposed to Live Without You",
+      "id": "how-am-i-supposed-to-live-without-you-michael-bolton"
+    },
+    {
+      "title": "How Can We Be Lovers",
+      "id": "how-can-we-be-lovers-michael-bolton"
+    },
+    {
+      "title": "When I’m Back on My Feet Again",
+      "id": "when-i-m-back-on-my-feet-again-michael-bolton"
+    },
+    {
+      "title": "Georgia on My Mind",
+      "id": "georgia-on-my-mind-michael-bolton"
+    },
+    {
+      "title": "Time, Love and Tenderness",
+      "id": "time-love-and-tenderness-michael-bolton"
+    },
+    {
+      "title": "When a Man Loves a Woman",
+      "id": "when-a-man-loves-a-woman-michael-bolton"
+    },
+    {
+      "title": "Missing You Now",
+      "id": "missing-you-now-michael-bolton"
+    },
+    {
+      "title": "Said I Loved You… But I Lied",
+      "id": "said-i-loved-you-but-i-lied-michael-bolton"
+    },
+    {
+      "title": "Can I Touch You… There?",
+      "id": "can-i-touch-you-there-michael-bolton"
+    },
+    {
+      "title": "A Love So Beautiful",
+      "id": "said-i-loved-you-but-i-lied-michael-bolton"
+    },
+    {
+      "title": "Steel Bars",
+      "id": null
+    },
+    {
+      "title": "Lean on Me",
+      "id": null
+    },
+    {
+      "title": "I Promise You",
+      "id": null
+    },
+    {
+      "title": "I Found Someone",
+      "id": null
+    },
+    {
+      "title": "This River",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"id": "greatest-duran-duran", "title": "Greatest", "artist": "Duran Duran", "peak": 170, "history": [{"date": "1999-04-24", "rank": 170}]}
+{
+  "id": "greatest-duran-duran",
+  "title": "Greatest",
+  "artist": "Duran Duran",
+  "peak": 170,
+  "history": [
+    {
+      "date": "1999-04-24",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Is There Something I Should Know?",
+      "id": "is-there-something-i-should-know-duran-duran"
+    },
+    {
+      "title": "The Reflex",
+      "id": "the-reflex-duran-duran"
+    },
+    {
+      "title": "A View to a Kill",
+      "id": "a-view-to-a-kill-duran-duran"
+    },
+    {
+      "title": "Ordinary World",
+      "id": "ordinary-world-duran-duran"
+    },
+    {
+      "title": "Save a Prayer",
+      "id": "save-a-prayer-duran-duran"
+    },
+    {
+      "title": "Hungry Like the Wolf",
+      "id": "hungry-like-the-wolf-duran-duran"
+    },
+    {
+      "title": "Union of the Snake",
+      "id": "union-of-the-snake-duran-duran"
+    },
+    {
+      "title": "New Moon on Monday",
+      "id": "new-moon-on-monday-duran-duran"
+    },
+    {
+      "title": "The Wild Boys",
+      "id": "the-wild-boys-duran-duran"
+    },
+    {
+      "title": "Notorious",
+      "id": "notorious-duran-duran"
+    },
+    {
+      "title": "I Don’t Want Your Love",
+      "id": "i-don-t-want-your-love-duran-duran"
+    },
+    {
+      "title": "All She Wants Is (45 mix)",
+      "id": "all-she-wants-is-duran-duran"
+    },
+    {
+      "title": "Electric Barbarella (edit)",
+      "id": "electric-barbarella-duran-duran"
+    },
+    {
+      "title": "Skin Trade (radio cut)",
+      "id": "skin-trade-duran-duran"
+    },
+    {
+      "title": "Come Undone (edit)",
+      "id": "come-undone-duran-duran"
+    },
+    {
+      "title": "Rio (US edit)",
+      "id": null
+    },
+    {
+      "title": "Girls on Film",
+      "id": null
+    },
+    {
+      "title": "Planet Earth (single version)",
+      "id": null
+    },
+    {
+      "title": "Serious (edit)",
+      "id": null
+    }
+  ]
+}
