@@ -1,1 +1,50 @@
-{"id": "carnival-john-handy", "title": "Carnival", "artist": "John Handy", "peak": 200, "history": [{"date": "1977-04-16", "rank": 200}, {"date": "1977-04-23", "rank": 200}]}
+{
+  "id": "carnival-john-handy",
+  "title": "Carnival",
+  "artist": "John Handy",
+  "peak": 200,
+  "history": [
+    {
+      "date": "1977-04-16",
+      "rank": 200
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Carnival",
+      "id": null
+    },
+    {
+      "title": "Alvina",
+      "id": null
+    },
+    {
+      "title": "Watch Your Money Go",
+      "id": null
+    },
+    {
+      "title": "I Will Leave You",
+      "id": null
+    },
+    {
+      "title": "Love’s Rejoycing",
+      "id": null
+    },
+    {
+      "title": "Make Her Mine",
+      "id": null
+    },
+    {
+      "title": "All the Things You Are",
+      "id": null
+    },
+    {
+      "title": "Christina’s Little Song",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "carpenters-carpenters", "title": "Carpenters", "artist": "Carpenters", "peak": 71, "history": [{"date": "1972-05-20", "rank": 71}, {"date": "1972-05-27", "rank": 72}, {"date": "1972-06-03", "rank": 93}, {"date": "1972-06-10", "rank": 101}, {"date": "1972-06-17", "rank": 103}, {"date": "1972-06-24", "rank": 117}, {"date": "1972-07-01", "rank": 143}, {"date": "1972-07-08", "rank": 152}, {"date": "1972-07-15", "rank": 196}]}
+{
+  "id": "carpenters-carpenters",
+  "title": "Carpenters",
+  "artist": "Carpenters",
+  "peak": 71,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 71
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 72
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 93
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 101
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 103
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 117
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 143
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 152
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rainy Days and Mondays",
+      "id": "rainy-days-and-mondays-carpenters"
+    },
+    {
+      "title": "For All We Know",
+      "id": "for-all-we-know-carpenters"
+    },
+    {
+      "title": "One Love",
+      "id": "goodbye-to-love-carpenters"
+    },
+    {
+      "title": "Saturday",
+      "id": null
+    },
+    {
+      "title": "Let Me Be the One",
+      "id": null
+    },
+    {
+      "title": "(A Place To) Hideaway",
+      "id": null
+    },
+    {
+      "title": "Superstar",
+      "id": null
+    },
+    {
+      "title": "Druscilla Penny",
+      "id": null
+    },
+    {
+      "title": "Bacharach/David Medley: Knowing When to Leave / Make It Easy on Yourself / (There’s) Always Something There to Remind Me / I’ll Never Fall in Love Again / Walk On By / Do You Know the Way to San Jose",
+      "id": null
+    },
+    {
+      "title": "Sometimes",
+      "id": null
+    }
+  ]
+}

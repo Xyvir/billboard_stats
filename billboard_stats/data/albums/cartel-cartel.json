@@ -1,1 +1,78 @@
-{"id": "cartel-cartel", "title": "Cartel", "artist": "Cartel", "peak": 20, "history": [{"date": "2007-09-08", "rank": 20}, {"date": "2007-09-15", "rank": 70}, {"date": "2007-09-22", "rank": 99}, {"date": "2007-09-29", "rank": 136}, {"date": "2007-10-06", "rank": 195}]}
+{
+  "id": "cartel-cartel",
+  "title": "Cartel",
+  "artist": "Cartel",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2007-09-08",
+      "rank": 20
+    },
+    {
+      "date": "2007-09-15",
+      "rank": 70
+    },
+    {
+      "date": "2007-09-22",
+      "rank": 99
+    },
+    {
+      "date": "2007-09-29",
+      "rank": 136
+    },
+    {
+      "date": "2007-10-06",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cartel",
+      "id": null
+    },
+    {
+      "title": "Çek Bir Fırt",
+      "id": null
+    },
+    {
+      "title": "Party",
+      "id": null
+    },
+    {
+      "title": "Hani Bana Para",
+      "id": null
+    },
+    {
+      "title": "Yetmedi mi",
+      "id": null
+    },
+    {
+      "title": "Evdeki Ses",
+      "id": null
+    },
+    {
+      "title": "Türksün",
+      "id": null
+    },
+    {
+      "title": "Araba Yok",
+      "id": null
+    },
+    {
+      "title": "Posse Attack",
+      "id": null
+    },
+    {
+      "title": "Kan Kardeşler",
+      "id": null
+    },
+    {
+      "title": "Televizyon",
+      "id": null
+    },
+    {
+      "title": "Der Weg, den du gehst",
+      "id": null
+    }
+  ]
+}
