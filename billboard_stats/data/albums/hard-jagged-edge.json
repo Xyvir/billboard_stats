@@ -1,1 +1,202 @@
-{"id": "hard-jagged-edge", "title": "Hard", "artist": "Jagged Edge", "peak": 3, "history": [{"date": "2003-11-01", "rank": 3}, {"date": "2003-11-08", "rank": 8}, {"date": "2003-11-15", "rank": 15}, {"date": "2003-11-22", "rank": 24}, {"date": "2003-11-29", "rank": 33}, {"date": "2003-12-06", "rank": 51}, {"date": "2003-12-13", "rank": 58}, {"date": "2003-12-20", "rank": 76}, {"date": "2003-12-27", "rank": 103}, {"date": "2004-01-03", "rank": 114}, {"date": "2004-01-10", "rank": 89}, {"date": "2004-01-17", "rank": 84}, {"date": "2004-01-24", "rank": 92}, {"date": "2004-01-31", "rank": 102}, {"date": "2004-02-07", "rank": 107}, {"date": "2004-02-14", "rank": 98}, {"date": "2004-02-21", "rank": 109}, {"date": "2004-02-28", "rank": 141}, {"date": "2004-03-06", "rank": 139}, {"date": "2004-03-13", "rank": 135}, {"date": "2004-03-20", "rank": 124}, {"date": "2004-03-27", "rank": 144}, {"date": "2004-04-03", "rank": 141}, {"date": "2004-04-10", "rank": 171}, {"date": "2004-04-17", "rank": 182}, {"date": "2004-05-01", "rank": 200}]}
+{
+  "id": "hard-jagged-edge",
+  "title": "Hard",
+  "artist": "Jagged Edge",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2003-11-01",
+      "rank": 3
+    },
+    {
+      "date": "2003-11-08",
+      "rank": 8
+    },
+    {
+      "date": "2003-11-15",
+      "rank": 15
+    },
+    {
+      "date": "2003-11-22",
+      "rank": 24
+    },
+    {
+      "date": "2003-11-29",
+      "rank": 33
+    },
+    {
+      "date": "2003-12-06",
+      "rank": 51
+    },
+    {
+      "date": "2003-12-13",
+      "rank": 58
+    },
+    {
+      "date": "2003-12-20",
+      "rank": 76
+    },
+    {
+      "date": "2003-12-27",
+      "rank": 103
+    },
+    {
+      "date": "2004-01-03",
+      "rank": 114
+    },
+    {
+      "date": "2004-01-10",
+      "rank": 89
+    },
+    {
+      "date": "2004-01-17",
+      "rank": 84
+    },
+    {
+      "date": "2004-01-24",
+      "rank": 92
+    },
+    {
+      "date": "2004-01-31",
+      "rank": 102
+    },
+    {
+      "date": "2004-02-07",
+      "rank": 107
+    },
+    {
+      "date": "2004-02-14",
+      "rank": 98
+    },
+    {
+      "date": "2004-02-21",
+      "rank": 109
+    },
+    {
+      "date": "2004-02-28",
+      "rank": 141
+    },
+    {
+      "date": "2004-03-06",
+      "rank": 139
+    },
+    {
+      "date": "2004-03-13",
+      "rank": 135
+    },
+    {
+      "date": "2004-03-20",
+      "rank": 124
+    },
+    {
+      "date": "2004-03-27",
+      "rank": 144
+    },
+    {
+      "date": "2004-04-03",
+      "rank": 141
+    },
+    {
+      "date": "2004-04-10",
+      "rank": 171
+    },
+    {
+      "date": "2004-04-17",
+      "rank": 182
+    },
+    {
+      "date": "2004-05-01",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "They Ain’t JE",
+      "id": "he-can-t-love-u-jagged-edge"
+    },
+    {
+      "title": "Walked Outta Heaven",
+      "id": "walked-outta-heaven-jagged-edge"
+    },
+    {
+      "title": "What’s It Like",
+      "id": "what-s-it-like-jagged-edge"
+    },
+    {
+      "title": "Walked Outta Heaven (Majiq remix)",
+      "id": "walked-outta-heaven-jagged-edge"
+    },
+    {
+      "title": "What’s It Like (Remarqable remix)",
+      "id": "what-s-it-like-jagged-edge"
+    },
+    {
+      "title": "Let’s Get Married (ReMarqable remix)",
+      "id": "let-s-get-married-jagged-edge"
+    },
+    {
+      "title": "He Can’t Love U (JD’s remix w/rap)",
+      "id": "he-can-t-love-u-jagged-edge"
+    },
+    {
+      "title": "Girls Gone Wild",
+      "id": null
+    },
+    {
+      "title": "Visions",
+      "id": null
+    },
+    {
+      "title": "Hard",
+      "id": null
+    },
+    {
+      "title": "Dance Floor",
+      "id": null
+    },
+    {
+      "title": "Trying to Find the Words",
+      "id": null
+    },
+    {
+      "title": "Tryna Be Your Man",
+      "id": null
+    },
+    {
+      "title": "I Don’t Wanna",
+      "id": null
+    },
+    {
+      "title": "In Private",
+      "id": null
+    },
+    {
+      "title": "In the Morning",
+      "id": null
+    },
+    {
+      "title": "Shady Girl",
+      "id": null
+    },
+    {
+      "title": "Car Show",
+      "id": null
+    },
+    {
+      "title": "They Ain’t JE (remix)",
+      "id": null
+    },
+    {
+      "title": "On My Way (After the Club)",
+      "id": null
+    },
+    {
+      "title": "Where the Party At (11-01-11 Dupri remix)",
+      "id": null
+    },
+    {
+      "title": "I Got It 2 (main mix)",
+      "id": null
+    }
+  ]
+}

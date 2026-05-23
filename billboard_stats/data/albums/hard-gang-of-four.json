@@ -1,1 +1,62 @@
-{"id": "hard-gang-of-four", "title": "Hard", "artist": "Gang Of Four", "peak": 168, "history": [{"date": "1983-10-08", "rank": 174}, {"date": "1983-10-15", "rank": 169}, {"date": "1983-10-22", "rank": 168}, {"date": "1983-10-29", "rank": 190}]}
+{
+  "id": "hard-gang-of-four",
+  "title": "Hard",
+  "artist": "Gang Of Four",
+  "peak": 168,
+  "history": [
+    {
+      "date": "1983-10-08",
+      "rank": 174
+    },
+    {
+      "date": "1983-10-15",
+      "rank": 169
+    },
+    {
+      "date": "1983-10-22",
+      "rank": 168
+    },
+    {
+      "date": "1983-10-29",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Is It Love",
+      "id": null
+    },
+    {
+      "title": "I Fled",
+      "id": null
+    },
+    {
+      "title": "Silver Lining",
+      "id": null
+    },
+    {
+      "title": "Woman Town",
+      "id": null
+    },
+    {
+      "title": "A Man With a Good Car",
+      "id": null
+    },
+    {
+      "title": "It Don’t Matter",
+      "id": null
+    },
+    {
+      "title": "Arabic",
+      "id": null
+    },
+    {
+      "title": "A Piece of My Heart",
+      "id": null
+    },
+    {
+      "title": "Independence",
+      "id": null
+    }
+  ]
+}
