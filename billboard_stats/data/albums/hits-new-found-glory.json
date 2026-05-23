@@ -1,1 +1,62 @@
-{"id": "hits-new-found-glory", "title": "Hits", "artist": "New Found Glory", "peak": 167, "history": [{"date": "2008-04-05", "rank": 167}]}
+{
+  "id": "hits-new-found-glory",
+  "title": "Hits",
+  "artist": "New Found Glory",
+  "peak": 167,
+  "history": [
+    {
+      "date": "2008-04-05",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Friends Over You",
+      "id": "my-friends-over-you-new-found-glory"
+    },
+    {
+      "title": "Situations",
+      "id": null
+    },
+    {
+      "title": "Hit or Miss (Waited Too long)",
+      "id": null
+    },
+    {
+      "title": "Dressed to Kill",
+      "id": null
+    },
+    {
+      "title": "Head On Collision",
+      "id": null
+    },
+    {
+      "title": "Understatement",
+      "id": null
+    },
+    {
+      "title": "All Downhill From Here",
+      "id": null
+    },
+    {
+      "title": "I Don’t Wanna Know",
+      "id": null
+    },
+    {
+      "title": "Failure’s Not Flattering",
+      "id": null
+    },
+    {
+      "title": "It’s Not Your Fault",
+      "id": null
+    },
+    {
+      "title": "Hold My Hand",
+      "id": null
+    },
+    {
+      "title": "Constant Static",
+      "id": null
+    }
+  ]
+}

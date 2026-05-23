@@ -1,1 +1,90 @@
-{"id": "hits-dru-hill", "title": "Hits", "artist": "Dru Hill", "peak": 72, "history": [{"date": "2005-10-29", "rank": 72}, {"date": "2005-11-05", "rank": 172}, {"date": "2005-11-12", "rank": 200}]}
+{
+  "id": "hits-dru-hill",
+  "title": "Hits",
+  "artist": "Dru Hill",
+  "peak": 72,
+  "history": [
+    {
+      "date": "2005-10-29",
+      "rank": 72
+    },
+    {
+      "date": "2005-11-05",
+      "rank": 172
+    },
+    {
+      "date": "2005-11-12",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "In My Bed (radio edit)",
+      "id": "in-my-bed-dru-hill"
+    },
+    {
+      "title": "Never Make a Promise (radio edit)",
+      "id": "never-make-a-promise-dru-hill"
+    },
+    {
+      "title": "We're Not Making Love No More",
+      "id": "we-re-not-making-love-no-more-dru-hill"
+    },
+    {
+      "title": "These Are the Times",
+      "id": "these-are-the-times-dru-hill"
+    },
+    {
+      "title": "Beauty",
+      "id": "beauty-dru-hill"
+    },
+    {
+      "title": "You Are Everything (radio edit)",
+      "id": "you-are-everything-dru-hill"
+    },
+    {
+      "title": "I Should Be... (radio edit)",
+      "id": "i-should-be-dru-hill"
+    },
+    {
+      "title": "I Love You (radio edit)",
+      "id": "i-love-you-dru-hill"
+    },
+    {
+      "title": "Tell Me",
+      "id": null
+    },
+    {
+      "title": "Big Bad Mama (radio edit)",
+      "id": null
+    },
+    {
+      "title": "Steps (radio edit)",
+      "id": null
+    },
+    {
+      "title": "How Deep Is Your Love",
+      "id": null
+    },
+    {
+      "title": "The Love We Had (Stays on My Mind)",
+      "id": null
+    },
+    {
+      "title": "No Doubt (Work It) (radio edit)",
+      "id": null
+    },
+    {
+      "title": "Thong Song (radio edit)",
+      "id": null
+    },
+    {
+      "title": "Incomplete",
+      "id": null
+    },
+    {
+      "title": "In My Bed (So So Def remix)",
+      "id": null
+    }
+  ]
+}

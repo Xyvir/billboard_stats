@@ -1,1 +1,78 @@
-{"id": "hits-joni-mitchell", "title": "Hits", "artist": "Joni Mitchell", "peak": 161, "history": [{"date": "1996-11-16", "rank": 161}, {"date": "1996-11-23", "rank": 193}]}
+{
+  "id": "hits-joni-mitchell",
+  "title": "Hits",
+  "artist": "Joni Mitchell",
+  "peak": 161,
+  "history": [
+    {
+      "date": "1996-11-16",
+      "rank": 161
+    },
+    {
+      "date": "1996-11-23",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Big Yellow Taxi",
+      "id": "big-yellow-taxi-joni-mitchell"
+    },
+    {
+      "title": "Carey",
+      "id": "carey-joni-mitchell"
+    },
+    {
+      "title": "You Turn Me On I’m a Radio",
+      "id": "you-turn-me-on-i-m-a-radio-joni-mitchell"
+    },
+    {
+      "title": "Raised on Robbery",
+      "id": "raised-on-robbery-joni-mitchell"
+    },
+    {
+      "title": "Help Me",
+      "id": "help-me-joni-mitchell"
+    },
+    {
+      "title": "Free Man in Paris",
+      "id": "free-man-in-paris-joni-mitchell"
+    },
+    {
+      "title": "Urge for Going",
+      "id": null
+    },
+    {
+      "title": "Chelsea Morning",
+      "id": null
+    },
+    {
+      "title": "Woodstock",
+      "id": null
+    },
+    {
+      "title": "The Circle Game",
+      "id": null
+    },
+    {
+      "title": "California",
+      "id": null
+    },
+    {
+      "title": "River",
+      "id": null
+    },
+    {
+      "title": "Chinese Café / Unchained Melody",
+      "id": null
+    },
+    {
+      "title": "Come In From the Cold",
+      "id": null
+    },
+    {
+      "title": "Both Sides, Now",
+      "id": null
+    }
+  ]
+}

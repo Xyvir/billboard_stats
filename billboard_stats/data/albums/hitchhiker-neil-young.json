@@ -1,1 +1,58 @@
-{"id": "hitchhiker-neil-young", "title": "Hitchhiker", "artist": "Neil Young", "peak": 20, "history": [{"date": "2017-09-30", "rank": 20}, {"date": "2017-10-07", "rank": 127}]}
+{
+  "id": "hitchhiker-neil-young",
+  "title": "Hitchhiker",
+  "artist": "Neil Young",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2017-09-30",
+      "rank": 20
+    },
+    {
+      "date": "2017-10-07",
+      "rank": 127
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pocahontas",
+      "id": null
+    },
+    {
+      "title": "Powderfinger",
+      "id": null
+    },
+    {
+      "title": "Captain Kennedy",
+      "id": null
+    },
+    {
+      "title": "Hawaii",
+      "id": null
+    },
+    {
+      "title": "Give Me Strength",
+      "id": null
+    },
+    {
+      "title": "Ride My Llama",
+      "id": null
+    },
+    {
+      "title": "Hitchhiker",
+      "id": null
+    },
+    {
+      "title": "Campaigner",
+      "id": null
+    },
+    {
+      "title": "Human Highway",
+      "id": null
+    },
+    {
+      "title": "The Old Country Waltz",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "hit-the-road-jack-ray-charles", "title": "Hit The Road, Jack", "artist": "Ray Charles", "peak": 181, "history": [{"date": "2013-01-26", "rank": 181}]}
+{
+  "id": "hit-the-road-jack-ray-charles",
+  "title": "Hit The Road, Jack",
+  "artist": "Ray Charles",
+  "peak": 181,
+  "history": [
+    {
+      "date": "2013-01-26",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Can’t Stop Loving You",
+      "id": "i-can-t-stop-loving-you-ray-charles"
+    },
+    {
+      "title": "Crying Time",
+      "id": "crying-time-ray-charles"
+    },
+    {
+      "title": "Born to Lose",
+      "id": "born-to-lose-ray-charles"
+    },
+    {
+      "title": "Yesterday",
+      "id": "yesterday-ray-charles"
+    },
+    {
+      "title": "Ruby",
+      "id": "ruby-ray-charles"
+    },
+    {
+      "title": "Take These Chains From My Heart",
+      "id": "take-these-chains-from-my-heart-ray-charles"
+    },
+    {
+      "title": "Georgia on My Mind",
+      "id": "georgia-on-my-mind-ray-charles"
+    },
+    {
+      "title": "Unchain My Heart",
+      "id": "your-cheating-heart-ray-charles"
+    },
+    {
+      "title": "Let’s Go Get Stoned",
+      "id": "let-s-go-get-stoned-ray-charles"
+    },
+    {
+      "title": "Hit the Road Jack",
+      "id": null
+    },
+    {
+      "title": "Yes Indeed",
+      "id": null
+    },
+    {
+      "title": "Busted",
+      "id": null
+    }
+  ]
+}

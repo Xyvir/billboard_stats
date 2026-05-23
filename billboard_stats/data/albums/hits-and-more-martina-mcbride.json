@@ -1,1 +1,106 @@
-{"id": "hits-and-more-martina-mcbride", "title": "Hits And More", "artist": "Martina McBride", "peak": 47, "history": [{"date": "2012-02-04", "rank": 47}, {"date": "2012-02-11", "rank": 84}, {"date": "2012-02-18", "rank": 113}, {"date": "2012-02-25", "rank": 186}]}
+{
+  "id": "hits-and-more-martina-mcbride",
+  "title": "Hits And More",
+  "artist": "Martina McBride",
+  "peak": 47,
+  "history": [
+    {
+      "date": "2012-02-04",
+      "rank": 47
+    },
+    {
+      "date": "2012-02-11",
+      "rank": 84
+    },
+    {
+      "date": "2012-02-18",
+      "rank": 113
+    },
+    {
+      "date": "2012-02-25",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Whatever You Say",
+      "id": "whatever-you-say-martina-mcbride"
+    },
+    {
+      "title": "I Love You",
+      "id": "i-love-you-martina-mcbride"
+    },
+    {
+      "title": "Love’s the Only House",
+      "id": "love-s-the-only-house-martina-mcbride"
+    },
+    {
+      "title": "Blessed",
+      "id": "blessed-martina-mcbride"
+    },
+    {
+      "title": "Where Would You Be",
+      "id": "where-would-you-be-martina-mcbride"
+    },
+    {
+      "title": "Concrete Angel",
+      "id": "concrete-angel-martina-mcbride"
+    },
+    {
+      "title": "This One’s for the Girls",
+      "id": "this-one-s-for-the-girls-martina-mcbride"
+    },
+    {
+      "title": "In My Daughter’s Eyes",
+      "id": "in-my-daughter-s-eyes-martina-mcbride"
+    },
+    {
+      "title": "Anyway",
+      "id": "anyway-martina-mcbride"
+    },
+    {
+      "title": "Ride",
+      "id": "ride-martina-mcbride"
+    },
+    {
+      "title": "Wrong Baby Wrong Baby Wrong",
+      "id": "wrong-baby-wrong-martina-mcbride"
+    },
+    {
+      "title": "My Baby Loves Me",
+      "id": null
+    },
+    {
+      "title": "Independence Day",
+      "id": null
+    },
+    {
+      "title": "Wild Angels",
+      "id": null
+    },
+    {
+      "title": "A Broken Wing",
+      "id": null
+    },
+    {
+      "title": "Valentine",
+      "id": null
+    },
+    {
+      "title": "Happy Girl",
+      "id": null
+    },
+    {
+      "title": "Surrender",
+      "id": null
+    },
+    {
+      "title": "Straight to the Bone",
+      "id": null
+    },
+    {
+      "title": "Being Myself",
+      "id": null
+    }
+  ]
+}

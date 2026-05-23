@@ -1,1 +1,138 @@
-{"id": "hit-peter-gabriel", "title": "Hit", "artist": "Peter Gabriel", "peak": 100, "history": [{"date": "2003-11-22", "rank": 100}, {"date": "2003-11-29", "rank": 189}, {"date": "2003-12-06", "rank": 198}]}
+{
+  "id": "hit-peter-gabriel",
+  "title": "Hit",
+  "artist": "Peter Gabriel",
+  "peak": 100,
+  "history": [
+    {
+      "date": "2003-11-22",
+      "rank": 100
+    },
+    {
+      "date": "2003-11-29",
+      "rank": 189
+    },
+    {
+      "date": "2003-12-06",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Solsbury Hill",
+      "id": "solsbury-hill-peter-gabriel"
+    },
+    {
+      "title": "Shock the Monkey",
+      "id": "shock-the-monkey-peter-gabriel"
+    },
+    {
+      "title": "Sledgehammer",
+      "id": "sledgehammer-peter-gabriel"
+    },
+    {
+      "title": "Games Without Frontiers",
+      "id": "games-without-frontiers-peter-gabriel"
+    },
+    {
+      "title": "Big Time",
+      "id": "big-time-peter-gabriel"
+    },
+    {
+      "title": "Digging in the Dirt",
+      "id": "digging-in-the-dirt-peter-gabriel"
+    },
+    {
+      "title": "Steam",
+      "id": "steam-peter-gabriel"
+    },
+    {
+      "title": "Don’t Give Up",
+      "id": null
+    },
+    {
+      "title": "Burn You Up, Burn You Down",
+      "id": null
+    },
+    {
+      "title": "Growing Up (Tom Lord‐Alge mix)",
+      "id": null
+    },
+    {
+      "title": "Blood of Eden (radio edit)",
+      "id": null
+    },
+    {
+      "title": "More Than This (radio edit)",
+      "id": null
+    },
+    {
+      "title": "Biko",
+      "id": null
+    },
+    {
+      "title": "Red Rain",
+      "id": null
+    },
+    {
+      "title": "Here Comes the Flood",
+      "id": null
+    },
+    {
+      "title": "San Jacinto",
+      "id": null
+    },
+    {
+      "title": "I Don’t Remember",
+      "id": null
+    },
+    {
+      "title": "The Rhythm of the Heat",
+      "id": null
+    },
+    {
+      "title": "Love to Be Loved",
+      "id": null
+    },
+    {
+      "title": "I Grieve",
+      "id": null
+    },
+    {
+      "title": "Family Snapshot",
+      "id": null
+    },
+    {
+      "title": "In Your Eyes",
+      "id": null
+    },
+    {
+      "title": "The Drop",
+      "id": null
+    },
+    {
+      "title": "The Tower That Ate People (Steve Osbourne mix)",
+      "id": null
+    },
+    {
+      "title": "Lovetown",
+      "id": null
+    },
+    {
+      "title": "Father, Son",
+      "id": null
+    },
+    {
+      "title": "Signal to Noise",
+      "id": null
+    },
+    {
+      "title": "Downside Up (live)",
+      "id": null
+    },
+    {
+      "title": "Cloudless",
+      "id": null
+    }
+  ]
+}
