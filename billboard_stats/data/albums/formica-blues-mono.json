@@ -1,1 +1,78 @@
-{"id": "formica-blues-mono", "title": "Formica Blues", "artist": "Mono", "peak": 137, "history": [{"date": "1998-03-07", "rank": 180}, {"date": "1998-03-14", "rank": 174}, {"date": "1998-03-21", "rank": 164}, {"date": "1998-03-28", "rank": 137}, {"date": "1998-04-04", "rank": 145}, {"date": "1998-04-11", "rank": 158}, {"date": "1998-04-18", "rank": 163}]}
+{
+  "id": "formica-blues-mono",
+  "title": "Formica Blues",
+  "artist": "Mono",
+  "peak": 137,
+  "history": [
+    {
+      "date": "1998-03-07",
+      "rank": 180
+    },
+    {
+      "date": "1998-03-14",
+      "rank": 174
+    },
+    {
+      "date": "1998-03-21",
+      "rank": 164
+    },
+    {
+      "date": "1998-03-28",
+      "rank": 137
+    },
+    {
+      "date": "1998-04-04",
+      "rank": 145
+    },
+    {
+      "date": "1998-04-11",
+      "rank": 158
+    },
+    {
+      "date": "1998-04-18",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Life in Mono",
+      "id": "life-in-mono-mono"
+    },
+    {
+      "title": "Silicone",
+      "id": null
+    },
+    {
+      "title": "Slimcea Girl",
+      "id": null
+    },
+    {
+      "title": "The Outsider",
+      "id": null
+    },
+    {
+      "title": "Disney Town",
+      "id": null
+    },
+    {
+      "title": "The Blind Man",
+      "id": null
+    },
+    {
+      "title": "High Life",
+      "id": null
+    },
+    {
+      "title": "Playboys",
+      "id": null
+    },
+    {
+      "title": "Penguin Freud",
+      "id": null
+    },
+    {
+      "title": "Hello Cleveland!",
+      "id": null
+    }
+  ]
+}

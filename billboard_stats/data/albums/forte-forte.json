@@ -1,1 +1,58 @@
-{"id": "forte-forte", "title": "Forte", "artist": "Forte", "peak": 76, "history": [{"date": "2013-11-30", "rank": 76}, {"date": "2013-12-07", "rank": 121}]}
+{
+  "id": "forte-forte",
+  "title": "Forte",
+  "artist": "Forte",
+  "peak": 76,
+  "history": [
+    {
+      "date": "2013-11-30",
+      "rank": 76
+    },
+    {
+      "date": "2013-12-07",
+      "rank": 121
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Caruso",
+      "id": null
+    },
+    {
+      "title": "My Heart Will Go On",
+      "id": null
+    },
+    {
+      "title": "The Prayer",
+      "id": null
+    },
+    {
+      "title": "Bridge Over Troubled Water",
+      "id": null
+    },
+    {
+      "title": "Pie Jesu",
+      "id": null
+    },
+    {
+      "title": "Somewhere",
+      "id": null
+    },
+    {
+      "title": "Nessun Dorma",
+      "id": null
+    },
+    {
+      "title": "Something",
+      "id": null
+    },
+    {
+      "title": "Unchained Melody",
+      "id": null
+    },
+    {
+      "title": "Silent Night",
+      "id": null
+    }
+  ]
+}
