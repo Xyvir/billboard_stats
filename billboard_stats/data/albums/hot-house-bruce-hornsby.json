@@ -1,1 +1,102 @@
-{"id": "hot-house-bruce-hornsby", "title": "Hot House", "artist": "Bruce Hornsby", "peak": 68, "history": [{"date": "1995-08-05", "rank": 68}, {"date": "1995-08-12", "rank": 69}, {"date": "1995-08-19", "rank": 73}, {"date": "1995-08-26", "rank": 70}, {"date": "1995-09-02", "rank": 75}, {"date": "1995-09-09", "rank": 76}, {"date": "1995-09-16", "rank": 79}, {"date": "1995-09-23", "rank": 90}, {"date": "1995-09-30", "rank": 75}, {"date": "1995-10-07", "rank": 111}, {"date": "1995-10-14", "rank": 145}, {"date": "1995-10-21", "rank": 193}]}
+{
+  "id": "hot-house-bruce-hornsby",
+  "title": "Hot House",
+  "artist": "Bruce Hornsby",
+  "peak": 68,
+  "history": [
+    {
+      "date": "1995-08-05",
+      "rank": 68
+    },
+    {
+      "date": "1995-08-12",
+      "rank": 69
+    },
+    {
+      "date": "1995-08-19",
+      "rank": 73
+    },
+    {
+      "date": "1995-08-26",
+      "rank": 70
+    },
+    {
+      "date": "1995-09-02",
+      "rank": 75
+    },
+    {
+      "date": "1995-09-09",
+      "rank": 76
+    },
+    {
+      "date": "1995-09-16",
+      "rank": 79
+    },
+    {
+      "date": "1995-09-23",
+      "rank": 90
+    },
+    {
+      "date": "1995-09-30",
+      "rank": 75
+    },
+    {
+      "date": "1995-10-07",
+      "rank": 111
+    },
+    {
+      "date": "1995-10-14",
+      "rank": 145
+    },
+    {
+      "date": "1995-10-21",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Walk in the Sun",
+      "id": "walk-in-the-sun-bruce-hornsby"
+    },
+    {
+      "title": "Spider Fingers",
+      "id": null
+    },
+    {
+      "title": "White Wheeled Limousine",
+      "id": null
+    },
+    {
+      "title": "The Changes",
+      "id": null
+    },
+    {
+      "title": "The Tango King",
+      "id": null
+    },
+    {
+      "title": "Big Rumble",
+      "id": null
+    },
+    {
+      "title": "Country Doctor",
+      "id": null
+    },
+    {
+      "title": "The Longest Night",
+      "id": null
+    },
+    {
+      "title": "Hot House Ball",
+      "id": null
+    },
+    {
+      "title": "Swing Street",
+      "id": null
+    },
+    {
+      "title": "Cruise Control",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"id": "hot-coko-coko", "title": "Hot Coko", "artist": "Coko", "peak": 68, "history": [{"date": "1999-08-28", "rank": 68}, {"date": "1999-09-04", "rank": 88}, {"date": "1999-09-11", "rank": 140}, {"date": "1999-09-18", "rank": 143}, {"date": "1999-09-25", "rank": 164}, {"date": "1999-10-02", "rank": 170}]}
+{
+  "id": "hot-coko-coko",
+  "title": "Hot Coko",
+  "artist": "Coko",
+  "peak": 68,
+  "history": [
+    {
+      "date": "1999-08-28",
+      "rank": 68
+    },
+    {
+      "date": "1999-09-04",
+      "rank": 88
+    },
+    {
+      "date": "1999-09-11",
+      "rank": 140
+    },
+    {
+      "date": "1999-09-18",
+      "rank": 143
+    },
+    {
+      "date": "1999-09-25",
+      "rank": 164
+    },
+    {
+      "date": "1999-10-02",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sunshine",
+      "id": "sunshine-coko"
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Don't Take Your Love Away",
+      "id": null
+    },
+    {
+      "title": "You and Me",
+      "id": null
+    },
+    {
+      "title": "Bigger Than We",
+      "id": null
+    },
+    {
+      "title": "Try-Na Come Home",
+      "id": null
+    },
+    {
+      "title": "Triflin'",
+      "id": null
+    },
+    {
+      "title": "I Ain't Feelin You",
+      "id": null
+    },
+    {
+      "title": "Everytime",
+      "id": null
+    },
+    {
+      "title": "All My Lovin'",
+      "id": null
+    },
+    {
+      "title": "If This World Were Mine",
+      "id": null
+    },
+    {
+      "title": "So Hard to Say Goodbye",
+      "id": null
+    }
+  ]
+}

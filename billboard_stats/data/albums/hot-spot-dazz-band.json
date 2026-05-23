@@ -1,1 +1,110 @@
-{"id": "hot-spot-dazz-band", "title": "Hot Spot", "artist": "Dazz Band", "peak": 98, "history": [{"date": "1985-08-17", "rank": 144}, {"date": "1985-08-24", "rank": 136}, {"date": "1985-08-31", "rank": 125}, {"date": "1985-09-07", "rank": 117}, {"date": "1985-09-14", "rank": 114}, {"date": "1985-09-21", "rank": 101}, {"date": "1985-09-28", "rank": 98}, {"date": "1985-10-05", "rank": 98}, {"date": "1985-10-12", "rank": 128}, {"date": "1985-10-19", "rank": 165}, {"date": "1985-10-26", "rank": 174}, {"date": "1985-11-02", "rank": 186}]}
+{
+  "id": "hot-spot-dazz-band",
+  "title": "Hot Spot",
+  "artist": "Dazz Band",
+  "peak": 98,
+  "history": [
+    {
+      "date": "1985-08-17",
+      "rank": 144
+    },
+    {
+      "date": "1985-08-24",
+      "rank": 136
+    },
+    {
+      "date": "1985-08-31",
+      "rank": 125
+    },
+    {
+      "date": "1985-09-07",
+      "rank": 117
+    },
+    {
+      "date": "1985-09-14",
+      "rank": 114
+    },
+    {
+      "date": "1985-09-21",
+      "rank": 101
+    },
+    {
+      "date": "1985-09-28",
+      "rank": 98
+    },
+    {
+      "date": "1985-10-05",
+      "rank": 98
+    },
+    {
+      "date": "1985-10-12",
+      "rank": 128
+    },
+    {
+      "date": "1985-10-19",
+      "rank": 165
+    },
+    {
+      "date": "1985-10-26",
+      "rank": 174
+    },
+    {
+      "date": "1985-11-02",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let It All Blow (Special disco remix)",
+      "id": "let-it-all-blow-dazz-band"
+    },
+    {
+      "title": "Joystick (vocal 12″)",
+      "id": "joystick-dazz-band"
+    },
+    {
+      "title": "If Only You Were in My Shoes",
+      "id": null
+    },
+    {
+      "title": "Hot Spot",
+      "id": null
+    },
+    {
+      "title": "Paranoid",
+      "id": null
+    },
+    {
+      "title": "All the Way",
+      "id": null
+    },
+    {
+      "title": "S.C.L. & P. (Style, Class, Looks and Personality)",
+      "id": null
+    },
+    {
+      "title": "She Used to Be My Girl",
+      "id": null
+    },
+    {
+      "title": "When You Need Roses",
+      "id": null
+    },
+    {
+      "title": "Slow (rap)",
+      "id": null
+    },
+    {
+      "title": "Hot Spot (club mix)",
+      "id": null
+    },
+    {
+      "title": "Heartbeat (12″ version)",
+      "id": null
+    },
+    {
+      "title": "Swoop (I’m Yours) (12″ version)",
+      "id": null
+    }
+  ]
+}

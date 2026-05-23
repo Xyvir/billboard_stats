@@ -1,1 +1,50 @@
-{"id": "hot-maynard-ferguson", "title": "Hot", "artist": "Maynard Ferguson", "peak": 188, "history": [{"date": "1979-09-01", "rank": 192}, {"date": "1979-09-08", "rank": 188}, {"date": "1979-09-15", "rank": 188}]}
+{
+  "id": "hot-maynard-ferguson",
+  "title": "Hot",
+  "artist": "Maynard Ferguson",
+  "peak": 188,
+  "history": [
+    {
+      "date": "1979-09-01",
+      "rank": 192
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 188
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rocky II Disco",
+      "id": "rocky-ii-disco-maynard-ferguson"
+    },
+    {
+      "title": "Gabriel",
+      "id": null
+    },
+    {
+      "title": "Om Sai Ram",
+      "id": null
+    },
+    {
+      "title": "Theme from Star Trek",
+      "id": null
+    },
+    {
+      "title": "Dayride",
+      "id": null
+    },
+    {
+      "title": "Naima",
+      "id": null
+    },
+    {
+      "title": "Topa-Topa Woman",
+      "id": null
+    }
+  ]
+}

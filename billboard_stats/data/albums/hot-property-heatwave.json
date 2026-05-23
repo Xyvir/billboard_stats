@@ -1,1 +1,106 @@
-{"id": "hot-property-heatwave", "title": "Hot Property", "artist": "Heatwave", "peak": 38, "history": [{"date": "1979-05-12", "rank": 161}, {"date": "1979-05-19", "rank": 70}, {"date": "1979-05-26", "rank": 49}, {"date": "1979-06-02", "rank": 45}, {"date": "1979-06-09", "rank": 40}, {"date": "1979-06-16", "rank": 38}, {"date": "1979-06-23", "rank": 38}, {"date": "1979-06-30", "rank": 78}, {"date": "1979-07-07", "rank": 118}, {"date": "1979-07-14", "rank": 118}, {"date": "1979-07-21", "rank": 128}, {"date": "1979-07-28", "rank": 134}, {"date": "1979-08-04", "rank": 138}, {"date": "1979-08-11", "rank": 156}]}
+{
+  "id": "hot-property-heatwave",
+  "title": "Hot Property",
+  "artist": "Heatwave",
+  "peak": 38,
+  "history": [
+    {
+      "date": "1979-05-12",
+      "rank": 161
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 70
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 49
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 45
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 40
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 38
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 38
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 78
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 118
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 118
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 128
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 134
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 138
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One Night Tan",
+      "id": "boogie-nights-heatwave"
+    },
+    {
+      "title": "Razzle Dazzle",
+      "id": null
+    },
+    {
+      "title": "Eyeballin’",
+      "id": null
+    },
+    {
+      "title": "This Night We Fell",
+      "id": null
+    },
+    {
+      "title": "Raise a Blaze",
+      "id": null
+    },
+    {
+      "title": "First Day of Snow",
+      "id": null
+    },
+    {
+      "title": "Therm Warfare",
+      "id": null
+    },
+    {
+      "title": "All Talked Out",
+      "id": null
+    },
+    {
+      "title": "That’s the Way We’ll Always Say Goodnight",
+      "id": null
+    },
+    {
+      "title": "Disco",
+      "id": null
+    }
+  ]
+}
