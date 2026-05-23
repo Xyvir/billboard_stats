@@ -1,1 +1,122 @@
-{"id": "icicle-works-icicle-works", "title": "Icicle Works", "artist": "Icicle Works", "peak": 40, "history": [{"date": "1984-04-21", "rank": 147}, {"date": "1984-04-28", "rank": 135}, {"date": "1984-05-05", "rank": 96}, {"date": "1984-05-12", "rank": 83}, {"date": "1984-05-19", "rank": 73}, {"date": "1984-05-26", "rank": 67}, {"date": "1984-06-02", "rank": 59}, {"date": "1984-06-09", "rank": 47}, {"date": "1984-06-16", "rank": 44}, {"date": "1984-06-23", "rank": 43}, {"date": "1984-06-30", "rank": 40}, {"date": "1984-07-07", "rank": 40}, {"date": "1984-07-14", "rank": 65}, {"date": "1984-07-21", "rank": 88}, {"date": "1984-07-28", "rank": 98}, {"date": "1984-08-04", "rank": 115}, {"date": "1984-08-11", "rank": 127}, {"date": "1984-08-18", "rank": 161}]}
+{
+  "id": "icicle-works-icicle-works",
+  "title": "Icicle Works",
+  "artist": "Icicle Works",
+  "peak": 40,
+  "history": [
+    {
+      "date": "1984-04-21",
+      "rank": 147
+    },
+    {
+      "date": "1984-04-28",
+      "rank": 135
+    },
+    {
+      "date": "1984-05-05",
+      "rank": 96
+    },
+    {
+      "date": "1984-05-12",
+      "rank": 83
+    },
+    {
+      "date": "1984-05-19",
+      "rank": 73
+    },
+    {
+      "date": "1984-05-26",
+      "rank": 67
+    },
+    {
+      "date": "1984-06-02",
+      "rank": 59
+    },
+    {
+      "date": "1984-06-09",
+      "rank": 47
+    },
+    {
+      "date": "1984-06-16",
+      "rank": 44
+    },
+    {
+      "date": "1984-06-23",
+      "rank": 43
+    },
+    {
+      "date": "1984-06-30",
+      "rank": 40
+    },
+    {
+      "date": "1984-07-07",
+      "rank": 40
+    },
+    {
+      "date": "1984-07-14",
+      "rank": 65
+    },
+    {
+      "date": "1984-07-21",
+      "rank": 88
+    },
+    {
+      "date": "1984-07-28",
+      "rank": 98
+    },
+    {
+      "date": "1984-08-04",
+      "rank": 115
+    },
+    {
+      "date": "1984-08-11",
+      "rank": 127
+    },
+    {
+      "date": "1984-08-18",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Whisper to a Scream (Birds Fly)",
+      "id": "whisper-to-a-scream-birds-fly-icicle-works"
+    },
+    {
+      "title": "In the Cauldron of Love",
+      "id": null
+    },
+    {
+      "title": "Nirvana",
+      "id": null
+    },
+    {
+      "title": "Lover's Day",
+      "id": null
+    },
+    {
+      "title": "Factory in the Desert",
+      "id": null
+    },
+    {
+      "title": "Waterline",
+      "id": null
+    },
+    {
+      "title": "Chop the Tree",
+      "id": null
+    },
+    {
+      "title": "Out of Season",
+      "id": null
+    },
+    {
+      "title": "As the Dragonfly Flies",
+      "id": null
+    },
+    {
+      "title": "Love Is a Wonderful Colour",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,318 @@
-{"id": "ice-cream-man-master-p", "title": "Ice Cream Man", "artist": "Master P", "peak": 26, "history": [{"date": "1996-05-04", "rank": 26}, {"date": "1996-05-11", "rank": 40}, {"date": "1996-05-18", "rank": 56}, {"date": "1996-05-25", "rank": 59}, {"date": "1996-06-01", "rank": 67}, {"date": "1996-06-08", "rank": 60}, {"date": "1996-06-15", "rank": 64}, {"date": "1996-06-22", "rank": 60}, {"date": "1996-06-29", "rank": 69}, {"date": "1996-07-06", "rank": 76}, {"date": "1996-07-13", "rank": 82}, {"date": "1996-07-20", "rank": 81}, {"date": "1996-07-27", "rank": 92}, {"date": "1996-08-03", "rank": 95}, {"date": "1996-08-10", "rank": 92}, {"date": "1996-08-17", "rank": 100}, {"date": "1996-08-24", "rank": 111}, {"date": "1996-08-31", "rank": 122}, {"date": "1996-09-07", "rank": 142}, {"date": "1996-09-14", "rank": 148}, {"date": "1996-09-21", "rank": 148}, {"date": "1996-09-28", "rank": 158}, {"date": "1996-10-05", "rank": 161}, {"date": "1996-10-12", "rank": 192}, {"date": "1996-10-19", "rank": 185}, {"date": "1997-07-05", "rank": 195}, {"date": "1997-07-12", "rank": 186}, {"date": "1997-07-19", "rank": 178}, {"date": "1997-07-26", "rank": 160}, {"date": "1997-08-02", "rank": 158}, {"date": "1997-08-09", "rank": 140}, {"date": "1997-08-16", "rank": 137}, {"date": "1997-08-23", "rank": 144}, {"date": "1997-08-30", "rank": 133}, {"date": "1997-09-06", "rank": 130}, {"date": "1997-09-13", "rank": 134}, {"date": "1997-09-20", "rank": 125}, {"date": "1997-09-27", "rank": 123}, {"date": "1997-10-04", "rank": 125}, {"date": "1997-10-11", "rank": 124}, {"date": "1997-10-18", "rank": 138}, {"date": "1997-10-25", "rank": 151}, {"date": "1997-11-01", "rank": 145}, {"date": "1997-11-08", "rank": 164}, {"date": "1997-11-15", "rank": 195}, {"date": "1998-01-24", "rank": 194}, {"date": "1998-02-07", "rank": 191}, {"date": "1998-02-14", "rank": 185}, {"date": "1998-02-21", "rank": 176}, {"date": "1998-02-28", "rank": 193}, {"date": "1998-03-07", "rank": 188}, {"date": "1998-03-14", "rank": 186}, {"date": "1998-03-21", "rank": 190}, {"date": "1998-03-28", "rank": 183}, {"date": "1998-04-04", "rank": 189}, {"date": "1998-04-11", "rank": 188}, {"date": "1998-04-18", "rank": 189}]}
+{
+  "id": "ice-cream-man-master-p",
+  "title": "Ice Cream Man",
+  "artist": "Master P",
+  "peak": 26,
+  "history": [
+    {
+      "date": "1996-05-04",
+      "rank": 26
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 40
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 56
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 59
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 67
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 60
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 64
+    },
+    {
+      "date": "1996-06-22",
+      "rank": 60
+    },
+    {
+      "date": "1996-06-29",
+      "rank": 69
+    },
+    {
+      "date": "1996-07-06",
+      "rank": 76
+    },
+    {
+      "date": "1996-07-13",
+      "rank": 82
+    },
+    {
+      "date": "1996-07-20",
+      "rank": 81
+    },
+    {
+      "date": "1996-07-27",
+      "rank": 92
+    },
+    {
+      "date": "1996-08-03",
+      "rank": 95
+    },
+    {
+      "date": "1996-08-10",
+      "rank": 92
+    },
+    {
+      "date": "1996-08-17",
+      "rank": 100
+    },
+    {
+      "date": "1996-08-24",
+      "rank": 111
+    },
+    {
+      "date": "1996-08-31",
+      "rank": 122
+    },
+    {
+      "date": "1996-09-07",
+      "rank": 142
+    },
+    {
+      "date": "1996-09-14",
+      "rank": 148
+    },
+    {
+      "date": "1996-09-21",
+      "rank": 148
+    },
+    {
+      "date": "1996-09-28",
+      "rank": 158
+    },
+    {
+      "date": "1996-10-05",
+      "rank": 161
+    },
+    {
+      "date": "1996-10-12",
+      "rank": 192
+    },
+    {
+      "date": "1996-10-19",
+      "rank": 185
+    },
+    {
+      "date": "1997-07-05",
+      "rank": 195
+    },
+    {
+      "date": "1997-07-12",
+      "rank": 186
+    },
+    {
+      "date": "1997-07-19",
+      "rank": 178
+    },
+    {
+      "date": "1997-07-26",
+      "rank": 160
+    },
+    {
+      "date": "1997-08-02",
+      "rank": 158
+    },
+    {
+      "date": "1997-08-09",
+      "rank": 140
+    },
+    {
+      "date": "1997-08-16",
+      "rank": 137
+    },
+    {
+      "date": "1997-08-23",
+      "rank": 144
+    },
+    {
+      "date": "1997-08-30",
+      "rank": 133
+    },
+    {
+      "date": "1997-09-06",
+      "rank": 130
+    },
+    {
+      "date": "1997-09-13",
+      "rank": 134
+    },
+    {
+      "date": "1997-09-20",
+      "rank": 125
+    },
+    {
+      "date": "1997-09-27",
+      "rank": 123
+    },
+    {
+      "date": "1997-10-04",
+      "rank": 125
+    },
+    {
+      "date": "1997-10-11",
+      "rank": 124
+    },
+    {
+      "date": "1997-10-18",
+      "rank": 138
+    },
+    {
+      "date": "1997-10-25",
+      "rank": 151
+    },
+    {
+      "date": "1997-11-01",
+      "rank": 145
+    },
+    {
+      "date": "1997-11-08",
+      "rank": 164
+    },
+    {
+      "date": "1997-11-15",
+      "rank": 195
+    },
+    {
+      "date": "1998-01-24",
+      "rank": 194
+    },
+    {
+      "date": "1998-02-07",
+      "rank": 191
+    },
+    {
+      "date": "1998-02-14",
+      "rank": 185
+    },
+    {
+      "date": "1998-02-21",
+      "rank": 176
+    },
+    {
+      "date": "1998-02-28",
+      "rank": 193
+    },
+    {
+      "date": "1998-03-07",
+      "rank": 188
+    },
+    {
+      "date": "1998-03-14",
+      "rank": 186
+    },
+    {
+      "date": "1998-03-21",
+      "rank": 190
+    },
+    {
+      "date": "1998-03-28",
+      "rank": 183
+    },
+    {
+      "date": "1998-04-04",
+      "rank": 189
+    },
+    {
+      "date": "1998-04-11",
+      "rank": 188
+    },
+    {
+      "date": "1998-04-18",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mr. Ice Cream Man",
+      "id": "mr-ice-cream-man-master-p"
+    },
+    {
+      "title": "Sellin' Ice Cream",
+      "id": "mr-ice-cream-man-master-p"
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Time for a 187",
+      "id": null
+    },
+    {
+      "title": "1/2 on a Bag of Dank",
+      "id": null
+    },
+    {
+      "title": "Break ’em Off Somethin’",
+      "id": null
+    },
+    {
+      "title": "How G's Ride",
+      "id": null
+    },
+    {
+      "title": "No More Tears",
+      "id": null
+    },
+    {
+      "title": "The Ghetto Won't Change",
+      "id": null
+    },
+    {
+      "title": "Commercial",
+      "id": null
+    },
+    {
+      "title": "Playa From Around the Way",
+      "id": null
+    },
+    {
+      "title": "Time to Check My Crackhouse",
+      "id": null
+    },
+    {
+      "title": "Bout It, Bout It II",
+      "id": null
+    },
+    {
+      "title": "Back Up Off Me",
+      "id": null
+    },
+    {
+      "title": "Never Ending Game",
+      "id": null
+    },
+    {
+      "title": "Watch Dees Hoes",
+      "id": null
+    },
+    {
+      "title": "Bout That Drama",
+      "id": null
+    },
+    {
+      "title": "Killer P",
+      "id": null
+    },
+    {
+      "title": "Things Ain't What They Used to Be",
+      "id": null
+    },
+    {
+      "title": "My Ghetto Heroes",
+      "id": null
+    }
+  ]
+}
