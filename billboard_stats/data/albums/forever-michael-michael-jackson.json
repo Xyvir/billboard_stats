@@ -1,1 +1,86 @@
-{"id": "forever-michael-michael-jackson", "title": "Forever, Michael", "artist": "Michael Jackson", "peak": 101, "history": [{"date": "1975-02-15", "rank": 144}, {"date": "1975-02-22", "rank": 133}, {"date": "1975-03-01", "rank": 122}, {"date": "1975-03-08", "rank": 111}, {"date": "1975-03-15", "rank": 101}, {"date": "1975-03-22", "rank": 101}, {"date": "1975-03-29", "rank": 120}, {"date": "1975-04-05", "rank": 162}, {"date": "1975-04-12", "rank": 159}]}
+{
+  "id": "forever-michael-michael-jackson",
+  "title": "Forever, Michael",
+  "artist": "Michael Jackson",
+  "peak": 101,
+  "history": [
+    {
+      "date": "1975-02-15",
+      "rank": 144
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 133
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 122
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 111
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 101
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 101
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 120
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 162
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "We’re Almost There",
+      "id": "we-re-almost-there-michael-jackson"
+    },
+    {
+      "title": "One Day in Your Life",
+      "id": "one-day-in-your-life-michael-jackson"
+    },
+    {
+      "title": "Just a Little Bit of You",
+      "id": "just-a-little-bit-of-you-michael-jackson"
+    },
+    {
+      "title": "You Are There",
+      "id": "will-you-be-there-michael-jackson"
+    },
+    {
+      "title": "Take Me Back",
+      "id": null
+    },
+    {
+      "title": "Cinderella Stay Awhile",
+      "id": null
+    },
+    {
+      "title": "We’ve Got Forever",
+      "id": null
+    },
+    {
+      "title": "Dapper‐Dan",
+      "id": null
+    },
+    {
+      "title": "Dear Michael",
+      "id": null
+    },
+    {
+      "title": "I’ll Come Home to You",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "forest-hills-drive-live-j-cole", "title": "Forest Hills Drive: Live", "artist": "J. Cole", "peak": 71, "history": [{"date": "2016-02-13", "rank": 179}, {"date": "2016-02-20", "rank": 71}]}
+{
+  "id": "forest-hills-drive-live-j-cole",
+  "title": "Forest Hills Drive: Live",
+  "artist": "J. Cole",
+  "peak": 71,
+  "history": [
+    {
+      "date": "2016-02-13",
+      "rank": 179
+    },
+    {
+      "date": "2016-02-20",
+      "rank": 71
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intro",
+      "id": "intro-j-cole"
+    },
+    {
+      "title": "Wet Dreamz",
+      "id": "wet-dreamz-j-cole"
+    },
+    {
+      "title": "No Role Modelz",
+      "id": "no-role-modelz-j-cole"
+    },
+    {
+      "title": "Apparently",
+      "id": "apparently-j-cole"
+    },
+    {
+      "title": "January 28th",
+      "id": null
+    },
+    {
+      "title": "03' Adolescence",
+      "id": null
+    },
+    {
+      "title": "A Tale of 2 Citiez",
+      "id": null
+    },
+    {
+      "title": "Fire Squad",
+      "id": null
+    },
+    {
+      "title": "St. Tropez",
+      "id": null
+    },
+    {
+      "title": "Intermission (Includes \"Lights Please,\" \"In the Morning\" and \"Nobody's Perfect\")",
+      "id": null
+    },
+    {
+      "title": "G.O.M.D.",
+      "id": null
+    },
+    {
+      "title": "Hello",
+      "id": null
+    },
+    {
+      "title": "Love Yourz",
+      "id": null
+    }
+  ]
+}

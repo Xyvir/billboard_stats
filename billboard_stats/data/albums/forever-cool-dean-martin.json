@@ -1,1 +1,90 @@
-{"id": "forever-cool-dean-martin", "title": "Forever Cool", "artist": "Dean Martin", "peak": 39, "history": [{"date": "2007-09-01", "rank": 39}, {"date": "2007-09-08", "rank": 69}, {"date": "2007-09-15", "rank": 82}, {"date": "2007-09-22", "rank": 94}, {"date": "2007-09-29", "rank": 117}, {"date": "2007-10-06", "rank": 181}]}
+{
+  "id": "forever-cool-dean-martin",
+  "title": "Forever Cool",
+  "artist": "Dean Martin",
+  "peak": 39,
+  "history": [
+    {
+      "date": "2007-09-01",
+      "rank": 39
+    },
+    {
+      "date": "2007-09-08",
+      "rank": 69
+    },
+    {
+      "date": "2007-09-15",
+      "rank": 82
+    },
+    {
+      "date": "2007-09-22",
+      "rank": 94
+    },
+    {
+      "date": "2007-09-29",
+      "rank": 117
+    },
+    {
+      "date": "2007-10-06",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Baby, It’s Cold Outside",
+      "id": "baby-it-s-cold-outside-dean-martin"
+    },
+    {
+      "title": "You’re Nobody ’til Somebody Loves You",
+      "id": "you-re-nobody-till-somebody-loves-you-dean-martin"
+    },
+    {
+      "title": "Everybody Loves Somebody",
+      "id": "everybody-loves-somebody-dean-martin"
+    },
+    {
+      "title": "Who’s Got the Action?",
+      "id": null
+    },
+    {
+      "title": "Ain’t That a Kick in the Head",
+      "id": null
+    },
+    {
+      "title": "I’ve Grown Accustomed to Her Face",
+      "id": null
+    },
+    {
+      "title": "Baby‐O",
+      "id": null
+    },
+    {
+      "title": "Who Was That Lady?",
+      "id": null
+    },
+    {
+      "title": "Please Don’t Talk About Me When I’m Gone",
+      "id": null
+    },
+    {
+      "title": "I Can’t Believe That You’re in Love With Me",
+      "id": null
+    },
+    {
+      "title": "Just in Time",
+      "id": null
+    },
+    {
+      "title": "King of the Road",
+      "id": null
+    },
+    {
+      "title": "Arrivederci Roma",
+      "id": null
+    },
+    {
+      "title": "Brahams’ Lullaby",
+      "id": null
+    }
+  ]
+}

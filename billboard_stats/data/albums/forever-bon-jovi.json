@@ -1,1 +1,62 @@
-{"id": "forever-bon-jovi", "title": "Forever", "artist": "Bon Jovi", "peak": 5, "history": [{"date": "2024-06-22", "rank": 5}]}
+{
+  "id": "forever-bon-jovi",
+  "title": "Forever",
+  "artist": "Bon Jovi",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2024-06-22",
+      "rank": 5
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Living in Paradise",
+      "id": "living-in-sin-bon-jovi"
+    },
+    {
+      "title": "Legendary",
+      "id": null
+    },
+    {
+      "title": "We Made It Look Easy",
+      "id": null
+    },
+    {
+      "title": "Living Proof",
+      "id": null
+    },
+    {
+      "title": "Waves",
+      "id": null
+    },
+    {
+      "title": "Seeds",
+      "id": null
+    },
+    {
+      "title": "Kiss the Bride",
+      "id": null
+    },
+    {
+      "title": "The People’s House",
+      "id": null
+    },
+    {
+      "title": "Walls of Jericho",
+      "id": null
+    },
+    {
+      "title": "I Wrote You a Song",
+      "id": null
+    },
+    {
+      "title": "My First Guitar",
+      "id": null
+    },
+    {
+      "title": "Hollow Man",
+      "id": null
+    }
+  ]
+}
