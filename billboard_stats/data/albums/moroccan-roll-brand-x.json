@@ -1,1 +1,78 @@
-{"id": "moroccan-roll-brand-x", "title": "Moroccan Roll", "artist": "Brand X", "peak": 125, "history": [{"date": "1977-05-21", "rank": 190}, {"date": "1977-05-28", "rank": 180}, {"date": "1977-06-04", "rank": 170}, {"date": "1977-06-11", "rank": 153}, {"date": "1977-06-18", "rank": 143}, {"date": "1977-06-25", "rank": 129}, {"date": "1977-07-02", "rank": 125}, {"date": "1977-07-09", "rank": 176}]}
+{
+  "id": "moroccan-roll-brand-x",
+  "title": "Moroccan Roll",
+  "artist": "Brand X",
+  "peak": 125,
+  "history": [
+    {
+      "date": "1977-05-21",
+      "rank": 190
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 180
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 170
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 153
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 143
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 129
+    },
+    {
+      "date": "1977-07-02",
+      "rank": 125
+    },
+    {
+      "date": "1977-07-09",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sun in the Night",
+      "id": null
+    },
+    {
+      "title": "Why Should I Lend You Mine (When You’ve Broken Yours Off Already)…",
+      "id": null
+    },
+    {
+      "title": "…Maybe I’ll Lend You Mine After All",
+      "id": null
+    },
+    {
+      "title": "Hate Zone",
+      "id": null
+    },
+    {
+      "title": "Collapsar",
+      "id": null
+    },
+    {
+      "title": "Disco Suicide",
+      "id": null
+    },
+    {
+      "title": "Orbits",
+      "id": null
+    },
+    {
+      "title": "Malaga Virgen",
+      "id": null
+    },
+    {
+      "title": "Macrocosm",
+      "id": null
+    }
+  ]
+}

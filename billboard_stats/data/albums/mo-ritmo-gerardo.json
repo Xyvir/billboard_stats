@@ -1,1 +1,178 @@
-{"id": "mo-ritmo-gerardo", "title": "Mo' Ritmo", "artist": "Gerardo", "peak": 36, "history": [{"date": "1991-02-23", "rank": 136}, {"date": "1991-03-02", "rank": 109}, {"date": "1991-03-09", "rank": 98}, {"date": "1991-03-16", "rank": 87}, {"date": "1991-03-23", "rank": 72}, {"date": "1991-03-30", "rank": 70}, {"date": "1991-04-06", "rank": 59}, {"date": "1991-04-13", "rank": 56}, {"date": "1991-04-20", "rank": 57}, {"date": "1991-04-27", "rank": 58}, {"date": "1991-05-04", "rank": 49}, {"date": "1991-05-11", "rank": 46}, {"date": "1991-05-18", "rank": 44}, {"date": "1991-05-25", "rank": 37}, {"date": "1991-06-01", "rank": 38}, {"date": "1991-06-08", "rank": 37}, {"date": "1991-06-15", "rank": 38}, {"date": "1991-06-22", "rank": 36}, {"date": "1991-06-29", "rank": 44}, {"date": "1991-07-06", "rank": 51}, {"date": "1991-07-13", "rank": 48}, {"date": "1991-07-20", "rank": 67}, {"date": "1991-07-27", "rank": 80}, {"date": "1991-08-03", "rank": 90}, {"date": "1991-08-10", "rank": 94}, {"date": "1991-08-17", "rank": 109}, {"date": "1991-08-24", "rank": 101}, {"date": "1991-08-31", "rank": 107}, {"date": "1991-09-07", "rank": 123}, {"date": "1991-09-14", "rank": 147}, {"date": "1991-09-21", "rank": 176}, {"date": "1991-09-28", "rank": 180}]}
+{
+  "id": "mo-ritmo-gerardo",
+  "title": "Mo' Ritmo",
+  "artist": "Gerardo",
+  "peak": 36,
+  "history": [
+    {
+      "date": "1991-02-23",
+      "rank": 136
+    },
+    {
+      "date": "1991-03-02",
+      "rank": 109
+    },
+    {
+      "date": "1991-03-09",
+      "rank": 98
+    },
+    {
+      "date": "1991-03-16",
+      "rank": 87
+    },
+    {
+      "date": "1991-03-23",
+      "rank": 72
+    },
+    {
+      "date": "1991-03-30",
+      "rank": 70
+    },
+    {
+      "date": "1991-04-06",
+      "rank": 59
+    },
+    {
+      "date": "1991-04-13",
+      "rank": 56
+    },
+    {
+      "date": "1991-04-20",
+      "rank": 57
+    },
+    {
+      "date": "1991-04-27",
+      "rank": 58
+    },
+    {
+      "date": "1991-05-04",
+      "rank": 49
+    },
+    {
+      "date": "1991-05-11",
+      "rank": 46
+    },
+    {
+      "date": "1991-05-18",
+      "rank": 44
+    },
+    {
+      "date": "1991-05-25",
+      "rank": 37
+    },
+    {
+      "date": "1991-06-01",
+      "rank": 38
+    },
+    {
+      "date": "1991-06-08",
+      "rank": 37
+    },
+    {
+      "date": "1991-06-15",
+      "rank": 38
+    },
+    {
+      "date": "1991-06-22",
+      "rank": 36
+    },
+    {
+      "date": "1991-06-29",
+      "rank": 44
+    },
+    {
+      "date": "1991-07-06",
+      "rank": 51
+    },
+    {
+      "date": "1991-07-13",
+      "rank": 48
+    },
+    {
+      "date": "1991-07-20",
+      "rank": 67
+    },
+    {
+      "date": "1991-07-27",
+      "rank": 80
+    },
+    {
+      "date": "1991-08-03",
+      "rank": 90
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 94
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 109
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 101
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 107
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 123
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 147
+    },
+    {
+      "date": "1991-09-21",
+      "rank": 176
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When the Lights Go Out",
+      "id": "when-the-lights-go-out-gerardo"
+    },
+    {
+      "title": "Rico Suave",
+      "id": "rico-suave-gerardo"
+    },
+    {
+      "title": "We Want the Funk",
+      "id": "we-want-the-funk-gerardo"
+    },
+    {
+      "title": "Brother to Brother",
+      "id": null
+    },
+    {
+      "title": "En Mi Barrio",
+      "id": null
+    },
+    {
+      "title": "Latin Till I Die (Oye Como Va)",
+      "id": null
+    },
+    {
+      "title": "Christina",
+      "id": null
+    },
+    {
+      "title": "Fandango",
+      "id": null
+    },
+    {
+      "title": "You Gotta Hold of My Soul",
+      "id": null
+    },
+    {
+      "title": "The Groove Remains the Same (Mo’ Ritmo)",
+      "id": null
+    }
+  ]
+}
