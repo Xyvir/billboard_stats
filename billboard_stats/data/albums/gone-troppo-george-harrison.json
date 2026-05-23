@@ -1,1 +1,78 @@
-{"id": "gone-troppo-george-harrison", "title": "Gone Troppo", "artist": "George Harrison", "peak": 108, "history": [{"date": "1982-11-27", "rank": 119}, {"date": "1982-12-04", "rank": 114}, {"date": "1982-12-11", "rank": 108}, {"date": "1982-12-18", "rank": 108}, {"date": "1982-12-25", "rank": 176}, {"date": "1983-01-01", "rank": 176}, {"date": "1983-01-08", "rank": 194}]}
+{
+  "id": "gone-troppo-george-harrison",
+  "title": "Gone Troppo",
+  "artist": "George Harrison",
+  "peak": 108,
+  "history": [
+    {
+      "date": "1982-11-27",
+      "rank": 119
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 114
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 108
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 108
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 176
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 176
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wake Up My Love",
+      "id": "wake-up-my-love-george-harrison"
+    },
+    {
+      "title": "That’s the Way It Goes",
+      "id": null
+    },
+    {
+      "title": "I Really Love You",
+      "id": null
+    },
+    {
+      "title": "Greece",
+      "id": null
+    },
+    {
+      "title": "Gone Troppo",
+      "id": null
+    },
+    {
+      "title": "Mystical One",
+      "id": null
+    },
+    {
+      "title": "Unknown Delight",
+      "id": null
+    },
+    {
+      "title": "Baby Don’t Run Away",
+      "id": null
+    },
+    {
+      "title": "Dream Away",
+      "id": null
+    },
+    {
+      "title": "Circles",
+      "id": null
+    }
+  ]
+}

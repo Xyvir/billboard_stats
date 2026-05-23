@@ -1,1 +1,110 @@
-{"id": "go-newsboys", "title": "Go", "artist": "Newsboys", "peak": 51, "history": [{"date": "2006-11-18", "rank": 51}, {"date": "2006-11-25", "rank": 109}, {"date": "2006-12-02", "rank": 152}, {"date": "2006-12-09", "rank": 151}, {"date": "2006-12-16", "rank": 166}, {"date": "2006-12-23", "rank": 176}, {"date": "2006-12-30", "rank": 151}, {"date": "2007-01-06", "rank": 191}, {"date": "2007-03-03", "rank": 198}, {"date": "2007-03-31", "rank": 197}, {"date": "2007-04-07", "rank": 191}]}
+{
+  "id": "go-newsboys",
+  "title": "Go",
+  "artist": "Newsboys",
+  "peak": 51,
+  "history": [
+    {
+      "date": "2006-11-18",
+      "rank": 51
+    },
+    {
+      "date": "2006-11-25",
+      "rank": 109
+    },
+    {
+      "date": "2006-12-02",
+      "rank": 152
+    },
+    {
+      "date": "2006-12-09",
+      "rank": 151
+    },
+    {
+      "date": "2006-12-16",
+      "rank": 166
+    },
+    {
+      "date": "2006-12-23",
+      "rank": 176
+    },
+    {
+      "date": "2006-12-30",
+      "rank": 151
+    },
+    {
+      "date": "2007-01-06",
+      "rank": 191
+    },
+    {
+      "date": "2007-03-03",
+      "rank": 198
+    },
+    {
+      "date": "2007-03-31",
+      "rank": 197
+    },
+    {
+      "date": "2007-04-07",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wherever We Go",
+      "id": null
+    },
+    {
+      "title": "Go",
+      "id": null
+    },
+    {
+      "title": "Something Beautiful",
+      "id": null
+    },
+    {
+      "title": "The Mission",
+      "id": null
+    },
+    {
+      "title": "Let It All Come Out",
+      "id": null
+    },
+    {
+      "title": "In Wonder",
+      "id": null
+    },
+    {
+      "title": "Your Love Is Better Than Life",
+      "id": null
+    },
+    {
+      "title": "I Am Free",
+      "id": null
+    },
+    {
+      "title": "Secret Kingdom",
+      "id": null
+    },
+    {
+      "title": "The Letter",
+      "id": null
+    },
+    {
+      "title": "Gonna Be Alright",
+      "id": null
+    },
+    {
+      "title": "I Am Free (Live)",
+      "id": null
+    },
+    {
+      "title": "Something To Believe In",
+      "id": null
+    },
+    {
+      "title": "City to City",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "good-bad-but-beautiful-shirley-bassey", "title": "Good,bad But Beautiful", "artist": "Shirley Bassey", "peak": 186, "history": [{"date": "1975-11-29", "rank": 187}, {"date": "1975-12-06", "rank": 187}, {"date": "1975-12-13", "rank": 186}]}
+{
+  "id": "good-bad-but-beautiful-shirley-bassey",
+  "title": "Good,bad But Beautiful",
+  "artist": "Shirley Bassey",
+  "peak": 186,
+  "history": [
+    {
+      "date": "1975-11-29",
+      "rank": 187
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 187
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sing",
+      "id": "something-shirley-bassey"
+    },
+    {
+      "title": "Emotion",
+      "id": null
+    },
+    {
+      "title": "Send in the Clowns",
+      "id": null
+    },
+    {
+      "title": "Good Bad but Beautiful",
+      "id": null
+    },
+    {
+      "title": "Way We Were, The",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Your Audience",
+      "id": null
+    },
+    {
+      "title": "Feel Like Makin' Love",
+      "id": null
+    },
+    {
+      "title": "All in Love Is Fair",
+      "id": null
+    },
+    {
+      "title": "Run on and on and On",
+      "id": null
+    },
+    {
+      "title": "Other Side of Me, The",
+      "id": null
+    },
+    {
+      "title": "Jesse",
+      "id": null
+    },
+    {
+      "title": "Living",
+      "id": null
+    }
+  ]
+}
