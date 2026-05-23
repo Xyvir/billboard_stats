@@ -1,1 +1,318 @@
-{"id": "if-i-m-honest-blake-shelton", "title": "If I'm Honest", "artist": "Blake Shelton", "peak": 3, "history": [{"date": "2016-06-11", "rank": 3}, {"date": "2016-06-18", "rank": 5}, {"date": "2016-06-25", "rank": 9}, {"date": "2016-07-02", "rank": 9}, {"date": "2016-07-09", "rank": 17}, {"date": "2016-07-16", "rank": 15}, {"date": "2016-07-23", "rank": 10}, {"date": "2016-07-30", "rank": 20}, {"date": "2016-08-06", "rank": 28}, {"date": "2016-08-13", "rank": 24}, {"date": "2016-08-20", "rank": 9}, {"date": "2016-08-27", "rank": 4}, {"date": "2016-09-03", "rank": 13}, {"date": "2016-09-10", "rank": 22}, {"date": "2016-09-17", "rank": 37}, {"date": "2016-09-24", "rank": 18}, {"date": "2016-10-01", "rank": 68}, {"date": "2016-10-08", "rank": 72}, {"date": "2016-10-15", "rank": 90}, {"date": "2016-10-22", "rank": 99}, {"date": "2016-10-29", "rank": 84}, {"date": "2016-11-05", "rank": 91}, {"date": "2016-11-12", "rank": 101}, {"date": "2016-11-19", "rank": 80}, {"date": "2016-11-26", "rank": 114}, {"date": "2016-12-03", "rank": 130}, {"date": "2016-12-10", "rank": 95}, {"date": "2016-12-17", "rank": 57}, {"date": "2016-12-24", "rank": 61}, {"date": "2016-12-31", "rank": 41}, {"date": "2017-01-07", "rank": 68}, {"date": "2017-01-14", "rank": 76}, {"date": "2017-01-21", "rank": 42}, {"date": "2017-01-28", "rank": 99}, {"date": "2017-02-04", "rank": 85}, {"date": "2017-02-11", "rank": 75}, {"date": "2017-02-18", "rank": 99}, {"date": "2017-02-25", "rank": 102}, {"date": "2017-03-04", "rank": 114}, {"date": "2017-03-11", "rank": 106}, {"date": "2017-03-18", "rank": 96}, {"date": "2017-03-25", "rank": 100}, {"date": "2017-04-01", "rank": 69}, {"date": "2017-04-08", "rank": 76}, {"date": "2017-04-15", "rank": 78}, {"date": "2017-04-22", "rank": 66}, {"date": "2017-04-29", "rank": 110}, {"date": "2017-05-06", "rank": 61}, {"date": "2017-05-13", "rank": 128}, {"date": "2017-05-20", "rank": 140}, {"date": "2017-05-27", "rank": 124}, {"date": "2017-06-03", "rank": 129}, {"date": "2017-06-10", "rank": 149}, {"date": "2017-06-17", "rank": 147}, {"date": "2017-06-24", "rank": 139}, {"date": "2017-07-01", "rank": 142}, {"date": "2017-07-08", "rank": 167}, {"date": "2017-07-15", "rank": 158}, {"date": "2017-07-22", "rank": 91}, {"date": "2017-07-29", "rank": 141}, {"date": "2017-08-05", "rank": 161}, {"date": "2017-08-12", "rank": 198}]}
+{
+  "id": "if-i-m-honest-blake-shelton",
+  "title": "If I'm Honest",
+  "artist": "Blake Shelton",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2016-06-11",
+      "rank": 3
+    },
+    {
+      "date": "2016-06-18",
+      "rank": 5
+    },
+    {
+      "date": "2016-06-25",
+      "rank": 9
+    },
+    {
+      "date": "2016-07-02",
+      "rank": 9
+    },
+    {
+      "date": "2016-07-09",
+      "rank": 17
+    },
+    {
+      "date": "2016-07-16",
+      "rank": 15
+    },
+    {
+      "date": "2016-07-23",
+      "rank": 10
+    },
+    {
+      "date": "2016-07-30",
+      "rank": 20
+    },
+    {
+      "date": "2016-08-06",
+      "rank": 28
+    },
+    {
+      "date": "2016-08-13",
+      "rank": 24
+    },
+    {
+      "date": "2016-08-20",
+      "rank": 9
+    },
+    {
+      "date": "2016-08-27",
+      "rank": 4
+    },
+    {
+      "date": "2016-09-03",
+      "rank": 13
+    },
+    {
+      "date": "2016-09-10",
+      "rank": 22
+    },
+    {
+      "date": "2016-09-17",
+      "rank": 37
+    },
+    {
+      "date": "2016-09-24",
+      "rank": 18
+    },
+    {
+      "date": "2016-10-01",
+      "rank": 68
+    },
+    {
+      "date": "2016-10-08",
+      "rank": 72
+    },
+    {
+      "date": "2016-10-15",
+      "rank": 90
+    },
+    {
+      "date": "2016-10-22",
+      "rank": 99
+    },
+    {
+      "date": "2016-10-29",
+      "rank": 84
+    },
+    {
+      "date": "2016-11-05",
+      "rank": 91
+    },
+    {
+      "date": "2016-11-12",
+      "rank": 101
+    },
+    {
+      "date": "2016-11-19",
+      "rank": 80
+    },
+    {
+      "date": "2016-11-26",
+      "rank": 114
+    },
+    {
+      "date": "2016-12-03",
+      "rank": 130
+    },
+    {
+      "date": "2016-12-10",
+      "rank": 95
+    },
+    {
+      "date": "2016-12-17",
+      "rank": 57
+    },
+    {
+      "date": "2016-12-24",
+      "rank": 61
+    },
+    {
+      "date": "2016-12-31",
+      "rank": 41
+    },
+    {
+      "date": "2017-01-07",
+      "rank": 68
+    },
+    {
+      "date": "2017-01-14",
+      "rank": 76
+    },
+    {
+      "date": "2017-01-21",
+      "rank": 42
+    },
+    {
+      "date": "2017-01-28",
+      "rank": 99
+    },
+    {
+      "date": "2017-02-04",
+      "rank": 85
+    },
+    {
+      "date": "2017-02-11",
+      "rank": 75
+    },
+    {
+      "date": "2017-02-18",
+      "rank": 99
+    },
+    {
+      "date": "2017-02-25",
+      "rank": 102
+    },
+    {
+      "date": "2017-03-04",
+      "rank": 114
+    },
+    {
+      "date": "2017-03-11",
+      "rank": 106
+    },
+    {
+      "date": "2017-03-18",
+      "rank": 96
+    },
+    {
+      "date": "2017-03-25",
+      "rank": 100
+    },
+    {
+      "date": "2017-04-01",
+      "rank": 69
+    },
+    {
+      "date": "2017-04-08",
+      "rank": 76
+    },
+    {
+      "date": "2017-04-15",
+      "rank": 78
+    },
+    {
+      "date": "2017-04-22",
+      "rank": 66
+    },
+    {
+      "date": "2017-04-29",
+      "rank": 110
+    },
+    {
+      "date": "2017-05-06",
+      "rank": 61
+    },
+    {
+      "date": "2017-05-13",
+      "rank": 128
+    },
+    {
+      "date": "2017-05-20",
+      "rank": 140
+    },
+    {
+      "date": "2017-05-27",
+      "rank": 124
+    },
+    {
+      "date": "2017-06-03",
+      "rank": 129
+    },
+    {
+      "date": "2017-06-10",
+      "rank": 149
+    },
+    {
+      "date": "2017-06-17",
+      "rank": 147
+    },
+    {
+      "date": "2017-06-24",
+      "rank": 139
+    },
+    {
+      "date": "2017-07-01",
+      "rank": 142
+    },
+    {
+      "date": "2017-07-08",
+      "rank": 167
+    },
+    {
+      "date": "2017-07-15",
+      "rank": 158
+    },
+    {
+      "date": "2017-07-22",
+      "rank": 91
+    },
+    {
+      "date": "2017-07-29",
+      "rank": 141
+    },
+    {
+      "date": "2017-08-05",
+      "rank": 161
+    },
+    {
+      "date": "2017-08-12",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "She’s Got a Way With Words",
+      "id": "she-s-got-a-way-with-words-blake-shelton"
+    },
+    {
+      "title": "Every Time I Hear That Song",
+      "id": "every-time-i-hear-that-song-blake-shelton"
+    },
+    {
+      "title": "Came Here to Forget",
+      "id": "came-here-to-forget-blake-shelton"
+    },
+    {
+      "title": "A Guy With a Girl",
+      "id": "a-guy-with-a-girl-blake-shelton"
+    },
+    {
+      "title": "Straight Outta Cold Beer",
+      "id": null
+    },
+    {
+      "title": "Bet You Still Think About Me",
+      "id": null
+    },
+    {
+      "title": "Every Goodbye",
+      "id": null
+    },
+    {
+      "title": "It Ain’t Easy",
+      "id": null
+    },
+    {
+      "title": "Go Ahead and Break My Heart",
+      "id": null
+    },
+    {
+      "title": "Friends (From the Angry Birds Movie)",
+      "id": null
+    },
+    {
+      "title": "One Night Girl",
+      "id": null
+    },
+    {
+      "title": "Doing It to Country Songs",
+      "id": null
+    },
+    {
+      "title": "Green",
+      "id": null
+    },
+    {
+      "title": "You Can’t Make This Up",
+      "id": null
+    },
+    {
+      "title": "Savior’s Shadow",
+      "id": null
+    }
+  ]
+}

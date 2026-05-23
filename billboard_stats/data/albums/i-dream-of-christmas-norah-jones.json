@@ -1,1 +1,86 @@
-{"id": "i-dream-of-christmas-norah-jones", "title": "I Dream Of Christmas", "artist": "Norah Jones", "peak": 100, "history": [{"date": "2021-12-11", "rank": 156}, {"date": "2021-12-18", "rank": 122}, {"date": "2021-12-25", "rank": 111}, {"date": "2022-01-01", "rank": 100}, {"date": "2022-01-08", "rank": 165}]}
+{
+  "id": "i-dream-of-christmas-norah-jones",
+  "title": "I Dream Of Christmas",
+  "artist": "Norah Jones",
+  "peak": 100,
+  "history": [
+    {
+      "date": "2021-12-11",
+      "rank": 156
+    },
+    {
+      "date": "2021-12-18",
+      "rank": 122
+    },
+    {
+      "date": "2021-12-25",
+      "rank": 111
+    },
+    {
+      "date": "2022-01-01",
+      "rank": 100
+    },
+    {
+      "date": "2022-01-08",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Christmas Calling (Jolly Jones)",
+      "id": null
+    },
+    {
+      "title": "Christmas Don’t Be Late",
+      "id": null
+    },
+    {
+      "title": "Christmas Glow",
+      "id": null
+    },
+    {
+      "title": "White Christmas",
+      "id": null
+    },
+    {
+      "title": "Christmastime",
+      "id": null
+    },
+    {
+      "title": "Blue Christmas",
+      "id": null
+    },
+    {
+      "title": "It’s Only Christmas Once a Year",
+      "id": null
+    },
+    {
+      "title": "You’re Not Alone",
+      "id": null
+    },
+    {
+      "title": "Winter Wonderland",
+      "id": null
+    },
+    {
+      "title": "A Holiday With You",
+      "id": null
+    },
+    {
+      "title": "Run Rudolph Run",
+      "id": null
+    },
+    {
+      "title": "Christmas Time Is Here",
+      "id": null
+    },
+    {
+      "title": "What Are You Doing New Year’s Eve?",
+      "id": null
+    },
+    {
+      "title": "O Holy Night",
+      "id": null
+    }
+  ]
+}

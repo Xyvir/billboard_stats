@@ -1,1 +1,226 @@
-{"id": "if-i-could-make-a-living-clay-walker", "title": "If I Could Make A Living", "artist": "Clay Walker", "peak": 42, "history": [{"date": "1994-10-15", "rank": 50}, {"date": "1994-10-22", "rank": 57}, {"date": "1994-10-29", "rank": 80}, {"date": "1994-11-05", "rank": 98}, {"date": "1994-11-12", "rank": 104}, {"date": "1994-11-19", "rank": 118}, {"date": "1994-11-26", "rank": 116}, {"date": "1994-12-03", "rank": 118}, {"date": "1994-12-10", "rank": 127}, {"date": "1994-12-17", "rank": 133}, {"date": "1994-12-24", "rank": 126}, {"date": "1994-12-31", "rank": 144}, {"date": "1995-01-07", "rank": 149}, {"date": "1995-01-14", "rank": 148}, {"date": "1995-01-21", "rank": 124}, {"date": "1995-01-28", "rank": 100}, {"date": "1995-02-04", "rank": 77}, {"date": "1995-02-11", "rank": 68}, {"date": "1995-02-18", "rank": 61}, {"date": "1995-02-25", "rank": 58}, {"date": "1995-03-04", "rank": 55}, {"date": "1995-03-11", "rank": 48}, {"date": "1995-03-18", "rank": 49}, {"date": "1995-03-25", "rank": 44}, {"date": "1995-04-01", "rank": 42}, {"date": "1995-04-08", "rank": 48}, {"date": "1995-04-15", "rank": 55}, {"date": "1995-04-22", "rank": 65}, {"date": "1995-04-29", "rank": 82}, {"date": "1995-05-06", "rank": 82}, {"date": "1995-05-13", "rank": 97}, {"date": "1995-05-20", "rank": 104}, {"date": "1995-05-27", "rank": 120}, {"date": "1995-06-03", "rank": 114}, {"date": "1995-06-10", "rank": 117}, {"date": "1995-06-17", "rank": 127}, {"date": "1995-06-24", "rank": 127}, {"date": "1995-07-01", "rank": 157}, {"date": "1995-07-08", "rank": 159}, {"date": "1995-07-15", "rank": 165}, {"date": "1995-07-22", "rank": 194}, {"date": "1995-07-29", "rank": 159}, {"date": "1995-08-05", "rank": 181}]}
+{
+  "id": "if-i-could-make-a-living-clay-walker",
+  "title": "If I Could Make A Living",
+  "artist": "Clay Walker",
+  "peak": 42,
+  "history": [
+    {
+      "date": "1994-10-15",
+      "rank": 50
+    },
+    {
+      "date": "1994-10-22",
+      "rank": 57
+    },
+    {
+      "date": "1994-10-29",
+      "rank": 80
+    },
+    {
+      "date": "1994-11-05",
+      "rank": 98
+    },
+    {
+      "date": "1994-11-12",
+      "rank": 104
+    },
+    {
+      "date": "1994-11-19",
+      "rank": 118
+    },
+    {
+      "date": "1994-11-26",
+      "rank": 116
+    },
+    {
+      "date": "1994-12-03",
+      "rank": 118
+    },
+    {
+      "date": "1994-12-10",
+      "rank": 127
+    },
+    {
+      "date": "1994-12-17",
+      "rank": 133
+    },
+    {
+      "date": "1994-12-24",
+      "rank": 126
+    },
+    {
+      "date": "1994-12-31",
+      "rank": 144
+    },
+    {
+      "date": "1995-01-07",
+      "rank": 149
+    },
+    {
+      "date": "1995-01-14",
+      "rank": 148
+    },
+    {
+      "date": "1995-01-21",
+      "rank": 124
+    },
+    {
+      "date": "1995-01-28",
+      "rank": 100
+    },
+    {
+      "date": "1995-02-04",
+      "rank": 77
+    },
+    {
+      "date": "1995-02-11",
+      "rank": 68
+    },
+    {
+      "date": "1995-02-18",
+      "rank": 61
+    },
+    {
+      "date": "1995-02-25",
+      "rank": 58
+    },
+    {
+      "date": "1995-03-04",
+      "rank": 55
+    },
+    {
+      "date": "1995-03-11",
+      "rank": 48
+    },
+    {
+      "date": "1995-03-18",
+      "rank": 49
+    },
+    {
+      "date": "1995-03-25",
+      "rank": 44
+    },
+    {
+      "date": "1995-04-01",
+      "rank": 42
+    },
+    {
+      "date": "1995-04-08",
+      "rank": 48
+    },
+    {
+      "date": "1995-04-15",
+      "rank": 55
+    },
+    {
+      "date": "1995-04-22",
+      "rank": 65
+    },
+    {
+      "date": "1995-04-29",
+      "rank": 82
+    },
+    {
+      "date": "1995-05-06",
+      "rank": 82
+    },
+    {
+      "date": "1995-05-13",
+      "rank": 97
+    },
+    {
+      "date": "1995-05-20",
+      "rank": 104
+    },
+    {
+      "date": "1995-05-27",
+      "rank": 120
+    },
+    {
+      "date": "1995-06-03",
+      "rank": 114
+    },
+    {
+      "date": "1995-06-10",
+      "rank": 117
+    },
+    {
+      "date": "1995-06-17",
+      "rank": 127
+    },
+    {
+      "date": "1995-06-24",
+      "rank": 127
+    },
+    {
+      "date": "1995-07-01",
+      "rank": 157
+    },
+    {
+      "date": "1995-07-08",
+      "rank": 159
+    },
+    {
+      "date": "1995-07-15",
+      "rank": 165
+    },
+    {
+      "date": "1995-07-22",
+      "rank": 194
+    },
+    {
+      "date": "1995-07-29",
+      "rank": 159
+    },
+    {
+      "date": "1995-08-05",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If I Could Make a Living",
+      "id": null
+    },
+    {
+      "title": "The Melrose Avenue Cinema Two",
+      "id": null
+    },
+    {
+      "title": "My Heart Will Never Know",
+      "id": null
+    },
+    {
+      "title": "What Do You Want for Nothin'",
+      "id": null
+    },
+    {
+      "title": "This Woman and This Man",
+      "id": null
+    },
+    {
+      "title": "Boogie Till the Cows Come Home",
+      "id": null
+    },
+    {
+      "title": "Heartache Highway",
+      "id": null
+    },
+    {
+      "title": "You Make It Look So Easy",
+      "id": null
+    },
+    {
+      "title": "Lose Your Memory",
+      "id": null
+    },
+    {
+      "title": "Money Ain't Everything",
+      "id": null
+    },
+    {
+      "title": "Down by the Riverside",
+      "id": null
+    }
+  ]
+}
