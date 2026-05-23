@@ -1,1 +1,74 @@
-{"id": "blue-skies-diana-degarmo", "title": "Blue Skies", "artist": "Diana DeGarmo", "peak": 52, "history": [{"date": "2004-12-25", "rank": 52}, {"date": "2005-01-01", "rank": 103}, {"date": "2005-01-08", "rank": 148}, {"date": "2005-01-15", "rank": 176}]}
+{
+  "id": "blue-skies-diana-degarmo",
+  "title": "Blue Skies",
+  "artist": "Diana DeGarmo",
+  "peak": 52,
+  "history": [
+    {
+      "date": "2004-12-25",
+      "rank": 52
+    },
+    {
+      "date": "2005-01-01",
+      "rank": 103
+    },
+    {
+      "date": "2005-01-08",
+      "rank": 148
+    },
+    {
+      "date": "2005-01-15",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dreams",
+      "id": "dreams-diana-degarmo"
+    },
+    {
+      "title": "Cardboard Castles",
+      "id": null
+    },
+    {
+      "title": "Blue Skies",
+      "id": null
+    },
+    {
+      "title": "Emotional",
+      "id": null
+    },
+    {
+      "title": "Then I Woke Up",
+      "id": null
+    },
+    {
+      "title": "All I Never Wanted",
+      "id": null
+    },
+    {
+      "title": "Go on and Cry",
+      "id": null
+    },
+    {
+      "title": "The Difference in Me",
+      "id": null
+    },
+    {
+      "title": "Till You Want Me",
+      "id": null
+    },
+    {
+      "title": "Boy Like You",
+      "id": null
+    },
+    {
+      "title": "Dream, Dream, Dream",
+      "id": null
+    },
+    {
+      "title": "Don't Cry Out Loud",
+      "id": null
+    }
+  ]
+}

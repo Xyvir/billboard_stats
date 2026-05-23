@@ -1,1 +1,170 @@
-{"id": "blue-sky-mining-midnight-oil", "title": "Blue Sky Mining", "artist": "Midnight Oil", "peak": 20, "history": [{"date": "1990-03-17", "rank": 59}, {"date": "1990-03-24", "rank": 31}, {"date": "1990-03-31", "rank": 22}, {"date": "1990-04-07", "rank": 21}, {"date": "1990-04-14", "rank": 20}, {"date": "1990-04-21", "rank": 20}, {"date": "1990-04-28", "rank": 22}, {"date": "1990-05-05", "rank": 26}, {"date": "1990-05-12", "rank": 32}, {"date": "1990-05-19", "rank": 32}, {"date": "1990-05-26", "rank": 36}, {"date": "1990-06-02", "rank": 38}, {"date": "1990-06-09", "rank": 38}, {"date": "1990-06-16", "rank": 42}, {"date": "1990-06-23", "rank": 37}, {"date": "1990-06-30", "rank": 45}, {"date": "1990-07-07", "rank": 40}, {"date": "1990-07-14", "rank": 51}, {"date": "1990-07-21", "rank": 52}, {"date": "1990-07-28", "rank": 75}, {"date": "1990-08-04", "rank": 82}, {"date": "1990-08-11", "rank": 92}, {"date": "1990-08-18", "rank": 106}, {"date": "1990-08-25", "rank": 110}, {"date": "1990-09-01", "rank": 117}, {"date": "1990-09-08", "rank": 122}, {"date": "1990-09-15", "rank": 117}, {"date": "1990-09-22", "rank": 166}, {"date": "1990-09-29", "rank": 187}]}
+{
+  "id": "blue-sky-mining-midnight-oil",
+  "title": "Blue Sky Mining",
+  "artist": "Midnight Oil",
+  "peak": 20,
+  "history": [
+    {
+      "date": "1990-03-17",
+      "rank": 59
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 31
+    },
+    {
+      "date": "1990-03-31",
+      "rank": 22
+    },
+    {
+      "date": "1990-04-07",
+      "rank": 21
+    },
+    {
+      "date": "1990-04-14",
+      "rank": 20
+    },
+    {
+      "date": "1990-04-21",
+      "rank": 20
+    },
+    {
+      "date": "1990-04-28",
+      "rank": 22
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 26
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 32
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 32
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 36
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 38
+    },
+    {
+      "date": "1990-06-09",
+      "rank": 38
+    },
+    {
+      "date": "1990-06-16",
+      "rank": 42
+    },
+    {
+      "date": "1990-06-23",
+      "rank": 37
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 45
+    },
+    {
+      "date": "1990-07-07",
+      "rank": 40
+    },
+    {
+      "date": "1990-07-14",
+      "rank": 51
+    },
+    {
+      "date": "1990-07-21",
+      "rank": 52
+    },
+    {
+      "date": "1990-07-28",
+      "rank": 75
+    },
+    {
+      "date": "1990-08-04",
+      "rank": 82
+    },
+    {
+      "date": "1990-08-11",
+      "rank": 92
+    },
+    {
+      "date": "1990-08-18",
+      "rank": 106
+    },
+    {
+      "date": "1990-08-25",
+      "rank": 110
+    },
+    {
+      "date": "1990-09-01",
+      "rank": 117
+    },
+    {
+      "date": "1990-09-08",
+      "rank": 122
+    },
+    {
+      "date": "1990-09-15",
+      "rank": 117
+    },
+    {
+      "date": "1990-09-22",
+      "rank": 166
+    },
+    {
+      "date": "1990-09-29",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blue Sky Mine",
+      "id": "blue-sky-mine-midnight-oil"
+    },
+    {
+      "title": "Bedlam Bridge",
+      "id": "beds-are-burning-midnight-oil"
+    },
+    {
+      "title": "Stars of Warburton",
+      "id": null
+    },
+    {
+      "title": "Forgotten Years",
+      "id": null
+    },
+    {
+      "title": "Mountains of Burma",
+      "id": null
+    },
+    {
+      "title": "King of the Mountain",
+      "id": null
+    },
+    {
+      "title": "River Runs Red",
+      "id": null
+    },
+    {
+      "title": "Shakers and Movers",
+      "id": null
+    },
+    {
+      "title": "One Country",
+      "id": null
+    },
+    {
+      "title": "Antarctica",
+      "id": null
+    },
+    {
+      "title": "You May Not Be Released",
+      "id": null
+    }
+  ]
+}

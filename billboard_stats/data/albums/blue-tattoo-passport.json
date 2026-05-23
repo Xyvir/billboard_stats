@@ -1,1 +1,54 @@
-{"id": "blue-tattoo-passport", "title": "Blue Tattoo", "artist": "Passport", "peak": 175, "history": [{"date": "1981-08-29", "rank": 185}, {"date": "1981-09-05", "rank": 175}, {"date": "1981-09-12", "rank": 175}]}
+{
+  "id": "blue-tattoo-passport",
+  "title": "Blue Tattoo",
+  "artist": "Passport",
+  "peak": 175,
+  "history": [
+    {
+      "date": "1981-08-29",
+      "rank": 185
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 175
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Riding on a Cloud",
+      "id": null
+    },
+    {
+      "title": "Radiation",
+      "id": null
+    },
+    {
+      "title": "Ragtag and Bobtail",
+      "id": null
+    },
+    {
+      "title": "Blue Tattoo",
+      "id": null
+    },
+    {
+      "title": "Piece for Rock Orchestra",
+      "id": null
+    },
+    {
+      "title": "Rambling",
+      "id": null
+    },
+    {
+      "title": "In a Melancholy Way",
+      "id": null
+    },
+    {
+      "title": "Daybreak Delight",
+      "id": null
+    }
+  ]
+}

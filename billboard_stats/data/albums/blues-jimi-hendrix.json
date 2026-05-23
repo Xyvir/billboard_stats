@@ -1,1 +1,126 @@
-{"id": "blues-jimi-hendrix", "title": "Blues", "artist": "Jimi Hendrix", "peak": 45, "history": [{"date": "1994-05-14", "rank": 45}, {"date": "1994-05-21", "rank": 55}, {"date": "1994-05-28", "rank": 68}, {"date": "1994-06-04", "rank": 83}, {"date": "1994-06-11", "rank": 96}, {"date": "1994-06-18", "rank": 94}, {"date": "1994-06-25", "rank": 109}, {"date": "1994-07-02", "rank": 121}, {"date": "1994-07-09", "rank": 129}, {"date": "1994-07-16", "rank": 149}, {"date": "1994-07-23", "rank": 165}, {"date": "1994-07-30", "rank": 153}, {"date": "1994-08-06", "rank": 171}, {"date": "1994-08-13", "rank": 162}, {"date": "1994-08-20", "rank": 170}, {"date": "1994-08-27", "rank": 155}, {"date": "1994-09-03", "rank": 165}, {"date": "1994-09-10", "rank": 183}]}
+{
+  "id": "blues-jimi-hendrix",
+  "title": "Blues",
+  "artist": "Jimi Hendrix",
+  "peak": 45,
+  "history": [
+    {
+      "date": "1994-05-14",
+      "rank": 45
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 55
+    },
+    {
+      "date": "1994-05-28",
+      "rank": 68
+    },
+    {
+      "date": "1994-06-04",
+      "rank": 83
+    },
+    {
+      "date": "1994-06-11",
+      "rank": 96
+    },
+    {
+      "date": "1994-06-18",
+      "rank": 94
+    },
+    {
+      "date": "1994-06-25",
+      "rank": 109
+    },
+    {
+      "date": "1994-07-02",
+      "rank": 121
+    },
+    {
+      "date": "1994-07-09",
+      "rank": 129
+    },
+    {
+      "date": "1994-07-16",
+      "rank": 149
+    },
+    {
+      "date": "1994-07-23",
+      "rank": 165
+    },
+    {
+      "date": "1994-07-30",
+      "rank": 153
+    },
+    {
+      "date": "1994-08-06",
+      "rank": 171
+    },
+    {
+      "date": "1994-08-13",
+      "rank": 162
+    },
+    {
+      "date": "1994-08-20",
+      "rank": 170
+    },
+    {
+      "date": "1994-08-27",
+      "rank": 155
+    },
+    {
+      "date": "1994-09-03",
+      "rank": 165
+    },
+    {
+      "date": "1994-09-10",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hear My Train A-Comin’ (acoustic)",
+      "id": null
+    },
+    {
+      "title": "Born Under a Bad Sign",
+      "id": null
+    },
+    {
+      "title": "Red House",
+      "id": null
+    },
+    {
+      "title": "Catfish Blues",
+      "id": null
+    },
+    {
+      "title": "Voodoo Chile Blues",
+      "id": null
+    },
+    {
+      "title": "Mannish Boy",
+      "id": null
+    },
+    {
+      "title": "Once I Had a Woman",
+      "id": null
+    },
+    {
+      "title": "Bleeding Heart",
+      "id": null
+    },
+    {
+      "title": "Jelly 292",
+      "id": null
+    },
+    {
+      "title": "Electric Church Red House",
+      "id": null
+    },
+    {
+      "title": "Hear My Train A-Comin’ (electric)",
+      "id": null
+    }
+  ]
+}

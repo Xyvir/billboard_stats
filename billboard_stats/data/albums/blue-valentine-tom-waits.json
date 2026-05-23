@@ -1,1 +1,66 @@
-{"id": "blue-valentine-tom-waits", "title": "Blue Valentine", "artist": "Tom Waits", "peak": 181, "history": [{"date": "1978-11-18", "rank": 184}, {"date": "1978-11-25", "rank": 183}, {"date": "1978-12-02", "rank": 181}, {"date": "1978-12-09", "rank": 181}]}
+{
+  "id": "blue-valentine-tom-waits",
+  "title": "Blue Valentine",
+  "artist": "Tom Waits",
+  "peak": 181,
+  "history": [
+    {
+      "date": "1978-11-18",
+      "rank": 184
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 183
+    },
+    {
+      "date": "1978-12-02",
+      "rank": 181
+    },
+    {
+      "date": "1978-12-09",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Somewhere (from ‘West Side Story’)",
+      "id": null
+    },
+    {
+      "title": "Red Shoes by the Drugstore",
+      "id": null
+    },
+    {
+      "title": "Christmas Card From a Hooker in Minneapolis",
+      "id": null
+    },
+    {
+      "title": "Romeo Is Bleeding",
+      "id": null
+    },
+    {
+      "title": "$29.00",
+      "id": null
+    },
+    {
+      "title": "Wrong Side of the Road",
+      "id": null
+    },
+    {
+      "title": "Whistlin’ Past the Graveyard",
+      "id": null
+    },
+    {
+      "title": "Kentucky Avenue",
+      "id": null
+    },
+    {
+      "title": "A Sweet Little Bullet From a Pretty Blue Gun",
+      "id": null
+    },
+    {
+      "title": "Blue Valentines",
+      "id": null
+    }
+  ]
+}

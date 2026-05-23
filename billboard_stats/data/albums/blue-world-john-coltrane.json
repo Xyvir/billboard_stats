@@ -1,1 +1,46 @@
-{"id": "blue-world-john-coltrane", "title": "Blue World", "artist": "John Coltrane", "peak": 78, "history": [{"date": "2019-10-12", "rank": 78}]}
+{
+  "id": "blue-world-john-coltrane",
+  "title": "Blue World",
+  "artist": "John Coltrane",
+  "peak": 78,
+  "history": [
+    {
+      "date": "2019-10-12",
+      "rank": 78
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Naima (take 1)",
+      "id": null
+    },
+    {
+      "title": "Village Blues (take 2)",
+      "id": null
+    },
+    {
+      "title": "Blue World",
+      "id": null
+    },
+    {
+      "title": "Village Blues (take 1)",
+      "id": null
+    },
+    {
+      "title": "Village Blues (take 3)",
+      "id": null
+    },
+    {
+      "title": "Like Sonny",
+      "id": null
+    },
+    {
+      "title": "Traneing In",
+      "id": null
+    },
+    {
+      "title": "Naima (take 2)",
+      "id": null
+    }
+  ]
+}

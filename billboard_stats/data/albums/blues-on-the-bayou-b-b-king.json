@@ -1,1 +1,78 @@
-{"id": "blues-on-the-bayou-b-b-king", "title": "Blues On The Bayou", "artist": "B.B. King", "peak": 186, "history": [{"date": "1998-11-07", "rank": 199}, {"date": "1998-11-14", "rank": 186}]}
+{
+  "id": "blues-on-the-bayou-b-b-king",
+  "title": "Blues On The Bayou",
+  "artist": "B.B. King",
+  "peak": 186,
+  "history": [
+    {
+      "date": "1998-11-07",
+      "rank": 199
+    },
+    {
+      "date": "1998-11-14",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tell Me Baby",
+      "id": "rock-me-baby-b-b-king"
+    },
+    {
+      "title": "I Got Some Outside Help I Don’t Need",
+      "id": "i-got-some-help-i-don-t-need-b-b-king"
+    },
+    {
+      "title": "Blues Boys Tune",
+      "id": null
+    },
+    {
+      "title": "Bad Case of Love",
+      "id": null
+    },
+    {
+      "title": "I’ll Survive",
+      "id": null
+    },
+    {
+      "title": "Mean Ole’ World",
+      "id": null
+    },
+    {
+      "title": "Blues Man",
+      "id": null
+    },
+    {
+      "title": "Broken Promise",
+      "id": null
+    },
+    {
+      "title": "Darlin’ What Happened",
+      "id": null
+    },
+    {
+      "title": "Shake It Up and Go",
+      "id": null
+    },
+    {
+      "title": "Blues We Like",
+      "id": null
+    },
+    {
+      "title": "Good Man Gone Bad",
+      "id": null
+    },
+    {
+      "title": "If I Lost You",
+      "id": null
+    },
+    {
+      "title": "Blues in \"G\"",
+      "id": null
+    },
+    {
+      "title": "If That Ain’t It I Quit",
+      "id": null
+    }
+  ]
+}

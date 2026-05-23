@@ -1,1 +1,58 @@
-{"id": "blues-n-jazz-b-b-king", "title": "Blues 'n Jazz", "artist": "B.B. King", "peak": 172, "history": [{"date": "1983-07-09", "rank": 183}, {"date": "1983-07-16", "rank": 176}, {"date": "1983-07-23", "rank": 172}]}
+{
+  "id": "blues-n-jazz-b-b-king",
+  "title": "Blues 'n Jazz",
+  "artist": "B.B. King",
+  "peak": 172,
+  "history": [
+    {
+      "date": "1983-07-09",
+      "rank": 183
+    },
+    {
+      "date": "1983-07-16",
+      "rank": 176
+    },
+    {
+      "date": "1983-07-23",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Inflation Blues",
+      "id": "beautician-blues-b-b-king"
+    },
+    {
+      "title": "Darlin’ You Know I Love You",
+      "id": "to-know-you-is-to-love-you-b-b-king"
+    },
+    {
+      "title": "Broken Heart",
+      "id": null
+    },
+    {
+      "title": "Sell My Monkey",
+      "id": null
+    },
+    {
+      "title": "Heed My Warning",
+      "id": null
+    },
+    {
+      "title": "Teardrops From My Eyes",
+      "id": null
+    },
+    {
+      "title": "Rainbow Riot",
+      "id": null
+    },
+    {
+      "title": "Make Love to Me",
+      "id": null
+    },
+    {
+      "title": "I Can’t Let You Go",
+      "id": null
+    }
+  ]
+}
