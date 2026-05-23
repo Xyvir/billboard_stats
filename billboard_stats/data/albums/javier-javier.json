@@ -1,1 +1,86 @@
-{"id": "javier-javier", "title": "Javier", "artist": "Javier", "peak": 91, "history": [{"date": "2003-08-23", "rank": 91}, {"date": "2003-08-30", "rank": 172}, {"date": "2003-09-06", "rank": 161}, {"date": "2003-09-13", "rank": 194}, {"date": "2003-09-20", "rank": 193}]}
+{
+  "id": "javier-javier",
+  "title": "Javier",
+  "artist": "Javier",
+  "peak": 91,
+  "history": [
+    {
+      "date": "2003-08-23",
+      "rank": 91
+    },
+    {
+      "date": "2003-08-30",
+      "rank": 172
+    },
+    {
+      "date": "2003-09-06",
+      "rank": 161
+    },
+    {
+      "date": "2003-09-13",
+      "rank": 194
+    },
+    {
+      "date": "2003-09-20",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Crazy",
+      "id": "crazy-javier"
+    },
+    {
+      "title": "Beautiful U R",
+      "id": null
+    },
+    {
+      "title": "Song For Your Tears",
+      "id": null
+    },
+    {
+      "title": "Slow Motion",
+      "id": null
+    },
+    {
+      "title": "Hey Little Sister",
+      "id": null
+    },
+    {
+      "title": "Biggest Mistake",
+      "id": null
+    },
+    {
+      "title": "Interlude #1",
+      "id": null
+    },
+    {
+      "title": "If I Never Get to Heaven",
+      "id": null
+    },
+    {
+      "title": "Can’t Have My Heart",
+      "id": null
+    },
+    {
+      "title": "She Spoke to Me",
+      "id": null
+    },
+    {
+      "title": "In Your Hands",
+      "id": null
+    },
+    {
+      "title": "She’ll Never Know",
+      "id": null
+    },
+    {
+      "title": "Interlude #2",
+      "id": null
+    },
+    {
+      "title": "October Sky",
+      "id": null
+    }
+  ]
+}

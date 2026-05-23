@@ -1,1 +1,54 @@
-{"id": "jazz-impressionists-various-artists", "title": "Jazz Impressionists", "artist": "Various Artists", "peak": 102, "history": [{"date": "2012-01-21", "rank": 128}, {"date": "2012-01-28", "rank": 102}, {"date": "2012-02-04", "rank": 159}]}
+{
+  "id": "jazz-impressionists-various-artists",
+  "title": "Jazz Impressionists",
+  "artist": "Various Artists",
+  "peak": 102,
+  "history": [
+    {
+      "date": "2012-01-21",
+      "rank": 128
+    },
+    {
+      "date": "2012-01-28",
+      "rank": 102
+    },
+    {
+      "date": "2012-02-04",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bye Bye Blackbird",
+      "id": null
+    },
+    {
+      "title": "Fables of Faubus",
+      "id": null
+    },
+    {
+      "title": "What Is This Thing Called Love",
+      "id": null
+    },
+    {
+      "title": "My Favorite Things",
+      "id": null
+    },
+    {
+      "title": "Que pasa",
+      "id": null
+    },
+    {
+      "title": "Fleurette africaine",
+      "id": null
+    },
+    {
+      "title": "Everything Happens to Me (take 1)",
+      "id": null
+    },
+    {
+      "title": "In a Silent Way",
+      "id": null
+    }
+  ]
+}

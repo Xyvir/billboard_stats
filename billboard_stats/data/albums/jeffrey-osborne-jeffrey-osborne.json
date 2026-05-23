@@ -1,1 +1,222 @@
-{"id": "jeffrey-osborne-jeffrey-osborne", "title": "Jeffrey Osborne", "artist": "Jeffrey Osborne", "peak": 49, "history": [{"date": "1982-06-19", "rank": 162}, {"date": "1982-06-26", "rank": 102}, {"date": "1982-07-03", "rank": 84}, {"date": "1982-07-10", "rank": 75}, {"date": "1982-07-17", "rank": 66}, {"date": "1982-07-24", "rank": 58}, {"date": "1982-07-31", "rank": 56}, {"date": "1982-08-07", "rank": 51}, {"date": "1982-08-14", "rank": 49}, {"date": "1982-08-21", "rank": 49}, {"date": "1982-08-28", "rank": 49}, {"date": "1982-09-04", "rank": 112}, {"date": "1982-09-11", "rank": 112}, {"date": "1982-09-18", "rank": 110}, {"date": "1982-09-25", "rank": 134}, {"date": "1982-10-02", "rank": 131}, {"date": "1982-10-09", "rank": 131}, {"date": "1982-10-16", "rank": 178}, {"date": "1982-10-23", "rank": 173}, {"date": "1982-10-30", "rank": 171}, {"date": "1982-11-06", "rank": 151}, {"date": "1982-11-13", "rank": 133}, {"date": "1982-11-20", "rank": 125}, {"date": "1982-11-27", "rank": 97}, {"date": "1982-12-04", "rank": 87}, {"date": "1982-12-11", "rank": 80}, {"date": "1982-12-18", "rank": 74}, {"date": "1982-12-25", "rank": 65}, {"date": "1983-01-01", "rank": 65}, {"date": "1983-01-08", "rank": 61}, {"date": "1983-01-15", "rank": 61}, {"date": "1983-01-22", "rank": 66}, {"date": "1983-01-29", "rank": 75}, {"date": "1983-02-05", "rank": 81}, {"date": "1983-02-12", "rank": 109}, {"date": "1983-02-19", "rank": 154}, {"date": "1983-02-26", "rank": 154}, {"date": "1983-03-05", "rank": 151}, {"date": "1983-03-12", "rank": 148}, {"date": "1983-03-19", "rank": 160}, {"date": "1983-03-26", "rank": 158}, {"date": "1983-04-02", "rank": 178}, {"date": "1983-04-09", "rank": 199}]}
+{
+  "id": "jeffrey-osborne-jeffrey-osborne",
+  "title": "Jeffrey Osborne",
+  "artist": "Jeffrey Osborne",
+  "peak": 49,
+  "history": [
+    {
+      "date": "1982-06-19",
+      "rank": 162
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 102
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 84
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 75
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 66
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 58
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 56
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 51
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 49
+    },
+    {
+      "date": "1982-08-21",
+      "rank": 49
+    },
+    {
+      "date": "1982-08-28",
+      "rank": 49
+    },
+    {
+      "date": "1982-09-04",
+      "rank": 112
+    },
+    {
+      "date": "1982-09-11",
+      "rank": 112
+    },
+    {
+      "date": "1982-09-18",
+      "rank": 110
+    },
+    {
+      "date": "1982-09-25",
+      "rank": 134
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 131
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 131
+    },
+    {
+      "date": "1982-10-16",
+      "rank": 178
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 173
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 171
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 151
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 133
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 125
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 97
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 87
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 80
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 74
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 65
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 65
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 61
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 61
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 66
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 75
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 81
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 109
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 154
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 154
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 151
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 148
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 160
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 158
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 178
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Eenie Meenie",
+      "id": "eenie-meenie-jeffrey-osborne"
+    },
+    {
+      "title": "I Really Don't Need No Light",
+      "id": "i-really-don-t-need-no-light-jeffrey-osborne"
+    },
+    {
+      "title": "On the Wings of Love",
+      "id": "on-the-wings-of-love-jeffrey-osborne"
+    },
+    {
+      "title": "New Love",
+      "id": null
+    },
+    {
+      "title": "Ready for Your Love",
+      "id": null
+    },
+    {
+      "title": "Who You Talkin' To?",
+      "id": null
+    },
+    {
+      "title": "You Were Made to Love",
+      "id": null
+    },
+    {
+      "title": "Ain't Nothin' Missin'",
+      "id": null
+    },
+    {
+      "title": "Baby",
+      "id": null
+    },
+    {
+      "title": "Congratulations",
+      "id": null
+    }
+  ]
+}
