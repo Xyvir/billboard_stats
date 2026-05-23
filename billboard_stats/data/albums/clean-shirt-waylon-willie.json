@@ -1,1 +1,62 @@
-{"id": "clean-shirt-waylon-willie", "title": "Clean Shirt", "artist": "Waylon & Willie", "peak": 193, "history": [{"date": "1991-08-03", "rank": 198}, {"date": "1991-08-10", "rank": 193}, {"date": "1991-08-17", "rank": 200}]}
+{
+  "id": "clean-shirt-waylon-willie",
+  "title": "Clean Shirt",
+  "artist": "Waylon & Willie",
+  "peak": 193,
+  "history": [
+    {
+      "date": "1991-08-03",
+      "rank": 198
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 193
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If I Can Find a Clean Shirt",
+      "id": null
+    },
+    {
+      "title": "I Could Write a Book About You",
+      "id": null
+    },
+    {
+      "title": "Old Age and Treachery",
+      "id": null
+    },
+    {
+      "title": "Two Old Sidewinders",
+      "id": null
+    },
+    {
+      "title": "Tryin’ to Outrun the Wind",
+      "id": null
+    },
+    {
+      "title": "The Good Ol’ Nights",
+      "id": null
+    },
+    {
+      "title": "Guitars That Won’t Stay in Tune",
+      "id": null
+    },
+    {
+      "title": "The Makin’s of a Song",
+      "id": null
+    },
+    {
+      "title": "Put Me on a Train Back to Texas",
+      "id": null
+    },
+    {
+      "title": "Rocks From Rolling Stones",
+      "id": null
+    }
+  ]
+}

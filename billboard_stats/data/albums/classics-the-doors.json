@@ -1,1 +1,106 @@
-{"id": "classics-the-doors", "title": "Classics", "artist": "The Doors", "peak": 124, "history": [{"date": "1985-06-08", "rank": 161}, {"date": "1985-06-15", "rank": 133}, {"date": "1985-06-22", "rank": 129}, {"date": "1985-06-29", "rank": 124}, {"date": "1985-07-06", "rank": 124}, {"date": "1985-07-13", "rank": 173}, {"date": "1985-07-20", "rank": 195}]}
+{
+  "id": "classics-the-doors",
+  "title": "Classics",
+  "artist": "The Doors",
+  "peak": 124,
+  "history": [
+    {
+      "date": "1985-06-08",
+      "rank": 161
+    },
+    {
+      "date": "1985-06-15",
+      "rank": 133
+    },
+    {
+      "date": "1985-06-22",
+      "rank": 129
+    },
+    {
+      "date": "1985-06-29",
+      "rank": 124
+    },
+    {
+      "date": "1985-07-06",
+      "rank": 124
+    },
+    {
+      "date": "1985-07-13",
+      "rank": 173
+    },
+    {
+      "date": "1985-07-20",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "People Are Strange",
+      "id": "people-are-strange-the-doors"
+    },
+    {
+      "title": "Love Me Two Times",
+      "id": "love-me-two-times-the-doors"
+    },
+    {
+      "title": "Unknown Soldier",
+      "id": "the-unknown-soldier-the-doors"
+    },
+    {
+      "title": "Touch Me",
+      "id": "touch-me-the-doors"
+    },
+    {
+      "title": "Soul Kitchen",
+      "id": null
+    },
+    {
+      "title": "Moonlight Drive",
+      "id": null
+    },
+    {
+      "title": "Break On Through",
+      "id": null
+    },
+    {
+      "title": "Back Door Man",
+      "id": null
+    },
+    {
+      "title": "Close to You",
+      "id": null
+    },
+    {
+      "title": "The Crystal Ship",
+      "id": null
+    },
+    {
+      "title": "20th Century Fox",
+      "id": null
+    },
+    {
+      "title": "Unhappy Girl",
+      "id": null
+    },
+    {
+      "title": "Love Street",
+      "id": null
+    },
+    {
+      "title": "The Hill Dwellers",
+      "id": null
+    },
+    {
+      "title": "You’re Lost, Little Girl",
+      "id": null
+    },
+    {
+      "title": "Wild Child",
+      "id": null
+    },
+    {
+      "title": "Wake Up",
+      "id": null
+    }
+  ]
+}

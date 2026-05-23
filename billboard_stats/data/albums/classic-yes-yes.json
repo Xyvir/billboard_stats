@@ -1,1 +1,66 @@
-{"id": "classic-yes-yes", "title": "Classic Yes", "artist": "Yes", "peak": 142, "history": [{"date": "1982-01-09", "rank": 160}, {"date": "1982-01-16", "rank": 152}, {"date": "1982-01-23", "rank": 142}, {"date": "1982-01-30", "rank": 142}, {"date": "1982-02-06", "rank": 158}]}
+{
+  "id": "classic-yes-yes",
+  "title": "Classic Yes",
+  "artist": "Yes",
+  "peak": 142,
+  "history": [
+    {
+      "date": "1982-01-09",
+      "rank": 160
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 152
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 142
+    },
+    {
+      "date": "1982-01-30",
+      "rank": 142
+    },
+    {
+      "date": "1982-02-06",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Roundabout",
+      "id": "roundabout-yes"
+    },
+    {
+      "title": "Heart of the Sunrise",
+      "id": null
+    },
+    {
+      "title": "Wonderous Stories",
+      "id": null
+    },
+    {
+      "title": "Yours Is No Disgrace",
+      "id": null
+    },
+    {
+      "title": "Starship Trooper: Life Seeker / Disillusion / Würm",
+      "id": null
+    },
+    {
+      "title": "Long Distance Runaround",
+      "id": null
+    },
+    {
+      "title": "The Fish (Schindleria Praematurus)",
+      "id": null
+    },
+    {
+      "title": "And You and I: Cord of Life / Eclipse / The Preacher the Teacher / The Apocalypse",
+      "id": null
+    },
+    {
+      "title": "I’ve Seen All Good People: Your Move / All Good People",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,46 @@
-{"id": "climax-climax", "title": "Climax", "artist": "Climax", "peak": 177, "history": [{"date": "1972-06-24", "rank": 186}, {"date": "1972-07-01", "rank": 184}, {"date": "1972-07-08", "rank": 184}, {"date": "1972-07-15", "rank": 183}, {"date": "1972-07-22", "rank": 178}, {"date": "1972-07-29", "rank": 177}, {"date": "1972-08-05", "rank": 186}]}
+{
+  "id": "climax-climax",
+  "title": "Climax",
+  "artist": "Climax",
+  "peak": 177,
+  "history": [
+    {
+      "date": "1972-06-24",
+      "rank": 186
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 184
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 184
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 183
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 178
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 177
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Gods Are All Fenced In",
+      "id": null
+    },
+    {
+      "title": "Long",
+      "id": null
+    }
+  ]
+}
