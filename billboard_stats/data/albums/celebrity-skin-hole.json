@@ -1,1 +1,246 @@
-{"id": "celebrity-skin-hole", "title": "Celebrity Skin", "artist": "Hole", "peak": 9, "history": [{"date": "1998-09-26", "rank": 9}, {"date": "1998-10-03", "rank": 10}, {"date": "1998-10-10", "rank": 22}, {"date": "1998-10-17", "rank": 24}, {"date": "1998-10-24", "rank": 31}, {"date": "1998-10-31", "rank": 30}, {"date": "1998-11-07", "rank": 34}, {"date": "1998-11-14", "rank": 34}, {"date": "1998-11-21", "rank": 48}, {"date": "1998-11-28", "rank": 53}, {"date": "1998-12-05", "rank": 71}, {"date": "1998-12-12", "rank": 85}, {"date": "1998-12-19", "rank": 87}, {"date": "1998-12-26", "rank": 81}, {"date": "1999-01-02", "rank": 78}, {"date": "1999-01-09", "rank": 62}, {"date": "1999-01-16", "rank": 51}, {"date": "1999-01-23", "rank": 49}, {"date": "1999-01-30", "rank": 61}, {"date": "1999-02-06", "rank": 67}, {"date": "1999-02-13", "rank": 68}, {"date": "1999-02-20", "rank": 66}, {"date": "1999-02-27", "rank": 67}, {"date": "1999-03-06", "rank": 69}, {"date": "1999-03-13", "rank": 72}, {"date": "1999-03-20", "rank": 69}, {"date": "1999-03-27", "rank": 80}, {"date": "1999-04-03", "rank": 91}, {"date": "1999-04-10", "rank": 109}, {"date": "1999-04-17", "rank": 111}, {"date": "1999-04-24", "rank": 117}, {"date": "1999-05-01", "rank": 124}, {"date": "1999-05-08", "rank": 133}, {"date": "1999-05-15", "rank": 144}, {"date": "1999-05-22", "rank": 158}, {"date": "1999-05-29", "rank": 154}, {"date": "1999-06-05", "rank": 159}, {"date": "1999-06-12", "rank": 159}, {"date": "1999-06-19", "rank": 192}, {"date": "1999-06-26", "rank": 195}, {"date": "1999-07-03", "rank": 198}]}
+{
+  "id": "celebrity-skin-hole",
+  "title": "Celebrity Skin",
+  "artist": "Hole",
+  "peak": 9,
+  "history": [
+    {
+      "date": "1998-09-26",
+      "rank": 9
+    },
+    {
+      "date": "1998-10-03",
+      "rank": 10
+    },
+    {
+      "date": "1998-10-10",
+      "rank": 22
+    },
+    {
+      "date": "1998-10-17",
+      "rank": 24
+    },
+    {
+      "date": "1998-10-24",
+      "rank": 31
+    },
+    {
+      "date": "1998-10-31",
+      "rank": 30
+    },
+    {
+      "date": "1998-11-07",
+      "rank": 34
+    },
+    {
+      "date": "1998-11-14",
+      "rank": 34
+    },
+    {
+      "date": "1998-11-21",
+      "rank": 48
+    },
+    {
+      "date": "1998-11-28",
+      "rank": 53
+    },
+    {
+      "date": "1998-12-05",
+      "rank": 71
+    },
+    {
+      "date": "1998-12-12",
+      "rank": 85
+    },
+    {
+      "date": "1998-12-19",
+      "rank": 87
+    },
+    {
+      "date": "1998-12-26",
+      "rank": 81
+    },
+    {
+      "date": "1999-01-02",
+      "rank": 78
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 62
+    },
+    {
+      "date": "1999-01-16",
+      "rank": 51
+    },
+    {
+      "date": "1999-01-23",
+      "rank": 49
+    },
+    {
+      "date": "1999-01-30",
+      "rank": 61
+    },
+    {
+      "date": "1999-02-06",
+      "rank": 67
+    },
+    {
+      "date": "1999-02-13",
+      "rank": 68
+    },
+    {
+      "date": "1999-02-20",
+      "rank": 66
+    },
+    {
+      "date": "1999-02-27",
+      "rank": 67
+    },
+    {
+      "date": "1999-03-06",
+      "rank": 69
+    },
+    {
+      "date": "1999-03-13",
+      "rank": 72
+    },
+    {
+      "date": "1999-03-20",
+      "rank": 69
+    },
+    {
+      "date": "1999-03-27",
+      "rank": 80
+    },
+    {
+      "date": "1999-04-03",
+      "rank": 91
+    },
+    {
+      "date": "1999-04-10",
+      "rank": 109
+    },
+    {
+      "date": "1999-04-17",
+      "rank": 111
+    },
+    {
+      "date": "1999-04-24",
+      "rank": 117
+    },
+    {
+      "date": "1999-05-01",
+      "rank": 124
+    },
+    {
+      "date": "1999-05-08",
+      "rank": 133
+    },
+    {
+      "date": "1999-05-15",
+      "rank": 144
+    },
+    {
+      "date": "1999-05-22",
+      "rank": 158
+    },
+    {
+      "date": "1999-05-29",
+      "rank": 154
+    },
+    {
+      "date": "1999-06-05",
+      "rank": 159
+    },
+    {
+      "date": "1999-06-12",
+      "rank": 159
+    },
+    {
+      "date": "1999-06-19",
+      "rank": 192
+    },
+    {
+      "date": "1999-06-26",
+      "rank": 195
+    },
+    {
+      "date": "1999-07-03",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Celebrity Skin",
+      "id": "celebrity-skin-hole"
+    },
+    {
+      "title": "Malibu",
+      "id": "malibu-hole"
+    },
+    {
+      "title": "Celebrity Skin (live)",
+      "id": "celebrity-skin-hole"
+    },
+    {
+      "title": "Awful",
+      "id": null
+    },
+    {
+      "title": "Hit So Hard",
+      "id": null
+    },
+    {
+      "title": "Reasons to Be Beautiful",
+      "id": null
+    },
+    {
+      "title": "Dying",
+      "id": null
+    },
+    {
+      "title": "Use Once & Destroy",
+      "id": null
+    },
+    {
+      "title": "Northern Star",
+      "id": null
+    },
+    {
+      "title": "Boys on the Radio",
+      "id": null
+    },
+    {
+      "title": "Heaven Tonight",
+      "id": null
+    },
+    {
+      "title": "Playing Your Song",
+      "id": null
+    },
+    {
+      "title": "Petals",
+      "id": null
+    },
+    {
+      "title": "Pretty on the Inside (live)",
+      "id": null
+    },
+    {
+      "title": "Heaven Tonight (live)",
+      "id": null
+    },
+    {
+      "title": "Northern Star (live)",
+      "id": null
+    },
+    {
+      "title": "Awful (live)",
+      "id": null
+    },
+    {
+      "title": "Paradise City (live)",
+      "id": null
+    }
+  ]
+}

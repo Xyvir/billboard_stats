@@ -1,1 +1,94 @@
-{"id": "celebration-el-chicano", "title": "Celebration", "artist": "El Chicano", "peak": 173, "history": [{"date": "1972-05-20", "rank": 178}, {"date": "1972-05-27", "rank": 187}, {"date": "1972-06-03", "rank": 187}, {"date": "1972-06-10", "rank": 193}, {"date": "1972-06-24", "rank": 195}, {"date": "1972-07-01", "rank": 186}, {"date": "1972-07-08", "rank": 181}, {"date": "1972-07-15", "rank": 174}, {"date": "1972-07-22", "rank": 174}, {"date": "1972-07-29", "rank": 173}, {"date": "1972-08-05", "rank": 200}]}
+{
+  "id": "celebration-el-chicano",
+  "title": "Celebration",
+  "artist": "El Chicano",
+  "peak": 173,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 178
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 187
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 187
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 193
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 195
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 186
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 181
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 174
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 174
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 173
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Viva tirado otra vez",
+      "id": "viva-tirado-part-i-el-chicano"
+    },
+    {
+      "title": "Brown-Eyed Girl",
+      "id": "brown-eyed-girl-el-chicano"
+    },
+    {
+      "title": "Mas zacate",
+      "id": null
+    },
+    {
+      "title": "El Grito",
+      "id": null
+    },
+    {
+      "title": "Satisfy Me Woman",
+      "id": null
+    },
+    {
+      "title": "La Cucuracha",
+      "id": null
+    },
+    {
+      "title": "Juntos",
+      "id": null
+    },
+    {
+      "title": "Señor Blues",
+      "id": null
+    },
+    {
+      "title": "In a Silent Way",
+      "id": null
+    },
+    {
+      "title": "I Feel Free",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,270 @@
-{"id": "celebrity-nsync", "title": "Celebrity", "artist": "*NSYNC", "peak": 1, "history": [{"date": "2001-08-11", "rank": 1}, {"date": "2001-08-18", "rank": 2}, {"date": "2001-08-25", "rank": 2}, {"date": "2001-09-01", "rank": 3}, {"date": "2001-09-08", "rank": 5}, {"date": "2001-09-15", "rank": 12}, {"date": "2001-09-22", "rank": 9}, {"date": "2001-09-29", "rank": 16}, {"date": "2001-10-06", "rank": 24}, {"date": "2001-10-13", "rank": 20}, {"date": "2001-10-20", "rank": 17}, {"date": "2001-10-27", "rank": 16}, {"date": "2001-11-03", "rank": 21}, {"date": "2001-11-10", "rank": 24}, {"date": "2001-11-17", "rank": 26}, {"date": "2001-11-24", "rank": 27}, {"date": "2001-12-01", "rank": 33}, {"date": "2001-12-08", "rank": 22}, {"date": "2001-12-15", "rank": 25}, {"date": "2001-12-22", "rank": 22}, {"date": "2001-12-29", "rank": 20}, {"date": "2002-01-05", "rank": 25}, {"date": "2002-01-12", "rank": 36}, {"date": "2002-01-19", "rank": 46}, {"date": "2002-01-26", "rank": 56}, {"date": "2002-02-02", "rank": 54}, {"date": "2002-02-09", "rank": 57}, {"date": "2002-02-16", "rank": 57}, {"date": "2002-02-23", "rank": 61}, {"date": "2002-03-02", "rank": 65}, {"date": "2002-03-09", "rank": 69}, {"date": "2002-03-16", "rank": 66}, {"date": "2002-03-23", "rank": 70}, {"date": "2002-03-30", "rank": 87}, {"date": "2002-04-06", "rank": 94}, {"date": "2002-04-13", "rank": 84}, {"date": "2002-04-20", "rank": 98}, {"date": "2002-04-27", "rank": 118}, {"date": "2002-05-04", "rank": 117}, {"date": "2002-05-11", "rank": 139}, {"date": "2002-05-18", "rank": 144}, {"date": "2002-05-25", "rank": 187}, {"date": "2002-06-01", "rank": 187}]}
+{
+  "id": "celebrity-nsync",
+  "title": "Celebrity",
+  "artist": "*NSYNC",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2001-08-11",
+      "rank": 1
+    },
+    {
+      "date": "2001-08-18",
+      "rank": 2
+    },
+    {
+      "date": "2001-08-25",
+      "rank": 2
+    },
+    {
+      "date": "2001-09-01",
+      "rank": 3
+    },
+    {
+      "date": "2001-09-08",
+      "rank": 5
+    },
+    {
+      "date": "2001-09-15",
+      "rank": 12
+    },
+    {
+      "date": "2001-09-22",
+      "rank": 9
+    },
+    {
+      "date": "2001-09-29",
+      "rank": 16
+    },
+    {
+      "date": "2001-10-06",
+      "rank": 24
+    },
+    {
+      "date": "2001-10-13",
+      "rank": 20
+    },
+    {
+      "date": "2001-10-20",
+      "rank": 17
+    },
+    {
+      "date": "2001-10-27",
+      "rank": 16
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 21
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 24
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 26
+    },
+    {
+      "date": "2001-11-24",
+      "rank": 27
+    },
+    {
+      "date": "2001-12-01",
+      "rank": 33
+    },
+    {
+      "date": "2001-12-08",
+      "rank": 22
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 25
+    },
+    {
+      "date": "2001-12-22",
+      "rank": 22
+    },
+    {
+      "date": "2001-12-29",
+      "rank": 20
+    },
+    {
+      "date": "2002-01-05",
+      "rank": 25
+    },
+    {
+      "date": "2002-01-12",
+      "rank": 36
+    },
+    {
+      "date": "2002-01-19",
+      "rank": 46
+    },
+    {
+      "date": "2002-01-26",
+      "rank": 56
+    },
+    {
+      "date": "2002-02-02",
+      "rank": 54
+    },
+    {
+      "date": "2002-02-09",
+      "rank": 57
+    },
+    {
+      "date": "2002-02-16",
+      "rank": 57
+    },
+    {
+      "date": "2002-02-23",
+      "rank": 61
+    },
+    {
+      "date": "2002-03-02",
+      "rank": 65
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 69
+    },
+    {
+      "date": "2002-03-16",
+      "rank": 66
+    },
+    {
+      "date": "2002-03-23",
+      "rank": 70
+    },
+    {
+      "date": "2002-03-30",
+      "rank": 87
+    },
+    {
+      "date": "2002-04-06",
+      "rank": 94
+    },
+    {
+      "date": "2002-04-13",
+      "rank": 84
+    },
+    {
+      "date": "2002-04-20",
+      "rank": 98
+    },
+    {
+      "date": "2002-04-27",
+      "rank": 118
+    },
+    {
+      "date": "2002-05-04",
+      "rank": 117
+    },
+    {
+      "date": "2002-05-11",
+      "rank": 139
+    },
+    {
+      "date": "2002-05-18",
+      "rank": 144
+    },
+    {
+      "date": "2002-05-25",
+      "rank": 187
+    },
+    {
+      "date": "2002-06-01",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pop",
+      "id": "pop-nsync"
+    },
+    {
+      "title": "Gone",
+      "id": "gone-nsync"
+    },
+    {
+      "title": "Celebrity",
+      "id": null
+    },
+    {
+      "title": "The Game Is Over",
+      "id": null
+    },
+    {
+      "title": "Girlfriend",
+      "id": null
+    },
+    {
+      "title": "The Two of Us",
+      "id": null
+    },
+    {
+      "title": "Tell Me, Tell Me… Baby",
+      "id": null
+    },
+    {
+      "title": "Up Against the Wall",
+      "id": null
+    },
+    {
+      "title": "See Right Through You",
+      "id": null
+    },
+    {
+      "title": "Selfish",
+      "id": null
+    },
+    {
+      "title": "Just Don’t Tell Me That",
+      "id": null
+    },
+    {
+      "title": "Something Like You",
+      "id": null
+    },
+    {
+      "title": "That Girl (Will Never Be Mine)",
+      "id": null
+    },
+    {
+      "title": "Falling",
+      "id": null
+    },
+    {
+      "title": "Do Your Thing",
+      "id": null
+    },
+    {
+      "title": "Pop (Pablo La Rosa’s Funktified mix)",
+      "id": null
+    },
+    {
+      "title": "Pop (Deep Dish Cha-Ching remix)",
+      "id": null
+    },
+    {
+      "title": "Pop (Terminalhead vocal remix)",
+      "id": null
+    },
+    {
+      "title": "Gone (Gone Clubbin’) (I’ll Be Back Late mix)",
+      "id": null
+    },
+    {
+      "title": "Gone (Spanish version)",
+      "id": null
+    },
+    {
+      "title": "Girlfriend (The Neptunes remix)",
+      "id": null
+    },
+    {
+      "title": "Girlfriend (The Neptunes remix) (instrumental)",
+      "id": null
+    }
+  ]
+}

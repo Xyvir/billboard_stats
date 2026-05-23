@@ -1,1 +1,146 @@
-{"id": "celebration-day-led-zeppelin", "title": "Celebration Day", "artist": "Led Zeppelin", "peak": 9, "history": [{"date": "2012-12-08", "rank": 9}, {"date": "2012-12-15", "rank": 17}, {"date": "2012-12-22", "rank": 16}, {"date": "2012-12-29", "rank": 22}, {"date": "2013-01-05", "rank": 20}, {"date": "2013-01-12", "rank": 32}, {"date": "2013-01-19", "rank": 38}, {"date": "2013-01-26", "rank": 45}, {"date": "2013-02-02", "rank": 53}, {"date": "2013-02-09", "rank": 67}, {"date": "2013-02-16", "rank": 83}, {"date": "2013-02-23", "rank": 105}, {"date": "2013-03-02", "rank": 75}, {"date": "2013-03-09", "rank": 95}, {"date": "2013-03-16", "rank": 26}, {"date": "2013-03-23", "rank": 152}, {"date": "2013-03-30", "rank": 194}, {"date": "2016-07-02", "rank": 99}]}
+{
+  "id": "celebration-day-led-zeppelin",
+  "title": "Celebration Day",
+  "artist": "Led Zeppelin",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2012-12-08",
+      "rank": 9
+    },
+    {
+      "date": "2012-12-15",
+      "rank": 17
+    },
+    {
+      "date": "2012-12-22",
+      "rank": 16
+    },
+    {
+      "date": "2012-12-29",
+      "rank": 22
+    },
+    {
+      "date": "2013-01-05",
+      "rank": 20
+    },
+    {
+      "date": "2013-01-12",
+      "rank": 32
+    },
+    {
+      "date": "2013-01-19",
+      "rank": 38
+    },
+    {
+      "date": "2013-01-26",
+      "rank": 45
+    },
+    {
+      "date": "2013-02-02",
+      "rank": 53
+    },
+    {
+      "date": "2013-02-09",
+      "rank": 67
+    },
+    {
+      "date": "2013-02-16",
+      "rank": 83
+    },
+    {
+      "date": "2013-02-23",
+      "rank": 105
+    },
+    {
+      "date": "2013-03-02",
+      "rank": 75
+    },
+    {
+      "date": "2013-03-09",
+      "rank": 95
+    },
+    {
+      "date": "2013-03-16",
+      "rank": 26
+    },
+    {
+      "date": "2013-03-23",
+      "rank": 152
+    },
+    {
+      "date": "2013-03-30",
+      "rank": 194
+    },
+    {
+      "date": "2016-07-02",
+      "rank": 99
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Good Times Bad Times",
+      "id": "good-times-bad-times-led-zeppelin"
+    },
+    {
+      "title": "Black Dog",
+      "id": "black-dog-led-zeppelin"
+    },
+    {
+      "title": "Trampled Under Foot",
+      "id": "trampled-under-foot-led-zeppelin"
+    },
+    {
+      "title": "Whole Lotta Love",
+      "id": "whole-lotta-love-led-zeppelin"
+    },
+    {
+      "title": "Rock and Roll",
+      "id": "rock-and-roll-led-zeppelin"
+    },
+    {
+      "title": "Ramble On",
+      "id": null
+    },
+    {
+      "title": "In My Time of Dying",
+      "id": null
+    },
+    {
+      "title": "For Your Life",
+      "id": null
+    },
+    {
+      "title": "Nobody’s Fault but Mine",
+      "id": null
+    },
+    {
+      "title": "No Quarter",
+      "id": null
+    },
+    {
+      "title": "Since I’ve Been Loving You",
+      "id": null
+    },
+    {
+      "title": "Dazed and Confused",
+      "id": null
+    },
+    {
+      "title": "Stairway to Heaven",
+      "id": null
+    },
+    {
+      "title": "The Song Remains the Same",
+      "id": null
+    },
+    {
+      "title": "Misty Mountain Hop",
+      "id": null
+    },
+    {
+      "title": "Kashmir",
+      "id": null
+    }
+  ]
+}
