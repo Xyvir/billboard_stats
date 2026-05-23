@@ -1,1 +1,78 @@
-{"id": "dylan-scott-dylan-scott", "title": "Dylan Scott", "artist": "Dylan Scott", "peak": 46, "history": [{"date": "2016-09-03", "rank": 46}, {"date": "2017-08-05", "rank": 185}, {"date": "2017-08-26", "rank": 56}, {"date": "2017-09-02", "rank": 177}]}
+{
+  "id": "dylan-scott-dylan-scott",
+  "title": "Dylan Scott",
+  "artist": "Dylan Scott",
+  "peak": 46,
+  "history": [
+    {
+      "date": "2016-09-03",
+      "rank": 46
+    },
+    {
+      "date": "2017-08-05",
+      "rank": 185
+    },
+    {
+      "date": "2017-08-26",
+      "rank": 56
+    },
+    {
+      "date": "2017-09-02",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Girl",
+      "id": "my-girl-dylan-scott"
+    },
+    {
+      "title": "Lay It on Me",
+      "id": null
+    },
+    {
+      "title": "My Town",
+      "id": null
+    },
+    {
+      "title": "Passenger Seat",
+      "id": null
+    },
+    {
+      "title": "Back",
+      "id": null
+    },
+    {
+      "title": "Crazy Over Me",
+      "id": null
+    },
+    {
+      "title": "Ball Cap",
+      "id": null
+    },
+    {
+      "title": "Beer Buddies",
+      "id": null
+    },
+    {
+      "title": "Freak Show",
+      "id": null
+    },
+    {
+      "title": "I Lost You",
+      "id": null
+    },
+    {
+      "title": "Living Room",
+      "id": null
+    },
+    {
+      "title": "Rules",
+      "id": null
+    },
+    {
+      "title": "Do You Think About Me",
+      "id": null
+    }
+  ]
+}

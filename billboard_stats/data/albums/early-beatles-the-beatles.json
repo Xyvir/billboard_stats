@@ -1,1 +1,58 @@
-{"id": "early-beatles-the-beatles", "title": "Early Beatles", "artist": "The Beatles", "peak": 197, "history": [{"date": "1986-10-11", "rank": 197}]}
+{
+  "id": "early-beatles-the-beatles",
+  "title": "Early Beatles",
+  "artist": "The Beatles",
+  "peak": 197,
+  "history": [
+    {
+      "date": "1986-10-11",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Me Do",
+      "id": "love-me-do-the-beatles"
+    },
+    {
+      "title": "Twist and Shout",
+      "id": "twist-and-shout-the-beatles"
+    },
+    {
+      "title": "Chains",
+      "id": "rain-the-beatles"
+    },
+    {
+      "title": "Please Please Me",
+      "id": "please-please-me-the-beatles"
+    },
+    {
+      "title": "P.S. I Love You",
+      "id": "p-s-i-love-you-the-beatles"
+    },
+    {
+      "title": "Baby It’s You",
+      "id": "baby-it-s-you-the-beatles"
+    },
+    {
+      "title": "Do You Want to Know a Secret",
+      "id": "do-you-want-to-know-a-secret-the-beatles"
+    },
+    {
+      "title": "Anna",
+      "id": null
+    },
+    {
+      "title": "Boys",
+      "id": null
+    },
+    {
+      "title": "Ask Me Why",
+      "id": null
+    },
+    {
+      "title": "A Taste of Honey",
+      "id": null
+    }
+  ]
+}
