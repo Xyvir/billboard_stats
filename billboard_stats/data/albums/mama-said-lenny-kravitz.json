@@ -1,1 +1,226 @@
-{"id": "mama-said-lenny-kravitz", "title": "Mama Said", "artist": "Lenny Kravitz", "peak": 39, "history": [{"date": "1991-04-20", "rank": 84}, {"date": "1991-04-27", "rank": 47}, {"date": "1991-05-04", "rank": 41}, {"date": "1991-05-11", "rank": 43}, {"date": "1991-05-18", "rank": 47}, {"date": "1991-05-25", "rank": 90}, {"date": "1991-06-01", "rank": 120}, {"date": "1991-06-08", "rank": 121}, {"date": "1991-06-15", "rank": 122}, {"date": "1991-06-22", "rank": 118}, {"date": "1991-06-29", "rank": 111}, {"date": "1991-07-06", "rank": 74}, {"date": "1991-07-13", "rank": 62}, {"date": "1991-07-20", "rank": 62}, {"date": "1991-07-27", "rank": 61}, {"date": "1991-08-03", "rank": 57}, {"date": "1991-08-10", "rank": 50}, {"date": "1991-08-17", "rank": 46}, {"date": "1991-08-24", "rank": 40}, {"date": "1991-08-31", "rank": 39}, {"date": "1991-09-07", "rank": 41}, {"date": "1991-09-14", "rank": 54}, {"date": "1991-09-21", "rank": 53}, {"date": "1991-09-28", "rank": 62}, {"date": "1991-10-05", "rank": 72}, {"date": "1991-10-12", "rank": 87}, {"date": "1991-10-19", "rank": 92}, {"date": "1991-10-26", "rank": 101}, {"date": "1991-11-02", "rank": 104}, {"date": "1991-11-09", "rank": 119}, {"date": "1991-11-16", "rank": 123}, {"date": "1991-11-23", "rank": 141}, {"date": "1991-11-30", "rank": 160}, {"date": "1991-12-07", "rank": 150}, {"date": "1991-12-14", "rank": 159}, {"date": "1991-12-21", "rank": 194}, {"date": "1991-12-28", "rank": 194}, {"date": "1992-01-11", "rank": 187}, {"date": "1992-01-18", "rank": 197}, {"date": "1992-01-25", "rank": 195}]}
+{
+  "id": "mama-said-lenny-kravitz",
+  "title": "Mama Said",
+  "artist": "Lenny Kravitz",
+  "peak": 39,
+  "history": [
+    {
+      "date": "1991-04-20",
+      "rank": 84
+    },
+    {
+      "date": "1991-04-27",
+      "rank": 47
+    },
+    {
+      "date": "1991-05-04",
+      "rank": 41
+    },
+    {
+      "date": "1991-05-11",
+      "rank": 43
+    },
+    {
+      "date": "1991-05-18",
+      "rank": 47
+    },
+    {
+      "date": "1991-05-25",
+      "rank": 90
+    },
+    {
+      "date": "1991-06-01",
+      "rank": 120
+    },
+    {
+      "date": "1991-06-08",
+      "rank": 121
+    },
+    {
+      "date": "1991-06-15",
+      "rank": 122
+    },
+    {
+      "date": "1991-06-22",
+      "rank": 118
+    },
+    {
+      "date": "1991-06-29",
+      "rank": 111
+    },
+    {
+      "date": "1991-07-06",
+      "rank": 74
+    },
+    {
+      "date": "1991-07-13",
+      "rank": 62
+    },
+    {
+      "date": "1991-07-20",
+      "rank": 62
+    },
+    {
+      "date": "1991-07-27",
+      "rank": 61
+    },
+    {
+      "date": "1991-08-03",
+      "rank": 57
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 50
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 46
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 40
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 39
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 41
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 54
+    },
+    {
+      "date": "1991-09-21",
+      "rank": 53
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 62
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 72
+    },
+    {
+      "date": "1991-10-12",
+      "rank": 87
+    },
+    {
+      "date": "1991-10-19",
+      "rank": 92
+    },
+    {
+      "date": "1991-10-26",
+      "rank": 101
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 104
+    },
+    {
+      "date": "1991-11-09",
+      "rank": 119
+    },
+    {
+      "date": "1991-11-16",
+      "rank": 123
+    },
+    {
+      "date": "1991-11-23",
+      "rank": 141
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 160
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 150
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 159
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 194
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 194
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 187
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 197
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stand by My Woman",
+      "id": "stand-by-my-woman-lenny-kravitz"
+    },
+    {
+      "title": "It Ain’t Over ’Til It’s Over",
+      "id": "it-ain-t-over-til-it-s-over-lenny-kravitz"
+    },
+    {
+      "title": "Fields of Joy",
+      "id": null
+    },
+    {
+      "title": "Always on the Run",
+      "id": null
+    },
+    {
+      "title": "More Than Anything in This World",
+      "id": null
+    },
+    {
+      "title": "What Goes Around Comes Around",
+      "id": null
+    },
+    {
+      "title": "The Difference Is Why",
+      "id": null
+    },
+    {
+      "title": "Stop Draggin’ Around",
+      "id": null
+    },
+    {
+      "title": "Flowers for Zoë",
+      "id": null
+    },
+    {
+      "title": "Fields of Joy (reprise)",
+      "id": null
+    },
+    {
+      "title": "All I Ever Wanted",
+      "id": null
+    },
+    {
+      "title": "When the Morning Turns to Night",
+      "id": null
+    },
+    {
+      "title": "What the Fuck Are We Saying?",
+      "id": null
+    },
+    {
+      "title": "Butterfly",
+      "id": null
+    }
+  ]
+}

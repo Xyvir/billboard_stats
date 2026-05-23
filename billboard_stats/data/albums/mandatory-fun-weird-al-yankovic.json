@@ -1,1 +1,106 @@
-{"id": "mandatory-fun-weird-al-yankovic", "title": "Mandatory Fun", "artist": "\"Weird Al\" Yankovic", "peak": 1, "history": [{"date": "2014-08-02", "rank": 1}, {"date": "2014-08-09", "rank": 3}, {"date": "2014-08-16", "rank": 14}, {"date": "2014-08-23", "rank": 18}, {"date": "2014-08-30", "rank": 34}, {"date": "2014-09-06", "rank": 31}, {"date": "2014-09-13", "rank": 52}, {"date": "2014-09-20", "rank": 63}, {"date": "2014-09-27", "rank": 97}, {"date": "2014-10-04", "rank": 129}, {"date": "2014-10-11", "rank": 85}, {"date": "2014-10-18", "rank": 186}]}
+{
+  "id": "mandatory-fun-weird-al-yankovic",
+  "title": "Mandatory Fun",
+  "artist": "\"Weird Al\" Yankovic",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2014-08-02",
+      "rank": 1
+    },
+    {
+      "date": "2014-08-09",
+      "rank": 3
+    },
+    {
+      "date": "2014-08-16",
+      "rank": 14
+    },
+    {
+      "date": "2014-08-23",
+      "rank": 18
+    },
+    {
+      "date": "2014-08-30",
+      "rank": 34
+    },
+    {
+      "date": "2014-09-06",
+      "rank": 31
+    },
+    {
+      "date": "2014-09-13",
+      "rank": 52
+    },
+    {
+      "date": "2014-09-20",
+      "rank": 63
+    },
+    {
+      "date": "2014-09-27",
+      "rank": 97
+    },
+    {
+      "date": "2014-10-04",
+      "rank": 129
+    },
+    {
+      "date": "2014-10-11",
+      "rank": 85
+    },
+    {
+      "date": "2014-10-18",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Word Crimes",
+      "id": "word-crimes-weird-al-yankovic"
+    },
+    {
+      "title": "Tacky",
+      "id": "ricky-weird-al-yankovic"
+    },
+    {
+      "title": "Handy",
+      "id": null
+    },
+    {
+      "title": "Lame Claim to Fame",
+      "id": null
+    },
+    {
+      "title": "Foil",
+      "id": null
+    },
+    {
+      "title": "Sports Song",
+      "id": null
+    },
+    {
+      "title": "My Own Eyes",
+      "id": null
+    },
+    {
+      "title": "NOW That’s What I Call Polka!",
+      "id": null
+    },
+    {
+      "title": "Mission Statement",
+      "id": null
+    },
+    {
+      "title": "Inactive",
+      "id": null
+    },
+    {
+      "title": "First World Problems",
+      "id": null
+    },
+    {
+      "title": "Jackson Park Express",
+      "id": null
+    }
+  ]
+}
