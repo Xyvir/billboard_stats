@@ -1,1 +1,114 @@
-{"id": "iii-guy", "title": "III", "artist": "Guy", "peak": 13, "history": [{"date": "2000-02-12", "rank": 13}, {"date": "2000-02-19", "rank": 30}, {"date": "2000-02-26", "rank": 47}, {"date": "2000-03-04", "rank": 58}, {"date": "2000-03-11", "rank": 69}, {"date": "2000-03-18", "rank": 86}, {"date": "2000-03-25", "rank": 102}, {"date": "2000-04-01", "rank": 117}, {"date": "2000-04-08", "rank": 145}, {"date": "2000-04-15", "rank": 162}]}
+{
+  "id": "iii-guy",
+  "title": "III",
+  "artist": "Guy",
+  "peak": 13,
+  "history": [
+    {
+      "date": "2000-02-12",
+      "rank": 13
+    },
+    {
+      "date": "2000-02-19",
+      "rank": 30
+    },
+    {
+      "date": "2000-02-26",
+      "rank": 47
+    },
+    {
+      "date": "2000-03-04",
+      "rank": 58
+    },
+    {
+      "date": "2000-03-11",
+      "rank": 69
+    },
+    {
+      "date": "2000-03-18",
+      "rank": 86
+    },
+    {
+      "date": "2000-03-25",
+      "rank": 102
+    },
+    {
+      "date": "2000-04-01",
+      "rank": 117
+    },
+    {
+      "date": "2000-04-08",
+      "rank": 145
+    },
+    {
+      "date": "2000-04-15",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dancin’",
+      "id": "dancin-guy"
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "The Best",
+      "id": null
+    },
+    {
+      "title": "We're Comin",
+      "id": null
+    },
+    {
+      "title": "Rescue Me",
+      "id": null
+    },
+    {
+      "title": "Teddy's Jam III",
+      "id": null
+    },
+    {
+      "title": "Do It",
+      "id": null
+    },
+    {
+      "title": "Why You Wanna Keep Me From My Baby",
+      "id": null
+    },
+    {
+      "title": "Tellin Me No",
+      "id": null
+    },
+    {
+      "title": "Not a Day",
+      "id": null
+    },
+    {
+      "title": "Love Online",
+      "id": null
+    },
+    {
+      "title": "Spend Time",
+      "id": null
+    },
+    {
+      "title": "Don't U Miss Me",
+      "id": null
+    },
+    {
+      "title": "2004",
+      "id": null
+    },
+    {
+      "title": "Fly Away",
+      "id": null
+    },
+    {
+      "title": "Someday",
+      "id": null
+    }
+  ]
+}
