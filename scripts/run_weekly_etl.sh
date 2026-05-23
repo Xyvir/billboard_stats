@@ -10,3 +10,6 @@ echo "Bypassing Postgres checks. Running local JSON ETL..."
 # We stripped out the entire block checking for required_vars.
 # Now it just blindly runs the Python updater.
 python -m billboard_stats.etl.updater "$@"
+
+echo "Hydrating any newly discovered albums..."
+python hydrate_orchestrator.py

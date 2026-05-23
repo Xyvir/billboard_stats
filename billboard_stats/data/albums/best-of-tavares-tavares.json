@@ -1,1 +1,90 @@
-{"id": "best-of-tavares-tavares", "title": "Best Of Tavares", "artist": "Tavares", "peak": 72, "history": [{"date": "1977-10-15", "rank": 159}, {"date": "1977-10-22", "rank": 124}, {"date": "1977-10-29", "rank": 114}, {"date": "1977-11-05", "rank": 104}, {"date": "1977-11-12", "rank": 92}, {"date": "1977-11-19", "rank": 82}, {"date": "1977-11-26", "rank": 72}, {"date": "1977-12-03", "rank": 72}, {"date": "1977-12-10", "rank": 146}, {"date": "1977-12-17", "rank": 191}]}
+{
+  "id": "best-of-tavares-tavares",
+  "title": "Best Of Tavares",
+  "artist": "Tavares",
+  "peak": 72,
+  "history": [
+    {
+      "date": "1977-10-15",
+      "rank": 159
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 124
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 114
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 104
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 92
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 82
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 72
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 72
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 146
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It Only Takes a Minute",
+      "id": "it-only-takes-a-minute-tavares"
+    },
+    {
+      "title": "She’s Gone",
+      "id": "she-s-gone-tavares"
+    },
+    {
+      "title": "Remember What I Told You to Forget",
+      "id": "remember-what-i-told-you-to-forget-my-ship-tavares"
+    },
+    {
+      "title": "Whodunit",
+      "id": "whodunit-tavares"
+    },
+    {
+      "title": "Heaven Must Be Missing an Angel",
+      "id": "heaven-must-be-missing-an-angel-part-1-tavares"
+    },
+    {
+      "title": "More Than a Woman",
+      "id": "more-than-a-woman-tavares"
+    },
+    {
+      "title": "Free Ride",
+      "id": "free-ride-tavares"
+    },
+    {
+      "title": "Check It Out",
+      "id": "check-it-out-tavares"
+    },
+    {
+      "title": "Never Had a Love Like This Before",
+      "id": null
+    },
+    {
+      "title": "Bad Times (Theme From Defiance)",
+      "id": null
+    }
+  ]
+}
