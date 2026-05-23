@@ -1,1 +1,90 @@
-{"id": "galeria-caribe-ricardo-arjona", "title": "Galeria Caribe", "artist": "Ricardo Arjona", "peak": 136, "history": [{"date": "2000-09-16", "rank": 136}, {"date": "2000-09-23", "rank": 170}, {"date": "2001-10-06", "rank": 185}]}
+{
+  "id": "galeria-caribe-ricardo-arjona",
+  "title": "Galeria Caribe",
+  "artist": "Ricardo Arjona",
+  "peak": 136,
+  "history": [
+    {
+      "date": "2000-09-16",
+      "rank": 136
+    },
+    {
+      "date": "2000-09-23",
+      "rank": 170
+    },
+    {
+      "date": "2001-10-06",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Carabelas",
+      "id": null
+    },
+    {
+      "title": "Mujer de Guanahani",
+      "id": null
+    },
+    {
+      "title": "Lo poco que queda de mí",
+      "id": null
+    },
+    {
+      "title": "Un Caribe en Nueva York",
+      "id": null
+    },
+    {
+      "title": "Cuándo",
+      "id": null
+    },
+    {
+      "title": "Receta",
+      "id": null
+    },
+    {
+      "title": "Solo quería un café",
+      "id": null
+    },
+    {
+      "title": "Mesías",
+      "id": null
+    },
+    {
+      "title": "Te enamoraste de ti",
+      "id": null
+    },
+    {
+      "title": "Lo poco que queda de mí (versión acústica)",
+      "id": null
+    },
+    {
+      "title": "Si usted la viera (El confesor)",
+      "id": null
+    },
+    {
+      "title": "Receta (versión acústica)",
+      "id": null
+    },
+    {
+      "title": "Pensar en ti",
+      "id": null
+    },
+    {
+      "title": "Pensar en ti (versión acústica)",
+      "id": null
+    },
+    {
+      "title": "Te enamoraste de ti (versión acústica)",
+      "id": null
+    },
+    {
+      "title": "Solo quería un café (versión acústica)",
+      "id": null
+    },
+    {
+      "title": "Porque hablamos",
+      "id": null
+    }
+  ]
+}
