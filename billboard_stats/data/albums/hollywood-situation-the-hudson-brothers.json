@@ -1,1 +1,70 @@
-{"id": "hollywood-situation-the-hudson-brothers", "title": "Hollywood Situation", "artist": "The Hudson Brothers", "peak": 176, "history": [{"date": "1974-12-07", "rank": 180}, {"date": "1974-12-14", "rank": 176}, {"date": "1974-12-21", "rank": 176}, {"date": "1974-12-28", "rank": 179}]}
+{
+  "id": "hollywood-situation-the-hudson-brothers",
+  "title": "Hollywood Situation",
+  "artist": "The Hudson Brothers",
+  "peak": 176,
+  "history": [
+    {
+      "date": "1974-12-07",
+      "rank": 180
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 176
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 176
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "So You Are a Star",
+      "id": "so-you-are-a-star-the-hudson-brothers"
+    },
+    {
+      "title": "Hollywood Situation",
+      "id": null
+    },
+    {
+      "title": "Ma Ma Ma Baby",
+      "id": null
+    },
+    {
+      "title": "Strike Up the Boys in the Band",
+      "id": null
+    },
+    {
+      "title": "Coochie Coochie Coo",
+      "id": null
+    },
+    {
+      "title": "Sometimes the Rain Will Fall",
+      "id": null
+    },
+    {
+      "title": "The Adventures of Chucky Margolis",
+      "id": null
+    },
+    {
+      "title": "Three of Us",
+      "id": null
+    },
+    {
+      "title": "Song for Stephanie",
+      "id": null
+    },
+    {
+      "title": "Cry, Cry, Cry",
+      "id": null
+    },
+    {
+      "title": "Razzle Dazzle",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "hollywood-party-tonight-odyssey", "title": "Hollywood Party Tonight", "artist": "Odyssey", "peak": 123, "history": [{"date": "1978-11-11", "rank": 141}, {"date": "1978-11-18", "rank": 131}, {"date": "1978-11-25", "rank": 123}, {"date": "1978-12-02", "rank": 123}, {"date": "1978-12-09", "rank": 143}]}
+{
+  "id": "hollywood-party-tonight-odyssey",
+  "title": "Hollywood Party Tonight",
+  "artist": "Odyssey",
+  "peak": 123,
+  "history": [
+    {
+      "date": "1978-11-11",
+      "rank": 141
+    },
+    {
+      "date": "1978-11-18",
+      "rank": 131
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 123
+    },
+    {
+      "date": "1978-12-02",
+      "rank": 123
+    },
+    {
+      "date": "1978-12-09",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Single Again / What Time Does the Ballon Go Up",
+      "id": null
+    },
+    {
+      "title": "Pride",
+      "id": null
+    },
+    {
+      "title": "You Wouldn't Know a Real Live True Love If It Walked Right Up, Kissed You on the Cheek and Said Hello Baby",
+      "id": null
+    },
+    {
+      "title": "Hey Bill (Last Night Was Really a Thrill)",
+      "id": null
+    },
+    {
+      "title": "Lily & Harvey, Late to the Party Again",
+      "id": null
+    },
+    {
+      "title": "Lucky Star",
+      "id": null
+    },
+    {
+      "title": "Comin' Back for More",
+      "id": null
+    },
+    {
+      "title": "I Dare Ya",
+      "id": null
+    }
+  ]
+}

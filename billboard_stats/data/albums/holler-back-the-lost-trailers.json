@@ -1,1 +1,66 @@
-{"id": "holler-back-the-lost-trailers", "title": "Holler Back", "artist": "The Lost Trailers", "peak": 32, "history": [{"date": "2008-09-13", "rank": 32}, {"date": "2008-09-20", "rank": 81}, {"date": "2008-09-27", "rank": 130}, {"date": "2008-10-04", "rank": 162}]}
+{
+  "id": "holler-back-the-lost-trailers",
+  "title": "Holler Back",
+  "artist": "The Lost Trailers",
+  "peak": 32,
+  "history": [
+    {
+      "date": "2008-09-13",
+      "rank": 32
+    },
+    {
+      "date": "2008-09-20",
+      "rank": 81
+    },
+    {
+      "date": "2008-09-27",
+      "rank": 130
+    },
+    {
+      "date": "2008-10-04",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Holler Back",
+      "id": "holler-back-the-lost-trailers"
+    },
+    {
+      "title": "How Bout You Don't",
+      "id": null
+    },
+    {
+      "title": "Blacktop Road",
+      "id": null
+    },
+    {
+      "title": "Country Folks (Livin' Loud)",
+      "id": null
+    },
+    {
+      "title": "Things You Don't Grow Out Of",
+      "id": null
+    },
+    {
+      "title": "Hey Baby",
+      "id": null
+    },
+    {
+      "title": "The Rest of Us",
+      "id": null
+    },
+    {
+      "title": "All This Love",
+      "id": null
+    },
+    {
+      "title": "Summer of Love",
+      "id": null
+    },
+    {
+      "title": "Gravy",
+      "id": null
+    }
+  ]
+}
