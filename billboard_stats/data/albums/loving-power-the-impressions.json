@@ -1,1 +1,50 @@
-{"id": "loving-power-the-impressions", "title": "Loving Power", "artist": "The Impressions", "peak": 195, "history": [{"date": "1976-03-13", "rank": 199}, {"date": "1976-03-20", "rank": 197}, {"date": "1976-03-27", "rank": 195}]}
+{
+  "id": "loving-power-the-impressions",
+  "title": "Loving Power",
+  "artist": "The Impressions",
+  "peak": 195,
+  "history": [
+    {
+      "date": "1976-03-13",
+      "rank": 199
+    },
+    {
+      "date": "1976-03-20",
+      "rank": 197
+    },
+    {
+      "date": "1976-03-27",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Can't Wait to See You",
+      "id": "i-can-t-stay-away-from-you-the-impressions"
+    },
+    {
+      "title": "Keep on Trying",
+      "id": "keep-on-pushing-the-impressions"
+    },
+    {
+      "title": "Loving Power",
+      "id": null
+    },
+    {
+      "title": "Sunshine",
+      "id": null
+    },
+    {
+      "title": "If You Have to Ask",
+      "id": null
+    },
+    {
+      "title": "You Can't Be Wrong (All the Time)",
+      "id": null
+    },
+    {
+      "title": "I Wish I'd Stayed in Bed",
+      "id": null
+    }
+  ]
+}

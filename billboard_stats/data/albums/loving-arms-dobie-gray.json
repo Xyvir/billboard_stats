@@ -1,1 +1,62 @@
-{"id": "loving-arms-dobie-gray", "title": "Loving Arms", "artist": "Dobie Gray", "peak": 188, "history": [{"date": "1973-11-10", "rank": 192}, {"date": "1973-11-17", "rank": 188}, {"date": "1973-11-24", "rank": 188}]}
+{
+  "id": "loving-arms-dobie-gray",
+  "title": "Loving Arms",
+  "artist": "Dobie Gray",
+  "peak": 188,
+  "history": [
+    {
+      "date": "1973-11-10",
+      "rank": 192
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 188
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You and Me",
+      "id": "you-can-do-it-dobie-gray"
+    },
+    {
+      "title": "Loving Arms",
+      "id": "loving-arms-dobie-gray"
+    },
+    {
+      "title": "Good Old Song",
+      "id": null
+    },
+    {
+      "title": "I Never Had It So Good",
+      "id": null
+    },
+    {
+      "title": "Lovin' the Easy Way",
+      "id": null
+    },
+    {
+      "title": "Reachin' for the Feeling",
+      "id": null
+    },
+    {
+      "title": "There's a Honky Tonk Angel (Who'll take Me Back in)",
+      "id": null
+    },
+    {
+      "title": "Mississippi Rolling Stone",
+      "id": null
+    },
+    {
+      "title": "Love Is on the Line",
+      "id": null
+    },
+    {
+      "title": "Rose",
+      "id": null
+    }
+  ]
+}
