@@ -1,1 +1,230 @@
-{"id": "larger-than-life-brent-faiyaz", "title": "Larger Than Life", "artist": "Brent Faiyaz", "peak": 11, "history": [{"date": "2023-11-11", "rank": 11}, {"date": "2023-11-18", "rank": 31}, {"date": "2023-11-25", "rank": 67}, {"date": "2023-12-02", "rank": 106}, {"date": "2023-12-09", "rank": 138}, {"date": "2023-12-16", "rank": 143}, {"date": "2023-12-23", "rank": 150}, {"date": "2023-12-30", "rank": 175}, {"date": "2024-01-06", "rank": 190}, {"date": "2024-01-13", "rank": 121}, {"date": "2024-01-20", "rank": 122}, {"date": "2024-01-27", "rank": 117}, {"date": "2024-02-03", "rank": 101}, {"date": "2024-02-10", "rank": 111}, {"date": "2024-02-17", "rank": 120}, {"date": "2024-02-24", "rank": 121}, {"date": "2024-03-02", "rank": 116}, {"date": "2024-03-09", "rank": 122}, {"date": "2024-03-16", "rank": 140}, {"date": "2024-03-23", "rank": 143}, {"date": "2024-03-30", "rank": 144}, {"date": "2024-04-06", "rank": 165}, {"date": "2024-04-13", "rank": 173}, {"date": "2024-04-20", "rank": 168}, {"date": "2024-04-27", "rank": 167}, {"date": "2024-05-04", "rank": 138}, {"date": "2024-05-11", "rank": 100}, {"date": "2024-05-18", "rank": 108}, {"date": "2024-05-25", "rank": 127}, {"date": "2024-06-01", "rank": 159}, {"date": "2024-06-08", "rank": 180}, {"date": "2024-06-15", "rank": 193}, {"date": "2024-08-31", "rank": 193}, {"date": "2024-09-07", "rank": 198}, {"date": "2024-10-05", "rank": 137}, {"date": "2024-10-12", "rank": 180}, {"date": "2024-10-19", "rank": 192}, {"date": "2024-10-26", "rank": 173}, {"date": "2024-11-02", "rank": 168}, {"date": "2024-11-09", "rank": 160}, {"date": "2024-11-16", "rank": 197}]}
+{
+  "id": "larger-than-life-brent-faiyaz",
+  "title": "Larger Than Life",
+  "artist": "Brent Faiyaz",
+  "peak": 11,
+  "history": [
+    {
+      "date": "2023-11-11",
+      "rank": 11
+    },
+    {
+      "date": "2023-11-18",
+      "rank": 31
+    },
+    {
+      "date": "2023-11-25",
+      "rank": 67
+    },
+    {
+      "date": "2023-12-02",
+      "rank": 106
+    },
+    {
+      "date": "2023-12-09",
+      "rank": 138
+    },
+    {
+      "date": "2023-12-16",
+      "rank": 143
+    },
+    {
+      "date": "2023-12-23",
+      "rank": 150
+    },
+    {
+      "date": "2023-12-30",
+      "rank": 175
+    },
+    {
+      "date": "2024-01-06",
+      "rank": 190
+    },
+    {
+      "date": "2024-01-13",
+      "rank": 121
+    },
+    {
+      "date": "2024-01-20",
+      "rank": 122
+    },
+    {
+      "date": "2024-01-27",
+      "rank": 117
+    },
+    {
+      "date": "2024-02-03",
+      "rank": 101
+    },
+    {
+      "date": "2024-02-10",
+      "rank": 111
+    },
+    {
+      "date": "2024-02-17",
+      "rank": 120
+    },
+    {
+      "date": "2024-02-24",
+      "rank": 121
+    },
+    {
+      "date": "2024-03-02",
+      "rank": 116
+    },
+    {
+      "date": "2024-03-09",
+      "rank": 122
+    },
+    {
+      "date": "2024-03-16",
+      "rank": 140
+    },
+    {
+      "date": "2024-03-23",
+      "rank": 143
+    },
+    {
+      "date": "2024-03-30",
+      "rank": 144
+    },
+    {
+      "date": "2024-04-06",
+      "rank": 165
+    },
+    {
+      "date": "2024-04-13",
+      "rank": 173
+    },
+    {
+      "date": "2024-04-20",
+      "rank": 168
+    },
+    {
+      "date": "2024-04-27",
+      "rank": 167
+    },
+    {
+      "date": "2024-05-04",
+      "rank": 138
+    },
+    {
+      "date": "2024-05-11",
+      "rank": 100
+    },
+    {
+      "date": "2024-05-18",
+      "rank": 108
+    },
+    {
+      "date": "2024-05-25",
+      "rank": 127
+    },
+    {
+      "date": "2024-06-01",
+      "rank": 159
+    },
+    {
+      "date": "2024-06-08",
+      "rank": 180
+    },
+    {
+      "date": "2024-06-15",
+      "rank": 193
+    },
+    {
+      "date": "2024-08-31",
+      "rank": 193
+    },
+    {
+      "date": "2024-09-07",
+      "rank": 198
+    },
+    {
+      "date": "2024-10-05",
+      "rank": 137
+    },
+    {
+      "date": "2024-10-12",
+      "rank": 180
+    },
+    {
+      "date": "2024-10-19",
+      "rank": 192
+    },
+    {
+      "date": "2024-10-26",
+      "rank": 173
+    },
+    {
+      "date": "2024-11-02",
+      "rank": 168
+    },
+    {
+      "date": "2024-11-09",
+      "rank": 160
+    },
+    {
+      "date": "2024-11-16",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "On This Side",
+      "id": "other-side-brent-faiyaz"
+    },
+    {
+      "title": "Tim's Intro",
+      "id": null
+    },
+    {
+      "title": "Last One Left",
+      "id": null
+    },
+    {
+      "title": "Forever Yours",
+      "id": null
+    },
+    {
+      "title": "Best Time",
+      "id": null
+    },
+    {
+      "title": "Big Mad Skit",
+      "id": null
+    },
+    {
+      "title": "Moment of Your Life",
+      "id": null
+    },
+    {
+      "title": "Outside All Night",
+      "id": null
+    },
+    {
+      "title": "Wherever I Go",
+      "id": null
+    },
+    {
+      "title": "Upset",
+      "id": null
+    },
+    {
+      "title": "Dawged Em Skit",
+      "id": null
+    },
+    {
+      "title": "Belong To You",
+      "id": null
+    },
+    {
+      "title": "WY@",
+      "id": null
+    },
+    {
+      "title": "Pistachios",
+      "id": null
+    }
+  ]
+}

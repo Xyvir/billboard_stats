@@ -1,1 +1,242 @@
-{"id": "la-sexorcisto-devil-music-vol-1-white-zombie", "title": "La Sexorcisto: Devil Music Vol. 1", "artist": "White Zombie", "peak": 26, "history": [{"date": "1993-07-17", "rank": 195}, {"date": "1993-07-24", "rank": 155}, {"date": "1993-07-31", "rank": 140}, {"date": "1993-08-07", "rank": 111}, {"date": "1993-08-14", "rank": 121}, {"date": "1993-08-21", "rank": 93}, {"date": "1993-08-28", "rank": 78}, {"date": "1993-09-04", "rank": 64}, {"date": "1993-09-11", "rank": 67}, {"date": "1993-09-18", "rank": 55}, {"date": "1993-09-25", "rank": 42}, {"date": "1993-10-02", "rank": 37}, {"date": "1993-10-09", "rank": 34}, {"date": "1993-10-16", "rank": 35}, {"date": "1993-10-23", "rank": 26}, {"date": "1993-10-30", "rank": 26}, {"date": "1993-11-06", "rank": 30}, {"date": "1993-11-13", "rank": 32}, {"date": "1993-11-20", "rank": 29}, {"date": "1993-11-27", "rank": 36}, {"date": "1993-12-04", "rank": 41}, {"date": "1993-12-11", "rank": 48}, {"date": "1993-12-18", "rank": 55}, {"date": "1993-12-25", "rank": 67}, {"date": "1994-01-01", "rank": 68}, {"date": "1994-01-08", "rank": 59}, {"date": "1994-01-15", "rank": 45}, {"date": "1994-01-22", "rank": 62}, {"date": "1994-01-29", "rank": 61}, {"date": "1994-02-05", "rank": 58}, {"date": "1994-02-12", "rank": 64}, {"date": "1994-02-19", "rank": 69}, {"date": "1994-02-26", "rank": 70}, {"date": "1994-03-05", "rank": 81}, {"date": "1994-03-12", "rank": 79}, {"date": "1994-03-19", "rank": 91}, {"date": "1994-03-26", "rank": 97}, {"date": "1994-04-02", "rank": 117}, {"date": "1994-04-09", "rank": 127}, {"date": "1994-04-16", "rank": 145}, {"date": "1994-04-23", "rank": 158}, {"date": "1994-04-30", "rank": 176}, {"date": "1994-05-07", "rank": 175}, {"date": "1994-05-14", "rank": 185}]}
+{
+  "id": "la-sexorcisto-devil-music-vol-1-white-zombie",
+  "title": "La Sexorcisto: Devil Music Vol. 1",
+  "artist": "White Zombie",
+  "peak": 26,
+  "history": [
+    {
+      "date": "1993-07-17",
+      "rank": 195
+    },
+    {
+      "date": "1993-07-24",
+      "rank": 155
+    },
+    {
+      "date": "1993-07-31",
+      "rank": 140
+    },
+    {
+      "date": "1993-08-07",
+      "rank": 111
+    },
+    {
+      "date": "1993-08-14",
+      "rank": 121
+    },
+    {
+      "date": "1993-08-21",
+      "rank": 93
+    },
+    {
+      "date": "1993-08-28",
+      "rank": 78
+    },
+    {
+      "date": "1993-09-04",
+      "rank": 64
+    },
+    {
+      "date": "1993-09-11",
+      "rank": 67
+    },
+    {
+      "date": "1993-09-18",
+      "rank": 55
+    },
+    {
+      "date": "1993-09-25",
+      "rank": 42
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 37
+    },
+    {
+      "date": "1993-10-09",
+      "rank": 34
+    },
+    {
+      "date": "1993-10-16",
+      "rank": 35
+    },
+    {
+      "date": "1993-10-23",
+      "rank": 26
+    },
+    {
+      "date": "1993-10-30",
+      "rank": 26
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 30
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 32
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 29
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 36
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 41
+    },
+    {
+      "date": "1993-12-11",
+      "rank": 48
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 55
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 67
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 68
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 59
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 45
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 62
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 61
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 58
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 64
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 69
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 70
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 81
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 79
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 91
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 97
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 117
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 127
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 145
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 158
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 176
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 175
+    },
+    {
+      "date": "1994-05-14",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Welcome to Planet Motherfucker / Psychoholic Slag",
+      "id": null
+    },
+    {
+      "title": "Knuckle Duster (Radio 1‐A)",
+      "id": null
+    },
+    {
+      "title": "Thunder Kiss ’65",
+      "id": null
+    },
+    {
+      "title": "Black Sunshine",
+      "id": null
+    },
+    {
+      "title": "Soul‐Crusher",
+      "id": null
+    },
+    {
+      "title": "Cosmic Monsters Inc.",
+      "id": null
+    },
+    {
+      "title": "Spiderbaby (Yeah‐Yeah‐Yeah)",
+      "id": null
+    },
+    {
+      "title": "I Am Legend",
+      "id": null
+    },
+    {
+      "title": "Knuckle Duster (Radio 2‐B)",
+      "id": null
+    },
+    {
+      "title": "Thrust!",
+      "id": null
+    },
+    {
+      "title": "One Big Crunch",
+      "id": null
+    },
+    {
+      "title": "Grindhouse (A Go‐Go)",
+      "id": null
+    },
+    {
+      "title": "Starface",
+      "id": null
+    },
+    {
+      "title": "Warp Asylum",
+      "id": null
+    }
+  ]
+}

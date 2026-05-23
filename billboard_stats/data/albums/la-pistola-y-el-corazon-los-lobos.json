@@ -1,1 +1,62 @@
-{"id": "la-pistola-y-el-corazon-los-lobos", "title": "La Pistola Y El Corazon", "artist": "Los Lobos", "peak": 179, "history": [{"date": "1988-11-05", "rank": 183}, {"date": "1988-11-12", "rank": 183}, {"date": "1988-11-19", "rank": 179}, {"date": "1988-11-26", "rank": 179}]}
+{
+  "id": "la-pistola-y-el-corazon-los-lobos",
+  "title": "La Pistola Y El Corazon",
+  "artist": "Los Lobos",
+  "peak": 179,
+  "history": [
+    {
+      "date": "1988-11-05",
+      "rank": 183
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 183
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 179
+    },
+    {
+      "date": "1988-11-26",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "La guacamaya",
+      "id": "la-bamba-los-lobos"
+    },
+    {
+      "title": "Las amarillas",
+      "id": null
+    },
+    {
+      "title": "Si yo quisiera",
+      "id": null
+    },
+    {
+      "title": "(Sonajas) Mañanitas michoacanas",
+      "id": null
+    },
+    {
+      "title": "Estoy sentado aquí",
+      "id": null
+    },
+    {
+      "title": "El gusto",
+      "id": null
+    },
+    {
+      "title": "Que nadie sepa mi sufrir",
+      "id": null
+    },
+    {
+      "title": "El canelo",
+      "id": null
+    },
+    {
+      "title": "La pistola y el corazón",
+      "id": null
+    }
+  ]
+}

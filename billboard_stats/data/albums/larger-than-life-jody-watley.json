@@ -1,1 +1,218 @@
-{"id": "larger-than-life-jody-watley", "title": "Larger Than Life", "artist": "Jody Watley", "peak": 16, "history": [{"date": "1989-04-15", "rank": 70}, {"date": "1989-04-22", "rank": 30}, {"date": "1989-04-29", "rank": 20}, {"date": "1989-05-06", "rank": 17}, {"date": "1989-05-13", "rank": 17}, {"date": "1989-05-20", "rank": 16}, {"date": "1989-05-27", "rank": 16}, {"date": "1989-06-03", "rank": 20}, {"date": "1989-06-10", "rank": 20}, {"date": "1989-06-17", "rank": 20}, {"date": "1989-06-24", "rank": 23}, {"date": "1989-07-01", "rank": 22}, {"date": "1989-07-08", "rank": 25}, {"date": "1989-07-15", "rank": 34}, {"date": "1989-07-22", "rank": 33}, {"date": "1989-07-29", "rank": 36}, {"date": "1989-08-05", "rank": 40}, {"date": "1989-08-12", "rank": 40}, {"date": "1989-08-19", "rank": 43}, {"date": "1989-08-26", "rank": 47}, {"date": "1989-09-02", "rank": 59}, {"date": "1989-09-09", "rank": 70}, {"date": "1989-09-16", "rank": 78}, {"date": "1989-09-23", "rank": 99}, {"date": "1989-09-30", "rank": 114}, {"date": "1989-10-07", "rank": 136}, {"date": "1989-10-14", "rank": 152}, {"date": "1989-10-21", "rank": 160}, {"date": "1989-10-28", "rank": 173}, {"date": "1989-11-04", "rank": 177}, {"date": "1989-11-11", "rank": 138}, {"date": "1989-11-18", "rank": 152}, {"date": "1989-11-25", "rank": 129}, {"date": "1989-12-02", "rank": 121}, {"date": "1989-12-09", "rank": 141}, {"date": "1989-12-16", "rank": 160}, {"date": "1989-12-23", "rank": 177}, {"date": "1989-12-30", "rank": 187}, {"date": "1990-01-06", "rank": 187}, {"date": "1990-01-13", "rank": 199}]}
+{
+  "id": "larger-than-life-jody-watley",
+  "title": "Larger Than Life",
+  "artist": "Jody Watley",
+  "peak": 16,
+  "history": [
+    {
+      "date": "1989-04-15",
+      "rank": 70
+    },
+    {
+      "date": "1989-04-22",
+      "rank": 30
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 20
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 17
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 17
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 16
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 16
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 20
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 20
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 20
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 23
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 22
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 25
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 34
+    },
+    {
+      "date": "1989-07-22",
+      "rank": 33
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 36
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 40
+    },
+    {
+      "date": "1989-08-12",
+      "rank": 40
+    },
+    {
+      "date": "1989-08-19",
+      "rank": 43
+    },
+    {
+      "date": "1989-08-26",
+      "rank": 47
+    },
+    {
+      "date": "1989-09-02",
+      "rank": 59
+    },
+    {
+      "date": "1989-09-09",
+      "rank": 70
+    },
+    {
+      "date": "1989-09-16",
+      "rank": 78
+    },
+    {
+      "date": "1989-09-23",
+      "rank": 99
+    },
+    {
+      "date": "1989-09-30",
+      "rank": 114
+    },
+    {
+      "date": "1989-10-07",
+      "rank": 136
+    },
+    {
+      "date": "1989-10-14",
+      "rank": 152
+    },
+    {
+      "date": "1989-10-21",
+      "rank": 160
+    },
+    {
+      "date": "1989-10-28",
+      "rank": 173
+    },
+    {
+      "date": "1989-11-04",
+      "rank": 177
+    },
+    {
+      "date": "1989-11-11",
+      "rank": 138
+    },
+    {
+      "date": "1989-11-18",
+      "rank": 152
+    },
+    {
+      "date": "1989-11-25",
+      "rank": 129
+    },
+    {
+      "date": "1989-12-02",
+      "rank": 121
+    },
+    {
+      "date": "1989-12-09",
+      "rank": 141
+    },
+    {
+      "date": "1989-12-16",
+      "rank": 160
+    },
+    {
+      "date": "1989-12-23",
+      "rank": 177
+    },
+    {
+      "date": "1989-12-30",
+      "rank": 187
+    },
+    {
+      "date": "1990-01-06",
+      "rank": 187
+    },
+    {
+      "date": "1990-01-13",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Real Love",
+      "id": "real-love-jody-watley"
+    },
+    {
+      "title": "Everything",
+      "id": "everything-jody-watley"
+    },
+    {
+      "title": "Precious Love",
+      "id": "precious-love-jody-watley"
+    },
+    {
+      "title": "Friends",
+      "id": null
+    },
+    {
+      "title": "What'cha Gonna Do for Me",
+      "id": null
+    },
+    {
+      "title": "L.O.V.E.R.",
+      "id": null
+    },
+    {
+      "title": "For Love's Sake",
+      "id": null
+    },
+    {
+      "title": "Lifestyle",
+      "id": null
+    },
+    {
+      "title": "Something New",
+      "id": null
+    },
+    {
+      "title": "Once You Leave",
+      "id": null
+    },
+    {
+      "title": "Come Into My Life",
+      "id": null
+    },
+    {
+      "title": "Only You",
+      "id": null
+    }
+  ]
+}
