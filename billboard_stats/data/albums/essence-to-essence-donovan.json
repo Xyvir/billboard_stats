@@ -1,1 +1,74 @@
-{"id": "essence-to-essence-donovan", "title": "Essence To Essence", "artist": "Donovan", "peak": 174, "history": [{"date": "1974-02-02", "rank": 192}, {"date": "1974-02-09", "rank": 183}, {"date": "1974-02-16", "rank": 176}, {"date": "1974-02-23", "rank": 174}, {"date": "1974-03-02", "rank": 194}]}
+{
+  "id": "essence-to-essence-donovan",
+  "title": "Essence To Essence",
+  "artist": "Donovan",
+  "peak": 174,
+  "history": [
+    {
+      "date": "1974-02-02",
+      "rank": 192
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 183
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 176
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 174
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "There Is an Ocean",
+      "id": "there-is-a-mountain-donovan"
+    },
+    {
+      "title": "Operating Manual for Spaceship Earth",
+      "id": null
+    },
+    {
+      "title": "Lazy Daze",
+      "id": null
+    },
+    {
+      "title": "Life Goes On",
+      "id": null
+    },
+    {
+      "title": "Dignity of Man",
+      "id": null
+    },
+    {
+      "title": "Yellow Star",
+      "id": null
+    },
+    {
+      "title": "Divine Daze of Deathless Delight",
+      "id": null
+    },
+    {
+      "title": "Boy for Every Girl",
+      "id": null
+    },
+    {
+      "title": "Saint Valentine’s Angel",
+      "id": null
+    },
+    {
+      "title": "Life Is a Merry-Go-Round",
+      "id": null
+    },
+    {
+      "title": "Sailing Homeward",
+      "id": null
+    }
+  ]
+}

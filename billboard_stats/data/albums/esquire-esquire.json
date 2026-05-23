@@ -1,1 +1,70 @@
-{"id": "esquire-esquire", "title": "Esquire", "artist": "Esquire", "peak": 165, "history": [{"date": "1987-03-28", "rank": 191}, {"date": "1987-04-04", "rank": 186}, {"date": "1987-04-11", "rank": 165}, {"date": "1987-04-18", "rank": 165}]}
+{
+  "id": "esquire-esquire",
+  "title": "Esquire",
+  "artist": "Esquire",
+  "peak": 165,
+  "history": [
+    {
+      "date": "1987-03-28",
+      "rank": 191
+    },
+    {
+      "date": "1987-04-04",
+      "rank": 186
+    },
+    {
+      "date": "1987-04-11",
+      "rank": 165
+    },
+    {
+      "date": "1987-04-18",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "To the Rescue",
+      "id": null
+    },
+    {
+      "title": "Sunshine (alternate mix)",
+      "id": null
+    },
+    {
+      "title": "Knock Twice for Heaven",
+      "id": null
+    },
+    {
+      "title": "Up Down Turnaround",
+      "id": null
+    },
+    {
+      "title": "Blossomtime",
+      "id": null
+    },
+    {
+      "title": "Hourglass",
+      "id": null
+    },
+    {
+      "title": "Moving Together",
+      "id": null
+    },
+    {
+      "title": "Silent Future",
+      "id": null
+    },
+    {
+      "title": "Special Greetings",
+      "id": null
+    },
+    {
+      "title": "What You've Been Saying",
+      "id": null
+    },
+    {
+      "title": "Sunshine (original mix)",
+      "id": null
+    }
+  ]
+}
