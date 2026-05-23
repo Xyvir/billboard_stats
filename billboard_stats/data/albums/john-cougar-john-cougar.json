@@ -1,1 +1,166 @@
-{"id": "john-cougar-john-cougar", "title": "John Cougar", "artist": "John Cougar", "peak": 64, "history": [{"date": "1979-08-18", "rank": 185}, {"date": "1979-08-25", "rank": 174}, {"date": "1979-09-01", "rank": 168}, {"date": "1979-09-08", "rank": 166}, {"date": "1979-09-15", "rank": 162}, {"date": "1979-09-22", "rank": 182}, {"date": "1979-09-29", "rank": 178}, {"date": "1979-10-06", "rank": 172}, {"date": "1979-10-13", "rank": 162}, {"date": "1979-10-20", "rank": 153}, {"date": "1979-10-27", "rank": 142}, {"date": "1979-11-03", "rank": 136}, {"date": "1979-11-10", "rank": 125}, {"date": "1979-11-17", "rank": 113}, {"date": "1979-11-24", "rank": 103}, {"date": "1979-12-01", "rank": 94}, {"date": "1979-12-08", "rank": 90}, {"date": "1979-12-15", "rank": 75}, {"date": "1979-12-22", "rank": 66}, {"date": "1979-12-29", "rank": 66}, {"date": "1980-01-05", "rank": 64}, {"date": "1980-01-12", "rank": 64}, {"date": "1980-01-19", "rank": 92}, {"date": "1980-01-26", "rank": 106}, {"date": "1980-02-02", "rank": 110}, {"date": "1980-02-09", "rank": 128}, {"date": "1980-02-16", "rank": 148}, {"date": "1980-02-23", "rank": 148}, {"date": "1980-03-01", "rank": 159}]}
+{
+  "id": "john-cougar-john-cougar",
+  "title": "John Cougar",
+  "artist": "John Cougar",
+  "peak": 64,
+  "history": [
+    {
+      "date": "1979-08-18",
+      "rank": 185
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 174
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 168
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 166
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 162
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 182
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 178
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 172
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 162
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 153
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 142
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 136
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 125
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 113
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 103
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 94
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 90
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 75
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 66
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 66
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 64
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 64
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 92
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 106
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 110
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 128
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 148
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 148
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Small Paradise",
+      "id": "small-paradise-john-cougar"
+    },
+    {
+      "title": "I Need a Lover",
+      "id": "i-need-a-lover-john-cougar"
+    },
+    {
+      "title": "A Little Night Dancin’",
+      "id": null
+    },
+    {
+      "title": "Miami",
+      "id": null
+    },
+    {
+      "title": "Great Mid-West",
+      "id": null
+    },
+    {
+      "title": "Do You Think That’s Fair",
+      "id": null
+    },
+    {
+      "title": "Welcome to Chinatown",
+      "id": null
+    },
+    {
+      "title": "Sugar Marie",
+      "id": null
+    },
+    {
+      "title": "Pray for Me",
+      "id": null
+    },
+    {
+      "title": "Taxi Dancer",
+      "id": null
+    }
+  ]
+}

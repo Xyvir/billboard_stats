@@ -1,1 +1,90 @@
-{"id": "joe-cocker-s-greatest-hits-joe-cocker", "title": "Joe Cocker's Greatest Hits", "artist": "Joe Cocker", "peak": 114, "history": [{"date": "1977-12-10", "rank": 132}, {"date": "1977-12-17", "rank": 119}, {"date": "1977-12-24", "rank": 114}, {"date": "1977-12-31", "rank": 114}, {"date": "1978-01-07", "rank": 124}, {"date": "1978-01-14", "rank": 144}, {"date": "1978-01-21", "rank": 177}, {"date": "1978-01-28", "rank": 189}]}
+{
+  "id": "joe-cocker-s-greatest-hits-joe-cocker",
+  "title": "Joe Cocker's Greatest Hits",
+  "artist": "Joe Cocker",
+  "peak": 114,
+  "history": [
+    {
+      "date": "1977-12-10",
+      "rank": 132
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 119
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 114
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 114
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 124
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 144
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 177
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "With a Little Help From My Friends",
+      "id": "with-a-little-help-from-my-friends-joe-cocker"
+    },
+    {
+      "title": "Black‐Eyed Blues",
+      "id": "high-time-we-went-black-eyed-blues-joe-cocker"
+    },
+    {
+      "title": "Cry Me a River",
+      "id": "cry-me-a-river-joe-cocker"
+    },
+    {
+      "title": "Feeling Alright",
+      "id": "feeling-alright-joe-cocker"
+    },
+    {
+      "title": "Delta Lady",
+      "id": "delta-lady-joe-cocker"
+    },
+    {
+      "title": "High Time We Went",
+      "id": "high-time-we-went-black-eyed-blues-joe-cocker"
+    },
+    {
+      "title": "The Letter",
+      "id": "shelter-me-joe-cocker"
+    },
+    {
+      "title": "Woman to Woman",
+      "id": null
+    },
+    {
+      "title": "The Jealous Kind",
+      "id": null
+    },
+    {
+      "title": "I Think It’s Going to Rain Today",
+      "id": null
+    },
+    {
+      "title": "You Are So Beautiful",
+      "id": null
+    },
+    {
+      "title": "Darling Be Home Soon",
+      "id": null
+    }
+  ]
+}

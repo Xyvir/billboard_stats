@@ -1,1 +1,78 @@
-{"id": "john-fogerty-john-fogerty", "title": "John Fogerty", "artist": "John Fogerty", "peak": 78, "history": [{"date": "1975-10-04", "rank": 119}, {"date": "1975-10-11", "rank": 106}, {"date": "1975-10-18", "rank": 91}, {"date": "1975-10-25", "rank": 81}, {"date": "1975-11-01", "rank": 78}, {"date": "1975-11-08", "rank": 89}, {"date": "1975-11-15", "rank": 176}]}
+{
+  "id": "john-fogerty-john-fogerty",
+  "title": "John Fogerty",
+  "artist": "John Fogerty",
+  "peak": 78,
+  "history": [
+    {
+      "date": "1975-10-04",
+      "rank": 119
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 106
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 91
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 81
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 78
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 89
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rockin’ All Over the World",
+      "id": "rockin-all-over-the-world-john-fogerty"
+    },
+    {
+      "title": "Almost Saturday Night",
+      "id": "almost-saturday-night-john-fogerty"
+    },
+    {
+      "title": "You Rascal You",
+      "id": null
+    },
+    {
+      "title": "The Wall",
+      "id": null
+    },
+    {
+      "title": "Travelin’ High",
+      "id": null
+    },
+    {
+      "title": "Lonely Teardrops",
+      "id": null
+    },
+    {
+      "title": "Where the River Flows",
+      "id": null
+    },
+    {
+      "title": "Sea Cruise",
+      "id": null
+    },
+    {
+      "title": "Dream Song",
+      "id": null
+    },
+    {
+      "title": "Flying Away",
+      "id": null
+    }
+  ]
+}

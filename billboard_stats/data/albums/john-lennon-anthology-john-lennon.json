@@ -1,1 +1,46 @@
-{"id": "john-lennon-anthology-john-lennon", "title": "John Lennon Anthology", "artist": "John Lennon", "peak": 99, "history": [{"date": "1998-11-21", "rank": 99}, {"date": "1998-11-28", "rank": 145}]}
+{
+  "id": "john-lennon-anthology-john-lennon",
+  "title": "John Lennon Anthology",
+  "artist": "John Lennon",
+  "peak": 99,
+  "history": [
+    {
+      "date": "1998-11-21",
+      "rank": 99
+    },
+    {
+      "date": "1998-11-28",
+      "rank": 145
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I'm Losing You",
+      "id": "i-m-steppin-out-john-lennon"
+    },
+    {
+      "title": "Working Class Hero",
+      "id": null
+    },
+    {
+      "title": "God",
+      "id": null
+    },
+    {
+      "title": "How Do You Sleep?",
+      "id": null
+    },
+    {
+      "title": "Imagine (Take 1)",
+      "id": null
+    },
+    {
+      "title": "Only You",
+      "id": null
+    },
+    {
+      "title": "Sean's \"In The Sky\"",
+      "id": null
+    }
+  ]
+}
