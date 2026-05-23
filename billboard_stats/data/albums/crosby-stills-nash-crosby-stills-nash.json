@@ -1,1 +1,78 @@
-{"id": "crosby-stills-nash-crosby-stills-nash", "title": "Crosby,Stills & Nash", "artist": "Crosby, Stills & Nash", "peak": 174, "history": [{"date": "1977-09-03", "rank": 192}, {"date": "1977-09-10", "rank": 187}, {"date": "1977-09-17", "rank": 179}, {"date": "1977-09-24", "rank": 176}, {"date": "1977-10-01", "rank": 174}, {"date": "1977-10-08", "rank": 182}, {"date": "1977-10-15", "rank": 200}]}
+{
+  "id": "crosby-stills-nash-crosby-stills-nash",
+  "title": "Crosby,Stills & Nash",
+  "artist": "Crosby, Stills & Nash",
+  "peak": 174,
+  "history": [
+    {
+      "date": "1977-09-03",
+      "rank": 192
+    },
+    {
+      "date": "1977-09-10",
+      "rank": 187
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 179
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 176
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 174
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 182
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Suite: Judy Blue Eyes",
+      "id": "suite-judy-blue-eyes-crosby-stills-nash"
+    },
+    {
+      "title": "Marrakesh Express",
+      "id": "marrakesh-express-crosby-stills-nash"
+    },
+    {
+      "title": "Guinnevere",
+      "id": null
+    },
+    {
+      "title": "You Don’t Have to Cry",
+      "id": null
+    },
+    {
+      "title": "Pre‐Road Downs",
+      "id": null
+    },
+    {
+      "title": "Wooden Ships",
+      "id": null
+    },
+    {
+      "title": "Lady of the Island",
+      "id": null
+    },
+    {
+      "title": "Helplessly Hoping",
+      "id": null
+    },
+    {
+      "title": "Long Time Gone",
+      "id": null
+    },
+    {
+      "title": "49 Bye‐Byes",
+      "id": null
+    }
+  ]
+}

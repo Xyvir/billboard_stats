@@ -1,1 +1,62 @@
-{"id": "cross-country-cross-country", "title": "Cross Country", "artist": "Cross Country", "peak": 198, "history": [{"date": "1973-10-13", "rank": 198}, {"date": "1973-10-20", "rank": 200}]}
+{
+  "id": "cross-country-cross-country",
+  "title": "Cross Country",
+  "artist": "Cross Country",
+  "peak": 198,
+  "history": [
+    {
+      "date": "1973-10-13",
+      "rank": 198
+    },
+    {
+      "date": "1973-10-20",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "In the Midnight Hour",
+      "id": "in-the-midnight-hour-cross-country"
+    },
+    {
+      "title": "Today",
+      "id": null
+    },
+    {
+      "title": "Just a Thought",
+      "id": null
+    },
+    {
+      "title": "Cross Country",
+      "id": null
+    },
+    {
+      "title": "Things With Wings",
+      "id": null
+    },
+    {
+      "title": "Extended Wings",
+      "id": null
+    },
+    {
+      "title": "Tastes So Good to Me",
+      "id": null
+    },
+    {
+      "title": "A Fall Song",
+      "id": null
+    },
+    {
+      "title": "Choir Boy",
+      "id": null
+    },
+    {
+      "title": "A Ball Song",
+      "id": null
+    },
+    {
+      "title": "A Smile Song",
+      "id": null
+    }
+  ]
+}

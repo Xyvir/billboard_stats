@@ -1,1 +1,398 @@
-{"id": "crossroads-eric-clapton", "title": "Crossroads", "artist": "Eric Clapton", "peak": 34, "history": [{"date": "1988-05-07", "rank": 80}, {"date": "1988-05-14", "rank": 36}, {"date": "1988-05-21", "rank": 34}, {"date": "1988-05-28", "rank": 34}, {"date": "1988-06-04", "rank": 46}, {"date": "1988-06-11", "rank": 51}, {"date": "1988-06-18", "rank": 51}, {"date": "1988-06-25", "rank": 53}, {"date": "1988-07-02", "rank": 55}, {"date": "1988-07-09", "rank": 62}, {"date": "1988-07-16", "rank": 65}, {"date": "1988-07-23", "rank": 83}, {"date": "1988-07-30", "rank": 103}, {"date": "1988-08-06", "rank": 111}, {"date": "1988-08-13", "rank": 119}, {"date": "1988-08-20", "rank": 121}, {"date": "1988-08-27", "rank": 144}, {"date": "1988-09-03", "rank": 136}, {"date": "1988-09-10", "rank": 149}, {"date": "1988-09-17", "rank": 139}, {"date": "1988-09-24", "rank": 161}, {"date": "1988-10-01", "rank": 159}, {"date": "1988-10-08", "rank": 178}, {"date": "1988-10-15", "rank": 187}, {"date": "1988-10-22", "rank": 194}, {"date": "1988-10-29", "rank": 184}]}
+{
+  "id": "crossroads-eric-clapton",
+  "title": "Crossroads",
+  "artist": "Eric Clapton",
+  "peak": 34,
+  "history": [
+    {
+      "date": "1988-05-07",
+      "rank": 80
+    },
+    {
+      "date": "1988-05-14",
+      "rank": 36
+    },
+    {
+      "date": "1988-05-21",
+      "rank": 34
+    },
+    {
+      "date": "1988-05-28",
+      "rank": 34
+    },
+    {
+      "date": "1988-06-04",
+      "rank": 46
+    },
+    {
+      "date": "1988-06-11",
+      "rank": 51
+    },
+    {
+      "date": "1988-06-18",
+      "rank": 51
+    },
+    {
+      "date": "1988-06-25",
+      "rank": 53
+    },
+    {
+      "date": "1988-07-02",
+      "rank": 55
+    },
+    {
+      "date": "1988-07-09",
+      "rank": 62
+    },
+    {
+      "date": "1988-07-16",
+      "rank": 65
+    },
+    {
+      "date": "1988-07-23",
+      "rank": 83
+    },
+    {
+      "date": "1988-07-30",
+      "rank": 103
+    },
+    {
+      "date": "1988-08-06",
+      "rank": 111
+    },
+    {
+      "date": "1988-08-13",
+      "rank": 119
+    },
+    {
+      "date": "1988-08-20",
+      "rank": 121
+    },
+    {
+      "date": "1988-08-27",
+      "rank": 144
+    },
+    {
+      "date": "1988-09-03",
+      "rank": 136
+    },
+    {
+      "date": "1988-09-10",
+      "rank": 149
+    },
+    {
+      "date": "1988-09-17",
+      "rank": 139
+    },
+    {
+      "date": "1988-09-24",
+      "rank": 161
+    },
+    {
+      "date": "1988-10-01",
+      "rank": 159
+    },
+    {
+      "date": "1988-10-08",
+      "rank": 178
+    },
+    {
+      "date": "1988-10-15",
+      "rank": 187
+    },
+    {
+      "date": "1988-10-22",
+      "rank": 194
+    },
+    {
+      "date": "1988-10-29",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Badge",
+      "id": "bad-love-eric-clapton"
+    },
+    {
+      "title": "After Midnight",
+      "id": "after-midnight-eric-clapton"
+    },
+    {
+      "title": "Let It Rain",
+      "id": "let-it-rain-eric-clapton"
+    },
+    {
+      "title": "Layla",
+      "id": "layla-eric-clapton"
+    },
+    {
+      "title": "Mean Old World",
+      "id": "change-the-world-eric-clapton"
+    },
+    {
+      "title": "Let It Grow",
+      "id": "let-it-rain-eric-clapton"
+    },
+    {
+      "title": "I Shot the Sheriff",
+      "id": "i-shot-the-sheriff-eric-clapton"
+    },
+    {
+      "title": "Hello Old Friend",
+      "id": "hello-old-friend-eric-clapton"
+    },
+    {
+      "title": "Lay Down Sally",
+      "id": "lay-down-sally-eric-clapton"
+    },
+    {
+      "title": "Wonderful Tonight",
+      "id": "wonderful-tonight-eric-clapton"
+    },
+    {
+      "title": "Boom Boom",
+      "id": null
+    },
+    {
+      "title": "Honey in Your Hips",
+      "id": null
+    },
+    {
+      "title": "Baby What’s Wrong",
+      "id": null
+    },
+    {
+      "title": "I Wish You Would",
+      "id": null
+    },
+    {
+      "title": "A Certain Girl",
+      "id": null
+    },
+    {
+      "title": "Good Morning Little Schoolgirl",
+      "id": null
+    },
+    {
+      "title": "I Ain’t Got You",
+      "id": null
+    },
+    {
+      "title": "For Your Love",
+      "id": null
+    },
+    {
+      "title": "Got to Hurry",
+      "id": null
+    },
+    {
+      "title": "Lonely Years",
+      "id": null
+    },
+    {
+      "title": "Bernard Jenkins",
+      "id": null
+    },
+    {
+      "title": "Hideaway",
+      "id": null
+    },
+    {
+      "title": "All Your Love",
+      "id": null
+    },
+    {
+      "title": "Ramblin’ on My Mind",
+      "id": null
+    },
+    {
+      "title": "Have You Ever Loved a Woman",
+      "id": null
+    },
+    {
+      "title": "Wrapping Paper",
+      "id": null
+    },
+    {
+      "title": "I Feel Free",
+      "id": null
+    },
+    {
+      "title": "Spoonful",
+      "id": null
+    },
+    {
+      "title": "Lawdy Mama",
+      "id": null
+    },
+    {
+      "title": "Strange Brew",
+      "id": null
+    },
+    {
+      "title": "Sunshine of Your Love",
+      "id": null
+    },
+    {
+      "title": "Tales of Brave Ulysses",
+      "id": null
+    },
+    {
+      "title": "Steppin’ Out",
+      "id": null
+    },
+    {
+      "title": "Anyone for Tennis",
+      "id": null
+    },
+    {
+      "title": "White Room",
+      "id": null
+    },
+    {
+      "title": "Crossroads",
+      "id": null
+    },
+    {
+      "title": "Presence of the Lord",
+      "id": null
+    },
+    {
+      "title": "Can’t Find My Way Home",
+      "id": null
+    },
+    {
+      "title": "Sleeping in the Ground",
+      "id": null
+    },
+    {
+      "title": "Comin’ Home",
+      "id": null
+    },
+    {
+      "title": "Blues Power",
+      "id": null
+    },
+    {
+      "title": "Tell the Truth",
+      "id": null
+    },
+    {
+      "title": "Roll It Over",
+      "id": null
+    },
+    {
+      "title": "Key to the Highway",
+      "id": null
+    },
+    {
+      "title": "Got to Get Better in a Little While",
+      "id": null
+    },
+    {
+      "title": "Evil",
+      "id": null
+    },
+    {
+      "title": "One More Chance",
+      "id": null
+    },
+    {
+      "title": "Mean Old Frisco",
+      "id": null
+    },
+    {
+      "title": "Snake Lake Blues",
+      "id": null
+    },
+    {
+      "title": "Ain’t That Lovin’ You",
+      "id": null
+    },
+    {
+      "title": "Motherless Children",
+      "id": null
+    },
+    {
+      "title": "Better Make It Through Today",
+      "id": null
+    },
+    {
+      "title": "The Sky Is Crying",
+      "id": null
+    },
+    {
+      "title": "I Found a Love",
+      "id": null
+    },
+    {
+      "title": "(When Things Go Wrong) It Hurts Me Too",
+      "id": null
+    },
+    {
+      "title": "Whatcha Gonna Do",
+      "id": null
+    },
+    {
+      "title": "Knockin’ on Heaven’s Door",
+      "id": null
+    },
+    {
+      "title": "Someone Like You",
+      "id": null
+    },
+    {
+      "title": "Sign Language",
+      "id": null
+    },
+    {
+      "title": "Further On up the Road",
+      "id": null
+    },
+    {
+      "title": "Cocaine",
+      "id": null
+    },
+    {
+      "title": "Promises",
+      "id": null
+    },
+    {
+      "title": "If I Don’t Be There by Morning",
+      "id": null
+    },
+    {
+      "title": "Double Trouble",
+      "id": null
+    },
+    {
+      "title": "I Can’t Stand It",
+      "id": null
+    },
+    {
+      "title": "The Shape You’re In",
+      "id": null
+    },
+    {
+      "title": "Heaven Is One Step Away",
+      "id": null
+    },
+    {
+      "title": "She’s Waiting",
+      "id": null
+    },
+    {
+      "title": "Too Bad",
+      "id": null
+    },
+    {
+      "title": "Miss You",
+      "id": null
+    },
+    {
+      "title": "Wanna Make Love to You",
+      "id": null
+    }
+  ]
+}
