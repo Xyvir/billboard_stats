@@ -1,1 +1,82 @@
-{"id": "ennea-chase", "title": "Ennea", "artist": "Chase", "peak": 115, "history": [{"date": "1972-05-20", "rank": 116}, {"date": "1972-05-27", "rank": 115}, {"date": "1972-06-03", "rank": 129}, {"date": "1972-06-10", "rank": 131}, {"date": "1972-06-17", "rank": 138}, {"date": "1972-06-24", "rank": 146}]}
+{
+  "id": "ennea-chase",
+  "title": "Ennea",
+  "artist": "Chase",
+  "peak": 115,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 116
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 115
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 129
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 131
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 138
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 146
+    }
+  ],
+  "tracks": [
+    {
+      "title": "So Many People",
+      "id": "so-many-people-chase"
+    },
+    {
+      "title": "Swanee River",
+      "id": null
+    },
+    {
+      "title": "Night",
+      "id": null
+    },
+    {
+      "title": "It Won’t Be Long",
+      "id": null
+    },
+    {
+      "title": "I Can Feel It",
+      "id": null
+    },
+    {
+      "title": "Woman of the Dark",
+      "id": null
+    },
+    {
+      "title": "Cronus (Saturn)",
+      "id": null
+    },
+    {
+      "title": "Zeus (Jupiter)",
+      "id": null
+    },
+    {
+      "title": "Poseidon (Neptune)",
+      "id": null
+    },
+    {
+      "title": "Aphrodite, Part I (Venus)",
+      "id": null
+    },
+    {
+      "title": "Aphrodite, Part II (Venus)",
+      "id": null
+    },
+    {
+      "title": "Hades (Pluto)",
+      "id": null
+    }
+  ]
+}
