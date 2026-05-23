@@ -1,1 +1,66 @@
-{"id": "get-weird-little-mix", "title": "Get Weird", "artist": "Little Mix", "peak": 13, "history": [{"date": "2015-11-28", "rank": 13}, {"date": "2015-12-05", "rank": 90}]}
+{
+  "id": "get-weird-little-mix",
+  "title": "Get Weird",
+  "artist": "Little Mix",
+  "peak": 13,
+  "history": [
+    {
+      "date": "2015-11-28",
+      "rank": 13
+    },
+    {
+      "date": "2015-12-05",
+      "rank": 90
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Black Magic",
+      "id": "black-magic-little-mix"
+    },
+    {
+      "title": "Love Me Like You",
+      "id": null
+    },
+    {
+      "title": "Weird People",
+      "id": null
+    },
+    {
+      "title": "Secret Love Song",
+      "id": null
+    },
+    {
+      "title": "Hair",
+      "id": null
+    },
+    {
+      "title": "Grown",
+      "id": null
+    },
+    {
+      "title": "I Love You",
+      "id": null
+    },
+    {
+      "title": "OMG",
+      "id": null
+    },
+    {
+      "title": "Lightning",
+      "id": null
+    },
+    {
+      "title": "A.D.I.D.A.S.",
+      "id": null
+    },
+    {
+      "title": "Love Me or Leave Me",
+      "id": null
+    },
+    {
+      "title": "The End",
+      "id": null
+    }
+  ]
+}

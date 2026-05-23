@@ -1,1 +1,218 @@
-{"id": "get-the-knack-the-knack", "title": "Get The Knack", "artist": "The Knack", "peak": 1, "history": [{"date": "1979-06-30", "rank": 93}, {"date": "1979-07-07", "rank": 74}, {"date": "1979-07-14", "rank": 27}, {"date": "1979-07-21", "rank": 15}, {"date": "1979-07-28", "rank": 10}, {"date": "1979-08-04", "rank": 3}, {"date": "1979-08-11", "rank": 1}, {"date": "1979-08-18", "rank": 1}, {"date": "1979-08-25", "rank": 1}, {"date": "1979-09-01", "rank": 1}, {"date": "1979-09-08", "rank": 1}, {"date": "1979-09-15", "rank": 2}, {"date": "1979-09-22", "rank": 2}, {"date": "1979-09-29", "rank": 2}, {"date": "1979-10-06", "rank": 2}, {"date": "1979-10-13", "rank": 2}, {"date": "1979-10-20", "rank": 3}, {"date": "1979-10-27", "rank": 7}, {"date": "1979-11-03", "rank": 10}, {"date": "1979-11-10", "rank": 13}, {"date": "1979-11-17", "rank": 15}, {"date": "1979-11-24", "rank": 16}, {"date": "1979-12-01", "rank": 25}, {"date": "1979-12-08", "rank": 29}, {"date": "1979-12-15", "rank": 71}, {"date": "1979-12-22", "rank": 71}, {"date": "1979-12-29", "rank": 71}, {"date": "1980-01-05", "rank": 71}, {"date": "1980-01-12", "rank": 69}, {"date": "1980-01-19", "rank": 76}, {"date": "1980-01-26", "rank": 78}, {"date": "1980-02-02", "rank": 88}, {"date": "1980-02-09", "rank": 102}, {"date": "1980-02-16", "rank": 105}, {"date": "1980-02-23", "rank": 116}, {"date": "1980-03-01", "rank": 113}, {"date": "1980-03-08", "rank": 113}, {"date": "1980-03-15", "rank": 151}, {"date": "1980-03-22", "rank": 151}, {"date": "1980-03-29", "rank": 183}]}
+{
+  "id": "get-the-knack-the-knack",
+  "title": "Get The Knack",
+  "artist": "The Knack",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1979-06-30",
+      "rank": 93
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 74
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 27
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 15
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 10
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 3
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 1
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 1
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 1
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 1
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 1
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 2
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 2
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 2
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 2
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 2
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 3
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 7
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 10
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 13
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 15
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 16
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 25
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 29
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 71
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 71
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 71
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 71
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 69
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 76
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 78
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 88
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 102
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 105
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 116
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 113
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 113
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 151
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 151
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Good Girls Don’t",
+      "id": "good-girls-don-t-the-knack"
+    },
+    {
+      "title": "My Sharona",
+      "id": "my-sharona-the-knack"
+    },
+    {
+      "title": "Let Me Out",
+      "id": null
+    },
+    {
+      "title": "Your Number or Your Name",
+      "id": null
+    },
+    {
+      "title": "Oh Tara",
+      "id": null
+    },
+    {
+      "title": "(She’s So) Selfish",
+      "id": null
+    },
+    {
+      "title": "Maybe Tonight",
+      "id": null
+    },
+    {
+      "title": "Heartbeat",
+      "id": null
+    },
+    {
+      "title": "Siamese Twins (The Monkey and Me)",
+      "id": null
+    },
+    {
+      "title": "Lucinda",
+      "id": null
+    },
+    {
+      "title": "That’s What the Little Girls Do",
+      "id": null
+    },
+    {
+      "title": "Frustrated",
+      "id": null
+    }
+  ]
+}
