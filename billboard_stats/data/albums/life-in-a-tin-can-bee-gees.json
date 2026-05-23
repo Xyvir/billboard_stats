@@ -1,1 +1,94 @@
-{"id": "life-in-a-tin-can-bee-gees", "title": "Life In A Tin Can", "artist": "Bee Gees", "peak": 69, "history": [{"date": "1973-02-03", "rank": 154}, {"date": "1973-02-10", "rank": 91}, {"date": "1973-02-17", "rank": 83}, {"date": "1973-02-24", "rank": 74}, {"date": "1973-03-03", "rank": 72}, {"date": "1973-03-10", "rank": 69}, {"date": "1973-03-17", "rank": 69}, {"date": "1973-03-24", "rank": 73}, {"date": "1973-03-31", "rank": 92}, {"date": "1973-04-07", "rank": 121}, {"date": "1973-04-14", "rank": 140}, {"date": "1973-04-21", "rank": 168}, {"date": "1973-04-28", "rank": 196}]}
+{
+  "id": "life-in-a-tin-can-bee-gees",
+  "title": "Life In A Tin Can",
+  "artist": "Bee Gees",
+  "peak": 69,
+  "history": [
+    {
+      "date": "1973-02-03",
+      "rank": 154
+    },
+    {
+      "date": "1973-02-10",
+      "rank": 91
+    },
+    {
+      "date": "1973-02-17",
+      "rank": 83
+    },
+    {
+      "date": "1973-02-24",
+      "rank": 74
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 72
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 69
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 69
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 73
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 92
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 121
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 140
+    },
+    {
+      "date": "1973-04-21",
+      "rank": 168
+    },
+    {
+      "date": "1973-04-28",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Saw a New Morning",
+      "id": "saw-a-new-morning-bee-gees"
+    },
+    {
+      "title": "I Don’t Wanna Be the One",
+      "id": "don-t-wanna-live-inside-myself-bee-gees"
+    },
+    {
+      "title": "South Dakota Morning",
+      "id": null
+    },
+    {
+      "title": "Living in Chicago",
+      "id": null
+    },
+    {
+      "title": "While I Play",
+      "id": null
+    },
+    {
+      "title": "My Life Has Been a Song",
+      "id": null
+    },
+    {
+      "title": "Come Home Johnny Bridie",
+      "id": null
+    },
+    {
+      "title": "Method to My Madness",
+      "id": null
+    }
+  ]
+}
