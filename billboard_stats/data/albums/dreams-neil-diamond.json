@@ -1,1 +1,98 @@
-{"id": "dreams-neil-diamond", "title": "Dreams", "artist": "Neil Diamond", "peak": 8, "history": [{"date": "2010-11-20", "rank": 8}, {"date": "2010-11-27", "rank": 26}, {"date": "2010-12-04", "rank": 62}, {"date": "2010-12-11", "rank": 108}, {"date": "2010-12-18", "rank": 79}, {"date": "2010-12-25", "rank": 98}, {"date": "2011-01-01", "rank": 109}, {"date": "2011-01-08", "rank": 113}]}
+{
+  "id": "dreams-neil-diamond",
+  "title": "Dreams",
+  "artist": "Neil Diamond",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2010-11-20",
+      "rank": 8
+    },
+    {
+      "date": "2010-11-27",
+      "rank": 26
+    },
+    {
+      "date": "2010-12-04",
+      "rank": 62
+    },
+    {
+      "date": "2010-12-11",
+      "rank": 108
+    },
+    {
+      "date": "2010-12-18",
+      "rank": 79
+    },
+    {
+      "date": "2010-12-25",
+      "rank": 98
+    },
+    {
+      "date": "2011-01-01",
+      "rank": 109
+    },
+    {
+      "date": "2011-01-08",
+      "rank": 113
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blackbird",
+      "id": "skybird-neil-diamond"
+    },
+    {
+      "title": "I’m a Believer",
+      "id": "i-m-a-believer-neil-diamond"
+    },
+    {
+      "title": "Yesterday",
+      "id": "yesterday-s-songs-neil-diamond"
+    },
+    {
+      "title": "Ain’t No Sunshine",
+      "id": null
+    },
+    {
+      "title": "Alone Again (Naturally)",
+      "id": null
+    },
+    {
+      "title": "Feels Like Home",
+      "id": null
+    },
+    {
+      "title": "Midnight Train to Georgia",
+      "id": null
+    },
+    {
+      "title": "Love Song",
+      "id": null
+    },
+    {
+      "title": "Losing You",
+      "id": null
+    },
+    {
+      "title": "Hallelujah",
+      "id": null
+    },
+    {
+      "title": "A Song for You",
+      "id": null
+    },
+    {
+      "title": "Let It Be Me",
+      "id": null
+    },
+    {
+      "title": "Desperado",
+      "id": null
+    },
+    {
+      "title": "Don’t Forget Me",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"id": "dress-to-impress-keith-sweat", "title": "Dress To Impress", "artist": "Keith Sweat", "peak": 34, "history": [{"date": "2016-08-13", "rank": 34}, {"date": "2016-08-20", "rank": 80}, {"date": "2016-08-27", "rank": 145}, {"date": "2016-09-03", "rank": 190}]}
+{
+  "id": "dress-to-impress-keith-sweat",
+  "title": "Dress To Impress",
+  "artist": "Keith Sweat",
+  "peak": 34,
+  "history": [
+    {
+      "date": "2016-08-13",
+      "rank": 34
+    },
+    {
+      "date": "2016-08-20",
+      "rank": 80
+    },
+    {
+      "date": "2016-08-27",
+      "rank": 145
+    },
+    {
+      "date": "2016-09-03",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Good Love",
+      "id": "your-love-keith-sweat"
+    },
+    {
+      "title": "Better Love",
+      "id": "your-love-keith-sweat"
+    },
+    {
+      "title": "Get It In",
+      "id": "keep-it-comin-keith-sweat"
+    },
+    {
+      "title": "Tonight",
+      "id": null
+    },
+    {
+      "title": "Just the 2 of Us",
+      "id": null
+    },
+    {
+      "title": "Pulling Out the One",
+      "id": null
+    },
+    {
+      "title": "Special Night",
+      "id": null
+    },
+    {
+      "title": "Back and Forth",
+      "id": null
+    },
+    {
+      "title": "Give You All of Me",
+      "id": null
+    },
+    {
+      "title": "Missing You Like Crazy",
+      "id": null
+    },
+    {
+      "title": "Lovers and Friends",
+      "id": null
+    },
+    {
+      "title": "Feels Good",
+      "id": null
+    },
+    {
+      "title": "Dressed to Impress",
+      "id": null
+    },
+    {
+      "title": "Can't Let You Go",
+      "id": null
+    },
+    {
+      "title": "Say",
+      "id": null
+    },
+    {
+      "title": "Let's Go to Bed",
+      "id": null
+    }
+  ]
+}
