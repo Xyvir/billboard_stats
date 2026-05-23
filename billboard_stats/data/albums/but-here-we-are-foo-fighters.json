@@ -1,1 +1,62 @@
-{"id": "but-here-we-are-foo-fighters", "title": "But Here We Are", "artist": "Foo Fighters", "peak": 8, "history": [{"date": "2023-06-17", "rank": 8}, {"date": "2023-06-24", "rank": 47}, {"date": "2023-07-01", "rank": 124}]}
+{
+  "id": "but-here-we-are-foo-fighters",
+  "title": "But Here We Are",
+  "artist": "Foo Fighters",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2023-06-17",
+      "rank": 8
+    },
+    {
+      "date": "2023-06-24",
+      "rank": 47
+    },
+    {
+      "date": "2023-07-01",
+      "rank": 124
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Teacher",
+      "id": "the-pretender-foo-fighters"
+    },
+    {
+      "title": "Rescued",
+      "id": null
+    },
+    {
+      "title": "Under You",
+      "id": null
+    },
+    {
+      "title": "Hearing Voices",
+      "id": null
+    },
+    {
+      "title": "But Here We Are",
+      "id": null
+    },
+    {
+      "title": "The Glass",
+      "id": null
+    },
+    {
+      "title": "Nothing at All",
+      "id": null
+    },
+    {
+      "title": "Show Me How",
+      "id": null
+    },
+    {
+      "title": "Beyond Me",
+      "id": null
+    },
+    {
+      "title": "Rest",
+      "id": null
+    }
+  ]
+}

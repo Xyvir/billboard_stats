@@ -1,1 +1,122 @@
-{"id": "busted-cheap-trick", "title": "Busted", "artist": "Cheap Trick", "peak": 48, "history": [{"date": "1990-08-04", "rank": 110}, {"date": "1990-08-11", "rank": 61}, {"date": "1990-08-18", "rank": 55}, {"date": "1990-08-25", "rank": 48}, {"date": "1990-09-01", "rank": 51}, {"date": "1990-09-08", "rank": 58}, {"date": "1990-09-15", "rank": 69}, {"date": "1990-09-22", "rank": 84}, {"date": "1990-09-29", "rank": 98}, {"date": "1990-10-06", "rank": 111}, {"date": "1990-10-13", "rank": 121}, {"date": "1990-10-20", "rank": 126}, {"date": "1990-10-27", "rank": 147}, {"date": "1990-11-03", "rank": 155}, {"date": "1990-11-10", "rank": 175}, {"date": "1990-11-17", "rank": 188}, {"date": "1990-11-24", "rank": 193}]}
+{
+  "id": "busted-cheap-trick",
+  "title": "Busted",
+  "artist": "Cheap Trick",
+  "peak": 48,
+  "history": [
+    {
+      "date": "1990-08-04",
+      "rank": 110
+    },
+    {
+      "date": "1990-08-11",
+      "rank": 61
+    },
+    {
+      "date": "1990-08-18",
+      "rank": 55
+    },
+    {
+      "date": "1990-08-25",
+      "rank": 48
+    },
+    {
+      "date": "1990-09-01",
+      "rank": 51
+    },
+    {
+      "date": "1990-09-08",
+      "rank": 58
+    },
+    {
+      "date": "1990-09-15",
+      "rank": 69
+    },
+    {
+      "date": "1990-09-22",
+      "rank": 84
+    },
+    {
+      "date": "1990-09-29",
+      "rank": 98
+    },
+    {
+      "date": "1990-10-06",
+      "rank": 111
+    },
+    {
+      "date": "1990-10-13",
+      "rank": 121
+    },
+    {
+      "date": "1990-10-20",
+      "rank": 126
+    },
+    {
+      "date": "1990-10-27",
+      "rank": 147
+    },
+    {
+      "date": "1990-11-03",
+      "rank": 155
+    },
+    {
+      "date": "1990-11-10",
+      "rank": 175
+    },
+    {
+      "date": "1990-11-17",
+      "rank": 188
+    },
+    {
+      "date": "1990-11-24",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wherever Would I Be",
+      "id": "wherever-would-i-be-cheap-trick"
+    },
+    {
+      "title": "If You Need Me",
+      "id": "if-you-want-my-love-cheap-trick"
+    },
+    {
+      "title": "Can’t Stop Fallin’ Into Love",
+      "id": "can-t-stop-falling-into-love-cheap-trick"
+    },
+    {
+      "title": "Black ’n Blue",
+      "id": null
+    },
+    {
+      "title": "I Can’t Understand It",
+      "id": null
+    },
+    {
+      "title": "Busted",
+      "id": null
+    },
+    {
+      "title": "Walk Away",
+      "id": null
+    },
+    {
+      "title": "You Drive, I’ll Steer",
+      "id": null
+    },
+    {
+      "title": "When You Need Someone",
+      "id": null
+    },
+    {
+      "title": "Had to Make You Mine",
+      "id": null
+    },
+    {
+      "title": "Rock and Roll Tonight",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"id": "bush-snoop-dogg", "title": "BUSH", "artist": "Snoop Dogg", "peak": 14, "history": [{"date": "2015-05-30", "rank": 14}, {"date": "2015-06-06", "rank": 44}, {"date": "2015-06-13", "rank": 69}, {"date": "2015-06-20", "rank": 153}]}
+{
+  "id": "bush-snoop-dogg",
+  "title": "BUSH",
+  "artist": "Snoop Dogg",
+  "peak": 14,
+  "history": [
+    {
+      "date": "2015-05-30",
+      "rank": 14
+    },
+    {
+      "date": "2015-06-06",
+      "rank": 44
+    },
+    {
+      "date": "2015-06-13",
+      "rank": 69
+    },
+    {
+      "date": "2015-06-20",
+      "rank": 153
+    }
+  ],
+  "tracks": [
+    {
+      "title": "California Roll",
+      "id": null
+    },
+    {
+      "title": "This City",
+      "id": null
+    },
+    {
+      "title": "R U A Freak",
+      "id": null
+    },
+    {
+      "title": "Awake",
+      "id": null
+    },
+    {
+      "title": "So Many Pros",
+      "id": null
+    },
+    {
+      "title": "Peaches n Cream",
+      "id": null
+    },
+    {
+      "title": "Edibles",
+      "id": null
+    },
+    {
+      "title": "I Knew That",
+      "id": null
+    },
+    {
+      "title": "Run Away",
+      "id": null
+    },
+    {
+      "title": "I’m Ya Dogg",
+      "id": null
+    }
+  ]
+}
