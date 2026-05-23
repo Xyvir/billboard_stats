@@ -1,1 +1,94 @@
-{"id": "greatest-hitz-limp-bizkit", "title": "Greatest Hitz", "artist": "Limp Bizkit", "peak": 47, "history": [{"date": "2005-11-26", "rank": 47}, {"date": "2005-12-03", "rank": 123}, {"date": "2005-12-10", "rank": 195}]}
+{
+  "id": "greatest-hitz-limp-bizkit",
+  "title": "Greatest Hitz",
+  "artist": "Limp Bizkit",
+  "peak": 47,
+  "history": [
+    {
+      "date": "2005-11-26",
+      "rank": 47
+    },
+    {
+      "date": "2005-12-03",
+      "rank": 123
+    },
+    {
+      "date": "2005-12-10",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Nookie",
+      "id": "nookie-limp-bizkit"
+    },
+    {
+      "title": "Re-Arranged",
+      "id": "re-arranged-limp-bizkit"
+    },
+    {
+      "title": "My Way",
+      "id": "my-way-limp-bizkit"
+    },
+    {
+      "title": "Behind Blue Eyes",
+      "id": "behind-blue-eyes-limp-bizkit"
+    },
+    {
+      "title": "Counterfeit",
+      "id": null
+    },
+    {
+      "title": "Faith",
+      "id": null
+    },
+    {
+      "title": "Break Stuff",
+      "id": null
+    },
+    {
+      "title": "N 2 Gether Now",
+      "id": null
+    },
+    {
+      "title": "Take a Look Around",
+      "id": null
+    },
+    {
+      "title": "My Generation",
+      "id": null
+    },
+    {
+      "title": "Rollin’ (Air Raid Vehicle)",
+      "id": null
+    },
+    {
+      "title": "Boiler",
+      "id": null
+    },
+    {
+      "title": "Eat You Alive",
+      "id": null
+    },
+    {
+      "title": "Build a Bridge",
+      "id": null
+    },
+    {
+      "title": "Why",
+      "id": null
+    },
+    {
+      "title": "Lean on Me",
+      "id": null
+    },
+    {
+      "title": "Home Sweet Home / Bittersweet Symphony",
+      "id": null
+    },
+    {
+      "title": "The Truth",
+      "id": null
+    }
+  ]
+}

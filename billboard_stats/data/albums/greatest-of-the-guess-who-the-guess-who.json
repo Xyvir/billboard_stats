@@ -1,1 +1,74 @@
-{"id": "greatest-of-the-guess-who-the-guess-who", "title": "Greatest Of The Guess Who", "artist": "The Guess Who", "peak": 173, "history": [{"date": "1977-04-30", "rank": 190}, {"date": "1977-05-07", "rank": 180}, {"date": "1977-05-14", "rank": 179}, {"date": "1977-05-21", "rank": 173}]}
+{
+  "id": "greatest-of-the-guess-who-the-guess-who",
+  "title": "Greatest Of The Guess Who",
+  "artist": "The Guess Who",
+  "peak": 173,
+  "history": [
+    {
+      "date": "1977-04-30",
+      "rank": 190
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 180
+    },
+    {
+      "date": "1977-05-14",
+      "rank": 179
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "These Eyes",
+      "id": "these-eyes-the-guess-who"
+    },
+    {
+      "title": "Laughing",
+      "id": "laughing-the-guess-who"
+    },
+    {
+      "title": "Undun",
+      "id": "undun-the-guess-who"
+    },
+    {
+      "title": "No Time",
+      "id": "no-time-the-guess-who"
+    },
+    {
+      "title": "American Woman",
+      "id": "american-woman-no-sugar-tonight-the-guess-who"
+    },
+    {
+      "title": "Hand Me Down World",
+      "id": "hand-me-down-world-the-guess-who"
+    },
+    {
+      "title": "Albert Flasher",
+      "id": "albert-flasher-broken-the-guess-who"
+    },
+    {
+      "title": "Star Baby",
+      "id": "star-baby-the-guess-who"
+    },
+    {
+      "title": "Clap for the Wolfman",
+      "id": "clap-for-the-wolfman-the-guess-who"
+    },
+    {
+      "title": "Dancin’ Fool",
+      "id": "dancin-fool-the-guess-who"
+    },
+    {
+      "title": "Glamour Boy",
+      "id": null
+    },
+    {
+      "title": "When the Band Was Singin’ “Shakin’ All Over”",
+      "id": null
+    }
+  ]
+}

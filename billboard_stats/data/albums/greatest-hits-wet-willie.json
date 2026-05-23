@@ -1,1 +1,74 @@
-{"id": "greatest-hits-wet-willie", "title": "Greatest Hits", "artist": "Wet Willie", "peak": 158, "history": [{"date": "1978-03-18", "rank": 182}, {"date": "1978-03-25", "rank": 172}, {"date": "1978-04-01", "rank": 160}, {"date": "1978-04-08", "rank": 160}, {"date": "1978-04-15", "rank": 158}, {"date": "1978-04-22", "rank": 200}]}
+{
+  "id": "greatest-hits-wet-willie",
+  "title": "Greatest Hits",
+  "artist": "Wet Willie",
+  "peak": 158,
+  "history": [
+    {
+      "date": "1978-03-18",
+      "rank": 182
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 172
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 160
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 160
+    },
+    {
+      "date": "1978-04-15",
+      "rank": 158
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Keep On Smilin’",
+      "id": "keep-on-smilin-wet-willie"
+    },
+    {
+      "title": "Leona",
+      "id": "leona-wet-willie"
+    },
+    {
+      "title": "Everything That ’cha Do (Will Come Back to You)",
+      "id": "everything-that-cha-do-will-come-back-to-you-wet-willie"
+    },
+    {
+      "title": "Country Side of Life",
+      "id": "country-side-of-life-wet-willie"
+    },
+    {
+      "title": "Dixie Rock",
+      "id": "dixie-rock-wet-willie"
+    },
+    {
+      "title": "Shout Bamalama",
+      "id": null
+    },
+    {
+      "title": "Airport",
+      "id": null
+    },
+    {
+      "title": "Grits Ain’t Groceries",
+      "id": null
+    },
+    {
+      "title": "Red Hot Chicken",
+      "id": null
+    },
+    {
+      "title": "Baby Fat",
+      "id": null
+    }
+  ]
+}

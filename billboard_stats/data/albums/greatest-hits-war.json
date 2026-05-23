@@ -1,1 +1,142 @@
-{"id": "greatest-hits-war", "title": "Greatest Hits", "artist": "War", "peak": 6, "history": [{"date": "1976-09-04", "rank": 19}, {"date": "1976-09-11", "rank": 11}, {"date": "1976-09-18", "rank": 9}, {"date": "1976-09-25", "rank": 6}, {"date": "1976-10-02", "rank": 6}, {"date": "1976-10-09", "rank": 6}, {"date": "1976-10-16", "rank": 13}, {"date": "1976-10-23", "rank": 17}, {"date": "1976-10-30", "rank": 24}, {"date": "1976-11-06", "rank": 39}, {"date": "1976-11-13", "rank": 36}, {"date": "1976-11-20", "rank": 36}, {"date": "1976-11-27", "rank": 36}, {"date": "1976-12-04", "rank": 62}, {"date": "1976-12-11", "rank": 54}, {"date": "1976-12-18", "rank": 54}, {"date": "1976-12-25", "rank": 102}, {"date": "1977-01-01", "rank": 102}, {"date": "1977-01-08", "rank": 101}, {"date": "1977-01-15", "rank": 101}, {"date": "1977-01-22", "rank": 157}, {"date": "1987-10-17", "rank": 187}, {"date": "1987-10-24", "rank": 187}]}
+{
+  "id": "greatest-hits-war",
+  "title": "Greatest Hits",
+  "artist": "War",
+  "peak": 6,
+  "history": [
+    {
+      "date": "1976-09-04",
+      "rank": 19
+    },
+    {
+      "date": "1976-09-11",
+      "rank": 11
+    },
+    {
+      "date": "1976-09-18",
+      "rank": 9
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 6
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 6
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 6
+    },
+    {
+      "date": "1976-10-16",
+      "rank": 13
+    },
+    {
+      "date": "1976-10-23",
+      "rank": 17
+    },
+    {
+      "date": "1976-10-30",
+      "rank": 24
+    },
+    {
+      "date": "1976-11-06",
+      "rank": 39
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 36
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 36
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 36
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 62
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 54
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 54
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 102
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 102
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 101
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 101
+    },
+    {
+      "date": "1977-01-22",
+      "rank": 157
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 187
+    },
+    {
+      "date": "1987-10-24",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All Day Music",
+      "id": "all-day-music-war"
+    },
+    {
+      "title": "Slippin’ Into Darkness",
+      "id": "slippin-into-darkness-war"
+    },
+    {
+      "title": "The World Is a Ghetto",
+      "id": "the-world-is-a-ghetto-war"
+    },
+    {
+      "title": "The Cisco Kid",
+      "id": "the-cisco-kid-war"
+    },
+    {
+      "title": "Gypsy Man",
+      "id": "gypsy-man-war"
+    },
+    {
+      "title": "Me and Baby Brother",
+      "id": "me-and-baby-brother-war"
+    },
+    {
+      "title": "Why Can’t We Be Friends?",
+      "id": "why-can-t-we-be-friends-war"
+    },
+    {
+      "title": "Low Rider",
+      "id": "low-rider-war"
+    },
+    {
+      "title": "Summer",
+      "id": "summer-war"
+    },
+    {
+      "title": "Southern Part of Texas",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,190 @@
-{"id": "greatest-hits-volume-iii-billy-joel", "title": "Greatest Hits Volume III", "artist": "Billy Joel", "peak": 9, "history": [{"date": "1997-09-06", "rank": 9}, {"date": "1997-09-13", "rank": 14}, {"date": "1997-09-20", "rank": 16}, {"date": "1997-09-27", "rank": 19}, {"date": "1997-10-04", "rank": 32}, {"date": "1997-10-11", "rank": 42}, {"date": "1997-10-18", "rank": 59}, {"date": "1997-10-25", "rank": 59}, {"date": "1997-11-01", "rank": 66}, {"date": "1997-11-08", "rank": 70}, {"date": "1997-11-15", "rank": 88}, {"date": "1997-11-22", "rank": 106}, {"date": "1997-11-29", "rank": 67}, {"date": "1997-12-06", "rank": 84}, {"date": "1997-12-13", "rank": 89}, {"date": "1997-12-20", "rank": 84}, {"date": "1997-12-27", "rank": 82}, {"date": "1998-01-03", "rank": 87}, {"date": "1998-01-10", "rank": 100}, {"date": "1998-01-17", "rank": 123}, {"date": "1998-01-24", "rank": 128}, {"date": "1998-01-31", "rank": 139}, {"date": "1998-02-07", "rank": 148}, {"date": "1998-02-14", "rank": 147}, {"date": "1998-02-21", "rank": 131}, {"date": "1998-02-28", "rank": 124}, {"date": "1998-03-07", "rank": 153}, {"date": "1998-03-14", "rank": 192}]}
+{
+  "id": "greatest-hits-volume-iii-billy-joel",
+  "title": "Greatest Hits Volume III",
+  "artist": "Billy Joel",
+  "peak": 9,
+  "history": [
+    {
+      "date": "1997-09-06",
+      "rank": 9
+    },
+    {
+      "date": "1997-09-13",
+      "rank": 14
+    },
+    {
+      "date": "1997-09-20",
+      "rank": 16
+    },
+    {
+      "date": "1997-09-27",
+      "rank": 19
+    },
+    {
+      "date": "1997-10-04",
+      "rank": 32
+    },
+    {
+      "date": "1997-10-11",
+      "rank": 42
+    },
+    {
+      "date": "1997-10-18",
+      "rank": 59
+    },
+    {
+      "date": "1997-10-25",
+      "rank": 59
+    },
+    {
+      "date": "1997-11-01",
+      "rank": 66
+    },
+    {
+      "date": "1997-11-08",
+      "rank": 70
+    },
+    {
+      "date": "1997-11-15",
+      "rank": 88
+    },
+    {
+      "date": "1997-11-22",
+      "rank": 106
+    },
+    {
+      "date": "1997-11-29",
+      "rank": 67
+    },
+    {
+      "date": "1997-12-06",
+      "rank": 84
+    },
+    {
+      "date": "1997-12-13",
+      "rank": 89
+    },
+    {
+      "date": "1997-12-20",
+      "rank": 84
+    },
+    {
+      "date": "1997-12-27",
+      "rank": 82
+    },
+    {
+      "date": "1998-01-03",
+      "rank": 87
+    },
+    {
+      "date": "1998-01-10",
+      "rank": 100
+    },
+    {
+      "date": "1998-01-17",
+      "rank": 123
+    },
+    {
+      "date": "1998-01-24",
+      "rank": 128
+    },
+    {
+      "date": "1998-01-31",
+      "rank": 139
+    },
+    {
+      "date": "1998-02-07",
+      "rank": 148
+    },
+    {
+      "date": "1998-02-14",
+      "rank": 147
+    },
+    {
+      "date": "1998-02-21",
+      "rank": 131
+    },
+    {
+      "date": "1998-02-28",
+      "rank": 124
+    },
+    {
+      "date": "1998-03-07",
+      "rank": 153
+    },
+    {
+      "date": "1998-03-14",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Keeping the Faith",
+      "id": "keeping-the-faith-billy-joel"
+    },
+    {
+      "title": "An Innocent Man",
+      "id": "an-innocent-man-billy-joel"
+    },
+    {
+      "title": "A Matter of Trust",
+      "id": "a-matter-of-trust-billy-joel"
+    },
+    {
+      "title": "This Is the Time",
+      "id": "this-is-the-time-billy-joel"
+    },
+    {
+      "title": "We Didn’t Start the Fire",
+      "id": "we-didn-t-start-the-fire-billy-joel"
+    },
+    {
+      "title": "I Go to Extremes",
+      "id": "i-go-to-extremes-billy-joel"
+    },
+    {
+      "title": "And So It Goes",
+      "id": "and-so-it-goes-billy-joel"
+    },
+    {
+      "title": "The Downeaster “Alexa”",
+      "id": "the-downeaster-alexa-billy-joel"
+    },
+    {
+      "title": "All About Soul (remix)",
+      "id": "all-about-soul-billy-joel"
+    },
+    {
+      "title": "Lullabye (Goodnight, My Angel)",
+      "id": "lullabye-goodnight-my-angel-billy-joel"
+    },
+    {
+      "title": "The River of Dreams",
+      "id": "the-river-of-dreams-billy-joel"
+    },
+    {
+      "title": "To Make You Feel My Love",
+      "id": "to-make-you-feel-my-love-billy-joel"
+    },
+    {
+      "title": "Baby Grand",
+      "id": null
+    },
+    {
+      "title": "Leningrad",
+      "id": null
+    },
+    {
+      "title": "Shameless",
+      "id": null
+    },
+    {
+      "title": "Hey Girl",
+      "id": null
+    },
+    {
+      "title": "Light as the Breeze",
+      "id": null
+    }
+  ]
+}

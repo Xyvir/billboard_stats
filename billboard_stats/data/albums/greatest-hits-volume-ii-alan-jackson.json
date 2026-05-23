@@ -1,1 +1,358 @@
-{"id": "greatest-hits-volume-ii-alan-jackson", "title": "Greatest Hits Volume II", "artist": "Alan Jackson", "peak": 19, "history": [{"date": "2004-01-03", "rank": 192}, {"date": "2004-01-10", "rank": 199}, {"date": "2004-01-17", "rank": 174}, {"date": "2004-01-24", "rank": 103}, {"date": "2004-01-31", "rank": 63}, {"date": "2004-02-07", "rank": 27}, {"date": "2004-02-14", "rank": 32}, {"date": "2004-02-21", "rank": 19}, {"date": "2004-02-28", "rank": 23}, {"date": "2004-03-06", "rank": 29}, {"date": "2004-03-13", "rank": 30}, {"date": "2004-03-20", "rank": 30}, {"date": "2004-03-27", "rank": 27}, {"date": "2004-04-03", "rank": 27}, {"date": "2004-04-10", "rank": 45}, {"date": "2004-04-17", "rank": 49}, {"date": "2004-04-24", "rank": 52}, {"date": "2004-05-01", "rank": 51}, {"date": "2004-05-08", "rank": 56}, {"date": "2004-05-15", "rank": 54}, {"date": "2004-05-22", "rank": 48}, {"date": "2004-05-29", "rank": 59}, {"date": "2004-06-05", "rank": 65}, {"date": "2004-06-12", "rank": 48}, {"date": "2004-06-19", "rank": 51}, {"date": "2004-06-26", "rank": 65}, {"date": "2004-07-03", "rank": 57}, {"date": "2004-07-10", "rank": 75}, {"date": "2004-07-17", "rank": 95}, {"date": "2004-07-24", "rank": 86}, {"date": "2004-07-31", "rank": 88}, {"date": "2004-08-07", "rank": 89}, {"date": "2004-08-14", "rank": 82}, {"date": "2004-08-21", "rank": 88}, {"date": "2004-08-28", "rank": 95}, {"date": "2004-09-04", "rank": 95}, {"date": "2004-09-11", "rank": 93}, {"date": "2004-09-18", "rank": 91}, {"date": "2004-09-25", "rank": 73}, {"date": "2004-10-02", "rank": 80}, {"date": "2004-10-09", "rank": 88}, {"date": "2004-10-16", "rank": 108}, {"date": "2004-10-23", "rank": 114}, {"date": "2004-10-30", "rank": 119}, {"date": "2004-11-06", "rank": 143}, {"date": "2004-11-13", "rank": 143}, {"date": "2004-11-20", "rank": 151}, {"date": "2004-11-27", "rank": 125}, {"date": "2004-12-04", "rank": 146}, {"date": "2004-12-11", "rank": 159}, {"date": "2004-12-18", "rank": 151}, {"date": "2004-12-25", "rank": 143}, {"date": "2005-01-01", "rank": 141}, {"date": "2005-01-08", "rank": 146}, {"date": "2005-01-22", "rank": 181}, {"date": "2005-01-29", "rank": 175}, {"date": "2005-02-05", "rank": 183}, {"date": "2005-02-12", "rank": 189}, {"date": "2005-02-19", "rank": 175}, {"date": "2005-02-26", "rank": 179}, {"date": "2005-05-21", "rank": 193}]}
+{
+  "id": "greatest-hits-volume-ii-alan-jackson",
+  "title": "Greatest Hits Volume II",
+  "artist": "Alan Jackson",
+  "peak": 19,
+  "history": [
+    {
+      "date": "2004-01-03",
+      "rank": 192
+    },
+    {
+      "date": "2004-01-10",
+      "rank": 199
+    },
+    {
+      "date": "2004-01-17",
+      "rank": 174
+    },
+    {
+      "date": "2004-01-24",
+      "rank": 103
+    },
+    {
+      "date": "2004-01-31",
+      "rank": 63
+    },
+    {
+      "date": "2004-02-07",
+      "rank": 27
+    },
+    {
+      "date": "2004-02-14",
+      "rank": 32
+    },
+    {
+      "date": "2004-02-21",
+      "rank": 19
+    },
+    {
+      "date": "2004-02-28",
+      "rank": 23
+    },
+    {
+      "date": "2004-03-06",
+      "rank": 29
+    },
+    {
+      "date": "2004-03-13",
+      "rank": 30
+    },
+    {
+      "date": "2004-03-20",
+      "rank": 30
+    },
+    {
+      "date": "2004-03-27",
+      "rank": 27
+    },
+    {
+      "date": "2004-04-03",
+      "rank": 27
+    },
+    {
+      "date": "2004-04-10",
+      "rank": 45
+    },
+    {
+      "date": "2004-04-17",
+      "rank": 49
+    },
+    {
+      "date": "2004-04-24",
+      "rank": 52
+    },
+    {
+      "date": "2004-05-01",
+      "rank": 51
+    },
+    {
+      "date": "2004-05-08",
+      "rank": 56
+    },
+    {
+      "date": "2004-05-15",
+      "rank": 54
+    },
+    {
+      "date": "2004-05-22",
+      "rank": 48
+    },
+    {
+      "date": "2004-05-29",
+      "rank": 59
+    },
+    {
+      "date": "2004-06-05",
+      "rank": 65
+    },
+    {
+      "date": "2004-06-12",
+      "rank": 48
+    },
+    {
+      "date": "2004-06-19",
+      "rank": 51
+    },
+    {
+      "date": "2004-06-26",
+      "rank": 65
+    },
+    {
+      "date": "2004-07-03",
+      "rank": 57
+    },
+    {
+      "date": "2004-07-10",
+      "rank": 75
+    },
+    {
+      "date": "2004-07-17",
+      "rank": 95
+    },
+    {
+      "date": "2004-07-24",
+      "rank": 86
+    },
+    {
+      "date": "2004-07-31",
+      "rank": 88
+    },
+    {
+      "date": "2004-08-07",
+      "rank": 89
+    },
+    {
+      "date": "2004-08-14",
+      "rank": 82
+    },
+    {
+      "date": "2004-08-21",
+      "rank": 88
+    },
+    {
+      "date": "2004-08-28",
+      "rank": 95
+    },
+    {
+      "date": "2004-09-04",
+      "rank": 95
+    },
+    {
+      "date": "2004-09-11",
+      "rank": 93
+    },
+    {
+      "date": "2004-09-18",
+      "rank": 91
+    },
+    {
+      "date": "2004-09-25",
+      "rank": 73
+    },
+    {
+      "date": "2004-10-02",
+      "rank": 80
+    },
+    {
+      "date": "2004-10-09",
+      "rank": 88
+    },
+    {
+      "date": "2004-10-16",
+      "rank": 108
+    },
+    {
+      "date": "2004-10-23",
+      "rank": 114
+    },
+    {
+      "date": "2004-10-30",
+      "rank": 119
+    },
+    {
+      "date": "2004-11-06",
+      "rank": 143
+    },
+    {
+      "date": "2004-11-13",
+      "rank": 143
+    },
+    {
+      "date": "2004-11-20",
+      "rank": 151
+    },
+    {
+      "date": "2004-11-27",
+      "rank": 125
+    },
+    {
+      "date": "2004-12-04",
+      "rank": 146
+    },
+    {
+      "date": "2004-12-11",
+      "rank": 159
+    },
+    {
+      "date": "2004-12-18",
+      "rank": 151
+    },
+    {
+      "date": "2004-12-25",
+      "rank": 143
+    },
+    {
+      "date": "2005-01-01",
+      "rank": 141
+    },
+    {
+      "date": "2005-01-08",
+      "rank": 146
+    },
+    {
+      "date": "2005-01-22",
+      "rank": 181
+    },
+    {
+      "date": "2005-01-29",
+      "rank": 175
+    },
+    {
+      "date": "2005-02-05",
+      "rank": 183
+    },
+    {
+      "date": "2005-02-12",
+      "rank": 189
+    },
+    {
+      "date": "2005-02-19",
+      "rank": 175
+    },
+    {
+      "date": "2005-02-26",
+      "rank": 179
+    },
+    {
+      "date": "2005-05-21",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Little Bitty",
+      "id": "little-bitty-alan-jackson"
+    },
+    {
+      "title": "Right on the Money",
+      "id": "right-on-the-money-alan-jackson"
+    },
+    {
+      "title": "Gone Crazy",
+      "id": "gone-crazy-alan-jackson"
+    },
+    {
+      "title": "Little Man",
+      "id": "little-man-alan-jackson"
+    },
+    {
+      "title": "Pop a Top",
+      "id": "pop-a-top-alan-jackson"
+    },
+    {
+      "title": "It Must Be Love",
+      "id": "it-must-be-love-alan-jackson"
+    },
+    {
+      "title": "www.memory",
+      "id": "www-memory-alan-jackson"
+    },
+    {
+      "title": "When Somebody Loves You",
+      "id": "when-somebody-loves-you-alan-jackson"
+    },
+    {
+      "title": "Where I Come From",
+      "id": "where-i-come-from-alan-jackson"
+    },
+    {
+      "title": "Where Were You (When the World Stopped Turning)",
+      "id": "where-were-you-when-the-world-stopped-turning-alan-jackson"
+    },
+    {
+      "title": "Drive (for Daddy Gene)",
+      "id": "drive-for-daddy-gene-alan-jackson"
+    },
+    {
+      "title": "Remember When",
+      "id": "remember-when-alan-jackson"
+    },
+    {
+      "title": "Buicks to the Moon",
+      "id": "right-on-the-money-alan-jackson"
+    },
+    {
+      "title": "When Love Comes Around",
+      "id": "where-i-come-from-alan-jackson"
+    },
+    {
+      "title": "Everything I Love",
+      "id": null
+    },
+    {
+      "title": "Who’s Cheatin’ Who",
+      "id": null
+    },
+    {
+      "title": "There Goes",
+      "id": null
+    },
+    {
+      "title": "I’ll Go on Loving You",
+      "id": null
+    },
+    {
+      "title": "The Blues Man",
+      "id": null
+    },
+    {
+      "title": "It’s Five O’Clock Somewhere",
+      "id": null
+    },
+    {
+      "title": "Job Description",
+      "id": null
+    },
+    {
+      "title": "Tropical Depression",
+      "id": null
+    },
+    {
+      "title": "Let’s Get Back to Me and You",
+      "id": null
+    },
+    {
+      "title": "You Can’t Give Up on Love",
+      "id": null
+    },
+    {
+      "title": "Hole in the Wall",
+      "id": null
+    },
+    {
+      "title": "The Sounds",
+      "id": null
+    }
+  ]
+}
