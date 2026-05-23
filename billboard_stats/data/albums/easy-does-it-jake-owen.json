@@ -1,1 +1,86 @@
-{"id": "easy-does-it-jake-owen", "title": "Easy Does It", "artist": "Jake Owen", "peak": 13, "history": [{"date": "2009-03-14", "rank": 13}, {"date": "2009-03-21", "rank": 61}, {"date": "2009-03-28", "rank": 78}, {"date": "2009-04-04", "rank": 93}, {"date": "2009-04-11", "rank": 118}, {"date": "2009-04-18", "rank": 148}, {"date": "2009-04-25", "rank": 166}, {"date": "2009-05-02", "rank": 169}, {"date": "2009-05-09", "rank": 196}]}
+{
+  "id": "easy-does-it-jake-owen",
+  "title": "Easy Does It",
+  "artist": "Jake Owen",
+  "peak": 13,
+  "history": [
+    {
+      "date": "2009-03-14",
+      "rank": 13
+    },
+    {
+      "date": "2009-03-21",
+      "rank": 61
+    },
+    {
+      "date": "2009-03-28",
+      "rank": 78
+    },
+    {
+      "date": "2009-04-04",
+      "rank": 93
+    },
+    {
+      "date": "2009-04-11",
+      "rank": 118
+    },
+    {
+      "date": "2009-04-18",
+      "rank": 148
+    },
+    {
+      "date": "2009-04-25",
+      "rank": 166
+    },
+    {
+      "date": "2009-05-02",
+      "rank": 169
+    },
+    {
+      "date": "2009-05-09",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Eight Second Ride",
+      "id": "eight-second-ride-jake-owen"
+    },
+    {
+      "title": "Don’t Think I Can’t Love You",
+      "id": "don-t-think-i-can-t-love-you-jake-owen"
+    },
+    {
+      "title": "Anything for You",
+      "id": "made-for-you-jake-owen"
+    },
+    {
+      "title": "Tell Me",
+      "id": null
+    },
+    {
+      "title": "Easy Does It",
+      "id": null
+    },
+    {
+      "title": "Cherry on Top",
+      "id": null
+    },
+    {
+      "title": "Who Said Whiskey (Was Meant to Drink a Woman Away)",
+      "id": null
+    },
+    {
+      "title": "Green Bananas",
+      "id": null
+    },
+    {
+      "title": "Every Reason I Go Back",
+      "id": null
+    },
+    {
+      "title": "Nothin’ Grows in Shadows",
+      "id": null
+    }
+  ]
+}
