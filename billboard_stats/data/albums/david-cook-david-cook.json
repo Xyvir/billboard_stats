@@ -1,1 +1,242 @@
-{"id": "david-cook-david-cook", "title": "David Cook", "artist": "David Cook", "peak": 3, "history": [{"date": "2008-12-06", "rank": 3}, {"date": "2008-12-13", "rank": 10}, {"date": "2008-12-20", "rank": 10}, {"date": "2008-12-27", "rank": 10}, {"date": "2009-01-03", "rank": 13}, {"date": "2009-01-10", "rank": 10}, {"date": "2009-01-17", "rank": 16}, {"date": "2009-01-24", "rank": 18}, {"date": "2009-01-31", "rank": 10}, {"date": "2009-02-07", "rank": 14}, {"date": "2009-02-14", "rank": 20}, {"date": "2009-02-21", "rank": 29}, {"date": "2009-02-28", "rank": 32}, {"date": "2009-03-07", "rank": 36}, {"date": "2009-03-14", "rank": 47}, {"date": "2009-03-21", "rank": 45}, {"date": "2009-03-28", "rank": 52}, {"date": "2009-04-04", "rank": 54}, {"date": "2009-04-11", "rank": 78}, {"date": "2009-04-18", "rank": 20}, {"date": "2009-04-25", "rank": 28}, {"date": "2009-05-02", "rank": 47}, {"date": "2009-05-09", "rank": 55}, {"date": "2009-05-16", "rank": 62}, {"date": "2009-05-23", "rank": 47}, {"date": "2009-05-30", "rank": 61}, {"date": "2009-06-06", "rank": 29}, {"date": "2009-06-13", "rank": 46}, {"date": "2009-06-20", "rank": 63}, {"date": "2009-06-27", "rank": 72}, {"date": "2009-07-04", "rank": 74}, {"date": "2009-07-11", "rank": 87}, {"date": "2009-07-18", "rank": 87}, {"date": "2009-07-25", "rank": 98}, {"date": "2009-08-01", "rank": 86}, {"date": "2009-08-08", "rank": 90}, {"date": "2009-08-15", "rank": 93}, {"date": "2009-08-22", "rank": 98}, {"date": "2009-08-29", "rank": 99}, {"date": "2009-09-05", "rank": 122}, {"date": "2009-09-12", "rank": 152}, {"date": "2009-09-19", "rank": 153}, {"date": "2009-09-26", "rank": 169}, {"date": "2009-10-03", "rank": 184}]}
+{
+  "id": "david-cook-david-cook",
+  "title": "David Cook",
+  "artist": "David Cook",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2008-12-06",
+      "rank": 3
+    },
+    {
+      "date": "2008-12-13",
+      "rank": 10
+    },
+    {
+      "date": "2008-12-20",
+      "rank": 10
+    },
+    {
+      "date": "2008-12-27",
+      "rank": 10
+    },
+    {
+      "date": "2009-01-03",
+      "rank": 13
+    },
+    {
+      "date": "2009-01-10",
+      "rank": 10
+    },
+    {
+      "date": "2009-01-17",
+      "rank": 16
+    },
+    {
+      "date": "2009-01-24",
+      "rank": 18
+    },
+    {
+      "date": "2009-01-31",
+      "rank": 10
+    },
+    {
+      "date": "2009-02-07",
+      "rank": 14
+    },
+    {
+      "date": "2009-02-14",
+      "rank": 20
+    },
+    {
+      "date": "2009-02-21",
+      "rank": 29
+    },
+    {
+      "date": "2009-02-28",
+      "rank": 32
+    },
+    {
+      "date": "2009-03-07",
+      "rank": 36
+    },
+    {
+      "date": "2009-03-14",
+      "rank": 47
+    },
+    {
+      "date": "2009-03-21",
+      "rank": 45
+    },
+    {
+      "date": "2009-03-28",
+      "rank": 52
+    },
+    {
+      "date": "2009-04-04",
+      "rank": 54
+    },
+    {
+      "date": "2009-04-11",
+      "rank": 78
+    },
+    {
+      "date": "2009-04-18",
+      "rank": 20
+    },
+    {
+      "date": "2009-04-25",
+      "rank": 28
+    },
+    {
+      "date": "2009-05-02",
+      "rank": 47
+    },
+    {
+      "date": "2009-05-09",
+      "rank": 55
+    },
+    {
+      "date": "2009-05-16",
+      "rank": 62
+    },
+    {
+      "date": "2009-05-23",
+      "rank": 47
+    },
+    {
+      "date": "2009-05-30",
+      "rank": 61
+    },
+    {
+      "date": "2009-06-06",
+      "rank": 29
+    },
+    {
+      "date": "2009-06-13",
+      "rank": 46
+    },
+    {
+      "date": "2009-06-20",
+      "rank": 63
+    },
+    {
+      "date": "2009-06-27",
+      "rank": 72
+    },
+    {
+      "date": "2009-07-04",
+      "rank": 74
+    },
+    {
+      "date": "2009-07-11",
+      "rank": 87
+    },
+    {
+      "date": "2009-07-18",
+      "rank": 87
+    },
+    {
+      "date": "2009-07-25",
+      "rank": 98
+    },
+    {
+      "date": "2009-08-01",
+      "rank": 86
+    },
+    {
+      "date": "2009-08-08",
+      "rank": 90
+    },
+    {
+      "date": "2009-08-15",
+      "rank": 93
+    },
+    {
+      "date": "2009-08-22",
+      "rank": 98
+    },
+    {
+      "date": "2009-08-29",
+      "rank": 99
+    },
+    {
+      "date": "2009-09-05",
+      "rank": 122
+    },
+    {
+      "date": "2009-09-12",
+      "rank": 152
+    },
+    {
+      "date": "2009-09-19",
+      "rank": 153
+    },
+    {
+      "date": "2009-09-26",
+      "rank": 169
+    },
+    {
+      "date": "2009-10-03",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Light On",
+      "id": "light-on-david-cook"
+    },
+    {
+      "title": "Come Back to Me",
+      "id": "come-back-to-me-david-cook"
+    },
+    {
+      "title": "Permanent",
+      "id": "permanent-david-cook"
+    },
+    {
+      "title": "The Time of My Life",
+      "id": "the-time-of-my-life-david-cook"
+    },
+    {
+      "title": "Declaration",
+      "id": null
+    },
+    {
+      "title": "Heroes",
+      "id": null
+    },
+    {
+      "title": "Life On the Moon",
+      "id": null
+    },
+    {
+      "title": "Bar-Ba-Sol",
+      "id": null
+    },
+    {
+      "title": "Mr. Sensitive",
+      "id": null
+    },
+    {
+      "title": "Lie",
+      "id": null
+    },
+    {
+      "title": "I Did It for You",
+      "id": null
+    },
+    {
+      "title": "Avalanche",
+      "id": null
+    },
+    {
+      "title": "A Daily AntheM / Kiss On the Neck",
+      "id": null
+    },
+    {
+      "title": "Breathe Tonight",
+      "id": null
+    }
+  ]
+}
