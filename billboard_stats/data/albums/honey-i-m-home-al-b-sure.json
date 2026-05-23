@@ -1,1 +1,74 @@
-{"id": "honey-i-m-home-al-b-sure", "title": "Honey I'm Home", "artist": "Al B. Sure!", "peak": 85, "history": [{"date": "2009-07-11", "rank": 85}, {"date": "2009-07-18", "rank": 185}, {"date": "2009-07-25", "rank": 187}]}
+{
+  "id": "honey-i-m-home-al-b-sure",
+  "title": "Honey I'm Home",
+  "artist": "Al B. Sure!",
+  "peak": 85,
+  "history": [
+    {
+      "date": "2009-07-11",
+      "rank": 85
+    },
+    {
+      "date": "2009-07-18",
+      "rank": 185
+    },
+    {
+      "date": "2009-07-25",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Nite and Day (Interlude)",
+      "id": "nite-and-day-al-b-sure"
+    },
+    {
+      "title": "I Love It (Papi Aye, Aye, Aye)",
+      "id": null
+    },
+    {
+      "title": "I'm Glad",
+      "id": null
+    },
+    {
+      "title": "Top of Your Lungs",
+      "id": null
+    },
+    {
+      "title": "All I Wanna Do (...Is Make It Hot for You)",
+      "id": null
+    },
+    {
+      "title": "Lady In My Life",
+      "id": null
+    },
+    {
+      "title": "Dedicate My All",
+      "id": null
+    },
+    {
+      "title": "Bye the Way, By the Way",
+      "id": null
+    },
+    {
+      "title": "Only You",
+      "id": null
+    },
+    {
+      "title": "Whatcha Got",
+      "id": null
+    },
+    {
+      "title": "Fragile",
+      "id": null
+    },
+    {
+      "title": "4 Life",
+      "id": null
+    },
+    {
+      "title": "Never Stop Loving You",
+      "id": null
+    }
+  ]
+}

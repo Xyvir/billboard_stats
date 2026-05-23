@@ -1,1 +1,266 @@
-{"id": "honky-tonk-attitude-joe-diffie", "title": "Honky Tonk Attitude", "artist": "Joe Diffie", "peak": 67, "history": [{"date": "1993-05-08", "rank": 153}, {"date": "1993-05-15", "rank": 83}, {"date": "1993-05-22", "rank": 110}, {"date": "1993-05-29", "rank": 113}, {"date": "1993-06-05", "rank": 121}, {"date": "1993-06-12", "rank": 153}, {"date": "1993-06-19", "rank": 187}, {"date": "1993-06-26", "rank": 169}, {"date": "1993-07-03", "rank": 179}, {"date": "1993-07-10", "rank": 181}, {"date": "1993-08-07", "rank": 197}, {"date": "1993-08-14", "rank": 170}, {"date": "1993-08-21", "rank": 161}, {"date": "1993-08-28", "rank": 143}, {"date": "1993-09-04", "rank": 121}, {"date": "1993-09-11", "rank": 115}, {"date": "1993-09-18", "rank": 110}, {"date": "1993-09-25", "rank": 111}, {"date": "1993-10-02", "rank": 106}, {"date": "1993-10-09", "rank": 110}, {"date": "1993-10-16", "rank": 107}, {"date": "1993-10-23", "rank": 101}, {"date": "1993-10-30", "rank": 109}, {"date": "1993-11-06", "rank": 122}, {"date": "1993-11-13", "rank": 138}, {"date": "1993-11-20", "rank": 145}, {"date": "1993-11-27", "rank": 141}, {"date": "1993-12-04", "rank": 141}, {"date": "1993-12-11", "rank": 136}, {"date": "1993-12-18", "rank": 119}, {"date": "1993-12-25", "rank": 105}, {"date": "1994-01-01", "rank": 103}, {"date": "1994-01-08", "rank": 109}, {"date": "1994-01-15", "rank": 94}, {"date": "1994-01-22", "rank": 85}, {"date": "1994-01-29", "rank": 79}, {"date": "1994-02-05", "rank": 70}, {"date": "1994-02-12", "rank": 67}, {"date": "1994-02-19", "rank": 79}, {"date": "1994-02-26", "rank": 81}, {"date": "1994-03-05", "rank": 90}, {"date": "1994-03-12", "rank": 100}, {"date": "1994-03-19", "rank": 115}, {"date": "1994-03-26", "rank": 130}, {"date": "1994-04-02", "rank": 125}, {"date": "1994-04-09", "rank": 139}, {"date": "1994-04-16", "rank": 137}, {"date": "1994-04-23", "rank": 142}, {"date": "1994-04-30", "rank": 148}, {"date": "1994-05-07", "rank": 165}, {"date": "1994-05-14", "rank": 165}, {"date": "1994-05-21", "rank": 166}, {"date": "1994-05-28", "rank": 179}]}
+{
+  "id": "honky-tonk-attitude-joe-diffie",
+  "title": "Honky Tonk Attitude",
+  "artist": "Joe Diffie",
+  "peak": 67,
+  "history": [
+    {
+      "date": "1993-05-08",
+      "rank": 153
+    },
+    {
+      "date": "1993-05-15",
+      "rank": 83
+    },
+    {
+      "date": "1993-05-22",
+      "rank": 110
+    },
+    {
+      "date": "1993-05-29",
+      "rank": 113
+    },
+    {
+      "date": "1993-06-05",
+      "rank": 121
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 153
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 187
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 169
+    },
+    {
+      "date": "1993-07-03",
+      "rank": 179
+    },
+    {
+      "date": "1993-07-10",
+      "rank": 181
+    },
+    {
+      "date": "1993-08-07",
+      "rank": 197
+    },
+    {
+      "date": "1993-08-14",
+      "rank": 170
+    },
+    {
+      "date": "1993-08-21",
+      "rank": 161
+    },
+    {
+      "date": "1993-08-28",
+      "rank": 143
+    },
+    {
+      "date": "1993-09-04",
+      "rank": 121
+    },
+    {
+      "date": "1993-09-11",
+      "rank": 115
+    },
+    {
+      "date": "1993-09-18",
+      "rank": 110
+    },
+    {
+      "date": "1993-09-25",
+      "rank": 111
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 106
+    },
+    {
+      "date": "1993-10-09",
+      "rank": 110
+    },
+    {
+      "date": "1993-10-16",
+      "rank": 107
+    },
+    {
+      "date": "1993-10-23",
+      "rank": 101
+    },
+    {
+      "date": "1993-10-30",
+      "rank": 109
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 122
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 138
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 145
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 141
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 141
+    },
+    {
+      "date": "1993-12-11",
+      "rank": 136
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 119
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 105
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 103
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 109
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 94
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 85
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 79
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 70
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 67
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 79
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 81
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 90
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 100
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 115
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 130
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 125
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 139
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 137
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 142
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 148
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 165
+    },
+    {
+      "date": "1994-05-14",
+      "rank": 165
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 166
+    },
+    {
+      "date": "1994-05-28",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "John Deere Green",
+      "id": "john-deere-green-joe-diffie"
+    },
+    {
+      "title": "Honky Tonk Attitude",
+      "id": null
+    },
+    {
+      "title": "I’m Not Through Losin’ You",
+      "id": null
+    },
+    {
+      "title": "Prop Me Up Beside the Jukebox (If I Die) (edited)",
+      "id": null
+    },
+    {
+      "title": "If I Had Any Pride Left at All",
+      "id": null
+    },
+    {
+      "title": "I Can Walk the Line (If It Ain’t Too Straight)",
+      "id": null
+    },
+    {
+      "title": "Somewhere Under the Rainbow",
+      "id": null
+    },
+    {
+      "title": "In My Own Backyard",
+      "id": null
+    },
+    {
+      "title": "Here Comes That Train",
+      "id": null
+    },
+    {
+      "title": "And That Was the Easy Part",
+      "id": null
+    },
+    {
+      "title": "Cold Budweiser and a Sweet Tater",
+      "id": null
+    }
+  ]
+}

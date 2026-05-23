@@ -1,1 +1,214 @@
-{"id": "honkytonk-university-toby-keith", "title": "Honkytonk University", "artist": "Toby Keith", "peak": 2, "history": [{"date": "2005-06-04", "rank": 2}, {"date": "2005-06-11", "rank": 5}, {"date": "2005-06-18", "rank": 4}, {"date": "2005-06-25", "rank": 7}, {"date": "2005-07-02", "rank": 7}, {"date": "2005-07-09", "rank": 13}, {"date": "2005-07-16", "rank": 10}, {"date": "2005-07-23", "rank": 13}, {"date": "2005-07-30", "rank": 18}, {"date": "2005-08-06", "rank": 15}, {"date": "2005-08-13", "rank": 21}, {"date": "2005-08-20", "rank": 18}, {"date": "2005-08-27", "rank": 27}, {"date": "2005-09-03", "rank": 28}, {"date": "2005-09-10", "rank": 24}, {"date": "2005-09-17", "rank": 48}, {"date": "2005-09-24", "rank": 45}, {"date": "2005-10-01", "rank": 62}, {"date": "2005-10-08", "rank": 66}, {"date": "2005-10-15", "rank": 74}, {"date": "2005-10-22", "rank": 95}, {"date": "2005-10-29", "rank": 95}, {"date": "2005-11-05", "rank": 106}, {"date": "2005-11-12", "rank": 101}, {"date": "2005-11-19", "rank": 102}, {"date": "2005-11-26", "rank": 96}, {"date": "2005-12-03", "rank": 104}, {"date": "2005-12-10", "rank": 92}, {"date": "2005-12-17", "rank": 77}, {"date": "2005-12-24", "rank": 64}, {"date": "2005-12-31", "rank": 68}, {"date": "2006-01-07", "rank": 74}, {"date": "2006-01-14", "rank": 132}, {"date": "2006-01-21", "rank": 156}, {"date": "2006-01-28", "rank": 148}, {"date": "2006-02-04", "rank": 149}, {"date": "2006-02-11", "rank": 178}, {"date": "2006-02-18", "rank": 192}, {"date": "2006-03-04", "rank": 179}]}
+{
+  "id": "honkytonk-university-toby-keith",
+  "title": "Honkytonk University",
+  "artist": "Toby Keith",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2005-06-04",
+      "rank": 2
+    },
+    {
+      "date": "2005-06-11",
+      "rank": 5
+    },
+    {
+      "date": "2005-06-18",
+      "rank": 4
+    },
+    {
+      "date": "2005-06-25",
+      "rank": 7
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 7
+    },
+    {
+      "date": "2005-07-09",
+      "rank": 13
+    },
+    {
+      "date": "2005-07-16",
+      "rank": 10
+    },
+    {
+      "date": "2005-07-23",
+      "rank": 13
+    },
+    {
+      "date": "2005-07-30",
+      "rank": 18
+    },
+    {
+      "date": "2005-08-06",
+      "rank": 15
+    },
+    {
+      "date": "2005-08-13",
+      "rank": 21
+    },
+    {
+      "date": "2005-08-20",
+      "rank": 18
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 27
+    },
+    {
+      "date": "2005-09-03",
+      "rank": 28
+    },
+    {
+      "date": "2005-09-10",
+      "rank": 24
+    },
+    {
+      "date": "2005-09-17",
+      "rank": 48
+    },
+    {
+      "date": "2005-09-24",
+      "rank": 45
+    },
+    {
+      "date": "2005-10-01",
+      "rank": 62
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 66
+    },
+    {
+      "date": "2005-10-15",
+      "rank": 74
+    },
+    {
+      "date": "2005-10-22",
+      "rank": 95
+    },
+    {
+      "date": "2005-10-29",
+      "rank": 95
+    },
+    {
+      "date": "2005-11-05",
+      "rank": 106
+    },
+    {
+      "date": "2005-11-12",
+      "rank": 101
+    },
+    {
+      "date": "2005-11-19",
+      "rank": 102
+    },
+    {
+      "date": "2005-11-26",
+      "rank": 96
+    },
+    {
+      "date": "2005-12-03",
+      "rank": 104
+    },
+    {
+      "date": "2005-12-10",
+      "rank": 92
+    },
+    {
+      "date": "2005-12-17",
+      "rank": 77
+    },
+    {
+      "date": "2005-12-24",
+      "rank": 64
+    },
+    {
+      "date": "2005-12-31",
+      "rank": 68
+    },
+    {
+      "date": "2006-01-07",
+      "rank": 74
+    },
+    {
+      "date": "2006-01-14",
+      "rank": 132
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 156
+    },
+    {
+      "date": "2006-01-28",
+      "rank": 148
+    },
+    {
+      "date": "2006-02-04",
+      "rank": 149
+    },
+    {
+      "date": "2006-02-11",
+      "rank": 178
+    },
+    {
+      "date": "2006-02-18",
+      "rank": 192
+    },
+    {
+      "date": "2006-03-04",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Honkytonk U",
+      "id": "honkytonk-u-toby-keith"
+    },
+    {
+      "title": "As Good as I Once Was",
+      "id": "as-good-as-i-once-was-toby-keith"
+    },
+    {
+      "title": "Big Blue Note",
+      "id": "big-blue-note-toby-keith"
+    },
+    {
+      "title": "She Ain’t Hooked on Me No More",
+      "id": null
+    },
+    {
+      "title": "Just the Guy to Do It",
+      "id": null
+    },
+    {
+      "title": "She Left Me",
+      "id": null
+    },
+    {
+      "title": "Knock Yourself Out",
+      "id": null
+    },
+    {
+      "title": "You Ain’t Leavin’ (Thank God Are Ya)",
+      "id": null
+    },
+    {
+      "title": "I Got It Bad",
+      "id": null
+    },
+    {
+      "title": "Your Smile",
+      "id": null
+    },
+    {
+      "title": "Where You Gonna Go",
+      "id": null
+    },
+    {
+      "title": "You Caught Me at a Bad Time",
+      "id": null
+    }
+  ]
+}
