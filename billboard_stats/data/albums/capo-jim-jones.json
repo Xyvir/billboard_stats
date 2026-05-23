@@ -1,1 +1,102 @@
-{"id": "capo-jim-jones", "title": "Capo", "artist": "Jim Jones", "peak": 20, "history": [{"date": "2011-04-23", "rank": 20}, {"date": "2011-04-30", "rank": 68}, {"date": "2011-05-07", "rank": 111}, {"date": "2011-05-14", "rank": 110}]}
+{
+  "id": "capo-jim-jones",
+  "title": "Capo",
+  "artist": "Jim Jones",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2011-04-23",
+      "rank": 20
+    },
+    {
+      "date": "2011-04-30",
+      "rank": 68
+    },
+    {
+      "date": "2011-05-07",
+      "rank": 111
+    },
+    {
+      "date": "2011-05-14",
+      "rank": 110
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Deep Blue",
+      "id": null
+    },
+    {
+      "title": "Carton of Milk",
+      "id": null
+    },
+    {
+      "title": "The Paper",
+      "id": null
+    },
+    {
+      "title": "Heart Attack",
+      "id": null
+    },
+    {
+      "title": "Everybody Jones",
+      "id": null
+    },
+    {
+      "title": "Drops Is Out",
+      "id": null
+    },
+    {
+      "title": "Let Me Fly",
+      "id": null
+    },
+    {
+      "title": "Getting to the Money",
+      "id": null
+    },
+    {
+      "title": "Take a Bow",
+      "id": null
+    },
+    {
+      "title": "Perfect Day",
+      "id": null
+    },
+    {
+      "title": "Changing the Locks",
+      "id": null
+    },
+    {
+      "title": "God Bless the Child",
+      "id": null
+    },
+    {
+      "title": "Itza",
+      "id": null
+    },
+    {
+      "title": "Baggage Claim",
+      "id": null
+    },
+    {
+      "title": "Salute",
+      "id": null
+    },
+    {
+      "title": "Hockey Bag",
+      "id": null
+    },
+    {
+      "title": "Dope Boi",
+      "id": null
+    },
+    {
+      "title": "Bussa Move",
+      "id": null
+    }
+  ]
+}

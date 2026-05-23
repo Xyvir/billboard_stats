@@ -1,1 +1,94 @@
-{"id": "canyon-paul-winter", "title": "Canyon", "artist": "Paul Winter", "peak": 138, "history": [{"date": "1986-05-03", "rank": 196}, {"date": "1986-05-10", "rank": 167}, {"date": "1986-05-17", "rank": 156}, {"date": "1986-05-24", "rank": 148}, {"date": "1986-05-31", "rank": 145}, {"date": "1986-06-07", "rank": 141}, {"date": "1986-06-14", "rank": 139}, {"date": "1986-06-21", "rank": 138}, {"date": "1986-06-28", "rank": 169}, {"date": "1986-07-05", "rank": 166}, {"date": "1986-07-12", "rank": 166}]}
+{
+  "id": "canyon-paul-winter",
+  "title": "Canyon",
+  "artist": "Paul Winter",
+  "peak": 138,
+  "history": [
+    {
+      "date": "1986-05-03",
+      "rank": 196
+    },
+    {
+      "date": "1986-05-10",
+      "rank": 167
+    },
+    {
+      "date": "1986-05-17",
+      "rank": 156
+    },
+    {
+      "date": "1986-05-24",
+      "rank": 148
+    },
+    {
+      "date": "1986-05-31",
+      "rank": 145
+    },
+    {
+      "date": "1986-06-07",
+      "rank": 141
+    },
+    {
+      "date": "1986-06-14",
+      "rank": 139
+    },
+    {
+      "date": "1986-06-21",
+      "rank": 138
+    },
+    {
+      "date": "1986-06-28",
+      "rank": 169
+    },
+    {
+      "date": "1986-07-05",
+      "rank": 166
+    },
+    {
+      "date": "1986-07-12",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Grand Canyon Sunrise",
+      "id": null
+    },
+    {
+      "title": "Morning Echoes",
+      "id": null
+    },
+    {
+      "title": "Bright Angel",
+      "id": null
+    },
+    {
+      "title": "Raven Dance",
+      "id": null
+    },
+    {
+      "title": "Bedrock Cathedral",
+      "id": null
+    },
+    {
+      "title": "River Run",
+      "id": null
+    },
+    {
+      "title": "Elves' Chasm",
+      "id": null
+    },
+    {
+      "title": "Sockdolager",
+      "id": null
+    },
+    {
+      "title": "Air",
+      "id": null
+    },
+    {
+      "title": "Grand Canyon Sunset",
+      "id": null
+    }
+  ]
+}
