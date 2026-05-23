@@ -1,1 +1,86 @@
-{"id": "guitar-slinger-vince-gill", "title": "Guitar Slinger", "artist": "Vince Gill", "peak": 14, "history": [{"date": "2011-11-12", "rank": 14}, {"date": "2011-11-19", "rank": 50}, {"date": "2011-11-26", "rank": 86}, {"date": "2011-12-03", "rank": 109}]}
+{
+  "id": "guitar-slinger-vince-gill",
+  "title": "Guitar Slinger",
+  "artist": "Vince Gill",
+  "peak": 14,
+  "history": [
+    {
+      "date": "2011-11-12",
+      "rank": 14
+    },
+    {
+      "date": "2011-11-19",
+      "rank": 50
+    },
+    {
+      "date": "2011-11-26",
+      "rank": 86
+    },
+    {
+      "date": "2011-12-03",
+      "rank": 109
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When Lonely Comes Around",
+      "id": "whenever-you-come-around-vince-gill"
+    },
+    {
+      "title": "Guitar Slinger",
+      "id": null
+    },
+    {
+      "title": "All Nighter Comin’",
+      "id": null
+    },
+    {
+      "title": "Tell Me Fool",
+      "id": null
+    },
+    {
+      "title": "Threaten Me With Heaven",
+      "id": null
+    },
+    {
+      "title": "When the Lady Sings the Blues",
+      "id": null
+    },
+    {
+      "title": "Who Wouldn’t Fall in Love With You",
+      "id": null
+    },
+    {
+      "title": "True Love",
+      "id": null
+    },
+    {
+      "title": "Bread and Water",
+      "id": null
+    },
+    {
+      "title": "Billy Paul",
+      "id": null
+    },
+    {
+      "title": "The Old Lucky Diamond Motel",
+      "id": null
+    },
+    {
+      "title": "Lipstick Everywhere",
+      "id": null
+    },
+    {
+      "title": "One More Thing I Wished I’d Said",
+      "id": null
+    },
+    {
+      "title": "If I Die",
+      "id": null
+    },
+    {
+      "title": "Buttermilk John",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,258 @@
-{"id": "guilty-barbra-streisand", "title": "Guilty", "artist": "Barbra Streisand", "peak": 1, "history": [{"date": "1980-10-11", "rank": 15}, {"date": "1980-10-18", "rank": 2}, {"date": "1980-10-25", "rank": 1}, {"date": "1980-11-01", "rank": 1}, {"date": "1980-11-08", "rank": 2}, {"date": "1980-11-15", "rank": 2}, {"date": "1980-11-22", "rank": 2}, {"date": "1980-11-29", "rank": 2}, {"date": "1980-12-06", "rank": 1}, {"date": "1980-12-13", "rank": 2}, {"date": "1980-12-20", "rank": 2}, {"date": "1980-12-27", "rank": 2}, {"date": "1981-01-03", "rank": 2}, {"date": "1981-01-10", "rank": 2}, {"date": "1981-01-17", "rank": 5}, {"date": "1981-01-24", "rank": 8}, {"date": "1981-01-31", "rank": 8}, {"date": "1981-02-07", "rank": 11}, {"date": "1981-02-14", "rank": 11}, {"date": "1981-02-21", "rank": 17}, {"date": "1981-02-28", "rank": 19}, {"date": "1981-03-07", "rank": 15}, {"date": "1981-03-14", "rank": 11}, {"date": "1981-03-21", "rank": 10}, {"date": "1981-03-28", "rank": 10}, {"date": "1981-04-04", "rank": 11}, {"date": "1981-04-11", "rank": 14}, {"date": "1981-04-18", "rank": 14}, {"date": "1981-04-25", "rank": 19}, {"date": "1981-05-02", "rank": 19}, {"date": "1981-05-09", "rank": 24}, {"date": "1981-05-16", "rank": 23}, {"date": "1981-05-23", "rank": 22}, {"date": "1981-05-30", "rank": 42}, {"date": "1981-06-06", "rank": 52}, {"date": "1981-06-13", "rank": 52}, {"date": "1981-06-20", "rank": 71}, {"date": "1981-06-27", "rank": 79}, {"date": "1981-07-04", "rank": 84}, {"date": "1981-07-11", "rank": 100}, {"date": "1981-07-18", "rank": 106}, {"date": "1981-07-25", "rank": 122}, {"date": "1981-08-01", "rank": 128}, {"date": "1981-08-08", "rank": 128}, {"date": "1981-08-15", "rank": 128}, {"date": "1981-08-22", "rank": 128}, {"date": "1981-08-29", "rank": 140}, {"date": "1981-09-05", "rank": 187}, {"date": "1981-09-12", "rank": 187}]}
+{
+  "id": "guilty-barbra-streisand",
+  "title": "Guilty",
+  "artist": "Barbra Streisand",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1980-10-11",
+      "rank": 15
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 2
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 1
+    },
+    {
+      "date": "1980-11-01",
+      "rank": 1
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 2
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 2
+    },
+    {
+      "date": "1980-11-22",
+      "rank": 2
+    },
+    {
+      "date": "1980-11-29",
+      "rank": 2
+    },
+    {
+      "date": "1980-12-06",
+      "rank": 1
+    },
+    {
+      "date": "1980-12-13",
+      "rank": 2
+    },
+    {
+      "date": "1980-12-20",
+      "rank": 2
+    },
+    {
+      "date": "1980-12-27",
+      "rank": 2
+    },
+    {
+      "date": "1981-01-03",
+      "rank": 2
+    },
+    {
+      "date": "1981-01-10",
+      "rank": 2
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 5
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 8
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 8
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 11
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 11
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 17
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 19
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 15
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 11
+    },
+    {
+      "date": "1981-03-21",
+      "rank": 10
+    },
+    {
+      "date": "1981-03-28",
+      "rank": 10
+    },
+    {
+      "date": "1981-04-04",
+      "rank": 11
+    },
+    {
+      "date": "1981-04-11",
+      "rank": 14
+    },
+    {
+      "date": "1981-04-18",
+      "rank": 14
+    },
+    {
+      "date": "1981-04-25",
+      "rank": 19
+    },
+    {
+      "date": "1981-05-02",
+      "rank": 19
+    },
+    {
+      "date": "1981-05-09",
+      "rank": 24
+    },
+    {
+      "date": "1981-05-16",
+      "rank": 23
+    },
+    {
+      "date": "1981-05-23",
+      "rank": 22
+    },
+    {
+      "date": "1981-05-30",
+      "rank": 42
+    },
+    {
+      "date": "1981-06-06",
+      "rank": 52
+    },
+    {
+      "date": "1981-06-13",
+      "rank": 52
+    },
+    {
+      "date": "1981-06-20",
+      "rank": 71
+    },
+    {
+      "date": "1981-06-27",
+      "rank": 79
+    },
+    {
+      "date": "1981-07-04",
+      "rank": 84
+    },
+    {
+      "date": "1981-07-11",
+      "rank": 100
+    },
+    {
+      "date": "1981-07-18",
+      "rank": 106
+    },
+    {
+      "date": "1981-07-25",
+      "rank": 122
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 128
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 128
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 128
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 128
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 140
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 187
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Woman in Love",
+      "id": "woman-in-love-barbra-streisand"
+    },
+    {
+      "title": "Promises",
+      "id": "promises-barbra-streisand"
+    },
+    {
+      "title": "Guilty",
+      "id": null
+    },
+    {
+      "title": "Run Wild",
+      "id": null
+    },
+    {
+      "title": "The Love Inside",
+      "id": null
+    },
+    {
+      "title": "What Kind of Fool",
+      "id": null
+    },
+    {
+      "title": "Life Story",
+      "id": null
+    },
+    {
+      "title": "Never Give Up",
+      "id": null
+    },
+    {
+      "title": "Make It Like a Memory",
+      "id": null
+    },
+    {
+      "title": "Interview With Barbra Streisand & Barry Gibb",
+      "id": null
+    },
+    {
+      "title": "Guilty (live from One Voice)",
+      "id": null
+    },
+    {
+      "title": "What Kind of Fool (live from One Voice)",
+      "id": null
+    },
+    {
+      "title": "Stranger in a Strange Land (excerpt)",
+      "id": null
+    }
+  ]
+}

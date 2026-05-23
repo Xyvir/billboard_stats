@@ -1,1 +1,98 @@
-{"id": "guitar-man-elvis-presley", "title": "Guitar Man", "artist": "Elvis Presley", "peak": 49, "history": [{"date": "1981-02-14", "rank": 138}, {"date": "1981-02-21", "rank": 98}, {"date": "1981-02-28", "rank": 74}, {"date": "1981-03-07", "rank": 60}, {"date": "1981-03-14", "rank": 53}, {"date": "1981-03-21", "rank": 50}, {"date": "1981-03-28", "rank": 49}, {"date": "1981-04-04", "rank": 69}, {"date": "1981-04-11", "rank": 73}, {"date": "1981-04-18", "rank": 92}, {"date": "1981-04-25", "rank": 96}, {"date": "1981-05-02", "rank": 195}]}
+{
+  "id": "guitar-man-elvis-presley",
+  "title": "Guitar Man",
+  "artist": "Elvis Presley",
+  "peak": 49,
+  "history": [
+    {
+      "date": "1981-02-14",
+      "rank": 138
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 98
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 74
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 60
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 53
+    },
+    {
+      "date": "1981-03-21",
+      "rank": 50
+    },
+    {
+      "date": "1981-03-28",
+      "rank": 49
+    },
+    {
+      "date": "1981-04-04",
+      "rank": 69
+    },
+    {
+      "date": "1981-04-11",
+      "rank": 73
+    },
+    {
+      "date": "1981-04-18",
+      "rank": 92
+    },
+    {
+      "date": "1981-04-25",
+      "rank": 96
+    },
+    {
+      "date": "1981-05-02",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Guitar Man",
+      "id": "guitar-man-elvis-presley"
+    },
+    {
+      "title": "After Loving You",
+      "id": "ain-t-that-loving-you-baby-elvis-presley"
+    },
+    {
+      "title": "Clean Up Your Own Backyard",
+      "id": "clean-up-your-own-back-yard-elvis-presley"
+    },
+    {
+      "title": "She Thinks I Still Care",
+      "id": "moody-blue-she-thinks-i-still-care-elvis-presley"
+    },
+    {
+      "title": "I’m Moving On",
+      "id": "i-m-leavin-elvis-presley"
+    },
+    {
+      "title": "Too Much Monkey Business",
+      "id": null
+    },
+    {
+      "title": "Just Call Me Lonesome",
+      "id": null
+    },
+    {
+      "title": "Lovin Arms",
+      "id": null
+    },
+    {
+      "title": "You Asked Me To",
+      "id": null
+    },
+    {
+      "title": "Faded Love (remaked version)",
+      "id": null
+    }
+  ]
+}

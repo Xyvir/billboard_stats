@@ -1,1 +1,70 @@
-{"id": "gunslinger-garth-brooks", "title": "Gunslinger", "artist": "Garth Brooks", "peak": 25, "history": [{"date": "2016-12-17", "rank": 25}, {"date": "2016-12-24", "rank": 46}, {"date": "2016-12-31", "rank": 85}, {"date": "2017-01-07", "rank": 65}, {"date": "2017-01-14", "rank": 111}]}
+{
+  "id": "gunslinger-garth-brooks",
+  "title": "Gunslinger",
+  "artist": "Garth Brooks",
+  "peak": 25,
+  "history": [
+    {
+      "date": "2016-12-17",
+      "rank": 25
+    },
+    {
+      "date": "2016-12-24",
+      "rank": 46
+    },
+    {
+      "date": "2016-12-31",
+      "rank": 85
+    },
+    {
+      "date": "2017-01-07",
+      "rank": 65
+    },
+    {
+      "date": "2017-01-14",
+      "rank": 111
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ask Me How I Know",
+      "id": "ask-me-how-i-know-garth-brooks"
+    },
+    {
+      "title": "Honky‐Tonk Somewhere",
+      "id": null
+    },
+    {
+      "title": "Weekend",
+      "id": null
+    },
+    {
+      "title": "Baby, Let’s Lay Down and Dance",
+      "id": null
+    },
+    {
+      "title": "He Really Loves You",
+      "id": null
+    },
+    {
+      "title": "Pure Adrenaline",
+      "id": null
+    },
+    {
+      "title": "Whiskey to Wine",
+      "id": null
+    },
+    {
+      "title": "Bang! Bang!",
+      "id": null
+    },
+    {
+      "title": "Cowboys and Friends",
+      "id": null
+    },
+    {
+      "title": "8teen",
+      "id": null
+    }
+  ]
+}
