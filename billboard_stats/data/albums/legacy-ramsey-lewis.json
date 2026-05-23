@@ -1,1 +1,54 @@
-{"id": "legacy-ramsey-lewis", "title": "Legacy", "artist": "Ramsey Lewis", "peak": 149, "history": [{"date": "1978-10-28", "rank": 181}, {"date": "1978-11-04", "rank": 171}, {"date": "1978-11-11", "rank": 161}, {"date": "1978-11-18", "rank": 151}, {"date": "1978-11-25", "rank": 149}]}
+{
+  "id": "legacy-ramsey-lewis",
+  "title": "Legacy",
+  "artist": "Ramsey Lewis",
+  "peak": 149,
+  "history": [
+    {
+      "date": "1978-10-28",
+      "rank": 181
+    },
+    {
+      "date": "1978-11-04",
+      "rank": 171
+    },
+    {
+      "date": "1978-11-11",
+      "rank": 161
+    },
+    {
+      "date": "1978-11-18",
+      "rank": 151
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 149
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Legacy: a) Toccata b) Adagio c) Fugue",
+      "id": null
+    },
+    {
+      "title": "All the Way Live",
+      "id": null
+    },
+    {
+      "title": "I Love to Please You",
+      "id": null
+    },
+    {
+      "title": "Well, Well, Well",
+      "id": null
+    },
+    {
+      "title": "Moogin' On",
+      "id": null
+    },
+    {
+      "title": "Don't Look Back",
+      "id": null
+    }
+  ]
+}

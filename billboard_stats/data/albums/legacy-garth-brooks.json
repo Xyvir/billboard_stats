@@ -1,1 +1,302 @@
-{"id": "legacy-garth-brooks", "title": "Legacy", "artist": "Garth Brooks", "peak": 149, "history": [{"date": "2019-12-14", "rank": 162}, {"date": "2019-12-21", "rank": 149}, {"date": "2019-12-28", "rank": 188}]}
+{
+  "id": "legacy-garth-brooks",
+  "title": "Legacy",
+  "artist": "Garth Brooks",
+  "peak": 149,
+  "history": [
+    {
+      "date": "2019-12-14",
+      "rank": 162
+    },
+    {
+      "date": "2019-12-21",
+      "rank": 149
+    },
+    {
+      "date": "2019-12-28",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wild Horses",
+      "id": "wild-horses-garth-brooks"
+    },
+    {
+      "title": "Ask Me How I Know",
+      "id": "ask-me-how-i-know-garth-brooks"
+    },
+    {
+      "title": "More Than A Memory",
+      "id": "more-than-a-memory-garth-brooks"
+    },
+    {
+      "title": "The Thunder Rolls (master)",
+      "id": null
+    },
+    {
+      "title": "New Way to Fly",
+      "id": null
+    },
+    {
+      "title": "Two of a Kind, Workin’ on a Full House",
+      "id": null
+    },
+    {
+      "title": "Victim of the Game",
+      "id": null
+    },
+    {
+      "title": "Friends in Low Places",
+      "id": null
+    },
+    {
+      "title": "Unanswered Prayers",
+      "id": null
+    },
+    {
+      "title": "Same Old Story",
+      "id": null
+    },
+    {
+      "title": "Mr. Blue",
+      "id": null
+    },
+    {
+      "title": "Wolves",
+      "id": null
+    },
+    {
+      "title": "We Shall Be Free",
+      "id": null
+    },
+    {
+      "title": "Somewhere Other Than the Night (master)",
+      "id": null
+    },
+    {
+      "title": "Mr. Right",
+      "id": null
+    },
+    {
+      "title": "Every Now and Then",
+      "id": null
+    },
+    {
+      "title": "Walking After Midnight",
+      "id": null
+    },
+    {
+      "title": "Dixie Chicken",
+      "id": null
+    },
+    {
+      "title": "Learning to Live Again",
+      "id": null
+    },
+    {
+      "title": "That Summer",
+      "id": null
+    },
+    {
+      "title": "Night Rider’s Lament",
+      "id": null
+    },
+    {
+      "title": "Face to Face",
+      "id": null
+    },
+    {
+      "title": "Standing Outside the Fire",
+      "id": null
+    },
+    {
+      "title": "American Honky‐Tonk Bar Association",
+      "id": null
+    },
+    {
+      "title": "One Night a Day",
+      "id": null
+    },
+    {
+      "title": "Kickin’ and Screamin’",
+      "id": null
+    },
+    {
+      "title": "Ain’t Going Down (’til the Sun Comes Up)",
+      "id": null
+    },
+    {
+      "title": "The Red Strokes",
+      "id": null
+    },
+    {
+      "title": "Callin’ Baton Rouge",
+      "id": null
+    },
+    {
+      "title": "The Night Will Only Know",
+      "id": null
+    },
+    {
+      "title": "The Cowboy Song",
+      "id": null
+    },
+    {
+      "title": "The Old Stuff",
+      "id": null
+    },
+    {
+      "title": "Cowboys and Angels",
+      "id": null
+    },
+    {
+      "title": "The Fever",
+      "id": null
+    },
+    {
+      "title": "That Ol’ Wind",
+      "id": null
+    },
+    {
+      "title": "Rollin’",
+      "id": null
+    },
+    {
+      "title": "The Change",
+      "id": null
+    },
+    {
+      "title": "The Beaches of Cheyenne",
+      "id": null
+    },
+    {
+      "title": "It’s Midnight Cinderella",
+      "id": null
+    },
+    {
+      "title": "She’s Every Woman",
+      "id": null
+    },
+    {
+      "title": "Ireland",
+      "id": null
+    },
+    {
+      "title": "The Thunder Rolls (The Extended Concert Version)",
+      "id": null
+    },
+    {
+      "title": "Fishin' In The Dark",
+      "id": null
+    },
+    {
+      "title": "In Another’s Eyes",
+      "id": null
+    },
+    {
+      "title": "All Day Long",
+      "id": null
+    },
+    {
+      "title": "Rodeo",
+      "id": null
+    },
+    {
+      "title": "Mom",
+      "id": null
+    },
+    {
+      "title": "Papa Loved Mama",
+      "id": null
+    },
+    {
+      "title": "Guy Goin' Nowhere",
+      "id": null
+    },
+    {
+      "title": "Friends In Low Places (The Extended Concert Version)",
+      "id": null
+    },
+    {
+      "title": "Two Of A Kind (Workin' On A Full House)",
+      "id": null
+    },
+    {
+      "title": "People Loving People",
+      "id": null
+    },
+    {
+      "title": "Shameless",
+      "id": null
+    },
+    {
+      "title": "Ain't Going Down ('Til The Sun Comes Up)",
+      "id": null
+    },
+    {
+      "title": "Tacoma",
+      "id": null
+    },
+    {
+      "title": "Standing Outside The Fire",
+      "id": null
+    },
+    {
+      "title": "Callin' Baton Rouge",
+      "id": null
+    },
+    {
+      "title": "The River",
+      "id": null
+    },
+    {
+      "title": "The Beaches Of Cheyenne",
+      "id": null
+    },
+    {
+      "title": "The Fireman",
+      "id": null
+    },
+    {
+      "title": "Two Piña Coladas",
+      "id": null
+    },
+    {
+      "title": "Whiskey to Wine",
+      "id": null
+    },
+    {
+      "title": "The Dance",
+      "id": null
+    },
+    {
+      "title": "This Ain’t Tennessee",
+      "id": null
+    },
+    {
+      "title": "Somewhere Other Than the Night",
+      "id": null
+    },
+    {
+      "title": "Every Now And Then",
+      "id": null
+    },
+    {
+      "title": "Something With a Ring to It",
+      "id": null
+    },
+    {
+      "title": "The Night I Called the Old Man Out",
+      "id": null
+    },
+    {
+      "title": "Anonymous",
+      "id": null
+    },
+    {
+      "title": "To Make You Feel My Love",
+      "id": null
+    }
+  ]
+}

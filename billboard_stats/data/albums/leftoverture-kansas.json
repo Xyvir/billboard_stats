@@ -1,1 +1,210 @@
-{"id": "leftoverture-kansas", "title": "Leftoverture", "artist": "Kansas", "peak": 5, "history": [{"date": "1976-11-06", "rank": 96}, {"date": "1976-11-13", "rank": 77}, {"date": "1976-11-20", "rank": 64}, {"date": "1976-11-27", "rank": 54}, {"date": "1976-12-04", "rank": 44}, {"date": "1976-12-11", "rank": 39}, {"date": "1976-12-18", "rank": 35}, {"date": "1976-12-25", "rank": 34}, {"date": "1977-01-01", "rank": 34}, {"date": "1977-01-08", "rank": 33}, {"date": "1977-01-15", "rank": 47}, {"date": "1977-01-22", "rank": 40}, {"date": "1977-01-29", "rank": 36}, {"date": "1977-02-05", "rank": 32}, {"date": "1977-02-12", "rank": 28}, {"date": "1977-02-19", "rank": 21}, {"date": "1977-02-26", "rank": 16}, {"date": "1977-03-05", "rank": 15}, {"date": "1977-03-12", "rank": 14}, {"date": "1977-03-19", "rank": 12}, {"date": "1977-03-26", "rank": 8}, {"date": "1977-04-02", "rank": 5}, {"date": "1977-04-09", "rank": 5}, {"date": "1977-04-16", "rank": 5}, {"date": "1977-04-23", "rank": 5}, {"date": "1977-04-30", "rank": 7}, {"date": "1977-05-07", "rank": 10}, {"date": "1977-05-14", "rank": 14}, {"date": "1977-05-21", "rank": 29}, {"date": "1977-05-28", "rank": 28}, {"date": "1977-06-04", "rank": 30}, {"date": "1977-06-11", "rank": 30}, {"date": "1977-06-18", "rank": 59}, {"date": "1977-06-25", "rank": 89}, {"date": "1977-07-02", "rank": 103}, {"date": "1977-07-09", "rank": 103}, {"date": "1977-07-16", "rank": 102}, {"date": "1977-07-23", "rank": 100}, {"date": "1977-07-30", "rank": 97}, {"date": "1977-08-06", "rank": 115}, {"date": "1977-08-13", "rank": 133}, {"date": "1977-08-20", "rank": 187}]}
+{
+  "id": "leftoverture-kansas",
+  "title": "Leftoverture",
+  "artist": "Kansas",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1976-11-06",
+      "rank": 96
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 77
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 64
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 54
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 44
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 39
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 35
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 34
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 34
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 33
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 47
+    },
+    {
+      "date": "1977-01-22",
+      "rank": 40
+    },
+    {
+      "date": "1977-01-29",
+      "rank": 36
+    },
+    {
+      "date": "1977-02-05",
+      "rank": 32
+    },
+    {
+      "date": "1977-02-12",
+      "rank": 28
+    },
+    {
+      "date": "1977-02-19",
+      "rank": 21
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 16
+    },
+    {
+      "date": "1977-03-05",
+      "rank": 15
+    },
+    {
+      "date": "1977-03-12",
+      "rank": 14
+    },
+    {
+      "date": "1977-03-19",
+      "rank": 12
+    },
+    {
+      "date": "1977-03-26",
+      "rank": 8
+    },
+    {
+      "date": "1977-04-02",
+      "rank": 5
+    },
+    {
+      "date": "1977-04-09",
+      "rank": 5
+    },
+    {
+      "date": "1977-04-16",
+      "rank": 5
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 5
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 7
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 10
+    },
+    {
+      "date": "1977-05-14",
+      "rank": 14
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 29
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 28
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 30
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 30
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 59
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 89
+    },
+    {
+      "date": "1977-07-02",
+      "rank": 103
+    },
+    {
+      "date": "1977-07-09",
+      "rank": 103
+    },
+    {
+      "date": "1977-07-16",
+      "rank": 102
+    },
+    {
+      "date": "1977-07-23",
+      "rank": 100
+    },
+    {
+      "date": "1977-07-30",
+      "rank": 97
+    },
+    {
+      "date": "1977-08-06",
+      "rank": 115
+    },
+    {
+      "date": "1977-08-13",
+      "rank": 133
+    },
+    {
+      "date": "1977-08-20",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Carry On Wayward Son",
+      "id": "carry-on-wayward-son-kansas"
+    },
+    {
+      "title": "The Wall",
+      "id": null
+    },
+    {
+      "title": "What’s on My Mind",
+      "id": null
+    },
+    {
+      "title": "Miracles out of Nowhere",
+      "id": null
+    },
+    {
+      "title": "Opus Insert",
+      "id": null
+    },
+    {
+      "title": "Questions of My Childhood",
+      "id": null
+    },
+    {
+      "title": "Cheyenne Anthem",
+      "id": null
+    },
+    {
+      "title": "Magnum Opus: a. Father Padilla Meets the Perfect Gnat / b. Howling at the Moon / c. Man Overboard / d. Industry on Parade / e. Release the Beavers / f. Final Attack",
+      "id": null
+    }
+  ]
+}
