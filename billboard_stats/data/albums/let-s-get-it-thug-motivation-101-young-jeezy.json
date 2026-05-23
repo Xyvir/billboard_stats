@@ -1,1 +1,278 @@
-{"id": "let-s-get-it-thug-motivation-101-young-jeezy", "title": "Let's Get It: Thug Motivation 101", "artist": "Young Jeezy", "peak": 2, "history": [{"date": "2005-08-13", "rank": 2}, {"date": "2005-08-20", "rank": 4}, {"date": "2005-08-27", "rank": 6}, {"date": "2005-09-03", "rank": 10}, {"date": "2005-09-10", "rank": 7}, {"date": "2005-09-17", "rank": 11}, {"date": "2005-09-24", "rank": 10}, {"date": "2005-10-01", "rank": 13}, {"date": "2005-10-08", "rank": 12}, {"date": "2005-10-15", "rank": 15}, {"date": "2005-10-22", "rank": 19}, {"date": "2005-10-29", "rank": 10}, {"date": "2005-11-05", "rank": 13}, {"date": "2005-11-12", "rank": 16}, {"date": "2005-11-19", "rank": 18}, {"date": "2005-11-26", "rank": 19}, {"date": "2005-12-03", "rank": 31}, {"date": "2005-12-10", "rank": 46}, {"date": "2005-12-17", "rank": 49}, {"date": "2005-12-24", "rank": 63}, {"date": "2005-12-31", "rank": 65}, {"date": "2006-01-07", "rank": 61}, {"date": "2006-01-14", "rank": 32}, {"date": "2006-01-21", "rank": 37}, {"date": "2006-01-28", "rank": 33}, {"date": "2006-02-04", "rank": 42}, {"date": "2006-02-11", "rank": 44}, {"date": "2006-02-18", "rank": 47}, {"date": "2006-02-25", "rank": 64}, {"date": "2006-03-04", "rank": 71}, {"date": "2006-03-11", "rank": 68}, {"date": "2006-03-18", "rank": 67}, {"date": "2006-03-25", "rank": 74}, {"date": "2006-04-01", "rank": 79}, {"date": "2006-04-08", "rank": 105}, {"date": "2006-04-15", "rank": 106}, {"date": "2006-04-22", "rank": 121}, {"date": "2006-04-29", "rank": 137}, {"date": "2006-05-06", "rank": 126}, {"date": "2006-05-13", "rank": 139}, {"date": "2006-05-20", "rank": 145}, {"date": "2006-05-27", "rank": 170}, {"date": "2006-06-03", "rank": 156}, {"date": "2006-06-10", "rank": 167}, {"date": "2006-06-17", "rank": 155}, {"date": "2006-06-24", "rank": 188}, {"date": "2006-07-08", "rank": 200}, {"date": "2020-12-05", "rank": 162}]}
+{
+  "id": "let-s-get-it-thug-motivation-101-young-jeezy",
+  "title": "Let's Get It: Thug Motivation 101",
+  "artist": "Young Jeezy",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2005-08-13",
+      "rank": 2
+    },
+    {
+      "date": "2005-08-20",
+      "rank": 4
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 6
+    },
+    {
+      "date": "2005-09-03",
+      "rank": 10
+    },
+    {
+      "date": "2005-09-10",
+      "rank": 7
+    },
+    {
+      "date": "2005-09-17",
+      "rank": 11
+    },
+    {
+      "date": "2005-09-24",
+      "rank": 10
+    },
+    {
+      "date": "2005-10-01",
+      "rank": 13
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 12
+    },
+    {
+      "date": "2005-10-15",
+      "rank": 15
+    },
+    {
+      "date": "2005-10-22",
+      "rank": 19
+    },
+    {
+      "date": "2005-10-29",
+      "rank": 10
+    },
+    {
+      "date": "2005-11-05",
+      "rank": 13
+    },
+    {
+      "date": "2005-11-12",
+      "rank": 16
+    },
+    {
+      "date": "2005-11-19",
+      "rank": 18
+    },
+    {
+      "date": "2005-11-26",
+      "rank": 19
+    },
+    {
+      "date": "2005-12-03",
+      "rank": 31
+    },
+    {
+      "date": "2005-12-10",
+      "rank": 46
+    },
+    {
+      "date": "2005-12-17",
+      "rank": 49
+    },
+    {
+      "date": "2005-12-24",
+      "rank": 63
+    },
+    {
+      "date": "2005-12-31",
+      "rank": 65
+    },
+    {
+      "date": "2006-01-07",
+      "rank": 61
+    },
+    {
+      "date": "2006-01-14",
+      "rank": 32
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 37
+    },
+    {
+      "date": "2006-01-28",
+      "rank": 33
+    },
+    {
+      "date": "2006-02-04",
+      "rank": 42
+    },
+    {
+      "date": "2006-02-11",
+      "rank": 44
+    },
+    {
+      "date": "2006-02-18",
+      "rank": 47
+    },
+    {
+      "date": "2006-02-25",
+      "rank": 64
+    },
+    {
+      "date": "2006-03-04",
+      "rank": 71
+    },
+    {
+      "date": "2006-03-11",
+      "rank": 68
+    },
+    {
+      "date": "2006-03-18",
+      "rank": 67
+    },
+    {
+      "date": "2006-03-25",
+      "rank": 74
+    },
+    {
+      "date": "2006-04-01",
+      "rank": 79
+    },
+    {
+      "date": "2006-04-08",
+      "rank": 105
+    },
+    {
+      "date": "2006-04-15",
+      "rank": 106
+    },
+    {
+      "date": "2006-04-22",
+      "rank": 121
+    },
+    {
+      "date": "2006-04-29",
+      "rank": 137
+    },
+    {
+      "date": "2006-05-06",
+      "rank": 126
+    },
+    {
+      "date": "2006-05-13",
+      "rank": 139
+    },
+    {
+      "date": "2006-05-20",
+      "rank": 145
+    },
+    {
+      "date": "2006-05-27",
+      "rank": 170
+    },
+    {
+      "date": "2006-06-03",
+      "rank": 156
+    },
+    {
+      "date": "2006-06-10",
+      "rank": 167
+    },
+    {
+      "date": "2006-06-17",
+      "rank": 155
+    },
+    {
+      "date": "2006-06-24",
+      "rank": 188
+    },
+    {
+      "date": "2006-07-08",
+      "rank": 200
+    },
+    {
+      "date": "2020-12-05",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Hood",
+      "id": "my-hood-young-jeezy"
+    },
+    {
+      "title": "Thug Motivation 101",
+      "id": null
+    },
+    {
+      "title": "Standing Ovation",
+      "id": null
+    },
+    {
+      "title": "Gangsta Music",
+      "id": null
+    },
+    {
+      "title": "Let’s Get It / Sky’s the Limit",
+      "id": null
+    },
+    {
+      "title": "And Then What",
+      "id": null
+    },
+    {
+      "title": "Go Crazy",
+      "id": null
+    },
+    {
+      "title": "Last of a Dying Breed",
+      "id": null
+    },
+    {
+      "title": "Bottom of the Map",
+      "id": null
+    },
+    {
+      "title": "Get Ya Mind Right",
+      "id": null
+    },
+    {
+      "title": "Trap Star",
+      "id": null
+    },
+    {
+      "title": "Bang",
+      "id": null
+    },
+    {
+      "title": "Don’t Get Caught",
+      "id": null
+    },
+    {
+      "title": "Soul Survivor",
+      "id": null
+    },
+    {
+      "title": "Trap or Die",
+      "id": null
+    },
+    {
+      "title": "Tear It Up",
+      "id": null
+    },
+    {
+      "title": "That’s How Ya Feel",
+      "id": null
+    },
+    {
+      "title": "Talk to Em",
+      "id": null
+    },
+    {
+      "title": "Air Forces",
+      "id": null
+    }
+  ]
+}

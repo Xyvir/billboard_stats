@@ -1,1 +1,398 @@
-{"id": "let-s-get-it-on-marvin-gaye", "title": "Let's Get It On", "artist": "Marvin Gaye", "peak": 2, "history": [{"date": "1973-09-15", "rank": 28}, {"date": "1973-09-22", "rank": 11}, {"date": "1973-09-29", "rank": 6}, {"date": "1973-10-06", "rank": 3}, {"date": "1973-10-13", "rank": 3}, {"date": "1973-10-20", "rank": 2}, {"date": "1973-10-27", "rank": 4}, {"date": "1973-11-03", "rank": 5}, {"date": "1973-11-10", "rank": 7}, {"date": "1973-11-17", "rank": 10}, {"date": "1973-11-24", "rank": 12}, {"date": "1973-12-01", "rank": 12}, {"date": "1973-12-08", "rank": 13}, {"date": "1973-12-15", "rank": 15}, {"date": "1973-12-22", "rank": 22}, {"date": "1973-12-29", "rank": 35}, {"date": "1974-01-05", "rank": 36}, {"date": "1974-01-12", "rank": 37}, {"date": "1974-01-19", "rank": 52}, {"date": "1974-01-26", "rank": 53}, {"date": "1974-02-02", "rank": 54}, {"date": "1974-02-09", "rank": 57}, {"date": "1974-02-16", "rank": 59}, {"date": "1974-02-23", "rank": 68}, {"date": "1974-03-02", "rank": 69}, {"date": "1974-03-09", "rank": 74}, {"date": "1974-03-16", "rank": 75}, {"date": "1974-03-23", "rank": 76}, {"date": "1974-03-30", "rank": 94}, {"date": "1974-04-06", "rank": 97}, {"date": "1974-04-13", "rank": 98}, {"date": "1974-04-20", "rank": 117}, {"date": "1974-04-27", "rank": 117}, {"date": "1974-05-04", "rank": 117}, {"date": "1974-05-11", "rank": 111}, {"date": "1974-05-18", "rank": 120}, {"date": "1974-05-25", "rank": 130}, {"date": "1974-06-01", "rank": 176}, {"date": "1974-06-08", "rank": 169}, {"date": "1974-06-15", "rank": 153}, {"date": "1974-06-22", "rank": 140}, {"date": "1974-06-29", "rank": 123}, {"date": "1974-07-06", "rank": 121}, {"date": "1974-07-13", "rank": 111}, {"date": "1974-07-20", "rank": 108}, {"date": "1974-07-27", "rank": 103}, {"date": "1974-08-03", "rank": 99}, {"date": "1974-08-10", "rank": 94}, {"date": "1974-08-17", "rank": 88}, {"date": "1974-08-24", "rank": 101}, {"date": "1974-08-31", "rank": 121}, {"date": "1974-09-07", "rank": 179}, {"date": "1974-09-14", "rank": 194}, {"date": "1974-09-21", "rank": 194}, {"date": "1984-04-21", "rank": 132}, {"date": "1984-04-28", "rank": 128}, {"date": "1984-05-05", "rank": 127}, {"date": "1984-05-12", "rank": 127}, {"date": "1984-05-19", "rank": 141}, {"date": "1984-05-26", "rank": 172}, {"date": "1984-06-02", "rank": 196}, {"date": "2015-02-28", "rank": 52}]}
+{
+  "id": "let-s-get-it-on-marvin-gaye",
+  "title": "Let's Get It On",
+  "artist": "Marvin Gaye",
+  "peak": 2,
+  "history": [
+    {
+      "date": "1973-09-15",
+      "rank": 28
+    },
+    {
+      "date": "1973-09-22",
+      "rank": 11
+    },
+    {
+      "date": "1973-09-29",
+      "rank": 6
+    },
+    {
+      "date": "1973-10-06",
+      "rank": 3
+    },
+    {
+      "date": "1973-10-13",
+      "rank": 3
+    },
+    {
+      "date": "1973-10-20",
+      "rank": 2
+    },
+    {
+      "date": "1973-10-27",
+      "rank": 4
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 5
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 7
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 10
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 12
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 12
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 13
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 15
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 22
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 35
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 36
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 37
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 52
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 53
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 54
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 57
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 59
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 68
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 69
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 74
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 75
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 76
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 94
+    },
+    {
+      "date": "1974-04-06",
+      "rank": 97
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 98
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 117
+    },
+    {
+      "date": "1974-04-27",
+      "rank": 117
+    },
+    {
+      "date": "1974-05-04",
+      "rank": 117
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 111
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 120
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 130
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 176
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 169
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 153
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 140
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 123
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 121
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 111
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 108
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 103
+    },
+    {
+      "date": "1974-08-03",
+      "rank": 99
+    },
+    {
+      "date": "1974-08-10",
+      "rank": 94
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 88
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 101
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 121
+    },
+    {
+      "date": "1974-09-07",
+      "rank": 179
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 194
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 194
+    },
+    {
+      "date": "1984-04-21",
+      "rank": 132
+    },
+    {
+      "date": "1984-04-28",
+      "rank": 128
+    },
+    {
+      "date": "1984-05-05",
+      "rank": 127
+    },
+    {
+      "date": "1984-05-12",
+      "rank": 127
+    },
+    {
+      "date": "1984-05-19",
+      "rank": 141
+    },
+    {
+      "date": "1984-05-26",
+      "rank": 172
+    },
+    {
+      "date": "1984-06-02",
+      "rank": 196
+    },
+    {
+      "date": "2015-02-28",
+      "rank": 52
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let’s Get It On",
+      "id": "let-s-get-it-on-marvin-gaye"
+    },
+    {
+      "title": "Keep Gettin’ It On",
+      "id": "let-s-get-it-on-marvin-gaye"
+    },
+    {
+      "title": "Come Get to This",
+      "id": "come-get-to-this-marvin-gaye"
+    },
+    {
+      "title": "Distant Lover",
+      "id": "distant-lover-marvin-gaye"
+    },
+    {
+      "title": "You Sure Love to Ball",
+      "id": "you-sure-love-to-ball-marvin-gaye"
+    },
+    {
+      "title": "You’re the Man (alternate version 1)",
+      "id": "you-re-the-man-part-1-marvin-gaye"
+    },
+    {
+      "title": "You’re the Man (alternate version 2)",
+      "id": "you-re-the-man-part-1-marvin-gaye"
+    },
+    {
+      "title": "Let’s Get It On (demo)",
+      "id": "let-s-get-it-on-marvin-gaye"
+    },
+    {
+      "title": "Come Get to This (alternate mix)",
+      "id": "come-get-to-this-marvin-gaye"
+    },
+    {
+      "title": "Distant Lover (alternate mix)",
+      "id": "distant-lover-marvin-gaye"
+    },
+    {
+      "title": "You Are That Special One",
+      "id": "you-re-a-wonderful-one-marvin-gaye"
+    },
+    {
+      "title": "Come Get to This (live)",
+      "id": "come-get-to-this-marvin-gaye"
+    },
+    {
+      "title": "Please Stay (Once You Go Away)",
+      "id": null
+    },
+    {
+      "title": "If I Should Die Tonight",
+      "id": null
+    },
+    {
+      "title": "Just to Keep You Satisfied",
+      "id": null
+    },
+    {
+      "title": "‘Song #3’ (instrumental)",
+      "id": null
+    },
+    {
+      "title": "My Love Is Growing",
+      "id": null
+    },
+    {
+      "title": "Cakes (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Symphony (undubbed version)",
+      "id": null
+    },
+    {
+      "title": "I’d Give My Life for You (alternate mix)",
+      "id": null
+    },
+    {
+      "title": "I Love You Secretly",
+      "id": null
+    },
+    {
+      "title": "Symphony (demo vocal)",
+      "id": null
+    },
+    {
+      "title": "Let’s Get It On, Part II A.K.A. Keep Gettin’ It On (complete)",
+      "id": null
+    },
+    {
+      "title": "Please Stay (Once You Go Away) (alternate mix)",
+      "id": null
+    },
+    {
+      "title": "If I Should Die Tonight (demo)",
+      "id": null
+    },
+    {
+      "title": "You Sure Love to Ball (alternate mix with alternate vocal)",
+      "id": null
+    },
+    {
+      "title": "Just to Keep You Satisfied (a cappella with alternate vocal)",
+      "id": null
+    },
+    {
+      "title": "Where Are We Going? (alternate mix)",
+      "id": null
+    },
+    {
+      "title": "The World Is Rated X (alternate mix)",
+      "id": null
+    },
+    {
+      "title": "I’m Gonna Give You Respect",
+      "id": null
+    },
+    {
+      "title": "Try It, You’ll Like It",
+      "id": null
+    },
+    {
+      "title": "We Can Make It Baby",
+      "id": null
+    },
+    {
+      "title": "Running From Love (instrumental) (version 1)",
+      "id": null
+    },
+    {
+      "title": "Mandota (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Running From Love (instrumental) (version 2)",
+      "id": null
+    }
+  ]
+}

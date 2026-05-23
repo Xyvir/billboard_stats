@@ -1,1 +1,50 @@
-{"id": "let-s-do-it-today-lenny-williams", "title": "Let's Do It Today", "artist": "Lenny Williams", "peak": 185, "history": [{"date": "1980-11-15", "rank": 185}, {"date": "1980-11-22", "rank": 185}]}
+{
+  "id": "let-s-do-it-today-lenny-williams",
+  "title": "Let's Do It Today",
+  "artist": "Lenny Williams",
+  "peak": 185,
+  "history": [
+    {
+      "date": "1980-11-15",
+      "rank": 185
+    },
+    {
+      "date": "1980-11-22",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Suspicions",
+      "id": null
+    },
+    {
+      "title": "Don't Stop Me Now",
+      "id": null
+    },
+    {
+      "title": "Let's Do It Today",
+      "id": null
+    },
+    {
+      "title": "Ooh Child",
+      "id": null
+    },
+    {
+      "title": "Messing With My Mind",
+      "id": null
+    },
+    {
+      "title": "Looks Like You Made It",
+      "id": null
+    },
+    {
+      "title": "Play With Me, Stay With Me (Lay With Me)",
+      "id": null
+    },
+    {
+      "title": "If You Don't Want My Love",
+      "id": null
+    }
+  ]
+}
