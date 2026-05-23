@@ -1,1 +1,86 @@
-{"id": "c-mon-keith-anderson", "title": "C'mON!", "artist": "Keith Anderson", "peak": 12, "history": [{"date": "2008-08-23", "rank": 12}, {"date": "2008-08-30", "rank": 29}, {"date": "2008-09-06", "rank": 45}, {"date": "2008-09-13", "rank": 65}, {"date": "2008-09-20", "rank": 85}, {"date": "2008-09-27", "rank": 126}, {"date": "2008-10-04", "rank": 154}, {"date": "2008-10-11", "rank": 181}]}
+{
+  "id": "c-mon-keith-anderson",
+  "title": "C'mON!",
+  "artist": "Keith Anderson",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2008-08-23",
+      "rank": 12
+    },
+    {
+      "date": "2008-08-30",
+      "rank": 29
+    },
+    {
+      "date": "2008-09-06",
+      "rank": 45
+    },
+    {
+      "date": "2008-09-13",
+      "rank": 65
+    },
+    {
+      "date": "2008-09-20",
+      "rank": 85
+    },
+    {
+      "date": "2008-09-27",
+      "rank": 126
+    },
+    {
+      "date": "2008-10-04",
+      "rank": 154
+    },
+    {
+      "date": "2008-10-11",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Still Miss You",
+      "id": "i-still-miss-you-keith-anderson"
+    },
+    {
+      "title": "C'Mon",
+      "id": null
+    },
+    {
+      "title": "Break My Heart",
+      "id": null
+    },
+    {
+      "title": "Somebody Needs a Hug",
+      "id": null
+    },
+    {
+      "title": "She Could’ve Been Mine",
+      "id": null
+    },
+    {
+      "title": "Sunday Morning in America",
+      "id": null
+    },
+    {
+      "title": "Crazy Over You",
+      "id": null
+    },
+    {
+      "title": "I Ain’t Hurtin’ Nobody but Me",
+      "id": null
+    },
+    {
+      "title": "Adaliene",
+      "id": null
+    },
+    {
+      "title": "Lost in This Moment",
+      "id": null
+    },
+    {
+      "title": "Closest I’ve Ever Been",
+      "id": null
+    }
+  ]
+}

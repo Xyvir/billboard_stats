@@ -1,1 +1,78 @@
-{"id": "coaster-nofx", "title": "Coaster", "artist": "NOFX", "peak": 36, "history": [{"date": "2009-05-16", "rank": 36}, {"date": "2009-05-23", "rank": 100}, {"date": "2009-05-30", "rank": 120}, {"date": "2009-06-06", "rank": 178}, {"date": "2009-06-13", "rank": 199}]}
+{
+  "id": "coaster-nofx",
+  "title": "Coaster",
+  "artist": "NOFX",
+  "peak": 36,
+  "history": [
+    {
+      "date": "2009-05-16",
+      "rank": 36
+    },
+    {
+      "date": "2009-05-23",
+      "rank": 100
+    },
+    {
+      "date": "2009-05-30",
+      "rank": 120
+    },
+    {
+      "date": "2009-06-06",
+      "rank": 178
+    },
+    {
+      "date": "2009-06-13",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "We Called it America",
+      "id": null
+    },
+    {
+      "title": "The Quitter",
+      "id": null
+    },
+    {
+      "title": "First Call",
+      "id": null
+    },
+    {
+      "title": "My Orphan Year",
+      "id": null
+    },
+    {
+      "title": "Blasphemy (The Victimless Crime)",
+      "id": null
+    },
+    {
+      "title": "Creeping Out Sara",
+      "id": null
+    },
+    {
+      "title": "Eddie, Bruce and Paul",
+      "id": null
+    },
+    {
+      "title": "Best God in Show",
+      "id": null
+    },
+    {
+      "title": "Suits and Ladders",
+      "id": null
+    },
+    {
+      "title": "The Agony of Victory",
+      "id": null
+    },
+    {
+      "title": "I Am an Alcoholic",
+      "id": null
+    },
+    {
+      "title": "One Million Coasters",
+      "id": null
+    }
+  ]
+}
