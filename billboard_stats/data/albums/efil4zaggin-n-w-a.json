@@ -1,1 +1,334 @@
-{"id": "efil4zaggin-n-w-a", "title": "Efil4zaggin", "artist": "N.W.A", "peak": 1, "history": [{"date": "1991-06-15", "rank": 2}, {"date": "1991-06-22", "rank": 1}, {"date": "1991-06-29", "rank": 3}, {"date": "1991-07-06", "rank": 6}, {"date": "1991-07-13", "rank": 7}, {"date": "1991-07-20", "rank": 9}, {"date": "1991-07-27", "rank": 10}, {"date": "1991-08-03", "rank": 13}, {"date": "1991-08-10", "rank": 16}, {"date": "1991-08-17", "rank": 18}, {"date": "1991-08-24", "rank": 18}, {"date": "1991-08-31", "rank": 20}, {"date": "1991-09-07", "rank": 18}, {"date": "1991-09-14", "rank": 19}, {"date": "1991-09-21", "rank": 23}, {"date": "1991-09-28", "rank": 33}, {"date": "1991-10-05", "rank": 35}, {"date": "1991-10-12", "rank": 39}, {"date": "1991-10-19", "rank": 48}, {"date": "1991-10-26", "rank": 58}, {"date": "1991-11-02", "rank": 65}, {"date": "1991-11-09", "rank": 66}, {"date": "1991-11-16", "rank": 74}, {"date": "1991-11-23", "rank": 80}, {"date": "1991-11-30", "rank": 104}, {"date": "1991-12-07", "rank": 112}, {"date": "1991-12-14", "rank": 111}, {"date": "1991-12-21", "rank": 138}, {"date": "1991-12-28", "rank": 138}, {"date": "1992-01-04", "rank": 148}, {"date": "1992-01-11", "rank": 93}, {"date": "1992-01-18", "rank": 109}, {"date": "1992-01-25", "rank": 132}, {"date": "1992-02-01", "rank": 120}, {"date": "1992-02-08", "rank": 128}, {"date": "1992-02-15", "rank": 124}, {"date": "1992-02-22", "rank": 128}, {"date": "1992-02-29", "rank": 165}, {"date": "1992-03-07", "rank": 161}, {"date": "1992-03-14", "rank": 172}, {"date": "1992-03-21", "rank": 172}, {"date": "1992-03-28", "rank": 186}, {"date": "1992-04-04", "rank": 196}, {"date": "1992-04-11", "rank": 185}]}
+{
+  "id": "efil4zaggin-n-w-a",
+  "title": "Efil4zaggin",
+  "artist": "N.W.A",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1991-06-15",
+      "rank": 2
+    },
+    {
+      "date": "1991-06-22",
+      "rank": 1
+    },
+    {
+      "date": "1991-06-29",
+      "rank": 3
+    },
+    {
+      "date": "1991-07-06",
+      "rank": 6
+    },
+    {
+      "date": "1991-07-13",
+      "rank": 7
+    },
+    {
+      "date": "1991-07-20",
+      "rank": 9
+    },
+    {
+      "date": "1991-07-27",
+      "rank": 10
+    },
+    {
+      "date": "1991-08-03",
+      "rank": 13
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 16
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 18
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 18
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 20
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 18
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 19
+    },
+    {
+      "date": "1991-09-21",
+      "rank": 23
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 33
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 35
+    },
+    {
+      "date": "1991-10-12",
+      "rank": 39
+    },
+    {
+      "date": "1991-10-19",
+      "rank": 48
+    },
+    {
+      "date": "1991-10-26",
+      "rank": 58
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 65
+    },
+    {
+      "date": "1991-11-09",
+      "rank": 66
+    },
+    {
+      "date": "1991-11-16",
+      "rank": 74
+    },
+    {
+      "date": "1991-11-23",
+      "rank": 80
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 104
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 112
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 111
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 138
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 138
+    },
+    {
+      "date": "1992-01-04",
+      "rank": 148
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 93
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 109
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 132
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 120
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 128
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 124
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 128
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 165
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 161
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 172
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 172
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 186
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 196
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Straight Outta Compton",
+      "id": "straight-outta-compton-n-w-a"
+    },
+    {
+      "title": "Prelude",
+      "id": null
+    },
+    {
+      "title": "Real Niggaz Don’t Die",
+      "id": null
+    },
+    {
+      "title": "Niggaz 4 Life",
+      "id": null
+    },
+    {
+      "title": "Protest",
+      "id": null
+    },
+    {
+      "title": "Appetite for Destruction",
+      "id": null
+    },
+    {
+      "title": "Don’t Drink That Wine",
+      "id": null
+    },
+    {
+      "title": "Alwayz Into Somethin’",
+      "id": null
+    },
+    {
+      "title": "Message to B.A.",
+      "id": null
+    },
+    {
+      "title": "Real Niggaz",
+      "id": null
+    },
+    {
+      "title": "To Kill a Hooker",
+      "id": null
+    },
+    {
+      "title": "One Less Bitch",
+      "id": null
+    },
+    {
+      "title": "Findum, Fuckum & Flee",
+      "id": null
+    },
+    {
+      "title": "Automobile",
+      "id": null
+    },
+    {
+      "title": "She Swallowed It",
+      "id": null
+    },
+    {
+      "title": "I’d Rather Fuck You",
+      "id": null
+    },
+    {
+      "title": "Approach to Danger",
+      "id": null
+    },
+    {
+      "title": "1-900-2-Compton",
+      "id": null
+    },
+    {
+      "title": "The Dayz of Wayback",
+      "id": null
+    },
+    {
+      "title": "100 Miles and Runnin’",
+      "id": null
+    },
+    {
+      "title": "Just Don’t Bite It",
+      "id": null
+    },
+    {
+      "title": "Sa Prize, Part 2",
+      "id": null
+    },
+    {
+      "title": "Kamurshol",
+      "id": null
+    },
+    {
+      "title": "Fuck tha Police",
+      "id": null
+    },
+    {
+      "title": "Gangsta Gangsta",
+      "id": null
+    },
+    {
+      "title": "If It Ain’t Ruff",
+      "id": null
+    },
+    {
+      "title": "Parental Discretion Iz Advised",
+      "id": null
+    },
+    {
+      "title": "8 Ball (remix)",
+      "id": null
+    },
+    {
+      "title": "Something Like That",
+      "id": null
+    },
+    {
+      "title": "Express Yourself",
+      "id": null
+    },
+    {
+      "title": "Compton’s n the House (remix)",
+      "id": null
+    },
+    {
+      "title": "I Ain’t tha 1",
+      "id": null
+    },
+    {
+      "title": "Dopeman (remix)",
+      "id": null
+    },
+    {
+      "title": "Quiet on tha Set",
+      "id": null
+    },
+    {
+      "title": "Something 2 Dance 2",
+      "id": null
+    },
+    {
+      "title": "Dopeman",
+      "id": null
+    },
+    {
+      "title": "Compton’s ’n the House (live)",
+      "id": null
+    }
+  ]
+}

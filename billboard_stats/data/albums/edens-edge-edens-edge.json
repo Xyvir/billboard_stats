@@ -1,1 +1,58 @@
-{"id": "edens-edge-edens-edge", "title": "Edens Edge", "artist": "Edens Edge", "peak": 51, "history": [{"date": "2012-06-30", "rank": 52}, {"date": "2012-07-07", "rank": 51}, {"date": "2012-07-14", "rank": 88}, {"date": "2012-07-21", "rank": 124}, {"date": "2012-07-28", "rank": 88}, {"date": "2012-08-04", "rank": 137}, {"date": "2012-08-11", "rank": 162}]}
+{
+  "id": "edens-edge-edens-edge",
+  "title": "Edens Edge",
+  "artist": "Edens Edge",
+  "peak": 51,
+  "history": [
+    {
+      "date": "2012-06-30",
+      "rank": 52
+    },
+    {
+      "date": "2012-07-07",
+      "rank": 51
+    },
+    {
+      "date": "2012-07-14",
+      "rank": 88
+    },
+    {
+      "date": "2012-07-21",
+      "rank": 124
+    },
+    {
+      "date": "2012-07-28",
+      "rank": 88
+    },
+    {
+      "date": "2012-08-04",
+      "rank": 137
+    },
+    {
+      "date": "2012-08-11",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Amen",
+      "id": "amen-edens-edge"
+    },
+    {
+      "title": "Swingin' Door",
+      "id": null
+    },
+    {
+      "title": "Feels So Real",
+      "id": null
+    },
+    {
+      "title": "Slow Motion",
+      "id": null
+    },
+    {
+      "title": "Christ Alone",
+      "id": null
+    }
+  ]
+}
