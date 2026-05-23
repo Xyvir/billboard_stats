@@ -1,1 +1,70 @@
-{"id": "encore-live-in-concert-argent", "title": "Encore-Live In Concert", "artist": "Argent", "peak": 151, "history": [{"date": "1975-01-11", "rank": 157}, {"date": "1975-01-18", "rank": 151}, {"date": "1975-01-25", "rank": 156}, {"date": "1975-02-01", "rank": 151}]}
+{
+  "id": "encore-live-in-concert-argent",
+  "title": "Encore-Live In Concert",
+  "artist": "Argent",
+  "peak": 151,
+  "history": [
+    {
+      "date": "1975-01-11",
+      "rank": 157
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 151
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 156
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 151
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hold Your Head Up",
+      "id": "hold-your-head-up-argent"
+    },
+    {
+      "title": "The Coming of Kohoutek",
+      "id": null
+    },
+    {
+      "title": "It’s Only Money, Part One",
+      "id": null
+    },
+    {
+      "title": "It’s Only Money, Part Two",
+      "id": null
+    },
+    {
+      "title": "God Gave Rock ’n’ Roll to You",
+      "id": null
+    },
+    {
+      "title": "Thunder and Lightning",
+      "id": null
+    },
+    {
+      "title": "Music From the Spheres",
+      "id": null
+    },
+    {
+      "title": "I Don’t Believe in Miracles",
+      "id": null
+    },
+    {
+      "title": "I Am the Dance of Ages",
+      "id": null
+    },
+    {
+      "title": "Keep On Rolling",
+      "id": null
+    },
+    {
+      "title": "Time of the Season",
+      "id": null
+    }
+  ]
+}

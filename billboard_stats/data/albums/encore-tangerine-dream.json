@@ -1,1 +1,34 @@
-{"id": "encore-tangerine-dream", "title": "Encore", "artist": "Tangerine Dream", "peak": 178, "history": [{"date": "1977-12-03", "rank": 180}, {"date": "1977-12-10", "rank": 178}]}
+{
+  "id": "encore-tangerine-dream",
+  "title": "Encore",
+  "artist": "Tangerine Dream",
+  "peak": 178,
+  "history": [
+    {
+      "date": "1977-12-03",
+      "rank": 180
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cherokee Lane",
+      "id": null
+    },
+    {
+      "title": "Monolight",
+      "id": null
+    },
+    {
+      "title": "Coldwater Canyon",
+      "id": null
+    },
+    {
+      "title": "Desert Dream",
+      "id": null
+    }
+  ]
+}
