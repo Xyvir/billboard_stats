@@ -1,1 +1,70 @@
-{"id": "make-a-move-gavin-degraw", "title": "Make A Move", "artist": "Gavin DeGraw", "peak": 13, "history": [{"date": "2013-11-02", "rank": 13}, {"date": "2013-11-09", "rank": 45}, {"date": "2013-11-16", "rank": 123}, {"date": "2013-11-23", "rank": 192}]}
+{
+  "id": "make-a-move-gavin-degraw",
+  "title": "Make A Move",
+  "artist": "Gavin DeGraw",
+  "peak": 13,
+  "history": [
+    {
+      "date": "2013-11-02",
+      "rank": 13
+    },
+    {
+      "date": "2013-11-09",
+      "rank": 45
+    },
+    {
+      "date": "2013-11-16",
+      "rank": 123
+    },
+    {
+      "date": "2013-11-23",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Best I Ever Had",
+      "id": "best-i-ever-had-gavin-degraw"
+    },
+    {
+      "title": "Make a Move",
+      "id": null
+    },
+    {
+      "title": "Finest Hour",
+      "id": null
+    },
+    {
+      "title": "I'm Gonna Try",
+      "id": null
+    },
+    {
+      "title": "Who’s Gonna Save Us",
+      "id": null
+    },
+    {
+      "title": "Everything Will Change",
+      "id": null
+    },
+    {
+      "title": "Need",
+      "id": null
+    },
+    {
+      "title": "Heartbreak",
+      "id": null
+    },
+    {
+      "title": "Every Little Bit",
+      "id": null
+    },
+    {
+      "title": "Different for Girls",
+      "id": null
+    },
+    {
+      "title": "Leading Man",
+      "id": null
+    }
+  ]
+}
