@@ -1,1 +1,106 @@
-{"id": "fools-gold-fools-gold", "title": "Fools Gold", "artist": "Fools Gold", "peak": 100, "history": [{"date": "1976-04-24", "rank": 190}, {"date": "1976-05-01", "rank": 177}, {"date": "1976-05-08", "rank": 145}, {"date": "1976-05-15", "rank": 135}, {"date": "1976-05-22", "rank": 122}, {"date": "1976-05-29", "rank": 116}, {"date": "1976-06-05", "rank": 112}, {"date": "1976-06-12", "rank": 102}, {"date": "1976-06-19", "rank": 100}, {"date": "1976-06-26", "rank": 116}, {"date": "1976-07-03", "rank": 113}, {"date": "1976-07-10", "rank": 126}, {"date": "1976-07-17", "rank": 182}]}
+{
+  "id": "fools-gold-fools-gold",
+  "title": "Fools Gold",
+  "artist": "Fools Gold",
+  "peak": 100,
+  "history": [
+    {
+      "date": "1976-04-24",
+      "rank": 190
+    },
+    {
+      "date": "1976-05-01",
+      "rank": 177
+    },
+    {
+      "date": "1976-05-08",
+      "rank": 145
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 135
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 122
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 116
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 112
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 102
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 100
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 116
+    },
+    {
+      "date": "1976-07-03",
+      "rank": 113
+    },
+    {
+      "date": "1976-07-10",
+      "rank": 126
+    },
+    {
+      "date": "1976-07-17",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rain, Oh, Rain",
+      "id": "rain-oh-rain-fools-gold"
+    },
+    {
+      "title": "Coming Out of Hiding",
+      "id": null
+    },
+    {
+      "title": "Choices",
+      "id": null
+    },
+    {
+      "title": "Old Tennessee",
+      "id": null
+    },
+    {
+      "title": "Love Me Through and Through",
+      "id": null
+    },
+    {
+      "title": "I Will Run",
+      "id": null
+    },
+    {
+      "title": "One by One",
+      "id": null
+    },
+    {
+      "title": "Rollin’ Fields and Meadows (cont.)",
+      "id": null
+    },
+    {
+      "title": "Rollin’ Fields and Meadows (concl.)",
+      "id": null
+    },
+    {
+      "title": "Sailing to Monterey",
+      "id": null
+    },
+    {
+      "title": "The Way Love Grows",
+      "id": null
+    }
+  ]
+}

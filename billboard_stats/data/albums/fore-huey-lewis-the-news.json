@@ -1,1 +1,298 @@
-{"id": "fore-huey-lewis-the-news", "title": "Fore!", "artist": "Huey Lewis & The News", "peak": 1, "history": [{"date": "1986-09-13", "rank": 42}, {"date": "1986-09-20", "rank": 10}, {"date": "1986-09-27", "rank": 6}, {"date": "1986-10-04", "rank": 4}, {"date": "1986-10-11", "rank": 2}, {"date": "1986-10-18", "rank": 1}, {"date": "1986-10-25", "rank": 2}, {"date": "1986-11-01", "rank": 3}, {"date": "1986-11-08", "rank": 3}, {"date": "1986-11-15", "rank": 3}, {"date": "1986-11-22", "rank": 3}, {"date": "1986-11-29", "rank": 4}, {"date": "1986-12-06", "rank": 4}, {"date": "1986-12-13", "rank": 4}, {"date": "1986-12-20", "rank": 5}, {"date": "1986-12-27", "rank": 5}, {"date": "1987-01-03", "rank": 5}, {"date": "1987-01-10", "rank": 5}, {"date": "1987-01-17", "rank": 7}, {"date": "1987-01-24", "rank": 8}, {"date": "1987-01-31", "rank": 8}, {"date": "1987-02-07", "rank": 7}, {"date": "1987-02-14", "rank": 8}, {"date": "1987-02-21", "rank": 10}, {"date": "1987-02-28", "rank": 10}, {"date": "1987-03-07", "rank": 9}, {"date": "1987-03-14", "rank": 10}, {"date": "1987-03-21", "rank": 13}, {"date": "1987-03-28", "rank": 15}, {"date": "1987-04-04", "rank": 15}, {"date": "1987-04-11", "rank": 15}, {"date": "1987-04-18", "rank": 15}, {"date": "1987-04-25", "rank": 17}, {"date": "1987-05-02", "rank": 20}, {"date": "1987-05-09", "rank": 23}, {"date": "1987-05-16", "rank": 24}, {"date": "1987-05-23", "rank": 25}, {"date": "1987-05-30", "rank": 31}, {"date": "1987-06-06", "rank": 33}, {"date": "1987-06-13", "rank": 35}, {"date": "1987-06-20", "rank": 33}, {"date": "1987-06-27", "rank": 37}, {"date": "1987-07-04", "rank": 48}, {"date": "1987-07-11", "rank": 49}, {"date": "1987-07-18", "rank": 53}, {"date": "1987-07-25", "rank": 59}, {"date": "1987-08-01", "rank": 70}, {"date": "1987-08-08", "rank": 70}, {"date": "1987-08-15", "rank": 59}, {"date": "1987-08-22", "rank": 59}, {"date": "1987-08-29", "rank": 58}, {"date": "1987-09-05", "rank": 53}, {"date": "1987-09-12", "rank": 49}, {"date": "1987-09-19", "rank": 52}, {"date": "1987-09-26", "rank": 59}, {"date": "1987-10-03", "rank": 65}, {"date": "1987-10-10", "rank": 80}, {"date": "1987-10-17", "rank": 114}, {"date": "1987-10-24", "rank": 124}, {"date": "1987-10-31", "rank": 170}, {"date": "1987-11-07", "rank": 196}]}
+{
+  "id": "fore-huey-lewis-the-news",
+  "title": "Fore!",
+  "artist": "Huey Lewis & The News",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1986-09-13",
+      "rank": 42
+    },
+    {
+      "date": "1986-09-20",
+      "rank": 10
+    },
+    {
+      "date": "1986-09-27",
+      "rank": 6
+    },
+    {
+      "date": "1986-10-04",
+      "rank": 4
+    },
+    {
+      "date": "1986-10-11",
+      "rank": 2
+    },
+    {
+      "date": "1986-10-18",
+      "rank": 1
+    },
+    {
+      "date": "1986-10-25",
+      "rank": 2
+    },
+    {
+      "date": "1986-11-01",
+      "rank": 3
+    },
+    {
+      "date": "1986-11-08",
+      "rank": 3
+    },
+    {
+      "date": "1986-11-15",
+      "rank": 3
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 3
+    },
+    {
+      "date": "1986-11-29",
+      "rank": 4
+    },
+    {
+      "date": "1986-12-06",
+      "rank": 4
+    },
+    {
+      "date": "1986-12-13",
+      "rank": 4
+    },
+    {
+      "date": "1986-12-20",
+      "rank": 5
+    },
+    {
+      "date": "1986-12-27",
+      "rank": 5
+    },
+    {
+      "date": "1987-01-03",
+      "rank": 5
+    },
+    {
+      "date": "1987-01-10",
+      "rank": 5
+    },
+    {
+      "date": "1987-01-17",
+      "rank": 7
+    },
+    {
+      "date": "1987-01-24",
+      "rank": 8
+    },
+    {
+      "date": "1987-01-31",
+      "rank": 8
+    },
+    {
+      "date": "1987-02-07",
+      "rank": 7
+    },
+    {
+      "date": "1987-02-14",
+      "rank": 8
+    },
+    {
+      "date": "1987-02-21",
+      "rank": 10
+    },
+    {
+      "date": "1987-02-28",
+      "rank": 10
+    },
+    {
+      "date": "1987-03-07",
+      "rank": 9
+    },
+    {
+      "date": "1987-03-14",
+      "rank": 10
+    },
+    {
+      "date": "1987-03-21",
+      "rank": 13
+    },
+    {
+      "date": "1987-03-28",
+      "rank": 15
+    },
+    {
+      "date": "1987-04-04",
+      "rank": 15
+    },
+    {
+      "date": "1987-04-11",
+      "rank": 15
+    },
+    {
+      "date": "1987-04-18",
+      "rank": 15
+    },
+    {
+      "date": "1987-04-25",
+      "rank": 17
+    },
+    {
+      "date": "1987-05-02",
+      "rank": 20
+    },
+    {
+      "date": "1987-05-09",
+      "rank": 23
+    },
+    {
+      "date": "1987-05-16",
+      "rank": 24
+    },
+    {
+      "date": "1987-05-23",
+      "rank": 25
+    },
+    {
+      "date": "1987-05-30",
+      "rank": 31
+    },
+    {
+      "date": "1987-06-06",
+      "rank": 33
+    },
+    {
+      "date": "1987-06-13",
+      "rank": 35
+    },
+    {
+      "date": "1987-06-20",
+      "rank": 33
+    },
+    {
+      "date": "1987-06-27",
+      "rank": 37
+    },
+    {
+      "date": "1987-07-04",
+      "rank": 48
+    },
+    {
+      "date": "1987-07-11",
+      "rank": 49
+    },
+    {
+      "date": "1987-07-18",
+      "rank": 53
+    },
+    {
+      "date": "1987-07-25",
+      "rank": 59
+    },
+    {
+      "date": "1987-08-01",
+      "rank": 70
+    },
+    {
+      "date": "1987-08-08",
+      "rank": 70
+    },
+    {
+      "date": "1987-08-15",
+      "rank": 59
+    },
+    {
+      "date": "1987-08-22",
+      "rank": 59
+    },
+    {
+      "date": "1987-08-29",
+      "rank": 58
+    },
+    {
+      "date": "1987-09-05",
+      "rank": 53
+    },
+    {
+      "date": "1987-09-12",
+      "rank": 49
+    },
+    {
+      "date": "1987-09-19",
+      "rank": 52
+    },
+    {
+      "date": "1987-09-26",
+      "rank": 59
+    },
+    {
+      "date": "1987-10-03",
+      "rank": 65
+    },
+    {
+      "date": "1987-10-10",
+      "rank": 80
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 114
+    },
+    {
+      "date": "1987-10-24",
+      "rank": 124
+    },
+    {
+      "date": "1987-10-31",
+      "rank": 170
+    },
+    {
+      "date": "1987-11-07",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Jacob’s Ladder",
+      "id": "jacob-s-ladder-huey-lewis-the-news"
+    },
+    {
+      "title": "Stuck With You",
+      "id": "stuck-with-you-huey-lewis-the-news"
+    },
+    {
+      "title": "Doing It All for My Baby",
+      "id": "doing-it-all-for-my-baby-huey-lewis-the-news"
+    },
+    {
+      "title": "Hip to Be Square",
+      "id": "hip-to-be-square-huey-lewis-the-news"
+    },
+    {
+      "title": "I Know What I Like",
+      "id": "i-know-what-i-like-huey-lewis-the-news"
+    },
+    {
+      "title": "The Power of Love",
+      "id": "the-power-of-love-huey-lewis-the-news"
+    },
+    {
+      "title": "Whole Lotta Lovin’",
+      "id": null
+    },
+    {
+      "title": "I Never Walk Alone",
+      "id": null
+    },
+    {
+      "title": "Forest for the Trees",
+      "id": null
+    },
+    {
+      "title": "Naturally",
+      "id": null
+    },
+    {
+      "title": "Simple as That",
+      "id": null
+    }
+  ]
+}
