@@ -1,1 +1,50 @@
-{"id": "itunes-session-phillip-phillips", "title": "iTunes Session", "artist": "Phillip Phillips", "peak": 148, "history": [{"date": "2013-10-26", "rank": 148}]}
+{
+  "id": "itunes-session-phillip-phillips",
+  "title": "iTunes Session",
+  "artist": "Phillip Phillips",
+  "peak": 148,
+  "history": [
+    {
+      "date": "2013-10-26",
+      "rank": 148
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Home",
+      "id": "home-phillip-phillips"
+    },
+    {
+      "title": "Gone, Gone, Gone",
+      "id": "gone-gone-gone-phillip-phillips"
+    },
+    {
+      "title": "Where We Came From",
+      "id": null
+    },
+    {
+      "title": "Man on the Moon",
+      "id": null
+    },
+    {
+      "title": "Crazy",
+      "id": null
+    },
+    {
+      "title": "Take Me Away",
+      "id": null
+    },
+    {
+      "title": "Hold On",
+      "id": null
+    },
+    {
+      "title": "Tell Me a Story",
+      "id": null
+    },
+    {
+      "title": "A Fool's Dance",
+      "id": null
+    }
+  ]
+}

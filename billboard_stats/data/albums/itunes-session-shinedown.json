@@ -1,1 +1,46 @@
-{"id": "itunes-session-shinedown", "title": "iTunes Session", "artist": "Shinedown", "peak": 118, "history": [{"date": "2010-04-24", "rank": 118}]}
+{
+  "id": "itunes-session-shinedown",
+  "title": "iTunes Session",
+  "artist": "Shinedown",
+  "peak": 118,
+  "history": [
+    {
+      "date": "2010-04-24",
+      "rank": 118
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Crow & the Butterfly",
+      "id": "the-crow-the-butterfly-shinedown"
+    },
+    {
+      "title": "Sound of Madness",
+      "id": "sound-of-madness-shinedown"
+    },
+    {
+      "title": "Second Chance",
+      "id": "second-chance-shinedown"
+    },
+    {
+      "title": "If You Only Knew",
+      "id": "if-you-only-knew-shinedown"
+    },
+    {
+      "title": "Breaking Inside",
+      "id": null
+    },
+    {
+      "title": "Call Me",
+      "id": null
+    },
+    {
+      "title": "What a Shame",
+      "id": null
+    },
+    {
+      "title": "Devour",
+      "id": null
+    }
+  ]
+}
