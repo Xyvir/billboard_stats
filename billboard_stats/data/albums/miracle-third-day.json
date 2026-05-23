@@ -1,1 +1,226 @@
-{"id": "miracle-third-day", "title": "Miracle", "artist": "Third Day", "peak": 10, "history": [{"date": "2012-11-24", "rank": 10}, {"date": "2012-12-01", "rank": 51}, {"date": "2012-12-08", "rank": 96}, {"date": "2012-12-15", "rank": 108}, {"date": "2012-12-22", "rank": 99}, {"date": "2012-12-29", "rank": 91}, {"date": "2013-01-05", "rank": 94}, {"date": "2013-01-12", "rank": 178}, {"date": "2013-01-19", "rank": 177}, {"date": "2013-01-26", "rank": 171}, {"date": "2013-02-02", "rank": 184}, {"date": "2013-02-09", "rank": 147}, {"date": "2013-02-16", "rank": 168}, {"date": "2013-03-02", "rank": 148}, {"date": "2013-03-23", "rank": 142}, {"date": "2013-04-06", "rank": 163}, {"date": "2013-04-13", "rank": 165}, {"date": "2013-04-27", "rank": 132}, {"date": "2013-05-04", "rank": 156}, {"date": "2013-05-11", "rank": 127}, {"date": "2013-05-25", "rank": 157}, {"date": "2013-06-01", "rank": 160}, {"date": "2013-06-08", "rank": 137}, {"date": "2013-06-29", "rank": 104}, {"date": "2013-09-14", "rank": 123}, {"date": "2013-10-12", "rank": 150}, {"date": "2013-10-19", "rank": 78}, {"date": "2013-10-26", "rank": 94}, {"date": "2013-11-02", "rank": 87}, {"date": "2013-11-09", "rank": 128}, {"date": "2013-11-16", "rank": 107}, {"date": "2013-11-23", "rank": 118}, {"date": "2013-11-30", "rank": 118}, {"date": "2013-12-07", "rank": 150}, {"date": "2013-12-14", "rank": 145}, {"date": "2014-02-01", "rank": 136}, {"date": "2014-02-08", "rank": 98}, {"date": "2014-02-15", "rank": 178}, {"date": "2014-04-05", "rank": 83}, {"date": "2014-04-12", "rank": 191}, {"date": "2014-04-19", "rank": 193}, {"date": "2014-06-28", "rank": 160}]}
+{
+  "id": "miracle-third-day",
+  "title": "Miracle",
+  "artist": "Third Day",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2012-11-24",
+      "rank": 10
+    },
+    {
+      "date": "2012-12-01",
+      "rank": 51
+    },
+    {
+      "date": "2012-12-08",
+      "rank": 96
+    },
+    {
+      "date": "2012-12-15",
+      "rank": 108
+    },
+    {
+      "date": "2012-12-22",
+      "rank": 99
+    },
+    {
+      "date": "2012-12-29",
+      "rank": 91
+    },
+    {
+      "date": "2013-01-05",
+      "rank": 94
+    },
+    {
+      "date": "2013-01-12",
+      "rank": 178
+    },
+    {
+      "date": "2013-01-19",
+      "rank": 177
+    },
+    {
+      "date": "2013-01-26",
+      "rank": 171
+    },
+    {
+      "date": "2013-02-02",
+      "rank": 184
+    },
+    {
+      "date": "2013-02-09",
+      "rank": 147
+    },
+    {
+      "date": "2013-02-16",
+      "rank": 168
+    },
+    {
+      "date": "2013-03-02",
+      "rank": 148
+    },
+    {
+      "date": "2013-03-23",
+      "rank": 142
+    },
+    {
+      "date": "2013-04-06",
+      "rank": 163
+    },
+    {
+      "date": "2013-04-13",
+      "rank": 165
+    },
+    {
+      "date": "2013-04-27",
+      "rank": 132
+    },
+    {
+      "date": "2013-05-04",
+      "rank": 156
+    },
+    {
+      "date": "2013-05-11",
+      "rank": 127
+    },
+    {
+      "date": "2013-05-25",
+      "rank": 157
+    },
+    {
+      "date": "2013-06-01",
+      "rank": 160
+    },
+    {
+      "date": "2013-06-08",
+      "rank": 137
+    },
+    {
+      "date": "2013-06-29",
+      "rank": 104
+    },
+    {
+      "date": "2013-09-14",
+      "rank": 123
+    },
+    {
+      "date": "2013-10-12",
+      "rank": 150
+    },
+    {
+      "date": "2013-10-19",
+      "rank": 78
+    },
+    {
+      "date": "2013-10-26",
+      "rank": 94
+    },
+    {
+      "date": "2013-11-02",
+      "rank": 87
+    },
+    {
+      "date": "2013-11-09",
+      "rank": 128
+    },
+    {
+      "date": "2013-11-16",
+      "rank": 107
+    },
+    {
+      "date": "2013-11-23",
+      "rank": 118
+    },
+    {
+      "date": "2013-11-30",
+      "rank": 118
+    },
+    {
+      "date": "2013-12-07",
+      "rank": 150
+    },
+    {
+      "date": "2013-12-14",
+      "rank": 145
+    },
+    {
+      "date": "2014-02-01",
+      "rank": 136
+    },
+    {
+      "date": "2014-02-08",
+      "rank": 98
+    },
+    {
+      "date": "2014-02-15",
+      "rank": 178
+    },
+    {
+      "date": "2014-04-05",
+      "rank": 83
+    },
+    {
+      "date": "2014-04-12",
+      "rank": 191
+    },
+    {
+      "date": "2014-04-19",
+      "rank": 193
+    },
+    {
+      "date": "2014-06-28",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hit Me Like a Bomb",
+      "id": null
+    },
+    {
+      "title": "Kicking and Screaming",
+      "id": null
+    },
+    {
+      "title": "Your Love Is Like a River",
+      "id": null
+    },
+    {
+      "title": "I Need a Miracle",
+      "id": null
+    },
+    {
+      "title": "You Are My Everything",
+      "id": null
+    },
+    {
+      "title": "For the Rest of My Life",
+      "id": null
+    },
+    {
+      "title": "I Want to Believe in You",
+      "id": null
+    },
+    {
+      "title": "The Victory",
+      "id": null
+    },
+    {
+      "title": "Take Me Back",
+      "id": null
+    },
+    {
+      "title": "Forever Yours",
+      "id": null
+    },
+    {
+      "title": "Time's Running Out On Me",
+      "id": null
+    },
+    {
+      "title": "Morning Has Broken",
+      "id": null
+    }
+  ]
+}

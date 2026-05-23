@@ -1,1 +1,82 @@
-{"id": "mirage-camel", "title": "Mirage", "artist": "Camel", "peak": 149, "history": [{"date": "1974-11-30", "rank": 188}, {"date": "1974-12-07", "rank": 170}, {"date": "1974-12-14", "rank": 160}, {"date": "1974-12-21", "rank": 149}, {"date": "1974-12-28", "rank": 149}, {"date": "1975-01-04", "rank": 161}, {"date": "1975-01-11", "rank": 169}, {"date": "1975-01-18", "rank": 178}, {"date": "1975-01-25", "rank": 183}, {"date": "1975-02-01", "rank": 191}, {"date": "1975-02-08", "rank": 198}, {"date": "1975-02-15", "rank": 189}, {"date": "1975-02-22", "rank": 185}]}
+{
+  "id": "mirage-camel",
+  "title": "Mirage",
+  "artist": "Camel",
+  "peak": 149,
+  "history": [
+    {
+      "date": "1974-11-30",
+      "rank": 188
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 170
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 160
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 149
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 149
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 161
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 169
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 178
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 183
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 191
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 198
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 189
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Freefall",
+      "id": null
+    },
+    {
+      "title": "Supertwister",
+      "id": null
+    },
+    {
+      "title": "Nimrodel / The Procession / The White Rider",
+      "id": null
+    },
+    {
+      "title": "Earthrise",
+      "id": null
+    },
+    {
+      "title": "Lady Fantasy: Encounter / Smiles for You / Lady Fantasy",
+      "id": null
+    }
+  ]
+}

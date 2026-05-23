@@ -1,1 +1,82 @@
-{"id": "mirage-a-trois-yellowjackets", "title": "Mirage A Trois", "artist": "Yellowjackets", "peak": 145, "history": [{"date": "1983-05-28", "rank": 188}, {"date": "1983-06-04", "rank": 164}, {"date": "1983-06-11", "rank": 148}, {"date": "1983-06-18", "rank": 147}, {"date": "1983-06-25", "rank": 145}, {"date": "1983-07-02", "rank": 185}, {"date": "1983-07-09", "rank": 182}, {"date": "1983-07-16", "rank": 173}, {"date": "1983-07-23", "rank": 169}, {"date": "1983-07-30", "rank": 166}]}
+{
+  "id": "mirage-a-trois-yellowjackets",
+  "title": "Mirage A Trois",
+  "artist": "Yellowjackets",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1983-05-28",
+      "rank": 188
+    },
+    {
+      "date": "1983-06-04",
+      "rank": 164
+    },
+    {
+      "date": "1983-06-11",
+      "rank": 148
+    },
+    {
+      "date": "1983-06-18",
+      "rank": 147
+    },
+    {
+      "date": "1983-06-25",
+      "rank": 145
+    },
+    {
+      "date": "1983-07-02",
+      "rank": 185
+    },
+    {
+      "date": "1983-07-09",
+      "rank": 182
+    },
+    {
+      "date": "1983-07-16",
+      "rank": 173
+    },
+    {
+      "date": "1983-07-23",
+      "rank": 169
+    },
+    {
+      "date": "1983-07-30",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Claire's Song",
+      "id": null
+    },
+    {
+      "title": "Top Secret",
+      "id": null
+    },
+    {
+      "title": "I Got Rhythm",
+      "id": null
+    },
+    {
+      "title": "Pass It On",
+      "id": null
+    },
+    {
+      "title": "Goin' Home",
+      "id": null
+    },
+    {
+      "title": "Man in the Moon",
+      "id": null
+    },
+    {
+      "title": "Elamar",
+      "id": null
+    },
+    {
+      "title": "Nimbus",
+      "id": null
+    }
+  ]
+}

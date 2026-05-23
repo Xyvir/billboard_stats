@@ -1,1 +1,130 @@
-{"id": "miracle-the-kane-gang", "title": "Miracle", "artist": "The Kane Gang", "peak": 115, "history": [{"date": "1987-11-21", "rank": 185}, {"date": "1987-11-28", "rank": 152}, {"date": "1987-12-05", "rank": 148}, {"date": "1987-12-12", "rank": 132}, {"date": "1987-12-19", "rank": 116}, {"date": "1987-12-26", "rank": 115}, {"date": "1988-01-02", "rank": 115}, {"date": "1988-01-09", "rank": 128}, {"date": "1988-01-16", "rank": 139}, {"date": "1988-01-23", "rank": 143}, {"date": "1988-01-30", "rank": 148}, {"date": "1988-02-06", "rank": 142}, {"date": "1988-02-13", "rank": 154}, {"date": "1988-02-20", "rank": 138}, {"date": "1988-02-27", "rank": 134}, {"date": "1988-03-05", "rank": 134}, {"date": "1988-03-12", "rank": 133}, {"date": "1988-03-19", "rank": 133}, {"date": "1988-03-26", "rank": 175}, {"date": "1988-04-02", "rank": 189}]}
+{
+  "id": "miracle-the-kane-gang",
+  "title": "Miracle",
+  "artist": "The Kane Gang",
+  "peak": 115,
+  "history": [
+    {
+      "date": "1987-11-21",
+      "rank": 185
+    },
+    {
+      "date": "1987-11-28",
+      "rank": 152
+    },
+    {
+      "date": "1987-12-05",
+      "rank": 148
+    },
+    {
+      "date": "1987-12-12",
+      "rank": 132
+    },
+    {
+      "date": "1987-12-19",
+      "rank": 116
+    },
+    {
+      "date": "1987-12-26",
+      "rank": 115
+    },
+    {
+      "date": "1988-01-02",
+      "rank": 115
+    },
+    {
+      "date": "1988-01-09",
+      "rank": 128
+    },
+    {
+      "date": "1988-01-16",
+      "rank": 139
+    },
+    {
+      "date": "1988-01-23",
+      "rank": 143
+    },
+    {
+      "date": "1988-01-30",
+      "rank": 148
+    },
+    {
+      "date": "1988-02-06",
+      "rank": 142
+    },
+    {
+      "date": "1988-02-13",
+      "rank": 154
+    },
+    {
+      "date": "1988-02-20",
+      "rank": 138
+    },
+    {
+      "date": "1988-02-27",
+      "rank": 134
+    },
+    {
+      "date": "1988-03-05",
+      "rank": 134
+    },
+    {
+      "date": "1988-03-12",
+      "rank": 133
+    },
+    {
+      "date": "1988-03-19",
+      "rank": 133
+    },
+    {
+      "date": "1988-03-26",
+      "rank": 175
+    },
+    {
+      "date": "1988-04-02",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Motortown",
+      "id": "motortown-the-kane-gang"
+    },
+    {
+      "title": "Don't Look Any Further",
+      "id": "don-t-look-any-further-the-kane-gang"
+    },
+    {
+      "title": "What Time Is It?",
+      "id": null
+    },
+    {
+      "title": "Closest Thing to Heaven",
+      "id": null
+    },
+    {
+      "title": "Looking for Gold",
+      "id": null
+    },
+    {
+      "title": "Take Me to the World",
+      "id": null
+    },
+    {
+      "title": "King Street Rain",
+      "id": null
+    },
+    {
+      "title": "A Finer Place",
+      "id": null
+    },
+    {
+      "title": "Let's Get Wet",
+      "id": null
+    },
+    {
+      "title": "Strictly Love (It Ain't)",
+      "id": null
+    }
+  ]
+}

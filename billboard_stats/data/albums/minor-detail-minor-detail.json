@@ -1,1 +1,58 @@
-{"id": "minor-detail-minor-detail", "title": "Minor Detail", "artist": "Minor Detail", "peak": 187, "history": [{"date": "1983-10-01", "rank": 190}, {"date": "1983-10-08", "rank": 187}]}
+{
+  "id": "minor-detail-minor-detail",
+  "title": "Minor Detail",
+  "artist": "Minor Detail",
+  "peak": 187,
+  "history": [
+    {
+      "date": "1983-10-01",
+      "rank": 190
+    },
+    {
+      "date": "1983-10-08",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Canvas of Life",
+      "id": "canvas-of-life-minor-detail"
+    },
+    {
+      "title": "Hold On",
+      "id": null
+    },
+    {
+      "title": "20th Century",
+      "id": null
+    },
+    {
+      "title": "Why Take it Again",
+      "id": null
+    },
+    {
+      "title": "I’ve Got a Friend",
+      "id": null
+    },
+    {
+      "title": "Ask the Kids",
+      "id": null
+    },
+    {
+      "title": "We Are Winner (Once We Try)",
+      "id": null
+    },
+    {
+      "title": "Others Need You",
+      "id": null
+    },
+    {
+      "title": "I'll Always Love You",
+      "id": null
+    },
+    {
+      "title": "Columbia",
+      "id": null
+    }
+  ]
+}

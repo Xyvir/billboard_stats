@@ -1,1 +1,66 @@
-{"id": "mi-plan-nelly-furtado", "title": "Mi Plan", "artist": "Nelly Furtado", "peak": 39, "history": [{"date": "2009-10-03", "rank": 39}, {"date": "2009-10-10", "rank": 110}, {"date": "2009-10-17", "rank": 174}]}
+{
+  "id": "mi-plan-nelly-furtado",
+  "title": "Mi Plan",
+  "artist": "Nelly Furtado",
+  "peak": 39,
+  "history": [
+    {
+      "date": "2009-10-03",
+      "rank": 39
+    },
+    {
+      "date": "2009-10-10",
+      "rank": 110
+    },
+    {
+      "date": "2009-10-17",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Manos al aire",
+      "id": null
+    },
+    {
+      "title": "Más",
+      "id": null
+    },
+    {
+      "title": "Mi plan",
+      "id": null
+    },
+    {
+      "title": "Sueños",
+      "id": null
+    },
+    {
+      "title": "Bajo otra luz",
+      "id": null
+    },
+    {
+      "title": "Vacación",
+      "id": null
+    },
+    {
+      "title": "Suficiente tiempo",
+      "id": null
+    },
+    {
+      "title": "Fuerte",
+      "id": null
+    },
+    {
+      "title": "Silencio",
+      "id": null
+    },
+    {
+      "title": "Como lluvia",
+      "id": null
+    },
+    {
+      "title": "Feliz cumpleaños / Fantasmas",
+      "id": null
+    }
+  ]
+}
