@@ -1,1 +1,42 @@
-{"id": "live-in-europe-billy-paul", "title": "Live In Europe", "artist": "Billy Paul", "peak": 187, "history": [{"date": "1974-07-06", "rank": 190}, {"date": "1974-07-13", "rank": 187}, {"date": "1974-07-20", "rank": 192}, {"date": "1974-07-27", "rank": 198}]}
+{
+  "id": "live-in-europe-billy-paul",
+  "title": "Live In Europe",
+  "artist": "Billy Paul",
+  "peak": 187,
+  "history": [
+    {
+      "date": "1974-07-06",
+      "rank": 190
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 187
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 192
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Thanks for Saving My Life",
+      "id": "thanks-for-saving-my-life-billy-paul"
+    },
+    {
+      "title": "Me and Mrs. Jones",
+      "id": "me-and-mrs-jones-billy-paul"
+    },
+    {
+      "title": "War of the Gods (Introduction) / Brown Baby",
+      "id": null
+    },
+    {
+      "title": "Your Song",
+      "id": null
+    }
+  ]
+}

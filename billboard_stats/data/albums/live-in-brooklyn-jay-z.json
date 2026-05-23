@@ -1,1 +1,50 @@
-{"id": "live-in-brooklyn-jay-z", "title": "Live In Brooklyn", "artist": "Jay Z", "peak": 36, "history": [{"date": "2012-10-27", "rank": 36}, {"date": "2012-11-03", "rank": 99}]}
+{
+  "id": "live-in-brooklyn-jay-z",
+  "title": "Live In Brooklyn",
+  "artist": "Jay Z",
+  "peak": 36,
+  "history": [
+    {
+      "date": "2012-10-27",
+      "rank": 36
+    },
+    {
+      "date": "2012-11-03",
+      "rank": 99
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Empire State of Mind",
+      "id": null
+    },
+    {
+      "title": "Run This Town",
+      "id": null
+    },
+    {
+      "title": "On to the Next One",
+      "id": null
+    },
+    {
+      "title": "Give It To Me / Big Pimpin",
+      "id": null
+    },
+    {
+      "title": "03' Bonnie & Clyde",
+      "id": null
+    },
+    {
+      "title": "Crazy in Love",
+      "id": null
+    },
+    {
+      "title": "Public Service Announcement",
+      "id": null
+    },
+    {
+      "title": "Young Forever",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"id": "live-in-concert-four-tops", "title": "Live & In Concert", "artist": "Four Tops", "peak": 92, "history": [{"date": "1974-10-26", "rank": 144}, {"date": "1974-11-02", "rank": 132}, {"date": "1974-11-09", "rank": 120}, {"date": "1974-11-16", "rank": 109}, {"date": "1974-11-23", "rank": 96}, {"date": "1974-11-30", "rank": 92}, {"date": "1974-12-07", "rank": 111}, {"date": "1974-12-14", "rank": 128}, {"date": "1974-12-21", "rank": 146}]}
+{
+  "id": "live-in-concert-four-tops",
+  "title": "Live & In Concert",
+  "artist": "Four Tops",
+  "peak": 92,
+  "history": [
+    {
+      "date": "1974-10-26",
+      "rank": 144
+    },
+    {
+      "date": "1974-11-02",
+      "rank": 132
+    },
+    {
+      "date": "1974-11-09",
+      "rank": 120
+    },
+    {
+      "date": "1974-11-16",
+      "rank": 109
+    },
+    {
+      "date": "1974-11-23",
+      "rank": 96
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 92
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 111
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 128
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 146
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ain't No Woman (Like the One I've Got)",
+      "id": "ain-t-no-woman-like-the-one-i-ve-got-four-tops"
+    },
+    {
+      "title": "Are You Man Enough",
+      "id": "are-you-man-enough-four-tops"
+    },
+    {
+      "title": "Keeper of the Castle",
+      "id": "keeper-of-the-castle-four-tops"
+    },
+    {
+      "title": "Baby I Need Your Loving",
+      "id": "baby-i-need-your-loving-four-tops"
+    },
+    {
+      "title": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "id": "i-can-t-help-myself-sugar-pie-honey-bunch-four-tops"
+    },
+    {
+      "title": "Midnight Flower",
+      "id": "midnight-flower-four-tops"
+    },
+    {
+      "title": "One Chain (Don't Make No Prison)",
+      "id": "one-chain-don-t-make-no-prison-four-tops"
+    },
+    {
+      "title": "I Am Your Man",
+      "id": null
+    },
+    {
+      "title": "Love Music",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,106 @@
-{"id": "live-in-europe-creedence-clearwater-revival", "title": "Live In Europe", "artist": "Creedence Clearwater Revival", "peak": 143, "history": [{"date": "1973-11-24", "rank": 180}, {"date": "1973-12-01", "rank": 152}, {"date": "1973-12-08", "rank": 146}, {"date": "1973-12-15", "rank": 143}, {"date": "1973-12-22", "rank": 147}, {"date": "1973-12-29", "rank": 156}, {"date": "1974-01-05", "rank": 179}, {"date": "1974-01-12", "rank": 193}, {"date": "1974-01-19", "rank": 194}, {"date": "1974-01-26", "rank": 200}]}
+{
+  "id": "live-in-europe-creedence-clearwater-revival",
+  "title": "Live In Europe",
+  "artist": "Creedence Clearwater Revival",
+  "peak": 143,
+  "history": [
+    {
+      "date": "1973-11-24",
+      "rank": 180
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 152
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 146
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 143
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 147
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 156
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 179
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 193
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 194
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Green River / Suzie Q",
+      "id": "green-river-creedence-clearwater-revival"
+    },
+    {
+      "title": "Fortunate Son",
+      "id": "fortunate-son-creedence-clearwater-revival"
+    },
+    {
+      "title": "Commotion",
+      "id": "commotion-creedence-clearwater-revival"
+    },
+    {
+      "title": "Lodi",
+      "id": "lodi-creedence-clearwater-revival"
+    },
+    {
+      "title": "Bad Moon Rising",
+      "id": "bad-moon-rising-creedence-clearwater-revival"
+    },
+    {
+      "title": "Proud Mary",
+      "id": "proud-mary-creedence-clearwater-revival"
+    },
+    {
+      "title": "Up Around the Bend",
+      "id": "up-around-the-bend-run-through-the-jungle-creedence-clearwater-revival"
+    },
+    {
+      "title": "Sweet Hitch‐Hiker",
+      "id": "sweet-hitch-hiker-creedence-clearwater-revival"
+    },
+    {
+      "title": "Born on the Bayou",
+      "id": null
+    },
+    {
+      "title": "It Came out of the Sky",
+      "id": null
+    },
+    {
+      "title": "Door to Door",
+      "id": null
+    },
+    {
+      "title": "Travelin’ Band",
+      "id": null
+    },
+    {
+      "title": "Hey Tonight",
+      "id": null
+    },
+    {
+      "title": "Keep On Chooglin’",
+      "id": null
+    }
+  ]
+}

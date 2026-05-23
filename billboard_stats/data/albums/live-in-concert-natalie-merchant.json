@@ -1,1 +1,82 @@
-{"id": "live-in-concert-natalie-merchant", "title": "Live In Concert", "artist": "Natalie Merchant", "peak": 82, "history": [{"date": "1999-11-27", "rank": 82}, {"date": "1999-12-04", "rank": 119}, {"date": "1999-12-11", "rank": 181}, {"date": "1999-12-18", "rank": 177}, {"date": "1999-12-25", "rank": 189}, {"date": "2000-01-01", "rank": 187}, {"date": "2000-01-08", "rank": 170}]}
+{
+  "id": "live-in-concert-natalie-merchant",
+  "title": "Live In Concert",
+  "artist": "Natalie Merchant",
+  "peak": 82,
+  "history": [
+    {
+      "date": "1999-11-27",
+      "rank": 82
+    },
+    {
+      "date": "1999-12-04",
+      "rank": 119
+    },
+    {
+      "date": "1999-12-11",
+      "rank": 181
+    },
+    {
+      "date": "1999-12-18",
+      "rank": 177
+    },
+    {
+      "date": "1999-12-25",
+      "rank": 189
+    },
+    {
+      "date": "2000-01-01",
+      "rank": 187
+    },
+    {
+      "date": "2000-01-08",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wonder",
+      "id": "wonder-natalie-merchant"
+    },
+    {
+      "title": "Carnival",
+      "id": "carnival-natalie-merchant"
+    },
+    {
+      "title": "San Andreas Fault",
+      "id": null
+    },
+    {
+      "title": "Beloved Wife",
+      "id": null
+    },
+    {
+      "title": "Space Oddity",
+      "id": null
+    },
+    {
+      "title": "Dust Bowl",
+      "id": null
+    },
+    {
+      "title": "After the Gold Rush",
+      "id": null
+    },
+    {
+      "title": "Gun Shy",
+      "id": null
+    },
+    {
+      "title": "The Gulf of Araby",
+      "id": null
+    },
+    {
+      "title": "Ophelia",
+      "id": null
+    },
+    {
+      "title": "Seven Years",
+      "id": null
+    }
+  ]
+}

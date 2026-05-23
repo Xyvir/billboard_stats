@@ -1,1 +1,46 @@
-{"id": "live-in-boston-fleetwood-mac", "title": "Live In Boston", "artist": "Fleetwood Mac", "peak": 84, "history": [{"date": "2004-07-03", "rank": 84}, {"date": "2004-07-10", "rank": 184}]}
+{
+  "id": "live-in-boston-fleetwood-mac",
+  "title": "Live In Boston",
+  "artist": "Fleetwood Mac",
+  "peak": 84,
+  "history": [
+    {
+      "date": "2004-07-03",
+      "rank": 84
+    },
+    {
+      "date": "2004-07-10",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Oh Well, Pt. 1",
+      "id": "oh-well-pt-i-fleetwood-mac"
+    },
+    {
+      "title": "World in Harmony",
+      "id": null
+    },
+    {
+      "title": "Sandy Mary",
+      "id": null
+    },
+    {
+      "title": "Madison Blues",
+      "id": null
+    },
+    {
+      "title": "Green Manalishi",
+      "id": null
+    },
+    {
+      "title": "Black Magic Woman",
+      "id": null
+    },
+    {
+      "title": "Rattlesnake Shake",
+      "id": null
+    }
+  ]
+}
