@@ -1,1 +1,74 @@
-{"id": "ca-ino-baby-keem", "title": "Ca$ino", "artist": "Baby Keem", "peak": 4, "history": [{"date": "2026-03-07", "rank": 4}, {"date": "2026-03-14", "rank": 20}, {"date": "2026-03-21", "rank": 37}, {"date": "2026-03-28", "rank": 83}, {"date": "2026-04-04", "rank": 147}]}
+{
+  "id": "ca-ino-baby-keem",
+  "title": "Ca$ino",
+  "artist": "Baby Keem",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2026-03-07",
+      "rank": 4
+    },
+    {
+      "date": "2026-03-14",
+      "rank": 20
+    },
+    {
+      "date": "2026-03-21",
+      "rank": 37
+    },
+    {
+      "date": "2026-03-28",
+      "rank": 83
+    },
+    {
+      "date": "2026-04-04",
+      "rank": 147
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No Security",
+      "id": "no-security-baby-keem"
+    },
+    {
+      "title": "Ca$ino",
+      "id": "ca-ino-baby-keem"
+    },
+    {
+      "title": "Birds & the Bees",
+      "id": "birds-the-bees-baby-keem"
+    },
+    {
+      "title": "House Money",
+      "id": "house-money-baby-keem"
+    },
+    {
+      "title": "I am not a Lyricist",
+      "id": "i-am-not-a-lyricist-baby-keem"
+    },
+    {
+      "title": "Highway 95 pt.2",
+      "id": "highway-95-pt-2-baby-keem"
+    },
+    {
+      "title": "Circus Circus Free$tyle",
+      "id": "circus-circus-free-tyle-baby-keem"
+    },
+    {
+      "title": "Good Flirts",
+      "id": null
+    },
+    {
+      "title": "$ex Appeal",
+      "id": null
+    },
+    {
+      "title": "Dramatic Girl",
+      "id": null
+    },
+    {
+      "title": "No Blame",
+      "id": null
+    }
+  ]
+}

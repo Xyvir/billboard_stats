@@ -1,1 +1,90 @@
-{"id": "california-gold-nate-smith", "title": "California Gold", "artist": "Nate Smith", "peak": 65, "history": [{"date": "2024-10-19", "rank": 65}, {"date": "2024-10-26", "rank": 124}, {"date": "2024-11-02", "rank": 141}, {"date": "2024-11-09", "rank": 144}]}
+{
+  "id": "california-gold-nate-smith",
+  "title": "California Gold",
+  "artist": "Nate Smith",
+  "peak": 65,
+  "history": [
+    {
+      "date": "2024-10-19",
+      "rank": 65
+    },
+    {
+      "date": "2024-10-26",
+      "rank": 124
+    },
+    {
+      "date": "2024-11-02",
+      "rank": 141
+    },
+    {
+      "date": "2024-11-09",
+      "rank": 144
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fix What You Didn't Break",
+      "id": "fix-what-you-didn-t-break-nate-smith"
+    },
+    {
+      "title": "Bulletproof",
+      "id": "bulletproof-nate-smith"
+    },
+    {
+      "title": "Want Me Back",
+      "id": null
+    },
+    {
+      "title": "What Alone Looks Like",
+      "id": null
+    },
+    {
+      "title": "Can You Die From a Broken Heart",
+      "id": null
+    },
+    {
+      "title": "Perfect",
+      "id": null
+    },
+    {
+      "title": "Carry You Home",
+      "id": null
+    },
+    {
+      "title": "Goodbye Again",
+      "id": null
+    },
+    {
+      "title": "Not of This Earth",
+      "id": null
+    },
+    {
+      "title": "Wish I Never Felt",
+      "id": null
+    },
+    {
+      "title": "Faith",
+      "id": null
+    },
+    {
+      "title": "Bittersweet",
+      "id": null
+    },
+    {
+      "title": "Gave It All",
+      "id": null
+    },
+    {
+      "title": "Hurtless",
+      "id": null
+    },
+    {
+      "title": "California Gold",
+      "id": null
+    },
+    {
+      "title": "I Like It",
+      "id": null
+    }
+  ]
+}

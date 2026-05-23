@@ -1,1 +1,86 @@
-{"id": "california-wilson-phillips", "title": "California", "artist": "Wilson Phillips", "peak": 35, "history": [{"date": "2004-06-12", "rank": 35}, {"date": "2004-06-19", "rank": 60}, {"date": "2004-06-26", "rank": 85}, {"date": "2004-07-03", "rank": 119}, {"date": "2004-07-10", "rank": 58}, {"date": "2004-07-17", "rank": 76}, {"date": "2004-07-24", "rank": 119}, {"date": "2004-07-31", "rank": 156}]}
+{
+  "id": "california-wilson-phillips",
+  "title": "California",
+  "artist": "Wilson Phillips",
+  "peak": 35,
+  "history": [
+    {
+      "date": "2004-06-12",
+      "rank": 35
+    },
+    {
+      "date": "2004-06-19",
+      "rank": 60
+    },
+    {
+      "date": "2004-06-26",
+      "rank": 85
+    },
+    {
+      "date": "2004-07-03",
+      "rank": 119
+    },
+    {
+      "date": "2004-07-10",
+      "rank": 58
+    },
+    {
+      "date": "2004-07-17",
+      "rank": 76
+    },
+    {
+      "date": "2004-07-24",
+      "rank": 119
+    },
+    {
+      "date": "2004-07-31",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You’re No Good",
+      "id": "you-re-in-love-wilson-phillips"
+    },
+    {
+      "title": "Old Man",
+      "id": "hold-on-wilson-phillips"
+    },
+    {
+      "title": "California",
+      "id": null
+    },
+    {
+      "title": "Already Gone",
+      "id": null
+    },
+    {
+      "title": "Go Your Own Way",
+      "id": null
+    },
+    {
+      "title": "Turn! Turn! Turn! (To Everything There Is a Season)",
+      "id": null
+    },
+    {
+      "title": "Monday Monday",
+      "id": null
+    },
+    {
+      "title": "Get Together",
+      "id": null
+    },
+    {
+      "title": "Doctor My Eyes",
+      "id": null
+    },
+    {
+      "title": "Dance Dance Dance",
+      "id": null
+    },
+    {
+      "title": "In My Room / Already Gone (acoustic)",
+      "id": null
+    }
+  ]
+}

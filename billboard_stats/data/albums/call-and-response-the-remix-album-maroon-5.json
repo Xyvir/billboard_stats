@@ -1,1 +1,94 @@
-{"id": "call-and-response-the-remix-album-maroon-5", "title": "Call And  Response: The Remix Album", "artist": "Maroon 5", "peak": 73, "history": [{"date": "2008-12-27", "rank": 73}, {"date": "2009-01-03", "rank": 191}, {"date": "2009-01-17", "rank": 172}]}
+{
+  "id": "call-and-response-the-remix-album-maroon-5",
+  "title": "Call And  Response: The Remix Album",
+  "artist": "Maroon 5",
+  "peak": 73,
+  "history": [
+    {
+      "date": "2008-12-27",
+      "rank": 73
+    },
+    {
+      "date": "2009-01-03",
+      "rank": 191
+    },
+    {
+      "date": "2009-01-17",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sunday Morning (Questlove remix)",
+      "id": "sunday-morning-maroon-5"
+    },
+    {
+      "title": "Makes Me Wonder (Just Blaze remix)",
+      "id": "makes-me-wonder-maroon-5"
+    },
+    {
+      "title": "Harder to Breathe (The Cool Kids remix)",
+      "id": "harder-to-breathe-maroon-5"
+    },
+    {
+      "title": "If I Never See Your Face Again (Swizz Beatz remix)",
+      "id": null
+    },
+    {
+      "title": "Wake Up Call (Mark Ronson remix)",
+      "id": null
+    },
+    {
+      "title": "This Love (C. “Tricky” Stewart remix)",
+      "id": null
+    },
+    {
+      "title": "She Will Be Loved (Pharrell Williams remix)",
+      "id": null
+    },
+    {
+      "title": "Shiver (DJ Quik remix)",
+      "id": null
+    },
+    {
+      "title": "Wake Up Call (David Banner remix)",
+      "id": null
+    },
+    {
+      "title": "Little of Your Time (Bloodshy & Avant remix)",
+      "id": null
+    },
+    {
+      "title": "Little of Your Time (Of Montreal remix)",
+      "id": null
+    },
+    {
+      "title": "Goodnight Goodnight (Deerhoof remix)",
+      "id": null
+    },
+    {
+      "title": "Not Falling Apart (Tiësto remix)",
+      "id": null
+    },
+    {
+      "title": "Better That We Break (Ali Shaheed Muhammad & DOC remix)",
+      "id": null
+    },
+    {
+      "title": "Secret (Premier 5 remix)",
+      "id": null
+    },
+    {
+      "title": "Woman (Sam Farrar remix)",
+      "id": null
+    },
+    {
+      "title": "This Love (Cut Copy Galactic Beach House mix)",
+      "id": null
+    },
+    {
+      "title": "If I Never See Your Face Again (Paul Oakenfold remix)",
+      "id": null
+    }
+  ]
+}
