@@ -1,1 +1,70 @@
-{"id": "me-and-you-the-chi-lites", "title": "Me And You", "artist": "The Chi-lites", "peak": 162, "history": [{"date": "1982-04-10", "rank": 179}, {"date": "1982-04-17", "rank": 170}, {"date": "1982-04-24", "rank": 166}, {"date": "1982-05-01", "rank": 162}, {"date": "1982-05-08", "rank": 162}, {"date": "1982-05-15", "rank": 182}, {"date": "1982-05-22", "rank": 198}]}
+{
+  "id": "me-and-you-the-chi-lites",
+  "title": "Me And You",
+  "artist": "The Chi-lites",
+  "peak": 162,
+  "history": [
+    {
+      "date": "1982-04-10",
+      "rank": 179
+    },
+    {
+      "date": "1982-04-17",
+      "rank": 170
+    },
+    {
+      "date": "1982-04-24",
+      "rank": 166
+    },
+    {
+      "date": "1982-05-01",
+      "rank": 162
+    },
+    {
+      "date": "1982-05-08",
+      "rank": 162
+    },
+    {
+      "date": "1982-05-15",
+      "rank": 182
+    },
+    {
+      "date": "1982-05-22",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Oh Girl",
+      "id": "oh-girl-the-chi-lites"
+    },
+    {
+      "title": "Try My Side (Of Love)",
+      "id": "it-s-time-for-love-the-chi-lites"
+    },
+    {
+      "title": "Me and You",
+      "id": null
+    },
+    {
+      "title": "Tell Me Where It Hurts",
+      "id": null
+    },
+    {
+      "title": "Whole Lot of Good Lovin'",
+      "id": null
+    },
+    {
+      "title": "Get Down With Me",
+      "id": null
+    },
+    {
+      "title": "Hot on a Thing (Called Love)",
+      "id": null
+    },
+    {
+      "title": "Never Speak to a Stranger",
+      "id": null
+    }
+  ]
+}

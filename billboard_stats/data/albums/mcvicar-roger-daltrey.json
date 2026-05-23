@@ -1,1 +1,110 @@
-{"id": "mcvicar-roger-daltrey", "title": "McVicar", "artist": "Roger Daltrey", "peak": 22, "history": [{"date": "1980-08-16", "rank": 100}, {"date": "1980-08-23", "rank": 52}, {"date": "1980-08-30", "rank": 33}, {"date": "1980-09-06", "rank": 29}, {"date": "1980-09-13", "rank": 22}, {"date": "1980-09-20", "rank": 22}, {"date": "1980-09-27", "rank": 24}, {"date": "1980-10-04", "rank": 40}, {"date": "1980-10-11", "rank": 50}, {"date": "1980-10-18", "rank": 61}, {"date": "1980-10-25", "rank": 77}, {"date": "1980-11-01", "rank": 123}, {"date": "1980-11-08", "rank": 123}, {"date": "1980-11-15", "rank": 161}, {"date": "1980-11-22", "rank": 194}]}
+{
+  "id": "mcvicar-roger-daltrey",
+  "title": "McVicar",
+  "artist": "Roger Daltrey",
+  "peak": 22,
+  "history": [
+    {
+      "date": "1980-08-16",
+      "rank": 100
+    },
+    {
+      "date": "1980-08-23",
+      "rank": 52
+    },
+    {
+      "date": "1980-08-30",
+      "rank": 33
+    },
+    {
+      "date": "1980-09-06",
+      "rank": 29
+    },
+    {
+      "date": "1980-09-13",
+      "rank": 22
+    },
+    {
+      "date": "1980-09-20",
+      "rank": 22
+    },
+    {
+      "date": "1980-09-27",
+      "rank": 24
+    },
+    {
+      "date": "1980-10-04",
+      "rank": 40
+    },
+    {
+      "date": "1980-10-11",
+      "rank": 50
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 61
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 77
+    },
+    {
+      "date": "1980-11-01",
+      "rank": 123
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 123
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 161
+    },
+    {
+      "date": "1980-11-22",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Free Me",
+      "id": "free-me-roger-daltrey"
+    },
+    {
+      "title": "Without Your Love",
+      "id": "without-your-love-roger-daltrey"
+    },
+    {
+      "title": "Bitter and Twisted",
+      "id": null
+    },
+    {
+      "title": "Just a Dream Away",
+      "id": null
+    },
+    {
+      "title": "Escape, Part One",
+      "id": null
+    },
+    {
+      "title": "White City Lights",
+      "id": null
+    },
+    {
+      "title": "My Time Is Gonna Come",
+      "id": null
+    },
+    {
+      "title": "Waiting for a Friend",
+      "id": null
+    },
+    {
+      "title": "Escape, Part Two",
+      "id": null
+    },
+    {
+      "title": "McVicar",
+      "id": null
+    }
+  ]
+}
