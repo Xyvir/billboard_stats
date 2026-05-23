@@ -1,1 +1,70 @@
-{"id": "just-for-the-record-barbara-mandrell", "title": "Just For The Record", "artist": "Barbara Mandrell", "peak": 166, "history": [{"date": "1979-10-13", "rank": 190}, {"date": "1979-10-20", "rank": 176}, {"date": "1979-10-27", "rank": 166}, {"date": "1979-11-03", "rank": 166}, {"date": "1979-11-10", "rank": 169}]}
+{
+  "id": "just-for-the-record-barbara-mandrell",
+  "title": "Just For The Record",
+  "artist": "Barbara Mandrell",
+  "peak": 166,
+  "history": [
+    {
+      "date": "1979-10-13",
+      "rank": 190
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 176
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 166
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 166
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fooled by a Feeling",
+      "id": "fooled-by-a-feeling-barbara-mandrell"
+    },
+    {
+      "title": "Years",
+      "id": null
+    },
+    {
+      "title": "My Love Can Do No Wrong",
+      "id": null
+    },
+    {
+      "title": "She's Out There Dancin' Alone",
+      "id": null
+    },
+    {
+      "title": "Selfish",
+      "id": null
+    },
+    {
+      "title": "Darlin'",
+      "id": null
+    },
+    {
+      "title": "Using Him to Get to You",
+      "id": null
+    },
+    {
+      "title": "Is It Love Yet?",
+      "id": null
+    },
+    {
+      "title": "It Can Wait",
+      "id": null
+    },
+    {
+      "title": "Love Takes a Long Time to Die",
+      "id": null
+    }
+  ]
+}

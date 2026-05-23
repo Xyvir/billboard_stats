@@ -1,1 +1,114 @@
-{"id": "just-go-lionel-richie", "title": "Just Go", "artist": "Lionel Richie", "peak": 24, "history": [{"date": "2009-06-06", "rank": 24}, {"date": "2009-06-13", "rank": 49}, {"date": "2009-06-20", "rank": 52}, {"date": "2009-06-27", "rank": 58}, {"date": "2009-07-04", "rank": 77}, {"date": "2009-07-11", "rank": 112}, {"date": "2009-07-18", "rank": 149}, {"date": "2009-07-25", "rank": 158}]}
+{
+  "id": "just-go-lionel-richie",
+  "title": "Just Go",
+  "artist": "Lionel Richie",
+  "peak": 24,
+  "history": [
+    {
+      "date": "2009-06-06",
+      "rank": 24
+    },
+    {
+      "date": "2009-06-13",
+      "rank": 49
+    },
+    {
+      "date": "2009-06-20",
+      "rank": 52
+    },
+    {
+      "date": "2009-06-27",
+      "rank": 58
+    },
+    {
+      "date": "2009-07-04",
+      "rank": 77
+    },
+    {
+      "date": "2009-07-11",
+      "rank": 112
+    },
+    {
+      "date": "2009-07-18",
+      "rank": 149
+    },
+    {
+      "date": "2009-07-25",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Just Go",
+      "id": "just-for-you-lionel-richie"
+    },
+    {
+      "title": "I’m in Love",
+      "id": "i-call-it-love-lionel-richie"
+    },
+    {
+      "title": "Think of You",
+      "id": "stuck-on-you-lionel-richie"
+    },
+    {
+      "title": "Say You Say Me",
+      "id": "say-you-say-me-lionel-richie"
+    },
+    {
+      "title": "Stuck on You",
+      "id": "stuck-on-you-lionel-richie"
+    },
+    {
+      "title": "All Night Long",
+      "id": "all-night-long-all-night-lionel-richie"
+    },
+    {
+      "title": "Forever",
+      "id": null
+    },
+    {
+      "title": "Nothing Left to Give",
+      "id": null
+    },
+    {
+      "title": "Forever and a Day",
+      "id": null
+    },
+    {
+      "title": "I’m Not Okay",
+      "id": null
+    },
+    {
+      "title": "Good Morning",
+      "id": null
+    },
+    {
+      "title": "Through My Eyes",
+      "id": null
+    },
+    {
+      "title": "Into You Deep",
+      "id": null
+    },
+    {
+      "title": "Pastime",
+      "id": null
+    },
+    {
+      "title": "Face in the Crowd",
+      "id": null
+    },
+    {
+      "title": "Somewhere in London",
+      "id": null
+    },
+    {
+      "title": "Eternity",
+      "id": null
+    },
+    {
+      "title": "Easy",
+      "id": null
+    }
+  ]
+}

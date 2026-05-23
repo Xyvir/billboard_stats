@@ -1,1 +1,86 @@
-{"id": "just-say-ozzy-ozzy-osbourne", "title": "Just Say Ozzy", "artist": "Ozzy Osbourne", "peak": 58, "history": [{"date": "1990-03-03", "rank": 159}, {"date": "1990-03-10", "rank": 66}, {"date": "1990-03-17", "rank": 58}, {"date": "1990-03-24", "rank": 61}, {"date": "1990-03-31", "rank": 66}, {"date": "1990-04-07", "rank": 69}, {"date": "1990-04-14", "rank": 86}, {"date": "1990-04-21", "rank": 95}, {"date": "1990-04-28", "rank": 105}, {"date": "1990-05-05", "rank": 170}, {"date": "1990-05-12", "rank": 200}, {"date": "1990-05-19", "rank": 194}, {"date": "1990-05-26", "rank": 200}]}
+{
+  "id": "just-say-ozzy-ozzy-osbourne",
+  "title": "Just Say Ozzy",
+  "artist": "Ozzy Osbourne",
+  "peak": 58,
+  "history": [
+    {
+      "date": "1990-03-03",
+      "rank": 159
+    },
+    {
+      "date": "1990-03-10",
+      "rank": 66
+    },
+    {
+      "date": "1990-03-17",
+      "rank": 58
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 61
+    },
+    {
+      "date": "1990-03-31",
+      "rank": 66
+    },
+    {
+      "date": "1990-04-07",
+      "rank": 69
+    },
+    {
+      "date": "1990-04-14",
+      "rank": 86
+    },
+    {
+      "date": "1990-04-21",
+      "rank": 95
+    },
+    {
+      "date": "1990-04-28",
+      "rank": 105
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 170
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 200
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 194
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shot in the Dark",
+      "id": "shot-in-the-dark-ozzy-osbourne"
+    },
+    {
+      "title": "Miracle Man",
+      "id": null
+    },
+    {
+      "title": "Bloodbath in Paradise",
+      "id": null
+    },
+    {
+      "title": "Tattooed Dancer",
+      "id": null
+    },
+    {
+      "title": "Sweet Leaf",
+      "id": null
+    },
+    {
+      "title": "War Pigs",
+      "id": null
+    }
+  ]
+}
