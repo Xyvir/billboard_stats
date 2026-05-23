@@ -1,1 +1,78 @@
-{"id": "border-lord-kris-kristofferson", "title": "Border Lord", "artist": "Kris Kristofferson", "peak": 78, "history": [{"date": "1972-05-20", "rank": 78}, {"date": "1972-05-27", "rank": 97}, {"date": "1972-06-03", "rank": 104}, {"date": "1972-06-10", "rank": 103}, {"date": "1972-06-17", "rank": 109}, {"date": "1972-06-24", "rank": 134}, {"date": "1972-07-01", "rank": 157}]}
+{
+  "id": "border-lord-kris-kristofferson",
+  "title": "Border Lord",
+  "artist": "Kris Kristofferson",
+  "peak": 78,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 78
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 97
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 104
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 103
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 109
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 134
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 157
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Josie",
+      "id": "josie-kris-kristofferson"
+    },
+    {
+      "title": "Burden of Freedom",
+      "id": null
+    },
+    {
+      "title": "Stagger Mountain Tragedy",
+      "id": null
+    },
+    {
+      "title": "Border Lord",
+      "id": null
+    },
+    {
+      "title": "Somebody Nobody Knows",
+      "id": null
+    },
+    {
+      "title": "Little Girl Lost",
+      "id": null
+    },
+    {
+      "title": "Smokey Put the Sweat on Me",
+      "id": null
+    },
+    {
+      "title": "When She’s Wrong",
+      "id": null
+    },
+    {
+      "title": "Gettin’ by, High and Strange",
+      "id": null
+    },
+    {
+      "title": "Kiss the World Goodbye",
+      "id": null
+    }
+  ]
+}

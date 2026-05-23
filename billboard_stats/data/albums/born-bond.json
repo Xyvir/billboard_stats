@@ -1,1 +1,90 @@
-{"id": "born-bond", "title": "Born", "artist": "Bond", "peak": 108, "history": [{"date": "2001-04-21", "rank": 157}, {"date": "2001-04-28", "rank": 108}, {"date": "2001-05-05", "rank": 112}, {"date": "2001-05-12", "rank": 134}, {"date": "2001-05-19", "rank": 189}, {"date": "2001-05-26", "rank": 150}, {"date": "2001-06-02", "rank": 187}, {"date": "2001-08-04", "rank": 195}]}
+{
+  "id": "born-bond",
+  "title": "Born",
+  "artist": "Bond",
+  "peak": 108,
+  "history": [
+    {
+      "date": "2001-04-21",
+      "rank": 157
+    },
+    {
+      "date": "2001-04-28",
+      "rank": 108
+    },
+    {
+      "date": "2001-05-05",
+      "rank": 112
+    },
+    {
+      "date": "2001-05-12",
+      "rank": 134
+    },
+    {
+      "date": "2001-05-19",
+      "rank": 189
+    },
+    {
+      "date": "2001-05-26",
+      "rank": 150
+    },
+    {
+      "date": "2001-06-02",
+      "rank": 187
+    },
+    {
+      "date": "2001-08-04",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Quixote",
+      "id": null
+    },
+    {
+      "title": "Winter",
+      "id": null
+    },
+    {
+      "title": "Victory",
+      "id": null
+    },
+    {
+      "title": "Oceanic",
+      "id": null
+    },
+    {
+      "title": "Kismet",
+      "id": null
+    },
+    {
+      "title": "Korobushka",
+      "id": null
+    },
+    {
+      "title": "Alexander the Great",
+      "id": null
+    },
+    {
+      "title": "Duel",
+      "id": null
+    },
+    {
+      "title": "Bella Donna",
+      "id": null
+    },
+    {
+      "title": "The 1812",
+      "id": null
+    },
+    {
+      "title": "Dalalai",
+      "id": null
+    },
+    {
+      "title": "Hymn",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"id": "born-2b-blue-steve-miller", "title": "Born 2B Blue", "artist": "Steve Miller", "peak": 108, "history": [{"date": "1988-10-08", "rank": 168}, {"date": "1988-10-15", "rank": 131}, {"date": "1988-10-22", "rank": 108}, {"date": "1988-10-29", "rank": 108}, {"date": "1988-11-05", "rank": 113}, {"date": "1988-11-12", "rank": 121}, {"date": "1988-11-19", "rank": 127}, {"date": "1988-11-26", "rank": 153}, {"date": "1988-12-03", "rank": 188}, {"date": "1988-12-10", "rank": 191}]}
+{
+  "id": "born-2b-blue-steve-miller",
+  "title": "Born 2B Blue",
+  "artist": "Steve Miller",
+  "peak": 108,
+  "history": [
+    {
+      "date": "1988-10-08",
+      "rank": 168
+    },
+    {
+      "date": "1988-10-15",
+      "rank": 131
+    },
+    {
+      "date": "1988-10-22",
+      "rank": 108
+    },
+    {
+      "date": "1988-10-29",
+      "rank": 108
+    },
+    {
+      "date": "1988-11-05",
+      "rank": 113
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 121
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 127
+    },
+    {
+      "date": "1988-11-26",
+      "rank": 153
+    },
+    {
+      "date": "1988-12-03",
+      "rank": 188
+    },
+    {
+      "date": "1988-12-10",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Zip-A-Dee-Doo-Dah",
+      "id": null
+    },
+    {
+      "title": "Ya Ya",
+      "id": null
+    },
+    {
+      "title": "God Bless the Child",
+      "id": null
+    },
+    {
+      "title": "Filthy McNasty",
+      "id": null
+    },
+    {
+      "title": "Born to Be Blue",
+      "id": null
+    },
+    {
+      "title": "Mary Ann",
+      "id": null
+    },
+    {
+      "title": "Just a Little Bit",
+      "id": null
+    },
+    {
+      "title": "When Sunny Gets Blue",
+      "id": null
+    },
+    {
+      "title": "Willow Weep for Me",
+      "id": null
+    },
+    {
+      "title": "Red Top",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"id": "boomkatalog-one-boomkat", "title": "Boomkatalog.One", "artist": "Boomkat", "peak": 88, "history": [{"date": "2003-04-26", "rank": 88}, {"date": "2003-05-03", "rank": 199}]}
+{
+  "id": "boomkatalog-one-boomkat",
+  "title": "Boomkatalog.One",
+  "artist": "Boomkat",
+  "peak": 88,
+  "history": [
+    {
+      "date": "2003-04-26",
+      "rank": 88
+    },
+    {
+      "date": "2003-05-03",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Wreckoning",
+      "id": "the-wreckoning-boomkat"
+    },
+    {
+      "title": "Yo!verture",
+      "id": null
+    },
+    {
+      "title": "Now Understand This",
+      "id": null
+    },
+    {
+      "title": "Wastin’ My Time",
+      "id": null
+    },
+    {
+      "title": "Move On",
+      "id": null
+    },
+    {
+      "title": "B4 It’s 2 L8",
+      "id": null
+    },
+    {
+      "title": "Know Me",
+      "id": null
+    },
+    {
+      "title": "DayDreamin’",
+      "id": null
+    },
+    {
+      "title": "Crazylove",
+      "id": null
+    },
+    {
+      "title": "Look at All the People",
+      "id": null
+    },
+    {
+      "title": "Bein’ Bad",
+      "id": null
+    },
+    {
+      "title": "What U Do 2 Me",
+      "id": null
+    },
+    {
+      "title": "Answers",
+      "id": null
+    },
+    {
+      "title": "Left Side/Right Side",
+      "id": null
+    }
+  ]
+}

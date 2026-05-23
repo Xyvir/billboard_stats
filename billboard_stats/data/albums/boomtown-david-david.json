@@ -1,1 +1,198 @@
-{"id": "boomtown-david-david", "title": "Boomtown", "artist": "David & David", "peak": 39, "history": [{"date": "1986-08-16", "rank": 175}, {"date": "1986-08-23", "rank": 148}, {"date": "1986-08-30", "rank": 128}, {"date": "1986-09-06", "rank": 99}, {"date": "1986-09-13", "rank": 96}, {"date": "1986-09-20", "rank": 94}, {"date": "1986-09-27", "rank": 73}, {"date": "1986-10-04", "rank": 71}, {"date": "1986-10-11", "rank": 67}, {"date": "1986-10-18", "rank": 59}, {"date": "1986-10-25", "rank": 58}, {"date": "1986-11-01", "rank": 56}, {"date": "1986-11-08", "rank": 48}, {"date": "1986-11-15", "rank": 48}, {"date": "1986-11-22", "rank": 45}, {"date": "1986-11-29", "rank": 42}, {"date": "1986-12-06", "rank": 39}, {"date": "1986-12-13", "rank": 39}, {"date": "1986-12-20", "rank": 47}, {"date": "1986-12-27", "rank": 46}, {"date": "1987-01-03", "rank": 46}, {"date": "1987-01-10", "rank": 48}, {"date": "1987-01-17", "rank": 56}, {"date": "1987-01-24", "rank": 60}, {"date": "1987-01-31", "rank": 56}, {"date": "1987-02-07", "rank": 55}, {"date": "1987-02-14", "rank": 48}, {"date": "1987-02-21", "rank": 45}, {"date": "1987-02-28", "rank": 45}, {"date": "1987-03-07", "rank": 52}, {"date": "1987-03-14", "rank": 54}, {"date": "1987-03-21", "rank": 66}, {"date": "1987-03-28", "rank": 80}, {"date": "1987-04-04", "rank": 89}, {"date": "1987-04-11", "rank": 121}, {"date": "1987-04-18", "rank": 125}, {"date": "1987-04-25", "rank": 154}, {"date": "1987-05-02", "rank": 174}]}
+{
+  "id": "boomtown-david-david",
+  "title": "Boomtown",
+  "artist": "David & David",
+  "peak": 39,
+  "history": [
+    {
+      "date": "1986-08-16",
+      "rank": 175
+    },
+    {
+      "date": "1986-08-23",
+      "rank": 148
+    },
+    {
+      "date": "1986-08-30",
+      "rank": 128
+    },
+    {
+      "date": "1986-09-06",
+      "rank": 99
+    },
+    {
+      "date": "1986-09-13",
+      "rank": 96
+    },
+    {
+      "date": "1986-09-20",
+      "rank": 94
+    },
+    {
+      "date": "1986-09-27",
+      "rank": 73
+    },
+    {
+      "date": "1986-10-04",
+      "rank": 71
+    },
+    {
+      "date": "1986-10-11",
+      "rank": 67
+    },
+    {
+      "date": "1986-10-18",
+      "rank": 59
+    },
+    {
+      "date": "1986-10-25",
+      "rank": 58
+    },
+    {
+      "date": "1986-11-01",
+      "rank": 56
+    },
+    {
+      "date": "1986-11-08",
+      "rank": 48
+    },
+    {
+      "date": "1986-11-15",
+      "rank": 48
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 45
+    },
+    {
+      "date": "1986-11-29",
+      "rank": 42
+    },
+    {
+      "date": "1986-12-06",
+      "rank": 39
+    },
+    {
+      "date": "1986-12-13",
+      "rank": 39
+    },
+    {
+      "date": "1986-12-20",
+      "rank": 47
+    },
+    {
+      "date": "1986-12-27",
+      "rank": 46
+    },
+    {
+      "date": "1987-01-03",
+      "rank": 46
+    },
+    {
+      "date": "1987-01-10",
+      "rank": 48
+    },
+    {
+      "date": "1987-01-17",
+      "rank": 56
+    },
+    {
+      "date": "1987-01-24",
+      "rank": 60
+    },
+    {
+      "date": "1987-01-31",
+      "rank": 56
+    },
+    {
+      "date": "1987-02-07",
+      "rank": 55
+    },
+    {
+      "date": "1987-02-14",
+      "rank": 48
+    },
+    {
+      "date": "1987-02-21",
+      "rank": 45
+    },
+    {
+      "date": "1987-02-28",
+      "rank": 45
+    },
+    {
+      "date": "1987-03-07",
+      "rank": 52
+    },
+    {
+      "date": "1987-03-14",
+      "rank": 54
+    },
+    {
+      "date": "1987-03-21",
+      "rank": 66
+    },
+    {
+      "date": "1987-03-28",
+      "rank": 80
+    },
+    {
+      "date": "1987-04-04",
+      "rank": 89
+    },
+    {
+      "date": "1987-04-11",
+      "rank": 121
+    },
+    {
+      "date": "1987-04-18",
+      "rank": 125
+    },
+    {
+      "date": "1987-04-25",
+      "rank": 154
+    },
+    {
+      "date": "1987-05-02",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Welcome to the Boomtown",
+      "id": "welcome-to-the-boomtown-david-david"
+    },
+    {
+      "title": "Ain’t So Easy",
+      "id": "ain-t-so-easy-david-david"
+    },
+    {
+      "title": "Swallowed by the Cracks",
+      "id": null
+    },
+    {
+      "title": "Being Alone Together",
+      "id": null
+    },
+    {
+      "title": "A Rock for the Forgotten",
+      "id": null
+    },
+    {
+      "title": "River’s Gonna Rise",
+      "id": null
+    },
+    {
+      "title": "Swimming in the Ocean",
+      "id": null
+    },
+    {
+      "title": "All Alone in the Big City",
+      "id": null
+    },
+    {
+      "title": "Heroes",
+      "id": null
+    }
+  ]
+}
