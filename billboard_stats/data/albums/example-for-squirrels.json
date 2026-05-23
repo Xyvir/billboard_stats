@@ -1,1 +1,66 @@
-{"id": "example-for-squirrels", "title": "Example", "artist": "For Squirrels", "peak": 171, "history": [{"date": "1996-02-03", "rank": 181}, {"date": "1996-02-10", "rank": 173}, {"date": "1996-02-17", "rank": 171}, {"date": "1996-02-24", "rank": 186}]}
+{
+  "id": "example-for-squirrels",
+  "title": "Example",
+  "artist": "For Squirrels",
+  "peak": 171,
+  "history": [
+    {
+      "date": "1996-02-03",
+      "rank": 181
+    },
+    {
+      "date": "1996-02-10",
+      "rank": 173
+    },
+    {
+      "date": "1996-02-17",
+      "rank": 171
+    },
+    {
+      "date": "1996-02-24",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "8:02 PM",
+      "id": null
+    },
+    {
+      "title": "Orangeworker",
+      "id": null
+    },
+    {
+      "title": "Superstar",
+      "id": null
+    },
+    {
+      "title": "Mighty K.C.",
+      "id": null
+    },
+    {
+      "title": "Under Smithville",
+      "id": null
+    },
+    {
+      "title": "Long Live the King",
+      "id": null
+    },
+    {
+      "title": "The Immortal Dog and Pony Show",
+      "id": null
+    },
+    {
+      "title": "Stark Pretty",
+      "id": null
+    },
+    {
+      "title": "Disenchanted",
+      "id": null
+    },
+    {
+      "title": "Eskimo Sandune",
+      "id": null
+    }
+  ]
+}

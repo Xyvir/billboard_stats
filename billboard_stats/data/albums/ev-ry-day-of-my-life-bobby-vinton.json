@@ -1,1 +1,90 @@
-{"id": "ev-ry-day-of-my-life-bobby-vinton", "title": "Ev'ry Day Of My Life", "artist": "Bobby Vinton", "peak": 72, "history": [{"date": "1972-05-20", "rank": 72}, {"date": "1972-05-27", "rank": 83}, {"date": "1972-06-03", "rank": 83}, {"date": "1972-06-10", "rank": 100}, {"date": "1972-06-17", "rank": 107}, {"date": "1972-06-24", "rank": 122}, {"date": "1972-07-01", "rank": 148}, {"date": "1972-07-08", "rank": 154}, {"date": "1972-07-15", "rank": 198}]}
+{
+  "id": "ev-ry-day-of-my-life-bobby-vinton",
+  "title": "Ev'ry Day Of My Life",
+  "artist": "Bobby Vinton",
+  "peak": 72,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 72
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 83
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 83
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 100
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 107
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 122
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 148
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 154
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ev'ry Day of My Life",
+      "id": "every-day-of-my-life-bobby-vinton"
+    },
+    {
+      "title": "I'm Comin' Home, Girl",
+      "id": "coming-home-soldier-bobby-vinton"
+    },
+    {
+      "title": "And I Love You So",
+      "id": "i-love-how-you-love-me-bobby-vinton"
+    },
+    {
+      "title": "Let's Sing a Song",
+      "id": null
+    },
+    {
+      "title": "Misty Blue",
+      "id": null
+    },
+    {
+      "title": "I Won't Cry Anymore",
+      "id": null
+    },
+    {
+      "title": "Just a Little Lovin' (Early In the Mornin')",
+      "id": null
+    },
+    {
+      "title": "I'll Make You My Baby",
+      "id": null
+    },
+    {
+      "title": "She Loves Me",
+      "id": null
+    },
+    {
+      "title": "You Can Do It to Me Anytime",
+      "id": null
+    },
+    {
+      "title": "Whose Garden Was This",
+      "id": null
+    }
+  ]
+}
