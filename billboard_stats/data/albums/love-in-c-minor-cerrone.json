@@ -1,1 +1,62 @@
-{"id": "love-in-c-minor-cerrone", "title": "Love In C Minor", "artist": "Cerrone", "peak": 153, "history": [{"date": "1977-02-26", "rank": 182}, {"date": "1977-03-05", "rank": 168}, {"date": "1977-03-12", "rank": 161}, {"date": "1977-03-19", "rank": 156}, {"date": "1977-03-26", "rank": 156}, {"date": "1977-04-02", "rank": 161}, {"date": "1977-04-09", "rank": 157}, {"date": "1977-04-16", "rank": 153}, {"date": "1977-04-23", "rank": 173}, {"date": "1977-04-30", "rank": 193}]}
+{
+  "id": "love-in-c-minor-cerrone",
+  "title": "Love In C Minor",
+  "artist": "Cerrone",
+  "peak": 153,
+  "history": [
+    {
+      "date": "1977-02-26",
+      "rank": 182
+    },
+    {
+      "date": "1977-03-05",
+      "rank": 168
+    },
+    {
+      "date": "1977-03-12",
+      "rank": 161
+    },
+    {
+      "date": "1977-03-19",
+      "rank": 156
+    },
+    {
+      "date": "1977-03-26",
+      "rank": 156
+    },
+    {
+      "date": "1977-04-02",
+      "rank": 161
+    },
+    {
+      "date": "1977-04-09",
+      "rank": 157
+    },
+    {
+      "date": "1977-04-16",
+      "rank": 153
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 173
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love in 'C' minor",
+      "id": "love-in-c-minor-pt-i-cerrone"
+    },
+    {
+      "title": "Black Is Black",
+      "id": null
+    },
+    {
+      "title": "Midnite Lady",
+      "id": null
+    }
+  ]
+}
