@@ -1,1 +1,226 @@
-{"id": "every-home-should-have-one-patti-austin", "title": "Every Home Should Have One", "artist": "Patti Austin", "peak": 36, "history": [{"date": "1981-10-03", "rank": 145}, {"date": "1981-10-10", "rank": 93}, {"date": "1981-10-17", "rank": 83}, {"date": "1981-10-24", "rank": 75}, {"date": "1981-10-31", "rank": 66}, {"date": "1981-11-07", "rank": 65}, {"date": "1981-11-14", "rank": 65}, {"date": "1981-11-21", "rank": 87}, {"date": "1981-11-28", "rank": 87}, {"date": "1981-12-05", "rank": 118}, {"date": "1981-12-12", "rank": 128}, {"date": "1981-12-19", "rank": 153}, {"date": "1981-12-26", "rank": 170}, {"date": "1982-01-02", "rank": 170}, {"date": "1982-01-09", "rank": 168}, {"date": "1982-01-16", "rank": 165}, {"date": "1982-01-23", "rank": 160}, {"date": "1982-01-30", "rank": 157}, {"date": "1982-02-06", "rank": 181}, {"date": "1982-12-11", "rank": 149}, {"date": "1982-12-18", "rank": 94}, {"date": "1982-12-25", "rank": 66}, {"date": "1983-01-01", "rank": 66}, {"date": "1983-01-08", "rank": 50}, {"date": "1983-01-15", "rank": 46}, {"date": "1983-01-22", "rank": 42}, {"date": "1983-01-29", "rank": 40}, {"date": "1983-02-05", "rank": 40}, {"date": "1983-02-12", "rank": 38}, {"date": "1983-02-19", "rank": 36}, {"date": "1983-02-26", "rank": 36}, {"date": "1983-03-05", "rank": 36}, {"date": "1983-03-12", "rank": 36}, {"date": "1983-03-19", "rank": 36}, {"date": "1983-03-26", "rank": 36}, {"date": "1983-04-02", "rank": 36}, {"date": "1983-04-09", "rank": 36}, {"date": "1983-04-16", "rank": 57}, {"date": "1983-04-23", "rank": 76}, {"date": "1983-04-30", "rank": 105}, {"date": "1983-05-07", "rank": 143}, {"date": "1983-05-14", "rank": 146}, {"date": "1983-05-21", "rank": 151}, {"date": "1983-05-28", "rank": 175}]}
+{
+  "id": "every-home-should-have-one-patti-austin",
+  "title": "Every Home Should Have One",
+  "artist": "Patti Austin",
+  "peak": 36,
+  "history": [
+    {
+      "date": "1981-10-03",
+      "rank": 145
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 93
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 83
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 75
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 66
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 65
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 65
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 87
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 87
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 118
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 128
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 153
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 170
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 170
+    },
+    {
+      "date": "1982-01-09",
+      "rank": 168
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 165
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 160
+    },
+    {
+      "date": "1982-01-30",
+      "rank": 157
+    },
+    {
+      "date": "1982-02-06",
+      "rank": 181
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 149
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 94
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 66
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 66
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 50
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 46
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 42
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 40
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 40
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 38
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 36
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 36
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 36
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 36
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 36
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 36
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 36
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 36
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 57
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 76
+    },
+    {
+      "date": "1983-04-30",
+      "rank": 105
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 143
+    },
+    {
+      "date": "1983-05-14",
+      "rank": 146
+    },
+    {
+      "date": "1983-05-21",
+      "rank": 151
+    },
+    {
+      "date": "1983-05-28",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Every Home Should Have One",
+      "id": "every-home-should-have-one-patti-austin"
+    },
+    {
+      "title": "Do You Love Me",
+      "id": null
+    },
+    {
+      "title": "Love Me to Death",
+      "id": null
+    },
+    {
+      "title": "Way I Feel",
+      "id": null
+    },
+    {
+      "title": "Baby, Come to Me",
+      "id": null
+    },
+    {
+      "title": "Genie",
+      "id": null
+    },
+    {
+      "title": "Stop, Look, Listen (To Your Heart)",
+      "id": null
+    },
+    {
+      "title": "Symphony of Love",
+      "id": null
+    },
+    {
+      "title": "Oh No, Margarita",
+      "id": null
+    },
+    {
+      "title": "Island",
+      "id": null
+    }
+  ]
+}

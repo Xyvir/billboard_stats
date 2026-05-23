@@ -1,1 +1,62 @@
-{"id": "every-good-boy-deserves-favour-the-moody-blues", "title": "Every Good Boy Deserves Favour", "artist": "The Moody Blues", "peak": 114, "history": [{"date": "1972-05-20", "rank": 114}, {"date": "1972-05-27", "rank": 129}, {"date": "1972-06-03", "rank": 147}, {"date": "1972-06-10", "rank": 167}]}
+{
+  "id": "every-good-boy-deserves-favour-the-moody-blues",
+  "title": "Every Good Boy Deserves Favour",
+  "artist": "The Moody Blues",
+  "peak": 114,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 114
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 129
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 147
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Story in Your Eyes",
+      "id": "the-story-in-your-eyes-the-moody-blues"
+    },
+    {
+      "title": "Procession",
+      "id": null
+    },
+    {
+      "title": "Our Guessing Game",
+      "id": null
+    },
+    {
+      "title": "Emily’s Song",
+      "id": null
+    },
+    {
+      "title": "After You Came",
+      "id": null
+    },
+    {
+      "title": "One More Time to Live",
+      "id": null
+    },
+    {
+      "title": "Nice to Be Here",
+      "id": null
+    },
+    {
+      "title": "You Can Never Go Home",
+      "id": null
+    },
+    {
+      "title": "My Song",
+      "id": null
+    }
+  ]
+}
