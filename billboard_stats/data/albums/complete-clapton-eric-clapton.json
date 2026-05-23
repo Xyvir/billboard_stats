@@ -1,1 +1,234 @@
-{"id": "complete-clapton-eric-clapton", "title": "Complete Clapton", "artist": "Eric Clapton", "peak": 14, "history": [{"date": "2007-10-27", "rank": 14}, {"date": "2007-11-03", "rank": 20}, {"date": "2007-11-10", "rank": 35}, {"date": "2007-11-17", "rank": 49}, {"date": "2007-11-24", "rank": 63}, {"date": "2007-12-01", "rank": 80}, {"date": "2007-12-08", "rank": 96}, {"date": "2007-12-15", "rank": 70}, {"date": "2007-12-22", "rank": 54}, {"date": "2007-12-29", "rank": 84}, {"date": "2008-01-05", "rank": 85}, {"date": "2008-01-12", "rank": 103}, {"date": "2008-01-19", "rank": 138}, {"date": "2008-01-26", "rank": 127}, {"date": "2008-02-02", "rank": 137}, {"date": "2008-02-09", "rank": 141}, {"date": "2008-02-16", "rank": 176}, {"date": "2008-02-23", "rank": 190}, {"date": "2008-03-01", "rank": 173}, {"date": "2012-08-18", "rank": 122}, {"date": "2018-05-05", "rank": 183}]}
+{
+  "id": "complete-clapton-eric-clapton",
+  "title": "Complete Clapton",
+  "artist": "Eric Clapton",
+  "peak": 14,
+  "history": [
+    {
+      "date": "2007-10-27",
+      "rank": 14
+    },
+    {
+      "date": "2007-11-03",
+      "rank": 20
+    },
+    {
+      "date": "2007-11-10",
+      "rank": 35
+    },
+    {
+      "date": "2007-11-17",
+      "rank": 49
+    },
+    {
+      "date": "2007-11-24",
+      "rank": 63
+    },
+    {
+      "date": "2007-12-01",
+      "rank": 80
+    },
+    {
+      "date": "2007-12-08",
+      "rank": 96
+    },
+    {
+      "date": "2007-12-15",
+      "rank": 70
+    },
+    {
+      "date": "2007-12-22",
+      "rank": 54
+    },
+    {
+      "date": "2007-12-29",
+      "rank": 84
+    },
+    {
+      "date": "2008-01-05",
+      "rank": 85
+    },
+    {
+      "date": "2008-01-12",
+      "rank": 103
+    },
+    {
+      "date": "2008-01-19",
+      "rank": 138
+    },
+    {
+      "date": "2008-01-26",
+      "rank": 127
+    },
+    {
+      "date": "2008-02-02",
+      "rank": 137
+    },
+    {
+      "date": "2008-02-09",
+      "rank": 141
+    },
+    {
+      "date": "2008-02-16",
+      "rank": 176
+    },
+    {
+      "date": "2008-02-23",
+      "rank": 190
+    },
+    {
+      "date": "2008-03-01",
+      "rank": 173
+    },
+    {
+      "date": "2012-08-18",
+      "rank": 122
+    },
+    {
+      "date": "2018-05-05",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Badge",
+      "id": "bad-love-eric-clapton"
+    },
+    {
+      "title": "After Midnight",
+      "id": "after-midnight-eric-clapton"
+    },
+    {
+      "title": "Let It Rain",
+      "id": "let-it-rain-eric-clapton"
+    },
+    {
+      "title": "Bell Bottom Blues",
+      "id": "bell-bottom-blues-eric-clapton"
+    },
+    {
+      "title": "Layla",
+      "id": "layla-eric-clapton"
+    },
+    {
+      "title": "Let It Grow",
+      "id": "let-it-rain-eric-clapton"
+    },
+    {
+      "title": "I Shot the Sheriff",
+      "id": "i-shot-the-sheriff-eric-clapton"
+    },
+    {
+      "title": "Hello Old Friend",
+      "id": "hello-old-friend-eric-clapton"
+    },
+    {
+      "title": "Lay Down Sally",
+      "id": "lay-down-sally-eric-clapton"
+    },
+    {
+      "title": "Wonderful Tonight",
+      "id": "wonderful-tonight-eric-clapton"
+    },
+    {
+      "title": "I’ve Got a Rock ’n’ Roll Heart",
+      "id": "i-ve-got-a-rock-n-roll-heart-eric-clapton"
+    },
+    {
+      "title": "Forever Man",
+      "id": "forever-man-eric-clapton"
+    },
+    {
+      "title": "Pretending",
+      "id": "pretending-eric-clapton"
+    },
+    {
+      "title": "Bad Love",
+      "id": "bad-love-eric-clapton"
+    },
+    {
+      "title": "Tears in Heaven",
+      "id": "tears-in-heaven-eric-clapton"
+    },
+    {
+      "title": "Change the World",
+      "id": "change-the-world-eric-clapton"
+    },
+    {
+      "title": "I Feel Free",
+      "id": null
+    },
+    {
+      "title": "Sunshine of Your Love",
+      "id": null
+    },
+    {
+      "title": "White Room",
+      "id": null
+    },
+    {
+      "title": "Crossroads",
+      "id": null
+    },
+    {
+      "title": "Presence of the Lord",
+      "id": null
+    },
+    {
+      "title": "Knockin’ on Heaven’s Door",
+      "id": null
+    },
+    {
+      "title": "Cocaine",
+      "id": null
+    },
+    {
+      "title": "Promises",
+      "id": null
+    },
+    {
+      "title": "I Can’t Stand It",
+      "id": null
+    },
+    {
+      "title": "She’s Waiting",
+      "id": null
+    },
+    {
+      "title": "It’s in the Way That You Use It",
+      "id": null
+    },
+    {
+      "title": "Miss You",
+      "id": null
+    },
+    {
+      "title": "Running on Faith (unplugged)",
+      "id": null
+    },
+    {
+      "title": "Motherless Child",
+      "id": null
+    },
+    {
+      "title": "My Father’s Eyes",
+      "id": null
+    },
+    {
+      "title": "Riding With the King",
+      "id": null
+    },
+    {
+      "title": "Sweet Home Chicago",
+      "id": null
+    },
+    {
+      "title": "If I Had Possession Over Judgement Day",
+      "id": null
+    },
+    {
+      "title": "Ride the River",
+      "id": null
+    }
+  ]
+}

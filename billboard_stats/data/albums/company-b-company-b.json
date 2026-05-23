@@ -1,1 +1,70 @@
-{"id": "company-b-company-b", "title": "Company B", "artist": "Company B", "peak": 143, "history": [{"date": "1987-07-18", "rank": 174}, {"date": "1987-07-25", "rank": 169}, {"date": "1987-08-01", "rank": 166}, {"date": "1987-08-08", "rank": 143}, {"date": "1987-08-15", "rank": 143}, {"date": "1987-08-22", "rank": 164}]}
+{
+  "id": "company-b-company-b",
+  "title": "Company B",
+  "artist": "Company B",
+  "peak": 143,
+  "history": [
+    {
+      "date": "1987-07-18",
+      "rank": 174
+    },
+    {
+      "date": "1987-07-25",
+      "rank": 169
+    },
+    {
+      "date": "1987-08-01",
+      "rank": 166
+    },
+    {
+      "date": "1987-08-08",
+      "rank": 143
+    },
+    {
+      "date": "1987-08-15",
+      "rank": 143
+    },
+    {
+      "date": "1987-08-22",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fascinated",
+      "id": "fascinated-company-b"
+    },
+    {
+      "title": "Spin Me Around",
+      "id": null
+    },
+    {
+      "title": "Signed in Your Book of Love",
+      "id": null
+    },
+    {
+      "title": "I'm Satisfied",
+      "id": null
+    },
+    {
+      "title": "Perfect Lover",
+      "id": null
+    },
+    {
+      "title": "Full Circle",
+      "id": null
+    },
+    {
+      "title": "Jam on Me",
+      "id": null
+    },
+    {
+      "title": "Infatuate Me",
+      "id": null
+    },
+    {
+      "title": "Fascinated (bonus remix track)",
+      "id": null
+    }
+  ]
+}

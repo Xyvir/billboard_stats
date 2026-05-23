@@ -1,1 +1,118 @@
-{"id": "complete-greatest-hits-foreigner", "title": "Complete Greatest Hits", "artist": "Foreigner", "peak": 80, "history": [{"date": "2002-05-25", "rank": 80}, {"date": "2002-06-01", "rank": 113}, {"date": "2002-06-08", "rank": 200}, {"date": "2002-06-15", "rank": 173}, {"date": "2002-06-22", "rank": 192}, {"date": "2002-06-29", "rank": 177}, {"date": "2002-07-06", "rank": 195}]}
+{
+  "id": "complete-greatest-hits-foreigner",
+  "title": "Complete Greatest Hits",
+  "artist": "Foreigner",
+  "peak": 80,
+  "history": [
+    {
+      "date": "2002-05-25",
+      "rank": 80
+    },
+    {
+      "date": "2002-06-01",
+      "rank": 113
+    },
+    {
+      "date": "2002-06-08",
+      "rank": 200
+    },
+    {
+      "date": "2002-06-15",
+      "rank": 173
+    },
+    {
+      "date": "2002-06-22",
+      "rank": 192
+    },
+    {
+      "date": "2002-06-29",
+      "rank": 177
+    },
+    {
+      "date": "2002-07-06",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Feels Like the First Time",
+      "id": "feels-like-the-first-time-foreigner"
+    },
+    {
+      "title": "Cold as Ice",
+      "id": "cold-as-ice-foreigner"
+    },
+    {
+      "title": "Long, Long Way From Home",
+      "id": "long-long-way-from-home-foreigner"
+    },
+    {
+      "title": "Hot Blooded",
+      "id": "hot-blooded-foreigner"
+    },
+    {
+      "title": "Double Vision",
+      "id": "double-vision-foreigner"
+    },
+    {
+      "title": "Blue Morning, Blue Day",
+      "id": "blue-morning-blue-day-foreigner"
+    },
+    {
+      "title": "Dirty White Boy",
+      "id": "dirty-white-boy-foreigner"
+    },
+    {
+      "title": "Head Games",
+      "id": "head-games-foreigner"
+    },
+    {
+      "title": "Women",
+      "id": "women-foreigner"
+    },
+    {
+      "title": "Urgent",
+      "id": "urgent-foreigner"
+    },
+    {
+      "title": "Waiting for a Girl Like You",
+      "id": "waiting-for-a-girl-like-you-foreigner"
+    },
+    {
+      "title": "Juke Box Hero",
+      "id": "juke-box-hero-foreigner"
+    },
+    {
+      "title": "I Want to Know What Love Is",
+      "id": "i-want-to-know-what-love-is-foreigner"
+    },
+    {
+      "title": "That Was Yesterday",
+      "id": "that-was-yesterday-foreigner"
+    },
+    {
+      "title": "Heart Turns to Stone",
+      "id": "heart-turns-to-stone-foreigner"
+    },
+    {
+      "title": "I Don’t Want to Live Without You",
+      "id": "i-don-t-want-to-live-without-you-foreigner"
+    },
+    {
+      "title": "Say You Will",
+      "id": "say-you-will-foreigner"
+    },
+    {
+      "title": "Headknocker",
+      "id": null
+    },
+    {
+      "title": "Girl on the Moon",
+      "id": null
+    },
+    {
+      "title": "Soul Doctor",
+      "id": null
+    }
+  ]
+}

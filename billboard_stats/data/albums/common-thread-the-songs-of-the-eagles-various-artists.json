@@ -1,1 +1,282 @@
-{"id": "common-thread-the-songs-of-the-eagles-various-artists", "title": "Common Thread: The Songs Of The Eagles", "artist": "Various Artists", "peak": 3, "history": [{"date": "1993-10-30", "rank": 10}, {"date": "1993-11-06", "rank": 6}, {"date": "1993-11-13", "rank": 3}, {"date": "1993-11-20", "rank": 4}, {"date": "1993-11-27", "rank": 4}, {"date": "1993-12-04", "rank": 5}, {"date": "1993-12-11", "rank": 9}, {"date": "1993-12-18", "rank": 9}, {"date": "1993-12-25", "rank": 9}, {"date": "1994-01-01", "rank": 8}, {"date": "1994-01-08", "rank": 9}, {"date": "1994-01-15", "rank": 11}, {"date": "1994-01-22", "rank": 11}, {"date": "1994-01-29", "rank": 15}, {"date": "1994-02-05", "rank": 21}, {"date": "1994-02-12", "rank": 21}, {"date": "1994-02-19", "rank": 22}, {"date": "1994-02-26", "rank": 24}, {"date": "1994-03-05", "rank": 23}, {"date": "1994-03-12", "rank": 26}, {"date": "1994-03-19", "rank": 30}, {"date": "1994-03-26", "rank": 37}, {"date": "1994-04-02", "rank": 39}, {"date": "1994-04-09", "rank": 50}, {"date": "1994-04-16", "rank": 54}, {"date": "1994-04-23", "rank": 61}, {"date": "1994-04-30", "rank": 63}, {"date": "1994-05-07", "rank": 70}, {"date": "1994-05-14", "rank": 73}, {"date": "1994-05-21", "rank": 69}, {"date": "1994-05-28", "rank": 78}, {"date": "1994-06-04", "rank": 106}, {"date": "1994-06-11", "rank": 120}, {"date": "1994-06-18", "rank": 129}, {"date": "1994-06-25", "rank": 129}, {"date": "1994-07-02", "rank": 128}, {"date": "1994-07-09", "rank": 142}, {"date": "1994-07-16", "rank": 167}, {"date": "1994-07-23", "rank": 171}, {"date": "1994-07-30", "rank": 187}, {"date": "1994-08-06", "rank": 177}, {"date": "1994-08-13", "rank": 194}, {"date": "1994-08-20", "rank": 196}, {"date": "1994-10-22", "rank": 72}, {"date": "1994-10-29", "rank": 81}, {"date": "1994-11-05", "rank": 122}, {"date": "1994-11-12", "rank": 135}, {"date": "1994-11-19", "rank": 165}, {"date": "1994-11-26", "rank": 185}, {"date": "1994-12-03", "rank": 185}, {"date": "1994-12-10", "rank": 177}, {"date": "1994-12-17", "rank": 183}, {"date": "1994-12-24", "rank": 177}, {"date": "1994-12-31", "rank": 172}, {"date": "1995-01-07", "rank": 172}]}
+{
+  "id": "common-thread-the-songs-of-the-eagles-various-artists",
+  "title": "Common Thread: The Songs Of The Eagles",
+  "artist": "Various Artists",
+  "peak": 3,
+  "history": [
+    {
+      "date": "1993-10-30",
+      "rank": 10
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 6
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 3
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 4
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 4
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 5
+    },
+    {
+      "date": "1993-12-11",
+      "rank": 9
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 9
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 9
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 8
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 9
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 11
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 11
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 15
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 21
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 21
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 22
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 24
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 23
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 26
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 30
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 37
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 39
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 50
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 54
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 61
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 63
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 70
+    },
+    {
+      "date": "1994-05-14",
+      "rank": 73
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 69
+    },
+    {
+      "date": "1994-05-28",
+      "rank": 78
+    },
+    {
+      "date": "1994-06-04",
+      "rank": 106
+    },
+    {
+      "date": "1994-06-11",
+      "rank": 120
+    },
+    {
+      "date": "1994-06-18",
+      "rank": 129
+    },
+    {
+      "date": "1994-06-25",
+      "rank": 129
+    },
+    {
+      "date": "1994-07-02",
+      "rank": 128
+    },
+    {
+      "date": "1994-07-09",
+      "rank": 142
+    },
+    {
+      "date": "1994-07-16",
+      "rank": 167
+    },
+    {
+      "date": "1994-07-23",
+      "rank": 171
+    },
+    {
+      "date": "1994-07-30",
+      "rank": 187
+    },
+    {
+      "date": "1994-08-06",
+      "rank": 177
+    },
+    {
+      "date": "1994-08-13",
+      "rank": 194
+    },
+    {
+      "date": "1994-08-20",
+      "rank": 196
+    },
+    {
+      "date": "1994-10-22",
+      "rank": 72
+    },
+    {
+      "date": "1994-10-29",
+      "rank": 81
+    },
+    {
+      "date": "1994-11-05",
+      "rank": 122
+    },
+    {
+      "date": "1994-11-12",
+      "rank": 135
+    },
+    {
+      "date": "1994-11-19",
+      "rank": 165
+    },
+    {
+      "date": "1994-11-26",
+      "rank": 185
+    },
+    {
+      "date": "1994-12-03",
+      "rank": 185
+    },
+    {
+      "date": "1994-12-10",
+      "rank": 177
+    },
+    {
+      "date": "1994-12-17",
+      "rank": 183
+    },
+    {
+      "date": "1994-12-24",
+      "rank": 177
+    },
+    {
+      "date": "1994-12-31",
+      "rank": 172
+    },
+    {
+      "date": "1995-01-07",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Take It Easy",
+      "id": null
+    },
+    {
+      "title": "Peaceful Easy Feeling",
+      "id": null
+    },
+    {
+      "title": "Desperado",
+      "id": null
+    },
+    {
+      "title": "Heartache Tonight",
+      "id": null
+    },
+    {
+      "title": "Tequila Sunrise",
+      "id": null
+    },
+    {
+      "title": "Take It to the Limit",
+      "id": null
+    },
+    {
+      "title": "I Can’t Tell You Why",
+      "id": null
+    },
+    {
+      "title": "Lyin’ Eyes",
+      "id": null
+    },
+    {
+      "title": "New Kid in Town",
+      "id": null
+    },
+    {
+      "title": "Saturday Night",
+      "id": null
+    },
+    {
+      "title": "Already Gone",
+      "id": null
+    },
+    {
+      "title": "Best of My Love",
+      "id": null
+    },
+    {
+      "title": "The Sad Cafe",
+      "id": null
+    }
+  ]
+}
