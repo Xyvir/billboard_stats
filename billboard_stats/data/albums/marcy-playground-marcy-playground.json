@@ -1,1 +1,222 @@
-{"id": "marcy-playground-marcy-playground", "title": "Marcy Playground", "artist": "Marcy Playground", "peak": 21, "history": [{"date": "1997-12-06", "rank": 182}, {"date": "1997-12-13", "rank": 156}, {"date": "1997-12-20", "rank": 147}, {"date": "1997-12-27", "rank": 124}, {"date": "1998-01-03", "rank": 115}, {"date": "1998-01-10", "rank": 94}, {"date": "1998-01-17", "rank": 64}, {"date": "1998-01-24", "rank": 42}, {"date": "1998-01-31", "rank": 34}, {"date": "1998-02-07", "rank": 38}, {"date": "1998-02-14", "rank": 36}, {"date": "1998-02-21", "rank": 40}, {"date": "1998-02-28", "rank": 27}, {"date": "1998-03-07", "rank": 25}, {"date": "1998-03-14", "rank": 25}, {"date": "1998-03-21", "rank": 25}, {"date": "1998-03-28", "rank": 23}, {"date": "1998-04-04", "rank": 21}, {"date": "1998-04-11", "rank": 21}, {"date": "1998-04-18", "rank": 28}, {"date": "1998-04-25", "rank": 24}, {"date": "1998-05-02", "rank": 21}, {"date": "1998-05-09", "rank": 25}, {"date": "1998-05-16", "rank": 30}, {"date": "1998-05-23", "rank": 35}, {"date": "1998-05-30", "rank": 32}, {"date": "1998-06-06", "rank": 41}, {"date": "1998-06-13", "rank": 41}, {"date": "1998-06-20", "rank": 49}, {"date": "1998-06-27", "rank": 50}, {"date": "1998-07-04", "rank": 54}, {"date": "1998-07-11", "rank": 57}, {"date": "1998-07-18", "rank": 67}, {"date": "1998-07-25", "rank": 74}, {"date": "1998-08-01", "rank": 82}, {"date": "1998-08-08", "rank": 96}, {"date": "1998-08-15", "rank": 106}, {"date": "1998-08-22", "rank": 115}, {"date": "1998-08-29", "rank": 131}, {"date": "1998-09-05", "rank": 159}, {"date": "1998-09-12", "rank": 186}]}
+{
+  "id": "marcy-playground-marcy-playground",
+  "title": "Marcy Playground",
+  "artist": "Marcy Playground",
+  "peak": 21,
+  "history": [
+    {
+      "date": "1997-12-06",
+      "rank": 182
+    },
+    {
+      "date": "1997-12-13",
+      "rank": 156
+    },
+    {
+      "date": "1997-12-20",
+      "rank": 147
+    },
+    {
+      "date": "1997-12-27",
+      "rank": 124
+    },
+    {
+      "date": "1998-01-03",
+      "rank": 115
+    },
+    {
+      "date": "1998-01-10",
+      "rank": 94
+    },
+    {
+      "date": "1998-01-17",
+      "rank": 64
+    },
+    {
+      "date": "1998-01-24",
+      "rank": 42
+    },
+    {
+      "date": "1998-01-31",
+      "rank": 34
+    },
+    {
+      "date": "1998-02-07",
+      "rank": 38
+    },
+    {
+      "date": "1998-02-14",
+      "rank": 36
+    },
+    {
+      "date": "1998-02-21",
+      "rank": 40
+    },
+    {
+      "date": "1998-02-28",
+      "rank": 27
+    },
+    {
+      "date": "1998-03-07",
+      "rank": 25
+    },
+    {
+      "date": "1998-03-14",
+      "rank": 25
+    },
+    {
+      "date": "1998-03-21",
+      "rank": 25
+    },
+    {
+      "date": "1998-03-28",
+      "rank": 23
+    },
+    {
+      "date": "1998-04-04",
+      "rank": 21
+    },
+    {
+      "date": "1998-04-11",
+      "rank": 21
+    },
+    {
+      "date": "1998-04-18",
+      "rank": 28
+    },
+    {
+      "date": "1998-04-25",
+      "rank": 24
+    },
+    {
+      "date": "1998-05-02",
+      "rank": 21
+    },
+    {
+      "date": "1998-05-09",
+      "rank": 25
+    },
+    {
+      "date": "1998-05-16",
+      "rank": 30
+    },
+    {
+      "date": "1998-05-23",
+      "rank": 35
+    },
+    {
+      "date": "1998-05-30",
+      "rank": 32
+    },
+    {
+      "date": "1998-06-06",
+      "rank": 41
+    },
+    {
+      "date": "1998-06-13",
+      "rank": 41
+    },
+    {
+      "date": "1998-06-20",
+      "rank": 49
+    },
+    {
+      "date": "1998-06-27",
+      "rank": 50
+    },
+    {
+      "date": "1998-07-04",
+      "rank": 54
+    },
+    {
+      "date": "1998-07-11",
+      "rank": 57
+    },
+    {
+      "date": "1998-07-18",
+      "rank": 67
+    },
+    {
+      "date": "1998-07-25",
+      "rank": 74
+    },
+    {
+      "date": "1998-08-01",
+      "rank": 82
+    },
+    {
+      "date": "1998-08-08",
+      "rank": 96
+    },
+    {
+      "date": "1998-08-15",
+      "rank": 106
+    },
+    {
+      "date": "1998-08-22",
+      "rank": 115
+    },
+    {
+      "date": "1998-08-29",
+      "rank": 131
+    },
+    {
+      "date": "1998-09-05",
+      "rank": 159
+    },
+    {
+      "date": "1998-09-12",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sex and Candy",
+      "id": "sex-and-candy-marcy-playground"
+    },
+    {
+      "title": "Poppies",
+      "id": null
+    },
+    {
+      "title": "Ancient Walls of Flowers",
+      "id": null
+    },
+    {
+      "title": "Saint Joe on the School Bus",
+      "id": null
+    },
+    {
+      "title": "A Cloak of Elvenkind",
+      "id": null
+    },
+    {
+      "title": "Sherry Fraser",
+      "id": null
+    },
+    {
+      "title": "Gone Crazy",
+      "id": null
+    },
+    {
+      "title": "Opium",
+      "id": null
+    },
+    {
+      "title": "One More Suicide",
+      "id": null
+    },
+    {
+      "title": "Dog and His Master",
+      "id": null
+    },
+    {
+      "title": "The Shadow of Seattle",
+      "id": null
+    },
+    {
+      "title": "The Vampires of New York",
+      "id": null
+    }
+  ]
+}

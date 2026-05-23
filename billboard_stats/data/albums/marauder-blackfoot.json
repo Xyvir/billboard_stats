@@ -1,1 +1,94 @@
-{"id": "marauder-blackfoot", "title": "Marauder", "artist": "Blackfoot", "peak": 48, "history": [{"date": "1981-07-25", "rank": 87}, {"date": "1981-08-01", "rank": 77}, {"date": "1981-08-08", "rank": 65}, {"date": "1981-08-15", "rank": 59}, {"date": "1981-08-22", "rank": 53}, {"date": "1981-08-29", "rank": 48}, {"date": "1981-09-05", "rank": 48}, {"date": "1981-09-12", "rank": 68}, {"date": "1981-09-19", "rank": 68}, {"date": "1981-09-26", "rank": 88}, {"date": "1981-10-03", "rank": 108}, {"date": "1981-10-10", "rank": 124}]}
+{
+  "id": "marauder-blackfoot",
+  "title": "Marauder",
+  "artist": "Blackfoot",
+  "peak": 48,
+  "history": [
+    {
+      "date": "1981-07-25",
+      "rank": 87
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 77
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 65
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 59
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 53
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 48
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 48
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 68
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 68
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 88
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 108
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 124
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fly Away",
+      "id": "fly-away-blackfoot"
+    },
+    {
+      "title": "Good Morning",
+      "id": null
+    },
+    {
+      "title": "Payin' for It",
+      "id": null
+    },
+    {
+      "title": "Diary of a Workingman",
+      "id": null
+    },
+    {
+      "title": "Too Hard to Handle",
+      "id": null
+    },
+    {
+      "title": "Dry County",
+      "id": null
+    },
+    {
+      "title": "Fire of the Dragon",
+      "id": null
+    },
+    {
+      "title": "Rattlesnake Rock 'n' Roller",
+      "id": null
+    },
+    {
+      "title": "Searchin'",
+      "id": null
+    }
+  ]
+}

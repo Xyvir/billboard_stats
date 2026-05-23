@@ -1,1 +1,50 @@
-{"id": "marathon-rodney-franklin", "title": "Marathon", "artist": "Rodney Franklin", "peak": 187, "history": [{"date": "1984-02-25", "rank": 193}, {"date": "1984-03-03", "rank": 188}, {"date": "1984-03-10", "rank": 187}]}
+{
+  "id": "marathon-rodney-franklin",
+  "title": "Marathon",
+  "artist": "Rodney Franklin",
+  "peak": 187,
+  "history": [
+    {
+      "date": "1984-02-25",
+      "rank": 193
+    },
+    {
+      "date": "1984-03-03",
+      "rank": 188
+    },
+    {
+      "date": "1984-03-10",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stay on in the Groove",
+      "id": null
+    },
+    {
+      "title": "Marathon",
+      "id": null
+    },
+    {
+      "title": "Love Is the Answer",
+      "id": null
+    },
+    {
+      "title": "Let's Talk",
+      "id": null
+    },
+    {
+      "title": "Searchin' For",
+      "id": null
+    },
+    {
+      "title": "Lumière",
+      "id": null
+    },
+    {
+      "title": "Reflection of a Dream",
+      "id": null
+    }
+  ]
+}
