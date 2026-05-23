@@ -1,1 +1,242 @@
-{"id": "magic-bruce-springsteen", "title": "Magic", "artist": "Bruce Springsteen", "peak": 1, "history": [{"date": "2007-10-20", "rank": 1}, {"date": "2007-10-27", "rank": 2}, {"date": "2007-11-03", "rank": 1}, {"date": "2007-11-10", "rank": 12}, {"date": "2007-11-17", "rank": 14}, {"date": "2007-11-24", "rank": 27}, {"date": "2007-12-01", "rank": 37}, {"date": "2007-12-08", "rank": 55}, {"date": "2007-12-15", "rank": 52}, {"date": "2007-12-22", "rank": 57}, {"date": "2007-12-29", "rank": 45}, {"date": "2008-01-05", "rank": 42}, {"date": "2008-01-12", "rank": 57}, {"date": "2008-01-19", "rank": 77}, {"date": "2008-01-26", "rank": 87}, {"date": "2008-02-02", "rank": 84}, {"date": "2008-02-09", "rank": 100}, {"date": "2008-02-16", "rank": 137}, {"date": "2008-02-23", "rank": 102}, {"date": "2008-03-01", "rank": 79}, {"date": "2008-03-08", "rank": 146}, {"date": "2008-03-15", "rank": 158}, {"date": "2008-03-22", "rank": 156}, {"date": "2008-03-29", "rank": 167}, {"date": "2008-04-05", "rank": 180}, {"date": "2008-04-12", "rank": 177}]}
+{
+  "id": "magic-bruce-springsteen",
+  "title": "Magic",
+  "artist": "Bruce Springsteen",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2007-10-20",
+      "rank": 1
+    },
+    {
+      "date": "2007-10-27",
+      "rank": 2
+    },
+    {
+      "date": "2007-11-03",
+      "rank": 1
+    },
+    {
+      "date": "2007-11-10",
+      "rank": 12
+    },
+    {
+      "date": "2007-11-17",
+      "rank": 14
+    },
+    {
+      "date": "2007-11-24",
+      "rank": 27
+    },
+    {
+      "date": "2007-12-01",
+      "rank": 37
+    },
+    {
+      "date": "2007-12-08",
+      "rank": 55
+    },
+    {
+      "date": "2007-12-15",
+      "rank": 52
+    },
+    {
+      "date": "2007-12-22",
+      "rank": 57
+    },
+    {
+      "date": "2007-12-29",
+      "rank": 45
+    },
+    {
+      "date": "2008-01-05",
+      "rank": 42
+    },
+    {
+      "date": "2008-01-12",
+      "rank": 57
+    },
+    {
+      "date": "2008-01-19",
+      "rank": 77
+    },
+    {
+      "date": "2008-01-26",
+      "rank": 87
+    },
+    {
+      "date": "2008-02-02",
+      "rank": 84
+    },
+    {
+      "date": "2008-02-09",
+      "rank": 100
+    },
+    {
+      "date": "2008-02-16",
+      "rank": 137
+    },
+    {
+      "date": "2008-02-23",
+      "rank": 102
+    },
+    {
+      "date": "2008-03-01",
+      "rank": 79
+    },
+    {
+      "date": "2008-03-08",
+      "rank": 146
+    },
+    {
+      "date": "2008-03-15",
+      "rank": 158
+    },
+    {
+      "date": "2008-03-22",
+      "rank": 156
+    },
+    {
+      "date": "2008-03-29",
+      "rank": 167
+    },
+    {
+      "date": "2008-04-05",
+      "rank": 180
+    },
+    {
+      "date": "2008-04-12",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Girls in Their Summer Clothes",
+      "id": "girls-in-their-summer-clothes-bruce-springsteen"
+    },
+    {
+      "title": "Devil’s Arcade",
+      "id": "devils-dust-bruce-springsteen"
+    },
+    {
+      "title": "Devils & Dust",
+      "id": "devils-dust-bruce-springsteen"
+    },
+    {
+      "title": "Born in the U.S.A.",
+      "id": "born-in-the-u-s-a-bruce-springsteen"
+    },
+    {
+      "title": "Born to Run",
+      "id": "born-to-run-bruce-springsteen"
+    },
+    {
+      "title": "Badlands",
+      "id": "badlands-bruce-springsteen"
+    },
+    {
+      "title": "The River",
+      "id": "the-rising-bruce-springsteen"
+    },
+    {
+      "title": "Hungry Heart",
+      "id": "hungry-heart-bruce-springsteen"
+    },
+    {
+      "title": "Radio Nowhere",
+      "id": null
+    },
+    {
+      "title": "You’ll Be Comin’ Down",
+      "id": null
+    },
+    {
+      "title": "Livin’ in the Future",
+      "id": null
+    },
+    {
+      "title": "Your Own Worst Enemy",
+      "id": null
+    },
+    {
+      "title": "Gypsy Biker",
+      "id": null
+    },
+    {
+      "title": "I’ll Work for Your Love",
+      "id": null
+    },
+    {
+      "title": "Magic",
+      "id": null
+    },
+    {
+      "title": "Last to Die",
+      "id": null
+    },
+    {
+      "title": "Long Walk Home",
+      "id": null
+    },
+    {
+      "title": "[hidden track]",
+      "id": null
+    },
+    {
+      "title": "Black Cowboys",
+      "id": null
+    },
+    {
+      "title": "All the Way Home",
+      "id": null
+    },
+    {
+      "title": "All I’m Thinkin’ About",
+      "id": null
+    },
+    {
+      "title": "Blinded by the Light",
+      "id": null
+    },
+    {
+      "title": "For You",
+      "id": null
+    },
+    {
+      "title": "Spirit in the Night",
+      "id": null
+    },
+    {
+      "title": "4th of July, Asbury Park (Sandy)",
+      "id": null
+    },
+    {
+      "title": "Rosalita (Come Out Tonight)",
+      "id": null
+    },
+    {
+      "title": "Thunder Road",
+      "id": null
+    },
+    {
+      "title": "Jungleland",
+      "id": null
+    },
+    {
+      "title": "Darkness on the Edge of Town",
+      "id": null
+    },
+    {
+      "title": "The Promised Land",
+      "id": null
+    },
+    {
+      "title": "Nebraska",
+      "id": null
+    },
+    {
+      "title": "Atlantic City",
+      "id": null
+    }
+  ]
+}

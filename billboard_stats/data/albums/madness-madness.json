@@ -1,1 +1,174 @@
-{"id": "madness-madness", "title": "Madness", "artist": "Madness", "peak": 41, "history": [{"date": "1983-04-30", "rank": 150}, {"date": "1983-05-07", "rank": 116}, {"date": "1983-05-14", "rank": 85}, {"date": "1983-05-21", "rank": 78}, {"date": "1983-05-28", "rank": 63}, {"date": "1983-06-04", "rank": 52}, {"date": "1983-06-11", "rank": 48}, {"date": "1983-06-18", "rank": 46}, {"date": "1983-06-25", "rank": 45}, {"date": "1983-07-02", "rank": 43}, {"date": "1983-07-09", "rank": 43}, {"date": "1983-07-16", "rank": 41}, {"date": "1983-07-23", "rank": 52}, {"date": "1983-07-30", "rank": 61}, {"date": "1983-08-06", "rank": 72}, {"date": "1983-08-13", "rank": 78}, {"date": "1983-08-20", "rank": 75}, {"date": "1983-08-27", "rank": 77}, {"date": "1983-09-03", "rank": 83}, {"date": "1983-09-10", "rank": 80}, {"date": "1983-09-17", "rank": 90}, {"date": "1983-09-24", "rank": 88}, {"date": "1983-10-01", "rank": 103}, {"date": "1983-10-08", "rank": 104}, {"date": "1983-10-15", "rank": 133}, {"date": "1983-10-22", "rank": 144}, {"date": "1983-10-29", "rank": 174}, {"date": "1983-11-05", "rank": 195}, {"date": "1983-11-12", "rank": 192}]}
+{
+  "id": "madness-madness",
+  "title": "Madness",
+  "artist": "Madness",
+  "peak": 41,
+  "history": [
+    {
+      "date": "1983-04-30",
+      "rank": 150
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 116
+    },
+    {
+      "date": "1983-05-14",
+      "rank": 85
+    },
+    {
+      "date": "1983-05-21",
+      "rank": 78
+    },
+    {
+      "date": "1983-05-28",
+      "rank": 63
+    },
+    {
+      "date": "1983-06-04",
+      "rank": 52
+    },
+    {
+      "date": "1983-06-11",
+      "rank": 48
+    },
+    {
+      "date": "1983-06-18",
+      "rank": 46
+    },
+    {
+      "date": "1983-06-25",
+      "rank": 45
+    },
+    {
+      "date": "1983-07-02",
+      "rank": 43
+    },
+    {
+      "date": "1983-07-09",
+      "rank": 43
+    },
+    {
+      "date": "1983-07-16",
+      "rank": 41
+    },
+    {
+      "date": "1983-07-23",
+      "rank": 52
+    },
+    {
+      "date": "1983-07-30",
+      "rank": 61
+    },
+    {
+      "date": "1983-08-06",
+      "rank": 72
+    },
+    {
+      "date": "1983-08-13",
+      "rank": 78
+    },
+    {
+      "date": "1983-08-20",
+      "rank": 75
+    },
+    {
+      "date": "1983-08-27",
+      "rank": 77
+    },
+    {
+      "date": "1983-09-03",
+      "rank": 83
+    },
+    {
+      "date": "1983-09-10",
+      "rank": 80
+    },
+    {
+      "date": "1983-09-17",
+      "rank": 90
+    },
+    {
+      "date": "1983-09-24",
+      "rank": 88
+    },
+    {
+      "date": "1983-10-01",
+      "rank": 103
+    },
+    {
+      "date": "1983-10-08",
+      "rank": 104
+    },
+    {
+      "date": "1983-10-15",
+      "rank": 133
+    },
+    {
+      "date": "1983-10-22",
+      "rank": 144
+    },
+    {
+      "date": "1983-10-29",
+      "rank": 174
+    },
+    {
+      "date": "1983-11-05",
+      "rank": 195
+    },
+    {
+      "date": "1983-11-12",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Our House",
+      "id": "our-house-madness"
+    },
+    {
+      "title": "It Must be Love",
+      "id": "it-must-be-love-madness"
+    },
+    {
+      "title": "Tomorrow’s (Just Another Day)",
+      "id": null
+    },
+    {
+      "title": "Primrose Hill",
+      "id": null
+    },
+    {
+      "title": "Shut Up",
+      "id": null
+    },
+    {
+      "title": "House of Fun",
+      "id": null
+    },
+    {
+      "title": "Night Boat to Cairo",
+      "id": null
+    },
+    {
+      "title": "Rise and Fall",
+      "id": null
+    },
+    {
+      "title": "Blue Skinned Beast",
+      "id": null
+    },
+    {
+      "title": "Cardiac Arrest",
+      "id": null
+    },
+    {
+      "title": "Grey Day",
+      "id": null
+    },
+    {
+      "title": "Madness (Is All In the Mind)",
+      "id": null
+    }
+  ]
+}

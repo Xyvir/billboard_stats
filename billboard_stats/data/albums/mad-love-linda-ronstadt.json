@@ -1,1 +1,194 @@
-{"id": "mad-love-linda-ronstadt", "title": "Mad Love", "artist": "Linda Ronstadt", "peak": 3, "history": [{"date": "1980-03-15", "rank": 5}, {"date": "1980-03-22", "rank": 3}, {"date": "1980-03-29", "rank": 3}, {"date": "1980-04-05", "rank": 3}, {"date": "1980-04-12", "rank": 3}, {"date": "1980-04-19", "rank": 4}, {"date": "1980-04-26", "rank": 4}, {"date": "1980-05-03", "rank": 4}, {"date": "1980-05-10", "rank": 4}, {"date": "1980-05-17", "rank": 4}, {"date": "1980-05-24", "rank": 4}, {"date": "1980-05-31", "rank": 9}, {"date": "1980-06-07", "rank": 11}, {"date": "1980-06-14", "rank": 14}, {"date": "1980-06-21", "rank": 18}, {"date": "1980-06-28", "rank": 25}, {"date": "1980-07-05", "rank": 29}, {"date": "1980-07-12", "rank": 48}, {"date": "1980-07-19", "rank": 46}, {"date": "1980-07-26", "rank": 52}, {"date": "1980-08-02", "rank": 57}, {"date": "1980-08-09", "rank": 60}, {"date": "1980-08-16", "rank": 73}, {"date": "1980-08-23", "rank": 83}, {"date": "1980-08-30", "rank": 83}, {"date": "1980-09-06", "rank": 83}, {"date": "1980-09-13", "rank": 99}, {"date": "1980-09-20", "rank": 96}, {"date": "1980-09-27", "rank": 98}, {"date": "1980-10-04", "rank": 106}, {"date": "1980-10-11", "rank": 106}, {"date": "1980-10-18", "rank": 106}, {"date": "1980-10-25", "rank": 132}, {"date": "1980-11-01", "rank": 142}, {"date": "1980-11-08", "rank": 173}, {"date": "1980-11-15", "rank": 195}]}
+{
+  "id": "mad-love-linda-ronstadt",
+  "title": "Mad Love",
+  "artist": "Linda Ronstadt",
+  "peak": 3,
+  "history": [
+    {
+      "date": "1980-03-15",
+      "rank": 5
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 3
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 3
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 3
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 3
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 4
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 4
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 4
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 4
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 4
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 4
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 9
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 11
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 14
+    },
+    {
+      "date": "1980-06-21",
+      "rank": 18
+    },
+    {
+      "date": "1980-06-28",
+      "rank": 25
+    },
+    {
+      "date": "1980-07-05",
+      "rank": 29
+    },
+    {
+      "date": "1980-07-12",
+      "rank": 48
+    },
+    {
+      "date": "1980-07-19",
+      "rank": 46
+    },
+    {
+      "date": "1980-07-26",
+      "rank": 52
+    },
+    {
+      "date": "1980-08-02",
+      "rank": 57
+    },
+    {
+      "date": "1980-08-09",
+      "rank": 60
+    },
+    {
+      "date": "1980-08-16",
+      "rank": 73
+    },
+    {
+      "date": "1980-08-23",
+      "rank": 83
+    },
+    {
+      "date": "1980-08-30",
+      "rank": 83
+    },
+    {
+      "date": "1980-09-06",
+      "rank": 83
+    },
+    {
+      "date": "1980-09-13",
+      "rank": 99
+    },
+    {
+      "date": "1980-09-20",
+      "rank": 96
+    },
+    {
+      "date": "1980-09-27",
+      "rank": 98
+    },
+    {
+      "date": "1980-10-04",
+      "rank": 106
+    },
+    {
+      "date": "1980-10-11",
+      "rank": 106
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 106
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 132
+    },
+    {
+      "date": "1980-11-01",
+      "rank": 142
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 173
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "How Do I Make You",
+      "id": "how-do-i-make-you-linda-ronstadt"
+    },
+    {
+      "title": "I Can’t Let Go",
+      "id": "i-can-t-let-go-linda-ronstadt"
+    },
+    {
+      "title": "Hurt So Bad",
+      "id": "hurt-so-bad-linda-ronstadt"
+    },
+    {
+      "title": "Justine",
+      "id": "just-one-look-linda-ronstadt"
+    },
+    {
+      "title": "Talking in the Dark",
+      "id": "back-in-the-u-s-a-linda-ronstadt"
+    },
+    {
+      "title": "Mad Love",
+      "id": null
+    },
+    {
+      "title": "Party Girl",
+      "id": null
+    },
+    {
+      "title": "Look Out for My Love",
+      "id": null
+    },
+    {
+      "title": "Cost of Love",
+      "id": null
+    },
+    {
+      "title": "Girls Talk",
+      "id": null
+    }
+  ]
+}

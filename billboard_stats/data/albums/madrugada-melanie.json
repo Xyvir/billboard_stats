@@ -1,1 +1,70 @@
-{"id": "madrugada-melanie", "title": "Madrugada", "artist": "Melanie", "peak": 192, "history": [{"date": "1974-05-11", "rank": 200}, {"date": "1974-05-18", "rank": 196}, {"date": "1974-05-25", "rank": 192}, {"date": "1974-06-01", "rank": 197}]}
+{
+  "id": "madrugada-melanie",
+  "title": "Madrugada",
+  "artist": "Melanie",
+  "peak": 192,
+  "history": [
+    {
+      "date": "1974-05-11",
+      "rank": 200
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 196
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 192
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Will You Love Me Tomorrow",
+      "id": "will-you-love-me-tomorrow-melanie"
+    },
+    {
+      "title": "Love to Lose Again",
+      "id": null
+    },
+    {
+      "title": "Lover’s Cross",
+      "id": null
+    },
+    {
+      "title": "Pretty Boy Floyd",
+      "id": null
+    },
+    {
+      "title": "Wild Horses",
+      "id": null
+    },
+    {
+      "title": "I Think It’s Going to Rain Today",
+      "id": null
+    },
+    {
+      "title": "Maybe Not for a Lifetime",
+      "id": null
+    },
+    {
+      "title": "Holding Out",
+      "id": null
+    },
+    {
+      "title": "I Am Being Guided",
+      "id": null
+    },
+    {
+      "title": "The Actress",
+      "id": null
+    },
+    {
+      "title": "Pine and Feather",
+      "id": null
+    }
+  ]
+}

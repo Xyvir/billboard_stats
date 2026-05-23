@@ -1,1 +1,58 @@
-{"id": "magic-2-nas", "title": "Magic 2", "artist": "Nas", "peak": 52, "history": [{"date": "2023-08-05", "rank": 52}]}
+{
+  "id": "magic-2-nas",
+  "title": "Magic 2",
+  "artist": "Nas",
+  "peak": 52,
+  "history": [
+    {
+      "date": "2023-08-05",
+      "rank": 52
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One Mic, One Gun",
+      "id": "one-mic-nas"
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Abracadabra",
+      "id": null
+    },
+    {
+      "title": "Office Hours",
+      "id": null
+    },
+    {
+      "title": "Black Magic",
+      "id": null
+    },
+    {
+      "title": "Motion",
+      "id": null
+    },
+    {
+      "title": "Bokeem Woodbine",
+      "id": null
+    },
+    {
+      "title": "Earvin Magic Johnson",
+      "id": null
+    },
+    {
+      "title": "What This All Really Means",
+      "id": null
+    },
+    {
+      "title": "Slow It Down",
+      "id": null
+    },
+    {
+      "title": "Pistols on Your Album Cover",
+      "id": null
+    }
+  ]
+}
