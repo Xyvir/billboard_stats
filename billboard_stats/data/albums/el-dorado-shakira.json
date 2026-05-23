@@ -1,1 +1,114 @@
-{"id": "el-dorado-shakira", "title": "El Dorado", "artist": "Shakira", "peak": 15, "history": [{"date": "2017-06-17", "rank": 15}, {"date": "2017-06-24", "rank": 61}, {"date": "2017-07-01", "rank": 80}, {"date": "2017-07-08", "rank": 112}, {"date": "2017-07-15", "rank": 95}, {"date": "2017-07-22", "rank": 106}, {"date": "2017-07-29", "rank": 104}, {"date": "2017-08-05", "rank": 128}, {"date": "2017-08-12", "rank": 137}, {"date": "2017-08-19", "rank": 157}, {"date": "2017-08-26", "rank": 178}, {"date": "2017-09-02", "rank": 183}, {"date": "2017-10-07", "rank": 169}]}
+{
+  "id": "el-dorado-shakira",
+  "title": "El Dorado",
+  "artist": "Shakira",
+  "peak": 15,
+  "history": [
+    {
+      "date": "2017-06-17",
+      "rank": 15
+    },
+    {
+      "date": "2017-06-24",
+      "rank": 61
+    },
+    {
+      "date": "2017-07-01",
+      "rank": 80
+    },
+    {
+      "date": "2017-07-08",
+      "rank": 112
+    },
+    {
+      "date": "2017-07-15",
+      "rank": 95
+    },
+    {
+      "date": "2017-07-22",
+      "rank": 106
+    },
+    {
+      "date": "2017-07-29",
+      "rank": 104
+    },
+    {
+      "date": "2017-08-05",
+      "rank": 128
+    },
+    {
+      "date": "2017-08-12",
+      "rank": 137
+    },
+    {
+      "date": "2017-08-19",
+      "rank": 157
+    },
+    {
+      "date": "2017-08-26",
+      "rank": 178
+    },
+    {
+      "date": "2017-09-02",
+      "rank": 183
+    },
+    {
+      "date": "2017-10-07",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Me enamoré",
+      "id": "me-enamore-shakira"
+    },
+    {
+      "title": "La bicicleta",
+      "id": "la-bicicleta-carlos-vives-shakira"
+    },
+    {
+      "title": "Nada",
+      "id": null
+    },
+    {
+      "title": "Chantaje",
+      "id": null
+    },
+    {
+      "title": "When a Woman",
+      "id": null
+    },
+    {
+      "title": "Amarillo",
+      "id": null
+    },
+    {
+      "title": "Perro fiel",
+      "id": null
+    },
+    {
+      "title": "Trap",
+      "id": null
+    },
+    {
+      "title": "Comme moi",
+      "id": null
+    },
+    {
+      "title": "Coconut Tree",
+      "id": null
+    },
+    {
+      "title": "Deja vu",
+      "id": null
+    },
+    {
+      "title": "What We Said (Comme moi English version)",
+      "id": null
+    },
+    {
+      "title": "Toneladas",
+      "id": null
+    }
+  ]
+}

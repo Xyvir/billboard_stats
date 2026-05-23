@@ -1,1 +1,118 @@
-{"id": "el-concierto-luis-miguel", "title": "El Concierto", "artist": "Luis Miguel", "peak": 45, "history": [{"date": "1995-11-04", "rank": 45}, {"date": "1995-11-11", "rank": 87}, {"date": "1995-11-18", "rank": 112}, {"date": "1995-11-25", "rank": 144}, {"date": "1995-12-02", "rank": 187}, {"date": "1995-12-09", "rank": 173}]}
+{
+  "id": "el-concierto-luis-miguel",
+  "title": "El Concierto",
+  "artist": "Luis Miguel",
+  "peak": 45,
+  "history": [
+    {
+      "date": "1995-11-04",
+      "rank": 45
+    },
+    {
+      "date": "1995-11-11",
+      "rank": 87
+    },
+    {
+      "date": "1995-11-18",
+      "rank": 112
+    },
+    {
+      "date": "1995-11-25",
+      "rank": 144
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 187
+    },
+    {
+      "date": "1995-12-09",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Introducción",
+      "id": null
+    },
+    {
+      "title": "Luz verde",
+      "id": null
+    },
+    {
+      "title": "Pensar en ti",
+      "id": null
+    },
+    {
+      "title": "Dame tu amor",
+      "id": null
+    },
+    {
+      "title": "No sé tú",
+      "id": null
+    },
+    {
+      "title": "Alguien como tú",
+      "id": null
+    },
+    {
+      "title": "Medley",
+      "id": null
+    },
+    {
+      "title": "Suave",
+      "id": null
+    },
+    {
+      "title": "Introducción guitarra",
+      "id": null
+    },
+    {
+      "title": "Hasta que me olvides",
+      "id": null
+    },
+    {
+      "title": "Qué nivel de mujer",
+      "id": null
+    },
+    {
+      "title": "Historia de un amor",
+      "id": null
+    },
+    {
+      "title": "Nosotros",
+      "id": null
+    },
+    {
+      "title": "Somos novios",
+      "id": null
+    },
+    {
+      "title": "Sin ti",
+      "id": null
+    },
+    {
+      "title": "El día que me quieras",
+      "id": null
+    },
+    {
+      "title": "La media vuelta",
+      "id": null
+    },
+    {
+      "title": "Si nos dejan",
+      "id": null
+    },
+    {
+      "title": "Amanecí en tus brazos",
+      "id": null
+    },
+    {
+      "title": "El Rey",
+      "id": null
+    },
+    {
+      "title": "Será que no me amas",
+      "id": null
+    }
+  ]
+}

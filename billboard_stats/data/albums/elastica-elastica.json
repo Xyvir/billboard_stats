@@ -1,1 +1,182 @@
-{"id": "elastica-elastica", "title": "Elastica", "artist": "Elastica", "peak": 66, "history": [{"date": "1995-04-01", "rank": 133}, {"date": "1995-04-08", "rank": 168}, {"date": "1995-04-15", "rank": 182}, {"date": "1995-04-22", "rank": 142}, {"date": "1995-04-29", "rank": 143}, {"date": "1995-05-06", "rank": 113}, {"date": "1995-05-13", "rank": 96}, {"date": "1995-05-20", "rank": 75}, {"date": "1995-05-27", "rank": 83}, {"date": "1995-06-03", "rank": 70}, {"date": "1995-06-10", "rank": 66}, {"date": "1995-06-17", "rank": 66}, {"date": "1995-06-24", "rank": 77}, {"date": "1995-07-01", "rank": 94}, {"date": "1995-07-08", "rank": 94}, {"date": "1995-07-15", "rank": 108}, {"date": "1995-07-22", "rank": 119}, {"date": "1995-07-29", "rank": 119}, {"date": "1995-08-05", "rank": 137}, {"date": "1995-08-12", "rank": 119}, {"date": "1995-08-19", "rank": 115}, {"date": "1995-08-26", "rank": 122}, {"date": "1995-09-02", "rank": 106}, {"date": "1995-09-09", "rank": 120}, {"date": "1995-09-16", "rank": 147}, {"date": "1995-09-23", "rank": 159}, {"date": "1995-09-30", "rank": 177}]}
+{
+  "id": "elastica-elastica",
+  "title": "Elastica",
+  "artist": "Elastica",
+  "peak": 66,
+  "history": [
+    {
+      "date": "1995-04-01",
+      "rank": 133
+    },
+    {
+      "date": "1995-04-08",
+      "rank": 168
+    },
+    {
+      "date": "1995-04-15",
+      "rank": 182
+    },
+    {
+      "date": "1995-04-22",
+      "rank": 142
+    },
+    {
+      "date": "1995-04-29",
+      "rank": 143
+    },
+    {
+      "date": "1995-05-06",
+      "rank": 113
+    },
+    {
+      "date": "1995-05-13",
+      "rank": 96
+    },
+    {
+      "date": "1995-05-20",
+      "rank": 75
+    },
+    {
+      "date": "1995-05-27",
+      "rank": 83
+    },
+    {
+      "date": "1995-06-03",
+      "rank": 70
+    },
+    {
+      "date": "1995-06-10",
+      "rank": 66
+    },
+    {
+      "date": "1995-06-17",
+      "rank": 66
+    },
+    {
+      "date": "1995-06-24",
+      "rank": 77
+    },
+    {
+      "date": "1995-07-01",
+      "rank": 94
+    },
+    {
+      "date": "1995-07-08",
+      "rank": 94
+    },
+    {
+      "date": "1995-07-15",
+      "rank": 108
+    },
+    {
+      "date": "1995-07-22",
+      "rank": 119
+    },
+    {
+      "date": "1995-07-29",
+      "rank": 119
+    },
+    {
+      "date": "1995-08-05",
+      "rank": 137
+    },
+    {
+      "date": "1995-08-12",
+      "rank": 119
+    },
+    {
+      "date": "1995-08-19",
+      "rank": 115
+    },
+    {
+      "date": "1995-08-26",
+      "rank": 122
+    },
+    {
+      "date": "1995-09-02",
+      "rank": 106
+    },
+    {
+      "date": "1995-09-09",
+      "rank": 120
+    },
+    {
+      "date": "1995-09-16",
+      "rank": 147
+    },
+    {
+      "date": "1995-09-23",
+      "rank": 159
+    },
+    {
+      "date": "1995-09-30",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Connection",
+      "id": "connection-elastica"
+    },
+    {
+      "title": "Stutter",
+      "id": "stutter-elastica"
+    },
+    {
+      "title": "Line Up",
+      "id": null
+    },
+    {
+      "title": "Annie",
+      "id": null
+    },
+    {
+      "title": "Car Song",
+      "id": null
+    },
+    {
+      "title": "Smile",
+      "id": null
+    },
+    {
+      "title": "Hold Me Now",
+      "id": null
+    },
+    {
+      "title": "S.O.F.T.",
+      "id": null
+    },
+    {
+      "title": "Indian Song",
+      "id": null
+    },
+    {
+      "title": "Blue",
+      "id": null
+    },
+    {
+      "title": "All‐Nighter",
+      "id": null
+    },
+    {
+      "title": "Waking Up",
+      "id": null
+    },
+    {
+      "title": "2:1",
+      "id": null
+    },
+    {
+      "title": "Vaseline",
+      "id": null
+    },
+    {
+      "title": "Never Here",
+      "id": null
+    },
+    {
+      "title": "Cleopatra",
+      "id": null
+    }
+  ]
+}
