@@ -1,1 +1,94 @@
-{"id": "france-joli-france-joli", "title": "France Joli", "artist": "France Joli", "peak": 26, "history": [{"date": "1979-09-08", "rank": 189}, {"date": "1979-09-15", "rank": 169}, {"date": "1979-09-22", "rank": 79}, {"date": "1979-09-29", "rank": 65}, {"date": "1979-10-06", "rank": 47}, {"date": "1979-10-13", "rank": 38}, {"date": "1979-10-20", "rank": 33}, {"date": "1979-10-27", "rank": 31}, {"date": "1979-11-03", "rank": 29}, {"date": "1979-11-10", "rank": 27}, {"date": "1979-11-17", "rank": 26}, {"date": "1979-11-24", "rank": 71}, {"date": "1979-12-01", "rank": 71}, {"date": "1979-12-08", "rank": 91}, {"date": "1979-12-15", "rank": 138}, {"date": "1979-12-22", "rank": 198}, {"date": "1979-12-29", "rank": 198}]}
+{
+  "id": "france-joli-france-joli",
+  "title": "France Joli",
+  "artist": "France Joli",
+  "peak": 26,
+  "history": [
+    {
+      "date": "1979-09-08",
+      "rank": 189
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 169
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 79
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 65
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 47
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 38
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 33
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 31
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 29
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 27
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 26
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 71
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 71
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 91
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 138
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 198
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Come to Me",
+      "id": "come-to-me-france-joli"
+    },
+    {
+      "title": "Let Go",
+      "id": null
+    },
+    {
+      "title": "Don’t Stop Dancing",
+      "id": null
+    },
+    {
+      "title": "Playboy",
+      "id": null
+    }
+  ]
+}
