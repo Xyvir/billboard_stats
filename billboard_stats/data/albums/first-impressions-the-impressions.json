@@ -1,1 +1,62 @@
-{"id": "first-impressions-the-impressions", "title": "First Impressions", "artist": "The Impressions", "peak": 115, "history": [{"date": "1975-08-09", "rank": 193}, {"date": "1975-08-16", "rank": 117}, {"date": "1975-08-23", "rank": 117}, {"date": "1975-08-30", "rank": 115}, {"date": "1975-09-06", "rank": 141}]}
+{
+  "id": "first-impressions-the-impressions",
+  "title": "First Impressions",
+  "artist": "The Impressions",
+  "peak": 115,
+  "history": [
+    {
+      "date": "1975-08-09",
+      "rank": 193
+    },
+    {
+      "date": "1975-08-16",
+      "rank": 117
+    },
+    {
+      "date": "1975-08-23",
+      "rank": 117
+    },
+    {
+      "date": "1975-08-30",
+      "rank": 115
+    },
+    {
+      "date": "1975-09-06",
+      "rank": 141
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sooner or Later",
+      "id": "sooner-or-later-the-impressions"
+    },
+    {
+      "title": "Same Thing It Took",
+      "id": "same-thing-it-took-the-impressions"
+    },
+    {
+      "title": "I'm so Glad",
+      "id": "i-m-so-proud-the-impressions"
+    },
+    {
+      "title": "Old Before My Time",
+      "id": null
+    },
+    {
+      "title": "First Impressions",
+      "id": null
+    },
+    {
+      "title": "Groove",
+      "id": null
+    },
+    {
+      "title": "How High Is High",
+      "id": null
+    },
+    {
+      "title": "Why Must a Love Song Be a Sad Song",
+      "id": null
+    }
+  ]
+}

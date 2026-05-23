@@ -1,1 +1,86 @@
-{"id": "first-david-gates", "title": "First", "artist": "David Gates", "peak": 107, "history": [{"date": "1973-10-27", "rank": 161}, {"date": "1973-11-03", "rank": 151}, {"date": "1973-11-10", "rank": 115}, {"date": "1973-11-17", "rank": 108}, {"date": "1973-11-24", "rank": 107}, {"date": "1973-12-01", "rank": 118}, {"date": "1973-12-08", "rank": 127}, {"date": "1973-12-15", "rank": 138}, {"date": "1973-12-22", "rank": 163}, {"date": "1973-12-29", "rank": 196}]}
+{
+  "id": "first-david-gates",
+  "title": "First",
+  "artist": "David Gates",
+  "peak": 107,
+  "history": [
+    {
+      "date": "1973-10-27",
+      "rank": 161
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 151
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 115
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 108
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 107
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 118
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 127
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 138
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 163
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sail Around the World",
+      "id": "sail-around-the-world-david-gates"
+    },
+    {
+      "title": "Clouds Suite",
+      "id": "clouds-david-gates"
+    },
+    {
+      "title": "Sunday Rider",
+      "id": null
+    },
+    {
+      "title": "Soap (I Use The)",
+      "id": null
+    },
+    {
+      "title": "Help Is on the Way",
+      "id": null
+    },
+    {
+      "title": "Ann",
+      "id": null
+    },
+    {
+      "title": "Do You Believe He’s Comin’",
+      "id": null
+    },
+    {
+      "title": "Sight and Sound",
+      "id": null
+    },
+    {
+      "title": "Lorilee",
+      "id": null
+    }
+  ]
+}

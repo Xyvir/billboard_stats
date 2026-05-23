@@ -1,1 +1,62 @@
-{"id": "first-water-sharks", "title": "First Water", "artist": "Sharks", "peak": 189, "history": [{"date": "1973-08-25", "rank": 196}, {"date": "1973-09-01", "rank": 189}, {"date": "1973-09-08", "rank": 193}, {"date": "1973-09-15", "rank": 195}]}
+{
+  "id": "first-water-sharks",
+  "title": "First Water",
+  "artist": "Sharks",
+  "peak": 189,
+  "history": [
+    {
+      "date": "1973-08-25",
+      "rank": 196
+    },
+    {
+      "date": "1973-09-01",
+      "rank": 189
+    },
+    {
+      "date": "1973-09-08",
+      "rank": 193
+    },
+    {
+      "date": "1973-09-15",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "World Park Junkies",
+      "id": null
+    },
+    {
+      "title": "Follow Me",
+      "id": null
+    },
+    {
+      "title": "Ol’ Jelly Roll",
+      "id": null
+    },
+    {
+      "title": "Brown-Eyed Boy",
+      "id": null
+    },
+    {
+      "title": "Snakes and Swallowtails",
+      "id": null
+    },
+    {
+      "title": "Driving Sideways",
+      "id": null
+    },
+    {
+      "title": "Steal Away",
+      "id": null
+    },
+    {
+      "title": "Doctor Love",
+      "id": null
+    },
+    {
+      "title": "Broke a Feeling",
+      "id": null
+    }
+  ]
+}

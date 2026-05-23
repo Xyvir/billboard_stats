@@ -1,1 +1,90 @@
-{"id": "first-glance-april-wine", "title": "First Glance", "artist": "April Wine", "peak": 114, "history": [{"date": "1979-04-21", "rank": 141}, {"date": "1979-04-28", "rank": 130}, {"date": "1979-05-05", "rank": 127}, {"date": "1979-05-12", "rank": 122}, {"date": "1979-05-19", "rank": 114}, {"date": "1979-05-26", "rank": 114}, {"date": "1979-06-02", "rank": 135}, {"date": "1979-06-09", "rank": 146}, {"date": "1979-06-16", "rank": 189}, {"date": "1979-06-23", "rank": 189}, {"date": "1979-06-30", "rank": 189}]}
+{
+  "id": "first-glance-april-wine",
+  "title": "First Glance",
+  "artist": "April Wine",
+  "peak": 114,
+  "history": [
+    {
+      "date": "1979-04-21",
+      "rank": 141
+    },
+    {
+      "date": "1979-04-28",
+      "rank": 130
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 127
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 122
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 114
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 114
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 135
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 146
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 189
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 189
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Roller",
+      "id": "roller-april-wine"
+    },
+    {
+      "title": "Get Ready for Love",
+      "id": null
+    },
+    {
+      "title": "Hot on the Wheels of Love",
+      "id": null
+    },
+    {
+      "title": "Rock n’ Roll Is a Vicious Game",
+      "id": null
+    },
+    {
+      "title": "Right Down to It",
+      "id": null
+    },
+    {
+      "title": "Comin' Right Down on Top of Me",
+      "id": null
+    },
+    {
+      "title": "I’m Alive",
+      "id": null
+    },
+    {
+      "title": "Let Yourself Go",
+      "id": null
+    },
+    {
+      "title": "Silver Dollar",
+      "id": null
+    }
+  ]
+}
