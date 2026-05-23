@@ -1,1 +1,78 @@
-{"id": "code-red-monica", "title": "Code Red", "artist": "Monica", "peak": 27, "history": [{"date": "2016-01-09", "rank": 27}, {"date": "2016-01-16", "rank": 146}, {"date": "2016-01-23", "rank": 199}]}
+{
+  "id": "code-red-monica",
+  "title": "Code Red",
+  "artist": "Monica",
+  "peak": 27,
+  "history": [
+    {
+      "date": "2016-01-09",
+      "rank": 27
+    },
+    {
+      "date": "2016-01-16",
+      "rank": 146
+    },
+    {
+      "date": "2016-01-23",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Call My Name",
+      "id": "all-eyez-on-me-monica"
+    },
+    {
+      "title": "All Men Lie",
+      "id": "all-eyez-on-me-monica"
+    },
+    {
+      "title": "Code Red",
+      "id": null
+    },
+    {
+      "title": "Just Right for Me",
+      "id": null
+    },
+    {
+      "title": "Love Just Ain’t Enough",
+      "id": null
+    },
+    {
+      "title": "I Know",
+      "id": null
+    },
+    {
+      "title": "Deep",
+      "id": null
+    },
+    {
+      "title": "Hustler’s Ambition",
+      "id": null
+    },
+    {
+      "title": "Alone in Your Heart",
+      "id": null
+    },
+    {
+      "title": "Suga",
+      "id": null
+    },
+    {
+      "title": "Ocean of Tears",
+      "id": null
+    },
+    {
+      "title": "Saints & Sinners",
+      "id": null
+    },
+    {
+      "title": "I Miss Music",
+      "id": null
+    },
+    {
+      "title": "Anchor",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"id": "coke-coke-escovedo", "title": "Coke", "artist": "Coke Escovedo", "peak": 195, "history": [{"date": "1976-03-13", "rank": 197}, {"date": "1976-03-20", "rank": 195}]}
+{
+  "id": "coke-coke-escovedo",
+  "title": "Coke",
+  "artist": "Coke Escovedo",
+  "peak": 195,
+  "history": [
+    {
+      "date": "1976-03-13",
+      "rank": 197
+    },
+    {
+      "date": "1976-03-20",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No One to Depend On",
+      "id": null
+    },
+    {
+      "title": "Why Can't We Be Lovers",
+      "id": null
+    },
+    {
+      "title": "Rebirth",
+      "id": null
+    },
+    {
+      "title": "Easy Come, Easy Go",
+      "id": null
+    },
+    {
+      "title": "Love Letters",
+      "id": null
+    },
+    {
+      "title": "Hall's Delight",
+      "id": null
+    },
+    {
+      "title": "If I Ever Loose This Heaven",
+      "id": null
+    },
+    {
+      "title": "What Are You Under",
+      "id": null
+    },
+    {
+      "title": "Make It Sweet",
+      "id": null
+    },
+    {
+      "title": "Life Is a Tortured Love Affair",
+      "id": null
+    }
+  ]
+}
