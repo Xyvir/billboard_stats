@@ -1,1 +1,138 @@
-{"id": "el-loco-zz-top", "title": "El Loco", "artist": "ZZ Top", "peak": 17, "history": [{"date": "1981-08-08", "rank": 42}, {"date": "1981-08-15", "rank": 36}, {"date": "1981-08-22", "rank": 32}, {"date": "1981-08-29", "rank": 23}, {"date": "1981-09-05", "rank": 23}, {"date": "1981-09-12", "rank": 20}, {"date": "1981-09-19", "rank": 18}, {"date": "1981-09-26", "rank": 17}, {"date": "1981-10-03", "rank": 17}, {"date": "1981-10-10", "rank": 20}, {"date": "1981-10-17", "rank": 27}, {"date": "1981-10-24", "rank": 31}, {"date": "1981-10-31", "rank": 35}, {"date": "1981-11-07", "rank": 42}, {"date": "1981-11-14", "rank": 59}, {"date": "1981-11-21", "rank": 83}, {"date": "1981-11-28", "rank": 107}, {"date": "1981-12-05", "rank": 117}, {"date": "1981-12-12", "rank": 126}, {"date": "1981-12-19", "rank": 152}, {"date": "1981-12-26", "rank": 168}, {"date": "1982-01-02", "rank": 168}]}
+{
+  "id": "el-loco-zz-top",
+  "title": "El Loco",
+  "artist": "ZZ Top",
+  "peak": 17,
+  "history": [
+    {
+      "date": "1981-08-08",
+      "rank": 42
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 36
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 32
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 23
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 23
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 20
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 18
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 17
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 17
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 20
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 27
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 31
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 35
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 42
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 59
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 83
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 107
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 117
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 126
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 152
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 168
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Leila",
+      "id": "leila-zz-top"
+    },
+    {
+      "title": "Tube Snake Boogie",
+      "id": null
+    },
+    {
+      "title": "I Wanna Drive You Home",
+      "id": null
+    },
+    {
+      "title": "Ten Foot Pole",
+      "id": null
+    },
+    {
+      "title": "Don’t Tease Me",
+      "id": null
+    },
+    {
+      "title": "It’s So Hard",
+      "id": null
+    },
+    {
+      "title": "Pearl Necklace",
+      "id": null
+    },
+    {
+      "title": "Groovy Little Hippie Pad",
+      "id": null
+    },
+    {
+      "title": "Heaven, Hell or Houston",
+      "id": null
+    },
+    {
+      "title": "Party on the Patio",
+      "id": null
+    }
+  ]
+}
