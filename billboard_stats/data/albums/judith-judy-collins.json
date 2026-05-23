@@ -1,1 +1,194 @@
-{"id": "judith-judy-collins", "title": "Judith", "artist": "Judy Collins", "peak": 17, "history": [{"date": "1975-04-12", "rank": 85}, {"date": "1975-04-19", "rank": 66}, {"date": "1975-04-26", "rank": 44}, {"date": "1975-05-03", "rank": 34}, {"date": "1975-05-10", "rank": 28}, {"date": "1975-05-17", "rank": 25}, {"date": "1975-05-24", "rank": 25}, {"date": "1975-05-31", "rank": 22}, {"date": "1975-06-07", "rank": 20}, {"date": "1975-06-14", "rank": 17}, {"date": "1975-06-21", "rank": 47}, {"date": "1975-06-28", "rank": 40}, {"date": "1975-07-05", "rank": 40}, {"date": "1975-07-12", "rank": 37}, {"date": "1975-07-19", "rank": 32}, {"date": "1975-07-26", "rank": 30}, {"date": "1975-08-02", "rank": 26}, {"date": "1975-08-09", "rank": 24}, {"date": "1975-08-16", "rank": 24}, {"date": "1975-08-23", "rank": 36}, {"date": "1975-08-30", "rank": 36}, {"date": "1975-09-06", "rank": 45}, {"date": "1975-09-13", "rank": 63}, {"date": "1975-09-20", "rank": 77}, {"date": "1975-09-27", "rank": 82}, {"date": "1975-10-04", "rank": 78}, {"date": "1975-10-11", "rank": 71}, {"date": "1975-10-18", "rank": 69}, {"date": "1975-10-25", "rank": 68}, {"date": "1975-11-01", "rank": 75}, {"date": "1975-11-08", "rank": 95}, {"date": "1975-11-15", "rank": 179}, {"date": "1975-11-22", "rank": 179}, {"date": "1975-11-29", "rank": 192}]}
+{
+  "id": "judith-judy-collins",
+  "title": "Judith",
+  "artist": "Judy Collins",
+  "peak": 17,
+  "history": [
+    {
+      "date": "1975-04-12",
+      "rank": 85
+    },
+    {
+      "date": "1975-04-19",
+      "rank": 66
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 44
+    },
+    {
+      "date": "1975-05-03",
+      "rank": 34
+    },
+    {
+      "date": "1975-05-10",
+      "rank": 28
+    },
+    {
+      "date": "1975-05-17",
+      "rank": 25
+    },
+    {
+      "date": "1975-05-24",
+      "rank": 25
+    },
+    {
+      "date": "1975-05-31",
+      "rank": 22
+    },
+    {
+      "date": "1975-06-07",
+      "rank": 20
+    },
+    {
+      "date": "1975-06-14",
+      "rank": 17
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 47
+    },
+    {
+      "date": "1975-06-28",
+      "rank": 40
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 40
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 37
+    },
+    {
+      "date": "1975-07-19",
+      "rank": 32
+    },
+    {
+      "date": "1975-07-26",
+      "rank": 30
+    },
+    {
+      "date": "1975-08-02",
+      "rank": 26
+    },
+    {
+      "date": "1975-08-09",
+      "rank": 24
+    },
+    {
+      "date": "1975-08-16",
+      "rank": 24
+    },
+    {
+      "date": "1975-08-23",
+      "rank": 36
+    },
+    {
+      "date": "1975-08-30",
+      "rank": 36
+    },
+    {
+      "date": "1975-09-06",
+      "rank": 45
+    },
+    {
+      "date": "1975-09-13",
+      "rank": 63
+    },
+    {
+      "date": "1975-09-20",
+      "rank": 77
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 82
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 78
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 71
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 69
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 68
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 75
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 95
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 179
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 179
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Send in the Clowns",
+      "id": "send-in-the-clowns-judy-collins"
+    },
+    {
+      "title": "The Moon Is a Harsh Mistress",
+      "id": null
+    },
+    {
+      "title": "Angel Spread Your Wings",
+      "id": null
+    },
+    {
+      "title": "Houses",
+      "id": null
+    },
+    {
+      "title": "The Lovin' of the Game",
+      "id": null
+    },
+    {
+      "title": "Song for Duke",
+      "id": null
+    },
+    {
+      "title": "Salt of the Earth",
+      "id": null
+    },
+    {
+      "title": "Brother, Can You Spare a Dime",
+      "id": null
+    },
+    {
+      "title": "City of New Orleans",
+      "id": null
+    },
+    {
+      "title": "I'll Be Seeing You",
+      "id": null
+    },
+    {
+      "title": "Pirate Ships",
+      "id": null
+    },
+    {
+      "title": "Born to the Breed",
+      "id": null
+    }
+  ]
+}

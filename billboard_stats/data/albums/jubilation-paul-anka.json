@@ -1,1 +1,86 @@
-{"id": "jubilation-paul-anka", "title": "Jubilation", "artist": "Paul Anka", "peak": 192, "history": [{"date": "1972-06-03", "rank": 197}, {"date": "1972-06-10", "rank": 197}, {"date": "1972-06-17", "rank": 192}, {"date": "1972-06-24", "rank": 192}]}
+{
+  "id": "jubilation-paul-anka",
+  "title": "Jubilation",
+  "artist": "Paul Anka",
+  "peak": 192,
+  "history": [
+    {
+      "date": "1972-06-03",
+      "rank": 197
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 197
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 192
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Jubilation",
+      "id": "jubilation-paul-anka"
+    },
+    {
+      "title": "Let Me Be The One",
+      "id": "let-me-get-to-know-you-paul-anka"
+    },
+    {
+      "title": "Do I Love You?",
+      "id": "do-i-love-you-paul-anka"
+    },
+    {
+      "title": "My Way",
+      "id": null
+    },
+    {
+      "title": "She's A Lady",
+      "id": null
+    },
+    {
+      "title": "Lifesong",
+      "id": null
+    },
+    {
+      "title": "We Made It Happen",
+      "id": null
+    },
+    {
+      "title": "Yesterday My Life",
+      "id": null
+    },
+    {
+      "title": "Love Is",
+      "id": null
+    },
+    {
+      "title": "Some Kind Of Friend",
+      "id": null
+    },
+    {
+      "title": "Les Files De Paris",
+      "id": null
+    },
+    {
+      "title": "You And Me Today",
+      "id": null
+    },
+    {
+      "title": "Something Good Is Coming",
+      "id": null
+    },
+    {
+      "title": "Everything's Been Changed",
+      "id": null
+    },
+    {
+      "title": "There Is Something I'd Like To Say To You",
+      "id": null
+    }
+  ]
+}

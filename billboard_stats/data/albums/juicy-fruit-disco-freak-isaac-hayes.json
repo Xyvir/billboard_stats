@@ -1,1 +1,66 @@
-{"id": "juicy-fruit-disco-freak-isaac-hayes", "title": "Juicy Fruit (disco Freak)", "artist": "Isaac Hayes", "peak": 124, "history": [{"date": "1976-07-24", "rank": 163}, {"date": "1976-07-31", "rank": 153}, {"date": "1976-08-07", "rank": 143}, {"date": "1976-08-14", "rank": 131}, {"date": "1976-08-21", "rank": 129}, {"date": "1976-08-28", "rank": 124}, {"date": "1976-09-04", "rank": 179}]}
+{
+  "id": "juicy-fruit-disco-freak-isaac-hayes",
+  "title": "Juicy Fruit (disco Freak)",
+  "artist": "Isaac Hayes",
+  "peak": 124,
+  "history": [
+    {
+      "date": "1976-07-24",
+      "rank": 163
+    },
+    {
+      "date": "1976-07-31",
+      "rank": 153
+    },
+    {
+      "date": "1976-08-07",
+      "rank": 143
+    },
+    {
+      "date": "1976-08-14",
+      "rank": 131
+    },
+    {
+      "date": "1976-08-21",
+      "rank": 129
+    },
+    {
+      "date": "1976-08-28",
+      "rank": 124
+    },
+    {
+      "date": "1976-09-04",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Storm Is Over",
+      "id": "the-look-of-love-isaac-hayes"
+    },
+    {
+      "title": "Thank You Love",
+      "id": "the-look-of-love-isaac-hayes"
+    },
+    {
+      "title": "Juicy Fruit (Disco Freak)",
+      "id": null
+    },
+    {
+      "title": "Let's Don't Ever Blow Our Thing",
+      "id": null
+    },
+    {
+      "title": "Music to Make Love By",
+      "id": null
+    },
+    {
+      "title": "Lady of the Night",
+      "id": null
+    },
+    {
+      "title": "Love Me or Lose Me",
+      "id": null
+    }
+  ]
+}
