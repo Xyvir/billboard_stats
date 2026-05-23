@@ -1,1 +1,70 @@
-{"id": "diamond-cut-bonnie-tyler", "title": "Diamond Cut", "artist": "Bonnie Tyler", "peak": 145, "history": [{"date": "1979-02-17", "rank": 156}, {"date": "1979-02-24", "rank": 146}, {"date": "1979-03-03", "rank": 145}, {"date": "1979-03-10", "rank": 153}, {"date": "1979-03-17", "rank": 178}]}
+{
+  "id": "diamond-cut-bonnie-tyler",
+  "title": "Diamond Cut",
+  "artist": "Bonnie Tyler",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1979-02-17",
+      "rank": 156
+    },
+    {
+      "date": "1979-02-24",
+      "rank": 146
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 145
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 153
+    },
+    {
+      "date": "1979-03-17",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If You Ever Need Me Again",
+      "id": null
+    },
+    {
+      "title": "Too Good to Last",
+      "id": null
+    },
+    {
+      "title": "What a Way to Treat My Heart",
+      "id": null
+    },
+    {
+      "title": "The Eyes of a Fool",
+      "id": null
+    },
+    {
+      "title": "Bye Bye Now My Sweet Love",
+      "id": null
+    },
+    {
+      "title": "Louisiana Rain",
+      "id": null
+    },
+    {
+      "title": "Baby I Just Love You",
+      "id": null
+    },
+    {
+      "title": "Words Can Change Your Life",
+      "id": null
+    },
+    {
+      "title": "My Guns Are Loaded",
+      "id": null
+    },
+    {
+      "title": "I’m a Fool",
+      "id": null
+    }
+  ]
+}

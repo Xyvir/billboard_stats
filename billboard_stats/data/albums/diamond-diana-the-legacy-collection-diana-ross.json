@@ -1,1 +1,74 @@
-{"id": "diamond-diana-the-legacy-collection-diana-ross", "title": "Diamond Diana: The Legacy Collection", "artist": "Diana Ross", "peak": 30, "history": [{"date": "2018-01-27", "rank": 30}]}
+{
+  "id": "diamond-diana-the-legacy-collection-diana-ross",
+  "title": "Diamond Diana: The Legacy Collection",
+  "artist": "Diana Ross",
+  "peak": 30,
+  "history": [
+    {
+      "date": "2018-01-27",
+      "rank": 30
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m Coming Out",
+      "id": "i-m-coming-out-diana-ross"
+    },
+    {
+      "title": "The Boss",
+      "id": "the-boss-diana-ross"
+    },
+    {
+      "title": "It’s My House",
+      "id": "it-s-my-turn-diana-ross"
+    },
+    {
+      "title": "Upside Down",
+      "id": "upside-down-diana-ross"
+    },
+    {
+      "title": "Touch Me in the Morning",
+      "id": "touch-me-in-the-morning-diana-ross"
+    },
+    {
+      "title": "Love Hangover",
+      "id": "love-hangover-diana-ross"
+    },
+    {
+      "title": "It’s My Turn",
+      "id": "it-s-my-turn-diana-ross"
+    },
+    {
+      "title": "Why Do Fools Fall in Love",
+      "id": "why-do-fools-fall-in-love-diana-ross"
+    },
+    {
+      "title": "Ain’t No Mountain High Enough",
+      "id": "ain-t-no-mountain-high-enough-diana-ross"
+    },
+    {
+      "title": "Reach Out and Touch (Somebody’s Hand)",
+      "id": "reach-out-and-touch-somebody-s-hand-diana-ross"
+    },
+    {
+      "title": "Ain't No Mountain High Enough (The ANMHE 'Diamond Diana\" Remix)",
+      "id": "ain-t-no-mountain-high-enough-diana-ross"
+    },
+    {
+      "title": "More Today Than Yesterday",
+      "id": null
+    },
+    {
+      "title": "Endless Love",
+      "id": null
+    },
+    {
+      "title": "You Can’t Hurry Love",
+      "id": null
+    },
+    {
+      "title": "Take Me Higher",
+      "id": null
+    }
+  ]
+}
