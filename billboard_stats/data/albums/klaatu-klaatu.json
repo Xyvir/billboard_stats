@@ -1,1 +1,86 @@
-{"id": "klaatu-klaatu", "title": "Klaatu", "artist": "Klaatu", "peak": 32, "history": [{"date": "1977-04-02", "rank": 100}, {"date": "1977-04-09", "rank": 74}, {"date": "1977-04-16", "rank": 54}, {"date": "1977-04-23", "rank": 44}, {"date": "1977-04-30", "rank": 40}, {"date": "1977-05-07", "rank": 33}, {"date": "1977-05-14", "rank": 32}, {"date": "1977-05-21", "rank": 61}, {"date": "1977-05-28", "rank": 111}, {"date": "1977-06-04", "rank": 158}, {"date": "1977-06-11", "rank": 158}]}
+{
+  "id": "klaatu-klaatu",
+  "title": "Klaatu",
+  "artist": "Klaatu",
+  "peak": 32,
+  "history": [
+    {
+      "date": "1977-04-02",
+      "rank": 100
+    },
+    {
+      "date": "1977-04-09",
+      "rank": 74
+    },
+    {
+      "date": "1977-04-16",
+      "rank": 54
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 44
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 40
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 33
+    },
+    {
+      "date": "1977-05-14",
+      "rank": 32
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 61
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 111
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 158
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sub‐Rosa Subway",
+      "id": "sub-rosa-subway-calling-occupants-klaatu"
+    },
+    {
+      "title": "Calling Occupants (Of Interplanetary Craft)",
+      "id": null
+    },
+    {
+      "title": "California Jam",
+      "id": null
+    },
+    {
+      "title": "Anus of Uranus",
+      "id": null
+    },
+    {
+      "title": "True Life Hero",
+      "id": null
+    },
+    {
+      "title": "Doctor Marvello",
+      "id": null
+    },
+    {
+      "title": "Sir Bodsworth Rugglesby III",
+      "id": null
+    },
+    {
+      "title": "Little Neutrino",
+      "id": null
+    }
+  ]
+}

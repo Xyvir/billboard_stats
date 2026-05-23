@@ -1,1 +1,358 @@
-{"id": "kiss-me-kiss-me-kiss-me-the-cure", "title": "Kiss Me, Kiss Me, Kiss Me", "artist": "The Cure", "peak": 35, "history": [{"date": "1987-06-20", "rank": 72}, {"date": "1987-06-27", "rank": 44}, {"date": "1987-07-04", "rank": 35}, {"date": "1987-07-11", "rank": 35}, {"date": "1987-07-18", "rank": 35}, {"date": "1987-07-25", "rank": 35}, {"date": "1987-08-01", "rank": 36}, {"date": "1987-08-08", "rank": 37}, {"date": "1987-08-15", "rank": 39}, {"date": "1987-08-22", "rank": 43}, {"date": "1987-08-29", "rank": 39}, {"date": "1987-09-05", "rank": 46}, {"date": "1987-09-12", "rank": 45}, {"date": "1987-09-19", "rank": 47}, {"date": "1987-09-26", "rank": 61}, {"date": "1987-10-03", "rank": 64}, {"date": "1987-10-10", "rank": 73}, {"date": "1987-10-17", "rank": 69}, {"date": "1987-10-24", "rank": 73}, {"date": "1987-10-31", "rank": 71}, {"date": "1987-11-07", "rank": 65}, {"date": "1987-11-14", "rank": 65}, {"date": "1987-11-21", "rank": 65}, {"date": "1987-11-28", "rank": 69}, {"date": "1987-12-05", "rank": 73}, {"date": "1987-12-12", "rank": 76}, {"date": "1987-12-19", "rank": 71}, {"date": "1987-12-26", "rank": 70}, {"date": "1988-01-02", "rank": 70}, {"date": "1988-01-09", "rank": 65}, {"date": "1988-01-16", "rank": 63}, {"date": "1988-01-23", "rank": 58}, {"date": "1988-01-30", "rank": 48}, {"date": "1988-02-06", "rank": 53}, {"date": "1988-02-13", "rank": 53}, {"date": "1988-02-20", "rank": 62}, {"date": "1988-02-27", "rank": 59}, {"date": "1988-03-05", "rank": 60}, {"date": "1988-03-12", "rank": 61}, {"date": "1988-03-19", "rank": 65}, {"date": "1988-03-26", "rank": 64}, {"date": "1988-04-02", "rank": 63}, {"date": "1988-04-09", "rank": 65}, {"date": "1988-04-16", "rank": 74}, {"date": "1988-04-23", "rank": 84}, {"date": "1988-04-30", "rank": 101}, {"date": "1988-05-07", "rank": 117}, {"date": "1988-05-14", "rank": 112}, {"date": "1988-05-21", "rank": 140}, {"date": "1988-05-28", "rank": 153}, {"date": "1988-06-04", "rank": 191}, {"date": "1988-06-11", "rank": 197}]}
+{
+  "id": "kiss-me-kiss-me-kiss-me-the-cure",
+  "title": "Kiss Me, Kiss Me, Kiss Me",
+  "artist": "The Cure",
+  "peak": 35,
+  "history": [
+    {
+      "date": "1987-06-20",
+      "rank": 72
+    },
+    {
+      "date": "1987-06-27",
+      "rank": 44
+    },
+    {
+      "date": "1987-07-04",
+      "rank": 35
+    },
+    {
+      "date": "1987-07-11",
+      "rank": 35
+    },
+    {
+      "date": "1987-07-18",
+      "rank": 35
+    },
+    {
+      "date": "1987-07-25",
+      "rank": 35
+    },
+    {
+      "date": "1987-08-01",
+      "rank": 36
+    },
+    {
+      "date": "1987-08-08",
+      "rank": 37
+    },
+    {
+      "date": "1987-08-15",
+      "rank": 39
+    },
+    {
+      "date": "1987-08-22",
+      "rank": 43
+    },
+    {
+      "date": "1987-08-29",
+      "rank": 39
+    },
+    {
+      "date": "1987-09-05",
+      "rank": 46
+    },
+    {
+      "date": "1987-09-12",
+      "rank": 45
+    },
+    {
+      "date": "1987-09-19",
+      "rank": 47
+    },
+    {
+      "date": "1987-09-26",
+      "rank": 61
+    },
+    {
+      "date": "1987-10-03",
+      "rank": 64
+    },
+    {
+      "date": "1987-10-10",
+      "rank": 73
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 69
+    },
+    {
+      "date": "1987-10-24",
+      "rank": 73
+    },
+    {
+      "date": "1987-10-31",
+      "rank": 71
+    },
+    {
+      "date": "1987-11-07",
+      "rank": 65
+    },
+    {
+      "date": "1987-11-14",
+      "rank": 65
+    },
+    {
+      "date": "1987-11-21",
+      "rank": 65
+    },
+    {
+      "date": "1987-11-28",
+      "rank": 69
+    },
+    {
+      "date": "1987-12-05",
+      "rank": 73
+    },
+    {
+      "date": "1987-12-12",
+      "rank": 76
+    },
+    {
+      "date": "1987-12-19",
+      "rank": 71
+    },
+    {
+      "date": "1987-12-26",
+      "rank": 70
+    },
+    {
+      "date": "1988-01-02",
+      "rank": 70
+    },
+    {
+      "date": "1988-01-09",
+      "rank": 65
+    },
+    {
+      "date": "1988-01-16",
+      "rank": 63
+    },
+    {
+      "date": "1988-01-23",
+      "rank": 58
+    },
+    {
+      "date": "1988-01-30",
+      "rank": 48
+    },
+    {
+      "date": "1988-02-06",
+      "rank": 53
+    },
+    {
+      "date": "1988-02-13",
+      "rank": 53
+    },
+    {
+      "date": "1988-02-20",
+      "rank": 62
+    },
+    {
+      "date": "1988-02-27",
+      "rank": 59
+    },
+    {
+      "date": "1988-03-05",
+      "rank": 60
+    },
+    {
+      "date": "1988-03-12",
+      "rank": 61
+    },
+    {
+      "date": "1988-03-19",
+      "rank": 65
+    },
+    {
+      "date": "1988-03-26",
+      "rank": 64
+    },
+    {
+      "date": "1988-04-02",
+      "rank": 63
+    },
+    {
+      "date": "1988-04-09",
+      "rank": 65
+    },
+    {
+      "date": "1988-04-16",
+      "rank": 74
+    },
+    {
+      "date": "1988-04-23",
+      "rank": 84
+    },
+    {
+      "date": "1988-04-30",
+      "rank": 101
+    },
+    {
+      "date": "1988-05-07",
+      "rank": 117
+    },
+    {
+      "date": "1988-05-14",
+      "rank": 112
+    },
+    {
+      "date": "1988-05-21",
+      "rank": 140
+    },
+    {
+      "date": "1988-05-28",
+      "rank": 153
+    },
+    {
+      "date": "1988-06-04",
+      "rank": 191
+    },
+    {
+      "date": "1988-06-11",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Why Can’t I Be You?",
+      "id": "why-can-t-i-be-you-the-cure"
+    },
+    {
+      "title": "Just Like Heaven",
+      "id": "just-like-heaven-the-cure"
+    },
+    {
+      "title": "Hot Hot Hot!!!",
+      "id": "hot-hot-hot-the-cure"
+    },
+    {
+      "title": "Fight",
+      "id": "high-the-cure"
+    },
+    {
+      "title": "Hot Hot Hot!!! (studio demo)",
+      "id": "hot-hot-hot-the-cure"
+    },
+    {
+      "title": "Just Like Heaven (studio demo)",
+      "id": "just-like-heaven-the-cure"
+    },
+    {
+      "title": "The Kiss",
+      "id": null
+    },
+    {
+      "title": "Catch",
+      "id": null
+    },
+    {
+      "title": "Torture",
+      "id": null
+    },
+    {
+      "title": "If Only Tonight We Could Sleep",
+      "id": null
+    },
+    {
+      "title": "How Beautiful You Are…",
+      "id": null
+    },
+    {
+      "title": "The Snakepit",
+      "id": null
+    },
+    {
+      "title": "Hey You!!!",
+      "id": null
+    },
+    {
+      "title": "All I Want",
+      "id": null
+    },
+    {
+      "title": "One More Time",
+      "id": null
+    },
+    {
+      "title": "Like Cockatoos",
+      "id": null
+    },
+    {
+      "title": "Icing Sugar",
+      "id": null
+    },
+    {
+      "title": "The Perfect Girl",
+      "id": null
+    },
+    {
+      "title": "A Thousand Hours",
+      "id": null
+    },
+    {
+      "title": "Shiver and Shake",
+      "id": null
+    },
+    {
+      "title": "The Kiss (RS home demo)",
+      "id": null
+    },
+    {
+      "title": "The Perfect Girl (studio demo)",
+      "id": null
+    },
+    {
+      "title": "Like Cockatoos (studio demo)",
+      "id": null
+    },
+    {
+      "title": "All I Want (studio demo)",
+      "id": null
+    },
+    {
+      "title": "Shiver and Shake (studio demo)",
+      "id": null
+    },
+    {
+      "title": "If Only Tonight We Could Sleep (studio demo)",
+      "id": null
+    },
+    {
+      "title": "Hey You! (studio demo)",
+      "id": null
+    },
+    {
+      "title": "A Thousand Hours (studio alternative mix)",
+      "id": null
+    },
+    {
+      "title": "Icing Sugar (studio alternative mix)",
+      "id": null
+    },
+    {
+      "title": "One More Time (studio alternative mix)",
+      "id": null
+    },
+    {
+      "title": "How Beautiful You Are (live)",
+      "id": null
+    },
+    {
+      "title": "The Snakepit (live)",
+      "id": null
+    },
+    {
+      "title": "Catch (live)",
+      "id": null
+    },
+    {
+      "title": "Torture (live)",
+      "id": null
+    },
+    {
+      "title": "Fight (live)",
+      "id": null
+    }
+  ]
+}

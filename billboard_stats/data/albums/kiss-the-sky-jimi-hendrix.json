@@ -1,1 +1,74 @@
-{"id": "kiss-the-sky-jimi-hendrix", "title": "Kiss The Sky", "artist": "Jimi Hendrix", "peak": 148, "history": [{"date": "1984-11-17", "rank": 182}, {"date": "1984-11-24", "rank": 157}, {"date": "1984-12-01", "rank": 151}, {"date": "1984-12-08", "rank": 148}, {"date": "1984-12-15", "rank": 183}]}
+{
+  "id": "kiss-the-sky-jimi-hendrix",
+  "title": "Kiss The Sky",
+  "artist": "Jimi Hendrix",
+  "peak": 148,
+  "history": [
+    {
+      "date": "1984-11-17",
+      "rank": 182
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 157
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 151
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 148
+    },
+    {
+      "date": "1984-12-15",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Are You Experienced?",
+      "id": null
+    },
+    {
+      "title": "I Don’t Live Today",
+      "id": null
+    },
+    {
+      "title": "Voodoo Child (slight return)",
+      "id": null
+    },
+    {
+      "title": "Stepping Stone",
+      "id": null
+    },
+    {
+      "title": "Castles Made of Sand",
+      "id": null
+    },
+    {
+      "title": "Killing Floor",
+      "id": null
+    },
+    {
+      "title": "Purple Haze",
+      "id": null
+    },
+    {
+      "title": "Red House",
+      "id": null
+    },
+    {
+      "title": "Crosstown Traffic",
+      "id": null
+    },
+    {
+      "title": "Third Stone From the Sun",
+      "id": null
+    },
+    {
+      "title": "All Along the Watchtower",
+      "id": null
+    }
+  ]
+}
