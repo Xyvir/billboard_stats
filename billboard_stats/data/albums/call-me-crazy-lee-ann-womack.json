@@ -1,1 +1,74 @@
-{"id": "call-me-crazy-lee-ann-womack", "title": "Call Me Crazy", "artist": "Lee Ann Womack", "peak": 23, "history": [{"date": "2008-11-08", "rank": 23}, {"date": "2008-11-15", "rank": 68}, {"date": "2008-11-22", "rank": 113}, {"date": "2008-11-29", "rank": 189}]}
+{
+  "id": "call-me-crazy-lee-ann-womack",
+  "title": "Call Me Crazy",
+  "artist": "Lee Ann Womack",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2008-11-08",
+      "rank": 23
+    },
+    {
+      "date": "2008-11-15",
+      "rank": 68
+    },
+    {
+      "date": "2008-11-22",
+      "rank": 113
+    },
+    {
+      "date": "2008-11-29",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Last Call",
+      "id": "last-call-lee-ann-womack"
+    },
+    {
+      "title": "Either Way",
+      "id": null
+    },
+    {
+      "title": "Solitary Thinkin’",
+      "id": null
+    },
+    {
+      "title": "New Again",
+      "id": null
+    },
+    {
+      "title": "I Found It in You",
+      "id": null
+    },
+    {
+      "title": "Have You Seen That Girl",
+      "id": null
+    },
+    {
+      "title": "The Bees",
+      "id": null
+    },
+    {
+      "title": "I Think I Know",
+      "id": null
+    },
+    {
+      "title": "If These Walls Could Talk",
+      "id": null
+    },
+    {
+      "title": "Everything but Quits",
+      "id": null
+    },
+    {
+      "title": "The King of Broken Hearts",
+      "id": null
+    },
+    {
+      "title": "The Story of My Life",
+      "id": null
+    }
+  ]
+}
