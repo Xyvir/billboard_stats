@@ -1,1 +1,314 @@
-{"id": "by-the-way-red-hot-chili-peppers", "title": "By The Way", "artist": "Red Hot Chili Peppers", "peak": 2, "history": [{"date": "2002-07-27", "rank": 2}, {"date": "2002-08-03", "rank": 4}, {"date": "2002-08-10", "rank": 8}, {"date": "2002-08-17", "rank": 10}, {"date": "2002-08-24", "rank": 13}, {"date": "2002-08-31", "rank": 16}, {"date": "2002-09-07", "rank": 21}, {"date": "2002-09-14", "rank": 24}, {"date": "2002-09-21", "rank": 19}, {"date": "2002-09-28", "rank": 22}, {"date": "2002-10-05", "rank": 28}, {"date": "2002-10-12", "rank": 31}, {"date": "2002-10-19", "rank": 40}, {"date": "2002-10-26", "rank": 49}, {"date": "2002-11-02", "rank": 50}, {"date": "2002-11-09", "rank": 58}, {"date": "2002-11-16", "rank": 72}, {"date": "2002-11-23", "rank": 82}, {"date": "2002-11-30", "rank": 89}, {"date": "2002-12-07", "rank": 93}, {"date": "2002-12-14", "rank": 95}, {"date": "2002-12-21", "rank": 78}, {"date": "2002-12-28", "rank": 70}, {"date": "2003-01-04", "rank": 52}, {"date": "2003-01-11", "rank": 51}, {"date": "2003-01-18", "rank": 54}, {"date": "2003-01-25", "rank": 54}, {"date": "2003-02-01", "rank": 58}, {"date": "2003-02-08", "rank": 63}, {"date": "2003-02-15", "rank": 61}, {"date": "2003-02-22", "rank": 73}, {"date": "2003-03-01", "rank": 74}, {"date": "2003-03-08", "rank": 57}, {"date": "2003-03-15", "rank": 60}, {"date": "2003-03-22", "rank": 68}, {"date": "2003-03-29", "rank": 66}, {"date": "2003-04-05", "rank": 67}, {"date": "2003-04-12", "rank": 64}, {"date": "2003-04-19", "rank": 71}, {"date": "2003-04-26", "rank": 76}, {"date": "2003-05-03", "rank": 84}, {"date": "2003-05-10", "rank": 73}, {"date": "2003-05-17", "rank": 82}, {"date": "2003-05-24", "rank": 98}, {"date": "2003-05-31", "rank": 97}, {"date": "2003-06-07", "rank": 106}, {"date": "2003-06-14", "rank": 98}, {"date": "2003-06-21", "rank": 102}, {"date": "2003-06-28", "rank": 108}, {"date": "2003-07-05", "rank": 103}, {"date": "2003-07-12", "rank": 110}, {"date": "2003-07-19", "rank": 120}, {"date": "2003-07-26", "rank": 112}, {"date": "2003-08-02", "rank": 116}, {"date": "2003-08-09", "rank": 132}, {"date": "2003-08-16", "rank": 138}, {"date": "2003-08-23", "rank": 153}, {"date": "2003-08-30", "rank": 147}, {"date": "2003-09-06", "rank": 165}, {"date": "2003-09-13", "rank": 185}]}
+{
+  "id": "by-the-way-red-hot-chili-peppers",
+  "title": "By The Way",
+  "artist": "Red Hot Chili Peppers",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2002-07-27",
+      "rank": 2
+    },
+    {
+      "date": "2002-08-03",
+      "rank": 4
+    },
+    {
+      "date": "2002-08-10",
+      "rank": 8
+    },
+    {
+      "date": "2002-08-17",
+      "rank": 10
+    },
+    {
+      "date": "2002-08-24",
+      "rank": 13
+    },
+    {
+      "date": "2002-08-31",
+      "rank": 16
+    },
+    {
+      "date": "2002-09-07",
+      "rank": 21
+    },
+    {
+      "date": "2002-09-14",
+      "rank": 24
+    },
+    {
+      "date": "2002-09-21",
+      "rank": 19
+    },
+    {
+      "date": "2002-09-28",
+      "rank": 22
+    },
+    {
+      "date": "2002-10-05",
+      "rank": 28
+    },
+    {
+      "date": "2002-10-12",
+      "rank": 31
+    },
+    {
+      "date": "2002-10-19",
+      "rank": 40
+    },
+    {
+      "date": "2002-10-26",
+      "rank": 49
+    },
+    {
+      "date": "2002-11-02",
+      "rank": 50
+    },
+    {
+      "date": "2002-11-09",
+      "rank": 58
+    },
+    {
+      "date": "2002-11-16",
+      "rank": 72
+    },
+    {
+      "date": "2002-11-23",
+      "rank": 82
+    },
+    {
+      "date": "2002-11-30",
+      "rank": 89
+    },
+    {
+      "date": "2002-12-07",
+      "rank": 93
+    },
+    {
+      "date": "2002-12-14",
+      "rank": 95
+    },
+    {
+      "date": "2002-12-21",
+      "rank": 78
+    },
+    {
+      "date": "2002-12-28",
+      "rank": 70
+    },
+    {
+      "date": "2003-01-04",
+      "rank": 52
+    },
+    {
+      "date": "2003-01-11",
+      "rank": 51
+    },
+    {
+      "date": "2003-01-18",
+      "rank": 54
+    },
+    {
+      "date": "2003-01-25",
+      "rank": 54
+    },
+    {
+      "date": "2003-02-01",
+      "rank": 58
+    },
+    {
+      "date": "2003-02-08",
+      "rank": 63
+    },
+    {
+      "date": "2003-02-15",
+      "rank": 61
+    },
+    {
+      "date": "2003-02-22",
+      "rank": 73
+    },
+    {
+      "date": "2003-03-01",
+      "rank": 74
+    },
+    {
+      "date": "2003-03-08",
+      "rank": 57
+    },
+    {
+      "date": "2003-03-15",
+      "rank": 60
+    },
+    {
+      "date": "2003-03-22",
+      "rank": 68
+    },
+    {
+      "date": "2003-03-29",
+      "rank": 66
+    },
+    {
+      "date": "2003-04-05",
+      "rank": 67
+    },
+    {
+      "date": "2003-04-12",
+      "rank": 64
+    },
+    {
+      "date": "2003-04-19",
+      "rank": 71
+    },
+    {
+      "date": "2003-04-26",
+      "rank": 76
+    },
+    {
+      "date": "2003-05-03",
+      "rank": 84
+    },
+    {
+      "date": "2003-05-10",
+      "rank": 73
+    },
+    {
+      "date": "2003-05-17",
+      "rank": 82
+    },
+    {
+      "date": "2003-05-24",
+      "rank": 98
+    },
+    {
+      "date": "2003-05-31",
+      "rank": 97
+    },
+    {
+      "date": "2003-06-07",
+      "rank": 106
+    },
+    {
+      "date": "2003-06-14",
+      "rank": 98
+    },
+    {
+      "date": "2003-06-21",
+      "rank": 102
+    },
+    {
+      "date": "2003-06-28",
+      "rank": 108
+    },
+    {
+      "date": "2003-07-05",
+      "rank": 103
+    },
+    {
+      "date": "2003-07-12",
+      "rank": 110
+    },
+    {
+      "date": "2003-07-19",
+      "rank": 120
+    },
+    {
+      "date": "2003-07-26",
+      "rank": 112
+    },
+    {
+      "date": "2003-08-02",
+      "rank": 116
+    },
+    {
+      "date": "2003-08-09",
+      "rank": 132
+    },
+    {
+      "date": "2003-08-16",
+      "rank": 138
+    },
+    {
+      "date": "2003-08-23",
+      "rank": 153
+    },
+    {
+      "date": "2003-08-30",
+      "rank": 147
+    },
+    {
+      "date": "2003-09-06",
+      "rank": 165
+    },
+    {
+      "date": "2003-09-13",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "By the Way",
+      "id": "by-the-way-red-hot-chili-peppers"
+    },
+    {
+      "title": "The Zephyr Song",
+      "id": "the-zephyr-song-red-hot-chili-peppers"
+    },
+    {
+      "title": "Can’t Stop",
+      "id": "can-t-stop-red-hot-chili-peppers"
+    },
+    {
+      "title": "Universally Speaking",
+      "id": null
+    },
+    {
+      "title": "This Is the Place",
+      "id": null
+    },
+    {
+      "title": "Dosed",
+      "id": null
+    },
+    {
+      "title": "Don’t Forget Me",
+      "id": null
+    },
+    {
+      "title": "I Could Die for You",
+      "id": null
+    },
+    {
+      "title": "Midnight",
+      "id": null
+    },
+    {
+      "title": "Throw Away Your Television",
+      "id": null
+    },
+    {
+      "title": "Cabron",
+      "id": null
+    },
+    {
+      "title": "Tear",
+      "id": null
+    },
+    {
+      "title": "On Mercury",
+      "id": null
+    },
+    {
+      "title": "Minor Thing",
+      "id": null
+    },
+    {
+      "title": "Warm Tape",
+      "id": null
+    },
+    {
+      "title": "Venice Queen",
+      "id": null
+    }
+  ]
+}
