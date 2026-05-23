@@ -1,1 +1,62 @@
-{"id": "case-study-01-daniel-caesar", "title": "CASE STUDY 01", "artist": "Daniel Caesar", "peak": 17, "history": [{"date": "2019-07-13", "rank": 17}, {"date": "2019-07-20", "rank": 78}, {"date": "2019-07-27", "rank": 162}]}
+{
+  "id": "case-study-01-daniel-caesar",
+  "title": "CASE STUDY 01",
+  "artist": "Daniel Caesar",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2019-07-13",
+      "rank": 17
+    },
+    {
+      "date": "2019-07-20",
+      "rank": 78
+    },
+    {
+      "date": "2019-07-27",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Entropy",
+      "id": null
+    },
+    {
+      "title": "Cyanide",
+      "id": null
+    },
+    {
+      "title": "Love Again",
+      "id": null
+    },
+    {
+      "title": "Frontal Lobe Muzik",
+      "id": null
+    },
+    {
+      "title": "Open Up",
+      "id": null
+    },
+    {
+      "title": "Restore the Feeling",
+      "id": null
+    },
+    {
+      "title": "Superposition",
+      "id": null
+    },
+    {
+      "title": "Too Deep to Turn Back",
+      "id": null
+    },
+    {
+      "title": "Complexities",
+      "id": null
+    },
+    {
+      "title": "Are You OK?",
+      "id": null
+    }
+  ]
+}

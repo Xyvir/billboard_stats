@@ -1,1 +1,86 @@
-{"id": "cate-bros-cate-bros", "title": "Cate Bros.", "artist": "Cate Bros.", "peak": 158, "history": [{"date": "1976-02-07", "rank": 186}, {"date": "1976-02-14", "rank": 184}, {"date": "1976-02-21", "rank": 180}, {"date": "1976-02-28", "rank": 180}, {"date": "1976-05-22", "rank": 167}, {"date": "1976-05-29", "rank": 163}, {"date": "1976-06-05", "rank": 160}, {"date": "1976-06-12", "rank": 158}, {"date": "1976-06-19", "rank": 198}]}
+{
+  "id": "cate-bros-cate-bros",
+  "title": "Cate Bros.",
+  "artist": "Cate Bros.",
+  "peak": 158,
+  "history": [
+    {
+      "date": "1976-02-07",
+      "rank": 186
+    },
+    {
+      "date": "1976-02-14",
+      "rank": 184
+    },
+    {
+      "date": "1976-02-21",
+      "rank": 180
+    },
+    {
+      "date": "1976-02-28",
+      "rank": 180
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 167
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 163
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 160
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 158
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Union Man",
+      "id": "union-man-cate-bros"
+    },
+    {
+      "title": "Can’t Change My Heart",
+      "id": "can-t-change-my-heart-cate-bros"
+    },
+    {
+      "title": "Time for Us",
+      "id": null
+    },
+    {
+      "title": "Standin’ on a Mountain Top",
+      "id": null
+    },
+    {
+      "title": "Always Waiting",
+      "id": null
+    },
+    {
+      "title": "When Love Comes",
+      "id": null
+    },
+    {
+      "title": "I Just Wanna Sing",
+      "id": null
+    },
+    {
+      "title": "Easy Way Out",
+      "id": null
+    },
+    {
+      "title": "Lady Luck",
+      "id": null
+    },
+    {
+      "title": "Livin’ on Dreams",
+      "id": null
+    }
+  ]
+}

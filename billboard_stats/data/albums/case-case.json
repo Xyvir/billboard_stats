@@ -1,1 +1,90 @@
-{"id": "case-case", "title": "Case", "artist": "Case", "peak": 42, "history": [{"date": "1996-08-31", "rank": 42}, {"date": "1996-09-07", "rank": 63}, {"date": "1996-09-14", "rank": 93}, {"date": "1996-09-21", "rank": 109}, {"date": "1996-09-28", "rank": 146}, {"date": "1996-10-05", "rank": 186}]}
+{
+  "id": "case-case",
+  "title": "Case",
+  "artist": "Case",
+  "peak": 42,
+  "history": [
+    {
+      "date": "1996-08-31",
+      "rank": 42
+    },
+    {
+      "date": "1996-09-07",
+      "rank": 63
+    },
+    {
+      "date": "1996-09-14",
+      "rank": 93
+    },
+    {
+      "date": "1996-09-21",
+      "rank": 109
+    },
+    {
+      "date": "1996-09-28",
+      "rank": 146
+    },
+    {
+      "date": "1996-10-05",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Tunnel (interlude)",
+      "id": null
+    },
+    {
+      "title": "More to Love",
+      "id": null
+    },
+    {
+      "title": "Don't Be Afraid",
+      "id": null
+    },
+    {
+      "title": "Call a Cab (interlude)",
+      "id": null
+    },
+    {
+      "title": "I Gotcha",
+      "id": null
+    },
+    {
+      "title": "Crazy (interlude)",
+      "id": null
+    },
+    {
+      "title": "Crazy",
+      "id": null
+    },
+    {
+      "title": "What's Wrong?",
+      "id": null
+    },
+    {
+      "title": "Rain (interlude)",
+      "id": null
+    },
+    {
+      "title": "Rain",
+      "id": null
+    },
+    {
+      "title": "Touch Me Tease Me",
+      "id": null
+    },
+    {
+      "title": "The Day That I Die",
+      "id": null
+    },
+    {
+      "title": "Fallin'",
+      "id": null
+    },
+    {
+      "title": "Cryin' Over Time",
+      "id": null
+    }
+  ]
+}
