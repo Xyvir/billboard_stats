@@ -1,1 +1,230 @@
-{"id": "good-times-elvis-presley", "title": "Good Times", "artist": "Elvis Presley", "peak": 90, "history": [{"date": "1974-04-06", "rank": 125}, {"date": "1974-04-13", "rank": 108}, {"date": "1974-04-20", "rank": 104}, {"date": "1974-04-27", "rank": 92}, {"date": "1974-05-04", "rank": 90}, {"date": "1974-05-11", "rank": 113}, {"date": "1974-05-18", "rank": 146}, {"date": "1974-05-25", "rank": 196}]}
+{
+  "id": "good-times-elvis-presley",
+  "title": "Good Times",
+  "artist": "Elvis Presley",
+  "peak": 90,
+  "history": [
+    {
+      "date": "1974-04-06",
+      "rank": 125
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 108
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 104
+    },
+    {
+      "date": "1974-04-27",
+      "rank": 92
+    },
+    {
+      "date": "1974-05-04",
+      "rank": 90
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 113
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 146
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If That Isn’t Love",
+      "id": "it-s-only-love-elvis-presley"
+    },
+    {
+      "title": "I’ve Got a Thing About You Baby",
+      "id": "i-ve-got-a-thing-about-you-baby-take-good-care-of-her-elvis-presley"
+    },
+    {
+      "title": "My Boy",
+      "id": "my-boy-elvis-presley"
+    },
+    {
+      "title": "I’ve Got a Thing About You Baby (take 1)",
+      "id": "i-ve-got-a-thing-about-you-baby-take-good-care-of-her-elvis-presley"
+    },
+    {
+      "title": "My Boy (take 1)",
+      "id": "my-boy-elvis-presley"
+    },
+    {
+      "title": "I’ve Got a Thing About You Baby (take 14)",
+      "id": "i-ve-got-a-thing-about-you-baby-take-good-care-of-her-elvis-presley"
+    },
+    {
+      "title": "I’ve Got a Thing About You Baby (take 15, rough mix of master)",
+      "id": "i-ve-got-a-thing-about-you-baby-take-good-care-of-her-elvis-presley"
+    },
+    {
+      "title": "My Boy (take 2)",
+      "id": "my-boy-elvis-presley"
+    },
+    {
+      "title": "I’ve Got a Thing About You Baby (take 5)",
+      "id": "i-ve-got-a-thing-about-you-baby-take-good-care-of-her-elvis-presley"
+    },
+    {
+      "title": "I’ve Got a Thing About You Baby (takes 6, 8, 10, 11)",
+      "id": "i-ve-got-a-thing-about-you-baby-take-good-care-of-her-elvis-presley"
+    },
+    {
+      "title": "Take Good Care of Her",
+      "id": null
+    },
+    {
+      "title": "Loving Arms",
+      "id": null
+    },
+    {
+      "title": "I Got a Feelin’ in My Body",
+      "id": null
+    },
+    {
+      "title": "She Wears My Ring",
+      "id": null
+    },
+    {
+      "title": "Spanish Eyes",
+      "id": null
+    },
+    {
+      "title": "Talk About the Good Times",
+      "id": null
+    },
+    {
+      "title": "Good Time Charlie’s Got the Blues",
+      "id": null
+    },
+    {
+      "title": "Take Good Care of Here (rehearsal, take 1)",
+      "id": null
+    },
+    {
+      "title": "Loving Arms (take 1, rehearsal)",
+      "id": null
+    },
+    {
+      "title": "I Got a Feelin’ in My Body (take 1)",
+      "id": null
+    },
+    {
+      "title": "If That Isn’t Love (take 1)",
+      "id": null
+    },
+    {
+      "title": "She Wears My Ring (take 8)",
+      "id": null
+    },
+    {
+      "title": "Spanish Eyes (takes 1, 2)",
+      "id": null
+    },
+    {
+      "title": "Talk About the Good Times (take 3)",
+      "id": null
+    },
+    {
+      "title": "Good Times Charlie’s Got the Blues (takes 7, 8)",
+      "id": null
+    },
+    {
+      "title": "I Got a Feelin’ in My Body (take 4)",
+      "id": null
+    },
+    {
+      "title": "Take Good Care of Her (take 4)",
+      "id": null
+    },
+    {
+      "title": "If That Isn’t Love (splice of takes 5 Lfs, 7)",
+      "id": null
+    },
+    {
+      "title": "Loving Arms (take 2)",
+      "id": null
+    },
+    {
+      "title": "I Got a Feelin’ in My Body (take 2)",
+      "id": null
+    },
+    {
+      "title": "Good Times Charlie’s Got the Blues (takes 1, 4, 6)",
+      "id": null
+    },
+    {
+      "title": "Take Good Care of Her (takes 2, 3)",
+      "id": null
+    },
+    {
+      "title": "If That Isn’t Love (take 4, undubbed master)",
+      "id": null
+    },
+    {
+      "title": "She Wears My Ring (takes 1, 7)",
+      "id": null
+    },
+    {
+      "title": "Talk About the Good Times (takes 1, 2)",
+      "id": null
+    },
+    {
+      "title": "Talk About the Good Times (take 4, unedited undubbed master)",
+      "id": null
+    },
+    {
+      "title": "Loving Arms (take 3, undubbed master)",
+      "id": null
+    },
+    {
+      "title": "I Got a Feelin’ in My Body (take 3, undubbed master)",
+      "id": null
+    },
+    {
+      "title": "If That Isn’t Love (takes 6, 7)",
+      "id": null
+    },
+    {
+      "title": "She Wears My Ring (take 10, undubbed master)",
+      "id": null
+    },
+    {
+      "title": "Take Good Care of Her (take 5)",
+      "id": null
+    },
+    {
+      "title": "Take Good Care of Her (take 6, undubbed master)",
+      "id": null
+    },
+    {
+      "title": "I Got a Feelin’ in My Body (take 7)",
+      "id": null
+    },
+    {
+      "title": "My Boy (take 3, undubbed master)",
+      "id": null
+    },
+    {
+      "title": "Spanish Eyes (take 3)",
+      "id": null
+    },
+    {
+      "title": "Spanish Eyes (take 4, undubbed master)",
+      "id": null
+    },
+    {
+      "title": "Good Times Charlie’s Got the Blues (take 9, unedited undubbed master)",
+      "id": null
+    }
+  ]
+}

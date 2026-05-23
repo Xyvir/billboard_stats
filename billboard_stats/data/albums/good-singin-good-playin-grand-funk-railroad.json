@@ -1,1 +1,90 @@
-{"id": "good-singin-good-playin-grand-funk-railroad", "title": "Good Singin' Good Playin'", "artist": "Grand Funk Railroad", "peak": 52, "history": [{"date": "1976-08-28", "rank": 76}, {"date": "1976-09-04", "rank": 65}, {"date": "1976-09-11", "rank": 54}, {"date": "1976-09-18", "rank": 52}, {"date": "1976-09-25", "rank": 66}, {"date": "1976-10-02", "rank": 84}, {"date": "1976-10-09", "rank": 107}, {"date": "1976-10-16", "rank": 147}, {"date": "1976-10-23", "rank": 167}]}
+{
+  "id": "good-singin-good-playin-grand-funk-railroad",
+  "title": "Good Singin' Good Playin'",
+  "artist": "Grand Funk Railroad",
+  "peak": 52,
+  "history": [
+    {
+      "date": "1976-08-28",
+      "rank": 76
+    },
+    {
+      "date": "1976-09-04",
+      "rank": 65
+    },
+    {
+      "date": "1976-09-11",
+      "rank": 54
+    },
+    {
+      "date": "1976-09-18",
+      "rank": 52
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 66
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 84
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 107
+    },
+    {
+      "date": "1976-10-16",
+      "rank": 147
+    },
+    {
+      "date": "1976-10-23",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Can You Do It",
+      "id": "can-you-do-it-grand-funk-railroad"
+    },
+    {
+      "title": "Just Couldn’t Wait",
+      "id": null
+    },
+    {
+      "title": "Pass It Around",
+      "id": null
+    },
+    {
+      "title": "Don’t Let ’em Take Your Gun",
+      "id": null
+    },
+    {
+      "title": "Miss My Baby",
+      "id": null
+    },
+    {
+      "title": "Big Buns",
+      "id": null
+    },
+    {
+      "title": "Out to Get You",
+      "id": null
+    },
+    {
+      "title": "Crossfire",
+      "id": null
+    },
+    {
+      "title": "1976",
+      "id": null
+    },
+    {
+      "title": "Release Your Love",
+      "id": null
+    },
+    {
+      "title": "Goin’ for the Pastor",
+      "id": null
+    }
+  ]
+}

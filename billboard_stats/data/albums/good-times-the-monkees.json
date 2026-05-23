@@ -1,1 +1,86 @@
-{"id": "good-times-the-monkees", "title": "Good Times!", "artist": "The Monkees", "peak": 14, "history": [{"date": "2016-06-18", "rank": 14}, {"date": "2016-06-25", "rank": 77}, {"date": "2016-07-02", "rank": 142}, {"date": "2016-09-03", "rank": 164}]}
+{
+  "id": "good-times-the-monkees",
+  "title": "Good Times!",
+  "artist": "The Monkees",
+  "peak": 14,
+  "history": [
+    {
+      "date": "2016-06-18",
+      "rank": 14
+    },
+    {
+      "date": "2016-06-25",
+      "rank": 77
+    },
+    {
+      "date": "2016-07-02",
+      "rank": 142
+    },
+    {
+      "date": "2016-09-03",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Good Times",
+      "id": null
+    },
+    {
+      "title": "You Bring the Summer",
+      "id": null
+    },
+    {
+      "title": "She Makes Me Laugh",
+      "id": null
+    },
+    {
+      "title": "Our Own World",
+      "id": null
+    },
+    {
+      "title": "Gotta Give It Time",
+      "id": null
+    },
+    {
+      "title": "Me & Magdalena",
+      "id": null
+    },
+    {
+      "title": "Whatever’s Right",
+      "id": null
+    },
+    {
+      "title": "Love to Love",
+      "id": null
+    },
+    {
+      "title": "Little Girl",
+      "id": null
+    },
+    {
+      "title": "Birth of an Accidental Hipster",
+      "id": null
+    },
+    {
+      "title": "Wasn’t Born to Follow",
+      "id": null
+    },
+    {
+      "title": "I Know What I Know",
+      "id": null
+    },
+    {
+      "title": "I Was There (And I’m Told I Had a Good Time)",
+      "id": null
+    },
+    {
+      "title": "Terrifying",
+      "id": null
+    },
+    {
+      "title": "Me & Magdalena (version 2)",
+      "id": null
+    }
+  ]
+}

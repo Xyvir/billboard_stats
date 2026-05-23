@@ -1,1 +1,78 @@
-{"id": "good-time-charlie-charlie-mccoy", "title": "Good Time Charlie", "artist": "Charlie McCoy", "peak": 155, "history": [{"date": "1973-07-21", "rank": 195}, {"date": "1973-07-28", "rank": 180}, {"date": "1973-08-04", "rank": 165}, {"date": "1973-08-11", "rank": 155}, {"date": "1973-08-18", "rank": 165}, {"date": "1973-08-25", "rank": 190}]}
+{
+  "id": "good-time-charlie-charlie-mccoy",
+  "title": "Good Time Charlie",
+  "artist": "Charlie McCoy",
+  "peak": 155,
+  "history": [
+    {
+      "date": "1973-07-21",
+      "rank": 195
+    },
+    {
+      "date": "1973-07-28",
+      "rank": 180
+    },
+    {
+      "date": "1973-08-04",
+      "rank": 165
+    },
+    {
+      "date": "1973-08-11",
+      "rank": 155
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 165
+    },
+    {
+      "date": "1973-08-25",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Good Time Charlie's Got The Blues",
+      "id": null
+    },
+    {
+      "title": "Is Anybody Goin' To San Antone",
+      "id": null
+    },
+    {
+      "title": "Soul Song",
+      "id": null
+    },
+    {
+      "title": "Something",
+      "id": null
+    },
+    {
+      "title": "Minor Miner",
+      "id": null
+    },
+    {
+      "title": "Don't Touch Me",
+      "id": null
+    },
+    {
+      "title": "John Henry",
+      "id": null
+    },
+    {
+      "title": "Till I Get It Right",
+      "id": null
+    },
+    {
+      "title": "Louisiana Man",
+      "id": null
+    },
+    {
+      "title": "Shenandoah",
+      "id": null
+    },
+    {
+      "title": "Orange Blossom Special",
+      "id": null
+    }
+  ]
+}

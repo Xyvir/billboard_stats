@@ -1,1 +1,130 @@
-{"id": "good-times-subway", "title": "Good Times", "artist": "Subway", "peak": 101, "history": [{"date": "1995-02-11", "rank": 177}, {"date": "1995-02-18", "rank": 135}, {"date": "1995-02-25", "rank": 139}, {"date": "1995-03-04", "rank": 140}, {"date": "1995-03-11", "rank": 120}, {"date": "1995-03-18", "rank": 103}, {"date": "1995-03-25", "rank": 101}, {"date": "1995-04-01", "rank": 109}, {"date": "1995-04-08", "rank": 116}, {"date": "1995-04-15", "rank": 102}, {"date": "1995-04-22", "rank": 107}, {"date": "1995-04-29", "rank": 113}, {"date": "1995-05-06", "rank": 105}, {"date": "1995-05-13", "rank": 108}, {"date": "1995-05-20", "rank": 111}, {"date": "1995-05-27", "rank": 146}, {"date": "1995-06-03", "rank": 138}, {"date": "1995-06-10", "rank": 142}, {"date": "1995-06-17", "rank": 144}, {"date": "1995-06-24", "rank": 155}, {"date": "1995-07-01", "rank": 174}]}
+{
+  "id": "good-times-subway",
+  "title": "Good Times",
+  "artist": "Subway",
+  "peak": 101,
+  "history": [
+    {
+      "date": "1995-02-11",
+      "rank": 177
+    },
+    {
+      "date": "1995-02-18",
+      "rank": 135
+    },
+    {
+      "date": "1995-02-25",
+      "rank": 139
+    },
+    {
+      "date": "1995-03-04",
+      "rank": 140
+    },
+    {
+      "date": "1995-03-11",
+      "rank": 120
+    },
+    {
+      "date": "1995-03-18",
+      "rank": 103
+    },
+    {
+      "date": "1995-03-25",
+      "rank": 101
+    },
+    {
+      "date": "1995-04-01",
+      "rank": 109
+    },
+    {
+      "date": "1995-04-08",
+      "rank": 116
+    },
+    {
+      "date": "1995-04-15",
+      "rank": 102
+    },
+    {
+      "date": "1995-04-22",
+      "rank": 107
+    },
+    {
+      "date": "1995-04-29",
+      "rank": 113
+    },
+    {
+      "date": "1995-05-06",
+      "rank": 105
+    },
+    {
+      "date": "1995-05-13",
+      "rank": 108
+    },
+    {
+      "date": "1995-05-20",
+      "rank": 111
+    },
+    {
+      "date": "1995-05-27",
+      "rank": 146
+    },
+    {
+      "date": "1995-06-03",
+      "rank": 138
+    },
+    {
+      "date": "1995-06-10",
+      "rank": 142
+    },
+    {
+      "date": "1995-06-17",
+      "rank": 144
+    },
+    {
+      "date": "1995-06-24",
+      "rank": 155
+    },
+    {
+      "date": "1995-07-01",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fire",
+      "id": "fire-subway"
+    },
+    {
+      "title": "Chi-Town Ride",
+      "id": null
+    },
+    {
+      "title": "The Better the Love",
+      "id": null
+    },
+    {
+      "title": "This Lil’ Game We Play",
+      "id": null
+    },
+    {
+      "title": "Get da Money",
+      "id": null
+    },
+    {
+      "title": "This Is Not a Goodbye",
+      "id": null
+    },
+    {
+      "title": "Sticky Situation",
+      "id": null
+    },
+    {
+      "title": "Get da Money (Phat Pocket’s remix)",
+      "id": null
+    },
+    {
+      "title": "Good Times",
+      "id": null
+    }
+  ]
+}
