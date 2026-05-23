@@ -1,1 +1,110 @@
-{"id": "live-licks-the-rolling-stones", "title": "Live Licks", "artist": "The Rolling Stones", "peak": 50, "history": [{"date": "2004-11-20", "rank": 50}, {"date": "2004-11-27", "rank": 144}]}
+{
+  "id": "live-licks-the-rolling-stones",
+  "title": "Live Licks",
+  "artist": "The Rolling Stones",
+  "peak": 50,
+  "history": [
+    {
+      "date": "2004-11-20",
+      "rank": 50
+    },
+    {
+      "date": "2004-11-27",
+      "rank": 144
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Brown Sugar",
+      "id": "brown-sugar-the-rolling-stones"
+    },
+    {
+      "title": "Street Fighting Man",
+      "id": "street-fighting-man-the-rolling-stones"
+    },
+    {
+      "title": "Paint It, Black",
+      "id": "paint-it-black-the-rolling-stones"
+    },
+    {
+      "title": "You Can’t Always Get What You Want",
+      "id": "you-can-t-always-get-what-you-want-the-rolling-stones"
+    },
+    {
+      "title": "Start Me Up",
+      "id": "start-me-up-the-rolling-stones"
+    },
+    {
+      "title": "It’s Only Rock ’n’ Roll (but I Like It)",
+      "id": "it-s-only-rock-n-roll-but-i-like-it-the-rolling-stones"
+    },
+    {
+      "title": "Angie",
+      "id": "angie-the-rolling-stones"
+    },
+    {
+      "title": "Honky Tonk Women",
+      "id": "honky-tonk-women-the-rolling-stones"
+    },
+    {
+      "title": "Happy",
+      "id": "happy-the-rolling-stones"
+    },
+    {
+      "title": "(I Can’t Get No) Satisfaction",
+      "id": "i-can-t-get-no-satisfaction-the-rolling-stones"
+    },
+    {
+      "title": "Beast of Burden",
+      "id": "beast-of-burden-the-rolling-stones"
+    },
+    {
+      "title": "Gimme Shelter",
+      "id": null
+    },
+    {
+      "title": "Neighbours",
+      "id": null
+    },
+    {
+      "title": "Monkey Man",
+      "id": null
+    },
+    {
+      "title": "Rocks Off",
+      "id": null
+    },
+    {
+      "title": "Can’t You Hear Me Knocking",
+      "id": null
+    },
+    {
+      "title": "That’s How Strong My Love Is",
+      "id": null
+    },
+    {
+      "title": "The Nearness of You",
+      "id": null
+    },
+    {
+      "title": "When the Whip Comes Down",
+      "id": null
+    },
+    {
+      "title": "Rock Me, Baby",
+      "id": null
+    },
+    {
+      "title": "You Don’t Have to Mean It",
+      "id": null
+    },
+    {
+      "title": "Worried About You",
+      "id": null
+    },
+    {
+      "title": "Everybody Needs Somebody to Love",
+      "id": null
+    }
+  ]
+}

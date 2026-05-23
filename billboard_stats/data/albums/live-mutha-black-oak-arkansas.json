@@ -1,1 +1,54 @@
-{"id": "live-mutha-black-oak-arkansas", "title": "Live! Mutha", "artist": "Black Oak Arkansas", "peak": 194, "history": [{"date": "1976-02-28", "rank": 195}, {"date": "1976-03-06", "rank": 194}]}
+{
+  "id": "live-mutha-black-oak-arkansas",
+  "title": "Live! Mutha",
+  "artist": "Black Oak Arkansas",
+  "peak": 194,
+  "history": [
+    {
+      "date": "1976-02-28",
+      "rank": 195
+    },
+    {
+      "date": "1976-03-06",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Jim Dandy",
+      "id": "jim-dandy-black-oak-arkansas"
+    },
+    {
+      "title": "Fancy Nancy",
+      "id": null
+    },
+    {
+      "title": "Lord Have Mercy on My Soul",
+      "id": null
+    },
+    {
+      "title": "Cryin' Shame",
+      "id": null
+    },
+    {
+      "title": "Fever in My Mind",
+      "id": null
+    },
+    {
+      "title": "Hey Ya'll",
+      "id": null
+    },
+    {
+      "title": "Rebel",
+      "id": null
+    },
+    {
+      "title": "Taxman",
+      "id": null
+    },
+    {
+      "title": "Hot and Nasty",
+      "id": null
+    }
+  ]
+}

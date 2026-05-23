@@ -1,1 +1,90 @@
-{"id": "live-on-ten-legs-pearl-jam", "title": "Live On Ten Legs", "artist": "Pearl Jam", "peak": 21, "history": [{"date": "2011-02-05", "rank": 21}, {"date": "2011-02-12", "rank": 130}]}
+{
+  "id": "live-on-ten-legs-pearl-jam",
+  "title": "Live On Ten Legs",
+  "artist": "Pearl Jam",
+  "peak": 21,
+  "history": [
+    {
+      "date": "2011-02-05",
+      "rank": 21
+    },
+    {
+      "date": "2011-02-12",
+      "rank": 130
+    }
+  ],
+  "tracks": [
+    {
+      "title": "World Wide Suicide",
+      "id": "world-wide-suicide-pearl-jam"
+    },
+    {
+      "title": "I Am Mine",
+      "id": "i-am-mine-pearl-jam"
+    },
+    {
+      "title": "The Fixer",
+      "id": "the-fixer-pearl-jam"
+    },
+    {
+      "title": "Nothing as It Seems",
+      "id": "nothing-as-it-seems-pearl-jam"
+    },
+    {
+      "title": "Just Breathe",
+      "id": "just-breathe-pearl-jam"
+    },
+    {
+      "title": "Spin the Black Circle",
+      "id": "tremor-christ-spin-the-black-circle-pearl-jam"
+    },
+    {
+      "title": "Yellow Ledbetter",
+      "id": "jeremy-yellow-ledbetter-pearl-jam"
+    },
+    {
+      "title": "Arms Aloft",
+      "id": null
+    },
+    {
+      "title": "Animal",
+      "id": null
+    },
+    {
+      "title": "Got Some",
+      "id": null
+    },
+    {
+      "title": "State of Love and Trust",
+      "id": null
+    },
+    {
+      "title": "Unthought Known",
+      "id": null
+    },
+    {
+      "title": "Rearviewmirror",
+      "id": null
+    },
+    {
+      "title": "In Hiding",
+      "id": null
+    },
+    {
+      "title": "Jeremy",
+      "id": null
+    },
+    {
+      "title": "Public Image",
+      "id": null
+    },
+    {
+      "title": "Porch",
+      "id": null
+    },
+    {
+      "title": "Alive",
+      "id": null
+    }
+  ]
+}
