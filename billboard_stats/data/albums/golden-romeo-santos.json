@@ -1,1 +1,110 @@
-{"id": "golden-romeo-santos", "title": "Golden", "artist": "Romeo Santos", "peak": 10, "history": [{"date": "2017-08-12", "rank": 10}, {"date": "2017-08-19", "rank": 55}, {"date": "2017-08-26", "rank": 80}, {"date": "2017-09-02", "rank": 111}, {"date": "2017-09-09", "rank": 132}, {"date": "2017-09-16", "rank": 167}, {"date": "2017-09-23", "rank": 196}]}
+{
+  "id": "golden-romeo-santos",
+  "title": "Golden",
+  "artist": "Romeo Santos",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2017-08-12",
+      "rank": 10
+    },
+    {
+      "date": "2017-08-19",
+      "rank": 55
+    },
+    {
+      "date": "2017-08-26",
+      "rank": 80
+    },
+    {
+      "date": "2017-09-02",
+      "rank": 111
+    },
+    {
+      "date": "2017-09-09",
+      "rank": 132
+    },
+    {
+      "date": "2017-09-16",
+      "rank": 167
+    },
+    {
+      "date": "2017-09-23",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Héroe favorito",
+      "id": "heroe-favorito-romeo-santos"
+    },
+    {
+      "title": "Imitadora",
+      "id": "imitadora-romeo-santos"
+    },
+    {
+      "title": "Golden Intro",
+      "id": null
+    },
+    {
+      "title": "Tuyo",
+      "id": null
+    },
+    {
+      "title": "Perjurio",
+      "id": null
+    },
+    {
+      "title": "Premio",
+      "id": null
+    },
+    {
+      "title": "Carmín",
+      "id": null
+    },
+    {
+      "title": "Centavito",
+      "id": null
+    },
+    {
+      "title": "Sobredosis",
+      "id": null
+    },
+    {
+      "title": "El papel, pt. 1 (versión amante)",
+      "id": null
+    },
+    {
+      "title": "El papel, pt. 2 (versión marido)",
+      "id": null
+    },
+    {
+      "title": "Bella y sensual",
+      "id": null
+    },
+    {
+      "title": "Doble filo",
+      "id": null
+    },
+    {
+      "title": "Ay bendito",
+      "id": null
+    },
+    {
+      "title": "El amigo",
+      "id": null
+    },
+    {
+      "title": "Reina de papi",
+      "id": null
+    },
+    {
+      "title": "Un vuelo a LA",
+      "id": null
+    },
+    {
+      "title": "Sin filtro",
+      "id": null
+    }
+  ]
+}

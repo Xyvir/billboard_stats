@@ -1,1 +1,70 @@
-{"id": "golden-touch-rose-royce", "title": "Golden Touch", "artist": "Rose Royce", "peak": 160, "history": [{"date": "1981-01-24", "rank": 190}, {"date": "1981-01-31", "rank": 180}, {"date": "1981-02-07", "rank": 170}, {"date": "1981-02-14", "rank": 160}, {"date": "1981-02-21", "rank": 160}, {"date": "1981-02-28", "rank": 189}, {"date": "1981-03-07", "rank": 196}]}
+{
+  "id": "golden-touch-rose-royce",
+  "title": "Golden Touch",
+  "artist": "Rose Royce",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1981-01-24",
+      "rank": 190
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 180
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 170
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 160
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 160
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 189
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Wanna Make It With You",
+      "id": "i-wanna-get-next-to-you-rose-royce"
+    },
+    {
+      "title": "And You Wish for Yesterday",
+      "id": null
+    },
+    {
+      "title": "Funkin’ Around",
+      "id": null
+    },
+    {
+      "title": "Golden Touch",
+      "id": null
+    },
+    {
+      "title": "Love Is in the Air",
+      "id": null
+    },
+    {
+      "title": "You’re a Winner",
+      "id": null
+    },
+    {
+      "title": "Would You Please Be Mine",
+      "id": null
+    },
+    {
+      "title": "Help Yourself",
+      "id": null
+    }
+  ]
+}

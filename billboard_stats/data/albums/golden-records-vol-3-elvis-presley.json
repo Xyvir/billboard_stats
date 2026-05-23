@@ -1,1 +1,150 @@
-{"id": "golden-records-vol-3-elvis-presley", "title": "Golden Records Vol. 3", "artist": "Elvis Presley", "peak": 64, "history": [{"date": "1977-09-10", "rank": 130}, {"date": "1977-09-17", "rank": 99}, {"date": "1977-09-24", "rank": 78}, {"date": "1977-10-01", "rank": 72}, {"date": "1977-10-08", "rank": 68}, {"date": "1977-10-15", "rank": 68}, {"date": "1977-10-22", "rank": 64}, {"date": "1977-10-29", "rank": 68}, {"date": "1977-11-05", "rank": 71}, {"date": "1977-11-12", "rank": 95}, {"date": "1977-11-19", "rank": 95}, {"date": "1977-11-26", "rank": 112}, {"date": "1977-12-03", "rank": 169}, {"date": "1977-12-10", "rank": 169}, {"date": "1977-12-17", "rank": 178}, {"date": "1977-12-24", "rank": 178}, {"date": "1977-12-31", "rank": 178}, {"date": "1978-01-07", "rank": 177}, {"date": "1978-01-14", "rank": 169}, {"date": "1978-01-21", "rank": 159}, {"date": "1978-01-28", "rank": 149}, {"date": "1978-02-04", "rank": 149}, {"date": "1978-02-11", "rank": 196}]}
+{
+  "id": "golden-records-vol-3-elvis-presley",
+  "title": "Golden Records Vol. 3",
+  "artist": "Elvis Presley",
+  "peak": 64,
+  "history": [
+    {
+      "date": "1977-09-10",
+      "rank": 130
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 99
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 78
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 72
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 68
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 68
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 64
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 68
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 71
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 95
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 95
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 112
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 169
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 169
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 178
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 178
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 178
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 177
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 169
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 159
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 149
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 149
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Gotta Know",
+      "id": "i-got-stung-elvis-presley"
+    },
+    {
+      "title": "I Feel So Bad",
+      "id": "i-feel-so-bad-elvis-presley"
+    },
+    {
+      "title": "(Marie’s the Name) His Latest Flame",
+      "id": "marie-s-the-name-his-latest-flame-elvis-presley"
+    },
+    {
+      "title": "Little Sister",
+      "id": "little-sister-elvis-presley"
+    },
+    {
+      "title": "It’s Now or Never",
+      "id": null
+    },
+    {
+      "title": "Stuck on You",
+      "id": null
+    },
+    {
+      "title": "Fame and Fortune",
+      "id": null
+    },
+    {
+      "title": "Surrender",
+      "id": null
+    },
+    {
+      "title": "Are You Lonesome Tonight?",
+      "id": null
+    },
+    {
+      "title": "Good Luck Charm",
+      "id": null
+    },
+    {
+      "title": "Anything That’s Part of You",
+      "id": null
+    },
+    {
+      "title": "She’s Not You",
+      "id": null
+    }
+  ]
+}

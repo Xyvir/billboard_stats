@@ -1,1 +1,106 @@
-{"id": "gold-jefferson-starship", "title": "Gold", "artist": "Jefferson Starship", "peak": 20, "history": [{"date": "1979-02-17", "rank": 48}, {"date": "1979-02-24", "rank": 35}, {"date": "1979-03-03", "rank": 24}, {"date": "1979-03-10", "rank": 20}, {"date": "1979-03-17", "rank": 20}, {"date": "1979-03-24", "rank": 32}, {"date": "1979-03-31", "rank": 51}, {"date": "1979-04-07", "rank": 55}, {"date": "1979-04-14", "rank": 93}, {"date": "1979-04-21", "rank": 93}, {"date": "1979-04-28", "rank": 94}, {"date": "1979-05-05", "rank": 93}, {"date": "1979-05-12", "rank": 139}, {"date": "1979-05-19", "rank": 179}]}
+{
+  "id": "gold-jefferson-starship",
+  "title": "Gold",
+  "artist": "Jefferson Starship",
+  "peak": 20,
+  "history": [
+    {
+      "date": "1979-02-17",
+      "rank": 48
+    },
+    {
+      "date": "1979-02-24",
+      "rank": 35
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 24
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 20
+    },
+    {
+      "date": "1979-03-17",
+      "rank": 20
+    },
+    {
+      "date": "1979-03-24",
+      "rank": 32
+    },
+    {
+      "date": "1979-03-31",
+      "rank": 51
+    },
+    {
+      "date": "1979-04-07",
+      "rank": 55
+    },
+    {
+      "date": "1979-04-14",
+      "rank": 93
+    },
+    {
+      "date": "1979-04-21",
+      "rank": 93
+    },
+    {
+      "date": "1979-04-28",
+      "rank": 94
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 93
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 139
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ride the Tiger",
+      "id": "ride-the-tiger-jefferson-starship"
+    },
+    {
+      "title": "Play on Love",
+      "id": "play-on-love-jefferson-starship"
+    },
+    {
+      "title": "Miracles",
+      "id": "miracles-jefferson-starship"
+    },
+    {
+      "title": "With Your Love",
+      "id": "with-your-love-jefferson-starship"
+    },
+    {
+      "title": "St. Charles",
+      "id": "st-charles-jefferson-starship"
+    },
+    {
+      "title": "Count on Me",
+      "id": "count-on-me-jefferson-starship"
+    },
+    {
+      "title": "Runaway",
+      "id": "runaway-jefferson-starship"
+    },
+    {
+      "title": "Caroline",
+      "id": null
+    },
+    {
+      "title": "Fast Buck Freddie",
+      "id": null
+    },
+    {
+      "title": "Love Too Good",
+      "id": null
+    }
+  ]
+}
