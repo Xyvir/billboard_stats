@@ -1,1 +1,58 @@
-{"id": "it-s-a-beautiful-thing-maxine-nightingale", "title": "It's A Beautiful Thing", "artist": "Maxine Nightingale", "peak": 176, "history": [{"date": "1983-01-08", "rank": 190}, {"date": "1983-01-15", "rank": 179}, {"date": "1983-01-22", "rank": 176}, {"date": "1983-01-29", "rank": 176}]}
+{
+  "id": "it-s-a-beautiful-thing-maxine-nightingale",
+  "title": "It's A Beautiful Thing",
+  "artist": "Maxine Nightingale",
+  "peak": 176,
+  "history": [
+    {
+      "date": "1983-01-08",
+      "rank": 190
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 179
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 176
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Never Gonna Be Another One",
+      "id": "gotta-be-the-one-maxine-nightingale"
+    },
+    {
+      "title": "So Right",
+      "id": null
+    },
+    {
+      "title": "Shakin' Me Up",
+      "id": null
+    },
+    {
+      "title": "Turn to Me",
+      "id": null
+    },
+    {
+      "title": "Stand Up for Your Heart",
+      "id": null
+    },
+    {
+      "title": "Anyone Who Had a Heart",
+      "id": null
+    },
+    {
+      "title": "Give a Little Love (To Me)",
+      "id": null
+    },
+    {
+      "title": "I Don't Miss You at All",
+      "id": null
+    }
+  ]
+}

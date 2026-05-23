@@ -1,1 +1,254 @@
-{"id": "i-thought-it-was-you-doug-stone", "title": "I Thought It Was You", "artist": "Doug Stone", "peak": 74, "history": [{"date": "1991-08-31", "rank": 149}, {"date": "1991-09-07", "rank": 104}, {"date": "1991-09-14", "rank": 92}, {"date": "1991-09-21", "rank": 82}, {"date": "1991-09-28", "rank": 85}, {"date": "1991-10-05", "rank": 97}, {"date": "1991-10-12", "rank": 93}, {"date": "1991-10-19", "rank": 100}, {"date": "1991-10-26", "rank": 119}, {"date": "1991-11-02", "rank": 144}, {"date": "1991-11-09", "rank": 155}, {"date": "1991-11-23", "rank": 199}, {"date": "1991-11-30", "rank": 177}, {"date": "1991-12-07", "rank": 171}, {"date": "1991-12-14", "rank": 166}, {"date": "1991-12-21", "rank": 136}, {"date": "1991-12-28", "rank": 136}, {"date": "1992-01-04", "rank": 142}, {"date": "1992-01-11", "rank": 162}, {"date": "1992-01-18", "rank": 96}, {"date": "1992-01-25", "rank": 97}, {"date": "1992-02-01", "rank": 117}, {"date": "1992-02-08", "rank": 102}, {"date": "1992-02-15", "rank": 109}, {"date": "1992-02-22", "rank": 132}, {"date": "1992-02-29", "rank": 161}, {"date": "1992-03-07", "rank": 158}, {"date": "1992-03-14", "rank": 188}, {"date": "1992-03-21", "rank": 190}, {"date": "1992-03-28", "rank": 188}, {"date": "1992-04-04", "rank": 199}, {"date": "1992-04-11", "rank": 182}, {"date": "1992-04-18", "rank": 167}, {"date": "1992-04-25", "rank": 147}, {"date": "1992-05-02", "rank": 124}, {"date": "1992-05-09", "rank": 106}, {"date": "1992-05-16", "rank": 80}, {"date": "1992-05-23", "rank": 74}, {"date": "1992-05-30", "rank": 80}, {"date": "1992-06-06", "rank": 84}, {"date": "1992-06-13", "rank": 87}, {"date": "1992-06-20", "rank": 81}, {"date": "1992-06-27", "rank": 105}, {"date": "1992-07-04", "rank": 115}, {"date": "1992-07-11", "rank": 123}, {"date": "1992-07-18", "rank": 135}, {"date": "1992-07-25", "rank": 139}, {"date": "1992-08-01", "rank": 150}, {"date": "1992-08-08", "rank": 167}, {"date": "1992-08-15", "rank": 179}, {"date": "1992-08-22", "rank": 193}]}
+{
+  "id": "i-thought-it-was-you-doug-stone",
+  "title": "I Thought It Was You",
+  "artist": "Doug Stone",
+  "peak": 74,
+  "history": [
+    {
+      "date": "1991-08-31",
+      "rank": 149
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 104
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 92
+    },
+    {
+      "date": "1991-09-21",
+      "rank": 82
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 85
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 97
+    },
+    {
+      "date": "1991-10-12",
+      "rank": 93
+    },
+    {
+      "date": "1991-10-19",
+      "rank": 100
+    },
+    {
+      "date": "1991-10-26",
+      "rank": 119
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 144
+    },
+    {
+      "date": "1991-11-09",
+      "rank": 155
+    },
+    {
+      "date": "1991-11-23",
+      "rank": 199
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 177
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 171
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 166
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 136
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 136
+    },
+    {
+      "date": "1992-01-04",
+      "rank": 142
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 162
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 96
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 97
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 117
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 102
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 109
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 132
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 161
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 158
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 188
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 190
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 188
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 199
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 182
+    },
+    {
+      "date": "1992-04-18",
+      "rank": 167
+    },
+    {
+      "date": "1992-04-25",
+      "rank": 147
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 124
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 106
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 80
+    },
+    {
+      "date": "1992-05-23",
+      "rank": 74
+    },
+    {
+      "date": "1992-05-30",
+      "rank": 80
+    },
+    {
+      "date": "1992-06-06",
+      "rank": 84
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 87
+    },
+    {
+      "date": "1992-06-20",
+      "rank": 81
+    },
+    {
+      "date": "1992-06-27",
+      "rank": 105
+    },
+    {
+      "date": "1992-07-04",
+      "rank": 115
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 123
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 135
+    },
+    {
+      "date": "1992-07-25",
+      "rank": 139
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 150
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 167
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 179
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Thought It Was You",
+      "id": null
+    },
+    {
+      "title": "A Jukebox With a Country Song",
+      "id": null
+    },
+    {
+      "title": "The Feeling Never Goes Away",
+      "id": null
+    },
+    {
+      "title": "(For Every Inch I’ve Laughed) I’ve Cried a Mile",
+      "id": null
+    },
+    {
+      "title": "Remember the Ride",
+      "id": null
+    },
+    {
+      "title": "Come in Out of the Pain",
+      "id": null
+    },
+    {
+      "title": "Burning Down the Town",
+      "id": null
+    },
+    {
+      "title": "If It Was Up to Me",
+      "id": null
+    },
+    {
+      "title": "The Right to Remain Silent",
+      "id": null
+    },
+    {
+      "title": "They Don’t Make Years Like They Used To",
+      "id": null
+    }
+  ]
+}
