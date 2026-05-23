@@ -1,1 +1,86 @@
-{"id": "i-love-my-music-wild-cherry", "title": "I Love My Music", "artist": "Wild Cherry", "peak": 84, "history": [{"date": "1978-02-18", "rank": 188}, {"date": "1978-02-25", "rank": 158}, {"date": "1978-03-04", "rank": 131}, {"date": "1978-03-11", "rank": 121}, {"date": "1978-03-18", "rank": 111}, {"date": "1978-03-25", "rank": 101}, {"date": "1978-04-01", "rank": 91}, {"date": "1978-04-08", "rank": 84}, {"date": "1978-04-15", "rank": 164}]}
+{
+  "id": "i-love-my-music-wild-cherry",
+  "title": "I Love My Music",
+  "artist": "Wild Cherry",
+  "peak": 84,
+  "history": [
+    {
+      "date": "1978-02-18",
+      "rank": 188
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 158
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 131
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 121
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 111
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 101
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 91
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 84
+    },
+    {
+      "date": "1978-04-15",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Love My Music",
+      "id": "i-love-my-music-wild-cherry"
+    },
+    {
+      "title": "Lana",
+      "id": null
+    },
+    {
+      "title": "It’s the Same Old Song",
+      "id": null
+    },
+    {
+      "title": "Try One More Time",
+      "id": null
+    },
+    {
+      "title": "Don’t Stop, Get Off",
+      "id": null
+    },
+    {
+      "title": "1 2 3 Kind of Love",
+      "id": null
+    },
+    {
+      "title": "No Way Out Love Affair",
+      "id": null
+    },
+    {
+      "title": "If You Want My Love",
+      "id": null
+    },
+    {
+      "title": "Fools Fall in Love",
+      "id": null
+    },
+    {
+      "title": "This Old Heart of Mine (Is Weak for You)",
+      "id": null
+    }
+  ]
+}
