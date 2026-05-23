@@ -1,1 +1,106 @@
-{"id": "finale-loggins-messina", "title": "Finale", "artist": "Loggins & Messina", "peak": 83, "history": [{"date": "1977-11-12", "rank": 99}, {"date": "1977-11-19", "rank": 87}, {"date": "1977-11-26", "rank": 83}, {"date": "1977-12-03", "rank": 114}, {"date": "1977-12-10", "rank": 112}, {"date": "1977-12-17", "rank": 112}, {"date": "1977-12-24", "rank": 187}, {"date": "1977-12-31", "rank": 187}]}
+{
+  "id": "finale-loggins-messina",
+  "title": "Finale",
+  "artist": "Loggins & Messina",
+  "peak": 83,
+  "history": [
+    {
+      "date": "1977-11-12",
+      "rank": 99
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 87
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 83
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 114
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 112
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 112
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 187
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Growin'",
+      "id": "growin-loggins-messina"
+    },
+    {
+      "title": "Changes",
+      "id": "changes-loggins-messina"
+    },
+    {
+      "title": "Introduction",
+      "id": null
+    },
+    {
+      "title": "Travelin' Blues",
+      "id": null
+    },
+    {
+      "title": "Medley: Danny's Song/A Love Song/House at Pooh Corner/Thinking of You",
+      "id": null
+    },
+    {
+      "title": "Keep Me in Mind",
+      "id": null
+    },
+    {
+      "title": "Pretty Princess",
+      "id": null
+    },
+    {
+      "title": "Brighter Days",
+      "id": null
+    },
+    {
+      "title": "Be Free",
+      "id": null
+    },
+    {
+      "title": "Peacemaker",
+      "id": null
+    },
+    {
+      "title": "Motel Cowboy",
+      "id": null
+    },
+    {
+      "title": "Country Medley: Listen to a Country Song/Oh, Lonsesome Me/I'm Movin' On/Listen to a Country Song (reprise)",
+      "id": null
+    },
+    {
+      "title": "Oklahoma, Home of Mine",
+      "id": null
+    },
+    {
+      "title": "You Need a Man",
+      "id": null
+    },
+    {
+      "title": "Lately My Love",
+      "id": null
+    },
+    {
+      "title": "Rock & Roll Medley: My Music/Splish Splash/Boogie Man",
+      "id": null
+    }
+  ]
+}
