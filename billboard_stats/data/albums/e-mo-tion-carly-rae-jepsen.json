@@ -1,1 +1,74 @@
-{"id": "e-mo-tion-carly-rae-jepsen", "title": "E*MO*TION", "artist": "Carly Rae Jepsen", "peak": 16, "history": [{"date": "2015-09-12", "rank": 16}, {"date": "2015-09-19", "rank": 64}, {"date": "2015-09-26", "rank": 104}, {"date": "2015-10-03", "rank": 147}]}
+{
+  "id": "e-mo-tion-carly-rae-jepsen",
+  "title": "E*MO*TION",
+  "artist": "Carly Rae Jepsen",
+  "peak": 16,
+  "history": [
+    {
+      "date": "2015-09-12",
+      "rank": 16
+    },
+    {
+      "date": "2015-09-19",
+      "rank": 64
+    },
+    {
+      "date": "2015-09-26",
+      "rank": 104
+    },
+    {
+      "date": "2015-10-03",
+      "rank": 147
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Really Like You",
+      "id": "i-really-like-you-carly-rae-jepsen"
+    },
+    {
+      "title": "Run Away With Me",
+      "id": null
+    },
+    {
+      "title": "E•MO•TION",
+      "id": null
+    },
+    {
+      "title": "Gimmie Love",
+      "id": null
+    },
+    {
+      "title": "All That",
+      "id": null
+    },
+    {
+      "title": "Boy Problems",
+      "id": null
+    },
+    {
+      "title": "Making the Most of the Night",
+      "id": null
+    },
+    {
+      "title": "Your Type",
+      "id": null
+    },
+    {
+      "title": "Let’s Get Lost",
+      "id": null
+    },
+    {
+      "title": "LA Hallucinations",
+      "id": null
+    },
+    {
+      "title": "Warm Blood",
+      "id": null
+    },
+    {
+      "title": "When I Needed You",
+      "id": null
+    }
+  ]
+}

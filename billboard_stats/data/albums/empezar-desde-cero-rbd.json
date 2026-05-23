@@ -1,1 +1,82 @@
-{"id": "empezar-desde-cero-rbd", "title": "Empezar Desde Cero", "artist": "RBD", "peak": 60, "history": [{"date": "2007-12-08", "rank": 60}, {"date": "2007-12-15", "rank": 120}, {"date": "2007-12-22", "rank": 170}, {"date": "2007-12-29", "rank": 198}, {"date": "2008-01-19", "rank": 182}]}
+{
+  "id": "empezar-desde-cero-rbd",
+  "title": "Empezar Desde Cero",
+  "artist": "RBD",
+  "peak": 60,
+  "history": [
+    {
+      "date": "2007-12-08",
+      "rank": 60
+    },
+    {
+      "date": "2007-12-15",
+      "rank": 120
+    },
+    {
+      "date": "2007-12-22",
+      "rank": 170
+    },
+    {
+      "date": "2007-12-29",
+      "rank": 198
+    },
+    {
+      "date": "2008-01-19",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Empezar desde cero",
+      "id": null
+    },
+    {
+      "title": "Y no puedo olvidarte",
+      "id": null
+    },
+    {
+      "title": "Inalcanzable",
+      "id": null
+    },
+    {
+      "title": "No digas nada",
+      "id": null
+    },
+    {
+      "title": "El mundo detrás",
+      "id": null
+    },
+    {
+      "title": "Hoy que te vas",
+      "id": null
+    },
+    {
+      "title": "Llueve en mi corazón",
+      "id": null
+    },
+    {
+      "title": "Fuí la niña",
+      "id": null
+    },
+    {
+      "title": "A la orilla",
+      "id": null
+    },
+    {
+      "title": "Amor fugaz",
+      "id": null
+    },
+    {
+      "title": "Sueles volver",
+      "id": null
+    },
+    {
+      "title": "Si no estás aquí",
+      "id": null
+    },
+    {
+      "title": "Extraña sensación",
+      "id": null
+    }
+  ]
+}

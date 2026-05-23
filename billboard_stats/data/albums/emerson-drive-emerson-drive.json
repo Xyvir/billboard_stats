@@ -1,1 +1,66 @@
-{"id": "emerson-drive-emerson-drive", "title": "Emerson Drive", "artist": "Emerson Drive", "peak": 108, "history": [{"date": "2002-06-08", "rank": 108}, {"date": "2002-06-15", "rank": 187}]}
+{
+  "id": "emerson-drive-emerson-drive",
+  "title": "Emerson Drive",
+  "artist": "Emerson Drive",
+  "peak": 108,
+  "history": [
+    {
+      "date": "2002-06-08",
+      "rank": 108
+    },
+    {
+      "date": "2002-06-15",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fall Into Me",
+      "id": "fall-into-me-emerson-drive"
+    },
+    {
+      "title": "I Should Be Sleeping",
+      "id": "i-should-be-sleeping-emerson-drive"
+    },
+    {
+      "title": "Evidence",
+      "id": null
+    },
+    {
+      "title": "Passionate Desperate Love",
+      "id": null
+    },
+    {
+      "title": "Only God (Could Stop My Loving You)",
+      "id": null
+    },
+    {
+      "title": "Say My Name",
+      "id": null
+    },
+    {
+      "title": "Light of Day",
+      "id": null
+    },
+    {
+      "title": "Looking Over My Shoulder",
+      "id": null
+    },
+    {
+      "title": "I See Heaven",
+      "id": null
+    },
+    {
+      "title": "How Lucky I Am",
+      "id": null
+    },
+    {
+      "title": "Hollywood Kiss",
+      "id": null
+    },
+    {
+      "title": "It's All About You",
+      "id": null
+    }
+  ]
+}
