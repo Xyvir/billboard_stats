@@ -1,1 +1,178 @@
-{"id": "hold-your-fire-firehouse", "title": "Hold Your Fire", "artist": "Firehouse", "peak": 23, "history": [{"date": "1992-07-04", "rank": 23}, {"date": "1992-07-11", "rank": 29}, {"date": "1992-07-18", "rank": 35}, {"date": "1992-07-25", "rank": 37}, {"date": "1992-08-01", "rank": 45}, {"date": "1992-08-08", "rank": 59}, {"date": "1992-08-15", "rank": 65}, {"date": "1992-08-22", "rank": 68}, {"date": "1992-08-29", "rank": 57}, {"date": "1992-09-05", "rank": 49}, {"date": "1992-09-12", "rank": 70}, {"date": "1992-09-19", "rank": 72}, {"date": "1992-09-26", "rank": 68}, {"date": "1992-10-03", "rank": 63}, {"date": "1992-10-10", "rank": 83}, {"date": "1992-10-17", "rank": 98}, {"date": "1992-10-24", "rank": 89}, {"date": "1992-10-31", "rank": 85}, {"date": "1992-11-07", "rank": 95}, {"date": "1992-11-14", "rank": 103}, {"date": "1992-11-21", "rank": 104}, {"date": "1992-11-28", "rank": 114}, {"date": "1992-12-05", "rank": 122}, {"date": "1992-12-12", "rank": 136}, {"date": "1992-12-19", "rank": 146}, {"date": "1992-12-26", "rank": 148}, {"date": "1993-01-02", "rank": 176}, {"date": "1993-01-16", "rank": 155}, {"date": "1993-01-23", "rank": 151}, {"date": "1993-01-30", "rank": 185}]}
+{
+  "id": "hold-your-fire-firehouse",
+  "title": "Hold Your Fire",
+  "artist": "Firehouse",
+  "peak": 23,
+  "history": [
+    {
+      "date": "1992-07-04",
+      "rank": 23
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 29
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 35
+    },
+    {
+      "date": "1992-07-25",
+      "rank": 37
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 45
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 59
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 65
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 68
+    },
+    {
+      "date": "1992-08-29",
+      "rank": 57
+    },
+    {
+      "date": "1992-09-05",
+      "rank": 49
+    },
+    {
+      "date": "1992-09-12",
+      "rank": 70
+    },
+    {
+      "date": "1992-09-19",
+      "rank": 72
+    },
+    {
+      "date": "1992-09-26",
+      "rank": 68
+    },
+    {
+      "date": "1992-10-03",
+      "rank": 63
+    },
+    {
+      "date": "1992-10-10",
+      "rank": 83
+    },
+    {
+      "date": "1992-10-17",
+      "rank": 98
+    },
+    {
+      "date": "1992-10-24",
+      "rank": 89
+    },
+    {
+      "date": "1992-10-31",
+      "rank": 85
+    },
+    {
+      "date": "1992-11-07",
+      "rank": 95
+    },
+    {
+      "date": "1992-11-14",
+      "rank": 103
+    },
+    {
+      "date": "1992-11-21",
+      "rank": 104
+    },
+    {
+      "date": "1992-11-28",
+      "rank": 114
+    },
+    {
+      "date": "1992-12-05",
+      "rank": 122
+    },
+    {
+      "date": "1992-12-12",
+      "rank": 136
+    },
+    {
+      "date": "1992-12-19",
+      "rank": 146
+    },
+    {
+      "date": "1992-12-26",
+      "rank": 148
+    },
+    {
+      "date": "1993-01-02",
+      "rank": 176
+    },
+    {
+      "date": "1993-01-16",
+      "rank": 155
+    },
+    {
+      "date": "1993-01-23",
+      "rank": 151
+    },
+    {
+      "date": "1993-01-30",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Reach for the Sky",
+      "id": "reach-for-the-sky-firehouse"
+    },
+    {
+      "title": "Sleeping With You",
+      "id": "sleeping-with-you-firehouse"
+    },
+    {
+      "title": "When I Look Into Your Eyes",
+      "id": "when-i-look-into-your-eyes-firehouse"
+    },
+    {
+      "title": "Rock You Tonight",
+      "id": null
+    },
+    {
+      "title": "You’re Too Bad",
+      "id": null
+    },
+    {
+      "title": "Get in Touch",
+      "id": null
+    },
+    {
+      "title": "Hold Your Fire",
+      "id": null
+    },
+    {
+      "title": "The Meaning of Love",
+      "id": null
+    },
+    {
+      "title": "Talk of the Town",
+      "id": null
+    },
+    {
+      "title": "Life in the Real World",
+      "id": null
+    },
+    {
+      "title": "Mama Didn’t Raise No Fool",
+      "id": null
+    },
+    {
+      "title": "Hold the Dream",
+      "id": null
+    }
+  ]
+}

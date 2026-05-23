@@ -1,1 +1,66 @@
-{"id": "hoku-hoku", "title": "Hoku", "artist": "Hoku", "peak": 151, "history": [{"date": "2000-05-20", "rank": 151}, {"date": "2000-05-27", "rank": 181}, {"date": "2000-11-04", "rank": 197}]}
+{
+  "id": "hoku-hoku",
+  "title": "Hoku",
+  "artist": "Hoku",
+  "peak": 151,
+  "history": [
+    {
+      "date": "2000-05-20",
+      "rank": 151
+    },
+    {
+      "date": "2000-05-27",
+      "rank": 181
+    },
+    {
+      "date": "2000-11-04",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Another Dumb Blonde",
+      "id": "another-dumb-blonde-hoku"
+    },
+    {
+      "title": "What You Need",
+      "id": null
+    },
+    {
+      "title": "How Do I Feel (The Burrito Song)",
+      "id": null
+    },
+    {
+      "title": "Just Enough",
+      "id": null
+    },
+    {
+      "title": "Oxygen",
+      "id": null
+    },
+    {
+      "title": "Nothing in This World",
+      "id": null
+    },
+    {
+      "title": "In the First Place",
+      "id": null
+    },
+    {
+      "title": "Every Time",
+      "id": null
+    },
+    {
+      "title": "I'm Scared",
+      "id": null
+    },
+    {
+      "title": "We Will Follow the Sun",
+      "id": null
+    },
+    {
+      "title": "You First Believed",
+      "id": null
+    }
+  ]
+}

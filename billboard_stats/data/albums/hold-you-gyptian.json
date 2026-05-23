@@ -1,1 +1,22 @@
-{"id": "hold-you-gyptian", "title": "Hold You", "artist": "Gyptian", "peak": 186, "history": [{"date": "2010-08-07", "rank": 186}]}
+{
+  "id": "hold-you-gyptian",
+  "title": "Hold You",
+  "artist": "Gyptian",
+  "peak": 186,
+  "history": [
+    {
+      "date": "2010-08-07",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hold You (Hold Yuh)",
+      "id": "hold-you-hold-yuh-gyptian"
+    },
+    {
+      "title": "Hold You Instrumental",
+      "id": null
+    }
+  ]
+}
