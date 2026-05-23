@@ -1,1 +1,50 @@
-{"id": "lover-live-from-paris-taylor-swift", "title": "Lover: Live From Paris", "artist": "Taylor Swift", "peak": 2, "history": [{"date": "2023-03-04", "rank": 58}, {"date": "2025-01-25", "rank": 2}]}
+{
+  "id": "lover-live-from-paris-taylor-swift",
+  "title": "Lover: Live From Paris",
+  "artist": "Taylor Swift",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2023-03-04",
+      "rank": 58
+    },
+    {
+      "date": "2025-01-25",
+      "rank": 2
+    }
+  ],
+  "tracks": [
+    {
+      "title": "ME!",
+      "id": "mine-taylor-swift"
+    },
+    {
+      "title": "The Archer",
+      "id": "the-archer-taylor-swift"
+    },
+    {
+      "title": "Death by a Thousand Cuts",
+      "id": "death-by-a-thousand-cuts-taylor-swift"
+    },
+    {
+      "title": "Cornelia Street",
+      "id": "cornelia-street-taylor-swift"
+    },
+    {
+      "title": "The Man",
+      "id": "the-man-taylor-swift"
+    },
+    {
+      "title": "Daylight",
+      "id": "daylight-taylor-swift"
+    },
+    {
+      "title": "You Need to Calm Down",
+      "id": "you-need-to-calm-down-taylor-swift"
+    },
+    {
+      "title": "Lover",
+      "id": "lover-taylor-swift"
+    }
+  ]
+}
