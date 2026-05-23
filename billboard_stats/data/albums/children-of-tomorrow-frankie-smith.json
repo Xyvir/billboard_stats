@@ -1,1 +1,82 @@
-{"id": "children-of-tomorrow-frankie-smith", "title": "Children Of Tomorrow", "artist": "Frankie Smith", "peak": 54, "history": [{"date": "1981-08-08", "rank": 114}, {"date": "1981-08-15", "rank": 68}, {"date": "1981-08-22", "rank": 59}, {"date": "1981-08-29", "rank": 58}, {"date": "1981-09-05", "rank": 54}, {"date": "1981-09-12", "rank": 54}, {"date": "1981-09-19", "rank": 66}, {"date": "1981-09-26", "rank": 87}, {"date": "1981-10-03", "rank": 105}, {"date": "1981-10-10", "rank": 127}]}
+{
+  "id": "children-of-tomorrow-frankie-smith",
+  "title": "Children Of Tomorrow",
+  "artist": "Frankie Smith",
+  "peak": 54,
+  "history": [
+    {
+      "date": "1981-08-08",
+      "rank": 114
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 68
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 59
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 58
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 54
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 54
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 66
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 87
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 105
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 127
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Double Dutch Bus",
+      "id": "double-dutch-bus-frankie-smith"
+    },
+    {
+      "title": "Double Dutch",
+      "id": "double-dutch-bus-frankie-smith"
+    },
+    {
+      "title": "Slang Thang",
+      "id": null
+    },
+    {
+      "title": "Handbone",
+      "id": null
+    },
+    {
+      "title": "Children of Tomorrow",
+      "id": null
+    },
+    {
+      "title": "The Auction",
+      "id": null
+    },
+    {
+      "title": "Teeny-Bopper Lady",
+      "id": null
+    },
+    {
+      "title": "Triple Dutch",
+      "id": null
+    }
+  ]
+}

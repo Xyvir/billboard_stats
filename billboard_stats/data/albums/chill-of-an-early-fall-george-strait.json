@@ -1,1 +1,246 @@
-{"id": "chill-of-an-early-fall-george-strait", "title": "Chill Of An Early Fall", "artist": "George Strait", "peak": 45, "history": [{"date": "1991-04-06", "rank": 170}, {"date": "1991-04-13", "rank": 86}, {"date": "1991-04-20", "rank": 62}, {"date": "1991-04-27", "rank": 60}, {"date": "1991-05-04", "rank": 60}, {"date": "1991-05-11", "rank": 48}, {"date": "1991-05-18", "rank": 52}, {"date": "1991-05-25", "rank": 45}, {"date": "1991-06-01", "rank": 47}, {"date": "1991-06-08", "rank": 65}, {"date": "1991-06-15", "rank": 75}, {"date": "1991-06-22", "rank": 84}, {"date": "1991-06-29", "rank": 54}, {"date": "1991-07-06", "rank": 54}, {"date": "1991-07-13", "rank": 63}, {"date": "1991-07-20", "rank": 72}, {"date": "1991-07-27", "rank": 71}, {"date": "1991-08-03", "rank": 83}, {"date": "1991-08-10", "rank": 90}, {"date": "1991-08-17", "rank": 85}, {"date": "1991-08-24", "rank": 79}, {"date": "1991-08-31", "rank": 85}, {"date": "1991-09-07", "rank": 85}, {"date": "1991-09-14", "rank": 119}, {"date": "1991-09-21", "rank": 121}, {"date": "1991-09-28", "rank": 111}, {"date": "1991-10-05", "rank": 145}, {"date": "1991-10-12", "rank": 143}, {"date": "1991-10-19", "rank": 118}, {"date": "1991-10-26", "rank": 124}, {"date": "1991-11-02", "rank": 126}, {"date": "1991-11-09", "rank": 129}, {"date": "1991-11-16", "rank": 134}, {"date": "1991-11-23", "rank": 143}, {"date": "1991-11-30", "rank": 152}, {"date": "1991-12-07", "rank": 154}, {"date": "1991-12-14", "rank": 175}, {"date": "1991-12-21", "rank": 146}, {"date": "1991-12-28", "rank": 146}, {"date": "1992-01-04", "rank": 139}, {"date": "1992-01-11", "rank": 150}, {"date": "1992-01-18", "rank": 122}, {"date": "1992-01-25", "rank": 146}, {"date": "1992-02-01", "rank": 183}, {"date": "1992-02-08", "rank": 192}, {"date": "1992-02-15", "rank": 193}, {"date": "1992-02-22", "rank": 182}, {"date": "1992-02-29", "rank": 186}, {"date": "1992-03-07", "rank": 199}]}
+{
+  "id": "chill-of-an-early-fall-george-strait",
+  "title": "Chill Of An Early Fall",
+  "artist": "George Strait",
+  "peak": 45,
+  "history": [
+    {
+      "date": "1991-04-06",
+      "rank": 170
+    },
+    {
+      "date": "1991-04-13",
+      "rank": 86
+    },
+    {
+      "date": "1991-04-20",
+      "rank": 62
+    },
+    {
+      "date": "1991-04-27",
+      "rank": 60
+    },
+    {
+      "date": "1991-05-04",
+      "rank": 60
+    },
+    {
+      "date": "1991-05-11",
+      "rank": 48
+    },
+    {
+      "date": "1991-05-18",
+      "rank": 52
+    },
+    {
+      "date": "1991-05-25",
+      "rank": 45
+    },
+    {
+      "date": "1991-06-01",
+      "rank": 47
+    },
+    {
+      "date": "1991-06-08",
+      "rank": 65
+    },
+    {
+      "date": "1991-06-15",
+      "rank": 75
+    },
+    {
+      "date": "1991-06-22",
+      "rank": 84
+    },
+    {
+      "date": "1991-06-29",
+      "rank": 54
+    },
+    {
+      "date": "1991-07-06",
+      "rank": 54
+    },
+    {
+      "date": "1991-07-13",
+      "rank": 63
+    },
+    {
+      "date": "1991-07-20",
+      "rank": 72
+    },
+    {
+      "date": "1991-07-27",
+      "rank": 71
+    },
+    {
+      "date": "1991-08-03",
+      "rank": 83
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 90
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 85
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 79
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 85
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 85
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 119
+    },
+    {
+      "date": "1991-09-21",
+      "rank": 121
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 111
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 145
+    },
+    {
+      "date": "1991-10-12",
+      "rank": 143
+    },
+    {
+      "date": "1991-10-19",
+      "rank": 118
+    },
+    {
+      "date": "1991-10-26",
+      "rank": 124
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 126
+    },
+    {
+      "date": "1991-11-09",
+      "rank": 129
+    },
+    {
+      "date": "1991-11-16",
+      "rank": 134
+    },
+    {
+      "date": "1991-11-23",
+      "rank": 143
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 152
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 154
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 175
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 146
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 146
+    },
+    {
+      "date": "1992-01-04",
+      "rank": 139
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 150
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 122
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 146
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 183
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 192
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 193
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 182
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 186
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Chill of an Early Fall",
+      "id": null
+    },
+    {
+      "title": "I’ve Convinced Everybody but Me",
+      "id": null
+    },
+    {
+      "title": "If I Know Me",
+      "id": null
+    },
+    {
+      "title": "You Know Me Better Than That",
+      "id": null
+    },
+    {
+      "title": "Anything You Can Spare",
+      "id": null
+    },
+    {
+      "title": "Home in San Antone",
+      "id": null
+    },
+    {
+      "title": "Lovesick Blues",
+      "id": null
+    },
+    {
+      "title": "Milk Cow Blues",
+      "id": null
+    },
+    {
+      "title": "Her Only Bad Habit Is Me",
+      "id": null
+    },
+    {
+      "title": "Is It Already Time?",
+      "id": null
+    }
+  ]
+}
