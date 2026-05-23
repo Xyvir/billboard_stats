@@ -1,1 +1,66 @@
-{"id": "chances-are-bob-marley", "title": "Chances Are", "artist": "Bob Marley", "peak": 117, "history": [{"date": "1981-10-31", "rank": 135}, {"date": "1981-11-07", "rank": 123}, {"date": "1981-11-14", "rank": 121}, {"date": "1981-11-21", "rank": 118}, {"date": "1981-11-28", "rank": 117}, {"date": "1981-12-05", "rank": 158}]}
+{
+  "id": "chances-are-bob-marley",
+  "title": "Chances Are",
+  "artist": "Bob Marley",
+  "peak": 117,
+  "history": [
+    {
+      "date": "1981-10-31",
+      "rank": 135
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 123
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 121
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 118
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 117
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Reggae on Broadway",
+      "id": null
+    },
+    {
+      "title": "Gonna Get You",
+      "id": null
+    },
+    {
+      "title": "Chances Are",
+      "id": null
+    },
+    {
+      "title": "Soul Rebel",
+      "id": null
+    },
+    {
+      "title": "Dance Do the Reggae",
+      "id": null
+    },
+    {
+      "title": "Mellow Mood",
+      "id": null
+    },
+    {
+      "title": "Stay With Me",
+      "id": null
+    },
+    {
+      "title": "I’m Hurting Inside",
+      "id": null
+    }
+  ]
+}
