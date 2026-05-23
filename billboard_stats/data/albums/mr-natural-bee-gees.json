@@ -1,1 +1,74 @@
-{"id": "mr-natural-bee-gees", "title": "Mr. Natural", "artist": "Bee Gees", "peak": 178, "history": [{"date": "1974-06-15", "rank": 194}, {"date": "1974-06-22", "rank": 189}, {"date": "1974-06-29", "rank": 186}, {"date": "1974-07-06", "rank": 180}, {"date": "1974-07-13", "rank": 178}]}
+{
+  "id": "mr-natural-bee-gees",
+  "title": "Mr. Natural",
+  "artist": "Bee Gees",
+  "peak": 178,
+  "history": [
+    {
+      "date": "1974-06-15",
+      "rank": 194
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 189
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 186
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 180
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mr. Natural",
+      "id": "mr-natural-bee-gees"
+    },
+    {
+      "title": "Lost in Your Love",
+      "id": "how-deep-is-your-love-bee-gees"
+    },
+    {
+      "title": "Charade",
+      "id": null
+    },
+    {
+      "title": "Throw a Penny",
+      "id": null
+    },
+    {
+      "title": "Down the Road",
+      "id": null
+    },
+    {
+      "title": "Voices",
+      "id": null
+    },
+    {
+      "title": "Give a Hand, Take a Hand",
+      "id": null
+    },
+    {
+      "title": "Dogs",
+      "id": null
+    },
+    {
+      "title": "I Can’t Let You Go",
+      "id": null
+    },
+    {
+      "title": "Heavy Breathing",
+      "id": null
+    },
+    {
+      "title": "Had a Lot of Love Last Night",
+      "id": null
+    }
+  ]
+}

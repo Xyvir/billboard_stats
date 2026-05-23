@@ -1,1 +1,82 @@
-{"id": "mr-jaws-and-other-fables-dickie-goodman", "title": "Mr. Jaws And Other Fables", "artist": "Dickie Goodman", "peak": 144, "history": [{"date": "1975-12-06", "rank": 186}, {"date": "1975-12-13", "rank": 175}, {"date": "1975-12-20", "rank": 160}, {"date": "1975-12-27", "rank": 150}, {"date": "1976-01-03", "rank": 148}, {"date": "1976-01-10", "rank": 148}, {"date": "1976-01-17", "rank": 144}, {"date": "1976-01-24", "rank": 185}]}
+{
+  "id": "mr-jaws-and-other-fables-dickie-goodman",
+  "title": "Mr. Jaws And Other Fables",
+  "artist": "Dickie Goodman",
+  "peak": 144,
+  "history": [
+    {
+      "date": "1975-12-06",
+      "rank": 186
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 175
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 160
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 150
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 148
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 148
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 144
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mr. Jaws",
+      "id": "mr-jaws-dickie-goodman"
+    },
+    {
+      "title": "Energy Crisis",
+      "id": "energy-crisis-74-dickie-goodman"
+    },
+    {
+      "title": "The Touchables",
+      "id": "the-touchables-dickie-goodman"
+    },
+    {
+      "title": "The Touchables in Brooklyn",
+      "id": "the-touchables-in-brooklyn-dickie-goodman"
+    },
+    {
+      "title": "Superfly Meets Shaft",
+      "id": null
+    },
+    {
+      "title": "Flying Saucer, Part 1",
+      "id": null
+    },
+    {
+      "title": "Flying Saucer, Part 2",
+      "id": null
+    },
+    {
+      "title": "Santa and the Satellite, Part 1",
+      "id": null
+    },
+    {
+      "title": "Santa and the Satellite, Part 2",
+      "id": null
+    },
+    {
+      "title": "Flying Saucer the Second",
+      "id": null
+    }
+  ]
+}

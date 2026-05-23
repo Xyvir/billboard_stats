@@ -1,1 +1,102 @@
-{"id": "mr-music-head-adrian-belew", "title": "Mr. Music Head", "artist": "Adrian Belew", "peak": 114, "history": [{"date": "1989-07-22", "rank": 196}, {"date": "1989-07-29", "rank": 166}, {"date": "1989-08-05", "rank": 146}, {"date": "1989-08-12", "rank": 121}, {"date": "1989-08-19", "rank": 115}, {"date": "1989-08-26", "rank": 114}, {"date": "1989-09-02", "rank": 119}, {"date": "1989-09-09", "rank": 118}, {"date": "1989-09-16", "rank": 123}, {"date": "1989-09-23", "rank": 139}, {"date": "1989-09-30", "rank": 181}]}
+{
+  "id": "mr-music-head-adrian-belew",
+  "title": "Mr. Music Head",
+  "artist": "Adrian Belew",
+  "peak": 114,
+  "history": [
+    {
+      "date": "1989-07-22",
+      "rank": 196
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 166
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 146
+    },
+    {
+      "date": "1989-08-12",
+      "rank": 121
+    },
+    {
+      "date": "1989-08-19",
+      "rank": 115
+    },
+    {
+      "date": "1989-08-26",
+      "rank": 114
+    },
+    {
+      "date": "1989-09-02",
+      "rank": 119
+    },
+    {
+      "date": "1989-09-09",
+      "rank": 118
+    },
+    {
+      "date": "1989-09-16",
+      "rank": 123
+    },
+    {
+      "date": "1989-09-23",
+      "rank": 139
+    },
+    {
+      "date": "1989-09-30",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Oh Daddy",
+      "id": "oh-daddy-adrian-belew"
+    },
+    {
+      "title": "House of Cards",
+      "id": null
+    },
+    {
+      "title": "One of Those Days",
+      "id": null
+    },
+    {
+      "title": "Coconuts",
+      "id": null
+    },
+    {
+      "title": "Bad Days",
+      "id": null
+    },
+    {
+      "title": "Peaceable Kingdom",
+      "id": null
+    },
+    {
+      "title": "Hot Zoo",
+      "id": null
+    },
+    {
+      "title": "Motor Bungalow",
+      "id": null
+    },
+    {
+      "title": "Bumpity Bump",
+      "id": null
+    },
+    {
+      "title": "Bird in a Box",
+      "id": null
+    },
+    {
+      "title": "1967",
+      "id": null
+    },
+    {
+      "title": "Cruelty to Animals",
+      "id": null
+    }
+  ]
+}

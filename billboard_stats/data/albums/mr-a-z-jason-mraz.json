@@ -1,1 +1,98 @@
-{"id": "mr-a-z-jason-mraz", "title": "Mr. A-Z", "artist": "Jason Mraz", "peak": 5, "history": [{"date": "2005-08-13", "rank": 5}, {"date": "2005-08-20", "rank": 24}, {"date": "2005-08-27", "rank": 38}, {"date": "2005-09-03", "rank": 56}, {"date": "2005-09-10", "rank": 77}, {"date": "2005-09-17", "rank": 92}, {"date": "2005-09-24", "rank": 109}, {"date": "2005-10-01", "rank": 145}, {"date": "2005-10-08", "rank": 172}]}
+{
+  "id": "mr-a-z-jason-mraz",
+  "title": "Mr. A-Z",
+  "artist": "Jason Mraz",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2005-08-13",
+      "rank": 5
+    },
+    {
+      "date": "2005-08-20",
+      "rank": 24
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 38
+    },
+    {
+      "date": "2005-09-03",
+      "rank": 56
+    },
+    {
+      "date": "2005-09-10",
+      "rank": 77
+    },
+    {
+      "date": "2005-09-17",
+      "rank": 92
+    },
+    {
+      "date": "2005-09-24",
+      "rank": 109
+    },
+    {
+      "date": "2005-10-01",
+      "rank": 145
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wordplay",
+      "id": "wordplay-jason-mraz"
+    },
+    {
+      "title": "Life Is Wonderful",
+      "id": null
+    },
+    {
+      "title": "Geek in the Pink",
+      "id": null
+    },
+    {
+      "title": "Did You Get My Message?",
+      "id": null
+    },
+    {
+      "title": "Mr. Curiosity",
+      "id": null
+    },
+    {
+      "title": "Clockwatching",
+      "id": null
+    },
+    {
+      "title": "Bella Luna",
+      "id": null
+    },
+    {
+      "title": "Plane",
+      "id": null
+    },
+    {
+      "title": "O. Lover",
+      "id": null
+    },
+    {
+      "title": "Please Don’t Tell Her",
+      "id": null
+    },
+    {
+      "title": "The Forecast",
+      "id": null
+    },
+    {
+      "title": "Song for a Friend",
+      "id": null
+    },
+    {
+      "title": "Prettiest Friend (Demo)",
+      "id": null
+    }
+  ]
+}

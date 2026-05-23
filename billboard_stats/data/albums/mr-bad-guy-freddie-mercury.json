@@ -1,1 +1,78 @@
-{"id": "mr-bad-guy-freddie-mercury", "title": "Mr. Bad Guy", "artist": "Freddie Mercury", "peak": 159, "history": [{"date": "1985-05-18", "rank": 194}, {"date": "1985-05-25", "rank": 165}, {"date": "1985-06-01", "rank": 160}, {"date": "1985-06-08", "rank": 160}, {"date": "1985-06-15", "rank": 159}, {"date": "1985-06-22", "rank": 198}]}
+{
+  "id": "mr-bad-guy-freddie-mercury",
+  "title": "Mr. Bad Guy",
+  "artist": "Freddie Mercury",
+  "peak": 159,
+  "history": [
+    {
+      "date": "1985-05-18",
+      "rank": 194
+    },
+    {
+      "date": "1985-05-25",
+      "rank": 165
+    },
+    {
+      "date": "1985-06-01",
+      "rank": 160
+    },
+    {
+      "date": "1985-06-08",
+      "rank": 160
+    },
+    {
+      "date": "1985-06-15",
+      "rank": 159
+    },
+    {
+      "date": "1985-06-22",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Was Born to Love You",
+      "id": "i-was-born-to-love-you-freddie-mercury"
+    },
+    {
+      "title": "Let’s Turn It On",
+      "id": null
+    },
+    {
+      "title": "Made in Heaven",
+      "id": null
+    },
+    {
+      "title": "Foolin’ Around",
+      "id": null
+    },
+    {
+      "title": "Your Kind of Lover",
+      "id": null
+    },
+    {
+      "title": "Mr. Bad Guy",
+      "id": null
+    },
+    {
+      "title": "Man Made Paradise",
+      "id": null
+    },
+    {
+      "title": "There Must Be More to Life Than This",
+      "id": null
+    },
+    {
+      "title": "Living on My Own",
+      "id": null
+    },
+    {
+      "title": "My Love Is Dangerous",
+      "id": null
+    },
+    {
+      "title": "Love Me Like There’s No Tomorrow",
+      "id": null
+    }
+  ]
+}
