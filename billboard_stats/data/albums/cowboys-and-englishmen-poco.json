@@ -1,1 +1,78 @@
-{"id": "cowboys-and-englishmen-poco", "title": "Cowboys And Englishmen", "artist": "Poco", "peak": 131, "history": [{"date": "1982-02-20", "rank": 165}, {"date": "1982-02-27", "rank": 151}, {"date": "1982-03-06", "rank": 141}, {"date": "1982-03-13", "rank": 131}, {"date": "1982-03-20", "rank": 131}, {"date": "1982-03-27", "rank": 145}, {"date": "1982-04-03", "rank": 168}, {"date": "1982-04-10", "rank": 166}]}
+{
+  "id": "cowboys-and-englishmen-poco",
+  "title": "Cowboys And Englishmen",
+  "artist": "Poco",
+  "peak": 131,
+  "history": [
+    {
+      "date": "1982-02-20",
+      "rank": 165
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 151
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 141
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 131
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 131
+    },
+    {
+      "date": "1982-03-27",
+      "rank": 145
+    },
+    {
+      "date": "1982-04-03",
+      "rank": 168
+    },
+    {
+      "date": "1982-04-10",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cajun Moon",
+      "id": "c-mon-poco"
+    },
+    {
+      "title": "Sea of Heartbreak",
+      "id": null
+    },
+    {
+      "title": "No Relief in Sight",
+      "id": null
+    },
+    {
+      "title": "There Goes My Heart",
+      "id": null
+    },
+    {
+      "title": "Ashes/Feudin'",
+      "id": null
+    },
+    {
+      "title": "Ribbon of Darkness",
+      "id": null
+    },
+    {
+      "title": "If You Could Read My Mind",
+      "id": null
+    },
+    {
+      "title": "While You’re on Your Way",
+      "id": null
+    },
+    {
+      "title": "The Price of Love",
+      "id": null
+    }
+  ]
+}

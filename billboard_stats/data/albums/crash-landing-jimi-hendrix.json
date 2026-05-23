@@ -1,1 +1,122 @@
-{"id": "crash-landing-jimi-hendrix", "title": "Crash Landing", "artist": "Jimi Hendrix", "peak": 5, "history": [{"date": "1975-03-22", "rank": 61}, {"date": "1975-03-29", "rank": 20}, {"date": "1975-04-05", "rank": 16}, {"date": "1975-04-12", "rank": 12}, {"date": "1975-04-19", "rank": 10}, {"date": "1975-04-26", "rank": 7}, {"date": "1975-05-03", "rank": 6}, {"date": "1975-05-10", "rank": 5}, {"date": "1975-05-17", "rank": 20}, {"date": "1975-05-24", "rank": 36}, {"date": "1975-05-31", "rank": 50}, {"date": "1975-06-07", "rank": 64}, {"date": "1975-06-14", "rank": 76}, {"date": "1975-06-21", "rank": 78}, {"date": "1975-06-28", "rank": 108}, {"date": "1975-07-05", "rank": 108}, {"date": "1975-07-12", "rank": 101}, {"date": "1975-07-19", "rank": 121}, {"date": "1975-07-26", "rank": 129}, {"date": "1975-08-02", "rank": 197}]}
+{
+  "id": "crash-landing-jimi-hendrix",
+  "title": "Crash Landing",
+  "artist": "Jimi Hendrix",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1975-03-22",
+      "rank": 61
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 20
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 16
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 12
+    },
+    {
+      "date": "1975-04-19",
+      "rank": 10
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 7
+    },
+    {
+      "date": "1975-05-03",
+      "rank": 6
+    },
+    {
+      "date": "1975-05-10",
+      "rank": 5
+    },
+    {
+      "date": "1975-05-17",
+      "rank": 20
+    },
+    {
+      "date": "1975-05-24",
+      "rank": 36
+    },
+    {
+      "date": "1975-05-31",
+      "rank": 50
+    },
+    {
+      "date": "1975-06-07",
+      "rank": 64
+    },
+    {
+      "date": "1975-06-14",
+      "rank": 76
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 78
+    },
+    {
+      "date": "1975-06-28",
+      "rank": 108
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 108
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 101
+    },
+    {
+      "date": "1975-07-19",
+      "rank": 121
+    },
+    {
+      "date": "1975-07-26",
+      "rank": 129
+    },
+    {
+      "date": "1975-08-02",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Message to Love",
+      "id": null
+    },
+    {
+      "title": "Somewhere Over the Rainbow",
+      "id": null
+    },
+    {
+      "title": "Crash Landing",
+      "id": null
+    },
+    {
+      "title": "Come Down Hard on Me",
+      "id": null
+    },
+    {
+      "title": "Peace in Mississippi",
+      "id": null
+    },
+    {
+      "title": "With the Power",
+      "id": null
+    },
+    {
+      "title": "Stone Free Again",
+      "id": null
+    },
+    {
+      "title": "Captain Coconut",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"id": "crackers-international-erasure", "title": "Crackers International", "artist": "Erasure", "peak": 73, "history": [{"date": "1989-05-13", "rank": 116}, {"date": "1989-05-20", "rank": 73}, {"date": "1989-05-27", "rank": 73}, {"date": "1989-06-03", "rank": 73}, {"date": "1989-06-10", "rank": 79}, {"date": "1989-06-17", "rank": 94}, {"date": "1989-06-24", "rank": 135}, {"date": "1989-07-01", "rank": 183}, {"date": "1989-07-08", "rank": 186}, {"date": "1989-07-15", "rank": 200}]}
+{
+  "id": "crackers-international-erasure",
+  "title": "Crackers International",
+  "artist": "Erasure",
+  "peak": 73,
+  "history": [
+    {
+      "date": "1989-05-13",
+      "rank": 116
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 73
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 73
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 73
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 79
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 94
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 135
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 183
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 186
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stop!",
+      "id": "stop-erasure"
+    },
+    {
+      "title": "The Hardest Part",
+      "id": null
+    },
+    {
+      "title": "Knocking on Your Door",
+      "id": null
+    },
+    {
+      "title": "She Won’t Be Home",
+      "id": null
+    }
+  ]
+}
