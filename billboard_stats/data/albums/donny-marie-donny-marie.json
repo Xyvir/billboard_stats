@@ -1,1 +1,90 @@
-{"id": "donny-marie-donny-marie", "title": "Donny & Marie", "artist": "Donny & Marie", "peak": 30, "history": [{"date": "2011-05-21", "rank": 30}, {"date": "2011-05-28", "rank": 84}, {"date": "2011-06-04", "rank": 111}, {"date": "2011-06-11", "rank": 173}]}
+{
+  "id": "donny-marie-donny-marie",
+  "title": "Donny & Marie",
+  "artist": "Donny & Marie",
+  "peak": 30,
+  "history": [
+    {
+      "date": "2011-05-21",
+      "rank": 30
+    },
+    {
+      "date": "2011-05-28",
+      "rank": 84
+    },
+    {
+      "date": "2011-06-04",
+      "rank": 111
+    },
+    {
+      "date": "2011-06-11",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Beautiful Life",
+      "id": null
+    },
+    {
+      "title": "Vegas Love",
+      "id": null
+    },
+    {
+      "title": "I Know This Much Is True",
+      "id": null
+    },
+    {
+      "title": "You Can Do Anything",
+      "id": null
+    },
+    {
+      "title": "I Have You to Thank",
+      "id": null
+    },
+    {
+      "title": "My Reflection",
+      "id": null
+    },
+    {
+      "title": "The Good Life",
+      "id": null
+    },
+    {
+      "title": "The Best of Me",
+      "id": null
+    },
+    {
+      "title": "I Can't Wait",
+      "id": null
+    },
+    {
+      "title": "Touch",
+      "id": null
+    },
+    {
+      "title": "One Last Goodbye",
+      "id": null
+    },
+    {
+      "title": "Better Off Blue",
+      "id": null
+    },
+    {
+      "title": "I Swear",
+      "id": null
+    },
+    {
+      "title": "We Will Find a Way",
+      "id": null
+    },
+    {
+      "title": "Candle In the Rain",
+      "id": null
+    },
+    {
+      "title": "Tell Me to Breathe",
+      "id": null
+    }
+  ]
+}
