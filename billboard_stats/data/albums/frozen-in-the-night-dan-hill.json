@@ -1,1 +1,78 @@
-{"id": "frozen-in-the-night-dan-hill", "title": "Frozen In The Night", "artist": "Dan Hill", "peak": 118, "history": [{"date": "1978-09-23", "rank": 122}, {"date": "1978-09-30", "rank": 118}, {"date": "1978-10-07", "rank": 124}, {"date": "1978-10-14", "rank": 120}, {"date": "1978-10-21", "rank": 118}, {"date": "1978-10-28", "rank": 197}]}
+{
+  "id": "frozen-in-the-night-dan-hill",
+  "title": "Frozen In The Night",
+  "artist": "Dan Hill",
+  "peak": 118,
+  "history": [
+    {
+      "date": "1978-09-23",
+      "rank": 122
+    },
+    {
+      "date": "1978-09-30",
+      "rank": 118
+    },
+    {
+      "date": "1978-10-07",
+      "rank": 124
+    },
+    {
+      "date": "1978-10-14",
+      "rank": 120
+    },
+    {
+      "date": "1978-10-21",
+      "rank": 118
+    },
+    {
+      "date": "1978-10-28",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All I See Is Your Face",
+      "id": "all-i-see-is-your-face-dan-hill"
+    },
+    {
+      "title": "Let The Last Song Last Forever",
+      "id": "let-the-song-last-forever-dan-hill"
+    },
+    {
+      "title": "Frozen In The Night",
+      "id": null
+    },
+    {
+      "title": "No One Taught Me How To Lie",
+      "id": null
+    },
+    {
+      "title": "(Why Did You Have To Go And) Pick On Me",
+      "id": null
+    },
+    {
+      "title": "Friends",
+      "id": null
+    },
+    {
+      "title": "When The Hurt Comes",
+      "id": null
+    },
+    {
+      "title": "Dark Side Of Atlanta",
+      "id": null
+    },
+    {
+      "title": "Indian Woman",
+      "id": null
+    },
+    {
+      "title": "Till The Day I Die",
+      "id": null
+    },
+    {
+      "title": "Your Only Friend",
+      "id": null
+    }
+  ]
+}

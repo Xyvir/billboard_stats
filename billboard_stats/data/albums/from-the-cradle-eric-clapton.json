@@ -1,1 +1,238 @@
-{"id": "from-the-cradle-eric-clapton", "title": "From The Cradle", "artist": "Eric Clapton", "peak": 1, "history": [{"date": "1994-10-01", "rank": 1}, {"date": "1994-10-08", "rank": 2}, {"date": "1994-10-15", "rank": 3}, {"date": "1994-10-22", "rank": 3}, {"date": "1994-10-29", "rank": 3}, {"date": "1994-11-05", "rank": 7}, {"date": "1994-11-12", "rank": 6}, {"date": "1994-11-19", "rank": 10}, {"date": "1994-11-26", "rank": 17}, {"date": "1994-12-03", "rank": 19}, {"date": "1994-12-10", "rank": 17}, {"date": "1994-12-17", "rank": 20}, {"date": "1994-12-24", "rank": 24}, {"date": "1994-12-31", "rank": 22}, {"date": "1995-01-07", "rank": 20}, {"date": "1995-01-14", "rank": 33}, {"date": "1995-01-21", "rank": 32}, {"date": "1995-01-28", "rank": 33}, {"date": "1995-02-04", "rank": 42}, {"date": "1995-02-11", "rank": 53}, {"date": "1995-02-18", "rank": 72}, {"date": "1995-02-25", "rank": 76}, {"date": "1995-03-04", "rank": 74}, {"date": "1995-03-11", "rank": 73}, {"date": "1995-03-18", "rank": 59}, {"date": "1995-03-25", "rank": 61}, {"date": "1995-04-01", "rank": 83}, {"date": "1995-04-08", "rank": 99}, {"date": "1995-04-15", "rank": 118}, {"date": "1995-04-22", "rank": 132}, {"date": "1995-04-29", "rank": 148}, {"date": "1995-05-06", "rank": 159}, {"date": "1995-05-13", "rank": 161}, {"date": "1995-05-20", "rank": 147}, {"date": "1995-05-27", "rank": 122}, {"date": "1995-06-03", "rank": 133}, {"date": "1995-06-10", "rank": 153}, {"date": "1995-06-17", "rank": 174}, {"date": "1995-06-24", "rank": 190}, {"date": "1995-07-01", "rank": 172}, {"date": "1995-07-08", "rank": 197}]}
+{
+  "id": "from-the-cradle-eric-clapton",
+  "title": "From The Cradle",
+  "artist": "Eric Clapton",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1994-10-01",
+      "rank": 1
+    },
+    {
+      "date": "1994-10-08",
+      "rank": 2
+    },
+    {
+      "date": "1994-10-15",
+      "rank": 3
+    },
+    {
+      "date": "1994-10-22",
+      "rank": 3
+    },
+    {
+      "date": "1994-10-29",
+      "rank": 3
+    },
+    {
+      "date": "1994-11-05",
+      "rank": 7
+    },
+    {
+      "date": "1994-11-12",
+      "rank": 6
+    },
+    {
+      "date": "1994-11-19",
+      "rank": 10
+    },
+    {
+      "date": "1994-11-26",
+      "rank": 17
+    },
+    {
+      "date": "1994-12-03",
+      "rank": 19
+    },
+    {
+      "date": "1994-12-10",
+      "rank": 17
+    },
+    {
+      "date": "1994-12-17",
+      "rank": 20
+    },
+    {
+      "date": "1994-12-24",
+      "rank": 24
+    },
+    {
+      "date": "1994-12-31",
+      "rank": 22
+    },
+    {
+      "date": "1995-01-07",
+      "rank": 20
+    },
+    {
+      "date": "1995-01-14",
+      "rank": 33
+    },
+    {
+      "date": "1995-01-21",
+      "rank": 32
+    },
+    {
+      "date": "1995-01-28",
+      "rank": 33
+    },
+    {
+      "date": "1995-02-04",
+      "rank": 42
+    },
+    {
+      "date": "1995-02-11",
+      "rank": 53
+    },
+    {
+      "date": "1995-02-18",
+      "rank": 72
+    },
+    {
+      "date": "1995-02-25",
+      "rank": 76
+    },
+    {
+      "date": "1995-03-04",
+      "rank": 74
+    },
+    {
+      "date": "1995-03-11",
+      "rank": 73
+    },
+    {
+      "date": "1995-03-18",
+      "rank": 59
+    },
+    {
+      "date": "1995-03-25",
+      "rank": 61
+    },
+    {
+      "date": "1995-04-01",
+      "rank": 83
+    },
+    {
+      "date": "1995-04-08",
+      "rank": 99
+    },
+    {
+      "date": "1995-04-15",
+      "rank": 118
+    },
+    {
+      "date": "1995-04-22",
+      "rank": 132
+    },
+    {
+      "date": "1995-04-29",
+      "rank": 148
+    },
+    {
+      "date": "1995-05-06",
+      "rank": 159
+    },
+    {
+      "date": "1995-05-13",
+      "rank": 161
+    },
+    {
+      "date": "1995-05-20",
+      "rank": 147
+    },
+    {
+      "date": "1995-05-27",
+      "rank": 122
+    },
+    {
+      "date": "1995-06-03",
+      "rank": 133
+    },
+    {
+      "date": "1995-06-10",
+      "rank": 153
+    },
+    {
+      "date": "1995-06-17",
+      "rank": 174
+    },
+    {
+      "date": "1995-06-24",
+      "rank": 190
+    },
+    {
+      "date": "1995-07-01",
+      "rank": 172
+    },
+    {
+      "date": "1995-07-08",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blues Before Sunrise",
+      "id": null
+    },
+    {
+      "title": "Third Degree",
+      "id": null
+    },
+    {
+      "title": "Reconsider Baby",
+      "id": null
+    },
+    {
+      "title": "Hoochie Coochie Man",
+      "id": null
+    },
+    {
+      "title": "Five Long Years",
+      "id": null
+    },
+    {
+      "title": "I’m Tore Down",
+      "id": null
+    },
+    {
+      "title": "How Long Blues",
+      "id": null
+    },
+    {
+      "title": "Goin’ Away Baby",
+      "id": null
+    },
+    {
+      "title": "Blues Leave Me Alone",
+      "id": null
+    },
+    {
+      "title": "Sinner’s Prayer",
+      "id": null
+    },
+    {
+      "title": "Motherless Child",
+      "id": null
+    },
+    {
+      "title": "It Hurts Me Too",
+      "id": null
+    },
+    {
+      "title": "Someday After a While",
+      "id": null
+    },
+    {
+      "title": "Standin’ Round Crying",
+      "id": null
+    },
+    {
+      "title": "Driftin’",
+      "id": null
+    },
+    {
+      "title": "Groaning the Blues",
+      "id": null
+    }
+  ]
+}

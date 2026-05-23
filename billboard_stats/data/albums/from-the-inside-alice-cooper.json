@@ -1,1 +1,94 @@
-{"id": "from-the-inside-alice-cooper", "title": "From The Inside", "artist": "Alice Cooper", "peak": 60, "history": [{"date": "1978-12-16", "rank": 126}, {"date": "1978-12-23", "rank": 98}, {"date": "1978-12-30", "rank": 98}, {"date": "1979-01-06", "rank": 86}, {"date": "1979-01-13", "rank": 76}, {"date": "1979-01-20", "rank": 66}, {"date": "1979-01-27", "rank": 60}, {"date": "1979-02-03", "rank": 112}, {"date": "1979-02-10", "rank": 142}, {"date": "1979-02-17", "rank": 138}, {"date": "1979-02-24", "rank": 196}]}
+{
+  "id": "from-the-inside-alice-cooper",
+  "title": "From The Inside",
+  "artist": "Alice Cooper",
+  "peak": 60,
+  "history": [
+    {
+      "date": "1978-12-16",
+      "rank": 126
+    },
+    {
+      "date": "1978-12-23",
+      "rank": 98
+    },
+    {
+      "date": "1978-12-30",
+      "rank": 98
+    },
+    {
+      "date": "1979-01-06",
+      "rank": 86
+    },
+    {
+      "date": "1979-01-13",
+      "rank": 76
+    },
+    {
+      "date": "1979-01-20",
+      "rank": 66
+    },
+    {
+      "date": "1979-01-27",
+      "rank": 60
+    },
+    {
+      "date": "1979-02-03",
+      "rank": 112
+    },
+    {
+      "date": "1979-02-10",
+      "rank": 142
+    },
+    {
+      "date": "1979-02-17",
+      "rank": 138
+    },
+    {
+      "date": "1979-02-24",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "How You Gonna See Me Now",
+      "id": "how-you-gonna-see-me-now-alice-cooper"
+    },
+    {
+      "title": "Inmates (We’re All Crazy)",
+      "id": "clones-we-re-all-alice-cooper"
+    },
+    {
+      "title": "From the Inside",
+      "id": null
+    },
+    {
+      "title": "Wish I Were Born in Beverly Hills",
+      "id": null
+    },
+    {
+      "title": "The Quiet Room",
+      "id": null
+    },
+    {
+      "title": "Nurse Rozetta",
+      "id": null
+    },
+    {
+      "title": "Millie and Billie",
+      "id": null
+    },
+    {
+      "title": "Serious",
+      "id": null
+    },
+    {
+      "title": "For Veronica’s Sake",
+      "id": null
+    },
+    {
+      "title": "Jackknife Johnny",
+      "id": null
+    }
+  ]
+}

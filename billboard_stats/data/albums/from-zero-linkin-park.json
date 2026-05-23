@@ -1,1 +1,90 @@
-{"id": "from-zero-linkin-park", "title": "From Zero", "artist": "Linkin Park", "peak": 2, "history": [{"date": "2024-11-30", "rank": 2}, {"date": "2024-12-07", "rank": 30}, {"date": "2024-12-14", "rank": 68}, {"date": "2024-12-21", "rank": 89}, {"date": "2024-12-28", "rank": 102}, {"date": "2025-01-04", "rank": 145}, {"date": "2025-01-11", "rank": 151}, {"date": "2025-01-18", "rank": 193}, {"date": "2025-05-31", "rank": 71}]}
+{
+  "id": "from-zero-linkin-park",
+  "title": "From Zero",
+  "artist": "Linkin Park",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2024-11-30",
+      "rank": 2
+    },
+    {
+      "date": "2024-12-07",
+      "rank": 30
+    },
+    {
+      "date": "2024-12-14",
+      "rank": 68
+    },
+    {
+      "date": "2024-12-21",
+      "rank": 89
+    },
+    {
+      "date": "2024-12-28",
+      "rank": 102
+    },
+    {
+      "date": "2025-01-04",
+      "rank": 145
+    },
+    {
+      "date": "2025-01-11",
+      "rank": 151
+    },
+    {
+      "date": "2025-01-18",
+      "rank": 193
+    },
+    {
+      "date": "2025-05-31",
+      "rank": 71
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Emptiness Machine",
+      "id": "the-emptiness-machine-linkin-park"
+    },
+    {
+      "title": "Heavy Is the Crown",
+      "id": "heavy-is-the-crown-linkin-park"
+    },
+    {
+      "title": "From Zero (Intro)",
+      "id": null
+    },
+    {
+      "title": "Cut the Bridge",
+      "id": null
+    },
+    {
+      "title": "Over Each Other",
+      "id": null
+    },
+    {
+      "title": "Casualty",
+      "id": null
+    },
+    {
+      "title": "Overflow",
+      "id": null
+    },
+    {
+      "title": "Two Faced",
+      "id": null
+    },
+    {
+      "title": "Stained",
+      "id": null
+    },
+    {
+      "title": "IGYEIH",
+      "id": null
+    },
+    {
+      "title": "Good Things Go",
+      "id": null
+    }
+  ]
+}
