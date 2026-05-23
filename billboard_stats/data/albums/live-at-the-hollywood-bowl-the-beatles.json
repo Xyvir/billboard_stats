@@ -1,1 +1,82 @@
-{"id": "live-at-the-hollywood-bowl-the-beatles", "title": "Live At The Hollywood Bowl", "artist": "The Beatles", "peak": 7, "history": [{"date": "2016-10-01", "rank": 7}, {"date": "2016-10-08", "rank": 37}, {"date": "2016-10-15", "rank": 99}, {"date": "2016-10-22", "rank": 136}, {"date": "2016-12-10", "rank": 152}]}
+{
+  "id": "live-at-the-hollywood-bowl-the-beatles",
+  "title": "Live At The Hollywood Bowl",
+  "artist": "The Beatles",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2016-10-01",
+      "rank": 7
+    },
+    {
+      "date": "2016-10-08",
+      "rank": 37
+    },
+    {
+      "date": "2016-10-15",
+      "rank": 99
+    },
+    {
+      "date": "2016-10-22",
+      "rank": 136
+    },
+    {
+      "date": "2016-12-10",
+      "rank": 152
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Twist and Shout",
+      "id": "twist-and-shout-the-beatles"
+    },
+    {
+      "title": "You Can’t Do That",
+      "id": "you-can-t-do-that-the-beatles"
+    },
+    {
+      "title": "All My Loving",
+      "id": "all-my-loving-the-beatles"
+    },
+    {
+      "title": "She Loves You",
+      "id": "she-loves-you-the-beatles"
+    },
+    {
+      "title": "Roll Over Beethoven",
+      "id": "roll-over-beethoven-the-beatles"
+    },
+    {
+      "title": "Can’t Buy Me Love",
+      "id": "can-t-buy-me-love-the-beatles"
+    },
+    {
+      "title": "If I Fell",
+      "id": "if-i-fell-the-beatles"
+    },
+    {
+      "title": "I Want to Hold Your Hand",
+      "id": "i-want-to-hold-your-hand-the-beatles"
+    },
+    {
+      "title": "A Hard Day’s Night",
+      "id": "a-hard-day-s-night-the-beatles"
+    },
+    {
+      "title": "[intro]",
+      "id": null
+    },
+    {
+      "title": "Things We Said Today",
+      "id": null
+    },
+    {
+      "title": "Boys",
+      "id": null
+    },
+    {
+      "title": "Long Tall Sally",
+      "id": null
+    }
+  ]
+}

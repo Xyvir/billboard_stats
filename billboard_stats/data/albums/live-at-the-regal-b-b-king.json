@@ -1,1 +1,54 @@
-{"id": "live-at-the-regal-b-b-king", "title": "Live At The Regal", "artist": "B.B. King", "peak": 56, "history": [{"date": "2015-05-30", "rank": 56}]}
+{
+  "id": "live-at-the-regal-b-b-king",
+  "title": "Live At The Regal",
+  "artist": "B.B. King",
+  "peak": 56,
+  "history": [
+    {
+      "date": "2015-05-30",
+      "rank": 56
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Every Day I Have the Blues",
+      "id": "why-i-sing-the-blues-b-b-king"
+    },
+    {
+      "title": "Sweet Little Angel",
+      "id": "sweet-sixteen-b-b-king"
+    },
+    {
+      "title": "You Upset Me Baby",
+      "id": "rock-me-baby-b-b-king"
+    },
+    {
+      "title": "Help the Poor",
+      "id": "help-the-poor-b-b-king"
+    },
+    {
+      "title": "It’s My Own Fault",
+      "id": null
+    },
+    {
+      "title": "How Blue Can You Get?",
+      "id": null
+    },
+    {
+      "title": "Please Love Me",
+      "id": null
+    },
+    {
+      "title": "Worry, Worry",
+      "id": null
+    },
+    {
+      "title": "Woke Up This Mornin’",
+      "id": null
+    },
+    {
+      "title": "You Done Lost Your Good Thing Now",
+      "id": null
+    }
+  ]
+}

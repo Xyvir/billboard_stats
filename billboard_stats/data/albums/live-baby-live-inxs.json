@@ -1,1 +1,70 @@
-{"id": "live-baby-live-inxs", "title": "Live Baby Live", "artist": "INXS", "peak": 72, "history": [{"date": "1991-11-23", "rank": 72}, {"date": "1991-11-30", "rank": 90}, {"date": "1991-12-07", "rank": 87}, {"date": "1991-12-14", "rank": 93}, {"date": "1991-12-21", "rank": 150}, {"date": "1991-12-28", "rank": 150}, {"date": "1992-01-04", "rank": 162}, {"date": "1992-01-11", "rank": 126}, {"date": "1992-01-18", "rank": 157}, {"date": "1992-01-25", "rank": 183}, {"date": "1992-02-01", "rank": 199}]}
+{
+  "id": "live-baby-live-inxs",
+  "title": "Live Baby Live",
+  "artist": "INXS",
+  "peak": 72,
+  "history": [
+    {
+      "date": "1991-11-23",
+      "rank": 72
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 90
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 87
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 93
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 150
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 150
+    },
+    {
+      "date": "1992-01-04",
+      "rank": 162
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 126
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 157
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 183
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Send a Message (live)",
+      "id": "i-send-a-message-inxs"
+    },
+    {
+      "title": "Bitter Tears (live)",
+      "id": "bitter-tears-inxs"
+    },
+    {
+      "title": "Mystify (live)",
+      "id": null
+    },
+    {
+      "title": "Faith in Each Other (live)",
+      "id": null
+    }
+  ]
+}

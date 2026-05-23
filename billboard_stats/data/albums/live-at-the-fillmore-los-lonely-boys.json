@@ -1,1 +1,74 @@
-{"id": "live-at-the-fillmore-los-lonely-boys", "title": "Live At The Fillmore", "artist": "Los Lonely Boys", "peak": 69, "history": [{"date": "2005-03-12", "rank": 69}, {"date": "2005-03-19", "rank": 102}, {"date": "2005-03-26", "rank": 135}, {"date": "2005-04-02", "rank": 163}]}
+{
+  "id": "live-at-the-fillmore-los-lonely-boys",
+  "title": "Live At The Fillmore",
+  "artist": "Los Lonely Boys",
+  "peak": 69,
+  "history": [
+    {
+      "date": "2005-03-12",
+      "rank": 69
+    },
+    {
+      "date": "2005-03-19",
+      "rank": 102
+    },
+    {
+      "date": "2005-03-26",
+      "rank": 135
+    },
+    {
+      "date": "2005-04-02",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heaven",
+      "id": "heaven-los-lonely-boys"
+    },
+    {
+      "title": "Crazy Dream",
+      "id": null
+    },
+    {
+      "title": "Hollywood",
+      "id": null
+    },
+    {
+      "title": "Man to Beat",
+      "id": null
+    },
+    {
+      "title": "More Than Love",
+      "id": null
+    },
+    {
+      "title": "Nobody Else",
+      "id": null
+    },
+    {
+      "title": "Dime Mi Amor",
+      "id": null
+    },
+    {
+      "title": "Onda",
+      "id": null
+    },
+    {
+      "title": "Velvet Sky",
+      "id": null
+    },
+    {
+      "title": "Cisco Kid",
+      "id": null
+    },
+    {
+      "title": "La Bamba",
+      "id": null
+    },
+    {
+      "title": "Real Emotions",
+      "id": null
+    }
+  ]
+}

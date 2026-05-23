@@ -1,1 +1,54 @@
-{"id": "live-at-third-man-records-billie-eilish", "title": "Live At Third Man Records", "artist": "Billie Eilish", "peak": 55, "history": [{"date": "2020-09-12", "rank": 55}]}
+{
+  "id": "live-at-third-man-records-billie-eilish",
+  "title": "Live At Third Man Records",
+  "artist": "Billie Eilish",
+  "peak": 55,
+  "history": [
+    {
+      "date": "2020-09-12",
+      "rank": 55
+    }
+  ],
+  "tracks": [
+    {
+      "title": "all the good girls go to hell",
+      "id": "all-the-good-girls-go-to-hell-billie-eilish"
+    },
+    {
+      "title": "ocean eyes",
+      "id": "ocean-eyes-billie-eilish"
+    },
+    {
+      "title": "bad guy",
+      "id": "bad-guy-billie-eilish"
+    },
+    {
+      "title": "idontwannabeyouanymore",
+      "id": "idontwannabeyouanymore-billie-eilish"
+    },
+    {
+      "title": "bury a friend",
+      "id": "bury-a-friend-billie-eilish"
+    },
+    {
+      "title": "come out and play",
+      "id": "come-out-and-play-billie-eilish"
+    },
+    {
+      "title": "i love you",
+      "id": "i-love-you-billie-eilish"
+    },
+    {
+      "title": "when the party’s over",
+      "id": "when-the-party-s-over-billie-eilish"
+    },
+    {
+      "title": "COPYCAT",
+      "id": null
+    },
+    {
+      "title": "bellyache",
+      "id": null
+    }
+  ]
+}
