@@ -1,1 +1,54 @@
-{"id": "electric-folklore-live-the-alarm", "title": "Electric Folklore Live", "artist": "The Alarm", "peak": 167, "history": [{"date": "1988-10-29", "rank": 185}, {"date": "1988-11-05", "rank": 181}, {"date": "1988-11-12", "rank": 167}, {"date": "1988-11-19", "rank": 167}, {"date": "1988-11-26", "rank": 197}]}
+{
+  "id": "electric-folklore-live-the-alarm",
+  "title": "Electric Folklore Live",
+  "artist": "The Alarm",
+  "peak": 167,
+  "history": [
+    {
+      "date": "1988-10-29",
+      "rank": 185
+    },
+    {
+      "date": "1988-11-05",
+      "rank": 181
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 167
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 167
+    },
+    {
+      "date": "1988-11-26",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Strength",
+      "id": "strength-the-alarm"
+    },
+    {
+      "title": "Rain in the Summertime",
+      "id": "rain-in-the-summertime-the-alarm"
+    },
+    {
+      "title": "Rescue Me",
+      "id": null
+    },
+    {
+      "title": "Spirit of '76",
+      "id": null
+    },
+    {
+      "title": "Permanence in Change",
+      "id": null
+    },
+    {
+      "title": "Blaze of Glory",
+      "id": null
+    }
+  ]
+}

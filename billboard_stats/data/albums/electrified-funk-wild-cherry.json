@@ -1,1 +1,86 @@
-{"id": "electrified-funk-wild-cherry", "title": "Electrified Funk", "artist": "Wild Cherry", "peak": 51, "history": [{"date": "1977-04-02", "rank": 96}, {"date": "1977-04-09", "rank": 68}, {"date": "1977-04-16", "rank": 58}, {"date": "1977-04-23", "rank": 51}, {"date": "1977-04-30", "rank": 52}, {"date": "1977-05-07", "rank": 59}, {"date": "1977-05-14", "rank": 112}, {"date": "1977-05-21", "rank": 146}, {"date": "1977-05-28", "rank": 177}]}
+{
+  "id": "electrified-funk-wild-cherry",
+  "title": "Electrified Funk",
+  "artist": "Wild Cherry",
+  "peak": 51,
+  "history": [
+    {
+      "date": "1977-04-02",
+      "rank": 96
+    },
+    {
+      "date": "1977-04-09",
+      "rank": 68
+    },
+    {
+      "date": "1977-04-16",
+      "rank": 58
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 51
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 52
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 59
+    },
+    {
+      "date": "1977-05-14",
+      "rank": 112
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 146
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Baby Don’t You Know",
+      "id": "baby-don-t-you-know-wild-cherry"
+    },
+    {
+      "title": "Hot to Trot",
+      "id": "hot-to-trot-wild-cherry"
+    },
+    {
+      "title": "Are You Boogieing Around on Your Daddy",
+      "id": null
+    },
+    {
+      "title": "Dancin' Music Band",
+      "id": null
+    },
+    {
+      "title": "Put Yourself in My Shoes",
+      "id": null
+    },
+    {
+      "title": "Closest Thing to My Mind",
+      "id": null
+    },
+    {
+      "title": "Electrified Funk",
+      "id": null
+    },
+    {
+      "title": "Hole in the Wall",
+      "id": null
+    },
+    {
+      "title": "Hold On (with strings)",
+      "id": null
+    },
+    {
+      "title": "It’s All Up to You",
+      "id": null
+    }
+  ]
+}

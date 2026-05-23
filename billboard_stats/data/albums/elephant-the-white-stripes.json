@@ -1,1 +1,298 @@
-{"id": "elephant-the-white-stripes", "title": "Elephant", "artist": "The White Stripes", "peak": 6, "history": [{"date": "2003-04-19", "rank": 6}, {"date": "2003-04-26", "rank": 13}, {"date": "2003-05-03", "rank": 21}, {"date": "2003-05-10", "rank": 15}, {"date": "2003-05-17", "rank": 18}, {"date": "2003-05-24", "rank": 18}, {"date": "2003-05-31", "rank": 19}, {"date": "2003-06-07", "rank": 25}, {"date": "2003-06-14", "rank": 23}, {"date": "2003-06-21", "rank": 20}, {"date": "2003-06-28", "rank": 30}, {"date": "2003-07-05", "rank": 27}, {"date": "2003-07-12", "rank": 30}, {"date": "2003-07-19", "rank": 29}, {"date": "2003-07-26", "rank": 36}, {"date": "2003-08-02", "rank": 39}, {"date": "2003-08-09", "rank": 38}, {"date": "2003-08-16", "rank": 38}, {"date": "2003-08-23", "rank": 34}, {"date": "2003-08-30", "rank": 40}, {"date": "2003-09-06", "rank": 48}, {"date": "2003-09-13", "rank": 39}, {"date": "2003-09-20", "rank": 35}, {"date": "2003-09-27", "rank": 38}, {"date": "2003-10-04", "rank": 45}, {"date": "2003-10-11", "rank": 63}, {"date": "2003-10-18", "rank": 61}, {"date": "2003-10-25", "rank": 69}, {"date": "2003-11-01", "rank": 71}, {"date": "2003-11-08", "rank": 76}, {"date": "2003-11-15", "rank": 80}, {"date": "2003-11-22", "rank": 105}, {"date": "2003-11-29", "rank": 107}, {"date": "2003-12-06", "rank": 112}, {"date": "2003-12-13", "rank": 119}, {"date": "2003-12-20", "rank": 119}, {"date": "2003-12-27", "rank": 125}, {"date": "2004-01-03", "rank": 115}, {"date": "2004-01-10", "rank": 93}, {"date": "2004-01-17", "rank": 83}, {"date": "2004-01-24", "rank": 86}, {"date": "2004-01-31", "rank": 88}, {"date": "2004-02-07", "rank": 86}, {"date": "2004-02-14", "rank": 102}, {"date": "2004-02-21", "rank": 105}, {"date": "2004-02-28", "rank": 44}, {"date": "2004-03-06", "rank": 59}, {"date": "2004-03-13", "rank": 81}, {"date": "2004-03-20", "rank": 99}, {"date": "2004-03-27", "rank": 114}, {"date": "2004-04-03", "rank": 110}, {"date": "2004-04-10", "rank": 127}, {"date": "2004-04-17", "rank": 146}, {"date": "2004-04-24", "rank": 163}, {"date": "2004-05-01", "rank": 178}, {"date": "2004-05-08", "rank": 181}, {"date": "2004-05-15", "rank": 175}, {"date": "2023-05-06", "rank": 105}]}
+{
+  "id": "elephant-the-white-stripes",
+  "title": "Elephant",
+  "artist": "The White Stripes",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2003-04-19",
+      "rank": 6
+    },
+    {
+      "date": "2003-04-26",
+      "rank": 13
+    },
+    {
+      "date": "2003-05-03",
+      "rank": 21
+    },
+    {
+      "date": "2003-05-10",
+      "rank": 15
+    },
+    {
+      "date": "2003-05-17",
+      "rank": 18
+    },
+    {
+      "date": "2003-05-24",
+      "rank": 18
+    },
+    {
+      "date": "2003-05-31",
+      "rank": 19
+    },
+    {
+      "date": "2003-06-07",
+      "rank": 25
+    },
+    {
+      "date": "2003-06-14",
+      "rank": 23
+    },
+    {
+      "date": "2003-06-21",
+      "rank": 20
+    },
+    {
+      "date": "2003-06-28",
+      "rank": 30
+    },
+    {
+      "date": "2003-07-05",
+      "rank": 27
+    },
+    {
+      "date": "2003-07-12",
+      "rank": 30
+    },
+    {
+      "date": "2003-07-19",
+      "rank": 29
+    },
+    {
+      "date": "2003-07-26",
+      "rank": 36
+    },
+    {
+      "date": "2003-08-02",
+      "rank": 39
+    },
+    {
+      "date": "2003-08-09",
+      "rank": 38
+    },
+    {
+      "date": "2003-08-16",
+      "rank": 38
+    },
+    {
+      "date": "2003-08-23",
+      "rank": 34
+    },
+    {
+      "date": "2003-08-30",
+      "rank": 40
+    },
+    {
+      "date": "2003-09-06",
+      "rank": 48
+    },
+    {
+      "date": "2003-09-13",
+      "rank": 39
+    },
+    {
+      "date": "2003-09-20",
+      "rank": 35
+    },
+    {
+      "date": "2003-09-27",
+      "rank": 38
+    },
+    {
+      "date": "2003-10-04",
+      "rank": 45
+    },
+    {
+      "date": "2003-10-11",
+      "rank": 63
+    },
+    {
+      "date": "2003-10-18",
+      "rank": 61
+    },
+    {
+      "date": "2003-10-25",
+      "rank": 69
+    },
+    {
+      "date": "2003-11-01",
+      "rank": 71
+    },
+    {
+      "date": "2003-11-08",
+      "rank": 76
+    },
+    {
+      "date": "2003-11-15",
+      "rank": 80
+    },
+    {
+      "date": "2003-11-22",
+      "rank": 105
+    },
+    {
+      "date": "2003-11-29",
+      "rank": 107
+    },
+    {
+      "date": "2003-12-06",
+      "rank": 112
+    },
+    {
+      "date": "2003-12-13",
+      "rank": 119
+    },
+    {
+      "date": "2003-12-20",
+      "rank": 119
+    },
+    {
+      "date": "2003-12-27",
+      "rank": 125
+    },
+    {
+      "date": "2004-01-03",
+      "rank": 115
+    },
+    {
+      "date": "2004-01-10",
+      "rank": 93
+    },
+    {
+      "date": "2004-01-17",
+      "rank": 83
+    },
+    {
+      "date": "2004-01-24",
+      "rank": 86
+    },
+    {
+      "date": "2004-01-31",
+      "rank": 88
+    },
+    {
+      "date": "2004-02-07",
+      "rank": 86
+    },
+    {
+      "date": "2004-02-14",
+      "rank": 102
+    },
+    {
+      "date": "2004-02-21",
+      "rank": 105
+    },
+    {
+      "date": "2004-02-28",
+      "rank": 44
+    },
+    {
+      "date": "2004-03-06",
+      "rank": 59
+    },
+    {
+      "date": "2004-03-13",
+      "rank": 81
+    },
+    {
+      "date": "2004-03-20",
+      "rank": 99
+    },
+    {
+      "date": "2004-03-27",
+      "rank": 114
+    },
+    {
+      "date": "2004-04-03",
+      "rank": 110
+    },
+    {
+      "date": "2004-04-10",
+      "rank": 127
+    },
+    {
+      "date": "2004-04-17",
+      "rank": 146
+    },
+    {
+      "date": "2004-04-24",
+      "rank": 163
+    },
+    {
+      "date": "2004-05-01",
+      "rank": 178
+    },
+    {
+      "date": "2004-05-08",
+      "rank": 181
+    },
+    {
+      "date": "2004-05-15",
+      "rank": 175
+    },
+    {
+      "date": "2023-05-06",
+      "rank": 105
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Seven Nation Army",
+      "id": "seven-nation-army-the-white-stripes"
+    },
+    {
+      "title": "Black Math",
+      "id": null
+    },
+    {
+      "title": "There’s No Home for You Here",
+      "id": null
+    },
+    {
+      "title": "I Just Don’t Know What to Do With Myself",
+      "id": null
+    },
+    {
+      "title": "In the Cold, Cold Night",
+      "id": null
+    },
+    {
+      "title": "I Want to Be the Boy to Warm Your Mother’s Heart",
+      "id": null
+    },
+    {
+      "title": "You’ve Got Her in Your Pocket",
+      "id": null
+    },
+    {
+      "title": "Ball and Biscuit",
+      "id": null
+    },
+    {
+      "title": "The Hardest Button to Button",
+      "id": null
+    },
+    {
+      "title": "Little Acorns",
+      "id": null
+    },
+    {
+      "title": "Hypnotize",
+      "id": null
+    },
+    {
+      "title": "The Air Near My Fingers",
+      "id": null
+    },
+    {
+      "title": "Girl, You Have No Faith in Medicine",
+      "id": null
+    },
+    {
+      "title": "Well It’s True That We Love One Another",
+      "id": null
+    }
+  ]
+}

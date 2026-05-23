@@ -1,1 +1,266 @@
-{"id": "electric-youth-debbie-gibson", "title": "Electric Youth", "artist": "Debbie Gibson", "peak": 1, "history": [{"date": "1989-02-11", "rank": 42}, {"date": "1989-02-18", "rank": 11}, {"date": "1989-02-25", "rank": 5}, {"date": "1989-03-04", "rank": 3}, {"date": "1989-03-11", "rank": 1}, {"date": "1989-03-18", "rank": 1}, {"date": "1989-03-25", "rank": 1}, {"date": "1989-04-01", "rank": 1}, {"date": "1989-04-08", "rank": 1}, {"date": "1989-04-15", "rank": 2}, {"date": "1989-04-22", "rank": 3}, {"date": "1989-04-29", "rank": 4}, {"date": "1989-05-06", "rank": 8}, {"date": "1989-05-13", "rank": 8}, {"date": "1989-05-20", "rank": 10}, {"date": "1989-05-27", "rank": 13}, {"date": "1989-06-03", "rank": 15}, {"date": "1989-06-10", "rank": 18}, {"date": "1989-06-17", "rank": 18}, {"date": "1989-06-24", "rank": 21}, {"date": "1989-07-01", "rank": 25}, {"date": "1989-07-08", "rank": 28}, {"date": "1989-07-15", "rank": 31}, {"date": "1989-07-22", "rank": 34}, {"date": "1989-07-29", "rank": 37}, {"date": "1989-08-05", "rank": 42}, {"date": "1989-08-12", "rank": 41}, {"date": "1989-08-19", "rank": 39}, {"date": "1989-08-26", "rank": 42}, {"date": "1989-09-02", "rank": 45}, {"date": "1989-09-09", "rank": 44}, {"date": "1989-09-16", "rank": 47}, {"date": "1989-09-23", "rank": 55}, {"date": "1989-09-30", "rank": 62}, {"date": "1989-10-07", "rank": 72}, {"date": "1989-10-14", "rank": 79}, {"date": "1989-10-21", "rank": 89}, {"date": "1989-10-28", "rank": 98}, {"date": "1989-11-04", "rank": 115}, {"date": "1989-11-11", "rank": 122}, {"date": "1989-11-18", "rank": 137}, {"date": "1989-11-25", "rank": 136}, {"date": "1989-12-02", "rank": 143}, {"date": "1989-12-09", "rank": 136}, {"date": "1989-12-16", "rank": 136}, {"date": "1989-12-23", "rank": 138}, {"date": "1989-12-30", "rank": 139}, {"date": "1990-01-06", "rank": 139}, {"date": "1990-01-13", "rank": 133}, {"date": "1990-01-20", "rank": 154}, {"date": "1990-01-27", "rank": 189}]}
+{
+  "id": "electric-youth-debbie-gibson",
+  "title": "Electric Youth",
+  "artist": "Debbie Gibson",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1989-02-11",
+      "rank": 42
+    },
+    {
+      "date": "1989-02-18",
+      "rank": 11
+    },
+    {
+      "date": "1989-02-25",
+      "rank": 5
+    },
+    {
+      "date": "1989-03-04",
+      "rank": 3
+    },
+    {
+      "date": "1989-03-11",
+      "rank": 1
+    },
+    {
+      "date": "1989-03-18",
+      "rank": 1
+    },
+    {
+      "date": "1989-03-25",
+      "rank": 1
+    },
+    {
+      "date": "1989-04-01",
+      "rank": 1
+    },
+    {
+      "date": "1989-04-08",
+      "rank": 1
+    },
+    {
+      "date": "1989-04-15",
+      "rank": 2
+    },
+    {
+      "date": "1989-04-22",
+      "rank": 3
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 4
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 8
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 8
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 10
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 13
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 15
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 18
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 18
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 21
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 25
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 28
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 31
+    },
+    {
+      "date": "1989-07-22",
+      "rank": 34
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 37
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 42
+    },
+    {
+      "date": "1989-08-12",
+      "rank": 41
+    },
+    {
+      "date": "1989-08-19",
+      "rank": 39
+    },
+    {
+      "date": "1989-08-26",
+      "rank": 42
+    },
+    {
+      "date": "1989-09-02",
+      "rank": 45
+    },
+    {
+      "date": "1989-09-09",
+      "rank": 44
+    },
+    {
+      "date": "1989-09-16",
+      "rank": 47
+    },
+    {
+      "date": "1989-09-23",
+      "rank": 55
+    },
+    {
+      "date": "1989-09-30",
+      "rank": 62
+    },
+    {
+      "date": "1989-10-07",
+      "rank": 72
+    },
+    {
+      "date": "1989-10-14",
+      "rank": 79
+    },
+    {
+      "date": "1989-10-21",
+      "rank": 89
+    },
+    {
+      "date": "1989-10-28",
+      "rank": 98
+    },
+    {
+      "date": "1989-11-04",
+      "rank": 115
+    },
+    {
+      "date": "1989-11-11",
+      "rank": 122
+    },
+    {
+      "date": "1989-11-18",
+      "rank": 137
+    },
+    {
+      "date": "1989-11-25",
+      "rank": 136
+    },
+    {
+      "date": "1989-12-02",
+      "rank": 143
+    },
+    {
+      "date": "1989-12-09",
+      "rank": 136
+    },
+    {
+      "date": "1989-12-16",
+      "rank": 136
+    },
+    {
+      "date": "1989-12-23",
+      "rank": 138
+    },
+    {
+      "date": "1989-12-30",
+      "rank": 139
+    },
+    {
+      "date": "1990-01-06",
+      "rank": 139
+    },
+    {
+      "date": "1990-01-13",
+      "rank": 133
+    },
+    {
+      "date": "1990-01-20",
+      "rank": 154
+    },
+    {
+      "date": "1990-01-27",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lost in Your Eyes",
+      "id": "lost-in-your-eyes-debbie-gibson"
+    },
+    {
+      "title": "Electric Youth",
+      "id": "electric-youth-debbie-gibson"
+    },
+    {
+      "title": "No More Rhyme",
+      "id": "no-more-rhyme-debbie-gibson"
+    },
+    {
+      "title": "We Could Be Together",
+      "id": "we-could-be-together-debbie-gibson"
+    },
+    {
+      "title": "We Could Be Together (Campfire mix)",
+      "id": "we-could-be-together-debbie-gibson"
+    },
+    {
+      "title": "No More Rhyme (acoustic mix)",
+      "id": "no-more-rhyme-debbie-gibson"
+    },
+    {
+      "title": "Who Loves Ya Baby?",
+      "id": null
+    },
+    {
+      "title": "Love in Disguise",
+      "id": null
+    },
+    {
+      "title": "Helplessly in Love",
+      "id": null
+    },
+    {
+      "title": "Silence Speaks (a Thousand Words)",
+      "id": null
+    },
+    {
+      "title": "Should’ve Been the One",
+      "id": null
+    },
+    {
+      "title": "Over the Wall",
+      "id": null
+    },
+    {
+      "title": "Shades of the Past",
+      "id": null
+    }
+  ]
+}

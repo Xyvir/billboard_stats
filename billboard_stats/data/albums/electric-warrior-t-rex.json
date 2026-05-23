@@ -1,1 +1,78 @@
-{"id": "electric-warrior-t-rex", "title": "Electric Warrior", "artist": "T. Rex", "peak": 100, "history": [{"date": "1972-05-20", "rank": 100}, {"date": "1972-05-27", "rank": 103}, {"date": "1972-06-03", "rank": 109}, {"date": "1972-06-10", "rank": 120}, {"date": "1972-06-17", "rank": 153}, {"date": "1972-06-24", "rank": 161}]}
+{
+  "id": "electric-warrior-t-rex",
+  "title": "Electric Warrior",
+  "artist": "T. Rex",
+  "peak": 100,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 100
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 103
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 109
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 120
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 153
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Get It On",
+      "id": "bang-a-gong-get-it-on-t-rex"
+    },
+    {
+      "title": "Mambo Sun",
+      "id": null
+    },
+    {
+      "title": "Cosmic Dancer",
+      "id": null
+    },
+    {
+      "title": "Jeepster",
+      "id": null
+    },
+    {
+      "title": "Monolith",
+      "id": null
+    },
+    {
+      "title": "Lean Woman Blues",
+      "id": null
+    },
+    {
+      "title": "Planet Queen",
+      "id": null
+    },
+    {
+      "title": "Girl",
+      "id": null
+    },
+    {
+      "title": "The Motivator",
+      "id": null
+    },
+    {
+      "title": "Life’s a Gas",
+      "id": null
+    },
+    {
+      "title": "Rip Off",
+      "id": null
+    }
+  ]
+}

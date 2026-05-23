@@ -1,1 +1,70 @@
-{"id": "electric-honey-partland-brothers", "title": "Electric Honey", "artist": "Partland Brothers", "peak": 146, "history": [{"date": "1987-06-27", "rank": 169}, {"date": "1987-07-04", "rank": 146}, {"date": "1987-07-11", "rank": 146}, {"date": "1987-07-18", "rank": 155}, {"date": "1987-07-25", "rank": 186}]}
+{
+  "id": "electric-honey-partland-brothers",
+  "title": "Electric Honey",
+  "artist": "Partland Brothers",
+  "peak": 146,
+  "history": [
+    {
+      "date": "1987-06-27",
+      "rank": 169
+    },
+    {
+      "date": "1987-07-04",
+      "rank": 146
+    },
+    {
+      "date": "1987-07-11",
+      "rank": 146
+    },
+    {
+      "date": "1987-07-18",
+      "rank": 155
+    },
+    {
+      "date": "1987-07-25",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Soul City",
+      "id": "soul-city-partland-brothers"
+    },
+    {
+      "title": "Electric Honey",
+      "id": null
+    },
+    {
+      "title": "Best Love",
+      "id": null
+    },
+    {
+      "title": "Heat Up the Feet",
+      "id": null
+    },
+    {
+      "title": "Outside the City",
+      "id": null
+    },
+    {
+      "title": "That's the Way It Will Be",
+      "id": null
+    },
+    {
+      "title": "Walk With Me",
+      "id": null
+    },
+    {
+      "title": "The Reason",
+      "id": null
+    },
+    {
+      "title": "This One's for You",
+      "id": null
+    },
+    {
+      "title": "One Chance",
+      "id": null
+    }
+  ]
+}
