@@ -1,1 +1,206 @@
-{"id": "confessions-on-a-dance-floor-madonna", "title": "Confessions On A Dance Floor", "artist": "Madonna", "peak": 1, "history": [{"date": "2005-12-03", "rank": 1}, {"date": "2005-12-10", "rank": 4}, {"date": "2005-12-17", "rank": 8}, {"date": "2005-12-24", "rank": 13}, {"date": "2005-12-31", "rank": 15}, {"date": "2006-01-07", "rank": 17}, {"date": "2006-01-14", "rank": 21}, {"date": "2006-01-21", "rank": 15}, {"date": "2006-01-28", "rank": 20}, {"date": "2006-02-04", "rank": 24}, {"date": "2006-02-11", "rank": 40}, {"date": "2006-02-18", "rank": 60}, {"date": "2006-02-25", "rank": 59}, {"date": "2006-03-04", "rank": 50}, {"date": "2006-03-11", "rank": 56}, {"date": "2006-03-18", "rank": 53}, {"date": "2006-03-25", "rank": 60}, {"date": "2006-04-01", "rank": 67}, {"date": "2006-04-08", "rank": 75}, {"date": "2006-04-15", "rank": 73}, {"date": "2006-04-22", "rank": 82}, {"date": "2006-04-29", "rank": 102}, {"date": "2006-05-06", "rank": 93}, {"date": "2006-05-13", "rank": 107}, {"date": "2006-05-20", "rank": 115}, {"date": "2006-05-27", "rank": 117}, {"date": "2006-06-03", "rank": 117}, {"date": "2006-06-10", "rank": 120}, {"date": "2006-06-17", "rank": 111}, {"date": "2006-06-24", "rank": 124}, {"date": "2006-07-01", "rank": 140}, {"date": "2006-07-08", "rank": 135}, {"date": "2006-07-15", "rank": 141}, {"date": "2006-07-22", "rank": 135}, {"date": "2006-07-29", "rank": 138}, {"date": "2006-08-05", "rank": 145}, {"date": "2006-08-12", "rank": 174}]}
+{
+  "id": "confessions-on-a-dance-floor-madonna",
+  "title": "Confessions On A Dance Floor",
+  "artist": "Madonna",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2005-12-03",
+      "rank": 1
+    },
+    {
+      "date": "2005-12-10",
+      "rank": 4
+    },
+    {
+      "date": "2005-12-17",
+      "rank": 8
+    },
+    {
+      "date": "2005-12-24",
+      "rank": 13
+    },
+    {
+      "date": "2005-12-31",
+      "rank": 15
+    },
+    {
+      "date": "2006-01-07",
+      "rank": 17
+    },
+    {
+      "date": "2006-01-14",
+      "rank": 21
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 15
+    },
+    {
+      "date": "2006-01-28",
+      "rank": 20
+    },
+    {
+      "date": "2006-02-04",
+      "rank": 24
+    },
+    {
+      "date": "2006-02-11",
+      "rank": 40
+    },
+    {
+      "date": "2006-02-18",
+      "rank": 60
+    },
+    {
+      "date": "2006-02-25",
+      "rank": 59
+    },
+    {
+      "date": "2006-03-04",
+      "rank": 50
+    },
+    {
+      "date": "2006-03-11",
+      "rank": 56
+    },
+    {
+      "date": "2006-03-18",
+      "rank": 53
+    },
+    {
+      "date": "2006-03-25",
+      "rank": 60
+    },
+    {
+      "date": "2006-04-01",
+      "rank": 67
+    },
+    {
+      "date": "2006-04-08",
+      "rank": 75
+    },
+    {
+      "date": "2006-04-15",
+      "rank": 73
+    },
+    {
+      "date": "2006-04-22",
+      "rank": 82
+    },
+    {
+      "date": "2006-04-29",
+      "rank": 102
+    },
+    {
+      "date": "2006-05-06",
+      "rank": 93
+    },
+    {
+      "date": "2006-05-13",
+      "rank": 107
+    },
+    {
+      "date": "2006-05-20",
+      "rank": 115
+    },
+    {
+      "date": "2006-05-27",
+      "rank": 117
+    },
+    {
+      "date": "2006-06-03",
+      "rank": 117
+    },
+    {
+      "date": "2006-06-10",
+      "rank": 120
+    },
+    {
+      "date": "2006-06-17",
+      "rank": 111
+    },
+    {
+      "date": "2006-06-24",
+      "rank": 124
+    },
+    {
+      "date": "2006-07-01",
+      "rank": 140
+    },
+    {
+      "date": "2006-07-08",
+      "rank": 135
+    },
+    {
+      "date": "2006-07-15",
+      "rank": 141
+    },
+    {
+      "date": "2006-07-22",
+      "rank": 135
+    },
+    {
+      "date": "2006-07-29",
+      "rank": 138
+    },
+    {
+      "date": "2006-08-05",
+      "rank": 145
+    },
+    {
+      "date": "2006-08-12",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hung Up",
+      "id": "hung-up-madonna"
+    },
+    {
+      "title": "Get Together",
+      "id": "keep-it-together-madonna"
+    },
+    {
+      "title": "Sorry",
+      "id": "sorry-madonna"
+    },
+    {
+      "title": "Like It or Not",
+      "id": "live-to-tell-madonna"
+    },
+    {
+      "title": "Future Lovers",
+      "id": null
+    },
+    {
+      "title": "I Love New York",
+      "id": null
+    },
+    {
+      "title": "Let It Will Be",
+      "id": null
+    },
+    {
+      "title": "Forbidden Love",
+      "id": null
+    },
+    {
+      "title": "Jump",
+      "id": null
+    },
+    {
+      "title": "How High",
+      "id": null
+    },
+    {
+      "title": "Isaac",
+      "id": null
+    },
+    {
+      "title": "Push",
+      "id": null
+    }
+  ]
+}

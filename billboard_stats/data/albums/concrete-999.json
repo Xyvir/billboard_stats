@@ -1,1 +1,66 @@
-{"id": "concrete-999", "title": "Concrete", "artist": "999", "peak": 192, "history": [{"date": "1981-06-27", "rank": 192}, {"date": "1981-07-04", "rank": 192}]}
+{
+  "id": "concrete-999",
+  "title": "Concrete",
+  "artist": "999",
+  "peak": 192,
+  "history": [
+    {
+      "date": "1981-06-27",
+      "rank": 192
+    },
+    {
+      "date": "1981-07-04",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "So Greedy",
+      "id": null
+    },
+    {
+      "title": "Little Red Riding Hood",
+      "id": null
+    },
+    {
+      "title": "Break It Up",
+      "id": null
+    },
+    {
+      "title": "Taboo",
+      "id": null
+    },
+    {
+      "title": "Mercy Mercy",
+      "id": null
+    },
+    {
+      "title": "Fortune Teller",
+      "id": null
+    },
+    {
+      "title": "Obsessed",
+      "id": null
+    },
+    {
+      "title": "Silent Anger",
+      "id": null
+    },
+    {
+      "title": "That's the Way It Goes",
+      "id": null
+    },
+    {
+      "title": "Bongos on the Nile",
+      "id": null
+    },
+    {
+      "title": "Don't You Know I Need You",
+      "id": null
+    },
+    {
+      "title": "Public Enemy No. 1",
+      "id": null
+    }
+  ]
+}

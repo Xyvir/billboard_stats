@@ -1,1 +1,74 @@
-{"id": "confessions-buckcherry", "title": "Confessions", "artist": "Buckcherry", "peak": 20, "history": [{"date": "2013-03-09", "rank": 20}, {"date": "2013-03-16", "rank": 85}, {"date": "2013-03-23", "rank": 151}]}
+{
+  "id": "confessions-buckcherry",
+  "title": "Confessions",
+  "artist": "Buckcherry",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2013-03-09",
+      "rank": 20
+    },
+    {
+      "date": "2013-03-16",
+      "rank": 85
+    },
+    {
+      "date": "2013-03-23",
+      "rank": 151
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Gluttony",
+      "id": null
+    },
+    {
+      "title": "Wrath",
+      "id": null
+    },
+    {
+      "title": "Nothing Left but Tears",
+      "id": null
+    },
+    {
+      "title": "The Truth",
+      "id": null
+    },
+    {
+      "title": "Greed",
+      "id": null
+    },
+    {
+      "title": "Water",
+      "id": null
+    },
+    {
+      "title": "Seven Ways to Die",
+      "id": null
+    },
+    {
+      "title": "Air",
+      "id": null
+    },
+    {
+      "title": "Sloth",
+      "id": null
+    },
+    {
+      "title": "Pride",
+      "id": null
+    },
+    {
+      "title": "Envy",
+      "id": null
+    },
+    {
+      "title": "Lust",
+      "id": null
+    },
+    {
+      "title": "Dreamin’ of You",
+      "id": null
+    }
+  ]
+}
