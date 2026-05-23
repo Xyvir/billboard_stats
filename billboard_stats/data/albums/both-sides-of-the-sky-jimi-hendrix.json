@@ -1,1 +1,78 @@
-{"id": "both-sides-of-the-sky-jimi-hendrix", "title": "Both Sides Of The Sky", "artist": "Jimi Hendrix", "peak": 8, "history": [{"date": "2018-03-24", "rank": 8}, {"date": "2018-03-31", "rank": 51}, {"date": "2018-04-07", "rank": 114}, {"date": "2018-04-14", "rank": 160}]}
+{
+  "id": "both-sides-of-the-sky-jimi-hendrix",
+  "title": "Both Sides Of The Sky",
+  "artist": "Jimi Hendrix",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2018-03-24",
+      "rank": 8
+    },
+    {
+      "date": "2018-03-31",
+      "rank": 51
+    },
+    {
+      "date": "2018-04-07",
+      "rank": 114
+    },
+    {
+      "date": "2018-04-14",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mannish Boy",
+      "id": null
+    },
+    {
+      "title": "Lover Man",
+      "id": null
+    },
+    {
+      "title": "Hear My Train A Comin’",
+      "id": null
+    },
+    {
+      "title": "Stepping Stone",
+      "id": null
+    },
+    {
+      "title": "$20 Fine",
+      "id": null
+    },
+    {
+      "title": "Power of Soul",
+      "id": null
+    },
+    {
+      "title": "Jungle",
+      "id": null
+    },
+    {
+      "title": "Things I Used to Do",
+      "id": null
+    },
+    {
+      "title": "Georgia Blues",
+      "id": null
+    },
+    {
+      "title": "Sweet Angel",
+      "id": null
+    },
+    {
+      "title": "Woodstock",
+      "id": null
+    },
+    {
+      "title": "Send My Love to Linda",
+      "id": null
+    },
+    {
+      "title": "Cherokee Mist",
+      "id": null
+    }
+  ]
+}

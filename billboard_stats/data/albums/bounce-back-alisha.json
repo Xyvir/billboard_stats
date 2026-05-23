@@ -1,1 +1,66 @@
-{"id": "bounce-back-alisha", "title": "Bounce Back", "artist": "Alisha", "peak": 166, "history": [{"date": "1990-06-23", "rank": 185}, {"date": "1990-06-30", "rank": 170}, {"date": "1990-07-07", "rank": 166}, {"date": "1990-07-14", "rank": 176}]}
+{
+  "id": "bounce-back-alisha",
+  "title": "Bounce Back",
+  "artist": "Alisha",
+  "peak": 166,
+  "history": [
+    {
+      "date": "1990-06-23",
+      "rank": 185
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 170
+    },
+    {
+      "date": "1990-07-07",
+      "rank": 166
+    },
+    {
+      "date": "1990-07-14",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bounce Back",
+      "id": "bounce-back-alisha"
+    },
+    {
+      "title": "Wrong Number",
+      "id": null
+    },
+    {
+      "title": "Everything You Do",
+      "id": null
+    },
+    {
+      "title": "You've Really Gotten To Me",
+      "id": null
+    },
+    {
+      "title": "Love Will Talk",
+      "id": null
+    },
+    {
+      "title": "Better Love",
+      "id": null
+    },
+    {
+      "title": "Rescue Me",
+      "id": null
+    },
+    {
+      "title": "Kiss Me Quick",
+      "id": null
+    },
+    {
+      "title": "Don't Let Our Love Go",
+      "id": null
+    },
+    {
+      "title": "I Need Forever",
+      "id": null
+    }
+  ]
+}

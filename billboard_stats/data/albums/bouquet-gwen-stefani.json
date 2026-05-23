@@ -1,1 +1,54 @@
-{"id": "bouquet-gwen-stefani", "title": "Bouquet", "artist": "Gwen Stefani", "peak": 95, "history": [{"date": "2024-11-30", "rank": 95}]}
+{
+  "id": "bouquet-gwen-stefani",
+  "title": "Bouquet",
+  "artist": "Gwen Stefani",
+  "peak": 95,
+  "history": [
+    {
+      "date": "2024-11-30",
+      "rank": 95
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Somebody Else’s",
+      "id": null
+    },
+    {
+      "title": "Bouquet",
+      "id": null
+    },
+    {
+      "title": "Pretty",
+      "id": null
+    },
+    {
+      "title": "Empty Vase",
+      "id": null
+    },
+    {
+      "title": "Marigolds",
+      "id": null
+    },
+    {
+      "title": "Late to Bloom",
+      "id": null
+    },
+    {
+      "title": "Swallow My Tears",
+      "id": null
+    },
+    {
+      "title": "Reminders",
+      "id": null
+    },
+    {
+      "title": "All Your Fault",
+      "id": null
+    },
+    {
+      "title": "Purple Irises",
+      "id": null
+    }
+  ]
+}
