@@ -1,1 +1,66 @@
-{"id": "i-prefer-the-moonlight-kenny-rogers", "title": "I Prefer The Moonlight", "artist": "Kenny Rogers", "peak": 163, "history": [{"date": "1987-09-26", "rank": 163}, {"date": "1987-10-03", "rank": 163}, {"date": "1987-10-10", "rank": 200}, {"date": "1987-10-17", "rank": 188}]}
+{
+  "id": "i-prefer-the-moonlight-kenny-rogers",
+  "title": "I Prefer The Moonlight",
+  "artist": "Kenny Rogers",
+  "peak": 163,
+  "history": [
+    {
+      "date": "1987-09-26",
+      "rank": 163
+    },
+    {
+      "date": "1987-10-03",
+      "rank": 163
+    },
+    {
+      "date": "1987-10-10",
+      "rank": 200
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Prefer the Moonlight",
+      "id": null
+    },
+    {
+      "title": "Now and Forever",
+      "id": null
+    },
+    {
+      "title": "We’re Doin’ Alright",
+      "id": null
+    },
+    {
+      "title": "Make No Mistake, She’s Mine",
+      "id": null
+    },
+    {
+      "title": "One More Day",
+      "id": null
+    },
+    {
+      "title": "She’s Ready for Someone to Love Her",
+      "id": null
+    },
+    {
+      "title": "I Don’t Call Him Daddy",
+      "id": null
+    },
+    {
+      "title": "The Factory",
+      "id": null
+    },
+    {
+      "title": "We Fell in Love Anyway",
+      "id": null
+    },
+    {
+      "title": "You Can’t Say (You Don’t Love Me Anymore)",
+      "id": null
+    }
+  ]
+}
