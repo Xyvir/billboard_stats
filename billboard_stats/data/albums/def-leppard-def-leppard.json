@@ -1,1 +1,86 @@
-{"id": "def-leppard-def-leppard", "title": "Def Leppard", "artist": "Def Leppard", "peak": 10, "history": [{"date": "2015-11-21", "rank": 10}, {"date": "2015-11-28", "rank": 58}, {"date": "2015-12-05", "rank": 114}, {"date": "2015-12-12", "rank": 161}]}
+{
+  "id": "def-leppard-def-leppard",
+  "title": "Def Leppard",
+  "artist": "Def Leppard",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2015-11-21",
+      "rank": 10
+    },
+    {
+      "date": "2015-11-28",
+      "rank": 58
+    },
+    {
+      "date": "2015-12-05",
+      "rank": 114
+    },
+    {
+      "date": "2015-12-12",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let’s Go",
+      "id": "let-s-get-rocked-def-leppard"
+    },
+    {
+      "title": "Dangerous",
+      "id": null
+    },
+    {
+      "title": "Man Enough",
+      "id": null
+    },
+    {
+      "title": "We Belong",
+      "id": null
+    },
+    {
+      "title": "Invincible",
+      "id": null
+    },
+    {
+      "title": "Sea of Love",
+      "id": null
+    },
+    {
+      "title": "Energized",
+      "id": null
+    },
+    {
+      "title": "All Time High",
+      "id": null
+    },
+    {
+      "title": "Battle of My Own",
+      "id": null
+    },
+    {
+      "title": "Broke ’n’ Brokenhearted",
+      "id": null
+    },
+    {
+      "title": "Forever Young",
+      "id": null
+    },
+    {
+      "title": "Last Dance",
+      "id": null
+    },
+    {
+      "title": "Wings of an Angel",
+      "id": null
+    },
+    {
+      "title": "Blind Faith",
+      "id": null
+    },
+    {
+      "title": "Last Dance (demo)",
+      "id": null
+    }
+  ]
+}

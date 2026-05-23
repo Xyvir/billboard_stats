@@ -1,1 +1,70 @@
-{"id": "deep-blue-parkway-drive", "title": "Deep Blue", "artist": "Parkway Drive", "peak": 39, "history": [{"date": "2010-07-17", "rank": 39}, {"date": "2010-07-24", "rank": 127}]}
+{
+  "id": "deep-blue-parkway-drive",
+  "title": "Deep Blue",
+  "artist": "Parkway Drive",
+  "peak": 39,
+  "history": [
+    {
+      "date": "2010-07-17",
+      "rank": 39
+    },
+    {
+      "date": "2010-07-24",
+      "rank": 127
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Samsara",
+      "id": null
+    },
+    {
+      "title": "Unrest",
+      "id": null
+    },
+    {
+      "title": "Sleepwalker",
+      "id": null
+    },
+    {
+      "title": "Wreckage",
+      "id": null
+    },
+    {
+      "title": "Deadweight",
+      "id": null
+    },
+    {
+      "title": "Alone",
+      "id": null
+    },
+    {
+      "title": "Pressures",
+      "id": null
+    },
+    {
+      "title": "Deliver Me",
+      "id": null
+    },
+    {
+      "title": "Karma",
+      "id": null
+    },
+    {
+      "title": "Home Is for the Heartless",
+      "id": null
+    },
+    {
+      "title": "Hollow",
+      "id": null
+    },
+    {
+      "title": "Leviathan I",
+      "id": null
+    },
+    {
+      "title": "Set to Destroy",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "deep-south-josh-turner", "title": "Deep South", "artist": "Josh Turner", "peak": 18, "history": [{"date": "2017-04-01", "rank": 18}, {"date": "2017-04-08", "rank": 75}, {"date": "2017-04-15", "rank": 111}, {"date": "2017-04-22", "rank": 132}, {"date": "2017-04-29", "rank": 140}, {"date": "2017-05-06", "rank": 133}, {"date": "2017-05-13", "rank": 158}, {"date": "2017-05-20", "rank": 190}]}
+{
+  "id": "deep-south-josh-turner",
+  "title": "Deep South",
+  "artist": "Josh Turner",
+  "peak": 18,
+  "history": [
+    {
+      "date": "2017-04-01",
+      "rank": 18
+    },
+    {
+      "date": "2017-04-08",
+      "rank": 75
+    },
+    {
+      "date": "2017-04-15",
+      "rank": 111
+    },
+    {
+      "date": "2017-04-22",
+      "rank": 132
+    },
+    {
+      "date": "2017-04-29",
+      "rank": 140
+    },
+    {
+      "date": "2017-05-06",
+      "rank": 133
+    },
+    {
+      "date": "2017-05-13",
+      "rank": 158
+    },
+    {
+      "date": "2017-05-20",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hometown Girl",
+      "id": "hometown-girl-josh-turner"
+    },
+    {
+      "title": "Hawaiian Girl",
+      "id": "hometown-girl-josh-turner"
+    },
+    {
+      "title": "Deep South",
+      "id": null
+    },
+    {
+      "title": "All About You",
+      "id": null
+    },
+    {
+      "title": "Beach Bums",
+      "id": null
+    },
+    {
+      "title": "Southern Drawl",
+      "id": null
+    },
+    {
+      "title": "Where the Girls Are",
+      "id": null
+    },
+    {
+      "title": "Never Had a Reason",
+      "id": null
+    },
+    {
+      "title": "Wonder",
+      "id": null
+    },
+    {
+      "title": "One Like Mine",
+      "id": null
+    },
+    {
+      "title": "Lay Low",
+      "id": null
+    }
+  ]
+}

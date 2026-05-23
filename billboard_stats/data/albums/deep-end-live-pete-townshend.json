@@ -1,1 +1,86 @@
-{"id": "deep-end-live-pete-townshend", "title": "Deep End Live!", "artist": "Pete Townshend", "peak": 98, "history": [{"date": "1986-10-25", "rank": 158}, {"date": "1986-11-01", "rank": 115}, {"date": "1986-11-08", "rank": 107}, {"date": "1986-11-15", "rank": 98}, {"date": "1986-11-22", "rank": 98}, {"date": "1986-11-29", "rank": 120}, {"date": "1986-12-06", "rank": 135}, {"date": "1986-12-13", "rank": 147}, {"date": "1986-12-20", "rank": 199}]}
+{
+  "id": "deep-end-live-pete-townshend",
+  "title": "Deep End Live!",
+  "artist": "Pete Townshend",
+  "peak": 98,
+  "history": [
+    {
+      "date": "1986-10-25",
+      "rank": 158
+    },
+    {
+      "date": "1986-11-01",
+      "rank": 115
+    },
+    {
+      "date": "1986-11-08",
+      "rank": 107
+    },
+    {
+      "date": "1986-11-15",
+      "rank": 98
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 98
+    },
+    {
+      "date": "1986-11-29",
+      "rank": 120
+    },
+    {
+      "date": "1986-12-06",
+      "rank": 135
+    },
+    {
+      "date": "1986-12-13",
+      "rank": 147
+    },
+    {
+      "date": "1986-12-20",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "After the Fire",
+      "id": "face-the-face-pete-townshend"
+    },
+    {
+      "title": "Little Is Enough",
+      "id": "a-little-is-enough-pete-townshend"
+    },
+    {
+      "title": "Barefootin’",
+      "id": null
+    },
+    {
+      "title": "Behind Blue Eyes",
+      "id": null
+    },
+    {
+      "title": "Stop Hurting People",
+      "id": null
+    },
+    {
+      "title": "I’m One",
+      "id": null
+    },
+    {
+      "title": "I Put a Spell on You",
+      "id": null
+    },
+    {
+      "title": "Save It for Later",
+      "id": null
+    },
+    {
+      "title": "Pinball Wizard",
+      "id": null
+    },
+    {
+      "title": "Eyesight to the Blind",
+      "id": null
+    }
+  ]
+}

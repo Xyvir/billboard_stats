@@ -1,1 +1,74 @@
-{"id": "deepest-purple-the-very-best-of-deep-purple-deep-purple", "title": "Deepest Purple: The Very Best Of Deep Purple", "artist": "Deep Purple", "peak": 148, "history": [{"date": "1980-11-01", "rank": 172}, {"date": "1980-11-08", "rank": 161}, {"date": "1980-11-15", "rank": 151}, {"date": "1980-11-22", "rank": 148}]}
+{
+  "id": "deepest-purple-the-very-best-of-deep-purple-deep-purple",
+  "title": "Deepest Purple: The Very Best Of Deep Purple",
+  "artist": "Deep Purple",
+  "peak": 148,
+  "history": [
+    {
+      "date": "1980-11-01",
+      "rank": 172
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 161
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 151
+    },
+    {
+      "date": "1980-11-22",
+      "rank": 148
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Black Night",
+      "id": "black-night-deep-purple"
+    },
+    {
+      "title": "Woman From Tokyo",
+      "id": "woman-from-tokyo-deep-purple"
+    },
+    {
+      "title": "Smoke on the Water",
+      "id": "smoke-on-the-water-deep-purple"
+    },
+    {
+      "title": "Speed King",
+      "id": null
+    },
+    {
+      "title": "Fireball",
+      "id": null
+    },
+    {
+      "title": "Strange Kind of Woman",
+      "id": null
+    },
+    {
+      "title": "Child in Time",
+      "id": null
+    },
+    {
+      "title": "Highway Star",
+      "id": null
+    },
+    {
+      "title": "Space Truckin’",
+      "id": null
+    },
+    {
+      "title": "Burn",
+      "id": null
+    },
+    {
+      "title": "Stormbringer",
+      "id": null
+    },
+    {
+      "title": "Demon’s Eye",
+      "id": null
+    }
+  ]
+}
