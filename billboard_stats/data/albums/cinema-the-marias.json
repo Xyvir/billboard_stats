@@ -1,1 +1,66 @@
-{"id": "cinema-the-marias", "title": "Cinema", "artist": "The Marias", "peak": 176, "history": [{"date": "2021-07-10", "rank": 176}]}
+{
+  "id": "cinema-the-marias",
+  "title": "Cinema",
+  "artist": "The Marias",
+  "peak": 176,
+  "history": [
+    {
+      "date": "2021-07-10",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Talk to Her",
+      "id": "back-to-me-the-marias"
+    },
+    {
+      "title": "Just a Feeling",
+      "id": null
+    },
+    {
+      "title": "Calling U Back",
+      "id": null
+    },
+    {
+      "title": "Hush",
+      "id": null
+    },
+    {
+      "title": "All I Really Want Is You",
+      "id": null
+    },
+    {
+      "title": "Hable con ella",
+      "id": null
+    },
+    {
+      "title": "Little by Little",
+      "id": null
+    },
+    {
+      "title": "Heavy",
+      "id": null
+    },
+    {
+      "title": "Un millón",
+      "id": null
+    },
+    {
+      "title": "Spin Me Around",
+      "id": null
+    },
+    {
+      "title": "The Mice Inside This Room",
+      "id": null
+    },
+    {
+      "title": "To Say Hello",
+      "id": null
+    },
+    {
+      "title": "Fog as a Bullet",
+      "id": null
+    }
+  ]
+}

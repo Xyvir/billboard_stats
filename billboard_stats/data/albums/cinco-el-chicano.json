@@ -1,1 +1,54 @@
-{"id": "cinco-el-chicano", "title": "Cinco", "artist": "El Chicano", "peak": 194, "history": [{"date": "1974-04-06", "rank": 195}, {"date": "1974-04-13", "rank": 194}, {"date": "1974-04-20", "rank": 198}]}
+{
+  "id": "cinco-el-chicano",
+  "title": "Cinco",
+  "artist": "El Chicano",
+  "peak": 194,
+  "history": [
+    {
+      "date": "1974-04-06",
+      "rank": 195
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 194
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "El Cayuco",
+      "id": null
+    },
+    {
+      "title": "Children",
+      "id": null
+    },
+    {
+      "title": "You've Been Wrong So Long",
+      "id": null
+    },
+    {
+      "title": "The Latin One",
+      "id": null
+    },
+    {
+      "title": "What You Don't Know Won't Hurt You",
+      "id": null
+    },
+    {
+      "title": "Ahora Si",
+      "id": null
+    },
+    {
+      "title": "Gringo En Mexico",
+      "id": null
+    },
+    {
+      "title": "Little Sunflower",
+      "id": null
+    }
+  ]
+}

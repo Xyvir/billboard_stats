@@ -1,1 +1,50 @@
-{"id": "circus-argent", "title": "Circus", "artist": "Argent", "peak": 171, "history": [{"date": "1975-03-29", "rank": 182}, {"date": "1975-04-05", "rank": 171}, {"date": "1975-04-12", "rank": 171}]}
+{
+  "id": "circus-argent",
+  "title": "Circus",
+  "artist": "Argent",
+  "peak": 171,
+  "history": [
+    {
+      "date": "1975-03-29",
+      "rank": 182
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 171
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Circus",
+      "id": null
+    },
+    {
+      "title": "Highwire",
+      "id": null
+    },
+    {
+      "title": "Clown",
+      "id": null
+    },
+    {
+      "title": "Trapeze",
+      "id": null
+    },
+    {
+      "title": "Shine On Sunshine",
+      "id": null
+    },
+    {
+      "title": "The Ring",
+      "id": null
+    },
+    {
+      "title": "The Jester",
+      "id": null
+    }
+  ]
+}

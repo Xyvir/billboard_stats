@@ -1,1 +1,54 @@
-{"id": "citadel-starcastle", "title": "Citadel", "artist": "Starcastle", "peak": 156, "history": [{"date": "1977-11-19", "rank": 176}, {"date": "1977-11-26", "rank": 156}, {"date": "1977-12-03", "rank": 156}]}
+{
+  "id": "citadel-starcastle",
+  "title": "Citadel",
+  "artist": "Starcastle",
+  "peak": 156,
+  "history": [
+    {
+      "date": "1977-11-19",
+      "rank": 176
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 156
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shine on Brightly",
+      "id": null
+    },
+    {
+      "title": "Shadows of Song",
+      "id": null
+    },
+    {
+      "title": "Can't Think Twice",
+      "id": null
+    },
+    {
+      "title": "Wings of White",
+      "id": null
+    },
+    {
+      "title": "Evening Wind",
+      "id": null
+    },
+    {
+      "title": "Change in Time",
+      "id": null
+    },
+    {
+      "title": "Could This Be Love",
+      "id": null
+    },
+    {
+      "title": "Why Have They Gone",
+      "id": null
+    }
+  ]
+}

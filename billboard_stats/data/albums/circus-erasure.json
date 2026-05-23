@@ -1,1 +1,38 @@
-{"id": "circus-erasure", "title": "Circus", "artist": "Erasure", "peak": 190, "history": [{"date": "1987-07-18", "rank": 191}, {"date": "1987-07-25", "rank": 190}, {"date": "1987-08-01", "rank": 200}]}
+{
+  "id": "circus-erasure",
+  "title": "Circus",
+  "artist": "Erasure",
+  "peak": 190,
+  "history": [
+    {
+      "date": "1987-07-18",
+      "rank": 191
+    },
+    {
+      "date": "1987-07-25",
+      "rank": 190
+    },
+    {
+      "date": "1987-08-01",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Circus (Gladiator mix)",
+      "id": null
+    },
+    {
+      "title": "The Circus (Decay mix)",
+      "id": null
+    },
+    {
+      "title": "The Circus (Bareback mix)",
+      "id": null
+    },
+    {
+      "title": "The Circus (DJ mix)",
+      "id": null
+    }
+  ]
+}

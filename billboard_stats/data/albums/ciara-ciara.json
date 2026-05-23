@@ -1,1 +1,102 @@
-{"id": "ciara-ciara", "title": "Ciara", "artist": "Ciara", "peak": 2, "history": [{"date": "2013-07-27", "rank": 2}, {"date": "2013-08-03", "rank": 20}, {"date": "2013-08-10", "rank": 31}, {"date": "2013-08-17", "rank": 55}, {"date": "2013-08-24", "rank": 68}, {"date": "2013-08-31", "rank": 80}, {"date": "2013-09-07", "rank": 95}, {"date": "2013-09-14", "rank": 92}, {"date": "2013-09-21", "rank": 100}, {"date": "2013-09-28", "rank": 181}]}
+{
+  "id": "ciara-ciara",
+  "title": "Ciara",
+  "artist": "Ciara",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2013-07-27",
+      "rank": 2
+    },
+    {
+      "date": "2013-08-03",
+      "rank": 20
+    },
+    {
+      "date": "2013-08-10",
+      "rank": 31
+    },
+    {
+      "date": "2013-08-17",
+      "rank": 55
+    },
+    {
+      "date": "2013-08-24",
+      "rank": 68
+    },
+    {
+      "date": "2013-08-31",
+      "rank": 80
+    },
+    {
+      "date": "2013-09-07",
+      "rank": 95
+    },
+    {
+      "date": "2013-09-14",
+      "rank": 92
+    },
+    {
+      "date": "2013-09-21",
+      "rank": 100
+    },
+    {
+      "date": "2013-09-28",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Body Party",
+      "id": "body-party-ciara"
+    },
+    {
+      "title": "Body Party (remix)",
+      "id": "body-party-ciara"
+    },
+    {
+      "title": "I’m Out",
+      "id": null
+    },
+    {
+      "title": "Sophomore",
+      "id": null
+    },
+    {
+      "title": "Keep on Lookin’",
+      "id": null
+    },
+    {
+      "title": "Read My Lips",
+      "id": null
+    },
+    {
+      "title": "Where You Go",
+      "id": null
+    },
+    {
+      "title": "Super Turnt Up",
+      "id": null
+    },
+    {
+      "title": "DUI",
+      "id": null
+    },
+    {
+      "title": "Livin’ It Up",
+      "id": null
+    },
+    {
+      "title": "Overdose",
+      "id": null
+    },
+    {
+      "title": "Boy Outta Here",
+      "id": null
+    },
+    {
+      "title": "One Night With You",
+      "id": null
+    }
+  ]
+}
