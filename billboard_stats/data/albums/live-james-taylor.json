@@ -1,1 +1,226 @@
-{"id": "live-james-taylor", "title": "Live", "artist": "James Taylor", "peak": 20, "history": [{"date": "1993-08-28", "rank": 20}, {"date": "1993-09-04", "rank": 32}, {"date": "1993-09-11", "rank": 34}, {"date": "1993-09-18", "rank": 32}, {"date": "1993-09-25", "rank": 36}, {"date": "1993-10-02", "rank": 42}, {"date": "1993-10-09", "rank": 49}, {"date": "1993-10-16", "rank": 52}, {"date": "1993-10-23", "rank": 69}, {"date": "1993-10-30", "rank": 79}, {"date": "1993-11-06", "rank": 96}, {"date": "1993-11-13", "rank": 113}, {"date": "1993-11-20", "rank": 121}, {"date": "1993-11-27", "rank": 132}, {"date": "1993-12-04", "rank": 124}, {"date": "1993-12-11", "rank": 132}, {"date": "1993-12-18", "rank": 123}, {"date": "1993-12-25", "rank": 108}, {"date": "1994-01-01", "rank": 88}, {"date": "1994-01-08", "rank": 90}, {"date": "1994-01-15", "rank": 150}, {"date": "1994-01-22", "rank": 170}, {"date": "1994-01-29", "rank": 166}, {"date": "1994-02-05", "rank": 173}]}
+{
+  "id": "live-james-taylor",
+  "title": "Live",
+  "artist": "James Taylor",
+  "peak": 20,
+  "history": [
+    {
+      "date": "1993-08-28",
+      "rank": 20
+    },
+    {
+      "date": "1993-09-04",
+      "rank": 32
+    },
+    {
+      "date": "1993-09-11",
+      "rank": 34
+    },
+    {
+      "date": "1993-09-18",
+      "rank": 32
+    },
+    {
+      "date": "1993-09-25",
+      "rank": 36
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 42
+    },
+    {
+      "date": "1993-10-09",
+      "rank": 49
+    },
+    {
+      "date": "1993-10-16",
+      "rank": 52
+    },
+    {
+      "date": "1993-10-23",
+      "rank": 69
+    },
+    {
+      "date": "1993-10-30",
+      "rank": 79
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 96
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 113
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 121
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 132
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 124
+    },
+    {
+      "date": "1993-12-11",
+      "rank": 132
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 123
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 108
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 88
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 90
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 150
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 170
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 166
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Handy Man",
+      "id": "handy-man-james-taylor"
+    },
+    {
+      "title": "Your Smiling Face",
+      "id": "your-smiling-face-james-taylor"
+    },
+    {
+      "title": "Mexico",
+      "id": "mexico-james-taylor"
+    },
+    {
+      "title": "Country Road",
+      "id": "country-road-james-taylor"
+    },
+    {
+      "title": "Fire and Rain",
+      "id": "fire-and-rain-james-taylor"
+    },
+    {
+      "title": "Shower the People",
+      "id": "shower-the-people-james-taylor"
+    },
+    {
+      "title": "How Sweet It Is (to Be Loved by You)",
+      "id": "how-sweet-it-is-to-be-loved-by-you-james-taylor"
+    },
+    {
+      "title": "Walking Man",
+      "id": "handy-man-james-taylor"
+    },
+    {
+      "title": "Sun on the Moon",
+      "id": "up-on-the-roof-james-taylor"
+    },
+    {
+      "title": "Up on the Roof",
+      "id": "up-on-the-roof-james-taylor"
+    },
+    {
+      "title": "Don’t Let Me Be Lonely Tonight",
+      "id": "don-t-let-me-be-lonely-tonight-james-taylor"
+    },
+    {
+      "title": "Carolina in My Mind",
+      "id": "carolina-in-my-mind-james-taylor"
+    },
+    {
+      "title": "You’ve Got a Friend",
+      "id": "you-ve-got-a-friend-james-taylor"
+    },
+    {
+      "title": "Sweet Baby James",
+      "id": null
+    },
+    {
+      "title": "Traffic Jam",
+      "id": null
+    },
+    {
+      "title": "Secret o’ Life",
+      "id": null
+    },
+    {
+      "title": "Shed a Little Light",
+      "id": null
+    },
+    {
+      "title": "Everybody Has the Blues",
+      "id": null
+    },
+    {
+      "title": "Steamroller Blues",
+      "id": null
+    },
+    {
+      "title": "Millworker",
+      "id": null
+    },
+    {
+      "title": "New Hymn",
+      "id": null
+    },
+    {
+      "title": "Riding on a Railroad",
+      "id": null
+    },
+    {
+      "title": "Something in the Way She Moves",
+      "id": null
+    },
+    {
+      "title": "She Thinks I Still Care",
+      "id": null
+    },
+    {
+      "title": "Copperline",
+      "id": null
+    },
+    {
+      "title": "Slap Leather",
+      "id": null
+    },
+    {
+      "title": "Only One",
+      "id": null
+    },
+    {
+      "title": "You Make It Easy",
+      "id": null
+    },
+    {
+      "title": "I Will Follow",
+      "id": null
+    },
+    {
+      "title": "That Lonesome Road",
+      "id": null
+    }
+  ]
+}

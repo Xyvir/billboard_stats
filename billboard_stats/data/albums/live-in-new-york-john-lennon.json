@@ -1,1 +1,98 @@
-{"id": "live-in-new-york-john-lennon", "title": "Live In New York", "artist": "John Lennon", "peak": 41, "history": [{"date": "1986-03-22", "rank": 77}, {"date": "1986-03-29", "rank": 43}, {"date": "1986-04-05", "rank": 41}, {"date": "1986-04-12", "rank": 41}, {"date": "1986-04-19", "rank": 57}, {"date": "1986-04-26", "rank": 55}, {"date": "1986-05-03", "rank": 84}, {"date": "1986-05-10", "rank": 110}, {"date": "1986-05-17", "rank": 115}, {"date": "1986-05-24", "rank": 164}, {"date": "1986-05-31", "rank": 200}]}
+{
+  "id": "live-in-new-york-john-lennon",
+  "title": "Live In New York",
+  "artist": "John Lennon",
+  "peak": 41,
+  "history": [
+    {
+      "date": "1986-03-22",
+      "rank": 77
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 43
+    },
+    {
+      "date": "1986-04-05",
+      "rank": 41
+    },
+    {
+      "date": "1986-04-12",
+      "rank": 41
+    },
+    {
+      "date": "1986-04-19",
+      "rank": 57
+    },
+    {
+      "date": "1986-04-26",
+      "rank": 55
+    },
+    {
+      "date": "1986-05-03",
+      "rank": 84
+    },
+    {
+      "date": "1986-05-10",
+      "rank": 110
+    },
+    {
+      "date": "1986-05-17",
+      "rank": 115
+    },
+    {
+      "date": "1986-05-24",
+      "rank": 164
+    },
+    {
+      "date": "1986-05-31",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "New York City",
+      "id": null
+    },
+    {
+      "title": "It’s So Hard",
+      "id": null
+    },
+    {
+      "title": "Woman Is the Nigger of the World",
+      "id": null
+    },
+    {
+      "title": "Well, Well, Well",
+      "id": null
+    },
+    {
+      "title": "Instant Karma (We All Shine On)",
+      "id": null
+    },
+    {
+      "title": "Mother",
+      "id": null
+    },
+    {
+      "title": "Come Together",
+      "id": null
+    },
+    {
+      "title": "Imagine",
+      "id": null
+    },
+    {
+      "title": "Cold Turkey",
+      "id": null
+    },
+    {
+      "title": "Hound Dog",
+      "id": null
+    },
+    {
+      "title": "Give Peace a Chance",
+      "id": null
+    }
+  ]
+}

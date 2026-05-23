@@ -1,1 +1,218 @@
-{"id": "live-in-no-shoes-nation-kenny-chesney", "title": "Live In No Shoes Nation", "artist": "Kenny Chesney", "peak": 1, "history": [{"date": "2017-11-18", "rank": 1}, {"date": "2017-11-25", "rank": 6}, {"date": "2017-12-02", "rank": 9}, {"date": "2017-12-09", "rank": 96}, {"date": "2017-12-16", "rank": 118}, {"date": "2017-12-23", "rank": 136}, {"date": "2017-12-30", "rank": 146}, {"date": "2018-01-06", "rank": 179}, {"date": "2018-01-13", "rank": 95}, {"date": "2018-01-20", "rank": 66}, {"date": "2018-02-03", "rank": 169}, {"date": "2018-02-10", "rank": 58}, {"date": "2018-02-17", "rank": 51}, {"date": "2018-03-03", "rank": 99}, {"date": "2018-04-14", "rank": 168}, {"date": "2018-05-05", "rank": 121}, {"date": "2018-05-12", "rank": 48}, {"date": "2018-05-19", "rank": 117}, {"date": "2018-06-02", "rank": 169}, {"date": "2018-06-16", "rank": 128}, {"date": "2018-06-23", "rank": 134}, {"date": "2018-06-30", "rank": 166}, {"date": "2018-07-14", "rank": 74}]}
+{
+  "id": "live-in-no-shoes-nation-kenny-chesney",
+  "title": "Live In No Shoes Nation",
+  "artist": "Kenny Chesney",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2017-11-18",
+      "rank": 1
+    },
+    {
+      "date": "2017-11-25",
+      "rank": 6
+    },
+    {
+      "date": "2017-12-02",
+      "rank": 9
+    },
+    {
+      "date": "2017-12-09",
+      "rank": 96
+    },
+    {
+      "date": "2017-12-16",
+      "rank": 118
+    },
+    {
+      "date": "2017-12-23",
+      "rank": 136
+    },
+    {
+      "date": "2017-12-30",
+      "rank": 146
+    },
+    {
+      "date": "2018-01-06",
+      "rank": 179
+    },
+    {
+      "date": "2018-01-13",
+      "rank": 95
+    },
+    {
+      "date": "2018-01-20",
+      "rank": 66
+    },
+    {
+      "date": "2018-02-03",
+      "rank": 169
+    },
+    {
+      "date": "2018-02-10",
+      "rank": 58
+    },
+    {
+      "date": "2018-02-17",
+      "rank": 51
+    },
+    {
+      "date": "2018-03-03",
+      "rank": 99
+    },
+    {
+      "date": "2018-04-14",
+      "rank": 168
+    },
+    {
+      "date": "2018-05-05",
+      "rank": 121
+    },
+    {
+      "date": "2018-05-12",
+      "rank": 48
+    },
+    {
+      "date": "2018-05-19",
+      "rank": 117
+    },
+    {
+      "date": "2018-06-02",
+      "rank": 169
+    },
+    {
+      "date": "2018-06-16",
+      "rank": 128
+    },
+    {
+      "date": "2018-06-23",
+      "rank": 134
+    },
+    {
+      "date": "2018-06-30",
+      "rank": 166
+    },
+    {
+      "date": "2018-07-14",
+      "rank": 74
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Summertime",
+      "id": "summertime-kenny-chesney"
+    },
+    {
+      "title": "Big Star",
+      "id": "big-star-kenny-chesney"
+    },
+    {
+      "title": "When I See This Bar",
+      "id": "when-i-see-this-bar-kenny-chesney"
+    },
+    {
+      "title": "No Shoes, No Shirt, No Problems",
+      "id": "no-shoes-no-shirt-no-problems-kenny-chesney"
+    },
+    {
+      "title": "Anything but Mine",
+      "id": "anything-but-mine-kenny-chesney"
+    },
+    {
+      "title": "Save It for a Rainy Day",
+      "id": "save-it-for-a-rainy-day-kenny-chesney"
+    },
+    {
+      "title": "Pirate Flag",
+      "id": "pirate-flag-kenny-chesney"
+    },
+    {
+      "title": "Somewhere With You",
+      "id": "somewhere-with-you-kenny-chesney"
+    },
+    {
+      "title": "I Go Back",
+      "id": "i-go-back-kenny-chesney"
+    },
+    {
+      "title": "American Kids",
+      "id": "american-kids-kenny-chesney"
+    },
+    {
+      "title": "Young",
+      "id": "young-kenny-chesney"
+    },
+    {
+      "title": "There Goes My Life",
+      "id": "there-goes-my-life-kenny-chesney"
+    },
+    {
+      "title": "Out Last Night",
+      "id": "out-last-night-kenny-chesney"
+    },
+    {
+      "title": "The Boys of Fall",
+      "id": "the-boys-of-fall-kenny-chesney"
+    },
+    {
+      "title": "Noise",
+      "id": "noise-kenny-chesney"
+    },
+    {
+      "title": "Flora‐Bama",
+      "id": null
+    },
+    {
+      "title": "Boston",
+      "id": null
+    },
+    {
+      "title": "Down the Road",
+      "id": null
+    },
+    {
+      "title": "Guitars and Tiki Bars",
+      "id": null
+    },
+    {
+      "title": "Hemingway’s Whiskey",
+      "id": null
+    },
+    {
+      "title": "Everybody Wants to Go to Heaven",
+      "id": null
+    },
+    {
+      "title": "I’m Alive",
+      "id": null
+    },
+    {
+      "title": "One Step Up",
+      "id": null
+    },
+    {
+      "title": "You and Tequila",
+      "id": null
+    },
+    {
+      "title": "Dust on the Bottle",
+      "id": null
+    },
+    {
+      "title": "Coastal",
+      "id": null
+    },
+    {
+      "title": "Old Blue Chair",
+      "id": null
+    },
+    {
+      "title": "Medley: The Joker / Three Little Birds",
+      "id": null
+    },
+    {
+      "title": "Happy on the Hey Now (A Song for Kristi)",
+      "id": null
+    }
+  ]
+}
