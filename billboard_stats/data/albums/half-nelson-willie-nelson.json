@@ -1,1 +1,62 @@
-{"id": "half-nelson-willie-nelson", "title": "Half Nelson", "artist": "Willie Nelson", "peak": 178, "history": [{"date": "1985-10-12", "rank": 183}, {"date": "1985-10-19", "rank": 178}, {"date": "1985-10-26", "rank": 178}]}
+{
+  "id": "half-nelson-willie-nelson",
+  "title": "Half Nelson",
+  "artist": "Willie Nelson",
+  "peak": 178,
+  "history": [
+    {
+      "date": "1985-10-12",
+      "rank": 183
+    },
+    {
+      "date": "1985-10-19",
+      "rank": 178
+    },
+    {
+      "date": "1985-10-26",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "To All the Girls I’ve Loved Before",
+      "id": "to-all-the-girls-i-ve-loved-before-julio-iglesias-and-willie-nelson"
+    },
+    {
+      "title": "Pancho and Lefty",
+      "id": null
+    },
+    {
+      "title": "Slow Movin’ Outlaw",
+      "id": null
+    },
+    {
+      "title": "Are There Any More Real Cowboys?",
+      "id": null
+    },
+    {
+      "title": "I Told a Lie to My Heart",
+      "id": null
+    },
+    {
+      "title": "Texas on a Saturday Night",
+      "id": null
+    },
+    {
+      "title": "Seven Spanish Angels",
+      "id": null
+    },
+    {
+      "title": "They All Went to Mexico",
+      "id": null
+    },
+    {
+      "title": "Honky Tonk Women",
+      "id": null
+    },
+    {
+      "title": "Half a Man",
+      "id": null
+    }
+  ]
+}
