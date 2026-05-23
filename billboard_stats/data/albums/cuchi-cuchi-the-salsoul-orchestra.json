@@ -1,1 +1,86 @@
-{"id": "cuchi-cuchi-the-salsoul-orchestra", "title": "Cuchi-Cuchi", "artist": "The Salsoul Orchestra", "peak": 100, "history": [{"date": "1978-01-07", "rank": 111}, {"date": "1978-01-14", "rank": 111}, {"date": "1978-01-21", "rank": 111}, {"date": "1978-01-28", "rank": 110}, {"date": "1978-02-04", "rank": 108}, {"date": "1978-02-11", "rank": 104}, {"date": "1978-02-18", "rank": 100}, {"date": "1978-02-25", "rank": 100}, {"date": "1978-03-04", "rank": 117}]}
+{
+  "id": "cuchi-cuchi-the-salsoul-orchestra",
+  "title": "Cuchi-Cuchi",
+  "artist": "The Salsoul Orchestra",
+  "peak": 100,
+  "history": [
+    {
+      "date": "1978-01-07",
+      "rank": 111
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 111
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 111
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 110
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 108
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 104
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 100
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 100
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 117
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You're Just the Right Size",
+      "id": "you-re-just-the-right-size-the-salsoul-orchestra"
+    },
+    {
+      "title": "Dance a Little Bit Closer",
+      "id": null
+    },
+    {
+      "title": "Let's Spend the Night Together",
+      "id": null
+    },
+    {
+      "title": "Borriquito",
+      "id": null
+    },
+    {
+      "title": "More of You",
+      "id": null
+    },
+    {
+      "title": "El Reloj (The Clock)",
+      "id": null
+    },
+    {
+      "title": "Speedy Gonzalez",
+      "id": null
+    },
+    {
+      "title": "Cuchi-Cuchi",
+      "id": null
+    },
+    {
+      "title": "Cookie Jar",
+      "id": null
+    },
+    {
+      "title": "Only You",
+      "id": null
+    }
+  ]
+}

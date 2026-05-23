@@ -1,1 +1,54 @@
-{"id": "cured-steve-hackett", "title": "Cured", "artist": "Steve Hackett", "peak": 169, "history": [{"date": "1981-10-24", "rank": 179}, {"date": "1981-10-31", "rank": 169}, {"date": "1981-11-07", "rank": 169}]}
+{
+  "id": "cured-steve-hackett",
+  "title": "Cured",
+  "artist": "Steve Hackett",
+  "peak": 169,
+  "history": [
+    {
+      "date": "1981-10-24",
+      "rank": 179
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 169
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hope I Don’t Wake",
+      "id": null
+    },
+    {
+      "title": "Picture Postcard",
+      "id": null
+    },
+    {
+      "title": "Can’t Let Go",
+      "id": null
+    },
+    {
+      "title": "The Air‐Conditioned Nightmare",
+      "id": null
+    },
+    {
+      "title": "Funny Feeling",
+      "id": null
+    },
+    {
+      "title": "A Cradle of Swans",
+      "id": null
+    },
+    {
+      "title": "Overnight Sleeper",
+      "id": null
+    },
+    {
+      "title": "Turn Back Time",
+      "id": null
+    }
+  ]
+}

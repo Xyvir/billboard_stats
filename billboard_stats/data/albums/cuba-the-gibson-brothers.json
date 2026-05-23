@@ -1,1 +1,46 @@
-{"id": "cuba-the-gibson-brothers", "title": "Cuba", "artist": "The Gibson Brothers", "peak": 185, "history": [{"date": "1979-07-28", "rank": 185}, {"date": "1979-08-04", "rank": 185}]}
+{
+  "id": "cuba-the-gibson-brothers",
+  "title": "Cuba",
+  "artist": "The Gibson Brothers",
+  "peak": 185,
+  "history": [
+    {
+      "date": "1979-07-28",
+      "rank": 185
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cuba",
+      "id": "cuba-the-gibson-brothers"
+    },
+    {
+      "title": "Cuba - Tale & Dutch Remix Edit",
+      "id": null
+    },
+    {
+      "title": "Cuba - Crystal Rock & Marc Kiss Remix Edit",
+      "id": null
+    },
+    {
+      "title": "Cuba - Extended Mix",
+      "id": null
+    },
+    {
+      "title": "Cuba - Tale & Dutch Remix",
+      "id": null
+    },
+    {
+      "title": "Cuba - Crystal Rock & Marc Kiss Remix",
+      "id": null
+    },
+    {
+      "title": "Guayar Conmigo",
+      "id": null
+    }
+  ]
+}

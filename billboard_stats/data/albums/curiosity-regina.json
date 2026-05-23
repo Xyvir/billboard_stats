@@ -1,1 +1,78 @@
-{"id": "curiosity-regina", "title": "Curiosity", "artist": "Regina", "peak": 102, "history": [{"date": "1986-10-04", "rank": 132}, {"date": "1986-10-11", "rank": 106}, {"date": "1986-10-18", "rank": 102}, {"date": "1986-10-25", "rank": 102}, {"date": "1986-11-01", "rank": 122}, {"date": "1986-11-08", "rank": 126}, {"date": "1986-11-15", "rank": 178}, {"date": "1986-11-22", "rank": 198}]}
+{
+  "id": "curiosity-regina",
+  "title": "Curiosity",
+  "artist": "Regina",
+  "peak": 102,
+  "history": [
+    {
+      "date": "1986-10-04",
+      "rank": 132
+    },
+    {
+      "date": "1986-10-11",
+      "rank": 106
+    },
+    {
+      "date": "1986-10-18",
+      "rank": 102
+    },
+    {
+      "date": "1986-10-25",
+      "rank": 102
+    },
+    {
+      "date": "1986-11-01",
+      "rank": 122
+    },
+    {
+      "date": "1986-11-08",
+      "rank": 126
+    },
+    {
+      "date": "1986-11-15",
+      "rank": 178
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Beat of Love",
+      "id": "baby-love-regina"
+    },
+    {
+      "title": "Baby Love",
+      "id": "baby-love-regina"
+    },
+    {
+      "title": "Sentimental Love",
+      "id": null
+    },
+    {
+      "title": "Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "Head On",
+      "id": null
+    },
+    {
+      "title": "Love Time",
+      "id": null
+    },
+    {
+      "title": "Bring Me All Your Love",
+      "id": null
+    },
+    {
+      "title": "Curiosity",
+      "id": null
+    },
+    {
+      "title": "Just Like You",
+      "id": null
+    }
+  ]
+}
