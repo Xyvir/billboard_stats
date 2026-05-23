@@ -1,1 +1,90 @@
-{"id": "live-from-las-vegas-frank-sinatra", "title": "Live From Las Vegas", "artist": "Frank Sinatra", "peak": 199, "history": [{"date": "2005-05-14", "rank": 199}]}
+{
+  "id": "live-from-las-vegas-frank-sinatra",
+  "title": "Live From Las Vegas",
+  "artist": "Frank Sinatra",
+  "peak": 199,
+  "history": [
+    {
+      "date": "2005-05-14",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Way",
+      "id": "my-way-frank-sinatra"
+    },
+    {
+      "title": "New York, New York",
+      "id": "theme-from-new-york-new-york-frank-sinatra"
+    },
+    {
+      "title": "Intro (A Lovely Way to Spend an Evening)",
+      "id": null
+    },
+    {
+      "title": "I've Got the World on a String",
+      "id": null
+    },
+    {
+      "title": "What Now My Love",
+      "id": null
+    },
+    {
+      "title": "I Get a Kick Out of You",
+      "id": null
+    },
+    {
+      "title": "My Heart Stood Still",
+      "id": null
+    },
+    {
+      "title": "Luck Be a Lady",
+      "id": null
+    },
+    {
+      "title": "I've Got a Crush on You",
+      "id": null
+    },
+    {
+      "title": "Mack the Knife",
+      "id": null
+    },
+    {
+      "title": "Monologue",
+      "id": null
+    },
+    {
+      "title": "Girls I Never Kissed",
+      "id": null
+    },
+    {
+      "title": "For Once in My Life",
+      "id": null
+    },
+    {
+      "title": "Someone to Watch Over Me",
+      "id": null
+    },
+    {
+      "title": "Maybe This Time",
+      "id": null
+    },
+    {
+      "title": "I've Got You Under My Skin",
+      "id": null
+    },
+    {
+      "title": "Only One to a Customer",
+      "id": null
+    },
+    {
+      "title": "I Have Dreamed",
+      "id": null
+    },
+    {
+      "title": "Bows (You Are There)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"id": "live-from-london-dolly-parton", "title": "Live From London", "artist": "Dolly Parton", "peak": 195, "history": [{"date": "2009-11-28", "rank": 195}]}
+{
+  "id": "live-from-london-dolly-parton",
+  "title": "Live From London",
+  "artist": "Dolly Parton",
+  "peak": 195,
+  "history": [
+    {
+      "date": "2009-11-28",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Two Doors Down",
+      "id": "two-doors-down-dolly-parton"
+    },
+    {
+      "title": "Jolene",
+      "id": "jolene-dolly-parton"
+    },
+    {
+      "title": "Here You Come Again",
+      "id": "here-you-come-again-dolly-parton"
+    },
+    {
+      "title": "Islands in the Stream",
+      "id": "islands-in-the-stream-kenny-rogers-duet-with-dolly-parton"
+    },
+    {
+      "title": "9 to 5",
+      "id": "9-to-5-dolly-parton"
+    },
+    {
+      "title": "I Will Always Love You",
+      "id": "i-will-always-love-you-dolly-parton"
+    },
+    {
+      "title": "Backwoods Barbie",
+      "id": null
+    },
+    {
+      "title": "Coat of Many Colors",
+      "id": null
+    },
+    {
+      "title": "Only Dreamin’",
+      "id": null
+    },
+    {
+      "title": "Better Get to Livin’",
+      "id": null
+    },
+    {
+      "title": "Shinola",
+      "id": null
+    },
+    {
+      "title": "Little Sparrow",
+      "id": null
+    },
+    {
+      "title": "The Grass Is Blue",
+      "id": null
+    },
+    {
+      "title": "Do I Ever Cross Your Mind",
+      "id": null
+    },
+    {
+      "title": "Jesus and Gravity",
+      "id": null
+    }
+  ]
+}
