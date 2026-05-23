@@ -1,1 +1,70 @@
-{"id": "ferguslie-park-stealers-wheel", "title": "Ferguslie Park", "artist": "Stealers Wheel", "peak": 181, "history": [{"date": "1974-04-13", "rank": 185}, {"date": "1974-04-20", "rank": 181}, {"date": "1974-04-27", "rank": 195}]}
+{
+  "id": "ferguslie-park-stealers-wheel",
+  "title": "Ferguslie Park",
+  "artist": "Stealers Wheel",
+  "peak": 181,
+  "history": [
+    {
+      "date": "1974-04-13",
+      "rank": 185
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 181
+    },
+    {
+      "date": "1974-04-27",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Star",
+      "id": "star-stealers-wheel"
+    },
+    {
+      "title": "Everything Will Turn Out Fine",
+      "id": "everyone-s-agreed-that-everything-will-turn-out-fine-stealers-wheel"
+    },
+    {
+      "title": "Good Businessman",
+      "id": null
+    },
+    {
+      "title": "Wheelin’",
+      "id": null
+    },
+    {
+      "title": "Waltz (You Know It Makes Sense)",
+      "id": null
+    },
+    {
+      "title": "What More Could You Want",
+      "id": null
+    },
+    {
+      "title": "Over My Head",
+      "id": null
+    },
+    {
+      "title": "Blind Faith",
+      "id": null
+    },
+    {
+      "title": "Nothing’s Gonna Change My Mind",
+      "id": null
+    },
+    {
+      "title": "Steamboat Row",
+      "id": null
+    },
+    {
+      "title": "Back on My Feet Again",
+      "id": null
+    },
+    {
+      "title": "Who Cares",
+      "id": null
+    }
+  ]
+}
