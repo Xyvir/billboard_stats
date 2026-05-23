@@ -1,1 +1,102 @@
-{"id": "jasmine-guy-jasmine-guy", "title": "Jasmine Guy", "artist": "Jasmine Guy", "peak": 143, "history": [{"date": "1990-11-03", "rank": 173}, {"date": "1990-11-10", "rank": 158}, {"date": "1990-11-17", "rank": 143}, {"date": "1990-11-24", "rank": 154}, {"date": "1990-12-01", "rank": 167}, {"date": "1990-12-08", "rank": 159}, {"date": "1990-12-15", "rank": 169}, {"date": "1990-12-22", "rank": 158}, {"date": "1990-12-29", "rank": 158}, {"date": "1991-01-05", "rank": 163}, {"date": "1991-01-12", "rank": 173}, {"date": "1991-01-19", "rank": 167}, {"date": "1991-01-26", "rank": 200}]}
+{
+  "id": "jasmine-guy-jasmine-guy",
+  "title": "Jasmine Guy",
+  "artist": "Jasmine Guy",
+  "peak": 143,
+  "history": [
+    {
+      "date": "1990-11-03",
+      "rank": 173
+    },
+    {
+      "date": "1990-11-10",
+      "rank": 158
+    },
+    {
+      "date": "1990-11-17",
+      "rank": 143
+    },
+    {
+      "date": "1990-11-24",
+      "rank": 154
+    },
+    {
+      "date": "1990-12-01",
+      "rank": 167
+    },
+    {
+      "date": "1990-12-08",
+      "rank": 159
+    },
+    {
+      "date": "1990-12-15",
+      "rank": 169
+    },
+    {
+      "date": "1990-12-22",
+      "rank": 158
+    },
+    {
+      "date": "1990-12-29",
+      "rank": 158
+    },
+    {
+      "date": "1991-01-05",
+      "rank": 163
+    },
+    {
+      "date": "1991-01-12",
+      "rank": 173
+    },
+    {
+      "date": "1991-01-19",
+      "rank": 167
+    },
+    {
+      "date": "1991-01-26",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Another Like My Lover",
+      "id": "another-like-my-lover-jasmine-guy"
+    },
+    {
+      "title": "Just Want to Hold You",
+      "id": "just-want-to-hold-you-jasmine-guy"
+    },
+    {
+      "title": "Try Me",
+      "id": null
+    },
+    {
+      "title": "Don’t Want Money",
+      "id": null
+    },
+    {
+      "title": "Johnny Come Lately",
+      "id": null
+    },
+    {
+      "title": "More Love",
+      "id": null
+    },
+    {
+      "title": "Tuff Boy",
+      "id": null
+    },
+    {
+      "title": "Everybody Knows My Name",
+      "id": null
+    },
+    {
+      "title": "I Don't Have to Justify",
+      "id": null
+    },
+    {
+      "title": "I Wish You Well",
+      "id": null
+    }
+  ]
+}

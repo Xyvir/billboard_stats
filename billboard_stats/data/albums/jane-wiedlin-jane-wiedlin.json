@@ -1,1 +1,78 @@
-{"id": "jane-wiedlin-jane-wiedlin", "title": "Jane Wiedlin", "artist": "Jane Wiedlin", "peak": 127, "history": [{"date": "1985-10-26", "rank": 166}, {"date": "1985-11-02", "rank": 143}, {"date": "1985-11-09", "rank": 132}, {"date": "1985-11-16", "rank": 127}, {"date": "1985-11-23", "rank": 127}, {"date": "1985-11-30", "rank": 168}]}
+{
+  "id": "jane-wiedlin-jane-wiedlin",
+  "title": "Jane Wiedlin",
+  "artist": "Jane Wiedlin",
+  "peak": 127,
+  "history": [
+    {
+      "date": "1985-10-26",
+      "rank": 166
+    },
+    {
+      "date": "1985-11-02",
+      "rank": 143
+    },
+    {
+      "date": "1985-11-09",
+      "rank": 132
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 127
+    },
+    {
+      "date": "1985-11-23",
+      "rank": 127
+    },
+    {
+      "date": "1985-11-30",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blue Kiss",
+      "id": "blue-kiss-jane-wiedlin"
+    },
+    {
+      "title": "Goodbye Cruel World",
+      "id": null
+    },
+    {
+      "title": "Sometimes You Really Get on My Nerves",
+      "id": null
+    },
+    {
+      "title": "East Meets West",
+      "id": null
+    },
+    {
+      "title": "Somebody’s Going to Get Into This House",
+      "id": null
+    },
+    {
+      "title": "Forever",
+      "id": null
+    },
+    {
+      "title": "Modern Romance",
+      "id": null
+    },
+    {
+      "title": "I Will Wait for You",
+      "id": null
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "id": null
+    },
+    {
+      "title": "Where We Can Go",
+      "id": null
+    },
+    {
+      "title": "My Traveling Heart",
+      "id": null
+    }
+  ]
+}

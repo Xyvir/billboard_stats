@@ -1,1 +1,142 @@
-{"id": "janet-jackson-janet-jackson", "title": "Janet Jackson", "artist": "Janet Jackson", "peak": 63, "history": [{"date": "1982-11-20", "rank": 148}, {"date": "1982-11-27", "rank": 95}, {"date": "1982-12-04", "rank": 82}, {"date": "1982-12-11", "rank": 72}, {"date": "1982-12-18", "rank": 72}, {"date": "1982-12-25", "rank": 67}, {"date": "1983-01-01", "rank": 67}, {"date": "1983-01-08", "rank": 65}, {"date": "1983-01-15", "rank": 65}, {"date": "1983-01-22", "rank": 63}, {"date": "1983-01-29", "rank": 71}, {"date": "1983-02-05", "rank": 73}, {"date": "1983-02-12", "rank": 72}, {"date": "1983-02-19", "rank": 103}, {"date": "1983-02-26", "rank": 103}, {"date": "1983-03-05", "rank": 102}, {"date": "1983-03-12", "rank": 100}, {"date": "1983-03-19", "rank": 100}, {"date": "1983-03-26", "rank": 114}, {"date": "1983-04-02", "rank": 112}, {"date": "1983-04-09", "rank": 138}, {"date": "1983-04-16", "rank": 138}, {"date": "1983-04-23", "rank": 138}, {"date": "1983-04-30", "rank": 167}, {"date": "1983-05-07", "rank": 191}]}
+{
+  "id": "janet-jackson-janet-jackson",
+  "title": "Janet Jackson",
+  "artist": "Janet Jackson",
+  "peak": 63,
+  "history": [
+    {
+      "date": "1982-11-20",
+      "rank": 148
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 95
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 82
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 72
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 72
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 67
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 67
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 65
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 65
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 63
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 71
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 73
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 72
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 103
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 103
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 102
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 100
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 100
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 114
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 112
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 138
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 138
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 138
+    },
+    {
+      "date": "1983-04-30",
+      "rank": 167
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Young Love",
+      "id": "young-love-janet-jackson"
+    },
+    {
+      "title": "Come Give Your Love to Me",
+      "id": "come-give-your-love-to-me-janet-jackson"
+    },
+    {
+      "title": "Say You Do",
+      "id": null
+    },
+    {
+      "title": "You’ll Never Find (a Love Like Mine)",
+      "id": null
+    },
+    {
+      "title": "Love and My Best Friend",
+      "id": null
+    },
+    {
+      "title": "Don’t Mess Up This Good Thing",
+      "id": null
+    },
+    {
+      "title": "Forever Yours",
+      "id": null
+    },
+    {
+      "title": "The Magic Is Working",
+      "id": null
+    }
+  ]
+}

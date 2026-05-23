@@ -1,1 +1,138 @@
-{"id": "jane-child-jane-child", "title": "Jane Child", "artist": "Jane Child", "peak": 49, "history": [{"date": "1990-03-03", "rank": 193}, {"date": "1990-03-10", "rank": 128}, {"date": "1990-03-17", "rank": 92}, {"date": "1990-03-24", "rank": 76}, {"date": "1990-03-31", "rank": 61}, {"date": "1990-04-07", "rank": 54}, {"date": "1990-04-14", "rank": 53}, {"date": "1990-04-21", "rank": 56}, {"date": "1990-04-28", "rank": 49}, {"date": "1990-05-05", "rank": 49}, {"date": "1990-05-12", "rank": 58}, {"date": "1990-05-19", "rank": 69}, {"date": "1990-05-26", "rank": 71}, {"date": "1990-06-02", "rank": 88}, {"date": "1990-06-09", "rank": 100}, {"date": "1990-06-16", "rank": 107}, {"date": "1990-06-23", "rank": 116}, {"date": "1990-06-30", "rank": 119}, {"date": "1990-07-07", "rank": 132}, {"date": "1990-07-14", "rank": 144}, {"date": "1990-07-21", "rank": 152}, {"date": "1990-07-28", "rank": 200}]}
+{
+  "id": "jane-child-jane-child",
+  "title": "Jane Child",
+  "artist": "Jane Child",
+  "peak": 49,
+  "history": [
+    {
+      "date": "1990-03-03",
+      "rank": 193
+    },
+    {
+      "date": "1990-03-10",
+      "rank": 128
+    },
+    {
+      "date": "1990-03-17",
+      "rank": 92
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 76
+    },
+    {
+      "date": "1990-03-31",
+      "rank": 61
+    },
+    {
+      "date": "1990-04-07",
+      "rank": 54
+    },
+    {
+      "date": "1990-04-14",
+      "rank": 53
+    },
+    {
+      "date": "1990-04-21",
+      "rank": 56
+    },
+    {
+      "date": "1990-04-28",
+      "rank": 49
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 49
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 58
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 69
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 71
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 88
+    },
+    {
+      "date": "1990-06-09",
+      "rank": 100
+    },
+    {
+      "date": "1990-06-16",
+      "rank": 107
+    },
+    {
+      "date": "1990-06-23",
+      "rank": 116
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 119
+    },
+    {
+      "date": "1990-07-07",
+      "rank": 132
+    },
+    {
+      "date": "1990-07-14",
+      "rank": 144
+    },
+    {
+      "date": "1990-07-21",
+      "rank": 152
+    },
+    {
+      "date": "1990-07-28",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Welcome to the Real World",
+      "id": "welcome-to-the-real-world-jane-child"
+    },
+    {
+      "title": "Don’t Wanna Fall in Love",
+      "id": "don-t-wanna-fall-in-love-jane-child"
+    },
+    {
+      "title": "I Got News for You",
+      "id": null
+    },
+    {
+      "title": "Don’t Let It Get to You",
+      "id": null
+    },
+    {
+      "title": "You’re My Religion Now",
+      "id": null
+    },
+    {
+      "title": "Hey Mr. Jones",
+      "id": null
+    },
+    {
+      "title": "Biology",
+      "id": null
+    },
+    {
+      "title": "DS 21",
+      "id": null
+    },
+    {
+      "title": "World Lullabye",
+      "id": null
+    },
+    {
+      "title": "Thank You",
+      "id": null
+    }
+  ]
+}
