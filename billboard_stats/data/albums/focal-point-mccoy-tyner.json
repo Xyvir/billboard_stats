@@ -1,1 +1,46 @@
-{"id": "focal-point-mccoy-tyner", "title": "Focal Point", "artist": "McCoy Tyner", "peak": 187, "history": [{"date": "1977-01-22", "rank": 189}, {"date": "1977-01-29", "rank": 187}, {"date": "1977-02-05", "rank": 187}]}
+{
+  "id": "focal-point-mccoy-tyner",
+  "title": "Focal Point",
+  "artist": "McCoy Tyner",
+  "peak": 187,
+  "history": [
+    {
+      "date": "1977-01-22",
+      "rank": 189
+    },
+    {
+      "date": "1977-01-29",
+      "rank": 187
+    },
+    {
+      "date": "1977-02-05",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mes trois fils",
+      "id": null
+    },
+    {
+      "title": "Parody",
+      "id": null
+    },
+    {
+      "title": "Indo-serenade",
+      "id": null
+    },
+    {
+      "title": "Mode for Dulcimer",
+      "id": null
+    },
+    {
+      "title": "Departure",
+      "id": null
+    },
+    {
+      "title": "Theme for Nana",
+      "id": null
+    }
+  ]
+}
