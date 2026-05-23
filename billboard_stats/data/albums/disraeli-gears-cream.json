@@ -1,1 +1,78 @@
-{"id": "disraeli-gears-cream", "title": "Disraeli Gears", "artist": "Cream", "peak": 165, "history": [{"date": "1977-02-19", "rank": 184}, {"date": "1977-02-26", "rank": 173}, {"date": "1977-03-05", "rank": 171}, {"date": "1977-03-12", "rank": 167}, {"date": "1977-03-19", "rank": 165}, {"date": "1977-03-26", "rank": 173}]}
+{
+  "id": "disraeli-gears-cream",
+  "title": "Disraeli Gears",
+  "artist": "Cream",
+  "peak": 165,
+  "history": [
+    {
+      "date": "1977-02-19",
+      "rank": 184
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 173
+    },
+    {
+      "date": "1977-03-05",
+      "rank": 171
+    },
+    {
+      "date": "1977-03-12",
+      "rank": 167
+    },
+    {
+      "date": "1977-03-19",
+      "rank": 165
+    },
+    {
+      "date": "1977-03-26",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sunshine of Your Love",
+      "id": "sunshine-of-your-love-cream"
+    },
+    {
+      "title": "Strange Brew",
+      "id": null
+    },
+    {
+      "title": "World of Pain",
+      "id": null
+    },
+    {
+      "title": "Dance the Night Away",
+      "id": null
+    },
+    {
+      "title": "Blue Condition",
+      "id": null
+    },
+    {
+      "title": "Tales of Brave Ulysses",
+      "id": null
+    },
+    {
+      "title": "SWLABR",
+      "id": null
+    },
+    {
+      "title": "We’re Going Wrong",
+      "id": null
+    },
+    {
+      "title": "Outside Woman Blues",
+      "id": null
+    },
+    {
+      "title": "Take It Back",
+      "id": null
+    },
+    {
+      "title": "Mother’s Lament",
+      "id": null
+    }
+  ]
+}

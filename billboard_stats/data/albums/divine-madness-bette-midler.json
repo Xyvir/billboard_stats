@@ -1,1 +1,102 @@
-{"id": "divine-madness-bette-midler", "title": "Divine Madness", "artist": "Bette Midler", "peak": 34, "history": [{"date": "1980-11-29", "rank": 68}, {"date": "1980-12-06", "rank": 41}, {"date": "1980-12-13", "rank": 38}, {"date": "1980-12-20", "rank": 34}, {"date": "1980-12-27", "rank": 34}, {"date": "1981-01-03", "rank": 34}, {"date": "1981-01-10", "rank": 51}, {"date": "1981-01-17", "rank": 61}, {"date": "1981-01-24", "rank": 68}, {"date": "1981-01-31", "rank": 94}, {"date": "1981-02-07", "rank": 104}, {"date": "1981-02-14", "rank": 122}, {"date": "1981-02-21", "rank": 121}, {"date": "1981-02-28", "rank": 135}]}
+{
+  "id": "divine-madness-bette-midler",
+  "title": "Divine Madness",
+  "artist": "Bette Midler",
+  "peak": 34,
+  "history": [
+    {
+      "date": "1980-11-29",
+      "rank": 68
+    },
+    {
+      "date": "1980-12-06",
+      "rank": 41
+    },
+    {
+      "date": "1980-12-13",
+      "rank": 38
+    },
+    {
+      "date": "1980-12-20",
+      "rank": 34
+    },
+    {
+      "date": "1980-12-27",
+      "rank": 34
+    },
+    {
+      "date": "1981-01-03",
+      "rank": 34
+    },
+    {
+      "date": "1981-01-10",
+      "rank": 51
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 61
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 68
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 94
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 104
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 122
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 121
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 135
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Mother’s Eyes",
+      "id": "my-mother-s-eyes-bette-midler"
+    },
+    {
+      "title": "Chapel of Love / Boogie Woogie Bugle Boy",
+      "id": "boogie-woogie-bugle-boy-bette-midler"
+    },
+    {
+      "title": "Big Noise From Winnetka",
+      "id": null
+    },
+    {
+      "title": "Paradise",
+      "id": null
+    },
+    {
+      "title": "Shiver Me Timbers",
+      "id": null
+    },
+    {
+      "title": "Fire Down Below",
+      "id": null
+    },
+    {
+      "title": "Stay With Me",
+      "id": null
+    },
+    {
+      "title": "E Street Shuffle / Summer (The First Time) / Leader of the Pack",
+      "id": null
+    },
+    {
+      "title": "You Can’t Always Get What You Want / I Shall Be Released",
+      "id": null
+    }
+  ]
+}
