@@ -1,1 +1,86 @@
-{"id": "brotherhood-the-doobie-brothers", "title": "Brotherhood", "artist": "The Doobie Brothers", "peak": 82, "history": [{"date": "1991-05-11", "rank": 145}, {"date": "1991-05-18", "rank": 82}, {"date": "1991-05-25", "rank": 151}, {"date": "1991-06-01", "rank": 143}, {"date": "1991-06-08", "rank": 138}, {"date": "1991-06-15", "rank": 172}, {"date": "1991-06-22", "rank": 181}, {"date": "1991-06-29", "rank": 170}, {"date": "1991-07-06", "rank": 172}]}
+{
+  "id": "brotherhood-the-doobie-brothers",
+  "title": "Brotherhood",
+  "artist": "The Doobie Brothers",
+  "peak": 82,
+  "history": [
+    {
+      "date": "1991-05-11",
+      "rank": 145
+    },
+    {
+      "date": "1991-05-18",
+      "rank": 82
+    },
+    {
+      "date": "1991-05-25",
+      "rank": 151
+    },
+    {
+      "date": "1991-06-01",
+      "rank": 143
+    },
+    {
+      "date": "1991-06-08",
+      "rank": 138
+    },
+    {
+      "date": "1991-06-15",
+      "rank": 172
+    },
+    {
+      "date": "1991-06-22",
+      "rank": 181
+    },
+    {
+      "date": "1991-06-29",
+      "rank": 170
+    },
+    {
+      "date": "1991-07-06",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Our Love",
+      "id": "real-love-the-doobie-brothers"
+    },
+    {
+      "title": "This Train I’m On",
+      "id": "keep-this-train-a-rollin-the-doobie-brothers"
+    },
+    {
+      "title": "Something You Said",
+      "id": null
+    },
+    {
+      "title": "Is Love Enough",
+      "id": null
+    },
+    {
+      "title": "Dangerous",
+      "id": null
+    },
+    {
+      "title": "Divided Highway",
+      "id": null
+    },
+    {
+      "title": "Under the Spell",
+      "id": null
+    },
+    {
+      "title": "Excited",
+      "id": null
+    },
+    {
+      "title": "Showdown",
+      "id": null
+    },
+    {
+      "title": "Rollin’ On",
+      "id": null
+    }
+  ]
+}

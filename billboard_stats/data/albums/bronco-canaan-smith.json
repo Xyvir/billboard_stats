@@ -1,1 +1,82 @@
-{"id": "bronco-canaan-smith", "title": "Bronco", "artist": "Canaan Smith", "peak": 29, "history": [{"date": "2015-07-11", "rank": 29}, {"date": "2015-07-18", "rank": 70}, {"date": "2015-07-25", "rank": 71}, {"date": "2015-08-01", "rank": 98}, {"date": "2015-08-08", "rank": 122}, {"date": "2015-08-15", "rank": 158}, {"date": "2015-08-22", "rank": 185}]}
+{
+  "id": "bronco-canaan-smith",
+  "title": "Bronco",
+  "artist": "Canaan Smith",
+  "peak": 29,
+  "history": [
+    {
+      "date": "2015-07-11",
+      "rank": 29
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 70
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 71
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 98
+    },
+    {
+      "date": "2015-08-08",
+      "rank": 122
+    },
+    {
+      "date": "2015-08-15",
+      "rank": 158
+    },
+    {
+      "date": "2015-08-22",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love You Like That",
+      "id": "love-you-like-that-canaan-smith"
+    },
+    {
+      "title": "Good Kinda Bad",
+      "id": null
+    },
+    {
+      "title": "Stompin' Grounds",
+      "id": null
+    },
+    {
+      "title": "Hole In a Bottle",
+      "id": null
+    },
+    {
+      "title": "Stuck",
+      "id": null
+    },
+    {
+      "title": "One of Those",
+      "id": null
+    },
+    {
+      "title": "Mad Love",
+      "id": null
+    },
+    {
+      "title": "Love at First",
+      "id": null
+    },
+    {
+      "title": "American Muscle",
+      "id": null
+    },
+    {
+      "title": "Two Lane Road",
+      "id": null
+    },
+    {
+      "title": "Bronco",
+      "id": null
+    }
+  ]
+}

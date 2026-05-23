@@ -1,1 +1,74 @@
-{"id": "b-room-dr-dog", "title": "B-Room", "artist": "Dr. Dog", "peak": 50, "history": [{"date": "2013-10-19", "rank": 50}, {"date": "2013-10-26", "rank": 165}]}
+{
+  "id": "b-room-dr-dog",
+  "title": "B-Room",
+  "artist": "Dr. Dog",
+  "peak": 50,
+  "history": [
+    {
+      "date": "2013-10-19",
+      "rank": 50
+    },
+    {
+      "date": "2013-10-26",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Truth",
+      "id": null
+    },
+    {
+      "title": "Broken Heart",
+      "id": null
+    },
+    {
+      "title": "Minding the Usher",
+      "id": null
+    },
+    {
+      "title": "Distant Light",
+      "id": null
+    },
+    {
+      "title": "Phenomenon",
+      "id": null
+    },
+    {
+      "title": "Too Weak to Ramble",
+      "id": null
+    },
+    {
+      "title": "Long Way Down",
+      "id": null
+    },
+    {
+      "title": "Cuckoo",
+      "id": null
+    },
+    {
+      "title": "Twilight",
+      "id": null
+    },
+    {
+      "title": "Rock & Roll",
+      "id": null
+    },
+    {
+      "title": "Love",
+      "id": null
+    },
+    {
+      "title": "Nellie",
+      "id": null
+    },
+    {
+      "title": "Humble Passenger (Part 1)",
+      "id": null
+    },
+    {
+      "title": "Humble Passenger (Part 2)",
+      "id": null
+    }
+  ]
+}
