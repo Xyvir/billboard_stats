@@ -1,1 +1,70 @@
-{"id": "forth-the-verve", "title": "Forth", "artist": "The Verve", "peak": 23, "history": [{"date": "2008-09-13", "rank": 23}, {"date": "2008-09-20", "rank": 71}, {"date": "2008-09-27", "rank": 121}, {"date": "2008-10-04", "rank": 165}]}
+{
+  "id": "forth-the-verve",
+  "title": "Forth",
+  "artist": "The Verve",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2008-09-13",
+      "rank": 23
+    },
+    {
+      "date": "2008-09-20",
+      "rank": 71
+    },
+    {
+      "date": "2008-09-27",
+      "rank": 121
+    },
+    {
+      "date": "2008-10-04",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sit and Wonder",
+      "id": null
+    },
+    {
+      "title": "Love Is Noise",
+      "id": null
+    },
+    {
+      "title": "Rather Be",
+      "id": null
+    },
+    {
+      "title": "Judas",
+      "id": null
+    },
+    {
+      "title": "Numbness",
+      "id": null
+    },
+    {
+      "title": "I See Houses",
+      "id": null
+    },
+    {
+      "title": "Noise Epic",
+      "id": null
+    },
+    {
+      "title": "Valium Skies",
+      "id": null
+    },
+    {
+      "title": "Columbo",
+      "id": null
+    },
+    {
+      "title": "Appalachian Springs",
+      "id": null
+    },
+    {
+      "title": "Let the Damage Begin",
+      "id": null
+    }
+  ]
+}

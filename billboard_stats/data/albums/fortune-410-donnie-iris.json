@@ -1,1 +1,98 @@
-{"id": "fortune-410-donnie-iris", "title": "Fortune 410", "artist": "Donnie Iris", "peak": 127, "history": [{"date": "1983-07-02", "rank": 174}, {"date": "1983-07-09", "rank": 161}, {"date": "1983-07-16", "rank": 153}, {"date": "1983-07-23", "rank": 143}, {"date": "1983-07-30", "rank": 131}, {"date": "1983-08-06", "rank": 127}, {"date": "1983-08-13", "rank": 146}, {"date": "1983-08-20", "rank": 140}, {"date": "1983-08-27", "rank": 138}, {"date": "1983-09-03", "rank": 162}, {"date": "1983-09-10", "rank": 168}, {"date": "1983-09-17", "rank": 198}]}
+{
+  "id": "fortune-410-donnie-iris",
+  "title": "Fortune 410",
+  "artist": "Donnie Iris",
+  "peak": 127,
+  "history": [
+    {
+      "date": "1983-07-02",
+      "rank": 174
+    },
+    {
+      "date": "1983-07-09",
+      "rank": 161
+    },
+    {
+      "date": "1983-07-16",
+      "rank": 153
+    },
+    {
+      "date": "1983-07-23",
+      "rank": 143
+    },
+    {
+      "date": "1983-07-30",
+      "rank": 131
+    },
+    {
+      "date": "1983-08-06",
+      "rank": 127
+    },
+    {
+      "date": "1983-08-13",
+      "rank": 146
+    },
+    {
+      "date": "1983-08-20",
+      "rank": 140
+    },
+    {
+      "date": "1983-08-27",
+      "rank": 138
+    },
+    {
+      "date": "1983-09-03",
+      "rank": 162
+    },
+    {
+      "date": "1983-09-10",
+      "rank": 168
+    },
+    {
+      "date": "1983-09-17",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Do You Compute?",
+      "id": "do-you-compute-donnie-iris"
+    },
+    {
+      "title": "Evolution",
+      "id": null
+    },
+    {
+      "title": "Stagedoor Johnny",
+      "id": null
+    },
+    {
+      "title": "Cry If You Want To",
+      "id": null
+    },
+    {
+      "title": "Tell Me What You Want",
+      "id": null
+    },
+    {
+      "title": "I Belong",
+      "id": null
+    },
+    {
+      "title": "She's So European",
+      "id": null
+    },
+    {
+      "title": "I'm a User",
+      "id": null
+    },
+    {
+      "title": "Never Did I",
+      "id": null
+    },
+    {
+      "title": "Somebody",
+      "id": null
+    }
+  ]
+}

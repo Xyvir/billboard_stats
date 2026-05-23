@@ -1,1 +1,98 @@
-{"id": "for-you-eddie-kendricks", "title": "For You", "artist": "Eddie Kendricks", "peak": 108, "history": [{"date": "1974-12-07", "rank": 162}, {"date": "1974-12-14", "rank": 139}, {"date": "1974-12-21", "rank": 127}, {"date": "1974-12-28", "rank": 113}, {"date": "1975-01-04", "rank": 108}, {"date": "1975-01-11", "rank": 116}, {"date": "1975-01-18", "rank": 116}, {"date": "1975-01-25", "rank": 114}, {"date": "1975-02-01", "rank": 113}, {"date": "1975-02-08", "rank": 126}, {"date": "1975-02-15", "rank": 118}, {"date": "1975-02-22", "rank": 109}, {"date": "1975-03-01", "rank": 127}, {"date": "1975-03-08", "rank": 152}]}
+{
+  "id": "for-you-eddie-kendricks",
+  "title": "For You",
+  "artist": "Eddie Kendricks",
+  "peak": 108,
+  "history": [
+    {
+      "date": "1974-12-07",
+      "rank": 162
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 139
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 127
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 113
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 108
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 116
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 116
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 114
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 113
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 126
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 118
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 109
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 127
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 152
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One Tear",
+      "id": "one-tear-eddie-kendricks"
+    },
+    {
+      "title": "Shoeshine Boy",
+      "id": "shoeshine-boy-eddie-kendricks"
+    },
+    {
+      "title": "Please Don't Go Away",
+      "id": null
+    },
+    {
+      "title": "Deep and Quiet Love",
+      "id": null
+    },
+    {
+      "title": "Let Yourself Go",
+      "id": null
+    },
+    {
+      "title": "If",
+      "id": null
+    },
+    {
+      "title": "If You Think (You Can)",
+      "id": null
+    },
+    {
+      "title": "Time in a Bottle",
+      "id": null
+    }
+  ]
+}

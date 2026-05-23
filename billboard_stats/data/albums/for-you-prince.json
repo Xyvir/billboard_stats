@@ -1,1 +1,70 @@
-{"id": "for-you-prince", "title": "For You", "artist": "Prince", "peak": 138, "history": [{"date": "1978-10-28", "rank": 190}, {"date": "1978-11-04", "rank": 181}, {"date": "1978-11-11", "rank": 173}, {"date": "1978-11-18", "rank": 165}, {"date": "1978-11-25", "rank": 163}, {"date": "2016-05-14", "rank": 138}]}
+{
+  "id": "for-you-prince",
+  "title": "For You",
+  "artist": "Prince",
+  "peak": 138,
+  "history": [
+    {
+      "date": "1978-10-28",
+      "rank": 190
+    },
+    {
+      "date": "1978-11-04",
+      "rank": 181
+    },
+    {
+      "date": "1978-11-11",
+      "rank": 173
+    },
+    {
+      "date": "1978-11-18",
+      "rank": 165
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 163
+    },
+    {
+      "date": "2016-05-14",
+      "rank": 138
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Soft and Wet",
+      "id": "soft-and-wet-prince"
+    },
+    {
+      "title": "For You",
+      "id": null
+    },
+    {
+      "title": "In Love",
+      "id": null
+    },
+    {
+      "title": "Crazy You",
+      "id": null
+    },
+    {
+      "title": "Just as Long as We’re Together",
+      "id": null
+    },
+    {
+      "title": "Baby",
+      "id": null
+    },
+    {
+      "title": "My Love Is Forever",
+      "id": null
+    },
+    {
+      "title": "So Blue",
+      "id": null
+    },
+    {
+      "title": "I’m Yours",
+      "id": null
+    }
+  ]
+}
