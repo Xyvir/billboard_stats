@@ -1,1 +1,54 @@
-{"id": "declaration-red", "title": "Declaration", "artist": "Red", "peak": 61, "history": [{"date": "2020-04-18", "rank": 61}]}
+{
+  "id": "declaration-red",
+  "title": "Declaration",
+  "artist": "Red",
+  "peak": 61,
+  "history": [
+    {
+      "date": "2020-04-18",
+      "rank": 61
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All for You",
+      "id": null
+    },
+    {
+      "title": "Infidel",
+      "id": null
+    },
+    {
+      "title": "Cauterize",
+      "id": null
+    },
+    {
+      "title": "The War We Made",
+      "id": null
+    },
+    {
+      "title": "The Evening Hate",
+      "id": null
+    },
+    {
+      "title": "Float",
+      "id": null
+    },
+    {
+      "title": "The Victim",
+      "id": null
+    },
+    {
+      "title": "Sever",
+      "id": null
+    },
+    {
+      "title": "Only Fight",
+      "id": null
+    },
+    {
+      "title": "From the Ashes",
+      "id": null
+    }
+  ]
+}
