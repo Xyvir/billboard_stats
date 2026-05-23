@@ -1,1 +1,102 @@
-{"id": "crawler-crawler", "title": "Crawler", "artist": "Crawler", "peak": 85, "history": [{"date": "1977-09-10", "rank": 169}, {"date": "1977-09-17", "rank": 169}, {"date": "1977-09-24", "rank": 148}, {"date": "1977-10-01", "rank": 106}, {"date": "1977-10-08", "rank": 96}, {"date": "1977-10-15", "rank": 88}, {"date": "1977-10-22", "rank": 86}, {"date": "1977-10-29", "rank": 85}, {"date": "1977-11-05", "rank": 90}, {"date": "1977-11-12", "rank": 88}, {"date": "1977-11-19", "rank": 86}, {"date": "1977-11-26", "rank": 126}, {"date": "1977-12-03", "rank": 197}]}
+{
+  "id": "crawler-crawler",
+  "title": "Crawler",
+  "artist": "Crawler",
+  "peak": 85,
+  "history": [
+    {
+      "date": "1977-09-10",
+      "rank": 169
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 169
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 148
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 106
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 96
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 88
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 86
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 85
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 90
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 88
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 86
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 126
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stone Cold Sober",
+      "id": "stone-cold-sober-crawler"
+    },
+    {
+      "title": "Without You Babe",
+      "id": null
+    },
+    {
+      "title": "You Got Money",
+      "id": null
+    },
+    {
+      "title": "Sold on Down the Line",
+      "id": null
+    },
+    {
+      "title": "One Too Many Lovers",
+      "id": null
+    },
+    {
+      "title": "You Are My Saviour",
+      "id": null
+    },
+    {
+      "title": "Pastime Dreamer",
+      "id": null
+    },
+    {
+      "title": "Never Loved a Woman",
+      "id": null
+    },
+    {
+      "title": "You and Me",
+      "id": null
+    },
+    {
+      "title": "Stone Cold Sober single version bonus track",
+      "id": null
+    }
+  ]
+}

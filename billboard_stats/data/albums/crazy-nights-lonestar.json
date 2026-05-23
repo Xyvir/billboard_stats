@@ -1,1 +1,66 @@
-{"id": "crazy-nights-lonestar", "title": "Crazy Nights", "artist": "Lonestar", "peak": 166, "history": [{"date": "1997-07-05", "rank": 188}, {"date": "1997-07-12", "rank": 166}, {"date": "1997-07-19", "rank": 180}]}
+{
+  "id": "crazy-nights-lonestar",
+  "title": "Crazy Nights",
+  "artist": "Lonestar",
+  "peak": 166,
+  "history": [
+    {
+      "date": "1997-07-05",
+      "rank": 188
+    },
+    {
+      "date": "1997-07-12",
+      "rank": 166
+    },
+    {
+      "date": "1997-07-19",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Everything’s Changed",
+      "id": "everything-s-changed-lonestar"
+    },
+    {
+      "title": "You Walked In",
+      "id": "you-walked-in-lonestar"
+    },
+    {
+      "title": "Amie",
+      "id": "smile-lonestar"
+    },
+    {
+      "title": "Come Cryin’ to Me",
+      "id": null
+    },
+    {
+      "title": "Cheater's Road",
+      "id": null
+    },
+    {
+      "title": "A Week in Juarez",
+      "id": null
+    },
+    {
+      "title": "John Doe on a John Deere",
+      "id": null
+    },
+    {
+      "title": "Say When",
+      "id": null
+    },
+    {
+      "title": "Crazy Nights",
+      "id": null
+    },
+    {
+      "title": "Keys to My Heart",
+      "id": null
+    },
+    {
+      "title": "What Do We Do With the Rest of the Night",
+      "id": null
+    }
+  ]
+}
