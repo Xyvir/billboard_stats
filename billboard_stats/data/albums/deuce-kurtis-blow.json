@@ -1,1 +1,58 @@
-{"id": "deuce-kurtis-blow", "title": "Deuce", "artist": "Kurtis Blow", "peak": 137, "history": [{"date": "1981-07-18", "rank": 145}, {"date": "1981-07-25", "rank": 138}, {"date": "1981-08-01", "rank": 138}, {"date": "1981-08-08", "rank": 137}, {"date": "1981-08-15", "rank": 161}]}
+{
+  "id": "deuce-kurtis-blow",
+  "title": "Deuce",
+  "artist": "Kurtis Blow",
+  "peak": 137,
+  "history": [
+    {
+      "date": "1981-07-18",
+      "rank": 145
+    },
+    {
+      "date": "1981-07-25",
+      "rank": 138
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 138
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 137
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Deuce",
+      "id": null
+    },
+    {
+      "title": "It’s Gettin' Hot",
+      "id": null
+    },
+    {
+      "title": "Getaway",
+      "id": null
+    },
+    {
+      "title": "Starlife",
+      "id": null
+    },
+    {
+      "title": "Take It to the Bridge",
+      "id": null
+    },
+    {
+      "title": "Do the Do",
+      "id": null
+    },
+    {
+      "title": "Rockin’",
+      "id": null
+    }
+  ]
+}

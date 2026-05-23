@@ -1,1 +1,102 @@
-{"id": "destiny-chaka-khan", "title": "Destiny", "artist": "Chaka Khan", "peak": 67, "history": [{"date": "1986-08-23", "rank": 89}, {"date": "1986-08-30", "rank": 72}, {"date": "1986-09-06", "rank": 71}, {"date": "1986-09-13", "rank": 67}, {"date": "1986-09-20", "rank": 67}, {"date": "1986-09-27", "rank": 75}, {"date": "1986-10-04", "rank": 72}, {"date": "1986-10-11", "rank": 101}, {"date": "1986-10-18", "rank": 107}, {"date": "1986-10-25", "rank": 119}, {"date": "1986-11-01", "rank": 131}, {"date": "1986-11-08", "rank": 161}]}
+{
+  "id": "destiny-chaka-khan",
+  "title": "Destiny",
+  "artist": "Chaka Khan",
+  "peak": 67,
+  "history": [
+    {
+      "date": "1986-08-23",
+      "rank": 89
+    },
+    {
+      "date": "1986-08-30",
+      "rank": 72
+    },
+    {
+      "date": "1986-09-06",
+      "rank": 71
+    },
+    {
+      "date": "1986-09-13",
+      "rank": 67
+    },
+    {
+      "date": "1986-09-20",
+      "rank": 67
+    },
+    {
+      "date": "1986-09-27",
+      "rank": 75
+    },
+    {
+      "date": "1986-10-04",
+      "rank": 72
+    },
+    {
+      "date": "1986-10-11",
+      "rank": 101
+    },
+    {
+      "date": "1986-10-18",
+      "rank": 107
+    },
+    {
+      "date": "1986-10-25",
+      "rank": 119
+    },
+    {
+      "date": "1986-11-01",
+      "rank": 131
+    },
+    {
+      "date": "1986-11-08",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love of a Lifetime",
+      "id": "love-of-a-lifetime-chaka-khan"
+    },
+    {
+      "title": "Earth to Mickey",
+      "id": null
+    },
+    {
+      "title": "Watching the World",
+      "id": null
+    },
+    {
+      "title": "The Other Side of the World",
+      "id": null
+    },
+    {
+      "title": "My Destiny (LP version)",
+      "id": null
+    },
+    {
+      "title": "I Can’t Be Loved",
+      "id": null
+    },
+    {
+      "title": "It’s You",
+      "id": null
+    },
+    {
+      "title": "So Close",
+      "id": null
+    },
+    {
+      "title": "Tight Fit",
+      "id": null
+    },
+    {
+      "title": "Who’s It Gonna Be",
+      "id": null
+    },
+    {
+      "title": "Coltrane Dreams",
+      "id": null
+    }
+  ]
+}

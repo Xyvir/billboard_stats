@@ -1,1 +1,70 @@
-{"id": "destiny-myron", "title": "Destiny", "artist": "Myron", "peak": 156, "history": [{"date": "1998-08-15", "rank": 156}, {"date": "1998-08-22", "rank": 182}]}
+{
+  "id": "destiny-myron",
+  "title": "Destiny",
+  "artist": "Myron",
+  "peak": 156,
+  "history": [
+    {
+      "date": "1998-08-15",
+      "rank": 156
+    },
+    {
+      "date": "1998-08-22",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "We Can Get Down",
+      "id": "we-can-get-down-myron"
+    },
+    {
+      "title": "Destiny",
+      "id": "destiny-myron"
+    },
+    {
+      "title": "Destiny (remix)",
+      "id": "destiny-myron"
+    },
+    {
+      "title": "So Fly",
+      "id": null
+    },
+    {
+      "title": "Come Around",
+      "id": null
+    },
+    {
+      "title": "See You Cry",
+      "id": null
+    },
+    {
+      "title": "So Damn Much",
+      "id": null
+    },
+    {
+      "title": "Heavenly Girl",
+      "id": null
+    },
+    {
+      "title": "Give My All to You",
+      "id": null
+    },
+    {
+      "title": "Hit It",
+      "id": null
+    },
+    {
+      "title": "Eastside Girl",
+      "id": null
+    },
+    {
+      "title": "You're My Everything",
+      "id": null
+    },
+    {
+      "title": "Angel",
+      "id": null
+    }
+  ]
+}
