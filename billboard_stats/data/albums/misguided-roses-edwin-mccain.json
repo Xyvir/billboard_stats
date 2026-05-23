@@ -1,1 +1,230 @@
-{"id": "misguided-roses-edwin-mccain", "title": "Misguided Roses", "artist": "Edwin McCain", "peak": 73, "history": [{"date": "1998-04-18", "rank": 192}, {"date": "1998-04-25", "rank": 182}, {"date": "1998-05-02", "rank": 149}, {"date": "1998-05-09", "rank": 136}, {"date": "1998-05-16", "rank": 132}, {"date": "1998-05-23", "rank": 132}, {"date": "1998-05-30", "rank": 123}, {"date": "1998-06-06", "rank": 73}, {"date": "1998-06-13", "rank": 81}, {"date": "1998-06-20", "rank": 89}, {"date": "1998-06-27", "rank": 87}, {"date": "1998-07-04", "rank": 92}, {"date": "1998-07-11", "rank": 82}, {"date": "1998-07-18", "rank": 93}, {"date": "1998-07-25", "rank": 88}, {"date": "1998-08-01", "rank": 88}, {"date": "1998-08-08", "rank": 92}, {"date": "1998-08-15", "rank": 93}, {"date": "1998-08-22", "rank": 95}, {"date": "1998-08-29", "rank": 89}, {"date": "1998-09-05", "rank": 94}, {"date": "1998-09-12", "rank": 100}, {"date": "1998-09-19", "rank": 105}, {"date": "1998-09-26", "rank": 111}, {"date": "1998-10-03", "rank": 113}, {"date": "1998-10-10", "rank": 126}, {"date": "1998-10-17", "rank": 122}, {"date": "1998-10-24", "rank": 124}, {"date": "1998-10-31", "rank": 123}, {"date": "1998-11-07", "rank": 111}, {"date": "1998-11-14", "rank": 132}, {"date": "1998-11-21", "rank": 123}, {"date": "1998-11-28", "rank": 136}, {"date": "1998-12-05", "rank": 157}, {"date": "1998-12-12", "rank": 177}, {"date": "1998-12-19", "rank": 180}, {"date": "1998-12-26", "rank": 183}, {"date": "1999-01-02", "rank": 177}, {"date": "1999-01-09", "rank": 186}, {"date": "1999-01-16", "rank": 169}, {"date": "1999-01-23", "rank": 169}, {"date": "1999-01-30", "rank": 192}]}
+{
+  "id": "misguided-roses-edwin-mccain",
+  "title": "Misguided Roses",
+  "artist": "Edwin McCain",
+  "peak": 73,
+  "history": [
+    {
+      "date": "1998-04-18",
+      "rank": 192
+    },
+    {
+      "date": "1998-04-25",
+      "rank": 182
+    },
+    {
+      "date": "1998-05-02",
+      "rank": 149
+    },
+    {
+      "date": "1998-05-09",
+      "rank": 136
+    },
+    {
+      "date": "1998-05-16",
+      "rank": 132
+    },
+    {
+      "date": "1998-05-23",
+      "rank": 132
+    },
+    {
+      "date": "1998-05-30",
+      "rank": 123
+    },
+    {
+      "date": "1998-06-06",
+      "rank": 73
+    },
+    {
+      "date": "1998-06-13",
+      "rank": 81
+    },
+    {
+      "date": "1998-06-20",
+      "rank": 89
+    },
+    {
+      "date": "1998-06-27",
+      "rank": 87
+    },
+    {
+      "date": "1998-07-04",
+      "rank": 92
+    },
+    {
+      "date": "1998-07-11",
+      "rank": 82
+    },
+    {
+      "date": "1998-07-18",
+      "rank": 93
+    },
+    {
+      "date": "1998-07-25",
+      "rank": 88
+    },
+    {
+      "date": "1998-08-01",
+      "rank": 88
+    },
+    {
+      "date": "1998-08-08",
+      "rank": 92
+    },
+    {
+      "date": "1998-08-15",
+      "rank": 93
+    },
+    {
+      "date": "1998-08-22",
+      "rank": 95
+    },
+    {
+      "date": "1998-08-29",
+      "rank": 89
+    },
+    {
+      "date": "1998-09-05",
+      "rank": 94
+    },
+    {
+      "date": "1998-09-12",
+      "rank": 100
+    },
+    {
+      "date": "1998-09-19",
+      "rank": 105
+    },
+    {
+      "date": "1998-09-26",
+      "rank": 111
+    },
+    {
+      "date": "1998-10-03",
+      "rank": 113
+    },
+    {
+      "date": "1998-10-10",
+      "rank": 126
+    },
+    {
+      "date": "1998-10-17",
+      "rank": 122
+    },
+    {
+      "date": "1998-10-24",
+      "rank": 124
+    },
+    {
+      "date": "1998-10-31",
+      "rank": 123
+    },
+    {
+      "date": "1998-11-07",
+      "rank": 111
+    },
+    {
+      "date": "1998-11-14",
+      "rank": 132
+    },
+    {
+      "date": "1998-11-21",
+      "rank": 123
+    },
+    {
+      "date": "1998-11-28",
+      "rank": 136
+    },
+    {
+      "date": "1998-12-05",
+      "rank": 157
+    },
+    {
+      "date": "1998-12-12",
+      "rank": 177
+    },
+    {
+      "date": "1998-12-19",
+      "rank": 180
+    },
+    {
+      "date": "1998-12-26",
+      "rank": 183
+    },
+    {
+      "date": "1999-01-02",
+      "rank": 177
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 186
+    },
+    {
+      "date": "1999-01-16",
+      "rank": 169
+    },
+    {
+      "date": "1999-01-23",
+      "rank": 169
+    },
+    {
+      "date": "1999-01-30",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’ll Be",
+      "id": "i-ll-be-edwin-mccain"
+    },
+    {
+      "title": "See the Sky Again",
+      "id": null
+    },
+    {
+      "title": "Grind Me In The Gears",
+      "id": null
+    },
+    {
+      "title": "Cleveland Park",
+      "id": null
+    },
+    {
+      "title": "How Strange It Seems",
+      "id": null
+    },
+    {
+      "title": "The Rhythm of Life",
+      "id": null
+    },
+    {
+      "title": "Punish Me",
+      "id": null
+    },
+    {
+      "title": "Darwin's Children",
+      "id": null
+    },
+    {
+      "title": "Take Me",
+      "id": null
+    },
+    {
+      "title": "(I've Got To) Stop Thinkin' 'Bout That",
+      "id": null
+    },
+    {
+      "title": "What Matters",
+      "id": null
+    },
+    {
+      "title": "Holy City",
+      "id": null
+    },
+    {
+      "title": "Difficult Goodbye",
+      "id": null
+    }
+  ]
+}

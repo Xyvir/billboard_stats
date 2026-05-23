@@ -1,1 +1,82 @@
-{"id": "mis-boleros-favoritos-luis-miguel", "title": "Mis Boleros Favoritos", "artist": "Luis Miguel", "peak": 125, "history": [{"date": "2002-11-02", "rank": 125}, {"date": "2002-11-09", "rank": 127}, {"date": "2002-11-16", "rank": 140}, {"date": "2002-11-23", "rank": 181}]}
+{
+  "id": "mis-boleros-favoritos-luis-miguel",
+  "title": "Mis Boleros Favoritos",
+  "artist": "Luis Miguel",
+  "peak": 125,
+  "history": [
+    {
+      "date": "2002-11-02",
+      "rank": 125
+    },
+    {
+      "date": "2002-11-09",
+      "rank": 127
+    },
+    {
+      "date": "2002-11-16",
+      "rank": 140
+    },
+    {
+      "date": "2002-11-23",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No me platiques más",
+      "id": null
+    },
+    {
+      "title": "La barca",
+      "id": null
+    },
+    {
+      "title": "La gloria eres tú",
+      "id": null
+    },
+    {
+      "title": "No sé tú",
+      "id": null
+    },
+    {
+      "title": "Historia de un amor",
+      "id": null
+    },
+    {
+      "title": "Somos novios",
+      "id": null
+    },
+    {
+      "title": "Solamente una vez",
+      "id": null
+    },
+    {
+      "title": "El día que me quieras",
+      "id": null
+    },
+    {
+      "title": "El reloj",
+      "id": null
+    },
+    {
+      "title": "Por debajo de la mesa",
+      "id": null
+    },
+    {
+      "title": "Encadenados",
+      "id": null
+    },
+    {
+      "title": "Sabor a mí",
+      "id": null
+    },
+    {
+      "title": "Perfidia",
+      "id": null
+    },
+    {
+      "title": "Hasta que vuelvas",
+      "id": null
+    }
+  ]
+}
