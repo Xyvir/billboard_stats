@@ -1,1 +1,162 @@
-{"id": "duets-elton-john", "title": "Duets", "artist": "Elton John", "peak": 25, "history": [{"date": "1993-12-11", "rank": 25}, {"date": "1993-12-18", "rank": 26}, {"date": "1993-12-25", "rank": 31}, {"date": "1994-01-01", "rank": 34}, {"date": "1994-01-08", "rank": 35}, {"date": "1994-01-15", "rank": 46}, {"date": "1994-01-22", "rank": 45}, {"date": "1994-01-29", "rank": 46}, {"date": "1994-02-05", "rank": 47}, {"date": "1994-02-12", "rank": 52}, {"date": "1994-02-19", "rank": 55}, {"date": "1994-02-26", "rank": 72}, {"date": "1994-03-05", "rank": 87}, {"date": "1994-03-12", "rank": 110}, {"date": "1994-03-19", "rank": 135}, {"date": "1994-03-26", "rank": 154}, {"date": "1994-04-02", "rank": 156}, {"date": "1994-04-09", "rank": 149}, {"date": "1994-04-16", "rank": 155}, {"date": "1994-04-23", "rank": 180}, {"date": "1994-04-30", "rank": 188}, {"date": "1994-05-07", "rank": 193}]}
+{
+  "id": "duets-elton-john",
+  "title": "Duets",
+  "artist": "Elton John",
+  "peak": 25,
+  "history": [
+    {
+      "date": "1993-12-11",
+      "rank": 25
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 26
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 31
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 34
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 35
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 46
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 45
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 46
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 47
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 52
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 55
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 72
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 87
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 110
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 135
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 154
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 156
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 149
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 155
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 180
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 188
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Power",
+      "id": "the-one-elton-john"
+    },
+    {
+      "title": "True Love",
+      "id": "the-one-elton-john"
+    },
+    {
+      "title": "Old Friend",
+      "id": "friends-elton-john"
+    },
+    {
+      "title": "Don’t Let the Sun Go Down on Me",
+      "id": "don-t-let-the-sun-go-down-on-me-elton-john"
+    },
+    {
+      "title": "Teardrops",
+      "id": null
+    },
+    {
+      "title": "When I Think About Love (I Think About You)",
+      "id": null
+    },
+    {
+      "title": "Shakey Ground",
+      "id": null
+    },
+    {
+      "title": "If You Were Me",
+      "id": null
+    },
+    {
+      "title": "A Woman’s Needs",
+      "id": null
+    },
+    {
+      "title": "Go On and On",
+      "id": null
+    },
+    {
+      "title": "Don’t Go Breaking My Heart",
+      "id": null
+    },
+    {
+      "title": "Ain’t Nothing Like the Real Thing",
+      "id": null
+    },
+    {
+      "title": "I’m Your Puppet",
+      "id": null
+    },
+    {
+      "title": "Love Letters",
+      "id": null
+    },
+    {
+      "title": "Born to Lose",
+      "id": null
+    },
+    {
+      "title": "Duets for One",
+      "id": null
+    }
+  ]
+}

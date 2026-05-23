@@ -1,1 +1,86 @@
-{"id": "duets-paul-anka", "title": "Duets", "artist": "Paul Anka", "peak": 95, "history": [{"date": "2013-04-27", "rank": 95}, {"date": "2013-05-04", "rank": 148}, {"date": "2013-05-18", "rank": 187}]}
+{
+  "id": "duets-paul-anka",
+  "title": "Duets",
+  "artist": "Paul Anka",
+  "peak": 95,
+  "history": [
+    {
+      "date": "2013-04-27",
+      "rank": 95
+    },
+    {
+      "date": "2013-05-04",
+      "rank": 148
+    },
+    {
+      "date": "2013-05-18",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Do I Love You (Yes, in Every Way)",
+      "id": "i-love-you-in-the-same-old-way-paul-anka"
+    },
+    {
+      "title": "This Is It",
+      "id": "this-is-love-paul-anka"
+    },
+    {
+      "title": "I Really Miss You",
+      "id": "i-miss-you-so-paul-anka"
+    },
+    {
+      "title": "Hold Me 'til the Mornin' Comes",
+      "id": "hold-me-til-the-mornin-comes-paul-anka"
+    },
+    {
+      "title": "Walk a Fine Line",
+      "id": null
+    },
+    {
+      "title": "Find My Way Back to Your Heart",
+      "id": null
+    },
+    {
+      "title": "Think I’m in Love Again",
+      "id": null
+    },
+    {
+      "title": "Pennies From Heaven",
+      "id": null
+    },
+    {
+      "title": "Crazy",
+      "id": null
+    },
+    {
+      "title": "You Are My Destiny",
+      "id": null
+    },
+    {
+      "title": "Les Filles de Paris",
+      "id": null
+    },
+    {
+      "title": "It’s Hard to Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "She’s a Lady",
+      "id": null
+    },
+    {
+      "title": "My Way",
+      "id": null
+    },
+    {
+      "title": "I’m Not Anyone",
+      "id": null
+    },
+    {
+      "title": "Les Filles de Paris (French version)",
+      "id": null
+    }
+  ]
+}
