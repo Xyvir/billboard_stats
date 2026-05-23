@@ -1,1 +1,82 @@
-{"id": "endangered-species-white-wolf", "title": "Endangered Species", "artist": "White Wolf", "peak": 137, "history": [{"date": "1986-06-21", "rank": 189}, {"date": "1986-06-28", "rank": 175}, {"date": "1986-07-05", "rank": 156}, {"date": "1986-07-12", "rank": 142}, {"date": "1986-07-19", "rank": 137}, {"date": "1986-07-26", "rank": 137}, {"date": "1986-08-02", "rank": 149}, {"date": "1986-08-09", "rank": 188}]}
+{
+  "id": "endangered-species-white-wolf",
+  "title": "Endangered Species",
+  "artist": "White Wolf",
+  "peak": 137,
+  "history": [
+    {
+      "date": "1986-06-21",
+      "rank": 189
+    },
+    {
+      "date": "1986-06-28",
+      "rank": 175
+    },
+    {
+      "date": "1986-07-05",
+      "rank": 156
+    },
+    {
+      "date": "1986-07-12",
+      "rank": 142
+    },
+    {
+      "date": "1986-07-19",
+      "rank": 137
+    },
+    {
+      "date": "1986-07-26",
+      "rank": 137
+    },
+    {
+      "date": "1986-08-02",
+      "rank": 149
+    },
+    {
+      "date": "1986-08-09",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Time Waits for No One",
+      "id": null
+    },
+    {
+      "title": "Run for Your Life",
+      "id": null
+    },
+    {
+      "title": "Ride the Storm",
+      "id": null
+    },
+    {
+      "title": "Just Like an Arrow",
+      "id": null
+    },
+    {
+      "title": "Cryin to the Wind",
+      "id": null
+    },
+    {
+      "title": "She",
+      "id": null
+    },
+    {
+      "title": "Holding Back",
+      "id": null
+    },
+    {
+      "title": "One More Time",
+      "id": null
+    },
+    {
+      "title": "All Alone",
+      "id": null
+    },
+    {
+      "title": "Snake Charmer",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"id": "endangered-species-flaw", "title": "Endangered Species", "artist": "Flaw", "peak": 42, "history": [{"date": "2004-05-22", "rank": 42}, {"date": "2004-05-29", "rank": 86}, {"date": "2004-06-05", "rank": 131}, {"date": "2004-06-12", "rank": 153}, {"date": "2004-06-19", "rank": 170}, {"date": "2004-06-26", "rank": 189}]}
+{
+  "id": "endangered-species-flaw",
+  "title": "Endangered Species",
+  "artist": "Flaw",
+  "peak": 42,
+  "history": [
+    {
+      "date": "2004-05-22",
+      "rank": 42
+    },
+    {
+      "date": "2004-05-29",
+      "rank": 86
+    },
+    {
+      "date": "2004-06-05",
+      "rank": 131
+    },
+    {
+      "date": "2004-06-12",
+      "rank": 153
+    },
+    {
+      "date": "2004-06-19",
+      "rank": 170
+    },
+    {
+      "date": "2004-06-26",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Medicate",
+      "id": null
+    },
+    {
+      "title": "Endangered Species",
+      "id": null
+    },
+    {
+      "title": "Recognize",
+      "id": null
+    },
+    {
+      "title": "Wait for Me",
+      "id": null
+    },
+    {
+      "title": "Many Faces",
+      "id": null
+    },
+    {
+      "title": "All the Worst",
+      "id": null
+    },
+    {
+      "title": "You've Changed",
+      "id": null
+    },
+    {
+      "title": "Turn the Tables",
+      "id": null
+    },
+    {
+      "title": "Worlds Divide",
+      "id": null
+    },
+    {
+      "title": "Decide",
+      "id": null
+    },
+    {
+      "title": "Final Cry",
+      "id": null
+    },
+    {
+      "title": "Not Enough",
+      "id": null
+    }
+  ]
+}

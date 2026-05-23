@@ -1,1 +1,78 @@
-{"id": "energia-j-balvin", "title": "Energia", "artist": "J Balvin", "peak": 38, "history": [{"date": "2016-07-16", "rank": 38}, {"date": "2016-07-23", "rank": 175}]}
+{
+  "id": "energia-j-balvin",
+  "title": "Energia",
+  "artist": "J Balvin",
+  "peak": 38,
+  "history": [
+    {
+      "date": "2016-07-16",
+      "rank": 38
+    },
+    {
+      "date": "2016-07-23",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ginza",
+      "id": "ginza-j-balvin"
+    },
+    {
+      "title": "Veneno",
+      "id": null
+    },
+    {
+      "title": "Malvada",
+      "id": null
+    },
+    {
+      "title": "Safari",
+      "id": null
+    },
+    {
+      "title": "Bobo",
+      "id": null
+    },
+    {
+      "title": "Sigo extrañándote",
+      "id": null
+    },
+    {
+      "title": "Primera cita",
+      "id": null
+    },
+    {
+      "title": "Pierde los modales",
+      "id": null
+    },
+    {
+      "title": "Por un día",
+      "id": null
+    },
+    {
+      "title": "No hay título",
+      "id": null
+    },
+    {
+      "title": "Acércate",
+      "id": null
+    },
+    {
+      "title": "Snapchat",
+      "id": null
+    },
+    {
+      "title": "Hola",
+      "id": null
+    },
+    {
+      "title": "Solitario",
+      "id": null
+    },
+    {
+      "title": "35 pa las 12",
+      "id": null
+    }
+  ]
+}

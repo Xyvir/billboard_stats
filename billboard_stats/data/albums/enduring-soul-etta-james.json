@@ -1,1 +1,90 @@
-{"id": "enduring-soul-etta-james", "title": "Enduring Soul", "artist": "Etta James", "peak": 54, "history": [{"date": "2012-09-01", "rank": 54}, {"date": "2012-09-08", "rank": 67}, {"date": "2012-09-15", "rank": 82}, {"date": "2012-09-22", "rank": 102}]}
+{
+  "id": "enduring-soul-etta-james",
+  "title": "Enduring Soul",
+  "artist": "Etta James",
+  "peak": 54,
+  "history": [
+    {
+      "date": "2012-09-01",
+      "rank": 54
+    },
+    {
+      "date": "2012-09-08",
+      "rank": 67
+    },
+    {
+      "date": "2012-09-15",
+      "rank": 82
+    },
+    {
+      "date": "2012-09-22",
+      "rank": 102
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All I Could Do Was Cry",
+      "id": "all-i-could-do-was-cry-etta-james"
+    },
+    {
+      "title": "At Last",
+      "id": "at-last-etta-james"
+    },
+    {
+      "title": "Don’t Cry Baby",
+      "id": "don-t-cry-baby-etta-james"
+    },
+    {
+      "title": "Something's Got a Hold on Me",
+      "id": "something-s-got-a-hold-on-me-etta-james"
+    },
+    {
+      "title": "Would It Make Any Difference to You",
+      "id": "would-it-make-any-difference-to-you-etta-james"
+    },
+    {
+      "title": "Two Sides (to Every Show)",
+      "id": "two-sides-to-every-story-etta-james"
+    },
+    {
+      "title": "Tell Mama",
+      "id": "tell-mama-etta-james"
+    },
+    {
+      "title": "Anything to Say You’re Mine",
+      "id": null
+    },
+    {
+      "title": "I Just Want to Make Love to You",
+      "id": null
+    },
+    {
+      "title": "If I Can’t Have You",
+      "id": null
+    },
+    {
+      "title": "Sunday Kind of Love",
+      "id": null
+    },
+    {
+      "title": "I Wish Someone Would Care",
+      "id": null
+    },
+    {
+      "title": "Only Time Will Tell",
+      "id": null
+    },
+    {
+      "title": "I’d Rather Go Blind",
+      "id": null
+    },
+    {
+      "title": "Soul of a Man",
+      "id": null
+    },
+    {
+      "title": "Let’s Burn Down the Cornfield",
+      "id": null
+    }
+  ]
+}

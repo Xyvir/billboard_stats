@@ -1,1 +1,78 @@
-{"id": "endangered-species-lynyrd-skynyrd", "title": "Endangered Species", "artist": "Lynyrd Skynyrd", "peak": 115, "history": [{"date": "1994-08-27", "rank": 115}, {"date": "1994-09-03", "rank": 129}, {"date": "1994-09-10", "rank": 162}, {"date": "1994-09-17", "rank": 178}]}
+{
+  "id": "endangered-species-lynyrd-skynyrd",
+  "title": "Endangered Species",
+  "artist": "Lynyrd Skynyrd",
+  "peak": 115,
+  "history": [
+    {
+      "date": "1994-08-27",
+      "rank": 115
+    },
+    {
+      "date": "1994-09-03",
+      "rank": 129
+    },
+    {
+      "date": "1994-09-10",
+      "rank": 162
+    },
+    {
+      "date": "1994-09-17",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Saturday Night Special",
+      "id": "saturday-night-special-lynyrd-skynyrd"
+    },
+    {
+      "title": "Sweet Home Alabama",
+      "id": "sweet-home-alabama-lynyrd-skynyrd"
+    },
+    {
+      "title": "Down South Jukin'",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Hotel",
+      "id": null
+    },
+    {
+      "title": "Devil in the Bottle",
+      "id": null
+    },
+    {
+      "title": "Things Going On",
+      "id": null
+    },
+    {
+      "title": "I Ain't the One",
+      "id": null
+    },
+    {
+      "title": "Am I Losin'?",
+      "id": null
+    },
+    {
+      "title": "All I Have Is a Song",
+      "id": null
+    },
+    {
+      "title": "Poison Whiskey",
+      "id": null
+    },
+    {
+      "title": "Good Luck, Bad Luck",
+      "id": null
+    },
+    {
+      "title": "The Last Rebel",
+      "id": null
+    },
+    {
+      "title": "Hillbilly Blues",
+      "id": null
+    }
+  ]
+}
