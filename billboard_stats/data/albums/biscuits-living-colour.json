@@ -1,1 +1,54 @@
-{"id": "biscuits-living-colour", "title": "Biscuits", "artist": "Living Colour", "peak": 110, "history": [{"date": "1991-08-03", "rank": 127}, {"date": "1991-08-10", "rank": 110}, {"date": "1991-08-17", "rank": 148}, {"date": "1991-08-24", "rank": 168}, {"date": "1991-08-31", "rank": 197}]}
+{
+  "id": "biscuits-living-colour",
+  "title": "Biscuits",
+  "artist": "Living Colour",
+  "peak": 110,
+  "history": [
+    {
+      "date": "1991-08-03",
+      "rank": 127
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 110
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 148
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 168
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Talkin’ Loud and Sayin’ Nothing",
+      "id": null
+    },
+    {
+      "title": "Desperate People (live)",
+      "id": null
+    },
+    {
+      "title": "Love and Happiness",
+      "id": null
+    },
+    {
+      "title": "Memories Can’t Wait (live)",
+      "id": null
+    },
+    {
+      "title": "Burning of the Midnight Lamp",
+      "id": null
+    },
+    {
+      "title": "Money Talks",
+      "id": null
+    }
+  ]
+}
