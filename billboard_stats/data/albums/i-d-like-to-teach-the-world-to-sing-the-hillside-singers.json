@@ -1,1 +1,70 @@
-{"id": "i-d-like-to-teach-the-world-to-sing-the-hillside-singers", "title": "I'd Like To Teach The World To Sing", "artist": "The Hillside Singers", "peak": 189, "history": [{"date": "1972-06-03", "rank": 193}, {"date": "1972-06-10", "rank": 192}, {"date": "1972-06-17", "rank": 189}, {"date": "1972-06-24", "rank": 194}]}
+{
+  "id": "i-d-like-to-teach-the-world-to-sing-the-hillside-singers",
+  "title": "I'd Like To Teach The World To Sing",
+  "artist": "The Hillside Singers",
+  "peak": 189,
+  "history": [
+    {
+      "date": "1972-06-03",
+      "rank": 193
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 192
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 189
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’d Like to Teach the World to Sing (in Perfect Harmony)",
+      "id": "i-d-like-to-teach-the-world-to-sing-in-perfect-harmony-the-hillside-singers"
+    },
+    {
+      "title": "We’re Together",
+      "id": "we-re-together-the-hillside-singers"
+    },
+    {
+      "title": "One Man’s Hands",
+      "id": null
+    },
+    {
+      "title": "Take Me Home, Country Roads",
+      "id": null
+    },
+    {
+      "title": "Day by Day",
+      "id": null
+    },
+    {
+      "title": "Old Fashioned Love Song",
+      "id": null
+    },
+    {
+      "title": "Kum Ba Yah",
+      "id": null
+    },
+    {
+      "title": "The Night They Drove Ol’ Dixie Down",
+      "id": null
+    },
+    {
+      "title": "Tomorrow Belongs to Me",
+      "id": null
+    },
+    {
+      "title": "Last Night I Had the Strangest Dream",
+      "id": null
+    },
+    {
+      "title": "Amen",
+      "id": null
+    }
+  ]
+}
