@@ -1,1 +1,82 @@
-{"id": "greatest-hits-joe-diffie", "title": "Greatest Hits", "artist": "Joe Diffie", "peak": 131, "history": [{"date": "1998-06-27", "rank": 137}, {"date": "1998-07-04", "rank": 131}, {"date": "1998-07-11", "rank": 161}, {"date": "1998-07-18", "rank": 184}, {"date": "1998-07-25", "rank": 190}, {"date": "1998-08-01", "rank": 200}]}
+{
+  "id": "greatest-hits-joe-diffie",
+  "title": "Greatest Hits",
+  "artist": "Joe Diffie",
+  "peak": 131,
+  "history": [
+    {
+      "date": "1998-06-27",
+      "rank": 137
+    },
+    {
+      "date": "1998-07-04",
+      "rank": 131
+    },
+    {
+      "date": "1998-07-11",
+      "rank": 161
+    },
+    {
+      "date": "1998-07-18",
+      "rank": 184
+    },
+    {
+      "date": "1998-07-25",
+      "rank": 190
+    },
+    {
+      "date": "1998-08-01",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Third Rock From the Sun",
+      "id": "third-rock-from-the-sun-joe-diffie"
+    },
+    {
+      "title": "John Deere Green",
+      "id": "john-deere-green-joe-diffie"
+    },
+    {
+      "title": "Pickup Man",
+      "id": "pickup-man-joe-diffie"
+    },
+    {
+      "title": "So Help Me Girl",
+      "id": "so-help-me-girl-joe-diffie"
+    },
+    {
+      "title": "Texas Size Heartache",
+      "id": null
+    },
+    {
+      "title": "Ships That Don’t Come In",
+      "id": null
+    },
+    {
+      "title": "Poor Me",
+      "id": null
+    },
+    {
+      "title": "Honky Tonk Attitude",
+      "id": null
+    },
+    {
+      "title": "Home",
+      "id": null
+    },
+    {
+      "title": "Prop Me Up Beside the Jukebox (If I Die) (edited)",
+      "id": null
+    },
+    {
+      "title": "Bigger Than the Beatles",
+      "id": null
+    },
+    {
+      "title": "Hurt Me All the Time",
+      "id": null
+    }
+  ]
+}

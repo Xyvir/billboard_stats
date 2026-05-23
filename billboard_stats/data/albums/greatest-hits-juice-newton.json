@@ -1,1 +1,66 @@
-{"id": "greatest-hits-juice-newton", "title": "Greatest Hits", "artist": "Juice Newton", "peak": 178, "history": [{"date": "1984-07-21", "rank": 193}, {"date": "1984-07-28", "rank": 179}, {"date": "1984-08-04", "rank": 178}, {"date": "1984-08-11", "rank": 178}]}
+{
+  "id": "greatest-hits-juice-newton",
+  "title": "Greatest Hits",
+  "artist": "Juice Newton",
+  "peak": 178,
+  "history": [
+    {
+      "date": "1984-07-21",
+      "rank": 193
+    },
+    {
+      "date": "1984-07-28",
+      "rank": 179
+    },
+    {
+      "date": "1984-08-04",
+      "rank": 178
+    },
+    {
+      "date": "1984-08-11",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s a Heartache",
+      "id": "it-s-a-heartache-juice-newton"
+    },
+    {
+      "title": "Angel of the Morning",
+      "id": "angel-of-the-morning-juice-newton"
+    },
+    {
+      "title": "Love’s Been a Little Bit Hard on Me",
+      "id": "love-s-been-a-little-bit-hard-on-me-juice-newton"
+    },
+    {
+      "title": "Break It to Me Gently",
+      "id": "break-it-to-me-gently-juice-newton"
+    },
+    {
+      "title": "Queen of Hearts",
+      "id": "queen-of-hearts-juice-newton"
+    },
+    {
+      "title": "The Sweetest Thing (I’ve Ever Known)",
+      "id": "the-sweetest-thing-i-ve-ever-known-juice-newton"
+    },
+    {
+      "title": "Heart of the Night",
+      "id": "heart-of-the-night-juice-newton"
+    },
+    {
+      "title": "Stranger at the Door",
+      "id": "angel-of-the-morning-juice-newton"
+    },
+    {
+      "title": "Any Way You Want Me",
+      "id": null
+    },
+    {
+      "title": "Ride ’Em Cowboy",
+      "id": null
+    }
+  ]
+}

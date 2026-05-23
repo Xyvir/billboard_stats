@@ -1,1 +1,106 @@
-{"id": "greatest-hits-live-journey", "title": "Greatest Hits Live", "artist": "Journey", "peak": 79, "history": [{"date": "1998-04-11", "rank": 79}, {"date": "1998-04-18", "rank": 87}, {"date": "1998-04-25", "rank": 113}, {"date": "1998-05-02", "rank": 129}, {"date": "1998-05-09", "rank": 134}, {"date": "1998-05-16", "rank": 159}, {"date": "1998-05-23", "rank": 187}]}
+{
+  "id": "greatest-hits-live-journey",
+  "title": "Greatest Hits Live",
+  "artist": "Journey",
+  "peak": 79,
+  "history": [
+    {
+      "date": "1998-04-11",
+      "rank": 79
+    },
+    {
+      "date": "1998-04-18",
+      "rank": 87
+    },
+    {
+      "date": "1998-04-25",
+      "rank": 113
+    },
+    {
+      "date": "1998-05-02",
+      "rank": 129
+    },
+    {
+      "date": "1998-05-09",
+      "rank": 134
+    },
+    {
+      "date": "1998-05-16",
+      "rank": 159
+    },
+    {
+      "date": "1998-05-23",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Stop Believin’",
+      "id": "don-t-stop-believin-journey"
+    },
+    {
+      "title": "Separate Ways (Worlds Apart)",
+      "id": "separate-ways-worlds-apart-journey"
+    },
+    {
+      "title": "After the Fall",
+      "id": "after-the-fall-journey"
+    },
+    {
+      "title": "Lovin’, Touchin’, Squeezin’",
+      "id": "lovin-touchin-squeezin-journey"
+    },
+    {
+      "title": "Faithfully",
+      "id": "faithfully-journey"
+    },
+    {
+      "title": "Who’s Cryin’ Now",
+      "id": "who-s-crying-now-journey"
+    },
+    {
+      "title": "Any Way You Want It",
+      "id": "any-way-you-want-it-journey"
+    },
+    {
+      "title": "Lights",
+      "id": "lights-journey"
+    },
+    {
+      "title": "Open Arms",
+      "id": "open-arms-journey"
+    },
+    {
+      "title": "Send Her My Love",
+      "id": "send-her-my-love-journey"
+    },
+    {
+      "title": "Still They Ride",
+      "id": "still-they-ride-journey"
+    },
+    {
+      "title": "Wheel in the Sky",
+      "id": "wheel-in-the-sky-journey"
+    },
+    {
+      "title": "Stay Awhile",
+      "id": null
+    },
+    {
+      "title": "Stone in Love",
+      "id": null
+    },
+    {
+      "title": "Escape",
+      "id": null
+    },
+    {
+      "title": "Line of Fire",
+      "id": null
+    },
+    {
+      "title": "[fireworks & crowd]",
+      "id": null
+    }
+  ]
+}

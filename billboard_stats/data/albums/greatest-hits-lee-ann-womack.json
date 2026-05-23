@@ -1,1 +1,98 @@
-{"id": "greatest-hits-lee-ann-womack", "title": "Greatest Hits", "artist": "Lee Ann Womack", "peak": 28, "history": [{"date": "2004-05-22", "rank": 28}, {"date": "2004-05-29", "rank": 53}, {"date": "2004-06-05", "rank": 75}, {"date": "2004-06-12", "rank": 89}, {"date": "2004-06-19", "rank": 112}, {"date": "2004-06-26", "rank": 134}, {"date": "2004-07-03", "rank": 169}, {"date": "2004-07-10", "rank": 185}]}
+{
+  "id": "greatest-hits-lee-ann-womack",
+  "title": "Greatest Hits",
+  "artist": "Lee Ann Womack",
+  "peak": 28,
+  "history": [
+    {
+      "date": "2004-05-22",
+      "rank": 28
+    },
+    {
+      "date": "2004-05-29",
+      "rank": 53
+    },
+    {
+      "date": "2004-06-05",
+      "rank": 75
+    },
+    {
+      "date": "2004-06-12",
+      "rank": 89
+    },
+    {
+      "date": "2004-06-19",
+      "rank": 112
+    },
+    {
+      "date": "2004-06-26",
+      "rank": 134
+    },
+    {
+      "date": "2004-07-03",
+      "rank": 169
+    },
+    {
+      "date": "2004-07-10",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Little Past Little Rock",
+      "id": "a-little-past-little-rock-lee-ann-womack"
+    },
+    {
+      "title": "(Now You See Me) Now You Don’t",
+      "id": "now-you-see-me-now-you-don-t-lee-ann-womack"
+    },
+    {
+      "title": "I’ll Think of a Reason Later",
+      "id": "i-ll-think-of-a-reason-later-lee-ann-womack"
+    },
+    {
+      "title": "I Hope You Dance",
+      "id": "i-hope-you-dance-lee-ann-womack"
+    },
+    {
+      "title": "Ashes by Now",
+      "id": "ashes-by-now-lee-ann-womack"
+    },
+    {
+      "title": "Why They Call It Falling",
+      "id": "why-they-call-it-falling-lee-ann-womack"
+    },
+    {
+      "title": "Never Again, Again",
+      "id": null
+    },
+    {
+      "title": "You’ve Got to Talk to Me",
+      "id": null
+    },
+    {
+      "title": "The Fool",
+      "id": null
+    },
+    {
+      "title": "Something Worth Leaving Behind (single cut)",
+      "id": null
+    },
+    {
+      "title": "Mendocino County Line",
+      "id": null
+    },
+    {
+      "title": "Does My Ring Burn Your Finger",
+      "id": null
+    },
+    {
+      "title": "The Wrong Girl",
+      "id": null
+    },
+    {
+      "title": "Time for Me to Go",
+      "id": null
+    }
+  ]
+}

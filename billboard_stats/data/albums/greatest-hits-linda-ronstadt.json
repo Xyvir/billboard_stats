@@ -1,1 +1,378 @@
-{"id": "greatest-hits-linda-ronstadt", "title": "Greatest Hits", "artist": "Linda Ronstadt", "peak": 6, "history": [{"date": "1976-12-18", "rank": 15}, {"date": "1976-12-25", "rank": 13}, {"date": "1977-01-01", "rank": 13}, {"date": "1977-01-08", "rank": 10}, {"date": "1977-01-15", "rank": 8}, {"date": "1977-01-22", "rank": 7}, {"date": "1977-01-29", "rank": 6}, {"date": "1977-02-05", "rank": 7}, {"date": "1977-02-12", "rank": 7}, {"date": "1977-02-19", "rank": 7}, {"date": "1977-02-26", "rank": 14}, {"date": "1977-03-05", "rank": 16}, {"date": "1977-03-12", "rank": 17}, {"date": "1977-03-19", "rank": 22}, {"date": "1977-03-26", "rank": 34}, {"date": "1977-04-02", "rank": 41}, {"date": "1977-04-09", "rank": 51}, {"date": "1977-04-16", "rank": 62}, {"date": "1977-04-23", "rank": 62}, {"date": "1977-04-30", "rank": 59}, {"date": "1977-05-07", "rank": 58}, {"date": "1977-05-14", "rank": 59}, {"date": "1977-05-21", "rank": 59}, {"date": "1977-05-28", "rank": 65}, {"date": "1977-06-04", "rank": 64}, {"date": "1977-06-11", "rank": 63}, {"date": "1977-06-18", "rank": 63}, {"date": "1977-06-25", "rank": 74}, {"date": "1977-07-02", "rank": 74}, {"date": "1977-07-09", "rank": 93}, {"date": "1977-07-16", "rank": 176}, {"date": "1977-07-23", "rank": 170}, {"date": "1977-07-30", "rank": 162}, {"date": "1977-08-06", "rank": 162}, {"date": "1977-08-13", "rank": 155}, {"date": "1977-08-20", "rank": 149}, {"date": "1977-08-27", "rank": 145}, {"date": "1977-09-03", "rank": 136}, {"date": "1977-09-10", "rank": 126}, {"date": "1977-09-17", "rank": 119}, {"date": "1977-09-24", "rank": 99}, {"date": "1977-10-01", "rank": 87}, {"date": "1977-10-08", "rank": 53}, {"date": "1977-10-15", "rank": 52}, {"date": "1977-10-22", "rank": 44}, {"date": "1977-10-29", "rank": 43}, {"date": "1977-11-05", "rank": 43}, {"date": "1977-11-12", "rank": 53}, {"date": "1977-11-19", "rank": 51}, {"date": "1977-11-26", "rank": 51}, {"date": "1977-12-03", "rank": 50}, {"date": "1977-12-10", "rank": 47}, {"date": "1977-12-17", "rank": 47}, {"date": "1977-12-24", "rank": 71}, {"date": "1977-12-31", "rank": 71}, {"date": "1978-01-07", "rank": 69}, {"date": "1978-01-14", "rank": 69}, {"date": "1978-01-21", "rank": 69}, {"date": "1978-01-28", "rank": 74}, {"date": "1978-02-04", "rank": 113}, {"date": "1978-02-11", "rank": 109}, {"date": "1978-02-18", "rank": 105}, {"date": "1978-02-25", "rank": 101}, {"date": "1978-03-04", "rank": 106}, {"date": "1978-03-11", "rank": 106}, {"date": "1978-03-18", "rank": 106}, {"date": "1978-03-25", "rank": 103}, {"date": "1978-04-01", "rank": 99}, {"date": "1978-04-08", "rank": 99}, {"date": "1978-04-15", "rank": 99}, {"date": "1978-04-22", "rank": 97}, {"date": "1978-04-29", "rank": 97}, {"date": "1978-05-06", "rank": 103}, {"date": "1978-05-13", "rank": 103}, {"date": "1978-05-20", "rank": 110}, {"date": "1978-05-27", "rank": 113}, {"date": "1978-06-03", "rank": 117}, {"date": "1978-06-10", "rank": 145}, {"date": "1978-06-17", "rank": 161}, {"date": "1978-06-24", "rank": 170}]}
+{
+  "id": "greatest-hits-linda-ronstadt",
+  "title": "Greatest Hits",
+  "artist": "Linda Ronstadt",
+  "peak": 6,
+  "history": [
+    {
+      "date": "1976-12-18",
+      "rank": 15
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 13
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 13
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 10
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 8
+    },
+    {
+      "date": "1977-01-22",
+      "rank": 7
+    },
+    {
+      "date": "1977-01-29",
+      "rank": 6
+    },
+    {
+      "date": "1977-02-05",
+      "rank": 7
+    },
+    {
+      "date": "1977-02-12",
+      "rank": 7
+    },
+    {
+      "date": "1977-02-19",
+      "rank": 7
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 14
+    },
+    {
+      "date": "1977-03-05",
+      "rank": 16
+    },
+    {
+      "date": "1977-03-12",
+      "rank": 17
+    },
+    {
+      "date": "1977-03-19",
+      "rank": 22
+    },
+    {
+      "date": "1977-03-26",
+      "rank": 34
+    },
+    {
+      "date": "1977-04-02",
+      "rank": 41
+    },
+    {
+      "date": "1977-04-09",
+      "rank": 51
+    },
+    {
+      "date": "1977-04-16",
+      "rank": 62
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 62
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 59
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 58
+    },
+    {
+      "date": "1977-05-14",
+      "rank": 59
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 59
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 65
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 64
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 63
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 63
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 74
+    },
+    {
+      "date": "1977-07-02",
+      "rank": 74
+    },
+    {
+      "date": "1977-07-09",
+      "rank": 93
+    },
+    {
+      "date": "1977-07-16",
+      "rank": 176
+    },
+    {
+      "date": "1977-07-23",
+      "rank": 170
+    },
+    {
+      "date": "1977-07-30",
+      "rank": 162
+    },
+    {
+      "date": "1977-08-06",
+      "rank": 162
+    },
+    {
+      "date": "1977-08-13",
+      "rank": 155
+    },
+    {
+      "date": "1977-08-20",
+      "rank": 149
+    },
+    {
+      "date": "1977-08-27",
+      "rank": 145
+    },
+    {
+      "date": "1977-09-03",
+      "rank": 136
+    },
+    {
+      "date": "1977-09-10",
+      "rank": 126
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 119
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 99
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 87
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 53
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 52
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 44
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 43
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 43
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 53
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 51
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 51
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 50
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 47
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 47
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 71
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 71
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 69
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 69
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 69
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 74
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 113
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 109
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 105
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 101
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 106
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 106
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 106
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 103
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 99
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 99
+    },
+    {
+      "date": "1978-04-15",
+      "rank": 99
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 97
+    },
+    {
+      "date": "1978-04-29",
+      "rank": 97
+    },
+    {
+      "date": "1978-05-06",
+      "rank": 103
+    },
+    {
+      "date": "1978-05-13",
+      "rank": 103
+    },
+    {
+      "date": "1978-05-20",
+      "rank": 110
+    },
+    {
+      "date": "1978-05-27",
+      "rank": 113
+    },
+    {
+      "date": "1978-06-03",
+      "rank": 117
+    },
+    {
+      "date": "1978-06-10",
+      "rank": 145
+    },
+    {
+      "date": "1978-06-17",
+      "rank": 161
+    },
+    {
+      "date": "1978-06-24",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You’re No Good",
+      "id": "you-re-no-good-linda-ronstadt"
+    },
+    {
+      "title": "Silver Threads and Golden Needles",
+      "id": "silver-threads-and-golden-needles-linda-ronstadt"
+    },
+    {
+      "title": "Love Is a Rose",
+      "id": "love-is-a-rose-linda-ronstadt"
+    },
+    {
+      "title": "That’ll Be the Day",
+      "id": "that-ll-be-the-day-linda-ronstadt"
+    },
+    {
+      "title": "Long Long Time",
+      "id": "long-long-time-linda-ronstadt"
+    },
+    {
+      "title": "When Will I Be Loved?",
+      "id": "when-will-i-be-loved-linda-ronstadt"
+    },
+    {
+      "title": "Love Has No Pride",
+      "id": "love-has-no-pride-linda-ronstadt"
+    },
+    {
+      "title": "It Doesn’t Matter Anymore",
+      "id": "it-doesn-t-matter-anymore-when-will-i-be-loved-linda-ronstadt"
+    },
+    {
+      "title": "Tracks of My Tears",
+      "id": "tracks-of-my-tears-linda-ronstadt"
+    },
+    {
+      "title": "Desperado",
+      "id": null
+    },
+    {
+      "title": "Different Drum",
+      "id": null
+    },
+    {
+      "title": "Heat Wave",
+      "id": null
+    }
+  ]
+}

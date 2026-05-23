@@ -1,1 +1,218 @@
-{"id": "greatest-hits-my-prerogative-britney-spears", "title": "Greatest Hits: My Prerogative", "artist": "Britney Spears", "peak": 4, "history": [{"date": "2004-11-27", "rank": 4}, {"date": "2004-12-04", "rank": 12}, {"date": "2004-12-11", "rank": 17}, {"date": "2004-12-18", "rank": 30}, {"date": "2004-12-25", "rank": 40}, {"date": "2005-01-01", "rank": 42}, {"date": "2005-01-08", "rank": 36}, {"date": "2005-01-15", "rank": 31}, {"date": "2005-01-22", "rank": 43}, {"date": "2005-01-29", "rank": 54}, {"date": "2005-02-05", "rank": 64}, {"date": "2005-02-12", "rank": 83}, {"date": "2005-02-19", "rank": 91}, {"date": "2005-02-26", "rank": 107}, {"date": "2005-03-05", "rank": 100}, {"date": "2005-03-12", "rank": 110}, {"date": "2005-03-19", "rank": 121}, {"date": "2005-03-26", "rank": 119}, {"date": "2005-04-02", "rank": 122}, {"date": "2005-04-09", "rank": 132}, {"date": "2005-04-16", "rank": 128}, {"date": "2005-04-23", "rank": 143}, {"date": "2005-04-30", "rank": 131}, {"date": "2005-05-07", "rank": 142}, {"date": "2005-05-14", "rank": 145}, {"date": "2005-05-21", "rank": 160}, {"date": "2005-05-28", "rank": 136}, {"date": "2005-06-04", "rank": 156}, {"date": "2005-06-11", "rank": 185}, {"date": "2005-06-18", "rank": 183}, {"date": "2013-03-16", "rank": 52}, {"date": "2015-09-05", "rank": 194}, {"date": "2016-02-20", "rank": 130}, {"date": "2016-09-17", "rank": 194}, {"date": "2023-11-11", "rank": 178}]}
+{
+  "id": "greatest-hits-my-prerogative-britney-spears",
+  "title": "Greatest Hits: My Prerogative",
+  "artist": "Britney Spears",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2004-11-27",
+      "rank": 4
+    },
+    {
+      "date": "2004-12-04",
+      "rank": 12
+    },
+    {
+      "date": "2004-12-11",
+      "rank": 17
+    },
+    {
+      "date": "2004-12-18",
+      "rank": 30
+    },
+    {
+      "date": "2004-12-25",
+      "rank": 40
+    },
+    {
+      "date": "2005-01-01",
+      "rank": 42
+    },
+    {
+      "date": "2005-01-08",
+      "rank": 36
+    },
+    {
+      "date": "2005-01-15",
+      "rank": 31
+    },
+    {
+      "date": "2005-01-22",
+      "rank": 43
+    },
+    {
+      "date": "2005-01-29",
+      "rank": 54
+    },
+    {
+      "date": "2005-02-05",
+      "rank": 64
+    },
+    {
+      "date": "2005-02-12",
+      "rank": 83
+    },
+    {
+      "date": "2005-02-19",
+      "rank": 91
+    },
+    {
+      "date": "2005-02-26",
+      "rank": 107
+    },
+    {
+      "date": "2005-03-05",
+      "rank": 100
+    },
+    {
+      "date": "2005-03-12",
+      "rank": 110
+    },
+    {
+      "date": "2005-03-19",
+      "rank": 121
+    },
+    {
+      "date": "2005-03-26",
+      "rank": 119
+    },
+    {
+      "date": "2005-04-02",
+      "rank": 122
+    },
+    {
+      "date": "2005-04-09",
+      "rank": 132
+    },
+    {
+      "date": "2005-04-16",
+      "rank": 128
+    },
+    {
+      "date": "2005-04-23",
+      "rank": 143
+    },
+    {
+      "date": "2005-04-30",
+      "rank": 131
+    },
+    {
+      "date": "2005-05-07",
+      "rank": 142
+    },
+    {
+      "date": "2005-05-14",
+      "rank": 145
+    },
+    {
+      "date": "2005-05-21",
+      "rank": 160
+    },
+    {
+      "date": "2005-05-28",
+      "rank": 136
+    },
+    {
+      "date": "2005-06-04",
+      "rank": 156
+    },
+    {
+      "date": "2005-06-11",
+      "rank": 185
+    },
+    {
+      "date": "2005-06-18",
+      "rank": 183
+    },
+    {
+      "date": "2013-03-16",
+      "rank": 52
+    },
+    {
+      "date": "2015-09-05",
+      "rank": 194
+    },
+    {
+      "date": "2016-02-20",
+      "rank": 130
+    },
+    {
+      "date": "2016-09-17",
+      "rank": 194
+    },
+    {
+      "date": "2023-11-11",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Toxic",
+      "id": "toxic-britney-spears"
+    },
+    {
+      "title": "I’m a Slave 4 U",
+      "id": "i-m-a-slave-4-u-britney-spears"
+    },
+    {
+      "title": "Oops!…I Did It Again",
+      "id": "oops-i-did-it-again-britney-spears"
+    },
+    {
+      "title": "Stronger",
+      "id": "stronger-britney-spears"
+    },
+    {
+      "title": "Everytime",
+      "id": "everytime-britney-spears"
+    },
+    {
+      "title": "…Baby One More Time",
+      "id": "baby-one-more-time-britney-spears"
+    },
+    {
+      "title": "(You Drive Me) Crazy (The Stop remix!)",
+      "id": "you-drive-me-crazy-britney-spears"
+    },
+    {
+      "title": "Sometimes",
+      "id": "sometimes-britney-spears"
+    },
+    {
+      "title": "Lucky",
+      "id": "lucky-britney-spears"
+    },
+    {
+      "title": "Outrageous",
+      "id": "outrageous-britney-spears"
+    },
+    {
+      "title": "Do Somethin’",
+      "id": "do-somethin-britney-spears"
+    },
+    {
+      "title": "My Prerogative",
+      "id": null
+    },
+    {
+      "title": "Me Against the Music",
+      "id": null
+    },
+    {
+      "title": "Boys (The Co-Ed remix)",
+      "id": null
+    },
+    {
+      "title": "Overprotected (The Darkchild remix radio edit)",
+      "id": null
+    },
+    {
+      "title": "I’m Not a Girl, Not Yet a Woman",
+      "id": null
+    },
+    {
+      "title": "I’ve Just Begun (Having My Fun)",
+      "id": null
+    }
+  ]
+}

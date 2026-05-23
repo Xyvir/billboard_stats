@@ -1,1 +1,74 @@
-{"id": "greatest-hits-joe-nichols", "title": "Greatest Hits", "artist": "Joe Nichols", "peak": 52, "history": [{"date": "2011-02-12", "rank": 52}, {"date": "2011-02-19", "rank": 73}, {"date": "2011-02-26", "rank": 133}, {"date": "2011-03-05", "rank": 165}, {"date": "2011-03-12", "rank": 156}, {"date": "2011-03-19", "rank": 163}]}
+{
+  "id": "greatest-hits-joe-nichols",
+  "title": "Greatest Hits",
+  "artist": "Joe Nichols",
+  "peak": 52,
+  "history": [
+    {
+      "date": "2011-02-12",
+      "rank": 52
+    },
+    {
+      "date": "2011-02-19",
+      "rank": 73
+    },
+    {
+      "date": "2011-02-26",
+      "rank": 133
+    },
+    {
+      "date": "2011-03-05",
+      "rank": 165
+    },
+    {
+      "date": "2011-03-12",
+      "rank": 156
+    },
+    {
+      "date": "2011-03-19",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Gimmie That Girl",
+      "id": "gimmie-that-girl-joe-nichols"
+    },
+    {
+      "title": "The Shape I'm In",
+      "id": "the-shape-i-m-in-joe-nichols"
+    },
+    {
+      "title": "Tequila Makes Her Clothes Fall Off",
+      "id": "tequila-makes-her-clothes-fall-off-joe-nichols"
+    },
+    {
+      "title": "Brokenheartsville",
+      "id": "brokenheartsville-joe-nichols"
+    },
+    {
+      "title": "Size Matters (Someday)",
+      "id": "size-matters-someday-joe-nichols"
+    },
+    {
+      "title": "The Impossible",
+      "id": "the-impossible-joe-nichols"
+    },
+    {
+      "title": "What's a Guy Gotta Do",
+      "id": "what-s-a-guy-gotta-do-joe-nichols"
+    },
+    {
+      "title": "I'll Wait for You",
+      "id": "i-ll-wait-for-you-joe-nichols"
+    },
+    {
+      "title": "It Ain’t No Crime",
+      "id": null
+    },
+    {
+      "title": "Cool to Be a Fool",
+      "id": null
+    }
+  ]
+}

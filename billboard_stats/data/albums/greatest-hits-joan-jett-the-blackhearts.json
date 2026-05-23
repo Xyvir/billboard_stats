@@ -1,1 +1,74 @@
-{"id": "greatest-hits-joan-jett-the-blackhearts", "title": "Greatest Hits", "artist": "Joan Jett & The Blackhearts", "peak": 141, "history": [{"date": "2010-03-27", "rank": 141}, {"date": "2010-04-03", "rank": 174}, {"date": "2010-04-10", "rank": 173}, {"date": "2010-04-24", "rank": 198}]}
+{
+  "id": "greatest-hits-joan-jett-the-blackhearts",
+  "title": "Greatest Hits",
+  "artist": "Joan Jett & The Blackhearts",
+  "peak": 141,
+  "history": [
+    {
+      "date": "2010-03-27",
+      "rank": 141
+    },
+    {
+      "date": "2010-04-03",
+      "rank": 174
+    },
+    {
+      "date": "2010-04-10",
+      "rank": 173
+    },
+    {
+      "date": "2010-04-24",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Love Rock ’n’ Roll",
+      "id": "i-love-rock-n-roll-joan-jett-the-blackhearts"
+    },
+    {
+      "title": "Crimson and Clover",
+      "id": "crimson-and-clover-joan-jett-the-blackhearts"
+    },
+    {
+      "title": "Do You Wanna Touch Me (Oh Yeah)",
+      "id": "do-you-wanna-touch-me-oh-yeah-joan-jett-the-blackhearts"
+    },
+    {
+      "title": "Everyday People",
+      "id": "everyday-people-joan-jett-the-blackhearts"
+    },
+    {
+      "title": "Fake Friends",
+      "id": "fake-friends-joan-jett-the-blackhearts"
+    },
+    {
+      "title": "I Hate Myself for Loving You",
+      "id": "i-hate-myself-for-loving-you-joan-jett-the-blackhearts"
+    },
+    {
+      "title": "Bad Reputation",
+      "id": null
+    },
+    {
+      "title": "Cherry Bomb",
+      "id": null
+    },
+    {
+      "title": "Light of Day",
+      "id": null
+    },
+    {
+      "title": "Love Is All Around",
+      "id": null
+    },
+    {
+      "title": "Any Weather (606 version)",
+      "id": null
+    },
+    {
+      "title": "Fresh Start",
+      "id": null
+    }
+  ]
+}

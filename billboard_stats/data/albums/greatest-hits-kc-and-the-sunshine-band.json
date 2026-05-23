@@ -1,1 +1,98 @@
-{"id": "greatest-hits-kc-and-the-sunshine-band", "title": "Greatest Hits", "artist": "KC And The Sunshine Band", "peak": 132, "history": [{"date": "1980-03-22", "rank": 181}, {"date": "1980-03-29", "rank": 151}, {"date": "1980-04-05", "rank": 148}, {"date": "1980-04-12", "rank": 138}, {"date": "1980-04-19", "rank": 132}, {"date": "1980-04-26", "rank": 132}, {"date": "1980-05-03", "rank": 156}, {"date": "1980-05-10", "rank": 153}, {"date": "1980-05-17", "rank": 153}, {"date": "1980-05-24", "rank": 176}, {"date": "1980-05-31", "rank": 186}]}
+{
+  "id": "greatest-hits-kc-and-the-sunshine-band",
+  "title": "Greatest Hits",
+  "artist": "KC And The Sunshine Band",
+  "peak": 132,
+  "history": [
+    {
+      "date": "1980-03-22",
+      "rank": 181
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 151
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 148
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 138
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 132
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 132
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 156
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 153
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 153
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 176
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Queen of Clubs",
+      "id": "queen-of-clubs-kc-and-the-sunshine-band"
+    },
+    {
+      "title": "Get Down Tonight",
+      "id": "get-down-tonight-kc-and-the-sunshine-band"
+    },
+    {
+      "title": "Boogie Shoes",
+      "id": "boogie-shoes-kc-and-the-sunshine-band"
+    },
+    {
+      "title": "That’s the Way (I Like It)",
+      "id": "that-s-the-way-i-like-it-kc-and-the-sunshine-band"
+    },
+    {
+      "title": "(Shake, Shake, Shake) Shake Your Booty",
+      "id": "shake-shake-shake-shake-your-booty-kc-and-the-sunshine-band"
+    },
+    {
+      "title": "I’m Your Boogie Man",
+      "id": "i-m-your-boogie-man-kc-and-the-sunshine-band"
+    },
+    {
+      "title": "Keep It Comin’ Love",
+      "id": "keep-it-comin-love-kc-and-the-sunshine-band"
+    },
+    {
+      "title": "Please Don’t Go",
+      "id": "please-don-t-go-kc-and-the-sunshine-band"
+    },
+    {
+      "title": "Sound Your Funky Horn",
+      "id": null
+    },
+    {
+      "title": "Let’s Go Rock and Roll",
+      "id": null
+    },
+    {
+      "title": "All I Want",
+      "id": null
+    }
+  ]
+}

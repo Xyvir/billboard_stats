@@ -1,1 +1,106 @@
-{"id": "greatest-hits-live-carly-simon", "title": "Greatest Hits Live", "artist": "Carly Simon", "peak": 87, "history": [{"date": "1988-08-27", "rank": 112}, {"date": "1988-09-03", "rank": 95}, {"date": "1988-09-10", "rank": 87}, {"date": "1988-09-17", "rank": 87}, {"date": "1988-09-24", "rank": 87}, {"date": "1988-10-01", "rank": 90}, {"date": "1988-10-08", "rank": 97}, {"date": "1988-10-15", "rank": 97}, {"date": "1988-10-22", "rank": 133}, {"date": "1988-10-29", "rank": 145}, {"date": "1988-11-05", "rank": 169}, {"date": "1988-11-12", "rank": 172}, {"date": "1988-11-19", "rank": 174}]}
+{
+  "id": "greatest-hits-live-carly-simon",
+  "title": "Greatest Hits Live",
+  "artist": "Carly Simon",
+  "peak": 87,
+  "history": [
+    {
+      "date": "1988-08-27",
+      "rank": 112
+    },
+    {
+      "date": "1988-09-03",
+      "rank": 95
+    },
+    {
+      "date": "1988-09-10",
+      "rank": 87
+    },
+    {
+      "date": "1988-09-17",
+      "rank": 87
+    },
+    {
+      "date": "1988-09-24",
+      "rank": 87
+    },
+    {
+      "date": "1988-10-01",
+      "rank": 90
+    },
+    {
+      "date": "1988-10-08",
+      "rank": 97
+    },
+    {
+      "date": "1988-10-15",
+      "rank": 97
+    },
+    {
+      "date": "1988-10-22",
+      "rank": 133
+    },
+    {
+      "date": "1988-10-29",
+      "rank": 145
+    },
+    {
+      "date": "1988-11-05",
+      "rank": 169
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 172
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Nobody Does It Better",
+      "id": "nobody-does-it-better-carly-simon"
+    },
+    {
+      "title": "You’re So Vain",
+      "id": "you-re-so-vain-carly-simon"
+    },
+    {
+      "title": "Anticipation",
+      "id": "anticipation-carly-simon"
+    },
+    {
+      "title": "The Right Thing to Do",
+      "id": "the-right-thing-to-do-carly-simon"
+    },
+    {
+      "title": "You Belong to Me",
+      "id": "you-belong-to-me-carly-simon"
+    },
+    {
+      "title": "All I Want Is You",
+      "id": "all-i-want-is-you-carly-simon"
+    },
+    {
+      "title": "Coming Around Again / Itsy Bitsy Spider",
+      "id": "coming-around-again-carly-simon"
+    },
+    {
+      "title": "It Happens Everyday",
+      "id": null
+    },
+    {
+      "title": "Do the Walls Come Down",
+      "id": null
+    },
+    {
+      "title": "Two Hot Girls (On a Hot Summer Night)",
+      "id": null
+    },
+    {
+      "title": "Never Been Gone",
+      "id": null
+    }
+  ]
+}

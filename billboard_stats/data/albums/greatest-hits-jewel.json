@@ -1,1 +1,74 @@
-{"id": "greatest-hits-jewel", "title": "Greatest Hits", "artist": "Jewel", "peak": 73, "history": [{"date": "2013-02-23", "rank": 73}, {"date": "2013-03-02", "rank": 106}]}
+{
+  "id": "greatest-hits-jewel",
+  "title": "Greatest Hits",
+  "artist": "Jewel",
+  "peak": 73,
+  "history": [
+    {
+      "date": "2013-02-23",
+      "rank": 73
+    },
+    {
+      "date": "2013-03-02",
+      "rank": 106
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Who Will Save Your Soul",
+      "id": "who-will-save-your-soul-jewel"
+    },
+    {
+      "title": "You Were Meant for Me",
+      "id": "foolish-games-you-were-meant-for-me-jewel"
+    },
+    {
+      "title": "Hands",
+      "id": "hands-jewel"
+    },
+    {
+      "title": "Down So Long",
+      "id": "down-so-long-jewel"
+    },
+    {
+      "title": "Standing Still",
+      "id": "standing-still-jewel"
+    },
+    {
+      "title": "Intuition",
+      "id": "intuition-jewel"
+    },
+    {
+      "title": "Stronger Woman (radio edit)",
+      "id": "stronger-woman-jewel"
+    },
+    {
+      "title": "Foolish Games",
+      "id": null
+    },
+    {
+      "title": "Jupiter (Swallow the Moon) (single alternate version)",
+      "id": null
+    },
+    {
+      "title": "Break Me (radio remix)",
+      "id": null
+    },
+    {
+      "title": "Good Day",
+      "id": null
+    },
+    {
+      "title": "Somewhere Over the Rainbow",
+      "id": null
+    },
+    {
+      "title": "Satisfied (radio edit)",
+      "id": null
+    },
+    {
+      "title": "Two Hearts Breaking",
+      "id": null
+    }
+  ]
+}

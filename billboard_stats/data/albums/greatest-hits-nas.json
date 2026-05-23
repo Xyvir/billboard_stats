@@ -1,1 +1,70 @@
-{"id": "greatest-hits-nas", "title": "Greatest Hits", "artist": "Nas", "peak": 124, "history": [{"date": "2007-11-24", "rank": 124}]}
+{
+  "id": "greatest-hits-nas",
+  "title": "Greatest Hits",
+  "artist": "Nas",
+  "peak": 124,
+  "history": [
+    {
+      "date": "2007-11-24",
+      "rank": 124
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It Ain’t Hard to Tell",
+      "id": "it-ain-t-hard-to-tell-nas"
+    },
+    {
+      "title": "If I Ruled the World (Imagine That)",
+      "id": "if-i-ruled-the-world-nas"
+    },
+    {
+      "title": "Street Dreams (remix)",
+      "id": "street-dreams-nas"
+    },
+    {
+      "title": "One Mic",
+      "id": "one-mic-nas"
+    },
+    {
+      "title": "Got Ur Self a…",
+      "id": "got-ur-self-a-nas"
+    },
+    {
+      "title": "Made You Look",
+      "id": "made-you-look-nas"
+    },
+    {
+      "title": "I Can",
+      "id": "i-can-nas"
+    },
+    {
+      "title": "Surviving the Times (album version)",
+      "id": null
+    },
+    {
+      "title": "Less Than an Hour (Theme From Rush Hour 3)",
+      "id": null
+    },
+    {
+      "title": "Life’s a Bitch",
+      "id": null
+    },
+    {
+      "title": "N.Y. State of Mind",
+      "id": null
+    },
+    {
+      "title": "One Love",
+      "id": null
+    },
+    {
+      "title": "Hate Me Now",
+      "id": null
+    },
+    {
+      "title": "Bridging the Gap",
+      "id": null
+    }
+  ]
+}

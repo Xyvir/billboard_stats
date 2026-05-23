@@ -1,1 +1,70 @@
-{"id": "greatest-hits-joe", "title": "Greatest Hits", "artist": "Joe", "peak": 125, "history": [{"date": "2008-11-01", "rank": 125}]}
+{
+  "id": "greatest-hits-joe",
+  "title": "Greatest Hits",
+  "artist": "Joe",
+  "peak": 125,
+  "history": [
+    {
+      "date": "2008-11-01",
+      "rank": 125
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Wanna Be a Player",
+      "id": "don-t-wanna-be-a-player-from-booty-call-joe"
+    },
+    {
+      "title": "All the Things (Your Man Won’t Do)",
+      "id": "all-the-things-your-man-won-t-do-from-don-t-be-a-menace-joe"
+    },
+    {
+      "title": "I Wanna Know",
+      "id": "i-wanna-know-joe"
+    },
+    {
+      "title": "Still Not a Player",
+      "id": "still-not-a-player-big-punisher-featuring-joe"
+    },
+    {
+      "title": "More & More",
+      "id": "more-more-joe"
+    },
+    {
+      "title": "If I Was Your Man",
+      "id": "if-i-was-your-man-joe"
+    },
+    {
+      "title": "Let’s Stay Home Tonight",
+      "id": "let-s-stay-home-tonight-joe"
+    },
+    {
+      "title": "Beautiful",
+      "id": null
+    },
+    {
+      "title": "Good Girls",
+      "id": null
+    },
+    {
+      "title": "Ride Wit U",
+      "id": null
+    },
+    {
+      "title": "Stutter (Double Take remix)",
+      "id": null
+    },
+    {
+      "title": "The Love Scene",
+      "id": null
+    },
+    {
+      "title": "All That I Am",
+      "id": null
+    },
+    {
+      "title": "Priceless",
+      "id": null
+    }
+  ]
+}
