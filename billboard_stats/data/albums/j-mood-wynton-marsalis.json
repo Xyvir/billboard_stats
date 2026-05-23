@@ -1,1 +1,54 @@
-{"id": "j-mood-wynton-marsalis", "title": "J Mood", "artist": "Wynton Marsalis", "peak": 185, "history": [{"date": "1986-11-01", "rank": 196}, {"date": "1986-11-08", "rank": 185}, {"date": "1986-11-15", "rank": 185}, {"date": "1986-11-22", "rank": 200}]}
+{
+  "id": "j-mood-wynton-marsalis",
+  "title": "J Mood",
+  "artist": "Wynton Marsalis",
+  "peak": 185,
+  "history": [
+    {
+      "date": "1986-11-01",
+      "rank": 196
+    },
+    {
+      "date": "1986-11-08",
+      "rank": 185
+    },
+    {
+      "date": "1986-11-15",
+      "rank": 185
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "J Mood",
+      "id": null
+    },
+    {
+      "title": "Presence That Lament Brings",
+      "id": null
+    },
+    {
+      "title": "Insane Asylum",
+      "id": null
+    },
+    {
+      "title": "Skain's Domain",
+      "id": null
+    },
+    {
+      "title": "Melõdiqúe",
+      "id": null
+    },
+    {
+      "title": "After",
+      "id": null
+    },
+    {
+      "title": "Much Later",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"id": "jingle-bell-rock-brenda-lee", "title": "Jingle Bell Rock", "artist": "Brenda Lee", "peak": 176, "history": [{"date": "2017-12-23", "rank": 197}, {"date": "2017-12-30", "rank": 176}]}
+{
+  "id": "jingle-bell-rock-brenda-lee",
+  "title": "Jingle Bell Rock",
+  "artist": "Brenda Lee",
+  "peak": 176,
+  "history": [
+    {
+      "date": "2017-12-23",
+      "rank": 197
+    },
+    {
+      "date": "2017-12-30",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rockin’ Around the Christmas Tree",
+      "id": "rockin-around-the-christmas-tree-brenda-lee"
+    },
+    {
+      "title": "Silver Bells",
+      "id": "rusty-bells-brenda-lee"
+    },
+    {
+      "title": "Winter Wonderland",
+      "id": "i-wonder-brenda-lee"
+    },
+    {
+      "title": "This Time of the Year",
+      "id": null
+    },
+    {
+      "title": "Jingle Bell Rock",
+      "id": null
+    },
+    {
+      "title": "Strawberry Snow",
+      "id": null
+    },
+    {
+      "title": "Blue Christmas",
+      "id": null
+    },
+    {
+      "title": "A Marshmallow World",
+      "id": null
+    },
+    {
+      "title": "Christmas Will Be Just Another Lonely Day",
+      "id": null
+    },
+    {
+      "title": "The Angel and the Little Blue Bell",
+      "id": null
+    }
+  ]
+}

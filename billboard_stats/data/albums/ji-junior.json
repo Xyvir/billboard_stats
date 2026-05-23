@@ -1,1 +1,106 @@
-{"id": "ji-junior", "title": "Ji", "artist": "Junior", "peak": 71, "history": [{"date": "1982-05-08", "rank": 97}, {"date": "1982-05-15", "rank": 81}, {"date": "1982-05-22", "rank": 78}, {"date": "1982-05-29", "rank": 71}, {"date": "1982-06-05", "rank": 71}, {"date": "1982-06-12", "rank": 71}, {"date": "1982-06-19", "rank": 81}, {"date": "1982-06-26", "rank": 80}, {"date": "1982-07-03", "rank": 90}, {"date": "1982-07-10", "rank": 90}, {"date": "1982-07-17", "rank": 110}, {"date": "1982-07-24", "rank": 142}, {"date": "1982-07-31", "rank": 138}, {"date": "1982-08-07", "rank": 152}, {"date": "1982-08-14", "rank": 152}, {"date": "1982-08-21", "rank": 181}]}
+{
+  "id": "ji-junior",
+  "title": "Ji",
+  "artist": "Junior",
+  "peak": 71,
+  "history": [
+    {
+      "date": "1982-05-08",
+      "rank": 97
+    },
+    {
+      "date": "1982-05-15",
+      "rank": 81
+    },
+    {
+      "date": "1982-05-22",
+      "rank": 78
+    },
+    {
+      "date": "1982-05-29",
+      "rank": 71
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 71
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 71
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 81
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 80
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 90
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 90
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 110
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 142
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 138
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 152
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 152
+    },
+    {
+      "date": "1982-08-21",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mama Used to Say",
+      "id": "mama-used-to-say-junior"
+    },
+    {
+      "title": "Love Dies",
+      "id": null
+    },
+    {
+      "title": "Too Late",
+      "id": null
+    },
+    {
+      "title": "Is This Love",
+      "id": null
+    },
+    {
+      "title": "Let Me Know",
+      "id": null
+    },
+    {
+      "title": "Down Down",
+      "id": null
+    },
+    {
+      "title": "I Can't Help It",
+      "id": null
+    },
+    {
+      "title": "Darling You (Don't You Know)",
+      "id": null
+    }
+  ]
+}
