@@ -1,1 +1,198 @@
-{"id": "give-the-people-what-they-want-the-kinks", "title": "Give The People What They Want", "artist": "The Kinks", "peak": 15, "history": [{"date": "1981-09-12", "rank": 87}, {"date": "1981-09-19", "rank": 42}, {"date": "1981-09-26", "rank": 22}, {"date": "1981-10-03", "rank": 18}, {"date": "1981-10-10", "rank": 16}, {"date": "1981-10-17", "rank": 15}, {"date": "1981-10-24", "rank": 15}, {"date": "1981-10-31", "rank": 30}, {"date": "1981-11-07", "rank": 30}, {"date": "1981-11-14", "rank": 49}, {"date": "1981-11-21", "rank": 49}, {"date": "1981-11-28", "rank": 40}, {"date": "1981-12-05", "rank": 38}, {"date": "1981-12-12", "rank": 42}, {"date": "1981-12-19", "rank": 43}, {"date": "1981-12-26", "rank": 42}, {"date": "1982-01-02", "rank": 42}, {"date": "1982-01-09", "rank": 41}, {"date": "1982-01-16", "rank": 42}, {"date": "1982-01-23", "rank": 42}, {"date": "1982-01-30", "rank": 42}, {"date": "1982-02-06", "rank": 44}, {"date": "1982-02-13", "rank": 55}, {"date": "1982-02-20", "rank": 55}, {"date": "1982-02-27", "rank": 79}, {"date": "1982-03-06", "rank": 79}, {"date": "1982-03-13", "rank": 77}, {"date": "1982-03-20", "rank": 77}, {"date": "1982-03-27", "rank": 91}, {"date": "1982-04-03", "rank": 103}, {"date": "1982-04-10", "rank": 127}, {"date": "1982-04-17", "rank": 126}, {"date": "1982-04-24", "rank": 125}, {"date": "1982-05-01", "rank": 175}, {"date": "1982-05-08", "rank": 188}, {"date": "1982-05-15", "rank": 195}]}
+{
+  "id": "give-the-people-what-they-want-the-kinks",
+  "title": "Give The People What They Want",
+  "artist": "The Kinks",
+  "peak": 15,
+  "history": [
+    {
+      "date": "1981-09-12",
+      "rank": 87
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 42
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 22
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 18
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 16
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 15
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 15
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 30
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 30
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 49
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 49
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 40
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 38
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 42
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 43
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 42
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 42
+    },
+    {
+      "date": "1982-01-09",
+      "rank": 41
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 42
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 42
+    },
+    {
+      "date": "1982-01-30",
+      "rank": 42
+    },
+    {
+      "date": "1982-02-06",
+      "rank": 44
+    },
+    {
+      "date": "1982-02-13",
+      "rank": 55
+    },
+    {
+      "date": "1982-02-20",
+      "rank": 55
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 79
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 79
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 77
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 77
+    },
+    {
+      "date": "1982-03-27",
+      "rank": 91
+    },
+    {
+      "date": "1982-04-03",
+      "rank": 103
+    },
+    {
+      "date": "1982-04-10",
+      "rank": 127
+    },
+    {
+      "date": "1982-04-17",
+      "rank": 126
+    },
+    {
+      "date": "1982-04-24",
+      "rank": 125
+    },
+    {
+      "date": "1982-05-01",
+      "rank": 175
+    },
+    {
+      "date": "1982-05-08",
+      "rank": 188
+    },
+    {
+      "date": "1982-05-15",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Destroyer",
+      "id": "destroyer-the-kinks"
+    },
+    {
+      "title": "Better Things",
+      "id": "better-things-the-kinks"
+    },
+    {
+      "title": "Around the Dial",
+      "id": null
+    },
+    {
+      "title": "Give the People What They Want",
+      "id": null
+    },
+    {
+      "title": "Killer’s Eyes",
+      "id": null
+    },
+    {
+      "title": "Predictable",
+      "id": null
+    },
+    {
+      "title": "Add It Up",
+      "id": null
+    },
+    {
+      "title": "Yo‐Yo",
+      "id": null
+    },
+    {
+      "title": "Back to Front",
+      "id": null
+    },
+    {
+      "title": "Art Lover",
+      "id": null
+    },
+    {
+      "title": "A Little Bit of Abuse",
+      "id": null
+    }
+  ]
+}
