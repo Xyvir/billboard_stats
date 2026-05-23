@@ -1,1 +1,102 @@
-{"id": "extended-versions-foreigner", "title": "Extended Versions", "artist": "Foreigner", "peak": 88, "history": [{"date": "2011-02-19", "rank": 197}, {"date": "2011-04-23", "rank": 135}, {"date": "2011-04-30", "rank": 88}, {"date": "2011-05-07", "rank": 97}, {"date": "2011-05-14", "rank": 97}, {"date": "2011-05-21", "rank": 117}, {"date": "2011-05-28", "rank": 117}, {"date": "2011-06-04", "rank": 130}, {"date": "2011-06-11", "rank": 158}, {"date": "2011-06-18", "rank": 176}, {"date": "2012-05-05", "rank": 113}]}
+{
+  "id": "extended-versions-foreigner",
+  "title": "Extended Versions",
+  "artist": "Foreigner",
+  "peak": 88,
+  "history": [
+    {
+      "date": "2011-02-19",
+      "rank": 197
+    },
+    {
+      "date": "2011-04-23",
+      "rank": 135
+    },
+    {
+      "date": "2011-04-30",
+      "rank": 88
+    },
+    {
+      "date": "2011-05-07",
+      "rank": 97
+    },
+    {
+      "date": "2011-05-14",
+      "rank": 97
+    },
+    {
+      "date": "2011-05-21",
+      "rank": 117
+    },
+    {
+      "date": "2011-05-28",
+      "rank": 117
+    },
+    {
+      "date": "2011-06-04",
+      "rank": 130
+    },
+    {
+      "date": "2011-06-11",
+      "rank": 158
+    },
+    {
+      "date": "2011-06-18",
+      "rank": 176
+    },
+    {
+      "date": "2012-05-05",
+      "rank": 113
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Double Vision",
+      "id": "double-vision-foreigner"
+    },
+    {
+      "title": "Head Games",
+      "id": "head-games-foreigner"
+    },
+    {
+      "title": "Cold as Ice",
+      "id": "cold-as-ice-foreigner"
+    },
+    {
+      "title": "Dirty White Boy",
+      "id": "dirty-white-boy-foreigner"
+    },
+    {
+      "title": "Feels Like The First Time",
+      "id": "feels-like-the-first-time-foreigner"
+    },
+    {
+      "title": "Urgent",
+      "id": "urgent-foreigner"
+    },
+    {
+      "title": "Juke Box Hero",
+      "id": "juke-box-hero-foreigner"
+    },
+    {
+      "title": "I Want to Know What Love Is",
+      "id": "i-want-to-know-what-love-is-foreigner"
+    },
+    {
+      "title": "Hot Blooded",
+      "id": "hot-blooded-foreigner"
+    },
+    {
+      "title": "In Pieces",
+      "id": null
+    },
+    {
+      "title": "Starrider",
+      "id": null
+    },
+    {
+      "title": "Can't Slow Down",
+      "id": null
+    }
+  ]
+}

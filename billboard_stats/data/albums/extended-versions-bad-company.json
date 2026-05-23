@@ -1,1 +1,150 @@
-{"id": "extended-versions-bad-company", "title": "Extended Versions", "artist": "Bad Company", "peak": 82, "history": [{"date": "2011-04-09", "rank": 139}, {"date": "2011-04-23", "rank": 122}, {"date": "2011-04-30", "rank": 86}, {"date": "2011-05-07", "rank": 85}, {"date": "2011-05-14", "rank": 82}, {"date": "2011-05-21", "rank": 103}, {"date": "2011-05-28", "rank": 110}, {"date": "2011-06-04", "rank": 137}, {"date": "2011-06-11", "rank": 164}, {"date": "2011-06-18", "rank": 135}, {"date": "2011-06-25", "rank": 170}, {"date": "2011-07-23", "rank": 181}, {"date": "2011-08-06", "rank": 192}, {"date": "2011-10-01", "rank": 198}, {"date": "2011-10-15", "rank": 180}, {"date": "2011-10-22", "rank": 154}, {"date": "2011-10-29", "rank": 160}, {"date": "2011-11-05", "rank": 172}, {"date": "2011-11-12", "rank": 189}, {"date": "2011-11-19", "rank": 171}, {"date": "2013-04-06", "rank": 185}, {"date": "2013-04-13", "rank": 173}, {"date": "2013-04-20", "rank": 171}, {"date": "2013-05-18", "rank": 200}, {"date": "2013-07-20", "rank": 190}]}
+{
+  "id": "extended-versions-bad-company",
+  "title": "Extended Versions",
+  "artist": "Bad Company",
+  "peak": 82,
+  "history": [
+    {
+      "date": "2011-04-09",
+      "rank": 139
+    },
+    {
+      "date": "2011-04-23",
+      "rank": 122
+    },
+    {
+      "date": "2011-04-30",
+      "rank": 86
+    },
+    {
+      "date": "2011-05-07",
+      "rank": 85
+    },
+    {
+      "date": "2011-05-14",
+      "rank": 82
+    },
+    {
+      "date": "2011-05-21",
+      "rank": 103
+    },
+    {
+      "date": "2011-05-28",
+      "rank": 110
+    },
+    {
+      "date": "2011-06-04",
+      "rank": 137
+    },
+    {
+      "date": "2011-06-11",
+      "rank": 164
+    },
+    {
+      "date": "2011-06-18",
+      "rank": 135
+    },
+    {
+      "date": "2011-06-25",
+      "rank": 170
+    },
+    {
+      "date": "2011-07-23",
+      "rank": 181
+    },
+    {
+      "date": "2011-08-06",
+      "rank": 192
+    },
+    {
+      "date": "2011-10-01",
+      "rank": 198
+    },
+    {
+      "date": "2011-10-15",
+      "rank": 180
+    },
+    {
+      "date": "2011-10-22",
+      "rank": 154
+    },
+    {
+      "date": "2011-10-29",
+      "rank": 160
+    },
+    {
+      "date": "2011-11-05",
+      "rank": 172
+    },
+    {
+      "date": "2011-11-12",
+      "rank": 189
+    },
+    {
+      "date": "2011-11-19",
+      "rank": 171
+    },
+    {
+      "date": "2013-04-06",
+      "rank": 185
+    },
+    {
+      "date": "2013-04-13",
+      "rank": 173
+    },
+    {
+      "date": "2013-04-20",
+      "rank": 171
+    },
+    {
+      "date": "2013-05-18",
+      "rank": 200
+    },
+    {
+      "date": "2013-07-20",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Can't Get Enough [live]",
+      "id": "can-t-get-enough-bad-company"
+    },
+    {
+      "title": "Rock 'n' Roll Fantasy [live]",
+      "id": "rock-n-roll-fantasy-bad-company"
+    },
+    {
+      "title": "Electric Land [live]",
+      "id": "electricland-bad-company"
+    },
+    {
+      "title": "Feel Like Makin' Love [live]",
+      "id": "feel-like-makin-love-bad-company"
+    },
+    {
+      "title": "Rock Steady [live]",
+      "id": null
+    },
+    {
+      "title": "Seagull [live]",
+      "id": null
+    },
+    {
+      "title": "Simple Man [live]",
+      "id": null
+    },
+    {
+      "title": "Shooting Star [live]",
+      "id": null
+    },
+    {
+      "title": "Ready for Love [live]",
+      "id": null
+    },
+    {
+      "title": "Bad Company [live]",
+      "id": null
+    }
+  ]
+}

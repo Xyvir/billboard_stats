@@ -1,1 +1,110 @@
-{"id": "expose-expose", "title": "Expose", "artist": "Expose", "peak": 135, "history": [{"date": "1992-11-21", "rank": 193}, {"date": "1993-06-12", "rank": 198}, {"date": "1993-06-19", "rank": 185}, {"date": "1993-06-26", "rank": 161}, {"date": "1993-07-03", "rank": 154}, {"date": "1993-07-10", "rank": 170}, {"date": "1993-07-17", "rank": 143}, {"date": "1993-07-24", "rank": 135}, {"date": "1993-07-31", "rank": 157}, {"date": "1993-08-07", "rank": 167}, {"date": "1993-08-14", "rank": 162}, {"date": "1993-08-21", "rank": 184}, {"date": "1993-08-28", "rank": 193}]}
+{
+  "id": "expose-expose",
+  "title": "Expose",
+  "artist": "Expose",
+  "peak": 135,
+  "history": [
+    {
+      "date": "1992-11-21",
+      "rank": 193
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 198
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 185
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 161
+    },
+    {
+      "date": "1993-07-03",
+      "rank": 154
+    },
+    {
+      "date": "1993-07-10",
+      "rank": 170
+    },
+    {
+      "date": "1993-07-17",
+      "rank": 143
+    },
+    {
+      "date": "1993-07-24",
+      "rank": 135
+    },
+    {
+      "date": "1993-07-31",
+      "rank": 157
+    },
+    {
+      "date": "1993-08-07",
+      "rank": 167
+    },
+    {
+      "date": "1993-08-14",
+      "rank": 162
+    },
+    {
+      "date": "1993-08-21",
+      "rank": 184
+    },
+    {
+      "date": "1993-08-28",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Don't Know What You Got",
+      "id": "what-you-don-t-know-expose"
+    },
+    {
+      "title": "I Wish the Phone Would Ring",
+      "id": "i-wish-the-phone-would-ring-expose"
+    },
+    {
+      "title": "As Long as I Can Dream",
+      "id": "as-long-as-i-can-dream-expose"
+    },
+    {
+      "title": "In Walked Love",
+      "id": "in-walked-love-expose"
+    },
+    {
+      "title": "I’ll Never Get Over You Getting Over Me",
+      "id": "i-ll-never-get-over-you-getting-over-me-expose"
+    },
+    {
+      "title": "I Think I'm in Trouble",
+      "id": null
+    },
+    {
+      "title": "Angel",
+      "id": null
+    },
+    {
+      "title": "Face to Face",
+      "id": null
+    },
+    {
+      "title": "I Specialize in Love",
+      "id": null
+    },
+    {
+      "title": "Touch and Go",
+      "id": null
+    },
+    {
+      "title": "The Same Love",
+      "id": null
+    },
+    {
+      "title": "Give Me All Your Love",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,422 @@
-{"id": "exposure-expose", "title": "Exposure", "artist": "Expose", "peak": 16, "history": [{"date": "1987-02-21", "rank": 117}, {"date": "1987-02-28", "rank": 100}, {"date": "1987-03-07", "rank": 66}, {"date": "1987-03-14", "rank": 53}, {"date": "1987-03-21", "rank": 36}, {"date": "1987-03-28", "rank": 27}, {"date": "1987-04-04", "rank": 27}, {"date": "1987-04-11", "rank": 27}, {"date": "1987-04-18", "rank": 27}, {"date": "1987-04-25", "rank": 23}, {"date": "1987-05-02", "rank": 27}, {"date": "1987-05-09", "rank": 27}, {"date": "1987-05-16", "rank": 27}, {"date": "1987-05-23", "rank": 35}, {"date": "1987-05-30", "rank": 39}, {"date": "1987-06-06", "rank": 38}, {"date": "1987-06-13", "rank": 39}, {"date": "1987-06-20", "rank": 38}, {"date": "1987-06-27", "rank": 38}, {"date": "1987-07-04", "rank": 36}, {"date": "1987-07-11", "rank": 36}, {"date": "1987-07-18", "rank": 32}, {"date": "1987-07-25", "rank": 29}, {"date": "1987-08-01", "rank": 29}, {"date": "1987-08-08", "rank": 27}, {"date": "1987-08-15", "rank": 31}, {"date": "1987-08-22", "rank": 34}, {"date": "1987-08-29", "rank": 35}, {"date": "1987-09-05", "rank": 36}, {"date": "1987-09-12", "rank": 39}, {"date": "1987-09-19", "rank": 40}, {"date": "1987-09-26", "rank": 44}, {"date": "1987-10-03", "rank": 42}, {"date": "1987-10-10", "rank": 35}, {"date": "1987-10-17", "rank": 31}, {"date": "1987-10-24", "rank": 31}, {"date": "1987-10-31", "rank": 29}, {"date": "1987-11-07", "rank": 25}, {"date": "1987-11-14", "rank": 26}, {"date": "1987-11-21", "rank": 26}, {"date": "1987-11-28", "rank": 26}, {"date": "1987-12-05", "rank": 27}, {"date": "1987-12-12", "rank": 29}, {"date": "1987-12-19", "rank": 29}, {"date": "1987-12-26", "rank": 29}, {"date": "1988-01-02", "rank": 29}, {"date": "1988-01-09", "rank": 28}, {"date": "1988-01-16", "rank": 25}, {"date": "1988-01-23", "rank": 23}, {"date": "1988-01-30", "rank": 19}, {"date": "1988-02-06", "rank": 17}, {"date": "1988-02-13", "rank": 17}, {"date": "1988-02-20", "rank": 16}, {"date": "1988-02-27", "rank": 17}, {"date": "1988-03-05", "rank": 16}, {"date": "1988-03-12", "rank": 21}, {"date": "1988-03-19", "rank": 27}, {"date": "1988-03-26", "rank": 32}, {"date": "1988-04-02", "rank": 38}, {"date": "1988-04-09", "rank": 45}, {"date": "1988-04-16", "rank": 57}, {"date": "1988-04-23", "rank": 64}, {"date": "1988-04-30", "rank": 75}, {"date": "1988-05-07", "rank": 89}, {"date": "1988-05-14", "rank": 86}, {"date": "1988-05-21", "rank": 105}, {"date": "1988-05-28", "rank": 109}, {"date": "1988-06-04", "rank": 122}, {"date": "1988-06-11", "rank": 133}, {"date": "1988-06-18", "rank": 157}, {"date": "1988-06-25", "rank": 164}, {"date": "1988-07-02", "rank": 177}, {"date": "1988-07-09", "rank": 195}, {"date": "1988-07-16", "rank": 191}]}
+{
+  "id": "exposure-expose",
+  "title": "Exposure",
+  "artist": "Expose",
+  "peak": 16,
+  "history": [
+    {
+      "date": "1987-02-21",
+      "rank": 117
+    },
+    {
+      "date": "1987-02-28",
+      "rank": 100
+    },
+    {
+      "date": "1987-03-07",
+      "rank": 66
+    },
+    {
+      "date": "1987-03-14",
+      "rank": 53
+    },
+    {
+      "date": "1987-03-21",
+      "rank": 36
+    },
+    {
+      "date": "1987-03-28",
+      "rank": 27
+    },
+    {
+      "date": "1987-04-04",
+      "rank": 27
+    },
+    {
+      "date": "1987-04-11",
+      "rank": 27
+    },
+    {
+      "date": "1987-04-18",
+      "rank": 27
+    },
+    {
+      "date": "1987-04-25",
+      "rank": 23
+    },
+    {
+      "date": "1987-05-02",
+      "rank": 27
+    },
+    {
+      "date": "1987-05-09",
+      "rank": 27
+    },
+    {
+      "date": "1987-05-16",
+      "rank": 27
+    },
+    {
+      "date": "1987-05-23",
+      "rank": 35
+    },
+    {
+      "date": "1987-05-30",
+      "rank": 39
+    },
+    {
+      "date": "1987-06-06",
+      "rank": 38
+    },
+    {
+      "date": "1987-06-13",
+      "rank": 39
+    },
+    {
+      "date": "1987-06-20",
+      "rank": 38
+    },
+    {
+      "date": "1987-06-27",
+      "rank": 38
+    },
+    {
+      "date": "1987-07-04",
+      "rank": 36
+    },
+    {
+      "date": "1987-07-11",
+      "rank": 36
+    },
+    {
+      "date": "1987-07-18",
+      "rank": 32
+    },
+    {
+      "date": "1987-07-25",
+      "rank": 29
+    },
+    {
+      "date": "1987-08-01",
+      "rank": 29
+    },
+    {
+      "date": "1987-08-08",
+      "rank": 27
+    },
+    {
+      "date": "1987-08-15",
+      "rank": 31
+    },
+    {
+      "date": "1987-08-22",
+      "rank": 34
+    },
+    {
+      "date": "1987-08-29",
+      "rank": 35
+    },
+    {
+      "date": "1987-09-05",
+      "rank": 36
+    },
+    {
+      "date": "1987-09-12",
+      "rank": 39
+    },
+    {
+      "date": "1987-09-19",
+      "rank": 40
+    },
+    {
+      "date": "1987-09-26",
+      "rank": 44
+    },
+    {
+      "date": "1987-10-03",
+      "rank": 42
+    },
+    {
+      "date": "1987-10-10",
+      "rank": 35
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 31
+    },
+    {
+      "date": "1987-10-24",
+      "rank": 31
+    },
+    {
+      "date": "1987-10-31",
+      "rank": 29
+    },
+    {
+      "date": "1987-11-07",
+      "rank": 25
+    },
+    {
+      "date": "1987-11-14",
+      "rank": 26
+    },
+    {
+      "date": "1987-11-21",
+      "rank": 26
+    },
+    {
+      "date": "1987-11-28",
+      "rank": 26
+    },
+    {
+      "date": "1987-12-05",
+      "rank": 27
+    },
+    {
+      "date": "1987-12-12",
+      "rank": 29
+    },
+    {
+      "date": "1987-12-19",
+      "rank": 29
+    },
+    {
+      "date": "1987-12-26",
+      "rank": 29
+    },
+    {
+      "date": "1988-01-02",
+      "rank": 29
+    },
+    {
+      "date": "1988-01-09",
+      "rank": 28
+    },
+    {
+      "date": "1988-01-16",
+      "rank": 25
+    },
+    {
+      "date": "1988-01-23",
+      "rank": 23
+    },
+    {
+      "date": "1988-01-30",
+      "rank": 19
+    },
+    {
+      "date": "1988-02-06",
+      "rank": 17
+    },
+    {
+      "date": "1988-02-13",
+      "rank": 17
+    },
+    {
+      "date": "1988-02-20",
+      "rank": 16
+    },
+    {
+      "date": "1988-02-27",
+      "rank": 17
+    },
+    {
+      "date": "1988-03-05",
+      "rank": 16
+    },
+    {
+      "date": "1988-03-12",
+      "rank": 21
+    },
+    {
+      "date": "1988-03-19",
+      "rank": 27
+    },
+    {
+      "date": "1988-03-26",
+      "rank": 32
+    },
+    {
+      "date": "1988-04-02",
+      "rank": 38
+    },
+    {
+      "date": "1988-04-09",
+      "rank": 45
+    },
+    {
+      "date": "1988-04-16",
+      "rank": 57
+    },
+    {
+      "date": "1988-04-23",
+      "rank": 64
+    },
+    {
+      "date": "1988-04-30",
+      "rank": 75
+    },
+    {
+      "date": "1988-05-07",
+      "rank": 89
+    },
+    {
+      "date": "1988-05-14",
+      "rank": 86
+    },
+    {
+      "date": "1988-05-21",
+      "rank": 105
+    },
+    {
+      "date": "1988-05-28",
+      "rank": 109
+    },
+    {
+      "date": "1988-06-04",
+      "rank": 122
+    },
+    {
+      "date": "1988-06-11",
+      "rank": 133
+    },
+    {
+      "date": "1988-06-18",
+      "rank": 157
+    },
+    {
+      "date": "1988-06-25",
+      "rank": 164
+    },
+    {
+      "date": "1988-07-02",
+      "rank": 177
+    },
+    {
+      "date": "1988-07-09",
+      "rank": 195
+    },
+    {
+      "date": "1988-07-16",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Come Go With Me",
+      "id": "come-go-with-me-expose"
+    },
+    {
+      "title": "Let Me Be the One",
+      "id": "let-me-be-the-one-expose"
+    },
+    {
+      "title": "Seasons Change",
+      "id": "seasons-change-expose"
+    },
+    {
+      "title": "Point of No Return",
+      "id": "point-of-no-return-expose"
+    },
+    {
+      "title": "Point of No Return (1985 single version)",
+      "id": "point-of-no-return-expose"
+    },
+    {
+      "title": "Come Go With Me (single mix)",
+      "id": "come-go-with-me-expose"
+    },
+    {
+      "title": "Point of No Return (1987 single version)",
+      "id": "point-of-no-return-expose"
+    },
+    {
+      "title": "Seasons Change (radio mix)",
+      "id": "seasons-change-expose"
+    },
+    {
+      "title": "Point of No Return (UK remix)",
+      "id": "point-of-no-return-expose"
+    },
+    {
+      "title": "Come Go With Me (extended mix)",
+      "id": "come-go-with-me-expose"
+    },
+    {
+      "title": "Point of No Return (extended mix)",
+      "id": "point-of-no-return-expose"
+    },
+    {
+      "title": "Let Me Be the One (extended remix)",
+      "id": "let-me-be-the-one-expose"
+    },
+    {
+      "title": "Seasons Change (extended mix)",
+      "id": "seasons-change-expose"
+    },
+    {
+      "title": "Come Go With Me (radio mix)",
+      "id": "come-go-with-me-expose"
+    },
+    {
+      "title": "Point of No Return (Crossover mix)",
+      "id": "point-of-no-return-expose"
+    },
+    {
+      "title": "Let Me Be the One (\"Crossover\" mix)",
+      "id": "let-me-be-the-one-expose"
+    },
+    {
+      "title": "Seasons Change (Crossover mix)",
+      "id": "seasons-change-expose"
+    },
+    {
+      "title": "Point of No Return (UK extended mix)",
+      "id": "point-of-no-return-expose"
+    },
+    {
+      "title": "Let Me Be the One (remix)",
+      "id": "let-me-be-the-one-expose"
+    },
+    {
+      "title": "Exposed to Love",
+      "id": null
+    },
+    {
+      "title": "Extra Extra",
+      "id": null
+    },
+    {
+      "title": "Love Is Our Destiny",
+      "id": null
+    },
+    {
+      "title": "I Know You Know",
+      "id": null
+    },
+    {
+      "title": "You're the One I Need",
+      "id": null
+    },
+    {
+      "title": "December",
+      "id": null
+    },
+    {
+      "title": "Exposed to Love (single mix)",
+      "id": null
+    },
+    {
+      "title": "December (single version)",
+      "id": null
+    },
+    {
+      "title": "Let Me Be the One (radio edit/single version)",
+      "id": null
+    },
+    {
+      "title": "Exposed to Love (extended mix)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,214 @@
-{"id": "experience-the-divine-greatest-hits-bette-midler", "title": "Experience The Divine: Greatest Hits", "artist": "Bette Midler", "peak": 50, "history": [{"date": "1993-07-10", "rank": 79}, {"date": "1993-07-17", "rank": 59}, {"date": "1993-07-24", "rank": 54}, {"date": "1993-07-31", "rank": 50}, {"date": "1993-08-07", "rank": 51}, {"date": "1993-08-14", "rank": 54}, {"date": "1993-08-21", "rank": 73}, {"date": "1993-08-28", "rank": 71}, {"date": "1993-09-04", "rank": 68}, {"date": "1993-09-11", "rank": 69}, {"date": "1993-09-18", "rank": 75}, {"date": "1993-09-25", "rank": 62}, {"date": "1993-10-02", "rank": 60}, {"date": "1993-10-09", "rank": 71}, {"date": "1993-10-16", "rank": 80}, {"date": "1993-10-23", "rank": 84}, {"date": "1993-10-30", "rank": 87}, {"date": "1993-11-06", "rank": 91}, {"date": "1993-11-13", "rank": 126}, {"date": "1993-11-20", "rank": 135}, {"date": "1993-11-27", "rank": 130}, {"date": "1993-12-04", "rank": 139}, {"date": "1993-12-11", "rank": 139}, {"date": "1993-12-18", "rank": 133}, {"date": "1993-12-25", "rank": 128}, {"date": "1994-01-01", "rank": 131}, {"date": "1994-01-08", "rank": 133}, {"date": "1994-01-15", "rank": 158}, {"date": "1994-01-22", "rank": 163}, {"date": "1994-01-29", "rank": 155}, {"date": "1994-02-05", "rank": 155}, {"date": "1994-02-12", "rank": 168}, {"date": "1994-02-19", "rank": 187}, {"date": "1994-02-26", "rank": 190}, {"date": "1994-03-05", "rank": 194}, {"date": "1994-03-12", "rank": 194}, {"date": "1994-05-21", "rank": 199}]}
+{
+  "id": "experience-the-divine-greatest-hits-bette-midler",
+  "title": "Experience The Divine: Greatest Hits",
+  "artist": "Bette Midler",
+  "peak": 50,
+  "history": [
+    {
+      "date": "1993-07-10",
+      "rank": 79
+    },
+    {
+      "date": "1993-07-17",
+      "rank": 59
+    },
+    {
+      "date": "1993-07-24",
+      "rank": 54
+    },
+    {
+      "date": "1993-07-31",
+      "rank": 50
+    },
+    {
+      "date": "1993-08-07",
+      "rank": 51
+    },
+    {
+      "date": "1993-08-14",
+      "rank": 54
+    },
+    {
+      "date": "1993-08-21",
+      "rank": 73
+    },
+    {
+      "date": "1993-08-28",
+      "rank": 71
+    },
+    {
+      "date": "1993-09-04",
+      "rank": 68
+    },
+    {
+      "date": "1993-09-11",
+      "rank": 69
+    },
+    {
+      "date": "1993-09-18",
+      "rank": 75
+    },
+    {
+      "date": "1993-09-25",
+      "rank": 62
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 60
+    },
+    {
+      "date": "1993-10-09",
+      "rank": 71
+    },
+    {
+      "date": "1993-10-16",
+      "rank": 80
+    },
+    {
+      "date": "1993-10-23",
+      "rank": 84
+    },
+    {
+      "date": "1993-10-30",
+      "rank": 87
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 91
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 126
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 135
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 130
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 139
+    },
+    {
+      "date": "1993-12-11",
+      "rank": 139
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 133
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 128
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 131
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 133
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 158
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 163
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 155
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 155
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 168
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 187
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 190
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 194
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 194
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Do You Want to Dance?",
+      "id": "do-you-want-to-dance-bette-midler"
+    },
+    {
+      "title": "From a Distance",
+      "id": "from-a-distance-bette-midler"
+    },
+    {
+      "title": "Chapel of Love",
+      "id": "friends-chapel-of-love-bette-midler"
+    },
+    {
+      "title": "When a Man Loves a Woman",
+      "id": "when-a-man-loves-a-woman-bette-midler"
+    },
+    {
+      "title": "The Rose",
+      "id": "the-rose-bette-midler"
+    },
+    {
+      "title": "Wind Beneath My Wings",
+      "id": "wind-beneath-my-wings-from-beaches-bette-midler"
+    },
+    {
+      "title": "Boogie Woogie Bugle Boy",
+      "id": "boogie-woogie-bugle-boy-bette-midler"
+    },
+    {
+      "title": "Hello in There",
+      "id": null
+    },
+    {
+      "title": "Only in Miami",
+      "id": null
+    },
+    {
+      "title": "Miss Otis Regrets",
+      "id": null
+    },
+    {
+      "title": "Shiver Me Timbers (live)",
+      "id": null
+    },
+    {
+      "title": "One for My Baby (And One More for the Road)",
+      "id": null
+    },
+    {
+      "title": "Friends",
+      "id": null
+    },
+    {
+      "title": "In My Life",
+      "id": null
+    }
+  ]
+}
