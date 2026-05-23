@@ -1,1 +1,102 @@
-{"id": "happy-hour-uncle-kracker", "title": "Happy Hour", "artist": "Uncle Kracker", "peak": 38, "history": [{"date": "2009-10-03", "rank": 38}, {"date": "2009-10-10", "rank": 70}, {"date": "2009-10-17", "rank": 115}, {"date": "2009-10-24", "rank": 151}, {"date": "2009-10-31", "rank": 160}, {"date": "2009-11-07", "rank": 168}, {"date": "2009-11-14", "rank": 177}, {"date": "2009-11-21", "rank": 192}]}
+{
+  "id": "happy-hour-uncle-kracker",
+  "title": "Happy Hour",
+  "artist": "Uncle Kracker",
+  "peak": 38,
+  "history": [
+    {
+      "date": "2009-10-03",
+      "rank": 38
+    },
+    {
+      "date": "2009-10-10",
+      "rank": 70
+    },
+    {
+      "date": "2009-10-17",
+      "rank": 115
+    },
+    {
+      "date": "2009-10-24",
+      "rank": 151
+    },
+    {
+      "date": "2009-10-31",
+      "rank": 160
+    },
+    {
+      "date": "2009-11-07",
+      "rank": 168
+    },
+    {
+      "date": "2009-11-14",
+      "rank": 177
+    },
+    {
+      "date": "2009-11-21",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Smile",
+      "id": "smile-uncle-kracker"
+    },
+    {
+      "title": "Another Love Song",
+      "id": null
+    },
+    {
+      "title": "My Girlfriend",
+      "id": null
+    },
+    {
+      "title": "Livin’ the Dream",
+      "id": null
+    },
+    {
+      "title": "Corner Bar",
+      "id": null
+    },
+    {
+      "title": "Me Again",
+      "id": null
+    },
+    {
+      "title": "Good to Be Me",
+      "id": null
+    },
+    {
+      "title": "I Hate California",
+      "id": null
+    },
+    {
+      "title": "Hot Mess",
+      "id": null
+    },
+    {
+      "title": "Hey Hey Hey",
+      "id": null
+    },
+    {
+      "title": "I’m Not Leaving",
+      "id": null
+    },
+    {
+      "title": "Mainstreet",
+      "id": null
+    },
+    {
+      "title": "Celebrate",
+      "id": null
+    },
+    {
+      "title": "Josephine",
+      "id": null
+    },
+    {
+      "title": "Let Me Love You",
+      "id": null
+    }
+  ]
+}

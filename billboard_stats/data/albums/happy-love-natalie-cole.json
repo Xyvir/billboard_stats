@@ -1,1 +1,62 @@
-{"id": "happy-love-natalie-cole", "title": "Happy Love", "artist": "Natalie Cole", "peak": 132, "history": [{"date": "1981-09-26", "rank": 143}, {"date": "1981-10-03", "rank": 132}, {"date": "1981-10-10", "rank": 132}, {"date": "1981-10-17", "rank": 184}]}
+{
+  "id": "happy-love-natalie-cole",
+  "title": "Happy Love",
+  "artist": "Natalie Cole",
+  "peak": 132,
+  "history": [
+    {
+      "date": "1981-09-26",
+      "rank": 143
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 132
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 132
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Only Love",
+      "id": "our-love-natalie-cole"
+    },
+    {
+      "title": "When a Man Loves a Woman",
+      "id": "when-i-fall-in-love-natalie-cole"
+    },
+    {
+      "title": "You Were Right Girl",
+      "id": null
+    },
+    {
+      "title": "Nothin’ but a Fool",
+      "id": null
+    },
+    {
+      "title": "The Joke Is on You",
+      "id": null
+    },
+    {
+      "title": "These Eyes",
+      "id": null
+    },
+    {
+      "title": "I Can’t Let Go",
+      "id": null
+    },
+    {
+      "title": "Love and Kisses",
+      "id": null
+    },
+    {
+      "title": "Across the Nation",
+      "id": null
+    }
+  ]
+}
