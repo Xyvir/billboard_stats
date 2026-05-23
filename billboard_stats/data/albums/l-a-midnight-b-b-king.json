@@ -1,1 +1,58 @@
-{"id": "l-a-midnight-b-b-king", "title": "L.A. Midnight", "artist": "B.B. King", "peak": 147, "history": [{"date": "1972-05-20", "rank": 147}, {"date": "1972-05-27", "rank": 152}, {"date": "1972-06-03", "rank": 152}, {"date": "1972-06-10", "rank": 151}, {"date": "1972-06-17", "rank": 165}]}
+{
+  "id": "l-a-midnight-b-b-king",
+  "title": "L.A. Midnight",
+  "artist": "B.B. King",
+  "peak": 147,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 147
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 152
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 152
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 151
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Got Some Help I Don’t Need",
+      "id": "i-got-some-help-i-don-t-need-b-b-king"
+    },
+    {
+      "title": "Help the Poor",
+      "id": "help-the-poor-b-b-king"
+    },
+    {
+      "title": "Sweet Sixteen",
+      "id": "sweet-sixteen-b-b-king"
+    },
+    {
+      "title": "Can’t You Hear Me Talking to You?",
+      "id": null
+    },
+    {
+      "title": "Midnight",
+      "id": null
+    },
+    {
+      "title": "(I Believe) I’ve Been Blue Too Long",
+      "id": null
+    },
+    {
+      "title": "Lucille’s Granny",
+      "id": null
+    }
+  ]
+}

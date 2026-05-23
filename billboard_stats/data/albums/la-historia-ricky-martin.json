@@ -1,1 +1,110 @@
-{"id": "la-historia-ricky-martin", "title": "La Historia", "artist": "Ricky Martin", "peak": 83, "history": [{"date": "2001-03-17", "rank": 83}, {"date": "2001-03-24", "rank": 108}, {"date": "2001-03-31", "rank": 133}, {"date": "2001-04-07", "rank": 129}, {"date": "2001-04-14", "rank": 162}, {"date": "2001-04-28", "rank": 183}, {"date": "2001-05-05", "rank": 165}, {"date": "2001-05-12", "rank": 190}]}
+{
+  "id": "la-historia-ricky-martin",
+  "title": "La Historia",
+  "artist": "Ricky Martin",
+  "peak": 83,
+  "history": [
+    {
+      "date": "2001-03-17",
+      "rank": 83
+    },
+    {
+      "date": "2001-03-24",
+      "rank": 108
+    },
+    {
+      "date": "2001-03-31",
+      "rank": 133
+    },
+    {
+      "date": "2001-04-07",
+      "rank": 129
+    },
+    {
+      "date": "2001-04-14",
+      "rank": 162
+    },
+    {
+      "date": "2001-04-28",
+      "rank": 183
+    },
+    {
+      "date": "2001-05-05",
+      "rank": 165
+    },
+    {
+      "date": "2001-05-12",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bella (She’s All I Ever Had)",
+      "id": "she-s-all-i-ever-had-ricky-martin"
+    },
+    {
+      "title": "Livin’ la Vida Loca (Spanish version)",
+      "id": "livin-la-vida-loca-ricky-martin"
+    },
+    {
+      "title": "She Bangs",
+      "id": "she-bangs-ricky-martin"
+    },
+    {
+      "title": "María (Spanglish radio edit)",
+      "id": null
+    },
+    {
+      "title": "Vuelve",
+      "id": null
+    },
+    {
+      "title": "La bomba",
+      "id": null
+    },
+    {
+      "title": "A medio vivir",
+      "id": null
+    },
+    {
+      "title": "Perdido sin ti",
+      "id": null
+    },
+    {
+      "title": "Volverás",
+      "id": null
+    },
+    {
+      "title": "La copa de la vida (Canción oficial de la Copa Mundial, Francia ’98) (Spanish)",
+      "id": null
+    },
+    {
+      "title": "Fuego de noche, nieve de día",
+      "id": null
+    },
+    {
+      "title": "Bombón de azúcar",
+      "id": null
+    },
+    {
+      "title": "Fuego contra fuego",
+      "id": null
+    },
+    {
+      "title": "Te extraño, te olvido, te amo",
+      "id": null
+    },
+    {
+      "title": "Por arriba, por abajo",
+      "id": null
+    },
+    {
+      "title": "El amor de mi vida",
+      "id": null
+    },
+    {
+      "title": "Solo quiero amarte (Nobody Wants to Be Lonely) (radio edit)",
+      "id": null
+    }
+  ]
+}

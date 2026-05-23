@@ -1,1 +1,38 @@
-{"id": "lana-del-rey-ep-lana-del-rey", "title": "Lana Del Rey (EP)", "artist": "Lana Del Rey", "peak": 20, "history": [{"date": "2012-01-28", "rank": 20}, {"date": "2012-02-04", "rank": 51}, {"date": "2012-02-11", "rank": 162}]}
+{
+  "id": "lana-del-rey-ep-lana-del-rey",
+  "title": "Lana Del Rey (EP)",
+  "artist": "Lana Del Rey",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2012-01-28",
+      "rank": 20
+    },
+    {
+      "date": "2012-02-04",
+      "rank": 51
+    },
+    {
+      "date": "2012-02-11",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Video Games",
+      "id": "video-games-lana-del-rey"
+    },
+    {
+      "title": "Born to Die",
+      "id": "doin-time-lana-del-rey"
+    },
+    {
+      "title": "Blue Jeans",
+      "id": null
+    },
+    {
+      "title": "Off to the Races",
+      "id": null
+    }
+  ]
+}

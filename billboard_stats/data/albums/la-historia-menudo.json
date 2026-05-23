@@ -1,1 +1,94 @@
-{"id": "la-historia-menudo", "title": "La Historia", "artist": "Menudo", "peak": 190, "history": [{"date": "2007-08-04", "rank": 190}]}
+{
+  "id": "la-historia-menudo",
+  "title": "La Historia",
+  "artist": "Menudo",
+  "peak": 190,
+  "history": [
+    {
+      "date": "2007-08-04",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hold Me",
+      "id": "hold-me-menudo"
+    },
+    {
+      "title": "Chiquitita",
+      "id": null
+    },
+    {
+      "title": "Ella ¡Ah! ¡Ah!",
+      "id": null
+    },
+    {
+      "title": "Fuego",
+      "id": null
+    },
+    {
+      "title": "Claridad",
+      "id": null
+    },
+    {
+      "title": "Mi Banda Toca Rock",
+      "id": null
+    },
+    {
+      "title": "Súbete A Mi Moto",
+      "id": null
+    },
+    {
+      "title": "Quiero Rock",
+      "id": null
+    },
+    {
+      "title": "Y Yo No Bailo",
+      "id": null
+    },
+    {
+      "title": "Es Por Amor",
+      "id": null
+    },
+    {
+      "title": "Lluvia",
+      "id": null
+    },
+    {
+      "title": "Cámbiale Las Pilas",
+      "id": null
+    },
+    {
+      "title": "A Volar",
+      "id": null
+    },
+    {
+      "title": "Quiero Ser",
+      "id": null
+    },
+    {
+      "title": "No Te Reprimas",
+      "id": null
+    },
+    {
+      "title": "Si Tú No Estás",
+      "id": null
+    },
+    {
+      "title": "Chicle De Amor",
+      "id": null
+    },
+    {
+      "title": "Sabes A Chocolate",
+      "id": null
+    },
+    {
+      "title": "La Fiesta Va A Empezar",
+      "id": null
+    },
+    {
+      "title": "En San Juan Me Enamoré",
+      "id": null
+    }
+  ]
+}

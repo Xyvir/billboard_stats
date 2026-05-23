@@ -1,1 +1,102 @@
-{"id": "l-a-light-album-the-beach-boys", "title": "L.a. Light Album", "artist": "The Beach Boys", "peak": 100, "history": [{"date": "1979-04-07", "rank": 130}, {"date": "1979-04-14", "rank": 120}, {"date": "1979-04-21", "rank": 111}, {"date": "1979-04-28", "rank": 108}, {"date": "1979-05-05", "rank": 104}, {"date": "1979-05-12", "rank": 100}, {"date": "1979-05-19", "rank": 135}, {"date": "1979-05-26", "rank": 134}, {"date": "1979-06-02", "rank": 129}, {"date": "1979-06-09", "rank": 139}, {"date": "1979-06-16", "rank": 136}, {"date": "1979-06-23", "rank": 156}, {"date": "1979-06-30", "rank": 186}]}
+{
+  "id": "l-a-light-album-the-beach-boys",
+  "title": "L.a. Light Album",
+  "artist": "The Beach Boys",
+  "peak": 100,
+  "history": [
+    {
+      "date": "1979-04-07",
+      "rank": 130
+    },
+    {
+      "date": "1979-04-14",
+      "rank": 120
+    },
+    {
+      "date": "1979-04-21",
+      "rank": 111
+    },
+    {
+      "date": "1979-04-28",
+      "rank": 108
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 104
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 100
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 135
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 134
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 129
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 139
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 136
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 156
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Good Timin’",
+      "id": "good-timin-the-beach-boys"
+    },
+    {
+      "title": "Here Comes the Night",
+      "id": "here-comes-the-night-the-beach-boys"
+    },
+    {
+      "title": "Goin’ South",
+      "id": "goin-on-the-beach-boys"
+    },
+    {
+      "title": "Lady Lynda",
+      "id": null
+    },
+    {
+      "title": "Full Sail",
+      "id": null
+    },
+    {
+      "title": "Angel Come Home",
+      "id": null
+    },
+    {
+      "title": "Love Surrounds Me",
+      "id": null
+    },
+    {
+      "title": "Sumahama",
+      "id": null
+    },
+    {
+      "title": "Baby Blue",
+      "id": null
+    },
+    {
+      "title": "Shortenin’ Bread",
+      "id": null
+    }
+  ]
+}

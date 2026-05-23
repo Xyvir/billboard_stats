@@ -1,1 +1,198 @@
-{"id": "laid-back-gregg-allman", "title": "Laid Back", "artist": "Gregg Allman", "peak": 13, "history": [{"date": "1973-11-24", "rank": 144}, {"date": "1973-12-01", "rank": 78}, {"date": "1973-12-08", "rank": 39}, {"date": "1973-12-15", "rank": 29}, {"date": "1973-12-22", "rank": 21}, {"date": "1973-12-29", "rank": 19}, {"date": "1974-01-05", "rank": 17}, {"date": "1974-01-12", "rank": 17}, {"date": "1974-01-19", "rank": 15}, {"date": "1974-01-26", "rank": 15}, {"date": "1974-02-02", "rank": 13}, {"date": "1974-02-09", "rank": 14}, {"date": "1974-02-16", "rank": 19}, {"date": "1974-02-23", "rank": 21}, {"date": "1974-03-02", "rank": 23}, {"date": "1974-03-09", "rank": 23}, {"date": "1974-03-16", "rank": 24}, {"date": "1974-03-23", "rank": 33}, {"date": "1974-03-30", "rank": 34}, {"date": "1974-04-06", "rank": 52}, {"date": "1974-04-13", "rank": 62}, {"date": "1974-04-20", "rank": 63}, {"date": "1974-04-27", "rank": 67}, {"date": "1974-05-04", "rank": 64}, {"date": "1974-05-11", "rank": 65}, {"date": "1974-05-18", "rank": 64}, {"date": "1974-05-25", "rank": 66}, {"date": "1974-06-01", "rank": 65}, {"date": "1974-06-08", "rank": 85}, {"date": "1974-06-15", "rank": 88}, {"date": "1974-06-22", "rank": 88}, {"date": "1974-06-29", "rank": 113}, {"date": "1974-07-06", "rank": 113}, {"date": "1974-07-13", "rank": 140}, {"date": "1974-07-20", "rank": 145}, {"date": "1974-07-27", "rank": 155}, {"date": "1974-08-03", "rank": 164}, {"date": "1974-08-10", "rank": 172}, {"date": "1974-08-17", "rank": 184}]}
+{
+  "id": "laid-back-gregg-allman",
+  "title": "Laid Back",
+  "artist": "Gregg Allman",
+  "peak": 13,
+  "history": [
+    {
+      "date": "1973-11-24",
+      "rank": 144
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 78
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 39
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 29
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 21
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 19
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 17
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 17
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 15
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 15
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 13
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 14
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 19
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 21
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 23
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 23
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 24
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 33
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 34
+    },
+    {
+      "date": "1974-04-06",
+      "rank": 52
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 62
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 63
+    },
+    {
+      "date": "1974-04-27",
+      "rank": 67
+    },
+    {
+      "date": "1974-05-04",
+      "rank": 64
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 65
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 64
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 66
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 65
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 85
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 88
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 88
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 113
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 113
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 140
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 145
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 155
+    },
+    {
+      "date": "1974-08-03",
+      "rank": 164
+    },
+    {
+      "date": "1974-08-10",
+      "rank": 172
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Midnight Rider",
+      "id": "midnight-rider-gregg-allman"
+    },
+    {
+      "title": "Queen of Hearts",
+      "id": null
+    },
+    {
+      "title": "Please Call Home",
+      "id": null
+    },
+    {
+      "title": "Don't Mess Up a Good Thing",
+      "id": null
+    },
+    {
+      "title": "These Days",
+      "id": null
+    },
+    {
+      "title": "Multi‐Colored Lady",
+      "id": null
+    },
+    {
+      "title": "All My Friends",
+      "id": null
+    },
+    {
+      "title": "Will the Circle Be Unbroken",
+      "id": null
+    }
+  ]
+}
