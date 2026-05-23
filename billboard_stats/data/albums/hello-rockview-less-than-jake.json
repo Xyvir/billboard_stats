@@ -1,1 +1,78 @@
-{"id": "hello-rockview-less-than-jake", "title": "Hello Rockview", "artist": "Less Than Jake", "peak": 80, "history": [{"date": "1998-10-24", "rank": 80}, {"date": "1998-10-31", "rank": 136}, {"date": "1998-11-07", "rank": 166}]}
+{
+  "id": "hello-rockview-less-than-jake",
+  "title": "Hello Rockview",
+  "artist": "Less Than Jake",
+  "peak": 80,
+  "history": [
+    {
+      "date": "1998-10-24",
+      "rank": 80
+    },
+    {
+      "date": "1998-10-31",
+      "rank": 136
+    },
+    {
+      "date": "1998-11-07",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Last One Out of Liberty City",
+      "id": null
+    },
+    {
+      "title": "Help Save the Youth of America From Exploding",
+      "id": null
+    },
+    {
+      "title": "All My Best Friends Are Metalheads",
+      "id": null
+    },
+    {
+      "title": "Five State Drive",
+      "id": null
+    },
+    {
+      "title": "Nervous in the Alley",
+      "id": null
+    },
+    {
+      "title": "Motto",
+      "id": null
+    },
+    {
+      "title": "History of a Boring Town",
+      "id": null
+    },
+    {
+      "title": "Great American Sharpshooter",
+      "id": null
+    },
+    {
+      "title": "Danny Says",
+      "id": null
+    },
+    {
+      "title": "Big Crash",
+      "id": null
+    },
+    {
+      "title": "Theme Song for H Street",
+      "id": null
+    },
+    {
+      "title": "Richard Allen George…No, It’s Just Cheez",
+      "id": null
+    },
+    {
+      "title": "Scott Farcas Takes It on the Chin",
+      "id": null
+    },
+    {
+      "title": "Al’s War",
+      "id": null
+    }
+  ]
+}

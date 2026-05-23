@@ -1,1 +1,146 @@
-{"id": "hello-my-name-is-bridgit-mendler", "title": "Hello My Name Is...", "artist": "Bridgit Mendler", "peak": 30, "history": [{"date": "2012-11-10", "rank": 30}, {"date": "2012-11-17", "rank": 83}, {"date": "2012-11-24", "rank": 129}, {"date": "2012-12-01", "rank": 142}, {"date": "2012-12-15", "rank": 153}, {"date": "2012-12-22", "rank": 177}, {"date": "2012-12-29", "rank": 148}, {"date": "2013-01-05", "rank": 128}, {"date": "2013-01-12", "rank": 77}, {"date": "2013-01-19", "rank": 58}, {"date": "2013-01-26", "rank": 80}, {"date": "2013-02-02", "rank": 91}, {"date": "2013-02-09", "rank": 95}, {"date": "2013-02-16", "rank": 118}, {"date": "2013-02-23", "rank": 152}, {"date": "2013-03-02", "rank": 186}, {"date": "2013-04-13", "rank": 163}, {"date": "2013-06-15", "rank": 194}, {"date": "2013-06-22", "rank": 153}, {"date": "2013-07-06", "rank": 181}, {"date": "2013-07-13", "rank": 158}, {"date": "2013-09-07", "rank": 182}]}
+{
+  "id": "hello-my-name-is-bridgit-mendler",
+  "title": "Hello My Name Is...",
+  "artist": "Bridgit Mendler",
+  "peak": 30,
+  "history": [
+    {
+      "date": "2012-11-10",
+      "rank": 30
+    },
+    {
+      "date": "2012-11-17",
+      "rank": 83
+    },
+    {
+      "date": "2012-11-24",
+      "rank": 129
+    },
+    {
+      "date": "2012-12-01",
+      "rank": 142
+    },
+    {
+      "date": "2012-12-15",
+      "rank": 153
+    },
+    {
+      "date": "2012-12-22",
+      "rank": 177
+    },
+    {
+      "date": "2012-12-29",
+      "rank": 148
+    },
+    {
+      "date": "2013-01-05",
+      "rank": 128
+    },
+    {
+      "date": "2013-01-12",
+      "rank": 77
+    },
+    {
+      "date": "2013-01-19",
+      "rank": 58
+    },
+    {
+      "date": "2013-01-26",
+      "rank": 80
+    },
+    {
+      "date": "2013-02-02",
+      "rank": 91
+    },
+    {
+      "date": "2013-02-09",
+      "rank": 95
+    },
+    {
+      "date": "2013-02-16",
+      "rank": 118
+    },
+    {
+      "date": "2013-02-23",
+      "rank": 152
+    },
+    {
+      "date": "2013-03-02",
+      "rank": 186
+    },
+    {
+      "date": "2013-04-13",
+      "rank": 163
+    },
+    {
+      "date": "2013-06-15",
+      "rank": 194
+    },
+    {
+      "date": "2013-06-22",
+      "rank": 153
+    },
+    {
+      "date": "2013-07-06",
+      "rank": 181
+    },
+    {
+      "date": "2013-07-13",
+      "rank": 158
+    },
+    {
+      "date": "2013-09-07",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ready Or Not",
+      "id": "ready-or-not-bridgit-mendler"
+    },
+    {
+      "title": "Forgot to Laugh",
+      "id": null
+    },
+    {
+      "title": "Top of the World",
+      "id": null
+    },
+    {
+      "title": "Hurricane",
+      "id": null
+    },
+    {
+      "title": "City Lights",
+      "id": null
+    },
+    {
+      "title": "All I See Is Gold",
+      "id": null
+    },
+    {
+      "title": "The Fall Song",
+      "id": null
+    },
+    {
+      "title": "Love Will Tell Us Where to Go",
+      "id": null
+    },
+    {
+      "title": "Blonde",
+      "id": null
+    },
+    {
+      "title": "Rocks at My Window",
+      "id": null
+    },
+    {
+      "title": "5:15",
+      "id": null
+    },
+    {
+      "title": "Hold on for Dear Love",
+      "id": null
+    }
+  ]
+}

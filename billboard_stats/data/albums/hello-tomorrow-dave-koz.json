@@ -1,1 +1,70 @@
-{"id": "hello-tomorrow-dave-koz", "title": "Hello Tomorrow", "artist": "Dave Koz", "peak": 104, "history": [{"date": "2010-10-30", "rank": 104}, {"date": "2010-11-06", "rank": 185}]}
+{
+  "id": "hello-tomorrow-dave-koz",
+  "title": "Hello Tomorrow",
+  "artist": "Dave Koz",
+  "peak": 104,
+  "history": [
+    {
+      "date": "2010-10-30",
+      "rank": 104
+    },
+    {
+      "date": "2010-11-06",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Put the Top Down",
+      "id": null
+    },
+    {
+      "title": "When Will I Know for Sure",
+      "id": null
+    },
+    {
+      "title": "It’s Always Been You",
+      "id": null
+    },
+    {
+      "title": "Getaway",
+      "id": null
+    },
+    {
+      "title": "This Guy’s in Love With You",
+      "id": null
+    },
+    {
+      "title": "Anything’s Possible",
+      "id": null
+    },
+    {
+      "title": "There’s a Better Way",
+      "id": null
+    },
+    {
+      "title": "Start All Over Again",
+      "id": null
+    },
+    {
+      "title": "Think Big",
+      "id": null
+    },
+    {
+      "title": "The Journey",
+      "id": null
+    },
+    {
+      "title": "Remember Where You Come From",
+      "id": null
+    },
+    {
+      "title": "Whisper in Your Ear",
+      "id": null
+    },
+    {
+      "title": "What You Leave Behind",
+      "id": null
+    }
+  ]
+}
