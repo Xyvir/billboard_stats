@@ -1,1 +1,78 @@
-{"id": "king-size-b-b-king", "title": "King Size", "artist": "B.B. King", "peak": 154, "history": [{"date": "1977-02-12", "rank": 180}, {"date": "1977-02-19", "rank": 169}, {"date": "1977-02-26", "rank": 158}, {"date": "1977-03-05", "rank": 158}, {"date": "1977-03-12", "rank": 158}, {"date": "1977-03-19", "rank": 158}, {"date": "1977-03-26", "rank": 154}]}
+{
+  "id": "king-size-b-b-king",
+  "title": "King Size",
+  "artist": "B.B. King",
+  "peak": 154,
+  "history": [
+    {
+      "date": "1977-02-12",
+      "rank": 180
+    },
+    {
+      "date": "1977-02-19",
+      "rank": 169
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 158
+    },
+    {
+      "date": "1977-03-05",
+      "rank": 158
+    },
+    {
+      "date": "1977-03-12",
+      "rank": 158
+    },
+    {
+      "date": "1977-03-19",
+      "rank": 158
+    },
+    {
+      "date": "1977-03-26",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don't You Lie to Me",
+      "id": null
+    },
+    {
+      "title": "I Wonder Why",
+      "id": null
+    },
+    {
+      "title": "I Just Want to Make Love to You",
+      "id": null
+    },
+    {
+      "title": "You Lovin' Turns Me On",
+      "id": null
+    },
+    {
+      "title": "Slow and Easy",
+      "id": null
+    },
+    {
+      "title": "Got My Mojo Working",
+      "id": null
+    },
+    {
+      "title": "Walkin' in the Sun",
+      "id": null
+    },
+    {
+      "title": "Mother Fuyer",
+      "id": null
+    },
+    {
+      "title": "The Same Love That Made Me Laugh",
+      "id": null
+    },
+    {
+      "title": "It's Just a Matter of Time",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "king-of-hearts-roy-orbison", "title": "King Of Hearts", "artist": "Roy Orbison", "peak": 179, "history": [{"date": "1992-12-19", "rank": 191}, {"date": "1992-12-26", "rank": 179}]}
+{
+  "id": "king-of-hearts-roy-orbison",
+  "title": "King Of Hearts",
+  "artist": "Roy Orbison",
+  "peak": 179,
+  "history": [
+    {
+      "date": "1992-12-19",
+      "rank": 191
+    },
+    {
+      "date": "1992-12-26",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Crying",
+      "id": "crying-roy-orbison"
+    },
+    {
+      "title": "Life Fades Away",
+      "id": "ride-away-roy-orbison"
+    },
+    {
+      "title": "You’re the One",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Radio",
+      "id": null
+    },
+    {
+      "title": "We’ll Take the Night",
+      "id": null
+    },
+    {
+      "title": "After the Love Has Gone",
+      "id": null
+    },
+    {
+      "title": "Love in Time",
+      "id": null
+    },
+    {
+      "title": "I Drove All Night",
+      "id": null
+    },
+    {
+      "title": "Wild Hearts",
+      "id": null
+    },
+    {
+      "title": "Coming Home",
+      "id": null
+    },
+    {
+      "title": "Careless Heart (original demo)",
+      "id": null
+    }
+  ]
+}
