@@ -1,1 +1,86 @@
-{"id": "chrome-dreams-ii-neil-young", "title": "Chrome Dreams II", "artist": "Neil Young", "peak": 11, "history": [{"date": "2007-11-10", "rank": 11}, {"date": "2007-11-17", "rank": 40}, {"date": "2007-11-24", "rank": 66}, {"date": "2007-12-01", "rank": 88}, {"date": "2007-12-08", "rank": 157}, {"date": "2007-12-15", "rank": 147}, {"date": "2007-12-22", "rank": 162}, {"date": "2007-12-29", "rank": 167}, {"date": "2008-01-05", "rank": 165}]}
+{
+  "id": "chrome-dreams-ii-neil-young",
+  "title": "Chrome Dreams II",
+  "artist": "Neil Young",
+  "peak": 11,
+  "history": [
+    {
+      "date": "2007-11-10",
+      "rank": 11
+    },
+    {
+      "date": "2007-11-17",
+      "rank": 40
+    },
+    {
+      "date": "2007-11-24",
+      "rank": 66
+    },
+    {
+      "date": "2007-12-01",
+      "rank": 88
+    },
+    {
+      "date": "2007-12-08",
+      "rank": 157
+    },
+    {
+      "date": "2007-12-15",
+      "rank": 147
+    },
+    {
+      "date": "2007-12-22",
+      "rank": 162
+    },
+    {
+      "date": "2007-12-29",
+      "rank": 167
+    },
+    {
+      "date": "2008-01-05",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dirty Old Man",
+      "id": "old-man-neil-young"
+    },
+    {
+      "title": "Beautiful Bluebird",
+      "id": null
+    },
+    {
+      "title": "Boxcar",
+      "id": null
+    },
+    {
+      "title": "Ordinary People",
+      "id": null
+    },
+    {
+      "title": "Shining Light",
+      "id": null
+    },
+    {
+      "title": "The Believer",
+      "id": null
+    },
+    {
+      "title": "Spirit Road",
+      "id": null
+    },
+    {
+      "title": "Ever After",
+      "id": null
+    },
+    {
+      "title": "No Hidden Path",
+      "id": null
+    },
+    {
+      "title": "The Way",
+      "id": null
+    }
+  ]
+}

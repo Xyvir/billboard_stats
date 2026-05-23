@@ -1,1 +1,58 @@
-{"id": "chuck-chuck-berry", "title": "Chuck", "artist": "Chuck Berry", "peak": 49, "history": [{"date": "2017-07-01", "rank": 49}, {"date": "2017-07-08", "rank": 158}]}
+{
+  "id": "chuck-chuck-berry",
+  "title": "Chuck",
+  "artist": "Chuck Berry",
+  "peak": 49,
+  "history": [
+    {
+      "date": "2017-07-01",
+      "rank": 49
+    },
+    {
+      "date": "2017-07-08",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lady B. Goode",
+      "id": "johnny-b-goode-chuck-berry"
+    },
+    {
+      "title": "Wonderful Woman",
+      "id": null
+    },
+    {
+      "title": "Big Boys",
+      "id": null
+    },
+    {
+      "title": "You Go to My Head",
+      "id": null
+    },
+    {
+      "title": "3/4 Time (Enchiladas)",
+      "id": null
+    },
+    {
+      "title": "Darlin’",
+      "id": null
+    },
+    {
+      "title": "She Still Loves You",
+      "id": null
+    },
+    {
+      "title": "Jamaica Moon",
+      "id": null
+    },
+    {
+      "title": "Dutchman",
+      "id": null
+    },
+    {
+      "title": "Eyes of Man",
+      "id": null
+    }
+  ]
+}

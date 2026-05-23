@@ -1,1 +1,238 @@
-{"id": "chromatica-lady-gaga", "title": "Chromatica", "artist": "Lady Gaga", "peak": 1, "history": [{"date": "2020-06-13", "rank": 1}, {"date": "2020-06-20", "rank": 2}, {"date": "2020-06-27", "rank": 2}, {"date": "2020-07-04", "rank": 6}, {"date": "2020-07-11", "rank": 11}, {"date": "2020-07-18", "rank": 18}, {"date": "2020-07-25", "rank": 24}, {"date": "2020-08-01", "rank": 27}, {"date": "2020-08-08", "rank": 34}, {"date": "2020-08-15", "rank": 40}, {"date": "2020-08-22", "rank": 43}, {"date": "2020-08-29", "rank": 49}, {"date": "2020-09-05", "rank": 64}, {"date": "2020-09-12", "rank": 34}, {"date": "2020-09-19", "rank": 44}, {"date": "2020-09-26", "rank": 49}, {"date": "2020-10-03", "rank": 38}, {"date": "2020-10-10", "rank": 60}, {"date": "2020-10-17", "rank": 76}, {"date": "2020-10-24", "rank": 77}, {"date": "2020-10-31", "rank": 92}, {"date": "2020-11-07", "rank": 130}, {"date": "2020-11-14", "rank": 136}, {"date": "2020-11-21", "rank": 131}, {"date": "2020-11-28", "rank": 165}, {"date": "2020-12-05", "rank": 191}, {"date": "2020-12-12", "rank": 181}, {"date": "2020-12-19", "rank": 153}, {"date": "2020-12-26", "rank": 171}, {"date": "2021-01-02", "rank": 182}, {"date": "2021-01-09", "rank": 150}, {"date": "2021-01-16", "rank": 132}, {"date": "2021-01-23", "rank": 165}, {"date": "2021-01-30", "rank": 171}, {"date": "2021-02-06", "rank": 152}, {"date": "2021-02-13", "rank": 161}, {"date": "2021-02-20", "rank": 158}, {"date": "2021-02-27", "rank": 185}, {"date": "2021-03-27", "rank": 184}, {"date": "2021-06-26", "rank": 36}, {"date": "2021-07-10", "rank": 59}]}
+{
+  "id": "chromatica-lady-gaga",
+  "title": "Chromatica",
+  "artist": "Lady Gaga",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2020-06-13",
+      "rank": 1
+    },
+    {
+      "date": "2020-06-20",
+      "rank": 2
+    },
+    {
+      "date": "2020-06-27",
+      "rank": 2
+    },
+    {
+      "date": "2020-07-04",
+      "rank": 6
+    },
+    {
+      "date": "2020-07-11",
+      "rank": 11
+    },
+    {
+      "date": "2020-07-18",
+      "rank": 18
+    },
+    {
+      "date": "2020-07-25",
+      "rank": 24
+    },
+    {
+      "date": "2020-08-01",
+      "rank": 27
+    },
+    {
+      "date": "2020-08-08",
+      "rank": 34
+    },
+    {
+      "date": "2020-08-15",
+      "rank": 40
+    },
+    {
+      "date": "2020-08-22",
+      "rank": 43
+    },
+    {
+      "date": "2020-08-29",
+      "rank": 49
+    },
+    {
+      "date": "2020-09-05",
+      "rank": 64
+    },
+    {
+      "date": "2020-09-12",
+      "rank": 34
+    },
+    {
+      "date": "2020-09-19",
+      "rank": 44
+    },
+    {
+      "date": "2020-09-26",
+      "rank": 49
+    },
+    {
+      "date": "2020-10-03",
+      "rank": 38
+    },
+    {
+      "date": "2020-10-10",
+      "rank": 60
+    },
+    {
+      "date": "2020-10-17",
+      "rank": 76
+    },
+    {
+      "date": "2020-10-24",
+      "rank": 77
+    },
+    {
+      "date": "2020-10-31",
+      "rank": 92
+    },
+    {
+      "date": "2020-11-07",
+      "rank": 130
+    },
+    {
+      "date": "2020-11-14",
+      "rank": 136
+    },
+    {
+      "date": "2020-11-21",
+      "rank": 131
+    },
+    {
+      "date": "2020-11-28",
+      "rank": 165
+    },
+    {
+      "date": "2020-12-05",
+      "rank": 191
+    },
+    {
+      "date": "2020-12-12",
+      "rank": 181
+    },
+    {
+      "date": "2020-12-19",
+      "rank": 153
+    },
+    {
+      "date": "2020-12-26",
+      "rank": 171
+    },
+    {
+      "date": "2021-01-02",
+      "rank": 182
+    },
+    {
+      "date": "2021-01-09",
+      "rank": 150
+    },
+    {
+      "date": "2021-01-16",
+      "rank": 132
+    },
+    {
+      "date": "2021-01-23",
+      "rank": 165
+    },
+    {
+      "date": "2021-01-30",
+      "rank": 171
+    },
+    {
+      "date": "2021-02-06",
+      "rank": 152
+    },
+    {
+      "date": "2021-02-13",
+      "rank": 161
+    },
+    {
+      "date": "2021-02-20",
+      "rank": 158
+    },
+    {
+      "date": "2021-02-27",
+      "rank": 185
+    },
+    {
+      "date": "2021-03-27",
+      "rank": 184
+    },
+    {
+      "date": "2021-06-26",
+      "rank": 36
+    },
+    {
+      "date": "2021-07-10",
+      "rank": 59
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Alice",
+      "id": "alice-lady-gaga"
+    },
+    {
+      "title": "Stupid Love",
+      "id": "stupid-love-lady-gaga"
+    },
+    {
+      "title": "Sour Candy",
+      "id": "you-and-i-lady-gaga"
+    },
+    {
+      "title": "Chromatica I",
+      "id": null
+    },
+    {
+      "title": "Rain on Me",
+      "id": null
+    },
+    {
+      "title": "Free Woman",
+      "id": null
+    },
+    {
+      "title": "Fun Tonight",
+      "id": null
+    },
+    {
+      "title": "Chromatica II",
+      "id": null
+    },
+    {
+      "title": "911",
+      "id": null
+    },
+    {
+      "title": "Plastic Doll",
+      "id": null
+    },
+    {
+      "title": "Enigma",
+      "id": null
+    },
+    {
+      "title": "Replay",
+      "id": null
+    },
+    {
+      "title": "Chromatica III",
+      "id": null
+    },
+    {
+      "title": "Sine From Above",
+      "id": null
+    },
+    {
+      "title": "1000 Doves",
+      "id": null
+    },
+    {
+      "title": "Babylon",
+      "id": null
+    }
+  ]
+}
