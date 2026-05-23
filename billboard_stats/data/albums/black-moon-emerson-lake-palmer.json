@@ -1,1 +1,66 @@
-{"id": "black-moon-emerson-lake-palmer", "title": "Black Moon", "artist": "Emerson, Lake & Palmer", "peak": 78, "history": [{"date": "1992-06-27", "rank": 78}, {"date": "1992-07-04", "rank": 109}, {"date": "1992-07-11", "rank": 172}, {"date": "1992-07-18", "rank": 195}]}
+{
+  "id": "black-moon-emerson-lake-palmer",
+  "title": "Black Moon",
+  "artist": "Emerson, Lake & Palmer",
+  "peak": 78,
+  "history": [
+    {
+      "date": "1992-06-27",
+      "rank": 78
+    },
+    {
+      "date": "1992-07-04",
+      "rank": 109
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 172
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Black Moon",
+      "id": "lucky-man-emerson-lake-palmer"
+    },
+    {
+      "title": "Paper Blood",
+      "id": null
+    },
+    {
+      "title": "Affairs of the Heart",
+      "id": null
+    },
+    {
+      "title": "Romeo and Juliet",
+      "id": null
+    },
+    {
+      "title": "Farewell to Arms",
+      "id": null
+    },
+    {
+      "title": "Changing States",
+      "id": null
+    },
+    {
+      "title": "Burning Bridges",
+      "id": null
+    },
+    {
+      "title": "Close to Home",
+      "id": null
+    },
+    {
+      "title": "Better Days",
+      "id": null
+    },
+    {
+      "title": "Footprints in the Snow",
+      "id": null
+    }
+  ]
+}

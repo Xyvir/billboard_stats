@@ -1,1 +1,118 @@
-{"id": "blackjack-blackjack", "title": "Blackjack", "artist": "Blackjack", "peak": 127, "history": [{"date": "1979-07-21", "rank": 165}, {"date": "1979-07-28", "rank": 145}, {"date": "1979-08-04", "rank": 131}, {"date": "1979-08-11", "rank": 131}, {"date": "1979-08-18", "rank": 127}, {"date": "1979-08-25", "rank": 154}, {"date": "1979-09-01", "rank": 147}]}
+{
+  "id": "blackjack-blackjack",
+  "title": "Blackjack",
+  "artist": "Blackjack",
+  "peak": 127,
+  "history": [
+    {
+      "date": "1979-07-21",
+      "rank": 165
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 145
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 131
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 131
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 127
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 154
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 147
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Me Tonight",
+      "id": "love-me-tonight-blackjack"
+    },
+    {
+      "title": "Heart of Stone",
+      "id": null
+    },
+    {
+      "title": "The Night Has Me Calling for You",
+      "id": null
+    },
+    {
+      "title": "Southern Ballad",
+      "id": null
+    },
+    {
+      "title": "Fallin’",
+      "id": null
+    },
+    {
+      "title": "Without Your Love",
+      "id": null
+    },
+    {
+      "title": "Countin’ on You",
+      "id": null
+    },
+    {
+      "title": "I’m Aware of Your Love",
+      "id": null
+    },
+    {
+      "title": "For You",
+      "id": null
+    },
+    {
+      "title": "Heart of Mine",
+      "id": null
+    },
+    {
+      "title": "My World Is Empty Without You",
+      "id": null
+    },
+    {
+      "title": "Love Is Hard to Find",
+      "id": null
+    },
+    {
+      "title": "Stay",
+      "id": null
+    },
+    {
+      "title": "Airwaves",
+      "id": null
+    },
+    {
+      "title": "Maybe It’s the Power of Love",
+      "id": null
+    },
+    {
+      "title": "Welcome to the World",
+      "id": null
+    },
+    {
+      "title": "Breakaway",
+      "id": null
+    },
+    {
+      "title": "Really Wanna Know",
+      "id": null
+    },
+    {
+      "title": "Sooner or Later",
+      "id": null
+    },
+    {
+      "title": "She Wants You Back",
+      "id": null
+    }
+  ]
+}
