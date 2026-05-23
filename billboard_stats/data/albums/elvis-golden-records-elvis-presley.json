@@ -1,1 +1,270 @@
-{"id": "elvis-golden-records-elvis-presley", "title": "Elvis' Golden Records", "artist": "Elvis Presley", "peak": 63, "history": [{"date": "1977-09-10", "rank": 136}, {"date": "1977-09-17", "rank": 78}, {"date": "1977-09-24", "rank": 65}, {"date": "1977-10-01", "rank": 63}, {"date": "1977-10-08", "rank": 71}, {"date": "1977-10-15", "rank": 71}, {"date": "1977-10-22", "rank": 92}, {"date": "1977-10-29", "rank": 102}, {"date": "1977-11-05", "rank": 109}, {"date": "1977-11-12", "rank": 125}, {"date": "1977-11-19", "rank": 125}, {"date": "1977-11-26", "rank": 119}, {"date": "1977-12-03", "rank": 164}, {"date": "1977-12-10", "rank": 162}, {"date": "1977-12-17", "rank": 167}, {"date": "1977-12-24", "rank": 189}, {"date": "1977-12-31", "rank": 189}, {"date": "1978-01-07", "rank": 189}, {"date": "1978-01-14", "rank": 181}, {"date": "1978-01-21", "rank": 172}, {"date": "1978-01-28", "rank": 167}, {"date": "1978-02-04", "rank": 169}, {"date": "1978-02-11", "rank": 169}, {"date": "1978-02-18", "rank": 171}]}
+{
+  "id": "elvis-golden-records-elvis-presley",
+  "title": "Elvis' Golden Records",
+  "artist": "Elvis Presley",
+  "peak": 63,
+  "history": [
+    {
+      "date": "1977-09-10",
+      "rank": 136
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 78
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 65
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 63
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 71
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 71
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 92
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 102
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 109
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 125
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 125
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 119
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 164
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 162
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 167
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 189
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 189
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 189
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 181
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 172
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 167
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 169
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 169
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Me",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "Love Me Tender",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "Hound Dog",
+      "id": null
+    },
+    {
+      "title": "Loving You",
+      "id": null
+    },
+    {
+      "title": "All Shook Up",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Hotel",
+      "id": null
+    },
+    {
+      "title": "Jailhouse Rock",
+      "id": null
+    },
+    {
+      "title": "Too Much",
+      "id": null
+    },
+    {
+      "title": "Don’t Be Cruel",
+      "id": null
+    },
+    {
+      "title": "That’s When Your Heartaches Begin",
+      "id": null
+    },
+    {
+      "title": "Teddy Bear",
+      "id": null
+    },
+    {
+      "title": "Treat Me Nice",
+      "id": null
+    },
+    {
+      "title": "Anyway You Want Me",
+      "id": null
+    },
+    {
+      "title": "I Want You I Need You I Love You",
+      "id": null
+    },
+    {
+      "title": "My Baby Left Me",
+      "id": null
+    },
+    {
+      "title": "Playing for Keeps",
+      "id": null
+    },
+    {
+      "title": "Blue Suede Shoes",
+      "id": null
+    },
+    {
+      "title": "I Was the One",
+      "id": null
+    },
+    {
+      "title": "Treat Me Nice (undubbed movie master)",
+      "id": null
+    },
+    {
+      "title": "Loving You (KX take 8)",
+      "id": null
+    },
+    {
+      "title": "That’s When Your Heartaches Begin (splice of takes 7/M & 6)",
+      "id": null
+    },
+    {
+      "title": "Mean Woman Blues (take 14, master)",
+      "id": null
+    },
+    {
+      "title": "Blueberry Hill (take 1, 2)",
+      "id": null
+    },
+    {
+      "title": "Blueberry Hill (take 3)",
+      "id": null
+    },
+    {
+      "title": "Blueberry Hill (take 4 – 7)",
+      "id": null
+    },
+    {
+      "title": "Blueberry Hill (take 8)",
+      "id": null
+    },
+    {
+      "title": "Blueberry Hill (take 9, master)",
+      "id": null
+    },
+    {
+      "title": "That’s When Your Heartaches Begin (take 1)",
+      "id": null
+    },
+    {
+      "title": "That’s When Your Heartaches Begin (take 2)",
+      "id": null
+    },
+    {
+      "title": "That’s When Your Heartaches Begin (takes 3 – 6)",
+      "id": null
+    },
+    {
+      "title": "That’s When Your Heartaches Begin (takes 7 – 13)",
+      "id": null
+    },
+    {
+      "title": "Have I Told You Lately That I Love You (takes 1 – 2)",
+      "id": null
+    },
+    {
+      "title": "Have I Told You Lately That I Love You (takes 3 – 7)",
+      "id": null
+    },
+    {
+      "title": "Have I Told You Lately That I Love You (takes 8 – 13)",
+      "id": null
+    },
+    {
+      "title": "Have I Told You Lately That I Love You (take 14)",
+      "id": null
+    },
+    {
+      "title": "Have I Told You Lately That I Love You (master, take 15)",
+      "id": null
+    },
+    {
+      "title": "I Beg of You (take 1)",
+      "id": null
+    },
+    {
+      "title": "I Beg of You (takes 2 – 5)",
+      "id": null
+    },
+    {
+      "title": "I Beg of You (take 6)",
+      "id": null
+    },
+    {
+      "title": "I Beg of You (takes 7 – 11)",
+      "id": null
+    },
+    {
+      "title": "I Beg of You (take 12, master)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,182 @@
-{"id": "e-mc2-mariah-carey", "title": "E=MC2", "artist": "Mariah Carey", "peak": 1, "history": [{"date": "2008-05-03", "rank": 1}, {"date": "2008-05-10", "rank": 1}, {"date": "2008-05-17", "rank": 2}, {"date": "2008-05-24", "rank": 5}, {"date": "2008-05-31", "rank": 6}, {"date": "2008-06-07", "rank": 7}, {"date": "2008-06-14", "rank": 8}, {"date": "2008-06-21", "rank": 13}, {"date": "2008-06-28", "rank": 21}, {"date": "2008-07-05", "rank": 23}, {"date": "2008-07-12", "rank": 25}, {"date": "2008-07-19", "rank": 33}, {"date": "2008-07-26", "rank": 31}, {"date": "2008-08-02", "rank": 47}, {"date": "2008-08-09", "rank": 52}, {"date": "2008-08-16", "rank": 52}, {"date": "2008-08-23", "rank": 60}, {"date": "2008-08-30", "rank": 62}, {"date": "2008-09-06", "rank": 76}, {"date": "2008-09-13", "rank": 86}, {"date": "2008-09-20", "rank": 102}, {"date": "2008-09-27", "rank": 122}, {"date": "2008-10-04", "rank": 141}, {"date": "2008-10-11", "rank": 170}, {"date": "2008-10-18", "rank": 196}, {"date": "2009-03-07", "rank": 132}, {"date": "2009-03-14", "rank": 154}]}
+{
+  "id": "e-mc2-mariah-carey",
+  "title": "E=MC2",
+  "artist": "Mariah Carey",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2008-05-03",
+      "rank": 1
+    },
+    {
+      "date": "2008-05-10",
+      "rank": 1
+    },
+    {
+      "date": "2008-05-17",
+      "rank": 2
+    },
+    {
+      "date": "2008-05-24",
+      "rank": 5
+    },
+    {
+      "date": "2008-05-31",
+      "rank": 6
+    },
+    {
+      "date": "2008-06-07",
+      "rank": 7
+    },
+    {
+      "date": "2008-06-14",
+      "rank": 8
+    },
+    {
+      "date": "2008-06-21",
+      "rank": 13
+    },
+    {
+      "date": "2008-06-28",
+      "rank": 21
+    },
+    {
+      "date": "2008-07-05",
+      "rank": 23
+    },
+    {
+      "date": "2008-07-12",
+      "rank": 25
+    },
+    {
+      "date": "2008-07-19",
+      "rank": 33
+    },
+    {
+      "date": "2008-07-26",
+      "rank": 31
+    },
+    {
+      "date": "2008-08-02",
+      "rank": 47
+    },
+    {
+      "date": "2008-08-09",
+      "rank": 52
+    },
+    {
+      "date": "2008-08-16",
+      "rank": 52
+    },
+    {
+      "date": "2008-08-23",
+      "rank": 60
+    },
+    {
+      "date": "2008-08-30",
+      "rank": 62
+    },
+    {
+      "date": "2008-09-06",
+      "rank": 76
+    },
+    {
+      "date": "2008-09-13",
+      "rank": 86
+    },
+    {
+      "date": "2008-09-20",
+      "rank": 102
+    },
+    {
+      "date": "2008-09-27",
+      "rank": 122
+    },
+    {
+      "date": "2008-10-04",
+      "rank": 141
+    },
+    {
+      "date": "2008-10-11",
+      "rank": 170
+    },
+    {
+      "date": "2008-10-18",
+      "rank": 196
+    },
+    {
+      "date": "2009-03-07",
+      "rank": 132
+    },
+    {
+      "date": "2009-03-14",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Touch My Body",
+      "id": "touch-my-body-mariah-carey"
+    },
+    {
+      "title": "I Stay in Love",
+      "id": "vision-of-love-mariah-carey"
+    },
+    {
+      "title": "I’ll Be Lovin’ U Long Time",
+      "id": "i-ll-be-lovin-u-long-time-mariah-carey"
+    },
+    {
+      "title": "Bye Bye",
+      "id": "bye-bye-mariah-carey"
+    },
+    {
+      "title": "Migrate",
+      "id": null
+    },
+    {
+      "title": "Cruise Control",
+      "id": null
+    },
+    {
+      "title": "Side Effects",
+      "id": null
+    },
+    {
+      "title": "I’m That Chick",
+      "id": null
+    },
+    {
+      "title": "Love Story",
+      "id": null
+    },
+    {
+      "title": "Last Kiss",
+      "id": null
+    },
+    {
+      "title": "Thanx 4 Nothin’",
+      "id": null
+    },
+    {
+      "title": "O.O.C.",
+      "id": null
+    },
+    {
+      "title": "For the Record",
+      "id": null
+    },
+    {
+      "title": "I Wish You Well",
+      "id": null
+    },
+    {
+      "title": "Heat",
+      "id": null
+    },
+    {
+      "title": "4Real, 4Real",
+      "id": null
+    }
+  ]
+}

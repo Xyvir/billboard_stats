@@ -1,1 +1,82 @@
-{"id": "ember-breaking-benjamin", "title": "Ember", "artist": "Breaking Benjamin", "peak": 3, "history": [{"date": "2018-04-28", "rank": 3}, {"date": "2018-05-05", "rank": 27}, {"date": "2018-05-12", "rank": 61}, {"date": "2018-05-19", "rank": 71}, {"date": "2018-05-26", "rank": 110}, {"date": "2018-06-02", "rank": 155}]}
+{
+  "id": "ember-breaking-benjamin",
+  "title": "Ember",
+  "artist": "Breaking Benjamin",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2018-04-28",
+      "rank": 3
+    },
+    {
+      "date": "2018-05-05",
+      "rank": 27
+    },
+    {
+      "date": "2018-05-12",
+      "rank": 61
+    },
+    {
+      "date": "2018-05-19",
+      "rank": 71
+    },
+    {
+      "date": "2018-05-26",
+      "rank": 110
+    },
+    {
+      "date": "2018-06-02",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Dark of You",
+      "id": "the-diary-of-jane-breaking-benjamin"
+    },
+    {
+      "title": "Lyra",
+      "id": null
+    },
+    {
+      "title": "Feed the Wolf",
+      "id": null
+    },
+    {
+      "title": "Red Cold River",
+      "id": null
+    },
+    {
+      "title": "Tourniquet",
+      "id": null
+    },
+    {
+      "title": "Psycho",
+      "id": null
+    },
+    {
+      "title": "Down",
+      "id": null
+    },
+    {
+      "title": "Torn in Two",
+      "id": null
+    },
+    {
+      "title": "Blood",
+      "id": null
+    },
+    {
+      "title": "Save Yourself",
+      "id": null
+    },
+    {
+      "title": "Close Your Eyes",
+      "id": null
+    },
+    {
+      "title": "Vega",
+      "id": null
+    }
+  ]
+}

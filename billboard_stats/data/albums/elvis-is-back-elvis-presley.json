@@ -1,1 +1,62 @@
-{"id": "elvis-is-back-elvis-presley", "title": "Elvis Is Back!", "artist": "Elvis Presley", "peak": 199, "history": [{"date": "2011-03-26", "rank": 199}]}
+{
+  "id": "elvis-is-back-elvis-presley",
+  "title": "Elvis Is Back!",
+  "artist": "Elvis Presley",
+  "peak": 199,
+  "history": [
+    {
+      "date": "2011-03-26",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It Feels So Right",
+      "id": "i-feel-so-bad-elvis-presley"
+    },
+    {
+      "title": "Make Me Know It",
+      "id": null
+    },
+    {
+      "title": "Fever",
+      "id": null
+    },
+    {
+      "title": "The Girl of My Best Friend",
+      "id": null
+    },
+    {
+      "title": "I Will Be Home Again",
+      "id": null
+    },
+    {
+      "title": "Dirty, Dirty Feeling",
+      "id": null
+    },
+    {
+      "title": "Thrill of Your Love",
+      "id": null
+    },
+    {
+      "title": "Soldier Boy",
+      "id": null
+    },
+    {
+      "title": "Such a Night",
+      "id": null
+    },
+    {
+      "title": "The Girl Next Door Went A’Walking",
+      "id": null
+    },
+    {
+      "title": "Like a Baby",
+      "id": null
+    },
+    {
+      "title": "Reconsider Baby",
+      "id": null
+    }
+  ]
+}

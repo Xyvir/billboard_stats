@@ -1,1 +1,102 @@
-{"id": "elvis-viva-las-vegas-elvis-presley", "title": "Elvis: Viva Las Vegas", "artist": "Elvis Presley", "peak": 54, "history": [{"date": "2007-08-18", "rank": 94}, {"date": "2007-08-25", "rank": 105}, {"date": "2007-09-01", "rank": 54}, {"date": "2007-09-08", "rank": 61}, {"date": "2007-09-15", "rank": 106}, {"date": "2007-09-22", "rank": 166}, {"date": "2007-10-06", "rank": 144}]}
+{
+  "id": "elvis-viva-las-vegas-elvis-presley",
+  "title": "Elvis: Viva Las Vegas",
+  "artist": "Elvis Presley",
+  "peak": 54,
+  "history": [
+    {
+      "date": "2007-08-18",
+      "rank": 94
+    },
+    {
+      "date": "2007-08-25",
+      "rank": 105
+    },
+    {
+      "date": "2007-09-01",
+      "rank": 54
+    },
+    {
+      "date": "2007-09-08",
+      "rank": 61
+    },
+    {
+      "date": "2007-09-15",
+      "rank": 106
+    },
+    {
+      "date": "2007-09-22",
+      "rank": 166
+    },
+    {
+      "date": "2007-10-06",
+      "rank": 144
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Viva Las Vegas",
+      "id": "viva-las-vegas-elvis-presley"
+    },
+    {
+      "title": "The Wonder of You",
+      "id": "the-wonder-of-you-mama-liked-the-roses-elvis-presley"
+    },
+    {
+      "title": "You Don’t Have to Say You Love Me",
+      "id": "you-don-t-have-to-say-you-love-me-patch-it-up-elvis-presley"
+    },
+    {
+      "title": "An American Trilogy",
+      "id": "an-american-trilogy-elvis-presley"
+    },
+    {
+      "title": "See See Rider",
+      "id": null
+    },
+    {
+      "title": "Polk Salad Annie",
+      "id": null
+    },
+    {
+      "title": "Release Me",
+      "id": null
+    },
+    {
+      "title": "Let It Be Me",
+      "id": null
+    },
+    {
+      "title": "I Just Can’t Help Believin’",
+      "id": null
+    },
+    {
+      "title": "Walk a Mile in My Shoes",
+      "id": null
+    },
+    {
+      "title": "Bridge Over Troubled Water",
+      "id": null
+    },
+    {
+      "title": "Patch It Up",
+      "id": null
+    },
+    {
+      "title": "You’ve Lost That Loving Feeling",
+      "id": null
+    },
+    {
+      "title": "Never Been to Spain",
+      "id": null
+    },
+    {
+      "title": "You Gave Me a Mountain",
+      "id": null
+    },
+    {
+      "title": "The Impossible Dream (The Quest)",
+      "id": null
+    }
+  ]
+}

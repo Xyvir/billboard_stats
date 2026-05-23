@@ -1,1 +1,90 @@
-{"id": "elvis-the-very-best-of-love-elvis-presley", "title": "Elvis: The Very Best Of Love", "artist": "Elvis Presley", "peak": 81, "history": [{"date": "2002-03-02", "rank": 174}, {"date": "2002-08-24", "rank": 198}, {"date": "2002-08-31", "rank": 81}, {"date": "2002-09-07", "rank": 138}, {"date": "2002-09-14", "rank": 164}, {"date": "2002-09-21", "rank": 166}, {"date": "2002-09-28", "rank": 188}, {"date": "2002-10-05", "rank": 198}]}
+{
+  "id": "elvis-the-very-best-of-love-elvis-presley",
+  "title": "Elvis: The Very Best Of Love",
+  "artist": "Elvis Presley",
+  "peak": 81,
+  "history": [
+    {
+      "date": "2002-03-02",
+      "rank": 174
+    },
+    {
+      "date": "2002-08-24",
+      "rank": 198
+    },
+    {
+      "date": "2002-08-31",
+      "rank": 81
+    },
+    {
+      "date": "2002-09-07",
+      "rank": 138
+    },
+    {
+      "date": "2002-09-14",
+      "rank": 164
+    },
+    {
+      "date": "2002-09-21",
+      "rank": 166
+    },
+    {
+      "date": "2002-09-28",
+      "rank": 188
+    },
+    {
+      "date": "2002-10-05",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Me Tender",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "Suspicious Minds",
+      "id": "suspicious-minds-elvis-presley"
+    },
+    {
+      "title": "Burning Love",
+      "id": "burning-love-elvis-presley"
+    },
+    {
+      "title": "You Don’t Have to Say You Love Me",
+      "id": "you-don-t-have-to-say-you-love-me-patch-it-up-elvis-presley"
+    },
+    {
+      "title": "I’m Yours",
+      "id": "i-m-yours-elvis-presley"
+    },
+    {
+      "title": "(Let Me Be Your) Teddy Bear",
+      "id": null
+    },
+    {
+      "title": "Are You Lonesome Tonight",
+      "id": null
+    },
+    {
+      "title": "It’s Now or Never",
+      "id": null
+    },
+    {
+      "title": "Don’t",
+      "id": null
+    },
+    {
+      "title": "Can’t Help Falling in Love",
+      "id": null
+    },
+    {
+      "title": "It Hurts Me",
+      "id": null
+    },
+    {
+      "title": "Young and Beautiful",
+      "id": null
+    }
+  ]
+}

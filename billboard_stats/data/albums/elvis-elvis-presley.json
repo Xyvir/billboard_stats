@@ -1,1 +1,126 @@
-{"id": "elvis-elvis-presley", "title": "Elvis", "artist": "Elvis Presley", "peak": 52, "history": [{"date": "1973-07-21", "rank": 130}, {"date": "1973-07-28", "rank": 74}, {"date": "1973-08-04", "rank": 60}, {"date": "1973-08-11", "rank": 55}, {"date": "1973-08-18", "rank": 52}, {"date": "1973-08-25", "rank": 56}, {"date": "1973-09-01", "rank": 58}, {"date": "1973-09-08", "rank": 64}, {"date": "1973-09-15", "rank": 82}, {"date": "1973-09-22", "rank": 110}, {"date": "1973-09-29", "rank": 141}, {"date": "1973-10-06", "rank": 151}, {"date": "1973-10-13", "rank": 155}]}
+{
+  "id": "elvis-elvis-presley",
+  "title": "Elvis",
+  "artist": "Elvis Presley",
+  "peak": 52,
+  "history": [
+    {
+      "date": "1973-07-21",
+      "rank": 130
+    },
+    {
+      "date": "1973-07-28",
+      "rank": 74
+    },
+    {
+      "date": "1973-08-04",
+      "rank": 60
+    },
+    {
+      "date": "1973-08-11",
+      "rank": 55
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 52
+    },
+    {
+      "date": "1973-08-25",
+      "rank": 56
+    },
+    {
+      "date": "1973-09-01",
+      "rank": 58
+    },
+    {
+      "date": "1973-09-08",
+      "rank": 64
+    },
+    {
+      "date": "1973-09-15",
+      "rank": 82
+    },
+    {
+      "date": "1973-09-22",
+      "rank": 110
+    },
+    {
+      "date": "1973-09-29",
+      "rank": 141
+    },
+    {
+      "date": "1973-10-06",
+      "rank": 151
+    },
+    {
+      "date": "1973-10-13",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Got a Woman",
+      "id": "guitar-man-elvis-presley"
+    },
+    {
+      "title": "That's Alright Mama",
+      "id": null
+    },
+    {
+      "title": "Blue Moon of Kentucky",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Hotel",
+      "id": null
+    },
+    {
+      "title": "Long Tall Sally",
+      "id": null
+    },
+    {
+      "title": "I Was the One",
+      "id": null
+    },
+    {
+      "title": "Money, Honey",
+      "id": null
+    },
+    {
+      "title": "Blue Suede Shoes",
+      "id": null
+    },
+    {
+      "title": "Hound Dog",
+      "id": null
+    },
+    {
+      "title": "Baby Let's Play House",
+      "id": null
+    },
+    {
+      "title": "Maybelline",
+      "id": null
+    },
+    {
+      "title": "There's Good Rockin' Tonight",
+      "id": null
+    },
+    {
+      "title": "Tweedle Dee",
+      "id": null
+    },
+    {
+      "title": "Blue Moon of Kentucky (alternative version)",
+      "id": null
+    },
+    {
+      "title": "Baby Let's Play House (alternative version)",
+      "id": null
+    },
+    {
+      "title": "That's Alright Mama (alternative version)",
+      "id": null
+    }
+  ]
+}
