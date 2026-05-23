@@ -1,1 +1,226 @@
-{"id": "insomniac-green-day", "title": "Insomniac", "artist": "Green Day", "peak": 2, "history": [{"date": "1995-10-28", "rank": 2}, {"date": "1995-11-04", "rank": 6}, {"date": "1995-11-11", "rank": 10}, {"date": "1995-11-18", "rank": 14}, {"date": "1995-11-25", "rank": 17}, {"date": "1995-12-02", "rank": 25}, {"date": "1995-12-09", "rank": 27}, {"date": "1995-12-16", "rank": 25}, {"date": "1995-12-23", "rank": 24}, {"date": "1995-12-30", "rank": 22}, {"date": "1996-01-06", "rank": 23}, {"date": "1996-01-13", "rank": 23}, {"date": "1996-01-20", "rank": 22}, {"date": "1996-01-27", "rank": 24}, {"date": "1996-02-03", "rank": 23}, {"date": "1996-02-10", "rank": 23}, {"date": "1996-02-17", "rank": 25}, {"date": "1996-02-24", "rank": 26}, {"date": "1996-03-02", "rank": 37}, {"date": "1996-03-09", "rank": 36}, {"date": "1996-03-16", "rank": 41}, {"date": "1996-03-23", "rank": 49}, {"date": "1996-03-30", "rank": 52}, {"date": "1996-04-06", "rank": 57}, {"date": "1996-04-13", "rank": 71}, {"date": "1996-04-20", "rank": 75}, {"date": "1996-04-27", "rank": 77}, {"date": "1996-05-04", "rank": 104}, {"date": "1996-05-11", "rank": 121}, {"date": "1996-05-18", "rank": 140}, {"date": "1996-05-25", "rank": 148}, {"date": "1996-06-01", "rank": 144}, {"date": "1996-06-08", "rank": 137}, {"date": "1996-06-15", "rank": 137}, {"date": "1996-06-22", "rank": 148}, {"date": "1996-06-29", "rank": 151}, {"date": "1996-07-06", "rank": 159}, {"date": "1996-07-13", "rank": 175}, {"date": "1996-07-20", "rank": 198}, {"date": "2021-04-03", "rank": 180}]}
+{
+  "id": "insomniac-green-day",
+  "title": "Insomniac",
+  "artist": "Green Day",
+  "peak": 2,
+  "history": [
+    {
+      "date": "1995-10-28",
+      "rank": 2
+    },
+    {
+      "date": "1995-11-04",
+      "rank": 6
+    },
+    {
+      "date": "1995-11-11",
+      "rank": 10
+    },
+    {
+      "date": "1995-11-18",
+      "rank": 14
+    },
+    {
+      "date": "1995-11-25",
+      "rank": 17
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 25
+    },
+    {
+      "date": "1995-12-09",
+      "rank": 27
+    },
+    {
+      "date": "1995-12-16",
+      "rank": 25
+    },
+    {
+      "date": "1995-12-23",
+      "rank": 24
+    },
+    {
+      "date": "1995-12-30",
+      "rank": 22
+    },
+    {
+      "date": "1996-01-06",
+      "rank": 23
+    },
+    {
+      "date": "1996-01-13",
+      "rank": 23
+    },
+    {
+      "date": "1996-01-20",
+      "rank": 22
+    },
+    {
+      "date": "1996-01-27",
+      "rank": 24
+    },
+    {
+      "date": "1996-02-03",
+      "rank": 23
+    },
+    {
+      "date": "1996-02-10",
+      "rank": 23
+    },
+    {
+      "date": "1996-02-17",
+      "rank": 25
+    },
+    {
+      "date": "1996-02-24",
+      "rank": 26
+    },
+    {
+      "date": "1996-03-02",
+      "rank": 37
+    },
+    {
+      "date": "1996-03-09",
+      "rank": 36
+    },
+    {
+      "date": "1996-03-16",
+      "rank": 41
+    },
+    {
+      "date": "1996-03-23",
+      "rank": 49
+    },
+    {
+      "date": "1996-03-30",
+      "rank": 52
+    },
+    {
+      "date": "1996-04-06",
+      "rank": 57
+    },
+    {
+      "date": "1996-04-13",
+      "rank": 71
+    },
+    {
+      "date": "1996-04-20",
+      "rank": 75
+    },
+    {
+      "date": "1996-04-27",
+      "rank": 77
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 104
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 121
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 140
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 148
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 144
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 137
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 137
+    },
+    {
+      "date": "1996-06-22",
+      "rank": 148
+    },
+    {
+      "date": "1996-06-29",
+      "rank": 151
+    },
+    {
+      "date": "1996-07-06",
+      "rank": 159
+    },
+    {
+      "date": "1996-07-13",
+      "rank": 175
+    },
+    {
+      "date": "1996-07-20",
+      "rank": 198
+    },
+    {
+      "date": "2021-04-03",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Armatage Shanks",
+      "id": null
+    },
+    {
+      "title": "Brat",
+      "id": null
+    },
+    {
+      "title": "Stuck With Me",
+      "id": null
+    },
+    {
+      "title": "Geek Stink Breath",
+      "id": null
+    },
+    {
+      "title": "No Pride",
+      "id": null
+    },
+    {
+      "title": "Bab’s Uvula Who?",
+      "id": null
+    },
+    {
+      "title": "86",
+      "id": null
+    },
+    {
+      "title": "Panic Song",
+      "id": null
+    },
+    {
+      "title": "Stuart and the Ave.",
+      "id": null
+    },
+    {
+      "title": "Brain Stew",
+      "id": null
+    },
+    {
+      "title": "Jaded",
+      "id": null
+    },
+    {
+      "title": "Westbound Sign",
+      "id": null
+    },
+    {
+      "title": "Tight Wad Hill",
+      "id": null
+    },
+    {
+      "title": "Walking Contradiction",
+      "id": null
+    }
+  ]
+}
