@@ -1,1 +1,66 @@
-{"id": "christmas-jazz-jam-wynton-marsalis", "title": "Christmas Jazz Jam", "artist": "Wynton Marsalis", "peak": 125, "history": [{"date": "2010-01-16", "rank": 179}, {"date": "2011-01-15", "rank": 125}]}
+{
+  "id": "christmas-jazz-jam-wynton-marsalis",
+  "title": "Christmas Jazz Jam",
+  "artist": "Wynton Marsalis",
+  "peak": 125,
+  "history": [
+    {
+      "date": "2010-01-16",
+      "rank": 179
+    },
+    {
+      "date": "2011-01-15",
+      "rank": 125
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Santa Claus Is Coming to Town",
+      "id": null
+    },
+    {
+      "title": "Mary Had a Baby",
+      "id": null
+    },
+    {
+      "title": "Jingle Bells",
+      "id": null
+    },
+    {
+      "title": "Blue Christmas",
+      "id": null
+    },
+    {
+      "title": "Go Tell It on the Mountain",
+      "id": null
+    },
+    {
+      "title": "O Christmas Tree",
+      "id": null
+    },
+    {
+      "title": "O Little Town of Bethlehem",
+      "id": null
+    },
+    {
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "id": null
+    },
+    {
+      "title": "The Christmas Song",
+      "id": null
+    },
+    {
+      "title": "Good King Wenceslas",
+      "id": null
+    },
+    {
+      "title": "Have Yourself a Merry Little Christmas",
+      "id": null
+    },
+    {
+      "title": "Greensleeves",
+      "id": null
+    }
+  ]
+}
