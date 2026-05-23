@@ -1,1 +1,66 @@
-{"id": "dreamland-robert-plant", "title": "Dreamland", "artist": "Robert Plant", "peak": 40, "history": [{"date": "2002-08-03", "rank": 40}, {"date": "2002-08-10", "rank": 76}, {"date": "2002-08-17", "rank": 116}, {"date": "2002-08-24", "rank": 160}]}
+{
+  "id": "dreamland-robert-plant",
+  "title": "Dreamland",
+  "artist": "Robert Plant",
+  "peak": 40,
+  "history": [
+    {
+      "date": "2002-08-03",
+      "rank": 40
+    },
+    {
+      "date": "2002-08-10",
+      "rank": 76
+    },
+    {
+      "date": "2002-08-17",
+      "rank": 116
+    },
+    {
+      "date": "2002-08-24",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Funny in My Mind (I Believe I’m Fixin’ to Die)",
+      "id": null
+    },
+    {
+      "title": "Morning Dew",
+      "id": null
+    },
+    {
+      "title": "One More Cup of Coffee",
+      "id": null
+    },
+    {
+      "title": "Last Time I Saw Her",
+      "id": null
+    },
+    {
+      "title": "Song to the Siren",
+      "id": null
+    },
+    {
+      "title": "Win My Train Fare Home (If I Ever Get Lucky)",
+      "id": null
+    },
+    {
+      "title": "Darkness, Darkness",
+      "id": null
+    },
+    {
+      "title": "Red Dress",
+      "id": null
+    },
+    {
+      "title": "Hey Joe",
+      "id": null
+    },
+    {
+      "title": "Skip’s Song",
+      "id": null
+    }
+  ]
+}

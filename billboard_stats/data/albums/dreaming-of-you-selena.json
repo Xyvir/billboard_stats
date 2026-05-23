@@ -1,1 +1,262 @@
-{"id": "dreaming-of-you-selena", "title": "Dreaming Of You", "artist": "Selena", "peak": 1, "history": [{"date": "1995-08-05", "rank": 1}, {"date": "1995-08-12", "rank": 3}, {"date": "1995-08-19", "rank": 3}, {"date": "1995-08-26", "rank": 6}, {"date": "1995-09-02", "rank": 8}, {"date": "1995-09-09", "rank": 9}, {"date": "1995-09-16", "rank": 11}, {"date": "1995-09-23", "rank": 13}, {"date": "1995-09-30", "rank": 15}, {"date": "1995-10-07", "rank": 20}, {"date": "1995-10-14", "rank": 27}, {"date": "1995-10-21", "rank": 29}, {"date": "1995-10-28", "rank": 25}, {"date": "1995-11-04", "rank": 18}, {"date": "1995-11-11", "rank": 19}, {"date": "1995-11-18", "rank": 25}, {"date": "1995-11-25", "rank": 34}, {"date": "1995-12-02", "rank": 40}, {"date": "1995-12-09", "rank": 43}, {"date": "1995-12-16", "rank": 46}, {"date": "1995-12-23", "rank": 50}, {"date": "1995-12-30", "rank": 54}, {"date": "1996-01-06", "rank": 53}, {"date": "1996-01-13", "rank": 56}, {"date": "1996-01-20", "rank": 57}, {"date": "1996-01-27", "rank": 64}, {"date": "1996-02-03", "rank": 65}, {"date": "1996-02-10", "rank": 74}, {"date": "1996-02-17", "rank": 85}, {"date": "1996-02-24", "rank": 88}, {"date": "1996-03-02", "rank": 93}, {"date": "1996-03-09", "rank": 101}, {"date": "1996-03-16", "rank": 112}, {"date": "1996-03-23", "rank": 110}, {"date": "1996-03-30", "rank": 116}, {"date": "1996-04-06", "rank": 121}, {"date": "1996-04-13", "rank": 123}, {"date": "1996-04-20", "rank": 106}, {"date": "1996-04-27", "rank": 125}, {"date": "1996-05-04", "rank": 139}, {"date": "1996-05-11", "rank": 156}, {"date": "1996-05-18", "rank": 171}, {"date": "1996-05-25", "rank": 178}, {"date": "1996-06-01", "rank": 181}, {"date": "1997-04-05", "rank": 175}, {"date": "1997-04-12", "rank": 136}, {"date": "1997-04-19", "rank": 137}, {"date": "1997-04-26", "rank": 167}, {"date": "1997-05-03", "rank": 197}]}
+{
+  "id": "dreaming-of-you-selena",
+  "title": "Dreaming Of You",
+  "artist": "Selena",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1995-08-05",
+      "rank": 1
+    },
+    {
+      "date": "1995-08-12",
+      "rank": 3
+    },
+    {
+      "date": "1995-08-19",
+      "rank": 3
+    },
+    {
+      "date": "1995-08-26",
+      "rank": 6
+    },
+    {
+      "date": "1995-09-02",
+      "rank": 8
+    },
+    {
+      "date": "1995-09-09",
+      "rank": 9
+    },
+    {
+      "date": "1995-09-16",
+      "rank": 11
+    },
+    {
+      "date": "1995-09-23",
+      "rank": 13
+    },
+    {
+      "date": "1995-09-30",
+      "rank": 15
+    },
+    {
+      "date": "1995-10-07",
+      "rank": 20
+    },
+    {
+      "date": "1995-10-14",
+      "rank": 27
+    },
+    {
+      "date": "1995-10-21",
+      "rank": 29
+    },
+    {
+      "date": "1995-10-28",
+      "rank": 25
+    },
+    {
+      "date": "1995-11-04",
+      "rank": 18
+    },
+    {
+      "date": "1995-11-11",
+      "rank": 19
+    },
+    {
+      "date": "1995-11-18",
+      "rank": 25
+    },
+    {
+      "date": "1995-11-25",
+      "rank": 34
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 40
+    },
+    {
+      "date": "1995-12-09",
+      "rank": 43
+    },
+    {
+      "date": "1995-12-16",
+      "rank": 46
+    },
+    {
+      "date": "1995-12-23",
+      "rank": 50
+    },
+    {
+      "date": "1995-12-30",
+      "rank": 54
+    },
+    {
+      "date": "1996-01-06",
+      "rank": 53
+    },
+    {
+      "date": "1996-01-13",
+      "rank": 56
+    },
+    {
+      "date": "1996-01-20",
+      "rank": 57
+    },
+    {
+      "date": "1996-01-27",
+      "rank": 64
+    },
+    {
+      "date": "1996-02-03",
+      "rank": 65
+    },
+    {
+      "date": "1996-02-10",
+      "rank": 74
+    },
+    {
+      "date": "1996-02-17",
+      "rank": 85
+    },
+    {
+      "date": "1996-02-24",
+      "rank": 88
+    },
+    {
+      "date": "1996-03-02",
+      "rank": 93
+    },
+    {
+      "date": "1996-03-09",
+      "rank": 101
+    },
+    {
+      "date": "1996-03-16",
+      "rank": 112
+    },
+    {
+      "date": "1996-03-23",
+      "rank": 110
+    },
+    {
+      "date": "1996-03-30",
+      "rank": 116
+    },
+    {
+      "date": "1996-04-06",
+      "rank": 121
+    },
+    {
+      "date": "1996-04-13",
+      "rank": 123
+    },
+    {
+      "date": "1996-04-20",
+      "rank": 106
+    },
+    {
+      "date": "1996-04-27",
+      "rank": 125
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 139
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 156
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 171
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 178
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 181
+    },
+    {
+      "date": "1997-04-05",
+      "rank": 175
+    },
+    {
+      "date": "1997-04-12",
+      "rank": 136
+    },
+    {
+      "date": "1997-04-19",
+      "rank": 137
+    },
+    {
+      "date": "1997-04-26",
+      "rank": 167
+    },
+    {
+      "date": "1997-05-03",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dreaming of You",
+      "id": "dreaming-of-you-selena"
+    },
+    {
+      "title": "I Could Fall in Love",
+      "id": null
+    },
+    {
+      "title": "Captive Heart",
+      "id": null
+    },
+    {
+      "title": "I'm Getting Used to You",
+      "id": null
+    },
+    {
+      "title": "God's Child (Baila conmigo)",
+      "id": null
+    },
+    {
+      "title": "Missing My Baby",
+      "id": null
+    },
+    {
+      "title": "Amor Prohibido",
+      "id": null
+    },
+    {
+      "title": "Wherever You Are (Donde quiera que estés)",
+      "id": null
+    },
+    {
+      "title": "Techno cumbia",
+      "id": null
+    },
+    {
+      "title": "El toro relajo",
+      "id": null
+    },
+    {
+      "title": "Como la flor",
+      "id": null
+    },
+    {
+      "title": "Tú solo tú",
+      "id": null
+    },
+    {
+      "title": "Bidi bidi bom bom",
+      "id": null
+    },
+    {
+      "title": "Sukiyaki",
+      "id": null
+    }
+  ]
+}

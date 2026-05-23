@@ -1,1 +1,110 @@
-{"id": "dreams-grace-slick", "title": "Dreams", "artist": "Grace Slick", "peak": 32, "history": [{"date": "1980-04-05", "rank": 76}, {"date": "1980-04-12", "rank": 48}, {"date": "1980-04-19", "rank": 42}, {"date": "1980-04-26", "rank": 38}, {"date": "1980-05-03", "rank": 32}, {"date": "1980-05-10", "rank": 32}, {"date": "1980-05-17", "rank": 39}, {"date": "1980-05-24", "rank": 41}, {"date": "1980-05-31", "rank": 41}, {"date": "1980-06-07", "rank": 53}, {"date": "1980-06-14", "rank": 70}, {"date": "1980-06-21", "rank": 71}, {"date": "1980-06-28", "rank": 71}, {"date": "1980-07-05", "rank": 144}, {"date": "1980-07-12", "rank": 181}, {"date": "1980-07-19", "rank": 198}]}
+{
+  "id": "dreams-grace-slick",
+  "title": "Dreams",
+  "artist": "Grace Slick",
+  "peak": 32,
+  "history": [
+    {
+      "date": "1980-04-05",
+      "rank": 76
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 48
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 42
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 38
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 32
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 32
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 39
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 41
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 41
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 53
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 70
+    },
+    {
+      "date": "1980-06-21",
+      "rank": 71
+    },
+    {
+      "date": "1980-06-28",
+      "rank": 71
+    },
+    {
+      "date": "1980-07-05",
+      "rank": 144
+    },
+    {
+      "date": "1980-07-12",
+      "rank": 181
+    },
+    {
+      "date": "1980-07-19",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Seasons",
+      "id": "seasons-grace-slick"
+    },
+    {
+      "title": "Dreams",
+      "id": null
+    },
+    {
+      "title": "El Diablo",
+      "id": null
+    },
+    {
+      "title": "Face to the Wind",
+      "id": null
+    },
+    {
+      "title": "Angel of Night",
+      "id": null
+    },
+    {
+      "title": "Do It the Hard Way",
+      "id": null
+    },
+    {
+      "title": "Full Moon Man",
+      "id": null
+    },
+    {
+      "title": "Let It Go",
+      "id": null
+    },
+    {
+      "title": "Garden of Man",
+      "id": null
+    }
+  ]
+}
