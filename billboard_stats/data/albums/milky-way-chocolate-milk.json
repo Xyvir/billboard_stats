@@ -1,1 +1,70 @@
-{"id": "milky-way-chocolate-milk", "title": "Milky Way", "artist": "Chocolate Milk", "peak": 161, "history": [{"date": "1979-04-14", "rank": 170}, {"date": "1979-04-21", "rank": 169}, {"date": "1979-04-28", "rank": 168}, {"date": "1979-05-05", "rank": 161}, {"date": "1979-05-12", "rank": 171}, {"date": "1979-05-19", "rank": 194}]}
+{
+  "id": "milky-way-chocolate-milk",
+  "title": "Milky Way",
+  "artist": "Chocolate Milk",
+  "peak": 161,
+  "history": [
+    {
+      "date": "1979-04-14",
+      "rank": 170
+    },
+    {
+      "date": "1979-04-21",
+      "rank": 169
+    },
+    {
+      "date": "1979-04-28",
+      "rank": 168
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 161
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 171
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Save the Last Dance",
+      "id": null
+    },
+    {
+      "title": "Hurry Down Sunset",
+      "id": null
+    },
+    {
+      "title": "You're the One",
+      "id": null
+    },
+    {
+      "title": "Milky Way",
+      "id": null
+    },
+    {
+      "title": "Paradise",
+      "id": null
+    },
+    {
+      "title": "Groove City",
+      "id": null
+    },
+    {
+      "title": "Say Won'tcha",
+      "id": null
+    },
+    {
+      "title": "Doc",
+      "id": null
+    },
+    {
+      "title": "Milky Way (reprise)",
+      "id": null
+    }
+  ]
+}

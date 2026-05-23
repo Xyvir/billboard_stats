@@ -1,1 +1,58 @@
-{"id": "mind-of-a-country-boy-luke-bryan", "title": "Mind Of A Country Boy", "artist": "Luke Bryan", "peak": 51, "history": [{"date": "2024-06-29", "rank": 158}, {"date": "2024-07-06", "rank": 188}, {"date": "2024-07-13", "rank": 171}, {"date": "2024-07-20", "rank": 189}, {"date": "2024-10-12", "rank": 51}]}
+{
+  "id": "mind-of-a-country-boy-luke-bryan",
+  "title": "Mind Of A Country Boy",
+  "artist": "Luke Bryan",
+  "peak": 51,
+  "history": [
+    {
+      "date": "2024-06-29",
+      "rank": 158
+    },
+    {
+      "date": "2024-07-06",
+      "rank": 188
+    },
+    {
+      "date": "2024-07-13",
+      "rank": 171
+    },
+    {
+      "date": "2024-07-20",
+      "rank": 189
+    },
+    {
+      "date": "2024-10-12",
+      "rank": 51
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love You, Miss You, Mean It",
+      "id": "love-you-miss-you-mean-it-luke-bryan"
+    },
+    {
+      "title": "Play It Again",
+      "id": "play-it-again-luke-bryan"
+    },
+    {
+      "title": "I Don’t Want This Night to End",
+      "id": "i-don-t-want-this-night-to-end-luke-bryan"
+    },
+    {
+      "title": "Country Girl (Shake It for Me)",
+      "id": "country-girl-shake-it-for-me-luke-bryan"
+    },
+    {
+      "title": "Huntin’, Fishin’ and Lovin’ Every Day",
+      "id": "huntin-fishin-and-lovin-every-day-luke-bryan"
+    },
+    {
+      "title": "Kiss Tomorrow Goodbye",
+      "id": "kiss-tomorrow-goodbye-luke-bryan"
+    },
+    {
+      "title": "Mind of a Country Boy",
+      "id": null
+    }
+  ]
+}

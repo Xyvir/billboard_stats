@@ -1,1 +1,182 @@
-{"id": "mind-games-john-lennon", "title": "Mind Games", "artist": "John Lennon", "peak": 9, "history": [{"date": "1973-11-24", "rank": 16}, {"date": "1973-12-01", "rank": 11}, {"date": "1973-12-08", "rank": 9}, {"date": "1973-12-15", "rank": 9}, {"date": "1973-12-22", "rank": 9}, {"date": "1973-12-29", "rank": 10}, {"date": "1974-01-05", "rank": 18}, {"date": "1974-01-12", "rank": 19}, {"date": "1974-01-19", "rank": 24}, {"date": "1974-01-26", "rank": 29}, {"date": "1974-02-02", "rank": 34}, {"date": "1974-02-09", "rank": 41}, {"date": "1974-02-16", "rank": 49}, {"date": "1974-02-23", "rank": 72}, {"date": "1974-03-02", "rank": 85}, {"date": "1974-03-09", "rank": 118}, {"date": "1974-03-16", "rank": 149}, {"date": "1974-03-23", "rank": 187}, {"date": "1981-01-17", "rank": 100}, {"date": "1981-01-24", "rank": 88}, {"date": "1981-01-31", "rank": 88}, {"date": "1981-02-07", "rank": 88}, {"date": "1981-02-14", "rank": 86}, {"date": "1981-02-21", "rank": 86}, {"date": "1981-02-28", "rank": 100}, {"date": "1981-03-07", "rank": 100}, {"date": "1981-03-14", "rank": 108}, {"date": "1981-03-21", "rank": 126}, {"date": "1981-03-28", "rank": 132}, {"date": "1981-04-04", "rank": 147}, {"date": "1981-04-11", "rank": 170}]}
+{
+  "id": "mind-games-john-lennon",
+  "title": "Mind Games",
+  "artist": "John Lennon",
+  "peak": 9,
+  "history": [
+    {
+      "date": "1973-11-24",
+      "rank": 16
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 11
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 9
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 9
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 9
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 10
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 18
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 19
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 24
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 29
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 34
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 41
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 49
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 72
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 85
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 118
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 149
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 187
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 100
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 88
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 88
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 88
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 86
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 86
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 100
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 100
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 108
+    },
+    {
+      "date": "1981-03-21",
+      "rank": 126
+    },
+    {
+      "date": "1981-03-28",
+      "rank": 132
+    },
+    {
+      "date": "1981-04-04",
+      "rank": 147
+    },
+    {
+      "date": "1981-04-11",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mind Games",
+      "id": "mind-games-john-lennon"
+    },
+    {
+      "title": "Tight A$",
+      "id": null
+    },
+    {
+      "title": "Aisumasen (I’m Sorry)",
+      "id": null
+    },
+    {
+      "title": "One Day (at a Time)",
+      "id": null
+    },
+    {
+      "title": "Bring On the Lucie (Freda Peeple)",
+      "id": null
+    },
+    {
+      "title": "Nutopian International Anthem",
+      "id": null
+    },
+    {
+      "title": "Intuition",
+      "id": null
+    },
+    {
+      "title": "Out the Blue",
+      "id": null
+    },
+    {
+      "title": "Only People",
+      "id": null
+    },
+    {
+      "title": "I Know (I Know)",
+      "id": null
+    },
+    {
+      "title": "You Are Here",
+      "id": null
+    },
+    {
+      "title": "Meat City",
+      "id": null
+    }
+  ]
+}

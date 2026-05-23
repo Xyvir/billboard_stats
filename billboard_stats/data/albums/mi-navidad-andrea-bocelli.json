@@ -1,1 +1,78 @@
-{"id": "mi-navidad-andrea-bocelli", "title": "Mi Navidad", "artist": "Andrea Bocelli", "peak": 180, "history": [{"date": "2009-12-19", "rank": 180}, {"date": "2010-01-02", "rank": 194}]}
+{
+  "id": "mi-navidad-andrea-bocelli",
+  "title": "Mi Navidad",
+  "artist": "Andrea Bocelli",
+  "peak": 180,
+  "history": [
+    {
+      "date": "2009-12-19",
+      "rank": 180
+    },
+    {
+      "date": "2010-01-02",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blanca Navidad",
+      "id": null
+    },
+    {
+      "title": "Gloria in excelsis Deo",
+      "id": null
+    },
+    {
+      "title": "Santa Claus llegó a la ciudad",
+      "id": null
+    },
+    {
+      "title": "The Christmas Song",
+      "id": null
+    },
+    {
+      "title": "The Lord’s Prayer",
+      "id": null
+    },
+    {
+      "title": "What Child Is This",
+      "id": null
+    },
+    {
+      "title": "Venid, adoremus",
+      "id": null
+    },
+    {
+      "title": "El abeto",
+      "id": null
+    },
+    {
+      "title": "Jingle Bells",
+      "id": null
+    },
+    {
+      "title": "Noche de paz",
+      "id": null
+    },
+    {
+      "title": "Blue Christmas",
+      "id": null
+    },
+    {
+      "title": "Santa la noche",
+      "id": null
+    },
+    {
+      "title": "Caro gesu bambino",
+      "id": null
+    },
+    {
+      "title": "Bajas de las estrellas (Tu scendi dalle stelle)",
+      "id": null
+    },
+    {
+      "title": "Dios nos bendecirá",
+      "id": null
+    }
+  ]
+}
