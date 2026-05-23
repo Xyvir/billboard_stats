@@ -1,1 +1,74 @@
-{"id": "future-bound-tavares", "title": "Future Bound", "artist": "Tavares", "peak": 115, "history": [{"date": "1978-05-13", "rank": 138}, {"date": "1978-05-20", "rank": 128}, {"date": "1978-05-27", "rank": 118}, {"date": "1978-06-03", "rank": 115}, {"date": "1978-06-10", "rank": 115}, {"date": "1978-06-17", "rank": 142}, {"date": "1978-06-24", "rank": 162}, {"date": "1978-07-01", "rank": 191}]}
+{
+  "id": "future-bound-tavares",
+  "title": "Future Bound",
+  "artist": "Tavares",
+  "peak": 115,
+  "history": [
+    {
+      "date": "1978-05-13",
+      "rank": 138
+    },
+    {
+      "date": "1978-05-20",
+      "rank": 128
+    },
+    {
+      "date": "1978-05-27",
+      "rank": 118
+    },
+    {
+      "date": "1978-06-03",
+      "rank": 115
+    },
+    {
+      "date": "1978-06-10",
+      "rank": 115
+    },
+    {
+      "date": "1978-06-17",
+      "rank": 142
+    },
+    {
+      "date": "1978-06-24",
+      "rank": 162
+    },
+    {
+      "date": "1978-07-01",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "More Than a Woman",
+      "id": "more-than-a-woman-tavares"
+    },
+    {
+      "title": "The Ghost of Love",
+      "id": null
+    },
+    {
+      "title": "Timber",
+      "id": null
+    },
+    {
+      "title": "We’re Both Ready for Love",
+      "id": null
+    },
+    {
+      "title": "All I See Is You",
+      "id": null
+    },
+    {
+      "title": "Slow Train to Paradise",
+      "id": null
+    },
+    {
+      "title": "Honey Can I",
+      "id": null
+    },
+    {
+      "title": "Feel So Good",
+      "id": null
+    }
+  ]
+}
