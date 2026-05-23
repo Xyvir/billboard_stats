@@ -1,1 +1,74 @@
-{"id": "grace-jim-brickman", "title": "Grace", "artist": "Jim Brickman", "peak": 88, "history": [{"date": "2005-05-07", "rank": 88}, {"date": "2005-05-14", "rank": 175}, {"date": "2005-05-21", "rank": 151}]}
+{
+  "id": "grace-jim-brickman",
+  "title": "Grace",
+  "artist": "Jim Brickman",
+  "peak": 88,
+  "history": [
+    {
+      "date": "2005-05-07",
+      "rank": 88
+    },
+    {
+      "date": "2005-05-14",
+      "rank": 175
+    },
+    {
+      "date": "2005-05-21",
+      "rank": 151
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Amazing Grace",
+      "id": null
+    },
+    {
+      "title": "Israel",
+      "id": null
+    },
+    {
+      "title": "Crown Him With Many Crowns",
+      "id": null
+    },
+    {
+      "title": "Joyful",
+      "id": null
+    },
+    {
+      "title": "Ave Maria",
+      "id": null
+    },
+    {
+      "title": "Jesu",
+      "id": null
+    },
+    {
+      "title": "How Great Thou Art",
+      "id": null
+    },
+    {
+      "title": "Heaven",
+      "id": null
+    },
+    {
+      "title": "Seventh Day",
+      "id": null
+    },
+    {
+      "title": "Be Thou Near to Me",
+      "id": null
+    },
+    {
+      "title": "O Sacred Head Now Wounded",
+      "id": null
+    },
+    {
+      "title": "Holy Holy Holy",
+      "id": null
+    },
+    {
+      "title": "Hear Me (Tears Into Wine)",
+      "id": null
+    }
+  ]
+}

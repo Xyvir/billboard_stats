@@ -1,1 +1,118 @@
-{"id": "go-west-village-people", "title": "Go West", "artist": "Village People", "peak": 8, "history": [{"date": "1979-04-14", "rank": 25}, {"date": "1979-04-21", "rank": 13}, {"date": "1979-04-28", "rank": 12}, {"date": "1979-05-05", "rank": 10}, {"date": "1979-05-12", "rank": 9}, {"date": "1979-05-19", "rank": 8}, {"date": "1979-05-26", "rank": 8}, {"date": "1979-06-02", "rank": 8}, {"date": "1979-06-09", "rank": 12}, {"date": "1979-06-16", "rank": 15}, {"date": "1979-06-23", "rank": 23}, {"date": "1979-06-30", "rank": 26}, {"date": "1979-07-07", "rank": 37}, {"date": "1979-07-14", "rank": 68}, {"date": "1979-07-21", "rank": 80}, {"date": "1979-07-28", "rank": 83}, {"date": "1979-08-04", "rank": 89}, {"date": "1979-08-11", "rank": 119}, {"date": "1979-08-18", "rank": 152}, {"date": "1979-08-25", "rank": 171}, {"date": "1979-09-01", "rank": 195}]}
+{
+  "id": "go-west-village-people",
+  "title": "Go West",
+  "artist": "Village People",
+  "peak": 8,
+  "history": [
+    {
+      "date": "1979-04-14",
+      "rank": 25
+    },
+    {
+      "date": "1979-04-21",
+      "rank": 13
+    },
+    {
+      "date": "1979-04-28",
+      "rank": 12
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 10
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 9
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 8
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 8
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 8
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 12
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 15
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 23
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 26
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 37
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 68
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 80
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 83
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 89
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 119
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 152
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 171
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "In the Navy",
+      "id": "in-the-navy-village-people"
+    },
+    {
+      "title": "Go West",
+      "id": "go-west-village-people"
+    },
+    {
+      "title": "Citizens of the World",
+      "id": null
+    },
+    {
+      "title": "I Wanna Shake Your Hand",
+      "id": null
+    },
+    {
+      "title": "Get Away Holiday",
+      "id": null
+    },
+    {
+      "title": "Manhattan Woman",
+      "id": null
+    }
+  ]
+}
