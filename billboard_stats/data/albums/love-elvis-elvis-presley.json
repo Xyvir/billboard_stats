@@ -1,1 +1,122 @@
-{"id": "love-elvis-elvis-presley", "title": "Love, Elvis", "artist": "Elvis Presley", "peak": 120, "history": [{"date": "2005-02-12", "rank": 144}, {"date": "2005-02-19", "rank": 151}, {"date": "2005-02-26", "rank": 120}, {"date": "2005-03-05", "rank": 179}]}
+{
+  "id": "love-elvis-elvis-presley",
+  "title": "Love, Elvis",
+  "artist": "Elvis Presley",
+  "peak": 120,
+  "history": [
+    {
+      "date": "2005-02-12",
+      "rank": 144
+    },
+    {
+      "date": "2005-02-19",
+      "rank": 151
+    },
+    {
+      "date": "2005-02-26",
+      "rank": 120
+    },
+    {
+      "date": "2005-03-05",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Me Tender",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "The Wonder of You",
+      "id": "the-wonder-of-you-mama-liked-the-roses-elvis-presley"
+    },
+    {
+      "title": "There Goes My Everything",
+      "id": "i-really-don-t-want-to-know-there-goes-my-everything-elvis-presley"
+    },
+    {
+      "title": "You Don’t Have to Say You Love Me",
+      "id": "you-don-t-have-to-say-you-love-me-patch-it-up-elvis-presley"
+    },
+    {
+      "title": "If I Can Dream",
+      "id": "if-i-can-dream-elvis-presley"
+    },
+    {
+      "title": "Are You Lonesome Tonight?",
+      "id": null
+    },
+    {
+      "title": "Can’t Help Falling in Love",
+      "id": null
+    },
+    {
+      "title": "Always on My Mind",
+      "id": null
+    },
+    {
+      "title": "It’s Now or Never",
+      "id": null
+    },
+    {
+      "title": "I Want You, I Need You, I Love You",
+      "id": null
+    },
+    {
+      "title": "Don’t",
+      "id": null
+    },
+    {
+      "title": "(Now and Then There’s) a Fool Such as I",
+      "id": null
+    },
+    {
+      "title": "Any Way You Want Me (That’s How I Will Be)",
+      "id": null
+    },
+    {
+      "title": "Surrender",
+      "id": null
+    },
+    {
+      "title": "Hawaiian Wedding Song",
+      "id": null
+    },
+    {
+      "title": "Doin’ the Best I Can",
+      "id": null
+    },
+    {
+      "title": "Fever",
+      "id": null
+    },
+    {
+      "title": "It Hurts Me",
+      "id": null
+    },
+    {
+      "title": "I Just Can’t Help Believin’",
+      "id": null
+    },
+    {
+      "title": "Let It Be Me",
+      "id": null
+    },
+    {
+      "title": "It’s Impossible",
+      "id": null
+    },
+    {
+      "title": "For the Good Times (alternate take 3)",
+      "id": null
+    },
+    {
+      "title": "And I Love You So",
+      "id": null
+    },
+    {
+      "title": "Unchained Melody",
+      "id": null
+    }
+  ]
+}
