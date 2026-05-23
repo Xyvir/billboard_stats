@@ -1,1 +1,54 @@
-{"id": "head-first-goldfrapp", "title": "Head First", "artist": "Goldfrapp", "peak": 45, "history": [{"date": "2010-04-10", "rank": 45}, {"date": "2010-04-17", "rank": 196}]}
+{
+  "id": "head-first-goldfrapp",
+  "title": "Head First",
+  "artist": "Goldfrapp",
+  "peak": 45,
+  "history": [
+    {
+      "date": "2010-04-10",
+      "rank": 45
+    },
+    {
+      "date": "2010-04-17",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rocket",
+      "id": null
+    },
+    {
+      "title": "Believer",
+      "id": null
+    },
+    {
+      "title": "Alive",
+      "id": null
+    },
+    {
+      "title": "Dreaming",
+      "id": null
+    },
+    {
+      "title": "Head First",
+      "id": null
+    },
+    {
+      "title": "Hunt",
+      "id": null
+    },
+    {
+      "title": "Shiny and Warm",
+      "id": null
+    },
+    {
+      "title": "I Wanna Life",
+      "id": null
+    },
+    {
+      "title": "Voicething",
+      "id": null
+    }
+  ]
+}
