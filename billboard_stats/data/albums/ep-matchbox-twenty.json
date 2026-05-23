@@ -1,1 +1,42 @@
-{"id": "ep-matchbox-twenty", "title": "EP", "artist": "Matchbox Twenty", "peak": 43, "history": [{"date": "2003-11-29", "rank": 43}, {"date": "2003-12-06", "rank": 154}]}
+{
+  "id": "ep-matchbox-twenty",
+  "title": "EP",
+  "artist": "Matchbox Twenty",
+  "peak": 43,
+  "history": [
+    {
+      "date": "2003-11-29",
+      "rank": 43
+    },
+    {
+      "date": "2003-12-06",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If You're Gone (live)",
+      "id": "if-you-re-gone-matchbox-twenty"
+    },
+    {
+      "title": "Disease (acoustic)",
+      "id": "disease-matchbox-twenty"
+    },
+    {
+      "title": "Crutch (live)",
+      "id": null
+    },
+    {
+      "title": "Push (live)",
+      "id": null
+    },
+    {
+      "title": "All I Need (live)",
+      "id": null
+    },
+    {
+      "title": "Suffer Me",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,30 @@
-{"id": "ep2-pixies", "title": "EP2", "artist": "Pixies", "peak": 160, "history": [{"date": "2014-02-01", "rank": 160}]}
+{
+  "id": "ep2-pixies",
+  "title": "EP2",
+  "artist": "Pixies",
+  "peak": 160,
+  "history": [
+    {
+      "date": "2014-02-01",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blue Eyed Hexe",
+      "id": null
+    },
+    {
+      "title": "Magdalena 318",
+      "id": null
+    },
+    {
+      "title": "Greens and Blues",
+      "id": null
+    },
+    {
+      "title": "Snakes",
+      "id": null
+    }
+  ]
+}
