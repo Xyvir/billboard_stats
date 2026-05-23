@@ -1,1 +1,62 @@
-{"id": "brand-new-ben-rector", "title": "Brand New", "artist": "Ben Rector", "peak": 9, "history": [{"date": "2015-09-19", "rank": 9}]}
+{
+  "id": "brand-new-ben-rector",
+  "title": "Brand New",
+  "artist": "Ben Rector",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2015-09-19",
+      "rank": 9
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Brand New",
+      "id": "brand-new-ben-rector"
+    },
+    {
+      "title": "Make Something Beautiful",
+      "id": null
+    },
+    {
+      "title": "Paris",
+      "id": null
+    },
+    {
+      "title": "Favorite Song",
+      "id": null
+    },
+    {
+      "title": "The Men That Drive Me Places",
+      "id": null
+    },
+    {
+      "title": "Fear",
+      "id": null
+    },
+    {
+      "title": "Note to Self",
+      "id": null
+    },
+    {
+      "title": "Like the World Is Going to End",
+      "id": null
+    },
+    {
+      "title": "Crazy",
+      "id": null
+    },
+    {
+      "title": "Almost Home",
+      "id": null
+    },
+    {
+      "title": "30,000 Feet",
+      "id": null
+    },
+    {
+      "title": "More Like Love",
+      "id": null
+    }
+  ]
+}

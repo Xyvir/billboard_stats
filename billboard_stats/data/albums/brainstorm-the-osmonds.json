@@ -1,1 +1,74 @@
-{"id": "brainstorm-the-osmonds", "title": "Brainstorm", "artist": "The Osmonds", "peak": 145, "history": [{"date": "1976-10-23", "rank": 189}, {"date": "1976-10-30", "rank": 172}, {"date": "1976-11-06", "rank": 162}, {"date": "1976-11-13", "rank": 151}, {"date": "1976-11-20", "rank": 145}, {"date": "1976-11-27", "rank": 145}]}
+{
+  "id": "brainstorm-the-osmonds",
+  "title": "Brainstorm",
+  "artist": "The Osmonds",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1976-10-23",
+      "rank": 189
+    },
+    {
+      "date": "1976-10-30",
+      "rank": 172
+    },
+    {
+      "date": "1976-11-06",
+      "rank": 162
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 151
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 145
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 145
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Can't Live a Dream",
+      "id": "i-can-t-live-a-dream-the-osmonds"
+    },
+    {
+      "title": "Back on the Road Again",
+      "id": null
+    },
+    {
+      "title": "Boogie Down",
+      "id": null
+    },
+    {
+      "title": "Gotta Get Love",
+      "id": null
+    },
+    {
+      "title": "Walkin' In the Jungle",
+      "id": null
+    },
+    {
+      "title": "At the Rainbows End",
+      "id": null
+    },
+    {
+      "title": "Learning How to Love Again",
+      "id": null
+    },
+    {
+      "title": "It'll Be Me",
+      "id": null
+    },
+    {
+      "title": "Check It Out",
+      "id": null
+    },
+    {
+      "title": "Medicine Man",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,190 @@
-{"id": "branigan-laura-branigan", "title": "Branigan", "artist": "Laura Branigan", "peak": 34, "history": [{"date": "1982-09-25", "rank": 167}, {"date": "1982-10-02", "rank": 141}, {"date": "1982-10-09", "rank": 109}, {"date": "1982-10-16", "rank": 84}, {"date": "1982-10-23", "rank": 71}, {"date": "1982-10-30", "rank": 63}, {"date": "1982-11-06", "rank": 56}, {"date": "1982-11-13", "rank": 49}, {"date": "1982-11-20", "rank": 44}, {"date": "1982-11-27", "rank": 40}, {"date": "1982-12-04", "rank": 38}, {"date": "1982-12-11", "rank": 36}, {"date": "1982-12-18", "rank": 36}, {"date": "1982-12-25", "rank": 34}, {"date": "1983-01-01", "rank": 34}, {"date": "1983-01-08", "rank": 34}, {"date": "1983-01-15", "rank": 34}, {"date": "1983-01-22", "rank": 34}, {"date": "1983-01-29", "rank": 57}, {"date": "1983-02-05", "rank": 67}, {"date": "1983-02-12", "rank": 73}, {"date": "1983-02-19", "rank": 104}, {"date": "1983-02-26", "rank": 114}, {"date": "1983-03-05", "rank": 110}, {"date": "1983-03-12", "rank": 109}, {"date": "1983-03-19", "rank": 121}, {"date": "1983-03-26", "rank": 152}, {"date": "1983-04-02", "rank": 152}, {"date": "1983-04-09", "rank": 152}, {"date": "1983-04-16", "rank": 152}, {"date": "1983-04-23", "rank": 163}, {"date": "1983-04-30", "rank": 157}, {"date": "1983-05-07", "rank": 172}, {"date": "1983-05-14", "rank": 183}, {"date": "1983-05-21", "rank": 176}, {"date": "1983-05-28", "rank": 179}]}
+{
+  "id": "branigan-laura-branigan",
+  "title": "Branigan",
+  "artist": "Laura Branigan",
+  "peak": 34,
+  "history": [
+    {
+      "date": "1982-09-25",
+      "rank": 167
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 141
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 109
+    },
+    {
+      "date": "1982-10-16",
+      "rank": 84
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 71
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 63
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 56
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 49
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 44
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 40
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 38
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 36
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 36
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 34
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 34
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 34
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 34
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 34
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 57
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 67
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 73
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 104
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 114
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 110
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 109
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 121
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 152
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 152
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 152
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 152
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 163
+    },
+    {
+      "date": "1983-04-30",
+      "rank": 157
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 172
+    },
+    {
+      "date": "1983-05-14",
+      "rank": 183
+    },
+    {
+      "date": "1983-05-21",
+      "rank": 176
+    },
+    {
+      "date": "1983-05-28",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All Night With Me",
+      "id": "all-night-with-me-laura-branigan"
+    },
+    {
+      "title": "Gloria",
+      "id": "gloria-laura-branigan"
+    },
+    {
+      "title": "Lovin’ You Baby",
+      "id": null
+    },
+    {
+      "title": "Living a Lie",
+      "id": null
+    },
+    {
+      "title": "If You Loved Me",
+      "id": null
+    },
+    {
+      "title": "Please Stay, Go Away",
+      "id": null
+    },
+    {
+      "title": "I Wish We Could Be Alone",
+      "id": null
+    },
+    {
+      "title": "Down Like a Rock",
+      "id": null
+    },
+    {
+      "title": "Maybe I Love You",
+      "id": null
+    }
+  ]
+}

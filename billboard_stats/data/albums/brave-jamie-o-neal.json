@@ -1,1 +1,70 @@
-{"id": "brave-jamie-o-neal", "title": "Brave", "artist": "Jamie O'Neal", "peak": 40, "history": [{"date": "2005-03-19", "rank": 40}, {"date": "2005-03-26", "rank": 91}, {"date": "2005-04-02", "rank": 140}, {"date": "2005-04-09", "rank": 183}]}
+{
+  "id": "brave-jamie-o-neal",
+  "title": "Brave",
+  "artist": "Jamie O'Neal",
+  "peak": 40,
+  "history": [
+    {
+      "date": "2005-03-19",
+      "rank": 40
+    },
+    {
+      "date": "2005-03-26",
+      "rank": 91
+    },
+    {
+      "date": "2005-04-02",
+      "rank": 140
+    },
+    {
+      "date": "2005-04-09",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Trying to Find Atlantis",
+      "id": "trying-to-find-atlantis-jamie-o-neal"
+    },
+    {
+      "title": "Somebody’s Hero",
+      "id": "somebody-s-hero-jamie-o-neal"
+    },
+    {
+      "title": "Naïve",
+      "id": null
+    },
+    {
+      "title": "When Did You Know",
+      "id": null
+    },
+    {
+      "title": "Devil on the Left",
+      "id": null
+    },
+    {
+      "title": "On My Way to You",
+      "id": null
+    },
+    {
+      "title": "Follow Me Home",
+      "id": null
+    },
+    {
+      "title": "Girlfriends",
+      "id": null
+    },
+    {
+      "title": "Ready When It Comes",
+      "id": null
+    },
+    {
+      "title": "Brave",
+      "id": null
+    },
+    {
+      "title": "I Love My Life",
+      "id": null
+    }
+  ]
+}
