@@ -1,1 +1,70 @@
-{"id": "love-corporation-the-hues-corporation", "title": "Love Corporation", "artist": "The Hues Corporation", "peak": 147, "history": [{"date": "1975-07-05", "rank": 174}, {"date": "1975-07-12", "rank": 163}, {"date": "1975-07-19", "rank": 151}, {"date": "1975-07-26", "rank": 151}, {"date": "1975-08-02", "rank": 147}]}
+{
+  "id": "love-corporation-the-hues-corporation",
+  "title": "Love Corporation",
+  "artist": "The Hues Corporation",
+  "peak": 147,
+  "history": [
+    {
+      "date": "1975-07-05",
+      "rank": 174
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 163
+    },
+    {
+      "date": "1975-07-19",
+      "rank": 151
+    },
+    {
+      "date": "1975-07-26",
+      "rank": 151
+    },
+    {
+      "date": "1975-08-02",
+      "rank": 147
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Corporation",
+      "id": "love-corporation-the-hues-corporation"
+    },
+    {
+      "title": "One Good Night Together",
+      "id": null
+    },
+    {
+      "title": "Follow the Spirit",
+      "id": null
+    },
+    {
+      "title": "Long Road",
+      "id": null
+    },
+    {
+      "title": "Gold Rush",
+      "id": null
+    },
+    {
+      "title": "He’s My Home",
+      "id": null
+    },
+    {
+      "title": "When You Look Down the Road",
+      "id": null
+    },
+    {
+      "title": "You Showed Me What Love Is",
+      "id": null
+    },
+    {
+      "title": "Sing to Your Song",
+      "id": null
+    },
+    {
+      "title": "Soul Sailin’",
+      "id": null
+    }
+  ]
+}
