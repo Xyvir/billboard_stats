@@ -1,1 +1,238 @@
-{"id": "diana-marvin-diana-ross", "title": "Diana & Marvin", "artist": "Diana Ross", "peak": 26, "history": [{"date": "1973-11-17", "rank": 110}, {"date": "1973-11-24", "rank": 73}, {"date": "1973-12-01", "rank": 57}, {"date": "1973-12-08", "rank": 31}, {"date": "1973-12-15", "rank": 26}, {"date": "1973-12-22", "rank": 27}, {"date": "1973-12-29", "rank": 36}, {"date": "1974-01-05", "rank": 37}, {"date": "1974-01-12", "rank": 42}, {"date": "1974-01-19", "rank": 45}, {"date": "1974-01-26", "rank": 52}, {"date": "1974-02-02", "rank": 55}, {"date": "1974-02-09", "rank": 64}, {"date": "1974-02-16", "rank": 84}, {"date": "1974-02-23", "rank": 92}, {"date": "1974-03-02", "rank": 103}, {"date": "1974-03-09", "rank": 126}, {"date": "1974-03-16", "rank": 145}, {"date": "1974-03-23", "rank": 159}, {"date": "1974-03-30", "rank": 165}, {"date": "1974-04-06", "rank": 165}, {"date": "1974-04-13", "rank": 167}, {"date": "1974-04-20", "rank": 161}, {"date": "1974-04-27", "rank": 155}, {"date": "1974-05-04", "rank": 132}, {"date": "1974-05-11", "rank": 109}, {"date": "1974-05-18", "rank": 101}, {"date": "1974-05-25", "rank": 91}, {"date": "1974-06-01", "rank": 91}, {"date": "1974-06-08", "rank": 124}, {"date": "1974-06-15", "rank": 139}, {"date": "1974-06-22", "rank": 141}, {"date": "1974-06-29", "rank": 141}, {"date": "1974-07-06", "rank": 162}, {"date": "1974-07-13", "rank": 165}, {"date": "1974-07-20", "rank": 160}, {"date": "1974-07-27", "rank": 154}, {"date": "1974-08-03", "rank": 145}, {"date": "1974-08-10", "rank": 141}, {"date": "1974-08-17", "rank": 134}, {"date": "1974-08-24", "rank": 124}, {"date": "1974-08-31", "rank": 111}, {"date": "1974-09-07", "rank": 111}, {"date": "1974-09-14", "rank": 118}, {"date": "1974-09-21", "rank": 151}, {"date": "1974-09-28", "rank": 164}, {"date": "1974-10-05", "rank": 193}]}
+{
+  "id": "diana-marvin-diana-ross",
+  "title": "Diana & Marvin",
+  "artist": "Diana Ross",
+  "peak": 26,
+  "history": [
+    {
+      "date": "1973-11-17",
+      "rank": 110
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 73
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 57
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 31
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 26
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 27
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 36
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 37
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 42
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 45
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 52
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 55
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 64
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 84
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 92
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 103
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 126
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 145
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 159
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 165
+    },
+    {
+      "date": "1974-04-06",
+      "rank": 165
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 167
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 161
+    },
+    {
+      "date": "1974-04-27",
+      "rank": 155
+    },
+    {
+      "date": "1974-05-04",
+      "rank": 132
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 109
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 101
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 91
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 91
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 124
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 139
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 141
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 141
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 162
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 165
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 160
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 154
+    },
+    {
+      "date": "1974-08-03",
+      "rank": 145
+    },
+    {
+      "date": "1974-08-10",
+      "rank": 141
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 134
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 124
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 111
+    },
+    {
+      "date": "1974-09-07",
+      "rank": 111
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 118
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 151
+    },
+    {
+      "date": "1974-09-28",
+      "rank": 164
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Include Me in Your Life",
+      "id": "one-love-in-my-lifetime-diana-ross"
+    },
+    {
+      "title": "You Are Everything",
+      "id": null
+    },
+    {
+      "title": "Love Twins",
+      "id": null
+    },
+    {
+      "title": "Don’t Knock My Love",
+      "id": null
+    },
+    {
+      "title": "You’re a Special Part of Me",
+      "id": null
+    },
+    {
+      "title": "Pledging My Love",
+      "id": null
+    },
+    {
+      "title": "Just Say, Just Say",
+      "id": null
+    },
+    {
+      "title": "Stop, Look, Listen (to Your Heart)",
+      "id": null
+    },
+    {
+      "title": "I’m Falling in Love With You",
+      "id": null
+    },
+    {
+      "title": "My Mistake (Was to Love You)",
+      "id": null
+    }
+  ]
+}
