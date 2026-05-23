@@ -1,1 +1,110 @@
-{"id": "crystal-ball-styx", "title": "Crystal Ball", "artist": "Styx", "peak": 66, "history": [{"date": "1976-10-30", "rank": 93}, {"date": "1976-11-06", "rank": 83}, {"date": "1976-11-13", "rank": 72}, {"date": "1976-11-20", "rank": 67}, {"date": "1976-11-27", "rank": 66}, {"date": "1976-12-04", "rank": 85}, {"date": "1976-12-11", "rank": 84}, {"date": "1976-12-18", "rank": 104}, {"date": "1976-12-25", "rank": 149}, {"date": "1977-01-01", "rank": 149}, {"date": "1977-01-08", "rank": 144}, {"date": "1977-01-15", "rank": 145}, {"date": "1977-01-22", "rank": 145}, {"date": "1977-01-29", "rank": 140}, {"date": "1977-02-05", "rank": 140}, {"date": "1977-02-12", "rank": 136}, {"date": "1977-02-19", "rank": 158}, {"date": "1977-02-26", "rank": 154}]}
+{
+  "id": "crystal-ball-styx",
+  "title": "Crystal Ball",
+  "artist": "Styx",
+  "peak": 66,
+  "history": [
+    {
+      "date": "1976-10-30",
+      "rank": 93
+    },
+    {
+      "date": "1976-11-06",
+      "rank": 83
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 72
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 67
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 66
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 85
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 84
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 104
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 149
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 149
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 144
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 145
+    },
+    {
+      "date": "1977-01-22",
+      "rank": 145
+    },
+    {
+      "date": "1977-01-29",
+      "rank": 140
+    },
+    {
+      "date": "1977-02-05",
+      "rank": 140
+    },
+    {
+      "date": "1977-02-12",
+      "rank": 136
+    },
+    {
+      "date": "1977-02-19",
+      "rank": 158
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mademoiselle",
+      "id": "mademoiselle-styx"
+    },
+    {
+      "title": "Put Me On",
+      "id": null
+    },
+    {
+      "title": "Jennifer",
+      "id": null
+    },
+    {
+      "title": "Crystal Ball",
+      "id": null
+    },
+    {
+      "title": "Shooz",
+      "id": null
+    },
+    {
+      "title": "This Old Man",
+      "id": null
+    },
+    {
+      "title": "Clair De Lune / Ballerina",
+      "id": null
+    }
+  ]
+}

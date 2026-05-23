@@ -1,1 +1,58 @@
-{"id": "cry-john-klemmer", "title": "Cry", "artist": "John Klemmer", "peak": 178, "history": [{"date": "1978-11-18", "rank": 190}, {"date": "1978-11-25", "rank": 182}, {"date": "1978-12-02", "rank": 178}]}
+{
+  "id": "cry-john-klemmer",
+  "title": "Cry",
+  "artist": "John Klemmer",
+  "peak": 178,
+  "history": [
+    {
+      "date": "1978-11-18",
+      "rank": 190
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 182
+    },
+    {
+      "date": "1978-12-02",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intimacy",
+      "id": null
+    },
+    {
+      "title": "Cry",
+      "id": null
+    },
+    {
+      "title": "Waterfalls",
+      "id": null
+    },
+    {
+      "title": "Happiness",
+      "id": null
+    },
+    {
+      "title": "I Am",
+      "id": null
+    },
+    {
+      "title": "Love",
+      "id": null
+    },
+    {
+      "title": "Infinity",
+      "id": null
+    },
+    {
+      "title": "'round Midnight",
+      "id": null
+    },
+    {
+      "title": "Ecstasy",
+      "id": null
+    }
+  ]
+}
