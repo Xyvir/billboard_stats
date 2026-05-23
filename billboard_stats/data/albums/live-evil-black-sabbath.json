@@ -1,1 +1,114 @@
-{"id": "live-evil-black-sabbath", "title": "Live Evil", "artist": "Black Sabbath", "peak": 37, "history": [{"date": "1983-02-05", "rank": 70}, {"date": "1983-02-12", "rank": 43}, {"date": "1983-02-19", "rank": 37}, {"date": "1983-02-26", "rank": 37}, {"date": "1983-03-05", "rank": 37}, {"date": "1983-03-12", "rank": 37}, {"date": "1983-03-19", "rank": 58}, {"date": "1983-03-26", "rank": 83}, {"date": "1983-04-02", "rank": 92}, {"date": "1983-04-09", "rank": 101}, {"date": "1983-04-16", "rank": 150}, {"date": "1983-04-23", "rank": 196}]}
+{
+  "id": "live-evil-black-sabbath",
+  "title": "Live Evil",
+  "artist": "Black Sabbath",
+  "peak": 37,
+  "history": [
+    {
+      "date": "1983-02-05",
+      "rank": 70
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 43
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 37
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 37
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 37
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 37
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 58
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 83
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 92
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 101
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 150
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Iron Man",
+      "id": "iron-man-black-sabbath"
+    },
+    {
+      "title": "Paranoid",
+      "id": "paranoid-black-sabbath"
+    },
+    {
+      "title": "E5150",
+      "id": null
+    },
+    {
+      "title": "Neon Knights",
+      "id": null
+    },
+    {
+      "title": "N.I.B.",
+      "id": null
+    },
+    {
+      "title": "Children of the Sea",
+      "id": null
+    },
+    {
+      "title": "Voodoo",
+      "id": null
+    },
+    {
+      "title": "Black Sabbath",
+      "id": null
+    },
+    {
+      "title": "War Pigs",
+      "id": null
+    },
+    {
+      "title": "The Mob Rules",
+      "id": null
+    },
+    {
+      "title": "Heaven and Hell",
+      "id": null
+    },
+    {
+      "title": "The Sign of the Southern Cross / Heaven and Hell (continued)",
+      "id": null
+    },
+    {
+      "title": "Children of the Grave",
+      "id": null
+    },
+    {
+      "title": "Fluff",
+      "id": null
+    }
+  ]
+}

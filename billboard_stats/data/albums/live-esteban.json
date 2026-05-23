@@ -1,1 +1,90 @@
-{"id": "live-esteban", "title": "Live!", "artist": "Esteban", "peak": 105, "history": [{"date": "2001-04-14", "rank": 141}, {"date": "2001-05-19", "rank": 105}]}
+{
+  "id": "live-esteban",
+  "title": "Live!",
+  "artist": "Esteban",
+  "peak": 105,
+  "history": [
+    {
+      "date": "2001-04-14",
+      "rank": 141
+    },
+    {
+      "date": "2001-05-19",
+      "rank": 105
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Eleanor Rigby",
+      "id": null
+    },
+    {
+      "title": "Alicante",
+      "id": null
+    },
+    {
+      "title": "Fernando",
+      "id": null
+    },
+    {
+      "title": "Nights in White Satin",
+      "id": null
+    },
+    {
+      "title": "City Girls",
+      "id": null
+    },
+    {
+      "title": "Lonely Bull",
+      "id": null
+    },
+    {
+      "title": "Norwegian Wood",
+      "id": null
+    },
+    {
+      "title": "Malaguenas Rumba",
+      "id": null
+    },
+    {
+      "title": "Zorro",
+      "id": null
+    },
+    {
+      "title": "Stay",
+      "id": null
+    },
+    {
+      "title": "Argentina",
+      "id": null
+    },
+    {
+      "title": "Can't Help Falling In Love",
+      "id": null
+    },
+    {
+      "title": "Runaway",
+      "id": null
+    },
+    {
+      "title": "Amazing Grace",
+      "id": null
+    },
+    {
+      "title": "Besame Mucho",
+      "id": null
+    },
+    {
+      "title": "A Time For Us",
+      "id": null
+    },
+    {
+      "title": "Duende",
+      "id": null
+    },
+    {
+      "title": "Unchained Melody",
+      "id": null
+    }
+  ]
+}
