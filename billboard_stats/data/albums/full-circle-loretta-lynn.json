@@ -1,1 +1,82 @@
-{"id": "full-circle-loretta-lynn", "title": "Full Circle", "artist": "Loretta Lynn", "peak": 19, "history": [{"date": "2016-03-26", "rank": 19}, {"date": "2016-04-02", "rank": 71}, {"date": "2016-04-09", "rank": 103}, {"date": "2016-04-16", "rank": 146}]}
+{
+  "id": "full-circle-loretta-lynn",
+  "title": "Full Circle",
+  "artist": "Loretta Lynn",
+  "peak": 19,
+  "history": [
+    {
+      "date": "2016-03-26",
+      "rank": 19
+    },
+    {
+      "date": "2016-04-02",
+      "rank": 71
+    },
+    {
+      "date": "2016-04-09",
+      "rank": 103
+    },
+    {
+      "date": "2016-04-16",
+      "rank": 146
+    }
+  ],
+  "tracks": [
+    {
+      "title": "In the Pines",
+      "id": "the-pill-loretta-lynn"
+    },
+    {
+      "title": "Whispering Sea (introduction)",
+      "id": null
+    },
+    {
+      "title": "Whispering Sea",
+      "id": null
+    },
+    {
+      "title": "Secret Love",
+      "id": null
+    },
+    {
+      "title": "Who’s Gonna Miss Me?",
+      "id": null
+    },
+    {
+      "title": "Black Jack David",
+      "id": null
+    },
+    {
+      "title": "Everybody Wants to Go to Heaven",
+      "id": null
+    },
+    {
+      "title": "Always on My Mind",
+      "id": null
+    },
+    {
+      "title": "Wine Into Water",
+      "id": null
+    },
+    {
+      "title": "Band of Gold",
+      "id": null
+    },
+    {
+      "title": "Fist City",
+      "id": null
+    },
+    {
+      "title": "I Never Will Marry",
+      "id": null
+    },
+    {
+      "title": "Everything It Takes",
+      "id": null
+    },
+    {
+      "title": "Lay Me Down",
+      "id": null
+    }
+  ]
+}

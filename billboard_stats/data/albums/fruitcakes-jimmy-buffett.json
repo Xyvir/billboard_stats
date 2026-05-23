@@ -1,1 +1,138 @@
-{"id": "fruitcakes-jimmy-buffett", "title": "Fruitcakes", "artist": "Jimmy Buffett", "peak": 5, "history": [{"date": "1994-06-11", "rank": 5}, {"date": "1994-06-18", "rank": 9}, {"date": "1994-06-25", "rank": 15}, {"date": "1994-07-02", "rank": 17}, {"date": "1994-07-09", "rank": 27}, {"date": "1994-07-16", "rank": 35}, {"date": "1994-07-23", "rank": 39}, {"date": "1994-07-30", "rank": 38}, {"date": "1994-08-06", "rank": 43}, {"date": "1994-08-13", "rank": 43}, {"date": "1994-08-20", "rank": 52}, {"date": "1994-08-27", "rank": 63}, {"date": "1994-09-03", "rank": 75}, {"date": "1994-09-10", "rank": 90}, {"date": "1994-09-17", "rank": 109}, {"date": "1994-09-24", "rank": 120}, {"date": "1994-10-01", "rank": 139}, {"date": "1994-10-08", "rank": 152}, {"date": "1994-10-15", "rank": 168}]}
+{
+  "id": "fruitcakes-jimmy-buffett",
+  "title": "Fruitcakes",
+  "artist": "Jimmy Buffett",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1994-06-11",
+      "rank": 5
+    },
+    {
+      "date": "1994-06-18",
+      "rank": 9
+    },
+    {
+      "date": "1994-06-25",
+      "rank": 15
+    },
+    {
+      "date": "1994-07-02",
+      "rank": 17
+    },
+    {
+      "date": "1994-07-09",
+      "rank": 27
+    },
+    {
+      "date": "1994-07-16",
+      "rank": 35
+    },
+    {
+      "date": "1994-07-23",
+      "rank": 39
+    },
+    {
+      "date": "1994-07-30",
+      "rank": 38
+    },
+    {
+      "date": "1994-08-06",
+      "rank": 43
+    },
+    {
+      "date": "1994-08-13",
+      "rank": 43
+    },
+    {
+      "date": "1994-08-20",
+      "rank": 52
+    },
+    {
+      "date": "1994-08-27",
+      "rank": 63
+    },
+    {
+      "date": "1994-09-03",
+      "rank": 75
+    },
+    {
+      "date": "1994-09-10",
+      "rank": 90
+    },
+    {
+      "date": "1994-09-17",
+      "rank": 109
+    },
+    {
+      "date": "1994-09-24",
+      "rank": 120
+    },
+    {
+      "date": "1994-10-01",
+      "rank": 139
+    },
+    {
+      "date": "1994-10-08",
+      "rank": 152
+    },
+    {
+      "date": "1994-10-15",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Everybody’s Got a Cousin in Miami",
+      "id": null
+    },
+    {
+      "title": "Fruitcakes",
+      "id": null
+    },
+    {
+      "title": "Lone Palm",
+      "id": null
+    },
+    {
+      "title": "Six String Music",
+      "id": null
+    },
+    {
+      "title": "Uncle John’s Band",
+      "id": null
+    },
+    {
+      "title": "Love in the Library",
+      "id": null
+    },
+    {
+      "title": "Quietly Making Noise",
+      "id": null
+    },
+    {
+      "title": "Frenchman for the Night",
+      "id": null
+    },
+    {
+      "title": "Sunny Afternoon",
+      "id": null
+    },
+    {
+      "title": "Vampires, Mummies and the Holy Ghost",
+      "id": null
+    },
+    {
+      "title": "She’s Got You",
+      "id": null
+    },
+    {
+      "title": "Delaney Talks to Statues",
+      "id": null
+    },
+    {
+      "title": "Apocalypso",
+      "id": null
+    }
+  ]
+}
