@@ -1,1 +1,30 @@
-{"id": "exodus-various-artists", "title": "Exodus", "artist": "Various Artists", "peak": 131, "history": [{"date": "1998-06-20", "rank": 131}, {"date": "1998-06-27", "rank": 149}, {"date": "1998-07-04", "rank": 181}, {"date": "1998-07-11", "rank": 200}]}
+{
+  "id": "exodus-various-artists",
+  "title": "Exodus",
+  "artist": "Various Artists",
+  "peak": 131,
+  "history": [
+    {
+      "date": "1998-06-20",
+      "rank": 131
+    },
+    {
+      "date": "1998-06-27",
+      "rank": 149
+    },
+    {
+      "date": "1998-07-04",
+      "rank": 181
+    },
+    {
+      "date": "1998-07-11",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Exodus",
+      "id": null
+    }
+  ]
+}
