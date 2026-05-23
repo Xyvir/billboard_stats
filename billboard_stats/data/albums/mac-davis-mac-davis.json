@@ -1,1 +1,102 @@
-{"id": "mac-davis-mac-davis", "title": "Mac Davis", "artist": "Mac Davis", "peak": 120, "history": [{"date": "1973-04-21", "rank": 177}, {"date": "1973-04-28", "rank": 160}, {"date": "1973-05-05", "rank": 137}, {"date": "1973-05-12", "rank": 128}, {"date": "1973-05-19", "rank": 126}, {"date": "1973-05-26", "rank": 125}, {"date": "1973-06-02", "rank": 124}, {"date": "1973-06-09", "rank": 120}, {"date": "1973-06-16", "rank": 132}, {"date": "1973-06-23", "rank": 158}, {"date": "1973-06-30", "rank": 183}, {"date": "1975-02-15", "rank": 188}, {"date": "1975-02-22", "rank": 186}]}
+{
+  "id": "mac-davis-mac-davis",
+  "title": "Mac Davis",
+  "artist": "Mac Davis",
+  "peak": 120,
+  "history": [
+    {
+      "date": "1973-04-21",
+      "rank": 177
+    },
+    {
+      "date": "1973-04-28",
+      "rank": 160
+    },
+    {
+      "date": "1973-05-05",
+      "rank": 137
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 128
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 126
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 125
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 124
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 120
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 132
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 158
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 183
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 188
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Beginning to Feel the Pain",
+      "id": "beginning-to-feel-the-pain-mac-davis"
+    },
+    {
+      "title": "Your Side of the Bed",
+      "id": "your-side-of-the-bed-mac-davis"
+    },
+    {
+      "title": "The Way You Look Today",
+      "id": null
+    },
+    {
+      "title": "Everything a Man Could Ever Need",
+      "id": null
+    },
+    {
+      "title": "Sunshine",
+      "id": null
+    },
+    {
+      "title": "I’ll Paint You a Song",
+      "id": null
+    },
+    {
+      "title": "Woman Crying",
+      "id": null
+    },
+    {
+      "title": "Feel Like Crying",
+      "id": null
+    },
+    {
+      "title": "(Hope You Didn’t) Chop No Wood",
+      "id": null
+    },
+    {
+      "title": "Lovin’ You, Lovin’ Me",
+      "id": null
+    }
+  ]
+}
