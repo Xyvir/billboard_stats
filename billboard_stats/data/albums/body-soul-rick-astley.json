@@ -1,1 +1,54 @@
-{"id": "body-soul-rick-astley", "title": "Body & Soul", "artist": "Rick Astley", "peak": 185, "history": [{"date": "1993-10-16", "rank": 185}]}
+{
+  "id": "body-soul-rick-astley",
+  "title": "Body & Soul",
+  "artist": "Rick Astley",
+  "peak": 185,
+  "history": [
+    {
+      "date": "1993-10-16",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hopelessly",
+      "id": "hopelessly-rick-astley"
+    },
+    {
+      "title": "The Ones You Love",
+      "id": null
+    },
+    {
+      "title": "Waiting for the Bell to Ring",
+      "id": null
+    },
+    {
+      "title": "A Dream for Us",
+      "id": null
+    },
+    {
+      "title": "Body and Soul",
+      "id": null
+    },
+    {
+      "title": "Enough Love",
+      "id": null
+    },
+    {
+      "title": "Nature’s Gift",
+      "id": null
+    },
+    {
+      "title": "Remember the Days",
+      "id": null
+    },
+    {
+      "title": "Everytime",
+      "id": null
+    },
+    {
+      "title": "When You Love Someone",
+      "id": null
+    }
+  ]
+}

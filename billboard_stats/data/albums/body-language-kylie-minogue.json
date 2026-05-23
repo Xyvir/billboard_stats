@@ -1,1 +1,98 @@
-{"id": "body-language-kylie-minogue", "title": "Body Language", "artist": "Kylie Minogue", "peak": 42, "history": [{"date": "2004-02-28", "rank": 42}, {"date": "2004-03-06", "rank": 83}, {"date": "2004-03-13", "rank": 122}, {"date": "2004-03-20", "rank": 133}, {"date": "2004-03-27", "rank": 126}, {"date": "2004-04-03", "rank": 145}, {"date": "2004-04-10", "rank": 162}, {"date": "2004-04-17", "rank": 174}]}
+{
+  "id": "body-language-kylie-minogue",
+  "title": "Body Language",
+  "artist": "Kylie Minogue",
+  "peak": 42,
+  "history": [
+    {
+      "date": "2004-02-28",
+      "rank": 42
+    },
+    {
+      "date": "2004-03-06",
+      "rank": 83
+    },
+    {
+      "date": "2004-03-13",
+      "rank": 122
+    },
+    {
+      "date": "2004-03-20",
+      "rank": 133
+    },
+    {
+      "date": "2004-03-27",
+      "rank": 126
+    },
+    {
+      "date": "2004-04-03",
+      "rank": 145
+    },
+    {
+      "date": "2004-04-10",
+      "rank": 162
+    },
+    {
+      "date": "2004-04-17",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Slow",
+      "id": "slow-kylie-minogue"
+    },
+    {
+      "title": "Still Standing",
+      "id": null
+    },
+    {
+      "title": "Secret (Take You Home)",
+      "id": null
+    },
+    {
+      "title": "Promises",
+      "id": null
+    },
+    {
+      "title": "Sweet Music",
+      "id": null
+    },
+    {
+      "title": "Red Blooded Woman",
+      "id": null
+    },
+    {
+      "title": "Chocolate",
+      "id": null
+    },
+    {
+      "title": "Obsession",
+      "id": null
+    },
+    {
+      "title": "I Feel for You",
+      "id": null
+    },
+    {
+      "title": "Someday",
+      "id": null
+    },
+    {
+      "title": "Loving Days",
+      "id": null
+    },
+    {
+      "title": "After Dark",
+      "id": null
+    },
+    {
+      "title": "Cruise Control",
+      "id": null
+    },
+    {
+      "title": "You Make Me Feel",
+      "id": null
+    }
+  ]
+}

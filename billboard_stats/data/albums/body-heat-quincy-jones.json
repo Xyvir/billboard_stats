@@ -1,1 +1,218 @@
-{"id": "body-heat-quincy-jones", "title": "Body Heat", "artist": "Quincy Jones", "peak": 6, "history": [{"date": "1974-05-25", "rank": 195}, {"date": "1974-06-01", "rank": 118}, {"date": "1974-06-08", "rank": 60}, {"date": "1974-06-15", "rank": 50}, {"date": "1974-06-22", "rank": 40}, {"date": "1974-06-29", "rank": 36}, {"date": "1974-07-06", "rank": 35}, {"date": "1974-07-13", "rank": 30}, {"date": "1974-07-20", "rank": 22}, {"date": "1974-07-27", "rank": 18}, {"date": "1974-08-03", "rank": 16}, {"date": "1974-08-10", "rank": 14}, {"date": "1974-08-17", "rank": 14}, {"date": "1974-08-24", "rank": 12}, {"date": "1974-08-31", "rank": 11}, {"date": "1974-09-07", "rank": 26}, {"date": "1974-09-14", "rank": 20}, {"date": "1974-09-21", "rank": 16}, {"date": "1974-09-28", "rank": 12}, {"date": "1974-10-05", "rank": 10}, {"date": "1974-10-12", "rank": 9}, {"date": "1974-10-19", "rank": 8}, {"date": "1974-10-26", "rank": 7}, {"date": "1974-11-02", "rank": 6}, {"date": "1974-11-09", "rank": 14}, {"date": "1974-11-16", "rank": 32}, {"date": "1974-11-23", "rank": 54}, {"date": "1974-11-30", "rank": 75}, {"date": "1974-12-07", "rank": 89}, {"date": "1974-12-14", "rank": 106}, {"date": "1974-12-21", "rank": 133}, {"date": "1974-12-28", "rank": 136}, {"date": "1975-01-04", "rank": 135}, {"date": "1975-01-11", "rank": 142}, {"date": "1975-01-18", "rank": 157}, {"date": "1975-01-25", "rank": 152}, {"date": "1975-02-01", "rank": 174}, {"date": "1975-02-08", "rank": 178}, {"date": "1975-02-15", "rank": 175}, {"date": "1975-02-22", "rank": 167}, {"date": "1975-03-01", "rank": 159}, {"date": "1975-03-08", "rank": 159}, {"date": "1975-03-15", "rank": 191}]}
+{
+  "id": "body-heat-quincy-jones",
+  "title": "Body Heat",
+  "artist": "Quincy Jones",
+  "peak": 6,
+  "history": [
+    {
+      "date": "1974-05-25",
+      "rank": 195
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 118
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 60
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 50
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 40
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 36
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 35
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 30
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 22
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 18
+    },
+    {
+      "date": "1974-08-03",
+      "rank": 16
+    },
+    {
+      "date": "1974-08-10",
+      "rank": 14
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 14
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 12
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 11
+    },
+    {
+      "date": "1974-09-07",
+      "rank": 26
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 20
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 16
+    },
+    {
+      "date": "1974-09-28",
+      "rank": 12
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 10
+    },
+    {
+      "date": "1974-10-12",
+      "rank": 9
+    },
+    {
+      "date": "1974-10-19",
+      "rank": 8
+    },
+    {
+      "date": "1974-10-26",
+      "rank": 7
+    },
+    {
+      "date": "1974-11-02",
+      "rank": 6
+    },
+    {
+      "date": "1974-11-09",
+      "rank": 14
+    },
+    {
+      "date": "1974-11-16",
+      "rank": 32
+    },
+    {
+      "date": "1974-11-23",
+      "rank": 54
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 75
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 89
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 106
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 133
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 136
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 135
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 142
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 157
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 152
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 174
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 178
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 175
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 167
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 159
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 159
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Body Heat",
+      "id": null
+    },
+    {
+      "title": "Soul Saga (Song of the Buffalo Soldier)",
+      "id": null
+    },
+    {
+      "title": "Everything Must Change",
+      "id": null
+    },
+    {
+      "title": "Boogie Joe, the Grinder",
+      "id": null
+    },
+    {
+      "title": "Reprise: Everything Must Change",
+      "id": null
+    },
+    {
+      "title": "One Track Mind",
+      "id": null
+    },
+    {
+      "title": "Just a Man",
+      "id": null
+    },
+    {
+      "title": "Along Came Betty",
+      "id": null
+    },
+    {
+      "title": "If I Ever Lose This Heaven",
+      "id": null
+    }
+  ]
+}

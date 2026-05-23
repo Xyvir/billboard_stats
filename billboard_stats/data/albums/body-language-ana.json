@@ -1,1 +1,58 @@
-{"id": "body-language-ana", "title": "Body Language", "artist": "Ana", "peak": 191, "history": [{"date": "1990-06-23", "rank": 191}, {"date": "1990-06-30", "rank": 199}]}
+{
+  "id": "body-language-ana",
+  "title": "Body Language",
+  "artist": "Ana",
+  "peak": 191,
+  "history": [
+    {
+      "date": "1990-06-23",
+      "rank": 191
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Got To Tell Me Something",
+      "id": "got-to-tell-me-something-ana"
+    },
+    {
+      "title": "Body Language",
+      "id": null
+    },
+    {
+      "title": "So Outrageous",
+      "id": null
+    },
+    {
+      "title": "Miracles",
+      "id": null
+    },
+    {
+      "title": "Angel Of Love",
+      "id": null
+    },
+    {
+      "title": "Everytime We Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "What Could I Do",
+      "id": null
+    },
+    {
+      "title": "Over And Over",
+      "id": null
+    },
+    {
+      "title": "Three Steps Close",
+      "id": null
+    },
+    {
+      "title": "Friendly",
+      "id": null
+    }
+  ]
+}
