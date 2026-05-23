@@ -1,1 +1,62 @@
-{"id": "demos-crosby-stills-nash", "title": "dEMOS", "artist": "Crosby, Stills & Nash", "peak": 104, "history": [{"date": "2009-06-20", "rank": 104}]}
+{
+  "id": "demos-crosby-stills-nash",
+  "title": "dEMOS",
+  "artist": "Crosby, Stills & Nash",
+  "peak": 104,
+  "history": [
+    {
+      "date": "2009-06-20",
+      "rank": 104
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Marrakesh Express",
+      "id": "marrakesh-express-crosby-stills-nash"
+    },
+    {
+      "title": "Almost Cut My Hair",
+      "id": null
+    },
+    {
+      "title": "You Don’t Have to Cry",
+      "id": null
+    },
+    {
+      "title": "Déjà vu",
+      "id": null
+    },
+    {
+      "title": "Sleep Song (demo)",
+      "id": null
+    },
+    {
+      "title": "My Love Is a Gentle Thing",
+      "id": null
+    },
+    {
+      "title": "Be Yourself",
+      "id": null
+    },
+    {
+      "title": "Music Is Love",
+      "id": null
+    },
+    {
+      "title": "Singing Call",
+      "id": null
+    },
+    {
+      "title": "Long Time Gone",
+      "id": null
+    },
+    {
+      "title": "Chicago (demo)",
+      "id": null
+    },
+    {
+      "title": "Love the One You're With",
+      "id": null
+    }
+  ]
+}

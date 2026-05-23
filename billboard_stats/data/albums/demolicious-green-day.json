@@ -1,1 +1,82 @@
-{"id": "demolicious-green-day", "title": "Demolicious", "artist": "Green Day", "peak": 112, "history": [{"date": "2014-05-03", "rank": 112}]}
+{
+  "id": "demolicious-green-day",
+  "title": "Demolicious",
+  "artist": "Green Day",
+  "peak": 112,
+  "history": [
+    {
+      "date": "2014-05-03",
+      "rank": 112
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Oh Love",
+      "id": "oh-love-green-day"
+    },
+    {
+      "title": "99 Revolutions",
+      "id": null
+    },
+    {
+      "title": "Angel Blue",
+      "id": null
+    },
+    {
+      "title": "Carpe Diem",
+      "id": null
+    },
+    {
+      "title": "State of Shock",
+      "id": null
+    },
+    {
+      "title": "Let Yourself Go",
+      "id": null
+    },
+    {
+      "title": "Sex, Drugs & Violence",
+      "id": null
+    },
+    {
+      "title": "Ashley",
+      "id": null
+    },
+    {
+      "title": "Fell for You",
+      "id": null
+    },
+    {
+      "title": "Stay the Night",
+      "id": null
+    },
+    {
+      "title": "Nuclear Family",
+      "id": null
+    },
+    {
+      "title": "Stray Heart",
+      "id": null
+    },
+    {
+      "title": "Rusty James",
+      "id": null
+    },
+    {
+      "title": "A Little Boy Named Train",
+      "id": null
+    },
+    {
+      "title": "Baby Eyes",
+      "id": null
+    },
+    {
+      "title": "Makeout Party",
+      "id": null
+    },
+    {
+      "title": "Missing You",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"id": "denim-rhinestones-carrie-underwood", "title": "Denim & Rhinestones", "artist": "Carrie Underwood", "peak": 10, "history": [{"date": "2022-06-25", "rank": 10}, {"date": "2022-07-02", "rank": 72}, {"date": "2022-07-09", "rank": 123}, {"date": "2022-07-23", "rank": 196}]}
+{
+  "id": "denim-rhinestones-carrie-underwood",
+  "title": "Denim & Rhinestones",
+  "artist": "Carrie Underwood",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2022-06-25",
+      "rank": 10
+    },
+    {
+      "date": "2022-07-02",
+      "rank": 72
+    },
+    {
+      "date": "2022-07-09",
+      "rank": 123
+    },
+    {
+      "date": "2022-07-23",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Velvet Heartbreak",
+      "id": "heartbeat-carrie-underwood"
+    },
+    {
+      "title": "Ghost Story",
+      "id": "ghost-story-carrie-underwood"
+    },
+    {
+      "title": "Faster",
+      "id": "wasted-carrie-underwood"
+    },
+    {
+      "title": "Denim & Rhinestones",
+      "id": null
+    },
+    {
+      "title": "Hate My Heart",
+      "id": null
+    },
+    {
+      "title": "Burn",
+      "id": null
+    },
+    {
+      "title": "Crazy Angels",
+      "id": null
+    },
+    {
+      "title": "Pink Champagne",
+      "id": null
+    },
+    {
+      "title": "Wanted Woman",
+      "id": null
+    },
+    {
+      "title": "Poor Everybody Else",
+      "id": null
+    },
+    {
+      "title": "She Don’t Know",
+      "id": null
+    },
+    {
+      "title": "Garden",
+      "id": null
+    }
+  ]
+}
