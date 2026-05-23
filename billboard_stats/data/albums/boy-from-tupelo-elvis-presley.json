@@ -1,1 +1,86 @@
-{"id": "boy-from-tupelo-elvis-presley", "title": "Boy From Tupelo", "artist": "Elvis Presley", "peak": 92, "history": [{"date": "2010-01-16", "rank": 122}, {"date": "2010-01-23", "rank": 92}, {"date": "2010-01-30", "rank": 116}, {"date": "2010-02-06", "rank": 160}]}
+{
+  "id": "boy-from-tupelo-elvis-presley",
+  "title": "Boy From Tupelo",
+  "artist": "Elvis Presley",
+  "peak": 92,
+  "history": [
+    {
+      "date": "2010-01-16",
+      "rank": 122
+    },
+    {
+      "date": "2010-01-23",
+      "rank": 92
+    },
+    {
+      "date": "2010-01-30",
+      "rank": 116
+    },
+    {
+      "date": "2010-02-06",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tryin’ to Get to You",
+      "id": "in-the-ghetto-elvis-presley"
+    },
+    {
+      "title": "I Got a Woman",
+      "id": "guitar-man-elvis-presley"
+    },
+    {
+      "title": "That’s All Right",
+      "id": null
+    },
+    {
+      "title": "Mystery Train",
+      "id": null
+    },
+    {
+      "title": "One‐Sided Love Affair",
+      "id": null
+    },
+    {
+      "title": "Blue Moon",
+      "id": null
+    },
+    {
+      "title": "My Baby Left Me",
+      "id": null
+    },
+    {
+      "title": "Lawdy Miss Clawdy",
+      "id": null
+    },
+    {
+      "title": "Blue Suede Shoes",
+      "id": null
+    },
+    {
+      "title": "Good Rockin’ Tonight",
+      "id": null
+    },
+    {
+      "title": "So Glad You’re Mine",
+      "id": null
+    },
+    {
+      "title": "Money Honey",
+      "id": null
+    },
+    {
+      "title": "I’m Left, You’re Right, She’s Gone",
+      "id": null
+    },
+    {
+      "title": "Baby, Let’s Play House",
+      "id": null
+    },
+    {
+      "title": "Blue Moon of Kentucky",
+      "id": null
+    }
+  ]
+}

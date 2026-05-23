@@ -1,1 +1,70 @@
-{"id": "bradley-s-barn-sessions-george-jones", "title": "Bradley's Barn Sessions", "artist": "George Jones", "peak": 142, "history": [{"date": "1995-01-28", "rank": 178}, {"date": "1995-02-04", "rank": 142}, {"date": "1995-02-11", "rank": 154}, {"date": "1995-03-11", "rank": 196}]}
+{
+  "id": "bradley-s-barn-sessions-george-jones",
+  "title": "Bradley's Barn Sessions",
+  "artist": "George Jones",
+  "peak": 142,
+  "history": [
+    {
+      "date": "1995-01-28",
+      "rank": 178
+    },
+    {
+      "date": "1995-02-04",
+      "rank": 142
+    },
+    {
+      "date": "1995-02-11",
+      "rank": 154
+    },
+    {
+      "date": "1995-03-11",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Race Is On",
+      "id": "the-race-is-on-george-jones"
+    },
+    {
+      "title": "Bartender Blues",
+      "id": "tender-years-george-jones"
+    },
+    {
+      "title": "White Lightnin’",
+      "id": "white-lightning-george-jones"
+    },
+    {
+      "title": "One Woman Man",
+      "id": null
+    },
+    {
+      "title": "A Good Year for the Roses",
+      "id": null
+    },
+    {
+      "title": "Why Baby Why",
+      "id": null
+    },
+    {
+      "title": "Golden Ring",
+      "id": null
+    },
+    {
+      "title": "Say It’s Not You",
+      "id": null
+    },
+    {
+      "title": "The Love Bug",
+      "id": null
+    },
+    {
+      "title": "Where Grass Won’t Grow",
+      "id": null
+    },
+    {
+      "title": "Good Ones and Bad Ones",
+      "id": null
+    }
+  ]
+}

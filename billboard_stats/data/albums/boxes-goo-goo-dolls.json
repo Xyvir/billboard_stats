@@ -1,1 +1,62 @@
-{"id": "boxes-goo-goo-dolls", "title": "Boxes", "artist": "Goo Goo Dolls", "peak": 27, "history": [{"date": "2016-05-28", "rank": 27}, {"date": "2016-08-27", "rank": 143}]}
+{
+  "id": "boxes-goo-goo-dolls",
+  "title": "Boxes",
+  "artist": "Goo Goo Dolls",
+  "peak": 27,
+  "history": [
+    {
+      "date": "2016-05-28",
+      "rank": 27
+    },
+    {
+      "date": "2016-08-27",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "So Alive",
+      "id": "slide-goo-goo-dolls"
+    },
+    {
+      "title": "Over and Over",
+      "id": null
+    },
+    {
+      "title": "Souls in the Machine",
+      "id": null
+    },
+    {
+      "title": "Flood",
+      "id": null
+    },
+    {
+      "title": "The Pin",
+      "id": null
+    },
+    {
+      "title": "Boxes",
+      "id": null
+    },
+    {
+      "title": "Free of Me",
+      "id": null
+    },
+    {
+      "title": "Reverse",
+      "id": null
+    },
+    {
+      "title": "Lucky One",
+      "id": null
+    },
+    {
+      "title": "Prayer in My Pocket",
+      "id": null
+    },
+    {
+      "title": "Long Way Home",
+      "id": null
+    }
+  ]
+}

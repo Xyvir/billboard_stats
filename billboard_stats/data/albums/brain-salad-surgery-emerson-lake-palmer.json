@@ -1,1 +1,230 @@
-{"id": "brain-salad-surgery-emerson-lake-palmer", "title": "Brain Salad Surgery", "artist": "Emerson, Lake & Palmer", "peak": 11, "history": [{"date": "1973-12-15", "rank": 69}, {"date": "1973-12-22", "rank": 53}, {"date": "1973-12-29", "rank": 27}, {"date": "1974-01-05", "rank": 19}, {"date": "1974-01-12", "rank": 14}, {"date": "1974-01-19", "rank": 12}, {"date": "1974-01-26", "rank": 11}, {"date": "1974-02-02", "rank": 14}, {"date": "1974-02-09", "rank": 16}, {"date": "1974-02-16", "rank": 17}, {"date": "1974-02-23", "rank": 18}, {"date": "1974-03-02", "rank": 19}, {"date": "1974-03-09", "rank": 19}, {"date": "1974-03-16", "rank": 19}, {"date": "1974-03-23", "rank": 26}, {"date": "1974-03-30", "rank": 32}, {"date": "1974-04-06", "rank": 39}, {"date": "1974-04-13", "rank": 41}, {"date": "1974-04-20", "rank": 43}, {"date": "1974-04-27", "rank": 41}, {"date": "1974-05-04", "rank": 38}, {"date": "1974-05-11", "rank": 44}, {"date": "1974-05-18", "rank": 45}, {"date": "1974-05-25", "rank": 46}, {"date": "1974-06-01", "rank": 47}, {"date": "1974-06-08", "rank": 54}, {"date": "1974-06-15", "rank": 52}, {"date": "1974-06-22", "rank": 50}, {"date": "1974-06-29", "rank": 47}, {"date": "1974-07-06", "rank": 52}, {"date": "1974-07-13", "rank": 76}, {"date": "1974-07-20", "rank": 91}, {"date": "1974-07-27", "rank": 86}, {"date": "1974-08-03", "rank": 81}, {"date": "1974-08-10", "rank": 76}, {"date": "1974-08-17", "rank": 74}, {"date": "1974-08-24", "rank": 68}, {"date": "1974-08-31", "rank": 84}, {"date": "1974-09-07", "rank": 108}, {"date": "1974-09-14", "rank": 108}, {"date": "1974-09-21", "rank": 117}, {"date": "1974-09-28", "rank": 125}, {"date": "1974-10-05", "rank": 140}, {"date": "1974-10-12", "rank": 132}, {"date": "1974-10-19", "rank": 141}, {"date": "1974-10-26", "rank": 163}, {"date": "1974-11-02", "rank": 191}]}
+{
+  "id": "brain-salad-surgery-emerson-lake-palmer",
+  "title": "Brain Salad Surgery",
+  "artist": "Emerson, Lake & Palmer",
+  "peak": 11,
+  "history": [
+    {
+      "date": "1973-12-15",
+      "rank": 69
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 53
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 27
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 19
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 14
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 12
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 11
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 14
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 16
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 17
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 18
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 19
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 19
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 19
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 26
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 32
+    },
+    {
+      "date": "1974-04-06",
+      "rank": 39
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 41
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 43
+    },
+    {
+      "date": "1974-04-27",
+      "rank": 41
+    },
+    {
+      "date": "1974-05-04",
+      "rank": 38
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 44
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 45
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 46
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 47
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 54
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 52
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 50
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 47
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 52
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 76
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 91
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 86
+    },
+    {
+      "date": "1974-08-03",
+      "rank": 81
+    },
+    {
+      "date": "1974-08-10",
+      "rank": 76
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 74
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 68
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 84
+    },
+    {
+      "date": "1974-09-07",
+      "rank": 108
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 108
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 117
+    },
+    {
+      "date": "1974-09-28",
+      "rank": 125
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 140
+    },
+    {
+      "date": "1974-10-12",
+      "rank": 132
+    },
+    {
+      "date": "1974-10-19",
+      "rank": 141
+    },
+    {
+      "date": "1974-10-26",
+      "rank": 163
+    },
+    {
+      "date": "1974-11-02",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Jerusalem (first mix)",
+      "id": null
+    },
+    {
+      "title": "Toccata",
+      "id": null
+    },
+    {
+      "title": "Still… You Turn Me On",
+      "id": null
+    },
+    {
+      "title": "Benny the Bouncer",
+      "id": null
+    },
+    {
+      "title": "Karn Evil 9: 1st Impression, Part 1",
+      "id": null
+    },
+    {
+      "title": "Karn Evil 9: 1st Impression, Part 2",
+      "id": null
+    },
+    {
+      "title": "Karn Evil 9: 2nd Impression",
+      "id": null
+    },
+    {
+      "title": "Karn Evil 9: 3rd Impression",
+      "id": null
+    }
+  ]
+}

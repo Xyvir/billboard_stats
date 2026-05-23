@@ -1,1 +1,42 @@
-{"id": "boy-luke-hemmings", "title": "Boy", "artist": "Luke Hemmings", "peak": 99, "history": [{"date": "2024-05-11", "rank": 99}]}
+{
+  "id": "boy-luke-hemmings",
+  "title": "Boy",
+  "artist": "Luke Hemmings",
+  "peak": 99,
+  "history": [
+    {
+      "date": "2024-05-11",
+      "rank": 99
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m Still Your Boy",
+      "id": null
+    },
+    {
+      "title": "Shakes",
+      "id": null
+    },
+    {
+      "title": "Benny",
+      "id": null
+    },
+    {
+      "title": "Close My Eyes",
+      "id": null
+    },
+    {
+      "title": "Garden Life",
+      "id": null
+    },
+    {
+      "title": "Close Enough To Feel You",
+      "id": null
+    },
+    {
+      "title": "Promises",
+      "id": null
+    }
+  ]
+}
