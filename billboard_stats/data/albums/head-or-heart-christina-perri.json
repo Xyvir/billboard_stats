@@ -1,1 +1,110 @@
-{"id": "head-or-heart-christina-perri", "title": "Head Or Heart", "artist": "Christina Perri", "peak": 4, "history": [{"date": "2014-04-19", "rank": 4}, {"date": "2014-04-26", "rank": 23}, {"date": "2014-05-03", "rank": 41}, {"date": "2014-05-10", "rank": 51}, {"date": "2014-05-17", "rank": 68}, {"date": "2014-05-24", "rank": 76}, {"date": "2014-05-31", "rank": 96}, {"date": "2014-06-07", "rank": 85}, {"date": "2014-06-14", "rank": 133}, {"date": "2014-06-21", "rank": 147}]}
+{
+  "id": "head-or-heart-christina-perri",
+  "title": "Head Or Heart",
+  "artist": "Christina Perri",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2014-04-19",
+      "rank": 4
+    },
+    {
+      "date": "2014-04-26",
+      "rank": 23
+    },
+    {
+      "date": "2014-05-03",
+      "rank": 41
+    },
+    {
+      "date": "2014-05-10",
+      "rank": 51
+    },
+    {
+      "date": "2014-05-17",
+      "rank": 68
+    },
+    {
+      "date": "2014-05-24",
+      "rank": 76
+    },
+    {
+      "date": "2014-05-31",
+      "rank": 96
+    },
+    {
+      "date": "2014-06-07",
+      "rank": 85
+    },
+    {
+      "date": "2014-06-14",
+      "rank": 133
+    },
+    {
+      "date": "2014-06-21",
+      "rank": 147
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Human",
+      "id": "human-christina-perri"
+    },
+    {
+      "title": "Sea of Lovers",
+      "id": "jar-of-hearts-christina-perri"
+    },
+    {
+      "title": "Trust",
+      "id": null
+    },
+    {
+      "title": "Burning Gold",
+      "id": null
+    },
+    {
+      "title": "Be My Forever",
+      "id": null
+    },
+    {
+      "title": "One Night",
+      "id": null
+    },
+    {
+      "title": "I Don’t Wanna Break",
+      "id": null
+    },
+    {
+      "title": "The Words",
+      "id": null
+    },
+    {
+      "title": "Lonely Child",
+      "id": null
+    },
+    {
+      "title": "Run",
+      "id": null
+    },
+    {
+      "title": "Butterfly",
+      "id": null
+    },
+    {
+      "title": "Shot Me in the Heart",
+      "id": null
+    },
+    {
+      "title": "I Believe",
+      "id": null
+    },
+    {
+      "title": "Human (Passion Pit remix)",
+      "id": null
+    },
+    {
+      "title": "Human (EDX Festival radio edit)",
+      "id": null
+    }
+  ]
+}
