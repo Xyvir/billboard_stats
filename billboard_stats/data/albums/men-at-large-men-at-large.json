@@ -1,1 +1,110 @@
-{"id": "men-at-large-men-at-large", "title": "Men At Large", "artist": "Men At Large", "peak": 122, "history": [{"date": "1993-02-20", "rank": 175}, {"date": "1993-02-27", "rank": 191}, {"date": "1993-03-06", "rank": 187}, {"date": "1993-03-13", "rank": 176}, {"date": "1993-03-20", "rank": 170}, {"date": "1993-03-27", "rank": 173}, {"date": "1993-04-03", "rank": 141}, {"date": "1993-04-10", "rank": 139}, {"date": "1993-04-17", "rank": 122}, {"date": "1993-04-24", "rank": 131}, {"date": "1993-05-01", "rank": 138}, {"date": "1993-05-08", "rank": 168}, {"date": "1993-05-15", "rank": 179}]}
+{
+  "id": "men-at-large-men-at-large",
+  "title": "Men At Large",
+  "artist": "Men At Large",
+  "peak": 122,
+  "history": [
+    {
+      "date": "1993-02-20",
+      "rank": 175
+    },
+    {
+      "date": "1993-02-27",
+      "rank": 191
+    },
+    {
+      "date": "1993-03-06",
+      "rank": 187
+    },
+    {
+      "date": "1993-03-13",
+      "rank": 176
+    },
+    {
+      "date": "1993-03-20",
+      "rank": 170
+    },
+    {
+      "date": "1993-03-27",
+      "rank": 173
+    },
+    {
+      "date": "1993-04-03",
+      "rank": 141
+    },
+    {
+      "date": "1993-04-10",
+      "rank": 139
+    },
+    {
+      "date": "1993-04-17",
+      "rank": 122
+    },
+    {
+      "date": "1993-04-24",
+      "rank": 131
+    },
+    {
+      "date": "1993-05-01",
+      "rank": 138
+    },
+    {
+      "date": "1993-05-08",
+      "rank": 168
+    },
+    {
+      "date": "1993-05-15",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "So Alone",
+      "id": "so-alone-men-at-large"
+    },
+    {
+      "title": "Where's Dave & Jason (skit intro)",
+      "id": null
+    },
+    {
+      "title": "Use Me (version #1)",
+      "id": null
+    },
+    {
+      "title": "You/Me",
+      "id": null
+    },
+    {
+      "title": "Would You Like to Dance (With Me)",
+      "id": null
+    },
+    {
+      "title": "Um Um Good",
+      "id": null
+    },
+    {
+      "title": "Heartbeat",
+      "id": null
+    },
+    {
+      "title": "Salty Dog",
+      "id": null
+    },
+    {
+      "title": "Stay the Night",
+      "id": null
+    },
+    {
+      "title": "Ain't It Grand",
+      "id": null
+    },
+    {
+      "title": "Use Me (version #2)",
+      "id": null
+    },
+    {
+      "title": "Menz at Larges (skit outro)",
+      "id": null
+    }
+  ]
+}

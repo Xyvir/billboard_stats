@@ -1,1 +1,150 @@
-{"id": "menagerie-bill-withers", "title": "Menagerie", "artist": "Bill Withers", "peak": 39, "history": [{"date": "1977-10-29", "rank": 180}, {"date": "1977-11-05", "rank": 169}, {"date": "1977-11-12", "rank": 144}, {"date": "1977-11-19", "rank": 132}, {"date": "1977-11-26", "rank": 107}, {"date": "1977-12-03", "rank": 94}, {"date": "1977-12-10", "rank": 76}, {"date": "1977-12-17", "rank": 62}, {"date": "1977-12-24", "rank": 50}, {"date": "1977-12-31", "rank": 50}, {"date": "1978-01-07", "rank": 49}, {"date": "1978-01-14", "rank": 49}, {"date": "1978-01-21", "rank": 48}, {"date": "1978-01-28", "rank": 44}, {"date": "1978-02-04", "rank": 40}, {"date": "1978-02-11", "rank": 39}, {"date": "1978-02-18", "rank": 74}, {"date": "1978-02-25", "rank": 73}, {"date": "1978-03-04", "rank": 70}, {"date": "1978-03-11", "rank": 68}, {"date": "1978-03-18", "rank": 66}, {"date": "1978-03-25", "rank": 66}, {"date": "1978-04-01", "rank": 149}, {"date": "1978-04-08", "rank": 149}, {"date": "1978-04-15", "rank": 149}, {"date": "1978-04-22", "rank": 197}]}
+{
+  "id": "menagerie-bill-withers",
+  "title": "Menagerie",
+  "artist": "Bill Withers",
+  "peak": 39,
+  "history": [
+    {
+      "date": "1977-10-29",
+      "rank": 180
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 169
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 144
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 132
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 107
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 94
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 76
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 62
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 50
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 50
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 49
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 49
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 48
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 44
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 40
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 39
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 74
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 73
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 70
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 68
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 66
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 66
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 149
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 149
+    },
+    {
+      "date": "1978-04-15",
+      "rank": 149
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lovely Day",
+      "id": "lovely-day-bill-withers"
+    },
+    {
+      "title": "I Want to Spend the Night",
+      "id": null
+    },
+    {
+      "title": "Lovely Night for Dancing",
+      "id": null
+    },
+    {
+      "title": "Then You Smile at Me",
+      "id": null
+    },
+    {
+      "title": "She Wants To (Get On Down)",
+      "id": null
+    },
+    {
+      "title": "It Ain’t Because of Me Baby",
+      "id": null
+    },
+    {
+      "title": "Tender Things",
+      "id": null
+    },
+    {
+      "title": "Wintertime",
+      "id": null
+    },
+    {
+      "title": "Let Me Be the One You Need",
+      "id": null
+    }
+  ]
+}

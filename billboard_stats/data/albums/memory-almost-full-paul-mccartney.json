@@ -1,1 +1,122 @@
-{"id": "memory-almost-full-paul-mccartney", "title": "Memory Almost Full", "artist": "Paul McCartney", "peak": 3, "history": [{"date": "2007-06-23", "rank": 3}, {"date": "2007-06-30", "rank": 3}, {"date": "2007-07-07", "rank": 5}, {"date": "2007-07-14", "rank": 9}, {"date": "2007-07-21", "rank": 19}, {"date": "2007-07-28", "rank": 26}, {"date": "2007-08-04", "rank": 34}, {"date": "2007-08-11", "rank": 43}, {"date": "2007-08-18", "rank": 55}, {"date": "2007-08-25", "rank": 94}, {"date": "2007-09-01", "rank": 104}, {"date": "2007-09-08", "rank": 118}, {"date": "2007-09-15", "rank": 172}, {"date": "2007-09-22", "rank": 132}, {"date": "2007-11-24", "rank": 165}]}
+{
+  "id": "memory-almost-full-paul-mccartney",
+  "title": "Memory Almost Full",
+  "artist": "Paul McCartney",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2007-06-23",
+      "rank": 3
+    },
+    {
+      "date": "2007-06-30",
+      "rank": 3
+    },
+    {
+      "date": "2007-07-07",
+      "rank": 5
+    },
+    {
+      "date": "2007-07-14",
+      "rank": 9
+    },
+    {
+      "date": "2007-07-21",
+      "rank": 19
+    },
+    {
+      "date": "2007-07-28",
+      "rank": 26
+    },
+    {
+      "date": "2007-08-04",
+      "rank": 34
+    },
+    {
+      "date": "2007-08-11",
+      "rank": 43
+    },
+    {
+      "date": "2007-08-18",
+      "rank": 55
+    },
+    {
+      "date": "2007-08-25",
+      "rank": 94
+    },
+    {
+      "date": "2007-09-01",
+      "rank": 104
+    },
+    {
+      "date": "2007-09-08",
+      "rank": 118
+    },
+    {
+      "date": "2007-09-15",
+      "rank": 172
+    },
+    {
+      "date": "2007-09-22",
+      "rank": 132
+    },
+    {
+      "date": "2007-11-24",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dance Tonight",
+      "id": "dance-tonight-paul-mccartney"
+    },
+    {
+      "title": "House of Wax",
+      "id": "tug-of-war-paul-mccartney"
+    },
+    {
+      "title": "Ever Present Past",
+      "id": null
+    },
+    {
+      "title": "See Your Sunshine",
+      "id": null
+    },
+    {
+      "title": "Only Mama Knows",
+      "id": null
+    },
+    {
+      "title": "You Tell Me",
+      "id": null
+    },
+    {
+      "title": "Mr Bellamy",
+      "id": null
+    },
+    {
+      "title": "Gratitude",
+      "id": null
+    },
+    {
+      "title": "Vintage Clothes",
+      "id": null
+    },
+    {
+      "title": "That Was Me",
+      "id": null
+    },
+    {
+      "title": "Feet in the Clouds",
+      "id": null
+    },
+    {
+      "title": "The End of the End",
+      "id": null
+    },
+    {
+      "title": "Nod Your Head",
+      "id": null
+    }
+  ]
+}
