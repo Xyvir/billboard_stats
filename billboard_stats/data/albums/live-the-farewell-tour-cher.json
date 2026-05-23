@@ -1,1 +1,106 @@
-{"id": "live-the-farewell-tour-cher", "title": "Live: The Farewell Tour", "artist": "Cher", "peak": 40, "history": [{"date": "2003-09-13", "rank": 40}, {"date": "2003-09-20", "rank": 77}, {"date": "2003-09-27", "rank": 103}, {"date": "2003-10-04", "rank": 138}, {"date": "2003-10-11", "rank": 154}, {"date": "2003-10-18", "rank": 195}]}
+{
+  "id": "live-the-farewell-tour-cher",
+  "title": "Live: The Farewell Tour",
+  "artist": "Cher",
+  "peak": 40,
+  "history": [
+    {
+      "date": "2003-09-13",
+      "rank": 40
+    },
+    {
+      "date": "2003-09-20",
+      "rank": 77
+    },
+    {
+      "date": "2003-09-27",
+      "rank": 103
+    },
+    {
+      "date": "2003-10-04",
+      "rank": 138
+    },
+    {
+      "date": "2003-10-11",
+      "rank": 154
+    },
+    {
+      "date": "2003-10-18",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Song for the Lonely",
+      "id": "song-for-the-lonely-cher"
+    },
+    {
+      "title": "I Found Someone",
+      "id": "i-found-someone-cher"
+    },
+    {
+      "title": "Bang Bang (My Baby Shot Me Down)",
+      "id": "bang-bang-my-baby-shot-me-down-cher"
+    },
+    {
+      "title": "All I Really Want to Do",
+      "id": "all-i-really-want-to-do-cher"
+    },
+    {
+      "title": "Half-Breed",
+      "id": "half-breed-cher"
+    },
+    {
+      "title": "Gypsies, Tramps & Thieves",
+      "id": "gypsys-tramps-thieves-cher"
+    },
+    {
+      "title": "Dark Lady",
+      "id": "dark-lady-cher"
+    },
+    {
+      "title": "Take Me Home",
+      "id": "take-me-home-cher"
+    },
+    {
+      "title": "The Way of Love",
+      "id": "the-way-of-love-cher"
+    },
+    {
+      "title": "Just Like Jesse James",
+      "id": "just-like-jesse-james-cher"
+    },
+    {
+      "title": "Heart of Stone",
+      "id": "heart-of-stone-cher"
+    },
+    {
+      "title": "The Shoop Shoop Song (It's in His Kiss)",
+      "id": "the-shoop-shoop-song-it-s-in-his-kiss-cher"
+    },
+    {
+      "title": "Strong Enough",
+      "id": "strong-enough-cher"
+    },
+    {
+      "title": "If I Could Turn Back Time",
+      "id": "if-i-could-turn-back-time-cher"
+    },
+    {
+      "title": "Believe",
+      "id": "believe-cher"
+    },
+    {
+      "title": "I Still Haven't Found What I'm Looking For",
+      "id": null
+    },
+    {
+      "title": "All or Nothing",
+      "id": null
+    },
+    {
+      "title": "After All",
+      "id": null
+    }
+  ]
+}

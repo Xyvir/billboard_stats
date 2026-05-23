@@ -1,1 +1,98 @@
-{"id": "living-eyes-bee-gees", "title": "Living Eyes", "artist": "Bee Gees", "peak": 41, "history": [{"date": "1981-11-21", "rank": 65}, {"date": "1981-11-28", "rank": 49}, {"date": "1981-12-05", "rank": 43}, {"date": "1981-12-12", "rank": 43}, {"date": "1981-12-19", "rank": 41}, {"date": "1981-12-26", "rank": 41}, {"date": "1982-01-02", "rank": 41}, {"date": "1982-01-09", "rank": 44}, {"date": "1982-01-16", "rank": 82}, {"date": "1982-01-23", "rank": 102}, {"date": "1982-01-30", "rank": 155}, {"date": "1982-02-06", "rank": 190}]}
+{
+  "id": "living-eyes-bee-gees",
+  "title": "Living Eyes",
+  "artist": "Bee Gees",
+  "peak": 41,
+  "history": [
+    {
+      "date": "1981-11-21",
+      "rank": 65
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 49
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 43
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 43
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 41
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 41
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 41
+    },
+    {
+      "date": "1982-01-09",
+      "rank": 44
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 82
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 102
+    },
+    {
+      "date": "1982-01-30",
+      "rank": 155
+    },
+    {
+      "date": "1982-02-06",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Living Eyes",
+      "id": "living-eyes-bee-gees"
+    },
+    {
+      "title": "He’s a Liar",
+      "id": "he-s-a-liar-bee-gees"
+    },
+    {
+      "title": "Don’t Fall in Love With Me",
+      "id": "don-t-wanna-live-inside-myself-bee-gees"
+    },
+    {
+      "title": "Paradise",
+      "id": null
+    },
+    {
+      "title": "Soldiers",
+      "id": null
+    },
+    {
+      "title": "I Still Love You",
+      "id": null
+    },
+    {
+      "title": "Wildflower",
+      "id": null
+    },
+    {
+      "title": "Nothing Could Be Good",
+      "id": null
+    },
+    {
+      "title": "Cryin’ Every Day",
+      "id": null
+    },
+    {
+      "title": "Be Who You Are",
+      "id": null
+    }
+  ]
+}

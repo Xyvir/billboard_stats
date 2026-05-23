@@ -1,1 +1,74 @@
-{"id": "live-the-jacksons", "title": "Live", "artist": "The Jacksons", "peak": 191, "history": [{"date": "1984-09-15", "rank": 191}, {"date": "1984-09-22", "rank": 191}]}
+{
+  "id": "live-the-jacksons",
+  "title": "Live",
+  "artist": "The Jacksons",
+  "peak": 191,
+  "history": [
+    {
+      "date": "1984-09-15",
+      "rank": 191
+    },
+    {
+      "date": "1984-09-22",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Opening / Can You Feel It",
+      "id": "can-you-feel-it-the-jacksons"
+    },
+    {
+      "title": "Lovely One",
+      "id": "lovely-one-the-jacksons"
+    },
+    {
+      "title": "Shake Your Body (Down to the Ground)",
+      "id": "shake-your-body-down-to-the-ground-the-jacksons"
+    },
+    {
+      "title": "Things I Do for You",
+      "id": null
+    },
+    {
+      "title": "Off the Wall",
+      "id": null
+    },
+    {
+      "title": "Ben",
+      "id": null
+    },
+    {
+      "title": "This Place Hotel",
+      "id": null
+    },
+    {
+      "title": "She's Out of My Life",
+      "id": null
+    },
+    {
+      "title": "Discussion",
+      "id": null
+    },
+    {
+      "title": "Old Medley",
+      "id": null
+    },
+    {
+      "title": "I'll Be There",
+      "id": null
+    },
+    {
+      "title": "Rock With You",
+      "id": null
+    },
+    {
+      "title": "Working Day and Night",
+      "id": null
+    },
+    {
+      "title": "Don't Stop 'til You Get Enough",
+      "id": null
+    }
+  ]
+}

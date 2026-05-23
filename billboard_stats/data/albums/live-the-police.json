@@ -1,1 +1,134 @@
-{"id": "live-the-police", "title": "Live", "artist": "The Police", "peak": 86, "history": [{"date": "1995-07-01", "rank": 86}, {"date": "1995-07-08", "rank": 128}, {"date": "1995-07-15", "rank": 157}, {"date": "1995-07-22", "rank": 189}, {"date": "1995-07-29", "rank": 200}]}
+{
+  "id": "live-the-police",
+  "title": "Live",
+  "artist": "The Police",
+  "peak": 86,
+  "history": [
+    {
+      "date": "1995-07-01",
+      "rank": 86
+    },
+    {
+      "date": "1995-07-08",
+      "rank": 128
+    },
+    {
+      "date": "1995-07-15",
+      "rank": 157
+    },
+    {
+      "date": "1995-07-22",
+      "rank": 189
+    },
+    {
+      "date": "1995-07-29",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Message in a Bottle",
+      "id": "message-in-a-bottle-the-police"
+    },
+    {
+      "title": "Roxanne",
+      "id": "roxanne-the-police"
+    },
+    {
+      "title": "Can’t Stand Losing You",
+      "id": "don-t-stand-so-close-to-me-the-police"
+    },
+    {
+      "title": "Synchronicity I",
+      "id": "synchronicity-ii-the-police"
+    },
+    {
+      "title": "Synchronicity II",
+      "id": "synchronicity-ii-the-police"
+    },
+    {
+      "title": "De Do Do Do, De Da Da Da",
+      "id": "de-do-do-do-de-da-da-da-the-police"
+    },
+    {
+      "title": "Wrapped Around Your Finger",
+      "id": "wrapped-around-your-finger-the-police"
+    },
+    {
+      "title": "Spirits in the Material World",
+      "id": "spirits-in-the-material-world-the-police"
+    },
+    {
+      "title": "King of Pain",
+      "id": "king-of-pain-the-police"
+    },
+    {
+      "title": "Don’t Stand So Close to Me",
+      "id": "don-t-stand-so-close-to-me-the-police"
+    },
+    {
+      "title": "Every Breath You Take",
+      "id": "every-breath-you-take-the-police"
+    },
+    {
+      "title": "Next to You",
+      "id": null
+    },
+    {
+      "title": "So Lonely",
+      "id": null
+    },
+    {
+      "title": "Truth Hits Everybody",
+      "id": null
+    },
+    {
+      "title": "Walking on the Moon",
+      "id": null
+    },
+    {
+      "title": "Hole in My Life",
+      "id": null
+    },
+    {
+      "title": "Fall Out",
+      "id": null
+    },
+    {
+      "title": "Bring On the Night",
+      "id": null
+    },
+    {
+      "title": "The Bed’s Too Big Without You",
+      "id": null
+    },
+    {
+      "title": "Peanuts",
+      "id": null
+    },
+    {
+      "title": "Landlord",
+      "id": null
+    },
+    {
+      "title": "Born in the 50’s",
+      "id": null
+    },
+    {
+      "title": "Be My Girl / Sally",
+      "id": null
+    },
+    {
+      "title": "Walking in Your Footsteps",
+      "id": null
+    },
+    {
+      "title": "O My God",
+      "id": null
+    },
+    {
+      "title": "Tea in the Sahara",
+      "id": null
+    }
+  ]
+}
