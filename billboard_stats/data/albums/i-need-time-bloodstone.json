@@ -1,1 +1,82 @@
-{"id": "i-need-time-bloodstone", "title": "I Need Time", "artist": "Bloodstone", "peak": 141, "history": [{"date": "1974-08-10", "rank": 178}, {"date": "1974-08-17", "rank": 168}, {"date": "1974-08-24", "rank": 158}, {"date": "1974-08-31", "rank": 148}, {"date": "1974-09-07", "rank": 141}, {"date": "1974-09-14", "rank": 155}, {"date": "1974-09-21", "rank": 168}, {"date": "1974-09-28", "rank": 181}]}
+{
+  "id": "i-need-time-bloodstone",
+  "title": "I Need Time",
+  "artist": "Bloodstone",
+  "peak": 141,
+  "history": [
+    {
+      "date": "1974-08-10",
+      "rank": 178
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 168
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 158
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 148
+    },
+    {
+      "date": "1974-09-07",
+      "rank": 141
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 155
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 168
+    },
+    {
+      "date": "1974-09-28",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "That's Not How It Goes",
+      "id": "that-s-not-how-it-goes-bloodstone"
+    },
+    {
+      "title": "Little Linda",
+      "id": "my-little-lady-bloodstone"
+    },
+    {
+      "title": "Closer Together",
+      "id": null
+    },
+    {
+      "title": "Funky Park",
+      "id": null
+    },
+    {
+      "title": "Out Of My Life",
+      "id": null
+    },
+    {
+      "title": "Loving You Is Just A Pastime",
+      "id": null
+    },
+    {
+      "title": "I Need Time",
+      "id": null
+    },
+    {
+      "title": "I Believe You Now",
+      "id": null
+    },
+    {
+      "title": "Get Up",
+      "id": null
+    },
+    {
+      "title": "We Did It",
+      "id": null
+    }
+  ]
+}

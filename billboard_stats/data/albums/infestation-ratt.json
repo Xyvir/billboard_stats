@@ -1,1 +1,70 @@
-{"id": "infestation-ratt", "title": "Infestation", "artist": "Ratt", "peak": 30, "history": [{"date": "2010-05-08", "rank": 30}, {"date": "2010-05-15", "rank": 122}, {"date": "2010-05-22", "rank": 198}]}
+{
+  "id": "infestation-ratt",
+  "title": "Infestation",
+  "artist": "Ratt",
+  "peak": 30,
+  "history": [
+    {
+      "date": "2010-05-08",
+      "rank": 30
+    },
+    {
+      "date": "2010-05-15",
+      "rank": 122
+    },
+    {
+      "date": "2010-05-22",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Eat Me Up Alive",
+      "id": null
+    },
+    {
+      "title": "Best of Me",
+      "id": null
+    },
+    {
+      "title": "A Little Too Much",
+      "id": null
+    },
+    {
+      "title": "Look Out Below",
+      "id": null
+    },
+    {
+      "title": "Last Call",
+      "id": null
+    },
+    {
+      "title": "Lost Weekend",
+      "id": null
+    },
+    {
+      "title": "As Good as It Gets",
+      "id": null
+    },
+    {
+      "title": "Garden of Eden",
+      "id": null
+    },
+    {
+      "title": "Take a Big Bite",
+      "id": null
+    },
+    {
+      "title": "Take Me Home",
+      "id": null
+    },
+    {
+      "title": "Don’t Let Go",
+      "id": null
+    },
+    {
+      "title": "Scatter",
+      "id": null
+    }
+  ]
+}
