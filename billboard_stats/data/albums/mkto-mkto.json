@@ -1,1 +1,58 @@
-{"id": "mkto-mkto", "title": "MKTO", "artist": "MKTO", "peak": 31, "history": [{"date": "2014-04-19", "rank": 31}]}
+{
+  "id": "mkto-mkto",
+  "title": "MKTO",
+  "artist": "MKTO",
+  "peak": 31,
+  "history": [
+    {
+      "date": "2014-04-19",
+      "rank": 31
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Classic",
+      "id": "classic-mkto"
+    },
+    {
+      "title": "Thank You",
+      "id": null
+    },
+    {
+      "title": "God Only Knows",
+      "id": null
+    },
+    {
+      "title": "American Dream",
+      "id": null
+    },
+    {
+      "title": "Could Be Me",
+      "id": null
+    },
+    {
+      "title": "Forever Until Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Wasted",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Holiday",
+      "id": null
+    },
+    {
+      "title": "Nowhere",
+      "id": null
+    },
+    {
+      "title": "No More Second Chances",
+      "id": null
+    },
+    {
+      "title": "Goodbye Song",
+      "id": null
+    }
+  ]
+}
