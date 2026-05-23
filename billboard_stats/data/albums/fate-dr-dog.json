@@ -1,1 +1,70 @@
-{"id": "fate-dr-dog", "title": "Fate", "artist": "Dr. Dog", "peak": 86, "history": [{"date": "2008-08-09", "rank": 86}, {"date": "2008-08-16", "rank": 153}, {"date": "2008-08-23", "rank": 172}, {"date": "2008-08-30", "rank": 196}]}
+{
+  "id": "fate-dr-dog",
+  "title": "Fate",
+  "artist": "Dr. Dog",
+  "peak": 86,
+  "history": [
+    {
+      "date": "2008-08-09",
+      "rank": 86
+    },
+    {
+      "date": "2008-08-16",
+      "rank": 153
+    },
+    {
+      "date": "2008-08-23",
+      "rank": 172
+    },
+    {
+      "date": "2008-08-30",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Breeze",
+      "id": null
+    },
+    {
+      "title": "Hang On",
+      "id": null
+    },
+    {
+      "title": "The Old Days",
+      "id": null
+    },
+    {
+      "title": "Army of Ancients",
+      "id": null
+    },
+    {
+      "title": "The Rabbit, the Bat, and the Reindeer",
+      "id": null
+    },
+    {
+      "title": "The Ark",
+      "id": null
+    },
+    {
+      "title": "From",
+      "id": null
+    },
+    {
+      "title": "100 Years",
+      "id": null
+    },
+    {
+      "title": "Uncovering the Old",
+      "id": null
+    },
+    {
+      "title": "The Beach",
+      "id": null
+    },
+    {
+      "title": "My Friend",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "father-of-all-green-day", "title": "Father Of All...", "artist": "Green Day", "peak": 4, "history": [{"date": "2020-02-22", "rank": 4}, {"date": "2020-02-29", "rank": 111}, {"date": "2020-03-07", "rank": 191}]}
+{
+  "id": "father-of-all-green-day",
+  "title": "Father Of All...",
+  "artist": "Green Day",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2020-02-22",
+      "rank": 4
+    },
+    {
+      "date": "2020-02-29",
+      "rank": 111
+    },
+    {
+      "date": "2020-03-07",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Father of All...",
+      "id": null
+    },
+    {
+      "title": "Fire, Ready, Aim",
+      "id": null
+    },
+    {
+      "title": "Oh Yeah!",
+      "id": null
+    },
+    {
+      "title": "Meet Me on the Roof",
+      "id": null
+    },
+    {
+      "title": "I Was a Teenage Teenager",
+      "id": null
+    },
+    {
+      "title": "Stab You in the Heart",
+      "id": null
+    },
+    {
+      "title": "Sugar Youth",
+      "id": null
+    },
+    {
+      "title": "Junkies on a High",
+      "id": null
+    },
+    {
+      "title": "Take the Money and Crawl",
+      "id": null
+    },
+    {
+      "title": "Graffitia",
+      "id": null
+    }
+  ]
+}
