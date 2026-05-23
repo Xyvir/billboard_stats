@@ -1,1 +1,74 @@
-{"id": "candy-carol-book-of-love", "title": "Candy Carol", "artist": "Book Of Love", "peak": 174, "history": [{"date": "1991-02-23", "rank": 174}, {"date": "1991-03-02", "rank": 198}, {"date": "1991-03-09", "rank": 185}, {"date": "1991-03-16", "rank": 193}]}
+{
+  "id": "candy-carol-book-of-love",
+  "title": "Candy Carol",
+  "artist": "Book Of Love",
+  "peak": 174,
+  "history": [
+    {
+      "date": "1991-02-23",
+      "rank": 174
+    },
+    {
+      "date": "1991-03-02",
+      "rank": 198
+    },
+    {
+      "date": "1991-03-09",
+      "rank": 185
+    },
+    {
+      "date": "1991-03-16",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Turn the World",
+      "id": null
+    },
+    {
+      "title": "Quiver",
+      "id": null
+    },
+    {
+      "title": "Butterfly",
+      "id": null
+    },
+    {
+      "title": "Sunny Day",
+      "id": null
+    },
+    {
+      "title": "Flower Parade",
+      "id": null
+    },
+    {
+      "title": "Wall Song",
+      "id": null
+    },
+    {
+      "title": "Alice Everyday",
+      "id": null
+    },
+    {
+      "title": "Counting the Rosaries",
+      "id": null
+    },
+    {
+      "title": "Miss Melancholy",
+      "id": null
+    },
+    {
+      "title": "Orange Flip",
+      "id": null
+    },
+    {
+      "title": "Candy Carol",
+      "id": null
+    }
+  ]
+}

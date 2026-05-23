@@ -1,1 +1,90 @@
-{"id": "cannonball-pat-green", "title": "Cannonball", "artist": "Pat Green", "peak": 20, "history": [{"date": "2006-09-09", "rank": 20}, {"date": "2006-09-16", "rank": 70}, {"date": "2006-09-23", "rank": 99}, {"date": "2006-09-30", "rank": 145}, {"date": "2006-10-07", "rank": 168}, {"date": "2006-10-14", "rank": 189}]}
+{
+  "id": "cannonball-pat-green",
+  "title": "Cannonball",
+  "artist": "Pat Green",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2006-09-09",
+      "rank": 20
+    },
+    {
+      "date": "2006-09-16",
+      "rank": 70
+    },
+    {
+      "date": "2006-09-23",
+      "rank": 99
+    },
+    {
+      "date": "2006-09-30",
+      "rank": 145
+    },
+    {
+      "date": "2006-10-07",
+      "rank": 168
+    },
+    {
+      "date": "2006-10-14",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Feels Just Like It Should",
+      "id": "feels-just-like-it-should-pat-green"
+    },
+    {
+      "title": "Cannonball",
+      "id": null
+    },
+    {
+      "title": "Way Back Texas",
+      "id": null
+    },
+    {
+      "title": "Love Like That",
+      "id": null
+    },
+    {
+      "title": "Dixie Lullaby",
+      "id": null
+    },
+    {
+      "title": "Missing Me",
+      "id": null
+    },
+    {
+      "title": "Virginia Belle",
+      "id": null
+    },
+    {
+      "title": "Finder's Keepers",
+      "id": null
+    },
+    {
+      "title": "Won't Let Love",
+      "id": null
+    },
+    {
+      "title": "Lost Without You",
+      "id": null
+    },
+    {
+      "title": "I'm Trying to Find It",
+      "id": null
+    },
+    {
+      "title": "Love Had Something to Say",
+      "id": null
+    },
+    {
+      "title": "Learn How to Live",
+      "id": null
+    },
+    {
+      "title": "Sleeping With the Lights On",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,270 @@
-{"id": "can-t-fight-fate-taylor-dayne", "title": "Can't Fight Fate", "artist": "Taylor Dayne", "peak": 25, "history": [{"date": "1989-11-18", "rank": 102}, {"date": "1989-11-25", "rank": 56}, {"date": "1989-12-02", "rank": 55}, {"date": "1989-12-09", "rank": 49}, {"date": "1989-12-16", "rank": 42}, {"date": "1989-12-23", "rank": 42}, {"date": "1989-12-30", "rank": 39}, {"date": "1990-01-06", "rank": 39}, {"date": "1990-01-13", "rank": 38}, {"date": "1990-01-20", "rank": 36}, {"date": "1990-01-27", "rank": 40}, {"date": "1990-02-03", "rank": 41}, {"date": "1990-02-10", "rank": 39}, {"date": "1990-02-17", "rank": 37}, {"date": "1990-02-24", "rank": 31}, {"date": "1990-03-03", "rank": 29}, {"date": "1990-03-10", "rank": 31}, {"date": "1990-03-17", "rank": 32}, {"date": "1990-03-24", "rank": 28}, {"date": "1990-03-31", "rank": 28}, {"date": "1990-04-07", "rank": 25}, {"date": "1990-04-14", "rank": 28}, {"date": "1990-04-21", "rank": 33}, {"date": "1990-04-28", "rank": 35}, {"date": "1990-05-05", "rank": 39}, {"date": "1990-05-12", "rank": 39}, {"date": "1990-05-19", "rank": 38}, {"date": "1990-05-26", "rank": 39}, {"date": "1990-06-02", "rank": 35}, {"date": "1990-06-09", "rank": 34}, {"date": "1990-06-16", "rank": 29}, {"date": "1990-06-23", "rank": 30}, {"date": "1990-06-30", "rank": 29}, {"date": "1990-07-07", "rank": 30}, {"date": "1990-07-14", "rank": 33}, {"date": "1990-07-21", "rank": 34}, {"date": "1990-07-28", "rank": 36}, {"date": "1990-08-04", "rank": 42}, {"date": "1990-08-11", "rank": 36}, {"date": "1990-08-18", "rank": 36}, {"date": "1990-08-25", "rank": 42}, {"date": "1990-09-01", "rank": 37}, {"date": "1990-09-08", "rank": 37}, {"date": "1990-09-15", "rank": 41}, {"date": "1990-09-22", "rank": 47}, {"date": "1990-09-29", "rank": 54}, {"date": "1990-10-06", "rank": 59}, {"date": "1990-10-13", "rank": 64}, {"date": "1990-10-20", "rank": 77}, {"date": "1990-10-27", "rank": 87}, {"date": "1990-11-03", "rank": 93}, {"date": "1990-11-10", "rank": 99}, {"date": "1990-11-17", "rank": 134}, {"date": "1990-11-24", "rank": 162}, {"date": "1990-12-01", "rank": 197}]}
+{
+  "id": "can-t-fight-fate-taylor-dayne",
+  "title": "Can't Fight Fate",
+  "artist": "Taylor Dayne",
+  "peak": 25,
+  "history": [
+    {
+      "date": "1989-11-18",
+      "rank": 102
+    },
+    {
+      "date": "1989-11-25",
+      "rank": 56
+    },
+    {
+      "date": "1989-12-02",
+      "rank": 55
+    },
+    {
+      "date": "1989-12-09",
+      "rank": 49
+    },
+    {
+      "date": "1989-12-16",
+      "rank": 42
+    },
+    {
+      "date": "1989-12-23",
+      "rank": 42
+    },
+    {
+      "date": "1989-12-30",
+      "rank": 39
+    },
+    {
+      "date": "1990-01-06",
+      "rank": 39
+    },
+    {
+      "date": "1990-01-13",
+      "rank": 38
+    },
+    {
+      "date": "1990-01-20",
+      "rank": 36
+    },
+    {
+      "date": "1990-01-27",
+      "rank": 40
+    },
+    {
+      "date": "1990-02-03",
+      "rank": 41
+    },
+    {
+      "date": "1990-02-10",
+      "rank": 39
+    },
+    {
+      "date": "1990-02-17",
+      "rank": 37
+    },
+    {
+      "date": "1990-02-24",
+      "rank": 31
+    },
+    {
+      "date": "1990-03-03",
+      "rank": 29
+    },
+    {
+      "date": "1990-03-10",
+      "rank": 31
+    },
+    {
+      "date": "1990-03-17",
+      "rank": 32
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 28
+    },
+    {
+      "date": "1990-03-31",
+      "rank": 28
+    },
+    {
+      "date": "1990-04-07",
+      "rank": 25
+    },
+    {
+      "date": "1990-04-14",
+      "rank": 28
+    },
+    {
+      "date": "1990-04-21",
+      "rank": 33
+    },
+    {
+      "date": "1990-04-28",
+      "rank": 35
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 39
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 39
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 38
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 39
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 35
+    },
+    {
+      "date": "1990-06-09",
+      "rank": 34
+    },
+    {
+      "date": "1990-06-16",
+      "rank": 29
+    },
+    {
+      "date": "1990-06-23",
+      "rank": 30
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 29
+    },
+    {
+      "date": "1990-07-07",
+      "rank": 30
+    },
+    {
+      "date": "1990-07-14",
+      "rank": 33
+    },
+    {
+      "date": "1990-07-21",
+      "rank": 34
+    },
+    {
+      "date": "1990-07-28",
+      "rank": 36
+    },
+    {
+      "date": "1990-08-04",
+      "rank": 42
+    },
+    {
+      "date": "1990-08-11",
+      "rank": 36
+    },
+    {
+      "date": "1990-08-18",
+      "rank": 36
+    },
+    {
+      "date": "1990-08-25",
+      "rank": 42
+    },
+    {
+      "date": "1990-09-01",
+      "rank": 37
+    },
+    {
+      "date": "1990-09-08",
+      "rank": 37
+    },
+    {
+      "date": "1990-09-15",
+      "rank": 41
+    },
+    {
+      "date": "1990-09-22",
+      "rank": 47
+    },
+    {
+      "date": "1990-09-29",
+      "rank": 54
+    },
+    {
+      "date": "1990-10-06",
+      "rank": 59
+    },
+    {
+      "date": "1990-10-13",
+      "rank": 64
+    },
+    {
+      "date": "1990-10-20",
+      "rank": 77
+    },
+    {
+      "date": "1990-10-27",
+      "rank": 87
+    },
+    {
+      "date": "1990-11-03",
+      "rank": 93
+    },
+    {
+      "date": "1990-11-10",
+      "rank": 99
+    },
+    {
+      "date": "1990-11-17",
+      "rank": 134
+    },
+    {
+      "date": "1990-11-24",
+      "rank": 162
+    },
+    {
+      "date": "1990-12-01",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "With Every Beat of My Heart",
+      "id": "with-every-beat-of-my-heart-taylor-dayne"
+    },
+    {
+      "title": "I’ll Be Your Shelter",
+      "id": "i-ll-be-your-shelter-taylor-dayne"
+    },
+    {
+      "title": "Love Will Lead You Back",
+      "id": "love-will-lead-you-back-taylor-dayne"
+    },
+    {
+      "title": "Heart of Stone",
+      "id": "heart-of-stone-taylor-dayne"
+    },
+    {
+      "title": "You Can’t Fight Fate",
+      "id": null
+    },
+    {
+      "title": "Up All Night",
+      "id": null
+    },
+    {
+      "title": "I Know the Feeling",
+      "id": null
+    },
+    {
+      "title": "Wait for Me",
+      "id": null
+    },
+    {
+      "title": "You Meant the World to Me",
+      "id": null
+    },
+    {
+      "title": "Ain’t No Good",
+      "id": null
+    }
+  ]
+}
