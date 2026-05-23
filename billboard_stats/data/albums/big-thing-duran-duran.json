@@ -1,1 +1,166 @@
-{"id": "big-thing-duran-duran", "title": "Big Thing", "artist": "Duran Duran", "peak": 24, "history": [{"date": "1988-11-05", "rank": 109}, {"date": "1988-11-12", "rank": 31}, {"date": "1988-11-19", "rank": 25}, {"date": "1988-11-26", "rank": 24}, {"date": "1988-12-03", "rank": 24}, {"date": "1988-12-10", "rank": 25}, {"date": "1988-12-17", "rank": 29}, {"date": "1988-12-24", "rank": 30}, {"date": "1988-12-31", "rank": 30}, {"date": "1989-01-07", "rank": 35}, {"date": "1989-01-14", "rank": 36}, {"date": "1989-01-21", "rank": 32}, {"date": "1989-01-28", "rank": 37}, {"date": "1989-02-04", "rank": 40}, {"date": "1989-02-11", "rank": 40}, {"date": "1989-02-18", "rank": 43}, {"date": "1989-02-25", "rank": 52}, {"date": "1989-03-04", "rank": 57}, {"date": "1989-03-11", "rank": 77}, {"date": "1989-03-18", "rank": 81}, {"date": "1989-03-25", "rank": 97}, {"date": "1989-04-01", "rank": 92}, {"date": "1989-04-08", "rank": 107}, {"date": "1989-04-15", "rank": 116}, {"date": "1989-04-22", "rank": 157}, {"date": "1989-04-29", "rank": 186}]}
+{
+  "id": "big-thing-duran-duran",
+  "title": "Big Thing",
+  "artist": "Duran Duran",
+  "peak": 24,
+  "history": [
+    {
+      "date": "1988-11-05",
+      "rank": 109
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 31
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 25
+    },
+    {
+      "date": "1988-11-26",
+      "rank": 24
+    },
+    {
+      "date": "1988-12-03",
+      "rank": 24
+    },
+    {
+      "date": "1988-12-10",
+      "rank": 25
+    },
+    {
+      "date": "1988-12-17",
+      "rank": 29
+    },
+    {
+      "date": "1988-12-24",
+      "rank": 30
+    },
+    {
+      "date": "1988-12-31",
+      "rank": 30
+    },
+    {
+      "date": "1989-01-07",
+      "rank": 35
+    },
+    {
+      "date": "1989-01-14",
+      "rank": 36
+    },
+    {
+      "date": "1989-01-21",
+      "rank": 32
+    },
+    {
+      "date": "1989-01-28",
+      "rank": 37
+    },
+    {
+      "date": "1989-02-04",
+      "rank": 40
+    },
+    {
+      "date": "1989-02-11",
+      "rank": 40
+    },
+    {
+      "date": "1989-02-18",
+      "rank": 43
+    },
+    {
+      "date": "1989-02-25",
+      "rank": 52
+    },
+    {
+      "date": "1989-03-04",
+      "rank": 57
+    },
+    {
+      "date": "1989-03-11",
+      "rank": 77
+    },
+    {
+      "date": "1989-03-18",
+      "rank": 81
+    },
+    {
+      "date": "1989-03-25",
+      "rank": 97
+    },
+    {
+      "date": "1989-04-01",
+      "rank": 92
+    },
+    {
+      "date": "1989-04-08",
+      "rank": 107
+    },
+    {
+      "date": "1989-04-15",
+      "rank": 116
+    },
+    {
+      "date": "1989-04-22",
+      "rank": 157
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Don’t Want Your Love",
+      "id": "i-don-t-want-your-love-duran-duran"
+    },
+    {
+      "title": "All She Wants Is",
+      "id": "all-she-wants-is-duran-duran"
+    },
+    {
+      "title": "Do You Believe in Shame?",
+      "id": "do-you-believe-in-shame-duran-duran"
+    },
+    {
+      "title": "Big Thing",
+      "id": null
+    },
+    {
+      "title": "Too Late Marlene",
+      "id": null
+    },
+    {
+      "title": "Drug (It’s Just a State of Mind)",
+      "id": null
+    },
+    {
+      "title": "Palomino",
+      "id": null
+    },
+    {
+      "title": "Interlude One",
+      "id": null
+    },
+    {
+      "title": "Land",
+      "id": null
+    },
+    {
+      "title": "Flute Interlude",
+      "id": null
+    },
+    {
+      "title": "The Edge of America",
+      "id": null
+    },
+    {
+      "title": "Lake Shore Driving",
+      "id": null
+    },
+    {
+      "title": "Drug (It’s Just a State of Mind) (Daniel Abraham mix)",
+      "id": null
+    }
+  ]
+}
