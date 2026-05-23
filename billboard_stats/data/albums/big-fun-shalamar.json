@@ -1,1 +1,194 @@
-{"id": "big-fun-shalamar", "title": "Big Fun", "artist": "Shalamar", "peak": 23, "history": [{"date": "1979-11-10", "rank": 184}, {"date": "1979-11-17", "rank": 184}, {"date": "1979-12-15", "rank": 151}, {"date": "1979-12-22", "rank": 123}, {"date": "1979-12-29", "rank": 123}, {"date": "1980-01-05", "rank": 99}, {"date": "1980-01-12", "rank": 74}, {"date": "1980-01-19", "rank": 53}, {"date": "1980-01-26", "rank": 47}, {"date": "1980-02-02", "rank": 42}, {"date": "1980-02-09", "rank": 39}, {"date": "1980-02-16", "rank": 28}, {"date": "1980-02-23", "rank": 27}, {"date": "1980-03-01", "rank": 26}, {"date": "1980-03-08", "rank": 25}, {"date": "1980-03-15", "rank": 25}, {"date": "1980-03-22", "rank": 23}, {"date": "1980-03-29", "rank": 23}, {"date": "1980-04-05", "rank": 28}, {"date": "1980-04-12", "rank": 38}, {"date": "1980-04-19", "rank": 37}, {"date": "1980-04-26", "rank": 48}, {"date": "1980-05-03", "rank": 54}, {"date": "1980-05-10", "rank": 64}, {"date": "1980-05-17", "rank": 64}, {"date": "1980-05-24", "rank": 92}, {"date": "1980-05-31", "rank": 92}, {"date": "1980-06-07", "rank": 100}, {"date": "1980-06-14", "rank": 127}, {"date": "1980-06-21", "rank": 140}, {"date": "1980-06-28", "rank": 178}, {"date": "1980-07-05", "rank": 180}, {"date": "1980-07-12", "rank": 199}, {"date": "1980-07-19", "rank": 194}, {"date": "1980-07-26", "rank": 194}, {"date": "1980-08-02", "rank": 193}]}
+{
+  "id": "big-fun-shalamar",
+  "title": "Big Fun",
+  "artist": "Shalamar",
+  "peak": 23,
+  "history": [
+    {
+      "date": "1979-11-10",
+      "rank": 184
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 184
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 151
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 123
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 123
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 99
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 74
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 53
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 47
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 42
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 39
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 28
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 27
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 26
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 25
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 25
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 23
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 23
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 28
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 38
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 37
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 48
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 54
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 64
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 64
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 92
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 92
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 100
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 127
+    },
+    {
+      "date": "1980-06-21",
+      "rank": 140
+    },
+    {
+      "date": "1980-06-28",
+      "rank": 178
+    },
+    {
+      "date": "1980-07-05",
+      "rank": 180
+    },
+    {
+      "date": "1980-07-12",
+      "rank": 199
+    },
+    {
+      "date": "1980-07-19",
+      "rank": 194
+    },
+    {
+      "date": "1980-07-26",
+      "rank": 194
+    },
+    {
+      "date": "1980-08-02",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Take Me to the River",
+      "id": "take-that-to-the-bank-shalamar"
+    },
+    {
+      "title": "Right in the Socket",
+      "id": "dancing-in-the-sheets-shalamar"
+    },
+    {
+      "title": "The Second Time Around",
+      "id": "the-second-time-around-shalamar"
+    },
+    {
+      "title": "Second Time Around (Hithouse Clubmix)",
+      "id": "the-second-time-around-shalamar"
+    },
+    {
+      "title": "The Second Time Around (12″ mix)",
+      "id": "the-second-time-around-shalamar"
+    },
+    {
+      "title": "The Right Time for Us",
+      "id": null
+    },
+    {
+      "title": "I Owe You One",
+      "id": null
+    },
+    {
+      "title": "Let’s Find the Time for Love",
+      "id": null
+    },
+    {
+      "title": "Girl",
+      "id": null
+    },
+    {
+      "title": "Right in the Socket (remix)",
+      "id": null
+    }
+  ]
+}

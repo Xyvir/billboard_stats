@@ -1,1 +1,158 @@
-{"id": "big-game-white-lion", "title": "Big Game", "artist": "White Lion", "peak": 19, "history": [{"date": "1989-07-01", "rank": 73}, {"date": "1989-07-08", "rank": 43}, {"date": "1989-07-15", "rank": 33}, {"date": "1989-07-22", "rank": 23}, {"date": "1989-07-29", "rank": 22}, {"date": "1989-08-05", "rank": 19}, {"date": "1989-08-12", "rank": 19}, {"date": "1989-08-19", "rank": 22}, {"date": "1989-08-26", "rank": 21}, {"date": "1989-09-02", "rank": 24}, {"date": "1989-09-09", "rank": 26}, {"date": "1989-09-16", "rank": 29}, {"date": "1989-09-23", "rank": 36}, {"date": "1989-09-30", "rank": 37}, {"date": "1989-10-07", "rank": 36}, {"date": "1989-10-14", "rank": 43}, {"date": "1989-10-21", "rank": 45}, {"date": "1989-10-28", "rank": 50}, {"date": "1989-11-04", "rank": 59}, {"date": "1989-11-11", "rank": 63}, {"date": "1989-11-18", "rank": 74}, {"date": "1989-11-25", "rank": 85}, {"date": "1989-12-02", "rank": 95}, {"date": "1989-12-09", "rank": 128}, {"date": "1989-12-16", "rank": 161}, {"date": "1989-12-23", "rank": 185}]}
+{
+  "id": "big-game-white-lion",
+  "title": "Big Game",
+  "artist": "White Lion",
+  "peak": 19,
+  "history": [
+    {
+      "date": "1989-07-01",
+      "rank": 73
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 43
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 33
+    },
+    {
+      "date": "1989-07-22",
+      "rank": 23
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 22
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 19
+    },
+    {
+      "date": "1989-08-12",
+      "rank": 19
+    },
+    {
+      "date": "1989-08-19",
+      "rank": 22
+    },
+    {
+      "date": "1989-08-26",
+      "rank": 21
+    },
+    {
+      "date": "1989-09-02",
+      "rank": 24
+    },
+    {
+      "date": "1989-09-09",
+      "rank": 26
+    },
+    {
+      "date": "1989-09-16",
+      "rank": 29
+    },
+    {
+      "date": "1989-09-23",
+      "rank": 36
+    },
+    {
+      "date": "1989-09-30",
+      "rank": 37
+    },
+    {
+      "date": "1989-10-07",
+      "rank": 36
+    },
+    {
+      "date": "1989-10-14",
+      "rank": 43
+    },
+    {
+      "date": "1989-10-21",
+      "rank": 45
+    },
+    {
+      "date": "1989-10-28",
+      "rank": 50
+    },
+    {
+      "date": "1989-11-04",
+      "rank": 59
+    },
+    {
+      "date": "1989-11-11",
+      "rank": 63
+    },
+    {
+      "date": "1989-11-18",
+      "rank": 74
+    },
+    {
+      "date": "1989-11-25",
+      "rank": 85
+    },
+    {
+      "date": "1989-12-02",
+      "rank": 95
+    },
+    {
+      "date": "1989-12-09",
+      "rank": 128
+    },
+    {
+      "date": "1989-12-16",
+      "rank": 161
+    },
+    {
+      "date": "1989-12-23",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Little Fighter",
+      "id": "little-fighter-white-lion"
+    },
+    {
+      "title": "Radar Love",
+      "id": "radar-love-white-lion"
+    },
+    {
+      "title": "Goin’ Home Tonight",
+      "id": null
+    },
+    {
+      "title": "Dirty Woman",
+      "id": null
+    },
+    {
+      "title": "Broken Home",
+      "id": null
+    },
+    {
+      "title": "Baby Be Mine",
+      "id": null
+    },
+    {
+      "title": "Living on the Edge",
+      "id": null
+    },
+    {
+      "title": "Let’s Get Crazy",
+      "id": null
+    },
+    {
+      "title": "Don’t Say It’s Over",
+      "id": null
+    },
+    {
+      "title": "If My Mind Is Evil",
+      "id": null
+    },
+    {
+      "title": "Cry for Freedom",
+      "id": null
+    }
+  ]
+}

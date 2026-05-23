@@ -1,1 +1,62 @@
-{"id": "big-fun-miles-davis", "title": "Big Fun", "artist": "Miles Davis", "peak": 179, "history": [{"date": "1974-06-08", "rank": 193}, {"date": "1974-06-15", "rank": 187}, {"date": "1974-06-22", "rank": 183}, {"date": "1974-06-29", "rank": 180}, {"date": "1974-07-06", "rank": 179}]}
+{
+  "id": "big-fun-miles-davis",
+  "title": "Big Fun",
+  "artist": "Miles Davis",
+  "peak": 179,
+  "history": [
+    {
+      "date": "1974-06-08",
+      "rank": 193
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 187
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 183
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 180
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Great Expectations",
+      "id": null
+    },
+    {
+      "title": "Ife",
+      "id": null
+    },
+    {
+      "title": "Recollections",
+      "id": null
+    },
+    {
+      "title": "Trevere",
+      "id": null
+    },
+    {
+      "title": "Go Ahead John",
+      "id": null
+    },
+    {
+      "title": "Lonely Fire",
+      "id": null
+    },
+    {
+      "title": "The Little Blue Frog (mst)",
+      "id": null
+    },
+    {
+      "title": "Yaphet",
+      "id": null
+    }
+  ]
+}
