@@ -1,1 +1,58 @@
-{"id": "merry-christmas-bing-crosby", "title": "Merry Christmas", "artist": "Bing Crosby", "peak": 55, "history": [{"date": "2023-12-16", "rank": 78}, {"date": "2023-12-23", "rank": 77}, {"date": "2023-12-30", "rank": 69}, {"date": "2024-01-06", "rank": 55}]}
+{
+  "id": "merry-christmas-bing-crosby",
+  "title": "Merry Christmas",
+  "artist": "Bing Crosby",
+  "peak": 55,
+  "history": [
+    {
+      "date": "2023-12-16",
+      "rank": 78
+    },
+    {
+      "date": "2023-12-23",
+      "rank": 77
+    },
+    {
+      "date": "2023-12-30",
+      "rank": 69
+    },
+    {
+      "date": "2024-01-06",
+      "rank": 55
+    }
+  ],
+  "tracks": [
+    {
+      "title": "White Christmas",
+      "id": "white-christmas-v-bing-crosby"
+    },
+    {
+      "title": "Silent Night, Holy Night",
+      "id": null
+    },
+    {
+      "title": "Adeste Fideles",
+      "id": null
+    },
+    {
+      "title": "God Rest Ye Merry Gentlemen",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Home for Christmas (If Only in My Dreams)",
+      "id": null
+    },
+    {
+      "title": "Faith of Our Fathers",
+      "id": null
+    },
+    {
+      "title": "Jingle Bells",
+      "id": null
+    },
+    {
+      "title": "Santa Claus Is Comin’ to Town",
+      "id": null
+    }
+  ]
+}

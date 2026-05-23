@@ -1,1 +1,82 @@
-{"id": "mercury-lane-jimmie-allen", "title": "Mercury Lane", "artist": "Jimmie Allen", "peak": 128, "history": [{"date": "2018-10-27", "rank": 128}, {"date": "2019-01-12", "rank": 198}, {"date": "2019-01-19", "rank": 185}]}
+{
+  "id": "mercury-lane-jimmie-allen",
+  "title": "Mercury Lane",
+  "artist": "Jimmie Allen",
+  "peak": 128,
+  "history": [
+    {
+      "date": "2018-10-27",
+      "rank": 128
+    },
+    {
+      "date": "2019-01-12",
+      "rank": 198
+    },
+    {
+      "date": "2019-01-19",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Make Me Want To",
+      "id": "make-me-want-to-jimmie-allen"
+    },
+    {
+      "title": "Best Shot",
+      "id": "best-shot-jimmie-allen"
+    },
+    {
+      "title": "American Heartbreaker",
+      "id": null
+    },
+    {
+      "title": "Deserve to Be",
+      "id": null
+    },
+    {
+      "title": "How to Be Single",
+      "id": null
+    },
+    {
+      "title": "Wait for It",
+      "id": null
+    },
+    {
+      "title": "High Life",
+      "id": null
+    },
+    {
+      "title": "21",
+      "id": null
+    },
+    {
+      "title": "Underdogs",
+      "id": null
+    },
+    {
+      "title": "Like You Do",
+      "id": null
+    },
+    {
+      "title": "Back of Your Mind",
+      "id": null
+    },
+    {
+      "title": "Boy Gets a Truck",
+      "id": null
+    },
+    {
+      "title": "County Lines",
+      "id": null
+    },
+    {
+      "title": "Warrior",
+      "id": null
+    },
+    {
+      "title": "All Tractors Ain’t Green",
+      "id": null
+    }
+  ]
+}
