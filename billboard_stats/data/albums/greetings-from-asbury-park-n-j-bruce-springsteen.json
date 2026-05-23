@@ -1,1 +1,218 @@
-{"id": "greetings-from-asbury-park-n-j-bruce-springsteen", "title": "Greetings From Asbury Park, N.J.", "artist": "Bruce Springsteen", "peak": 60, "history": [{"date": "1975-07-26", "rank": 184}, {"date": "1975-08-02", "rank": 174}, {"date": "1975-08-09", "rank": 164}, {"date": "1975-08-16", "rank": 160}, {"date": "1975-08-23", "rank": 158}, {"date": "1975-08-30", "rank": 148}, {"date": "1975-09-06", "rank": 138}, {"date": "1975-09-13", "rank": 126}, {"date": "1975-09-20", "rank": 99}, {"date": "1975-09-27", "rank": 84}, {"date": "1975-10-04", "rank": 73}, {"date": "1975-10-11", "rank": 62}, {"date": "1975-10-18", "rank": 60}, {"date": "1975-10-25", "rank": 86}, {"date": "1975-11-01", "rank": 99}, {"date": "1975-11-08", "rank": 126}, {"date": "1975-11-15", "rank": 116}, {"date": "1975-11-22", "rank": 96}, {"date": "1975-11-29", "rank": 86}, {"date": "1975-12-06", "rank": 86}, {"date": "1975-12-13", "rank": 146}, {"date": "1975-12-20", "rank": 149}, {"date": "1975-12-27", "rank": 189}, {"date": "1976-01-03", "rank": 189}, {"date": "1976-01-10", "rank": 185}, {"date": "1976-01-17", "rank": 179}, {"date": "1976-01-24", "rank": 181}, {"date": "1980-11-15", "rank": 146}, {"date": "1980-11-22", "rank": 146}, {"date": "1980-11-29", "rank": 140}, {"date": "1980-12-06", "rank": 135}, {"date": "1980-12-13", "rank": 161}, {"date": "1980-12-20", "rank": 162}, {"date": "1980-12-27", "rank": 171}, {"date": "1981-01-03", "rank": 171}, {"date": "1981-01-10", "rank": 171}, {"date": "1985-11-16", "rank": 195}, {"date": "1985-11-23", "rank": 192}, {"date": "1986-01-18", "rank": 195}, {"date": "1986-01-25", "rank": 194}, {"date": "1986-02-01", "rank": 197}, {"date": "1986-02-08", "rank": 194}, {"date": "1986-02-15", "rank": 192}]}
+{
+  "id": "greetings-from-asbury-park-n-j-bruce-springsteen",
+  "title": "Greetings From Asbury Park, N.J.",
+  "artist": "Bruce Springsteen",
+  "peak": 60,
+  "history": [
+    {
+      "date": "1975-07-26",
+      "rank": 184
+    },
+    {
+      "date": "1975-08-02",
+      "rank": 174
+    },
+    {
+      "date": "1975-08-09",
+      "rank": 164
+    },
+    {
+      "date": "1975-08-16",
+      "rank": 160
+    },
+    {
+      "date": "1975-08-23",
+      "rank": 158
+    },
+    {
+      "date": "1975-08-30",
+      "rank": 148
+    },
+    {
+      "date": "1975-09-06",
+      "rank": 138
+    },
+    {
+      "date": "1975-09-13",
+      "rank": 126
+    },
+    {
+      "date": "1975-09-20",
+      "rank": 99
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 84
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 73
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 62
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 60
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 86
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 99
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 126
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 116
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 96
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 86
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 86
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 146
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 149
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 189
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 189
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 185
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 179
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 181
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 146
+    },
+    {
+      "date": "1980-11-22",
+      "rank": 146
+    },
+    {
+      "date": "1980-11-29",
+      "rank": 140
+    },
+    {
+      "date": "1980-12-06",
+      "rank": 135
+    },
+    {
+      "date": "1980-12-13",
+      "rank": 161
+    },
+    {
+      "date": "1980-12-20",
+      "rank": 162
+    },
+    {
+      "date": "1980-12-27",
+      "rank": 171
+    },
+    {
+      "date": "1981-01-03",
+      "rank": 171
+    },
+    {
+      "date": "1981-01-10",
+      "rank": 171
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 195
+    },
+    {
+      "date": "1985-11-23",
+      "rank": 192
+    },
+    {
+      "date": "1986-01-18",
+      "rank": 195
+    },
+    {
+      "date": "1986-01-25",
+      "rank": 194
+    },
+    {
+      "date": "1986-02-01",
+      "rank": 197
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 194
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Angel",
+      "id": "the-rising-bruce-springsteen"
+    },
+    {
+      "title": "Blinded by the Light",
+      "id": null
+    },
+    {
+      "title": "Growin’ Up",
+      "id": null
+    },
+    {
+      "title": "Mary Queen of Arkansas",
+      "id": null
+    },
+    {
+      "title": "Does This Bus Stop at 82nd Street?",
+      "id": null
+    },
+    {
+      "title": "Lost in the Flood",
+      "id": null
+    },
+    {
+      "title": "For You",
+      "id": null
+    },
+    {
+      "title": "Spirit in the Night",
+      "id": null
+    },
+    {
+      "title": "It’s Hard to Be a Saint in the City",
+      "id": null
+    }
+  ]
+}
