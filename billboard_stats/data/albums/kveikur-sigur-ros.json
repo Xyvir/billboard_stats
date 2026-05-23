@@ -1,1 +1,62 @@
-{"id": "kveikur-sigur-ros", "title": "Kveikur", "artist": "Sigur Ros", "peak": 14, "history": [{"date": "2013-07-06", "rank": 14}, {"date": "2013-07-13", "rank": 78}, {"date": "2013-07-20", "rank": 129}, {"date": "2013-07-27", "rank": 197}]}
+{
+  "id": "kveikur-sigur-ros",
+  "title": "Kveikur",
+  "artist": "Sigur Ros",
+  "peak": 14,
+  "history": [
+    {
+      "date": "2013-07-06",
+      "rank": 14
+    },
+    {
+      "date": "2013-07-13",
+      "rank": 78
+    },
+    {
+      "date": "2013-07-20",
+      "rank": 129
+    },
+    {
+      "date": "2013-07-27",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Brennisteinn",
+      "id": null
+    },
+    {
+      "title": "Hrafntinna",
+      "id": null
+    },
+    {
+      "title": "Ísjaki",
+      "id": null
+    },
+    {
+      "title": "Yfirborð",
+      "id": null
+    },
+    {
+      "title": "Stormur",
+      "id": null
+    },
+    {
+      "title": "Kveikur",
+      "id": null
+    },
+    {
+      "title": "Rafstraumur",
+      "id": null
+    },
+    {
+      "title": "Bláþráður",
+      "id": null
+    },
+    {
+      "title": "Var",
+      "id": null
+    }
+  ]
+}

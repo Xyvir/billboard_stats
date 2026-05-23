@@ -1,1 +1,86 @@
-{"id": "kurtis-blow-kurtis-blow", "title": "Kurtis Blow", "artist": "Kurtis Blow", "peak": 71, "history": [{"date": "1980-10-18", "rank": 109}, {"date": "1980-10-25", "rank": 102}, {"date": "1980-11-01", "rank": 79}, {"date": "1980-11-08", "rank": 73}, {"date": "1980-11-15", "rank": 73}, {"date": "1980-11-22", "rank": 71}, {"date": "1980-11-29", "rank": 104}, {"date": "1980-12-06", "rank": 152}, {"date": "1980-12-13", "rank": 151}, {"date": "1980-12-20", "rank": 171}]}
+{
+  "id": "kurtis-blow-kurtis-blow",
+  "title": "Kurtis Blow",
+  "artist": "Kurtis Blow",
+  "peak": 71,
+  "history": [
+    {
+      "date": "1980-10-18",
+      "rank": 109
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 102
+    },
+    {
+      "date": "1980-11-01",
+      "rank": 79
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 73
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 73
+    },
+    {
+      "date": "1980-11-22",
+      "rank": 71
+    },
+    {
+      "date": "1980-11-29",
+      "rank": 104
+    },
+    {
+      "date": "1980-12-06",
+      "rank": 152
+    },
+    {
+      "date": "1980-12-13",
+      "rank": 151
+    },
+    {
+      "date": "1980-12-20",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Breaks",
+      "id": "the-breaks-part-1-kurtis-blow"
+    },
+    {
+      "title": "The Breaks (instrumental)",
+      "id": "the-breaks-part-1-kurtis-blow"
+    },
+    {
+      "title": "Rappin’ Blow, Part 2",
+      "id": null
+    },
+    {
+      "title": "Way Out West",
+      "id": null
+    },
+    {
+      "title": "Throughout Your Years",
+      "id": null
+    },
+    {
+      "title": "Hard Times",
+      "id": null
+    },
+    {
+      "title": "All I Want in This World (Is to Find That Girl)",
+      "id": null
+    },
+    {
+      "title": "Takin’ Care of Business",
+      "id": null
+    },
+    {
+      "title": "Christmas Rappin’",
+      "id": null
+    }
+  ]
+}

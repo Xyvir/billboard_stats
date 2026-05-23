@@ -1,1 +1,294 @@
-{"id": "kylie-kylie-minogue", "title": "Kylie", "artist": "Kylie Minogue", "peak": 53, "history": [{"date": "1988-09-10", "rank": 168}, {"date": "1988-09-17", "rank": 142}, {"date": "1988-09-24", "rank": 120}, {"date": "1988-10-01", "rank": 94}, {"date": "1988-10-08", "rank": 84}, {"date": "1988-10-15", "rank": 84}, {"date": "1988-10-22", "rank": 83}, {"date": "1988-10-29", "rank": 77}, {"date": "1988-11-05", "rank": 72}, {"date": "1988-11-12", "rank": 70}, {"date": "1988-11-19", "rank": 68}, {"date": "1988-11-26", "rank": 59}, {"date": "1988-12-03", "rank": 58}, {"date": "1988-12-10", "rank": 58}, {"date": "1988-12-17", "rank": 58}, {"date": "1988-12-24", "rank": 58}, {"date": "1988-12-31", "rank": 58}, {"date": "1989-01-07", "rank": 53}, {"date": "1989-01-14", "rank": 53}, {"date": "1989-01-21", "rank": 60}, {"date": "1989-01-28", "rank": 64}, {"date": "1989-02-04", "rank": 65}, {"date": "1989-02-11", "rank": 71}, {"date": "1989-02-18", "rank": 81}, {"date": "1989-02-25", "rank": 91}, {"date": "1989-03-04", "rank": 100}, {"date": "1989-03-11", "rank": 144}, {"date": "1989-03-18", "rank": 163}]}
+{
+  "id": "kylie-kylie-minogue",
+  "title": "Kylie",
+  "artist": "Kylie Minogue",
+  "peak": 53,
+  "history": [
+    {
+      "date": "1988-09-10",
+      "rank": 168
+    },
+    {
+      "date": "1988-09-17",
+      "rank": 142
+    },
+    {
+      "date": "1988-09-24",
+      "rank": 120
+    },
+    {
+      "date": "1988-10-01",
+      "rank": 94
+    },
+    {
+      "date": "1988-10-08",
+      "rank": 84
+    },
+    {
+      "date": "1988-10-15",
+      "rank": 84
+    },
+    {
+      "date": "1988-10-22",
+      "rank": 83
+    },
+    {
+      "date": "1988-10-29",
+      "rank": 77
+    },
+    {
+      "date": "1988-11-05",
+      "rank": 72
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 70
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 68
+    },
+    {
+      "date": "1988-11-26",
+      "rank": 59
+    },
+    {
+      "date": "1988-12-03",
+      "rank": 58
+    },
+    {
+      "date": "1988-12-10",
+      "rank": 58
+    },
+    {
+      "date": "1988-12-17",
+      "rank": 58
+    },
+    {
+      "date": "1988-12-24",
+      "rank": 58
+    },
+    {
+      "date": "1988-12-31",
+      "rank": 58
+    },
+    {
+      "date": "1989-01-07",
+      "rank": 53
+    },
+    {
+      "date": "1989-01-14",
+      "rank": 53
+    },
+    {
+      "date": "1989-01-21",
+      "rank": 60
+    },
+    {
+      "date": "1989-01-28",
+      "rank": 64
+    },
+    {
+      "date": "1989-02-04",
+      "rank": 65
+    },
+    {
+      "date": "1989-02-11",
+      "rank": 71
+    },
+    {
+      "date": "1989-02-18",
+      "rank": 81
+    },
+    {
+      "date": "1989-02-25",
+      "rank": 91
+    },
+    {
+      "date": "1989-03-04",
+      "rank": 100
+    },
+    {
+      "date": "1989-03-11",
+      "rank": 144
+    },
+    {
+      "date": "1989-03-18",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Should Be So Lucky",
+      "id": "i-should-be-so-lucky-kylie-minogue"
+    },
+    {
+      "title": "The Loco‐Motion",
+      "id": "the-loco-motion-kylie-minogue"
+    },
+    {
+      "title": "It’s No Secret",
+      "id": "it-s-no-secret-kylie-minogue"
+    },
+    {
+      "title": "Love at First Sight",
+      "id": "love-at-first-sight-kylie-minogue"
+    },
+    {
+      "title": "I Should Be So Lucky (extended mix)",
+      "id": "i-should-be-so-lucky-kylie-minogue"
+    },
+    {
+      "title": "The Loco‐Motion (The Kohaku mix)",
+      "id": "the-loco-motion-kylie-minogue"
+    },
+    {
+      "title": "It’s No Secret (extended version)",
+      "id": "it-s-no-secret-kylie-minogue"
+    },
+    {
+      "title": "I Should Be So Lucky (The Bicentennial remix)",
+      "id": "i-should-be-so-lucky-kylie-minogue"
+    },
+    {
+      "title": "The Loco‐Motion (The Sankie mix)",
+      "id": "the-loco-motion-kylie-minogue"
+    },
+    {
+      "title": "I Should Be So Lucky (12″ remix)",
+      "id": "i-should-be-so-lucky-kylie-minogue"
+    },
+    {
+      "title": "The Loco‐Motion (12″ master)",
+      "id": "the-loco-motion-kylie-minogue"
+    },
+    {
+      "title": "The Loco‐Motion (Oz Tour mix)",
+      "id": "the-loco-motion-kylie-minogue"
+    },
+    {
+      "title": "The Locomotion",
+      "id": "the-loco-motion-kylie-minogue"
+    },
+    {
+      "title": "I Should Be So Lucky (alternative version)",
+      "id": "i-should-be-so-lucky-kylie-minogue"
+    },
+    {
+      "title": "Intro to ‘The Loco‐Motion’",
+      "id": "the-loco-motion-kylie-minogue"
+    },
+    {
+      "title": "Je ne sais pas pourquoi",
+      "id": null
+    },
+    {
+      "title": "Got to Be Certain",
+      "id": null
+    },
+    {
+      "title": "Turn It Into Love",
+      "id": null
+    },
+    {
+      "title": "I Miss You",
+      "id": null
+    },
+    {
+      "title": "I'll Still Be Loving You",
+      "id": null
+    },
+    {
+      "title": "Look My Way",
+      "id": null
+    },
+    {
+      "title": "I’ll Still Be Loving You",
+      "id": null
+    },
+    {
+      "title": "Made in Heaven",
+      "id": null
+    },
+    {
+      "title": "Locomotion (Australian single version)",
+      "id": null
+    },
+    {
+      "title": "Got to Be Certain (extended version)",
+      "id": null
+    },
+    {
+      "title": "Je ne sais pas pourquoi (Moi non plus mix)",
+      "id": null
+    },
+    {
+      "title": "Made in Heaven (Maid in England mix)",
+      "id": null
+    },
+    {
+      "title": "Locomotion (Chugga‐Motion mix)",
+      "id": null
+    },
+    {
+      "title": "Getting Closer (extended Oz instrumental)",
+      "id": null
+    },
+    {
+      "title": "Got to Be Certain (remix)",
+      "id": null
+    },
+    {
+      "title": "Je ne sais pas pourquoi (The Revolutionary mix)",
+      "id": null
+    },
+    {
+      "title": "Made in Heaven (original 12″ mix)",
+      "id": null
+    },
+    {
+      "title": "Glad to Be Alive",
+      "id": null
+    },
+    {
+      "title": "Getting Closer (UK mix)",
+      "id": null
+    },
+    {
+      "title": "Made in Heaven (Heaven Scent mix)",
+      "id": null
+    },
+    {
+      "title": "Got to Be Certain (video)",
+      "id": null
+    },
+    {
+      "title": "Locomotion (Australian version)",
+      "id": null
+    },
+    {
+      "title": "Got to Be Certain (original version)",
+      "id": null
+    },
+    {
+      "title": "Got to Be Certain (Location‐Only version)",
+      "id": null
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Interview",
+      "id": null
+    },
+    {
+      "title": "The Loco‐Motion (Kylie at the BBC on ‘Top of the Pops’)",
+      "id": null
+    },
+    {
+      "title": "Je ne sais pas pourquoi (Kylie at the BBC on ‘Top of the Pops’)",
+      "id": null
+    }
+  ]
+}
