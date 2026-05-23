@@ -1,1 +1,70 @@
-{"id": "life-love-hope-boston", "title": "Life Love & Hope", "artist": "Boston", "peak": 37, "history": [{"date": "2013-12-21", "rank": 37}, {"date": "2013-12-28", "rank": 120}, {"date": "2014-01-04", "rank": 183}]}
+{
+  "id": "life-love-hope-boston",
+  "title": "Life Love & Hope",
+  "artist": "Boston",
+  "peak": 37,
+  "history": [
+    {
+      "date": "2013-12-21",
+      "rank": 37
+    },
+    {
+      "date": "2013-12-28",
+      "rank": 120
+    },
+    {
+      "date": "2014-01-04",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If You Were in Love",
+      "id": "i-need-your-love-boston"
+    },
+    {
+      "title": "Heaven on Earth",
+      "id": null
+    },
+    {
+      "title": "Didn’t Mean to Fall in Love",
+      "id": null
+    },
+    {
+      "title": "Last Day of School",
+      "id": null
+    },
+    {
+      "title": "Sail Away",
+      "id": null
+    },
+    {
+      "title": "Life, Love & Hope",
+      "id": null
+    },
+    {
+      "title": "Someday",
+      "id": null
+    },
+    {
+      "title": "Love Got Away",
+      "id": null
+    },
+    {
+      "title": "Someone (2.0)",
+      "id": null
+    },
+    {
+      "title": "You Gave Up on Love (2.0)",
+      "id": null
+    },
+    {
+      "title": "The Way You Look Tonight",
+      "id": null
+    },
+    {
+      "title": "Someday (Tom Scholtz Vocal Version)",
+      "id": null
+    }
+  ]
+}
