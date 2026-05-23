@@ -1,1 +1,82 @@
-{"id": "monster-future", "title": "Monster", "artist": "Future", "peak": 120, "history": [{"date": "2019-11-09", "rank": 120}, {"date": "2019-11-16", "rank": 177}]}
+{
+  "id": "monster-future",
+  "title": "Monster",
+  "artist": "Future",
+  "peak": 120,
+  "history": [
+    {
+      "date": "2019-11-09",
+      "rank": 120
+    },
+    {
+      "date": "2019-11-16",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Monster",
+      "id": "honest-future"
+    },
+    {
+      "title": "Showed Up",
+      "id": "crushed-up-future"
+    },
+    {
+      "title": "The Intro",
+      "id": null
+    },
+    {
+      "title": "Radical",
+      "id": null
+    },
+    {
+      "title": "Abu’s Boomin",
+      "id": null
+    },
+    {
+      "title": "Fuck Up Some Commas",
+      "id": null
+    },
+    {
+      "title": "Throw Away",
+      "id": null
+    },
+    {
+      "title": "After That",
+      "id": null
+    },
+    {
+      "title": "My Savages",
+      "id": null
+    },
+    {
+      "title": "2Pac",
+      "id": null
+    },
+    {
+      "title": "Gangland",
+      "id": null
+    },
+    {
+      "title": "Fetti",
+      "id": null
+    },
+    {
+      "title": "Hardly",
+      "id": null
+    },
+    {
+      "title": "Wesley Presley",
+      "id": null
+    },
+    {
+      "title": "Mad Luv",
+      "id": null
+    },
+    {
+      "title": "Codeine Crazy",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "monster-kiss", "title": "Monster", "artist": "Kiss", "peak": 3, "history": [{"date": "2012-10-27", "rank": 3}, {"date": "2012-11-03", "rank": 14}, {"date": "2012-11-10", "rank": 41}, {"date": "2012-11-17", "rank": 60}, {"date": "2012-11-24", "rank": 80}, {"date": "2012-12-01", "rank": 135}, {"date": "2012-12-08", "rank": 131}]}
+{
+  "id": "monster-kiss",
+  "title": "Monster",
+  "artist": "Kiss",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2012-10-27",
+      "rank": 3
+    },
+    {
+      "date": "2012-11-03",
+      "rank": 14
+    },
+    {
+      "date": "2012-11-10",
+      "rank": 41
+    },
+    {
+      "date": "2012-11-17",
+      "rank": 60
+    },
+    {
+      "date": "2012-11-24",
+      "rank": 80
+    },
+    {
+      "date": "2012-12-01",
+      "rank": 135
+    },
+    {
+      "date": "2012-12-08",
+      "rank": 131
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Eat Your Heart Out",
+      "id": "hide-your-heart-kiss"
+    },
+    {
+      "title": "Hell or Hallelujah",
+      "id": null
+    },
+    {
+      "title": "Wall of Sound",
+      "id": null
+    },
+    {
+      "title": "Freak",
+      "id": null
+    },
+    {
+      "title": "Back to the Stone Age",
+      "id": null
+    },
+    {
+      "title": "Shout Mercy",
+      "id": null
+    },
+    {
+      "title": "Long Way Down",
+      "id": null
+    },
+    {
+      "title": "The Devil Is Me",
+      "id": null
+    },
+    {
+      "title": "Outta This World",
+      "id": null
+    },
+    {
+      "title": "All for the Love of Rock & Roll",
+      "id": null
+    },
+    {
+      "title": "Take Me Down Below",
+      "id": null
+    },
+    {
+      "title": "Last Chance",
+      "id": null
+    }
+  ]
+}
