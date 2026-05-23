@@ -1,1 +1,86 @@
-{"id": "let-there-be-rock-ac-dc", "title": "Let There Be Rock", "artist": "AC/DC", "peak": 154, "history": [{"date": "1977-08-13", "rank": 187}, {"date": "1977-08-20", "rank": 183}, {"date": "1977-08-27", "rank": 177}, {"date": "1977-09-03", "rank": 166}, {"date": "1977-09-10", "rank": 161}, {"date": "1977-09-17", "rank": 199}, {"date": "1977-09-24", "rank": 178}, {"date": "1977-10-01", "rank": 168}, {"date": "1977-10-08", "rank": 157}, {"date": "1977-10-15", "rank": 154}, {"date": "1977-10-22", "rank": 194}]}
+{
+  "id": "let-there-be-rock-ac-dc",
+  "title": "Let There Be Rock",
+  "artist": "AC/DC",
+  "peak": 154,
+  "history": [
+    {
+      "date": "1977-08-13",
+      "rank": 187
+    },
+    {
+      "date": "1977-08-20",
+      "rank": 183
+    },
+    {
+      "date": "1977-08-27",
+      "rank": 177
+    },
+    {
+      "date": "1977-09-03",
+      "rank": 166
+    },
+    {
+      "date": "1977-09-10",
+      "rank": 161
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 199
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 178
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 168
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 157
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 154
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Go Down",
+      "id": null
+    },
+    {
+      "title": "Dog Eat Dog",
+      "id": null
+    },
+    {
+      "title": "Let There Be Rock",
+      "id": null
+    },
+    {
+      "title": "Bad Boy Boogie",
+      "id": null
+    },
+    {
+      "title": "Problem Child",
+      "id": null
+    },
+    {
+      "title": "Overdose",
+      "id": null
+    },
+    {
+      "title": "Hell Ain’t a Bad Place to Be",
+      "id": null
+    },
+    {
+      "title": "Whole Lotta Rosie",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"id": "let-the-road-rixton", "title": "Let The Road", "artist": "Rixton", "peak": 32, "history": [{"date": "2015-03-21", "rank": 32}, {"date": "2015-04-11", "rank": 196}]}
+{
+  "id": "let-the-road-rixton",
+  "title": "Let The Road",
+  "artist": "Rixton",
+  "peak": 32,
+  "history": [
+    {
+      "date": "2015-03-21",
+      "rank": 32
+    },
+    {
+      "date": "2015-04-11",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Me and My Broken Heart",
+      "id": "me-and-my-broken-heart-rixton"
+    },
+    {
+      "title": "Let the Road",
+      "id": null
+    },
+    {
+      "title": "Wait on Me",
+      "id": null
+    },
+    {
+      "title": "Appreciated",
+      "id": null
+    },
+    {
+      "title": "Beautiful Excuses",
+      "id": null
+    },
+    {
+      "title": "Hotel Ceiling",
+      "id": null
+    },
+    {
+      "title": "I Like Girls",
+      "id": null
+    },
+    {
+      "title": "Speakerphone",
+      "id": null
+    },
+    {
+      "title": "We All Want the Same Thing",
+      "id": null
+    },
+    {
+      "title": "Whole",
+      "id": null
+    }
+  ]
+}
