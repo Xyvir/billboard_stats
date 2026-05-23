@@ -1,1 +1,82 @@
-{"id": "cities-anberlin", "title": "Cities", "artist": "Anberlin", "peak": 19, "history": [{"date": "2007-03-10", "rank": 19}, {"date": "2007-03-17", "rank": 71}, {"date": "2007-03-24", "rank": 97}, {"date": "2007-03-31", "rank": 132}, {"date": "2007-04-07", "rank": 161}, {"date": "2007-04-14", "rank": 186}]}
+{
+  "id": "cities-anberlin",
+  "title": "Cities",
+  "artist": "Anberlin",
+  "peak": 19,
+  "history": [
+    {
+      "date": "2007-03-10",
+      "rank": 19
+    },
+    {
+      "date": "2007-03-17",
+      "rank": 71
+    },
+    {
+      "date": "2007-03-24",
+      "rank": 97
+    },
+    {
+      "date": "2007-03-31",
+      "rank": 132
+    },
+    {
+      "date": "2007-04-07",
+      "rank": 161
+    },
+    {
+      "date": "2007-04-14",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "(Début)",
+      "id": null
+    },
+    {
+      "title": "Godspeed",
+      "id": null
+    },
+    {
+      "title": "Adelaide",
+      "id": null
+    },
+    {
+      "title": "A Whisper & a Clamor",
+      "id": null
+    },
+    {
+      "title": "The Unwinding Cable Car",
+      "id": null
+    },
+    {
+      "title": "There Is No Mathematics to Love and Loss",
+      "id": null
+    },
+    {
+      "title": "Hello Alone",
+      "id": null
+    },
+    {
+      "title": "Alexithymia",
+      "id": null
+    },
+    {
+      "title": "Reclusion",
+      "id": null
+    },
+    {
+      "title": "Inevitable",
+      "id": null
+    },
+    {
+      "title": "Dismantle.Repair.",
+      "id": null
+    },
+    {
+      "title": "(*Fin)",
+      "id": null
+    }
+  ]
+}

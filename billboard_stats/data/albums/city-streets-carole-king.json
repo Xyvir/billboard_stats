@@ -1,1 +1,114 @@
-{"id": "city-streets-carole-king", "title": "City Streets", "artist": "Carole King", "peak": 111, "history": [{"date": "1989-05-06", "rank": 144}, {"date": "1989-05-13", "rank": 141}, {"date": "1989-05-20", "rank": 115}, {"date": "1989-05-27", "rank": 112}, {"date": "1989-06-03", "rank": 112}, {"date": "1989-06-10", "rank": 111}, {"date": "1989-06-17", "rank": 124}, {"date": "1989-06-24", "rank": 124}, {"date": "1989-07-01", "rank": 148}, {"date": "1989-07-08", "rank": 162}, {"date": "1989-07-15", "rank": 156}, {"date": "1989-07-22", "rank": 173}, {"date": "1989-07-29", "rank": 156}, {"date": "1989-08-05", "rank": 156}, {"date": "1989-08-12", "rank": 153}, {"date": "1989-08-19", "rank": 188}]}
+{
+  "id": "city-streets-carole-king",
+  "title": "City Streets",
+  "artist": "Carole King",
+  "peak": 111,
+  "history": [
+    {
+      "date": "1989-05-06",
+      "rank": 144
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 141
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 115
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 112
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 112
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 111
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 124
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 124
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 148
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 162
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 156
+    },
+    {
+      "date": "1989-07-22",
+      "rank": 173
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 156
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 156
+    },
+    {
+      "date": "1989-08-12",
+      "rank": 153
+    },
+    {
+      "date": "1989-08-19",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sweet Life",
+      "id": "sweet-seasons-carole-king"
+    },
+    {
+      "title": "City Streets",
+      "id": null
+    },
+    {
+      "title": "Down to the Darkness",
+      "id": null
+    },
+    {
+      "title": "Lovelight",
+      "id": null
+    },
+    {
+      "title": "I Can’t Stop Thinking About You",
+      "id": null
+    },
+    {
+      "title": "Legacy",
+      "id": null
+    },
+    {
+      "title": "Ain’t That the Way",
+      "id": null
+    },
+    {
+      "title": "Midnight Flyer",
+      "id": null
+    },
+    {
+      "title": "Homeless Heart",
+      "id": null
+    },
+    {
+      "title": "Someone Who Believes in You",
+      "id": null
+    }
+  ]
+}

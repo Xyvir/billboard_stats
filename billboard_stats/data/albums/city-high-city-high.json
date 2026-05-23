@@ -1,1 +1,230 @@
-{"id": "city-high-city-high", "title": "City High", "artist": "City High", "peak": 34, "history": [{"date": "2001-06-09", "rank": 34}, {"date": "2001-06-16", "rank": 42}, {"date": "2001-06-23", "rank": 41}, {"date": "2001-06-30", "rank": 42}, {"date": "2001-07-07", "rank": 43}, {"date": "2001-07-14", "rank": 46}, {"date": "2001-07-21", "rank": 36}, {"date": "2001-07-28", "rank": 36}, {"date": "2001-08-04", "rank": 42}, {"date": "2001-08-11", "rank": 39}, {"date": "2001-08-18", "rank": 47}, {"date": "2001-08-25", "rank": 67}, {"date": "2001-09-01", "rank": 75}, {"date": "2001-09-08", "rank": 79}, {"date": "2001-09-15", "rank": 84}, {"date": "2001-09-22", "rank": 73}, {"date": "2001-09-29", "rank": 87}, {"date": "2001-10-06", "rank": 89}, {"date": "2001-10-13", "rank": 101}, {"date": "2001-10-20", "rank": 96}, {"date": "2001-10-27", "rank": 103}, {"date": "2001-11-03", "rank": 111}, {"date": "2001-11-10", "rank": 120}, {"date": "2001-11-17", "rank": 106}, {"date": "2001-11-24", "rank": 121}, {"date": "2001-12-01", "rank": 143}, {"date": "2001-12-08", "rank": 141}, {"date": "2001-12-15", "rank": 161}, {"date": "2001-12-22", "rank": 160}, {"date": "2001-12-29", "rank": 161}, {"date": "2002-01-05", "rank": 155}, {"date": "2002-01-12", "rank": 131}, {"date": "2002-01-19", "rank": 144}, {"date": "2002-01-26", "rank": 161}, {"date": "2002-02-02", "rank": 153}, {"date": "2002-02-09", "rank": 138}, {"date": "2002-02-16", "rank": 148}, {"date": "2002-02-23", "rank": 161}, {"date": "2002-03-02", "rank": 165}, {"date": "2002-03-09", "rank": 163}]}
+{
+  "id": "city-high-city-high",
+  "title": "City High",
+  "artist": "City High",
+  "peak": 34,
+  "history": [
+    {
+      "date": "2001-06-09",
+      "rank": 34
+    },
+    {
+      "date": "2001-06-16",
+      "rank": 42
+    },
+    {
+      "date": "2001-06-23",
+      "rank": 41
+    },
+    {
+      "date": "2001-06-30",
+      "rank": 42
+    },
+    {
+      "date": "2001-07-07",
+      "rank": 43
+    },
+    {
+      "date": "2001-07-14",
+      "rank": 46
+    },
+    {
+      "date": "2001-07-21",
+      "rank": 36
+    },
+    {
+      "date": "2001-07-28",
+      "rank": 36
+    },
+    {
+      "date": "2001-08-04",
+      "rank": 42
+    },
+    {
+      "date": "2001-08-11",
+      "rank": 39
+    },
+    {
+      "date": "2001-08-18",
+      "rank": 47
+    },
+    {
+      "date": "2001-08-25",
+      "rank": 67
+    },
+    {
+      "date": "2001-09-01",
+      "rank": 75
+    },
+    {
+      "date": "2001-09-08",
+      "rank": 79
+    },
+    {
+      "date": "2001-09-15",
+      "rank": 84
+    },
+    {
+      "date": "2001-09-22",
+      "rank": 73
+    },
+    {
+      "date": "2001-09-29",
+      "rank": 87
+    },
+    {
+      "date": "2001-10-06",
+      "rank": 89
+    },
+    {
+      "date": "2001-10-13",
+      "rank": 101
+    },
+    {
+      "date": "2001-10-20",
+      "rank": 96
+    },
+    {
+      "date": "2001-10-27",
+      "rank": 103
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 111
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 120
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 106
+    },
+    {
+      "date": "2001-11-24",
+      "rank": 121
+    },
+    {
+      "date": "2001-12-01",
+      "rank": 143
+    },
+    {
+      "date": "2001-12-08",
+      "rank": 141
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 161
+    },
+    {
+      "date": "2001-12-22",
+      "rank": 160
+    },
+    {
+      "date": "2001-12-29",
+      "rank": 161
+    },
+    {
+      "date": "2002-01-05",
+      "rank": 155
+    },
+    {
+      "date": "2002-01-12",
+      "rank": 131
+    },
+    {
+      "date": "2002-01-19",
+      "rank": 144
+    },
+    {
+      "date": "2002-01-26",
+      "rank": 161
+    },
+    {
+      "date": "2002-02-02",
+      "rank": 153
+    },
+    {
+      "date": "2002-02-09",
+      "rank": 138
+    },
+    {
+      "date": "2002-02-16",
+      "rank": 148
+    },
+    {
+      "date": "2002-02-23",
+      "rank": 161
+    },
+    {
+      "date": "2002-03-02",
+      "rank": 165
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What Would You Do",
+      "id": "what-would-you-do-city-high"
+    },
+    {
+      "title": "Didn't Ya",
+      "id": null
+    },
+    {
+      "title": "Why",
+      "id": null
+    },
+    {
+      "title": "Caramel",
+      "id": null
+    },
+    {
+      "title": "You Don't Know Me",
+      "id": null
+    },
+    {
+      "title": "15 Will Get You 20",
+      "id": null
+    },
+    {
+      "title": "Song For You",
+      "id": null
+    },
+    {
+      "title": "Cat and Dogs",
+      "id": null
+    },
+    {
+      "title": "Best Friends",
+      "id": null
+    },
+    {
+      "title": "Three Way",
+      "id": null
+    },
+    {
+      "title": "Sista",
+      "id": null
+    },
+    {
+      "title": "The Only One I Trust",
+      "id": null
+    },
+    {
+      "title": "So Many Things",
+      "id": null
+    },
+    {
+      "title": "City High Anthem",
+      "id": null
+    },
+    {
+      "title": "Caramel (Trackmasters remix)",
+      "id": null
+    }
+  ]
+}

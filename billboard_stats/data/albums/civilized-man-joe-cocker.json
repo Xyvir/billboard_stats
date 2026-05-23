@@ -1,1 +1,86 @@
-{"id": "civilized-man-joe-cocker", "title": "Civilized Man", "artist": "Joe Cocker", "peak": 133, "history": [{"date": "1984-05-19", "rank": 170}, {"date": "1984-05-26", "rank": 157}, {"date": "1984-06-02", "rank": 152}, {"date": "1984-06-09", "rank": 146}, {"date": "1984-06-16", "rank": 141}, {"date": "1984-06-23", "rank": 135}, {"date": "1984-06-30", "rank": 133}, {"date": "1984-07-07", "rank": 145}, {"date": "1984-07-14", "rank": 195}]}
+{
+  "id": "civilized-man-joe-cocker",
+  "title": "Civilized Man",
+  "artist": "Joe Cocker",
+  "peak": 133,
+  "history": [
+    {
+      "date": "1984-05-19",
+      "rank": 170
+    },
+    {
+      "date": "1984-05-26",
+      "rank": 157
+    },
+    {
+      "date": "1984-06-02",
+      "rank": 152
+    },
+    {
+      "date": "1984-06-09",
+      "rank": 146
+    },
+    {
+      "date": "1984-06-16",
+      "rank": 141
+    },
+    {
+      "date": "1984-06-23",
+      "rank": 135
+    },
+    {
+      "date": "1984-06-30",
+      "rank": 133
+    },
+    {
+      "date": "1984-07-07",
+      "rank": 145
+    },
+    {
+      "date": "1984-07-14",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Love the Night",
+      "id": "put-out-the-light-joe-cocker"
+    },
+    {
+      "title": "Civilized Man",
+      "id": null
+    },
+    {
+      "title": "There Goes My Baby",
+      "id": null
+    },
+    {
+      "title": "Come On In",
+      "id": null
+    },
+    {
+      "title": "Tempted",
+      "id": null
+    },
+    {
+      "title": "Long Drag Off a Cigarette",
+      "id": null
+    },
+    {
+      "title": "Crazy in Love",
+      "id": null
+    },
+    {
+      "title": "A Girl Like You",
+      "id": null
+    },
+    {
+      "title": "Hold On (I Feel Our Love Is Changing)",
+      "id": null
+    },
+    {
+      "title": "Even a Fool Would Let Go",
+      "id": null
+    }
+  ]
+}
