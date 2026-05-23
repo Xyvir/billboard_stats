@@ -1,1 +1,210 @@
-{"id": "look-sharp-joe-jackson", "title": "Look Sharp", "artist": "Joe Jackson", "peak": 20, "history": [{"date": "1979-04-07", "rank": 182}, {"date": "1979-04-14", "rank": 104}, {"date": "1979-04-21", "rank": 88}, {"date": "1979-04-28", "rank": 75}, {"date": "1979-05-05", "rank": 69}, {"date": "1979-05-12", "rank": 59}, {"date": "1979-05-19", "rank": 51}, {"date": "1979-05-26", "rank": 42}, {"date": "1979-06-02", "rank": 37}, {"date": "1979-06-09", "rank": 33}, {"date": "1979-06-16", "rank": 31}, {"date": "1979-06-23", "rank": 28}, {"date": "1979-06-30", "rank": 20}, {"date": "1979-07-07", "rank": 20}, {"date": "1979-07-14", "rank": 30}, {"date": "1979-07-21", "rank": 31}, {"date": "1979-07-28", "rank": 32}, {"date": "1979-08-04", "rank": 36}, {"date": "1979-08-11", "rank": 35}, {"date": "1979-08-18", "rank": 61}, {"date": "1979-08-25", "rank": 73}, {"date": "1979-09-01", "rank": 69}, {"date": "1979-09-08", "rank": 69}, {"date": "1979-09-15", "rank": 75}, {"date": "1979-09-22", "rank": 73}, {"date": "1979-09-29", "rank": 105}, {"date": "1979-10-06", "rank": 115}, {"date": "1979-10-13", "rank": 117}, {"date": "1979-10-20", "rank": 141}, {"date": "1979-10-27", "rank": 147}, {"date": "1979-11-03", "rank": 151}, {"date": "1979-11-10", "rank": 151}, {"date": "1979-11-17", "rank": 151}, {"date": "1979-11-24", "rank": 149}, {"date": "1979-12-01", "rank": 148}, {"date": "1979-12-08", "rank": 160}, {"date": "1979-12-15", "rank": 174}, {"date": "1979-12-22", "rank": 199}, {"date": "1979-12-29", "rank": 199}]}
+{
+  "id": "look-sharp-joe-jackson",
+  "title": "Look Sharp",
+  "artist": "Joe Jackson",
+  "peak": 20,
+  "history": [
+    {
+      "date": "1979-04-07",
+      "rank": 182
+    },
+    {
+      "date": "1979-04-14",
+      "rank": 104
+    },
+    {
+      "date": "1979-04-21",
+      "rank": 88
+    },
+    {
+      "date": "1979-04-28",
+      "rank": 75
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 69
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 59
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 51
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 42
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 37
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 33
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 31
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 28
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 20
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 20
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 30
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 31
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 32
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 36
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 35
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 61
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 73
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 69
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 69
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 75
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 73
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 105
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 115
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 117
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 141
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 147
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 151
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 151
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 151
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 149
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 148
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 160
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 174
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 199
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Is She Really Going Out With Him?",
+      "id": "is-she-really-going-out-with-him-joe-jackson"
+    },
+    {
+      "title": "One More Time",
+      "id": null
+    },
+    {
+      "title": "Sunday Papers",
+      "id": null
+    },
+    {
+      "title": "Happy Loving Couples",
+      "id": null
+    },
+    {
+      "title": "Throw It Away",
+      "id": null
+    },
+    {
+      "title": "Baby Stick Around",
+      "id": null
+    },
+    {
+      "title": "Look Sharp!",
+      "id": null
+    },
+    {
+      "title": "Fools in Love",
+      "id": null
+    },
+    {
+      "title": "(Do the) Instant Mash",
+      "id": null
+    },
+    {
+      "title": "Pretty Girls",
+      "id": null
+    },
+    {
+      "title": "Got the Time",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"id": "loom-imagine-dragons", "title": "Loom", "artist": "Imagine Dragons", "peak": 22, "history": [{"date": "2024-07-13", "rank": 22}, {"date": "2024-07-20", "rank": 126}]}
+{
+  "id": "loom-imagine-dragons",
+  "title": "Loom",
+  "artist": "Imagine Dragons",
+  "peak": 22,
+  "history": [
+    {
+      "date": "2024-07-13",
+      "rank": 22
+    },
+    {
+      "date": "2024-07-20",
+      "rank": 126
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wake Up",
+      "id": null
+    },
+    {
+      "title": "Nice to Meet You",
+      "id": null
+    },
+    {
+      "title": "Eyes Closed",
+      "id": null
+    },
+    {
+      "title": "Take Me to the Beach",
+      "id": null
+    },
+    {
+      "title": "In Your Corner",
+      "id": null
+    },
+    {
+      "title": "Gods Don’t Pray",
+      "id": null
+    },
+    {
+      "title": "Don’t Forget Me",
+      "id": null
+    },
+    {
+      "title": "Kid",
+      "id": null
+    },
+    {
+      "title": "Fire in These Hills",
+      "id": null
+    }
+  ]
+}

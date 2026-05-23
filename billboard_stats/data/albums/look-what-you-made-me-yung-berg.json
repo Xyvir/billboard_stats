@@ -1,1 +1,82 @@
-{"id": "look-what-you-made-me-yung-berg", "title": "Look What You Made Me", "artist": "Yung Berg", "peak": 20, "history": [{"date": "2008-08-30", "rank": 20}, {"date": "2008-09-06", "rank": 65}, {"date": "2008-09-13", "rank": 100}, {"date": "2008-09-20", "rank": 150}]}
+{
+  "id": "look-what-you-made-me-yung-berg",
+  "title": "Look What You Made Me",
+  "artist": "Yung Berg",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2008-08-30",
+      "rank": 20
+    },
+    {
+      "date": "2008-09-06",
+      "rank": 65
+    },
+    {
+      "date": "2008-09-13",
+      "rank": 100
+    },
+    {
+      "date": "2008-09-20",
+      "rank": 150
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sexy Can I",
+      "id": "sexy-can-i-ray-j-yung-berg"
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Look What You Made Me",
+      "id": null
+    },
+    {
+      "title": "Do That There",
+      "id": null
+    },
+    {
+      "title": "The Business",
+      "id": null
+    },
+    {
+      "title": "Interlude",
+      "id": null
+    },
+    {
+      "title": "Where Do We Go",
+      "id": null
+    },
+    {
+      "title": "Sexy Lady",
+      "id": null
+    },
+    {
+      "title": "One Night",
+      "id": null
+    },
+    {
+      "title": "Manager",
+      "id": null
+    },
+    {
+      "title": "If You Only Knew",
+      "id": null
+    },
+    {
+      "title": "Outerspace",
+      "id": null
+    },
+    {
+      "title": "Get Your Number",
+      "id": null
+    },
+    {
+      "title": "Victory Lap",
+      "id": null
+    }
+  ]
+}
