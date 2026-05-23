@@ -1,1 +1,62 @@
-{"id": "high-energy-freddie-hubbard", "title": "High Energy", "artist": "Freddie Hubbard", "peak": 153, "history": [{"date": "1974-09-14", "rank": 178}, {"date": "1974-09-21", "rank": 166}, {"date": "1974-09-28", "rank": 166}, {"date": "1974-10-05", "rank": 166}, {"date": "1974-10-12", "rank": 159}, {"date": "1974-10-19", "rank": 153}, {"date": "1974-10-26", "rank": 172}]}
+{
+  "id": "high-energy-freddie-hubbard",
+  "title": "High Energy",
+  "artist": "Freddie Hubbard",
+  "peak": 153,
+  "history": [
+    {
+      "date": "1974-09-14",
+      "rank": 178
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 166
+    },
+    {
+      "date": "1974-09-28",
+      "rank": 166
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 166
+    },
+    {
+      "date": "1974-10-12",
+      "rank": 159
+    },
+    {
+      "date": "1974-10-19",
+      "rank": 153
+    },
+    {
+      "date": "1974-10-26",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Camel Rise",
+      "id": null
+    },
+    {
+      "title": "Black Maybe",
+      "id": null
+    },
+    {
+      "title": "Baraka Sasa",
+      "id": null
+    },
+    {
+      "title": "Crisis",
+      "id": null
+    },
+    {
+      "title": "Ebony Moonbeams",
+      "id": null
+    },
+    {
+      "title": "Too High",
+      "id": null
+    }
+  ]
+}

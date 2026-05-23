@@ -1,1 +1,98 @@
-{"id": "high-energy-the-supremes", "title": "High Energy", "artist": "The Supremes", "peak": 42, "history": [{"date": "1976-05-22", "rank": 78}, {"date": "1976-05-29", "rank": 66}, {"date": "1976-06-05", "rank": 56}, {"date": "1976-06-12", "rank": 46}, {"date": "1976-06-19", "rank": 42}, {"date": "1976-06-26", "rank": 42}, {"date": "1976-07-03", "rank": 65}, {"date": "1976-07-10", "rank": 65}, {"date": "1976-07-17", "rank": 85}, {"date": "1976-07-24", "rank": 95}, {"date": "1976-07-31", "rank": 104}, {"date": "1976-08-07", "rank": 113}, {"date": "1976-08-14", "rank": 113}, {"date": "1976-08-21", "rank": 120}, {"date": "1976-08-28", "rank": 140}]}
+{
+  "id": "high-energy-the-supremes",
+  "title": "High Energy",
+  "artist": "The Supremes",
+  "peak": 42,
+  "history": [
+    {
+      "date": "1976-05-22",
+      "rank": 78
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 66
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 56
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 46
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 42
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 42
+    },
+    {
+      "date": "1976-07-03",
+      "rank": 65
+    },
+    {
+      "date": "1976-07-10",
+      "rank": 65
+    },
+    {
+      "date": "1976-07-17",
+      "rank": 85
+    },
+    {
+      "date": "1976-07-24",
+      "rank": 95
+    },
+    {
+      "date": "1976-07-31",
+      "rank": 104
+    },
+    {
+      "date": "1976-08-07",
+      "rank": 113
+    },
+    {
+      "date": "1976-08-14",
+      "rank": 113
+    },
+    {
+      "date": "1976-08-21",
+      "rank": 120
+    },
+    {
+      "date": "1976-08-28",
+      "rank": 140
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m Gonna Let My Heart Do the Walking",
+      "id": "i-m-gonna-let-my-heart-do-the-walking-the-supremes"
+    },
+    {
+      "title": "You Keep Me Moving On",
+      "id": "you-keep-me-hangin-on-the-supremes"
+    },
+    {
+      "title": "High Energy",
+      "id": null
+    },
+    {
+      "title": "Only You (Can Love Me Like You Love Me)",
+      "id": null
+    },
+    {
+      "title": "Don’t Let My Teardrops Bother You",
+      "id": null
+    },
+    {
+      "title": "Till the Boat Sails Away / I Don’t Want to Lose You",
+      "id": null
+    },
+    {
+      "title": "You’re What’s Missing in My Life",
+      "id": null
+    }
+  ]
+}

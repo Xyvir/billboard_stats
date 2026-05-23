@@ -1,1 +1,62 @@
-{"id": "higher-than-high-the-undisputed-truth", "title": "Higher Than High", "artist": "The Undisputed Truth", "peak": 173, "history": [{"date": "1975-11-22", "rank": 183}, {"date": "1975-11-29", "rank": 179}, {"date": "1975-12-06", "rank": 173}, {"date": "1975-12-13", "rank": 182}]}
+{
+  "id": "higher-than-high-the-undisputed-truth",
+  "title": "Higher Than High",
+  "artist": "The Undisputed Truth",
+  "peak": 173,
+  "history": [
+    {
+      "date": "1975-11-22",
+      "rank": 183
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 179
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 173
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Help Yourself",
+      "id": "help-yourself-the-undisputed-truth"
+    },
+    {
+      "title": "Higher Than High",
+      "id": null
+    },
+    {
+      "title": "Poontang",
+      "id": null
+    },
+    {
+      "title": "Life Ain't So Easy",
+      "id": null
+    },
+    {
+      "title": "Boogie Bump Boogie",
+      "id": null
+    },
+    {
+      "title": "I'm in the Red Zone",
+      "id": null
+    },
+    {
+      "title": "Overload",
+      "id": null
+    },
+    {
+      "title": "I Saw You When You Met Her",
+      "id": null
+    },
+    {
+      "title": "Ma",
+      "id": null
+    }
+  ]
+}
