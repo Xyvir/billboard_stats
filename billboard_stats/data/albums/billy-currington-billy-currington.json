@@ -1,1 +1,62 @@
-{"id": "billy-currington-billy-currington", "title": "Billy Currington", "artist": "Billy Currington", "peak": 107, "history": [{"date": "2003-10-18", "rank": 107}, {"date": "2003-10-25", "rank": 197}]}
+{
+  "id": "billy-currington-billy-currington",
+  "title": "Billy Currington",
+  "artist": "Billy Currington",
+  "peak": 107,
+  "history": [
+    {
+      "date": "2003-10-18",
+      "rank": 107
+    },
+    {
+      "date": "2003-10-25",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Got a Feelin'",
+      "id": "i-got-a-feelin-billy-currington"
+    },
+    {
+      "title": "Walk a Little Straighter Daddy",
+      "id": "walk-a-little-straighter-billy-currington"
+    },
+    {
+      "title": "Ain't What It Used to Be",
+      "id": "it-don-t-hurt-like-it-used-to-billy-currington"
+    },
+    {
+      "title": "That’s Just Me",
+      "id": null
+    },
+    {
+      "title": "Hangin’ Around",
+      "id": null
+    },
+    {
+      "title": "Off My Rocker",
+      "id": null
+    },
+    {
+      "title": "Where the Girls Are",
+      "id": null
+    },
+    {
+      "title": "Time With You",
+      "id": null
+    },
+    {
+      "title": "When She Gets Close to Me",
+      "id": null
+    },
+    {
+      "title": "Growin’ Up Down There",
+      "id": null
+    },
+    {
+      "title": "Next Time",
+      "id": null
+    }
+  ]
+}

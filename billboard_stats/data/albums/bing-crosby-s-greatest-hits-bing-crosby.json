@@ -1,1 +1,94 @@
-{"id": "bing-crosby-s-greatest-hits-bing-crosby", "title": "Bing Crosby's Greatest Hits", "artist": "Bing Crosby", "peak": 98, "history": [{"date": "1977-12-10", "rank": 150}, {"date": "1977-12-17", "rank": 139}, {"date": "1977-12-24", "rank": 129}, {"date": "1977-12-31", "rank": 129}, {"date": "1978-01-07", "rank": 105}, {"date": "1978-01-14", "rank": 98}, {"date": "1978-01-21", "rank": 98}, {"date": "1978-01-28", "rank": 108}, {"date": "1978-02-04", "rank": 188}]}
+{
+  "id": "bing-crosby-s-greatest-hits-bing-crosby",
+  "title": "Bing Crosby's Greatest Hits",
+  "artist": "Bing Crosby",
+  "peak": 98,
+  "history": [
+    {
+      "date": "1977-12-10",
+      "rank": 150
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 139
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 129
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 129
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 105
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 98
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 98
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 108
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "White Christmas",
+      "id": "white-christmas-v-bing-crosby"
+    },
+    {
+      "title": "The Whiffenpoof Song",
+      "id": null
+    },
+    {
+      "title": "I Surrender Dear",
+      "id": null
+    },
+    {
+      "title": "Blue Skies",
+      "id": null
+    },
+    {
+      "title": "Pistol Packin’ Mama",
+      "id": null
+    },
+    {
+      "title": "Too‐Ra‐Loo‐Ral (That’s an Irish Lullaby)",
+      "id": null
+    },
+    {
+      "title": "Ac‐cent‐tchu‐ate the Positive",
+      "id": null
+    },
+    {
+      "title": "Don’t Fence Me In",
+      "id": null
+    },
+    {
+      "title": "You Are My Sunshine",
+      "id": null
+    },
+    {
+      "title": "Swinging on a Star",
+      "id": null
+    },
+    {
+      "title": "Deep in the Heart of Texas",
+      "id": null
+    },
+    {
+      "title": "Where the Blue of the Night Meets the Gold of the Day",
+      "id": null
+    }
+  ]
+}

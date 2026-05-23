@@ -1,1 +1,74 @@
-{"id": "billy-satellite-billy-satellite", "title": "Billy Satellite", "artist": "Billy Satellite", "peak": 139, "history": [{"date": "1984-09-01", "rank": 162}, {"date": "1984-09-08", "rank": 144}, {"date": "1984-09-15", "rank": 139}, {"date": "1984-09-22", "rank": 139}, {"date": "1984-09-29", "rank": 150}, {"date": "1984-10-06", "rank": 194}]}
+{
+  "id": "billy-satellite-billy-satellite",
+  "title": "Billy Satellite",
+  "artist": "Billy Satellite",
+  "peak": 139,
+  "history": [
+    {
+      "date": "1984-09-01",
+      "rank": 162
+    },
+    {
+      "date": "1984-09-08",
+      "rank": 144
+    },
+    {
+      "date": "1984-09-15",
+      "rank": 139
+    },
+    {
+      "date": "1984-09-22",
+      "rank": 139
+    },
+    {
+      "date": "1984-09-29",
+      "rank": 150
+    },
+    {
+      "date": "1984-10-06",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Satisfy Me",
+      "id": "satisfy-me-billy-satellite"
+    },
+    {
+      "title": "I Wanna Go Back",
+      "id": "i-wanna-go-back-billy-satellite"
+    },
+    {
+      "title": "Last Call",
+      "id": null
+    },
+    {
+      "title": "Do Ya",
+      "id": null
+    },
+    {
+      "title": "Trouble",
+      "id": null
+    },
+    {
+      "title": "Rockin' Down the Highway",
+      "id": null
+    },
+    {
+      "title": "Turning Point",
+      "id": null
+    },
+    {
+      "title": "Bye Bye Baby",
+      "id": null
+    },
+    {
+      "title": "Standin' With the Kings",
+      "id": null
+    },
+    {
+      "title": "The Lonely One",
+      "id": null
+    }
+  ]
+}

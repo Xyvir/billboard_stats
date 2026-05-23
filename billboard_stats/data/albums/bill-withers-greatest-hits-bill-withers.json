@@ -1,1 +1,62 @@
-{"id": "bill-withers-greatest-hits-bill-withers", "title": "Bill Withers' Greatest Hits", "artist": "Bill Withers", "peak": 183, "history": [{"date": "1981-05-16", "rank": 186}, {"date": "1981-05-23", "rank": 183}, {"date": "1981-05-30", "rank": 193}]}
+{
+  "id": "bill-withers-greatest-hits-bill-withers",
+  "title": "Bill Withers' Greatest Hits",
+  "artist": "Bill Withers",
+  "peak": 183,
+  "history": [
+    {
+      "date": "1981-05-16",
+      "rank": 186
+    },
+    {
+      "date": "1981-05-23",
+      "rank": 183
+    },
+    {
+      "date": "1981-05-30",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Use Me",
+      "id": "use-me-bill-withers"
+    },
+    {
+      "title": "Ain’t No Sunshine",
+      "id": "ain-t-no-sunshine-bill-withers"
+    },
+    {
+      "title": "Lovely Day",
+      "id": "lovely-day-bill-withers"
+    },
+    {
+      "title": "Lean on Me",
+      "id": "lean-on-me-bill-withers"
+    },
+    {
+      "title": "Grandma’s Hands",
+      "id": "grandma-s-hands-bill-withers"
+    },
+    {
+      "title": "Just the Two of Us",
+      "id": null
+    },
+    {
+      "title": "I Want to Spend the Night",
+      "id": null
+    },
+    {
+      "title": "Soul Shadows",
+      "id": null
+    },
+    {
+      "title": "Hello Like Before",
+      "id": null
+    },
+    {
+      "title": "Who Is He (and What Is He to You)?",
+      "id": null
+    }
+  ]
+}

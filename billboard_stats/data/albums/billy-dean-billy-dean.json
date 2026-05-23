@@ -1,1 +1,202 @@
-{"id": "billy-dean-billy-dean", "title": "Billy Dean", "artist": "Billy Dean", "peak": 88, "history": [{"date": "1992-07-04", "rank": 189}, {"date": "1992-07-11", "rank": 166}, {"date": "1992-07-18", "rank": 156}, {"date": "1992-07-25", "rank": 133}, {"date": "1992-08-01", "rank": 123}, {"date": "1992-08-08", "rank": 137}, {"date": "1992-08-15", "rank": 132}, {"date": "1992-08-22", "rank": 126}, {"date": "1992-08-29", "rank": 131}, {"date": "1992-09-05", "rank": 129}, {"date": "1992-09-12", "rank": 131}, {"date": "1992-09-19", "rank": 134}, {"date": "1992-09-26", "rank": 135}, {"date": "1992-10-03", "rank": 139}, {"date": "1992-10-10", "rank": 129}, {"date": "1992-10-17", "rank": 105}, {"date": "1992-10-24", "rank": 105}, {"date": "1992-10-31", "rank": 113}, {"date": "1992-11-07", "rank": 105}, {"date": "1992-11-14", "rank": 100}, {"date": "1992-11-21", "rank": 101}, {"date": "1992-11-28", "rank": 94}, {"date": "1992-12-05", "rank": 88}, {"date": "1992-12-12", "rank": 115}, {"date": "1992-12-19", "rank": 118}, {"date": "1992-12-26", "rank": 113}, {"date": "1993-01-02", "rank": 112}, {"date": "1993-01-09", "rank": 134}, {"date": "1993-01-16", "rank": 132}, {"date": "1993-01-23", "rank": 114}, {"date": "1993-01-30", "rank": 126}, {"date": "1993-02-06", "rank": 152}, {"date": "1993-02-13", "rank": 169}, {"date": "1993-02-20", "rank": 189}, {"date": "1993-02-27", "rank": 196}, {"date": "1993-03-06", "rank": 181}, {"date": "1993-03-13", "rank": 197}]}
+{
+  "id": "billy-dean-billy-dean",
+  "title": "Billy Dean",
+  "artist": "Billy Dean",
+  "peak": 88,
+  "history": [
+    {
+      "date": "1992-07-04",
+      "rank": 189
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 166
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 156
+    },
+    {
+      "date": "1992-07-25",
+      "rank": 133
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 123
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 137
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 132
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 126
+    },
+    {
+      "date": "1992-08-29",
+      "rank": 131
+    },
+    {
+      "date": "1992-09-05",
+      "rank": 129
+    },
+    {
+      "date": "1992-09-12",
+      "rank": 131
+    },
+    {
+      "date": "1992-09-19",
+      "rank": 134
+    },
+    {
+      "date": "1992-09-26",
+      "rank": 135
+    },
+    {
+      "date": "1992-10-03",
+      "rank": 139
+    },
+    {
+      "date": "1992-10-10",
+      "rank": 129
+    },
+    {
+      "date": "1992-10-17",
+      "rank": 105
+    },
+    {
+      "date": "1992-10-24",
+      "rank": 105
+    },
+    {
+      "date": "1992-10-31",
+      "rank": 113
+    },
+    {
+      "date": "1992-11-07",
+      "rank": 105
+    },
+    {
+      "date": "1992-11-14",
+      "rank": 100
+    },
+    {
+      "date": "1992-11-21",
+      "rank": 101
+    },
+    {
+      "date": "1992-11-28",
+      "rank": 94
+    },
+    {
+      "date": "1992-12-05",
+      "rank": 88
+    },
+    {
+      "date": "1992-12-12",
+      "rank": 115
+    },
+    {
+      "date": "1992-12-19",
+      "rank": 118
+    },
+    {
+      "date": "1992-12-26",
+      "rank": 113
+    },
+    {
+      "date": "1993-01-02",
+      "rank": 112
+    },
+    {
+      "date": "1993-01-09",
+      "rank": 134
+    },
+    {
+      "date": "1993-01-16",
+      "rank": 132
+    },
+    {
+      "date": "1993-01-23",
+      "rank": 114
+    },
+    {
+      "date": "1993-01-30",
+      "rank": 126
+    },
+    {
+      "date": "1993-02-06",
+      "rank": 152
+    },
+    {
+      "date": "1993-02-13",
+      "rank": 169
+    },
+    {
+      "date": "1993-02-20",
+      "rank": 189
+    },
+    {
+      "date": "1993-02-27",
+      "rank": 196
+    },
+    {
+      "date": "1993-03-06",
+      "rank": 181
+    },
+    {
+      "date": "1993-03-13",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Billy the Kid",
+      "id": null
+    },
+    {
+      "title": "Simple Things",
+      "id": null
+    },
+    {
+      "title": "Hammer Down",
+      "id": null
+    },
+    {
+      "title": "Only the Wind",
+      "id": null
+    },
+    {
+      "title": "Small Favors",
+      "id": null
+    },
+    {
+      "title": "I Shoulda Listened",
+      "id": null
+    },
+    {
+      "title": "You Don't Count the Cost",
+      "id": null
+    },
+    {
+      "title": "Gone but Not Forgotten",
+      "id": null
+    },
+    {
+      "title": "If There Hadn't Been You",
+      "id": null
+    },
+    {
+      "title": "Intro: Daddy's Will",
+      "id": null
+    },
+    {
+      "title": "Daddy's Will",
+      "id": null
+    }
+  ]
+}

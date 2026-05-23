@@ -1,1 +1,54 @@
-{"id": "binge-machine-gun-kelly", "title": "BINGE", "artist": "Machine Gun Kelly", "peak": 24, "history": [{"date": "2018-10-06", "rank": 24}, {"date": "2018-10-13", "rank": 111}]}
+{
+  "id": "binge-machine-gun-kelly",
+  "title": "BINGE",
+  "artist": "Machine Gun Kelly",
+  "peak": 24,
+  "history": [
+    {
+      "date": "2018-10-06",
+      "rank": 24
+    },
+    {
+      "date": "2018-10-13",
+      "rank": 111
+    }
+  ],
+  "tracks": [
+    {
+      "title": "RAP DEVIL",
+      "id": "rap-devil-machine-gun-kelly"
+    },
+    {
+      "title": "LONG TIME COMING",
+      "id": null
+    },
+    {
+      "title": "Loco",
+      "id": null
+    },
+    {
+      "title": "GTS",
+      "id": null
+    },
+    {
+      "title": "NYLON",
+      "id": null
+    },
+    {
+      "title": "LATELY",
+      "id": null
+    },
+    {
+      "title": "SIGNS",
+      "id": null
+    },
+    {
+      "title": "GET THE BROOM",
+      "id": null
+    },
+    {
+      "title": "LIVEFASTDIEYOUNG",
+      "id": null
+    }
+  ]
+}
