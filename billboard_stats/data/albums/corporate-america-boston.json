@@ -1,1 +1,62 @@
-{"id": "corporate-america-boston", "title": "Corporate America", "artist": "Boston", "peak": 42, "history": [{"date": "2002-11-23", "rank": 42}, {"date": "2002-11-30", "rank": 119}, {"date": "2002-12-07", "rank": 181}]}
+{
+  "id": "corporate-america-boston",
+  "title": "Corporate America",
+  "artist": "Boston",
+  "peak": 42,
+  "history": [
+    {
+      "date": "2002-11-23",
+      "rank": 42
+    },
+    {
+      "date": "2002-11-30",
+      "rank": 119
+    },
+    {
+      "date": "2002-12-07",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Had a Good Time",
+      "id": null
+    },
+    {
+      "title": "Stare Out Your Window",
+      "id": null
+    },
+    {
+      "title": "Corporate America",
+      "id": null
+    },
+    {
+      "title": "With You",
+      "id": null
+    },
+    {
+      "title": "Someone",
+      "id": null
+    },
+    {
+      "title": "Turn It Off",
+      "id": null
+    },
+    {
+      "title": "Cryin’",
+      "id": null
+    },
+    {
+      "title": "Didn’t Mean to Fall in Love",
+      "id": null
+    },
+    {
+      "title": "You Gave Up on Love",
+      "id": null
+    },
+    {
+      "title": "Livin’ for You (live)",
+      "id": null
+    }
+  ]
+}

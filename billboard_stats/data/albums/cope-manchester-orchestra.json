@@ -1,1 +1,26 @@
-{"id": "cope-manchester-orchestra", "title": "Cope", "artist": "Manchester Orchestra", "peak": 13, "history": [{"date": "2014-04-19", "rank": 13}, {"date": "2014-04-26", "rank": 125}]}
+{
+  "id": "cope-manchester-orchestra",
+  "title": "Cope",
+  "artist": "Manchester Orchestra",
+  "peak": 13,
+  "history": [
+    {
+      "date": "2014-04-19",
+      "rank": 13
+    },
+    {
+      "date": "2014-04-26",
+      "rank": 125
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cope",
+      "id": null
+    },
+    {
+      "title": "After the Scripture",
+      "id": null
+    }
+  ]
+}
