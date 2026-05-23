@@ -1,1 +1,222 @@
-{"id": "conscious-party-ziggy-marley-and-the-melody-makers", "title": "Conscious Party", "artist": "Ziggy Marley And The Melody Makers", "peak": 23, "history": [{"date": "1988-04-23", "rank": 160}, {"date": "1988-04-30", "rank": 89}, {"date": "1988-05-07", "rank": 44}, {"date": "1988-05-14", "rank": 34}, {"date": "1988-05-21", "rank": 31}, {"date": "1988-05-28", "rank": 27}, {"date": "1988-06-04", "rank": 26}, {"date": "1988-06-11", "rank": 25}, {"date": "1988-06-18", "rank": 25}, {"date": "1988-06-25", "rank": 24}, {"date": "1988-07-02", "rank": 23}, {"date": "1988-07-09", "rank": 26}, {"date": "1988-07-16", "rank": 25}, {"date": "1988-07-23", "rank": 28}, {"date": "1988-07-30", "rank": 27}, {"date": "1988-08-06", "rank": 30}, {"date": "1988-08-13", "rank": 32}, {"date": "1988-08-20", "rank": 39}, {"date": "1988-08-27", "rank": 39}, {"date": "1988-09-03", "rank": 45}, {"date": "1988-09-10", "rank": 44}, {"date": "1988-09-17", "rank": 43}, {"date": "1988-09-24", "rank": 53}, {"date": "1988-10-01", "rank": 51}, {"date": "1988-10-08", "rank": 58}, {"date": "1988-10-15", "rank": 61}, {"date": "1988-10-22", "rank": 71}, {"date": "1988-10-29", "rank": 80}, {"date": "1988-11-05", "rank": 86}, {"date": "1988-11-12", "rank": 97}, {"date": "1988-11-19", "rank": 100}, {"date": "1988-11-26", "rank": 115}, {"date": "1988-12-03", "rank": 134}, {"date": "1988-12-10", "rank": 133}, {"date": "1988-12-17", "rank": 171}, {"date": "1988-12-24", "rank": 164}, {"date": "1988-12-31", "rank": 164}, {"date": "1989-01-07", "rank": 175}, {"date": "1989-01-14", "rank": 155}, {"date": "1989-01-21", "rank": 167}, {"date": "1989-01-28", "rank": 196}, {"date": "1989-02-04", "rank": 199}]}
+{
+  "id": "conscious-party-ziggy-marley-and-the-melody-makers",
+  "title": "Conscious Party",
+  "artist": "Ziggy Marley And The Melody Makers",
+  "peak": 23,
+  "history": [
+    {
+      "date": "1988-04-23",
+      "rank": 160
+    },
+    {
+      "date": "1988-04-30",
+      "rank": 89
+    },
+    {
+      "date": "1988-05-07",
+      "rank": 44
+    },
+    {
+      "date": "1988-05-14",
+      "rank": 34
+    },
+    {
+      "date": "1988-05-21",
+      "rank": 31
+    },
+    {
+      "date": "1988-05-28",
+      "rank": 27
+    },
+    {
+      "date": "1988-06-04",
+      "rank": 26
+    },
+    {
+      "date": "1988-06-11",
+      "rank": 25
+    },
+    {
+      "date": "1988-06-18",
+      "rank": 25
+    },
+    {
+      "date": "1988-06-25",
+      "rank": 24
+    },
+    {
+      "date": "1988-07-02",
+      "rank": 23
+    },
+    {
+      "date": "1988-07-09",
+      "rank": 26
+    },
+    {
+      "date": "1988-07-16",
+      "rank": 25
+    },
+    {
+      "date": "1988-07-23",
+      "rank": 28
+    },
+    {
+      "date": "1988-07-30",
+      "rank": 27
+    },
+    {
+      "date": "1988-08-06",
+      "rank": 30
+    },
+    {
+      "date": "1988-08-13",
+      "rank": 32
+    },
+    {
+      "date": "1988-08-20",
+      "rank": 39
+    },
+    {
+      "date": "1988-08-27",
+      "rank": 39
+    },
+    {
+      "date": "1988-09-03",
+      "rank": 45
+    },
+    {
+      "date": "1988-09-10",
+      "rank": 44
+    },
+    {
+      "date": "1988-09-17",
+      "rank": 43
+    },
+    {
+      "date": "1988-09-24",
+      "rank": 53
+    },
+    {
+      "date": "1988-10-01",
+      "rank": 51
+    },
+    {
+      "date": "1988-10-08",
+      "rank": 58
+    },
+    {
+      "date": "1988-10-15",
+      "rank": 61
+    },
+    {
+      "date": "1988-10-22",
+      "rank": 71
+    },
+    {
+      "date": "1988-10-29",
+      "rank": 80
+    },
+    {
+      "date": "1988-11-05",
+      "rank": 86
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 97
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 100
+    },
+    {
+      "date": "1988-11-26",
+      "rank": 115
+    },
+    {
+      "date": "1988-12-03",
+      "rank": 134
+    },
+    {
+      "date": "1988-12-10",
+      "rank": 133
+    },
+    {
+      "date": "1988-12-17",
+      "rank": 171
+    },
+    {
+      "date": "1988-12-24",
+      "rank": 164
+    },
+    {
+      "date": "1988-12-31",
+      "rank": 164
+    },
+    {
+      "date": "1989-01-07",
+      "rank": 175
+    },
+    {
+      "date": "1989-01-14",
+      "rank": 155
+    },
+    {
+      "date": "1989-01-21",
+      "rank": 167
+    },
+    {
+      "date": "1989-01-28",
+      "rank": 196
+    },
+    {
+      "date": "1989-02-04",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tomorrow People",
+      "id": "tomorrow-people-ziggy-marley-and-the-melody-makers"
+    },
+    {
+      "title": "Conscious Party",
+      "id": null
+    },
+    {
+      "title": "Lee and Molly",
+      "id": null
+    },
+    {
+      "title": "New Love",
+      "id": null
+    },
+    {
+      "title": "Tumblin’ Down",
+      "id": null
+    },
+    {
+      "title": "We a Guh Some Weh",
+      "id": null
+    },
+    {
+      "title": "A Who a Say",
+      "id": null
+    },
+    {
+      "title": "Have You Ever Been to Hell",
+      "id": null
+    },
+    {
+      "title": "We Propose",
+      "id": null
+    },
+    {
+      "title": "What’s True",
+      "id": null
+    },
+    {
+      "title": "Dreams of Home",
+      "id": null
+    }
+  ]
+}

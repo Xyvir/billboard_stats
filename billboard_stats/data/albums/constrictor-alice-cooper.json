@@ -1,1 +1,134 @@
-{"id": "constrictor-alice-cooper", "title": "Constrictor", "artist": "Alice Cooper", "peak": 59, "history": [{"date": "1986-10-18", "rank": 133}, {"date": "1986-10-25", "rank": 98}, {"date": "1986-11-01", "rank": 73}, {"date": "1986-11-08", "rank": 67}, {"date": "1986-11-15", "rank": 60}, {"date": "1986-11-22", "rank": 59}, {"date": "1986-11-29", "rank": 62}, {"date": "1986-12-06", "rank": 65}, {"date": "1986-12-13", "rank": 69}, {"date": "1986-12-20", "rank": 89}, {"date": "1986-12-27", "rank": 93}, {"date": "1987-01-03", "rank": 93}, {"date": "1987-01-10", "rank": 97}, {"date": "1987-01-17", "rank": 105}, {"date": "1987-01-24", "rank": 120}, {"date": "1987-01-31", "rank": 122}, {"date": "1987-02-07", "rank": 119}, {"date": "1987-02-14", "rank": 141}, {"date": "1987-02-21", "rank": 155}, {"date": "1987-02-28", "rank": 173}, {"date": "1987-03-07", "rank": 185}]}
+{
+  "id": "constrictor-alice-cooper",
+  "title": "Constrictor",
+  "artist": "Alice Cooper",
+  "peak": 59,
+  "history": [
+    {
+      "date": "1986-10-18",
+      "rank": 133
+    },
+    {
+      "date": "1986-10-25",
+      "rank": 98
+    },
+    {
+      "date": "1986-11-01",
+      "rank": 73
+    },
+    {
+      "date": "1986-11-08",
+      "rank": 67
+    },
+    {
+      "date": "1986-11-15",
+      "rank": 60
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 59
+    },
+    {
+      "date": "1986-11-29",
+      "rank": 62
+    },
+    {
+      "date": "1986-12-06",
+      "rank": 65
+    },
+    {
+      "date": "1986-12-13",
+      "rank": 69
+    },
+    {
+      "date": "1986-12-20",
+      "rank": 89
+    },
+    {
+      "date": "1986-12-27",
+      "rank": 93
+    },
+    {
+      "date": "1987-01-03",
+      "rank": 93
+    },
+    {
+      "date": "1987-01-10",
+      "rank": 97
+    },
+    {
+      "date": "1987-01-17",
+      "rank": 105
+    },
+    {
+      "date": "1987-01-24",
+      "rank": 120
+    },
+    {
+      "date": "1987-01-31",
+      "rank": 122
+    },
+    {
+      "date": "1987-02-07",
+      "rank": 119
+    },
+    {
+      "date": "1987-02-14",
+      "rank": 141
+    },
+    {
+      "date": "1987-02-21",
+      "rank": 155
+    },
+    {
+      "date": "1987-02-28",
+      "rank": 173
+    },
+    {
+      "date": "1987-03-07",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Teenage Frankenstein",
+      "id": "teenage-lament-74-alice-cooper"
+    },
+    {
+      "title": "Give It Up",
+      "id": null
+    },
+    {
+      "title": "Thrill My Gorilla",
+      "id": null
+    },
+    {
+      "title": "Life and Death of the Party",
+      "id": null
+    },
+    {
+      "title": "Simple Disobedience",
+      "id": null
+    },
+    {
+      "title": "The World Needs Guts",
+      "id": null
+    },
+    {
+      "title": "Trick Bag",
+      "id": null
+    },
+    {
+      "title": "Crawlin’",
+      "id": null
+    },
+    {
+      "title": "The Great American Success Story",
+      "id": null
+    },
+    {
+      "title": "He’s Back (The Man Behind the Mask)",
+      "id": null
+    }
+  ]
+}
