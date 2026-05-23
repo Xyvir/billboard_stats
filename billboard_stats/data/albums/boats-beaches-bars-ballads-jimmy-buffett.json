@@ -1,1 +1,378 @@
-{"id": "boats-beaches-bars-ballads-jimmy-buffett", "title": "Boats Beaches Bars & Ballads", "artist": "Jimmy Buffett", "peak": 53, "history": [{"date": "1992-06-06", "rank": 76}, {"date": "1992-06-13", "rank": 68}, {"date": "1992-06-20", "rank": 74}, {"date": "1992-06-27", "rank": 84}, {"date": "1992-07-04", "rank": 81}, {"date": "1992-07-11", "rank": 106}, {"date": "1992-07-18", "rank": 129}, {"date": "1992-07-25", "rank": 135}, {"date": "1992-08-01", "rank": 170}, {"date": "1992-08-08", "rank": 184}, {"date": "1992-08-15", "rank": 199}, {"date": "1992-08-22", "rank": 185}, {"date": "1992-08-29", "rank": 181}, {"date": "1992-09-05", "rank": 176}, {"date": "1992-09-12", "rank": 185}, {"date": "1992-09-19", "rank": 194}, {"date": "1992-12-19", "rank": 198}, {"date": "1992-12-26", "rank": 188}, {"date": "1993-01-02", "rank": 177}, {"date": "2023-09-16", "rank": 53}]}
+{
+  "id": "boats-beaches-bars-ballads-jimmy-buffett",
+  "title": "Boats Beaches Bars & Ballads",
+  "artist": "Jimmy Buffett",
+  "peak": 53,
+  "history": [
+    {
+      "date": "1992-06-06",
+      "rank": 76
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 68
+    },
+    {
+      "date": "1992-06-20",
+      "rank": 74
+    },
+    {
+      "date": "1992-06-27",
+      "rank": 84
+    },
+    {
+      "date": "1992-07-04",
+      "rank": 81
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 106
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 129
+    },
+    {
+      "date": "1992-07-25",
+      "rank": 135
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 170
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 184
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 199
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 185
+    },
+    {
+      "date": "1992-08-29",
+      "rank": 181
+    },
+    {
+      "date": "1992-09-05",
+      "rank": 176
+    },
+    {
+      "date": "1992-09-12",
+      "rank": 185
+    },
+    {
+      "date": "1992-09-19",
+      "rank": 194
+    },
+    {
+      "date": "1992-12-19",
+      "rank": 198
+    },
+    {
+      "date": "1992-12-26",
+      "rank": 188
+    },
+    {
+      "date": "1993-01-02",
+      "rank": 177
+    },
+    {
+      "date": "2023-09-16",
+      "rank": 53
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mañana",
+      "id": "ma-ana-jimmy-buffett"
+    },
+    {
+      "title": "Changes in Latitudes, Changes in Attitudes",
+      "id": "changes-in-latitudes-changes-in-attitudes-jimmy-buffett"
+    },
+    {
+      "title": "Margaritaville",
+      "id": "margaritaville-jimmy-buffett"
+    },
+    {
+      "title": "Volcano",
+      "id": "volcano-jimmy-buffett"
+    },
+    {
+      "title": "Cheeseburger in Paradise",
+      "id": "cheeseburger-in-paradise-jimmy-buffett"
+    },
+    {
+      "title": "Fins",
+      "id": "fins-jimmy-buffett"
+    },
+    {
+      "title": "Livingston Saturday Night",
+      "id": "livingston-saturday-night-jimmy-buffett"
+    },
+    {
+      "title": "Come Monday",
+      "id": "come-monday-jimmy-buffett"
+    },
+    {
+      "title": "Survive",
+      "id": "survive-jimmy-buffett"
+    },
+    {
+      "title": "Son of a Son of a Sailor",
+      "id": null
+    },
+    {
+      "title": "Havaña Daydreamin’",
+      "id": null
+    },
+    {
+      "title": "Treat Her Like a Lady",
+      "id": null
+    },
+    {
+      "title": "Steamer",
+      "id": null
+    },
+    {
+      "title": "Jolly Mon Sing",
+      "id": null
+    },
+    {
+      "title": "Nautical Wheelers",
+      "id": null
+    },
+    {
+      "title": "Take It Back",
+      "id": null
+    },
+    {
+      "title": "On a Slow Boat to China",
+      "id": null
+    },
+    {
+      "title": "Love and Luck",
+      "id": null
+    },
+    {
+      "title": "The Captain and the Kid",
+      "id": null
+    },
+    {
+      "title": "Trying to Reason With Hurricane Season",
+      "id": null
+    },
+    {
+      "title": "Boat Drinks",
+      "id": null
+    },
+    {
+      "title": "One Particular Harbour",
+      "id": null
+    },
+    {
+      "title": "A Pirate Looks at Forty",
+      "id": null
+    },
+    {
+      "title": "Lovely Cruise",
+      "id": null
+    },
+    {
+      "title": "Grapefruit-Juicy Fruit",
+      "id": null
+    },
+    {
+      "title": "Ragtop Day",
+      "id": null
+    },
+    {
+      "title": "Frank and Lola",
+      "id": null
+    },
+    {
+      "title": "Tin Cup Chalice",
+      "id": null
+    },
+    {
+      "title": "Knees of My Heart",
+      "id": null
+    },
+    {
+      "title": "Money Back Guarantee",
+      "id": null
+    },
+    {
+      "title": "When the Coast Is Clear",
+      "id": null
+    },
+    {
+      "title": "Biloxi",
+      "id": null
+    },
+    {
+      "title": "Distantly in Love",
+      "id": null
+    },
+    {
+      "title": "Coconut Telegraph",
+      "id": null
+    },
+    {
+      "title": "Stars on the Water",
+      "id": null
+    },
+    {
+      "title": "Who’s the Blonde Stranger?",
+      "id": null
+    },
+    {
+      "title": "I Have Found Me a Home",
+      "id": null
+    },
+    {
+      "title": "Christmas in the Caribbean",
+      "id": null
+    },
+    {
+      "title": "Brown Eyed Girl",
+      "id": null
+    },
+    {
+      "title": "The Weather Is Here, Wish You Were Beautiful",
+      "id": null
+    },
+    {
+      "title": "Tampico Trauma",
+      "id": null
+    },
+    {
+      "title": "Cuban Crime of Passion",
+      "id": null
+    },
+    {
+      "title": "First Look",
+      "id": null
+    },
+    {
+      "title": "The Wino and I Know",
+      "id": null
+    },
+    {
+      "title": "The Great Filling Station Holdup",
+      "id": null
+    },
+    {
+      "title": "Why Don’t We Get Drunk",
+      "id": null
+    },
+    {
+      "title": "Elvis Imitators",
+      "id": null
+    },
+    {
+      "title": "Pencil Thin Mustache",
+      "id": null
+    },
+    {
+      "title": "Kick It in Second Wind",
+      "id": null
+    },
+    {
+      "title": "Desperation Samba",
+      "id": null
+    },
+    {
+      "title": "When Salome Plays the Drum",
+      "id": null
+    },
+    {
+      "title": "They Don’t Dance Like Carmen No More",
+      "id": null
+    },
+    {
+      "title": "The Pascagoula Run",
+      "id": null
+    },
+    {
+      "title": "Sending the Old Man Home",
+      "id": null
+    },
+    {
+      "title": "Domino College",
+      "id": null
+    },
+    {
+      "title": "Defying Gravity",
+      "id": null
+    },
+    {
+      "title": "Incommunicado",
+      "id": null
+    },
+    {
+      "title": "I Heard I Was in Town",
+      "id": null
+    },
+    {
+      "title": "Ballad of Spider John",
+      "id": null
+    },
+    {
+      "title": "Little Miss Magic",
+      "id": null
+    },
+    {
+      "title": "California Promises",
+      "id": null
+    },
+    {
+      "title": "If the Phone Doesn’t Ring, It’s Me",
+      "id": null
+    },
+    {
+      "title": "African Friend",
+      "id": null
+    },
+    {
+      "title": "Everlasting Moon",
+      "id": null
+    },
+    {
+      "title": "Pre‐You",
+      "id": null
+    },
+    {
+      "title": "Middle of the Night",
+      "id": null
+    },
+    {
+      "title": "Coast of Marseilles",
+      "id": null
+    },
+    {
+      "title": "Island",
+      "id": null
+    },
+    {
+      "title": "He Went to Paris",
+      "id": null
+    },
+    {
+      "title": "Stars Fell on Alabama",
+      "id": null
+    },
+    {
+      "title": "Changing Channels",
+      "id": null
+    },
+    {
+      "title": "Twelve Volt Man",
+      "id": null
+    }
+  ]
+}

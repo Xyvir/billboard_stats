@@ -1,1 +1,90 @@
-{"id": "bobby-vinton-show-bobby-vinton", "title": "Bobby Vinton Show", "artist": "Bobby Vinton", "peak": 161, "history": [{"date": "1975-12-27", "rank": 194}, {"date": "1976-01-03", "rank": 182}, {"date": "1976-01-10", "rank": 172}, {"date": "1976-01-17", "rank": 169}, {"date": "1976-01-24", "rank": 161}, {"date": "1976-01-31", "rank": 161}, {"date": "1976-02-07", "rank": 197}]}
+{
+  "id": "bobby-vinton-show-bobby-vinton",
+  "title": "Bobby Vinton Show",
+  "artist": "Bobby Vinton",
+  "peak": 161,
+  "history": [
+    {
+      "date": "1975-12-27",
+      "rank": 194
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 182
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 172
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 169
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 161
+    },
+    {
+      "date": "1976-01-31",
+      "rank": 161
+    },
+    {
+      "date": "1976-02-07",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "And I Love You So",
+      "id": "i-love-how-you-love-me-bobby-vinton"
+    },
+    {
+      "title": "The Bobby Vinton Show Theme (My Melody of Love, instrumental)",
+      "id": null
+    },
+    {
+      "title": "Runaway",
+      "id": null
+    },
+    {
+      "title": "Killing Me Softly With His Song",
+      "id": null
+    },
+    {
+      "title": "Build Me Up Buttercup",
+      "id": null
+    },
+    {
+      "title": "Help Me Make It Through the Night",
+      "id": null
+    },
+    {
+      "title": "Bad Bad Leroy Brown",
+      "id": null
+    },
+    {
+      "title": "The Way We Were",
+      "id": null
+    },
+    {
+      "title": "Travelin’ Band",
+      "id": null
+    },
+    {
+      "title": "United We Stand",
+      "id": null
+    },
+    {
+      "title": "(Where Do I Begin) Love Story",
+      "id": null
+    },
+    {
+      "title": "When Will I Be Loved",
+      "id": null
+    },
+    {
+      "title": "I’m Walkin’",
+      "id": null
+    }
+  ]
+}
