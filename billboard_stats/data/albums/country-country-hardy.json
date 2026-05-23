@@ -1,1 +1,114 @@
-{"id": "country-country-hardy", "title": "Country! Country!", "artist": "HARDY", "peak": 22, "history": [{"date": "2025-10-11", "rank": 22}, {"date": "2025-10-18", "rank": 121}]}
+{
+  "id": "country-country-hardy",
+  "title": "Country! Country!",
+  "artist": "HARDY",
+  "peak": 22,
+  "history": [
+    {
+      "date": "2025-10-11",
+      "rank": 22
+    },
+    {
+      "date": "2025-10-18",
+      "rank": 121
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Favorite Country Song",
+      "id": "favorite-country-song-hardy"
+    },
+    {
+      "title": "Country Country",
+      "id": null
+    },
+    {
+      "title": "Bro Country",
+      "id": null
+    },
+    {
+      "title": "Luckiest Man Alive",
+      "id": null
+    },
+    {
+      "title": "Car That Drove You Away",
+      "id": null
+    },
+    {
+      "title": "Girl With A Gun",
+      "id": null
+    },
+    {
+      "title": "Buck On The Wall",
+      "id": null
+    },
+    {
+      "title": "I’d Go Crazy Too",
+      "id": null
+    },
+    {
+      "title": "Take The Country And Run",
+      "id": null
+    },
+    {
+      "title": "Goodbye",
+      "id": null
+    },
+    {
+      "title": "Bedrooms In The Sky",
+      "id": null
+    },
+    {
+      "title": "Bottomland",
+      "id": null
+    },
+    {
+      "title": "Good Ole Boy",
+      "id": null
+    },
+    {
+      "title": "Who Don’t",
+      "id": null
+    },
+    {
+      "title": "Country In Me",
+      "id": null
+    },
+    {
+      "title": "Gun To My Head",
+      "id": null
+    },
+    {
+      "title": "Keep It Country",
+      "id": null
+    },
+    {
+      "title": "Y’all Need Jesus",
+      "id": null
+    },
+    {
+      "title": "Dog Years",
+      "id": null
+    },
+    {
+      "title": "We're All Gonna Die",
+      "id": null
+    },
+    {
+      "title": "Everybody Does",
+      "id": null
+    },
+    {
+      "title": "Country In Me (Acoustic One Take)",
+      "id": null
+    },
+    {
+      "title": "Take The Country And Run (Acoustic One Take)",
+      "id": null
+    },
+    {
+      "title": "Dog Years (Acoustic One Take)",
+      "id": null
+    }
+  ]
+}

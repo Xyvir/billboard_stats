@@ -1,1 +1,94 @@
-{"id": "country-music-willie-nelson", "title": "Country Music", "artist": "Willie Nelson", "peak": 20, "history": [{"date": "2010-05-08", "rank": 20}, {"date": "2010-05-15", "rank": 36}, {"date": "2010-05-22", "rank": 57}, {"date": "2010-05-29", "rank": 82}, {"date": "2010-06-05", "rank": 130}, {"date": "2010-06-12", "rank": 169}]}
+{
+  "id": "country-music-willie-nelson",
+  "title": "Country Music",
+  "artist": "Willie Nelson",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2010-05-08",
+      "rank": 20
+    },
+    {
+      "date": "2010-05-15",
+      "rank": 36
+    },
+    {
+      "date": "2010-05-22",
+      "rank": 57
+    },
+    {
+      "date": "2010-05-29",
+      "rank": 82
+    },
+    {
+      "date": "2010-06-05",
+      "rank": 130
+    },
+    {
+      "date": "2010-06-12",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Man With the Blues",
+      "id": null
+    },
+    {
+      "title": "Seaman’s Blues",
+      "id": null
+    },
+    {
+      "title": "Dark as a Dungeon",
+      "id": null
+    },
+    {
+      "title": "Gotta Walk Alone",
+      "id": null
+    },
+    {
+      "title": "Satan Your Kingdom Must Come Down",
+      "id": null
+    },
+    {
+      "title": "My Baby’s Gone",
+      "id": null
+    },
+    {
+      "title": "Freight Train Boogie",
+      "id": null
+    },
+    {
+      "title": "Satisfied Mind",
+      "id": null
+    },
+    {
+      "title": "You Done Me Wrong",
+      "id": null
+    },
+    {
+      "title": "Pistol Packin’ Mama",
+      "id": null
+    },
+    {
+      "title": "Ocean of Diamonds",
+      "id": null
+    },
+    {
+      "title": "Drinking Champagne",
+      "id": null
+    },
+    {
+      "title": "I Am a Pilgrim",
+      "id": null
+    },
+    {
+      "title": "House of Gold",
+      "id": null
+    },
+    {
+      "title": "Nobody’s Fault but Mine",
+      "id": null
+    }
+  ]
+}
