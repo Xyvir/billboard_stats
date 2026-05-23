@@ -1,1 +1,74 @@
-{"id": "melt-deluxe-shaed", "title": "MELT (Deluxe)", "artist": "SHAED", "peak": 152, "history": [{"date": "2020-01-18", "rank": 152}, {"date": "2020-01-25", "rank": 165}]}
+{
+  "id": "melt-deluxe-shaed",
+  "title": "MELT (Deluxe)",
+  "artist": "SHAED",
+  "peak": 152,
+  "history": [
+    {
+      "date": "2020-01-18",
+      "rank": 152
+    },
+    {
+      "date": "2020-01-25",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Trampoline",
+      "id": "trampoline-shaed"
+    },
+    {
+      "title": "Trampoline (Jauz remix)",
+      "id": "trampoline-shaed"
+    },
+    {
+      "title": "Melt",
+      "id": null
+    },
+    {
+      "title": "You Got Me Like",
+      "id": null
+    },
+    {
+      "title": "Lonesome",
+      "id": null
+    },
+    {
+      "title": "Keep Calling",
+      "id": null
+    },
+    {
+      "title": "Just Wanna See",
+      "id": null
+    },
+    {
+      "title": "Perfume",
+      "id": null
+    },
+    {
+      "title": "Too Much",
+      "id": null
+    },
+    {
+      "title": "Thunder",
+      "id": null
+    },
+    {
+      "title": "Name on It",
+      "id": null
+    },
+    {
+      "title": "Silver Knife",
+      "id": null
+    },
+    {
+      "title": "Inside a Dream",
+      "id": null
+    },
+    {
+      "title": "Trampoline (Dave Audé remix)",
+      "id": null
+    }
+  ]
+}

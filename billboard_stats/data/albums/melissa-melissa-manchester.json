@@ -1,1 +1,214 @@
-{"id": "melissa-melissa-manchester", "title": "Melissa", "artist": "Melissa Manchester", "peak": 12, "history": [{"date": "1975-03-01", "rank": 142}, {"date": "1975-03-08", "rank": 122}, {"date": "1975-03-15", "rank": 77}, {"date": "1975-03-22", "rank": 67}, {"date": "1975-03-29", "rank": 56}, {"date": "1975-04-05", "rank": 56}, {"date": "1975-04-12", "rank": 55}, {"date": "1975-04-19", "rank": 53}, {"date": "1975-04-26", "rank": 59}, {"date": "1975-05-03", "rank": 71}, {"date": "1975-05-10", "rank": 116}, {"date": "1975-05-17", "rank": 121}, {"date": "1975-05-24", "rank": 119}, {"date": "1975-05-31", "rank": 116}, {"date": "1975-06-07", "rank": 106}, {"date": "1975-06-14", "rank": 95}, {"date": "1975-06-21", "rank": 84}, {"date": "1975-06-28", "rank": 72}, {"date": "1975-07-05", "rank": 59}, {"date": "1975-07-12", "rank": 49}, {"date": "1975-07-19", "rank": 39}, {"date": "1975-07-26", "rank": 31}, {"date": "1975-08-02", "rank": 24}, {"date": "1975-08-09", "rank": 22}, {"date": "1975-08-16", "rank": 18}, {"date": "1975-08-23", "rank": 16}, {"date": "1975-08-30", "rank": 15}, {"date": "1975-09-06", "rank": 13}, {"date": "1975-09-13", "rank": 12}, {"date": "1975-09-20", "rank": 22}, {"date": "1975-09-27", "rank": 39}, {"date": "1975-10-04", "rank": 51}, {"date": "1975-10-11", "rank": 87}, {"date": "1975-10-18", "rank": 77}, {"date": "1975-10-25", "rank": 67}, {"date": "1975-11-01", "rank": 65}, {"date": "1975-11-08", "rank": 62}, {"date": "1975-11-15", "rank": 60}, {"date": "1975-11-22", "rank": 84}, {"date": "1975-11-29", "rank": 106}, {"date": "1975-12-06", "rank": 196}]}
+{
+  "id": "melissa-melissa-manchester",
+  "title": "Melissa",
+  "artist": "Melissa Manchester",
+  "peak": 12,
+  "history": [
+    {
+      "date": "1975-03-01",
+      "rank": 142
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 122
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 77
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 67
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 56
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 56
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 55
+    },
+    {
+      "date": "1975-04-19",
+      "rank": 53
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 59
+    },
+    {
+      "date": "1975-05-03",
+      "rank": 71
+    },
+    {
+      "date": "1975-05-10",
+      "rank": 116
+    },
+    {
+      "date": "1975-05-17",
+      "rank": 121
+    },
+    {
+      "date": "1975-05-24",
+      "rank": 119
+    },
+    {
+      "date": "1975-05-31",
+      "rank": 116
+    },
+    {
+      "date": "1975-06-07",
+      "rank": 106
+    },
+    {
+      "date": "1975-06-14",
+      "rank": 95
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 84
+    },
+    {
+      "date": "1975-06-28",
+      "rank": 72
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 59
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 49
+    },
+    {
+      "date": "1975-07-19",
+      "rank": 39
+    },
+    {
+      "date": "1975-07-26",
+      "rank": 31
+    },
+    {
+      "date": "1975-08-02",
+      "rank": 24
+    },
+    {
+      "date": "1975-08-09",
+      "rank": 22
+    },
+    {
+      "date": "1975-08-16",
+      "rank": 18
+    },
+    {
+      "date": "1975-08-23",
+      "rank": 16
+    },
+    {
+      "date": "1975-08-30",
+      "rank": 15
+    },
+    {
+      "date": "1975-09-06",
+      "rank": 13
+    },
+    {
+      "date": "1975-09-13",
+      "rank": 12
+    },
+    {
+      "date": "1975-09-20",
+      "rank": 22
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 39
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 51
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 87
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 77
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 67
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 65
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 62
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 60
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 84
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 106
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Just Too Many People",
+      "id": "just-too-many-people-melissa-manchester"
+    },
+    {
+      "title": "Midnight Blue",
+      "id": "midnight-blue-melissa-manchester"
+    },
+    {
+      "title": "We’ve Got Time",
+      "id": null
+    },
+    {
+      "title": "Party Music",
+      "id": null
+    },
+    {
+      "title": "Stevie’s Wonder",
+      "id": null
+    },
+    {
+      "title": "This Lady’s Not Home",
+      "id": null
+    },
+    {
+      "title": "Love Havin’ You Around",
+      "id": null
+    },
+    {
+      "title": "It’s Gonna Be Alright",
+      "id": null
+    },
+    {
+      "title": "I Got Eyes",
+      "id": null
+    },
+    {
+      "title": "I Don’t Want to Hear It Anymore",
+      "id": null
+    }
+  ]
+}
