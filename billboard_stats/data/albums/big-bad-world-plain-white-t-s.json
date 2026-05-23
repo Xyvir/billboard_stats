@@ -1,1 +1,70 @@
-{"id": "big-bad-world-plain-white-t-s", "title": "Big Bad World", "artist": "Plain White T's", "peak": 33, "history": [{"date": "2008-10-11", "rank": 33}, {"date": "2008-10-18", "rank": 88}, {"date": "2008-10-25", "rank": 100}, {"date": "2008-11-01", "rank": 115}, {"date": "2009-02-28", "rank": 181}]}
+{
+  "id": "big-bad-world-plain-white-t-s",
+  "title": "Big Bad World",
+  "artist": "Plain White T's",
+  "peak": 33,
+  "history": [
+    {
+      "date": "2008-10-11",
+      "rank": 33
+    },
+    {
+      "date": "2008-10-18",
+      "rank": 88
+    },
+    {
+      "date": "2008-10-25",
+      "rank": 100
+    },
+    {
+      "date": "2008-11-01",
+      "rank": 115
+    },
+    {
+      "date": "2009-02-28",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "1, 2, 3, 4",
+      "id": "1-2-3-4-plain-white-t-s"
+    },
+    {
+      "title": "I Really Want You",
+      "id": "hate-i-really-don-t-like-you-plain-white-t-s"
+    },
+    {
+      "title": "Big Bad World",
+      "id": null
+    },
+    {
+      "title": "Natural Disaster",
+      "id": null
+    },
+    {
+      "title": "Serious Mistake",
+      "id": null
+    },
+    {
+      "title": "Rainy Day",
+      "id": null
+    },
+    {
+      "title": "That Girl",
+      "id": null
+    },
+    {
+      "title": "Sunlight",
+      "id": null
+    },
+    {
+      "title": "Meet Me in California",
+      "id": null
+    },
+    {
+      "title": "Someday",
+      "id": null
+    }
+  ]
+}
