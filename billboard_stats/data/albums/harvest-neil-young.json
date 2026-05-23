@@ -1,1 +1,170 @@
-{"id": "harvest-neil-young", "title": "Harvest", "artist": "Neil Young", "peak": 2, "history": [{"date": "1972-05-20", "rank": 2}, {"date": "1972-05-27", "rank": 3}, {"date": "1972-06-03", "rank": 3}, {"date": "1972-06-10", "rank": 3}, {"date": "1972-06-17", "rank": 9}, {"date": "1972-06-24", "rank": 9}, {"date": "1972-07-01", "rank": 12}, {"date": "1972-07-08", "rank": 15}, {"date": "1972-07-15", "rank": 22}, {"date": "1972-07-22", "rank": 26}, {"date": "1972-07-29", "rank": 26}, {"date": "1972-08-05", "rank": 29}, {"date": "1972-08-12", "rank": 34}, {"date": "1972-08-19", "rank": 37}, {"date": "1972-08-26", "rank": 43}, {"date": "1972-09-02", "rank": 43}, {"date": "1972-09-09", "rank": 54}, {"date": "1972-09-16", "rank": 53}, {"date": "1972-09-23", "rank": 56}, {"date": "1972-09-30", "rank": 53}, {"date": "1972-10-07", "rank": 58}, {"date": "1972-10-14", "rank": 62}, {"date": "1972-10-21", "rank": 68}, {"date": "1972-10-28", "rank": 68}, {"date": "1972-11-04", "rank": 76}, {"date": "1972-11-11", "rank": 106}, {"date": "1972-11-18", "rank": 116}, {"date": "1972-11-25", "rank": 122}, {"date": "1972-12-02", "rank": 141}, {"date": "1972-12-09", "rank": 152}]}
+{
+  "id": "harvest-neil-young",
+  "title": "Harvest",
+  "artist": "Neil Young",
+  "peak": 2,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 2
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 3
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 3
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 3
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 9
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 9
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 12
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 15
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 22
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 26
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 26
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 29
+    },
+    {
+      "date": "1972-08-12",
+      "rank": 34
+    },
+    {
+      "date": "1972-08-19",
+      "rank": 37
+    },
+    {
+      "date": "1972-08-26",
+      "rank": 43
+    },
+    {
+      "date": "1972-09-02",
+      "rank": 43
+    },
+    {
+      "date": "1972-09-09",
+      "rank": 54
+    },
+    {
+      "date": "1972-09-16",
+      "rank": 53
+    },
+    {
+      "date": "1972-09-23",
+      "rank": 56
+    },
+    {
+      "date": "1972-09-30",
+      "rank": 53
+    },
+    {
+      "date": "1972-10-07",
+      "rank": 58
+    },
+    {
+      "date": "1972-10-14",
+      "rank": 62
+    },
+    {
+      "date": "1972-10-21",
+      "rank": 68
+    },
+    {
+      "date": "1972-10-28",
+      "rank": 68
+    },
+    {
+      "date": "1972-11-04",
+      "rank": 76
+    },
+    {
+      "date": "1972-11-11",
+      "rank": 106
+    },
+    {
+      "date": "1972-11-18",
+      "rank": 116
+    },
+    {
+      "date": "1972-11-25",
+      "rank": 122
+    },
+    {
+      "date": "1972-12-02",
+      "rank": 141
+    },
+    {
+      "date": "1972-12-09",
+      "rank": 152
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heart of Gold",
+      "id": "heart-of-gold-neil-young"
+    },
+    {
+      "title": "Old Man",
+      "id": "old-man-neil-young"
+    },
+    {
+      "title": "Out on the Weekend",
+      "id": null
+    },
+    {
+      "title": "Harvest",
+      "id": null
+    },
+    {
+      "title": "A Man Needs a Maid",
+      "id": null
+    },
+    {
+      "title": "Are You Ready for the Country?",
+      "id": null
+    },
+    {
+      "title": "There’s a World",
+      "id": null
+    },
+    {
+      "title": "Alabama",
+      "id": null
+    },
+    {
+      "title": "The Needle and the Damage Done",
+      "id": null
+    },
+    {
+      "title": "Words (Between the Lines of Age)",
+      "id": null
+    }
+  ]
+}

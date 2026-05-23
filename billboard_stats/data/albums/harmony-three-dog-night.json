@@ -1,1 +1,66 @@
-{"id": "harmony-three-dog-night", "title": "Harmony", "artist": "Three Dog Night", "peak": 82, "history": [{"date": "1972-05-20", "rank": 82}, {"date": "1972-05-27", "rank": 105}, {"date": "1972-06-03", "rank": 123}, {"date": "1972-06-10", "rank": 148}]}
+{
+  "id": "harmony-three-dog-night",
+  "title": "Harmony",
+  "artist": "Three Dog Night",
+  "peak": 82,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 82
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 105
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 123
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 148
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Never Been to Spain",
+      "id": "never-been-to-spain-three-dog-night"
+    },
+    {
+      "title": "An Old Fashioned Love Song",
+      "id": "an-old-fashioned-love-song-three-dog-night"
+    },
+    {
+      "title": "Night in the City",
+      "id": "out-in-the-country-three-dog-night"
+    },
+    {
+      "title": "The Family of Man",
+      "id": "the-family-of-man-three-dog-night"
+    },
+    {
+      "title": "My Impersonal Life",
+      "id": null
+    },
+    {
+      "title": "Never Dreamed You’d Leave Me in Summer",
+      "id": null
+    },
+    {
+      "title": "Jam",
+      "id": null
+    },
+    {
+      "title": "You",
+      "id": null
+    },
+    {
+      "title": "Murder in My Heart for the Judge",
+      "id": null
+    },
+    {
+      "title": "Intro / Poem: Mistakes and Illusions / Peace of Mind",
+      "id": null
+    }
+  ]
+}

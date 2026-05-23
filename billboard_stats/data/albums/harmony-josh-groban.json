@@ -1,1 +1,78 @@
-{"id": "harmony-josh-groban", "title": "Harmony", "artist": "Josh Groban", "peak": 17, "history": [{"date": "2020-12-05", "rank": 17}, {"date": "2020-12-12", "rank": 59}, {"date": "2020-12-19", "rank": 94}, {"date": "2020-12-26", "rank": 126}, {"date": "2021-01-02", "rank": 190}]}
+{
+  "id": "harmony-josh-groban",
+  "title": "Harmony",
+  "artist": "Josh Groban",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2020-12-05",
+      "rank": 17
+    },
+    {
+      "date": "2020-12-12",
+      "rank": 59
+    },
+    {
+      "date": "2020-12-19",
+      "rank": 94
+    },
+    {
+      "date": "2020-12-26",
+      "rank": 126
+    },
+    {
+      "date": "2021-01-02",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The World We Knew (Over and Over)",
+      "id": null
+    },
+    {
+      "title": "Angels",
+      "id": null
+    },
+    {
+      "title": "Celebrate Me Home",
+      "id": null
+    },
+    {
+      "title": "Shape of My Heart",
+      "id": null
+    },
+    {
+      "title": "Your Face",
+      "id": null
+    },
+    {
+      "title": "Both Sides Now",
+      "id": null
+    },
+    {
+      "title": "She",
+      "id": null
+    },
+    {
+      "title": "The Impossible Dream",
+      "id": null
+    },
+    {
+      "title": "The First Time Ever I Saw Your Face",
+      "id": null
+    },
+    {
+      "title": "It’s Now or Never",
+      "id": null
+    },
+    {
+      "title": "I Can’t Make You Love Me",
+      "id": null
+    },
+    {
+      "title": "The Fullest",
+      "id": null
+    }
+  ]
+}

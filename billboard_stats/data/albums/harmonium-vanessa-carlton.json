@@ -1,1 +1,86 @@
-{"id": "harmonium-vanessa-carlton", "title": "Harmonium", "artist": "Vanessa Carlton", "peak": 33, "history": [{"date": "2004-11-27", "rank": 33}, {"date": "2004-12-04", "rank": 96}, {"date": "2004-12-11", "rank": 100}, {"date": "2004-12-18", "rank": 161}, {"date": "2004-12-25", "rank": 180}, {"date": "2005-01-01", "rank": 188}, {"date": "2005-01-15", "rank": 194}]}
+{
+  "id": "harmonium-vanessa-carlton",
+  "title": "Harmonium",
+  "artist": "Vanessa Carlton",
+  "peak": 33,
+  "history": [
+    {
+      "date": "2004-11-27",
+      "rank": 33
+    },
+    {
+      "date": "2004-12-04",
+      "rank": 96
+    },
+    {
+      "date": "2004-12-11",
+      "rank": 100
+    },
+    {
+      "date": "2004-12-18",
+      "rank": 161
+    },
+    {
+      "date": "2004-12-25",
+      "rank": 180
+    },
+    {
+      "date": "2005-01-01",
+      "rank": 188
+    },
+    {
+      "date": "2005-01-15",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "White Houses",
+      "id": "white-houses-vanessa-carlton"
+    },
+    {
+      "title": "Who’s to Say",
+      "id": null
+    },
+    {
+      "title": "Annie",
+      "id": null
+    },
+    {
+      "title": "San Francisco",
+      "id": null
+    },
+    {
+      "title": "Afterglow",
+      "id": null
+    },
+    {
+      "title": "Private Radio",
+      "id": null
+    },
+    {
+      "title": "Half a Week Before the Winter",
+      "id": null
+    },
+    {
+      "title": "C’est la vie",
+      "id": null
+    },
+    {
+      "title": "Papa",
+      "id": null
+    },
+    {
+      "title": "She Floats",
+      "id": null
+    },
+    {
+      "title": "Where the Streets Have No Name",
+      "id": null
+    },
+    {
+      "title": "The Wreckage",
+      "id": null
+    }
+  ]
+}
