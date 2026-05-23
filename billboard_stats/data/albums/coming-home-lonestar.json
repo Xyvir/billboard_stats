@@ -1,1 +1,70 @@
-{"id": "coming-home-lonestar", "title": "Coming Home", "artist": "Lonestar", "peak": 26, "history": [{"date": "2005-10-01", "rank": 26}, {"date": "2005-10-08", "rank": 87}, {"date": "2005-10-15", "rank": 137}]}
+{
+  "id": "coming-home-lonestar",
+  "title": "Coming Home",
+  "artist": "Lonestar",
+  "peak": 26,
+  "history": [
+    {
+      "date": "2005-10-01",
+      "rank": 26
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 87
+    },
+    {
+      "date": "2005-10-15",
+      "rank": 137
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You’re Like Comin’ Home",
+      "id": "you-re-like-comin-home-lonestar"
+    },
+    {
+      "title": "Doghouse",
+      "id": null
+    },
+    {
+      "title": "I Am a Man",
+      "id": null
+    },
+    {
+      "title": "I’ll Die Tryin’",
+      "id": null
+    },
+    {
+      "title": "Wild",
+      "id": null
+    },
+    {
+      "title": "Noise",
+      "id": null
+    },
+    {
+      "title": "Little Town",
+      "id": null
+    },
+    {
+      "title": "I Never Needed You",
+      "id": null
+    },
+    {
+      "title": "What’s Wrong With That",
+      "id": null
+    },
+    {
+      "title": "Two Bottles of Beer",
+      "id": null
+    },
+    {
+      "title": "I Just Want to Love You",
+      "id": null
+    },
+    {
+      "title": "When I Go Home Again",
+      "id": null
+    }
+  ]
+}
