@@ -1,1 +1,66 @@
-{"id": "horace-brown-horace-brown", "title": "Horace Brown", "artist": "Horace Brown", "peak": 145, "history": [{"date": "1996-07-06", "rank": 145}, {"date": "1996-07-13", "rank": 174}]}
+{
+  "id": "horace-brown-horace-brown",
+  "title": "Horace Brown",
+  "artist": "Horace Brown",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1996-07-06",
+      "rank": 145
+    },
+    {
+      "date": "1996-07-13",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Things We Do for Love",
+      "id": "things-we-do-for-love-horace-brown"
+    },
+    {
+      "title": "One for the Money",
+      "id": "one-for-the-money-horace-brown"
+    },
+    {
+      "title": "Taste Your Love",
+      "id": "things-we-do-for-love-horace-brown"
+    },
+    {
+      "title": "Why Why Why",
+      "id": null
+    },
+    {
+      "title": "How Can We Stop",
+      "id": null
+    },
+    {
+      "title": "I Want You Baby",
+      "id": null
+    },
+    {
+      "title": "Trippin'",
+      "id": null
+    },
+    {
+      "title": "I Like",
+      "id": null
+    },
+    {
+      "title": "Just Let Me Know",
+      "id": null
+    },
+    {
+      "title": "Gotta Find a Way",
+      "id": null
+    },
+    {
+      "title": "You Need a Man",
+      "id": null
+    },
+    {
+      "title": "Enjoy",
+      "id": null
+    }
+  ]
+}

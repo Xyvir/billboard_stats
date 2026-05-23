@@ -1,1 +1,90 @@
-{"id": "hoppkorv-hot-tuna", "title": "Hoppkorv", "artist": "Hot Tuna", "peak": 116, "history": [{"date": "1976-11-20", "rank": 160}, {"date": "1976-11-27", "rank": 137}, {"date": "1976-12-04", "rank": 127}, {"date": "1976-12-11", "rank": 117}, {"date": "1976-12-18", "rank": 117}, {"date": "1976-12-25", "rank": 116}, {"date": "1977-01-01", "rank": 116}, {"date": "1977-01-08", "rank": 152}, {"date": "1977-01-15", "rank": 171}, {"date": "1977-01-22", "rank": 192}]}
+{
+  "id": "hoppkorv-hot-tuna",
+  "title": "Hoppkorv",
+  "artist": "Hot Tuna",
+  "peak": 116,
+  "history": [
+    {
+      "date": "1976-11-20",
+      "rank": 160
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 137
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 127
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 117
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 117
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 116
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 116
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 152
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 171
+    },
+    {
+      "date": "1977-01-22",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Santa Claus Retreat",
+      "id": null
+    },
+    {
+      "title": "Watch The North Wind Rise",
+      "id": null
+    },
+    {
+      "title": "It's So Easy",
+      "id": null
+    },
+    {
+      "title": "Bowlegged Woman, Knock Kneed Man",
+      "id": null
+    },
+    {
+      "title": "Drivin' Around",
+      "id": null
+    },
+    {
+      "title": "I Wish You Would",
+      "id": null
+    },
+    {
+      "title": "I Can't Be Satisfied",
+      "id": null
+    },
+    {
+      "title": "Talking 'Bout You",
+      "id": null
+    },
+    {
+      "title": "Extrication Love Song",
+      "id": null
+    },
+    {
+      "title": "Song From The Stainless Cymbal",
+      "id": null
+    }
+  ]
+}
