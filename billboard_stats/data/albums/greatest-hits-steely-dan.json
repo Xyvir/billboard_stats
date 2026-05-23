@@ -1,1 +1,170 @@
-{"id": "greatest-hits-steely-dan", "title": "Greatest Hits", "artist": "Steely Dan", "peak": 30, "history": [{"date": "1978-11-18", "rank": 66}, {"date": "1978-11-25", "rank": 49}, {"date": "1978-12-02", "rank": 46}, {"date": "1978-12-09", "rank": 37}, {"date": "1978-12-16", "rank": 33}, {"date": "1978-12-23", "rank": 31}, {"date": "1978-12-30", "rank": 31}, {"date": "1979-01-06", "rank": 31}, {"date": "1979-01-13", "rank": 31}, {"date": "1979-01-20", "rank": 31}, {"date": "1979-01-27", "rank": 31}, {"date": "1979-02-03", "rank": 30}, {"date": "1979-02-10", "rank": 63}, {"date": "1979-02-17", "rank": 63}, {"date": "1979-02-24", "rank": 72}, {"date": "1979-03-03", "rank": 89}, {"date": "1979-03-10", "rank": 89}, {"date": "1979-03-17", "rank": 91}, {"date": "1979-03-24", "rank": 101}, {"date": "1979-03-31", "rank": 128}, {"date": "1979-04-07", "rank": 181}, {"date": "1979-04-14", "rank": 200}]}
+{
+  "id": "greatest-hits-steely-dan",
+  "title": "Greatest Hits",
+  "artist": "Steely Dan",
+  "peak": 30,
+  "history": [
+    {
+      "date": "1978-11-18",
+      "rank": 66
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 49
+    },
+    {
+      "date": "1978-12-02",
+      "rank": 46
+    },
+    {
+      "date": "1978-12-09",
+      "rank": 37
+    },
+    {
+      "date": "1978-12-16",
+      "rank": 33
+    },
+    {
+      "date": "1978-12-23",
+      "rank": 31
+    },
+    {
+      "date": "1978-12-30",
+      "rank": 31
+    },
+    {
+      "date": "1979-01-06",
+      "rank": 31
+    },
+    {
+      "date": "1979-01-13",
+      "rank": 31
+    },
+    {
+      "date": "1979-01-20",
+      "rank": 31
+    },
+    {
+      "date": "1979-01-27",
+      "rank": 31
+    },
+    {
+      "date": "1979-02-03",
+      "rank": 30
+    },
+    {
+      "date": "1979-02-10",
+      "rank": 63
+    },
+    {
+      "date": "1979-02-17",
+      "rank": 63
+    },
+    {
+      "date": "1979-02-24",
+      "rank": 72
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 89
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 89
+    },
+    {
+      "date": "1979-03-17",
+      "rank": 91
+    },
+    {
+      "date": "1979-03-24",
+      "rank": 101
+    },
+    {
+      "date": "1979-03-31",
+      "rank": 128
+    },
+    {
+      "date": "1979-04-07",
+      "rank": 181
+    },
+    {
+      "date": "1979-04-14",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Do It Again",
+      "id": "do-it-again-steely-dan"
+    },
+    {
+      "title": "Reelin’ In the Years",
+      "id": "reeling-in-the-years-steely-dan"
+    },
+    {
+      "title": "My Old School",
+      "id": "my-old-school-steely-dan"
+    },
+    {
+      "title": "Show Biz Kids",
+      "id": "show-biz-kids-steely-dan"
+    },
+    {
+      "title": "Rikki Don’t Lose That Number",
+      "id": "rikki-don-t-lose-that-number-steely-dan"
+    },
+    {
+      "title": "Pretzel Logic",
+      "id": "pretzel-logic-steely-dan"
+    },
+    {
+      "title": "Black Friday",
+      "id": "black-friday-steely-dan"
+    },
+    {
+      "title": "Kid Charlemagne",
+      "id": "kid-charlemagne-steely-dan"
+    },
+    {
+      "title": "The Fez",
+      "id": "the-fez-steely-dan"
+    },
+    {
+      "title": "Peg",
+      "id": "peg-steely-dan"
+    },
+    {
+      "title": "Josie",
+      "id": "josie-steely-dan"
+    },
+    {
+      "title": "Bodhisattva",
+      "id": null
+    },
+    {
+      "title": "East St. Louis Toodle‐oo",
+      "id": null
+    },
+    {
+      "title": "Any Major Dude Will Tell You",
+      "id": null
+    },
+    {
+      "title": "Here at the Western World",
+      "id": null
+    },
+    {
+      "title": "Bad Sneakers",
+      "id": null
+    },
+    {
+      "title": "Doctor Wu",
+      "id": null
+    },
+    {
+      "title": "Haitian Divorce",
+      "id": null
+    }
+  ]
+}

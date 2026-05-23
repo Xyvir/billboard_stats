@@ -1,1 +1,94 @@
-{"id": "greatest-hits-run-d-m-c", "title": "Greatest Hits", "artist": "Run-D.M.C.", "peak": 117, "history": [{"date": "2002-09-28", "rank": 146}, {"date": "2002-11-16", "rank": 117}, {"date": "2002-11-23", "rank": 164}]}
+{
+  "id": "greatest-hits-run-d-m-c",
+  "title": "Greatest Hits",
+  "artist": "Run-D.M.C.",
+  "peak": 117,
+  "history": [
+    {
+      "date": "2002-09-28",
+      "rank": 146
+    },
+    {
+      "date": "2002-11-16",
+      "rank": 117
+    },
+    {
+      "date": "2002-11-23",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Walk This Way",
+      "id": "walk-this-way-run-d-m-c"
+    },
+    {
+      "title": "It’s Tricky",
+      "id": "it-s-tricky-run-d-m-c"
+    },
+    {
+      "title": "You Be Illin’",
+      "id": "you-be-illin-run-d-m-c"
+    },
+    {
+      "title": "Down With the King",
+      "id": "down-with-the-king-run-d-m-c"
+    },
+    {
+      "title": "Mary, Mary",
+      "id": "mary-mary-run-d-m-c"
+    },
+    {
+      "title": "It’s Like That",
+      "id": null
+    },
+    {
+      "title": "Sucker M.C.’s (Krush‐Groove 1)",
+      "id": null
+    },
+    {
+      "title": "My Adidas",
+      "id": null
+    },
+    {
+      "title": "King of Rock",
+      "id": null
+    },
+    {
+      "title": "Can You Rock It Like This",
+      "id": null
+    },
+    {
+      "title": "Rock Box",
+      "id": null
+    },
+    {
+      "title": "Run’s House",
+      "id": null
+    },
+    {
+      "title": "Peter Piper",
+      "id": null
+    },
+    {
+      "title": "Bounce",
+      "id": null
+    },
+    {
+      "title": "Beats to the Rhyme",
+      "id": null
+    },
+    {
+      "title": "Jam‐Master Jay",
+      "id": null
+    },
+    {
+      "title": "Hard Times",
+      "id": null
+    },
+    {
+      "title": "What’s It All About",
+      "id": null
+    }
+  ]
+}

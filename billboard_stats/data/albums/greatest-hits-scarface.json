@@ -1,1 +1,102 @@
-{"id": "greatest-hits-scarface", "title": "Greatest Hits", "artist": "Scarface", "peak": 40, "history": [{"date": "2002-11-09", "rank": 40}, {"date": "2002-11-16", "rank": 73}, {"date": "2002-11-23", "rank": 119}, {"date": "2002-11-30", "rank": 152}, {"date": "2002-12-07", "rank": 155}]}
+{
+  "id": "greatest-hits-scarface",
+  "title": "Greatest Hits",
+  "artist": "Scarface",
+  "peak": 40,
+  "history": [
+    {
+      "date": "2002-11-09",
+      "rank": 40
+    },
+    {
+      "date": "2002-11-16",
+      "rank": 73
+    },
+    {
+      "date": "2002-11-23",
+      "rank": 119
+    },
+    {
+      "date": "2002-11-30",
+      "rank": 152
+    },
+    {
+      "date": "2002-12-07",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let Me Roll",
+      "id": "let-me-roll-scarface"
+    },
+    {
+      "title": "Mr. Scarface",
+      "id": null
+    },
+    {
+      "title": "Money & The Power",
+      "id": null
+    },
+    {
+      "title": "Southside",
+      "id": null
+    },
+    {
+      "title": "Mary Jane",
+      "id": null
+    },
+    {
+      "title": "Goin’ Down",
+      "id": null
+    },
+    {
+      "title": "Smile",
+      "id": null
+    },
+    {
+      "title": "Fuck Faces",
+      "id": null
+    },
+    {
+      "title": "Homies & Thugs",
+      "id": null
+    },
+    {
+      "title": "Guess Who's Back",
+      "id": null
+    },
+    {
+      "title": "Love & Friendship",
+      "id": null
+    },
+    {
+      "title": "Now I Feel Ya",
+      "id": null
+    },
+    {
+      "title": "I Seen a Man Die",
+      "id": null
+    },
+    {
+      "title": "Hand of the Dead Body",
+      "id": null
+    },
+    {
+      "title": "Look Into My Eyes",
+      "id": null
+    },
+    {
+      "title": "Jesse James",
+      "id": null
+    },
+    {
+      "title": "Born Killer",
+      "id": null
+    },
+    {
+      "title": "A Minute to Pray",
+      "id": null
+    }
+  ]
+}

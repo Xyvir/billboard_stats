@@ -1,1 +1,86 @@
-{"id": "greatest-hits-queensryche", "title": "Greatest Hits", "artist": "Queensryche", "peak": 149, "history": [{"date": "2000-07-15", "rank": 149}, {"date": "2000-07-22", "rank": 185}, {"date": "2000-07-29", "rank": 199}]}
+{
+  "id": "greatest-hits-queensryche",
+  "title": "Greatest Hits",
+  "artist": "Queensryche",
+  "peak": 149,
+  "history": [
+    {
+      "date": "2000-07-15",
+      "rank": 149
+    },
+    {
+      "date": "2000-07-22",
+      "rank": 185
+    },
+    {
+      "date": "2000-07-29",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Silent Lucidity",
+      "id": "silent-lucidity-queensryche"
+    },
+    {
+      "title": "Queen of the Reich",
+      "id": null
+    },
+    {
+      "title": "The Lady Wore Black",
+      "id": null
+    },
+    {
+      "title": "Warning",
+      "id": null
+    },
+    {
+      "title": "Take Hold of the Flame",
+      "id": null
+    },
+    {
+      "title": "Walk in the Shadows",
+      "id": null
+    },
+    {
+      "title": "I Dream in Infrared",
+      "id": null
+    },
+    {
+      "title": "I Don’t Believe in Love",
+      "id": null
+    },
+    {
+      "title": "Eyes of a Stranger",
+      "id": null
+    },
+    {
+      "title": "Jet City Woman",
+      "id": null
+    },
+    {
+      "title": "Empire",
+      "id": null
+    },
+    {
+      "title": "I Am I",
+      "id": null
+    },
+    {
+      "title": "Bridge",
+      "id": null
+    },
+    {
+      "title": "Sign of the Times",
+      "id": null
+    },
+    {
+      "title": "Chasing Blue Sky",
+      "id": null
+    },
+    {
+      "title": "Someone Else? (full band version)",
+      "id": null
+    }
+  ]
+}

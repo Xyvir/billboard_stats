@@ -1,1 +1,74 @@
-{"id": "greatest-hits-selena", "title": "Greatest Hits", "artist": "Selena", "peak": 117, "history": [{"date": "2003-07-12", "rank": 117}]}
+{
+  "id": "greatest-hits-selena",
+  "title": "Greatest Hits",
+  "artist": "Selena",
+  "peak": 117,
+  "history": [
+    {
+      "date": "2003-07-12",
+      "rank": 117
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dreaming Of You",
+      "id": "dreaming-of-you-selena"
+    },
+    {
+      "title": "My Love",
+      "id": null
+    },
+    {
+      "title": "I Could Fall in Love",
+      "id": null
+    },
+    {
+      "title": "Captive Heart",
+      "id": null
+    },
+    {
+      "title": "I'm Getting Used to You",
+      "id": null
+    },
+    {
+      "title": "God's Child (Baila conmigo)",
+      "id": null
+    },
+    {
+      "title": "Missing My Baby - Extended Version",
+      "id": null
+    },
+    {
+      "title": "Wherever You Are (Donde quiera que estés)",
+      "id": null
+    },
+    {
+      "title": "Only Love",
+      "id": null
+    },
+    {
+      "title": "A Million to One",
+      "id": null
+    },
+    {
+      "title": "Where Did the Feeling Go?",
+      "id": null
+    },
+    {
+      "title": "Is It the Beat",
+      "id": null
+    },
+    {
+      "title": "Always Mine",
+      "id": null
+    },
+    {
+      "title": "Don't Throw Away My Love",
+      "id": null
+    },
+    {
+      "title": "Disco Medley",
+      "id": null
+    }
+  ]
+}

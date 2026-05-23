@@ -1,1 +1,102 @@
-{"id": "greatest-hits-styx", "title": "Greatest Hits", "artist": "Styx", "peak": 138, "history": [{"date": "1995-09-23", "rank": 138}, {"date": "1995-09-30", "rank": 166}, {"date": "1995-10-07", "rank": 149}, {"date": "1995-10-14", "rank": 189}, {"date": "1996-05-04", "rank": 183}, {"date": "2012-02-04", "rank": 167}, {"date": "2013-10-05", "rank": 176}]}
+{
+  "id": "greatest-hits-styx",
+  "title": "Greatest Hits",
+  "artist": "Styx",
+  "peak": 138,
+  "history": [
+    {
+      "date": "1995-09-23",
+      "rank": 138
+    },
+    {
+      "date": "1995-09-30",
+      "rank": 166
+    },
+    {
+      "date": "1995-10-07",
+      "rank": 149
+    },
+    {
+      "date": "1995-10-14",
+      "rank": 189
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 183
+    },
+    {
+      "date": "2012-02-04",
+      "rank": 167
+    },
+    {
+      "date": "2013-10-05",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lady ’95",
+      "id": "lady-styx"
+    },
+    {
+      "title": "The Best of Times",
+      "id": "the-best-of-times-styx"
+    },
+    {
+      "title": "Lorelei",
+      "id": "lorelei-styx"
+    },
+    {
+      "title": "Too Much Time on My Hands",
+      "id": "too-much-time-on-my-hands-styx"
+    },
+    {
+      "title": "Babe",
+      "id": "babe-styx"
+    },
+    {
+      "title": "Fooling Yourself (The Angry Young Man)",
+      "id": "fooling-yourself-the-angry-young-man-styx"
+    },
+    {
+      "title": "Show Me the Way",
+      "id": "show-me-the-way-styx"
+    },
+    {
+      "title": "Renegade",
+      "id": "renegade-styx"
+    },
+    {
+      "title": "Come Sail Away",
+      "id": "come-sail-away-styx"
+    },
+    {
+      "title": "Blue Collar Man (Long Nights)",
+      "id": "blue-collar-man-long-nights-styx"
+    },
+    {
+      "title": "Mr. Roboto",
+      "id": "mr-roboto-styx"
+    },
+    {
+      "title": "Don’t Let It End",
+      "id": "don-t-let-it-end-styx"
+    },
+    {
+      "title": "The Grand Illusion",
+      "id": null
+    },
+    {
+      "title": "Crystal Ball",
+      "id": null
+    },
+    {
+      "title": "Suite Madame Blue",
+      "id": null
+    },
+    {
+      "title": "Miss America",
+      "id": null
+    }
+  ]
+}

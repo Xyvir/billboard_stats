@@ -1,1 +1,98 @@
-{"id": "greatest-hits-simply-red", "title": "Greatest Hits", "artist": "Simply Red", "peak": 116, "history": [{"date": "1996-11-09", "rank": 116}, {"date": "1996-11-16", "rank": 128}, {"date": "1996-11-23", "rank": 145}, {"date": "1996-11-30", "rank": 172}, {"date": "1996-12-07", "rank": 186}]}
+{
+  "id": "greatest-hits-simply-red",
+  "title": "Greatest Hits",
+  "artist": "Simply Red",
+  "peak": 116,
+  "history": [
+    {
+      "date": "1996-11-09",
+      "rank": 116
+    },
+    {
+      "date": "1996-11-16",
+      "rank": 128
+    },
+    {
+      "date": "1996-11-23",
+      "rank": 145
+    },
+    {
+      "date": "1996-11-30",
+      "rank": 172
+    },
+    {
+      "date": "1996-12-07",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Money’s Too Tight (to Mention)",
+      "id": "money-too-tight-to-mention-simply-red"
+    },
+    {
+      "title": "Holding Back the Years",
+      "id": "holding-back-the-years-simply-red"
+    },
+    {
+      "title": "The Right Thing",
+      "id": "the-right-thing-simply-red"
+    },
+    {
+      "title": "If You Don’t Know Me by Now",
+      "id": "if-you-don-t-know-me-by-now-simply-red"
+    },
+    {
+      "title": "It’s Only Love",
+      "id": "it-s-only-love-simply-red"
+    },
+    {
+      "title": "Something Got Me Started",
+      "id": "something-got-me-started-simply-red"
+    },
+    {
+      "title": "Stars",
+      "id": "stars-simply-red"
+    },
+    {
+      "title": "Come to My Aid",
+      "id": null
+    },
+    {
+      "title": "Jericho",
+      "id": null
+    },
+    {
+      "title": "Open Up the Red Box",
+      "id": null
+    },
+    {
+      "title": "Infidelity",
+      "id": null
+    },
+    {
+      "title": "Ev’ry Time We Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "Suffer",
+      "id": null
+    },
+    {
+      "title": "A New Flame",
+      "id": null
+    },
+    {
+      "title": "For Your Babies",
+      "id": null
+    },
+    {
+      "title": "Model",
+      "id": null
+    },
+    {
+      "title": "Wonderland",
+      "id": null
+    }
+  ]
+}

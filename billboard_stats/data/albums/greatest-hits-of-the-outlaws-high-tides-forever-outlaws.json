@@ -1,1 +1,78 @@
-{"id": "greatest-hits-of-the-outlaws-high-tides-forever-outlaws", "title": "Greatest Hits Of The Outlaws/High Tides Forever", "artist": "Outlaws", "peak": 136, "history": [{"date": "1982-11-27", "rank": 184}, {"date": "1982-12-04", "rank": 178}, {"date": "1982-12-11", "rank": 168}, {"date": "1982-12-18", "rank": 157}, {"date": "1982-12-25", "rank": 150}, {"date": "1983-01-01", "rank": 150}, {"date": "1983-01-08", "rank": 142}, {"date": "1983-01-15", "rank": 136}, {"date": "1983-01-22", "rank": 136}]}
+{
+  "id": "greatest-hits-of-the-outlaws-high-tides-forever-outlaws",
+  "title": "Greatest Hits Of The Outlaws/High Tides Forever",
+  "artist": "Outlaws",
+  "peak": 136,
+  "history": [
+    {
+      "date": "1982-11-27",
+      "rank": 184
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 178
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 168
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 157
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 150
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 150
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 142
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 136
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 136
+    }
+  ],
+  "tracks": [
+    {
+      "title": "There Goes Another Love Song",
+      "id": "there-goes-another-love-song-the-outlaws"
+    },
+    {
+      "title": "(Ghost) Riders in the Sky (live)",
+      "id": "ghost-riders-in-the-sky-outlaws"
+    },
+    {
+      "title": "Hurry Sundown",
+      "id": "hurry-sundown-outlaws"
+    },
+    {
+      "title": "Stick Around for Rock and Roll",
+      "id": null
+    },
+    {
+      "title": "Take It Any Way You Want It",
+      "id": null
+    },
+    {
+      "title": "Green Grass & High Tides",
+      "id": null
+    },
+    {
+      "title": "Holiday",
+      "id": null
+    },
+    {
+      "title": "You Are the Show (live)",
+      "id": null
+    }
+  ]
+}

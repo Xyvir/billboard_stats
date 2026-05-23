@@ -1,1 +1,110 @@
-{"id": "greatest-hits-nsync", "title": "Greatest Hits", "artist": "*NSYNC", "peak": 47, "history": [{"date": "2005-11-12", "rank": 47}, {"date": "2005-11-19", "rank": 109}, {"date": "2005-11-26", "rank": 172}, {"date": "2005-12-10", "rank": 188}, {"date": "2013-08-10", "rank": 184}, {"date": "2013-09-07", "rank": 117}, {"date": "2013-09-14", "rank": 65}, {"date": "2013-09-21", "rank": 134}, {"date": "2013-09-28", "rank": 180}, {"date": "2016-02-20", "rank": 196}, {"date": "2024-08-17", "rank": 136}, {"date": "2024-08-24", "rank": 168}, {"date": "2024-08-31", "rank": 190}]}
+{
+  "id": "greatest-hits-nsync",
+  "title": "Greatest Hits",
+  "artist": "*NSYNC",
+  "peak": 47,
+  "history": [
+    {
+      "date": "2005-11-12",
+      "rank": 47
+    },
+    {
+      "date": "2005-11-19",
+      "rank": 109
+    },
+    {
+      "date": "2005-11-26",
+      "rank": 172
+    },
+    {
+      "date": "2005-12-10",
+      "rank": 188
+    },
+    {
+      "date": "2013-08-10",
+      "rank": 184
+    },
+    {
+      "date": "2013-09-07",
+      "rank": 117
+    },
+    {
+      "date": "2013-09-14",
+      "rank": 65
+    },
+    {
+      "date": "2013-09-21",
+      "rank": 134
+    },
+    {
+      "date": "2013-09-28",
+      "rank": 180
+    },
+    {
+      "date": "2016-02-20",
+      "rank": 196
+    },
+    {
+      "date": "2024-08-17",
+      "rank": 136
+    },
+    {
+      "date": "2024-08-24",
+      "rank": 168
+    },
+    {
+      "date": "2024-08-31",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bye Bye Bye",
+      "id": "bye-bye-bye-nsync"
+    },
+    {
+      "title": "This I Promise You",
+      "id": "this-i-promise-you-nsync"
+    },
+    {
+      "title": "It's Gonna Be Me",
+      "id": "it-s-gonna-be-me-nsync"
+    },
+    {
+      "title": "(God Must Have Spent) A Little More Time on You (remix)",
+      "id": "god-must-have-spent-a-little-more-time-on-you-nsync"
+    },
+    {
+      "title": "I Want You Back",
+      "id": "i-want-you-back-nsync"
+    },
+    {
+      "title": "Pop",
+      "id": "pop-nsync"
+    },
+    {
+      "title": "Gone",
+      "id": "gone-nsync"
+    },
+    {
+      "title": "Tearin’ Up My Heart",
+      "id": "tearin-up-my-heart-nsync"
+    },
+    {
+      "title": "Thinking of You (I Drive Myself Crazy)",
+      "id": "i-drive-myself-crazy-nsync"
+    },
+    {
+      "title": "Music of My Heart",
+      "id": "tearin-up-my-heart-nsync"
+    },
+    {
+      "title": "Girlfriend (The Neptunes remix)",
+      "id": null
+    },
+    {
+      "title": "I’ll Never Stop (radio edit)",
+      "id": null
+    }
+  ]
+}

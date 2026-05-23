@@ -1,1 +1,170 @@
-{"id": "greatest-hits-ricky-nelson", "title": "Greatest Hits", "artist": "Ricky Nelson", "peak": 56, "history": [{"date": "2006-01-14", "rank": 102}, {"date": "2006-01-21", "rank": 56}, {"date": "2006-01-28", "rank": 77}, {"date": "2006-02-04", "rank": 81}, {"date": "2006-02-11", "rank": 110}, {"date": "2006-02-18", "rank": 132}, {"date": "2006-02-25", "rank": 155}, {"date": "2006-03-04", "rank": 156}, {"date": "2006-03-11", "rank": 145}, {"date": "2006-03-18", "rank": 122}, {"date": "2006-03-25", "rank": 147}, {"date": "2006-04-01", "rank": 152}, {"date": "2006-04-08", "rank": 172}, {"date": "2006-04-15", "rank": 190}, {"date": "2006-04-29", "rank": 200}, {"date": "2006-05-13", "rank": 168}, {"date": "2006-05-20", "rank": 174}, {"date": "2006-05-27", "rank": 187}]}
+{
+  "id": "greatest-hits-ricky-nelson",
+  "title": "Greatest Hits",
+  "artist": "Ricky Nelson",
+  "peak": 56,
+  "history": [
+    {
+      "date": "2006-01-14",
+      "rank": 102
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 56
+    },
+    {
+      "date": "2006-01-28",
+      "rank": 77
+    },
+    {
+      "date": "2006-02-04",
+      "rank": 81
+    },
+    {
+      "date": "2006-02-11",
+      "rank": 110
+    },
+    {
+      "date": "2006-02-18",
+      "rank": 132
+    },
+    {
+      "date": "2006-02-25",
+      "rank": 155
+    },
+    {
+      "date": "2006-03-04",
+      "rank": 156
+    },
+    {
+      "date": "2006-03-11",
+      "rank": 145
+    },
+    {
+      "date": "2006-03-18",
+      "rank": 122
+    },
+    {
+      "date": "2006-03-25",
+      "rank": 147
+    },
+    {
+      "date": "2006-04-01",
+      "rank": 152
+    },
+    {
+      "date": "2006-04-08",
+      "rank": 172
+    },
+    {
+      "date": "2006-04-15",
+      "rank": 190
+    },
+    {
+      "date": "2006-04-29",
+      "rank": 200
+    },
+    {
+      "date": "2006-05-13",
+      "rank": 168
+    },
+    {
+      "date": "2006-05-20",
+      "rank": 174
+    },
+    {
+      "date": "2006-05-27",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Travellin' Man",
+      "id": "travelin-man-ricky-nelson"
+    },
+    {
+      "title": "Hello Mary Lou",
+      "id": "hello-mary-lou-ricky-nelson"
+    },
+    {
+      "title": "Poor Little Fool",
+      "id": "poor-little-fool-ricky-nelson"
+    },
+    {
+      "title": "You Are the Only One",
+      "id": "you-are-the-only-one-ricky-nelson"
+    },
+    {
+      "title": "It’s Late",
+      "id": "it-s-late-ricky-nelson"
+    },
+    {
+      "title": "Lonesome Town",
+      "id": "lonesome-town-ricky-nelson"
+    },
+    {
+      "title": "I Got a Feeling",
+      "id": "i-got-a-feeling-ricky-nelson"
+    },
+    {
+      "title": "Just a Little Too Much",
+      "id": "just-a-little-too-much-ricky-nelson"
+    },
+    {
+      "title": "Never Be Anyone Else but You",
+      "id": "never-be-anyone-else-but-you-ricky-nelson"
+    },
+    {
+      "title": "Mighty Good",
+      "id": "mighty-good-ricky-nelson"
+    },
+    {
+      "title": "Sweeter Than You",
+      "id": "sweeter-than-you-ricky-nelson"
+    },
+    {
+      "title": "Stood Up",
+      "id": null
+    },
+    {
+      "title": "You Know What I Mean",
+      "id": null
+    },
+    {
+      "title": "Young World",
+      "id": null
+    },
+    {
+      "title": "Believe What You Say",
+      "id": null
+    },
+    {
+      "title": "It's Up to You",
+      "id": null
+    },
+    {
+      "title": "Waitin’ in School",
+      "id": null
+    },
+    {
+      "title": "Don't Leave Me This Way",
+      "id": null
+    },
+    {
+      "title": "Fools Rush In",
+      "id": null
+    },
+    {
+      "title": "Teenage Idol",
+      "id": null
+    },
+    {
+      "title": "I'm Walkin'",
+      "id": null
+    },
+    {
+      "title": "Garden Party",
+      "id": null
+    }
+  ]
+}

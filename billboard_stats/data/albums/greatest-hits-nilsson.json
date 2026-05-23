@@ -1,1 +1,114 @@
-{"id": "greatest-hits-nilsson", "title": "Greatest Hits", "artist": "Nilsson", "peak": 140, "history": [{"date": "1978-06-17", "rank": 154}, {"date": "1978-06-24", "rank": 144}, {"date": "1978-07-01", "rank": 141}, {"date": "1978-07-08", "rank": 140}, {"date": "1978-07-15", "rank": 180}]}
+{
+  "id": "greatest-hits-nilsson",
+  "title": "Greatest Hits",
+  "artist": "Nilsson",
+  "peak": 140,
+  "history": [
+    {
+      "date": "1978-06-17",
+      "rank": 154
+    },
+    {
+      "date": "1978-06-24",
+      "rank": 144
+    },
+    {
+      "date": "1978-07-01",
+      "rank": 141
+    },
+    {
+      "date": "1978-07-08",
+      "rank": 140
+    },
+    {
+      "date": "1978-07-15",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Without Her",
+      "id": "without-you-nilsson"
+    },
+    {
+      "title": "Everybody’s Talkin’",
+      "id": "everybody-s-talkin-nilsson"
+    },
+    {
+      "title": "I Guess the Lord Must Be in New York City",
+      "id": "i-guess-the-lord-must-be-in-new-york-city-nilsson"
+    },
+    {
+      "title": "Living Without You",
+      "id": "without-you-nilsson"
+    },
+    {
+      "title": "Me and My Arrow",
+      "id": "me-and-my-arrow-nilsson"
+    },
+    {
+      "title": "Without You",
+      "id": "without-you-nilsson"
+    },
+    {
+      "title": "Coconut",
+      "id": "coconut-nilsson"
+    },
+    {
+      "title": "Jump Into the Fire",
+      "id": "jump-into-the-fire-nilsson"
+    },
+    {
+      "title": "Remember (Christmas)",
+      "id": "remember-christmas-nilsson"
+    },
+    {
+      "title": "Spaceman",
+      "id": "spaceman-nilsson"
+    },
+    {
+      "title": "Daybreak",
+      "id": "daybreak-nilsson"
+    },
+    {
+      "title": "As Time Goes By",
+      "id": "as-time-goes-by-nilsson"
+    },
+    {
+      "title": "1941",
+      "id": null
+    },
+    {
+      "title": "Cuddly Toy",
+      "id": null
+    },
+    {
+      "title": "One",
+      "id": null
+    },
+    {
+      "title": "Girlfriend",
+      "id": null
+    },
+    {
+      "title": "Good Old Desk",
+      "id": null
+    },
+    {
+      "title": "The Puppy Song",
+      "id": null
+    },
+    {
+      "title": "The Moonbeam Song",
+      "id": null
+    },
+    {
+      "title": "You’re Breakin’ My Heart",
+      "id": null
+    },
+    {
+      "title": "Don’t Forget Me",
+      "id": null
+    }
+  ]
+}

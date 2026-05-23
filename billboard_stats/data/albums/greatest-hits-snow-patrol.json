@@ -1,1 +1,70 @@
-{"id": "greatest-hits-snow-patrol", "title": "Greatest Hits", "artist": "Snow Patrol", "peak": 113, "history": [{"date": "2013-06-15", "rank": 113}]}
+{
+  "id": "greatest-hits-snow-patrol",
+  "title": "Greatest Hits",
+  "artist": "Snow Patrol",
+  "peak": 113,
+  "history": [
+    {
+      "date": "2013-06-15",
+      "rank": 113
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Chasing Cars",
+      "id": "chasing-cars-snow-patrol"
+    },
+    {
+      "title": "Called Out in the Dark",
+      "id": "called-out-in-the-dark-snow-patrol"
+    },
+    {
+      "title": "The Lightning Strike (What If This Storm Ends?)",
+      "id": null
+    },
+    {
+      "title": "Run",
+      "id": null
+    },
+    {
+      "title": "Set the Fire to the Third Bar",
+      "id": null
+    },
+    {
+      "title": "Chocolate",
+      "id": null
+    },
+    {
+      "title": "Just Say Yes",
+      "id": null
+    },
+    {
+      "title": "Open Your Eyes",
+      "id": null
+    },
+    {
+      "title": "Shut Your Eyes",
+      "id": null
+    },
+    {
+      "title": "Crack the Shutters",
+      "id": null
+    },
+    {
+      "title": "You Could Be Happy",
+      "id": null
+    },
+    {
+      "title": "Spitting Games",
+      "id": null
+    },
+    {
+      "title": "Take Back the City",
+      "id": null
+    },
+    {
+      "title": "Make This Go On Forever",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "greatest-hits-spice-girls", "title": "Greatest Hits", "artist": "Spice Girls", "peak": 93, "history": [{"date": "2008-02-02", "rank": 93}, {"date": "2008-02-09", "rank": 114}, {"date": "2008-02-16", "rank": 147}, {"date": "2008-02-23", "rank": 195}]}
+{
+  "id": "greatest-hits-spice-girls",
+  "title": "Greatest Hits",
+  "artist": "Spice Girls",
+  "peak": 93,
+  "history": [
+    {
+      "date": "2008-02-02",
+      "rank": 93
+    },
+    {
+      "date": "2008-02-09",
+      "rank": 114
+    },
+    {
+      "date": "2008-02-16",
+      "rank": 147
+    },
+    {
+      "date": "2008-02-23",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wannabe",
+      "id": "wannabe-spice-girls"
+    },
+    {
+      "title": "Say You’ll Be There",
+      "id": "say-you-ll-be-there-spice-girls"
+    },
+    {
+      "title": "2 Become 1",
+      "id": "2-become-1-spice-girls"
+    },
+    {
+      "title": "Spice Up Your Life",
+      "id": "spice-up-your-life-spice-girls"
+    },
+    {
+      "title": "Too Much",
+      "id": "too-much-spice-girls"
+    },
+    {
+      "title": "Stop",
+      "id": "stop-spice-girls"
+    },
+    {
+      "title": "Headlines (Friendship Never Ends)",
+      "id": "headlines-friendship-never-ends-spice-girls"
+    },
+    {
+      "title": "Mama",
+      "id": null
+    },
+    {
+      "title": "Who Do You Think You Are",
+      "id": null
+    },
+    {
+      "title": "Move Over",
+      "id": null
+    },
+    {
+      "title": "Viva Forever",
+      "id": null
+    },
+    {
+      "title": "Let Love Lead the Way (radio edit)",
+      "id": null
+    },
+    {
+      "title": "Holler",
+      "id": null
+    },
+    {
+      "title": "Voodoo",
+      "id": null
+    },
+    {
+      "title": "Goodbye (single version)",
+      "id": null
+    }
+  ]
+}

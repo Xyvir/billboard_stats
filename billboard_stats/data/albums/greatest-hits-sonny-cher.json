@@ -1,1 +1,74 @@
-{"id": "greatest-hits-sonny-cher", "title": "Greatest Hits", "artist": "Sonny & Cher", "peak": 146, "history": [{"date": "1974-09-28", "rank": 189}, {"date": "1974-10-05", "rank": 179}, {"date": "1974-10-12", "rank": 169}, {"date": "1974-10-19", "rank": 157}, {"date": "1974-10-26", "rank": 146}, {"date": "1974-11-02", "rank": 146}]}
+{
+  "id": "greatest-hits-sonny-cher",
+  "title": "Greatest Hits",
+  "artist": "Sonny & Cher",
+  "peak": 146,
+  "history": [
+    {
+      "date": "1974-09-28",
+      "rank": 189
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 179
+    },
+    {
+      "date": "1974-10-12",
+      "rank": 169
+    },
+    {
+      "date": "1974-10-19",
+      "rank": 157
+    },
+    {
+      "date": "1974-10-26",
+      "rank": 146
+    },
+    {
+      "date": "1974-11-02",
+      "rank": 146
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All I Ever Need Is You",
+      "id": "all-i-ever-need-is-you-sonny-cher"
+    },
+    {
+      "title": "When You Say Love",
+      "id": "when-you-say-love-sonny-cher"
+    },
+    {
+      "title": "I Got You Babe (Live Version)",
+      "id": "i-got-you-babe-sonny-cher"
+    },
+    {
+      "title": "A Cowboy's Work Is Never Done",
+      "id": "a-cowboys-work-is-never-done-sonny-cher"
+    },
+    {
+      "title": "The Beat Goes On (Live Version)",
+      "id": "the-beat-goes-on-sonny-cher"
+    },
+    {
+      "title": "What Now My Love (Live Version)",
+      "id": "what-now-my-love-sonny-cher"
+    },
+    {
+      "title": "Mama Was A Rock And Roll Singer Papa Used To Write All Her Songs",
+      "id": "mama-was-a-rock-and-roll-singer-papa-used-to-write-all-her-songs-part-1-sonny-cher"
+    },
+    {
+      "title": "You Better Sit Down Kids",
+      "id": null
+    },
+    {
+      "title": "Crystal Clear / Muddy Waters",
+      "id": null
+    },
+    {
+      "title": "United We Stand",
+      "id": null
+    }
+  ]
+}
