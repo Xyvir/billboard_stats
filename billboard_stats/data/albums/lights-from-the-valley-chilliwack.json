@@ -1,1 +1,74 @@
-{"id": "lights-from-the-valley-chilliwack", "title": "Lights From The Valley", "artist": "Chilliwack", "peak": 191, "history": [{"date": "1978-08-12", "rank": 195}, {"date": "1978-08-19", "rank": 191}, {"date": "1978-09-30", "rank": 198}, {"date": "1978-10-07", "rank": 196}]}
+{
+  "id": "lights-from-the-valley-chilliwack",
+  "title": "Lights From The Valley",
+  "artist": "Chilliwack",
+  "peak": 191,
+  "history": [
+    {
+      "date": "1978-08-12",
+      "rank": 195
+    },
+    {
+      "date": "1978-08-19",
+      "rank": 191
+    },
+    {
+      "date": "1978-09-30",
+      "rank": 198
+    },
+    {
+      "date": "1978-10-07",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Arms of Mary",
+      "id": "arms-of-mary-chilliwack"
+    },
+    {
+      "title": "Tonight",
+      "id": "fly-at-night-chilliwack"
+    },
+    {
+      "title": "Never Be The Same",
+      "id": null
+    },
+    {
+      "title": "Wanna Be The One",
+      "id": null
+    },
+    {
+      "title": "How Can You Hide You Love",
+      "id": null
+    },
+    {
+      "title": "Fall In Love",
+      "id": null
+    },
+    {
+      "title": "Lookin' For A Place",
+      "id": null
+    },
+    {
+      "title": "She Keeps On Cryin'",
+      "id": null
+    },
+    {
+      "title": "In Love With A Look",
+      "id": null
+    },
+    {
+      "title": "No Love At All",
+      "id": null
+    },
+    {
+      "title": "Mary Lou And Me (Bonus)",
+      "id": null
+    },
+    {
+      "title": "The Hardest Things To See (Bonus)",
+      "id": null
+    }
+  ]
+}
