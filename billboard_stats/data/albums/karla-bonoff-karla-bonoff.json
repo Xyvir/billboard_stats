@@ -1,1 +1,210 @@
-{"id": "karla-bonoff-karla-bonoff", "title": "Karla Bonoff", "artist": "Karla Bonoff", "peak": 52, "history": [{"date": "1977-10-01", "rank": 135}, {"date": "1977-10-08", "rank": 123}, {"date": "1977-10-15", "rank": 100}, {"date": "1977-10-22", "rank": 90}, {"date": "1977-10-29", "rank": 79}, {"date": "1977-11-05", "rank": 67}, {"date": "1977-11-12", "rank": 56}, {"date": "1977-11-19", "rank": 54}, {"date": "1977-11-26", "rank": 52}, {"date": "1977-12-03", "rank": 103}, {"date": "1977-12-10", "rank": 98}, {"date": "1977-12-17", "rank": 92}, {"date": "1977-12-24", "rank": 90}, {"date": "1977-12-31", "rank": 90}, {"date": "1978-01-07", "rank": 175}, {"date": "1978-01-14", "rank": 170}, {"date": "1978-01-21", "rank": 165}, {"date": "1978-01-28", "rank": 162}, {"date": "1978-02-04", "rank": 161}, {"date": "1978-02-11", "rank": 151}, {"date": "1978-02-18", "rank": 136}, {"date": "1978-02-25", "rank": 93}, {"date": "1978-03-04", "rank": 83}, {"date": "1978-03-11", "rank": 75}, {"date": "1978-03-18", "rank": 70}, {"date": "1978-03-25", "rank": 69}, {"date": "1978-04-01", "rank": 93}, {"date": "1978-04-08", "rank": 87}, {"date": "1978-04-15", "rank": 87}, {"date": "1978-04-22", "rank": 137}, {"date": "1978-04-29", "rank": 137}, {"date": "1978-05-06", "rank": 139}, {"date": "1978-05-13", "rank": 145}, {"date": "1978-05-20", "rank": 158}, {"date": "1978-05-27", "rank": 158}, {"date": "1978-06-03", "rank": 154}, {"date": "1978-06-10", "rank": 154}, {"date": "1978-06-17", "rank": 159}, {"date": "1978-06-24", "rank": 159}, {"date": "1978-07-01", "rank": 180}]}
+{
+  "id": "karla-bonoff-karla-bonoff",
+  "title": "Karla Bonoff",
+  "artist": "Karla Bonoff",
+  "peak": 52,
+  "history": [
+    {
+      "date": "1977-10-01",
+      "rank": 135
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 123
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 100
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 90
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 79
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 67
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 56
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 54
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 52
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 103
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 98
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 92
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 90
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 90
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 175
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 170
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 165
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 162
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 161
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 151
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 136
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 93
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 83
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 75
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 70
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 69
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 93
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 87
+    },
+    {
+      "date": "1978-04-15",
+      "rank": 87
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 137
+    },
+    {
+      "date": "1978-04-29",
+      "rank": 137
+    },
+    {
+      "date": "1978-05-06",
+      "rank": 139
+    },
+    {
+      "date": "1978-05-13",
+      "rank": 145
+    },
+    {
+      "date": "1978-05-20",
+      "rank": 158
+    },
+    {
+      "date": "1978-05-27",
+      "rank": 158
+    },
+    {
+      "date": "1978-06-03",
+      "rank": 154
+    },
+    {
+      "date": "1978-06-10",
+      "rank": 154
+    },
+    {
+      "date": "1978-06-17",
+      "rank": 159
+    },
+    {
+      "date": "1978-06-24",
+      "rank": 159
+    },
+    {
+      "date": "1978-07-01",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Can’t Hold On",
+      "id": "i-can-t-hold-on-karla-bonoff"
+    },
+    {
+      "title": "Someone to Lay Down Beside Me",
+      "id": null
+    },
+    {
+      "title": "Lose Again",
+      "id": null
+    },
+    {
+      "title": "Home",
+      "id": null
+    },
+    {
+      "title": "Faces in the Wind",
+      "id": null
+    },
+    {
+      "title": "Isn’t It Always Love",
+      "id": null
+    },
+    {
+      "title": "If He’s Ever Near",
+      "id": null
+    },
+    {
+      "title": "Flying High",
+      "id": null
+    },
+    {
+      "title": "Falling Star",
+      "id": null
+    },
+    {
+      "title": "Rose in the Garden",
+      "id": null
+    }
+  ]
+}
