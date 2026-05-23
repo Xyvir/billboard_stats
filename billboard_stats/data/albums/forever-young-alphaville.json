@@ -1,1 +1,78 @@
-{"id": "forever-young-alphaville", "title": "Forever Young", "artist": "Alphaville", "peak": 180, "history": [{"date": "1984-12-22", "rank": 188}, {"date": "1984-12-29", "rank": 188}, {"date": "1985-01-05", "rank": 182}, {"date": "1985-01-12", "rank": 180}, {"date": "1985-01-19", "rank": 200}, {"date": "1985-01-26", "rank": 198}, {"date": "1985-02-02", "rank": 193}, {"date": "1985-02-09", "rank": 189}, {"date": "1985-02-16", "rank": 185}, {"date": "1985-02-23", "rank": 185}, {"date": "1985-03-02", "rank": 190}, {"date": "1985-03-09", "rank": 194}, {"date": "1985-03-16", "rank": 200}, {"date": "1985-03-23", "rank": 191}, {"date": "1985-03-30", "rank": 189}]}
+{
+  "id": "forever-young-alphaville",
+  "title": "Forever Young",
+  "artist": "Alphaville",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1984-12-22",
+      "rank": 188
+    },
+    {
+      "date": "1984-12-29",
+      "rank": 188
+    },
+    {
+      "date": "1985-01-05",
+      "rank": 182
+    },
+    {
+      "date": "1985-01-12",
+      "rank": 180
+    },
+    {
+      "date": "1985-01-19",
+      "rank": 200
+    },
+    {
+      "date": "1985-01-26",
+      "rank": 198
+    },
+    {
+      "date": "1985-02-02",
+      "rank": 193
+    },
+    {
+      "date": "1985-02-09",
+      "rank": 189
+    },
+    {
+      "date": "1985-02-16",
+      "rank": 185
+    },
+    {
+      "date": "1985-02-23",
+      "rank": 185
+    },
+    {
+      "date": "1985-03-02",
+      "rank": 190
+    },
+    {
+      "date": "1985-03-09",
+      "rank": 194
+    },
+    {
+      "date": "1985-03-16",
+      "rank": 200
+    },
+    {
+      "date": "1985-03-23",
+      "rank": 191
+    },
+    {
+      "date": "1985-03-30",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Forever Young (Version Lente)",
+      "id": "forever-young-alphaville"
+    },
+    {
+      "title": "Forever Young (version rapide)",
+      "id": "forever-young-alphaville"
+    }
+  ]
+}

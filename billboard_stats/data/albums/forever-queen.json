@@ -1,1 +1,98 @@
-{"id": "forever-queen", "title": "Forever", "artist": "Queen", "peak": 38, "history": [{"date": "2014-11-29", "rank": 38}, {"date": "2014-12-06", "rank": 198}]}
+{
+  "id": "forever-queen",
+  "title": "Forever",
+  "artist": "Queen",
+  "peak": 38,
+  "history": [
+    {
+      "date": "2014-11-29",
+      "rank": 38
+    },
+    {
+      "date": "2014-12-06",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s a Hard Life",
+      "id": "it-s-a-hard-life-queen"
+    },
+    {
+      "title": "You’re My Best Friend",
+      "id": "you-re-my-best-friend-queen"
+    },
+    {
+      "title": "Play the Game",
+      "id": "play-the-game-queen"
+    },
+    {
+      "title": "Somebody to Love",
+      "id": "somebody-to-love-queen"
+    },
+    {
+      "title": "Crazy Little Thing Called Love",
+      "id": "crazy-little-thing-called-love-queen"
+    },
+    {
+      "title": "Let Me in Your Heart Again",
+      "id": null
+    },
+    {
+      "title": "Love Kills (The Ballad)",
+      "id": null
+    },
+    {
+      "title": "There Must Be More to Life Than This (William Orbit mix)",
+      "id": null
+    },
+    {
+      "title": "Love of My Life",
+      "id": null
+    },
+    {
+      "title": "Drowse",
+      "id": null
+    },
+    {
+      "title": "Long Away",
+      "id": null
+    },
+    {
+      "title": "Lily of the Valley",
+      "id": null
+    },
+    {
+      "title": "Don’t Try So Hard",
+      "id": null
+    },
+    {
+      "title": "Bijou",
+      "id": null
+    },
+    {
+      "title": "These Are the Days of Our Lives",
+      "id": null
+    },
+    {
+      "title": "Las palabras de amor (The Words of Love)",
+      "id": null
+    },
+    {
+      "title": "Who Wants to Live Forever",
+      "id": null
+    },
+    {
+      "title": "A Winter’s Tale",
+      "id": null
+    },
+    {
+      "title": "Save Me",
+      "id": null
+    },
+    {
+      "title": "Too Much Love Will Kill You",
+      "id": null
+    }
+  ]
+}

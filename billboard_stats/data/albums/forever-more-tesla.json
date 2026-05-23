@@ -1,1 +1,74 @@
-{"id": "forever-more-tesla", "title": "Forever More", "artist": "Tesla", "peak": 33, "history": [{"date": "2008-10-25", "rank": 33}, {"date": "2008-11-01", "rank": 102}, {"date": "2008-11-08", "rank": 166}]}
+{
+  "id": "forever-more-tesla",
+  "title": "Forever More",
+  "artist": "Tesla",
+  "peak": 33,
+  "history": [
+    {
+      "date": "2008-10-25",
+      "rank": 33
+    },
+    {
+      "date": "2008-11-01",
+      "rank": 102
+    },
+    {
+      "date": "2008-11-08",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Way",
+      "id": null
+    },
+    {
+      "title": "Forever More",
+      "id": null
+    },
+    {
+      "title": "I Wanna Live",
+      "id": null
+    },
+    {
+      "title": "One Day at a Time",
+      "id": null
+    },
+    {
+      "title": "So What!",
+      "id": null
+    },
+    {
+      "title": "Just in Case",
+      "id": null
+    },
+    {
+      "title": "Fallin’ Apart",
+      "id": null
+    },
+    {
+      "title": "Breakin’ Free",
+      "id": null
+    },
+    {
+      "title": "All of Me",
+      "id": null
+    },
+    {
+      "title": "The First Time",
+      "id": null
+    },
+    {
+      "title": "Pvt. Ledbetter",
+      "id": null
+    },
+    {
+      "title": "In a Hole Again",
+      "id": null
+    },
+    {
+      "title": "The Game",
+      "id": null
+    }
+  ]
+}

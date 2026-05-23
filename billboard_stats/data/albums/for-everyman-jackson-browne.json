@@ -1,1 +1,202 @@
-{"id": "for-everyman-jackson-browne", "title": "For Everyman", "artist": "Jackson Browne", "peak": 43, "history": [{"date": "1973-11-10", "rank": 128}, {"date": "1973-11-17", "rank": 87}, {"date": "1973-11-24", "rank": 58}, {"date": "1973-12-01", "rank": 48}, {"date": "1973-12-08", "rank": 45}, {"date": "1973-12-15", "rank": 44}, {"date": "1973-12-22", "rank": 43}, {"date": "1973-12-29", "rank": 44}, {"date": "1974-01-05", "rank": 45}, {"date": "1974-01-12", "rank": 47}, {"date": "1974-01-19", "rank": 63}, {"date": "1974-01-26", "rank": 59}, {"date": "1974-02-02", "rank": 61}, {"date": "1974-02-09", "rank": 62}, {"date": "1974-02-16", "rank": 60}, {"date": "1974-02-23", "rank": 65}, {"date": "1974-03-02", "rank": 66}, {"date": "1974-03-09", "rank": 67}, {"date": "1974-03-16", "rank": 90}, {"date": "1974-03-23", "rank": 99}, {"date": "1974-03-30", "rank": 104}, {"date": "1974-04-06", "rank": 104}, {"date": "1974-04-13", "rank": 99}, {"date": "1974-04-20", "rank": 94}, {"date": "1974-04-27", "rank": 99}, {"date": "1974-05-04", "rank": 102}, {"date": "1974-05-11", "rank": 107}, {"date": "1974-05-18", "rank": 111}, {"date": "1974-05-25", "rank": 104}, {"date": "1974-06-01", "rank": 98}, {"date": "1974-06-08", "rank": 91}, {"date": "1974-06-15", "rank": 116}, {"date": "1974-06-22", "rank": 118}, {"date": "1974-06-29", "rank": 140}, {"date": "1974-07-06", "rank": 154}, {"date": "1974-07-13", "rank": 164}, {"date": "1974-07-20", "rank": 173}, {"date": "1974-07-27", "rank": 194}]}
+{
+  "id": "for-everyman-jackson-browne",
+  "title": "For Everyman",
+  "artist": "Jackson Browne",
+  "peak": 43,
+  "history": [
+    {
+      "date": "1973-11-10",
+      "rank": 128
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 87
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 58
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 48
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 45
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 44
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 43
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 44
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 45
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 47
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 63
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 59
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 61
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 62
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 60
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 65
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 66
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 67
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 90
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 99
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 104
+    },
+    {
+      "date": "1974-04-06",
+      "rank": 104
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 99
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 94
+    },
+    {
+      "date": "1974-04-27",
+      "rank": 99
+    },
+    {
+      "date": "1974-05-04",
+      "rank": 102
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 107
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 111
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 104
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 98
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 91
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 116
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 118
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 140
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 154
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 164
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 173
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Red Neck Friend",
+      "id": "redneck-friend-jackson-browne"
+    },
+    {
+      "title": "For Everyman",
+      "id": "for-america-jackson-browne"
+    },
+    {
+      "title": "Take It Easy",
+      "id": null
+    },
+    {
+      "title": "Our Lady of the Well",
+      "id": null
+    },
+    {
+      "title": "Colors of the Sun",
+      "id": null
+    },
+    {
+      "title": "I Thought I Was a Child",
+      "id": null
+    },
+    {
+      "title": "These Days",
+      "id": null
+    },
+    {
+      "title": "The Times You’ve Come",
+      "id": null
+    },
+    {
+      "title": "Ready or Not",
+      "id": null
+    },
+    {
+      "title": "Sing My Songs to Me",
+      "id": null
+    }
+  ]
+}
