@@ -1,1 +1,102 @@
-{"id": "brown-album-primus", "title": "Brown Album", "artist": "Primus", "peak": 21, "history": [{"date": "1997-07-26", "rank": 21}, {"date": "1997-08-02", "rank": 42}, {"date": "1997-08-09", "rank": 57}, {"date": "1997-08-16", "rank": 79}, {"date": "1997-08-23", "rank": 101}, {"date": "1997-08-30", "rank": 120}, {"date": "1997-09-06", "rank": 146}, {"date": "1997-09-13", "rank": 169}]}
+{
+  "id": "brown-album-primus",
+  "title": "Brown Album",
+  "artist": "Primus",
+  "peak": 21,
+  "history": [
+    {
+      "date": "1997-07-26",
+      "rank": 21
+    },
+    {
+      "date": "1997-08-02",
+      "rank": 42
+    },
+    {
+      "date": "1997-08-09",
+      "rank": 57
+    },
+    {
+      "date": "1997-08-16",
+      "rank": 79
+    },
+    {
+      "date": "1997-08-23",
+      "rank": 101
+    },
+    {
+      "date": "1997-08-30",
+      "rank": 120
+    },
+    {
+      "date": "1997-09-06",
+      "rank": 146
+    },
+    {
+      "date": "1997-09-13",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Return of Sathington Willoughby",
+      "id": null
+    },
+    {
+      "title": "Fisticuffs",
+      "id": null
+    },
+    {
+      "title": "Golden Boy",
+      "id": null
+    },
+    {
+      "title": "Over the Falls",
+      "id": null
+    },
+    {
+      "title": "Shake Hands With Beef",
+      "id": null
+    },
+    {
+      "title": "Camelback Cinema",
+      "id": null
+    },
+    {
+      "title": "Hats Off",
+      "id": null
+    },
+    {
+      "title": "Puddin’ Taine",
+      "id": null
+    },
+    {
+      "title": "Bob’s Party Time Lounge",
+      "id": null
+    },
+    {
+      "title": "Duchess and the Proverbial Mind Spread",
+      "id": null
+    },
+    {
+      "title": "Restin’ Bones",
+      "id": null
+    },
+    {
+      "title": "Coddingtown",
+      "id": null
+    },
+    {
+      "title": "Kalamazoo",
+      "id": null
+    },
+    {
+      "title": "The Chastising of Renegade",
+      "id": null
+    },
+    {
+      "title": "Arnie",
+      "id": null
+    }
+  ]
+}
