@@ -1,1 +1,58 @@
-{"id": "every-picture-tells-a-story-rod-stewart", "title": "Every Picture Tells A Story", "artist": "Rod Stewart", "peak": 127, "history": [{"date": "1972-05-20", "rank": 127}, {"date": "1972-05-27", "rank": 138}, {"date": "1972-06-03", "rank": 145}, {"date": "1972-06-10", "rank": 165}]}
+{
+  "id": "every-picture-tells-a-story-rod-stewart",
+  "title": "Every Picture Tells A Story",
+  "artist": "Rod Stewart",
+  "peak": 127,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 127
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 138
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 145
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "That’s All Right",
+      "id": "all-right-now-rod-stewart"
+    },
+    {
+      "title": "Reason to Believe",
+      "id": "reason-to-believe-rod-stewart"
+    },
+    {
+      "title": "Every Picture Tells a Story",
+      "id": null
+    },
+    {
+      "title": "Seems Like a Long Time",
+      "id": null
+    },
+    {
+      "title": "Tomorrow Is Such a Long Time",
+      "id": null
+    },
+    {
+      "title": "Maggie May",
+      "id": null
+    },
+    {
+      "title": "Mandolin Wind",
+      "id": null
+    },
+    {
+      "title": "(I Know) I’m Losing You",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,198 @@
-{"id": "everything-is-4-jason-derulo", "title": "Everything Is 4", "artist": "Jason Derulo", "peak": 4, "history": [{"date": "2015-06-20", "rank": 4}, {"date": "2015-06-27", "rank": 23}, {"date": "2015-07-04", "rank": 39}, {"date": "2015-07-11", "rank": 43}, {"date": "2015-07-18", "rank": 56}, {"date": "2015-07-25", "rank": 54}, {"date": "2015-08-01", "rank": 42}, {"date": "2015-08-08", "rank": 51}, {"date": "2015-08-15", "rank": 55}, {"date": "2015-08-22", "rank": 55}, {"date": "2015-08-29", "rank": 23}, {"date": "2015-09-05", "rank": 27}, {"date": "2015-09-12", "rank": 42}, {"date": "2015-09-19", "rank": 45}, {"date": "2015-09-26", "rank": 53}, {"date": "2015-10-03", "rank": 69}, {"date": "2015-10-10", "rank": 90}, {"date": "2015-10-17", "rank": 122}, {"date": "2015-10-24", "rank": 146}, {"date": "2015-10-31", "rank": 139}, {"date": "2015-11-07", "rank": 157}, {"date": "2015-11-14", "rank": 193}, {"date": "2015-11-21", "rank": 196}, {"date": "2016-01-16", "rank": 100}, {"date": "2016-01-23", "rank": 81}, {"date": "2016-01-30", "rank": 85}, {"date": "2016-02-06", "rank": 101}, {"date": "2016-02-13", "rank": 82}, {"date": "2016-02-20", "rank": 73}, {"date": "2016-02-27", "rank": 94}, {"date": "2016-03-05", "rank": 94}, {"date": "2016-03-12", "rank": 103}, {"date": "2016-03-19", "rank": 101}, {"date": "2016-03-26", "rank": 139}, {"date": "2016-04-02", "rank": 156}, {"date": "2016-04-09", "rank": 170}]}
+{
+  "id": "everything-is-4-jason-derulo",
+  "title": "Everything Is 4",
+  "artist": "Jason Derulo",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2015-06-20",
+      "rank": 4
+    },
+    {
+      "date": "2015-06-27",
+      "rank": 23
+    },
+    {
+      "date": "2015-07-04",
+      "rank": 39
+    },
+    {
+      "date": "2015-07-11",
+      "rank": 43
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 56
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 54
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 42
+    },
+    {
+      "date": "2015-08-08",
+      "rank": 51
+    },
+    {
+      "date": "2015-08-15",
+      "rank": 55
+    },
+    {
+      "date": "2015-08-22",
+      "rank": 55
+    },
+    {
+      "date": "2015-08-29",
+      "rank": 23
+    },
+    {
+      "date": "2015-09-05",
+      "rank": 27
+    },
+    {
+      "date": "2015-09-12",
+      "rank": 42
+    },
+    {
+      "date": "2015-09-19",
+      "rank": 45
+    },
+    {
+      "date": "2015-09-26",
+      "rank": 53
+    },
+    {
+      "date": "2015-10-03",
+      "rank": 69
+    },
+    {
+      "date": "2015-10-10",
+      "rank": 90
+    },
+    {
+      "date": "2015-10-17",
+      "rank": 122
+    },
+    {
+      "date": "2015-10-24",
+      "rank": 146
+    },
+    {
+      "date": "2015-10-31",
+      "rank": 139
+    },
+    {
+      "date": "2015-11-07",
+      "rank": 157
+    },
+    {
+      "date": "2015-11-14",
+      "rank": 193
+    },
+    {
+      "date": "2015-11-21",
+      "rank": 196
+    },
+    {
+      "date": "2016-01-16",
+      "rank": 100
+    },
+    {
+      "date": "2016-01-23",
+      "rank": 81
+    },
+    {
+      "date": "2016-01-30",
+      "rank": 85
+    },
+    {
+      "date": "2016-02-06",
+      "rank": 101
+    },
+    {
+      "date": "2016-02-13",
+      "rank": 82
+    },
+    {
+      "date": "2016-02-20",
+      "rank": 73
+    },
+    {
+      "date": "2016-02-27",
+      "rank": 94
+    },
+    {
+      "date": "2016-03-05",
+      "rank": 94
+    },
+    {
+      "date": "2016-03-12",
+      "rank": 103
+    },
+    {
+      "date": "2016-03-19",
+      "rank": 101
+    },
+    {
+      "date": "2016-03-26",
+      "rank": 139
+    },
+    {
+      "date": "2016-04-02",
+      "rank": 156
+    },
+    {
+      "date": "2016-04-09",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Want to Want Me",
+      "id": "want-to-want-me-jason-derulo"
+    },
+    {
+      "title": "Cheyenne",
+      "id": "cheyenne-jason-derulo"
+    },
+    {
+      "title": "Get Ugly",
+      "id": "get-ugly-jason-derulo"
+    },
+    {
+      "title": "Try Me",
+      "id": "marry-me-jason-derulo"
+    },
+    {
+      "title": "Pull‐Up",
+      "id": null
+    },
+    {
+      "title": "Love Like That",
+      "id": null
+    },
+    {
+      "title": "Painkiller",
+      "id": null
+    },
+    {
+      "title": "Broke",
+      "id": null
+    },
+    {
+      "title": "Love Me Down",
+      "id": null
+    },
+    {
+      "title": "Trade Hearts",
+      "id": null
+    },
+    {
+      "title": "X2CU",
+      "id": null
+    }
+  ]
+}

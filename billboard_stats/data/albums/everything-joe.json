@@ -1,1 +1,102 @@
-{"id": "everything-joe", "title": "Everything", "artist": "Joe", "peak": 105, "history": [{"date": "1993-09-11", "rank": 193}, {"date": "1993-09-18", "rank": 134}, {"date": "1993-09-25", "rank": 112}, {"date": "1993-10-02", "rank": 112}, {"date": "1993-10-09", "rank": 105}, {"date": "1993-10-16", "rank": 116}, {"date": "1993-10-23", "rank": 126}, {"date": "1993-10-30", "rank": 126}, {"date": "1993-11-06", "rank": 130}, {"date": "1993-11-13", "rank": 155}, {"date": "1993-11-20", "rank": 182}]}
+{
+  "id": "everything-joe",
+  "title": "Everything",
+  "artist": "Joe",
+  "peak": 105,
+  "history": [
+    {
+      "date": "1993-09-11",
+      "rank": 193
+    },
+    {
+      "date": "1993-09-18",
+      "rank": 134
+    },
+    {
+      "date": "1993-09-25",
+      "rank": 112
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 112
+    },
+    {
+      "date": "1993-10-09",
+      "rank": 105
+    },
+    {
+      "date": "1993-10-16",
+      "rank": 116
+    },
+    {
+      "date": "1993-10-23",
+      "rank": 126
+    },
+    {
+      "date": "1993-10-30",
+      "rank": 126
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 130
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 155
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I'm in Luv",
+      "id": "i-m-in-luv-joe"
+    },
+    {
+      "title": "The One for Me",
+      "id": null
+    },
+    {
+      "title": "All or Nothing",
+      "id": null
+    },
+    {
+      "title": "It's Alright",
+      "id": null
+    },
+    {
+      "title": "If Loving You Is Wrong",
+      "id": null
+    },
+    {
+      "title": "What's on Your Mind",
+      "id": null
+    },
+    {
+      "title": "Finally Back",
+      "id": null
+    },
+    {
+      "title": "Get a Little Closer",
+      "id": null
+    },
+    {
+      "title": "I Can Do It Right",
+      "id": null
+    },
+    {
+      "title": "Everything",
+      "id": null
+    },
+    {
+      "title": "Baby Don't Stop",
+      "id": null
+    },
+    {
+      "title": "Do Me",
+      "id": null
+    }
+  ]
+}
