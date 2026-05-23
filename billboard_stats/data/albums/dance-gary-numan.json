@@ -1,1 +1,70 @@
-{"id": "dance-gary-numan", "title": "Dance", "artist": "Gary Numan", "peak": 167, "history": [{"date": "1981-10-24", "rank": 182}, {"date": "1981-10-31", "rank": 172}, {"date": "1981-11-07", "rank": 172}, {"date": "1981-11-14", "rank": 167}]}
+{
+  "id": "dance-gary-numan",
+  "title": "Dance",
+  "artist": "Gary Numan",
+  "peak": 167,
+  "history": [
+    {
+      "date": "1981-10-24",
+      "rank": 182
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 172
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 172
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Crash",
+      "id": "cars-gary-numan"
+    },
+    {
+      "title": "Slowcar to China",
+      "id": null
+    },
+    {
+      "title": "Night Talk",
+      "id": null
+    },
+    {
+      "title": "A Subway Called ‘You’",
+      "id": null
+    },
+    {
+      "title": "Cry the Clock Said",
+      "id": null
+    },
+    {
+      "title": "She’s Got Claws",
+      "id": null
+    },
+    {
+      "title": "Boys Like Me",
+      "id": null
+    },
+    {
+      "title": "Stories",
+      "id": null
+    },
+    {
+      "title": "My Brother’s Time",
+      "id": null
+    },
+    {
+      "title": "You Are, You Are",
+      "id": null
+    },
+    {
+      "title": "Moral",
+      "id": null
+    }
+  ]
+}
