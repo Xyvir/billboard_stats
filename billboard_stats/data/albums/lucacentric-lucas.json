@@ -1,1 +1,82 @@
-{"id": "lucacentric-lucas", "title": "Lucacentric", "artist": "Lucas", "peak": 183, "history": [{"date": "1994-10-22", "rank": 192}, {"date": "1994-10-29", "rank": 196}, {"date": "1994-11-05", "rank": 183}, {"date": "1994-11-12", "rank": 194}]}
+{
+  "id": "lucacentric-lucas",
+  "title": "Lucacentric",
+  "artist": "Lucas",
+  "peak": 183,
+  "history": [
+    {
+      "date": "1994-10-22",
+      "rank": 192
+    },
+    {
+      "date": "1994-10-29",
+      "rank": 196
+    },
+    {
+      "date": "1994-11-05",
+      "rank": 183
+    },
+    {
+      "date": "1994-11-12",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lucas With the Lid Off",
+      "id": "lucas-with-the-lid-off-lucas"
+    },
+    {
+      "title": "The Statusphere, Part One",
+      "id": null
+    },
+    {
+      "title": "Cityzen",
+      "id": null
+    },
+    {
+      "title": "Inflatable People",
+      "id": null
+    },
+    {
+      "title": "Red White and Blues",
+      "id": null
+    },
+    {
+      "title": "Wau Wau Wau",
+      "id": null
+    },
+    {
+      "title": "Spin the Globe",
+      "id": null
+    },
+    {
+      "title": "Born",
+      "id": null
+    },
+    {
+      "title": "Work in Progress",
+      "id": null
+    },
+    {
+      "title": "The Muted Trumpet",
+      "id": null
+    },
+    {
+      "title": "Livin’ in a Silicone Dream",
+      "id": null
+    },
+    {
+      "title": "Pendulum Swings",
+      "id": null
+    },
+    {
+      "title": "The Statusphere, Part Two",
+      "id": null
+    },
+    {
+      "title": "In It for the Lifelong",
+      "id": null
+    }
+  ]
+}

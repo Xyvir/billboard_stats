@@ -1,1 +1,70 @@
-{"id": "luck-or-something-hilary-duff", "title": "Luck... Or Something", "artist": "Hilary Duff", "peak": 3, "history": [{"date": "2026-03-07", "rank": 3}, {"date": "2026-03-14", "rank": 191}]}
+{
+  "id": "luck-or-something-hilary-duff",
+  "title": "Luck... Or Something",
+  "artist": "Hilary Duff",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2026-03-07",
+      "rank": 3
+    },
+    {
+      "date": "2026-03-14",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Come Clean (mine)",
+      "id": "come-clean-hilary-duff"
+    },
+    {
+      "title": "Weather for Tennis",
+      "id": null
+    },
+    {
+      "title": "Roommates",
+      "id": null
+    },
+    {
+      "title": "We Don’t Talk",
+      "id": null
+    },
+    {
+      "title": "Future Tripping",
+      "id": null
+    },
+    {
+      "title": "Growing Up",
+      "id": null
+    },
+    {
+      "title": "The Optimist",
+      "id": null
+    },
+    {
+      "title": "You, From the Honeymoon",
+      "id": null
+    },
+    {
+      "title": "Holiday Party",
+      "id": null
+    },
+    {
+      "title": "Mature",
+      "id": null
+    },
+    {
+      "title": "Tell Me That Won’t Happen",
+      "id": null
+    },
+    {
+      "title": "Adult Size Medium",
+      "id": null
+    },
+    {
+      "title": "Why Not (mine)",
+      "id": null
+    }
+  ]
+}

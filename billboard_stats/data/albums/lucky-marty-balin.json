@@ -1,1 +1,74 @@
-{"id": "lucky-marty-balin", "title": "Lucky", "artist": "Marty Balin", "peak": 156, "history": [{"date": "1983-03-12", "rank": 175}, {"date": "1983-03-19", "rank": 165}, {"date": "1983-03-26", "rank": 156}, {"date": "1983-04-02", "rank": 156}, {"date": "1983-04-09", "rank": 186}, {"date": "1983-04-16", "rank": 200}]}
+{
+  "id": "lucky-marty-balin",
+  "title": "Lucky",
+  "artist": "Marty Balin",
+  "peak": 156,
+  "history": [
+    {
+      "date": "1983-03-12",
+      "rank": 175
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 165
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 156
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 156
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 186
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What Love Is",
+      "id": "what-love-is-marty-balin"
+    },
+    {
+      "title": "Heart of Stone",
+      "id": "hearts-marty-balin"
+    },
+    {
+      "title": "When Love Comes",
+      "id": "what-love-is-marty-balin"
+    },
+    {
+      "title": "Born to Be a Winner",
+      "id": null
+    },
+    {
+      "title": "What Do People Like?",
+      "id": null
+    },
+    {
+      "title": "Just Like That",
+      "id": null
+    },
+    {
+      "title": "Do It for Love",
+      "id": null
+    },
+    {
+      "title": "Palm of Your Hand",
+      "id": null
+    },
+    {
+      "title": "Will You Forever",
+      "id": null
+    },
+    {
+      "title": "All We Really Need",
+      "id": null
+    }
+  ]
+}
