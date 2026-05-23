@@ -1,1 +1,106 @@
-{"id": "human-three-days-grace", "title": "Human", "artist": "Three Days Grace", "peak": 16, "history": [{"date": "2015-04-18", "rank": 16}, {"date": "2015-04-25", "rank": 40}, {"date": "2015-05-02", "rank": 64}, {"date": "2015-05-09", "rank": 79}, {"date": "2015-05-16", "rank": 118}, {"date": "2015-05-23", "rank": 134}, {"date": "2015-05-30", "rank": 127}, {"date": "2015-06-06", "rank": 155}, {"date": "2015-06-13", "rank": 174}, {"date": "2015-06-20", "rank": 192}]}
+{
+  "id": "human-three-days-grace",
+  "title": "Human",
+  "artist": "Three Days Grace",
+  "peak": 16,
+  "history": [
+    {
+      "date": "2015-04-18",
+      "rank": 16
+    },
+    {
+      "date": "2015-04-25",
+      "rank": 40
+    },
+    {
+      "date": "2015-05-02",
+      "rank": 64
+    },
+    {
+      "date": "2015-05-09",
+      "rank": 79
+    },
+    {
+      "date": "2015-05-16",
+      "rank": 118
+    },
+    {
+      "date": "2015-05-23",
+      "rank": 134
+    },
+    {
+      "date": "2015-05-30",
+      "rank": 127
+    },
+    {
+      "date": "2015-06-06",
+      "rank": 155
+    },
+    {
+      "date": "2015-06-13",
+      "rank": 174
+    },
+    {
+      "date": "2015-06-20",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One Too Many",
+      "id": "never-too-late-three-days-grace"
+    },
+    {
+      "title": "Human Race",
+      "id": null
+    },
+    {
+      "title": "Painkiller",
+      "id": null
+    },
+    {
+      "title": "Fallen Angel",
+      "id": null
+    },
+    {
+      "title": "Landmine",
+      "id": null
+    },
+    {
+      "title": "Tell Me Why",
+      "id": null
+    },
+    {
+      "title": "I Am Machine",
+      "id": null
+    },
+    {
+      "title": "So What",
+      "id": null
+    },
+    {
+      "title": "Car Crash",
+      "id": null
+    },
+    {
+      "title": "Nothing’s Fair in Love and War",
+      "id": null
+    },
+    {
+      "title": "The End Is Not the Answer",
+      "id": null
+    },
+    {
+      "title": "The Real You",
+      "id": null
+    },
+    {
+      "title": "Every Other Weekend",
+      "id": null
+    },
+    {
+      "title": "Human Race (Atmosphere version)",
+      "id": null
+    }
+  ]
+}

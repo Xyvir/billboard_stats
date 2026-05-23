@@ -1,1 +1,66 @@
-{"id": "humble-quest-maren-morris", "title": "Humble Quest", "artist": "Maren Morris", "peak": 21, "history": [{"date": "2022-04-09", "rank": 21}, {"date": "2022-04-16", "rank": 101}, {"date": "2022-04-23", "rank": 156}]}
+{
+  "id": "humble-quest-maren-morris",
+  "title": "Humble Quest",
+  "artist": "Maren Morris",
+  "peak": 21,
+  "history": [
+    {
+      "date": "2022-04-09",
+      "rank": 21
+    },
+    {
+      "date": "2022-04-16",
+      "rank": 101
+    },
+    {
+      "date": "2022-04-23",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Circles Around This Town",
+      "id": "circles-around-this-town-maren-morris"
+    },
+    {
+      "title": "The Furthest Thing",
+      "id": null
+    },
+    {
+      "title": "I Can’t Love You Anymore",
+      "id": null
+    },
+    {
+      "title": "Humble Quest",
+      "id": null
+    },
+    {
+      "title": "Background Music",
+      "id": null
+    },
+    {
+      "title": "Nervous",
+      "id": null
+    },
+    {
+      "title": "Tall Guys",
+      "id": null
+    },
+    {
+      "title": "Detour",
+      "id": null
+    },
+    {
+      "title": "Hummingbird",
+      "id": null
+    },
+    {
+      "title": "Good Friends",
+      "id": null
+    },
+    {
+      "title": "What Would This World Do?",
+      "id": null
+    }
+  ]
+}

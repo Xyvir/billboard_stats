@@ -1,1 +1,82 @@
-{"id": "human-onerepublic", "title": "Human", "artist": "OneRepublic", "peak": 11, "history": [{"date": "2021-09-11", "rank": 11}, {"date": "2021-09-18", "rank": 131}]}
+{
+  "id": "human-onerepublic",
+  "title": "Human",
+  "artist": "OneRepublic",
+  "peak": 11,
+  "history": [
+    {
+      "date": "2021-09-11",
+      "rank": 11
+    },
+    {
+      "date": "2021-09-18",
+      "rank": 131
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wild Life",
+      "id": "i-lived-onerepublic"
+    },
+    {
+      "title": "Lose Somebody",
+      "id": "lose-somebody-kygo-onerepublic"
+    },
+    {
+      "title": "Run",
+      "id": null
+    },
+    {
+      "title": "Distance",
+      "id": null
+    },
+    {
+      "title": "Someday",
+      "id": null
+    },
+    {
+      "title": "Didn’t I",
+      "id": null
+    },
+    {
+      "title": "Rescue Me",
+      "id": null
+    },
+    {
+      "title": "Savior",
+      "id": null
+    },
+    {
+      "title": "Take Care of You",
+      "id": null
+    },
+    {
+      "title": "Forgot About You",
+      "id": null
+    },
+    {
+      "title": "Somebody to Love",
+      "id": null
+    },
+    {
+      "title": "Wanted",
+      "id": null
+    },
+    {
+      "title": "Take It Out on Me",
+      "id": null
+    },
+    {
+      "title": "Better Days",
+      "id": null
+    },
+    {
+      "title": "Ships + Tides",
+      "id": null
+    },
+    {
+      "title": "Someday (acoustic)",
+      "id": null
+    }
+  ]
+}

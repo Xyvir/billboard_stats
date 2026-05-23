@@ -1,1 +1,86 @@
-{"id": "human-rag-n-bone-man", "title": "Human", "artist": "Rag'n'Bone Man", "peak": 117, "history": [{"date": "2017-03-04", "rank": 126}, {"date": "2017-04-08", "rank": 138}, {"date": "2017-04-15", "rank": 178}, {"date": "2017-04-22", "rank": 180}, {"date": "2017-05-20", "rank": 157}, {"date": "2017-05-27", "rank": 117}, {"date": "2017-06-03", "rank": 133}]}
+{
+  "id": "human-rag-n-bone-man",
+  "title": "Human",
+  "artist": "Rag'n'Bone Man",
+  "peak": 117,
+  "history": [
+    {
+      "date": "2017-03-04",
+      "rank": 126
+    },
+    {
+      "date": "2017-04-08",
+      "rank": 138
+    },
+    {
+      "date": "2017-04-15",
+      "rank": 178
+    },
+    {
+      "date": "2017-04-22",
+      "rank": 180
+    },
+    {
+      "date": "2017-05-20",
+      "rank": 157
+    },
+    {
+      "date": "2017-05-27",
+      "rank": 117
+    },
+    {
+      "date": "2017-06-03",
+      "rank": 133
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Human",
+      "id": "human-rag-n-bone-man"
+    },
+    {
+      "title": "Innocent Man",
+      "id": null
+    },
+    {
+      "title": "Skin",
+      "id": null
+    },
+    {
+      "title": "Bitter End",
+      "id": null
+    },
+    {
+      "title": "Be the Man",
+      "id": null
+    },
+    {
+      "title": "Love You Any Less",
+      "id": null
+    },
+    {
+      "title": "Odetta",
+      "id": null
+    },
+    {
+      "title": "Grace",
+      "id": null
+    },
+    {
+      "title": "Ego",
+      "id": null
+    },
+    {
+      "title": "Arrow",
+      "id": null
+    },
+    {
+      "title": "As You Are",
+      "id": null
+    },
+    {
+      "title": "Die Easy",
+      "id": null
+    }
+  ]
+}
