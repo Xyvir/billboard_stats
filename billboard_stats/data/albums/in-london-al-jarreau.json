@@ -1,1 +1,94 @@
-{"id": "in-london-al-jarreau", "title": "In London", "artist": "Al Jarreau", "peak": 125, "history": [{"date": "1985-09-21", "rank": 166}, {"date": "1985-09-28", "rank": 142}, {"date": "1985-10-05", "rank": 132}, {"date": "1985-10-12", "rank": 127}, {"date": "1985-10-19", "rank": 125}, {"date": "1985-10-26", "rank": 139}, {"date": "1985-11-02", "rank": 145}, {"date": "1985-11-09", "rank": 154}, {"date": "1985-11-16", "rank": 182}]}
+{
+  "id": "in-london-al-jarreau",
+  "title": "In London",
+  "artist": "Al Jarreau",
+  "peak": 125,
+  "history": [
+    {
+      "date": "1985-09-21",
+      "rank": 166
+    },
+    {
+      "date": "1985-09-28",
+      "rank": 142
+    },
+    {
+      "date": "1985-10-05",
+      "rank": 132
+    },
+    {
+      "date": "1985-10-12",
+      "rank": 127
+    },
+    {
+      "date": "1985-10-19",
+      "rank": 125
+    },
+    {
+      "date": "1985-10-26",
+      "rank": 139
+    },
+    {
+      "date": "1985-11-02",
+      "rank": 145
+    },
+    {
+      "date": "1985-11-09",
+      "rank": 154
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Teach Me Tonight",
+      "id": "teach-me-tonight-al-jarreau"
+    },
+    {
+      "title": "We’re in This Love Together",
+      "id": "we-re-in-this-love-together-al-jarreau"
+    },
+    {
+      "title": "Raging Waters",
+      "id": null
+    },
+    {
+      "title": "Trouble in Paradise",
+      "id": null
+    },
+    {
+      "title": "Black and Blues",
+      "id": null
+    },
+    {
+      "title": "I Will Be Here for You (Nitakungodea Milele)",
+      "id": null
+    },
+    {
+      "title": "Let’s Pretend",
+      "id": null
+    },
+    {
+      "title": "Our Love",
+      "id": null
+    },
+    {
+      "title": "Take Five",
+      "id": null
+    },
+    {
+      "title": "High Crime",
+      "id": null
+    },
+    {
+      "title": "Boogie Down",
+      "id": null
+    },
+    {
+      "title": "Roof Garden",
+      "id": null
+    }
+  ]
+}

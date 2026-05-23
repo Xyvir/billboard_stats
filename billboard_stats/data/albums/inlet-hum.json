@@ -1,1 +1,46 @@
-{"id": "inlet-hum", "title": "Inlet", "artist": "Hum", "peak": 111, "history": [{"date": "2020-11-28", "rank": 111}]}
+{
+  "id": "inlet-hum",
+  "title": "Inlet",
+  "artist": "Hum",
+  "peak": 111,
+  "history": [
+    {
+      "date": "2020-11-28",
+      "rank": 111
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Waves",
+      "id": null
+    },
+    {
+      "title": "In the Den",
+      "id": null
+    },
+    {
+      "title": "Desert Rambler",
+      "id": null
+    },
+    {
+      "title": "Step Into You",
+      "id": null
+    },
+    {
+      "title": "The Summoning",
+      "id": null
+    },
+    {
+      "title": "Cloud City",
+      "id": null
+    },
+    {
+      "title": "Folding",
+      "id": null
+    },
+    {
+      "title": "Shapeshifter",
+      "id": null
+    }
+  ]
+}

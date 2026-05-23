@@ -1,1 +1,98 @@
-{"id": "ink-the-fixx", "title": "Ink", "artist": "The Fixx", "peak": 111, "history": [{"date": "1991-03-16", "rank": 184}, {"date": "1991-03-23", "rank": 134}, {"date": "1991-03-30", "rank": 124}, {"date": "1991-04-06", "rank": 111}, {"date": "1991-04-13", "rank": 122}, {"date": "1991-04-20", "rank": 128}, {"date": "1991-04-27", "rank": 119}, {"date": "1991-05-04", "rank": 119}, {"date": "1991-05-11", "rank": 113}, {"date": "1991-05-18", "rank": 112}]}
+{
+  "id": "ink-the-fixx",
+  "title": "Ink",
+  "artist": "The Fixx",
+  "peak": 111,
+  "history": [
+    {
+      "date": "1991-03-16",
+      "rank": 184
+    },
+    {
+      "date": "1991-03-23",
+      "rank": 134
+    },
+    {
+      "date": "1991-03-30",
+      "rank": 124
+    },
+    {
+      "date": "1991-04-06",
+      "rank": 111
+    },
+    {
+      "date": "1991-04-13",
+      "rank": 122
+    },
+    {
+      "date": "1991-04-20",
+      "rank": 128
+    },
+    {
+      "date": "1991-04-27",
+      "rank": 119
+    },
+    {
+      "date": "1991-05-04",
+      "rank": 119
+    },
+    {
+      "date": "1991-05-11",
+      "rank": 113
+    },
+    {
+      "date": "1991-05-18",
+      "rank": 112
+    }
+  ],
+  "tracks": [
+    {
+      "title": "How Much Is Enough",
+      "id": "how-much-is-enough-the-fixx"
+    },
+    {
+      "title": "All Is Fair",
+      "id": null
+    },
+    {
+      "title": "No One Has to Cry",
+      "id": null
+    },
+    {
+      "title": "Crucified",
+      "id": null
+    },
+    {
+      "title": "Falling in Love",
+      "id": null
+    },
+    {
+      "title": "Shut It Out",
+      "id": null
+    },
+    {
+      "title": "Still Around",
+      "id": null
+    },
+    {
+      "title": "All the Best Things",
+      "id": null
+    },
+    {
+      "title": "Yesterday, Today",
+      "id": null
+    },
+    {
+      "title": "One Jungle",
+      "id": null
+    },
+    {
+      "title": "Climb the Hill",
+      "id": null
+    },
+    {
+      "title": "Make No Plans",
+      "id": null
+    }
+  ]
+}

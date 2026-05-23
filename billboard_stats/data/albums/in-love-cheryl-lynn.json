@@ -1,1 +1,62 @@
-{"id": "in-love-cheryl-lynn", "title": "In Love", "artist": "Cheryl Lynn", "peak": 167, "history": [{"date": "1980-01-19", "rank": 178}, {"date": "1980-01-26", "rank": 168}, {"date": "1980-02-02", "rank": 167}, {"date": "1980-02-09", "rank": 197}]}
+{
+  "id": "in-love-cheryl-lynn",
+  "title": "In Love",
+  "artist": "Cheryl Lynn",
+  "peak": 167,
+  "history": [
+    {
+      "date": "1980-01-19",
+      "rank": 178
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 168
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 167
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "In Love",
+      "id": "star-love-cheryl-lynn"
+    },
+    {
+      "title": "I've Got Faith in You",
+      "id": null
+    },
+    {
+      "title": "Hide It Away",
+      "id": null
+    },
+    {
+      "title": "Feel It",
+      "id": null
+    },
+    {
+      "title": "Keep It Hot",
+      "id": null
+    },
+    {
+      "title": "I've Got Just What You Need",
+      "id": null
+    },
+    {
+      "title": "Love Bomb",
+      "id": null
+    },
+    {
+      "title": "Chances",
+      "id": null
+    },
+    {
+      "title": "Don’t Let It Fade Away",
+      "id": null
+    }
+  ]
+}
