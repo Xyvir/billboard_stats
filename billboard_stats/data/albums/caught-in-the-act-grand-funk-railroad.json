@@ -1,1 +1,102 @@
-{"id": "caught-in-the-act-grand-funk-railroad", "title": "Caught In The Act", "artist": "Grand Funk Railroad", "peak": 21, "history": [{"date": "1975-09-13", "rank": 65}, {"date": "1975-09-20", "rank": 47}, {"date": "1975-09-27", "rank": 34}, {"date": "1975-10-04", "rank": 30}, {"date": "1975-10-11", "rank": 25}, {"date": "1975-10-18", "rank": 21}, {"date": "1975-10-25", "rank": 21}, {"date": "1975-11-01", "rank": 50}, {"date": "1975-11-08", "rank": 63}, {"date": "1975-11-15", "rank": 117}]}
+{
+  "id": "caught-in-the-act-grand-funk-railroad",
+  "title": "Caught In The Act",
+  "artist": "Grand Funk Railroad",
+  "peak": 21,
+  "history": [
+    {
+      "date": "1975-09-13",
+      "rank": 65
+    },
+    {
+      "date": "1975-09-20",
+      "rank": 47
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 34
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 30
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 25
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 21
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 21
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 50
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 63
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 117
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Footstompin’ Music",
+      "id": "footstompin-music-grand-funk-railroad"
+    },
+    {
+      "title": "Rock & Roll Soul",
+      "id": "rock-n-roll-soul-grand-funk-railroad"
+    },
+    {
+      "title": "Heartbreaker",
+      "id": "heartbreaker-grand-funk-railroad"
+    },
+    {
+      "title": "Gimme Shelter",
+      "id": "gimme-shelter-grand-funk-railroad"
+    },
+    {
+      "title": "I'm Your Captain/Closer to Home",
+      "id": null
+    },
+    {
+      "title": "Some Kind of Wonderful",
+      "id": null
+    },
+    {
+      "title": "Shinin’ On",
+      "id": null
+    },
+    {
+      "title": "The Loco‐Motion",
+      "id": null
+    },
+    {
+      "title": "Black Licorice",
+      "id": null
+    },
+    {
+      "title": "The Railroad",
+      "id": null
+    },
+    {
+      "title": "We’re an American Band",
+      "id": null
+    },
+    {
+      "title": "T.N.U.C.",
+      "id": null
+    },
+    {
+      "title": "Inside Looking Out",
+      "id": null
+    }
+  ]
+}
