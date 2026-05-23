@@ -1,1 +1,62 @@
-{"id": "grand-piano-christmas-john-tesh", "title": "Grand Piano Christmas", "artist": "John Tesh", "peak": 127, "history": [{"date": "2008-12-20", "rank": 127}, {"date": "2009-01-17", "rank": 128}]}
+{
+  "id": "grand-piano-christmas-john-tesh",
+  "title": "Grand Piano Christmas",
+  "artist": "John Tesh",
+  "peak": 127,
+  "history": [
+    {
+      "date": "2008-12-20",
+      "rank": 127
+    },
+    {
+      "date": "2009-01-17",
+      "rank": 128
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Away in a Manger",
+      "id": null
+    },
+    {
+      "title": "Angels We Have Heard on High",
+      "id": null
+    },
+    {
+      "title": "O Holy Night",
+      "id": null
+    },
+    {
+      "title": "The First Noel",
+      "id": null
+    },
+    {
+      "title": "The Homecoming",
+      "id": null
+    },
+    {
+      "title": "Silent Night",
+      "id": null
+    },
+    {
+      "title": "My Christmas Love",
+      "id": null
+    },
+    {
+      "title": "We Three Kings",
+      "id": null
+    },
+    {
+      "title": "What Child Is This",
+      "id": null
+    },
+    {
+      "title": "Bring a Torch Jeanette, Isabella",
+      "id": null
+    },
+    {
+      "title": "Good King Wenceslas",
+      "id": null
+    }
+  ]
+}

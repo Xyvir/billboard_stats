@@ -1,1 +1,74 @@
-{"id": "grand-romantic-nate-ruess", "title": "Grand Romantic", "artist": "Nate Ruess", "peak": 7, "history": [{"date": "2015-07-04", "rank": 7}, {"date": "2015-07-11", "rank": 69}, {"date": "2015-07-18", "rank": 175}, {"date": "2015-07-25", "rank": 198}]}
+{
+  "id": "grand-romantic-nate-ruess",
+  "title": "Grand Romantic",
+  "artist": "Nate Ruess",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2015-07-04",
+      "rank": 7
+    },
+    {
+      "date": "2015-07-11",
+      "rank": 69
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 175
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Nothing Without Love",
+      "id": "nothing-without-love-nate-ruess"
+    },
+    {
+      "title": "Grand Romantic (intro)",
+      "id": null
+    },
+    {
+      "title": "AhHa",
+      "id": null
+    },
+    {
+      "title": "Take It Back",
+      "id": null
+    },
+    {
+      "title": "You Light My Fire",
+      "id": null
+    },
+    {
+      "title": "What This World Is Coming To",
+      "id": null
+    },
+    {
+      "title": "Great Big Storm",
+      "id": null
+    },
+    {
+      "title": "Moment",
+      "id": null
+    },
+    {
+      "title": "It Only Gets Much Worse",
+      "id": null
+    },
+    {
+      "title": "Grand Romantic",
+      "id": null
+    },
+    {
+      "title": "Harsh Light",
+      "id": null
+    },
+    {
+      "title": "Brightside",
+      "id": null
+    }
+  ]
+}

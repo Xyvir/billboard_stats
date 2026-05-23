@@ -1,1 +1,70 @@
-{"id": "gravel-gold-dierks-bentley", "title": "Gravel & Gold", "artist": "Dierks Bentley", "peak": 73, "history": [{"date": "2023-03-11", "rank": 73}]}
+{
+  "id": "gravel-gold-dierks-bentley",
+  "title": "Gravel & Gold",
+  "artist": "Dierks Bentley",
+  "peak": 73,
+  "history": [
+    {
+      "date": "2023-03-11",
+      "rank": 73
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Gold",
+      "id": "gold-dierks-bentley"
+    },
+    {
+      "title": "Roll On",
+      "id": "i-hold-on-dierks-bentley"
+    },
+    {
+      "title": "Same Ol’ Me",
+      "id": null
+    },
+    {
+      "title": "Sun Sets in Colorado",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Drinking Tour",
+      "id": null
+    },
+    {
+      "title": "Something Real",
+      "id": null
+    },
+    {
+      "title": "Still",
+      "id": null
+    },
+    {
+      "title": "Beer at My Funeral",
+      "id": null
+    },
+    {
+      "title": "Cowboy Boots",
+      "id": null
+    },
+    {
+      "title": "Walking Each Other Home",
+      "id": null
+    },
+    {
+      "title": "All the Right Places",
+      "id": null
+    },
+    {
+      "title": "Ain’t All Bad",
+      "id": null
+    },
+    {
+      "title": "Old Pickup",
+      "id": null
+    },
+    {
+      "title": "High Note",
+      "id": null
+    }
+  ]
+}

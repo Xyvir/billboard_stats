@@ -1,1 +1,70 @@
-{"id": "grand-slam-the-spinners", "title": "Grand Slam", "artist": "The Spinners", "peak": 167, "history": [{"date": "1983-01-08", "rank": 174}, {"date": "1983-01-15", "rank": 170}, {"date": "1983-01-22", "rank": 167}, {"date": "1983-01-29", "rank": 167}, {"date": "1983-02-05", "rank": 198}, {"date": "1983-02-12", "rank": 198}]}
+{
+  "id": "grand-slam-the-spinners",
+  "title": "Grand Slam",
+  "artist": "The Spinners",
+  "peak": 167,
+  "history": [
+    {
+      "date": "1983-01-08",
+      "rank": 174
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 170
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 167
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 167
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 198
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Funny How Time Slips Away",
+      "id": "funny-how-time-slips-away-the-spinners"
+    },
+    {
+      "title": "City Full of Memories",
+      "id": null
+    },
+    {
+      "title": "Magic in the Moonlight",
+      "id": null
+    },
+    {
+      "title": "If I Knew",
+      "id": null
+    },
+    {
+      "title": "I'm Calling You Now",
+      "id": null
+    },
+    {
+      "title": "So Far Away",
+      "id": null
+    },
+    {
+      "title": "Just Let Love In",
+      "id": null
+    },
+    {
+      "title": "Lover Boy",
+      "id": null
+    },
+    {
+      "title": "No Other Love",
+      "id": null
+    }
+  ]
+}

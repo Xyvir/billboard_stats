@@ -1,1 +1,62 @@
-{"id": "gravity-big-rich", "title": "Gravity", "artist": "Big & Rich", "peak": 51, "history": [{"date": "2014-10-11", "rank": 51}, {"date": "2014-10-18", "rank": 114}]}
+{
+  "id": "gravity-big-rich",
+  "title": "Gravity",
+  "artist": "Big & Rich",
+  "peak": 51,
+  "history": [
+    {
+      "date": "2014-10-11",
+      "rank": 51
+    },
+    {
+      "date": "2014-10-18",
+      "rank": 114
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Look at You",
+      "id": "look-at-you-big-rich"
+    },
+    {
+      "title": "Lovin’ Lately",
+      "id": null
+    },
+    {
+      "title": "Gravity",
+      "id": null
+    },
+    {
+      "title": "Brand New Buzz",
+      "id": null
+    },
+    {
+      "title": "Rollin’ Along",
+      "id": null
+    },
+    {
+      "title": "Run Away With You",
+      "id": null
+    },
+    {
+      "title": "Lose a Little Sleep",
+      "id": null
+    },
+    {
+      "title": "Don’t Wake Me Up",
+      "id": null
+    },
+    {
+      "title": "That Kind of Town",
+      "id": null
+    },
+    {
+      "title": "Thank God for Pain",
+      "id": null
+    },
+    {
+      "title": "I Came to Git Down",
+      "id": null
+    }
+  ]
+}

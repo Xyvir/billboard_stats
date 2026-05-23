@@ -1,1 +1,106 @@
-{"id": "grandes-exitos-shakira", "title": "Grandes Exitos", "artist": "Shakira", "peak": 80, "history": [{"date": "2002-11-23", "rank": 80}, {"date": "2002-11-30", "rank": 118}, {"date": "2002-12-07", "rank": 151}, {"date": "2002-12-14", "rank": 195}, {"date": "2003-01-18", "rank": 177}, {"date": "2003-01-25", "rank": 192}, {"date": "2003-02-01", "rank": 181}, {"date": "2003-02-08", "rank": 172}, {"date": "2003-02-15", "rank": 187}]}
+{
+  "id": "grandes-exitos-shakira",
+  "title": "Grandes Exitos",
+  "artist": "Shakira",
+  "peak": 80,
+  "history": [
+    {
+      "date": "2002-11-23",
+      "rank": 80
+    },
+    {
+      "date": "2002-11-30",
+      "rank": 118
+    },
+    {
+      "date": "2002-12-07",
+      "rank": 151
+    },
+    {
+      "date": "2002-12-14",
+      "rank": 195
+    },
+    {
+      "date": "2003-01-18",
+      "rank": 177
+    },
+    {
+      "date": "2003-01-25",
+      "rank": 192
+    },
+    {
+      "date": "2003-02-01",
+      "rank": 181
+    },
+    {
+      "date": "2003-02-08",
+      "rank": 172
+    },
+    {
+      "date": "2003-02-15",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Suerte (Whenever, Wherever)",
+      "id": "whenever-wherever-shakira"
+    },
+    {
+      "title": "Estoy aquí",
+      "id": null
+    },
+    {
+      "title": "Antología",
+      "id": null
+    },
+    {
+      "title": "Un poco de amor",
+      "id": null
+    },
+    {
+      "title": "¿Dónde estás corazón?",
+      "id": null
+    },
+    {
+      "title": "Que me quedes tú",
+      "id": null
+    },
+    {
+      "title": "Ciega, sordomuda",
+      "id": null
+    },
+    {
+      "title": "Si te vas",
+      "id": null
+    },
+    {
+      "title": "No creo (MTV Unplugged)",
+      "id": null
+    },
+    {
+      "title": "Inevitable",
+      "id": null
+    },
+    {
+      "title": "Ojos así",
+      "id": null
+    },
+    {
+      "title": "Te aviso, te anuncio (Tango)",
+      "id": null
+    },
+    {
+      "title": "Tú",
+      "id": null
+    },
+    {
+      "title": "Dónde están los ladrones",
+      "id": null
+    },
+    {
+      "title": "Moscas en la casa",
+      "id": null
+    }
+  ]
+}

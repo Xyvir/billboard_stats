@@ -1,1 +1,290 @@
-{"id": "gratitude-earth-wind-fire", "title": "Gratitude", "artist": "Earth, Wind & Fire", "peak": 1, "history": [{"date": "1975-12-06", "rank": 98}, {"date": "1975-12-13", "rank": 7}, {"date": "1975-12-20", "rank": 2}, {"date": "1975-12-27", "rank": 2}, {"date": "1976-01-03", "rank": 2}, {"date": "1976-01-10", "rank": 2}, {"date": "1976-01-17", "rank": 1}, {"date": "1976-01-24", "rank": 1}, {"date": "1976-01-31", "rank": 1}, {"date": "1976-02-07", "rank": 3}, {"date": "1976-02-14", "rank": 3}, {"date": "1976-02-21", "rank": 3}, {"date": "1976-02-28", "rank": 5}, {"date": "1976-03-06", "rank": 9}, {"date": "1976-03-13", "rank": 16}, {"date": "1976-03-20", "rank": 16}, {"date": "1976-03-27", "rank": 16}, {"date": "1976-04-03", "rank": 26}, {"date": "1976-04-10", "rank": 29}, {"date": "1976-04-17", "rank": 31}, {"date": "1976-04-24", "rank": 31}, {"date": "1976-05-01", "rank": 36}, {"date": "1976-05-08", "rank": 53}, {"date": "1976-05-15", "rank": 53}, {"date": "1976-05-22", "rank": 53}, {"date": "1976-05-29", "rank": 94}, {"date": "1976-06-05", "rank": 94}, {"date": "1976-06-12", "rank": 117}, {"date": "1976-06-19", "rank": 122}, {"date": "1976-06-26", "rank": 125}, {"date": "1976-07-03", "rank": 123}, {"date": "1976-07-10", "rank": 121}, {"date": "1976-07-17", "rank": 124}, {"date": "1976-07-24", "rank": 126}, {"date": "1976-07-31", "rank": 136}, {"date": "1976-08-07", "rank": 169}, {"date": "1976-08-14", "rank": 197}, {"date": "1976-08-21", "rank": 193}, {"date": "1976-08-28", "rank": 193}, {"date": "1976-09-04", "rank": 183}, {"date": "1976-09-11", "rank": 183}, {"date": "1976-09-18", "rank": 179}, {"date": "1976-09-25", "rank": 172}, {"date": "1976-10-02", "rank": 170}, {"date": "1976-10-09", "rank": 178}, {"date": "1976-10-16", "rank": 188}, {"date": "1976-10-23", "rank": 184}, {"date": "1976-10-30", "rank": 181}, {"date": "1976-11-06", "rank": 178}, {"date": "1976-11-13", "rank": 178}, {"date": "1976-11-20", "rank": 174}, {"date": "1976-11-27", "rank": 174}, {"date": "1976-12-04", "rank": 166}, {"date": "1976-12-11", "rank": 186}]}
+{
+  "id": "gratitude-earth-wind-fire",
+  "title": "Gratitude",
+  "artist": "Earth, Wind & Fire",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1975-12-06",
+      "rank": 98
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 7
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 2
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 2
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 2
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 2
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 1
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 1
+    },
+    {
+      "date": "1976-01-31",
+      "rank": 1
+    },
+    {
+      "date": "1976-02-07",
+      "rank": 3
+    },
+    {
+      "date": "1976-02-14",
+      "rank": 3
+    },
+    {
+      "date": "1976-02-21",
+      "rank": 3
+    },
+    {
+      "date": "1976-02-28",
+      "rank": 5
+    },
+    {
+      "date": "1976-03-06",
+      "rank": 9
+    },
+    {
+      "date": "1976-03-13",
+      "rank": 16
+    },
+    {
+      "date": "1976-03-20",
+      "rank": 16
+    },
+    {
+      "date": "1976-03-27",
+      "rank": 16
+    },
+    {
+      "date": "1976-04-03",
+      "rank": 26
+    },
+    {
+      "date": "1976-04-10",
+      "rank": 29
+    },
+    {
+      "date": "1976-04-17",
+      "rank": 31
+    },
+    {
+      "date": "1976-04-24",
+      "rank": 31
+    },
+    {
+      "date": "1976-05-01",
+      "rank": 36
+    },
+    {
+      "date": "1976-05-08",
+      "rank": 53
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 53
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 53
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 94
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 94
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 117
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 122
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 125
+    },
+    {
+      "date": "1976-07-03",
+      "rank": 123
+    },
+    {
+      "date": "1976-07-10",
+      "rank": 121
+    },
+    {
+      "date": "1976-07-17",
+      "rank": 124
+    },
+    {
+      "date": "1976-07-24",
+      "rank": 126
+    },
+    {
+      "date": "1976-07-31",
+      "rank": 136
+    },
+    {
+      "date": "1976-08-07",
+      "rank": 169
+    },
+    {
+      "date": "1976-08-14",
+      "rank": 197
+    },
+    {
+      "date": "1976-08-21",
+      "rank": 193
+    },
+    {
+      "date": "1976-08-28",
+      "rank": 193
+    },
+    {
+      "date": "1976-09-04",
+      "rank": 183
+    },
+    {
+      "date": "1976-09-11",
+      "rank": 183
+    },
+    {
+      "date": "1976-09-18",
+      "rank": 179
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 172
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 170
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 178
+    },
+    {
+      "date": "1976-10-16",
+      "rank": 188
+    },
+    {
+      "date": "1976-10-23",
+      "rank": 184
+    },
+    {
+      "date": "1976-10-30",
+      "rank": 181
+    },
+    {
+      "date": "1976-11-06",
+      "rank": 178
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 178
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 174
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 174
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 166
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Devotion",
+      "id": "devotion-earth-wind-fire"
+    },
+    {
+      "title": "Shining Star",
+      "id": "shining-star-earth-wind-fire"
+    },
+    {
+      "title": "Sing a Song",
+      "id": "sing-a-song-earth-wind-fire"
+    },
+    {
+      "title": "Can’t Hide Love",
+      "id": "can-t-hide-love-earth-wind-fire"
+    },
+    {
+      "title": "Introduction by MC Perry Jones",
+      "id": null
+    },
+    {
+      "title": "Africano / Power",
+      "id": null
+    },
+    {
+      "title": "Yearnin’ Learnin’",
+      "id": null
+    },
+    {
+      "title": "Sun Goddess",
+      "id": null
+    },
+    {
+      "title": "Reasons",
+      "id": null
+    },
+    {
+      "title": "Sing a Message to You",
+      "id": null
+    },
+    {
+      "title": "New World Symphony",
+      "id": null
+    },
+    {
+      "title": "Interlude #1",
+      "id": null
+    },
+    {
+      "title": "Sunshine",
+      "id": null
+    },
+    {
+      "title": "Gratitude",
+      "id": null
+    },
+    {
+      "title": "Celebrate",
+      "id": null
+    },
+    {
+      "title": "Interlude #2",
+      "id": null
+    }
+  ]
+}

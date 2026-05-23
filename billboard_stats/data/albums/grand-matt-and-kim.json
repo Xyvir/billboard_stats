@@ -1,1 +1,74 @@
-{"id": "grand-matt-and-kim", "title": "Grand", "artist": "Matt And Kim", "peak": 165, "history": [{"date": "2009-06-27", "rank": 190}, {"date": "2009-08-01", "rank": 170}, {"date": "2009-08-15", "rank": 196}, {"date": "2009-08-22", "rank": 179}, {"date": "2009-08-29", "rank": 165}]}
+{
+  "id": "grand-matt-and-kim",
+  "title": "Grand",
+  "artist": "Matt And Kim",
+  "peak": 165,
+  "history": [
+    {
+      "date": "2009-06-27",
+      "rank": 190
+    },
+    {
+      "date": "2009-08-01",
+      "rank": 170
+    },
+    {
+      "date": "2009-08-15",
+      "rank": 196
+    },
+    {
+      "date": "2009-08-22",
+      "rank": 179
+    },
+    {
+      "date": "2009-08-29",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Daylight",
+      "id": "daylight-matt-and-kim"
+    },
+    {
+      "title": "Cutdown",
+      "id": null
+    },
+    {
+      "title": "Good Ol' Fashion Nightmare",
+      "id": null
+    },
+    {
+      "title": "Spare Change",
+      "id": null
+    },
+    {
+      "title": "I Wanna",
+      "id": null
+    },
+    {
+      "title": "Lessons Learned",
+      "id": null
+    },
+    {
+      "title": "Don't Slow Down",
+      "id": null
+    },
+    {
+      "title": "Turn This Boat Around",
+      "id": null
+    },
+    {
+      "title": "Cinders",
+      "id": null
+    },
+    {
+      "title": "I'll Take Us Home",
+      "id": null
+    },
+    {
+      "title": "Daylight (outro remix)",
+      "id": null
+    }
+  ]
+}

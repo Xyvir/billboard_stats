@@ -1,1 +1,70 @@
-{"id": "grand-funk-hits-grand-funk-railroad", "title": "Grand Funk Hits", "artist": "Grand Funk Railroad", "peak": 126, "history": [{"date": "1976-11-20", "rank": 155}, {"date": "1976-11-27", "rank": 138}, {"date": "1976-12-04", "rank": 128}, {"date": "1976-12-11", "rank": 126}, {"date": "1976-12-18", "rank": 196}]}
+{
+  "id": "grand-funk-hits-grand-funk-railroad",
+  "title": "Grand Funk Hits",
+  "artist": "Grand Funk Railroad",
+  "peak": 126,
+  "history": [
+    {
+      "date": "1976-11-20",
+      "rank": 155
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 138
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 128
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 126
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rock & Roll Soul",
+      "id": "rock-n-roll-soul-grand-funk-railroad"
+    },
+    {
+      "title": "Sally",
+      "id": "sally-grand-funk-railroad"
+    },
+    {
+      "title": "Take Me",
+      "id": "take-me-grand-funk-railroad"
+    },
+    {
+      "title": "We're an American Band",
+      "id": null
+    },
+    {
+      "title": "Walk Like a Man (You Can Call Me Your Man)",
+      "id": null
+    },
+    {
+      "title": "Bad Time",
+      "id": null
+    },
+    {
+      "title": "Some Kind of Wonderful",
+      "id": null
+    },
+    {
+      "title": "The Loco-Motion",
+      "id": null
+    },
+    {
+      "title": "Shinin’ On",
+      "id": null
+    },
+    {
+      "title": "To Get Back In",
+      "id": null
+    }
+  ]
+}

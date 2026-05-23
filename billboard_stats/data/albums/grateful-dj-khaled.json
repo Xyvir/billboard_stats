@@ -1,1 +1,338 @@
-{"id": "grateful-dj-khaled", "title": "Grateful", "artist": "DJ Khaled", "peak": 1, "history": [{"date": "2017-07-15", "rank": 1}, {"date": "2017-07-22", "rank": 1}, {"date": "2017-07-29", "rank": 4}, {"date": "2017-08-05", "rank": 4}, {"date": "2017-08-12", "rank": 9}, {"date": "2017-08-19", "rank": 4}, {"date": "2017-08-26", "rank": 3}, {"date": "2017-09-02", "rank": 3}, {"date": "2017-09-09", "rank": 7}, {"date": "2017-09-16", "rank": 17}, {"date": "2017-09-23", "rank": 15}, {"date": "2017-09-30", "rank": 21}, {"date": "2017-10-07", "rank": 24}, {"date": "2017-10-14", "rank": 34}, {"date": "2017-10-21", "rank": 37}, {"date": "2017-10-28", "rank": 42}, {"date": "2017-11-04", "rank": 41}, {"date": "2017-11-11", "rank": 44}, {"date": "2017-11-18", "rank": 60}, {"date": "2017-11-25", "rank": 69}, {"date": "2017-12-02", "rank": 79}, {"date": "2017-12-09", "rank": 89}, {"date": "2017-12-16", "rank": 112}, {"date": "2017-12-23", "rank": 121}, {"date": "2017-12-30", "rank": 130}, {"date": "2018-01-06", "rank": 147}, {"date": "2018-01-13", "rank": 75}, {"date": "2018-01-20", "rank": 88}, {"date": "2018-01-27", "rank": 103}, {"date": "2018-02-03", "rank": 104}, {"date": "2018-02-10", "rank": 97}, {"date": "2018-02-17", "rank": 112}, {"date": "2018-02-24", "rank": 121}, {"date": "2018-03-03", "rank": 123}, {"date": "2018-03-10", "rank": 123}, {"date": "2018-03-17", "rank": 120}, {"date": "2018-03-24", "rank": 131}, {"date": "2018-03-31", "rank": 141}, {"date": "2018-04-07", "rank": 141}, {"date": "2018-04-14", "rank": 149}, {"date": "2018-04-21", "rank": 153}, {"date": "2018-04-28", "rank": 167}, {"date": "2018-05-05", "rank": 185}, {"date": "2018-05-12", "rank": 166}, {"date": "2018-05-19", "rank": 172}, {"date": "2018-05-26", "rank": 181}, {"date": "2018-06-02", "rank": 171}, {"date": "2018-06-09", "rank": 163}, {"date": "2018-06-16", "rank": 177}, {"date": "2018-06-23", "rank": 181}, {"date": "2018-06-30", "rank": 185}, {"date": "2018-07-07", "rank": 182}, {"date": "2018-07-14", "rank": 177}, {"date": "2018-07-21", "rank": 170}, {"date": "2018-07-28", "rank": 187}, {"date": "2018-08-04", "rank": 183}, {"date": "2018-08-11", "rank": 154}, {"date": "2018-08-18", "rank": 182}, {"date": "2018-08-25", "rank": 191}]}
+{
+  "id": "grateful-dj-khaled",
+  "title": "Grateful",
+  "artist": "DJ Khaled",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2017-07-15",
+      "rank": 1
+    },
+    {
+      "date": "2017-07-22",
+      "rank": 1
+    },
+    {
+      "date": "2017-07-29",
+      "rank": 4
+    },
+    {
+      "date": "2017-08-05",
+      "rank": 4
+    },
+    {
+      "date": "2017-08-12",
+      "rank": 9
+    },
+    {
+      "date": "2017-08-19",
+      "rank": 4
+    },
+    {
+      "date": "2017-08-26",
+      "rank": 3
+    },
+    {
+      "date": "2017-09-02",
+      "rank": 3
+    },
+    {
+      "date": "2017-09-09",
+      "rank": 7
+    },
+    {
+      "date": "2017-09-16",
+      "rank": 17
+    },
+    {
+      "date": "2017-09-23",
+      "rank": 15
+    },
+    {
+      "date": "2017-09-30",
+      "rank": 21
+    },
+    {
+      "date": "2017-10-07",
+      "rank": 24
+    },
+    {
+      "date": "2017-10-14",
+      "rank": 34
+    },
+    {
+      "date": "2017-10-21",
+      "rank": 37
+    },
+    {
+      "date": "2017-10-28",
+      "rank": 42
+    },
+    {
+      "date": "2017-11-04",
+      "rank": 41
+    },
+    {
+      "date": "2017-11-11",
+      "rank": 44
+    },
+    {
+      "date": "2017-11-18",
+      "rank": 60
+    },
+    {
+      "date": "2017-11-25",
+      "rank": 69
+    },
+    {
+      "date": "2017-12-02",
+      "rank": 79
+    },
+    {
+      "date": "2017-12-09",
+      "rank": 89
+    },
+    {
+      "date": "2017-12-16",
+      "rank": 112
+    },
+    {
+      "date": "2017-12-23",
+      "rank": 121
+    },
+    {
+      "date": "2017-12-30",
+      "rank": 130
+    },
+    {
+      "date": "2018-01-06",
+      "rank": 147
+    },
+    {
+      "date": "2018-01-13",
+      "rank": 75
+    },
+    {
+      "date": "2018-01-20",
+      "rank": 88
+    },
+    {
+      "date": "2018-01-27",
+      "rank": 103
+    },
+    {
+      "date": "2018-02-03",
+      "rank": 104
+    },
+    {
+      "date": "2018-02-10",
+      "rank": 97
+    },
+    {
+      "date": "2018-02-17",
+      "rank": 112
+    },
+    {
+      "date": "2018-02-24",
+      "rank": 121
+    },
+    {
+      "date": "2018-03-03",
+      "rank": 123
+    },
+    {
+      "date": "2018-03-10",
+      "rank": 123
+    },
+    {
+      "date": "2018-03-17",
+      "rank": 120
+    },
+    {
+      "date": "2018-03-24",
+      "rank": 131
+    },
+    {
+      "date": "2018-03-31",
+      "rank": 141
+    },
+    {
+      "date": "2018-04-07",
+      "rank": 141
+    },
+    {
+      "date": "2018-04-14",
+      "rank": 149
+    },
+    {
+      "date": "2018-04-21",
+      "rank": 153
+    },
+    {
+      "date": "2018-04-28",
+      "rank": 167
+    },
+    {
+      "date": "2018-05-05",
+      "rank": 185
+    },
+    {
+      "date": "2018-05-12",
+      "rank": 166
+    },
+    {
+      "date": "2018-05-19",
+      "rank": 172
+    },
+    {
+      "date": "2018-05-26",
+      "rank": 181
+    },
+    {
+      "date": "2018-06-02",
+      "rank": 171
+    },
+    {
+      "date": "2018-06-09",
+      "rank": 163
+    },
+    {
+      "date": "2018-06-16",
+      "rank": 177
+    },
+    {
+      "date": "2018-06-23",
+      "rank": 181
+    },
+    {
+      "date": "2018-06-30",
+      "rank": 185
+    },
+    {
+      "date": "2018-07-07",
+      "rank": 182
+    },
+    {
+      "date": "2018-07-14",
+      "rank": 177
+    },
+    {
+      "date": "2018-07-21",
+      "rank": 170
+    },
+    {
+      "date": "2018-07-28",
+      "rank": 187
+    },
+    {
+      "date": "2018-08-04",
+      "rank": 183
+    },
+    {
+      "date": "2018-08-11",
+      "rank": 154
+    },
+    {
+      "date": "2018-08-18",
+      "rank": 182
+    },
+    {
+      "date": "2018-08-25",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "(Intro) I’m So Grateful",
+      "id": null
+    },
+    {
+      "title": "Shining",
+      "id": null
+    },
+    {
+      "title": "To the Max",
+      "id": null
+    },
+    {
+      "title": "Wild Thoughts",
+      "id": null
+    },
+    {
+      "title": "I’m the One",
+      "id": null
+    },
+    {
+      "title": "On Everything",
+      "id": null
+    },
+    {
+      "title": "It’s Secured",
+      "id": null
+    },
+    {
+      "title": "Interlude (Hallelujah)",
+      "id": null
+    },
+    {
+      "title": "Nobody",
+      "id": null
+    },
+    {
+      "title": "I Love You So Much",
+      "id": null
+    },
+    {
+      "title": "Don’t Quit",
+      "id": null
+    },
+    {
+      "title": "I Can’t Even Lie",
+      "id": null
+    },
+    {
+      "title": "Down for Life",
+      "id": null
+    },
+    {
+      "title": "Major Bag Alert",
+      "id": null
+    },
+    {
+      "title": "Good Man",
+      "id": null
+    },
+    {
+      "title": "Billy Ocean",
+      "id": null
+    },
+    {
+      "title": "Pull a Caper",
+      "id": null
+    },
+    {
+      "title": "That Range Rover Came With Steps",
+      "id": null
+    },
+    {
+      "title": "Iced Out My Arms",
+      "id": null
+    },
+    {
+      "title": "Whatever",
+      "id": null
+    },
+    {
+      "title": "Interlude",
+      "id": null
+    },
+    {
+      "title": "Unchanging Love",
+      "id": null
+    },
+    {
+      "title": "Asahd Talk (Thank You Asahd)",
+      "id": null
+    }
+  ]
+}
