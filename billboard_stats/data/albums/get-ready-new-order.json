@@ -1,1 +1,70 @@
-{"id": "get-ready-new-order", "title": "Get Ready", "artist": "New Order", "peak": 41, "history": [{"date": "2001-11-03", "rank": 41}, {"date": "2001-11-10", "rank": 79}, {"date": "2001-11-17", "rank": 115}, {"date": "2001-11-24", "rank": 153}, {"date": "2001-12-01", "rank": 196}]}
+{
+  "id": "get-ready-new-order",
+  "title": "Get Ready",
+  "artist": "New Order",
+  "peak": 41,
+  "history": [
+    {
+      "date": "2001-11-03",
+      "rank": 41
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 79
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 115
+    },
+    {
+      "date": "2001-11-24",
+      "rank": 153
+    },
+    {
+      "date": "2001-12-01",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Crystal",
+      "id": null
+    },
+    {
+      "title": "60 Miles an Hour",
+      "id": null
+    },
+    {
+      "title": "Turn My Way",
+      "id": null
+    },
+    {
+      "title": "Vicious Streak",
+      "id": null
+    },
+    {
+      "title": "Primitive Notion",
+      "id": null
+    },
+    {
+      "title": "Slow Jam",
+      "id": null
+    },
+    {
+      "title": "Rock the Shack",
+      "id": null
+    },
+    {
+      "title": "Someone Like You",
+      "id": null
+    },
+    {
+      "title": "Close Range",
+      "id": null
+    },
+    {
+      "title": "Run Wild",
+      "id": null
+    }
+  ]
+}
