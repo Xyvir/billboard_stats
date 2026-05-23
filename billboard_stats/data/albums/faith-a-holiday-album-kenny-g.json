@@ -1,1 +1,94 @@
-{"id": "faith-a-holiday-album-kenny-g", "title": "Faith: A Holiday Album", "artist": "Kenny G", "peak": 6, "history": [{"date": "1999-12-04", "rank": 23}, {"date": "1999-12-11", "rank": 14}, {"date": "1999-12-18", "rank": 8}, {"date": "1999-12-25", "rank": 7}, {"date": "2000-01-01", "rank": 6}, {"date": "2000-01-08", "rank": 8}, {"date": "2000-01-15", "rank": 30}, {"date": "2000-01-22", "rank": 62}, {"date": "2000-01-29", "rank": 139}]}
+{
+  "id": "faith-a-holiday-album-kenny-g",
+  "title": "Faith: A Holiday Album",
+  "artist": "Kenny G",
+  "peak": 6,
+  "history": [
+    {
+      "date": "1999-12-04",
+      "rank": 23
+    },
+    {
+      "date": "1999-12-11",
+      "rank": 14
+    },
+    {
+      "date": "1999-12-18",
+      "rank": 8
+    },
+    {
+      "date": "1999-12-25",
+      "rank": 7
+    },
+    {
+      "date": "2000-01-01",
+      "rank": 6
+    },
+    {
+      "date": "2000-01-08",
+      "rank": 8
+    },
+    {
+      "date": "2000-01-15",
+      "rank": 30
+    },
+    {
+      "date": "2000-01-22",
+      "rank": 62
+    },
+    {
+      "date": "2000-01-29",
+      "rank": 139
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Auld Lang Syne",
+      "id": "auld-lang-syne-kenny-g"
+    },
+    {
+      "title": "Let It Snow! Let It Snow! Let It Snow!",
+      "id": null
+    },
+    {
+      "title": "The First Noel",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Home for Christmas",
+      "id": null
+    },
+    {
+      "title": "Sleigh Ride",
+      "id": null
+    },
+    {
+      "title": "We Three Kings / Carol of the Bells",
+      "id": null
+    },
+    {
+      "title": "O Christmas Tree",
+      "id": null
+    },
+    {
+      "title": "Santa Claus Is Coming to Town",
+      "id": null
+    },
+    {
+      "title": "Eternal Light (A Chanukah Song)",
+      "id": null
+    },
+    {
+      "title": "Ave Maria",
+      "id": null
+    },
+    {
+      "title": "The Christmas Song",
+      "id": null
+    },
+    {
+      "title": "Auld Lang Syne (The Millennium mix)",
+      "id": null
+    }
+  ]
+}

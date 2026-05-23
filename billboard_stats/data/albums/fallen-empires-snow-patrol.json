@@ -1,1 +1,110 @@
-{"id": "fallen-empires-snow-patrol", "title": "Fallen Empires", "artist": "Snow Patrol", "peak": 5, "history": [{"date": "2012-01-28", "rank": 5}, {"date": "2012-02-04", "rank": 33}, {"date": "2012-02-11", "rank": 75}, {"date": "2012-02-18", "rank": 124}, {"date": "2012-02-25", "rank": 154}, {"date": "2012-03-03", "rank": 197}, {"date": "2012-03-10", "rank": 72}, {"date": "2012-03-17", "rank": 190}, {"date": "2012-03-24", "rank": 167}, {"date": "2012-04-07", "rank": 200}, {"date": "2012-06-09", "rank": 114}]}
+{
+  "id": "fallen-empires-snow-patrol",
+  "title": "Fallen Empires",
+  "artist": "Snow Patrol",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2012-01-28",
+      "rank": 5
+    },
+    {
+      "date": "2012-02-04",
+      "rank": 33
+    },
+    {
+      "date": "2012-02-11",
+      "rank": 75
+    },
+    {
+      "date": "2012-02-18",
+      "rank": 124
+    },
+    {
+      "date": "2012-02-25",
+      "rank": 154
+    },
+    {
+      "date": "2012-03-03",
+      "rank": 197
+    },
+    {
+      "date": "2012-03-10",
+      "rank": 72
+    },
+    {
+      "date": "2012-03-17",
+      "rank": 190
+    },
+    {
+      "date": "2012-03-24",
+      "rank": 167
+    },
+    {
+      "date": "2012-04-07",
+      "rank": 200
+    },
+    {
+      "date": "2012-06-09",
+      "rank": 114
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Called Out in the Dark",
+      "id": "called-out-in-the-dark-snow-patrol"
+    },
+    {
+      "title": "I’ll Never Let Go",
+      "id": null
+    },
+    {
+      "title": "The Weight of Love",
+      "id": null
+    },
+    {
+      "title": "This Isn’t Everything You Are",
+      "id": null
+    },
+    {
+      "title": "The Garden Rules",
+      "id": null
+    },
+    {
+      "title": "Fallen Empires",
+      "id": null
+    },
+    {
+      "title": "Berlin",
+      "id": null
+    },
+    {
+      "title": "Lifening",
+      "id": null
+    },
+    {
+      "title": "New York",
+      "id": null
+    },
+    {
+      "title": "In the End",
+      "id": null
+    },
+    {
+      "title": "Those Distant Bells",
+      "id": null
+    },
+    {
+      "title": "The Symphony",
+      "id": null
+    },
+    {
+      "title": "The President",
+      "id": null
+    },
+    {
+      "title": "Broken Bottles Form a Star (Prelude)",
+      "id": null
+    }
+  ]
+}

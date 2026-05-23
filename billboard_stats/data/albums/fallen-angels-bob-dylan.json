@@ -1,1 +1,70 @@
-{"id": "fallen-angels-bob-dylan", "title": "Fallen Angels", "artist": "Bob Dylan", "peak": 7, "history": [{"date": "2016-06-11", "rank": 7}, {"date": "2016-06-18", "rank": 82}, {"date": "2016-06-25", "rank": 173}]}
+{
+  "id": "fallen-angels-bob-dylan",
+  "title": "Fallen Angels",
+  "artist": "Bob Dylan",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2016-06-11",
+      "rank": 7
+    },
+    {
+      "date": "2016-06-18",
+      "rank": 82
+    },
+    {
+      "date": "2016-06-25",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It Had to Be You",
+      "id": "i-want-you-bob-dylan"
+    },
+    {
+      "title": "Young at Heart",
+      "id": null
+    },
+    {
+      "title": "Maybe You’ll Be There",
+      "id": null
+    },
+    {
+      "title": "Polka Dots and Moonbeams",
+      "id": null
+    },
+    {
+      "title": "All the Way",
+      "id": null
+    },
+    {
+      "title": "Skylark",
+      "id": null
+    },
+    {
+      "title": "Nevertheless",
+      "id": null
+    },
+    {
+      "title": "All or Nothing at All",
+      "id": null
+    },
+    {
+      "title": "On a Little Street in Singapore",
+      "id": null
+    },
+    {
+      "title": "Melancholy Mood",
+      "id": null
+    },
+    {
+      "title": "That Old Black Magic",
+      "id": null
+    },
+    {
+      "title": "Come Rain or Come Shine",
+      "id": null
+    }
+  ]
+}
