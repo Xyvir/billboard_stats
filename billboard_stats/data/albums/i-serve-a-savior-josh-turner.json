@@ -1,1 +1,70 @@
-{"id": "i-serve-a-savior-josh-turner", "title": "I Serve A Savior", "artist": "Josh Turner", "peak": 41, "history": [{"date": "2018-11-10", "rank": 41}, {"date": "2018-11-17", "rank": 91}, {"date": "2018-12-08", "rank": 189}]}
+{
+  "id": "i-serve-a-savior-josh-turner",
+  "title": "I Serve A Savior",
+  "artist": "Josh Turner",
+  "peak": 41,
+  "history": [
+    {
+      "date": "2018-11-10",
+      "rank": 41
+    },
+    {
+      "date": "2018-11-17",
+      "rank": 91
+    },
+    {
+      "date": "2018-12-08",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Saw the Light",
+      "id": null
+    },
+    {
+      "title": "I Pray My Way Out of Trouble",
+      "id": null
+    },
+    {
+      "title": "Great Is Your Faithfulness",
+      "id": null
+    },
+    {
+      "title": "Swing Low, Sweet Chariot",
+      "id": null
+    },
+    {
+      "title": "Without Him",
+      "id": null
+    },
+    {
+      "title": "I Serve a Savior",
+      "id": null
+    },
+    {
+      "title": "How Great Thou Art",
+      "id": null
+    },
+    {
+      "title": "The River (of Happiness)",
+      "id": null
+    },
+    {
+      "title": "Amazing Grace",
+      "id": null
+    },
+    {
+      "title": "Long Black Train (live from Gaither Studios)",
+      "id": null
+    },
+    {
+      "title": "Doxology",
+      "id": null
+    },
+    {
+      "title": "Me and God (live from Gaither Studios)",
+      "id": null
+    }
+  ]
+}

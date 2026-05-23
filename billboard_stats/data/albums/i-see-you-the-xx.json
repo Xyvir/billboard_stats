@@ -1,1 +1,70 @@
-{"id": "i-see-you-the-xx", "title": "I See You", "artist": "The xx", "peak": 2, "history": [{"date": "2017-02-04", "rank": 2}, {"date": "2017-02-11", "rank": 30}, {"date": "2017-02-18", "rank": 71}, {"date": "2017-02-25", "rank": 118}, {"date": "2017-03-04", "rank": 178}]}
+{
+  "id": "i-see-you-the-xx",
+  "title": "I See You",
+  "artist": "The xx",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2017-02-04",
+      "rank": 2
+    },
+    {
+      "date": "2017-02-11",
+      "rank": 30
+    },
+    {
+      "date": "2017-02-18",
+      "rank": 71
+    },
+    {
+      "date": "2017-02-25",
+      "rank": 118
+    },
+    {
+      "date": "2017-03-04",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dangerous",
+      "id": null
+    },
+    {
+      "title": "Say Something Loving",
+      "id": null
+    },
+    {
+      "title": "Lips",
+      "id": null
+    },
+    {
+      "title": "A Violent Noise",
+      "id": null
+    },
+    {
+      "title": "Performance",
+      "id": null
+    },
+    {
+      "title": "Replica",
+      "id": null
+    },
+    {
+      "title": "Brave for You",
+      "id": null
+    },
+    {
+      "title": "On Hold",
+      "id": null
+    },
+    {
+      "title": "I Dare You",
+      "id": null
+    },
+    {
+      "title": "Test Me",
+      "id": null
+    }
+  ]
+}

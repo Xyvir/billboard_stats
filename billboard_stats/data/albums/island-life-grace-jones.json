@@ -1,1 +1,78 @@
-{"id": "island-life-grace-jones", "title": "Island Life", "artist": "Grace Jones", "peak": 161, "history": [{"date": "1986-01-18", "rank": 184}, {"date": "1986-01-25", "rank": 173}, {"date": "1986-02-01", "rank": 170}, {"date": "1986-02-08", "rank": 165}, {"date": "1986-02-15", "rank": 161}, {"date": "1986-02-22", "rank": 161}, {"date": "1986-03-01", "rank": 185}]}
+{
+  "id": "island-life-grace-jones",
+  "title": "Island Life",
+  "artist": "Grace Jones",
+  "peak": 161,
+  "history": [
+    {
+      "date": "1986-01-18",
+      "rank": 184
+    },
+    {
+      "date": "1986-01-25",
+      "rank": 173
+    },
+    {
+      "date": "1986-02-01",
+      "rank": 170
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 165
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 161
+    },
+    {
+      "date": "1986-02-22",
+      "rank": 161
+    },
+    {
+      "date": "1986-03-01",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Need a Man",
+      "id": "i-need-a-man-grace-jones"
+    },
+    {
+      "title": "La Vie en rose",
+      "id": null
+    },
+    {
+      "title": "Do or Die",
+      "id": null
+    },
+    {
+      "title": "Private Life",
+      "id": null
+    },
+    {
+      "title": "Love Is the Drug",
+      "id": null
+    },
+    {
+      "title": "I’ve Seen That Face Before (Libertango)",
+      "id": null
+    },
+    {
+      "title": "Pull Up to the Bumper",
+      "id": null
+    },
+    {
+      "title": "Walking in the Rain",
+      "id": null
+    },
+    {
+      "title": "My Jamaican Guy",
+      "id": null
+    },
+    {
+      "title": "Slave to the Rhythm",
+      "id": null
+    }
+  ]
+}
