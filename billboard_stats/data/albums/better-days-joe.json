@@ -1,1 +1,174 @@
-{"id": "better-days-joe", "title": "Better Days", "artist": "Joe", "peak": 32, "history": [{"date": "2001-12-29", "rank": 32}, {"date": "2002-01-05", "rank": 62}, {"date": "2002-01-12", "rank": 52}, {"date": "2002-01-19", "rank": 43}, {"date": "2002-01-26", "rank": 45}, {"date": "2002-02-02", "rank": 45}, {"date": "2002-02-09", "rank": 51}, {"date": "2002-02-16", "rank": 51}, {"date": "2002-02-23", "rank": 60}, {"date": "2002-03-02", "rank": 68}, {"date": "2002-03-09", "rank": 65}, {"date": "2002-03-16", "rank": 74}, {"date": "2002-03-23", "rank": 79}, {"date": "2002-03-30", "rank": 91}, {"date": "2002-04-06", "rank": 103}, {"date": "2002-04-13", "rank": 137}, {"date": "2002-04-20", "rank": 107}, {"date": "2002-04-27", "rank": 127}, {"date": "2002-05-04", "rank": 114}, {"date": "2002-05-11", "rank": 136}, {"date": "2002-05-18", "rank": 126}, {"date": "2002-05-25", "rank": 154}, {"date": "2002-06-01", "rank": 138}, {"date": "2002-06-08", "rank": 168}, {"date": "2002-06-15", "rank": 150}, {"date": "2002-06-22", "rank": 188}]}
+{
+  "id": "better-days-joe",
+  "title": "Better Days",
+  "artist": "Joe",
+  "peak": 32,
+  "history": [
+    {
+      "date": "2001-12-29",
+      "rank": 32
+    },
+    {
+      "date": "2002-01-05",
+      "rank": 62
+    },
+    {
+      "date": "2002-01-12",
+      "rank": 52
+    },
+    {
+      "date": "2002-01-19",
+      "rank": 43
+    },
+    {
+      "date": "2002-01-26",
+      "rank": 45
+    },
+    {
+      "date": "2002-02-02",
+      "rank": 45
+    },
+    {
+      "date": "2002-02-09",
+      "rank": 51
+    },
+    {
+      "date": "2002-02-16",
+      "rank": 51
+    },
+    {
+      "date": "2002-02-23",
+      "rank": 60
+    },
+    {
+      "date": "2002-03-02",
+      "rank": 68
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 65
+    },
+    {
+      "date": "2002-03-16",
+      "rank": 74
+    },
+    {
+      "date": "2002-03-23",
+      "rank": 79
+    },
+    {
+      "date": "2002-03-30",
+      "rank": 91
+    },
+    {
+      "date": "2002-04-06",
+      "rank": 103
+    },
+    {
+      "date": "2002-04-13",
+      "rank": 137
+    },
+    {
+      "date": "2002-04-20",
+      "rank": 107
+    },
+    {
+      "date": "2002-04-27",
+      "rank": 127
+    },
+    {
+      "date": "2002-05-04",
+      "rank": 114
+    },
+    {
+      "date": "2002-05-11",
+      "rank": 136
+    },
+    {
+      "date": "2002-05-18",
+      "rank": 126
+    },
+    {
+      "date": "2002-05-25",
+      "rank": 154
+    },
+    {
+      "date": "2002-06-01",
+      "rank": 138
+    },
+    {
+      "date": "2002-06-08",
+      "rank": 168
+    },
+    {
+      "date": "2002-06-15",
+      "rank": 150
+    },
+    {
+      "date": "2002-06-22",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let’s Stay Home Tonight",
+      "id": "let-s-stay-home-tonight-joe"
+    },
+    {
+      "title": "What If a Woman",
+      "id": "what-if-a-woman-joe"
+    },
+    {
+      "title": "Let’s Stay Home Tonight (remix)",
+      "id": "let-s-stay-home-tonight-joe"
+    },
+    {
+      "title": "Better Days",
+      "id": null
+    },
+    {
+      "title": "Alone",
+      "id": null
+    },
+    {
+      "title": "Isn’t This the World",
+      "id": null
+    },
+    {
+      "title": "Ghetto Child",
+      "id": null
+    },
+    {
+      "title": "I Like Sexy Girls",
+      "id": null
+    },
+    {
+      "title": "Here She Comes",
+      "id": null
+    },
+    {
+      "title": "Lover’s Prayer",
+      "id": null
+    },
+    {
+      "title": "Changed Man",
+      "id": null
+    },
+    {
+      "title": "I Understand",
+      "id": null
+    },
+    {
+      "title": "She Used 2 Luv Me",
+      "id": null
+    },
+    {
+      "title": "World of Girls",
+      "id": null
+    },
+    {
+      "title": "It Won’t End",
+      "id": null
+    }
+  ]
+}
