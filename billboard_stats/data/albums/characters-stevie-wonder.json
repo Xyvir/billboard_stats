@@ -1,1 +1,182 @@
-{"id": "characters-stevie-wonder", "title": "Characters", "artist": "Stevie Wonder", "peak": 17, "history": [{"date": "1987-12-05", "rank": 74}, {"date": "1987-12-12", "rank": 21}, {"date": "1987-12-19", "rank": 17}, {"date": "1987-12-26", "rank": 17}, {"date": "1988-01-02", "rank": 17}, {"date": "1988-01-09", "rank": 19}, {"date": "1988-01-16", "rank": 19}, {"date": "1988-01-23", "rank": 24}, {"date": "1988-01-30", "rank": 23}, {"date": "1988-02-06", "rank": 23}, {"date": "1988-02-13", "rank": 26}, {"date": "1988-02-20", "rank": 25}, {"date": "1988-02-27", "rank": 27}, {"date": "1988-03-05", "rank": 33}, {"date": "1988-03-12", "rank": 41}, {"date": "1988-03-19", "rank": 41}, {"date": "1988-03-26", "rank": 52}, {"date": "1988-04-02", "rank": 52}, {"date": "1988-04-09", "rank": 59}, {"date": "1988-04-16", "rank": 71}, {"date": "1988-04-23", "rank": 71}, {"date": "1988-04-30", "rank": 72}, {"date": "1988-05-07", "rank": 96}, {"date": "1988-05-14", "rank": 98}, {"date": "1988-05-21", "rank": 102}, {"date": "1988-05-28", "rank": 115}, {"date": "1988-06-04", "rank": 125}, {"date": "1988-06-11", "rank": 132}, {"date": "1988-06-18", "rank": 166}, {"date": "1988-06-25", "rank": 182}, {"date": "1988-07-02", "rank": 193}]}
+{
+  "id": "characters-stevie-wonder",
+  "title": "Characters",
+  "artist": "Stevie Wonder",
+  "peak": 17,
+  "history": [
+    {
+      "date": "1987-12-05",
+      "rank": 74
+    },
+    {
+      "date": "1987-12-12",
+      "rank": 21
+    },
+    {
+      "date": "1987-12-19",
+      "rank": 17
+    },
+    {
+      "date": "1987-12-26",
+      "rank": 17
+    },
+    {
+      "date": "1988-01-02",
+      "rank": 17
+    },
+    {
+      "date": "1988-01-09",
+      "rank": 19
+    },
+    {
+      "date": "1988-01-16",
+      "rank": 19
+    },
+    {
+      "date": "1988-01-23",
+      "rank": 24
+    },
+    {
+      "date": "1988-01-30",
+      "rank": 23
+    },
+    {
+      "date": "1988-02-06",
+      "rank": 23
+    },
+    {
+      "date": "1988-02-13",
+      "rank": 26
+    },
+    {
+      "date": "1988-02-20",
+      "rank": 25
+    },
+    {
+      "date": "1988-02-27",
+      "rank": 27
+    },
+    {
+      "date": "1988-03-05",
+      "rank": 33
+    },
+    {
+      "date": "1988-03-12",
+      "rank": 41
+    },
+    {
+      "date": "1988-03-19",
+      "rank": 41
+    },
+    {
+      "date": "1988-03-26",
+      "rank": 52
+    },
+    {
+      "date": "1988-04-02",
+      "rank": 52
+    },
+    {
+      "date": "1988-04-09",
+      "rank": 59
+    },
+    {
+      "date": "1988-04-16",
+      "rank": 71
+    },
+    {
+      "date": "1988-04-23",
+      "rank": 71
+    },
+    {
+      "date": "1988-04-30",
+      "rank": 72
+    },
+    {
+      "date": "1988-05-07",
+      "rank": 96
+    },
+    {
+      "date": "1988-05-14",
+      "rank": 98
+    },
+    {
+      "date": "1988-05-21",
+      "rank": 102
+    },
+    {
+      "date": "1988-05-28",
+      "rank": 115
+    },
+    {
+      "date": "1988-06-04",
+      "rank": 125
+    },
+    {
+      "date": "1988-06-11",
+      "rank": 132
+    },
+    {
+      "date": "1988-06-18",
+      "rank": 166
+    },
+    {
+      "date": "1988-06-25",
+      "rank": 182
+    },
+    {
+      "date": "1988-07-02",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Will Know",
+      "id": "you-will-know-stevie-wonder"
+    },
+    {
+      "title": "Skeletons",
+      "id": "skeletons-stevie-wonder"
+    },
+    {
+      "title": "Dark ’n’ Lovely",
+      "id": null
+    },
+    {
+      "title": "In Your Corner",
+      "id": null
+    },
+    {
+      "title": "With Each Beat of My Heart",
+      "id": null
+    },
+    {
+      "title": "One of a Kind",
+      "id": null
+    },
+    {
+      "title": "Get It",
+      "id": null
+    },
+    {
+      "title": "Galaxy Paradise",
+      "id": null
+    },
+    {
+      "title": "Cryin’ Through the Night",
+      "id": null
+    },
+    {
+      "title": "Free",
+      "id": null
+    },
+    {
+      "title": "Come Let Me Make Your Love Come Down",
+      "id": null
+    },
+    {
+      "title": "My Eyes Don’t Cry",
+      "id": null
+    }
+  ]
+}

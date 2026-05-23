@@ -1,1 +1,82 @@
-{"id": "charlie-charlie-puth", "title": "Charlie", "artist": "Charlie Puth", "peak": 10, "history": [{"date": "2022-10-22", "rank": 10}, {"date": "2022-10-29", "rank": 60}, {"date": "2022-11-05", "rank": 94}, {"date": "2022-11-12", "rank": 132}, {"date": "2022-11-19", "rank": 156}, {"date": "2022-11-26", "rank": 194}]}
+{
+  "id": "charlie-charlie-puth",
+  "title": "Charlie",
+  "artist": "Charlie Puth",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2022-10-22",
+      "rank": 10
+    },
+    {
+      "date": "2022-10-29",
+      "rank": 60
+    },
+    {
+      "date": "2022-11-05",
+      "rank": 94
+    },
+    {
+      "date": "2022-11-12",
+      "rank": 132
+    },
+    {
+      "date": "2022-11-19",
+      "rank": 156
+    },
+    {
+      "date": "2022-11-26",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Light Switch",
+      "id": "light-switch-charlie-puth"
+    },
+    {
+      "title": "That’s Hilarious",
+      "id": null
+    },
+    {
+      "title": "Charlie Be Quiet!",
+      "id": null
+    },
+    {
+      "title": "There’s a First Time for Everything",
+      "id": null
+    },
+    {
+      "title": "Smells Like Me",
+      "id": null
+    },
+    {
+      "title": "Left and Right",
+      "id": null
+    },
+    {
+      "title": "Loser",
+      "id": null
+    },
+    {
+      "title": "When You’re Sad I’m Sad",
+      "id": null
+    },
+    {
+      "title": "Marks on My Neck",
+      "id": null
+    },
+    {
+      "title": "Tears on My Piano",
+      "id": null
+    },
+    {
+      "title": "I Don’t Think That I Like Her",
+      "id": null
+    },
+    {
+      "title": "No More Drama",
+      "id": null
+    }
+  ]
+}

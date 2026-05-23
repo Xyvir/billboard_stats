@@ -1,1 +1,82 @@
-{"id": "charlie-charlie", "title": "Charlie", "artist": "Charlie", "peak": 145, "history": [{"date": "1983-07-23", "rank": 183}, {"date": "1983-07-30", "rank": 177}, {"date": "1983-08-06", "rank": 161}, {"date": "1983-08-13", "rank": 156}, {"date": "1983-08-20", "rank": 150}, {"date": "1983-08-27", "rank": 147}, {"date": "1983-09-03", "rank": 145}, {"date": "1983-09-10", "rank": 169}, {"date": "1983-09-17", "rank": 195}]}
+{
+  "id": "charlie-charlie",
+  "title": "Charlie",
+  "artist": "Charlie",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1983-07-23",
+      "rank": 183
+    },
+    {
+      "date": "1983-07-30",
+      "rank": 177
+    },
+    {
+      "date": "1983-08-06",
+      "rank": 161
+    },
+    {
+      "date": "1983-08-13",
+      "rank": 156
+    },
+    {
+      "date": "1983-08-20",
+      "rank": 150
+    },
+    {
+      "date": "1983-08-27",
+      "rank": 147
+    },
+    {
+      "date": "1983-09-03",
+      "rank": 145
+    },
+    {
+      "date": "1983-09-10",
+      "rank": 169
+    },
+    {
+      "date": "1983-09-17",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It's Inevitable",
+      "id": "it-s-inevitable-charlie"
+    },
+    {
+      "title": "Tempted",
+      "id": null
+    },
+    {
+      "title": "Spend My Life With You",
+      "id": null
+    },
+    {
+      "title": "Never Too Late",
+      "id": null
+    },
+    {
+      "title": "Playing to Win",
+      "id": null
+    },
+    {
+      "title": "The Heartaches Begin",
+      "id": null
+    },
+    {
+      "title": "You're Everything I Need",
+      "id": null
+    },
+    {
+      "title": "This Time",
+      "id": null
+    },
+    {
+      "title": "Can't Wait 'Til Tomorrow",
+      "id": null
+    }
+  ]
+}
