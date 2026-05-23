@@ -1,1 +1,234 @@
-{"id": "love-songs-the-beatles", "title": "Love Songs", "artist": "The Beatles", "peak": 24, "history": [{"date": "1977-11-12", "rank": 52}, {"date": "1977-11-19", "rank": 36}, {"date": "1977-11-26", "rank": 30}, {"date": "1977-12-03", "rank": 26}, {"date": "1977-12-10", "rank": 24}, {"date": "1977-12-17", "rank": 24}, {"date": "1977-12-24", "rank": 31}, {"date": "1977-12-31", "rank": 31}, {"date": "1978-01-07", "rank": 61}, {"date": "1978-01-14", "rank": 61}, {"date": "1978-01-21", "rank": 60}, {"date": "1978-01-28", "rank": 66}, {"date": "1978-02-04", "rank": 86}, {"date": "1978-02-11", "rank": 114}, {"date": "1978-02-18", "rank": 128}, {"date": "1978-02-25", "rank": 128}, {"date": "1978-03-04", "rank": 163}, {"date": "1978-03-11", "rank": 198}, {"date": "1978-03-18", "rank": 188}, {"date": "1978-03-25", "rank": 178}, {"date": "1978-04-01", "rank": 170}, {"date": "1978-04-08", "rank": 170}, {"date": "1978-04-15", "rank": 170}, {"date": "1978-04-22", "rank": 196}, {"date": "1981-01-31", "rank": 154}, {"date": "1981-02-07", "rank": 154}, {"date": "1981-02-14", "rank": 149}, {"date": "1981-02-21", "rank": 163}, {"date": "1981-02-28", "rank": 165}, {"date": "1981-03-07", "rank": 169}, {"date": "1981-03-14", "rank": 174}]}
+{
+  "id": "love-songs-the-beatles",
+  "title": "Love Songs",
+  "artist": "The Beatles",
+  "peak": 24,
+  "history": [
+    {
+      "date": "1977-11-12",
+      "rank": 52
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 36
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 30
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 26
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 24
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 24
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 31
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 31
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 61
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 61
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 60
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 66
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 86
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 114
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 128
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 128
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 163
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 198
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 188
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 178
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 170
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 170
+    },
+    {
+      "date": "1978-04-15",
+      "rank": 170
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 196
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 154
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 154
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 149
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 163
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 165
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 169
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Yesterday",
+      "id": "yesterday-the-beatles"
+    },
+    {
+      "title": "Something",
+      "id": "something-the-beatles"
+    },
+    {
+      "title": "And I Love Her",
+      "id": "and-i-love-her-the-beatles"
+    },
+    {
+      "title": "If I Fell",
+      "id": "if-i-fell-the-beatles"
+    },
+    {
+      "title": "Yes It Is",
+      "id": "yes-it-is-the-beatles"
+    },
+    {
+      "title": "She’s Leaving Home",
+      "id": "she-s-a-woman-the-beatles"
+    },
+    {
+      "title": "The Long and Winding Road",
+      "id": "the-long-and-winding-road-for-you-blue-the-beatles"
+    },
+    {
+      "title": "P.S. I Love You",
+      "id": "p-s-i-love-you-the-beatles"
+    },
+    {
+      "title": "I’ll Follow the Sun",
+      "id": null
+    },
+    {
+      "title": "I Need You",
+      "id": null
+    },
+    {
+      "title": "Girl",
+      "id": null
+    },
+    {
+      "title": "In My Life",
+      "id": null
+    },
+    {
+      "title": "Words of Love",
+      "id": null
+    },
+    {
+      "title": "Here, There and Everywhere",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Back",
+      "id": null
+    },
+    {
+      "title": "Tell Me What You See",
+      "id": null
+    },
+    {
+      "title": "Michelle",
+      "id": null
+    },
+    {
+      "title": "It’s Only Love",
+      "id": null
+    },
+    {
+      "title": "You’re Going to Lose That Girl",
+      "id": null
+    },
+    {
+      "title": "Every Little Thing",
+      "id": null
+    },
+    {
+      "title": "For No One",
+      "id": null
+    },
+    {
+      "title": "This Boy",
+      "id": null
+    },
+    {
+      "title": "Norwegian Wood",
+      "id": null
+    },
+    {
+      "title": "You’ve Got to Hide Your Love Away",
+      "id": null
+    },
+    {
+      "title": "I Will",
+      "id": null
+    }
+  ]
+}

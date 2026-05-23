@@ -1,1 +1,94 @@
-{"id": "love-songs-bee-gees", "title": "Love Songs", "artist": "Bee Gees", "peak": 166, "history": [{"date": "2005-12-24", "rank": 166}, {"date": "2006-02-18", "rank": 197}, {"date": "2006-02-25", "rank": 175}]}
+{
+  "id": "love-songs-bee-gees",
+  "title": "Love Songs",
+  "artist": "Bee Gees",
+  "peak": 166,
+  "history": [
+    {
+      "date": "2005-12-24",
+      "rank": 166
+    },
+    {
+      "date": "2006-02-18",
+      "rank": 197
+    },
+    {
+      "date": "2006-02-25",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "To Love Somebody",
+      "id": "to-love-somebody-bee-gees"
+    },
+    {
+      "title": "Words",
+      "id": "words-bee-gees"
+    },
+    {
+      "title": "First of May",
+      "id": "first-of-may-bee-gees"
+    },
+    {
+      "title": "Lonely Days",
+      "id": "lonely-days-bee-gees"
+    },
+    {
+      "title": "How Can You Mend a Broken Heart",
+      "id": "how-can-you-mend-a-broken-heart-bee-gees"
+    },
+    {
+      "title": "How Deep Is Your Love",
+      "id": "how-deep-is-your-love-bee-gees"
+    },
+    {
+      "title": "Too Much Heaven",
+      "id": "too-much-heaven-bee-gees"
+    },
+    {
+      "title": "More Than a Woman",
+      "id": null
+    },
+    {
+      "title": "(Our Love) Don’t Throw It All Away",
+      "id": null
+    },
+    {
+      "title": "Emotion",
+      "id": null
+    },
+    {
+      "title": "Heartbreaker",
+      "id": null
+    },
+    {
+      "title": "Islands in the Stream",
+      "id": null
+    },
+    {
+      "title": "Juliet",
+      "id": null
+    },
+    {
+      "title": "Secret Love",
+      "id": null
+    },
+    {
+      "title": "For Whom the Bell Tolls",
+      "id": null
+    },
+    {
+      "title": "Closer Than Close",
+      "id": null
+    },
+    {
+      "title": "I Could Not Love You More",
+      "id": null
+    },
+    {
+      "title": "Wedding Day",
+      "id": null
+    }
+  ]
+}

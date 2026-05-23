@@ -1,1 +1,62 @@
-{"id": "love-songs-jackson-5", "title": "Love Songs", "artist": "Jackson 5", "peak": 186, "history": [{"date": "2009-08-08", "rank": 186}]}
+{
+  "id": "love-songs-jackson-5",
+  "title": "Love Songs",
+  "artist": "Jackson 5",
+  "peak": 186,
+  "history": [
+    {
+      "date": "2009-08-08",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’ll Be There",
+      "id": "i-ll-be-there-jackson-5"
+    },
+    {
+      "title": "I Found That Girl",
+      "id": "the-love-you-save-i-found-that-girl-jackson-5"
+    },
+    {
+      "title": "Never Can Say Goodbye",
+      "id": "never-can-say-goodbye-jackson-5"
+    },
+    {
+      "title": "Darling Dear",
+      "id": null
+    },
+    {
+      "title": "Can You Remember",
+      "id": null
+    },
+    {
+      "title": "All I Do Is Think of You",
+      "id": null
+    },
+    {
+      "title": "Breezy",
+      "id": null
+    },
+    {
+      "title": "To Know",
+      "id": null
+    },
+    {
+      "title": "Touch",
+      "id": null
+    },
+    {
+      "title": "I’m So Happy",
+      "id": null
+    },
+    {
+      "title": "Through Thick and Thin",
+      "id": null
+    },
+    {
+      "title": "It All Begins and Ends With Love",
+      "id": null
+    }
+  ]
+}

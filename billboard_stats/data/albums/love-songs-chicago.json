@@ -1,1 +1,98 @@
-{"id": "love-songs-chicago", "title": "Love Songs", "artist": "Chicago", "peak": 57, "history": [{"date": "2005-02-12", "rank": 57}, {"date": "2005-02-19", "rank": 105}, {"date": "2005-02-26", "rank": 90}, {"date": "2005-03-05", "rank": 132}]}
+{
+  "id": "love-songs-chicago",
+  "title": "Love Songs",
+  "artist": "Chicago",
+  "peak": 57,
+  "history": [
+    {
+      "date": "2005-02-12",
+      "rank": 57
+    },
+    {
+      "date": "2005-02-19",
+      "rank": 105
+    },
+    {
+      "date": "2005-02-26",
+      "rank": 90
+    },
+    {
+      "date": "2005-03-05",
+      "rank": 132
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You’re the Inspiration",
+      "id": "you-re-the-inspiration-chicago"
+    },
+    {
+      "title": "If You Leave Me Now (Live, 2004)",
+      "id": "if-you-leave-me-now-chicago"
+    },
+    {
+      "title": "Hard To Say I'm Sorry / Get Away",
+      "id": "hard-to-say-i-m-sorry-chicago"
+    },
+    {
+      "title": "Call on Me",
+      "id": "call-on-me-chicago"
+    },
+    {
+      "title": "Colour My World",
+      "id": "beginnings-colour-my-world-chicago"
+    },
+    {
+      "title": "Just You 'N' Me",
+      "id": "just-you-n-me-chicago"
+    },
+    {
+      "title": "Hard Habit To Break",
+      "id": "hard-habit-to-break-chicago"
+    },
+    {
+      "title": "Will You Still Love Me? (Single Version)",
+      "id": "will-you-still-love-me-chicago"
+    },
+    {
+      "title": "No Tell Lover",
+      "id": "no-tell-lover-chicago"
+    },
+    {
+      "title": "I Don't Wanna Live Without Your Love",
+      "id": "i-don-t-wanna-live-without-your-love-chicago"
+    },
+    {
+      "title": "What Kind Of Man Would I Be? (Single Version)",
+      "id": "what-kind-of-man-would-i-be-chicago"
+    },
+    {
+      "title": "Wishing You Were Here",
+      "id": "wishing-you-were-here-chicago"
+    },
+    {
+      "title": "Here In My Heart",
+      "id": null
+    },
+    {
+      "title": "Love Lives On",
+      "id": null
+    },
+    {
+      "title": "Look Away (Single Version)",
+      "id": null
+    },
+    {
+      "title": "Beginnings (Gh Edit)",
+      "id": null
+    },
+    {
+      "title": "Happy Man (Gh2 Edit)",
+      "id": null
+    },
+    {
+      "title": "Never Been In Love Before",
+      "id": null
+    }
+  ]
+}
