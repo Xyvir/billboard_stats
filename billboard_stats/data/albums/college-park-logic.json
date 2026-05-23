@@ -1,1 +1,90 @@
-{"id": "college-park-logic", "title": "College Park", "artist": "Logic", "peak": 21, "history": [{"date": "2023-03-11", "rank": 21}, {"date": "2023-03-18", "rank": 125}, {"date": "2023-07-01", "rank": 195}]}
+{
+  "id": "college-park-logic",
+  "title": "College Park",
+  "artist": "Logic",
+  "peak": 21,
+  "history": [
+    {
+      "date": "2023-03-11",
+      "rank": 21
+    },
+    {
+      "date": "2023-03-18",
+      "rank": 125
+    },
+    {
+      "date": "2023-07-01",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Self Medication",
+      "id": "flexicution-logic"
+    },
+    {
+      "title": "Cruisin’ Through the Universe",
+      "id": null
+    },
+    {
+      "title": "Wake Up",
+      "id": null
+    },
+    {
+      "title": "Lightsabers",
+      "id": null
+    },
+    {
+      "title": "Clone Wars III",
+      "id": null
+    },
+    {
+      "title": "Redpill VII",
+      "id": null
+    },
+    {
+      "title": "Playwright",
+      "id": null
+    },
+    {
+      "title": "Gaithersburg Freestyle",
+      "id": null
+    },
+    {
+      "title": "Insipio",
+      "id": null
+    },
+    {
+      "title": "Shimmy",
+      "id": null
+    },
+    {
+      "title": "Paradise II",
+      "id": null
+    },
+    {
+      "title": "Come On Down",
+      "id": null
+    },
+    {
+      "title": "Village Slum",
+      "id": null
+    },
+    {
+      "title": "Highlife",
+      "id": null
+    },
+    {
+      "title": "38.9897 °N, 76.9378 °W",
+      "id": null
+    },
+    {
+      "title": "Ayo",
+      "id": null
+    },
+    {
+      "title": "Lightyear",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,94 @@
-{"id": "collection-wynonna", "title": "Collection", "artist": "Wynonna", "peak": 72, "history": [{"date": "1997-04-26", "rank": 72}, {"date": "1997-05-03", "rank": 78}, {"date": "1997-05-10", "rank": 103}, {"date": "1997-05-17", "rank": 117}, {"date": "1997-05-24", "rank": 103}, {"date": "1997-05-31", "rank": 122}, {"date": "1997-06-07", "rank": 149}, {"date": "1997-06-14", "rank": 163}, {"date": "1997-06-21", "rank": 179}, {"date": "1997-06-28", "rank": 180}]}
+{
+  "id": "collection-wynonna",
+  "title": "Collection",
+  "artist": "Wynonna",
+  "peak": 72,
+  "history": [
+    {
+      "date": "1997-04-26",
+      "rank": 72
+    },
+    {
+      "date": "1997-05-03",
+      "rank": 78
+    },
+    {
+      "date": "1997-05-10",
+      "rank": 103
+    },
+    {
+      "date": "1997-05-17",
+      "rank": 117
+    },
+    {
+      "date": "1997-05-24",
+      "rank": 103
+    },
+    {
+      "date": "1997-05-31",
+      "rank": 122
+    },
+    {
+      "date": "1997-06-07",
+      "rank": 149
+    },
+    {
+      "date": "1997-06-14",
+      "rank": 163
+    },
+    {
+      "date": "1997-06-21",
+      "rank": 179
+    },
+    {
+      "date": "1997-06-28",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No One Else on Earth (club mix)",
+      "id": "no-one-else-on-earth-wynonna"
+    },
+    {
+      "title": "Tell Me Why",
+      "id": "tell-me-why-wynonna"
+    },
+    {
+      "title": "Heaven Help My Heart",
+      "id": null
+    },
+    {
+      "title": "I Saw the Light",
+      "id": null
+    },
+    {
+      "title": "She Is His Only Need",
+      "id": null
+    },
+    {
+      "title": "Only Love",
+      "id": null
+    },
+    {
+      "title": "Is It Over Yet (single version)",
+      "id": null
+    },
+    {
+      "title": "My Strongest Weakness",
+      "id": null
+    },
+    {
+      "title": "To Be Loved by You",
+      "id": null
+    },
+    {
+      "title": "Rock Bottom (single version)",
+      "id": null
+    },
+    {
+      "title": "Girls With Guitars",
+      "id": null
+    }
+  ]
+}

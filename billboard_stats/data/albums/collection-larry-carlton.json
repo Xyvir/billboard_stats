@@ -1,1 +1,78 @@
-{"id": "collection-larry-carlton", "title": "Collection", "artist": "Larry Carlton", "peak": 156, "history": [{"date": "1990-06-30", "rank": 194}, {"date": "1990-07-07", "rank": 183}, {"date": "1990-07-14", "rank": 156}, {"date": "1990-07-21", "rank": 163}, {"date": "1990-07-28", "rank": 198}]}
+{
+  "id": "collection-larry-carlton",
+  "title": "Collection",
+  "artist": "Larry Carlton",
+  "peak": 156,
+  "history": [
+    {
+      "date": "1990-06-30",
+      "rank": 194
+    },
+    {
+      "date": "1990-07-07",
+      "rank": 183
+    },
+    {
+      "date": "1990-07-14",
+      "rank": 156
+    },
+    {
+      "date": "1990-07-21",
+      "rank": 163
+    },
+    {
+      "date": "1990-07-28",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sleepwalk",
+      "id": "sleepwalk-larry-carlton"
+    },
+    {
+      "title": "Small Town Girl",
+      "id": null
+    },
+    {
+      "title": "Smiles and Smiles to Go",
+      "id": null
+    },
+    {
+      "title": "Minute by Minute",
+      "id": null
+    },
+    {
+      "title": "For Heaven’s Sake",
+      "id": null
+    },
+    {
+      "title": "Nite Crawler",
+      "id": null
+    },
+    {
+      "title": "Blues for TJ",
+      "id": null
+    },
+    {
+      "title": "10:00 P.M.",
+      "id": null
+    },
+    {
+      "title": "Tequila",
+      "id": null
+    },
+    {
+      "title": "Bubble Shuffle",
+      "id": null
+    },
+    {
+      "title": "Hello Tomorrow",
+      "id": null
+    },
+    {
+      "title": "High Steppin’",
+      "id": null
+    }
+  ]
+}

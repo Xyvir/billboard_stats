@@ -1,1 +1,74 @@
-{"id": "collection-spyro-gyra", "title": "Collection", "artist": "Spyro Gyra", "peak": 156, "history": [{"date": "1991-07-06", "rank": 156}, {"date": "1991-07-13", "rank": 181}]}
+{
+  "id": "collection-spyro-gyra",
+  "title": "Collection",
+  "artist": "Spyro Gyra",
+  "peak": 156,
+  "history": [
+    {
+      "date": "1991-07-06",
+      "rank": 156
+    },
+    {
+      "date": "1991-07-13",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Morning Dance",
+      "id": "morning-dance-spyro-gyra"
+    },
+    {
+      "title": "Shakedown",
+      "id": "shaker-song-spyro-gyra"
+    },
+    {
+      "title": "Catching the Sun",
+      "id": "catching-the-sun-spyro-gyra"
+    },
+    {
+      "title": "You Can Count On Me",
+      "id": null
+    },
+    {
+      "title": "What Exit",
+      "id": null
+    },
+    {
+      "title": "Nu Sungo",
+      "id": null
+    },
+    {
+      "title": "The Unknown Soldier",
+      "id": null
+    },
+    {
+      "title": "Old San Juan",
+      "id": null
+    },
+    {
+      "title": "Mallet Ballet",
+      "id": null
+    },
+    {
+      "title": "Para ti latino",
+      "id": null
+    },
+    {
+      "title": "Incognito",
+      "id": null
+    },
+    {
+      "title": "Harbor Nights",
+      "id": null
+    },
+    {
+      "title": "Limelight",
+      "id": null
+    },
+    {
+      "title": "Breakout",
+      "id": null
+    }
+  ]
+}

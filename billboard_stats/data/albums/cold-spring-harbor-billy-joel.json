@@ -1,1 +1,82 @@
-{"id": "cold-spring-harbor-billy-joel", "title": "Cold Spring Harbor", "artist": "Billy Joel", "peak": 158, "history": [{"date": "1984-01-14", "rank": 178}, {"date": "1984-01-21", "rank": 173}, {"date": "1984-01-28", "rank": 160}, {"date": "1984-02-04", "rank": 158}, {"date": "1984-02-11", "rank": 166}, {"date": "1984-02-18", "rank": 182}, {"date": "1984-02-25", "rank": 181}, {"date": "1984-03-03", "rank": 176}]}
+{
+  "id": "cold-spring-harbor-billy-joel",
+  "title": "Cold Spring Harbor",
+  "artist": "Billy Joel",
+  "peak": 158,
+  "history": [
+    {
+      "date": "1984-01-14",
+      "rank": 178
+    },
+    {
+      "date": "1984-01-21",
+      "rank": 173
+    },
+    {
+      "date": "1984-01-28",
+      "rank": 160
+    },
+    {
+      "date": "1984-02-04",
+      "rank": 158
+    },
+    {
+      "date": "1984-02-11",
+      "rank": 166
+    },
+    {
+      "date": "1984-02-18",
+      "rank": 182
+    },
+    {
+      "date": "1984-02-25",
+      "rank": 181
+    },
+    {
+      "date": "1984-03-03",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "She’s Got a Way",
+      "id": "she-s-got-a-way-billy-joel"
+    },
+    {
+      "title": "You Can Make Me Free",
+      "id": null
+    },
+    {
+      "title": "Everybody Loves You Now",
+      "id": null
+    },
+    {
+      "title": "Why Judy Why",
+      "id": null
+    },
+    {
+      "title": "Falling of the Rain",
+      "id": null
+    },
+    {
+      "title": "Turn Around",
+      "id": null
+    },
+    {
+      "title": "You Look So Good to Me",
+      "id": null
+    },
+    {
+      "title": "Tomorrow Is Today",
+      "id": null
+    },
+    {
+      "title": "Nocturne",
+      "id": null
+    },
+    {
+      "title": "Got to Begin Again",
+      "id": null
+    }
+  ]
+}

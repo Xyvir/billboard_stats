@@ -1,1 +1,194 @@
-{"id": "collection-one-saint-jhn", "title": "Collection One", "artist": "Saint Jhn", "peak": 50, "history": [{"date": "2020-04-04", "rank": 95}, {"date": "2020-04-11", "rank": 77}, {"date": "2020-04-18", "rank": 73}, {"date": "2020-04-25", "rank": 62}, {"date": "2020-05-02", "rank": 65}, {"date": "2020-05-09", "rank": 66}, {"date": "2020-05-16", "rank": 61}, {"date": "2020-05-23", "rank": 63}, {"date": "2020-05-30", "rank": 64}, {"date": "2020-06-06", "rank": 69}, {"date": "2020-06-13", "rank": 60}, {"date": "2020-06-20", "rank": 53}, {"date": "2020-06-27", "rank": 50}, {"date": "2020-07-04", "rank": 60}, {"date": "2020-07-11", "rank": 53}, {"date": "2020-07-18", "rank": 57}, {"date": "2020-07-25", "rank": 58}, {"date": "2020-08-01", "rank": 55}, {"date": "2020-08-08", "rank": 54}, {"date": "2020-08-15", "rank": 68}, {"date": "2020-08-22", "rank": 75}, {"date": "2020-08-29", "rank": 72}, {"date": "2020-09-05", "rank": 78}, {"date": "2020-09-12", "rank": 84}, {"date": "2020-09-19", "rank": 87}, {"date": "2020-09-26", "rank": 91}, {"date": "2020-10-03", "rank": 105}, {"date": "2020-10-10", "rank": 126}, {"date": "2020-10-17", "rank": 143}, {"date": "2020-10-24", "rank": 138}, {"date": "2020-10-31", "rank": 150}, {"date": "2020-11-07", "rank": 168}, {"date": "2020-11-14", "rank": 175}]}
+{
+  "id": "collection-one-saint-jhn",
+  "title": "Collection One",
+  "artist": "Saint Jhn",
+  "peak": 50,
+  "history": [
+    {
+      "date": "2020-04-04",
+      "rank": 95
+    },
+    {
+      "date": "2020-04-11",
+      "rank": 77
+    },
+    {
+      "date": "2020-04-18",
+      "rank": 73
+    },
+    {
+      "date": "2020-04-25",
+      "rank": 62
+    },
+    {
+      "date": "2020-05-02",
+      "rank": 65
+    },
+    {
+      "date": "2020-05-09",
+      "rank": 66
+    },
+    {
+      "date": "2020-05-16",
+      "rank": 61
+    },
+    {
+      "date": "2020-05-23",
+      "rank": 63
+    },
+    {
+      "date": "2020-05-30",
+      "rank": 64
+    },
+    {
+      "date": "2020-06-06",
+      "rank": 69
+    },
+    {
+      "date": "2020-06-13",
+      "rank": 60
+    },
+    {
+      "date": "2020-06-20",
+      "rank": 53
+    },
+    {
+      "date": "2020-06-27",
+      "rank": 50
+    },
+    {
+      "date": "2020-07-04",
+      "rank": 60
+    },
+    {
+      "date": "2020-07-11",
+      "rank": 53
+    },
+    {
+      "date": "2020-07-18",
+      "rank": 57
+    },
+    {
+      "date": "2020-07-25",
+      "rank": 58
+    },
+    {
+      "date": "2020-08-01",
+      "rank": 55
+    },
+    {
+      "date": "2020-08-08",
+      "rank": 54
+    },
+    {
+      "date": "2020-08-15",
+      "rank": 68
+    },
+    {
+      "date": "2020-08-22",
+      "rank": 75
+    },
+    {
+      "date": "2020-08-29",
+      "rank": 72
+    },
+    {
+      "date": "2020-09-05",
+      "rank": 78
+    },
+    {
+      "date": "2020-09-12",
+      "rank": 84
+    },
+    {
+      "date": "2020-09-19",
+      "rank": 87
+    },
+    {
+      "date": "2020-09-26",
+      "rank": 91
+    },
+    {
+      "date": "2020-10-03",
+      "rank": 105
+    },
+    {
+      "date": "2020-10-10",
+      "rank": 126
+    },
+    {
+      "date": "2020-10-17",
+      "rank": 143
+    },
+    {
+      "date": "2020-10-24",
+      "rank": 138
+    },
+    {
+      "date": "2020-10-31",
+      "rank": 150
+    },
+    {
+      "date": "2020-11-07",
+      "rank": 168
+    },
+    {
+      "date": "2020-11-14",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Roses",
+      "id": "roses-saint-jhn"
+    },
+    {
+      "title": "Lust",
+      "id": null
+    },
+    {
+      "title": "3 Below",
+      "id": null
+    },
+    {
+      "title": "Surf Club",
+      "id": null
+    },
+    {
+      "title": "Reflex",
+      "id": null
+    },
+    {
+      "title": "God Bless the Internet",
+      "id": null
+    },
+    {
+      "title": "Selfish",
+      "id": null
+    },
+    {
+      "title": "God Bless the Ratchets",
+      "id": null
+    },
+    {
+      "title": "Nigga Shit (Swoosh)",
+      "id": null
+    },
+    {
+      "title": "Traci Lords",
+      "id": null
+    },
+    {
+      "title": "Brilliant Bitch",
+      "id": null
+    },
+    {
+      "title": "Some Nights (extended)",
+      "id": null
+    },
+    {
+      "title": "I Heard You Got Too Litt Last Night",
+      "id": null
+    }
+  ]
+}
