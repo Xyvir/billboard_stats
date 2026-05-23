@@ -1,1 +1,66 @@
-{"id": "darlin-tom-jones", "title": "Darlin'", "artist": "Tom Jones", "peak": 179, "history": [{"date": "1981-05-23", "rank": 180}, {"date": "1981-05-30", "rank": 179}, {"date": "1981-06-06", "rank": 183}]}
+{
+  "id": "darlin-tom-jones",
+  "title": "Darlin'",
+  "artist": "Tom Jones",
+  "peak": 179,
+  "history": [
+    {
+      "date": "1981-05-23",
+      "rank": 180
+    },
+    {
+      "date": "1981-05-30",
+      "rank": 179
+    },
+    {
+      "date": "1981-06-06",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One Night",
+      "id": "love-me-tonight-tom-jones"
+    },
+    {
+      "title": "Darlin’",
+      "id": null
+    },
+    {
+      "title": "But I Do",
+      "id": null
+    },
+    {
+      "title": "Lady Lay Down",
+      "id": null
+    },
+    {
+      "title": "No Guarantee",
+      "id": null
+    },
+    {
+      "title": "What in the World’s Come Over You",
+      "id": null
+    },
+    {
+      "title": "A Daughter’s Question",
+      "id": null
+    },
+    {
+      "title": "I Don’t Want to Know You That Well",
+      "id": null
+    },
+    {
+      "title": "Dime Queen of Nevada",
+      "id": null
+    },
+    {
+      "title": "The Things That Matter Most to Me",
+      "id": null
+    },
+    {
+      "title": "Come Home Rhondda Boy",
+      "id": null
+    }
+  ]
+}

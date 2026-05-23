@@ -1,1 +1,82 @@
-{"id": "dave-mason-is-alive-dave-mason", "title": "Dave Mason Is Alive!", "artist": "Dave Mason", "peak": 116, "history": [{"date": "1973-04-21", "rank": 195}, {"date": "1973-04-28", "rank": 166}, {"date": "1973-05-05", "rank": 129}, {"date": "1973-05-12", "rank": 126}, {"date": "1973-05-19", "rank": 121}, {"date": "1973-05-26", "rank": 120}, {"date": "1973-06-02", "rank": 119}, {"date": "1973-06-09", "rank": 116}, {"date": "1973-06-16", "rank": 121}, {"date": "1973-06-23", "rank": 140}, {"date": "1973-06-30", "rank": 160}]}
+{
+  "id": "dave-mason-is-alive-dave-mason",
+  "title": "Dave Mason Is Alive!",
+  "artist": "Dave Mason",
+  "peak": 116,
+  "history": [
+    {
+      "date": "1973-04-21",
+      "rank": 195
+    },
+    {
+      "date": "1973-04-28",
+      "rank": 166
+    },
+    {
+      "date": "1973-05-05",
+      "rank": 129
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 126
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 121
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 120
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 119
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 116
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 121
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 140
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Only You Know and I Know",
+      "id": "only-you-know-and-i-know-dave-mason"
+    },
+    {
+      "title": "Walk to the Point",
+      "id": null
+    },
+    {
+      "title": "Shouldn’t Have Took More Than You Gave",
+      "id": null
+    },
+    {
+      "title": "Look at You Look at Me",
+      "id": null
+    },
+    {
+      "title": "Sad and Deep as You",
+      "id": null
+    },
+    {
+      "title": "Just a Song",
+      "id": null
+    },
+    {
+      "title": "Feelin’ Alright?",
+      "id": null
+    }
+  ]
+}
