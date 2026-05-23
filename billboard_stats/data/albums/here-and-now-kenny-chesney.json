@@ -1,1 +1,102 @@
-{"id": "here-and-now-kenny-chesney", "title": "Here And Now", "artist": "Kenny Chesney", "peak": 1, "history": [{"date": "2020-05-16", "rank": 1}, {"date": "2020-05-23", "rank": 38}, {"date": "2020-05-30", "rank": 83}, {"date": "2020-06-06", "rank": 120}, {"date": "2020-06-13", "rank": 102}, {"date": "2020-06-20", "rank": 123}, {"date": "2020-06-27", "rank": 125}, {"date": "2020-07-04", "rank": 148}, {"date": "2020-07-11", "rank": 151}, {"date": "2020-07-18", "rank": 137}, {"date": "2021-05-22", "rank": 69}]}
+{
+  "id": "here-and-now-kenny-chesney",
+  "title": "Here And Now",
+  "artist": "Kenny Chesney",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2020-05-16",
+      "rank": 1
+    },
+    {
+      "date": "2020-05-23",
+      "rank": 38
+    },
+    {
+      "date": "2020-05-30",
+      "rank": 83
+    },
+    {
+      "date": "2020-06-06",
+      "rank": 120
+    },
+    {
+      "date": "2020-06-13",
+      "rank": 102
+    },
+    {
+      "date": "2020-06-20",
+      "rank": 123
+    },
+    {
+      "date": "2020-06-27",
+      "rank": 125
+    },
+    {
+      "date": "2020-07-04",
+      "rank": 148
+    },
+    {
+      "date": "2020-07-11",
+      "rank": 151
+    },
+    {
+      "date": "2020-07-18",
+      "rank": 137
+    },
+    {
+      "date": "2021-05-22",
+      "rank": 69
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Here and Now",
+      "id": "here-and-now-kenny-chesney"
+    },
+    {
+      "title": "Knowing You",
+      "id": "knowing-you-kenny-chesney"
+    },
+    {
+      "title": "Happy Does",
+      "id": "happy-does-kenny-chesney"
+    },
+    {
+      "title": "Tip of My Tongue",
+      "id": "tip-of-my-tongue-kenny-chesney"
+    },
+    {
+      "title": "We Do",
+      "id": null
+    },
+    {
+      "title": "Everyone She Knows",
+      "id": null
+    },
+    {
+      "title": "Wasted",
+      "id": null
+    },
+    {
+      "title": "Heartbreakers",
+      "id": null
+    },
+    {
+      "title": "Someone to Fix",
+      "id": null
+    },
+    {
+      "title": "You Don’t Get To",
+      "id": null
+    },
+    {
+      "title": "Beautiful World",
+      "id": null
+    },
+    {
+      "title": "Guys Named Captain",
+      "id": null
+    }
+  ]
+}
