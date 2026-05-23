@@ -1,1 +1,62 @@
-{"id": "heaven-help-the-child-mickey-newbury", "title": "Heaven Help The Child", "artist": "Mickey Newbury", "peak": 173, "history": [{"date": "1973-03-10", "rank": 185}, {"date": "1973-03-17", "rank": 179}, {"date": "1973-03-24", "rank": 173}, {"date": "1973-03-31", "rank": 176}, {"date": "1973-04-07", "rank": 176}]}
+{
+  "id": "heaven-help-the-child-mickey-newbury",
+  "title": "Heaven Help The Child",
+  "artist": "Mickey Newbury",
+  "peak": 173,
+  "history": [
+    {
+      "date": "1973-03-10",
+      "rank": 185
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 179
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 173
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 176
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sunshine",
+      "id": "sunshine-mickey-newbury"
+    },
+    {
+      "title": "Heaven Help the Child",
+      "id": null
+    },
+    {
+      "title": "Good Morning Dear",
+      "id": null
+    },
+    {
+      "title": "Sweet Memories",
+      "id": null
+    },
+    {
+      "title": "Why You Been Gone So Long",
+      "id": null
+    },
+    {
+      "title": "Cortelia Clark",
+      "id": null
+    },
+    {
+      "title": "Song for Susan",
+      "id": null
+    },
+    {
+      "title": "San Francisco Mabel Joy",
+      "id": null
+    }
+  ]
+}
