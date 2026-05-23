@@ -1,1 +1,86 @@
-{"id": "it-s-alive-ozark-mountain-daredevils", "title": "It's Alive", "artist": "Ozark Mountain Daredevils", "peak": 176, "history": [{"date": "1978-09-30", "rank": 189}, {"date": "1978-10-07", "rank": 179}, {"date": "1978-10-14", "rank": 176}]}
+{
+  "id": "it-s-alive-ozark-mountain-daredevils",
+  "title": "It's Alive",
+  "artist": "Ozark Mountain Daredevils",
+  "peak": 176,
+  "history": [
+    {
+      "date": "1978-09-30",
+      "rank": 189
+    },
+    {
+      "date": "1978-10-07",
+      "rank": 179
+    },
+    {
+      "date": "1978-10-14",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Know Like I Know",
+      "id": "you-know-like-i-know-ozark-mountain-daredevils"
+    },
+    {
+      "title": "Jackie Blue",
+      "id": "jackie-blue-ozark-mountain-daredevils"
+    },
+    {
+      "title": "If You Wanna Get to Heaven",
+      "id": "if-you-wanna-get-to-heaven-ozark-mountain-daredevils"
+    },
+    {
+      "title": "Walkin’ Down the Road",
+      "id": null
+    },
+    {
+      "title": "Black Sky",
+      "id": null
+    },
+    {
+      "title": "River to the Sun",
+      "id": null
+    },
+    {
+      "title": "A Satisfied Mind",
+      "id": null
+    },
+    {
+      "title": "Fly Away Home",
+      "id": null
+    },
+    {
+      "title": "Horse Trader",
+      "id": null
+    },
+    {
+      "title": "Followin' the Way That I Feel",
+      "id": null
+    },
+    {
+      "title": "Chicken Train",
+      "id": null
+    },
+    {
+      "title": "Ooh Boys (It’s Hot)",
+      "id": null
+    },
+    {
+      "title": "Homemade Wine",
+      "id": null
+    },
+    {
+      "title": "Commercial Success",
+      "id": null
+    },
+    {
+      "title": "Noah",
+      "id": null
+    },
+    {
+      "title": "It’s All Over Now",
+      "id": null
+    }
+  ]
+}
