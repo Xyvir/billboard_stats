@@ -1,1 +1,58 @@
-{"id": "immunity-clairo", "title": "Immunity", "artist": "Clairo", "peak": 51, "history": [{"date": "2019-08-17", "rank": 51}]}
+{
+  "id": "immunity-clairo",
+  "title": "Immunity",
+  "artist": "Clairo",
+  "peak": 51,
+  "history": [
+    {
+      "date": "2019-08-17",
+      "rank": 51
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sofia",
+      "id": "sofia-clairo"
+    },
+    {
+      "title": "Alewife",
+      "id": null
+    },
+    {
+      "title": "Impossible",
+      "id": null
+    },
+    {
+      "title": "Closer to You",
+      "id": null
+    },
+    {
+      "title": "North",
+      "id": null
+    },
+    {
+      "title": "Bags",
+      "id": null
+    },
+    {
+      "title": "Softly",
+      "id": null
+    },
+    {
+      "title": "White Flag",
+      "id": null
+    },
+    {
+      "title": "Feel Something",
+      "id": null
+    },
+    {
+      "title": "Sinking",
+      "id": null
+    },
+    {
+      "title": "I Wouldn’t Ask You",
+      "id": null
+    }
+  ]
+}
