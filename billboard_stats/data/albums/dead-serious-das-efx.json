@@ -1,1 +1,246 @@
-{"id": "dead-serious-das-efx", "title": "Dead Serious", "artist": "Das EFX", "peak": 16, "history": [{"date": "1992-04-25", "rank": 74}, {"date": "1992-05-02", "rank": 60}, {"date": "1992-05-09", "rank": 53}, {"date": "1992-05-16", "rank": 41}, {"date": "1992-05-23", "rank": 38}, {"date": "1992-05-30", "rank": 31}, {"date": "1992-06-06", "rank": 27}, {"date": "1992-06-13", "rank": 18}, {"date": "1992-06-20", "rank": 16}, {"date": "1992-06-27", "rank": 17}, {"date": "1992-07-04", "rank": 19}, {"date": "1992-07-11", "rank": 16}, {"date": "1992-07-18", "rank": 19}, {"date": "1992-07-25", "rank": 30}, {"date": "1992-08-01", "rank": 42}, {"date": "1992-08-08", "rank": 42}, {"date": "1992-08-15", "rank": 48}, {"date": "1992-08-22", "rank": 44}, {"date": "1992-08-29", "rank": 50}, {"date": "1992-09-05", "rank": 55}, {"date": "1992-09-12", "rank": 62}, {"date": "1992-09-19", "rank": 64}, {"date": "1992-09-26", "rank": 74}, {"date": "1992-10-03", "rank": 82}, {"date": "1992-10-10", "rank": 92}, {"date": "1992-10-17", "rank": 103}, {"date": "1992-10-24", "rank": 106}, {"date": "1992-10-31", "rank": 115}, {"date": "1992-11-07", "rank": 117}, {"date": "1992-11-14", "rank": 126}, {"date": "1992-11-21", "rank": 124}, {"date": "1992-11-28", "rank": 124}, {"date": "1992-12-05", "rank": 135}, {"date": "1992-12-12", "rank": 148}, {"date": "1992-12-19", "rank": 152}, {"date": "1992-12-26", "rank": 164}, {"date": "1993-01-02", "rank": 168}, {"date": "1993-01-09", "rank": 146}, {"date": "1993-01-16", "rank": 123}, {"date": "1993-01-23", "rank": 170}, {"date": "1993-01-30", "rank": 173}, {"date": "1993-02-06", "rank": 188}]}
+{
+  "id": "dead-serious-das-efx",
+  "title": "Dead Serious",
+  "artist": "Das EFX",
+  "peak": 16,
+  "history": [
+    {
+      "date": "1992-04-25",
+      "rank": 74
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 60
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 53
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 41
+    },
+    {
+      "date": "1992-05-23",
+      "rank": 38
+    },
+    {
+      "date": "1992-05-30",
+      "rank": 31
+    },
+    {
+      "date": "1992-06-06",
+      "rank": 27
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 18
+    },
+    {
+      "date": "1992-06-20",
+      "rank": 16
+    },
+    {
+      "date": "1992-06-27",
+      "rank": 17
+    },
+    {
+      "date": "1992-07-04",
+      "rank": 19
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 16
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 19
+    },
+    {
+      "date": "1992-07-25",
+      "rank": 30
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 42
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 42
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 48
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 44
+    },
+    {
+      "date": "1992-08-29",
+      "rank": 50
+    },
+    {
+      "date": "1992-09-05",
+      "rank": 55
+    },
+    {
+      "date": "1992-09-12",
+      "rank": 62
+    },
+    {
+      "date": "1992-09-19",
+      "rank": 64
+    },
+    {
+      "date": "1992-09-26",
+      "rank": 74
+    },
+    {
+      "date": "1992-10-03",
+      "rank": 82
+    },
+    {
+      "date": "1992-10-10",
+      "rank": 92
+    },
+    {
+      "date": "1992-10-17",
+      "rank": 103
+    },
+    {
+      "date": "1992-10-24",
+      "rank": 106
+    },
+    {
+      "date": "1992-10-31",
+      "rank": 115
+    },
+    {
+      "date": "1992-11-07",
+      "rank": 117
+    },
+    {
+      "date": "1992-11-14",
+      "rank": 126
+    },
+    {
+      "date": "1992-11-21",
+      "rank": 124
+    },
+    {
+      "date": "1992-11-28",
+      "rank": 124
+    },
+    {
+      "date": "1992-12-05",
+      "rank": 135
+    },
+    {
+      "date": "1992-12-12",
+      "rank": 148
+    },
+    {
+      "date": "1992-12-19",
+      "rank": 152
+    },
+    {
+      "date": "1992-12-26",
+      "rank": 164
+    },
+    {
+      "date": "1993-01-02",
+      "rank": 168
+    },
+    {
+      "date": "1993-01-09",
+      "rank": 146
+    },
+    {
+      "date": "1993-01-16",
+      "rank": 123
+    },
+    {
+      "date": "1993-01-23",
+      "rank": 170
+    },
+    {
+      "date": "1993-01-30",
+      "rank": 173
+    },
+    {
+      "date": "1993-02-06",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "They Want EFX",
+      "id": "they-want-efx-das-efx"
+    },
+    {
+      "title": "They Want EFX (remix)",
+      "id": "they-want-efx-das-efx"
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Mic Checka",
+      "id": null
+    },
+    {
+      "title": "Jussummen",
+      "id": null
+    },
+    {
+      "title": "Looseys",
+      "id": null
+    },
+    {
+      "title": "Dum Dums",
+      "id": null
+    },
+    {
+      "title": "East Coast",
+      "id": null
+    },
+    {
+      "title": "If Only",
+      "id": null
+    },
+    {
+      "title": "Brooklyn to T‐Neck",
+      "id": null
+    },
+    {
+      "title": "Klap Ya Handz",
+      "id": null
+    },
+    {
+      "title": "Straight Out the Sewer",
+      "id": null
+    },
+    {
+      "title": "Mic Checka (remix)",
+      "id": null
+    },
+    {
+      "title": "Jussumen (remix)",
+      "id": null
+    },
+    {
+      "title": "Straight From the Sewer (remix)",
+      "id": null
+    },
+    {
+      "title": "East Coast (remix)",
+      "id": null
+    },
+    {
+      "title": "Hard Like a Criminal",
+      "id": null
+    }
+  ]
+}

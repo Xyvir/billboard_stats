@@ -1,1 +1,110 @@
-{"id": "dead-set-grateful-dead", "title": "Dead Set", "artist": "Grateful Dead", "peak": 29, "history": [{"date": "1981-09-19", "rank": 97}, {"date": "1981-09-26", "rank": 49}, {"date": "1981-10-03", "rank": 32}, {"date": "1981-10-10", "rank": 29}, {"date": "1981-10-17", "rank": 29}, {"date": "1981-10-24", "rank": 41}, {"date": "1981-10-31", "rank": 46}, {"date": "1981-11-07", "rank": 63}, {"date": "1981-11-14", "rank": 93}, {"date": "1981-11-21", "rank": 124}, {"date": "1981-11-28", "rank": 147}]}
+{
+  "id": "dead-set-grateful-dead",
+  "title": "Dead Set",
+  "artist": "Grateful Dead",
+  "peak": 29,
+  "history": [
+    {
+      "date": "1981-09-19",
+      "rank": 97
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 49
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 32
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 29
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 29
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 41
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 46
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 63
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 93
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 124
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 147
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Samson and Delilah",
+      "id": null
+    },
+    {
+      "title": "Friend of the Devil",
+      "id": null
+    },
+    {
+      "title": "New Minglewood Blues",
+      "id": null
+    },
+    {
+      "title": "Deal",
+      "id": null
+    },
+    {
+      "title": "Candyman",
+      "id": null
+    },
+    {
+      "title": "Little Red Rooster",
+      "id": null
+    },
+    {
+      "title": "Loser",
+      "id": null
+    },
+    {
+      "title": "Passenger",
+      "id": null
+    },
+    {
+      "title": "Feel Like a Stranger",
+      "id": null
+    },
+    {
+      "title": "Franklin’s Tower",
+      "id": null
+    },
+    {
+      "title": "Space",
+      "id": null
+    },
+    {
+      "title": "Fire on the Mountain",
+      "id": null
+    },
+    {
+      "title": "Greatest Story Ever Told",
+      "id": null
+    },
+    {
+      "title": "Brokedown Palace",
+      "id": null
+    }
+  ]
+}

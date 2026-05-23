@@ -1,1 +1,78 @@
-{"id": "deann-zach-bryan", "title": "DeAnn", "artist": "Zach Bryan", "peak": 167, "history": [{"date": "2023-08-19", "rank": 179}, {"date": "2023-08-26", "rank": 171}, {"date": "2023-09-02", "rank": 167}, {"date": "2023-09-09", "rank": 188}, {"date": "2023-09-23", "rank": 196}]}
+{
+  "id": "deann-zach-bryan",
+  "title": "DeAnn",
+  "artist": "Zach Bryan",
+  "peak": 167,
+  "history": [
+    {
+      "date": "2023-08-19",
+      "rank": 179
+    },
+    {
+      "date": "2023-08-26",
+      "rank": 171
+    },
+    {
+      "date": "2023-09-02",
+      "rank": 167
+    },
+    {
+      "date": "2023-09-09",
+      "rank": 188
+    },
+    {
+      "date": "2023-09-23",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sweet DeAnn",
+      "id": "pain-sweet-pain-zach-bryan"
+    },
+    {
+      "title": "Flying or Crying",
+      "id": null
+    },
+    {
+      "title": "Hope Again",
+      "id": null
+    },
+    {
+      "title": "God Speed",
+      "id": null
+    },
+    {
+      "title": "Don’t Give Up on Me",
+      "id": null
+    },
+    {
+      "title": "Doing Fine",
+      "id": null
+    },
+    {
+      "title": "Letting Someone Go",
+      "id": null
+    },
+    {
+      "title": "Shivers Down Spines",
+      "id": null
+    },
+    {
+      "title": "Snow",
+      "id": null
+    },
+    {
+      "title": "Man Thats Never Known You",
+      "id": null
+    },
+    {
+      "title": "Moon in Oklahoma",
+      "id": null
+    },
+    {
+      "title": "Condemned",
+      "id": null
+    }
+  ]
+}

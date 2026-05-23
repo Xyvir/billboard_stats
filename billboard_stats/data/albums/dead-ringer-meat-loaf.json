@@ -1,1 +1,86 @@
-{"id": "dead-ringer-meat-loaf", "title": "Dead Ringer", "artist": "Meat Loaf", "peak": 45, "history": [{"date": "1981-09-19", "rank": 87}, {"date": "1981-09-26", "rank": 62}, {"date": "1981-10-03", "rank": 51}, {"date": "1981-10-10", "rank": 45}, {"date": "1981-10-17", "rank": 45}, {"date": "1981-10-24", "rank": 56}, {"date": "1981-10-31", "rank": 67}, {"date": "1981-11-07", "rank": 77}, {"date": "1981-11-14", "rank": 107}, {"date": "1981-11-21", "rank": 139}, {"date": "1981-11-28", "rank": 156}]}
+{
+  "id": "dead-ringer-meat-loaf",
+  "title": "Dead Ringer",
+  "artist": "Meat Loaf",
+  "peak": 45,
+  "history": [
+    {
+      "date": "1981-09-19",
+      "rank": 87
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 62
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 51
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 45
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 45
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 56
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 67
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 77
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 107
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 139
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m Gonna Love Her for Both of Us",
+      "id": "i-m-gonna-love-her-for-both-of-us-meat-loaf"
+    },
+    {
+      "title": "Peel Out",
+      "id": null
+    },
+    {
+      "title": "More Than You Deserve",
+      "id": null
+    },
+    {
+      "title": "I’ll Kill You If You Don’t Come Back",
+      "id": null
+    },
+    {
+      "title": "Read ’em and Weep",
+      "id": null
+    },
+    {
+      "title": "Nocturnal Pleasure",
+      "id": null
+    },
+    {
+      "title": "Dead Ringer for Love",
+      "id": null
+    },
+    {
+      "title": "Everything Is Permitted",
+      "id": null
+    }
+  ]
+}
