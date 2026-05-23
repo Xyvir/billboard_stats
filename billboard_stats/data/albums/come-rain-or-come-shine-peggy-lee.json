@@ -1,1 +1,86 @@
-{"id": "come-rain-or-come-shine-peggy-lee", "title": "Come Rain Or Come Shine", "artist": "Peggy Lee", "peak": 51, "history": [{"date": "2010-05-08", "rank": 51}, {"date": "2010-05-15", "rank": 54}, {"date": "2010-05-22", "rank": 108}, {"date": "2010-05-29", "rank": 180}]}
+{
+  "id": "come-rain-or-come-shine-peggy-lee",
+  "title": "Come Rain Or Come Shine",
+  "artist": "Peggy Lee",
+  "peak": 51,
+  "history": [
+    {
+      "date": "2010-05-08",
+      "rank": 51
+    },
+    {
+      "date": "2010-05-15",
+      "rank": 54
+    },
+    {
+      "date": "2010-05-22",
+      "rank": 108
+    },
+    {
+      "date": "2010-05-29",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fever",
+      "id": "fever-peggy-lee"
+    },
+    {
+      "title": "Is That All There Is?",
+      "id": "is-that-all-there-is-peggy-lee"
+    },
+    {
+      "title": "Once Around the Moon",
+      "id": null
+    },
+    {
+      "title": "You Was Right, Baby",
+      "id": null
+    },
+    {
+      "title": "I’m Lookin’ Out the Window",
+      "id": null
+    },
+    {
+      "title": "It’s a Good Day",
+      "id": null
+    },
+    {
+      "title": "Why Don’t You Do Right (Get Me Some Money Too)",
+      "id": null
+    },
+    {
+      "title": "Come Rain or Come Shine",
+      "id": null
+    },
+    {
+      "title": "Too Close for Comfort",
+      "id": null
+    },
+    {
+      "title": "Oh, What a Beautiful Morning",
+      "id": null
+    },
+    {
+      "title": "I’ve Got the World on a String",
+      "id": null
+    },
+    {
+      "title": "Big Spender",
+      "id": null
+    },
+    {
+      "title": "Black Coffee",
+      "id": null
+    },
+    {
+      "title": "I Love Being Here With You",
+      "id": null
+    },
+    {
+      "title": "Senza Fine",
+      "id": null
+    }
+  ]
+}

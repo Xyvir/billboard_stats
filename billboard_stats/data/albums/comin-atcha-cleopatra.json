@@ -1,1 +1,110 @@
-{"id": "comin-atcha-cleopatra", "title": "Comin' Atcha!", "artist": "Cleopatra", "peak": 109, "history": [{"date": "1998-07-25", "rank": 171}, {"date": "1998-08-01", "rank": 167}, {"date": "1998-08-08", "rank": 170}, {"date": "1998-08-15", "rank": 175}, {"date": "1998-08-22", "rank": 196}, {"date": "1998-09-19", "rank": 160}, {"date": "1998-09-26", "rank": 133}, {"date": "1998-10-03", "rank": 149}, {"date": "1998-10-10", "rank": 109}, {"date": "1998-10-17", "rank": 123}, {"date": "1998-10-24", "rank": 151}, {"date": "1998-10-31", "rank": 166}, {"date": "1998-11-07", "rank": 191}, {"date": "1998-11-14", "rank": 200}]}
+{
+  "id": "comin-atcha-cleopatra",
+  "title": "Comin' Atcha!",
+  "artist": "Cleopatra",
+  "peak": 109,
+  "history": [
+    {
+      "date": "1998-07-25",
+      "rank": 171
+    },
+    {
+      "date": "1998-08-01",
+      "rank": 167
+    },
+    {
+      "date": "1998-08-08",
+      "rank": 170
+    },
+    {
+      "date": "1998-08-15",
+      "rank": 175
+    },
+    {
+      "date": "1998-08-22",
+      "rank": 196
+    },
+    {
+      "date": "1998-09-19",
+      "rank": 160
+    },
+    {
+      "date": "1998-09-26",
+      "rank": 133
+    },
+    {
+      "date": "1998-10-03",
+      "rank": 149
+    },
+    {
+      "date": "1998-10-10",
+      "rank": 109
+    },
+    {
+      "date": "1998-10-17",
+      "rank": 123
+    },
+    {
+      "date": "1998-10-24",
+      "rank": 151
+    },
+    {
+      "date": "1998-10-31",
+      "rank": 166
+    },
+    {
+      "date": "1998-11-07",
+      "rank": 191
+    },
+    {
+      "date": "1998-11-14",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cleopatra’s Theme",
+      "id": "cleopatra-s-theme-cleopatra"
+    },
+    {
+      "title": "Life Ain't Easy",
+      "id": "life-ain-t-easy-cleopatra"
+    },
+    {
+      "title": "Don't Suffer in Silence",
+      "id": null
+    },
+    {
+      "title": "A Touch of Love",
+      "id": null
+    },
+    {
+      "title": "The Bird Song",
+      "id": null
+    },
+    {
+      "title": "Thinking About You",
+      "id": null
+    },
+    {
+      "title": "What You Gonna Do Boy",
+      "id": null
+    },
+    {
+      "title": "The World We Live In",
+      "id": null
+    },
+    {
+      "title": "Dying Rose",
+      "id": null
+    },
+    {
+      "title": "Two Timer",
+      "id": null
+    },
+    {
+      "title": "I Want You Back",
+      "id": null
+    }
+  ]
+}

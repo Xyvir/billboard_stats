@@ -1,1 +1,90 @@
-{"id": "come-prince", "title": "Come", "artist": "Prince", "peak": 15, "history": [{"date": "1994-09-03", "rank": 15}, {"date": "1994-09-10", "rank": 24}, {"date": "1994-09-17", "rank": 35}, {"date": "1994-09-24", "rank": 34}, {"date": "1994-10-01", "rank": 67}, {"date": "1994-10-08", "rank": 81}, {"date": "1994-10-15", "rank": 122}, {"date": "1994-10-22", "rank": 145}, {"date": "1994-10-29", "rank": 160}, {"date": "1994-11-05", "rank": 192}]}
+{
+  "id": "come-prince",
+  "title": "Come",
+  "artist": "Prince",
+  "peak": 15,
+  "history": [
+    {
+      "date": "1994-09-03",
+      "rank": 15
+    },
+    {
+      "date": "1994-09-10",
+      "rank": 24
+    },
+    {
+      "date": "1994-09-17",
+      "rank": 35
+    },
+    {
+      "date": "1994-09-24",
+      "rank": 34
+    },
+    {
+      "date": "1994-10-01",
+      "rank": 67
+    },
+    {
+      "date": "1994-10-08",
+      "rank": 81
+    },
+    {
+      "date": "1994-10-15",
+      "rank": 122
+    },
+    {
+      "date": "1994-10-22",
+      "rank": 145
+    },
+    {
+      "date": "1994-10-29",
+      "rank": 160
+    },
+    {
+      "date": "1994-11-05",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Letitgo",
+      "id": "letitgo-prince"
+    },
+    {
+      "title": "Come",
+      "id": null
+    },
+    {
+      "title": "Space",
+      "id": null
+    },
+    {
+      "title": "Pheromone",
+      "id": null
+    },
+    {
+      "title": "Loose!",
+      "id": null
+    },
+    {
+      "title": "Papa",
+      "id": null
+    },
+    {
+      "title": "Race",
+      "id": null
+    },
+    {
+      "title": "Dark",
+      "id": null
+    },
+    {
+      "title": "Solo",
+      "id": null
+    },
+    {
+      "title": "Orgasm",
+      "id": null
+    }
+  ]
+}
