@@ -1,1 +1,62 @@
-{"id": "jackman-jack-harlow", "title": "Jackman.", "artist": "Jack Harlow", "peak": 8, "history": [{"date": "2023-05-13", "rank": 8}, {"date": "2023-05-20", "rank": 82}, {"date": "2023-05-27", "rank": 164}]}
+{
+  "id": "jackman-jack-harlow",
+  "title": "Jackman.",
+  "artist": "Jack Harlow",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2023-05-13",
+      "rank": 8
+    },
+    {
+      "date": "2023-05-20",
+      "rank": 82
+    },
+    {
+      "date": "2023-05-27",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Common Ground",
+      "id": "common-ground-jack-harlow"
+    },
+    {
+      "title": "They Don’t Love It",
+      "id": "they-don-t-love-it-jack-harlow"
+    },
+    {
+      "title": "Blame on Me",
+      "id": "lovin-on-me-jack-harlow"
+    },
+    {
+      "title": "Ambitious",
+      "id": null
+    },
+    {
+      "title": "Is That Ight?",
+      "id": null
+    },
+    {
+      "title": "Gang Gang Gang",
+      "id": null
+    },
+    {
+      "title": "Denver",
+      "id": null
+    },
+    {
+      "title": "No Enhancers",
+      "id": null
+    },
+    {
+      "title": "It Can’t Be",
+      "id": null
+    },
+    {
+      "title": "Questions",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "jack-in-the-box-j-hope", "title": "Jack In The Box", "artist": "J-Hope", "peak": 6, "history": [{"date": "2022-07-30", "rank": 17}, {"date": "2023-09-02", "rank": 6}, {"date": "2023-09-09", "rank": 70}]}
+{
+  "id": "jack-in-the-box-j-hope",
+  "title": "Jack In The Box",
+  "artist": "J-Hope",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2022-07-30",
+      "rank": 17
+    },
+    {
+      "date": "2023-09-02",
+      "rank": 6
+    },
+    {
+      "date": "2023-09-09",
+      "rank": 70
+    }
+  ],
+  "tracks": [
+    {
+      "title": "MORE",
+      "id": "more-j-hope"
+    },
+    {
+      "title": "방화 (Arson)",
+      "id": "arson-j-hope"
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Pandora’s Box",
+      "id": null
+    },
+    {
+      "title": "STOP (세상에 나쁜 사람은 없다)",
+      "id": null
+    },
+    {
+      "title": "= (Equal Sign)",
+      "id": null
+    },
+    {
+      "title": "Music Box : Reflection",
+      "id": null
+    },
+    {
+      "title": "What If…",
+      "id": null
+    },
+    {
+      "title": "Safety Zone",
+      "id": null
+    },
+    {
+      "title": "Future",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"id": "jaguar-ii-victoria-monet", "title": "Jaguar II", "artist": "Victoria Monet", "peak": 60, "history": [{"date": "2023-09-09", "rank": 60}, {"date": "2023-09-16", "rank": 162}, {"date": "2023-10-28", "rank": 129}]}
+{
+  "id": "jaguar-ii-victoria-monet",
+  "title": "Jaguar II",
+  "artist": "Victoria Monet",
+  "peak": 60,
+  "history": [
+    {
+      "date": "2023-09-09",
+      "rank": 60
+    },
+    {
+      "date": "2023-09-16",
+      "rank": 162
+    },
+    {
+      "date": "2023-10-28",
+      "rank": 129
+    }
+  ],
+  "tracks": [
+    {
+      "title": "On My Mama",
+      "id": "on-my-mama-victoria-monet"
+    },
+    {
+      "title": "Smoke",
+      "id": null
+    },
+    {
+      "title": "Smoke (reprise)",
+      "id": null
+    },
+    {
+      "title": "Party Girls",
+      "id": null
+    },
+    {
+      "title": "Alright",
+      "id": null
+    },
+    {
+      "title": "Cadillac (A Pimp’s Anthem)",
+      "id": null
+    },
+    {
+      "title": "How Does It Make You Feel",
+      "id": null
+    },
+    {
+      "title": "I’m the One",
+      "id": null
+    },
+    {
+      "title": "Stop (Askin’ Me 4Shyt)",
+      "id": null
+    },
+    {
+      "title": "Hollywood",
+      "id": null
+    },
+    {
+      "title": "Good Bye",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"id": "jackie-ciara", "title": "Jackie", "artist": "Ciara", "peak": 17, "history": [{"date": "2015-05-23", "rank": 17}, {"date": "2015-05-30", "rank": 64}, {"date": "2015-06-06", "rank": 96}, {"date": "2015-06-13", "rank": 133}]}
+{
+  "id": "jackie-ciara",
+  "title": "Jackie",
+  "artist": "Ciara",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2015-05-23",
+      "rank": 17
+    },
+    {
+      "date": "2015-05-30",
+      "rank": 64
+    },
+    {
+      "date": "2015-06-06",
+      "rank": 96
+    },
+    {
+      "date": "2015-06-13",
+      "rank": 133
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dance Like We’re Making Love",
+      "id": "dance-like-we-re-making-love-ciara"
+    },
+    {
+      "title": "I Bet",
+      "id": "i-bet-ciara"
+    },
+    {
+      "title": "I Bet (remix)",
+      "id": "i-bet-ciara"
+    },
+    {
+      "title": "Jackie (B.M.F.)",
+      "id": null
+    },
+    {
+      "title": "That’s How I’m Feelin’",
+      "id": null
+    },
+    {
+      "title": "Lullaby",
+      "id": null
+    },
+    {
+      "title": "Stuck on You",
+      "id": null
+    },
+    {
+      "title": "Fly",
+      "id": null
+    },
+    {
+      "title": "Give Me Love",
+      "id": null
+    },
+    {
+      "title": "Kiss & Tell",
+      "id": null
+    },
+    {
+      "title": "All Good",
+      "id": null
+    },
+    {
+      "title": "Only One",
+      "id": null
+    },
+    {
+      "title": "One Woman Army (intro)",
+      "id": null
+    },
+    {
+      "title": "One Woman Army",
+      "id": null
+    },
+    {
+      "title": "I Got You",
+      "id": null
+    },
+    {
+      "title": "I Bet (R3hab remix)",
+      "id": null
+    }
+  ]
+}

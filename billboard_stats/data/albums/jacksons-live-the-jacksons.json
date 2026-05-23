@@ -1,1 +1,134 @@
-{"id": "jacksons-live-the-jacksons", "title": "Jacksons Live", "artist": "The Jacksons", "peak": 30, "history": [{"date": "1981-11-28", "rank": 52}, {"date": "1981-12-05", "rank": 44}, {"date": "1981-12-12", "rank": 39}, {"date": "1981-12-19", "rank": 37}, {"date": "1981-12-26", "rank": 35}, {"date": "1982-01-02", "rank": 35}, {"date": "1982-01-09", "rank": 33}, {"date": "1982-01-16", "rank": 32}, {"date": "1982-01-23", "rank": 30}, {"date": "1982-01-30", "rank": 30}, {"date": "1982-02-06", "rank": 45}, {"date": "1982-02-13", "rank": 57}, {"date": "1982-02-20", "rank": 77}, {"date": "1982-02-27", "rank": 107}, {"date": "1982-03-06", "rank": 125}, {"date": "1982-03-13", "rank": 138}, {"date": "1982-03-20", "rank": 168}]}
+{
+  "id": "jacksons-live-the-jacksons",
+  "title": "Jacksons Live",
+  "artist": "The Jacksons",
+  "peak": 30,
+  "history": [
+    {
+      "date": "1981-11-28",
+      "rank": 52
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 44
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 39
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 37
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 35
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 35
+    },
+    {
+      "date": "1982-01-09",
+      "rank": 33
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 32
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 30
+    },
+    {
+      "date": "1982-01-30",
+      "rank": 30
+    },
+    {
+      "date": "1982-02-06",
+      "rank": 45
+    },
+    {
+      "date": "1982-02-13",
+      "rank": 57
+    },
+    {
+      "date": "1982-02-20",
+      "rank": 77
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 107
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 125
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 138
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Opening / Can You Feel It",
+      "id": "can-you-feel-it-the-jacksons"
+    },
+    {
+      "title": "Lovely One",
+      "id": "lovely-one-the-jacksons"
+    },
+    {
+      "title": "Shake Your Body (Down to the Ground)",
+      "id": "shake-your-body-down-to-the-ground-the-jacksons"
+    },
+    {
+      "title": "Things I Do for You",
+      "id": null
+    },
+    {
+      "title": "Off the Wall",
+      "id": null
+    },
+    {
+      "title": "Ben",
+      "id": null
+    },
+    {
+      "title": "This Place Hotel",
+      "id": null
+    },
+    {
+      "title": "She's Out of My Life",
+      "id": null
+    },
+    {
+      "title": "Discussion",
+      "id": null
+    },
+    {
+      "title": "Old Medley",
+      "id": null
+    },
+    {
+      "title": "I'll Be There",
+      "id": null
+    },
+    {
+      "title": "Rock With You",
+      "id": null
+    },
+    {
+      "title": "Working Day and Night",
+      "id": null
+    },
+    {
+      "title": "Don't Stop 'til You Get Enough",
+      "id": null
+    }
+  ]
+}
