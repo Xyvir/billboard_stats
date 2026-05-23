@@ -1,1 +1,254 @@
-{"id": "here-i-stand-usher", "title": "Here I Stand", "artist": "Usher", "peak": 1, "history": [{"date": "2008-06-14", "rank": 1}, {"date": "2008-06-21", "rank": 3}, {"date": "2008-06-28", "rank": 5}, {"date": "2008-07-05", "rank": 6}, {"date": "2008-07-12", "rank": 7}, {"date": "2008-07-19", "rank": 8}, {"date": "2008-07-26", "rank": 11}, {"date": "2008-08-02", "rank": 19}, {"date": "2008-08-09", "rank": 18}, {"date": "2008-08-16", "rank": 24}, {"date": "2008-08-23", "rank": 31}, {"date": "2008-08-30", "rank": 31}, {"date": "2008-09-06", "rank": 38}, {"date": "2008-09-13", "rank": 41}, {"date": "2008-09-20", "rank": 55}, {"date": "2008-09-27", "rank": 56}, {"date": "2008-10-04", "rank": 73}, {"date": "2008-10-11", "rank": 84}, {"date": "2008-10-18", "rank": 90}, {"date": "2008-10-25", "rank": 98}, {"date": "2008-11-01", "rank": 92}, {"date": "2008-11-08", "rank": 86}, {"date": "2008-11-15", "rank": 93}, {"date": "2008-11-22", "rank": 92}, {"date": "2008-11-29", "rank": 115}, {"date": "2008-12-06", "rank": 117}, {"date": "2008-12-13", "rank": 132}, {"date": "2008-12-20", "rank": 133}, {"date": "2008-12-27", "rank": 151}, {"date": "2009-01-03", "rank": 170}, {"date": "2009-01-10", "rank": 145}, {"date": "2009-01-17", "rank": 125}, {"date": "2009-01-24", "rank": 96}, {"date": "2009-01-31", "rank": 112}, {"date": "2009-02-07", "rank": 113}, {"date": "2009-02-14", "rank": 121}, {"date": "2009-02-21", "rank": 124}, {"date": "2009-02-28", "rank": 141}, {"date": "2009-03-07", "rank": 123}, {"date": "2009-03-14", "rank": 146}, {"date": "2009-03-21", "rank": 170}, {"date": "2009-03-28", "rank": 183}]}
+{
+  "id": "here-i-stand-usher",
+  "title": "Here I Stand",
+  "artist": "Usher",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2008-06-14",
+      "rank": 1
+    },
+    {
+      "date": "2008-06-21",
+      "rank": 3
+    },
+    {
+      "date": "2008-06-28",
+      "rank": 5
+    },
+    {
+      "date": "2008-07-05",
+      "rank": 6
+    },
+    {
+      "date": "2008-07-12",
+      "rank": 7
+    },
+    {
+      "date": "2008-07-19",
+      "rank": 8
+    },
+    {
+      "date": "2008-07-26",
+      "rank": 11
+    },
+    {
+      "date": "2008-08-02",
+      "rank": 19
+    },
+    {
+      "date": "2008-08-09",
+      "rank": 18
+    },
+    {
+      "date": "2008-08-16",
+      "rank": 24
+    },
+    {
+      "date": "2008-08-23",
+      "rank": 31
+    },
+    {
+      "date": "2008-08-30",
+      "rank": 31
+    },
+    {
+      "date": "2008-09-06",
+      "rank": 38
+    },
+    {
+      "date": "2008-09-13",
+      "rank": 41
+    },
+    {
+      "date": "2008-09-20",
+      "rank": 55
+    },
+    {
+      "date": "2008-09-27",
+      "rank": 56
+    },
+    {
+      "date": "2008-10-04",
+      "rank": 73
+    },
+    {
+      "date": "2008-10-11",
+      "rank": 84
+    },
+    {
+      "date": "2008-10-18",
+      "rank": 90
+    },
+    {
+      "date": "2008-10-25",
+      "rank": 98
+    },
+    {
+      "date": "2008-11-01",
+      "rank": 92
+    },
+    {
+      "date": "2008-11-08",
+      "rank": 86
+    },
+    {
+      "date": "2008-11-15",
+      "rank": 93
+    },
+    {
+      "date": "2008-11-22",
+      "rank": 92
+    },
+    {
+      "date": "2008-11-29",
+      "rank": 115
+    },
+    {
+      "date": "2008-12-06",
+      "rank": 117
+    },
+    {
+      "date": "2008-12-13",
+      "rank": 132
+    },
+    {
+      "date": "2008-12-20",
+      "rank": 133
+    },
+    {
+      "date": "2008-12-27",
+      "rank": 151
+    },
+    {
+      "date": "2009-01-03",
+      "rank": 170
+    },
+    {
+      "date": "2009-01-10",
+      "rank": 145
+    },
+    {
+      "date": "2009-01-17",
+      "rank": 125
+    },
+    {
+      "date": "2009-01-24",
+      "rank": 96
+    },
+    {
+      "date": "2009-01-31",
+      "rank": 112
+    },
+    {
+      "date": "2009-02-07",
+      "rank": 113
+    },
+    {
+      "date": "2009-02-14",
+      "rank": 121
+    },
+    {
+      "date": "2009-02-21",
+      "rank": 124
+    },
+    {
+      "date": "2009-02-28",
+      "rank": 141
+    },
+    {
+      "date": "2009-03-07",
+      "rank": 123
+    },
+    {
+      "date": "2009-03-14",
+      "rank": 146
+    },
+    {
+      "date": "2009-03-21",
+      "rank": 170
+    },
+    {
+      "date": "2009-03-28",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Trading Places",
+      "id": "trading-places-usher"
+    },
+    {
+      "title": "Moving Mountains",
+      "id": "moving-mountains-usher"
+    },
+    {
+      "title": "Forever Young",
+      "id": null
+    },
+    {
+      "title": "Love in This Club",
+      "id": null
+    },
+    {
+      "title": "This Ain’t Sex",
+      "id": null
+    },
+    {
+      "title": "What’s Your Name",
+      "id": null
+    },
+    {
+      "title": "Prayer for You (interlude)",
+      "id": null
+    },
+    {
+      "title": "Something Special",
+      "id": null
+    },
+    {
+      "title": "Love You Gently",
+      "id": null
+    },
+    {
+      "title": "Best Thing",
+      "id": null
+    },
+    {
+      "title": "Before I Met You",
+      "id": null
+    },
+    {
+      "title": "His Mistakes",
+      "id": null
+    },
+    {
+      "title": "Appetite",
+      "id": null
+    },
+    {
+      "title": "What’s a Man to Do",
+      "id": null
+    },
+    {
+      "title": "Revolver",
+      "id": null
+    },
+    {
+      "title": "Lifetime",
+      "id": null
+    },
+    {
+      "title": "Love in This Club, Part 2",
+      "id": null
+    },
+    {
+      "title": "Here I Stand",
+      "id": null
+    },
+    {
+      "title": "Will Work for Love",
+      "id": null
+    }
+  ]
+}

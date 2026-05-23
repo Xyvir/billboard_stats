@@ -1,1 +1,82 @@
-{"id": "here-it-is-freddie-jackson", "title": "Here It Is", "artist": "Freddie Jackson", "peak": 66, "history": [{"date": "1994-02-05", "rank": 66}, {"date": "1994-02-12", "rank": 66}, {"date": "1994-02-19", "rank": 80}, {"date": "1994-02-26", "rank": 106}, {"date": "1994-03-05", "rank": 122}, {"date": "1994-03-12", "rank": 144}, {"date": "1994-03-19", "rank": 162}, {"date": "1994-03-26", "rank": 199}]}
+{
+  "id": "here-it-is-freddie-jackson",
+  "title": "Here It Is",
+  "artist": "Freddie Jackson",
+  "peak": 66,
+  "history": [
+    {
+      "date": "1994-02-05",
+      "rank": 66
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 66
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 80
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 106
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 122
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 144
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 162
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Love",
+      "id": "tasty-love-freddie-jackson"
+    },
+    {
+      "title": "Was It Something",
+      "id": null
+    },
+    {
+      "title": "Come Home II U",
+      "id": null
+    },
+    {
+      "title": "Here It Is",
+      "id": null
+    },
+    {
+      "title": "How Does It Feel",
+      "id": null
+    },
+    {
+      "title": "Giving My Love to You",
+      "id": null
+    },
+    {
+      "title": "Paradise",
+      "id": null
+    },
+    {
+      "title": "Make Love Easy",
+      "id": null
+    },
+    {
+      "title": "Addictive 2 Touch",
+      "id": null
+    },
+    {
+      "title": "My Family",
+      "id": null
+    }
+  ]
+}
