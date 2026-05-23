@@ -1,1 +1,250 @@
-{"id": "keep-the-faith-faith-evans", "title": "Keep The Faith", "artist": "Faith Evans", "peak": 6, "history": [{"date": "1998-11-14", "rank": 6}, {"date": "1998-11-21", "rank": 24}, {"date": "1998-11-28", "rank": 40}, {"date": "1998-12-05", "rank": 62}, {"date": "1998-12-12", "rank": 98}, {"date": "1998-12-19", "rank": 118}, {"date": "1998-12-26", "rank": 130}, {"date": "1999-01-02", "rank": 138}, {"date": "1999-01-09", "rank": 118}, {"date": "1999-01-16", "rank": 109}, {"date": "1999-01-23", "rank": 100}, {"date": "1999-01-30", "rank": 95}, {"date": "1999-02-06", "rank": 94}, {"date": "1999-02-13", "rank": 82}, {"date": "1999-02-20", "rank": 74}, {"date": "1999-02-27", "rank": 84}, {"date": "1999-03-06", "rank": 74}, {"date": "1999-03-13", "rank": 84}, {"date": "1999-03-20", "rank": 86}, {"date": "1999-03-27", "rank": 93}, {"date": "1999-04-03", "rank": 101}, {"date": "1999-04-10", "rank": 120}, {"date": "1999-04-17", "rank": 136}, {"date": "1999-04-24", "rank": 133}, {"date": "1999-05-01", "rank": 150}, {"date": "1999-05-08", "rank": 158}, {"date": "1999-05-15", "rank": 150}, {"date": "1999-05-22", "rank": 156}, {"date": "1999-05-29", "rank": 143}, {"date": "1999-06-05", "rank": 146}, {"date": "1999-06-12", "rank": 141}, {"date": "1999-06-19", "rank": 139}, {"date": "1999-06-26", "rank": 150}, {"date": "1999-07-03", "rank": 153}, {"date": "1999-07-10", "rank": 162}, {"date": "1999-07-17", "rank": 161}, {"date": "1999-07-24", "rank": 171}, {"date": "1999-07-31", "rank": 172}, {"date": "1999-08-07", "rank": 149}, {"date": "1999-08-14", "rank": 140}, {"date": "1999-08-21", "rank": 147}, {"date": "1999-08-28", "rank": 153}, {"date": "1999-09-04", "rank": 167}, {"date": "1999-09-18", "rank": 198}, {"date": "1999-10-02", "rank": 189}]}
+{
+  "id": "keep-the-faith-faith-evans",
+  "title": "Keep The Faith",
+  "artist": "Faith Evans",
+  "peak": 6,
+  "history": [
+    {
+      "date": "1998-11-14",
+      "rank": 6
+    },
+    {
+      "date": "1998-11-21",
+      "rank": 24
+    },
+    {
+      "date": "1998-11-28",
+      "rank": 40
+    },
+    {
+      "date": "1998-12-05",
+      "rank": 62
+    },
+    {
+      "date": "1998-12-12",
+      "rank": 98
+    },
+    {
+      "date": "1998-12-19",
+      "rank": 118
+    },
+    {
+      "date": "1998-12-26",
+      "rank": 130
+    },
+    {
+      "date": "1999-01-02",
+      "rank": 138
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 118
+    },
+    {
+      "date": "1999-01-16",
+      "rank": 109
+    },
+    {
+      "date": "1999-01-23",
+      "rank": 100
+    },
+    {
+      "date": "1999-01-30",
+      "rank": 95
+    },
+    {
+      "date": "1999-02-06",
+      "rank": 94
+    },
+    {
+      "date": "1999-02-13",
+      "rank": 82
+    },
+    {
+      "date": "1999-02-20",
+      "rank": 74
+    },
+    {
+      "date": "1999-02-27",
+      "rank": 84
+    },
+    {
+      "date": "1999-03-06",
+      "rank": 74
+    },
+    {
+      "date": "1999-03-13",
+      "rank": 84
+    },
+    {
+      "date": "1999-03-20",
+      "rank": 86
+    },
+    {
+      "date": "1999-03-27",
+      "rank": 93
+    },
+    {
+      "date": "1999-04-03",
+      "rank": 101
+    },
+    {
+      "date": "1999-04-10",
+      "rank": 120
+    },
+    {
+      "date": "1999-04-17",
+      "rank": 136
+    },
+    {
+      "date": "1999-04-24",
+      "rank": 133
+    },
+    {
+      "date": "1999-05-01",
+      "rank": 150
+    },
+    {
+      "date": "1999-05-08",
+      "rank": 158
+    },
+    {
+      "date": "1999-05-15",
+      "rank": 150
+    },
+    {
+      "date": "1999-05-22",
+      "rank": 156
+    },
+    {
+      "date": "1999-05-29",
+      "rank": 143
+    },
+    {
+      "date": "1999-06-05",
+      "rank": 146
+    },
+    {
+      "date": "1999-06-12",
+      "rank": 141
+    },
+    {
+      "date": "1999-06-19",
+      "rank": 139
+    },
+    {
+      "date": "1999-06-26",
+      "rank": 150
+    },
+    {
+      "date": "1999-07-03",
+      "rank": 153
+    },
+    {
+      "date": "1999-07-10",
+      "rank": 162
+    },
+    {
+      "date": "1999-07-17",
+      "rank": 161
+    },
+    {
+      "date": "1999-07-24",
+      "rank": 171
+    },
+    {
+      "date": "1999-07-31",
+      "rank": 172
+    },
+    {
+      "date": "1999-08-07",
+      "rank": 149
+    },
+    {
+      "date": "1999-08-14",
+      "rank": 140
+    },
+    {
+      "date": "1999-08-21",
+      "rank": 147
+    },
+    {
+      "date": "1999-08-28",
+      "rank": 153
+    },
+    {
+      "date": "1999-09-04",
+      "rank": 167
+    },
+    {
+      "date": "1999-09-18",
+      "rank": 198
+    },
+    {
+      "date": "1999-10-02",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Like This",
+      "id": "love-like-this-faith-evans"
+    },
+    {
+      "title": "Never Gonna Let You Go",
+      "id": "never-gonna-let-you-go-faith-evans"
+    },
+    {
+      "title": "Faith (intro)",
+      "id": null
+    },
+    {
+      "title": "All Night Long",
+      "id": null
+    },
+    {
+      "title": "Sunny Days",
+      "id": null
+    },
+    {
+      "title": "Tears Away (interlude)",
+      "id": null
+    },
+    {
+      "title": "My First Love",
+      "id": null
+    },
+    {
+      "title": "Anything You Need",
+      "id": null
+    },
+    {
+      "title": "No Way",
+      "id": null
+    },
+    {
+      "title": "Life Will Pass You By",
+      "id": null
+    },
+    {
+      "title": "Keep the Faith",
+      "id": null
+    },
+    {
+      "title": "Special Place (interlude)",
+      "id": null
+    },
+    {
+      "title": "Stay (interlude)",
+      "id": null
+    },
+    {
+      "title": "Caramel Kisses",
+      "id": null
+    },
+    {
+      "title": "Lately I",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,242 @@
-{"id": "keep-the-faith-bon-jovi", "title": "Keep The Faith", "artist": "Bon Jovi", "peak": 5, "history": [{"date": "1992-11-21", "rank": 5}, {"date": "1992-11-28", "rank": 7}, {"date": "1992-12-05", "rank": 13}, {"date": "1992-12-12", "rank": 20}, {"date": "1992-12-19", "rank": 25}, {"date": "1992-12-26", "rank": 40}, {"date": "1993-01-02", "rank": 41}, {"date": "1993-01-09", "rank": 52}, {"date": "1993-01-16", "rank": 44}, {"date": "1993-01-23", "rank": 36}, {"date": "1993-01-30", "rank": 32}, {"date": "1993-02-06", "rank": 31}, {"date": "1993-02-13", "rank": 27}, {"date": "1993-02-20", "rank": 22}, {"date": "1993-02-27", "rank": 27}, {"date": "1993-03-06", "rank": 29}, {"date": "1993-03-13", "rank": 31}, {"date": "1993-03-20", "rank": 31}, {"date": "1993-03-27", "rank": 34}, {"date": "1993-04-03", "rank": 32}, {"date": "1993-04-10", "rank": 33}, {"date": "1993-04-17", "rank": 38}, {"date": "1993-04-24", "rank": 36}, {"date": "1993-05-01", "rank": 42}, {"date": "1993-05-08", "rank": 47}, {"date": "1993-05-15", "rank": 49}, {"date": "1993-05-22", "rank": 54}, {"date": "1993-05-29", "rank": 58}, {"date": "1993-06-05", "rank": 59}, {"date": "1993-06-12", "rank": 59}, {"date": "1993-06-19", "rank": 66}, {"date": "1993-06-26", "rank": 67}, {"date": "1993-07-03", "rank": 81}, {"date": "1993-07-10", "rank": 80}, {"date": "1993-07-17", "rank": 93}, {"date": "1993-07-24", "rank": 100}, {"date": "1993-07-31", "rank": 110}, {"date": "1993-08-07", "rank": 117}, {"date": "1993-08-14", "rank": 117}, {"date": "1993-08-21", "rank": 134}, {"date": "1993-08-28", "rank": 146}, {"date": "1993-09-04", "rank": 155}, {"date": "1993-09-11", "rank": 171}, {"date": "1993-09-18", "rank": 191}, {"date": "1993-09-25", "rank": 185}, {"date": "1993-10-02", "rank": 192}]}
+{
+  "id": "keep-the-faith-bon-jovi",
+  "title": "Keep The Faith",
+  "artist": "Bon Jovi",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1992-11-21",
+      "rank": 5
+    },
+    {
+      "date": "1992-11-28",
+      "rank": 7
+    },
+    {
+      "date": "1992-12-05",
+      "rank": 13
+    },
+    {
+      "date": "1992-12-12",
+      "rank": 20
+    },
+    {
+      "date": "1992-12-19",
+      "rank": 25
+    },
+    {
+      "date": "1992-12-26",
+      "rank": 40
+    },
+    {
+      "date": "1993-01-02",
+      "rank": 41
+    },
+    {
+      "date": "1993-01-09",
+      "rank": 52
+    },
+    {
+      "date": "1993-01-16",
+      "rank": 44
+    },
+    {
+      "date": "1993-01-23",
+      "rank": 36
+    },
+    {
+      "date": "1993-01-30",
+      "rank": 32
+    },
+    {
+      "date": "1993-02-06",
+      "rank": 31
+    },
+    {
+      "date": "1993-02-13",
+      "rank": 27
+    },
+    {
+      "date": "1993-02-20",
+      "rank": 22
+    },
+    {
+      "date": "1993-02-27",
+      "rank": 27
+    },
+    {
+      "date": "1993-03-06",
+      "rank": 29
+    },
+    {
+      "date": "1993-03-13",
+      "rank": 31
+    },
+    {
+      "date": "1993-03-20",
+      "rank": 31
+    },
+    {
+      "date": "1993-03-27",
+      "rank": 34
+    },
+    {
+      "date": "1993-04-03",
+      "rank": 32
+    },
+    {
+      "date": "1993-04-10",
+      "rank": 33
+    },
+    {
+      "date": "1993-04-17",
+      "rank": 38
+    },
+    {
+      "date": "1993-04-24",
+      "rank": 36
+    },
+    {
+      "date": "1993-05-01",
+      "rank": 42
+    },
+    {
+      "date": "1993-05-08",
+      "rank": 47
+    },
+    {
+      "date": "1993-05-15",
+      "rank": 49
+    },
+    {
+      "date": "1993-05-22",
+      "rank": 54
+    },
+    {
+      "date": "1993-05-29",
+      "rank": 58
+    },
+    {
+      "date": "1993-06-05",
+      "rank": 59
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 59
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 66
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 67
+    },
+    {
+      "date": "1993-07-03",
+      "rank": 81
+    },
+    {
+      "date": "1993-07-10",
+      "rank": 80
+    },
+    {
+      "date": "1993-07-17",
+      "rank": 93
+    },
+    {
+      "date": "1993-07-24",
+      "rank": 100
+    },
+    {
+      "date": "1993-07-31",
+      "rank": 110
+    },
+    {
+      "date": "1993-08-07",
+      "rank": 117
+    },
+    {
+      "date": "1993-08-14",
+      "rank": 117
+    },
+    {
+      "date": "1993-08-21",
+      "rank": 134
+    },
+    {
+      "date": "1993-08-28",
+      "rank": 146
+    },
+    {
+      "date": "1993-09-04",
+      "rank": 155
+    },
+    {
+      "date": "1993-09-11",
+      "rank": 171
+    },
+    {
+      "date": "1993-09-18",
+      "rank": 191
+    },
+    {
+      "date": "1993-09-25",
+      "rank": 185
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Keep the Faith",
+      "id": "keep-the-faith-bon-jovi"
+    },
+    {
+      "title": "I’ll Sleep When I’m Dead",
+      "id": "i-ll-sleep-when-i-m-dead-bon-jovi"
+    },
+    {
+      "title": "In These Arms",
+      "id": "in-these-arms-bon-jovi"
+    },
+    {
+      "title": "Bed of Roses",
+      "id": "bed-of-roses-bon-jovi"
+    },
+    {
+      "title": "I Believe",
+      "id": null
+    },
+    {
+      "title": "If I Was Your Mother",
+      "id": null
+    },
+    {
+      "title": "Dry County",
+      "id": null
+    },
+    {
+      "title": "Woman in Love",
+      "id": null
+    },
+    {
+      "title": "Fear",
+      "id": null
+    },
+    {
+      "title": "I Want You",
+      "id": null
+    },
+    {
+      "title": "Blame It on the Love of Rock & Roll",
+      "id": null
+    },
+    {
+      "title": "Little Bit of Soul",
+      "id": null
+    }
+  ]
+}

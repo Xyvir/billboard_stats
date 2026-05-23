@@ -1,1 +1,98 @@
-{"id": "keep-moving-madness", "title": "Keep Moving", "artist": "Madness", "peak": 109, "history": [{"date": "1984-03-17", "rank": 123}, {"date": "1984-03-24", "rank": 117}, {"date": "1984-03-31", "rank": 113}, {"date": "1984-04-07", "rank": 110}, {"date": "1984-04-14", "rank": 109}, {"date": "1984-04-21", "rank": 113}, {"date": "1984-04-28", "rank": 157}, {"date": "1984-05-05", "rank": 181}]}
+{
+  "id": "keep-moving-madness",
+  "title": "Keep Moving",
+  "artist": "Madness",
+  "peak": 109,
+  "history": [
+    {
+      "date": "1984-03-17",
+      "rank": 123
+    },
+    {
+      "date": "1984-03-24",
+      "rank": 117
+    },
+    {
+      "date": "1984-03-31",
+      "rank": 113
+    },
+    {
+      "date": "1984-04-07",
+      "rank": 110
+    },
+    {
+      "date": "1984-04-14",
+      "rank": 109
+    },
+    {
+      "date": "1984-04-21",
+      "rank": 113
+    },
+    {
+      "date": "1984-04-28",
+      "rank": 157
+    },
+    {
+      "date": "1984-05-05",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Sun and the Rain",
+      "id": "the-sun-and-the-rain-madness"
+    },
+    {
+      "title": "Keep Moving",
+      "id": null
+    },
+    {
+      "title": "Wings of a Dove (A Celebratory Song)",
+      "id": null
+    },
+    {
+      "title": "Brand New Beat",
+      "id": null
+    },
+    {
+      "title": "March of the Gherkins",
+      "id": null
+    },
+    {
+      "title": "Michael Caine",
+      "id": null
+    },
+    {
+      "title": "Prospects",
+      "id": null
+    },
+    {
+      "title": "Victoria Gardens",
+      "id": null
+    },
+    {
+      "title": "Samantha",
+      "id": null
+    },
+    {
+      "title": "One Better Day",
+      "id": null
+    },
+    {
+      "title": "Give Me a Reason",
+      "id": null
+    },
+    {
+      "title": "Turning Blue",
+      "id": null
+    },
+    {
+      "title": "Time for Tea",
+      "id": null
+    },
+    {
+      "title": "Waltz Into Mischief",
+      "id": null
+    }
+  ]
+}
