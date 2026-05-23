@@ -1,1 +1,62 @@
-{"id": "ghost-town-poco", "title": "Ghost Town", "artist": "Poco", "peak": 195, "history": [{"date": "1982-12-04", "rank": 195}, {"date": "1982-12-11", "rank": 195}, {"date": "1982-12-18", "rank": 196}]}
+{
+  "id": "ghost-town-poco",
+  "title": "Ghost Town",
+  "artist": "Poco",
+  "peak": 195,
+  "history": [
+    {
+      "date": "1982-12-04",
+      "rank": 195
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 195
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shoot for the Moon",
+      "id": "shoot-for-the-moon-poco"
+    },
+    {
+      "title": "Ghost Town",
+      "id": null
+    },
+    {
+      "title": "How Will You Feel Tonight",
+      "id": null
+    },
+    {
+      "title": "The Midnight Rodeo (in the Lead Tonight)",
+      "id": null
+    },
+    {
+      "title": "Cry No More",
+      "id": null
+    },
+    {
+      "title": "Break of Hearts",
+      "id": null
+    },
+    {
+      "title": "Love's So Cruel",
+      "id": null
+    },
+    {
+      "title": "Special Care",
+      "id": null
+    },
+    {
+      "title": "When Hearts Collide",
+      "id": null
+    },
+    {
+      "title": "High Sierra",
+      "id": null
+    }
+  ]
+}

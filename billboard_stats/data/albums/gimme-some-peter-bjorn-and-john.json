@@ -1,1 +1,58 @@
-{"id": "gimme-some-peter-bjorn-and-john", "title": "Gimme Some", "artist": "Peter Bjorn And John", "peak": 109, "history": [{"date": "2011-04-16", "rank": 109}]}
+{
+  "id": "gimme-some-peter-bjorn-and-john",
+  "title": "Gimme Some",
+  "artist": "Peter Bjorn And John",
+  "peak": 109,
+  "history": [
+    {
+      "date": "2011-04-16",
+      "rank": 109
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tomorrow Has to Wait",
+      "id": null
+    },
+    {
+      "title": "Dig a Little Deeper",
+      "id": null
+    },
+    {
+      "title": "Second Chance",
+      "id": null
+    },
+    {
+      "title": "Eyes",
+      "id": null
+    },
+    {
+      "title": "Breaker Breaker",
+      "id": null
+    },
+    {
+      "title": "May Seem Macabre",
+      "id": null
+    },
+    {
+      "title": "(Don’t Let Them) Cool Off",
+      "id": null
+    },
+    {
+      "title": "Black Book",
+      "id": null
+    },
+    {
+      "title": "Down Like Me",
+      "id": null
+    },
+    {
+      "title": "Lies",
+      "id": null
+    },
+    {
+      "title": "I Know You Don’t Love Me",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,110 @@
-{"id": "gimme-back-my-bullets-lynyrd-skynyrd", "title": "Gimme Back My Bullets", "artist": "Lynyrd Skynyrd", "peak": 20, "history": [{"date": "1976-02-21", "rank": 104}, {"date": "1976-02-28", "rank": 72}, {"date": "1976-03-06", "rank": 51}, {"date": "1976-03-13", "rank": 37}, {"date": "1976-03-20", "rank": 23}, {"date": "1976-03-27", "rank": 20}, {"date": "1976-04-03", "rank": 20}, {"date": "1976-04-10", "rank": 38}, {"date": "1976-04-17", "rank": 43}, {"date": "1976-04-24", "rank": 53}, {"date": "1976-05-01", "rank": 57}, {"date": "1976-05-08", "rank": 78}, {"date": "1976-05-15", "rank": 79}, {"date": "1976-05-22", "rank": 107}, {"date": "1976-05-29", "rank": 159}, {"date": "1976-06-05", "rank": 159}]}
+{
+  "id": "gimme-back-my-bullets-lynyrd-skynyrd",
+  "title": "Gimme Back My Bullets",
+  "artist": "Lynyrd Skynyrd",
+  "peak": 20,
+  "history": [
+    {
+      "date": "1976-02-21",
+      "rank": 104
+    },
+    {
+      "date": "1976-02-28",
+      "rank": 72
+    },
+    {
+      "date": "1976-03-06",
+      "rank": 51
+    },
+    {
+      "date": "1976-03-13",
+      "rank": 37
+    },
+    {
+      "date": "1976-03-20",
+      "rank": 23
+    },
+    {
+      "date": "1976-03-27",
+      "rank": 20
+    },
+    {
+      "date": "1976-04-03",
+      "rank": 20
+    },
+    {
+      "date": "1976-04-10",
+      "rank": 38
+    },
+    {
+      "date": "1976-04-17",
+      "rank": 43
+    },
+    {
+      "date": "1976-04-24",
+      "rank": 53
+    },
+    {
+      "date": "1976-05-01",
+      "rank": 57
+    },
+    {
+      "date": "1976-05-08",
+      "rank": 78
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 79
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 107
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 159
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Double Trouble",
+      "id": "double-trouble-lynyrd-skynyrd"
+    },
+    {
+      "title": "Gimme Back My Bullets",
+      "id": null
+    },
+    {
+      "title": "Every Mother’s Son",
+      "id": null
+    },
+    {
+      "title": "Trust",
+      "id": null
+    },
+    {
+      "title": "I Got the Same Old Blues",
+      "id": null
+    },
+    {
+      "title": "Roll Gypsy Roll",
+      "id": null
+    },
+    {
+      "title": "Searching",
+      "id": null
+    },
+    {
+      "title": "Cry for the Bad Man",
+      "id": null
+    },
+    {
+      "title": "All I Can Do Is Write About It",
+      "id": null
+    }
+  ]
+}
