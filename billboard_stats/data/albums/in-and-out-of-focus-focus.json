@@ -1,1 +1,78 @@
-{"id": "in-and-out-of-focus-focus", "title": "In And Out Of Focus", "artist": "Focus", "peak": 104, "history": [{"date": "1973-06-30", "rank": 169}, {"date": "1973-07-07", "rank": 141}, {"date": "1973-07-14", "rank": 123}, {"date": "1973-07-21", "rank": 113}, {"date": "1973-07-28", "rank": 111}, {"date": "1973-08-04", "rank": 104}, {"date": "1973-08-11", "rank": 125}, {"date": "1973-08-18", "rank": 155}, {"date": "1973-08-25", "rank": 168}]}
+{
+  "id": "in-and-out-of-focus-focus",
+  "title": "In And Out Of Focus",
+  "artist": "Focus",
+  "peak": 104,
+  "history": [
+    {
+      "date": "1973-06-30",
+      "rank": 169
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 141
+    },
+    {
+      "date": "1973-07-14",
+      "rank": 123
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 113
+    },
+    {
+      "date": "1973-07-28",
+      "rank": 111
+    },
+    {
+      "date": "1973-08-04",
+      "rank": 104
+    },
+    {
+      "date": "1973-08-11",
+      "rank": 125
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 155
+    },
+    {
+      "date": "1973-08-25",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Focus (vocal)",
+      "id": "hocus-pocus-focus"
+    },
+    {
+      "title": "Black Beauty",
+      "id": null
+    },
+    {
+      "title": "Sugar Island",
+      "id": null
+    },
+    {
+      "title": "Anonymus",
+      "id": null
+    },
+    {
+      "title": "House of the King",
+      "id": null
+    },
+    {
+      "title": "Happy Nightmare (Mescaline)",
+      "id": null
+    },
+    {
+      "title": "Why Dream",
+      "id": null
+    },
+    {
+      "title": "Focus (instrumental)",
+      "id": null
+    }
+  ]
+}

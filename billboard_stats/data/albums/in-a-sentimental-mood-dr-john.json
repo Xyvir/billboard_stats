@@ -1,1 +1,90 @@
-{"id": "in-a-sentimental-mood-dr-john", "title": "In A Sentimental Mood", "artist": "Dr. John", "peak": 142, "history": [{"date": "1989-05-27", "rank": 196}, {"date": "1989-06-03", "rank": 184}, {"date": "1989-06-10", "rank": 182}, {"date": "1989-06-17", "rank": 177}, {"date": "1989-06-24", "rank": 154}, {"date": "1989-07-01", "rank": 153}, {"date": "1989-07-08", "rank": 142}, {"date": "1989-07-15", "rank": 142}, {"date": "1989-07-22", "rank": 165}, {"date": "1989-07-29", "rank": 158}, {"date": "1989-08-05", "rank": 187}]}
+{
+  "id": "in-a-sentimental-mood-dr-john",
+  "title": "In A Sentimental Mood",
+  "artist": "Dr. John",
+  "peak": 142,
+  "history": [
+    {
+      "date": "1989-05-27",
+      "rank": 196
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 184
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 182
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 177
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 154
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 153
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 142
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 142
+    },
+    {
+      "date": "1989-07-22",
+      "rank": 165
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 158
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Black Night",
+      "id": "such-a-night-dr-john"
+    },
+    {
+      "title": "Makin’ Whoopee!",
+      "id": null
+    },
+    {
+      "title": "Candy",
+      "id": null
+    },
+    {
+      "title": "Accentuate the Positive",
+      "id": null
+    },
+    {
+      "title": "My Buddy",
+      "id": null
+    },
+    {
+      "title": "In a Sentimental Mood",
+      "id": null
+    },
+    {
+      "title": "Don’t Let the Sun Catch You Cryin’",
+      "id": null
+    },
+    {
+      "title": "Love for Sale",
+      "id": null
+    },
+    {
+      "title": "More Than You Know",
+      "id": null
+    }
+  ]
+}
