@@ -1,1 +1,62 @@
-{"id": "heavy-traffic-traffic", "title": "Heavy Traffic", "artist": "Traffic", "peak": 155, "history": [{"date": "1975-05-03", "rank": 172}, {"date": "1975-05-10", "rank": 161}, {"date": "1975-05-17", "rank": 155}]}
+{
+  "id": "heavy-traffic-traffic",
+  "title": "Heavy Traffic",
+  "artist": "Traffic",
+  "peak": 155,
+  "history": [
+    {
+      "date": "1975-05-03",
+      "rank": 172
+    },
+    {
+      "date": "1975-05-10",
+      "rank": 161
+    },
+    {
+      "date": "1975-05-17",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Empty Pages",
+      "id": "empty-pages-traffic"
+    },
+    {
+      "title": "Dear Mr. Fantasy",
+      "id": null
+    },
+    {
+      "title": "Forty Thousand Headmen",
+      "id": null
+    },
+    {
+      "title": "Smiling Phases",
+      "id": null
+    },
+    {
+      "title": "Shanghai Noodle Factory",
+      "id": null
+    },
+    {
+      "title": "Paper Sun",
+      "id": null
+    },
+    {
+      "title": "Feelin’ Alright?",
+      "id": null
+    },
+    {
+      "title": "Heaven Is in Your Mind",
+      "id": null
+    },
+    {
+      "title": "Medicated Goo",
+      "id": null
+    },
+    {
+      "title": "Coloured Rain",
+      "id": null
+    }
+  ]
+}

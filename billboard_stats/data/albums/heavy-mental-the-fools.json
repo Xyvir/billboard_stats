@@ -1,1 +1,70 @@
-{"id": "heavy-mental-the-fools", "title": "Heavy Mental", "artist": "The Fools", "peak": 158, "history": [{"date": "1981-03-28", "rank": 170}, {"date": "1981-04-04", "rank": 160}, {"date": "1981-04-11", "rank": 158}, {"date": "1981-04-18", "rank": 199}]}
+{
+  "id": "heavy-mental-the-fools",
+  "title": "Heavy Mental",
+  "artist": "The Fools",
+  "peak": 158,
+  "history": [
+    {
+      "date": "1981-03-28",
+      "rank": 170
+    },
+    {
+      "date": "1981-04-04",
+      "rank": 160
+    },
+    {
+      "date": "1981-04-11",
+      "rank": 158
+    },
+    {
+      "date": "1981-04-18",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Running Scared",
+      "id": "running-scared-the-fools"
+    },
+    {
+      "title": "Mind Control",
+      "id": null
+    },
+    {
+      "title": "Dressed in White",
+      "id": null
+    },
+    {
+      "title": "Around the Block",
+      "id": null
+    },
+    {
+      "title": "Local Talent",
+      "id": null
+    },
+    {
+      "title": "Lost Number",
+      "id": null
+    },
+    {
+      "title": "What I Tell Myself",
+      "id": null
+    },
+    {
+      "title": "Last Cadillac on Earth",
+      "id": null
+    },
+    {
+      "title": "Coming Home With Me",
+      "id": null
+    },
+    {
+      "title": "Tell Me You Love Me",
+      "id": null
+    },
+    {
+      "title": "Alibi",
+      "id": null
+    }
+  ]
+}

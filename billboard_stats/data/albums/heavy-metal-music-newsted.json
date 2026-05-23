@@ -1,1 +1,62 @@
-{"id": "heavy-metal-music-newsted", "title": "Heavy Metal Music", "artist": "Newsted", "peak": 40, "history": [{"date": "2013-08-24", "rank": 40}, {"date": "2013-08-31", "rank": 121}]}
+{
+  "id": "heavy-metal-music-newsted",
+  "title": "Heavy Metal Music",
+  "artist": "Newsted",
+  "peak": 40,
+  "history": [
+    {
+      "date": "2013-08-24",
+      "rank": 40
+    },
+    {
+      "date": "2013-08-31",
+      "rank": 121
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heroic Dose",
+      "id": null
+    },
+    {
+      "title": "Soldierhead",
+      "id": null
+    },
+    {
+      "title": "…as the Crow Flies",
+      "id": null
+    },
+    {
+      "title": "Ampossible",
+      "id": null
+    },
+    {
+      "title": "Long Time Dead",
+      "id": null
+    },
+    {
+      "title": "Above All",
+      "id": null
+    },
+    {
+      "title": "King of the Underdogs",
+      "id": null
+    },
+    {
+      "title": "Nocturnus",
+      "id": null
+    },
+    {
+      "title": "Twisted Tail of the Comet",
+      "id": null
+    },
+    {
+      "title": "Kindevillusion",
+      "id": null
+    },
+    {
+      "title": "Futureality",
+      "id": null
+    }
+  ]
+}
