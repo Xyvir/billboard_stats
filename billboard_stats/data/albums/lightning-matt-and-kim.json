@@ -1,1 +1,62 @@
-{"id": "lightning-matt-and-kim", "title": "Lightning", "artist": "Matt And Kim", "peak": 50, "history": [{"date": "2012-10-20", "rank": 50}, {"date": "2012-10-27", "rank": 149}, {"date": "2012-11-03", "rank": 200}]}
+{
+  "id": "lightning-matt-and-kim",
+  "title": "Lightning",
+  "artist": "Matt And Kim",
+  "peak": 50,
+  "history": [
+    {
+      "date": "2012-10-20",
+      "rank": 50
+    },
+    {
+      "date": "2012-10-27",
+      "rank": 149
+    },
+    {
+      "date": "2012-11-03",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s Alright",
+      "id": "daylight-matt-and-kim"
+    },
+    {
+      "title": "Let’s Go",
+      "id": null
+    },
+    {
+      "title": "Now",
+      "id": null
+    },
+    {
+      "title": "Not That Bad",
+      "id": null
+    },
+    {
+      "title": "Overexposed",
+      "id": null
+    },
+    {
+      "title": "I Said",
+      "id": null
+    },
+    {
+      "title": "Tonight",
+      "id": null
+    },
+    {
+      "title": "I Wonder",
+      "id": null
+    },
+    {
+      "title": "Much Too Late",
+      "id": null
+    },
+    {
+      "title": "Ten Dollars I Found",
+      "id": null
+    }
+  ]
+}
