@@ -1,1 +1,82 @@
-{"id": "marvin-gaye-s-greatest-hits-marvin-gaye", "title": "Marvin Gaye's Greatest Hits", "artist": "Marvin Gaye", "peak": 44, "history": [{"date": "1976-10-02", "rank": 94}, {"date": "1976-10-09", "rank": 84}, {"date": "1976-10-16", "rank": 58}, {"date": "1976-10-23", "rank": 47}, {"date": "1976-10-30", "rank": 44}, {"date": "1976-11-06", "rank": 44}, {"date": "1976-11-13", "rank": 113}, {"date": "1976-11-20", "rank": 173}]}
+{
+  "id": "marvin-gaye-s-greatest-hits-marvin-gaye",
+  "title": "Marvin Gaye's Greatest Hits",
+  "artist": "Marvin Gaye",
+  "peak": 44,
+  "history": [
+    {
+      "date": "1976-10-02",
+      "rank": 94
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 84
+    },
+    {
+      "date": "1976-10-16",
+      "rank": 58
+    },
+    {
+      "date": "1976-10-23",
+      "rank": 47
+    },
+    {
+      "date": "1976-10-30",
+      "rank": 44
+    },
+    {
+      "date": "1976-11-06",
+      "rank": 44
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 113
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let’s Get It On",
+      "id": "let-s-get-it-on-marvin-gaye"
+    },
+    {
+      "title": "I Want You",
+      "id": "i-want-you-marvin-gaye"
+    },
+    {
+      "title": "How Sweet It Is (to Be Loved by You)",
+      "id": "how-sweet-it-is-to-be-loved-by-you-marvin-gaye"
+    },
+    {
+      "title": "I Heard It Through the Grapevine",
+      "id": "i-heard-it-through-the-grapevine-marvin-gaye"
+    },
+    {
+      "title": "Mercy Mercy Me (The Ecology)",
+      "id": "mercy-mercy-me-the-ecology-marvin-gaye"
+    },
+    {
+      "title": "What’s Going On",
+      "id": "what-s-going-on-marvin-gaye"
+    },
+    {
+      "title": "After the Dance",
+      "id": "after-the-dance-marvin-gaye"
+    },
+    {
+      "title": "Can I Get a Witness",
+      "id": "can-i-get-a-witness-marvin-gaye"
+    },
+    {
+      "title": "Trouble Man",
+      "id": "trouble-man-marvin-gaye"
+    },
+    {
+      "title": "Distant Lover (live)",
+      "id": "distant-lover-marvin-gaye"
+    }
+  ]
+}
