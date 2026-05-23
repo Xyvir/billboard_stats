@@ -1,1 +1,102 @@
-{"id": "marilyn-martin-marilyn-martin", "title": "Marilyn Martin", "artist": "Marilyn Martin", "peak": 72, "history": [{"date": "1986-02-22", "rank": 128}, {"date": "1986-03-01", "rank": 101}, {"date": "1986-03-08", "rank": 83}, {"date": "1986-03-15", "rank": 75}, {"date": "1986-03-22", "rank": 72}, {"date": "1986-03-29", "rank": 72}, {"date": "1986-04-05", "rank": 98}, {"date": "1986-04-12", "rank": 112}, {"date": "1986-04-19", "rank": 128}, {"date": "1986-04-26", "rank": 167}, {"date": "1986-05-03", "rank": 186}]}
+{
+  "id": "marilyn-martin-marilyn-martin",
+  "title": "Marilyn Martin",
+  "artist": "Marilyn Martin",
+  "peak": 72,
+  "history": [
+    {
+      "date": "1986-02-22",
+      "rank": 128
+    },
+    {
+      "date": "1986-03-01",
+      "rank": 101
+    },
+    {
+      "date": "1986-03-08",
+      "rank": 83
+    },
+    {
+      "date": "1986-03-15",
+      "rank": 75
+    },
+    {
+      "date": "1986-03-22",
+      "rank": 72
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 72
+    },
+    {
+      "date": "1986-04-05",
+      "rank": 98
+    },
+    {
+      "date": "1986-04-12",
+      "rank": 112
+    },
+    {
+      "date": "1986-04-19",
+      "rank": 128
+    },
+    {
+      "date": "1986-04-26",
+      "rank": 167
+    },
+    {
+      "date": "1986-05-03",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Night Moves",
+      "id": "night-moves-marilyn-martin"
+    },
+    {
+      "title": "Separate Lives",
+      "id": "separate-lives-phil-collins-and-marilyn-martin"
+    },
+    {
+      "title": "Body and the Beat",
+      "id": null
+    },
+    {
+      "title": "Too Much Too Soon",
+      "id": null
+    },
+    {
+      "title": "Turn It On",
+      "id": null
+    },
+    {
+      "title": "Thank You",
+      "id": null
+    },
+    {
+      "title": "One Step Closer",
+      "id": null
+    },
+    {
+      "title": "Beauty or the Beast",
+      "id": null
+    },
+    {
+      "title": "Move Closer",
+      "id": null
+    },
+    {
+      "title": "The Dream Is Always the Same",
+      "id": null
+    },
+    {
+      "title": "Here Is the News",
+      "id": null
+    },
+    {
+      "title": "Wildest Dreams",
+      "id": null
+    }
+  ]
+}

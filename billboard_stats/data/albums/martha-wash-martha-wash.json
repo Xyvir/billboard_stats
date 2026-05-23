@@ -1,1 +1,74 @@
-{"id": "martha-wash-martha-wash", "title": "Martha Wash", "artist": "Martha Wash", "peak": 169, "history": [{"date": "1993-03-13", "rank": 169}, {"date": "1993-03-20", "rank": 184}]}
+{
+  "id": "martha-wash-martha-wash",
+  "title": "Martha Wash",
+  "artist": "Martha Wash",
+  "peak": 169,
+  "history": [
+    {
+      "date": "1993-03-13",
+      "rank": 169
+    },
+    {
+      "date": "1993-03-20",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Give It to You",
+      "id": "give-it-to-you-martha-wash"
+    },
+    {
+      "title": "Someone Who Believes in You (Prelude)",
+      "id": null
+    },
+    {
+      "title": "So Whatcha Gonna Do",
+      "id": null
+    },
+    {
+      "title": "Runaround",
+      "id": null
+    },
+    {
+      "title": "Now That You're Gone",
+      "id": null
+    },
+    {
+      "title": "Things We Do for Love",
+      "id": null
+    },
+    {
+      "title": "Just Us (Dancin')",
+      "id": null
+    },
+    {
+      "title": "Leave a Light On",
+      "id": null
+    },
+    {
+      "title": "Carry On",
+      "id": null
+    },
+    {
+      "title": "Someone Who Believes in You",
+      "id": null
+    },
+    {
+      "title": "Hold On, Part I",
+      "id": null
+    },
+    {
+      "title": "Hold On, Part II",
+      "id": null
+    },
+    {
+      "title": "When It's My Heart",
+      "id": null
+    },
+    {
+      "title": "Just Us (Singin')",
+      "id": null
+    }
+  ]
+}

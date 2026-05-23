@@ -1,1 +1,74 @@
-{"id": "mark-mcguinn-mark-mcguinn", "title": "Mark McGuinn", "artist": "Mark McGuinn", "peak": 117, "history": [{"date": "2001-05-26", "rank": 117}, {"date": "2001-06-02", "rank": 143}, {"date": "2001-06-09", "rank": 180}, {"date": "2001-06-16", "rank": 189}]}
+{
+  "id": "mark-mcguinn-mark-mcguinn",
+  "title": "Mark McGuinn",
+  "artist": "Mark McGuinn",
+  "peak": 117,
+  "history": [
+    {
+      "date": "2001-05-26",
+      "rank": 117
+    },
+    {
+      "date": "2001-06-02",
+      "rank": 143
+    },
+    {
+      "date": "2001-06-09",
+      "rank": 180
+    },
+    {
+      "date": "2001-06-16",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mrs. Steven Rudy",
+      "id": "mrs-steven-rudy-mark-mcguinn"
+    },
+    {
+      "title": "Heaven Must Be Missing You",
+      "id": null
+    },
+    {
+      "title": "No Way",
+      "id": null
+    },
+    {
+      "title": "That's a Plan",
+      "id": null
+    },
+    {
+      "title": "If the World Was Mine",
+      "id": null
+    },
+    {
+      "title": "One of Their Own",
+      "id": null
+    },
+    {
+      "title": "She Doesn't Dance",
+      "id": null
+    },
+    {
+      "title": "Silver Platter",
+      "id": null
+    },
+    {
+      "title": "All About the Ride",
+      "id": null
+    },
+    {
+      "title": "Love Don't Float",
+      "id": null
+    },
+    {
+      "title": "Busy Signal",
+      "id": null
+    },
+    {
+      "title": "Done It Right",
+      "id": null
+    }
+  ]
+}
