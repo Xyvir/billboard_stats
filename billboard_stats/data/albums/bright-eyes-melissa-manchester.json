@@ -1,1 +1,66 @@
-{"id": "bright-eyes-melissa-manchester", "title": "Bright Eyes", "artist": "Melissa Manchester", "peak": 159, "history": [{"date": "1974-05-04", "rank": 183}, {"date": "1974-05-11", "rank": 179}, {"date": "1974-05-18", "rank": 165}, {"date": "1974-05-25", "rank": 159}, {"date": "1974-06-01", "rank": 185}]}
+{
+  "id": "bright-eyes-melissa-manchester",
+  "title": "Bright Eyes",
+  "artist": "Melissa Manchester",
+  "peak": 159,
+  "history": [
+    {
+      "date": "1974-05-04",
+      "rank": 183
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 179
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 165
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 159
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "O Heaven (How You’ve Changed Me)",
+      "id": "no-one-can-love-you-more-than-me-melissa-manchester"
+    },
+    {
+      "title": "He Is the One",
+      "id": "fire-in-the-morning-melissa-manchester"
+    },
+    {
+      "title": "Bright Eyes",
+      "id": null
+    },
+    {
+      "title": "Alone",
+      "id": null
+    },
+    {
+      "title": "Inclined",
+      "id": null
+    },
+    {
+      "title": "No. 1 (Ahwant Gimmeh)",
+      "id": null
+    },
+    {
+      "title": "Ode to Paul",
+      "id": null
+    },
+    {
+      "title": "I Can’t Get Started",
+      "id": null
+    },
+    {
+      "title": "Ruby and the Dancer",
+      "id": null
+    }
+  ]
+}

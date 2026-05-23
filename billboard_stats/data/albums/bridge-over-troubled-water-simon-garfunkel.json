@@ -1,1 +1,62 @@
-{"id": "bridge-over-troubled-water-simon-garfunkel", "title": "Bridge Over Troubled Water", "artist": "Simon & Garfunkel", "peak": 131, "history": [{"date": "2011-03-26", "rank": 167}, {"date": "2014-11-15", "rank": 131}]}
+{
+  "id": "bridge-over-troubled-water-simon-garfunkel",
+  "title": "Bridge Over Troubled Water",
+  "artist": "Simon & Garfunkel",
+  "peak": 131,
+  "history": [
+    {
+      "date": "2011-03-26",
+      "rank": 167
+    },
+    {
+      "date": "2014-11-15",
+      "rank": 131
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bridge Over Troubled Water",
+      "id": "bridge-over-troubled-water-simon-garfunkel"
+    },
+    {
+      "title": "El cóndor pasa (If I Could)",
+      "id": "el-condor-pasa-if-i-could-simon-garfunkel"
+    },
+    {
+      "title": "Cecilia",
+      "id": "cecilia-simon-garfunkel"
+    },
+    {
+      "title": "The Boxer",
+      "id": "the-boxer-simon-garfunkel"
+    },
+    {
+      "title": "Keep the Customer Satisfied",
+      "id": null
+    },
+    {
+      "title": "So Long, Frank Lloyd Wright",
+      "id": null
+    },
+    {
+      "title": "Baby Driver",
+      "id": null
+    },
+    {
+      "title": "The Only Living Boy in New York",
+      "id": null
+    },
+    {
+      "title": "Why Don’t You Write Me",
+      "id": null
+    },
+    {
+      "title": "Bye Bye Love",
+      "id": null
+    },
+    {
+      "title": "Song for the Asking",
+      "id": null
+    }
+  ]
+}

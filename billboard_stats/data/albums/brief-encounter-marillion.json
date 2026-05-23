@@ -1,1 +1,70 @@
-{"id": "brief-encounter-marillion", "title": "Brief Encounter", "artist": "Marillion", "peak": 67, "history": [{"date": "1986-03-22", "rank": 126}, {"date": "1986-03-29", "rank": 106}, {"date": "1986-04-05", "rank": 71}, {"date": "1986-04-12", "rank": 67}, {"date": "1986-04-19", "rank": 67}, {"date": "1986-04-26", "rank": 92}, {"date": "1986-05-03", "rank": 120}, {"date": "1986-05-10", "rank": 115}, {"date": "1986-05-17", "rank": 137}, {"date": "1986-05-24", "rank": 185}]}
+{
+  "id": "brief-encounter-marillion",
+  "title": "Brief Encounter",
+  "artist": "Marillion",
+  "peak": 67,
+  "history": [
+    {
+      "date": "1986-03-22",
+      "rank": 126
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 106
+    },
+    {
+      "date": "1986-04-05",
+      "rank": 71
+    },
+    {
+      "date": "1986-04-12",
+      "rank": 67
+    },
+    {
+      "date": "1986-04-19",
+      "rank": 67
+    },
+    {
+      "date": "1986-04-26",
+      "rank": 92
+    },
+    {
+      "date": "1986-05-03",
+      "rank": 120
+    },
+    {
+      "date": "1986-05-10",
+      "rank": 115
+    },
+    {
+      "date": "1986-05-17",
+      "rank": 137
+    },
+    {
+      "date": "1986-05-24",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Kayleigh",
+      "id": "kayleigh-marillion"
+    },
+    {
+      "title": "Lady Nina",
+      "id": null
+    },
+    {
+      "title": "Freaks",
+      "id": null
+    },
+    {
+      "title": "Fugazi",
+      "id": null
+    },
+    {
+      "title": "Script for a Jester’s Tear",
+      "id": null
+    }
+  ]
+}

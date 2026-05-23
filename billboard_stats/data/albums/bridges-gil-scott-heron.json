@@ -1,1 +1,66 @@
-{"id": "bridges-gil-scott-heron", "title": "Bridges", "artist": "Gil Scott-Heron", "peak": 130, "history": [{"date": "1977-10-22", "rank": 152}, {"date": "1977-10-29", "rank": 141}, {"date": "1977-11-05", "rank": 130}, {"date": "1977-11-12", "rank": 130}, {"date": "1977-11-19", "rank": 161}]}
+{
+  "id": "bridges-gil-scott-heron",
+  "title": "Bridges",
+  "artist": "Gil Scott-Heron",
+  "peak": 130,
+  "history": [
+    {
+      "date": "1977-10-22",
+      "rank": 152
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 141
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 130
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 130
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hello Sunday! Hello Road!",
+      "id": null
+    },
+    {
+      "title": "Song of the Wind",
+      "id": null
+    },
+    {
+      "title": "Racetrack in France",
+      "id": null
+    },
+    {
+      "title": "Vildgolia (Deaf, Dumb and Blind)",
+      "id": null
+    },
+    {
+      "title": "Under the Hammer",
+      "id": null
+    },
+    {
+      "title": "We Almost Lost Detroit",
+      "id": null
+    },
+    {
+      "title": "Tuskeegee #626",
+      "id": null
+    },
+    {
+      "title": "Delta Man (Where I’m Comin’ From)",
+      "id": null
+    },
+    {
+      "title": "95 South (All of the Places We’ve Been)",
+      "id": null
+    }
+  ]
+}
