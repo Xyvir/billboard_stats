@@ -1,1 +1,82 @@
-{"id": "in-concert-jane-olivor", "title": "In Concert", "artist": "Jane Olivor", "peak": 144, "history": [{"date": "1982-05-29", "rank": 160}, {"date": "1982-06-05", "rank": 153}, {"date": "1982-06-12", "rank": 144}, {"date": "1982-06-19", "rank": 144}, {"date": "1982-06-26", "rank": 176}, {"date": "1982-07-03", "rank": 188}]}
+{
+  "id": "in-concert-jane-olivor",
+  "title": "In Concert",
+  "artist": "Jane Olivor",
+  "peak": 144,
+  "history": [
+    {
+      "date": "1982-05-29",
+      "rank": 160
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 153
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 144
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 144
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 176
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stay The Night",
+      "id": null
+    },
+    {
+      "title": "Run For The Roses",
+      "id": null
+    },
+    {
+      "title": "Pretty Girl",
+      "id": null
+    },
+    {
+      "title": "Where There is Love",
+      "id": null
+    },
+    {
+      "title": "Better Days (Looks As Though We're Doing Something Right)",
+      "id": null
+    },
+    {
+      "title": "Carousel Of Love",
+      "id": null
+    },
+    {
+      "title": "Marigold Wings (Earthbound)",
+      "id": null
+    },
+    {
+      "title": "Annie's Song",
+      "id": null
+    },
+    {
+      "title": "Seasons",
+      "id": null
+    },
+    {
+      "title": "Weeping Willows, Cattails",
+      "id": null
+    },
+    {
+      "title": "Daydreams",
+      "id": null
+    },
+    {
+      "title": "Race To The End",
+      "id": null
+    }
+  ]
+}

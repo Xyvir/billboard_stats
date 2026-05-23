@@ -1,1 +1,58 @@
-{"id": "in-concert-miles-davis", "title": "In Concert", "artist": "Miles Davis", "peak": 152, "history": [{"date": "1973-05-05", "rank": 177}, {"date": "1973-05-12", "rank": 167}, {"date": "1973-05-19", "rank": 157}, {"date": "1973-05-26", "rank": 155}, {"date": "1973-06-02", "rank": 160}, {"date": "1973-06-09", "rank": 152}, {"date": "1973-06-16", "rank": 161}, {"date": "1973-06-23", "rank": 163}]}
+{
+  "id": "in-concert-miles-davis",
+  "title": "In Concert",
+  "artist": "Miles Davis",
+  "peak": 152,
+  "history": [
+    {
+      "date": "1973-05-05",
+      "rank": 177
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 167
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 157
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 155
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 160
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 152
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 161
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Miles Davis in Concert Part. I",
+      "id": null
+    },
+    {
+      "title": "Miles Davis in Concert Part. II",
+      "id": null
+    },
+    {
+      "title": "Miles Davis in Concert Part. III",
+      "id": null
+    },
+    {
+      "title": "Miles Davis in Concert Part. IV",
+      "id": null
+    }
+  ]
+}

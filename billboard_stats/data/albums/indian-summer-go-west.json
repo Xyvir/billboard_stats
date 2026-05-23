@@ -1,1 +1,106 @@
-{"id": "indian-summer-go-west", "title": "Indian Summer", "artist": "Go West", "peak": 154, "history": [{"date": "1993-01-30", "rank": 160}, {"date": "1993-02-06", "rank": 154}, {"date": "1993-02-13", "rank": 162}, {"date": "1993-02-20", "rank": 191}, {"date": "1993-04-17", "rank": 191}, {"date": "1993-04-24", "rank": 187}, {"date": "1993-05-01", "rank": 182}, {"date": "1993-05-08", "rank": 187}, {"date": "1993-05-15", "rank": 178}, {"date": "1993-05-22", "rank": 189}, {"date": "1993-05-29", "rank": 200}]}
+{
+  "id": "indian-summer-go-west",
+  "title": "Indian Summer",
+  "artist": "Go West",
+  "peak": 154,
+  "history": [
+    {
+      "date": "1993-01-30",
+      "rank": 160
+    },
+    {
+      "date": "1993-02-06",
+      "rank": 154
+    },
+    {
+      "date": "1993-02-13",
+      "rank": 162
+    },
+    {
+      "date": "1993-02-20",
+      "rank": 191
+    },
+    {
+      "date": "1993-04-17",
+      "rank": 191
+    },
+    {
+      "date": "1993-04-24",
+      "rank": 187
+    },
+    {
+      "date": "1993-05-01",
+      "rank": 182
+    },
+    {
+      "date": "1993-05-08",
+      "rank": 187
+    },
+    {
+      "date": "1993-05-15",
+      "rank": 178
+    },
+    {
+      "date": "1993-05-22",
+      "rank": 189
+    },
+    {
+      "date": "1993-05-29",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Faithful",
+      "id": "faithful-go-west"
+    },
+    {
+      "title": "Tell Me",
+      "id": "call-me-go-west"
+    },
+    {
+      "title": "What You Won’t Do for Love",
+      "id": "what-you-won-t-do-for-love-go-west"
+    },
+    {
+      "title": "The King of Wishful Thinking",
+      "id": "king-of-wishful-thinking-from-pretty-woman-go-west"
+    },
+    {
+      "title": "Still in Love",
+      "id": null
+    },
+    {
+      "title": "That's What Love Can Do",
+      "id": null
+    },
+    {
+      "title": "The Sun and the Moon",
+      "id": null
+    },
+    {
+      "title": "Count Me Out",
+      "id": null
+    },
+    {
+      "title": "Crystal Ball",
+      "id": null
+    },
+    {
+      "title": "Forget That Girl",
+      "id": null
+    },
+    {
+      "title": "Bluebeat",
+      "id": null
+    },
+    {
+      "title": "I Want You Back",
+      "id": null
+    },
+    {
+      "title": "A Taste of Things to Come",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"id": "in-concert-carole-king", "title": "In Concert", "artist": "Carole King", "peak": 160, "history": [{"date": "1994-04-02", "rank": 160}, {"date": "1994-04-09", "rank": 180}, {"date": "1994-04-16", "rank": 191}]}
+{
+  "id": "in-concert-carole-king",
+  "title": "In Concert",
+  "artist": "Carole King",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1994-04-02",
+      "rank": 160
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 180
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hard Rock Cafe",
+      "id": "hard-rock-cafe-carole-king"
+    },
+    {
+      "title": "Smackwater Jack",
+      "id": "so-far-away-smackwater-jack-carole-king"
+    },
+    {
+      "title": "Jazzman",
+      "id": "jazzman-carole-king"
+    },
+    {
+      "title": "I Feel the Earth Move",
+      "id": "it-s-too-late-i-feel-the-earth-move-carole-king"
+    },
+    {
+      "title": "Up on the Roof",
+      "id": null
+    },
+    {
+      "title": "So Far Away",
+      "id": null
+    },
+    {
+      "title": "Beautiful",
+      "id": null
+    },
+    {
+      "title": "Natural Woman",
+      "id": null
+    },
+    {
+      "title": "Hold Out for Love",
+      "id": null
+    },
+    {
+      "title": "Will You Love Me Tomorrow?",
+      "id": null
+    },
+    {
+      "title": "It's Too Late",
+      "id": null
+    },
+    {
+      "title": "Chains",
+      "id": null
+    },
+    {
+      "title": "You've Got a Friend",
+      "id": null
+    },
+    {
+      "title": "Locomotion",
+      "id": null
+    },
+    {
+      "title": "You've Got a Friend (reprise)",
+      "id": null
+    }
+  ]
+}
