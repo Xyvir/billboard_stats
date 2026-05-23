@@ -1,1 +1,78 @@
-{"id": "heart-and-soul-kenny-g", "title": "Heart And Soul", "artist": "Kenny G", "peak": 33, "history": [{"date": "2010-07-17", "rank": 33}, {"date": "2010-07-24", "rank": 68}, {"date": "2010-07-31", "rank": 130}, {"date": "2010-08-07", "rank": 185}, {"date": "2010-08-14", "rank": 188}]}
+{
+  "id": "heart-and-soul-kenny-g",
+  "title": "Heart And Soul",
+  "artist": "Kenny G",
+  "peak": 33,
+  "history": [
+    {
+      "date": "2010-07-17",
+      "rank": 33
+    },
+    {
+      "date": "2010-07-24",
+      "rank": 68
+    },
+    {
+      "date": "2010-07-31",
+      "rank": 130
+    },
+    {
+      "date": "2010-08-07",
+      "rank": 185
+    },
+    {
+      "date": "2010-08-14",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Promise",
+      "id": "the-moment-kenny-g"
+    },
+    {
+      "title": "Heart and Soul",
+      "id": null
+    },
+    {
+      "title": "Déjà vu",
+      "id": null
+    },
+    {
+      "title": "Fall Again",
+      "id": null
+    },
+    {
+      "title": "Letters From Home",
+      "id": null
+    },
+    {
+      "title": "No Place Like Home",
+      "id": null
+    },
+    {
+      "title": "My Devotion",
+      "id": null
+    },
+    {
+      "title": "G‐Walkin’",
+      "id": null
+    },
+    {
+      "title": "Sunrise",
+      "id": null
+    },
+    {
+      "title": "One Breath",
+      "id": null
+    },
+    {
+      "title": "Encore",
+      "id": null
+    },
+    {
+      "title": "After Hours",
+      "id": null
+    }
+  ]
+}

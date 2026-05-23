@@ -1,1 +1,58 @@
-{"id": "heart-eric-church", "title": "Heart", "artist": "Eric Church", "peak": 5, "history": [{"date": "2021-05-01", "rank": 5}, {"date": "2021-05-08", "rank": 68}, {"date": "2021-05-15", "rank": 196}]}
+{
+  "id": "heart-eric-church",
+  "title": "Heart",
+  "artist": "Eric Church",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2021-05-01",
+      "rank": 5
+    },
+    {
+      "date": "2021-05-08",
+      "rank": 68
+    },
+    {
+      "date": "2021-05-15",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heart on Fire",
+      "id": "heart-on-fire-eric-church"
+    },
+    {
+      "title": "Heart of the Night",
+      "id": "hell-on-the-heart-eric-church"
+    },
+    {
+      "title": "Stick That in Your Country Song",
+      "id": "stick-that-in-your-country-song-eric-church"
+    },
+    {
+      "title": "Russian Roulette",
+      "id": null
+    },
+    {
+      "title": "People Break",
+      "id": null
+    },
+    {
+      "title": "Never Break Heart",
+      "id": null
+    },
+    {
+      "title": "Crazyland",
+      "id": null
+    },
+    {
+      "title": "Bunch of Nothing",
+      "id": null
+    },
+    {
+      "title": "Love Shine Down",
+      "id": null
+    }
+  ]
+}

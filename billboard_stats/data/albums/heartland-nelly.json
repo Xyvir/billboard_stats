@@ -1,1 +1,66 @@
-{"id": "heartland-nelly", "title": "Heartland", "artist": "Nelly", "peak": 45, "history": [{"date": "2021-09-11", "rank": 45}, {"date": "2021-09-18", "rank": 95}, {"date": "2021-09-25", "rank": 121}, {"date": "2021-10-02", "rank": 168}, {"date": "2021-10-09", "rank": 187}]}
+{
+  "id": "heartland-nelly",
+  "title": "Heartland",
+  "artist": "Nelly",
+  "peak": 45,
+  "history": [
+    {
+      "date": "2021-09-11",
+      "rank": 45
+    },
+    {
+      "date": "2021-09-18",
+      "rank": 95
+    },
+    {
+      "date": "2021-09-25",
+      "rank": 121
+    },
+    {
+      "date": "2021-10-02",
+      "rank": 168
+    },
+    {
+      "date": "2021-10-09",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lil Bit",
+      "id": null
+    },
+    {
+      "title": "High Horse",
+      "id": null
+    },
+    {
+      "title": "Grits & Glamour",
+      "id": null
+    },
+    {
+      "title": "Ms. Drive Me Crazy",
+      "id": null
+    },
+    {
+      "title": "Country Boy Do",
+      "id": null
+    },
+    {
+      "title": "Someone Somewhere",
+      "id": null
+    },
+    {
+      "title": "5 Drinks Ago",
+      "id": null
+    },
+    {
+      "title": "Follow Me",
+      "id": null
+    },
+    {
+      "title": "Good Times Roll",
+      "id": null
+    }
+  ]
+}
