@@ -1,1 +1,66 @@
-{"id": "daytona-pusha-t", "title": "DAYTONA", "artist": "Pusha T", "peak": 3, "history": [{"date": "2018-06-09", "rank": 3}, {"date": "2018-06-16", "rank": 13}, {"date": "2018-06-23", "rank": 30}, {"date": "2018-06-30", "rank": 53}, {"date": "2018-07-07", "rank": 99}, {"date": "2018-07-14", "rank": 136}, {"date": "2018-07-21", "rank": 165}]}
+{
+  "id": "daytona-pusha-t",
+  "title": "DAYTONA",
+  "artist": "Pusha T",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2018-06-09",
+      "rank": 3
+    },
+    {
+      "date": "2018-06-16",
+      "rank": 13
+    },
+    {
+      "date": "2018-06-23",
+      "rank": 30
+    },
+    {
+      "date": "2018-06-30",
+      "rank": 53
+    },
+    {
+      "date": "2018-07-07",
+      "rank": 99
+    },
+    {
+      "date": "2018-07-14",
+      "rank": 136
+    },
+    {
+      "date": "2018-07-21",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If You Know You Know",
+      "id": "if-you-know-you-know-pusha-t"
+    },
+    {
+      "title": "The Games We Play",
+      "id": "the-games-we-play-pusha-t"
+    },
+    {
+      "title": "Infrared",
+      "id": "infrared-pusha-t"
+    },
+    {
+      "title": "Hard Piano",
+      "id": null
+    },
+    {
+      "title": "Come Back Baby",
+      "id": null
+    },
+    {
+      "title": "Santeria",
+      "id": null
+    },
+    {
+      "title": "What Would Meek Do?",
+      "id": null
+    }
+  ]
+}
