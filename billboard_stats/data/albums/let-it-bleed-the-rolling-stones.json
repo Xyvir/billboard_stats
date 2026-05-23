@@ -1,1 +1,66 @@
-{"id": "let-it-bleed-the-rolling-stones", "title": "Let It Bleed", "artist": "The Rolling Stones", "peak": 177, "history": [{"date": "1980-09-27", "rank": 184}, {"date": "1980-10-04", "rank": 182}, {"date": "1980-10-11", "rank": 182}, {"date": "1980-10-18", "rank": 177}, {"date": "1980-10-25", "rank": 186}]}
+{
+  "id": "let-it-bleed-the-rolling-stones",
+  "title": "Let It Bleed",
+  "artist": "The Rolling Stones",
+  "peak": 177,
+  "history": [
+    {
+      "date": "1980-09-27",
+      "rank": 184
+    },
+    {
+      "date": "1980-10-04",
+      "rank": 182
+    },
+    {
+      "date": "1980-10-11",
+      "rank": 182
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 177
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love in Vain",
+      "id": "love-is-strong-the-rolling-stones"
+    },
+    {
+      "title": "Live With Me",
+      "id": "play-with-fire-the-rolling-stones"
+    },
+    {
+      "title": "You Can’t Always Get What You Want",
+      "id": "you-can-t-always-get-what-you-want-the-rolling-stones"
+    },
+    {
+      "title": "Gimme Shelter",
+      "id": null
+    },
+    {
+      "title": "Country Honk",
+      "id": null
+    },
+    {
+      "title": "Let It Bleed",
+      "id": null
+    },
+    {
+      "title": "Midnight Rambler",
+      "id": null
+    },
+    {
+      "title": "You Got the Silver",
+      "id": null
+    },
+    {
+      "title": "Monkey Man",
+      "id": null
+    }
+  ]
+}
