@@ -1,1 +1,70 @@
-{"id": "meet-john-doe-john-doe", "title": "Meet John Doe", "artist": "John Doe", "peak": 193, "history": [{"date": "1990-06-23", "rank": 193}, {"date": "1990-06-30", "rank": 200}, {"date": "1990-07-07", "rank": 198}]}
+{
+  "id": "meet-john-doe-john-doe",
+  "title": "Meet John Doe",
+  "artist": "John Doe",
+  "peak": 193,
+  "history": [
+    {
+      "date": "1990-06-23",
+      "rank": 193
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 200
+    },
+    {
+      "date": "1990-07-07",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let’s Be Mad",
+      "id": null
+    },
+    {
+      "title": "A Matter of Degrees",
+      "id": null
+    },
+    {
+      "title": "Dyin' to Get Home",
+      "id": null
+    },
+    {
+      "title": "It's Only Love",
+      "id": null
+    },
+    {
+      "title": "The Real One",
+      "id": null
+    },
+    {
+      "title": "Take #52",
+      "id": null
+    },
+    {
+      "title": "Worldwide Brotherhood",
+      "id": null
+    },
+    {
+      "title": "With Someone Like You",
+      "id": null
+    },
+    {
+      "title": "By the Light",
+      "id": null
+    },
+    {
+      "title": "Knockin' Around",
+      "id": null
+    },
+    {
+      "title": "Touch Me, Baby",
+      "id": null
+    },
+    {
+      "title": "My Offering",
+      "id": null
+    }
+  ]
+}

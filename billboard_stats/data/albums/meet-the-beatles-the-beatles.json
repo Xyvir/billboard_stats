@@ -1,1 +1,70 @@
-{"id": "meet-the-beatles-the-beatles", "title": "Meet The Beatles!", "artist": "The Beatles", "peak": 170, "history": [{"date": "2014-02-08", "rank": 171}, {"date": "2014-02-22", "rank": 192}, {"date": "2014-03-01", "rank": 170}]}
+{
+  "id": "meet-the-beatles-the-beatles",
+  "title": "Meet The Beatles!",
+  "artist": "The Beatles",
+  "peak": 170,
+  "history": [
+    {
+      "date": "2014-02-08",
+      "rank": 171
+    },
+    {
+      "date": "2014-02-22",
+      "rank": 192
+    },
+    {
+      "date": "2014-03-01",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Want to Hold Your Hand",
+      "id": "i-want-to-hold-your-hand-the-beatles"
+    },
+    {
+      "title": "I Saw Her Standing There",
+      "id": "i-saw-her-standing-there-the-beatles"
+    },
+    {
+      "title": "All My Loving",
+      "id": "all-my-loving-the-beatles"
+    },
+    {
+      "title": "I Wanna Be Your Man",
+      "id": "i-want-to-hold-your-hand-the-beatles"
+    },
+    {
+      "title": "Not a Second Time",
+      "id": "now-and-then-the-beatles"
+    },
+    {
+      "title": "This Boy",
+      "id": null
+    },
+    {
+      "title": "It Won’t Be Long",
+      "id": null
+    },
+    {
+      "title": "All I’ve Got to Do",
+      "id": null
+    },
+    {
+      "title": "Don’t Bother Me",
+      "id": null
+    },
+    {
+      "title": "Little Child",
+      "id": null
+    },
+    {
+      "title": "Till There Was You",
+      "id": null
+    },
+    {
+      "title": "Hold Me Tight",
+      "id": null
+    }
+  ]
+}

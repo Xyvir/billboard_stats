@@ -1,1 +1,70 @@
-{"id": "medazzaland-duran-duran", "title": "Medazzaland", "artist": "Duran Duran", "peak": 58, "history": [{"date": "1997-11-01", "rank": 58}, {"date": "1997-11-08", "rank": 124}, {"date": "1997-11-15", "rank": 178}]}
+{
+  "id": "medazzaland-duran-duran",
+  "title": "Medazzaland",
+  "artist": "Duran Duran",
+  "peak": 58,
+  "history": [
+    {
+      "date": "1997-11-01",
+      "rank": 58
+    },
+    {
+      "date": "1997-11-08",
+      "rank": 124
+    },
+    {
+      "date": "1997-11-15",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Electric Barbarella",
+      "id": "electric-barbarella-duran-duran"
+    },
+    {
+      "title": "Medazzaland",
+      "id": null
+    },
+    {
+      "title": "Big Bang Generation",
+      "id": null
+    },
+    {
+      "title": "Out of My Mind",
+      "id": null
+    },
+    {
+      "title": "Who Do You Think You Are?",
+      "id": null
+    },
+    {
+      "title": "Silva Halo",
+      "id": null
+    },
+    {
+      "title": "Be My Icon",
+      "id": null
+    },
+    {
+      "title": "Buried in the Sand",
+      "id": null
+    },
+    {
+      "title": "Michael You’ve Got a Lot to Answer For",
+      "id": null
+    },
+    {
+      "title": "Midnight Sun",
+      "id": null
+    },
+    {
+      "title": "So Long Suicide",
+      "id": null
+    },
+    {
+      "title": "Undergoing Treatment",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"id": "megadeth-megadeth", "title": "Megadeth", "artist": "Megadeth", "peak": 1, "history": [{"date": "2026-02-07", "rank": 1}, {"date": "2026-02-14", "rank": 53}, {"date": "2026-02-21", "rank": 89}]}
+{
+  "id": "megadeth-megadeth",
+  "title": "Megadeth",
+  "artist": "Megadeth",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2026-02-07",
+      "rank": 1
+    },
+    {
+      "date": "2026-02-14",
+      "rank": 53
+    },
+    {
+      "date": "2026-02-21",
+      "rank": 89
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tipping Point",
+      "id": null
+    },
+    {
+      "title": "I Don’t Care",
+      "id": null
+    },
+    {
+      "title": "Hey, God?!",
+      "id": null
+    },
+    {
+      "title": "Let There Be Shred",
+      "id": null
+    },
+    {
+      "title": "Puppet Parade",
+      "id": null
+    },
+    {
+      "title": "Another Bad Day",
+      "id": null
+    },
+    {
+      "title": "Made to Kill",
+      "id": null
+    },
+    {
+      "title": "Obey the Call",
+      "id": null
+    },
+    {
+      "title": "I Am War",
+      "id": null
+    },
+    {
+      "title": "The Last Note",
+      "id": null
+    },
+    {
+      "title": "Ride the Lightning",
+      "id": null
+    }
+  ]
+}
