@@ -1,1 +1,70 @@
-{"id": "love-sux-avril-lavigne", "title": "Love Sux", "artist": "Avril Lavigne", "peak": 9, "history": [{"date": "2022-03-12", "rank": 9}, {"date": "2022-03-19", "rank": 94}, {"date": "2022-03-26", "rank": 196}]}
+{
+  "id": "love-sux-avril-lavigne",
+  "title": "Love Sux",
+  "artist": "Avril Lavigne",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2022-03-12",
+      "rank": 9
+    },
+    {
+      "date": "2022-03-19",
+      "rank": 94
+    },
+    {
+      "date": "2022-03-26",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love It When You Hate Me",
+      "id": "when-you-re-gone-avril-lavigne"
+    },
+    {
+      "title": "Cannonball",
+      "id": null
+    },
+    {
+      "title": "Bois Lie",
+      "id": null
+    },
+    {
+      "title": "Bite Me",
+      "id": null
+    },
+    {
+      "title": "Love Sux",
+      "id": null
+    },
+    {
+      "title": "Kiss Me Like the World Is Ending",
+      "id": null
+    },
+    {
+      "title": "Avalanche",
+      "id": null
+    },
+    {
+      "title": "Déjà vu",
+      "id": null
+    },
+    {
+      "title": "F.U.",
+      "id": null
+    },
+    {
+      "title": "All I Wanted",
+      "id": null
+    },
+    {
+      "title": "Dare to Love Me",
+      "id": null
+    },
+    {
+      "title": "Break of a Heartache",
+      "id": null
+    }
+  ]
+}
