@@ -1,1 +1,66 @@
-{"id": "journey-home-will-to-power", "title": "Journey Home", "artist": "Will to Power", "peak": 178, "history": [{"date": "1991-02-02", "rank": 189}, {"date": "1991-02-09", "rank": 178}, {"date": "1991-02-16", "rank": 180}, {"date": "1991-02-23", "rank": 189}]}
+{
+  "id": "journey-home-will-to-power",
+  "title": "Journey Home",
+  "artist": "Will to Power",
+  "peak": 178,
+  "history": [
+    {
+      "date": "1991-02-02",
+      "rank": 189
+    },
+    {
+      "date": "1991-02-09",
+      "rank": 178
+    },
+    {
+      "date": "1991-02-16",
+      "rank": 180
+    },
+    {
+      "date": "1991-02-23",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m Not in Love",
+      "id": "i-m-not-in-love-will-to-power"
+    },
+    {
+      "title": "Journey Home",
+      "id": null
+    },
+    {
+      "title": "Don't Like It",
+      "id": null
+    },
+    {
+      "title": "Fly Bird",
+      "id": null
+    },
+    {
+      "title": "Best Friend's Girl",
+      "id": null
+    },
+    {
+      "title": "Clock on the Wall",
+      "id": null
+    },
+    {
+      "title": "Koyaanisqatsi",
+      "id": null
+    },
+    {
+      "title": "Boogie Nights",
+      "id": null
+    },
+    {
+      "title": "It's My Life",
+      "id": null
+    },
+    {
+      "title": "Fly Bird (reprise)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"id": "journals-justin-bieber", "title": "Journals", "artist": "Justin Bieber", "peak": 78, "history": [{"date": "2026-04-25", "rank": 111}, {"date": "2026-05-02", "rank": 78}, {"date": "2026-05-09", "rank": 153}]}
+{
+  "id": "journals-justin-bieber",
+  "title": "Journals",
+  "artist": "Justin Bieber",
+  "peak": 78,
+  "history": [
+    {
+      "date": "2026-04-25",
+      "rank": 111
+    },
+    {
+      "date": "2026-05-02",
+      "rank": 78
+    },
+    {
+      "date": "2026-05-09",
+      "rank": 153
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heartbreaker",
+      "id": "heartbreaker-justin-bieber"
+    },
+    {
+      "title": "All That Matters",
+      "id": "all-that-matters-justin-bieber"
+    },
+    {
+      "title": "Hold Tight",
+      "id": "hold-tight-justin-bieber"
+    },
+    {
+      "title": "Recovery",
+      "id": "recovery-justin-bieber"
+    },
+    {
+      "title": "Bad Day",
+      "id": "bad-day-justin-bieber"
+    },
+    {
+      "title": "All Bad",
+      "id": "all-bad-justin-bieber"
+    },
+    {
+      "title": "Roller Coaster",
+      "id": "roller-coaster-justin-bieber"
+    },
+    {
+      "title": "Change Me",
+      "id": "change-me-justin-bieber"
+    },
+    {
+      "title": "One Life",
+      "id": "one-time-justin-bieber"
+    },
+    {
+      "title": "PYD",
+      "id": null
+    },
+    {
+      "title": "Confident",
+      "id": null
+    },
+    {
+      "title": "Backpack",
+      "id": null
+    },
+    {
+      "title": "What’s Hatnin’",
+      "id": null
+    },
+    {
+      "title": "Swap It Out",
+      "id": null
+    },
+    {
+      "title": "Memphis",
+      "id": null
+    }
+  ]
+}

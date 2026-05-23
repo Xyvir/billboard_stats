@@ -1,1 +1,66 @@
-{"id": "joy-apollo-100", "title": "Joy", "artist": "Apollo 100", "peak": 145, "history": [{"date": "1972-05-20", "rank": 148}, {"date": "1972-05-27", "rank": 145}, {"date": "1972-06-03", "rank": 163}]}
+{
+  "id": "joy-apollo-100",
+  "title": "Joy",
+  "artist": "Apollo 100",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 148
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 145
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mendelssohn's 4th",
+      "id": "mendelssohn-s-4th-second-movement-apollo-100"
+    },
+    {
+      "title": "Joy",
+      "id": null
+    },
+    {
+      "title": "Mad Mountain Kind",
+      "id": null
+    },
+    {
+      "title": "Libido",
+      "id": null
+    },
+    {
+      "title": "Jazz Pizzicato",
+      "id": null
+    },
+    {
+      "title": "Tamara",
+      "id": null
+    },
+    {
+      "title": "Reach for the Sky",
+      "id": null
+    },
+    {
+      "title": "Evil Midnight",
+      "id": null
+    },
+    {
+      "title": "Air for The \"G\" String",
+      "id": null
+    },
+    {
+      "title": "Exercise in A Minor",
+      "id": null
+    },
+    {
+      "title": "Classical Wind",
+      "id": null
+    }
+  ]
+}
