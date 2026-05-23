@@ -1,1 +1,58 @@
-{"id": "flow-snail", "title": "Flow", "artist": "Snail", "peak": 186, "history": [{"date": "1979-11-10", "rank": 190}, {"date": "1979-11-17", "rank": 186}]}
+{
+  "id": "flow-snail",
+  "title": "Flow",
+  "artist": "Snail",
+  "peak": 186,
+  "history": [
+    {
+      "date": "1979-11-10",
+      "rank": 190
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’ve Got a Lady",
+      "id": null
+    },
+    {
+      "title": "Here With You",
+      "id": null
+    },
+    {
+      "title": "Love Should Flow",
+      "id": null
+    },
+    {
+      "title": "Threw It Away",
+      "id": null
+    },
+    {
+      "title": "Lettin’ Go",
+      "id": null
+    },
+    {
+      "title": "Tonight",
+      "id": null
+    },
+    {
+      "title": "Rollin’ in Your Love",
+      "id": null
+    },
+    {
+      "title": "Forever",
+      "id": null
+    },
+    {
+      "title": "And Your Bird Can Sing",
+      "id": null
+    },
+    {
+      "title": "Broke Up, Broke Down",
+      "id": null
+    }
+  ]
+}

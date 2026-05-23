@@ -1,1 +1,74 @@
-{"id": "fly-by-night-rush", "title": "Fly By Night", "artist": "Rush", "peak": 113, "history": [{"date": "1975-03-15", "rank": 166}, {"date": "1975-03-22", "rank": 146}, {"date": "1975-03-29", "rank": 127}, {"date": "1975-04-05", "rank": 117}, {"date": "1975-04-12", "rank": 117}, {"date": "1975-04-19", "rank": 116}, {"date": "1975-04-26", "rank": 113}, {"date": "1975-05-03", "rank": 158}]}
+{
+  "id": "fly-by-night-rush",
+  "title": "Fly By Night",
+  "artist": "Rush",
+  "peak": 113,
+  "history": [
+    {
+      "date": "1975-03-15",
+      "rank": 166
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 146
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 127
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 117
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 117
+    },
+    {
+      "date": "1975-04-19",
+      "rank": 116
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 113
+    },
+    {
+      "date": "1975-05-03",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fly by Night",
+      "id": "fly-by-night-in-the-mood-rush"
+    },
+    {
+      "title": "Anthem",
+      "id": null
+    },
+    {
+      "title": "Best I Can",
+      "id": null
+    },
+    {
+      "title": "Beneath, Between & Behind",
+      "id": null
+    },
+    {
+      "title": "By‐Tor & the Snow Dog: I. At the Tobes of Hades / II. Across the Styx / III. Of the Battle / IV. Epilogue",
+      "id": null
+    },
+    {
+      "title": "Making Memories",
+      "id": null
+    },
+    {
+      "title": "Rivendell",
+      "id": null
+    },
+    {
+      "title": "In the End",
+      "id": null
+    }
+  ]
+}
