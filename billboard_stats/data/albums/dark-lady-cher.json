@@ -1,1 +1,106 @@
-{"id": "dark-lady-cher", "title": "Dark Lady", "artist": "Cher", "peak": 69, "history": [{"date": "1974-06-01", "rank": 191}, {"date": "1974-06-08", "rank": 146}, {"date": "1974-06-15", "rank": 98}, {"date": "1974-06-22", "rank": 73}, {"date": "1974-06-29", "rank": 69}, {"date": "1974-07-06", "rank": 74}, {"date": "1974-07-13", "rank": 73}, {"date": "1974-07-20", "rank": 76}, {"date": "1974-07-27", "rank": 116}, {"date": "1974-08-03", "rank": 141}, {"date": "1974-08-10", "rank": 143}, {"date": "1974-08-17", "rank": 148}, {"date": "1974-08-24", "rank": 185}, {"date": "1974-08-31", "rank": 191}]}
+{
+  "id": "dark-lady-cher",
+  "title": "Dark Lady",
+  "artist": "Cher",
+  "peak": 69,
+  "history": [
+    {
+      "date": "1974-06-01",
+      "rank": 191
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 146
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 98
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 73
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 69
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 74
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 73
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 76
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 116
+    },
+    {
+      "date": "1974-08-03",
+      "rank": 141
+    },
+    {
+      "date": "1974-08-10",
+      "rank": 143
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 148
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 185
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Train of Thought",
+      "id": "train-of-thought-cher"
+    },
+    {
+      "title": "I Saw a Man and He Danced With His Wife",
+      "id": "i-saw-a-man-and-he-danced-with-his-wife-cher"
+    },
+    {
+      "title": "Dark Lady",
+      "id": "dark-lady-cher"
+    },
+    {
+      "title": "Make the Man Love Me",
+      "id": null
+    },
+    {
+      "title": "Just What I’ve Been Lookin’ For",
+      "id": null
+    },
+    {
+      "title": "Miss Subway of 1952",
+      "id": null
+    },
+    {
+      "title": "Dixie Girl",
+      "id": null
+    },
+    {
+      "title": "Rescue Me",
+      "id": null
+    },
+    {
+      "title": "What'll I Do?",
+      "id": null
+    },
+    {
+      "title": "Apples Don’t Fall Far From the Tree",
+      "id": null
+    }
+  ]
+}

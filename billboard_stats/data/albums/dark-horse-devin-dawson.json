@@ -1,1 +1,66 @@
-{"id": "dark-horse-devin-dawson", "title": "Dark Horse", "artist": "Devin Dawson", "peak": 50, "history": [{"date": "2018-02-03", "rank": 50}, {"date": "2018-02-10", "rank": 170}]}
+{
+  "id": "dark-horse-devin-dawson",
+  "title": "Dark Horse",
+  "artist": "Devin Dawson",
+  "peak": 50,
+  "history": [
+    {
+      "date": "2018-02-03",
+      "rank": 50
+    },
+    {
+      "date": "2018-02-10",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All on Me",
+      "id": "all-on-me-devin-dawson"
+    },
+    {
+      "title": "Dip",
+      "id": null
+    },
+    {
+      "title": "Asking for a Friend",
+      "id": null
+    },
+    {
+      "title": "Second to Last",
+      "id": null
+    },
+    {
+      "title": "Symptoms",
+      "id": null
+    },
+    {
+      "title": "I Don’t Care Who Sees",
+      "id": null
+    },
+    {
+      "title": "Secondhand Hurt",
+      "id": null
+    },
+    {
+      "title": "Placebo",
+      "id": null
+    },
+    {
+      "title": "War Paint",
+      "id": null
+    },
+    {
+      "title": "I Can’t Trust Myself",
+      "id": null
+    },
+    {
+      "title": "Prison",
+      "id": null
+    },
+    {
+      "title": "Dark Horse",
+      "id": null
+    }
+  ]
+}
