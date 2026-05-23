@@ -1,1 +1,70 @@
-{"id": "fame-grace-jones", "title": "Fame", "artist": "Grace Jones", "peak": 97, "history": [{"date": "1978-08-05", "rank": 146}, {"date": "1978-08-12", "rank": 136}, {"date": "1978-08-19", "rank": 123}, {"date": "1978-08-26", "rank": 111}, {"date": "1978-09-02", "rank": 101}, {"date": "1978-09-09", "rank": 101}, {"date": "1978-09-16", "rank": 97}, {"date": "1978-09-23", "rank": 170}]}
+{
+  "id": "fame-grace-jones",
+  "title": "Fame",
+  "artist": "Grace Jones",
+  "peak": 97,
+  "history": [
+    {
+      "date": "1978-08-05",
+      "rank": 146
+    },
+    {
+      "date": "1978-08-12",
+      "rank": 136
+    },
+    {
+      "date": "1978-08-19",
+      "rank": 123
+    },
+    {
+      "date": "1978-08-26",
+      "rank": 111
+    },
+    {
+      "date": "1978-09-02",
+      "rank": 101
+    },
+    {
+      "date": "1978-09-09",
+      "rank": 101
+    },
+    {
+      "date": "1978-09-16",
+      "rank": 97
+    },
+    {
+      "date": "1978-09-23",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Do or Die",
+      "id": null
+    },
+    {
+      "title": "Pride",
+      "id": null
+    },
+    {
+      "title": "Fame",
+      "id": null
+    },
+    {
+      "title": "Autumn Leaves",
+      "id": null
+    },
+    {
+      "title": "All on a Summers Night",
+      "id": null
+    },
+    {
+      "title": "Am I Ever Gonna Fall in Love in New York City",
+      "id": null
+    },
+    {
+      "title": "Below the Belt",
+      "id": null
+    }
+  ]
+}

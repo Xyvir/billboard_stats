@@ -1,1 +1,86 @@
-{"id": "fame-fortune-bad-company", "title": "Fame & Fortune", "artist": "Bad Company", "peak": 106, "history": [{"date": "1986-10-25", "rank": 114}, {"date": "1986-11-01", "rank": 108}, {"date": "1986-11-08", "rank": 106}, {"date": "1986-11-15", "rank": 106}, {"date": "1986-11-22", "rank": 109}, {"date": "1986-11-29", "rank": 126}, {"date": "1986-12-06", "rank": 151}, {"date": "1986-12-13", "rank": 157}, {"date": "1986-12-20", "rank": 182}]}
+{
+  "id": "fame-fortune-bad-company",
+  "title": "Fame & Fortune",
+  "artist": "Bad Company",
+  "peak": 106,
+  "history": [
+    {
+      "date": "1986-10-25",
+      "rank": 114
+    },
+    {
+      "date": "1986-11-01",
+      "rank": 108
+    },
+    {
+      "date": "1986-11-08",
+      "rank": 106
+    },
+    {
+      "date": "1986-11-15",
+      "rank": 106
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 109
+    },
+    {
+      "date": "1986-11-29",
+      "rank": 126
+    },
+    {
+      "date": "1986-12-06",
+      "rank": 151
+    },
+    {
+      "date": "1986-12-13",
+      "rank": 157
+    },
+    {
+      "date": "1986-12-20",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Burning Up",
+      "id": "burnin-sky-bad-company"
+    },
+    {
+      "title": "This Love",
+      "id": "this-love-bad-company"
+    },
+    {
+      "title": "Fame and Fortune",
+      "id": null
+    },
+    {
+      "title": "That Girl",
+      "id": null
+    },
+    {
+      "title": "Tell It Like It Is",
+      "id": null
+    },
+    {
+      "title": "Long Walk",
+      "id": null
+    },
+    {
+      "title": "Hold on My Heart",
+      "id": null
+    },
+    {
+      "title": "Valerie",
+      "id": null
+    },
+    {
+      "title": "When We Made Love",
+      "id": null
+    },
+    {
+      "title": "If I’m Sleeping",
+      "id": null
+    }
+  ]
+}

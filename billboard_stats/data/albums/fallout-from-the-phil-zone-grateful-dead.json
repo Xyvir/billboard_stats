@@ -1,1 +1,66 @@
-{"id": "fallout-from-the-phil-zone-grateful-dead", "title": "Fallout From The Phil Zone", "artist": "Grateful Dead", "peak": 83, "history": [{"date": "1997-07-05", "rank": 83}, {"date": "1997-07-12", "rank": 124}, {"date": "1997-07-19", "rank": 170}]}
+{
+  "id": "fallout-from-the-phil-zone-grateful-dead",
+  "title": "Fallout From The Phil Zone",
+  "artist": "Grateful Dead",
+  "peak": 83,
+  "history": [
+    {
+      "date": "1997-07-05",
+      "rank": 83
+    },
+    {
+      "date": "1997-07-12",
+      "rank": 124
+    },
+    {
+      "date": "1997-07-19",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Music Never Stopped",
+      "id": "the-music-never-stopped-the-grateful-dead"
+    },
+    {
+      "title": "Dancing in the Street",
+      "id": null
+    },
+    {
+      "title": "New Speedway Boogie",
+      "id": null
+    },
+    {
+      "title": "Viola Lee Blues",
+      "id": null
+    },
+    {
+      "title": "Easy Wind",
+      "id": null
+    },
+    {
+      "title": "Mason’s Children",
+      "id": null
+    },
+    {
+      "title": "Hard to Handle",
+      "id": null
+    },
+    {
+      "title": "Jack‐A‐Roe",
+      "id": null
+    },
+    {
+      "title": "In the Midnight Hour",
+      "id": null
+    },
+    {
+      "title": "Visions of Johanna",
+      "id": null
+    },
+    {
+      "title": "Box of Rain",
+      "id": null
+    }
+  ]
+}
