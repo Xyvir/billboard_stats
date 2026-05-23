@@ -1,1 +1,82 @@
-{"id": "disney-s-christmas-sing-along", "title": "Disney's Christmas", "artist": "Sing-Along", "peak": 119, "history": [{"date": "1995-12-02", "rank": 176}, {"date": "1995-12-09", "rank": 169}, {"date": "1995-12-16", "rank": 119}, {"date": "1995-12-23", "rank": 126}, {"date": "1995-12-30", "rank": 195}]}
+{
+  "id": "disney-s-christmas-sing-along",
+  "title": "Disney's Christmas",
+  "artist": "Sing-Along",
+  "peak": 119,
+  "history": [
+    {
+      "date": "1995-12-02",
+      "rank": 176
+    },
+    {
+      "date": "1995-12-09",
+      "rank": 169
+    },
+    {
+      "date": "1995-12-16",
+      "rank": 119
+    },
+    {
+      "date": "1995-12-23",
+      "rank": 126
+    },
+    {
+      "date": "1995-12-30",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "White Christmas",
+      "id": null
+    },
+    {
+      "title": "Rudolph the Red‐Nosed Reindeer",
+      "id": null
+    },
+    {
+      "title": "We Wish You a Merry Christmas",
+      "id": null
+    },
+    {
+      "title": "Winter Wonderland",
+      "id": null
+    },
+    {
+      "title": "Jolly Old Saint Nicholas",
+      "id": null
+    },
+    {
+      "title": "Do You Hear What I Hear?",
+      "id": null
+    },
+    {
+      "title": "O Christmas Tree",
+      "id": null
+    },
+    {
+      "title": "Frosty the Snowman",
+      "id": null
+    },
+    {
+      "title": "Jingle Bells",
+      "id": null
+    },
+    {
+      "title": "Deck the Halls",
+      "id": null
+    },
+    {
+      "title": "Little Drummer Boy",
+      "id": null
+    },
+    {
+      "title": "Santa Claus Is Coming to Town",
+      "id": null
+    },
+    {
+      "title": "Silent Night",
+      "id": null
+    }
+  ]
+}
