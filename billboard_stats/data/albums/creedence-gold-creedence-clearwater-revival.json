@@ -1,1 +1,190 @@
-{"id": "creedence-gold-creedence-clearwater-revival", "title": "Creedence Gold", "artist": "Creedence Clearwater Revival", "peak": 15, "history": [{"date": "1972-12-02", "rank": 192}, {"date": "1972-12-09", "rank": 155}, {"date": "1972-12-16", "rank": 87}, {"date": "1972-12-23", "rank": 61}, {"date": "1972-12-30", "rank": 49}, {"date": "1973-01-06", "rank": 33}, {"date": "1973-01-13", "rank": 27}, {"date": "1973-01-20", "rank": 23}, {"date": "1973-01-27", "rank": 21}, {"date": "1973-02-03", "rank": 19}, {"date": "1973-02-10", "rank": 16}, {"date": "1973-02-17", "rank": 15}, {"date": "1973-02-24", "rank": 16}, {"date": "1973-03-03", "rank": 17}, {"date": "1973-03-10", "rank": 17}, {"date": "1973-03-17", "rank": 17}, {"date": "1973-03-24", "rank": 32}, {"date": "1973-03-31", "rank": 32}, {"date": "1973-04-07", "rank": 35}, {"date": "1973-04-14", "rank": 37}, {"date": "1973-04-21", "rank": 47}, {"date": "1973-04-28", "rank": 51}, {"date": "1973-05-05", "rank": 62}, {"date": "1973-05-12", "rank": 68}, {"date": "1973-05-19", "rank": 80}, {"date": "1973-05-26", "rank": 82}, {"date": "1973-06-02", "rank": 99}, {"date": "1973-06-09", "rank": 122}, {"date": "1973-06-16", "rank": 122}, {"date": "1973-06-23", "rank": 124}, {"date": "1973-06-30", "rank": 135}, {"date": "1973-07-07", "rank": 142}, {"date": "1973-07-14", "rank": 144}, {"date": "1973-07-21", "rank": 153}, {"date": "1973-07-28", "rank": 158}, {"date": "1973-08-04", "rank": 164}, {"date": "1973-08-11", "rank": 164}]}
+{
+  "id": "creedence-gold-creedence-clearwater-revival",
+  "title": "Creedence Gold",
+  "artist": "Creedence Clearwater Revival",
+  "peak": 15,
+  "history": [
+    {
+      "date": "1972-12-02",
+      "rank": 192
+    },
+    {
+      "date": "1972-12-09",
+      "rank": 155
+    },
+    {
+      "date": "1972-12-16",
+      "rank": 87
+    },
+    {
+      "date": "1972-12-23",
+      "rank": 61
+    },
+    {
+      "date": "1972-12-30",
+      "rank": 49
+    },
+    {
+      "date": "1973-01-06",
+      "rank": 33
+    },
+    {
+      "date": "1973-01-13",
+      "rank": 27
+    },
+    {
+      "date": "1973-01-20",
+      "rank": 23
+    },
+    {
+      "date": "1973-01-27",
+      "rank": 21
+    },
+    {
+      "date": "1973-02-03",
+      "rank": 19
+    },
+    {
+      "date": "1973-02-10",
+      "rank": 16
+    },
+    {
+      "date": "1973-02-17",
+      "rank": 15
+    },
+    {
+      "date": "1973-02-24",
+      "rank": 16
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 17
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 17
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 17
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 32
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 32
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 35
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 37
+    },
+    {
+      "date": "1973-04-21",
+      "rank": 47
+    },
+    {
+      "date": "1973-04-28",
+      "rank": 51
+    },
+    {
+      "date": "1973-05-05",
+      "rank": 62
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 68
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 80
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 82
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 99
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 122
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 122
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 124
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 135
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 142
+    },
+    {
+      "date": "1973-07-14",
+      "rank": 144
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 153
+    },
+    {
+      "date": "1973-07-28",
+      "rank": 158
+    },
+    {
+      "date": "1973-08-04",
+      "rank": 164
+    },
+    {
+      "date": "1973-08-11",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Proud Mary",
+      "id": "proud-mary-creedence-clearwater-revival"
+    },
+    {
+      "title": "Down on the Corner",
+      "id": "down-on-the-corner-fortunate-son-creedence-clearwater-revival"
+    },
+    {
+      "title": "Bad Moon Rising",
+      "id": "bad-moon-rising-creedence-clearwater-revival"
+    },
+    {
+      "title": "Have You Ever Seen the Rain?",
+      "id": "have-you-ever-seen-the-rain-hey-tonight-creedence-clearwater-revival"
+    },
+    {
+      "title": "Suzie Q",
+      "id": "suzie-q-part-one-creedence-clearwater-revival"
+    },
+    {
+      "title": "I Heard It Through the Grapevine",
+      "id": null
+    },
+    {
+      "title": "The Midnight Special",
+      "id": null
+    },
+    {
+      "title": "Born on the Bayou",
+      "id": null
+    }
+  ]
+}
