@@ -1,1 +1,254 @@
-{"id": "i-m-ready-tevin-campbell", "title": "I'm Ready", "artist": "Tevin Campbell", "peak": 18, "history": [{"date": "1993-11-13", "rank": 18}, {"date": "1993-11-20", "rank": 20}, {"date": "1993-11-27", "rank": 29}, {"date": "1993-12-04", "rank": 24}, {"date": "1993-12-11", "rank": 30}, {"date": "1993-12-18", "rank": 34}, {"date": "1993-12-25", "rank": 47}, {"date": "1994-01-01", "rank": 46}, {"date": "1994-01-08", "rank": 40}, {"date": "1994-01-15", "rank": 41}, {"date": "1994-01-22", "rank": 33}, {"date": "1994-01-29", "rank": 30}, {"date": "1994-02-05", "rank": 31}, {"date": "1994-02-12", "rank": 29}, {"date": "1994-02-19", "rank": 26}, {"date": "1994-02-26", "rank": 28}, {"date": "1994-03-05", "rank": 29}, {"date": "1994-03-12", "rank": 27}, {"date": "1994-03-19", "rank": 28}, {"date": "1994-03-26", "rank": 30}, {"date": "1994-04-02", "rank": 26}, {"date": "1994-04-09", "rank": 29}, {"date": "1994-04-16", "rank": 29}, {"date": "1994-04-23", "rank": 26}, {"date": "1994-04-30", "rank": 29}, {"date": "1994-05-07", "rank": 27}, {"date": "1994-05-14", "rank": 27}, {"date": "1994-05-21", "rank": 28}, {"date": "1994-05-28", "rank": 36}, {"date": "1994-06-04", "rank": 35}, {"date": "1994-06-11", "rank": 44}, {"date": "1994-06-18", "rank": 42}, {"date": "1994-06-25", "rank": 52}, {"date": "1994-07-02", "rank": 53}, {"date": "1994-07-09", "rank": 52}, {"date": "1994-07-16", "rank": 61}, {"date": "1994-07-23", "rank": 62}, {"date": "1994-07-30", "rank": 65}, {"date": "1994-08-06", "rank": 68}, {"date": "1994-08-13", "rank": 69}, {"date": "1994-08-20", "rank": 74}, {"date": "1994-08-27", "rank": 81}, {"date": "1994-09-03", "rank": 92}, {"date": "1994-09-10", "rank": 101}, {"date": "1994-09-17", "rank": 113}, {"date": "1994-09-24", "rank": 126}, {"date": "1994-10-01", "rank": 157}, {"date": "1994-10-08", "rank": 179}, {"date": "1994-10-15", "rank": 197}]}
+{
+  "id": "i-m-ready-tevin-campbell",
+  "title": "I'm Ready",
+  "artist": "Tevin Campbell",
+  "peak": 18,
+  "history": [
+    {
+      "date": "1993-11-13",
+      "rank": 18
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 20
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 29
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 24
+    },
+    {
+      "date": "1993-12-11",
+      "rank": 30
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 34
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 47
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 46
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 40
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 41
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 33
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 30
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 31
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 29
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 26
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 28
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 29
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 27
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 28
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 30
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 26
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 29
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 29
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 26
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 29
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 27
+    },
+    {
+      "date": "1994-05-14",
+      "rank": 27
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 28
+    },
+    {
+      "date": "1994-05-28",
+      "rank": 36
+    },
+    {
+      "date": "1994-06-04",
+      "rank": 35
+    },
+    {
+      "date": "1994-06-11",
+      "rank": 44
+    },
+    {
+      "date": "1994-06-18",
+      "rank": 42
+    },
+    {
+      "date": "1994-06-25",
+      "rank": 52
+    },
+    {
+      "date": "1994-07-02",
+      "rank": 53
+    },
+    {
+      "date": "1994-07-09",
+      "rank": 52
+    },
+    {
+      "date": "1994-07-16",
+      "rank": 61
+    },
+    {
+      "date": "1994-07-23",
+      "rank": 62
+    },
+    {
+      "date": "1994-07-30",
+      "rank": 65
+    },
+    {
+      "date": "1994-08-06",
+      "rank": 68
+    },
+    {
+      "date": "1994-08-13",
+      "rank": 69
+    },
+    {
+      "date": "1994-08-20",
+      "rank": 74
+    },
+    {
+      "date": "1994-08-27",
+      "rank": 81
+    },
+    {
+      "date": "1994-09-03",
+      "rank": 92
+    },
+    {
+      "date": "1994-09-10",
+      "rank": 101
+    },
+    {
+      "date": "1994-09-17",
+      "rank": 113
+    },
+    {
+      "date": "1994-09-24",
+      "rank": 126
+    },
+    {
+      "date": "1994-10-01",
+      "rank": 157
+    },
+    {
+      "date": "1994-10-08",
+      "rank": 179
+    },
+    {
+      "date": "1994-10-15",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Can We Talk",
+      "id": "can-we-talk-tevin-campbell"
+    },
+    {
+      "title": "Don’t Say Goodbye Girl",
+      "id": "don-t-say-goodbye-girl-tevin-campbell"
+    },
+    {
+      "title": "I’m Ready",
+      "id": "i-m-ready-tevin-campbell"
+    },
+    {
+      "title": "Always in My Heart",
+      "id": "always-in-my-heart-tevin-campbell"
+    },
+    {
+      "title": "Interlude",
+      "id": null
+    },
+    {
+      "title": "The Halls of Desire",
+      "id": null
+    },
+    {
+      "title": "What Do I Say",
+      "id": null
+    },
+    {
+      "title": "Uncle Sam",
+      "id": null
+    },
+    {
+      "title": "Paris 1798430",
+      "id": null
+    },
+    {
+      "title": "Shhh",
+      "id": null
+    },
+    {
+      "title": "Brown Eyed Girl",
+      "id": null
+    },
+    {
+      "title": "Infant Child",
+      "id": null
+    }
+  ]
+}

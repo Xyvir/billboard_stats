@@ -1,1 +1,74 @@
-{"id": "impera-ghost", "title": "Impera", "artist": "Ghost", "peak": 2, "history": [{"date": "2022-03-26", "rank": 2}, {"date": "2022-04-02", "rank": 44}, {"date": "2022-04-09", "rank": 135}, {"date": "2022-12-10", "rank": 181}]}
+{
+  "id": "impera-ghost",
+  "title": "Impera",
+  "artist": "Ghost",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2022-03-26",
+      "rank": 2
+    },
+    {
+      "date": "2022-04-02",
+      "rank": 44
+    },
+    {
+      "date": "2022-04-09",
+      "rank": 135
+    },
+    {
+      "date": "2022-12-10",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Imperium",
+      "id": null
+    },
+    {
+      "title": "Kaisarion",
+      "id": null
+    },
+    {
+      "title": "Spillways",
+      "id": null
+    },
+    {
+      "title": "Call Me Little Sunshine",
+      "id": null
+    },
+    {
+      "title": "Hunter’s Moon",
+      "id": null
+    },
+    {
+      "title": "Watcher in the Sky",
+      "id": null
+    },
+    {
+      "title": "Dominion",
+      "id": null
+    },
+    {
+      "title": "Twenties",
+      "id": null
+    },
+    {
+      "title": "Darkness at the Heart of My Love",
+      "id": null
+    },
+    {
+      "title": "Griftwood",
+      "id": null
+    },
+    {
+      "title": "Bite of Passage",
+      "id": null
+    },
+    {
+      "title": "Respite on the Spitalfields",
+      "id": null
+    }
+  ]
+}

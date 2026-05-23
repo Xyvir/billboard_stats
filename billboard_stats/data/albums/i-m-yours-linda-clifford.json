@@ -1,1 +1,62 @@
-{"id": "i-m-yours-linda-clifford", "title": "I'm Yours", "artist": "Linda Clifford", "peak": 160, "history": [{"date": "1980-10-04", "rank": 184}, {"date": "1980-10-11", "rank": 174}, {"date": "1980-10-18", "rank": 165}, {"date": "1980-10-25", "rank": 160}, {"date": "1980-11-01", "rank": 199}, {"date": "1980-11-08", "rank": 199}]}
+{
+  "id": "i-m-yours-linda-clifford",
+  "title": "I'm Yours",
+  "artist": "Linda Clifford",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1980-10-04",
+      "rank": 184
+    },
+    {
+      "date": "1980-10-11",
+      "rank": 174
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 165
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 160
+    },
+    {
+      "date": "1980-11-01",
+      "rank": 199
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Red Light",
+      "id": "red-light-linda-clifford"
+    },
+    {
+      "title": "Shoot Your Best Shot",
+      "id": null
+    },
+    {
+      "title": "I Had a Talk With My Man",
+      "id": null
+    },
+    {
+      "title": "It Don’t Hurt No More",
+      "id": null
+    },
+    {
+      "title": "I Want to Get Away With You",
+      "id": null
+    },
+    {
+      "title": "If You Let Me",
+      "id": null
+    },
+    {
+      "title": "I’m Yours",
+      "id": null
+    }
+  ]
+}
