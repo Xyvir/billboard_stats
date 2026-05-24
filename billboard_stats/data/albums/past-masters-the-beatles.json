@@ -1,1 +1,150 @@
-{"id": "past-masters-the-beatles", "title": "Past Masters", "artist": "The Beatles", "peak": 154, "history": [{"date": "2010-01-02", "rank": 177}, {"date": "2010-01-09", "rank": 154}]}
+{
+  "id": "past-masters-the-beatles",
+  "title": "Past Masters",
+  "artist": "The Beatles",
+  "peak": 154,
+  "history": [
+    {
+      "date": "2010-01-02",
+      "rank": 177
+    },
+    {
+      "date": "2010-01-09",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Me Do",
+      "id": "love-me-do-the-beatles"
+    },
+    {
+      "title": "From Me to You",
+      "id": "from-me-to-you-the-beatles"
+    },
+    {
+      "title": "Thank You Girl",
+      "id": "thank-you-girl-the-beatles"
+    },
+    {
+      "title": "She Loves You",
+      "id": "she-loves-you-the-beatles"
+    },
+    {
+      "title": "I’ll Get You",
+      "id": "p-s-i-love-you-the-beatles"
+    },
+    {
+      "title": "I Want to Hold Your Hand",
+      "id": "i-want-to-hold-your-hand-the-beatles"
+    },
+    {
+      "title": "Komm gib mir deine Hand (I Want to Hold Your Hand)",
+      "id": "i-want-to-hold-your-hand-the-beatles"
+    },
+    {
+      "title": "Slow Down",
+      "id": "slow-down-the-beatles"
+    },
+    {
+      "title": "Matchbox",
+      "id": "matchbox-the-beatles"
+    },
+    {
+      "title": "I Feel Fine",
+      "id": "i-feel-fine-the-beatles"
+    },
+    {
+      "title": "She’s a Woman",
+      "id": "she-s-a-woman-the-beatles"
+    },
+    {
+      "title": "Yes It Is",
+      "id": "yes-it-is-the-beatles"
+    },
+    {
+      "title": "Day Tripper",
+      "id": "day-tripper-the-beatles"
+    },
+    {
+      "title": "We Can Work It Out",
+      "id": "we-can-work-it-out-the-beatles"
+    },
+    {
+      "title": "Paperback Writer",
+      "id": "paperback-writer-the-beatles"
+    },
+    {
+      "title": "Rain",
+      "id": "rain-the-beatles"
+    },
+    {
+      "title": "Lady Madonna",
+      "id": "lady-madonna-the-beatles"
+    },
+    {
+      "title": "The Inner Light",
+      "id": "the-inner-light-the-beatles"
+    },
+    {
+      "title": "Hey Jude",
+      "id": "hey-jude-the-beatles"
+    },
+    {
+      "title": "Revolution",
+      "id": "revolution-the-beatles"
+    },
+    {
+      "title": "The Ballad of John and Yoko",
+      "id": "the-ballad-of-john-and-yoko-the-beatles"
+    },
+    {
+      "title": "Let It Be",
+      "id": "let-it-be-the-beatles"
+    },
+    {
+      "title": "This Boy",
+      "id": null
+    },
+    {
+      "title": "Sie liebt dich",
+      "id": null
+    },
+    {
+      "title": "Long Tall Sally",
+      "id": null
+    },
+    {
+      "title": "I Call Your Name",
+      "id": null
+    },
+    {
+      "title": "Bad Boy",
+      "id": null
+    },
+    {
+      "title": "I’m Down",
+      "id": null
+    },
+    {
+      "title": "Get Back",
+      "id": null
+    },
+    {
+      "title": "Don’t Let Me Down",
+      "id": null
+    },
+    {
+      "title": "Old Brown Shoe",
+      "id": null
+    },
+    {
+      "title": "Across the Universe",
+      "id": null
+    },
+    {
+      "title": "You Know My Name (Look Up the Number)",
+      "id": null
+    }
+  ]
+}

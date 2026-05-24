@@ -1,1 +1,66 @@
-{"id": "passione-paul-potts", "title": "Passione", "artist": "Paul Potts", "peak": 33, "history": [{"date": "2009-05-23", "rank": 33}, {"date": "2009-05-30", "rank": 86}, {"date": "2009-06-06", "rank": 174}]}
+{
+  "id": "passione-paul-potts",
+  "title": "Passione",
+  "artist": "Paul Potts",
+  "peak": 33,
+  "history": [
+    {
+      "date": "2009-05-23",
+      "rank": 33
+    },
+    {
+      "date": "2009-05-30",
+      "rank": 86
+    },
+    {
+      "date": "2009-06-06",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "La prima volta (First Time Ever I Saw Your Face)",
+      "id": null
+    },
+    {
+      "title": "Sei con me (There for Me)",
+      "id": null
+    },
+    {
+      "title": "Un giorno per noi (A Time for Us)",
+      "id": null
+    },
+    {
+      "title": "Il canto",
+      "id": null
+    },
+    {
+      "title": "Senza luce (A Whiter Shade of Pale)",
+      "id": null
+    },
+    {
+      "title": "Piano (Memory)",
+      "id": null
+    },
+    {
+      "title": "Mamma",
+      "id": null
+    },
+    {
+      "title": "Tristesse",
+      "id": null
+    },
+    {
+      "title": "Bellamore",
+      "id": null
+    },
+    {
+      "title": "Tosca: “E lucevan le stelle”",
+      "id": null
+    },
+    {
+      "title": "Dein ist mein ganzes Herz",
+      "id": null
+    }
+  ]
+}
