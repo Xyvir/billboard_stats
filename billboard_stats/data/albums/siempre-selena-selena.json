@@ -1,1 +1,70 @@
-{"id": "siempre-selena-selena", "title": "Siempre Selena", "artist": "Selena", "peak": 82, "history": [{"date": "1996-11-23", "rank": 82}, {"date": "1996-11-30", "rank": 89}, {"date": "1996-12-07", "rank": 129}, {"date": "1996-12-14", "rank": 164}, {"date": "1996-12-21", "rank": 184}]}
+{
+  "id": "siempre-selena-selena",
+  "title": "Siempre Selena",
+  "artist": "Selena",
+  "peak": 82,
+  "history": [
+    {
+      "date": "1996-11-23",
+      "rank": 82
+    },
+    {
+      "date": "1996-11-30",
+      "rank": 89
+    },
+    {
+      "date": "1996-12-07",
+      "rank": 129
+    },
+    {
+      "date": "1996-12-14",
+      "rank": 164
+    },
+    {
+      "date": "1996-12-21",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Siempre hace frio",
+      "id": null
+    },
+    {
+      "title": "Only Love",
+      "id": null
+    },
+    {
+      "title": "Soy amiga",
+      "id": null
+    },
+    {
+      "title": "Cómo quisiera",
+      "id": null
+    },
+    {
+      "title": "A Million to One",
+      "id": null
+    },
+    {
+      "title": "Costumbres",
+      "id": null
+    },
+    {
+      "title": "Cien años",
+      "id": null
+    },
+    {
+      "title": "Tú robaste mi corazón",
+      "id": null
+    },
+    {
+      "title": "Ya no",
+      "id": null
+    },
+    {
+      "title": "No quiero saber",
+      "id": null
+    }
+  ]
+}

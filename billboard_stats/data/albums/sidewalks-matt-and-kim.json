@@ -1,1 +1,62 @@
-{"id": "sidewalks-matt-and-kim", "title": "Sidewalks", "artist": "Matt And Kim", "peak": 30, "history": [{"date": "2010-11-20", "rank": 30}, {"date": "2010-11-27", "rank": 115}, {"date": "2011-01-29", "rank": 177}]}
+{
+  "id": "sidewalks-matt-and-kim",
+  "title": "Sidewalks",
+  "artist": "Matt And Kim",
+  "peak": 30,
+  "history": [
+    {
+      "date": "2010-11-20",
+      "rank": 30
+    },
+    {
+      "date": "2010-11-27",
+      "rank": 115
+    },
+    {
+      "date": "2011-01-29",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Block After Block",
+      "id": null
+    },
+    {
+      "title": "AM/FM Sound",
+      "id": null
+    },
+    {
+      "title": "Cameras",
+      "id": null
+    },
+    {
+      "title": "Red Paint",
+      "id": null
+    },
+    {
+      "title": "Where You're Coming From",
+      "id": null
+    },
+    {
+      "title": "Good for Great",
+      "id": null
+    },
+    {
+      "title": "Northeast",
+      "id": null
+    },
+    {
+      "title": "Wires",
+      "id": null
+    },
+    {
+      "title": "Silver Tiles",
+      "id": null
+    },
+    {
+      "title": "Ice Melts",
+      "id": null
+    }
+  ]
+}

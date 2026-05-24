@@ -1,1 +1,98 @@
-{"id": "signature-joe", "title": "Signature", "artist": "Joe", "peak": 7, "history": [{"date": "2009-08-01", "rank": 7}, {"date": "2009-08-08", "rank": 26}, {"date": "2009-08-15", "rank": 39}, {"date": "2009-08-22", "rank": 55}, {"date": "2009-08-29", "rank": 74}, {"date": "2009-09-05", "rank": 89}, {"date": "2009-09-12", "rank": 119}, {"date": "2009-09-19", "rank": 121}, {"date": "2009-09-26", "rank": 152}, {"date": "2009-10-03", "rank": 181}]}
+{
+  "id": "signature-joe",
+  "title": "Signature",
+  "artist": "Joe",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2009-08-01",
+      "rank": 7
+    },
+    {
+      "date": "2009-08-08",
+      "rank": 26
+    },
+    {
+      "date": "2009-08-15",
+      "rank": 39
+    },
+    {
+      "date": "2009-08-22",
+      "rank": 55
+    },
+    {
+      "date": "2009-08-29",
+      "rank": 74
+    },
+    {
+      "date": "2009-09-05",
+      "rank": 89
+    },
+    {
+      "date": "2009-09-12",
+      "rank": 119
+    },
+    {
+      "date": "2009-09-19",
+      "rank": 121
+    },
+    {
+      "date": "2009-09-26",
+      "rank": 152
+    },
+    {
+      "date": "2009-10-03",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Majic",
+      "id": null
+    },
+    {
+      "title": "Sex Girl",
+      "id": null
+    },
+    {
+      "title": "Very Special Friend",
+      "id": null
+    },
+    {
+      "title": "Friends Don’t Let Friends",
+      "id": null
+    },
+    {
+      "title": "Worst Case Scenario",
+      "id": null
+    },
+    {
+      "title": "Wanna Be Your Lover",
+      "id": null
+    },
+    {
+      "title": "Miss My Baby",
+      "id": null
+    },
+    {
+      "title": "Come Get to This",
+      "id": null
+    },
+    {
+      "title": "Metaphor",
+      "id": null
+    },
+    {
+      "title": "Love’s Greatest Episode",
+      "id": null
+    },
+    {
+      "title": "Sensitive Lover",
+      "id": null
+    },
+    {
+      "title": "Change",
+      "id": null
+    }
+  ]
+}
