@@ -1,1 +1,130 @@
-{"id": "pearl-jam-pearl-jam", "title": "Pearl Jam", "artist": "Pearl Jam", "peak": 2, "history": [{"date": "2006-05-20", "rank": 2}, {"date": "2006-05-27", "rank": 8}, {"date": "2006-06-03", "rank": 10}, {"date": "2006-06-10", "rank": 17}, {"date": "2006-06-17", "rank": 22}, {"date": "2006-06-24", "rank": 35}, {"date": "2006-07-01", "rank": 35}, {"date": "2006-07-08", "rank": 51}, {"date": "2006-07-15", "rank": 60}, {"date": "2006-07-22", "rank": 73}, {"date": "2006-07-29", "rank": 97}, {"date": "2006-08-05", "rank": 107}, {"date": "2006-08-12", "rank": 137}, {"date": "2006-08-19", "rank": 139}, {"date": "2006-08-26", "rank": 157}, {"date": "2006-09-02", "rank": 171}, {"date": "2006-09-09", "rank": 191}]}
+{
+  "id": "pearl-jam-pearl-jam",
+  "title": "Pearl Jam",
+  "artist": "Pearl Jam",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2006-05-20",
+      "rank": 2
+    },
+    {
+      "date": "2006-05-27",
+      "rank": 8
+    },
+    {
+      "date": "2006-06-03",
+      "rank": 10
+    },
+    {
+      "date": "2006-06-10",
+      "rank": 17
+    },
+    {
+      "date": "2006-06-17",
+      "rank": 22
+    },
+    {
+      "date": "2006-06-24",
+      "rank": 35
+    },
+    {
+      "date": "2006-07-01",
+      "rank": 35
+    },
+    {
+      "date": "2006-07-08",
+      "rank": 51
+    },
+    {
+      "date": "2006-07-15",
+      "rank": 60
+    },
+    {
+      "date": "2006-07-22",
+      "rank": 73
+    },
+    {
+      "date": "2006-07-29",
+      "rank": 97
+    },
+    {
+      "date": "2006-08-05",
+      "rank": 107
+    },
+    {
+      "date": "2006-08-12",
+      "rank": 137
+    },
+    {
+      "date": "2006-08-19",
+      "rank": 139
+    },
+    {
+      "date": "2006-08-26",
+      "rank": 157
+    },
+    {
+      "date": "2006-09-02",
+      "rank": 171
+    },
+    {
+      "date": "2006-09-09",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "World Wide Suicide",
+      "id": "world-wide-suicide-pearl-jam"
+    },
+    {
+      "title": "Life Wasted",
+      "id": null
+    },
+    {
+      "title": "Comatose",
+      "id": null
+    },
+    {
+      "title": "Severed Hand",
+      "id": null
+    },
+    {
+      "title": "Marker in the Sand",
+      "id": null
+    },
+    {
+      "title": "Parachutes",
+      "id": null
+    },
+    {
+      "title": "Unemployable",
+      "id": null
+    },
+    {
+      "title": "Big Wave",
+      "id": null
+    },
+    {
+      "title": "Gone",
+      "id": null
+    },
+    {
+      "title": "Wasted Reprise",
+      "id": null
+    },
+    {
+      "title": "Army Reserve",
+      "id": null
+    },
+    {
+      "title": "Come Back",
+      "id": null
+    },
+    {
+      "title": "Inside Job",
+      "id": null
+    }
+  ]
+}

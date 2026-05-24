@@ -1,1 +1,102 @@
-{"id": "peep-this-jamie-foxx", "title": "Peep This", "artist": "Jamie Foxx", "peak": 78, "history": [{"date": "1994-08-06", "rank": 78}, {"date": "1994-08-13", "rank": 86}, {"date": "1994-08-20", "rank": 92}, {"date": "1994-08-27", "rank": 107}, {"date": "1994-09-03", "rank": 118}, {"date": "1994-09-10", "rank": 163}, {"date": "1994-09-17", "rank": 138}, {"date": "1994-09-24", "rank": 150}, {"date": "1994-10-01", "rank": 186}, {"date": "1994-10-08", "rank": 192}]}
+{
+  "id": "peep-this-jamie-foxx",
+  "title": "Peep This",
+  "artist": "Jamie Foxx",
+  "peak": 78,
+  "history": [
+    {
+      "date": "1994-08-06",
+      "rank": 78
+    },
+    {
+      "date": "1994-08-13",
+      "rank": 86
+    },
+    {
+      "date": "1994-08-20",
+      "rank": 92
+    },
+    {
+      "date": "1994-08-27",
+      "rank": 107
+    },
+    {
+      "date": "1994-09-03",
+      "rank": 118
+    },
+    {
+      "date": "1994-09-10",
+      "rank": 163
+    },
+    {
+      "date": "1994-09-17",
+      "rank": 138
+    },
+    {
+      "date": "1994-09-24",
+      "rank": 150
+    },
+    {
+      "date": "1994-10-01",
+      "rank": 186
+    },
+    {
+      "date": "1994-10-08",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Infatuation",
+      "id": "infatuation-jamie-foxx"
+    },
+    {
+      "title": "Peep This",
+      "id": null
+    },
+    {
+      "title": "Experiment",
+      "id": null
+    },
+    {
+      "title": "Miss You",
+      "id": null
+    },
+    {
+      "title": "Dog House",
+      "id": null
+    },
+    {
+      "title": "Baby Don't Cry",
+      "id": null
+    },
+    {
+      "title": "Precious",
+      "id": null
+    },
+    {
+      "title": "Your Love",
+      "id": null
+    },
+    {
+      "title": "Summertime",
+      "id": null
+    },
+    {
+      "title": "If You Love Me",
+      "id": null
+    },
+    {
+      "title": "Don’t Let the Sun Go Down",
+      "id": null
+    },
+    {
+      "title": "Peep This Out",
+      "id": null
+    },
+    {
+      "title": "Light a Candle",
+      "id": null
+    }
+  ]
+}

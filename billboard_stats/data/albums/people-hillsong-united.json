@@ -1,1 +1,78 @@
-{"id": "people-hillsong-united", "title": "People", "artist": "Hillsong United", "peak": 2, "history": [{"date": "2019-05-11", "rank": 2}, {"date": "2019-05-18", "rank": 66}, {"date": "2019-05-25", "rank": 112}, {"date": "2019-06-01", "rank": 196}, {"date": "2019-06-29", "rank": 131}]}
+{
+  "id": "people-hillsong-united",
+  "title": "People",
+  "artist": "Hillsong United",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2019-05-11",
+      "rank": 2
+    },
+    {
+      "date": "2019-05-18",
+      "rank": 66
+    },
+    {
+      "date": "2019-05-25",
+      "rank": 112
+    },
+    {
+      "date": "2019-06-01",
+      "rank": 196
+    },
+    {
+      "date": "2019-06-29",
+      "rank": 131
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ready or Not",
+      "id": null
+    },
+    {
+      "title": "Here’s to the One",
+      "id": null
+    },
+    {
+      "title": "Might Sound Wild",
+      "id": null
+    },
+    {
+      "title": "Whole Heart (Hold Me Now)",
+      "id": null
+    },
+    {
+      "title": "As You Find Me",
+      "id": null
+    },
+    {
+      "title": "Clean",
+      "id": null
+    },
+    {
+      "title": "Starts and Ends",
+      "id": null
+    },
+    {
+      "title": "Highlands (Song of Ascent)",
+      "id": null
+    },
+    {
+      "title": "Holy Ground",
+      "id": null
+    },
+    {
+      "title": "Another in the Fire",
+      "id": null
+    },
+    {
+      "title": "Good Grace",
+      "id": null
+    },
+    {
+      "title": "Echoes (Till We See the Other Side)",
+      "id": null
+    }
+  ]
+}

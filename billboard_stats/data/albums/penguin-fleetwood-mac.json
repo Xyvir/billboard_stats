@@ -1,1 +1,98 @@
-{"id": "penguin-fleetwood-mac", "title": "Penguin", "artist": "Fleetwood Mac", "peak": 49, "history": [{"date": "1973-04-28", "rank": 116}, {"date": "1973-05-05", "rank": 93}, {"date": "1973-05-12", "rank": 61}, {"date": "1973-05-19", "rank": 53}, {"date": "1973-05-26", "rank": 51}, {"date": "1973-06-02", "rank": 49}, {"date": "1973-06-09", "rank": 54}, {"date": "1973-06-16", "rank": 70}, {"date": "1973-06-23", "rank": 89}, {"date": "1973-06-30", "rank": 101}, {"date": "1973-07-07", "rank": 123}, {"date": "1973-07-14", "rank": 136}, {"date": "1973-07-21", "rank": 155}]}
+{
+  "id": "penguin-fleetwood-mac",
+  "title": "Penguin",
+  "artist": "Fleetwood Mac",
+  "peak": 49,
+  "history": [
+    {
+      "date": "1973-04-28",
+      "rank": 116
+    },
+    {
+      "date": "1973-05-05",
+      "rank": 93
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 61
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 53
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 51
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 49
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 54
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 70
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 89
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 101
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 123
+    },
+    {
+      "date": "1973-07-14",
+      "rank": 136
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Did You Ever Love Me",
+      "id": "say-you-love-me-fleetwood-mac"
+    },
+    {
+      "title": "Remember Me",
+      "id": null
+    },
+    {
+      "title": "Bright Fire",
+      "id": null
+    },
+    {
+      "title": "Dissatisfied",
+      "id": null
+    },
+    {
+      "title": "(I’m a) Road Runner",
+      "id": null
+    },
+    {
+      "title": "The Derelict",
+      "id": null
+    },
+    {
+      "title": "Revelation",
+      "id": null
+    },
+    {
+      "title": "Night Watch",
+      "id": null
+    },
+    {
+      "title": "Caught in the Rain",
+      "id": null
+    }
+  ]
+}

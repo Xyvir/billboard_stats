@@ -1,1 +1,218 @@
-{"id": "pentatonix-pentatonix", "title": "Pentatonix", "artist": "Pentatonix", "peak": 1, "history": [{"date": "2015-11-07", "rank": 1}, {"date": "2015-11-14", "rank": 8}, {"date": "2015-11-21", "rank": 22}, {"date": "2015-11-28", "rank": 29}, {"date": "2015-12-05", "rank": 37}, {"date": "2015-12-12", "rank": 22}, {"date": "2015-12-19", "rank": 15}, {"date": "2015-12-26", "rank": 16}, {"date": "2016-01-02", "rank": 15}, {"date": "2016-01-09", "rank": 13}, {"date": "2016-01-16", "rank": 31}, {"date": "2016-01-23", "rank": 35}, {"date": "2016-01-30", "rank": 50}, {"date": "2016-02-06", "rank": 83}, {"date": "2016-02-13", "rank": 108}, {"date": "2016-02-20", "rank": 122}, {"date": "2016-02-27", "rank": 142}, {"date": "2016-03-05", "rank": 110}, {"date": "2016-03-12", "rank": 144}, {"date": "2016-03-19", "rank": 161}, {"date": "2016-03-26", "rank": 198}, {"date": "2016-05-28", "rank": 192}, {"date": "2016-11-12", "rank": 166}, {"date": "2016-12-10", "rank": 189}, {"date": "2016-12-17", "rank": 157}, {"date": "2016-12-24", "rank": 144}, {"date": "2016-12-31", "rank": 99}, {"date": "2017-01-07", "rank": 46}, {"date": "2017-01-14", "rank": 81}, {"date": "2017-01-21", "rank": 158}]}
+{
+  "id": "pentatonix-pentatonix",
+  "title": "Pentatonix",
+  "artist": "Pentatonix",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2015-11-07",
+      "rank": 1
+    },
+    {
+      "date": "2015-11-14",
+      "rank": 8
+    },
+    {
+      "date": "2015-11-21",
+      "rank": 22
+    },
+    {
+      "date": "2015-11-28",
+      "rank": 29
+    },
+    {
+      "date": "2015-12-05",
+      "rank": 37
+    },
+    {
+      "date": "2015-12-12",
+      "rank": 22
+    },
+    {
+      "date": "2015-12-19",
+      "rank": 15
+    },
+    {
+      "date": "2015-12-26",
+      "rank": 16
+    },
+    {
+      "date": "2016-01-02",
+      "rank": 15
+    },
+    {
+      "date": "2016-01-09",
+      "rank": 13
+    },
+    {
+      "date": "2016-01-16",
+      "rank": 31
+    },
+    {
+      "date": "2016-01-23",
+      "rank": 35
+    },
+    {
+      "date": "2016-01-30",
+      "rank": 50
+    },
+    {
+      "date": "2016-02-06",
+      "rank": 83
+    },
+    {
+      "date": "2016-02-13",
+      "rank": 108
+    },
+    {
+      "date": "2016-02-20",
+      "rank": 122
+    },
+    {
+      "date": "2016-02-27",
+      "rank": 142
+    },
+    {
+      "date": "2016-03-05",
+      "rank": 110
+    },
+    {
+      "date": "2016-03-12",
+      "rank": 144
+    },
+    {
+      "date": "2016-03-19",
+      "rank": 161
+    },
+    {
+      "date": "2016-03-26",
+      "rank": 198
+    },
+    {
+      "date": "2016-05-28",
+      "rank": 192
+    },
+    {
+      "date": "2016-11-12",
+      "rank": 166
+    },
+    {
+      "date": "2016-12-10",
+      "rank": 189
+    },
+    {
+      "date": "2016-12-17",
+      "rank": 157
+    },
+    {
+      "date": "2016-12-24",
+      "rank": 144
+    },
+    {
+      "date": "2016-12-31",
+      "rank": 99
+    },
+    {
+      "date": "2017-01-07",
+      "rank": 46
+    },
+    {
+      "date": "2017-01-14",
+      "rank": 81
+    },
+    {
+      "date": "2017-01-21",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Can’t Sleep Love (Danny L Harle remix)",
+      "id": "can-t-sleep-love-pentatonix"
+    },
+    {
+      "title": "Can’t Sleep Love",
+      "id": "can-t-sleep-love-pentatonix"
+    },
+    {
+      "title": "Perfume Medley",
+      "id": null
+    },
+    {
+      "title": "No",
+      "id": null
+    },
+    {
+      "title": "Na Na Na",
+      "id": null
+    },
+    {
+      "title": "Sing",
+      "id": null
+    },
+    {
+      "title": "Misbehavin’",
+      "id": null
+    },
+    {
+      "title": "Ref",
+      "id": null
+    },
+    {
+      "title": "First Things First",
+      "id": null
+    },
+    {
+      "title": "Rose Gold",
+      "id": null
+    },
+    {
+      "title": "If I Ever Fall in Love",
+      "id": null
+    },
+    {
+      "title": "Cracked",
+      "id": null
+    },
+    {
+      "title": "Water",
+      "id": null
+    },
+    {
+      "title": "Take Me Home",
+      "id": null
+    },
+    {
+      "title": "New Year’s Day",
+      "id": null
+    },
+    {
+      "title": "Light in the Hallway",
+      "id": null
+    },
+    {
+      "title": "Where Are Ü Now",
+      "id": null
+    },
+    {
+      "title": "Lean On",
+      "id": null
+    },
+    {
+      "title": "Problem",
+      "id": null
+    },
+    {
+      "title": "La La Latch",
+      "id": null
+    },
+    {
+      "title": "Rather Be",
+      "id": null
+    },
+    {
+      "title": "Papaoutai",
+      "id": null
+    }
+  ]
+}

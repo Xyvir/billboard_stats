@@ -1,1 +1,70 @@
-{"id": "peach-melba-melba-moore", "title": "Peach Melba", "artist": "Melba Moore", "peak": 176, "history": [{"date": "1975-07-05", "rank": 195}, {"date": "1975-07-12", "rank": 191}, {"date": "1975-07-19", "rank": 176}, {"date": "1975-07-26", "rank": 176}]}
+{
+  "id": "peach-melba-melba-moore",
+  "title": "Peach Melba",
+  "artist": "Melba Moore",
+  "peak": 176,
+  "history": [
+    {
+      "date": "1975-07-05",
+      "rank": 195
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 191
+    },
+    {
+      "date": "1975-07-19",
+      "rank": 176
+    },
+    {
+      "date": "1975-07-26",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Must Be Dues",
+      "id": null
+    },
+    {
+      "title": "Get Into My Mind",
+      "id": null
+    },
+    {
+      "title": "If You Can Believe",
+      "id": null
+    },
+    {
+      "title": "Sunshine Superman",
+      "id": null
+    },
+    {
+      "title": "My Soul Is Satisfied",
+      "id": null
+    },
+    {
+      "title": "I Am His Lady",
+      "id": null
+    },
+    {
+      "title": "Green Birds Fly",
+      "id": null
+    },
+    {
+      "title": "Natural Part of Everything",
+      "id": null
+    },
+    {
+      "title": "Love Can Be Good to You",
+      "id": null
+    },
+    {
+      "title": "A Million Years Before This Time",
+      "id": null
+    },
+    {
+      "title": "If I Lose",
+      "id": null
+    }
+  ]
+}
