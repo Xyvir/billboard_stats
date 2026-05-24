@@ -1,1 +1,54 @@
-{"id": "super-blue-freddie-hubbard", "title": "Super Blue", "artist": "Freddie Hubbard", "peak": 131, "history": [{"date": "1978-07-15", "rank": 154}, {"date": "1978-07-22", "rank": 144}, {"date": "1978-07-29", "rank": 131}, {"date": "1978-08-05", "rank": 131}, {"date": "1978-08-12", "rank": 191}]}
+{
+  "id": "super-blue-freddie-hubbard",
+  "title": "Super Blue",
+  "artist": "Freddie Hubbard",
+  "peak": 131,
+  "history": [
+    {
+      "date": "1978-07-15",
+      "rank": 154
+    },
+    {
+      "date": "1978-07-22",
+      "rank": 144
+    },
+    {
+      "date": "1978-07-29",
+      "rank": 131
+    },
+    {
+      "date": "1978-08-05",
+      "rank": 131
+    },
+    {
+      "date": "1978-08-12",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Super Blue",
+      "id": null
+    },
+    {
+      "title": "To Her Ladyship",
+      "id": null
+    },
+    {
+      "title": "Take It to the Ozone",
+      "id": null
+    },
+    {
+      "title": "The Gospel Truth",
+      "id": null
+    },
+    {
+      "title": "The Surest Things Can Change",
+      "id": null
+    },
+    {
+      "title": "Theme for Kareem",
+      "id": null
+    }
+  ]
+}

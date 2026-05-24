@@ -1,1 +1,106 @@
-{"id": "sunshine-the-emotions", "title": "Sunshine", "artist": "The Emotions", "peak": 88, "history": [{"date": "1977-12-03", "rank": 152}, {"date": "1977-12-10", "rank": 140}, {"date": "1977-12-17", "rank": 136}, {"date": "1977-12-24", "rank": 126}, {"date": "1977-12-31", "rank": 126}, {"date": "1978-01-07", "rank": 115}, {"date": "1978-01-14", "rank": 105}, {"date": "1978-01-21", "rank": 100}, {"date": "1978-01-28", "rank": 99}, {"date": "1978-02-04", "rank": 93}, {"date": "1978-02-11", "rank": 90}, {"date": "1978-02-18", "rank": 98}, {"date": "1978-02-25", "rank": 88}, {"date": "1978-03-04", "rank": 88}, {"date": "1978-03-11", "rank": 130}]}
+{
+  "id": "sunshine-the-emotions",
+  "title": "Sunshine",
+  "artist": "The Emotions",
+  "peak": 88,
+  "history": [
+    {
+      "date": "1977-12-03",
+      "rank": 152
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 140
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 136
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 126
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 126
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 115
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 105
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 100
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 99
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 93
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 90
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 98
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 88
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 88
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 130
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Put a Little Love Away",
+      "id": "put-a-little-love-away-the-emotions"
+    },
+    {
+      "title": "Shouting Out Love",
+      "id": null
+    },
+    {
+      "title": "Geewhiz (Look at His Eyes)",
+      "id": null
+    },
+    {
+      "title": "I Really Miss You",
+      "id": null
+    },
+    {
+      "title": "Ain’t No Sunshine",
+      "id": null
+    },
+    {
+      "title": "Runnin’ Back (And Forth)",
+      "id": null
+    },
+    {
+      "title": "Anyway You Look at It",
+      "id": null
+    },
+    {
+      "title": "Baby, I’m Through",
+      "id": null
+    },
+    {
+      "title": "Innocent",
+      "id": null
+    }
+  ]
+}

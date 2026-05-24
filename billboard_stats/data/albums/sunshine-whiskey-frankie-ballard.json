@@ -1,1 +1,70 @@
-{"id": "sunshine-whiskey-frankie-ballard", "title": "Sunshine & Whiskey", "artist": "Frankie Ballard", "peak": 35, "history": [{"date": "2014-03-01", "rank": 35}, {"date": "2014-03-08", "rank": 91}, {"date": "2014-03-15", "rank": 153}, {"date": "2014-07-12", "rank": 177}]}
+{
+  "id": "sunshine-whiskey-frankie-ballard",
+  "title": "Sunshine & Whiskey",
+  "artist": "Frankie Ballard",
+  "peak": 35,
+  "history": [
+    {
+      "date": "2014-03-01",
+      "rank": 35
+    },
+    {
+      "date": "2014-03-08",
+      "rank": 91
+    },
+    {
+      "date": "2014-03-15",
+      "rank": 153
+    },
+    {
+      "date": "2014-07-12",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Young & Crazy",
+      "id": "young-crazy-frankie-ballard"
+    },
+    {
+      "title": "Sunshine & Whiskey",
+      "id": "sunshine-whiskey-frankie-ballard"
+    },
+    {
+      "title": "Helluva Life",
+      "id": "helluva-life-frankie-ballard"
+    },
+    {
+      "title": "It Don’t Take Much",
+      "id": null
+    },
+    {
+      "title": "Drinky Drink",
+      "id": null
+    },
+    {
+      "title": "Tell Me You Get Lonely",
+      "id": null
+    },
+    {
+      "title": "Sober Me Up (2013 mix)",
+      "id": null
+    },
+    {
+      "title": "I’m Thinking Country",
+      "id": null
+    },
+    {
+      "title": "Tip Jar",
+      "id": null
+    },
+    {
+      "title": "Don’t You Wanna Fall",
+      "id": null
+    },
+    {
+      "title": "Don’t Tell Mama I Was Drinking",
+      "id": null
+    }
+  ]
+}

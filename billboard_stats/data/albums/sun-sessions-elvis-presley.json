@@ -1,1 +1,118 @@
-{"id": "sun-sessions-elvis-presley", "title": "Sun Sessions", "artist": "Elvis Presley", "peak": 76, "history": [{"date": "1976-04-17", "rank": 144}, {"date": "1976-04-24", "rank": 120}, {"date": "1976-05-01", "rank": 109}, {"date": "1976-05-08", "rank": 92}, {"date": "1976-05-15", "rank": 82}, {"date": "1976-05-22", "rank": 79}, {"date": "1976-05-29", "rank": 76}, {"date": "1976-06-05", "rank": 116}, {"date": "1976-06-12", "rank": 116}, {"date": "1976-06-19", "rank": 196}, {"date": "1976-06-26", "rank": 191}]}
+{
+  "id": "sun-sessions-elvis-presley",
+  "title": "Sun Sessions",
+  "artist": "Elvis Presley",
+  "peak": 76,
+  "history": [
+    {
+      "date": "1976-04-17",
+      "rank": 144
+    },
+    {
+      "date": "1976-04-24",
+      "rank": 120
+    },
+    {
+      "date": "1976-05-01",
+      "rank": 109
+    },
+    {
+      "date": "1976-05-08",
+      "rank": 92
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 82
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 79
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 76
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 116
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 116
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 196
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Trying to Get to You",
+      "id": "in-the-ghetto-elvis-presley"
+    },
+    {
+      "title": "That’s All Right",
+      "id": null
+    },
+    {
+      "title": "Blue Moon of Kentucky",
+      "id": null
+    },
+    {
+      "title": "I Don’t Care If the Sun Don’t Shine",
+      "id": null
+    },
+    {
+      "title": "Good Rockin’ Tonight",
+      "id": null
+    },
+    {
+      "title": "Milk Cow Blues",
+      "id": null
+    },
+    {
+      "title": "You’re a Heartbreaker",
+      "id": null
+    },
+    {
+      "title": "I’m Left, You’re Right, She’s Gone",
+      "id": null
+    },
+    {
+      "title": "Baby, Let’s Play House",
+      "id": null
+    },
+    {
+      "title": "Mystery Train",
+      "id": null
+    },
+    {
+      "title": "I Forgot to Remember to Forget",
+      "id": null
+    },
+    {
+      "title": "I’ll Never Let You Go (Little Darlin’)",
+      "id": null
+    },
+    {
+      "title": "I Love You Because",
+      "id": null
+    },
+    {
+      "title": "Blue Moon",
+      "id": null
+    },
+    {
+      "title": "Just Because",
+      "id": null
+    },
+    {
+      "title": "I Love You Because (2nd Version)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "sunrise-jimmy-ruffin", "title": "Sunrise", "artist": "Jimmy Ruffin", "peak": 152, "history": [{"date": "1980-05-31", "rank": 182}, {"date": "1980-06-07", "rank": 162}, {"date": "1980-06-14", "rank": 152}, {"date": "1980-06-21", "rank": 152}, {"date": "1980-06-28", "rank": 174}, {"date": "1980-07-05", "rank": 194}]}
+{
+  "id": "sunrise-jimmy-ruffin",
+  "title": "Sunrise",
+  "artist": "Jimmy Ruffin",
+  "peak": 152,
+  "history": [
+    {
+      "date": "1980-05-31",
+      "rank": 182
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 162
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 152
+    },
+    {
+      "date": "1980-06-21",
+      "rank": 152
+    },
+    {
+      "date": "1980-06-28",
+      "rank": 174
+    },
+    {
+      "date": "1980-07-05",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hold On (to My Love)",
+      "id": "hold-on-to-my-love-jimmy-ruffin"
+    },
+    {
+      "title": "Forever",
+      "id": null
+    },
+    {
+      "title": "Night of Love",
+      "id": null
+    },
+    {
+      "title": "Searchin’",
+      "id": null
+    },
+    {
+      "title": "Changin’ Me",
+      "id": null
+    },
+    {
+      "title": "Where Do I Go",
+      "id": null
+    },
+    {
+      "title": "Two People",
+      "id": null
+    },
+    {
+      "title": "Jealousy",
+      "id": null
+    },
+    {
+      "title": "Songbird",
+      "id": null
+    }
+  ]
+}

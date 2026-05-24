@@ -1,1 +1,82 @@
-{"id": "sunny-days-lighthouse", "title": "Sunny Days", "artist": "Lighthouse", "peak": 190, "history": [{"date": "1973-01-13", "rank": 199}, {"date": "1973-01-20", "rank": 195}, {"date": "1973-01-27", "rank": 192}, {"date": "1973-02-03", "rank": 192}, {"date": "1973-02-10", "rank": 190}, {"date": "1973-02-17", "rank": 192}, {"date": "1973-02-24", "rank": 192}, {"date": "1973-03-03", "rank": 195}, {"date": "1973-03-10", "rank": 200}]}
+{
+  "id": "sunny-days-lighthouse",
+  "title": "Sunny Days",
+  "artist": "Lighthouse",
+  "peak": 190,
+  "history": [
+    {
+      "date": "1973-01-13",
+      "rank": 199
+    },
+    {
+      "date": "1973-01-20",
+      "rank": 195
+    },
+    {
+      "date": "1973-01-27",
+      "rank": 192
+    },
+    {
+      "date": "1973-02-03",
+      "rank": 192
+    },
+    {
+      "date": "1973-02-10",
+      "rank": 190
+    },
+    {
+      "date": "1973-02-17",
+      "rank": 192
+    },
+    {
+      "date": "1973-02-24",
+      "rank": 192
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 195
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sunny Days",
+      "id": "sunny-days-lighthouse"
+    },
+    {
+      "title": "Silver Bird",
+      "id": null
+    },
+    {
+      "title": "You Girl",
+      "id": null
+    },
+    {
+      "title": "Beneath My Woman",
+      "id": null
+    },
+    {
+      "title": "Merlin",
+      "id": null
+    },
+    {
+      "title": "Broken Guitar Blues",
+      "id": null
+    },
+    {
+      "title": "Letter Home",
+      "id": null
+    },
+    {
+      "title": "You Give to Me",
+      "id": null
+    },
+    {
+      "title": "Lonely Places",
+      "id": null
+    }
+  ]
+}

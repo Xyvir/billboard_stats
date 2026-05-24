@@ -1,1 +1,70 @@
-{"id": "supercharged-tavares", "title": "Supercharged", "artist": "Tavares", "peak": 75, "history": [{"date": "1980-03-08", "rank": 116}, {"date": "1980-03-15", "rank": 106}, {"date": "1980-03-22", "rank": 82}, {"date": "1980-03-29", "rank": 75}, {"date": "1980-04-05", "rank": 75}, {"date": "1980-04-12", "rank": 103}, {"date": "1980-04-19", "rank": 193}]}
+{
+  "id": "supercharged-tavares",
+  "title": "Supercharged",
+  "artist": "Tavares",
+  "peak": 75,
+  "history": [
+    {
+      "date": "1980-03-08",
+      "rank": 116
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 106
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 82
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 75
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 75
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 103
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bad Times",
+      "id": "bad-times-tavares"
+    },
+    {
+      "title": "We Both Tried",
+      "id": null
+    },
+    {
+      "title": "Can’t Get Enough",
+      "id": null
+    },
+    {
+      "title": "Why Can’t We Fall in Love",
+      "id": null
+    },
+    {
+      "title": "I Can’t Go on Living Without You",
+      "id": null
+    },
+    {
+      "title": "I Don’t Want You Anymore",
+      "id": null
+    },
+    {
+      "title": "Paradise",
+      "id": null
+    },
+    {
+      "title": "Got to Have Your Love",
+      "id": null
+    }
+  ]
+}
