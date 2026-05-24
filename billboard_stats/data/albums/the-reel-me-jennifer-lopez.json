@@ -1,1 +1,114 @@
-{"id": "the-reel-me-jennifer-lopez", "title": "The Reel Me", "artist": "Jennifer Lopez", "peak": 69, "history": [{"date": "2003-12-06", "rank": 69}, {"date": "2003-12-13", "rank": 147}, {"date": "2003-12-20", "rank": 173}, {"date": "2004-01-03", "rank": 200}, {"date": "2004-01-10", "rank": 188}]}
+{
+  "id": "the-reel-me-jennifer-lopez",
+  "title": "The Reel Me",
+  "artist": "Jennifer Lopez",
+  "peak": 69,
+  "history": [
+    {
+      "date": "2003-12-06",
+      "rank": 69
+    },
+    {
+      "date": "2003-12-13",
+      "rank": 147
+    },
+    {
+      "date": "2003-12-20",
+      "rank": 173
+    },
+    {
+      "date": "2004-01-03",
+      "rank": 200
+    },
+    {
+      "date": "2004-01-10",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If You Had My Love",
+      "id": "if-you-had-my-love-jennifer-lopez"
+    },
+    {
+      "title": "Waiting for Tonight (Hex Hector remix)",
+      "id": "waiting-for-tonight-jennifer-lopez"
+    },
+    {
+      "title": "Love Don’t Cost a Thing",
+      "id": "love-don-t-cost-a-thing-jennifer-lopez"
+    },
+    {
+      "title": "Play",
+      "id": "play-jennifer-lopez"
+    },
+    {
+      "title": "I’m Real",
+      "id": "i-m-glad-jennifer-lopez"
+    },
+    {
+      "title": "I’m Glad",
+      "id": "i-m-glad-jennifer-lopez"
+    },
+    {
+      "title": "Baby I Love U!",
+      "id": "baby-i-love-u-jennifer-lopez"
+    },
+    {
+      "title": "Baby I Love U! (R. Kelly remix)",
+      "id": "baby-i-love-u-jennifer-lopez"
+    },
+    {
+      "title": "No me ames",
+      "id": null
+    },
+    {
+      "title": "Feelin’ So Good (remix)",
+      "id": null
+    },
+    {
+      "title": "I’m Real (remix)",
+      "id": null
+    },
+    {
+      "title": "Ain’t It Funny",
+      "id": null
+    },
+    {
+      "title": "Alive",
+      "id": null
+    },
+    {
+      "title": "Ain’t It Funny (remix)",
+      "id": null
+    },
+    {
+      "title": "I’m Gonna Be Alright",
+      "id": null
+    },
+    {
+      "title": "Jenny From The Block",
+      "id": null
+    },
+    {
+      "title": "All I Have",
+      "id": null
+    },
+    {
+      "title": "Jenny From the Block (Seismic Crew’s Latin Disco Trip)",
+      "id": null
+    },
+    {
+      "title": "All I Have (Ignorants mix)",
+      "id": null
+    },
+    {
+      "title": "I’m Glad (Paul Oakenfold Perfecto mix)",
+      "id": null
+    },
+    {
+      "title": "The One (Bastone & Burnz club mix)",
+      "id": null
+    }
+  ]
+}
