@@ -1,1 +1,70 @@
-{"id": "season-8-favorite-performances-adam-lambert", "title": "Season 8 Favorite Performances", "artist": "Adam Lambert", "peak": 33, "history": [{"date": "2009-06-06", "rank": 33}, {"date": "2009-06-13", "rank": 52}, {"date": "2009-06-20", "rank": 182}]}
+{
+  "id": "season-8-favorite-performances-adam-lambert",
+  "title": "Season 8 Favorite Performances",
+  "artist": "Adam Lambert",
+  "peak": 33,
+  "history": [
+    {
+      "date": "2009-06-06",
+      "rank": 33
+    },
+    {
+      "date": "2009-06-13",
+      "rank": 52
+    },
+    {
+      "date": "2009-06-20",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If I Can’t Have You",
+      "id": "if-i-had-you-adam-lambert"
+    },
+    {
+      "title": "Mad World",
+      "id": "mad-world-adam-lambert"
+    },
+    {
+      "title": "One",
+      "id": "one-adam-lambert"
+    },
+    {
+      "title": "A Change Is Gonna Come",
+      "id": "a-change-is-gonna-come-adam-lambert"
+    },
+    {
+      "title": "Black or White",
+      "id": null
+    },
+    {
+      "title": "Born to Be Wild",
+      "id": null
+    },
+    {
+      "title": "Cryin’",
+      "id": null
+    },
+    {
+      "title": "Feeling Good",
+      "id": null
+    },
+    {
+      "title": "Play That Funky Music",
+      "id": null
+    },
+    {
+      "title": "Ring of Fire",
+      "id": null
+    },
+    {
+      "title": "The Tracks of My Tears",
+      "id": null
+    },
+    {
+      "title": "Whole Lotta Love",
+      "id": null
+    }
+  ]
+}

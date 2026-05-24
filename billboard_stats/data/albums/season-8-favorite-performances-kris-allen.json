@@ -1,1 +1,66 @@
-{"id": "season-8-favorite-performances-kris-allen", "title": "Season 8 Favorite Performances", "artist": "Kris Allen", "peak": 50, "history": [{"date": "2009-06-06", "rank": 50}, {"date": "2009-06-13", "rank": 125}]}
+{
+  "id": "season-8-favorite-performances-kris-allen",
+  "title": "Season 8 Favorite Performances",
+  "artist": "Kris Allen",
+  "peak": 50,
+  "history": [
+    {
+      "date": "2009-06-06",
+      "rank": 50
+    },
+    {
+      "date": "2009-06-13",
+      "rank": 125
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ain't No Sunshine",
+      "id": "ain-t-no-sunshine-kris-allen"
+    },
+    {
+      "title": "Apologize",
+      "id": "apologize-kris-allen"
+    },
+    {
+      "title": "Falling Slowly",
+      "id": "falling-slowly-kris-allen"
+    },
+    {
+      "title": "Heartless",
+      "id": "heartless-kris-allen"
+    },
+    {
+      "title": "All She Wants to Do Is Dance",
+      "id": null
+    },
+    {
+      "title": "Come Together",
+      "id": null
+    },
+    {
+      "title": "How Sweet It Is (To Be Loved by You)",
+      "id": null
+    },
+    {
+      "title": "Remember the Time",
+      "id": null
+    },
+    {
+      "title": "She Works Hard for the Money",
+      "id": null
+    },
+    {
+      "title": "The Way You Look Tonight",
+      "id": null
+    },
+    {
+      "title": "To Make You Feel My Love",
+      "id": null
+    },
+    {
+      "title": "What's Going On",
+      "id": null
+    }
+  ]
+}

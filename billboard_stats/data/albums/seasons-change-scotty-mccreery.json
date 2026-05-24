@@ -1,1 +1,82 @@
-{"id": "seasons-change-scotty-mccreery", "title": "Seasons Change", "artist": "Scotty McCreery", "peak": 7, "history": [{"date": "2018-03-31", "rank": 7}, {"date": "2018-04-07", "rank": 37}, {"date": "2018-04-14", "rank": 59}, {"date": "2018-04-21", "rank": 102}, {"date": "2018-04-28", "rank": 147}, {"date": "2018-05-05", "rank": 171}, {"date": "2018-05-12", "rank": 188}]}
+{
+  "id": "seasons-change-scotty-mccreery",
+  "title": "Seasons Change",
+  "artist": "Scotty McCreery",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2018-03-31",
+      "rank": 7
+    },
+    {
+      "date": "2018-04-07",
+      "rank": 37
+    },
+    {
+      "date": "2018-04-14",
+      "rank": 59
+    },
+    {
+      "date": "2018-04-21",
+      "rank": 102
+    },
+    {
+      "date": "2018-04-28",
+      "rank": 147
+    },
+    {
+      "date": "2018-05-05",
+      "rank": 171
+    },
+    {
+      "date": "2018-05-12",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Five More Minutes",
+      "id": "five-more-minutes-scotty-mccreery"
+    },
+    {
+      "title": "In Between",
+      "id": "in-between-scotty-mccreery"
+    },
+    {
+      "title": "This Is It",
+      "id": "this-is-it-scotty-mccreery"
+    },
+    {
+      "title": "Seasons Change",
+      "id": null
+    },
+    {
+      "title": "Wherever You Are",
+      "id": null
+    },
+    {
+      "title": "Boys From Back Home",
+      "id": null
+    },
+    {
+      "title": "Wrong Again",
+      "id": null
+    },
+    {
+      "title": "Move It on Out",
+      "id": null
+    },
+    {
+      "title": "Barefootin’",
+      "id": null
+    },
+    {
+      "title": "Still",
+      "id": null
+    },
+    {
+      "title": "Home in My Mind",
+      "id": null
+    }
+  ]
+}

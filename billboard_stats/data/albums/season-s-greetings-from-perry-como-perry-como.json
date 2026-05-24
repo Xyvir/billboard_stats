@@ -1,1 +1,62 @@
-{"id": "season-s-greetings-from-perry-como-perry-como", "title": "Season's Greetings From Perry Como", "artist": "Perry Como", "peak": 110, "history": [{"date": "2021-12-11", "rank": 110}, {"date": "2025-01-04", "rank": 119}, {"date": "2025-12-20", "rank": 193}]}
+{
+  "id": "season-s-greetings-from-perry-como-perry-como",
+  "title": "Season's Greetings From Perry Como",
+  "artist": "Perry Como",
+  "peak": 110,
+  "history": [
+    {
+      "date": "2021-12-11",
+      "rank": 110
+    },
+    {
+      "date": "2025-01-04",
+      "rank": 119
+    },
+    {
+      "date": "2025-12-20",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Christmas Song",
+      "id": "christmas-dream-perry-como"
+    },
+    {
+      "title": "White Christmas",
+      "id": "christmas-dream-perry-como"
+    },
+    {
+      "title": "Home for the Holidays",
+      "id": null
+    },
+    {
+      "title": "Winter Wonderland",
+      "id": null
+    },
+    {
+      "title": "Rudolph the Red‐Nosed Reindeer",
+      "id": null
+    },
+    {
+      "title": "Santa Claus Is Coming to Town",
+      "id": null
+    },
+    {
+      "title": "Here We Come A‐Caroling / We Wish You a Merry Christmas",
+      "id": null
+    },
+    {
+      "title": "God Rest Ye Merry, Gentlemen",
+      "id": null
+    },
+    {
+      "title": "O Holy Night",
+      "id": null
+    },
+    {
+      "title": "The Story of the First Christmas: O Little Town of Bethlehem / Come, Come, Come to the Manger / The First Noël / O Come, All Ye Faithful / We Three Kings of Orient Are / Silent Night",
+      "id": null
+    }
+  ]
+}

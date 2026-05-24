@@ -1,1 +1,86 @@
-{"id": "screw-it-danger-danger", "title": "Screw It!", "artist": "Danger Danger", "peak": 123, "history": [{"date": "1991-10-19", "rank": 123}, {"date": "1991-10-26", "rank": 128}, {"date": "1991-11-02", "rank": 152}, {"date": "1991-11-09", "rank": 152}, {"date": "1991-11-16", "rank": 182}]}
+{
+  "id": "screw-it-danger-danger",
+  "title": "Screw It!",
+  "artist": "Danger Danger",
+  "peak": 123,
+  "history": [
+    {
+      "date": "1991-10-19",
+      "rank": 123
+    },
+    {
+      "date": "1991-10-26",
+      "rank": 128
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 152
+    },
+    {
+      "date": "1991-11-09",
+      "rank": 152
+    },
+    {
+      "date": "1991-11-16",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ginger Snaps (Intro) / Monkey Business",
+      "id": null
+    },
+    {
+      "title": "Slipped Her the Big One",
+      "id": null
+    },
+    {
+      "title": "C'est Loupe (Prelude) / Beat the Bullet",
+      "id": null
+    },
+    {
+      "title": "I Still Think About You",
+      "id": null
+    },
+    {
+      "title": "Get Your Shit Together",
+      "id": null
+    },
+    {
+      "title": "Crazy Nites",
+      "id": null
+    },
+    {
+      "title": "Puppet Show",
+      "id": null
+    },
+    {
+      "title": "Everybody Wants Some",
+      "id": null
+    },
+    {
+      "title": "Don't Blame It on Love",
+      "id": null
+    },
+    {
+      "title": "Comin' Home",
+      "id": null
+    },
+    {
+      "title": "Horny S.O.B.",
+      "id": null
+    },
+    {
+      "title": "Find Your Way Back Home",
+      "id": null
+    },
+    {
+      "title": "Yeah, You Want It!",
+      "id": null
+    },
+    {
+      "title": "D.F.N.S.",
+      "id": null
+    }
+  ]
+}
