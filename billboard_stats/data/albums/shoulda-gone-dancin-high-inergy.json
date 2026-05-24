@@ -1,1 +1,58 @@
-{"id": "shoulda-gone-dancin-high-inergy", "title": "Shoulda Gone Dancin'", "artist": "High Inergy", "peak": 147, "history": [{"date": "1979-05-26", "rank": 167}, {"date": "1979-06-02", "rank": 167}, {"date": "1979-06-09", "rank": 157}, {"date": "1979-06-16", "rank": 147}, {"date": "1979-06-23", "rank": 147}]}
+{
+  "id": "shoulda-gone-dancin-high-inergy",
+  "title": "Shoulda Gone Dancin'",
+  "artist": "High Inergy",
+  "peak": 147,
+  "history": [
+    {
+      "date": "1979-05-26",
+      "rank": 167
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 167
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 157
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 147
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 147
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I've Got What You Need",
+      "id": "love-is-all-you-need-high-inergy"
+    },
+    {
+      "title": "Shoulda Gone Dancin'",
+      "id": null
+    },
+    {
+      "title": "Come & Get It",
+      "id": null
+    },
+    {
+      "title": "Midnight Music Man",
+      "id": null
+    },
+    {
+      "title": "Let Yourself Go",
+      "id": null
+    },
+    {
+      "title": "Love of My Life",
+      "id": null
+    },
+    {
+      "title": "Too Late (The Damage Is Done)",
+      "id": null
+    }
+  ]
+}

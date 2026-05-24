@@ -1,1 +1,62 @@
-{"id": "should-i-do-it-tanya-tucker", "title": "Should I Do It", "artist": "Tanya Tucker", "peak": 180, "history": [{"date": "1981-08-01", "rank": 189}, {"date": "1981-08-08", "rank": 183}, {"date": "1981-08-15", "rank": 180}]}
+{
+  "id": "should-i-do-it-tanya-tucker",
+  "title": "Should I Do It",
+  "artist": "Tanya Tucker",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1981-08-01",
+      "rank": 189
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 183
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Should I Do It",
+      "id": null
+    },
+    {
+      "title": "Stormy Weather",
+      "id": null
+    },
+    {
+      "title": "Halfway to Heaven",
+      "id": null
+    },
+    {
+      "title": "Heartache #3",
+      "id": null
+    },
+    {
+      "title": "You Don't Have to Say You Love Me",
+      "id": null
+    },
+    {
+      "title": "Rodeo Girls",
+      "id": null
+    },
+    {
+      "title": "I Oughta' Let Go",
+      "id": null
+    },
+    {
+      "title": "Lucky Enough for Two",
+      "id": null
+    },
+    {
+      "title": "We're Playing Games Again",
+      "id": null
+    },
+    {
+      "title": "Shoulder to Shoulder",
+      "id": null
+    }
+  ]
+}
