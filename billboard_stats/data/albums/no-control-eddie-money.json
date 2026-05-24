@@ -1,1 +1,230 @@
-{"id": "no-control-eddie-money", "title": "No Control", "artist": "Eddie Money", "peak": 20, "history": [{"date": "1982-07-10", "rank": 157}, {"date": "1982-07-17", "rank": 79}, {"date": "1982-07-24", "rank": 56}, {"date": "1982-07-31", "rank": 47}, {"date": "1982-08-07", "rank": 42}, {"date": "1982-08-14", "rank": 41}, {"date": "1982-08-21", "rank": 38}, {"date": "1982-08-28", "rank": 36}, {"date": "1982-09-04", "rank": 28}, {"date": "1982-09-11", "rank": 25}, {"date": "1982-09-18", "rank": 23}, {"date": "1982-09-25", "rank": 23}, {"date": "1982-10-02", "rank": 23}, {"date": "1982-10-09", "rank": 22}, {"date": "1982-10-16", "rank": 22}, {"date": "1982-10-23", "rank": 20}, {"date": "1982-10-30", "rank": 20}, {"date": "1982-11-06", "rank": 20}, {"date": "1982-11-13", "rank": 33}, {"date": "1982-11-20", "rank": 48}, {"date": "1982-11-27", "rank": 48}, {"date": "1982-12-04", "rank": 59}, {"date": "1982-12-11", "rank": 71}, {"date": "1982-12-18", "rank": 71}, {"date": "1982-12-25", "rank": 104}, {"date": "1983-01-01", "rank": 104}, {"date": "1983-01-08", "rank": 121}, {"date": "1983-01-15", "rank": 121}, {"date": "1983-01-22", "rank": 121}, {"date": "1983-01-29", "rank": 122}, {"date": "1983-02-05", "rank": 122}, {"date": "1983-02-12", "rank": 118}, {"date": "1983-02-19", "rank": 118}, {"date": "1983-02-26", "rank": 118}, {"date": "1983-03-05", "rank": 115}, {"date": "1983-03-12", "rank": 132}, {"date": "1983-03-19", "rank": 128}, {"date": "1983-03-26", "rank": 126}, {"date": "1983-04-02", "rank": 158}, {"date": "1983-04-09", "rank": 158}, {"date": "1983-04-16", "rank": 158}, {"date": "1983-04-23", "rank": 158}, {"date": "1983-04-30", "rank": 176}, {"date": "1983-05-07", "rank": 187}]}
+{
+  "id": "no-control-eddie-money",
+  "title": "No Control",
+  "artist": "Eddie Money",
+  "peak": 20,
+  "history": [
+    {
+      "date": "1982-07-10",
+      "rank": 157
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 79
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 56
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 47
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 42
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 41
+    },
+    {
+      "date": "1982-08-21",
+      "rank": 38
+    },
+    {
+      "date": "1982-08-28",
+      "rank": 36
+    },
+    {
+      "date": "1982-09-04",
+      "rank": 28
+    },
+    {
+      "date": "1982-09-11",
+      "rank": 25
+    },
+    {
+      "date": "1982-09-18",
+      "rank": 23
+    },
+    {
+      "date": "1982-09-25",
+      "rank": 23
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 23
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 22
+    },
+    {
+      "date": "1982-10-16",
+      "rank": 22
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 20
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 20
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 20
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 33
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 48
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 48
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 59
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 71
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 71
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 104
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 104
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 121
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 121
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 121
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 122
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 122
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 118
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 118
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 118
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 115
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 132
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 128
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 126
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 158
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 158
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 158
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 158
+    },
+    {
+      "date": "1983-04-30",
+      "rank": 176
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shakin’",
+      "id": "shakin-eddie-money"
+    },
+    {
+      "title": "Runnin’ Away",
+      "id": "running-back-eddie-money"
+    },
+    {
+      "title": "Think I’m in Love",
+      "id": "think-i-m-in-love-eddie-money"
+    },
+    {
+      "title": "Hard Life",
+      "id": null
+    },
+    {
+      "title": "No Control",
+      "id": null
+    },
+    {
+      "title": "Take a Little Bit",
+      "id": null
+    },
+    {
+      "title": "Keep My Motor Runnin’",
+      "id": null
+    },
+    {
+      "title": "My Friends, My Friends",
+      "id": null
+    },
+    {
+      "title": "Drivin’ Me Crazy",
+      "id": null
+    },
+    {
+      "title": "Passing by the Graveyard (song for John B.)",
+      "id": null
+    },
+    {
+      "title": "It Could Happen to You",
+      "id": null
+    }
+  ]
+}

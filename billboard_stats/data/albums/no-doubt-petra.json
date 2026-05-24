@@ -1,1 +1,86 @@
-{"id": "no-doubt-petra", "title": "No Doubt", "artist": "Petra", "peak": 91, "history": [{"date": "1995-09-09", "rank": 191}, {"date": "1995-09-16", "rank": 97}, {"date": "1995-09-23", "rank": 91}, {"date": "1995-09-30", "rank": 117}, {"date": "1995-10-07", "rank": 152}, {"date": "1995-10-14", "rank": 185}, {"date": "1995-10-21", "rank": 197}, {"date": "1995-12-09", "rank": 198}]}
+{
+  "id": "no-doubt-petra",
+  "title": "No Doubt",
+  "artist": "Petra",
+  "peak": 91,
+  "history": [
+    {
+      "date": "1995-09-09",
+      "rank": 191
+    },
+    {
+      "date": "1995-09-16",
+      "rank": 97
+    },
+    {
+      "date": "1995-09-23",
+      "rank": 91
+    },
+    {
+      "date": "1995-09-30",
+      "rank": 117
+    },
+    {
+      "date": "1995-10-07",
+      "rank": 152
+    },
+    {
+      "date": "1995-10-14",
+      "rank": 185
+    },
+    {
+      "date": "1995-10-21",
+      "rank": 197
+    },
+    {
+      "date": "1995-12-09",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Enter In",
+      "id": null
+    },
+    {
+      "title": "Think Twice",
+      "id": null
+    },
+    {
+      "title": "Heart of a Hero",
+      "id": null
+    },
+    {
+      "title": "More Than a Thousand Words",
+      "id": null
+    },
+    {
+      "title": "No Doubt",
+      "id": null
+    },
+    {
+      "title": "Right Place",
+      "id": null
+    },
+    {
+      "title": "Two Are Better Than One",
+      "id": null
+    },
+    {
+      "title": "Sincerely Yours",
+      "id": null
+    },
+    {
+      "title": "Think on These Things",
+      "id": null
+    },
+    {
+      "title": "For All You're Worth",
+      "id": null
+    },
+    {
+      "title": "We Hold Our Hearts Out to You",
+      "id": null
+    }
+  ]
+}
