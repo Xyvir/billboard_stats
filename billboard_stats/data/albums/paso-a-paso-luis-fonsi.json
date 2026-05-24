@@ -1,1 +1,74 @@
-{"id": "paso-a-paso-luis-fonsi", "title": "Paso A Paso", "artist": "Luis Fonsi", "peak": 62, "history": [{"date": "2005-07-30", "rank": 62}, {"date": "2005-08-06", "rank": 123}, {"date": "2005-08-13", "rank": 118}, {"date": "2005-08-20", "rank": 165}, {"date": "2005-08-27", "rank": 162}]}
+{
+  "id": "paso-a-paso-luis-fonsi",
+  "title": "Paso A Paso",
+  "artist": "Luis Fonsi",
+  "peak": 62,
+  "history": [
+    {
+      "date": "2005-07-30",
+      "rank": 62
+    },
+    {
+      "date": "2005-08-06",
+      "rank": 123
+    },
+    {
+      "date": "2005-08-13",
+      "rank": 118
+    },
+    {
+      "date": "2005-08-20",
+      "rank": 165
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Nada es para siempre",
+      "id": "nada-es-para-siempre-luis-fonsi"
+    },
+    {
+      "title": "Arrópame",
+      "id": null
+    },
+    {
+      "title": "Escondido",
+      "id": null
+    },
+    {
+      "title": "Estoy perdido",
+      "id": null
+    },
+    {
+      "title": "Por una mujer",
+      "id": null
+    },
+    {
+      "title": "Vivo muriendo",
+      "id": null
+    },
+    {
+      "title": "Me matas",
+      "id": null
+    },
+    {
+      "title": "Me lo dice el alma",
+      "id": null
+    },
+    {
+      "title": "Para mí",
+      "id": null
+    },
+    {
+      "title": "Todo sigue igual",
+      "id": null
+    },
+    {
+      "title": "Paso a paso",
+      "id": null
+    }
+  ]
+}

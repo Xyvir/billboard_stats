@@ -1,1 +1,78 @@
-{"id": "party-iggy-pop", "title": "Party", "artist": "Iggy Pop", "peak": 166, "history": [{"date": "1981-09-19", "rank": 186}, {"date": "1981-09-26", "rank": 176}, {"date": "1981-10-03", "rank": 166}, {"date": "1981-10-10", "rank": 166}, {"date": "1981-10-17", "rank": 194}]}
+{
+  "id": "party-iggy-pop",
+  "title": "Party",
+  "artist": "Iggy Pop",
+  "peak": 166,
+  "history": [
+    {
+      "date": "1981-09-19",
+      "rank": 186
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 176
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 166
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 166
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pleasure",
+      "id": null
+    },
+    {
+      "title": "Rock and Roll Party",
+      "id": null
+    },
+    {
+      "title": "Eggs on Plate",
+      "id": null
+    },
+    {
+      "title": "Sincerity",
+      "id": null
+    },
+    {
+      "title": "Houston Is Hot Tonight",
+      "id": null
+    },
+    {
+      "title": "Pumpin’ for Jill",
+      "id": null
+    },
+    {
+      "title": "Happy Man",
+      "id": null
+    },
+    {
+      "title": "Bang Bang",
+      "id": null
+    },
+    {
+      "title": "Sea of Love",
+      "id": null
+    },
+    {
+      "title": "Time Won’t Let Me",
+      "id": null
+    },
+    {
+      "title": "Speak to Me",
+      "id": null
+    },
+    {
+      "title": "One for My Baby",
+      "id": null
+    }
+  ]
+}

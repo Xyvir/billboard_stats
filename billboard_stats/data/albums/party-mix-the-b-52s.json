@@ -1,1 +1,78 @@
-{"id": "party-mix-the-b-52s", "title": "Party Mix", "artist": "The B-52s", "peak": 55, "history": [{"date": "1981-08-08", "rank": 87}, {"date": "1981-08-15", "rank": 62}, {"date": "1981-08-22", "rank": 55}, {"date": "1981-08-29", "rank": 55}, {"date": "1981-09-05", "rank": 69}, {"date": "1981-09-12", "rank": 77}, {"date": "1981-09-19", "rank": 98}, {"date": "1981-09-26", "rank": 108}, {"date": "1981-10-03", "rank": 116}, {"date": "1981-10-10", "rank": 118}, {"date": "1981-10-17", "rank": 136}]}
+{
+  "id": "party-mix-the-b-52s",
+  "title": "Party Mix",
+  "artist": "The B-52s",
+  "peak": 55,
+  "history": [
+    {
+      "date": "1981-08-08",
+      "rank": 87
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 62
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 55
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 55
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 69
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 77
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 98
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 108
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 116
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 118
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 136
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Private Idaho",
+      "id": "private-idaho-the-b-52s"
+    },
+    {
+      "title": "Party Out of Bounds",
+      "id": null
+    },
+    {
+      "title": "Give Me Back My Man",
+      "id": null
+    },
+    {
+      "title": "Lava",
+      "id": null
+    },
+    {
+      "title": "Dance This Mess Around",
+      "id": null
+    },
+    {
+      "title": "52 Girls",
+      "id": null
+    }
+  ]
+}

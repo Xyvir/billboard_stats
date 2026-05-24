@@ -1,1 +1,174 @@
-{"id": "partners-barbra-streisand", "title": "Partners", "artist": "Barbra Streisand", "peak": 1, "history": [{"date": "2014-10-04", "rank": 1}, {"date": "2014-10-11", "rank": 3}, {"date": "2014-10-18", "rank": 3}, {"date": "2014-10-25", "rank": 3}, {"date": "2014-11-01", "rank": 5}, {"date": "2014-11-08", "rank": 8}, {"date": "2014-11-15", "rank": 11}, {"date": "2014-11-22", "rank": 7}, {"date": "2014-11-29", "rank": 14}, {"date": "2014-12-06", "rank": 15}, {"date": "2014-12-13", "rank": 25}, {"date": "2014-12-20", "rank": 17}, {"date": "2014-12-27", "rank": 16}, {"date": "2015-01-03", "rank": 15}, {"date": "2015-01-10", "rank": 22}, {"date": "2015-01-17", "rank": 66}, {"date": "2015-01-24", "rank": 58}, {"date": "2015-01-31", "rank": 81}, {"date": "2015-02-07", "rank": 71}, {"date": "2015-02-14", "rank": 67}, {"date": "2015-02-21", "rank": 123}, {"date": "2015-02-28", "rank": 102}, {"date": "2015-03-07", "rank": 180}, {"date": "2015-09-19", "rank": 185}]}
+{
+  "id": "partners-barbra-streisand",
+  "title": "Partners",
+  "artist": "Barbra Streisand",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2014-10-04",
+      "rank": 1
+    },
+    {
+      "date": "2014-10-11",
+      "rank": 3
+    },
+    {
+      "date": "2014-10-18",
+      "rank": 3
+    },
+    {
+      "date": "2014-10-25",
+      "rank": 3
+    },
+    {
+      "date": "2014-11-01",
+      "rank": 5
+    },
+    {
+      "date": "2014-11-08",
+      "rank": 8
+    },
+    {
+      "date": "2014-11-15",
+      "rank": 11
+    },
+    {
+      "date": "2014-11-22",
+      "rank": 7
+    },
+    {
+      "date": "2014-11-29",
+      "rank": 14
+    },
+    {
+      "date": "2014-12-06",
+      "rank": 15
+    },
+    {
+      "date": "2014-12-13",
+      "rank": 25
+    },
+    {
+      "date": "2014-12-20",
+      "rank": 17
+    },
+    {
+      "date": "2014-12-27",
+      "rank": 16
+    },
+    {
+      "date": "2015-01-03",
+      "rank": 15
+    },
+    {
+      "date": "2015-01-10",
+      "rank": 22
+    },
+    {
+      "date": "2015-01-17",
+      "rank": 66
+    },
+    {
+      "date": "2015-01-24",
+      "rank": 58
+    },
+    {
+      "date": "2015-01-31",
+      "rank": 81
+    },
+    {
+      "date": "2015-02-07",
+      "rank": 71
+    },
+    {
+      "date": "2015-02-14",
+      "rank": 67
+    },
+    {
+      "date": "2015-02-21",
+      "rank": 123
+    },
+    {
+      "date": "2015-02-28",
+      "rank": 102
+    },
+    {
+      "date": "2015-03-07",
+      "rank": 180
+    },
+    {
+      "date": "2015-09-19",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "People",
+      "id": "people-barbra-streisand"
+    },
+    {
+      "title": "The Way We Were",
+      "id": "the-way-we-were-barbra-streisand"
+    },
+    {
+      "title": "Somewhere",
+      "id": "somewhere-barbra-streisand"
+    },
+    {
+      "title": "It Had to Be You",
+      "id": null
+    },
+    {
+      "title": "Come Rain or Come Shine",
+      "id": null
+    },
+    {
+      "title": "Evergreen",
+      "id": null
+    },
+    {
+      "title": "New York State of Mind",
+      "id": null
+    },
+    {
+      "title": "I’d Want It to Be You",
+      "id": null
+    },
+    {
+      "title": "I Still Can See Your Face",
+      "id": null
+    },
+    {
+      "title": "How Deep Is the Ocean",
+      "id": null
+    },
+    {
+      "title": "What Kind of Fool",
+      "id": null
+    },
+    {
+      "title": "Love Me Tender",
+      "id": null
+    },
+    {
+      "title": "Lost Inside of You",
+      "id": null
+    },
+    {
+      "title": "I’ve Got a Crush on You",
+      "id": null
+    },
+    {
+      "title": "I Finally Found Someone",
+      "id": null
+    },
+    {
+      "title": "I Won’t Be the One to Let Go",
+      "id": null
+    },
+    {
+      "title": "Guilty",
+      "id": null
+    }
+  ]
+}
