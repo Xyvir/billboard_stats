@@ -1,1 +1,70 @@
-{"id": "pulses-karmin", "title": "Pulses", "artist": "Karmin", "peak": 32, "history": [{"date": "2014-04-12", "rank": 32}, {"date": "2014-04-19", "rank": 173}]}
+{
+  "id": "pulses-karmin",
+  "title": "Pulses",
+  "artist": "Karmin",
+  "peak": 32,
+  "history": [
+    {
+      "date": "2014-04-12",
+      "rank": 32
+    },
+    {
+      "date": "2014-04-19",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Acapella",
+      "id": "acapella-karmin"
+    },
+    {
+      "title": "Geronimo (intro)",
+      "id": null
+    },
+    {
+      "title": "Pulses",
+      "id": null
+    },
+    {
+      "title": "I Want It All",
+      "id": null
+    },
+    {
+      "title": "Night Like This",
+      "id": null
+    },
+    {
+      "title": "Neon Love",
+      "id": null
+    },
+    {
+      "title": "Drifter",
+      "id": null
+    },
+    {
+      "title": "Tidal Wave",
+      "id": null
+    },
+    {
+      "title": "Gasoline",
+      "id": null
+    },
+    {
+      "title": "Puppet",
+      "id": null
+    },
+    {
+      "title": "Hate to Love You",
+      "id": null
+    },
+    {
+      "title": "Try Me On",
+      "id": null
+    },
+    {
+      "title": "What’s in It for Me",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,326 @@
-{"id": "pull-my-chain-toby-keith", "title": "Pull My Chain", "artist": "Toby Keith", "peak": 9, "history": [{"date": "2001-09-15", "rank": 9}, {"date": "2001-09-22", "rank": 21}, {"date": "2001-09-29", "rank": 29}, {"date": "2001-10-06", "rank": 31}, {"date": "2001-10-13", "rank": 29}, {"date": "2001-10-20", "rank": 25}, {"date": "2001-10-27", "rank": 25}, {"date": "2001-11-03", "rank": 29}, {"date": "2001-11-10", "rank": 34}, {"date": "2001-11-17", "rank": 34}, {"date": "2001-11-24", "rank": 30}, {"date": "2001-12-01", "rank": 37}, {"date": "2001-12-08", "rank": 27}, {"date": "2001-12-15", "rank": 29}, {"date": "2001-12-22", "rank": 30}, {"date": "2001-12-29", "rank": 29}, {"date": "2002-01-05", "rank": 28}, {"date": "2002-01-12", "rank": 44}, {"date": "2002-01-19", "rank": 40}, {"date": "2002-01-26", "rank": 35}, {"date": "2002-02-02", "rank": 32}, {"date": "2002-02-09", "rank": 35}, {"date": "2002-02-16", "rank": 37}, {"date": "2002-02-23", "rank": 44}, {"date": "2002-03-02", "rank": 39}, {"date": "2002-03-09", "rank": 57}, {"date": "2002-03-16", "rank": 65}, {"date": "2002-03-23", "rank": 66}, {"date": "2002-03-30", "rank": 53}, {"date": "2002-04-06", "rank": 71}, {"date": "2002-04-13", "rank": 63}, {"date": "2002-04-20", "rank": 75}, {"date": "2002-04-27", "rank": 70}, {"date": "2002-05-04", "rank": 81}, {"date": "2002-05-11", "rank": 80}, {"date": "2002-05-18", "rank": 87}, {"date": "2002-05-25", "rank": 76}, {"date": "2002-06-01", "rank": 76}, {"date": "2002-06-08", "rank": 67}, {"date": "2002-06-15", "rank": 76}, {"date": "2002-06-22", "rank": 91}, {"date": "2002-06-29", "rank": 72}, {"date": "2002-07-06", "rank": 95}, {"date": "2002-07-13", "rank": 112}, {"date": "2002-07-20", "rank": 102}, {"date": "2002-07-27", "rank": 118}, {"date": "2002-08-03", "rank": 120}, {"date": "2002-08-10", "rank": 89}, {"date": "2002-08-17", "rank": 97}, {"date": "2002-08-24", "rank": 107}, {"date": "2002-08-31", "rank": 125}, {"date": "2002-09-07", "rank": 133}, {"date": "2002-09-14", "rank": 149}, {"date": "2002-09-21", "rank": 148}, {"date": "2002-09-28", "rank": 132}, {"date": "2002-10-05", "rank": 148}, {"date": "2002-10-12", "rank": 180}, {"date": "2002-10-19", "rank": 193}, {"date": "2002-11-02", "rank": 192}, {"date": "2002-11-23", "rank": 175}, {"date": "2002-11-30", "rank": 197}, {"date": "2002-12-14", "rank": 197}, {"date": "2002-12-21", "rank": 197}, {"date": "2002-12-28", "rank": 174}, {"date": "2003-01-04", "rank": 153}, {"date": "2003-01-11", "rank": 191}]}
+{
+  "id": "pull-my-chain-toby-keith",
+  "title": "Pull My Chain",
+  "artist": "Toby Keith",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2001-09-15",
+      "rank": 9
+    },
+    {
+      "date": "2001-09-22",
+      "rank": 21
+    },
+    {
+      "date": "2001-09-29",
+      "rank": 29
+    },
+    {
+      "date": "2001-10-06",
+      "rank": 31
+    },
+    {
+      "date": "2001-10-13",
+      "rank": 29
+    },
+    {
+      "date": "2001-10-20",
+      "rank": 25
+    },
+    {
+      "date": "2001-10-27",
+      "rank": 25
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 29
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 34
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 34
+    },
+    {
+      "date": "2001-11-24",
+      "rank": 30
+    },
+    {
+      "date": "2001-12-01",
+      "rank": 37
+    },
+    {
+      "date": "2001-12-08",
+      "rank": 27
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 29
+    },
+    {
+      "date": "2001-12-22",
+      "rank": 30
+    },
+    {
+      "date": "2001-12-29",
+      "rank": 29
+    },
+    {
+      "date": "2002-01-05",
+      "rank": 28
+    },
+    {
+      "date": "2002-01-12",
+      "rank": 44
+    },
+    {
+      "date": "2002-01-19",
+      "rank": 40
+    },
+    {
+      "date": "2002-01-26",
+      "rank": 35
+    },
+    {
+      "date": "2002-02-02",
+      "rank": 32
+    },
+    {
+      "date": "2002-02-09",
+      "rank": 35
+    },
+    {
+      "date": "2002-02-16",
+      "rank": 37
+    },
+    {
+      "date": "2002-02-23",
+      "rank": 44
+    },
+    {
+      "date": "2002-03-02",
+      "rank": 39
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 57
+    },
+    {
+      "date": "2002-03-16",
+      "rank": 65
+    },
+    {
+      "date": "2002-03-23",
+      "rank": 66
+    },
+    {
+      "date": "2002-03-30",
+      "rank": 53
+    },
+    {
+      "date": "2002-04-06",
+      "rank": 71
+    },
+    {
+      "date": "2002-04-13",
+      "rank": 63
+    },
+    {
+      "date": "2002-04-20",
+      "rank": 75
+    },
+    {
+      "date": "2002-04-27",
+      "rank": 70
+    },
+    {
+      "date": "2002-05-04",
+      "rank": 81
+    },
+    {
+      "date": "2002-05-11",
+      "rank": 80
+    },
+    {
+      "date": "2002-05-18",
+      "rank": 87
+    },
+    {
+      "date": "2002-05-25",
+      "rank": 76
+    },
+    {
+      "date": "2002-06-01",
+      "rank": 76
+    },
+    {
+      "date": "2002-06-08",
+      "rank": 67
+    },
+    {
+      "date": "2002-06-15",
+      "rank": 76
+    },
+    {
+      "date": "2002-06-22",
+      "rank": 91
+    },
+    {
+      "date": "2002-06-29",
+      "rank": 72
+    },
+    {
+      "date": "2002-07-06",
+      "rank": 95
+    },
+    {
+      "date": "2002-07-13",
+      "rank": 112
+    },
+    {
+      "date": "2002-07-20",
+      "rank": 102
+    },
+    {
+      "date": "2002-07-27",
+      "rank": 118
+    },
+    {
+      "date": "2002-08-03",
+      "rank": 120
+    },
+    {
+      "date": "2002-08-10",
+      "rank": 89
+    },
+    {
+      "date": "2002-08-17",
+      "rank": 97
+    },
+    {
+      "date": "2002-08-24",
+      "rank": 107
+    },
+    {
+      "date": "2002-08-31",
+      "rank": 125
+    },
+    {
+      "date": "2002-09-07",
+      "rank": 133
+    },
+    {
+      "date": "2002-09-14",
+      "rank": 149
+    },
+    {
+      "date": "2002-09-21",
+      "rank": 148
+    },
+    {
+      "date": "2002-09-28",
+      "rank": 132
+    },
+    {
+      "date": "2002-10-05",
+      "rank": 148
+    },
+    {
+      "date": "2002-10-12",
+      "rank": 180
+    },
+    {
+      "date": "2002-10-19",
+      "rank": 193
+    },
+    {
+      "date": "2002-11-02",
+      "rank": 192
+    },
+    {
+      "date": "2002-11-23",
+      "rank": 175
+    },
+    {
+      "date": "2002-11-30",
+      "rank": 197
+    },
+    {
+      "date": "2002-12-14",
+      "rank": 197
+    },
+    {
+      "date": "2002-12-21",
+      "rank": 197
+    },
+    {
+      "date": "2002-12-28",
+      "rank": 174
+    },
+    {
+      "date": "2003-01-04",
+      "rank": 153
+    },
+    {
+      "date": "2003-01-11",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m Just Talkin’ About Tonight",
+      "id": "i-m-just-talkin-about-tonight-toby-keith"
+    },
+    {
+      "title": "I Wanna Talk About Me",
+      "id": "i-wanna-talk-about-me-toby-keith"
+    },
+    {
+      "title": "I Can’t Take You Anywhere",
+      "id": "i-can-t-take-you-anywhere-scotty-emerick-with-toby-keith"
+    },
+    {
+      "title": "My List",
+      "id": "my-list-toby-keith"
+    },
+    {
+      "title": "You Leave Me Weak",
+      "id": null
+    },
+    {
+      "title": "Tryin’ to Matter",
+      "id": null
+    },
+    {
+      "title": "Pull My Chain",
+      "id": null
+    },
+    {
+      "title": "The Sha La La Song",
+      "id": null
+    },
+    {
+      "title": "Pick 'em Up and Lay 'em Down",
+      "id": null
+    },
+    {
+      "title": "Forever Hasn’t Got Here Yet",
+      "id": null
+    },
+    {
+      "title": "Yesterday’s Rain",
+      "id": null
+    },
+    {
+      "title": "You Didn’t Have as Much to Lose",
+      "id": null
+    },
+    {
+      "title": "Gimme 8 Seconds",
+      "id": null
+    }
+  ]
+}

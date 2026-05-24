@@ -1,1 +1,70 @@
-{"id": "punisher-phoebe-bridgers", "title": "Punisher", "artist": "Phoebe Bridgers", "peak": 43, "history": [{"date": "2020-07-04", "rank": 43}, {"date": "2020-07-11", "rank": 112}, {"date": "2021-02-20", "rank": 198}, {"date": "2023-10-21", "rank": 129}]}
+{
+  "id": "punisher-phoebe-bridgers",
+  "title": "Punisher",
+  "artist": "Phoebe Bridgers",
+  "peak": 43,
+  "history": [
+    {
+      "date": "2020-07-04",
+      "rank": 43
+    },
+    {
+      "date": "2020-07-11",
+      "rank": 112
+    },
+    {
+      "date": "2021-02-20",
+      "rank": 198
+    },
+    {
+      "date": "2023-10-21",
+      "rank": 129
+    }
+  ],
+  "tracks": [
+    {
+      "title": "DVD Menu",
+      "id": null
+    },
+    {
+      "title": "Garden Song",
+      "id": null
+    },
+    {
+      "title": "Kyoto",
+      "id": null
+    },
+    {
+      "title": "Punisher",
+      "id": null
+    },
+    {
+      "title": "Halloween",
+      "id": null
+    },
+    {
+      "title": "Chinese Satellite",
+      "id": null
+    },
+    {
+      "title": "Moon Song",
+      "id": null
+    },
+    {
+      "title": "Savior Complex",
+      "id": null
+    },
+    {
+      "title": "ICU",
+      "id": null
+    },
+    {
+      "title": "Graceland Too",
+      "id": null
+    },
+    {
+      "title": "I Know the End",
+      "id": null
+    }
+  ]
+}

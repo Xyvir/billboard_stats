@@ -1,1 +1,70 @@
-{"id": "pull-winger", "title": "Pull", "artist": "Winger", "peak": 83, "history": [{"date": "1993-06-05", "rank": 83}, {"date": "1993-06-12", "rank": 119}, {"date": "1993-06-19", "rank": 141}, {"date": "1993-06-26", "rank": 171}, {"date": "1993-07-03", "rank": 197}]}
+{
+  "id": "pull-winger",
+  "title": "Pull",
+  "artist": "Winger",
+  "peak": 83,
+  "history": [
+    {
+      "date": "1993-06-05",
+      "rank": 83
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 119
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 141
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 171
+    },
+    {
+      "date": "1993-07-03",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blind Revolution Mad",
+      "id": null
+    },
+    {
+      "title": "Down Incognito",
+      "id": null
+    },
+    {
+      "title": "Spell I’m Under",
+      "id": null
+    },
+    {
+      "title": "In My Veins",
+      "id": null
+    },
+    {
+      "title": "Junkyard Dog (Tears on Stone)",
+      "id": null
+    },
+    {
+      "title": "The Lucky One",
+      "id": null
+    },
+    {
+      "title": "In for the Kill",
+      "id": null
+    },
+    {
+      "title": "No Man’s Land",
+      "id": null
+    },
+    {
+      "title": "Like a Ritual",
+      "id": null
+    },
+    {
+      "title": "Who’s the One",
+      "id": null
+    }
+  ]
+}

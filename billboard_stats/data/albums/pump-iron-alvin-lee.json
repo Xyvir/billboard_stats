@@ -1,1 +1,82 @@
-{"id": "pump-iron-alvin-lee", "title": "Pump Iron", "artist": "Alvin Lee", "peak": 131, "history": [{"date": "1975-09-06", "rank": 161}, {"date": "1975-09-13", "rank": 147}, {"date": "1975-09-20", "rank": 135}, {"date": "1975-09-27", "rank": 131}, {"date": "1975-10-04", "rank": 131}]}
+{
+  "id": "pump-iron-alvin-lee",
+  "title": "Pump Iron",
+  "artist": "Alvin Lee",
+  "peak": 131,
+  "history": [
+    {
+      "date": "1975-09-06",
+      "rank": 161
+    },
+    {
+      "date": "1975-09-13",
+      "rank": 147
+    },
+    {
+      "date": "1975-09-20",
+      "rank": 135
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 131
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 131
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One More Chance",
+      "id": null
+    },
+    {
+      "title": "Try to Be Righteous",
+      "id": null
+    },
+    {
+      "title": "You Told Me",
+      "id": null
+    },
+    {
+      "title": "Have Mercy",
+      "id": null
+    },
+    {
+      "title": "Julian Rice",
+      "id": null
+    },
+    {
+      "title": "Time and Space",
+      "id": null
+    },
+    {
+      "title": "Burnt Fungus",
+      "id": null
+    },
+    {
+      "title": "The Darkest Night",
+      "id": null
+    },
+    {
+      "title": "It’s All Right Now",
+      "id": null
+    },
+    {
+      "title": "Truckin’ Down the Other Way",
+      "id": null
+    },
+    {
+      "title": "Let the Sea Burn Down",
+      "id": null
+    },
+    {
+      "title": "Madness",
+      "id": null
+    },
+    {
+      "title": "Midnight Special",
+      "id": null
+    }
+  ]
+}
