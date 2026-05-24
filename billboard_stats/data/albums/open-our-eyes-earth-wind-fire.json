@@ -1,1 +1,198 @@
-{"id": "open-our-eyes-earth-wind-fire", "title": "Open Our Eyes", "artist": "Earth, Wind & Fire", "peak": 15, "history": [{"date": "1974-03-30", "rank": 61}, {"date": "1974-04-06", "rank": 47}, {"date": "1974-04-13", "rank": 37}, {"date": "1974-04-20", "rank": 25}, {"date": "1974-04-27", "rank": 19}, {"date": "1974-05-04", "rank": 17}, {"date": "1974-05-11", "rank": 16}, {"date": "1974-05-18", "rank": 15}, {"date": "1974-05-25", "rank": 15}, {"date": "1974-06-01", "rank": 16}, {"date": "1974-06-08", "rank": 18}, {"date": "1974-06-15", "rank": 24}, {"date": "1974-06-22", "rank": 28}, {"date": "1974-06-29", "rank": 29}, {"date": "1974-07-06", "rank": 37}, {"date": "1974-07-13", "rank": 31}, {"date": "1974-07-20", "rank": 28}, {"date": "1974-07-27", "rank": 26}, {"date": "1974-08-03", "rank": 26}, {"date": "1974-08-10", "rank": 32}, {"date": "1974-08-17", "rank": 42}, {"date": "1974-08-24", "rank": 51}, {"date": "1974-08-31", "rank": 57}, {"date": "1974-09-07", "rank": 60}, {"date": "1974-09-14", "rank": 63}, {"date": "1974-09-21", "rank": 74}, {"date": "1974-09-28", "rank": 67}, {"date": "1974-10-05", "rank": 64}, {"date": "1974-10-12", "rank": 78}, {"date": "1974-10-19", "rank": 81}, {"date": "1974-10-26", "rank": 85}, {"date": "1974-11-02", "rank": 83}, {"date": "1974-11-09", "rank": 104}, {"date": "1974-11-16", "rank": 128}, {"date": "1974-11-23", "rank": 143}, {"date": "1974-11-30", "rank": 155}, {"date": "1974-12-07", "rank": 177}]}
+{
+  "id": "open-our-eyes-earth-wind-fire",
+  "title": "Open Our Eyes",
+  "artist": "Earth, Wind & Fire",
+  "peak": 15,
+  "history": [
+    {
+      "date": "1974-03-30",
+      "rank": 61
+    },
+    {
+      "date": "1974-04-06",
+      "rank": 47
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 37
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 25
+    },
+    {
+      "date": "1974-04-27",
+      "rank": 19
+    },
+    {
+      "date": "1974-05-04",
+      "rank": 17
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 16
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 15
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 15
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 16
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 18
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 24
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 28
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 29
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 37
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 31
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 28
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 26
+    },
+    {
+      "date": "1974-08-03",
+      "rank": 26
+    },
+    {
+      "date": "1974-08-10",
+      "rank": 32
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 42
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 51
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 57
+    },
+    {
+      "date": "1974-09-07",
+      "rank": 60
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 63
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 74
+    },
+    {
+      "date": "1974-09-28",
+      "rank": 67
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 64
+    },
+    {
+      "date": "1974-10-12",
+      "rank": 78
+    },
+    {
+      "date": "1974-10-19",
+      "rank": 81
+    },
+    {
+      "date": "1974-10-26",
+      "rank": 85
+    },
+    {
+      "date": "1974-11-02",
+      "rank": 83
+    },
+    {
+      "date": "1974-11-09",
+      "rank": 104
+    },
+    {
+      "date": "1974-11-16",
+      "rank": 128
+    },
+    {
+      "date": "1974-11-23",
+      "rank": 143
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 155
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mighty Mighty",
+      "id": "mighty-mighty-earth-wind-fire"
+    },
+    {
+      "title": "Devotion",
+      "id": "devotion-earth-wind-fire"
+    },
+    {
+      "title": "Kalimba Story",
+      "id": "kalimba-story-earth-wind-fire"
+    },
+    {
+      "title": "Fair but So Uncool",
+      "id": null
+    },
+    {
+      "title": "Feelin’ Blue",
+      "id": null
+    },
+    {
+      "title": "Drum Song",
+      "id": null
+    },
+    {
+      "title": "Tee Nine Chee Bit",
+      "id": null
+    },
+    {
+      "title": "Spasmodic Movements",
+      "id": null
+    },
+    {
+      "title": "Caribou",
+      "id": null
+    },
+    {
+      "title": "Open Our Eyes",
+      "id": null
+    }
+  ]
+}
