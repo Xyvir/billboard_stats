@@ -1,1 +1,70 @@
-{"id": "second-hand-heart-dwight-yoakam", "title": "Second Hand Heart", "artist": "Dwight Yoakam", "peak": 18, "history": [{"date": "2015-05-02", "rank": 18}, {"date": "2015-05-09", "rank": 55}, {"date": "2015-05-16", "rank": 77}, {"date": "2015-05-23", "rank": 113}, {"date": "2015-05-30", "rank": 195}]}
+{
+  "id": "second-hand-heart-dwight-yoakam",
+  "title": "Second Hand Heart",
+  "artist": "Dwight Yoakam",
+  "peak": 18,
+  "history": [
+    {
+      "date": "2015-05-02",
+      "rank": 18
+    },
+    {
+      "date": "2015-05-09",
+      "rank": 55
+    },
+    {
+      "date": "2015-05-16",
+      "rank": 77
+    },
+    {
+      "date": "2015-05-23",
+      "rank": 113
+    },
+    {
+      "date": "2015-05-30",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "In Another World",
+      "id": null
+    },
+    {
+      "title": "She",
+      "id": null
+    },
+    {
+      "title": "Dreams of Clay",
+      "id": null
+    },
+    {
+      "title": "Second Hand Heart",
+      "id": null
+    },
+    {
+      "title": "Off Your Mind",
+      "id": null
+    },
+    {
+      "title": "Believe",
+      "id": null
+    },
+    {
+      "title": "Man of Constant Sorrow",
+      "id": null
+    },
+    {
+      "title": "Liar",
+      "id": null
+    },
+    {
+      "title": "The Big Time",
+      "id": null
+    },
+    {
+      "title": "V’s of Birds",
+      "id": null
+    }
+  ]
+}

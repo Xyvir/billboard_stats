@@ -1,1 +1,106 @@
-{"id": "secada-jon-secada", "title": "Secada", "artist": "Jon Secada", "peak": 40, "history": [{"date": "1997-04-12", "rank": 56}, {"date": "1997-04-19", "rank": 40}, {"date": "1997-04-26", "rank": 59}, {"date": "1997-05-03", "rank": 73}, {"date": "1997-05-10", "rank": 83}, {"date": "1997-05-17", "rank": 76}, {"date": "1997-05-24", "rank": 76}, {"date": "1997-05-31", "rank": 98}, {"date": "1997-06-07", "rank": 123}, {"date": "1997-06-14", "rank": 133}, {"date": "1997-06-21", "rank": 114}, {"date": "1997-06-28", "rank": 129}, {"date": "1997-07-05", "rank": 182}]}
+{
+  "id": "secada-jon-secada",
+  "title": "Secada",
+  "artist": "Jon Secada",
+  "peak": 40,
+  "history": [
+    {
+      "date": "1997-04-12",
+      "rank": 56
+    },
+    {
+      "date": "1997-04-19",
+      "rank": 40
+    },
+    {
+      "date": "1997-04-26",
+      "rank": 59
+    },
+    {
+      "date": "1997-05-03",
+      "rank": 73
+    },
+    {
+      "date": "1997-05-10",
+      "rank": 83
+    },
+    {
+      "date": "1997-05-17",
+      "rank": 76
+    },
+    {
+      "date": "1997-05-24",
+      "rank": 76
+    },
+    {
+      "date": "1997-05-31",
+      "rank": 98
+    },
+    {
+      "date": "1997-06-07",
+      "rank": 123
+    },
+    {
+      "date": "1997-06-14",
+      "rank": 133
+    },
+    {
+      "date": "1997-06-21",
+      "rank": 114
+    },
+    {
+      "date": "1997-06-28",
+      "rank": 129
+    },
+    {
+      "date": "1997-07-05",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Too Late, Too Soon",
+      "id": "too-late-too-soon-jon-secada"
+    },
+    {
+      "title": "Too Late, Too Soon (dance version)",
+      "id": "too-late-too-soon-jon-secada"
+    },
+    {
+      "title": "Heaven Is You",
+      "id": null
+    },
+    {
+      "title": "Believe",
+      "id": null
+    },
+    {
+      "title": "Get Me Over You",
+      "id": null
+    },
+    {
+      "title": "It's Enough",
+      "id": null
+    },
+    {
+      "title": "Ready for Love",
+      "id": null
+    },
+    {
+      "title": "I Live for You",
+      "id": null
+    },
+    {
+      "title": "Who Will Take Care of Me",
+      "id": null
+    },
+    {
+      "title": "After All Is Said and Done",
+      "id": null
+    },
+    {
+      "title": "Forever (Is as Long as It Lasts)",
+      "id": null
+    }
+  ]
+}
