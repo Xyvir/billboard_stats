@@ -1,1 +1,118 @@
-{"id": "the-concert-highlights-barbra-streisand", "title": "The Concert Highlights", "artist": "Barbra Streisand", "peak": 81, "history": [{"date": "1995-05-27", "rank": 96}, {"date": "1995-06-03", "rank": 109}, {"date": "1995-06-10", "rank": 81}, {"date": "1995-06-17", "rank": 125}, {"date": "1995-06-24", "rank": 153}, {"date": "1995-07-01", "rank": 144}, {"date": "1995-07-08", "rank": 171}]}
+{
+  "id": "the-concert-highlights-barbra-streisand",
+  "title": "The Concert Highlights",
+  "artist": "Barbra Streisand",
+  "peak": 81,
+  "history": [
+    {
+      "date": "1995-05-27",
+      "rank": 96
+    },
+    {
+      "date": "1995-06-03",
+      "rank": 109
+    },
+    {
+      "date": "1995-06-10",
+      "rank": 81
+    },
+    {
+      "date": "1995-06-17",
+      "rank": 125
+    },
+    {
+      "date": "1995-06-24",
+      "rank": 153
+    },
+    {
+      "date": "1995-07-01",
+      "rank": 144
+    },
+    {
+      "date": "1995-07-08",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "People",
+      "id": "people-barbra-streisand"
+    },
+    {
+      "title": "He Touched Me",
+      "id": "he-touched-me-barbra-streisand"
+    },
+    {
+      "title": "The Way We Were",
+      "id": "the-way-we-were-barbra-streisand"
+    },
+    {
+      "title": "My Man",
+      "id": "my-man-barbra-streisand"
+    },
+    {
+      "title": "Somewhere",
+      "id": "somewhere-barbra-streisand"
+    },
+    {
+      "title": "Overture",
+      "id": null
+    },
+    {
+      "title": "As If We Never Said Goodbye",
+      "id": null
+    },
+    {
+      "title": "Opening Remarks",
+      "id": null
+    },
+    {
+      "title": "I’m Still Here / Everybody Says Don’t / Don’t Rain on My Parade",
+      "id": null
+    },
+    {
+      "title": "Can’t Help Lovin’ That Man",
+      "id": null
+    },
+    {
+      "title": "I’ll Know",
+      "id": null
+    },
+    {
+      "title": "Will He Like Me?",
+      "id": null
+    },
+    {
+      "title": "Evergreen",
+      "id": null
+    },
+    {
+      "title": "The Man That Got Away",
+      "id": null
+    },
+    {
+      "title": "You Don’t Bring Me Flowers",
+      "id": null
+    },
+    {
+      "title": "Lazy Afternoon",
+      "id": null
+    },
+    {
+      "title": "Not While I’m Around",
+      "id": null
+    },
+    {
+      "title": "Ordinary Miracles",
+      "id": null
+    },
+    {
+      "title": "Yentl Medley: Where Is It Written? / Papa, Can You Hear Me? / Will Someone Ever Look at Me That Way? / A Piece of Sky",
+      "id": null
+    },
+    {
+      "title": "Happy Days Are Here Again",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,102 @@
-{"id": "the-complete-bbc-sessions-led-zeppelin", "title": "The Complete BBC Sessions", "artist": "Led Zeppelin", "peak": 21, "history": [{"date": "2016-10-08", "rank": 21}, {"date": "2016-10-15", "rank": 121}]}
+{
+  "id": "the-complete-bbc-sessions-led-zeppelin",
+  "title": "The Complete BBC Sessions",
+  "artist": "Led Zeppelin",
+  "peak": 21,
+  "history": [
+    {
+      "date": "2016-10-08",
+      "rank": 21
+    },
+    {
+      "date": "2016-10-15",
+      "rank": 121
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Whole Lotta Love",
+      "id": "whole-lotta-love-led-zeppelin"
+    },
+    {
+      "title": "Immigrant Song",
+      "id": "immigrant-song-led-zeppelin"
+    },
+    {
+      "title": "Black Dog",
+      "id": "black-dog-led-zeppelin"
+    },
+    {
+      "title": "You Shook Me",
+      "id": null
+    },
+    {
+      "title": "I Can’t Quit You Baby",
+      "id": null
+    },
+    {
+      "title": "Communication Breakdown",
+      "id": null
+    },
+    {
+      "title": "Dazed and Confused",
+      "id": null
+    },
+    {
+      "title": "The Girl I Love She Got Long Black Wavy Hair",
+      "id": null
+    },
+    {
+      "title": "What Is and What Should Never Be",
+      "id": null
+    },
+    {
+      "title": "Travelling Riverside Blues",
+      "id": null
+    },
+    {
+      "title": "Somethin’ Else",
+      "id": null
+    },
+    {
+      "title": "How Many More Times",
+      "id": null
+    },
+    {
+      "title": "Heartbreaker",
+      "id": null
+    },
+    {
+      "title": "Since I’ve Been Loving You",
+      "id": null
+    },
+    {
+      "title": "Stairway to Heaven",
+      "id": null
+    },
+    {
+      "title": "Going to California",
+      "id": null
+    },
+    {
+      "title": "That’s the Way",
+      "id": null
+    },
+    {
+      "title": "Whole Lotta Love (medley): Boogie Chillun / Fixin’ to Die / That’s Alright Mama / A Mess of Blues",
+      "id": null
+    },
+    {
+      "title": "Thank You",
+      "id": null
+    },
+    {
+      "title": "White Summer",
+      "id": null
+    },
+    {
+      "title": "Sunshine Woman",
+      "id": null
+    }
+  ]
+}

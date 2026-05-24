@@ -1,1 +1,118 @@
-{"id": "the-complete-greatest-hits-america", "title": "The Complete Greatest Hits", "artist": "America", "peak": 152, "history": [{"date": "2001-10-06", "rank": 193}, {"date": "2001-10-13", "rank": 165}, {"date": "2001-10-20", "rank": 152}, {"date": "2001-10-27", "rank": 177}, {"date": "2001-11-03", "rank": 172}]}
+{
+  "id": "the-complete-greatest-hits-america",
+  "title": "The Complete Greatest Hits",
+  "artist": "America",
+  "peak": 152,
+  "history": [
+    {
+      "date": "2001-10-06",
+      "rank": 193
+    },
+    {
+      "date": "2001-10-13",
+      "rank": 165
+    },
+    {
+      "date": "2001-10-20",
+      "rank": 152
+    },
+    {
+      "date": "2001-10-27",
+      "rank": 177
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Horse With No Name",
+      "id": "a-horse-with-no-name-america"
+    },
+    {
+      "title": "I Need You",
+      "id": "i-need-you-america"
+    },
+    {
+      "title": "Ventura Highway",
+      "id": "ventura-highway-america"
+    },
+    {
+      "title": "Don’t Cross the River",
+      "id": "don-t-cross-the-river-america"
+    },
+    {
+      "title": "Only in Your Heart",
+      "id": "only-in-your-heart-america"
+    },
+    {
+      "title": "Muskrat Love",
+      "id": "muskrat-love-america"
+    },
+    {
+      "title": "Tin Man",
+      "id": "tin-man-america"
+    },
+    {
+      "title": "Lonely People",
+      "id": "lonely-people-america"
+    },
+    {
+      "title": "Sister Golden Hair",
+      "id": "sister-golden-hair-america"
+    },
+    {
+      "title": "Daisy Jane",
+      "id": "daisy-jane-america"
+    },
+    {
+      "title": "Woman Tonight",
+      "id": "woman-tonight-america"
+    },
+    {
+      "title": "Today’s the Day",
+      "id": "today-s-the-day-america"
+    },
+    {
+      "title": "Amber Cascades",
+      "id": "amber-cascades-america"
+    },
+    {
+      "title": "California Dreamin’",
+      "id": "california-dreamin-america"
+    },
+    {
+      "title": "You Can Do Magic",
+      "id": "you-can-do-magic-america"
+    },
+    {
+      "title": "Right Before Your Eyes",
+      "id": "right-before-your-eyes-america"
+    },
+    {
+      "title": "The Border",
+      "id": "the-border-america"
+    },
+    {
+      "title": "Sandman",
+      "id": null
+    },
+    {
+      "title": "Everyone I Meet Is From California",
+      "id": null
+    },
+    {
+      "title": "Another Try",
+      "id": null
+    },
+    {
+      "title": "World of Light",
+      "id": null
+    },
+    {
+      "title": "Paradise",
+      "id": null
+    }
+  ]
+}

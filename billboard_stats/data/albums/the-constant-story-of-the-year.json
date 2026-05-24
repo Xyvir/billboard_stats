@@ -1,1 +1,66 @@
-{"id": "the-constant-story-of-the-year", "title": "The Constant", "artist": "Story of the Year", "peak": 42, "history": [{"date": "2010-03-06", "rank": 42}, {"date": "2010-03-13", "rank": 165}]}
+{
+  "id": "the-constant-story-of-the-year",
+  "title": "The Constant",
+  "artist": "Story of the Year",
+  "peak": 42,
+  "history": [
+    {
+      "date": "2010-03-06",
+      "rank": 42
+    },
+    {
+      "date": "2010-03-13",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Children Sing",
+      "id": null
+    },
+    {
+      "title": "The Ghost of You and I",
+      "id": null
+    },
+    {
+      "title": "I’m Alive",
+      "id": null
+    },
+    {
+      "title": "To the Burial",
+      "id": null
+    },
+    {
+      "title": "The Dream Is Over",
+      "id": null
+    },
+    {
+      "title": "Remember a Time",
+      "id": null
+    },
+    {
+      "title": "Holding On to You",
+      "id": null
+    },
+    {
+      "title": "Won Threw Ate",
+      "id": null
+    },
+    {
+      "title": "Ten Years Down",
+      "id": null
+    },
+    {
+      "title": "Time Goes On",
+      "id": null
+    },
+    {
+      "title": "Eye for an Eye",
+      "id": null
+    },
+    {
+      "title": "Your Unsung Friend",
+      "id": null
+    }
+  ]
+}

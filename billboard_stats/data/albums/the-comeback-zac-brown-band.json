@@ -1,1 +1,78 @@
-{"id": "the-comeback-zac-brown-band", "title": "The Comeback", "artist": "Zac Brown Band", "peak": 27, "history": [{"date": "2021-10-30", "rank": 27}, {"date": "2021-11-06", "rank": 163}]}
+{
+  "id": "the-comeback-zac-brown-band",
+  "title": "The Comeback",
+  "artist": "Zac Brown Band",
+  "peak": 27,
+  "history": [
+    {
+      "date": "2021-10-30",
+      "rank": 27
+    },
+    {
+      "date": "2021-11-06",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Out in the Middle",
+      "id": "out-in-the-middle-zac-brown-band"
+    },
+    {
+      "title": "Same Boat",
+      "id": "same-boat-zac-brown-band"
+    },
+    {
+      "title": "Slow Burn",
+      "id": null
+    },
+    {
+      "title": "Wild Palomino",
+      "id": null
+    },
+    {
+      "title": "Us Against the World",
+      "id": null
+    },
+    {
+      "title": "Stubborn Pride",
+      "id": null
+    },
+    {
+      "title": "Fun Having Fun",
+      "id": null
+    },
+    {
+      "title": "The Comeback",
+      "id": null
+    },
+    {
+      "title": "Old Love Song",
+      "id": null
+    },
+    {
+      "title": "Any Day Now",
+      "id": null
+    },
+    {
+      "title": "Paradise Lost on Me",
+      "id": null
+    },
+    {
+      "title": "GA Clay",
+      "id": null
+    },
+    {
+      "title": "Love and Sunsets",
+      "id": null
+    },
+    {
+      "title": "Closer to Heaven",
+      "id": null
+    },
+    {
+      "title": "Don’t Let Your Heart",
+      "id": null
+    }
+  ]
+}
