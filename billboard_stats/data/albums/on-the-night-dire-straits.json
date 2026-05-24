@@ -1,1 +1,70 @@
-{"id": "on-the-night-dire-straits", "title": "On The Night", "artist": "Dire Straits", "peak": 116, "history": [{"date": "1993-05-29", "rank": 125}, {"date": "1993-06-05", "rank": 116}, {"date": "1993-06-12", "rank": 141}, {"date": "1993-06-19", "rank": 152}, {"date": "1993-06-26", "rank": 197}]}
+{
+  "id": "on-the-night-dire-straits",
+  "title": "On The Night",
+  "artist": "Dire Straits",
+  "peak": 116,
+  "history": [
+    {
+      "date": "1993-05-29",
+      "rank": 125
+    },
+    {
+      "date": "1993-06-05",
+      "rank": 116
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 141
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 152
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Walk of Life",
+      "id": "walk-of-life-dire-straits"
+    },
+    {
+      "title": "Money for Nothing",
+      "id": "money-for-nothing-dire-straits"
+    },
+    {
+      "title": "Calling Elvis",
+      "id": null
+    },
+    {
+      "title": "Heavy Fuel",
+      "id": null
+    },
+    {
+      "title": "Romeo and Juliet",
+      "id": null
+    },
+    {
+      "title": "Private Investigations",
+      "id": null
+    },
+    {
+      "title": "Your Latest Trick",
+      "id": null
+    },
+    {
+      "title": "On Every Street",
+      "id": null
+    },
+    {
+      "title": "You and Your Friend",
+      "id": null
+    },
+    {
+      "title": "Brothers in Arms",
+      "id": null
+    }
+  ]
+}

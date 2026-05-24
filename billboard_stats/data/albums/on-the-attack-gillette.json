@@ -1,1 +1,70 @@
-{"id": "on-the-attack-gillette", "title": "On The Attack", "artist": "Gillette", "peak": 155, "history": [{"date": "1995-04-15", "rank": 184}, {"date": "1995-05-06", "rank": 155}, {"date": "1995-05-13", "rank": 195}, {"date": "1995-05-20", "rank": 196}]}
+{
+  "id": "on-the-attack-gillette",
+  "title": "On The Attack",
+  "artist": "Gillette",
+  "peak": 155,
+  "history": [
+    {
+      "date": "1995-04-15",
+      "rank": 184
+    },
+    {
+      "date": "1995-05-06",
+      "rank": 155
+    },
+    {
+      "date": "1995-05-13",
+      "rank": 195
+    },
+    {
+      "date": "1995-05-20",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mr. Personality (radio mix)",
+      "id": "mr-personality-gillette"
+    },
+    {
+      "title": "I’m on the Attack",
+      "id": null
+    },
+    {
+      "title": "Whatcha Gonna Do",
+      "id": null
+    },
+    {
+      "title": "Short, Short Man",
+      "id": null
+    },
+    {
+      "title": "Bad Boys",
+      "id": null
+    },
+    {
+      "title": "Wanna Wild Thing",
+      "id": null
+    },
+    {
+      "title": "You’re a Dog",
+      "id": null
+    },
+    {
+      "title": "Coochie Dance",
+      "id": null
+    },
+    {
+      "title": "Pay Back",
+      "id": null
+    },
+    {
+      "title": "Move Too Fast",
+      "id": null
+    },
+    {
+      "title": "Short Dick Man",
+      "id": null
+    }
+  ]
+}

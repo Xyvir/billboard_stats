@@ -1,1 +1,86 @@
-{"id": "only-the-strong-survive-bruce-springsteen", "title": "Only The Strong Survive", "artist": "Bruce Springsteen", "peak": 8, "history": [{"date": "2022-11-26", "rank": 8}, {"date": "2022-12-03", "rank": 73}, {"date": "2022-12-10", "rank": 149}, {"date": "2022-12-17", "rank": 175}]}
+{
+  "id": "only-the-strong-survive-bruce-springsteen",
+  "title": "Only The Strong Survive",
+  "artist": "Bruce Springsteen",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2022-11-26",
+      "rank": 8
+    },
+    {
+      "date": "2022-12-03",
+      "rank": 73
+    },
+    {
+      "date": "2022-12-10",
+      "rank": 149
+    },
+    {
+      "date": "2022-12-17",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Soul Days",
+      "id": "glory-days-bruce-springsteen"
+    },
+    {
+      "title": "Only the Strong Survive",
+      "id": null
+    },
+    {
+      "title": "Nightshift",
+      "id": null
+    },
+    {
+      "title": "Do I Love You (Indeed I Do)",
+      "id": null
+    },
+    {
+      "title": "The Sun Ain’t Gonna Shine Anymore",
+      "id": null
+    },
+    {
+      "title": "Turn Back the Hands of Time",
+      "id": null
+    },
+    {
+      "title": "When She Was My Girl",
+      "id": null
+    },
+    {
+      "title": "Hey, Western Union Man",
+      "id": null
+    },
+    {
+      "title": "I Wish It Would Rain",
+      "id": null
+    },
+    {
+      "title": "Don’t Play That Song",
+      "id": null
+    },
+    {
+      "title": "Any Other Way",
+      "id": null
+    },
+    {
+      "title": "I Forgot to Be Your Lover",
+      "id": null
+    },
+    {
+      "title": "7 Rooms of Gloom",
+      "id": null
+    },
+    {
+      "title": "What Becomes of the Brokenhearted",
+      "id": null
+    },
+    {
+      "title": "Someday We’ll Be Together",
+      "id": null
+    }
+  ]
+}

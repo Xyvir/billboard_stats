@@ -1,1 +1,66 @@
-{"id": "on-stage-lily-tomlin", "title": "On Stage", "artist": "Lily Tomlin", "peak": 120, "history": [{"date": "1977-11-12", "rank": 131}, {"date": "1977-11-19", "rank": 120}, {"date": "1977-11-26", "rank": 120}, {"date": "1977-12-03", "rank": 193}, {"date": "1977-12-10", "rank": 185}, {"date": "1977-12-17", "rank": 186}]}
+{
+  "id": "on-stage-lily-tomlin",
+  "title": "On Stage",
+  "artist": "Lily Tomlin",
+  "peak": 120,
+  "history": [
+    {
+      "date": "1977-11-12",
+      "rank": 131
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 120
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 120
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 193
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 185
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mr. Theater Goer And Shopping Bag Lady",
+      "id": null
+    },
+    {
+      "title": "Mrs. Judith Beasley",
+      "id": null
+    },
+    {
+      "title": "Lud And Marie Meet Dracula's Daughter",
+      "id": null
+    },
+    {
+      "title": "Ernestine",
+      "id": null
+    },
+    {
+      "title": "Tell Miss Sweeny Goodbye",
+      "id": null
+    },
+    {
+      "title": "Shopping Bag Lady And UFO Guy",
+      "id": null
+    },
+    {
+      "title": "Glenna - A Child Of The 60s",
+      "id": null
+    },
+    {
+      "title": "Lily And The Shopping Bag Lady",
+      "id": null
+    }
+  ]
+}

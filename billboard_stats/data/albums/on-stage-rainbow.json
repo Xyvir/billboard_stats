@@ -1,1 +1,74 @@
-{"id": "on-stage-rainbow", "title": "On Stage", "artist": "Rainbow", "peak": 65, "history": [{"date": "1977-07-16", "rank": 108}, {"date": "1977-07-23", "rank": 96}, {"date": "1977-07-30", "rank": 85}, {"date": "1977-08-06", "rank": 75}, {"date": "1977-08-13", "rank": 69}, {"date": "1977-08-20", "rank": 65}, {"date": "1977-08-27", "rank": 77}, {"date": "1977-09-03", "rank": 107}, {"date": "1977-09-10", "rank": 175}]}
+{
+  "id": "on-stage-rainbow",
+  "title": "On Stage",
+  "artist": "Rainbow",
+  "peak": 65,
+  "history": [
+    {
+      "date": "1977-07-16",
+      "rank": 108
+    },
+    {
+      "date": "1977-07-23",
+      "rank": 96
+    },
+    {
+      "date": "1977-07-30",
+      "rank": 85
+    },
+    {
+      "date": "1977-08-06",
+      "rank": 75
+    },
+    {
+      "date": "1977-08-13",
+      "rank": 69
+    },
+    {
+      "date": "1977-08-20",
+      "rank": 65
+    },
+    {
+      "date": "1977-08-27",
+      "rank": 77
+    },
+    {
+      "date": "1977-09-03",
+      "rank": 107
+    },
+    {
+      "date": "1977-09-10",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intro: Over the Rainbow",
+      "id": null
+    },
+    {
+      "title": "Kill the King",
+      "id": null
+    },
+    {
+      "title": "Medley: Man on the Silver Mountain / Blues / Starstruck",
+      "id": null
+    },
+    {
+      "title": "Catch the Rainbow",
+      "id": null
+    },
+    {
+      "title": "Mistreated",
+      "id": null
+    },
+    {
+      "title": "Sixteenth Century Greensleeves",
+      "id": null
+    },
+    {
+      "title": "Still I’m Sad",
+      "id": null
+    }
+  ]
+}

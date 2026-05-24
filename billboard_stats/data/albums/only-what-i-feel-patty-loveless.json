@@ -1,1 +1,230 @@
-{"id": "only-what-i-feel-patty-loveless", "title": "Only What I Feel", "artist": "Patty Loveless", "peak": 63, "history": [{"date": "1993-05-08", "rank": 105}, {"date": "1993-05-15", "rank": 71}, {"date": "1993-05-22", "rank": 69}, {"date": "1993-05-29", "rank": 79}, {"date": "1993-06-05", "rank": 82}, {"date": "1993-06-12", "rank": 91}, {"date": "1993-06-19", "rank": 95}, {"date": "1993-06-26", "rank": 98}, {"date": "1993-07-03", "rank": 109}, {"date": "1993-07-10", "rank": 115}, {"date": "1993-07-17", "rank": 131}, {"date": "1993-07-24", "rank": 137}, {"date": "1993-07-31", "rank": 145}, {"date": "1993-08-07", "rank": 151}, {"date": "1993-08-14", "rank": 159}, {"date": "1993-08-21", "rank": 172}, {"date": "1993-08-28", "rank": 167}, {"date": "1993-09-04", "rank": 157}, {"date": "1993-09-11", "rank": 154}, {"date": "1993-09-18", "rank": 149}, {"date": "1993-09-25", "rank": 145}, {"date": "1993-10-02", "rank": 140}, {"date": "1993-10-09", "rank": 145}, {"date": "1993-10-16", "rank": 150}, {"date": "1993-10-23", "rank": 154}, {"date": "1993-10-30", "rank": 168}, {"date": "1993-11-06", "rank": 185}, {"date": "1994-04-09", "rank": 195}, {"date": "1994-04-16", "rank": 159}, {"date": "1994-04-23", "rank": 139}, {"date": "1994-04-30", "rank": 109}, {"date": "1994-05-07", "rank": 84}, {"date": "1994-05-14", "rank": 69}, {"date": "1994-05-21", "rank": 65}, {"date": "1994-05-28", "rank": 63}, {"date": "1994-06-04", "rank": 68}, {"date": "1994-06-11", "rank": 80}, {"date": "1994-06-18", "rank": 78}, {"date": "1994-06-25", "rank": 90}, {"date": "1994-07-02", "rank": 101}, {"date": "1994-07-09", "rank": 109}, {"date": "1994-07-16", "rank": 132}, {"date": "1994-07-23", "rank": 144}, {"date": "1994-07-30", "rank": 173}, {"date": "1994-08-06", "rank": 196}]}
+{
+  "id": "only-what-i-feel-patty-loveless",
+  "title": "Only What I Feel",
+  "artist": "Patty Loveless",
+  "peak": 63,
+  "history": [
+    {
+      "date": "1993-05-08",
+      "rank": 105
+    },
+    {
+      "date": "1993-05-15",
+      "rank": 71
+    },
+    {
+      "date": "1993-05-22",
+      "rank": 69
+    },
+    {
+      "date": "1993-05-29",
+      "rank": 79
+    },
+    {
+      "date": "1993-06-05",
+      "rank": 82
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 91
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 95
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 98
+    },
+    {
+      "date": "1993-07-03",
+      "rank": 109
+    },
+    {
+      "date": "1993-07-10",
+      "rank": 115
+    },
+    {
+      "date": "1993-07-17",
+      "rank": 131
+    },
+    {
+      "date": "1993-07-24",
+      "rank": 137
+    },
+    {
+      "date": "1993-07-31",
+      "rank": 145
+    },
+    {
+      "date": "1993-08-07",
+      "rank": 151
+    },
+    {
+      "date": "1993-08-14",
+      "rank": 159
+    },
+    {
+      "date": "1993-08-21",
+      "rank": 172
+    },
+    {
+      "date": "1993-08-28",
+      "rank": 167
+    },
+    {
+      "date": "1993-09-04",
+      "rank": 157
+    },
+    {
+      "date": "1993-09-11",
+      "rank": 154
+    },
+    {
+      "date": "1993-09-18",
+      "rank": 149
+    },
+    {
+      "date": "1993-09-25",
+      "rank": 145
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 140
+    },
+    {
+      "date": "1993-10-09",
+      "rank": 145
+    },
+    {
+      "date": "1993-10-16",
+      "rank": 150
+    },
+    {
+      "date": "1993-10-23",
+      "rank": 154
+    },
+    {
+      "date": "1993-10-30",
+      "rank": 168
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 185
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 195
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 159
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 139
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 109
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 84
+    },
+    {
+      "date": "1994-05-14",
+      "rank": 69
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 65
+    },
+    {
+      "date": "1994-05-28",
+      "rank": 63
+    },
+    {
+      "date": "1994-06-04",
+      "rank": 68
+    },
+    {
+      "date": "1994-06-11",
+      "rank": 80
+    },
+    {
+      "date": "1994-06-18",
+      "rank": 78
+    },
+    {
+      "date": "1994-06-25",
+      "rank": 90
+    },
+    {
+      "date": "1994-07-02",
+      "rank": 101
+    },
+    {
+      "date": "1994-07-09",
+      "rank": 109
+    },
+    {
+      "date": "1994-07-16",
+      "rank": 132
+    },
+    {
+      "date": "1994-07-23",
+      "rank": 144
+    },
+    {
+      "date": "1994-07-30",
+      "rank": 173
+    },
+    {
+      "date": "1994-08-06",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Will",
+      "id": null
+    },
+    {
+      "title": "How About You",
+      "id": null
+    },
+    {
+      "title": "Nothin’ but the Wheel",
+      "id": null
+    },
+    {
+      "title": "Love Builds the Bridges (Pride Builds the Walls)",
+      "id": null
+    },
+    {
+      "title": "Mr. Man in the Moon",
+      "id": null
+    },
+    {
+      "title": "Blame It on Your Heart",
+      "id": null
+    },
+    {
+      "title": "You Don’t Know How Lucky You Are",
+      "id": null
+    },
+    {
+      "title": "All I Need (Is Not to Need You)",
+      "id": null
+    },
+    {
+      "title": "What’s a Broken Heart",
+      "id": null
+    },
+    {
+      "title": "How Can I Help You Say Goodbye",
+      "id": null
+    }
+  ]
+}

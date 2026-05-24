@@ -1,1 +1,34 @@
-{"id": "only-the-strong-survive-billy-paul", "title": "Only The Strong Survive", "artist": "Billy Paul", "peak": 152, "history": [{"date": "1978-01-28", "rank": 179}, {"date": "1978-02-04", "rank": 158}, {"date": "1978-02-11", "rank": 152}, {"date": "1978-02-18", "rank": 196}]}
+{
+  "id": "only-the-strong-survive-billy-paul",
+  "title": "Only The Strong Survive",
+  "artist": "Billy Paul",
+  "peak": 152,
+  "history": [
+    {
+      "date": "1978-01-28",
+      "rank": 179
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 158
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 152
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Only the Strong Survive",
+      "id": null
+    },
+    {
+      "title": "Where I Belong",
+      "id": null
+    }
+  ]
+}

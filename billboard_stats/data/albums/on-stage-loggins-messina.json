@@ -1,1 +1,222 @@
-{"id": "on-stage-loggins-messina", "title": "On Stage", "artist": "Loggins & Messina", "peak": 5, "history": [{"date": "1974-05-11", "rank": 135}, {"date": "1974-05-18", "rank": 62}, {"date": "1974-05-25", "rank": 28}, {"date": "1974-06-01", "rank": 18}, {"date": "1974-06-08", "rank": 14}, {"date": "1974-06-15", "rank": 12}, {"date": "1974-06-22", "rank": 10}, {"date": "1974-06-29", "rank": 9}, {"date": "1974-07-06", "rank": 14}, {"date": "1974-07-13", "rank": 10}, {"date": "1974-07-20", "rank": 10}, {"date": "1974-07-27", "rank": 9}, {"date": "1974-08-03", "rank": 7}, {"date": "1974-08-10", "rank": 5}, {"date": "1974-08-17", "rank": 5}, {"date": "1974-08-24", "rank": 7}, {"date": "1974-08-31", "rank": 22}, {"date": "1974-09-07", "rank": 30}, {"date": "1974-09-14", "rank": 49}, {"date": "1974-09-21", "rank": 61}, {"date": "1974-09-28", "rank": 66}, {"date": "1974-10-05", "rank": 63}, {"date": "1974-10-12", "rank": 71}, {"date": "1974-10-19", "rank": 79}, {"date": "1974-10-26", "rank": 86}, {"date": "1974-11-02", "rank": 125}, {"date": "1974-11-09", "rank": 152}, {"date": "1974-11-16", "rank": 168}, {"date": "1974-11-23", "rank": 164}, {"date": "1974-11-30", "rank": 172}, {"date": "1974-12-07", "rank": 197}, {"date": "1975-10-04", "rank": 181}, {"date": "1975-10-11", "rank": 170}, {"date": "1975-10-18", "rank": 159}, {"date": "1975-10-25", "rank": 146}, {"date": "1975-11-01", "rank": 146}, {"date": "1975-11-08", "rank": 184}]}
+{
+  "id": "on-stage-loggins-messina",
+  "title": "On Stage",
+  "artist": "Loggins & Messina",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1974-05-11",
+      "rank": 135
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 62
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 28
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 18
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 14
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 12
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 10
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 9
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 14
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 10
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 10
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 9
+    },
+    {
+      "date": "1974-08-03",
+      "rank": 7
+    },
+    {
+      "date": "1974-08-10",
+      "rank": 5
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 5
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 7
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 22
+    },
+    {
+      "date": "1974-09-07",
+      "rank": 30
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 49
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 61
+    },
+    {
+      "date": "1974-09-28",
+      "rank": 66
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 63
+    },
+    {
+      "date": "1974-10-12",
+      "rank": 71
+    },
+    {
+      "date": "1974-10-19",
+      "rank": 79
+    },
+    {
+      "date": "1974-10-26",
+      "rank": 86
+    },
+    {
+      "date": "1974-11-02",
+      "rank": 125
+    },
+    {
+      "date": "1974-11-09",
+      "rank": 152
+    },
+    {
+      "date": "1974-11-16",
+      "rank": 168
+    },
+    {
+      "date": "1974-11-23",
+      "rank": 164
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 172
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 197
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 181
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 170
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 159
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 146
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 146
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "House at Pooh Corner",
+      "id": null
+    },
+    {
+      "title": "Danny’s Song",
+      "id": null
+    },
+    {
+      "title": "You Could Break My Heart",
+      "id": null
+    },
+    {
+      "title": "Lady of My Heart",
+      "id": null
+    },
+    {
+      "title": "Long Tail Cat",
+      "id": null
+    },
+    {
+      "title": "Listen to a Country Song",
+      "id": null
+    },
+    {
+      "title": "Holiday Hotel",
+      "id": null
+    },
+    {
+      "title": "Just Before the News",
+      "id": null
+    },
+    {
+      "title": "Angry Eyes",
+      "id": null
+    },
+    {
+      "title": "Golden Ribbons",
+      "id": null
+    },
+    {
+      "title": "Another Road",
+      "id": null
+    },
+    {
+      "title": "Vahevala",
+      "id": null
+    },
+    {
+      "title": "Back to Georgia",
+      "id": null
+    },
+    {
+      "title": "Trilogy: Lovin’ Me / To Make a Woman Feel Wanted",
+      "id": null
+    },
+    {
+      "title": "Your Mama Don’t Dance",
+      "id": null
+    },
+    {
+      "title": "Nobody but You",
+      "id": null
+    }
+  ]
+}

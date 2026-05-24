@@ -1,1 +1,94 @@
-{"id": "on-off-broadway", "title": "On", "artist": "Off Broadway", "peak": 101, "history": [{"date": "1980-02-16", "rank": 113}, {"date": "1980-02-23", "rank": 104}, {"date": "1980-03-01", "rank": 103}, {"date": "1980-03-08", "rank": 101}, {"date": "1980-03-15", "rank": 101}, {"date": "1980-03-22", "rank": 107}, {"date": "1980-03-29", "rank": 105}, {"date": "1980-04-05", "rank": 128}, {"date": "1980-04-12", "rank": 168}, {"date": "1980-04-19", "rank": 186}, {"date": "1980-04-26", "rank": 186}]}
+{
+  "id": "on-off-broadway",
+  "title": "On",
+  "artist": "Off Broadway",
+  "peak": 101,
+  "history": [
+    {
+      "date": "1980-02-16",
+      "rank": 113
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 104
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 103
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 101
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 101
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 107
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 105
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 128
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 168
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 186
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stay in Time",
+      "id": null
+    },
+    {
+      "title": "Bad Indication",
+      "id": null
+    },
+    {
+      "title": "New Little Girl",
+      "id": null
+    },
+    {
+      "title": "Drop Me a Line",
+      "id": null
+    },
+    {
+      "title": "Hang on for Love",
+      "id": null
+    },
+    {
+      "title": "Full Moon Turn Your Head Around",
+      "id": null
+    },
+    {
+      "title": "Bully Bully",
+      "id": null
+    },
+    {
+      "title": "You Belong to You",
+      "id": null
+    },
+    {
+      "title": "Money's No Good",
+      "id": null
+    },
+    {
+      "title": "Oh, Boy!",
+      "id": null
+    }
+  ]
+}
