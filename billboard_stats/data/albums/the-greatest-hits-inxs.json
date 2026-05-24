@@ -1,1 +1,86 @@
-{"id": "the-greatest-hits-inxs", "title": "The Greatest Hits", "artist": "INXS", "peak": 112, "history": [{"date": "1994-11-19", "rank": 112}, {"date": "1994-11-26", "rank": 140}, {"date": "1994-12-03", "rank": 191}]}
+{
+  "id": "the-greatest-hits-inxs",
+  "title": "The Greatest Hits",
+  "artist": "INXS",
+  "peak": 112,
+  "history": [
+    {
+      "date": "1994-11-19",
+      "rank": 112
+    },
+    {
+      "date": "1994-11-26",
+      "rank": 140
+    },
+    {
+      "date": "1994-12-03",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The One Thing",
+      "id": "the-one-thing-inxs"
+    },
+    {
+      "title": "Original Sin",
+      "id": "original-sin-inxs"
+    },
+    {
+      "title": "What You Need",
+      "id": "what-you-need-inxs"
+    },
+    {
+      "title": "Listen Like Thieves",
+      "id": "listen-like-thieves-inxs"
+    },
+    {
+      "title": "Need You Tonight",
+      "id": "need-you-tonight-inxs"
+    },
+    {
+      "title": "Devil Inside",
+      "id": "devil-inside-inxs"
+    },
+    {
+      "title": "New Sensation",
+      "id": "new-sensation-inxs"
+    },
+    {
+      "title": "Never Tear Us Apart",
+      "id": "never-tear-us-apart-inxs"
+    },
+    {
+      "title": "Suicide Blonde",
+      "id": "suicide-blonde-inxs"
+    },
+    {
+      "title": "Disappear",
+      "id": "disappear-inxs"
+    },
+    {
+      "title": "Beautiful Girl",
+      "id": "beautiful-girl-inxs"
+    },
+    {
+      "title": "Shine Like It Does",
+      "id": null
+    },
+    {
+      "title": "The Stairs",
+      "id": null
+    },
+    {
+      "title": "Heaven Sent",
+      "id": null
+    },
+    {
+      "title": "The Strangest Party (These Are the Times)",
+      "id": null
+    },
+    {
+      "title": "Deliver Me",
+      "id": null
+    }
+  ]
+}

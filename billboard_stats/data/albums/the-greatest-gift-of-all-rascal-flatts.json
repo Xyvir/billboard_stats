@@ -1,1 +1,78 @@
-{"id": "the-greatest-gift-of-all-rascal-flatts", "title": "The Greatest Gift Of All", "artist": "Rascal Flatts", "peak": 60, "history": [{"date": "2016-11-12", "rank": 167}, {"date": "2016-12-03", "rank": 149}, {"date": "2016-12-10", "rank": 110}, {"date": "2016-12-17", "rank": 60}, {"date": "2016-12-24", "rank": 69}, {"date": "2016-12-31", "rank": 110}, {"date": "2017-01-07", "rank": 138}]}
+{
+  "id": "the-greatest-gift-of-all-rascal-flatts",
+  "title": "The Greatest Gift Of All",
+  "artist": "Rascal Flatts",
+  "peak": 60,
+  "history": [
+    {
+      "date": "2016-11-12",
+      "rank": 167
+    },
+    {
+      "date": "2016-12-03",
+      "rank": 149
+    },
+    {
+      "date": "2016-12-10",
+      "rank": 110
+    },
+    {
+      "date": "2016-12-17",
+      "rank": 60
+    },
+    {
+      "date": "2016-12-24",
+      "rank": 69
+    },
+    {
+      "date": "2016-12-31",
+      "rank": 110
+    },
+    {
+      "date": "2017-01-07",
+      "rank": 138
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Silent Night",
+      "id": "summer-nights-rascal-flatts"
+    },
+    {
+      "title": "Joy to the World",
+      "id": null
+    },
+    {
+      "title": "O Holy Night",
+      "id": null
+    },
+    {
+      "title": "Deck the Halls",
+      "id": null
+    },
+    {
+      "title": "A Strange Way to Save the World",
+      "id": null
+    },
+    {
+      "title": "Go Tell It on the Mountain",
+      "id": null
+    },
+    {
+      "title": "Let It Snow",
+      "id": null
+    },
+    {
+      "title": "Someday at Christmas",
+      "id": null
+    },
+    {
+      "title": "The First Noel",
+      "id": null
+    },
+    {
+      "title": "Hark! The Herald Angels Sing",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "the-great-escape-artist-jane-s-addiction", "title": "The Great Escape Artist", "artist": "Jane's Addiction", "peak": 12, "history": [{"date": "2011-11-05", "rank": 12}, {"date": "2011-11-12", "rank": 67}, {"date": "2011-11-19", "rank": 169}]}
+{
+  "id": "the-great-escape-artist-jane-s-addiction",
+  "title": "The Great Escape Artist",
+  "artist": "Jane's Addiction",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2011-11-05",
+      "rank": 12
+    },
+    {
+      "date": "2011-11-12",
+      "rank": 67
+    },
+    {
+      "date": "2011-11-19",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Underground",
+      "id": null
+    },
+    {
+      "title": "End to the Lies",
+      "id": null
+    },
+    {
+      "title": "Curiosity Kills",
+      "id": null
+    },
+    {
+      "title": "Irresistible Force",
+      "id": null
+    },
+    {
+      "title": "I’ll Hit You Back",
+      "id": null
+    },
+    {
+      "title": "Twisted Tales",
+      "id": null
+    },
+    {
+      "title": "Ultimate Reason",
+      "id": null
+    },
+    {
+      "title": "Splash a Little Water on It",
+      "id": null
+    },
+    {
+      "title": "Broken People",
+      "id": null
+    },
+    {
+      "title": "Words Right Out of My Mouth",
+      "id": null
+    }
+  ]
+}
