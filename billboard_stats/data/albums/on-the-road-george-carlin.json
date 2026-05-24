@@ -1,1 +1,82 @@
-{"id": "on-the-road-george-carlin", "title": "On The Road", "artist": "George Carlin", "peak": 90, "history": [{"date": "1977-05-21", "rank": 182}, {"date": "1977-05-28", "rank": 161}, {"date": "1977-06-04", "rank": 130}, {"date": "1977-06-11", "rank": 119}, {"date": "1977-06-18", "rank": 107}, {"date": "1977-06-25", "rank": 95}, {"date": "1977-07-02", "rank": 90}, {"date": "1977-07-09", "rank": 145}, {"date": "1977-07-16", "rank": 143}]}
+{
+  "id": "on-the-road-george-carlin",
+  "title": "On The Road",
+  "artist": "George Carlin",
+  "peak": 90,
+  "history": [
+    {
+      "date": "1977-05-21",
+      "rank": 182
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 161
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 130
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 119
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 107
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 95
+    },
+    {
+      "date": "1977-07-02",
+      "rank": 90
+    },
+    {
+      "date": "1977-07-09",
+      "rank": 145
+    },
+    {
+      "date": "1977-07-16",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "On the Road",
+      "id": null
+    },
+    {
+      "title": "Death and Dying",
+      "id": null
+    },
+    {
+      "title": "Headlines",
+      "id": null
+    },
+    {
+      "title": "Kids Are Too Small",
+      "id": null
+    },
+    {
+      "title": "Rules, Rules, Rules!",
+      "id": null
+    },
+    {
+      "title": "Parents’ Cliches and Children’s Secret Answers",
+      "id": null
+    },
+    {
+      "title": "Words We Leave Behind",
+      "id": null
+    },
+    {
+      "title": "How’s Your Dog?",
+      "id": null
+    },
+    {
+      "title": "Supermarkets",
+      "id": null
+    }
+  ]
+}

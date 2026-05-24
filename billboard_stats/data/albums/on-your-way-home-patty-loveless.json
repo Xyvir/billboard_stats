@@ -1,1 +1,66 @@
-{"id": "on-your-way-home-patty-loveless", "title": "On Your Way Home", "artist": "Patty Loveless", "peak": 77, "history": [{"date": "2003-10-04", "rank": 77}, {"date": "2003-10-11", "rank": 171}, {"date": "2003-10-18", "rank": 191}]}
+{
+  "id": "on-your-way-home-patty-loveless",
+  "title": "On Your Way Home",
+  "artist": "Patty Loveless",
+  "peak": 77,
+  "history": [
+    {
+      "date": "2003-10-04",
+      "rank": 77
+    },
+    {
+      "date": "2003-10-11",
+      "rank": 171
+    },
+    {
+      "date": "2003-10-18",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lovin’ All Night",
+      "id": "lovin-all-night-patty-loveless"
+    },
+    {
+      "title": "Draggin’ My Heart Around",
+      "id": null
+    },
+    {
+      "title": "Nothin’ Like the Lonely",
+      "id": null
+    },
+    {
+      "title": "I Wanna Believe",
+      "id": null
+    },
+    {
+      "title": "On Your Way Home",
+      "id": null
+    },
+    {
+      "title": "I Don’t Wanna Be That Strong",
+      "id": null
+    },
+    {
+      "title": "Born‐Again Fool",
+      "id": null
+    },
+    {
+      "title": "Looking for a Heartache Like You",
+      "id": null
+    },
+    {
+      "title": "Higher Than the Wall",
+      "id": null
+    },
+    {
+      "title": "Last in a Long Lonesome Line",
+      "id": null
+    },
+    {
+      "title": "The Grandpa That I Know",
+      "id": null
+    }
+  ]
+}

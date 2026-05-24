@@ -1,1 +1,82 @@
-{"id": "on-the-rocks-midland", "title": "On The Rocks", "artist": "Midland", "peak": 20, "history": [{"date": "2017-10-14", "rank": 20}, {"date": "2017-10-21", "rank": 102}, {"date": "2017-10-28", "rank": 161}, {"date": "2017-11-04", "rank": 189}, {"date": "2018-04-28", "rank": 189}]}
+{
+  "id": "on-the-rocks-midland",
+  "title": "On The Rocks",
+  "artist": "Midland",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2017-10-14",
+      "rank": 20
+    },
+    {
+      "date": "2017-10-21",
+      "rank": 102
+    },
+    {
+      "date": "2017-10-28",
+      "rank": 161
+    },
+    {
+      "date": "2017-11-04",
+      "rank": 189
+    },
+    {
+      "date": "2018-04-28",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Drinkin' Problem",
+      "id": "drinkin-problem-midland"
+    },
+    {
+      "title": "Burn Out",
+      "id": "burn-out-midland"
+    },
+    {
+      "title": "Lonely for You Only",
+      "id": null
+    },
+    {
+      "title": "Make a Little",
+      "id": null
+    },
+    {
+      "title": "At Least You Cried",
+      "id": null
+    },
+    {
+      "title": "Out of Sight",
+      "id": null
+    },
+    {
+      "title": "More Than a Fever",
+      "id": null
+    },
+    {
+      "title": "Check Cashin’ Country",
+      "id": null
+    },
+    {
+      "title": "Nothin’ New Under the Neon",
+      "id": null
+    },
+    {
+      "title": "This Old Heart",
+      "id": null
+    },
+    {
+      "title": "Altitude Adjustment",
+      "id": null
+    },
+    {
+      "title": "Electric Rodeo",
+      "id": null
+    },
+    {
+      "title": "Somewhere on the Wind",
+      "id": null
+    }
+  ]
+}
