@@ -1,1 +1,94 @@
-{"id": "the-state-i-m-in-louie-louie", "title": "The State I'm In", "artist": "Louie Louie", "peak": 136, "history": [{"date": "1990-06-02", "rank": 184}, {"date": "1990-06-09", "rank": 166}, {"date": "1990-06-16", "rank": 155}, {"date": "1990-06-23", "rank": 144}, {"date": "1990-06-30", "rank": 136}, {"date": "1990-07-07", "rank": 142}, {"date": "1990-07-14", "rank": 145}, {"date": "1990-07-21", "rank": 156}, {"date": "1990-07-28", "rank": 179}, {"date": "1990-08-04", "rank": 199}]}
+{
+  "id": "the-state-i-m-in-louie-louie",
+  "title": "The State I'm In",
+  "artist": "Louie Louie",
+  "peak": 136,
+  "history": [
+    {
+      "date": "1990-06-02",
+      "rank": 184
+    },
+    {
+      "date": "1990-06-09",
+      "rank": 166
+    },
+    {
+      "date": "1990-06-16",
+      "rank": 155
+    },
+    {
+      "date": "1990-06-23",
+      "rank": 144
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 136
+    },
+    {
+      "date": "1990-07-07",
+      "rank": 142
+    },
+    {
+      "date": "1990-07-14",
+      "rank": 145
+    },
+    {
+      "date": "1990-07-21",
+      "rank": 156
+    },
+    {
+      "date": "1990-07-28",
+      "rank": 179
+    },
+    {
+      "date": "1990-08-04",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sittin’ in the Lap of Luxury",
+      "id": "sittin-in-the-lap-of-luxury-louie-louie"
+    },
+    {
+      "title": "I Wanna Get With You",
+      "id": "i-wanna-get-back-with-you-louie-louie"
+    },
+    {
+      "title": "The State I’m In",
+      "id": null
+    },
+    {
+      "title": "Mata Hari",
+      "id": null
+    },
+    {
+      "title": "Penny Lady",
+      "id": null
+    },
+    {
+      "title": "Stop Lookin’ for Someone Else",
+      "id": null
+    },
+    {
+      "title": "Hurt Baby",
+      "id": null
+    },
+    {
+      "title": "Let Me Divorce You",
+      "id": null
+    },
+    {
+      "title": "I’m Sorry That Happened to You",
+      "id": null
+    },
+    {
+      "title": "Variety Is the Spice of Life",
+      "id": null
+    },
+    {
+      "title": "Rodeo Clown",
+      "id": null
+    }
+  ]
+}

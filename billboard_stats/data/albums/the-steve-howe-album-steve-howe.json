@@ -1,1 +1,66 @@
-{"id": "the-steve-howe-album-steve-howe", "title": "The Steve Howe Album", "artist": "Steve Howe", "peak": 164, "history": [{"date": "1980-02-16", "rank": 166}, {"date": "1980-02-23", "rank": 164}, {"date": "1980-03-01", "rank": 184}, {"date": "1980-03-08", "rank": 189}]}
+{
+  "id": "the-steve-howe-album-steve-howe",
+  "title": "The Steve Howe Album",
+  "artist": "Steve Howe",
+  "peak": 164,
+  "history": [
+    {
+      "date": "1980-02-16",
+      "rank": 166
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 164
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 184
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pennants",
+      "id": null
+    },
+    {
+      "title": "Cactus Boogie",
+      "id": null
+    },
+    {
+      "title": "All’s a Chord",
+      "id": null
+    },
+    {
+      "title": "Diary of a Man Who Disappeared",
+      "id": null
+    },
+    {
+      "title": "Look Over Your Shoulder",
+      "id": null
+    },
+    {
+      "title": "Meadow Rag",
+      "id": null
+    },
+    {
+      "title": "The Continental",
+      "id": null
+    },
+    {
+      "title": "Surface Tension",
+      "id": null
+    },
+    {
+      "title": "Double Rondo",
+      "id": null
+    },
+    {
+      "title": "Concerto in D (2nd Movement)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"id": "the-steve-martin-brothers-steve-martin", "title": "The Steve Martin Brothers", "artist": "Steve Martin", "peak": 135, "history": [{"date": "1981-11-14", "rank": 145}, {"date": "1981-11-21", "rank": 135}, {"date": "1981-11-28", "rank": 135}, {"date": "1981-12-05", "rank": 159}]}
+{
+  "id": "the-steve-martin-brothers-steve-martin",
+  "title": "The Steve Martin Brothers",
+  "artist": "Steve Martin",
+  "peak": 135,
+  "history": [
+    {
+      "date": "1981-11-14",
+      "rank": 145
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 135
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 135
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "American Photography / A Scientific Question / What I Believe / A Show Biz Moment",
+      "id": null
+    },
+    {
+      "title": "The Real Me / Love God / Make the Rent / The Gospel Maniacs",
+      "id": null
+    },
+    {
+      "title": "Sally Goodin'",
+      "id": null
+    },
+    {
+      "title": "Saga of the Old West",
+      "id": null
+    },
+    {
+      "title": "John Henry",
+      "id": null
+    },
+    {
+      "title": "Saga (reprise)",
+      "id": null
+    },
+    {
+      "title": "Pitkin County Turn Around",
+      "id": null
+    },
+    {
+      "title": "Hoedown at Alice's",
+      "id": null
+    },
+    {
+      "title": "Song of Perfect Spaces",
+      "id": null
+    },
+    {
+      "title": "Freddie's Lilt, Parts I & II",
+      "id": null
+    },
+    {
+      "title": "Waterbound",
+      "id": null
+    },
+    {
+      "title": "Banana Banjo",
+      "id": null
+    }
+  ]
+}

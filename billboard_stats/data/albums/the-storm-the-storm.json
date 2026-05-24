@@ -1,1 +1,126 @@
-{"id": "the-storm-the-storm", "title": "The Storm", "artist": "The Storm", "peak": 133, "history": [{"date": "1991-11-16", "rank": 184}, {"date": "1991-11-23", "rank": 152}, {"date": "1991-11-30", "rank": 153}, {"date": "1991-12-07", "rank": 145}, {"date": "1991-12-14", "rank": 179}, {"date": "1991-12-21", "rank": 196}, {"date": "1991-12-28", "rank": 196}, {"date": "1992-01-25", "rank": 178}, {"date": "1992-02-01", "rank": 156}, {"date": "1992-02-08", "rank": 139}, {"date": "1992-02-15", "rank": 133}, {"date": "1992-02-22", "rank": 143}, {"date": "1992-02-29", "rank": 163}, {"date": "1992-03-07", "rank": 169}, {"date": "1992-03-14", "rank": 165}, {"date": "1992-03-21", "rank": 186}, {"date": "1992-03-28", "rank": 190}]}
+{
+  "id": "the-storm-the-storm",
+  "title": "The Storm",
+  "artist": "The Storm",
+  "peak": 133,
+  "history": [
+    {
+      "date": "1991-11-16",
+      "rank": 184
+    },
+    {
+      "date": "1991-11-23",
+      "rank": 152
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 153
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 145
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 179
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 196
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 196
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 178
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 156
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 139
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 133
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 143
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 163
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 169
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 165
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 186
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I've Got a Lot to Learn About Love",
+      "id": "i-ve-got-a-lot-to-learn-about-love-the-storm"
+    },
+    {
+      "title": "You Keep Me Waiting",
+      "id": null
+    },
+    {
+      "title": "In the Raw",
+      "id": null
+    },
+    {
+      "title": "You're Gonna Miss Me",
+      "id": null
+    },
+    {
+      "title": "Call Me",
+      "id": null
+    },
+    {
+      "title": "Show Me the Way",
+      "id": null
+    },
+    {
+      "title": "I Want You Back",
+      "id": null
+    },
+    {
+      "title": "Still Loving You",
+      "id": null
+    },
+    {
+      "title": "Touch and Go",
+      "id": null
+    },
+    {
+      "title": "Gimme Love",
+      "id": null
+    },
+    {
+      "title": "Take Me Away",
+      "id": null
+    },
+    {
+      "title": "Can't Live Without Love",
+      "id": null
+    }
+  ]
+}

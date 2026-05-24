@@ -1,1 +1,94 @@
-{"id": "the-stage-avenged-sevenfold", "title": "The Stage", "artist": "Avenged Sevenfold", "peak": 4, "history": [{"date": "2016-11-19", "rank": 4}, {"date": "2016-11-26", "rank": 19}, {"date": "2016-12-03", "rank": 53}, {"date": "2016-12-10", "rank": 52}, {"date": "2016-12-17", "rank": 88}, {"date": "2016-12-24", "rank": 125}, {"date": "2016-12-31", "rank": 147}, {"date": "2017-01-07", "rank": 131}, {"date": "2017-01-14", "rank": 137}, {"date": "2018-01-06", "rank": 197}]}
+{
+  "id": "the-stage-avenged-sevenfold",
+  "title": "The Stage",
+  "artist": "Avenged Sevenfold",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2016-11-19",
+      "rank": 4
+    },
+    {
+      "date": "2016-11-26",
+      "rank": 19
+    },
+    {
+      "date": "2016-12-03",
+      "rank": 53
+    },
+    {
+      "date": "2016-12-10",
+      "rank": 52
+    },
+    {
+      "date": "2016-12-17",
+      "rank": 88
+    },
+    {
+      "date": "2016-12-24",
+      "rank": 125
+    },
+    {
+      "date": "2016-12-31",
+      "rank": 147
+    },
+    {
+      "date": "2017-01-07",
+      "rank": 131
+    },
+    {
+      "date": "2017-01-14",
+      "rank": 137
+    },
+    {
+      "date": "2018-01-06",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Stage",
+      "id": null
+    },
+    {
+      "title": "Paradigm",
+      "id": null
+    },
+    {
+      "title": "Sunny Disposition",
+      "id": null
+    },
+    {
+      "title": "God Damn",
+      "id": null
+    },
+    {
+      "title": "Creating God",
+      "id": null
+    },
+    {
+      "title": "Angels",
+      "id": null
+    },
+    {
+      "title": "Simulation",
+      "id": null
+    },
+    {
+      "title": "Higher",
+      "id": null
+    },
+    {
+      "title": "Roman Sky",
+      "id": null
+    },
+    {
+      "title": "Fermi Paradox",
+      "id": null
+    },
+    {
+      "title": "Exist",
+      "id": null
+    }
+  ]
+}

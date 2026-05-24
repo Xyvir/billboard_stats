@@ -1,1 +1,78 @@
-{"id": "the-spirit-of-america-daniel-rodriguez", "title": "The Spirit Of America", "artist": "Daniel Rodriguez", "peak": 112, "history": [{"date": "2002-03-02", "rank": 159}, {"date": "2002-03-30", "rank": 112}, {"date": "2002-04-06", "rank": 140}, {"date": "2002-05-25", "rank": 131}, {"date": "2002-09-28", "rank": 141}]}
+{
+  "id": "the-spirit-of-america-daniel-rodriguez",
+  "title": "The Spirit Of America",
+  "artist": "Daniel Rodriguez",
+  "peak": 112,
+  "history": [
+    {
+      "date": "2002-03-02",
+      "rank": 159
+    },
+    {
+      "date": "2002-03-30",
+      "rank": 112
+    },
+    {
+      "date": "2002-04-06",
+      "rank": 140
+    },
+    {
+      "date": "2002-05-25",
+      "rank": 131
+    },
+    {
+      "date": "2002-09-28",
+      "rank": 141
+    }
+  ],
+  "tracks": [
+    {
+      "title": "God Bless America",
+      "id": "god-bless-america-daniel-rodriguez"
+    },
+    {
+      "title": "This Is the Moment",
+      "id": null
+    },
+    {
+      "title": "Bring Him Home",
+      "id": null
+    },
+    {
+      "title": "Into the Fire",
+      "id": null
+    },
+    {
+      "title": "You'll Never Walk Alone",
+      "id": null
+    },
+    {
+      "title": "We Will Go On",
+      "id": null
+    },
+    {
+      "title": "Shenandoah",
+      "id": null
+    },
+    {
+      "title": "Danny Boy",
+      "id": null
+    },
+    {
+      "title": "The Lord's Prayer",
+      "id": null
+    },
+    {
+      "title": "Ave Maria",
+      "id": null
+    },
+    {
+      "title": "The House I Live In",
+      "id": null
+    },
+    {
+      "title": "America the Beautiful",
+      "id": null
+    }
+  ]
+}
