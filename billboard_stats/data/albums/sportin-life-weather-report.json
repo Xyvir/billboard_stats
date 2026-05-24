@@ -1,1 +1,54 @@
-{"id": "sportin-life-weather-report", "title": "Sportin' Life", "artist": "Weather Report", "peak": 191, "history": [{"date": "1985-04-27", "rank": 194}, {"date": "1985-05-04", "rank": 193}, {"date": "1985-05-11", "rank": 191}]}
+{
+  "id": "sportin-life-weather-report",
+  "title": "Sportin' Life",
+  "artist": "Weather Report",
+  "peak": 191,
+  "history": [
+    {
+      "date": "1985-04-27",
+      "rank": 194
+    },
+    {
+      "date": "1985-05-04",
+      "rank": 193
+    },
+    {
+      "date": "1985-05-11",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Corner Pocket",
+      "id": null
+    },
+    {
+      "title": "Indiscretions",
+      "id": null
+    },
+    {
+      "title": "Hot Cargo",
+      "id": null
+    },
+    {
+      "title": "Confians",
+      "id": null
+    },
+    {
+      "title": "Pearl on the Half‐Shell",
+      "id": null
+    },
+    {
+      "title": "What’s Going On",
+      "id": null
+    },
+    {
+      "title": "Face on the Barroom Floor",
+      "id": null
+    },
+    {
+      "title": "Ice‐Pick Willy",
+      "id": null
+    }
+  ]
+}
