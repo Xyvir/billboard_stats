@@ -1,1 +1,126 @@
-{"id": "siren-roxy-music", "title": "Siren", "artist": "Roxy Music", "peak": 50, "history": [{"date": "1975-11-29", "rank": 169}, {"date": "1975-12-06", "rank": 128}, {"date": "1975-12-13", "rank": 104}, {"date": "1975-12-20", "rank": 91}, {"date": "1975-12-27", "rank": 80}, {"date": "1976-01-03", "rank": 70}, {"date": "1976-01-10", "rank": 66}, {"date": "1976-01-17", "rank": 65}, {"date": "1976-01-24", "rank": 62}, {"date": "1976-01-31", "rank": 61}, {"date": "1976-02-07", "rank": 55}, {"date": "1976-02-14", "rank": 50}, {"date": "1976-02-21", "rank": 56}, {"date": "1976-02-28", "rank": 56}, {"date": "1976-03-06", "rank": 54}, {"date": "1976-03-13", "rank": 52}, {"date": "1976-03-20", "rank": 74}, {"date": "1976-03-27", "rank": 105}, {"date": "1976-04-03", "rank": 129}, {"date": "1976-04-10", "rank": 187}]}
+{
+  "id": "siren-roxy-music",
+  "title": "Siren",
+  "artist": "Roxy Music",
+  "peak": 50,
+  "history": [
+    {
+      "date": "1975-11-29",
+      "rank": 169
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 128
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 104
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 91
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 80
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 70
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 66
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 65
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 62
+    },
+    {
+      "date": "1976-01-31",
+      "rank": 61
+    },
+    {
+      "date": "1976-02-07",
+      "rank": 55
+    },
+    {
+      "date": "1976-02-14",
+      "rank": 50
+    },
+    {
+      "date": "1976-02-21",
+      "rank": 56
+    },
+    {
+      "date": "1976-02-28",
+      "rank": 56
+    },
+    {
+      "date": "1976-03-06",
+      "rank": 54
+    },
+    {
+      "date": "1976-03-13",
+      "rank": 52
+    },
+    {
+      "date": "1976-03-20",
+      "rank": 74
+    },
+    {
+      "date": "1976-03-27",
+      "rank": 105
+    },
+    {
+      "date": "1976-04-03",
+      "rank": 129
+    },
+    {
+      "date": "1976-04-10",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Is the Drug",
+      "id": "love-is-the-drug-roxy-music"
+    },
+    {
+      "title": "End of the Line",
+      "id": null
+    },
+    {
+      "title": "Sentimental Fool",
+      "id": null
+    },
+    {
+      "title": "Whirlwind",
+      "id": null
+    },
+    {
+      "title": "She Sells",
+      "id": null
+    },
+    {
+      "title": "Could It Happen to Me?",
+      "id": null
+    },
+    {
+      "title": "Both Ends Burning",
+      "id": null
+    },
+    {
+      "title": "Nightingale",
+      "id": null
+    },
+    {
+      "title": "Just Another High",
+      "id": null
+    }
+  ]
+}

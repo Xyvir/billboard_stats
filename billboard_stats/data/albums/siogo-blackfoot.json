@@ -1,1 +1,102 @@
-{"id": "siogo-blackfoot", "title": "Siogo", "artist": "Blackfoot", "peak": 82, "history": [{"date": "1983-06-11", "rank": 185}, {"date": "1983-06-18", "rank": 138}, {"date": "1983-06-25", "rank": 119}, {"date": "1983-07-02", "rank": 103}, {"date": "1983-07-09", "rank": 95}, {"date": "1983-07-16", "rank": 92}, {"date": "1983-07-23", "rank": 88}, {"date": "1983-07-30", "rank": 86}, {"date": "1983-08-06", "rank": 83}, {"date": "1983-08-13", "rank": 82}, {"date": "1983-08-20", "rank": 125}, {"date": "1983-08-27", "rank": 169}, {"date": "1983-09-03", "rank": 195}]}
+{
+  "id": "siogo-blackfoot",
+  "title": "Siogo",
+  "artist": "Blackfoot",
+  "peak": 82,
+  "history": [
+    {
+      "date": "1983-06-11",
+      "rank": 185
+    },
+    {
+      "date": "1983-06-18",
+      "rank": 138
+    },
+    {
+      "date": "1983-06-25",
+      "rank": 119
+    },
+    {
+      "date": "1983-07-02",
+      "rank": 103
+    },
+    {
+      "date": "1983-07-09",
+      "rank": 95
+    },
+    {
+      "date": "1983-07-16",
+      "rank": 92
+    },
+    {
+      "date": "1983-07-23",
+      "rank": 88
+    },
+    {
+      "date": "1983-07-30",
+      "rank": 86
+    },
+    {
+      "date": "1983-08-06",
+      "rank": 83
+    },
+    {
+      "date": "1983-08-13",
+      "rank": 82
+    },
+    {
+      "date": "1983-08-20",
+      "rank": 125
+    },
+    {
+      "date": "1983-08-27",
+      "rank": 169
+    },
+    {
+      "date": "1983-09-03",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sail Away",
+      "id": "fly-away-blackfoot"
+    },
+    {
+      "title": "Send Me an Angel",
+      "id": null
+    },
+    {
+      "title": "Crossfire",
+      "id": null
+    },
+    {
+      "title": "Heart's Grown Cold",
+      "id": null
+    },
+    {
+      "title": "We’re Goin’ Down",
+      "id": null
+    },
+    {
+      "title": "Teenage Idol",
+      "id": null
+    },
+    {
+      "title": "Goin' in Circles",
+      "id": null
+    },
+    {
+      "title": "Run for Cover",
+      "id": null
+    },
+    {
+      "title": "White Man's Land",
+      "id": null
+    },
+    {
+      "title": "Drivin’ Fool",
+      "id": null
+    }
+  ]
+}
