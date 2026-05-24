@@ -1,1 +1,62 @@
-{"id": "riff-riff", "title": "Riff", "artist": "Riff", "peak": 177, "history": [{"date": "1991-05-25", "rank": 189}, {"date": "1991-06-01", "rank": 189}, {"date": "1991-06-08", "rank": 177}]}
+{
+  "id": "riff-riff",
+  "title": "Riff",
+  "artist": "Riff",
+  "peak": 177,
+  "history": [
+    {
+      "date": "1991-05-25",
+      "rank": 189
+    },
+    {
+      "date": "1991-06-01",
+      "rank": 189
+    },
+    {
+      "date": "1991-06-08",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Heart Is Failing Me",
+      "id": "my-heart-is-failing-me-riff"
+    },
+    {
+      "title": "If You're Serious",
+      "id": "if-you-re-serious-riff"
+    },
+    {
+      "title": "Everytime My Heart Beats",
+      "id": null
+    },
+    {
+      "title": "All or Nothing",
+      "id": null
+    },
+    {
+      "title": "I Can't Believe We Just Met",
+      "id": null
+    },
+    {
+      "title": "Baby It's Wonderful",
+      "id": null
+    },
+    {
+      "title": "Temporary Insanity",
+      "id": null
+    },
+    {
+      "title": "Little Girls",
+      "id": null
+    },
+    {
+      "title": "Read My Eyes",
+      "id": null
+    },
+    {
+      "title": "April's Fool",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"id": "right-here-eddie-money", "title": "Right Here", "artist": "Eddie Money", "peak": 160, "history": [{"date": "1992-02-01", "rank": 172}, {"date": "1992-02-08", "rank": 160}, {"date": "1992-02-15", "rank": 160}, {"date": "1992-02-22", "rank": 163}, {"date": "1992-02-29", "rank": 168}, {"date": "1992-03-07", "rank": 173}, {"date": "1992-03-14", "rank": 182}, {"date": "1992-03-21", "rank": 177}, {"date": "1992-03-28", "rank": 195}, {"date": "1992-04-11", "rank": 198}]}
+{
+  "id": "right-here-eddie-money",
+  "title": "Right Here",
+  "artist": "Eddie Money",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1992-02-01",
+      "rank": 172
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 160
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 160
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 163
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 168
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 173
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 182
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 177
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 195
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heaven in the Back Seat",
+      "id": "heaven-in-the-back-seat-eddie-money"
+    },
+    {
+      "title": "Fall in Love Again",
+      "id": "fall-in-love-again-eddie-money"
+    },
+    {
+      "title": "Run Right Back",
+      "id": "running-back-eddie-money"
+    },
+    {
+      "title": "I’ll Get By",
+      "id": "i-ll-get-by-eddie-money"
+    },
+    {
+      "title": "She Takes My Breath Away",
+      "id": null
+    },
+    {
+      "title": "Another Nice Day in L.A.",
+      "id": null
+    },
+    {
+      "title": "Things Are Much Better Today",
+      "id": null
+    },
+    {
+      "title": "Fire and Water",
+      "id": null
+    },
+    {
+      "title": "Prove It Every Night",
+      "id": null
+    },
+    {
+      "title": "Think Twice",
+      "id": null
+    }
+  ]
+}

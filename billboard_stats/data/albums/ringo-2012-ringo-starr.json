@@ -1,1 +1,54 @@
-{"id": "ringo-2012-ringo-starr", "title": "Ringo 2012", "artist": "Ringo Starr", "peak": 80, "history": [{"date": "2012-02-18", "rank": 80}, {"date": "2012-02-25", "rank": 192}]}
+{
+  "id": "ringo-2012-ringo-starr",
+  "title": "Ringo 2012",
+  "artist": "Ringo Starr",
+  "peak": 80,
+  "history": [
+    {
+      "date": "2012-02-18",
+      "rank": 80
+    },
+    {
+      "date": "2012-02-25",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Anthem",
+      "id": null
+    },
+    {
+      "title": "Wings",
+      "id": null
+    },
+    {
+      "title": "Think It Over",
+      "id": null
+    },
+    {
+      "title": "Samba",
+      "id": null
+    },
+    {
+      "title": "Rock Island Line",
+      "id": null
+    },
+    {
+      "title": "Step Lightly",
+      "id": null
+    },
+    {
+      "title": "Wonderful",
+      "id": null
+    },
+    {
+      "title": "In Liverpool",
+      "id": null
+    },
+    {
+      "title": "Slow Down",
+      "id": null
+    }
+  ]
+}
