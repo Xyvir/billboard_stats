@@ -1,1 +1,218 @@
-{"id": "the-essential-johnny-cash-johnny-cash", "title": "The Essential Johnny Cash", "artist": "Johnny Cash", "peak": 35, "history": [{"date": "2003-09-27", "rank": 130}, {"date": "2003-10-04", "rank": 159}, {"date": "2003-10-11", "rank": 126}, {"date": "2003-10-18", "rank": 102}, {"date": "2003-10-25", "rank": 131}, {"date": "2003-11-01", "rank": 156}, {"date": "2003-11-08", "rank": 171}, {"date": "2003-11-15", "rank": 161}, {"date": "2003-11-22", "rank": 130}, {"date": "2003-11-29", "rank": 181}, {"date": "2013-08-17", "rank": 35}, {"date": "2014-04-12", "rank": 109}, {"date": "2014-04-19", "rank": 186}, {"date": "2015-05-30", "rank": 175}, {"date": "2015-07-04", "rank": 195}, {"date": "2015-07-18", "rank": 185}, {"date": "2015-07-25", "rank": 186}, {"date": "2015-08-01", "rank": 166}, {"date": "2015-10-03", "rank": 163}, {"date": "2016-07-02", "rank": 121}, {"date": "2019-10-05", "rank": 186}, {"date": "2019-10-12", "rank": 190}, {"date": "2020-05-16", "rank": 195}, {"date": "2020-06-06", "rank": 187}, {"date": "2020-06-20", "rank": 196}, {"date": "2020-06-27", "rank": 200}, {"date": "2020-07-04", "rank": 183}, {"date": "2020-07-18", "rank": 171}, {"date": "2020-08-29", "rank": 196}, {"date": "2020-09-19", "rank": 199}, {"date": "2020-11-28", "rank": 166}, {"date": "2020-12-26", "rank": 181}, {"date": "2021-01-02", "rank": 199}, {"date": "2021-06-12", "rank": 196}, {"date": "2021-07-03", "rank": 178}, {"date": "2021-07-17", "rank": 166}]}
+{
+  "id": "the-essential-johnny-cash-johnny-cash",
+  "title": "The Essential Johnny Cash",
+  "artist": "Johnny Cash",
+  "peak": 35,
+  "history": [
+    {
+      "date": "2003-09-27",
+      "rank": 130
+    },
+    {
+      "date": "2003-10-04",
+      "rank": 159
+    },
+    {
+      "date": "2003-10-11",
+      "rank": 126
+    },
+    {
+      "date": "2003-10-18",
+      "rank": 102
+    },
+    {
+      "date": "2003-10-25",
+      "rank": 131
+    },
+    {
+      "date": "2003-11-01",
+      "rank": 156
+    },
+    {
+      "date": "2003-11-08",
+      "rank": 171
+    },
+    {
+      "date": "2003-11-15",
+      "rank": 161
+    },
+    {
+      "date": "2003-11-22",
+      "rank": 130
+    },
+    {
+      "date": "2003-11-29",
+      "rank": 181
+    },
+    {
+      "date": "2013-08-17",
+      "rank": 35
+    },
+    {
+      "date": "2014-04-12",
+      "rank": 109
+    },
+    {
+      "date": "2014-04-19",
+      "rank": 186
+    },
+    {
+      "date": "2015-05-30",
+      "rank": 175
+    },
+    {
+      "date": "2015-07-04",
+      "rank": 195
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 185
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 186
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 166
+    },
+    {
+      "date": "2015-10-03",
+      "rank": 163
+    },
+    {
+      "date": "2016-07-02",
+      "rank": 121
+    },
+    {
+      "date": "2019-10-05",
+      "rank": 186
+    },
+    {
+      "date": "2019-10-12",
+      "rank": 190
+    },
+    {
+      "date": "2020-05-16",
+      "rank": 195
+    },
+    {
+      "date": "2020-06-06",
+      "rank": 187
+    },
+    {
+      "date": "2020-06-20",
+      "rank": 196
+    },
+    {
+      "date": "2020-06-27",
+      "rank": 200
+    },
+    {
+      "date": "2020-07-04",
+      "rank": 183
+    },
+    {
+      "date": "2020-07-18",
+      "rank": 171
+    },
+    {
+      "date": "2020-08-29",
+      "rank": 196
+    },
+    {
+      "date": "2020-09-19",
+      "rank": 199
+    },
+    {
+      "date": "2020-11-28",
+      "rank": 166
+    },
+    {
+      "date": "2020-12-26",
+      "rank": 181
+    },
+    {
+      "date": "2021-01-02",
+      "rank": 199
+    },
+    {
+      "date": "2021-06-12",
+      "rank": 196
+    },
+    {
+      "date": "2021-07-03",
+      "rank": 178
+    },
+    {
+      "date": "2021-07-17",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Train of Love",
+      "id": "ring-of-fire-johnny-cash"
+    },
+    {
+      "title": "I Walk the Line",
+      "id": null
+    },
+    {
+      "title": "Cry! Cry! Cry!",
+      "id": null
+    },
+    {
+      "title": "Luther Played the Boogie",
+      "id": null
+    },
+    {
+      "title": "So Doggone Lonesome",
+      "id": null
+    },
+    {
+      "title": "Mean Eyed Cat",
+      "id": null
+    },
+    {
+      "title": "Wide Open Road",
+      "id": null
+    },
+    {
+      "title": "Two Timin' Woman",
+      "id": null
+    },
+    {
+      "title": "There You Go",
+      "id": null
+    },
+    {
+      "title": "Country Boy",
+      "id": null
+    },
+    {
+      "title": "Hey Porter!",
+      "id": null
+    },
+    {
+      "title": "Belshazar",
+      "id": null
+    },
+    {
+      "title": "If the Good Lord’s Willing",
+      "id": null
+    },
+    {
+      "title": "Katy Too",
+      "id": null
+    },
+    {
+      "title": "Thanks a Lot",
+      "id": null
+    },
+    {
+      "title": "I Love You Because",
+      "id": null
+    }
+  ]
+}
