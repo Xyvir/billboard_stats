@@ -1,1 +1,82 @@
-{"id": "sorcerer-tangerine-dream", "title": "Sorcerer", "artist": "Tangerine Dream", "peak": 153, "history": [{"date": "1977-07-23", "rank": 189}, {"date": "1977-07-30", "rank": 177}, {"date": "1977-08-06", "rank": 166}, {"date": "1977-08-13", "rank": 153}, {"date": "1977-08-20", "rank": 153}, {"date": "1977-08-27", "rank": 184}]}
+{
+  "id": "sorcerer-tangerine-dream",
+  "title": "Sorcerer",
+  "artist": "Tangerine Dream",
+  "peak": 153,
+  "history": [
+    {
+      "date": "1977-07-23",
+      "rank": 189
+    },
+    {
+      "date": "1977-07-30",
+      "rank": 177
+    },
+    {
+      "date": "1977-08-06",
+      "rank": 166
+    },
+    {
+      "date": "1977-08-13",
+      "rank": 153
+    },
+    {
+      "date": "1977-08-20",
+      "rank": 153
+    },
+    {
+      "date": "1977-08-27",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Main Title",
+      "id": null
+    },
+    {
+      "title": "Search",
+      "id": null
+    },
+    {
+      "title": "The Call",
+      "id": null
+    },
+    {
+      "title": "Creation",
+      "id": null
+    },
+    {
+      "title": "Vengeance",
+      "id": null
+    },
+    {
+      "title": "The Journey",
+      "id": null
+    },
+    {
+      "title": "Grind",
+      "id": null
+    },
+    {
+      "title": "Rain Forest",
+      "id": null
+    },
+    {
+      "title": "Abyss",
+      "id": null
+    },
+    {
+      "title": "The Mountain Road",
+      "id": null
+    },
+    {
+      "title": "Impressions of Sorcerer",
+      "id": null
+    },
+    {
+      "title": "Betrayal (Sorcerer Theme)",
+      "id": null
+    }
+  ]
+}
