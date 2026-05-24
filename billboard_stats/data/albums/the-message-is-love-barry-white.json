@@ -1,1 +1,74 @@
-{"id": "the-message-is-love-barry-white", "title": "The Message Is Love", "artist": "Barry White", "peak": 67, "history": [{"date": "1979-04-28", "rank": 101}, {"date": "1979-05-05", "rank": 80}, {"date": "1979-05-12", "rank": 76}, {"date": "1979-05-19", "rank": 67}, {"date": "1979-05-26", "rank": 67}, {"date": "1979-06-02", "rank": 98}, {"date": "1979-06-09", "rank": 136}, {"date": "1979-06-16", "rank": 163}, {"date": "1979-06-23", "rank": 181}]}
+{
+  "id": "the-message-is-love-barry-white",
+  "title": "The Message Is Love",
+  "artist": "Barry White",
+  "peak": 67,
+  "history": [
+    {
+      "date": "1979-04-28",
+      "rank": 101
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 80
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 76
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 67
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 67
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 98
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 136
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 163
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It Ain’t Love, Babe (Until You Give It)",
+      "id": null
+    },
+    {
+      "title": "Hung Up in Your Love",
+      "id": null
+    },
+    {
+      "title": "You’re the One I Need",
+      "id": null
+    },
+    {
+      "title": "Any Fool Could See",
+      "id": null
+    },
+    {
+      "title": "Love Ain’t Easy",
+      "id": null
+    },
+    {
+      "title": "I’m on Fire",
+      "id": null
+    },
+    {
+      "title": "I Found Love",
+      "id": null
+    }
+  ]
+}

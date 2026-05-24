@@ -1,1 +1,70 @@
-{"id": "the-metallica-blacklist-various-artists", "title": "The Metallica Blacklist", "artist": "Various Artists", "peak": 103, "history": [{"date": "2021-09-25", "rank": 132}, {"date": "2021-10-16", "rank": 103}]}
+{
+  "id": "the-metallica-blacklist-various-artists",
+  "title": "The Metallica Blacklist",
+  "artist": "Various Artists",
+  "peak": 103,
+  "history": [
+    {
+      "date": "2021-09-25",
+      "rank": 132
+    },
+    {
+      "date": "2021-10-16",
+      "rank": 103
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Through the Never",
+      "id": "across-the-universe-various-artists"
+    },
+    {
+      "title": "Enter Sandman",
+      "id": null
+    },
+    {
+      "title": "Sad but True",
+      "id": null
+    },
+    {
+      "title": "Holier Than Thou",
+      "id": null
+    },
+    {
+      "title": "The Unforgiven",
+      "id": null
+    },
+    {
+      "title": "Wherever I May Roam",
+      "id": null
+    },
+    {
+      "title": "Don’t Tread on Else Matters",
+      "id": null
+    },
+    {
+      "title": "Don’t Tread on Me",
+      "id": null
+    },
+    {
+      "title": "Nothing Else Matters",
+      "id": null
+    },
+    {
+      "title": "Of Wolf and Man",
+      "id": null
+    },
+    {
+      "title": "The God That Failed",
+      "id": null
+    },
+    {
+      "title": "My Friend of Misery",
+      "id": null
+    },
+    {
+      "title": "The Struggle Within",
+      "id": null
+    }
+  ]
+}
