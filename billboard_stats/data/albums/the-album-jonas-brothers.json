@@ -1,1 +1,70 @@
-{"id": "the-album-jonas-brothers", "title": "The Album", "artist": "Jonas Brothers", "peak": 3, "history": [{"date": "2023-05-27", "rank": 3}, {"date": "2023-06-03", "rank": 88}, {"date": "2023-06-10", "rank": 171}]}
+{
+  "id": "the-album-jonas-brothers",
+  "title": "The Album",
+  "artist": "Jonas Brothers",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2023-05-27",
+      "rank": 3
+    },
+    {
+      "date": "2023-06-03",
+      "rank": 88
+    },
+    {
+      "date": "2023-06-10",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sail Away",
+      "id": "pushin-me-away-jonas-brothers"
+    },
+    {
+      "title": "Waffle House",
+      "id": "waffle-house-jonas-brothers"
+    },
+    {
+      "title": "Little Bird",
+      "id": "a-little-bit-longer-jonas-brothers"
+    },
+    {
+      "title": "Miracle",
+      "id": null
+    },
+    {
+      "title": "Montana Sky",
+      "id": null
+    },
+    {
+      "title": "Wings",
+      "id": null
+    },
+    {
+      "title": "Americana",
+      "id": null
+    },
+    {
+      "title": "Celebrate!",
+      "id": null
+    },
+    {
+      "title": "Vacation Eyes",
+      "id": null
+    },
+    {
+      "title": "Summer in the Hamptons",
+      "id": null
+    },
+    {
+      "title": "Summer Baby",
+      "id": null
+    },
+    {
+      "title": "Walls",
+      "id": null
+    }
+  ]
+}

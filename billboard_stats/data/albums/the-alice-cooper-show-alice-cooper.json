@@ -1,1 +1,78 @@
-{"id": "the-alice-cooper-show-alice-cooper", "title": "The Alice Cooper Show", "artist": "Alice Cooper", "peak": 131, "history": [{"date": "1977-12-17", "rank": 156}, {"date": "1977-12-24", "rank": 145}, {"date": "1977-12-31", "rank": 145}, {"date": "1978-01-07", "rank": 134}, {"date": "1978-01-14", "rank": 131}, {"date": "1978-01-21", "rank": 179}]}
+{
+  "id": "the-alice-cooper-show-alice-cooper",
+  "title": "The Alice Cooper Show",
+  "artist": "Alice Cooper",
+  "peak": 131,
+  "history": [
+    {
+      "date": "1977-12-17",
+      "rank": 156
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 145
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 145
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 134
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 131
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Under My Wheels",
+      "id": "under-my-wheels-alice-cooper"
+    },
+    {
+      "title": "I’m Eighteen",
+      "id": "eighteen-alice-cooper"
+    },
+    {
+      "title": "Only Women Bleed",
+      "id": "only-women-alice-cooper"
+    },
+    {
+      "title": "I Never Cry",
+      "id": "i-never-cry-alice-cooper"
+    },
+    {
+      "title": "Billion Dollar Babies",
+      "id": "billion-dollar-babies-alice-cooper"
+    },
+    {
+      "title": "You and Me",
+      "id": "you-and-me-alice-cooper"
+    },
+    {
+      "title": "School’s Out",
+      "id": "school-s-out-alice-cooper"
+    },
+    {
+      "title": "Sick Things",
+      "id": null
+    },
+    {
+      "title": "Is It My Body",
+      "id": null
+    },
+    {
+      "title": "Devil’s Food / The Black Widow",
+      "id": null
+    },
+    {
+      "title": "I Love the Dead / Go to Hell / Wish You Were Here",
+      "id": null
+    }
+  ]
+}

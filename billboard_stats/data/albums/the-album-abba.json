@@ -1,1 +1,214 @@
-{"id": "the-album-abba", "title": "The Album", "artist": "ABBA", "peak": 14, "history": [{"date": "1978-02-18", "rank": 80}, {"date": "1978-02-25", "rank": 64}, {"date": "1978-03-04", "rank": 56}, {"date": "1978-03-11", "rank": 49}, {"date": "1978-03-18", "rank": 45}, {"date": "1978-03-25", "rank": 40}, {"date": "1978-04-01", "rank": 38}, {"date": "1978-04-08", "rank": 37}, {"date": "1978-04-15", "rank": 36}, {"date": "1978-04-22", "rank": 47}, {"date": "1978-04-29", "rank": 46}, {"date": "1978-05-06", "rank": 51}, {"date": "1978-05-13", "rank": 48}, {"date": "1978-05-20", "rank": 45}, {"date": "1978-05-27", "rank": 43}, {"date": "1978-06-03", "rank": 40}, {"date": "1978-06-10", "rank": 36}, {"date": "1978-06-17", "rank": 36}, {"date": "1978-06-24", "rank": 30}, {"date": "1978-07-01", "rank": 24}, {"date": "1978-07-08", "rank": 19}, {"date": "1978-07-15", "rank": 16}, {"date": "1978-07-22", "rank": 14}, {"date": "1978-07-29", "rank": 14}, {"date": "1978-08-05", "rank": 23}, {"date": "1978-08-12", "rank": 31}, {"date": "1978-08-19", "rank": 34}, {"date": "1978-08-26", "rank": 34}, {"date": "1978-09-02", "rank": 65}, {"date": "1978-09-09", "rank": 65}, {"date": "1978-09-16", "rank": 67}, {"date": "1978-09-23", "rank": 62}, {"date": "1978-09-30", "rank": 83}, {"date": "1978-10-07", "rank": 132}, {"date": "1978-10-14", "rank": 130}, {"date": "1978-10-21", "rank": 129}, {"date": "1978-10-28", "rank": 127}, {"date": "1978-11-04", "rank": 125}, {"date": "1978-11-11", "rank": 123}, {"date": "1978-11-18", "rank": 178}, {"date": "1978-11-25", "rank": 198}]}
+{
+  "id": "the-album-abba",
+  "title": "The Album",
+  "artist": "ABBA",
+  "peak": 14,
+  "history": [
+    {
+      "date": "1978-02-18",
+      "rank": 80
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 64
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 56
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 49
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 45
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 40
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 38
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 37
+    },
+    {
+      "date": "1978-04-15",
+      "rank": 36
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 47
+    },
+    {
+      "date": "1978-04-29",
+      "rank": 46
+    },
+    {
+      "date": "1978-05-06",
+      "rank": 51
+    },
+    {
+      "date": "1978-05-13",
+      "rank": 48
+    },
+    {
+      "date": "1978-05-20",
+      "rank": 45
+    },
+    {
+      "date": "1978-05-27",
+      "rank": 43
+    },
+    {
+      "date": "1978-06-03",
+      "rank": 40
+    },
+    {
+      "date": "1978-06-10",
+      "rank": 36
+    },
+    {
+      "date": "1978-06-17",
+      "rank": 36
+    },
+    {
+      "date": "1978-06-24",
+      "rank": 30
+    },
+    {
+      "date": "1978-07-01",
+      "rank": 24
+    },
+    {
+      "date": "1978-07-08",
+      "rank": 19
+    },
+    {
+      "date": "1978-07-15",
+      "rank": 16
+    },
+    {
+      "date": "1978-07-22",
+      "rank": 14
+    },
+    {
+      "date": "1978-07-29",
+      "rank": 14
+    },
+    {
+      "date": "1978-08-05",
+      "rank": 23
+    },
+    {
+      "date": "1978-08-12",
+      "rank": 31
+    },
+    {
+      "date": "1978-08-19",
+      "rank": 34
+    },
+    {
+      "date": "1978-08-26",
+      "rank": 34
+    },
+    {
+      "date": "1978-09-02",
+      "rank": 65
+    },
+    {
+      "date": "1978-09-09",
+      "rank": 65
+    },
+    {
+      "date": "1978-09-16",
+      "rank": 67
+    },
+    {
+      "date": "1978-09-23",
+      "rank": 62
+    },
+    {
+      "date": "1978-09-30",
+      "rank": 83
+    },
+    {
+      "date": "1978-10-07",
+      "rank": 132
+    },
+    {
+      "date": "1978-10-14",
+      "rank": 130
+    },
+    {
+      "date": "1978-10-21",
+      "rank": 129
+    },
+    {
+      "date": "1978-10-28",
+      "rank": 127
+    },
+    {
+      "date": "1978-11-04",
+      "rank": 125
+    },
+    {
+      "date": "1978-11-11",
+      "rank": 123
+    },
+    {
+      "date": "1978-11-18",
+      "rank": 178
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Take a Chance on Me",
+      "id": "take-a-chance-on-me-abba"
+    },
+    {
+      "title": "One Man, One Woman",
+      "id": "on-and-on-and-on-abba"
+    },
+    {
+      "title": "The Name of the Game",
+      "id": "the-name-of-the-game-abba"
+    },
+    {
+      "title": "Eagle",
+      "id": null
+    },
+    {
+      "title": "Move On",
+      "id": null
+    },
+    {
+      "title": "Hole in Your Soul",
+      "id": null
+    },
+    {
+      "title": "Thank You for the Music",
+      "id": null
+    },
+    {
+      "title": "I Wonder (Departure)",
+      "id": null
+    },
+    {
+      "title": "I’m a Marionette",
+      "id": null
+    },
+    {
+      "title": "Thank You for the Music (Doris Day version)",
+      "id": null
+    }
+  ]
+}
