@@ -1,1 +1,78 @@
-{"id": "sweat-band-sweat-band", "title": "Sweat Band", "artist": "Sweat Band", "peak": 150, "history": [{"date": "1980-12-13", "rank": 183}, {"date": "1980-12-20", "rank": 173}, {"date": "1980-12-27", "rank": 162}, {"date": "1981-01-03", "rank": 162}, {"date": "1981-01-10", "rank": 150}, {"date": "1981-01-17", "rank": 150}, {"date": "1981-01-24", "rank": 163}, {"date": "1981-01-31", "rank": 195}]}
+{
+  "id": "sweat-band-sweat-band",
+  "title": "Sweat Band",
+  "artist": "Sweat Band",
+  "peak": 150,
+  "history": [
+    {
+      "date": "1980-12-13",
+      "rank": 183
+    },
+    {
+      "date": "1980-12-20",
+      "rank": 173
+    },
+    {
+      "date": "1980-12-27",
+      "rank": 162
+    },
+    {
+      "date": "1981-01-03",
+      "rank": 162
+    },
+    {
+      "date": "1981-01-10",
+      "rank": 150
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 150
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 163
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cauldron of Sweat",
+      "id": null
+    },
+    {
+      "title": "Mind Inspector",
+      "id": null
+    },
+    {
+      "title": "Get It",
+      "id": null
+    },
+    {
+      "title": "Words Are Like Turds",
+      "id": null
+    },
+    {
+      "title": "Ninja Attack",
+      "id": null
+    },
+    {
+      "title": "Bottle Rocket",
+      "id": null
+    },
+    {
+      "title": "Paydirt",
+      "id": null
+    },
+    {
+      "title": "Pasta Rat",
+      "id": null
+    },
+    {
+      "title": "Monument",
+      "id": null
+    }
+  ]
+}

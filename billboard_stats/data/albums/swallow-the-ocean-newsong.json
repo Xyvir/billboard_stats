@@ -1,1 +1,38 @@
-{"id": "swallow-the-ocean-newsong", "title": "Swallow The Ocean", "artist": "NewSong", "peak": 65, "history": [{"date": "2013-03-16", "rank": 65}, {"date": "2013-03-23", "rank": 143}, {"date": "2013-03-30", "rank": 176}]}
+{
+  "id": "swallow-the-ocean-newsong",
+  "title": "Swallow The Ocean",
+  "artist": "NewSong",
+  "peak": 65,
+  "history": [
+    {
+      "date": "2013-03-16",
+      "rank": 65
+    },
+    {
+      "date": "2013-03-23",
+      "rank": 143
+    },
+    {
+      "date": "2013-03-30",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Swallow the Ocean (Coming Alive)",
+      "id": null
+    },
+    {
+      "title": "All We Need",
+      "id": null
+    },
+    {
+      "title": "As It Is In Heaven",
+      "id": null
+    },
+    {
+      "title": "In Jesus Name",
+      "id": null
+    }
+  ]
+}

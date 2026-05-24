@@ -1,1 +1,54 @@
-{"id": "sweet-evil-derringer", "title": "Sweet Evil", "artist": "Derringer", "peak": 169, "history": [{"date": "1977-02-19", "rank": 174}, {"date": "1977-02-26", "rank": 172}, {"date": "1977-03-05", "rank": 169}]}
+{
+  "id": "sweet-evil-derringer",
+  "title": "Sweet Evil",
+  "artist": "Derringer",
+  "peak": 169,
+  "history": [
+    {
+      "date": "1977-02-19",
+      "rank": 174
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 172
+    },
+    {
+      "date": "1977-03-05",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let's Make It",
+      "id": "let-me-in-derringer"
+    },
+    {
+      "title": "Don't Stop Loving Me",
+      "id": null
+    },
+    {
+      "title": "Sittin' by the Pool",
+      "id": null
+    },
+    {
+      "title": "Keep on Makin' Love",
+      "id": null
+    },
+    {
+      "title": "One Eyed Jack",
+      "id": null
+    },
+    {
+      "title": "Sweet Evil",
+      "id": null
+    },
+    {
+      "title": "Drivin' Sideways",
+      "id": null
+    },
+    {
+      "title": "I Didn't Ask to Be Born",
+      "id": null
+    }
+  ]
+}
