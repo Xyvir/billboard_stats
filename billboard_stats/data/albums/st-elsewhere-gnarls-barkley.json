@@ -1,1 +1,254 @@
-{"id": "st-elsewhere-gnarls-barkley", "title": "St. Elsewhere", "artist": "Gnarls Barkley", "peak": 4, "history": [{"date": "2006-05-27", "rank": 20}, {"date": "2006-06-03", "rank": 15}, {"date": "2006-06-10", "rank": 21}, {"date": "2006-06-17", "rank": 14}, {"date": "2006-06-24", "rank": 11}, {"date": "2006-07-01", "rank": 11}, {"date": "2006-07-08", "rank": 8}, {"date": "2006-07-15", "rank": 6}, {"date": "2006-07-22", "rank": 5}, {"date": "2006-07-29", "rank": 5}, {"date": "2006-08-05", "rank": 4}, {"date": "2006-08-12", "rank": 5}, {"date": "2006-08-19", "rank": 7}, {"date": "2006-08-26", "rank": 8}, {"date": "2006-09-02", "rank": 11}, {"date": "2006-09-09", "rank": 17}, {"date": "2006-09-16", "rank": 15}, {"date": "2006-09-23", "rank": 18}, {"date": "2006-09-30", "rank": 24}, {"date": "2006-10-07", "rank": 34}, {"date": "2006-10-14", "rank": 41}, {"date": "2006-10-21", "rank": 51}, {"date": "2006-10-28", "rank": 55}, {"date": "2006-11-04", "rank": 55}, {"date": "2006-11-11", "rank": 67}, {"date": "2006-11-18", "rank": 83}, {"date": "2006-11-25", "rank": 98}, {"date": "2006-12-02", "rank": 110}, {"date": "2006-12-09", "rank": 137}, {"date": "2006-12-16", "rank": 140}, {"date": "2006-12-23", "rank": 144}, {"date": "2006-12-30", "rank": 141}, {"date": "2007-01-06", "rank": 119}, {"date": "2007-01-13", "rank": 103}, {"date": "2007-01-20", "rank": 99}, {"date": "2007-01-27", "rank": 110}, {"date": "2007-02-03", "rank": 119}, {"date": "2007-02-10", "rank": 119}, {"date": "2007-02-17", "rank": 137}, {"date": "2007-02-24", "rank": 111}, {"date": "2007-03-03", "rank": 44}, {"date": "2007-03-10", "rank": 73}, {"date": "2007-03-17", "rank": 85}, {"date": "2007-03-24", "rank": 123}, {"date": "2007-03-31", "rank": 141}, {"date": "2007-04-07", "rank": 162}, {"date": "2007-04-14", "rank": 185}]}
+{
+  "id": "st-elsewhere-gnarls-barkley",
+  "title": "St. Elsewhere",
+  "artist": "Gnarls Barkley",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2006-05-27",
+      "rank": 20
+    },
+    {
+      "date": "2006-06-03",
+      "rank": 15
+    },
+    {
+      "date": "2006-06-10",
+      "rank": 21
+    },
+    {
+      "date": "2006-06-17",
+      "rank": 14
+    },
+    {
+      "date": "2006-06-24",
+      "rank": 11
+    },
+    {
+      "date": "2006-07-01",
+      "rank": 11
+    },
+    {
+      "date": "2006-07-08",
+      "rank": 8
+    },
+    {
+      "date": "2006-07-15",
+      "rank": 6
+    },
+    {
+      "date": "2006-07-22",
+      "rank": 5
+    },
+    {
+      "date": "2006-07-29",
+      "rank": 5
+    },
+    {
+      "date": "2006-08-05",
+      "rank": 4
+    },
+    {
+      "date": "2006-08-12",
+      "rank": 5
+    },
+    {
+      "date": "2006-08-19",
+      "rank": 7
+    },
+    {
+      "date": "2006-08-26",
+      "rank": 8
+    },
+    {
+      "date": "2006-09-02",
+      "rank": 11
+    },
+    {
+      "date": "2006-09-09",
+      "rank": 17
+    },
+    {
+      "date": "2006-09-16",
+      "rank": 15
+    },
+    {
+      "date": "2006-09-23",
+      "rank": 18
+    },
+    {
+      "date": "2006-09-30",
+      "rank": 24
+    },
+    {
+      "date": "2006-10-07",
+      "rank": 34
+    },
+    {
+      "date": "2006-10-14",
+      "rank": 41
+    },
+    {
+      "date": "2006-10-21",
+      "rank": 51
+    },
+    {
+      "date": "2006-10-28",
+      "rank": 55
+    },
+    {
+      "date": "2006-11-04",
+      "rank": 55
+    },
+    {
+      "date": "2006-11-11",
+      "rank": 67
+    },
+    {
+      "date": "2006-11-18",
+      "rank": 83
+    },
+    {
+      "date": "2006-11-25",
+      "rank": 98
+    },
+    {
+      "date": "2006-12-02",
+      "rank": 110
+    },
+    {
+      "date": "2006-12-09",
+      "rank": 137
+    },
+    {
+      "date": "2006-12-16",
+      "rank": 140
+    },
+    {
+      "date": "2006-12-23",
+      "rank": 144
+    },
+    {
+      "date": "2006-12-30",
+      "rank": 141
+    },
+    {
+      "date": "2007-01-06",
+      "rank": 119
+    },
+    {
+      "date": "2007-01-13",
+      "rank": 103
+    },
+    {
+      "date": "2007-01-20",
+      "rank": 99
+    },
+    {
+      "date": "2007-01-27",
+      "rank": 110
+    },
+    {
+      "date": "2007-02-03",
+      "rank": 119
+    },
+    {
+      "date": "2007-02-10",
+      "rank": 119
+    },
+    {
+      "date": "2007-02-17",
+      "rank": 137
+    },
+    {
+      "date": "2007-02-24",
+      "rank": 111
+    },
+    {
+      "date": "2007-03-03",
+      "rank": 44
+    },
+    {
+      "date": "2007-03-10",
+      "rank": 73
+    },
+    {
+      "date": "2007-03-17",
+      "rank": 85
+    },
+    {
+      "date": "2007-03-24",
+      "rank": 123
+    },
+    {
+      "date": "2007-03-31",
+      "rank": 141
+    },
+    {
+      "date": "2007-04-07",
+      "rank": 162
+    },
+    {
+      "date": "2007-04-14",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Crazy",
+      "id": "crazy-gnarls-barkley"
+    },
+    {
+      "title": "Go‐Go Gadget Gospel",
+      "id": null
+    },
+    {
+      "title": "St. Elsewhere",
+      "id": null
+    },
+    {
+      "title": "Gone Daddy Gone",
+      "id": null
+    },
+    {
+      "title": "Smiley Faces",
+      "id": null
+    },
+    {
+      "title": "The Boogie Monster",
+      "id": null
+    },
+    {
+      "title": "Feng Shui",
+      "id": null
+    },
+    {
+      "title": "Just a Thought",
+      "id": null
+    },
+    {
+      "title": "Transformer",
+      "id": null
+    },
+    {
+      "title": "Who Cares?",
+      "id": null
+    },
+    {
+      "title": "Online",
+      "id": null
+    },
+    {
+      "title": "Necromancer",
+      "id": null
+    },
+    {
+      "title": "Storm Coming",
+      "id": null
+    },
+    {
+      "title": "The Last Time",
+      "id": null
+    }
+  ]
+}

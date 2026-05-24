@@ -1,1 +1,98 @@
-{"id": "step-one-steps", "title": "Step One", "artist": "Steps", "peak": 79, "history": [{"date": "2000-03-04", "rank": 171}, {"date": "2000-03-11", "rank": 79}, {"date": "2000-03-18", "rank": 126}, {"date": "2000-03-25", "rank": 100}, {"date": "2000-04-01", "rank": 118}, {"date": "2000-04-08", "rank": 108}, {"date": "2000-04-15", "rank": 122}, {"date": "2000-04-22", "rank": 164}, {"date": "2000-04-29", "rank": 169}, {"date": "2000-05-06", "rank": 139}]}
+{
+  "id": "step-one-steps",
+  "title": "Step One",
+  "artist": "Steps",
+  "peak": 79,
+  "history": [
+    {
+      "date": "2000-03-04",
+      "rank": 171
+    },
+    {
+      "date": "2000-03-11",
+      "rank": 79
+    },
+    {
+      "date": "2000-03-18",
+      "rank": 126
+    },
+    {
+      "date": "2000-03-25",
+      "rank": 100
+    },
+    {
+      "date": "2000-04-01",
+      "rank": 118
+    },
+    {
+      "date": "2000-04-08",
+      "rank": 108
+    },
+    {
+      "date": "2000-04-15",
+      "rank": 122
+    },
+    {
+      "date": "2000-04-22",
+      "rank": 164
+    },
+    {
+      "date": "2000-04-29",
+      "rank": 169
+    },
+    {
+      "date": "2000-05-06",
+      "rank": 139
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Steptro",
+      "id": null
+    },
+    {
+      "title": "Last Thing on My Mind",
+      "id": null
+    },
+    {
+      "title": "5, 6, 7, 8",
+      "id": null
+    },
+    {
+      "title": "One for Sorrow",
+      "id": null
+    },
+    {
+      "title": "Heartbeat",
+      "id": null
+    },
+    {
+      "title": "This Heart Will Love Again",
+      "id": null
+    },
+    {
+      "title": "Experienced",
+      "id": null
+    },
+    {
+      "title": "Too Weak to Resist",
+      "id": null
+    },
+    {
+      "title": "Better Best Forgotten",
+      "id": null
+    },
+    {
+      "title": "Back to You",
+      "id": null
+    },
+    {
+      "title": "Love U More",
+      "id": null
+    },
+    {
+      "title": "Stay With Me",
+      "id": null
+    }
+  ]
+}

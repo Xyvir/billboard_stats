@@ -1,1 +1,90 @@
-{"id": "steamin-hot-the-reddings", "title": "Steamin' Hot", "artist": "The Reddings", "peak": 153, "history": [{"date": "1982-05-29", "rank": 190}, {"date": "1982-06-05", "rank": 173}, {"date": "1982-06-12", "rank": 163}, {"date": "1982-06-19", "rank": 154}, {"date": "1982-06-26", "rank": 154}, {"date": "1982-07-03", "rank": 153}, {"date": "1982-07-10", "rank": 155}, {"date": "1982-07-17", "rank": 153}, {"date": "1982-07-24", "rank": 153}, {"date": "1982-07-31", "rank": 171}, {"date": "1982-08-07", "rank": 174}, {"date": "1982-08-14", "rank": 200}]}
+{
+  "id": "steamin-hot-the-reddings",
+  "title": "Steamin' Hot",
+  "artist": "The Reddings",
+  "peak": 153,
+  "history": [
+    {
+      "date": "1982-05-29",
+      "rank": 190
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 173
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 163
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 154
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 154
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 153
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 155
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 153
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 153
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 171
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 174
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "id": "sittin-on-the-dock-of-the-bay-the-reddings"
+    },
+    {
+      "title": "I Know You Got Another (Don't Matter)",
+      "id": null
+    },
+    {
+      "title": "You Bring Me Joy",
+      "id": null
+    },
+    {
+      "title": "Follow Me",
+      "id": null
+    },
+    {
+      "title": "Steamin' Hot",
+      "id": null
+    },
+    {
+      "title": "For You",
+      "id": null
+    },
+    {
+      "title": "You Can Be A Star",
+      "id": null
+    },
+    {
+      "title": "Time Won't Wait",
+      "id": null
+    }
+  ]
+}

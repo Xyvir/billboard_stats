@@ -1,1 +1,58 @@
-{"id": "steam-ty-herndon", "title": "Steam", "artist": "Ty Herndon", "peak": 124, "history": [{"date": "1999-11-20", "rank": 124}, {"date": "1999-11-27", "rank": 168}]}
+{
+  "id": "steam-ty-herndon",
+  "title": "Steam",
+  "artist": "Ty Herndon",
+  "peak": 124,
+  "history": [
+    {
+      "date": "1999-11-20",
+      "rank": 124
+    },
+    {
+      "date": "1999-11-27",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Steam",
+      "id": "steam-ty-herndon"
+    },
+    {
+      "title": "No Mercy",
+      "id": "no-mercy-ty-herndon"
+    },
+    {
+      "title": "Lookin' for the Good Life",
+      "id": null
+    },
+    {
+      "title": "Putting the Brakes on Time",
+      "id": null
+    },
+    {
+      "title": "I Can't Do It All",
+      "id": null
+    },
+    {
+      "title": "In a New York Second",
+      "id": null
+    },
+    {
+      "title": "That's Wall I Call Love",
+      "id": null
+    },
+    {
+      "title": "Pray for Me",
+      "id": null
+    },
+    {
+      "title": "A Love Like That",
+      "id": null
+    },
+    {
+      "title": "You Can Leave Your Hat On",
+      "id": null
+    }
+  ]
+}
