@@ -1,1 +1,90 @@
-{"id": "super-hits-roy-orbison", "title": "Super Hits", "artist": "Roy Orbison", "peak": 104, "history": [{"date": "2011-02-19", "rank": 168}, {"date": "2011-04-23", "rank": 177}, {"date": "2011-04-30", "rank": 120}, {"date": "2011-05-07", "rank": 120}, {"date": "2011-05-14", "rank": 104}, {"date": "2011-05-21", "rank": 143}, {"date": "2011-05-28", "rank": 135}, {"date": "2011-06-04", "rank": 147}, {"date": "2011-06-11", "rank": 174}, {"date": "2011-06-18", "rank": 183}]}
+{
+  "id": "super-hits-roy-orbison",
+  "title": "Super Hits",
+  "artist": "Roy Orbison",
+  "peak": 104,
+  "history": [
+    {
+      "date": "2011-02-19",
+      "rank": 168
+    },
+    {
+      "date": "2011-04-23",
+      "rank": 177
+    },
+    {
+      "date": "2011-04-30",
+      "rank": 120
+    },
+    {
+      "date": "2011-05-07",
+      "rank": 120
+    },
+    {
+      "date": "2011-05-14",
+      "rank": 104
+    },
+    {
+      "date": "2011-05-21",
+      "rank": 143
+    },
+    {
+      "date": "2011-05-28",
+      "rank": 135
+    },
+    {
+      "date": "2011-06-04",
+      "rank": 147
+    },
+    {
+      "date": "2011-06-11",
+      "rank": 174
+    },
+    {
+      "date": "2011-06-18",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Only the Lonely (Know the Way I Feel)",
+      "id": "only-the-lonely-know-how-i-feel-roy-orbison"
+    },
+    {
+      "title": "In Dreams",
+      "id": "in-dreams-roy-orbison"
+    },
+    {
+      "title": "It's Over",
+      "id": "it-s-over-roy-orbison"
+    },
+    {
+      "title": "Crying",
+      "id": "crying-roy-orbison"
+    },
+    {
+      "title": "Blue Angel",
+      "id": "blue-angel-roy-orbison"
+    },
+    {
+      "title": "Workin’ for the Man",
+      "id": "workin-for-the-man-roy-orbison"
+    },
+    {
+      "title": "Running Scared",
+      "id": "running-scared-roy-orbison"
+    },
+    {
+      "title": "I'm Hurtin'",
+      "id": "i-m-hurtin-roy-orbison"
+    },
+    {
+      "title": "Blue Bayou",
+      "id": "blue-bayou-roy-orbison"
+    },
+    {
+      "title": "Oh, Pretty Woman",
+      "id": null
+    }
+  ]
+}

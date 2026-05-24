@@ -1,1 +1,114 @@
-{"id": "super-hits-janis-joplin", "title": "Super Hits", "artist": "Janis Joplin", "peak": 113, "history": [{"date": "2011-04-23", "rank": 158}, {"date": "2011-04-30", "rank": 113}, {"date": "2011-05-07", "rank": 115}, {"date": "2011-05-14", "rank": 118}, {"date": "2011-05-21", "rank": 137}, {"date": "2011-05-28", "rank": 140}, {"date": "2011-06-04", "rank": 159}, {"date": "2011-06-11", "rank": 169}, {"date": "2011-06-18", "rank": 192}, {"date": "2011-10-22", "rank": 172}, {"date": "2011-10-29", "rank": 156}, {"date": "2011-11-05", "rank": 196}, {"date": "2012-02-18", "rank": 188}, {"date": "2012-03-03", "rank": 179}, {"date": "2012-03-10", "rank": 199}, {"date": "2012-03-17", "rank": 199}]}
+{
+  "id": "super-hits-janis-joplin",
+  "title": "Super Hits",
+  "artist": "Janis Joplin",
+  "peak": 113,
+  "history": [
+    {
+      "date": "2011-04-23",
+      "rank": 158
+    },
+    {
+      "date": "2011-04-30",
+      "rank": 113
+    },
+    {
+      "date": "2011-05-07",
+      "rank": 115
+    },
+    {
+      "date": "2011-05-14",
+      "rank": 118
+    },
+    {
+      "date": "2011-05-21",
+      "rank": 137
+    },
+    {
+      "date": "2011-05-28",
+      "rank": 140
+    },
+    {
+      "date": "2011-06-04",
+      "rank": 159
+    },
+    {
+      "date": "2011-06-11",
+      "rank": 169
+    },
+    {
+      "date": "2011-06-18",
+      "rank": 192
+    },
+    {
+      "date": "2011-10-22",
+      "rank": 172
+    },
+    {
+      "date": "2011-10-29",
+      "rank": 156
+    },
+    {
+      "date": "2011-11-05",
+      "rank": 196
+    },
+    {
+      "date": "2012-02-18",
+      "rank": 188
+    },
+    {
+      "date": "2012-03-03",
+      "rank": 179
+    },
+    {
+      "date": "2012-03-10",
+      "rank": 199
+    },
+    {
+      "date": "2012-03-17",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cry Baby",
+      "id": "cry-baby-janis-joplin"
+    },
+    {
+      "title": "Me and Bobby McGee",
+      "id": "me-and-bobby-mcgee-janis-joplin"
+    },
+    {
+      "title": "Piece of My Heart",
+      "id": null
+    },
+    {
+      "title": "Try (Just a Little Bit Harder)",
+      "id": null
+    },
+    {
+      "title": "One Good Man",
+      "id": null
+    },
+    {
+      "title": "Move Over",
+      "id": null
+    },
+    {
+      "title": "I Need a Man to Love",
+      "id": null
+    },
+    {
+      "title": "Turtle Blues",
+      "id": null
+    },
+    {
+      "title": "A Woman Left Lonely",
+      "id": null
+    },
+    {
+      "title": "One Night Stand",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"id": "super-hits-johnny-cash", "title": "Super Hits", "artist": "Johnny Cash", "peak": 166, "history": [{"date": "2012-02-18", "rank": 166}, {"date": "2012-03-03", "rank": 180}, {"date": "2012-03-10", "rank": 173}, {"date": "2012-03-17", "rank": 187}, {"date": "2012-03-24", "rank": 185}, {"date": "2012-03-31", "rank": 191}, {"date": "2012-04-07", "rank": 177}, {"date": "2012-05-12", "rank": 200}]}
+{
+  "id": "super-hits-johnny-cash",
+  "title": "Super Hits",
+  "artist": "Johnny Cash",
+  "peak": 166,
+  "history": [
+    {
+      "date": "2012-02-18",
+      "rank": 166
+    },
+    {
+      "date": "2012-03-03",
+      "rank": 180
+    },
+    {
+      "date": "2012-03-10",
+      "rank": 173
+    },
+    {
+      "date": "2012-03-17",
+      "rank": 187
+    },
+    {
+      "date": "2012-03-24",
+      "rank": 185
+    },
+    {
+      "date": "2012-03-31",
+      "rank": 191
+    },
+    {
+      "date": "2012-04-07",
+      "rank": 177
+    },
+    {
+      "date": "2012-05-12",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ring of Fire",
+      "id": "ring-of-fire-johnny-cash"
+    },
+    {
+      "title": "Sunday Morning Coming Down",
+      "id": "sunday-morning-coming-down-johnny-cash"
+    },
+    {
+      "title": "Folsom Prison Blues",
+      "id": "folsom-prison-blues-johnny-cash"
+    },
+    {
+      "title": "Understand Your Man",
+      "id": "understand-your-man-johnny-cash"
+    },
+    {
+      "title": "A Boy Named Sue",
+      "id": "a-boy-named-sue-johnny-cash"
+    },
+    {
+      "title": "I Walk the Line",
+      "id": null
+    },
+    {
+      "title": "Big River",
+      "id": null
+    },
+    {
+      "title": "I Still Miss Someone",
+      "id": null
+    },
+    {
+      "title": "Jackson",
+      "id": null
+    },
+    {
+      "title": "One Piece at a Time",
+      "id": null
+    }
+  ]
+}

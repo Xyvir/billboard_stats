@@ -1,1 +1,70 @@
-{"id": "superkala-course-of-nature", "title": "Superkala", "artist": "Course Of Nature", "peak": 166, "history": [{"date": "2002-03-16", "rank": 166}, {"date": "2002-04-20", "rank": 166}, {"date": "2002-04-27", "rank": 200}, {"date": "2002-05-11", "rank": 189}, {"date": "2002-06-22", "rank": 176}]}
+{
+  "id": "superkala-course-of-nature",
+  "title": "Superkala",
+  "artist": "Course Of Nature",
+  "peak": 166,
+  "history": [
+    {
+      "date": "2002-03-16",
+      "rank": 166
+    },
+    {
+      "date": "2002-04-20",
+      "rank": 166
+    },
+    {
+      "date": "2002-04-27",
+      "rank": 200
+    },
+    {
+      "date": "2002-05-11",
+      "rank": 189
+    },
+    {
+      "date": "2002-06-22",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wall of Shame",
+      "id": null
+    },
+    {
+      "title": "Caught in the Sun",
+      "id": null
+    },
+    {
+      "title": "Difference of Opinion",
+      "id": null
+    },
+    {
+      "title": "Someone Else to You",
+      "id": null
+    },
+    {
+      "title": "Remain",
+      "id": null
+    },
+    {
+      "title": "Gain",
+      "id": null
+    },
+    {
+      "title": "1000 Times",
+      "id": null
+    },
+    {
+      "title": "Could I've Been",
+      "id": null
+    },
+    {
+      "title": "Better Part of Me",
+      "id": null
+    },
+    {
+      "title": "After the Fall",
+      "id": null
+    }
+  ]
+}

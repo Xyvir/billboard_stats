@@ -1,1 +1,90 @@
-{"id": "super-mann-herbie-mann", "title": "Super Mann", "artist": "Herbie Mann", "peak": 77, "history": [{"date": "1979-02-24", "rank": 168}, {"date": "1979-03-03", "rank": 159}, {"date": "1979-03-10", "rank": 136}, {"date": "1979-03-17", "rank": 133}, {"date": "1979-03-24", "rank": 99}, {"date": "1979-03-31", "rank": 92}, {"date": "1979-04-07", "rank": 86}, {"date": "1979-04-14", "rank": 86}, {"date": "1979-04-21", "rank": 84}, {"date": "1979-04-28", "rank": 82}, {"date": "1979-05-05", "rank": 77}, {"date": "1979-05-12", "rank": 111}, {"date": "1979-05-19", "rank": 178}]}
+{
+  "id": "super-mann-herbie-mann",
+  "title": "Super Mann",
+  "artist": "Herbie Mann",
+  "peak": 77,
+  "history": [
+    {
+      "date": "1979-02-24",
+      "rank": 168
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 159
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 136
+    },
+    {
+      "date": "1979-03-17",
+      "rank": 133
+    },
+    {
+      "date": "1979-03-24",
+      "rank": 99
+    },
+    {
+      "date": "1979-03-31",
+      "rank": 92
+    },
+    {
+      "date": "1979-04-07",
+      "rank": 86
+    },
+    {
+      "date": "1979-04-14",
+      "rank": 86
+    },
+    {
+      "date": "1979-04-21",
+      "rank": 84
+    },
+    {
+      "date": "1979-04-28",
+      "rank": 82
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 77
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 111
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Superman",
+      "id": "superman-herbie-mann"
+    },
+    {
+      "title": "Etagui",
+      "id": null
+    },
+    {
+      "title": "Jisco Dazz",
+      "id": null
+    },
+    {
+      "title": "Rock Freak",
+      "id": null
+    },
+    {
+      "title": "Stomp Your Feet",
+      "id": null
+    },
+    {
+      "title": "Body Oil",
+      "id": null
+    },
+    {
+      "title": "Django",
+      "id": null
+    }
+  ]
+}
