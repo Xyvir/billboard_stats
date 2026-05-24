@@ -1,1 +1,74 @@
-{"id": "sky-blue-passport", "title": "Sky Blue", "artist": "Passport", "peak": 140, "history": [{"date": "1978-06-03", "rank": 172}, {"date": "1978-06-10", "rank": 162}, {"date": "1978-06-17", "rank": 152}, {"date": "1978-06-24", "rank": 142}, {"date": "1978-07-01", "rank": 140}, {"date": "1978-07-08", "rank": 168}, {"date": "1978-07-15", "rank": 190}]}
+{
+  "id": "sky-blue-passport",
+  "title": "Sky Blue",
+  "artist": "Passport",
+  "peak": 140,
+  "history": [
+    {
+      "date": "1978-06-03",
+      "rank": 172
+    },
+    {
+      "date": "1978-06-10",
+      "rank": 162
+    },
+    {
+      "date": "1978-06-17",
+      "rank": 152
+    },
+    {
+      "date": "1978-06-24",
+      "rank": 142
+    },
+    {
+      "date": "1978-07-01",
+      "rank": 140
+    },
+    {
+      "date": "1978-07-08",
+      "rank": 168
+    },
+    {
+      "date": "1978-07-15",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ataraxia, Part 1",
+      "id": null
+    },
+    {
+      "title": "Ataraxia, Part 2",
+      "id": null
+    },
+    {
+      "title": "Sky Blue",
+      "id": null
+    },
+    {
+      "title": "Mandrake",
+      "id": null
+    },
+    {
+      "title": "Reng Ding Dang Dong",
+      "id": null
+    },
+    {
+      "title": "Loco-Motive",
+      "id": null
+    },
+    {
+      "title": "The Secret",
+      "id": null
+    },
+    {
+      "title": "Louisiana",
+      "id": null
+    },
+    {
+      "title": "Alegria",
+      "id": null
+    }
+  ]
+}

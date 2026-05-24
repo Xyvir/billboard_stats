@@ -1,1 +1,54 @@
-{"id": "skyylight-skyy", "title": "Skyylight", "artist": "Skyy", "peak": 183, "history": [{"date": "1983-08-06", "rank": 188}, {"date": "1983-08-13", "rank": 185}, {"date": "1983-08-20", "rank": 183}]}
+{
+  "id": "skyylight-skyy",
+  "title": "Skyylight",
+  "artist": "Skyy",
+  "peak": 183,
+  "history": [
+    {
+      "date": "1983-08-06",
+      "rank": 188
+    },
+    {
+      "date": "1983-08-13",
+      "rank": 185
+    },
+    {
+      "date": "1983-08-20",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bad Boy",
+      "id": null
+    },
+    {
+      "title": "Married Man",
+      "id": null
+    },
+    {
+      "title": "Questions No Answers",
+      "id": null
+    },
+    {
+      "title": "Now That We’ve Found Love",
+      "id": null
+    },
+    {
+      "title": "Hey Girl",
+      "id": null
+    },
+    {
+      "title": "Show Me the Way",
+      "id": null
+    },
+    {
+      "title": "She’s Gone",
+      "id": null
+    },
+    {
+      "title": "Swing It",
+      "id": null
+    }
+  ]
+}
