@@ -1,1 +1,86 @@
-{"id": "shenanigans-green-day", "title": "Shenanigans", "artist": "Green Day", "peak": 27, "history": [{"date": "2002-07-20", "rank": 27}, {"date": "2002-07-27", "rank": 70}, {"date": "2002-08-03", "rank": 110}, {"date": "2002-08-10", "rank": 135}, {"date": "2002-08-17", "rank": 155}]}
+{
+  "id": "shenanigans-green-day",
+  "title": "Shenanigans",
+  "artist": "Green Day",
+  "peak": 27,
+  "history": [
+    {
+      "date": "2002-07-20",
+      "rank": 27
+    },
+    {
+      "date": "2002-07-27",
+      "rank": 70
+    },
+    {
+      "date": "2002-08-03",
+      "rank": 110
+    },
+    {
+      "date": "2002-08-10",
+      "rank": 135
+    },
+    {
+      "date": "2002-08-17",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Suffocate",
+      "id": null
+    },
+    {
+      "title": "Desensitized",
+      "id": null
+    },
+    {
+      "title": "You Lied",
+      "id": null
+    },
+    {
+      "title": "Outsider",
+      "id": null
+    },
+    {
+      "title": "Don’t Wanna Fall in Love",
+      "id": null
+    },
+    {
+      "title": "Espionage",
+      "id": null
+    },
+    {
+      "title": "I Want to Be on T.V.",
+      "id": null
+    },
+    {
+      "title": "Scumbag",
+      "id": null
+    },
+    {
+      "title": "Tired of Waiting for You",
+      "id": null
+    },
+    {
+      "title": "Sick",
+      "id": null
+    },
+    {
+      "title": "Rotting",
+      "id": null
+    },
+    {
+      "title": "Do Da Da",
+      "id": null
+    },
+    {
+      "title": "On the Wagon",
+      "id": null
+    },
+    {
+      "title": "Ha Ha You’re Dead",
+      "id": null
+    }
+  ]
+}

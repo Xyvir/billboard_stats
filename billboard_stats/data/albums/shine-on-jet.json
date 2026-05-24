@@ -1,1 +1,90 @@
-{"id": "shine-on-jet", "title": "Shine On", "artist": "Jet", "peak": 16, "history": [{"date": "2006-10-21", "rank": 16}, {"date": "2006-10-28", "rank": 56}, {"date": "2006-11-04", "rank": 100}, {"date": "2006-11-11", "rank": 129}, {"date": "2006-11-18", "rank": 152}]}
+{
+  "id": "shine-on-jet",
+  "title": "Shine On",
+  "artist": "Jet",
+  "peak": 16,
+  "history": [
+    {
+      "date": "2006-10-21",
+      "rank": 16
+    },
+    {
+      "date": "2006-10-28",
+      "rank": 56
+    },
+    {
+      "date": "2006-11-04",
+      "rank": 100
+    },
+    {
+      "date": "2006-11-11",
+      "rank": 129
+    },
+    {
+      "date": "2006-11-18",
+      "rank": 152
+    }
+  ],
+  "tracks": [
+    {
+      "title": "L’esprit d’escalier",
+      "id": null
+    },
+    {
+      "title": "Holiday",
+      "id": null
+    },
+    {
+      "title": "Put Your Money Where Your Mouth Is",
+      "id": null
+    },
+    {
+      "title": "Bring It On Back",
+      "id": null
+    },
+    {
+      "title": "That’s All Lies",
+      "id": null
+    },
+    {
+      "title": "Hey Kids",
+      "id": null
+    },
+    {
+      "title": "Kings Horses",
+      "id": null
+    },
+    {
+      "title": "Shine On",
+      "id": null
+    },
+    {
+      "title": "Come On Come On",
+      "id": null
+    },
+    {
+      "title": "Stand Up",
+      "id": null
+    },
+    {
+      "title": "Rip It Up",
+      "id": null
+    },
+    {
+      "title": "Skin and Bones",
+      "id": null
+    },
+    {
+      "title": "Shiny Magazine",
+      "id": null
+    },
+    {
+      "title": "Eleanor",
+      "id": null
+    },
+    {
+      "title": "All You Have to Do",
+      "id": null
+    }
+  ]
+}
