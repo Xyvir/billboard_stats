@@ -1,1 +1,94 @@
-{"id": "phenix-cannonball-adderley", "title": "Phenix", "artist": "Cannonball Adderley", "peak": 121, "history": [{"date": "1975-09-20", "rank": 189}, {"date": "1975-09-27", "rank": 167}, {"date": "1975-10-04", "rank": 143}, {"date": "1975-10-11", "rank": 132}, {"date": "1975-10-18", "rank": 121}, {"date": "1975-10-25", "rank": 121}, {"date": "1975-11-01", "rank": 141}, {"date": "1975-11-08", "rank": 172}]}
+{
+  "id": "phenix-cannonball-adderley",
+  "title": "Phenix",
+  "artist": "Cannonball Adderley",
+  "peak": 121,
+  "history": [
+    {
+      "date": "1975-09-20",
+      "rank": 189
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 167
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 143
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 132
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 121
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 121
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 141
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Jive Samba",
+      "id": "the-jive-samba-cannonball-adderley"
+    },
+    {
+      "title": "Country Preacher",
+      "id": "country-preacher-cannonball-adderley"
+    },
+    {
+      "title": "Mercy, Mercy, Mercy",
+      "id": "mercy-mercy-mercy-cannonball-adderley"
+    },
+    {
+      "title": "High Fly",
+      "id": null
+    },
+    {
+      "title": "Work Song",
+      "id": null
+    },
+    {
+      "title": "Sack o’ Woe",
+      "id": null
+    },
+    {
+      "title": "This Here",
+      "id": null
+    },
+    {
+      "title": "The Sidewalks of New York",
+      "id": null
+    },
+    {
+      "title": "Hambi Nami",
+      "id": null
+    },
+    {
+      "title": "Domination",
+      "id": null
+    },
+    {
+      "title": "74 Miles Away",
+      "id": null
+    },
+    {
+      "title": "Stars Fell On Alabama",
+      "id": null
+    },
+    {
+      "title": "Walk Tall",
+      "id": null
+    }
+  ]
+}
