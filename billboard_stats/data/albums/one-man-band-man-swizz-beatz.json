@@ -1,1 +1,82 @@
-{"id": "one-man-band-man-swizz-beatz", "title": "One Man Band Man", "artist": "Swizz Beatz", "peak": 7, "history": [{"date": "2007-09-08", "rank": 7}, {"date": "2007-09-15", "rank": 42}, {"date": "2007-09-22", "rank": 54}, {"date": "2007-09-29", "rank": 82}, {"date": "2007-10-06", "rank": 139}, {"date": "2007-10-13", "rank": 191}]}
+{
+  "id": "one-man-band-man-swizz-beatz",
+  "title": "One Man Band Man",
+  "artist": "Swizz Beatz",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2007-09-08",
+      "rank": 7
+    },
+    {
+      "date": "2007-09-15",
+      "rank": 42
+    },
+    {
+      "date": "2007-09-22",
+      "rank": 54
+    },
+    {
+      "date": "2007-09-29",
+      "rank": 82
+    },
+    {
+      "date": "2007-10-06",
+      "rank": 139
+    },
+    {
+      "date": "2007-10-13",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It's Me Bitches",
+      "id": "it-s-me-snitches-swizz-beatz"
+    },
+    {
+      "title": "Money in the Bank",
+      "id": "money-in-the-bank-swizz-beatz"
+    },
+    {
+      "title": "It's Me Bitches (remix)",
+      "id": "it-s-me-snitches-swizz-beatz"
+    },
+    {
+      "title": "Product Man",
+      "id": null
+    },
+    {
+      "title": "Big Munny",
+      "id": null
+    },
+    {
+      "title": "Bust Ya Gunz",
+      "id": null
+    },
+    {
+      "title": "You Know Your Boy Did That",
+      "id": null
+    },
+    {
+      "title": "The Funeral",
+      "id": null
+    },
+    {
+      "title": "Take a Picture",
+      "id": null
+    },
+    {
+      "title": "Top Down",
+      "id": null
+    },
+    {
+      "title": "Part of the Plan",
+      "id": null
+    },
+    {
+      "title": "Snoop (skit)",
+      "id": null
+    }
+  ]
+}

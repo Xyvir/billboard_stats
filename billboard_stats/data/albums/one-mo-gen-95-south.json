@@ -1,1 +1,74 @@
-{"id": "one-mo-gen-95-south", "title": "One Mo' Gen", "artist": "95 South", "peak": 158, "history": [{"date": "1995-02-18", "rank": 158}, {"date": "1995-02-25", "rank": 180}]}
+{
+  "id": "one-mo-gen-95-south",
+  "title": "One Mo' Gen",
+  "artist": "95 South",
+  "peak": 158,
+  "history": [
+    {
+      "date": "1995-02-18",
+      "rank": 158
+    },
+    {
+      "date": "1995-02-25",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rodeo",
+      "id": "rodeo-95-south"
+    },
+    {
+      "title": "Ride Out",
+      "id": "rodeo-95-south"
+    },
+    {
+      "title": "Bassfoyoace",
+      "id": null
+    },
+    {
+      "title": "Quad City Funk",
+      "id": null
+    },
+    {
+      "title": "All the Way Down",
+      "id": null
+    },
+    {
+      "title": "Wine & Dine",
+      "id": null
+    },
+    {
+      "title": "One Mo' Gen",
+      "id": null
+    },
+    {
+      "title": "Trip 2 the Geto",
+      "id": null
+    },
+    {
+      "title": "I Tell U What",
+      "id": null
+    },
+    {
+      "title": "Freak Ya Down",
+      "id": null
+    },
+    {
+      "title": "Heiny Heiny",
+      "id": null
+    },
+    {
+      "title": "Break It on Down",
+      "id": null
+    },
+    {
+      "title": "Down South",
+      "id": null
+    },
+    {
+      "title": "Cowboy Mix",
+      "id": null
+    }
+  ]
+}

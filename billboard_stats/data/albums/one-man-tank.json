@@ -1,1 +1,106 @@
-{"id": "one-man-tank", "title": "One Man", "artist": "Tank", "peak": 20, "history": [{"date": "2002-11-16", "rank": 20}, {"date": "2002-11-23", "rank": 46}, {"date": "2002-11-30", "rank": 83}, {"date": "2002-12-07", "rank": 121}, {"date": "2002-12-14", "rank": 152}, {"date": "2002-12-21", "rank": 180}]}
+{
+  "id": "one-man-tank",
+  "title": "One Man",
+  "artist": "Tank",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2002-11-16",
+      "rank": 20
+    },
+    {
+      "date": "2002-11-23",
+      "rank": 46
+    },
+    {
+      "date": "2002-11-30",
+      "rank": 83
+    },
+    {
+      "date": "2002-12-07",
+      "rank": 121
+    },
+    {
+      "date": "2002-12-14",
+      "rank": 152
+    },
+    {
+      "date": "2002-12-21",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Interlude",
+      "id": null
+    },
+    {
+      "title": "One Man (intro)",
+      "id": null
+    },
+    {
+      "title": "One Man",
+      "id": null
+    },
+    {
+      "title": "Supa Sexy",
+      "id": null
+    },
+    {
+      "title": "My Place",
+      "id": null
+    },
+    {
+      "title": "Unpredictable",
+      "id": null
+    },
+    {
+      "title": "Cake & Ice Cream",
+      "id": null
+    },
+    {
+      "title": "Close",
+      "id": null
+    },
+    {
+      "title": "I’m the Reason",
+      "id": null
+    },
+    {
+      "title": "Make Me Wanna Sing",
+      "id": null
+    },
+    {
+      "title": "Let Me Live",
+      "id": null
+    },
+    {
+      "title": "Party Like a Thug",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be That",
+      "id": null
+    },
+    {
+      "title": "No, Why?",
+      "id": null
+    },
+    {
+      "title": "Club",
+      "id": null
+    },
+    {
+      "title": "So Many Times",
+      "id": null
+    },
+    {
+      "title": "Better Man",
+      "id": null
+    },
+    {
+      "title": "I Still Believe",
+      "id": null
+    }
+  ]
+}

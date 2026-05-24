@@ -1,1 +1,78 @@
-{"id": "one-man-band-ronnie-dyson", "title": "One Man Band", "artist": "Ronnie Dyson", "peak": 142, "history": [{"date": "1973-04-07", "rank": 178}, {"date": "1973-04-14", "rank": 167}, {"date": "1973-04-21", "rank": 155}, {"date": "1973-04-28", "rank": 146}, {"date": "1973-05-05", "rank": 142}, {"date": "1973-05-12", "rank": 150}, {"date": "1973-05-19", "rank": 176}]}
+{
+  "id": "one-man-band-ronnie-dyson",
+  "title": "One Man Band",
+  "artist": "Ronnie Dyson",
+  "peak": 142,
+  "history": [
+    {
+      "date": "1973-04-07",
+      "rank": 178
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 167
+    },
+    {
+      "date": "1973-04-21",
+      "rank": 155
+    },
+    {
+      "date": "1973-04-28",
+      "rank": 146
+    },
+    {
+      "date": "1973-05-05",
+      "rank": 142
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 150
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One Man Band (Plays All Alone)",
+      "id": "one-man-band-plays-all-alone-ronnie-dyson"
+    },
+    {
+      "title": "Just Don't Want to Be Lonely",
+      "id": "just-don-t-want-to-be-lonely-ronnie-dyson"
+    },
+    {
+      "title": "When You Get Right Down to It",
+      "id": "when-you-get-right-down-to-it-ronnie-dyson"
+    },
+    {
+      "title": "I Think I'll Tell Her",
+      "id": null
+    },
+    {
+      "title": "Give in to Love",
+      "id": null
+    },
+    {
+      "title": "A Wednesday in Your Garden",
+      "id": null
+    },
+    {
+      "title": "Something",
+      "id": null
+    },
+    {
+      "title": "Girl Don't Come",
+      "id": null
+    },
+    {
+      "title": "Point of No Return",
+      "id": null
+    },
+    {
+      "title": "The Love of a Woman",
+      "id": null
+    }
+  ]
+}

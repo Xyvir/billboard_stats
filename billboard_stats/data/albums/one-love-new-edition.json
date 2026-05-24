@@ -1,1 +1,98 @@
-{"id": "one-love-new-edition", "title": "One Love", "artist": "New Edition", "peak": 12, "history": [{"date": "2004-11-27", "rank": 12}, {"date": "2004-12-04", "rank": 39}, {"date": "2004-12-11", "rank": 94}, {"date": "2004-12-18", "rank": 117}, {"date": "2004-12-25", "rank": 183}]}
+{
+  "id": "one-love-new-edition",
+  "title": "One Love",
+  "artist": "New Edition",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2004-11-27",
+      "rank": 12
+    },
+    {
+      "date": "2004-12-04",
+      "rank": 39
+    },
+    {
+      "date": "2004-12-11",
+      "rank": 94
+    },
+    {
+      "date": "2004-12-18",
+      "rank": 117
+    },
+    {
+      "date": "2004-12-25",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hot 2nite",
+      "id": "hot-2nite-new-edition"
+    },
+    {
+      "title": "Conference Call",
+      "id": null
+    },
+    {
+      "title": "Been So Long",
+      "id": null
+    },
+    {
+      "title": "Sexy Lady",
+      "id": null
+    },
+    {
+      "title": "Last Time",
+      "id": null
+    },
+    {
+      "title": "All on You",
+      "id": null
+    },
+    {
+      "title": "Wildest Dream",
+      "id": null
+    },
+    {
+      "title": "Start Turnin' Me On",
+      "id": null
+    },
+    {
+      "title": "Love Again",
+      "id": null
+    },
+    {
+      "title": "One Love Interlude",
+      "id": null
+    },
+    {
+      "title": "That's Why I Lied",
+      "id": null
+    },
+    {
+      "title": "Come Home With Me",
+      "id": null
+    },
+    {
+      "title": "Best Man",
+      "id": null
+    },
+    {
+      "title": "Re-Write the Memories",
+      "id": null
+    },
+    {
+      "title": "Newness",
+      "id": null
+    },
+    {
+      "title": "Feelin' It",
+      "id": null
+    },
+    {
+      "title": "Leave Me",
+      "id": null
+    }
+  ]
+}
