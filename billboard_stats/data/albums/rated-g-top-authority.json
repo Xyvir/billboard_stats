@@ -1,1 +1,70 @@
-{"id": "rated-g-top-authority", "title": "Rated G", "artist": "Top Authority", "peak": 144, "history": [{"date": "1995-11-25", "rank": 170}, {"date": "1995-12-02", "rank": 144}, {"date": "1995-12-09", "rank": 187}]}
+{
+  "id": "rated-g-top-authority",
+  "title": "Rated G",
+  "artist": "Top Authority",
+  "peak": 144,
+  "history": [
+    {
+      "date": "1995-11-25",
+      "rank": 170
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 144
+    },
+    {
+      "date": "1995-12-09",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "National Anthem",
+      "id": null
+    },
+    {
+      "title": "Down for My Scratch",
+      "id": null
+    },
+    {
+      "title": "Ghetto Soldier",
+      "id": null
+    },
+    {
+      "title": "Flintown G's",
+      "id": null
+    },
+    {
+      "title": "It Be Real",
+      "id": null
+    },
+    {
+      "title": "Smokin' (Intermission)",
+      "id": null
+    },
+    {
+      "title": "Coppers",
+      "id": null
+    },
+    {
+      "title": "Livin' 2 Die",
+      "id": null
+    },
+    {
+      "title": "So High",
+      "id": null
+    },
+    {
+      "title": "Murda",
+      "id": null
+    },
+    {
+      "title": "Channel 12 Newz",
+      "id": null
+    },
+    {
+      "title": "Freestyles",
+      "id": null
+    }
+  ]
+}

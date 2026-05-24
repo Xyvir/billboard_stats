@@ -1,1 +1,98 @@
-{"id": "rarities-1971-2003-the-rolling-stones", "title": "Rarities 1971-2003", "artist": "The Rolling Stones", "peak": 76, "history": [{"date": "2005-12-10", "rank": 76}, {"date": "2005-12-17", "rank": 134}, {"date": "2005-12-24", "rank": 195}, {"date": "2006-01-07", "rank": 200}, {"date": "2006-01-21", "rank": 183}, {"date": "2006-01-28", "rank": 182}]}
+{
+  "id": "rarities-1971-2003-the-rolling-stones",
+  "title": "Rarities 1971-2003",
+  "artist": "The Rolling Stones",
+  "peak": 76,
+  "history": [
+    {
+      "date": "2005-12-10",
+      "rank": 76
+    },
+    {
+      "date": "2005-12-17",
+      "rank": 134
+    },
+    {
+      "date": "2005-12-24",
+      "rank": 195
+    },
+    {
+      "date": "2006-01-07",
+      "rank": 200
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 183
+    },
+    {
+      "date": "2006-01-28",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tumbling Dice (live)",
+      "id": "tumbling-dice-the-rolling-stones"
+    },
+    {
+      "title": "Wild Horses (stripped)",
+      "id": "wild-horses-the-rolling-stones"
+    },
+    {
+      "title": "Beast of Burden (live)",
+      "id": "beast-of-burden-the-rolling-stones"
+    },
+    {
+      "title": "Mixed Emotions (12″ version)",
+      "id": "mixed-emotions-the-rolling-stones"
+    },
+    {
+      "title": "Harlem Shuffle (NY mix)",
+      "id": "harlem-shuffle-the-rolling-stones"
+    },
+    {
+      "title": "Fancy Man Blues",
+      "id": null
+    },
+    {
+      "title": "Anyway You Look at It",
+      "id": null
+    },
+    {
+      "title": "If I Was a Dancer (Dance, Part 2)",
+      "id": null
+    },
+    {
+      "title": "Miss You (dance version)",
+      "id": null
+    },
+    {
+      "title": "Wish I’d Never Met You",
+      "id": null
+    },
+    {
+      "title": "I Just Wanna Make Love to You (live)",
+      "id": null
+    },
+    {
+      "title": "Through the Lonely Nights",
+      "id": null
+    },
+    {
+      "title": "Live With Me (live)",
+      "id": null
+    },
+    {
+      "title": "Let It Rock",
+      "id": null
+    },
+    {
+      "title": "Mannish Boy (live)",
+      "id": null
+    },
+    {
+      "title": "Thru and Thru (live)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,98 @@
-{"id": "rank-the-smiths", "title": "Rank", "artist": "The Smiths", "peak": 77, "history": [{"date": "1988-10-01", "rank": 124}, {"date": "1988-10-08", "rank": 77}, {"date": "1988-10-15", "rank": 77}, {"date": "1988-10-22", "rank": 84}, {"date": "1988-10-29", "rank": 106}, {"date": "1988-11-05", "rank": 135}, {"date": "1988-11-12", "rank": 164}, {"date": "1988-11-19", "rank": 163}]}
+{
+  "id": "rank-the-smiths",
+  "title": "Rank",
+  "artist": "The Smiths",
+  "peak": 77,
+  "history": [
+    {
+      "date": "1988-10-01",
+      "rank": 124
+    },
+    {
+      "date": "1988-10-08",
+      "rank": 77
+    },
+    {
+      "date": "1988-10-15",
+      "rank": 77
+    },
+    {
+      "date": "1988-10-22",
+      "rank": 84
+    },
+    {
+      "date": "1988-10-29",
+      "rank": 106
+    },
+    {
+      "date": "1988-11-05",
+      "rank": 135
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 164
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Queen Is Dead",
+      "id": null
+    },
+    {
+      "title": "Panic",
+      "id": null
+    },
+    {
+      "title": "Vicar in a Tutu",
+      "id": null
+    },
+    {
+      "title": "Ask",
+      "id": null
+    },
+    {
+      "title": "Rusholme Ruffians",
+      "id": null
+    },
+    {
+      "title": "The Boy With the Thorn in His Side",
+      "id": null
+    },
+    {
+      "title": "What She Said",
+      "id": null
+    },
+    {
+      "title": "Is It Really So Strange?",
+      "id": null
+    },
+    {
+      "title": "Cemetry Gates",
+      "id": null
+    },
+    {
+      "title": "London",
+      "id": null
+    },
+    {
+      "title": "I Know It’s Over",
+      "id": null
+    },
+    {
+      "title": "The Draize Train",
+      "id": null
+    },
+    {
+      "title": "Still Ill",
+      "id": null
+    },
+    {
+      "title": "Bigmouth Strikes Again",
+      "id": null
+    }
+  ]
+}

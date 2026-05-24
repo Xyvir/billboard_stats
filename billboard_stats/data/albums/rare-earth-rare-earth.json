@@ -1,1 +1,70 @@
-{"id": "rare-earth-rare-earth", "title": "Rare Earth", "artist": "Rare Earth", "peak": 187, "history": [{"date": "1977-10-01", "rank": 194}, {"date": "1977-10-08", "rank": 192}, {"date": "1977-10-15", "rank": 191}, {"date": "1977-10-22", "rank": 190}, {"date": "1977-10-29", "rank": 188}, {"date": "1977-11-05", "rank": 187}]}
+{
+  "id": "rare-earth-rare-earth",
+  "title": "Rare Earth",
+  "artist": "Rare Earth",
+  "peak": 187,
+  "history": [
+    {
+      "date": "1977-10-01",
+      "rank": 194
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 192
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 191
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 190
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 188
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Big Brother",
+      "id": "hey-big-brother-rare-earth"
+    },
+    {
+      "title": "Born to Wander",
+      "id": "born-to-wander-rare-earth"
+    },
+    {
+      "title": "Losin You",
+      "id": "i-know-i-m-losing-you-rare-earth"
+    },
+    {
+      "title": "Get Ready",
+      "id": "get-ready-rare-earth"
+    },
+    {
+      "title": "I Just Want to Celebrate",
+      "id": "i-just-want-to-celebrate-rare-earth"
+    },
+    {
+      "title": "Papa Was a Rolling Stone",
+      "id": null
+    },
+    {
+      "title": "Ma",
+      "id": null
+    },
+    {
+      "title": "Tobacco Road",
+      "id": null
+    },
+    {
+      "title": "Big John",
+      "id": null
+    }
+  ]
+}
