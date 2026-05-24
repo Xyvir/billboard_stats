@@ -1,1 +1,98 @@
-{"id": "smokey-s-family-robinson-smokey-robinson", "title": "Smokey's Family Robinson", "artist": "Smokey Robinson", "peak": 57, "history": [{"date": "1976-03-06", "rank": 150}, {"date": "1976-03-13", "rank": 129}, {"date": "1976-03-20", "rank": 86}, {"date": "1976-03-27", "rank": 76}, {"date": "1976-04-03", "rank": 65}, {"date": "1976-04-10", "rank": 61}, {"date": "1976-04-17", "rank": 59}, {"date": "1976-04-24", "rank": 57}, {"date": "1976-05-01", "rank": 67}, {"date": "1976-05-08", "rank": 65}, {"date": "1976-05-15", "rank": 85}, {"date": "1976-05-22", "rank": 109}, {"date": "1976-05-29", "rank": 154}, {"date": "1976-06-05", "rank": 150}, {"date": "1976-06-12", "rank": 198}]}
+{
+  "id": "smokey-s-family-robinson-smokey-robinson",
+  "title": "Smokey's Family Robinson",
+  "artist": "Smokey Robinson",
+  "peak": 57,
+  "history": [
+    {
+      "date": "1976-03-06",
+      "rank": 150
+    },
+    {
+      "date": "1976-03-13",
+      "rank": 129
+    },
+    {
+      "date": "1976-03-20",
+      "rank": 86
+    },
+    {
+      "date": "1976-03-27",
+      "rank": 76
+    },
+    {
+      "date": "1976-04-03",
+      "rank": 65
+    },
+    {
+      "date": "1976-04-10",
+      "rank": 61
+    },
+    {
+      "date": "1976-04-17",
+      "rank": 59
+    },
+    {
+      "date": "1976-04-24",
+      "rank": 57
+    },
+    {
+      "date": "1976-05-01",
+      "rank": 67
+    },
+    {
+      "date": "1976-05-08",
+      "rank": 65
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 85
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 109
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 154
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 150
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Open",
+      "id": "open-smokey-robinson"
+    },
+    {
+      "title": "So In Love",
+      "id": "old-fashioned-love-smokey-robinson"
+    },
+    {
+      "title": "When You Came",
+      "id": null
+    },
+    {
+      "title": "Get Out Of Town",
+      "id": null
+    },
+    {
+      "title": "Do Like I Do",
+      "id": null
+    },
+    {
+      "title": "Like Nobody Can",
+      "id": null
+    },
+    {
+      "title": "Castles Made Of Sand",
+      "id": null
+    }
+  ]
+}

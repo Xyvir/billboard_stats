@@ -1,1 +1,106 @@
-{"id": "smile-the-beach-boys", "title": "SMiLE", "artist": "The Beach Boys", "peak": 27, "history": [{"date": "2011-11-19", "rank": 27}, {"date": "2011-11-26", "rank": 93}]}
+{
+  "id": "smile-the-beach-boys",
+  "title": "SMiLE",
+  "artist": "The Beach Boys",
+  "peak": 27,
+  "history": [
+    {
+      "date": "2011-11-19",
+      "rank": 27
+    },
+    {
+      "date": "2011-11-26",
+      "rank": 93
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heroes and Villains",
+      "id": "heroes-and-villains-the-beach-boys"
+    },
+    {
+      "title": "Good Vibrations",
+      "id": "good-vibrations-the-beach-boys"
+    },
+    {
+      "title": "Surf's Up",
+      "id": "surfin-u-s-a-the-beach-boys"
+    },
+    {
+      "title": "Our Prayer",
+      "id": null
+    },
+    {
+      "title": "Barnyard",
+      "id": null
+    },
+    {
+      "title": "I'm in Great Shape",
+      "id": null
+    },
+    {
+      "title": "Do You Like Worms",
+      "id": null
+    },
+    {
+      "title": "Child Is Father of the Man",
+      "id": null
+    },
+    {
+      "title": "Look",
+      "id": null
+    },
+    {
+      "title": "Holidays",
+      "id": null
+    },
+    {
+      "title": "The Old Master Painter",
+      "id": null
+    },
+    {
+      "title": "He Gives Speeches",
+      "id": null
+    },
+    {
+      "title": "Wonderful",
+      "id": null
+    },
+    {
+      "title": "I Love to Say Da Da",
+      "id": null
+    },
+    {
+      "title": "Mrs. O'Leary's Cow",
+      "id": null
+    },
+    {
+      "title": "Friday Night",
+      "id": null
+    },
+    {
+      "title": "Reprise",
+      "id": null
+    },
+    {
+      "title": "Vega-Tables",
+      "id": null
+    },
+    {
+      "title": "Wind Chimes",
+      "id": null
+    },
+    {
+      "title": "Cabinessence",
+      "id": null
+    },
+    {
+      "title": "You're Welcome",
+      "id": null
+    },
+    {
+      "title": "George Fell Into His French Horn",
+      "id": null
+    }
+  ]
+}

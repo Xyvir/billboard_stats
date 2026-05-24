@@ -1,1 +1,70 @@
-{"id": "smile-now-die-later-frost", "title": "Smile Now, Die Later", "artist": "Frost", "peak": 119, "history": [{"date": "1995-11-11", "rank": 119}, {"date": "1995-11-18", "rank": 123}, {"date": "1995-11-25", "rank": 177}]}
+{
+  "id": "smile-now-die-later-frost",
+  "title": "Smile Now, Die Later",
+  "artist": "Frost",
+  "peak": 119,
+  "history": [
+    {
+      "date": "1995-11-11",
+      "rank": 119
+    },
+    {
+      "date": "1995-11-18",
+      "rank": 123
+    },
+    {
+      "date": "1995-11-25",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "East Side Rendezvous",
+      "id": "east-side-rendezvous-frost"
+    },
+    {
+      "title": "La Familia",
+      "id": "la-familia-frost"
+    },
+    {
+      "title": "La Raza, Part II",
+      "id": "la-raza-kid-frost"
+    },
+    {
+      "title": "You Ain't Right",
+      "id": null
+    },
+    {
+      "title": "Mari",
+      "id": null
+    },
+    {
+      "title": "Nothing but Love for the Neighbourhood",
+      "id": null
+    },
+    {
+      "title": "Rest in Peace",
+      "id": null
+    },
+    {
+      "title": "Bamseeya",
+      "id": null
+    },
+    {
+      "title": "Look at What I See",
+      "id": null
+    },
+    {
+      "title": "How Many Ways Can You Lose a Body",
+      "id": null
+    },
+    {
+      "title": "Last Days",
+      "id": null
+    },
+    {
+      "title": "Youseemurda",
+      "id": null
+    }
+  ]
+}

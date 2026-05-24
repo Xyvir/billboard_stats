@@ -1,1 +1,90 @@
-{"id": "smokey-friends-smokey-robinson", "title": "Smokey & Friends", "artist": "Smokey Robinson", "peak": 12, "history": [{"date": "2014-09-06", "rank": 12}, {"date": "2014-09-13", "rank": 37}, {"date": "2014-09-20", "rank": 46}, {"date": "2014-09-27", "rank": 83}, {"date": "2014-10-04", "rank": 47}, {"date": "2014-10-11", "rank": 86}, {"date": "2014-10-18", "rank": 86}, {"date": "2014-10-25", "rank": 132}, {"date": "2014-11-01", "rank": 195}]}
+{
+  "id": "smokey-friends-smokey-robinson",
+  "title": "Smokey & Friends",
+  "artist": "Smokey Robinson",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2014-09-06",
+      "rank": 12
+    },
+    {
+      "date": "2014-09-13",
+      "rank": 37
+    },
+    {
+      "date": "2014-09-20",
+      "rank": 46
+    },
+    {
+      "date": "2014-09-27",
+      "rank": 83
+    },
+    {
+      "date": "2014-10-04",
+      "rank": 47
+    },
+    {
+      "date": "2014-10-11",
+      "rank": 86
+    },
+    {
+      "date": "2014-10-18",
+      "rank": 86
+    },
+    {
+      "date": "2014-10-25",
+      "rank": 132
+    },
+    {
+      "date": "2014-11-01",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cruisin’",
+      "id": "cruisin-smokey-robinson"
+    },
+    {
+      "title": "Quiet Storm",
+      "id": "quiet-storm-smokey-robinson"
+    },
+    {
+      "title": "Being With You",
+      "id": "being-with-you-smokey-robinson"
+    },
+    {
+      "title": "The Tracks of My Tears",
+      "id": null
+    },
+    {
+      "title": "You Really Got a Hold on Me",
+      "id": null
+    },
+    {
+      "title": "My Girl",
+      "id": null
+    },
+    {
+      "title": "The Way You Do (the Things You Do)",
+      "id": null
+    },
+    {
+      "title": "Ain’t That Peculiar",
+      "id": null
+    },
+    {
+      "title": "The Tears of a Clown",
+      "id": null
+    },
+    {
+      "title": "Ooh Baby Baby",
+      "id": null
+    },
+    {
+      "title": "Get Ready",
+      "id": null
+    }
+  ]
+}

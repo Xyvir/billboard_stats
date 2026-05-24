@@ -1,1 +1,114 @@
-{"id": "smiler-rod-stewart", "title": "Smiler", "artist": "Rod Stewart", "peak": 13, "history": [{"date": "1974-10-26", "rank": 90}, {"date": "1974-11-02", "rank": 42}, {"date": "1974-11-09", "rank": 34}, {"date": "1974-11-16", "rank": 18}, {"date": "1974-11-23", "rank": 14}, {"date": "1974-11-30", "rank": 13}, {"date": "1974-12-07", "rank": 30}, {"date": "1974-12-14", "rank": 54}, {"date": "1974-12-21", "rank": 63}, {"date": "1974-12-28", "rank": 102}, {"date": "1975-01-04", "rank": 116}, {"date": "1975-01-11", "rank": 122}, {"date": "1975-01-18", "rank": 147}, {"date": "1975-01-25", "rank": 155}]}
+{
+  "id": "smiler-rod-stewart",
+  "title": "Smiler",
+  "artist": "Rod Stewart",
+  "peak": 13,
+  "history": [
+    {
+      "date": "1974-10-26",
+      "rank": 90
+    },
+    {
+      "date": "1974-11-02",
+      "rank": 42
+    },
+    {
+      "date": "1974-11-09",
+      "rank": 34
+    },
+    {
+      "date": "1974-11-16",
+      "rank": 18
+    },
+    {
+      "date": "1974-11-23",
+      "rank": 14
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 13
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 30
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 54
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 63
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 102
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 116
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 122
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 147
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sailor",
+      "id": "sailing-rod-stewart"
+    },
+    {
+      "title": "Mine for Me",
+      "id": "mine-for-me-rod-stewart"
+    },
+    {
+      "title": "Sweet Little Rock ’n’ Roller",
+      "id": null
+    },
+    {
+      "title": "Lochinvar",
+      "id": null
+    },
+    {
+      "title": "Farewell",
+      "id": null
+    },
+    {
+      "title": "Bring It on Home to Me / You Send Me",
+      "id": null
+    },
+    {
+      "title": "Let Me Be Your Car",
+      "id": null
+    },
+    {
+      "title": "(You Make Me Feel Like) A Natural Man",
+      "id": null
+    },
+    {
+      "title": "Dixie Toot",
+      "id": null
+    },
+    {
+      "title": "Hard Road",
+      "id": null
+    },
+    {
+      "title": "I’ve Grown Accustomed to Her Face",
+      "id": null
+    },
+    {
+      "title": "Girl From the North Country",
+      "id": null
+    }
+  ]
+}
