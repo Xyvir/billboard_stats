@@ -1,1 +1,122 @@
-{"id": "rainbow-neil-diamond", "title": "Rainbow", "artist": "Neil Diamond", "peak": 35, "history": [{"date": "1973-09-01", "rank": 169}, {"date": "1973-09-08", "rank": 80}, {"date": "1973-09-15", "rank": 61}, {"date": "1973-09-22", "rank": 49}, {"date": "1973-09-29", "rank": 36}, {"date": "1973-10-06", "rank": 35}, {"date": "1973-10-13", "rank": 35}, {"date": "1973-10-20", "rank": 38}, {"date": "1973-10-27", "rank": 41}, {"date": "1973-11-03", "rank": 47}, {"date": "1973-11-10", "rank": 73}, {"date": "1973-11-17", "rank": 116}, {"date": "1973-11-24", "rank": 123}, {"date": "1973-12-01", "rank": 129}, {"date": "1973-12-08", "rank": 159}, {"date": "1973-12-15", "rank": 166}, {"date": "1973-12-22", "rank": 181}]}
+{
+  "id": "rainbow-neil-diamond",
+  "title": "Rainbow",
+  "artist": "Neil Diamond",
+  "peak": 35,
+  "history": [
+    {
+      "date": "1973-09-01",
+      "rank": 169
+    },
+    {
+      "date": "1973-09-08",
+      "rank": 80
+    },
+    {
+      "date": "1973-09-15",
+      "rank": 61
+    },
+    {
+      "date": "1973-09-22",
+      "rank": 49
+    },
+    {
+      "date": "1973-09-29",
+      "rank": 36
+    },
+    {
+      "date": "1973-10-06",
+      "rank": 35
+    },
+    {
+      "date": "1973-10-13",
+      "rank": 35
+    },
+    {
+      "date": "1973-10-20",
+      "rank": 38
+    },
+    {
+      "date": "1973-10-27",
+      "rank": 41
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 47
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 73
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 116
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 123
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 129
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 159
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 166
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Until It’s Time for You to Go",
+      "id": "until-it-s-time-for-you-to-go-neil-diamond"
+    },
+    {
+      "title": "The Last Thing on My Mind",
+      "id": "the-last-thing-on-my-mind-neil-diamond"
+    },
+    {
+      "title": "He Ain’t Heavy, He’s My Brother",
+      "id": "he-ain-t-heavy-he-s-my-brother-neil-diamond"
+    },
+    {
+      "title": "Everybody’s Talkin’",
+      "id": null
+    },
+    {
+      "title": "Both Sides Now",
+      "id": null
+    },
+    {
+      "title": "Husbands and Wives",
+      "id": null
+    },
+    {
+      "title": "Chelsea Morning",
+      "id": null
+    },
+    {
+      "title": "Suzanne",
+      "id": null
+    },
+    {
+      "title": "Mr. Bojangles",
+      "id": null
+    },
+    {
+      "title": "If You Go Away",
+      "id": null
+    },
+    {
+      "title": "I Think It’s Gonna Rain Today",
+      "id": null
+    }
+  ]
+}

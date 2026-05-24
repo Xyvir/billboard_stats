@@ -1,1 +1,146 @@
-{"id": "radio-one-the-jimi-hendrix-experience", "title": "Radio One", "artist": "The Jimi Hendrix Experience", "peak": 119, "history": [{"date": "1988-12-03", "rank": 193}, {"date": "1988-12-10", "rank": 169}, {"date": "1988-12-17", "rank": 165}, {"date": "1988-12-24", "rank": 146}, {"date": "1988-12-31", "rank": 146}, {"date": "1989-01-07", "rank": 139}, {"date": "1989-01-14", "rank": 137}, {"date": "1989-01-21", "rank": 141}, {"date": "1989-01-28", "rank": 125}, {"date": "1989-02-04", "rank": 119}, {"date": "1989-02-11", "rank": 119}, {"date": "1989-02-18", "rank": 133}, {"date": "1989-02-25", "rank": 132}, {"date": "1989-03-04", "rank": 146}, {"date": "1989-03-11", "rank": 173}, {"date": "1989-03-18", "rank": 197}, {"date": "1989-03-25", "rank": 197}]}
+{
+  "id": "radio-one-the-jimi-hendrix-experience",
+  "title": "Radio One",
+  "artist": "The Jimi Hendrix Experience",
+  "peak": 119,
+  "history": [
+    {
+      "date": "1988-12-03",
+      "rank": 193
+    },
+    {
+      "date": "1988-12-10",
+      "rank": 169
+    },
+    {
+      "date": "1988-12-17",
+      "rank": 165
+    },
+    {
+      "date": "1988-12-24",
+      "rank": 146
+    },
+    {
+      "date": "1988-12-31",
+      "rank": 146
+    },
+    {
+      "date": "1989-01-07",
+      "rank": 139
+    },
+    {
+      "date": "1989-01-14",
+      "rank": 137
+    },
+    {
+      "date": "1989-01-21",
+      "rank": 141
+    },
+    {
+      "date": "1989-01-28",
+      "rank": 125
+    },
+    {
+      "date": "1989-02-04",
+      "rank": 119
+    },
+    {
+      "date": "1989-02-11",
+      "rank": 119
+    },
+    {
+      "date": "1989-02-18",
+      "rank": 133
+    },
+    {
+      "date": "1989-02-25",
+      "rank": 132
+    },
+    {
+      "date": "1989-03-04",
+      "rank": 146
+    },
+    {
+      "date": "1989-03-11",
+      "rank": 173
+    },
+    {
+      "date": "1989-03-18",
+      "rank": 197
+    },
+    {
+      "date": "1989-03-25",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Purple Haze",
+      "id": "purple-haze-the-jimi-hendrix-experience"
+    },
+    {
+      "title": "Stone Free",
+      "id": null
+    },
+    {
+      "title": "Radio One Theme",
+      "id": null
+    },
+    {
+      "title": "Day Tripper",
+      "id": null
+    },
+    {
+      "title": "Killing Floor",
+      "id": null
+    },
+    {
+      "title": "Love or Confusion",
+      "id": null
+    },
+    {
+      "title": "Drivin’ South",
+      "id": null
+    },
+    {
+      "title": "Catfish Blues",
+      "id": null
+    },
+    {
+      "title": "Wait Until Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Hear My Train A Comin’",
+      "id": null
+    },
+    {
+      "title": "Hound Dog",
+      "id": null
+    },
+    {
+      "title": "Fire",
+      "id": null
+    },
+    {
+      "title": "(I’m Your) Hoochie Coochie Man",
+      "id": null
+    },
+    {
+      "title": "Spanish Castle Magic",
+      "id": null
+    },
+    {
+      "title": "Hey Joe",
+      "id": null
+    },
+    {
+      "title": "Foxy Lady",
+      "id": null
+    },
+    {
+      "title": "Burning of the Midnight Lamp",
+      "id": null
+    }
+  ]
+}

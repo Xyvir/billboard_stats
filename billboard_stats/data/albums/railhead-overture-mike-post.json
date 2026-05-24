@@ -1,1 +1,62 @@
-{"id": "railhead-overture-mike-post", "title": "Railhead Overture", "artist": "Mike Post", "peak": 195, "history": [{"date": "1975-11-08", "rank": 200}, {"date": "1975-11-15", "rank": 198}, {"date": "1975-11-22", "rank": 195}]}
+{
+  "id": "railhead-overture-mike-post",
+  "title": "Railhead Overture",
+  "artist": "Mike Post",
+  "peak": 195,
+  "history": [
+    {
+      "date": "1975-11-08",
+      "rank": 200
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 198
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Manhattan Spiritual",
+      "id": "manhattan-spiritual-mike-post"
+    },
+    {
+      "title": "The Rockford Files",
+      "id": "the-rockford-files-mike-post"
+    },
+    {
+      "title": "Railhead Overture",
+      "id": null
+    },
+    {
+      "title": "Georgia On My Mind",
+      "id": null
+    },
+    {
+      "title": "Wouldn't It Be Nice",
+      "id": null
+    },
+    {
+      "title": "Pictures At An Exhibition",
+      "id": null
+    },
+    {
+      "title": "Will The Circle Be Unbroken",
+      "id": null
+    },
+    {
+      "title": "Blade",
+      "id": null
+    },
+    {
+      "title": "Lay Back Lafayette",
+      "id": null
+    },
+    {
+      "title": "The Viking",
+      "id": null
+    }
+  ]
+}
