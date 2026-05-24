@@ -1,1 +1,50 @@
-{"id": "the-good-earth-manfred-mann", "title": "The Good Earth", "artist": "Manfred Mann", "peak": 157, "history": [{"date": "1974-11-30", "rank": 167}, {"date": "1974-12-07", "rank": 157}, {"date": "1974-12-14", "rank": 157}]}
+{
+  "id": "the-good-earth-manfred-mann",
+  "title": "The Good Earth",
+  "artist": "Manfred Mann",
+  "peak": 157,
+  "history": [
+    {
+      "date": "1974-11-30",
+      "rank": 167
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 157
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 157
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Give Me the Good Earth",
+      "id": null
+    },
+    {
+      "title": "Launching Place",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Gone",
+      "id": null
+    },
+    {
+      "title": "Earth Hymn",
+      "id": null
+    },
+    {
+      "title": "Sky High",
+      "id": null
+    },
+    {
+      "title": "Be Not Too Hard",
+      "id": null
+    },
+    {
+      "title": "Earth Hymn, Part 2",
+      "id": null
+    }
+  ]
+}

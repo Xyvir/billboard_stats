@@ -1,1 +1,78 @@
-{"id": "the-golden-child-yk-osiris", "title": "The Golden Child", "artist": "YK Osiris", "peak": 90, "history": [{"date": "2019-10-26", "rank": 90}, {"date": "2019-11-02", "rank": 188}]}
+{
+  "id": "the-golden-child-yk-osiris",
+  "title": "The Golden Child",
+  "artist": "YK Osiris",
+  "peak": 90,
+  "history": [
+    {
+      "date": "2019-10-26",
+      "rank": 90
+    },
+    {
+      "date": "2019-11-02",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Worth It (remix)",
+      "id": "worth-it-yk-osiris"
+    },
+    {
+      "title": "Worth It",
+      "id": "worth-it-yk-osiris"
+    },
+    {
+      "title": "Shakira",
+      "id": null
+    },
+    {
+      "title": "Fake No Mo",
+      "id": null
+    },
+    {
+      "title": "Sexual",
+      "id": null
+    },
+    {
+      "title": "Ride",
+      "id": null
+    },
+    {
+      "title": "Mind Games",
+      "id": null
+    },
+    {
+      "title": "Change",
+      "id": null
+    },
+    {
+      "title": "Make Lovelude",
+      "id": null
+    },
+    {
+      "title": "Make Love",
+      "id": null
+    },
+    {
+      "title": "Exotic",
+      "id": null
+    },
+    {
+      "title": "Closer",
+      "id": null
+    },
+    {
+      "title": "Ballin",
+      "id": null
+    },
+    {
+      "title": "Everything You Do",
+      "id": null
+    },
+    {
+      "title": "Valentine",
+      "id": null
+    }
+  ]
+}

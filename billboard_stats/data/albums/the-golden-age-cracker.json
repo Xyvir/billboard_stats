@@ -1,1 +1,82 @@
-{"id": "the-golden-age-cracker", "title": "The Golden Age", "artist": "Cracker", "peak": 63, "history": [{"date": "1996-04-20", "rank": 63}, {"date": "1996-04-27", "rank": 83}, {"date": "1996-05-04", "rank": 98}, {"date": "1996-05-11", "rank": 102}, {"date": "1996-05-18", "rank": 133}, {"date": "1996-05-25", "rank": 177}]}
+{
+  "id": "the-golden-age-cracker",
+  "title": "The Golden Age",
+  "artist": "Cracker",
+  "peak": 63,
+  "history": [
+    {
+      "date": "1996-04-20",
+      "rank": 63
+    },
+    {
+      "date": "1996-04-27",
+      "rank": 83
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 98
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 102
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 133
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Hate My Generation",
+      "id": null
+    },
+    {
+      "title": "I’m a Little Rocket Ship",
+      "id": null
+    },
+    {
+      "title": "Big Dipper",
+      "id": null
+    },
+    {
+      "title": "Nothing to Believe In",
+      "id": null
+    },
+    {
+      "title": "The Golden Age",
+      "id": null
+    },
+    {
+      "title": "100 Flower Power Maximum",
+      "id": null
+    },
+    {
+      "title": "Dixie Babylon",
+      "id": null
+    },
+    {
+      "title": "I Can’t Forget You",
+      "id": null
+    },
+    {
+      "title": "Sweet Thistle Pie",
+      "id": null
+    },
+    {
+      "title": "Useless Stuff",
+      "id": null
+    },
+    {
+      "title": "How Can I Live Without You",
+      "id": null
+    },
+    {
+      "title": "Bicycle Spaniard",
+      "id": null
+    }
+  ]
+}

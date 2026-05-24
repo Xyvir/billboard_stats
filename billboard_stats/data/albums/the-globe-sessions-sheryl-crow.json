@@ -1,1 +1,274 @@
-{"id": "the-globe-sessions-sheryl-crow", "title": "The Globe Sessions", "artist": "Sheryl Crow", "peak": 5, "history": [{"date": "1998-10-17", "rank": 5}, {"date": "1998-10-24", "rank": 6}, {"date": "1998-10-31", "rank": 6}, {"date": "1998-11-07", "rank": 8}, {"date": "1998-11-14", "rank": 15}, {"date": "1998-11-21", "rank": 17}, {"date": "1998-11-28", "rank": 22}, {"date": "1998-12-05", "rank": 33}, {"date": "1998-12-12", "rank": 40}, {"date": "1998-12-19", "rank": 41}, {"date": "1998-12-26", "rank": 42}, {"date": "1999-01-02", "rank": 44}, {"date": "1999-01-09", "rank": 46}, {"date": "1999-01-16", "rank": 61}, {"date": "1999-01-23", "rank": 56}, {"date": "1999-01-30", "rank": 69}, {"date": "1999-02-06", "rank": 72}, {"date": "1999-02-13", "rank": 71}, {"date": "1999-02-20", "rank": 72}, {"date": "1999-02-27", "rank": 72}, {"date": "1999-03-06", "rank": 71}, {"date": "1999-03-13", "rank": 39}, {"date": "1999-03-20", "rank": 46}, {"date": "1999-03-27", "rank": 57}, {"date": "1999-04-03", "rank": 70}, {"date": "1999-04-10", "rank": 79}, {"date": "1999-04-17", "rank": 79}, {"date": "1999-04-24", "rank": 84}, {"date": "1999-05-01", "rank": 78}, {"date": "1999-05-08", "rank": 76}, {"date": "1999-05-15", "rank": 78}, {"date": "1999-05-22", "rank": 79}, {"date": "1999-05-29", "rank": 89}, {"date": "1999-06-05", "rank": 101}, {"date": "1999-06-12", "rank": 108}, {"date": "1999-06-19", "rank": 120}, {"date": "1999-06-26", "rank": 130}, {"date": "1999-07-03", "rank": 138}, {"date": "1999-07-10", "rank": 161}, {"date": "1999-07-17", "rank": 169}, {"date": "1999-07-24", "rank": 160}, {"date": "1999-07-31", "rank": 151}, {"date": "1999-08-07", "rank": 124}, {"date": "1999-08-14", "rank": 118}, {"date": "1999-08-21", "rank": 109}, {"date": "1999-08-28", "rank": 118}, {"date": "1999-09-04", "rank": 132}, {"date": "1999-09-11", "rank": 149}, {"date": "1999-09-18", "rank": 166}, {"date": "1999-09-25", "rank": 150}, {"date": "1999-10-02", "rank": 138}, {"date": "1999-10-09", "rank": 172}, {"date": "1999-10-23", "rank": 199}]}
+{
+  "id": "the-globe-sessions-sheryl-crow",
+  "title": "The Globe Sessions",
+  "artist": "Sheryl Crow",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1998-10-17",
+      "rank": 5
+    },
+    {
+      "date": "1998-10-24",
+      "rank": 6
+    },
+    {
+      "date": "1998-10-31",
+      "rank": 6
+    },
+    {
+      "date": "1998-11-07",
+      "rank": 8
+    },
+    {
+      "date": "1998-11-14",
+      "rank": 15
+    },
+    {
+      "date": "1998-11-21",
+      "rank": 17
+    },
+    {
+      "date": "1998-11-28",
+      "rank": 22
+    },
+    {
+      "date": "1998-12-05",
+      "rank": 33
+    },
+    {
+      "date": "1998-12-12",
+      "rank": 40
+    },
+    {
+      "date": "1998-12-19",
+      "rank": 41
+    },
+    {
+      "date": "1998-12-26",
+      "rank": 42
+    },
+    {
+      "date": "1999-01-02",
+      "rank": 44
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 46
+    },
+    {
+      "date": "1999-01-16",
+      "rank": 61
+    },
+    {
+      "date": "1999-01-23",
+      "rank": 56
+    },
+    {
+      "date": "1999-01-30",
+      "rank": 69
+    },
+    {
+      "date": "1999-02-06",
+      "rank": 72
+    },
+    {
+      "date": "1999-02-13",
+      "rank": 71
+    },
+    {
+      "date": "1999-02-20",
+      "rank": 72
+    },
+    {
+      "date": "1999-02-27",
+      "rank": 72
+    },
+    {
+      "date": "1999-03-06",
+      "rank": 71
+    },
+    {
+      "date": "1999-03-13",
+      "rank": 39
+    },
+    {
+      "date": "1999-03-20",
+      "rank": 46
+    },
+    {
+      "date": "1999-03-27",
+      "rank": 57
+    },
+    {
+      "date": "1999-04-03",
+      "rank": 70
+    },
+    {
+      "date": "1999-04-10",
+      "rank": 79
+    },
+    {
+      "date": "1999-04-17",
+      "rank": 79
+    },
+    {
+      "date": "1999-04-24",
+      "rank": 84
+    },
+    {
+      "date": "1999-05-01",
+      "rank": 78
+    },
+    {
+      "date": "1999-05-08",
+      "rank": 76
+    },
+    {
+      "date": "1999-05-15",
+      "rank": 78
+    },
+    {
+      "date": "1999-05-22",
+      "rank": 79
+    },
+    {
+      "date": "1999-05-29",
+      "rank": 89
+    },
+    {
+      "date": "1999-06-05",
+      "rank": 101
+    },
+    {
+      "date": "1999-06-12",
+      "rank": 108
+    },
+    {
+      "date": "1999-06-19",
+      "rank": 120
+    },
+    {
+      "date": "1999-06-26",
+      "rank": 130
+    },
+    {
+      "date": "1999-07-03",
+      "rank": 138
+    },
+    {
+      "date": "1999-07-10",
+      "rank": 161
+    },
+    {
+      "date": "1999-07-17",
+      "rank": 169
+    },
+    {
+      "date": "1999-07-24",
+      "rank": 160
+    },
+    {
+      "date": "1999-07-31",
+      "rank": 151
+    },
+    {
+      "date": "1999-08-07",
+      "rank": 124
+    },
+    {
+      "date": "1999-08-14",
+      "rank": 118
+    },
+    {
+      "date": "1999-08-21",
+      "rank": 109
+    },
+    {
+      "date": "1999-08-28",
+      "rank": 118
+    },
+    {
+      "date": "1999-09-04",
+      "rank": 132
+    },
+    {
+      "date": "1999-09-11",
+      "rank": 149
+    },
+    {
+      "date": "1999-09-18",
+      "rank": 166
+    },
+    {
+      "date": "1999-09-25",
+      "rank": 150
+    },
+    {
+      "date": "1999-10-02",
+      "rank": 138
+    },
+    {
+      "date": "1999-10-09",
+      "rank": 172
+    },
+    {
+      "date": "1999-10-23",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Favorite Mistake",
+      "id": "my-favorite-mistake-sheryl-crow"
+    },
+    {
+      "title": "Anything but Down",
+      "id": "anything-but-down-sheryl-crow"
+    },
+    {
+      "title": "There Goes the Neighborhood",
+      "id": null
+    },
+    {
+      "title": "Riverwide",
+      "id": null
+    },
+    {
+      "title": "It Don’t Hurt",
+      "id": null
+    },
+    {
+      "title": "Maybe That’s Something",
+      "id": null
+    },
+    {
+      "title": "Am I Getting Through (Part I & II)",
+      "id": null
+    },
+    {
+      "title": "The Difficult Kind",
+      "id": null
+    },
+    {
+      "title": "Mississippi",
+      "id": null
+    },
+    {
+      "title": "Members Only",
+      "id": null
+    },
+    {
+      "title": "Crash and Burn / Subway Ride",
+      "id": null
+    },
+    {
+      "title": "Resuscitation",
+      "id": null
+    },
+    {
+      "title": "Sweet Child o’ Mine",
+      "id": null
+    }
+  ]
+}

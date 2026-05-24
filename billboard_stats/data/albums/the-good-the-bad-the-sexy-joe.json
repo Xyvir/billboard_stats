@@ -1,1 +1,74 @@
-{"id": "the-good-the-bad-the-sexy-joe", "title": "The Good, The Bad, The Sexy", "artist": "Joe", "peak": 8, "history": [{"date": "2011-11-05", "rank": 8}, {"date": "2011-11-12", "rank": 35}, {"date": "2011-11-19", "rank": 65}, {"date": "2011-11-26", "rank": 112}, {"date": "2011-12-03", "rank": 170}]}
+{
+  "id": "the-good-the-bad-the-sexy-joe",
+  "title": "The Good, The Bad, The Sexy",
+  "artist": "Joe",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2011-11-05",
+      "rank": 8
+    },
+    {
+      "date": "2011-11-12",
+      "rank": 35
+    },
+    {
+      "date": "2011-11-19",
+      "rank": 65
+    },
+    {
+      "date": "2011-11-26",
+      "rank": 112
+    },
+    {
+      "date": "2011-12-03",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Losing",
+      "id": null
+    },
+    {
+      "title": "Time of Your Life",
+      "id": null
+    },
+    {
+      "title": "Almost There",
+      "id": null
+    },
+    {
+      "title": "Circles",
+      "id": null
+    },
+    {
+      "title": "Pull My Hair",
+      "id": null
+    },
+    {
+      "title": "Dear Joe",
+      "id": null
+    },
+    {
+      "title": "Slow Kisses",
+      "id": null
+    },
+    {
+      "title": "Lose Control",
+      "id": null
+    },
+    {
+      "title": "Tonight",
+      "id": null
+    },
+    {
+      "title": "Impossible",
+      "id": null
+    },
+    {
+      "title": "Drink Up",
+      "id": null
+    }
+  ]
+}
