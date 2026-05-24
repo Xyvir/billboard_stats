@@ -1,1 +1,70 @@
-{"id": "silver-age-bob-mould", "title": "Silver Age", "artist": "Bob Mould", "peak": 52, "history": [{"date": "2012-09-22", "rank": 52}, {"date": "2012-09-29", "rank": 123}]}
+{
+  "id": "silver-age-bob-mould",
+  "title": "Silver Age",
+  "artist": "Bob Mould",
+  "peak": 52,
+  "history": [
+    {
+      "date": "2012-09-22",
+      "rank": 52
+    },
+    {
+      "date": "2012-09-29",
+      "rank": 123
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Star Machine",
+      "id": null
+    },
+    {
+      "title": "Silver Age",
+      "id": null
+    },
+    {
+      "title": "The Descent",
+      "id": null
+    },
+    {
+      "title": "Briefest Moment",
+      "id": null
+    },
+    {
+      "title": "Steam of Hercules",
+      "id": null
+    },
+    {
+      "title": "Fugue State",
+      "id": null
+    },
+    {
+      "title": "Round the City Square",
+      "id": null
+    },
+    {
+      "title": "Angels Rearrange",
+      "id": null
+    },
+    {
+      "title": "Keep Believing",
+      "id": null
+    },
+    {
+      "title": "First Time Joy",
+      "id": null
+    },
+    {
+      "title": "If I Can't Change Your Mind (live)",
+      "id": null
+    },
+    {
+      "title": "Makes No Sense at All (live)",
+      "id": null
+    },
+    {
+      "title": "Hoover Dam (live)",
+      "id": null
+    }
+  ]
+}

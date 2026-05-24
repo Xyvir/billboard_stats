@@ -1,1 +1,58 @@
-{"id": "simple-math-manchester-orchestra", "title": "Simple Math", "artist": "Manchester Orchestra", "peak": 21, "history": [{"date": "2011-05-28", "rank": 21}, {"date": "2011-06-04", "rank": 100}]}
+{
+  "id": "simple-math-manchester-orchestra",
+  "title": "Simple Math",
+  "artist": "Manchester Orchestra",
+  "peak": 21,
+  "history": [
+    {
+      "date": "2011-05-28",
+      "rank": 21
+    },
+    {
+      "date": "2011-06-04",
+      "rank": 100
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Deer",
+      "id": null
+    },
+    {
+      "title": "Mighty",
+      "id": null
+    },
+    {
+      "title": "Pensacola",
+      "id": null
+    },
+    {
+      "title": "April Fool",
+      "id": null
+    },
+    {
+      "title": "Pale Black Eye",
+      "id": null
+    },
+    {
+      "title": "Virgin",
+      "id": null
+    },
+    {
+      "title": "Simple Math",
+      "id": null
+    },
+    {
+      "title": "Leave It Alone",
+      "id": null
+    },
+    {
+      "title": "Apprehension",
+      "id": null
+    },
+    {
+      "title": "Leaky Breaks",
+      "id": null
+    }
+  ]
+}

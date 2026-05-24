@@ -1,1 +1,74 @@
-{"id": "simple-things-amy-grant", "title": "Simple Things", "artist": "Amy Grant", "peak": 23, "history": [{"date": "2003-09-06", "rank": 23}, {"date": "2003-09-13", "rank": 57}, {"date": "2003-09-20", "rank": 74}, {"date": "2003-09-27", "rank": 95}, {"date": "2003-10-04", "rank": 140}, {"date": "2003-10-11", "rank": 181}]}
+{
+  "id": "simple-things-amy-grant",
+  "title": "Simple Things",
+  "artist": "Amy Grant",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2003-09-06",
+      "rank": 23
+    },
+    {
+      "date": "2003-09-13",
+      "rank": 57
+    },
+    {
+      "date": "2003-09-20",
+      "rank": 74
+    },
+    {
+      "date": "2003-09-27",
+      "rank": 95
+    },
+    {
+      "date": "2003-10-04",
+      "rank": 140
+    },
+    {
+      "date": "2003-10-11",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Happy",
+      "id": null
+    },
+    {
+      "title": "Eye to Eye",
+      "id": null
+    },
+    {
+      "title": "Simple Things",
+      "id": null
+    },
+    {
+      "title": "Beautiful",
+      "id": null
+    },
+    {
+      "title": "Out in the Open",
+      "id": null
+    },
+    {
+      "title": "I Don't Know Why",
+      "id": null
+    },
+    {
+      "title": "Looking for You",
+      "id": null
+    },
+    {
+      "title": "Touch",
+      "id": null
+    },
+    {
+      "title": "Innocence Lost",
+      "id": null
+    },
+    {
+      "title": "After the Fire",
+      "id": null
+    }
+  ]
+}

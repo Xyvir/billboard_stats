@@ -1,1 +1,54 @@
-{"id": "simple-forms-the-naked-and-famous", "title": "Simple Forms", "artist": "The Naked and Famous", "peak": 110, "history": [{"date": "2016-11-05", "rank": 110}]}
+{
+  "id": "simple-forms-the-naked-and-famous",
+  "title": "Simple Forms",
+  "artist": "The Naked and Famous",
+  "peak": 110,
+  "history": [
+    {
+      "date": "2016-11-05",
+      "rank": 110
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Higher",
+      "id": null
+    },
+    {
+      "title": "The Water Beneath You",
+      "id": null
+    },
+    {
+      "title": "My Energy",
+      "id": null
+    },
+    {
+      "title": "Last Forever",
+      "id": null
+    },
+    {
+      "title": "Losing Our Control",
+      "id": null
+    },
+    {
+      "title": "Backslide",
+      "id": null
+    },
+    {
+      "title": "Laid Low",
+      "id": null
+    },
+    {
+      "title": "The Runners",
+      "id": null
+    },
+    {
+      "title": "Falling",
+      "id": null
+    },
+    {
+      "title": "Rotten",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"id": "silver-silver", "title": "Silver", "artist": "Silver", "peak": 142, "history": [{"date": "1976-09-25", "rank": 188}, {"date": "1976-10-02", "rank": 174}, {"date": "1976-10-09", "rank": 145}, {"date": "1976-10-16", "rank": 145}, {"date": "1976-10-23", "rank": 142}, {"date": "1976-10-30", "rank": 182}]}
+{
+  "id": "silver-silver",
+  "title": "Silver",
+  "artist": "Silver",
+  "peak": 142,
+  "history": [
+    {
+      "date": "1976-09-25",
+      "rank": 188
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 174
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 145
+    },
+    {
+      "date": "1976-10-16",
+      "rank": 145
+    },
+    {
+      "date": "1976-10-23",
+      "rank": 142
+    },
+    {
+      "date": "1976-10-30",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wham Bam Shang‐A‐Lang",
+      "id": "wham-bam-shang-a-lang-silver"
+    },
+    {
+      "title": "Musician (It’s Not an Easy Life)",
+      "id": null
+    },
+    {
+      "title": "All I Wanna Do",
+      "id": null
+    },
+    {
+      "title": "Memory",
+      "id": null
+    },
+    {
+      "title": "No Wonder",
+      "id": null
+    },
+    {
+      "title": "Trust in Somebody",
+      "id": null
+    },
+    {
+      "title": "It’s Gonna Be Alright",
+      "id": null
+    },
+    {
+      "title": "Climbing",
+      "id": null
+    },
+    {
+      "title": "Right on Time",
+      "id": null
+    },
+    {
+      "title": "Goodbye, So Long",
+      "id": null
+    }
+  ]
+}
