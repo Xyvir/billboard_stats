@@ -1,1 +1,110 @@
-{"id": "stone-cold-classics-queen", "title": "Stone Cold Classics", "artist": "Queen", "peak": 45, "history": [{"date": "2006-04-29", "rank": 45}, {"date": "2006-05-06", "rank": 70}, {"date": "2006-05-13", "rank": 93}, {"date": "2006-05-20", "rank": 111}, {"date": "2006-05-27", "rank": 132}, {"date": "2006-06-03", "rank": 144}, {"date": "2006-06-10", "rank": 146}, {"date": "2006-06-17", "rank": 123}, {"date": "2006-06-24", "rank": 161}, {"date": "2006-07-01", "rank": 173}, {"date": "2006-07-08", "rank": 192}]}
+{
+  "id": "stone-cold-classics-queen",
+  "title": "Stone Cold Classics",
+  "artist": "Queen",
+  "peak": 45,
+  "history": [
+    {
+      "date": "2006-04-29",
+      "rank": 45
+    },
+    {
+      "date": "2006-05-06",
+      "rank": 70
+    },
+    {
+      "date": "2006-05-13",
+      "rank": 93
+    },
+    {
+      "date": "2006-05-20",
+      "rank": 111
+    },
+    {
+      "date": "2006-05-27",
+      "rank": 132
+    },
+    {
+      "date": "2006-06-03",
+      "rank": 144
+    },
+    {
+      "date": "2006-06-10",
+      "rank": 146
+    },
+    {
+      "date": "2006-06-17",
+      "rank": 123
+    },
+    {
+      "date": "2006-06-24",
+      "rank": 161
+    },
+    {
+      "date": "2006-07-01",
+      "rank": 173
+    },
+    {
+      "date": "2006-07-08",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tie Your Mother Down",
+      "id": "tie-your-mother-down-queen"
+    },
+    {
+      "title": "Fat Bottomed Girls",
+      "id": "bicycle-race-fat-bottomed-girls-queen"
+    },
+    {
+      "title": "Another One Bites the Dust",
+      "id": "another-one-bites-the-dust-queen"
+    },
+    {
+      "title": "Crazy Little Thing Called Love",
+      "id": "crazy-little-thing-called-love-queen"
+    },
+    {
+      "title": "We Are the Champions",
+      "id": "we-are-the-champions-queen"
+    },
+    {
+      "title": "Radio Ga Ga",
+      "id": "radio-ga-ga-queen"
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "id": "bohemian-rhapsody-queen"
+    },
+    {
+      "title": "I Want It All",
+      "id": "i-want-it-all-queen"
+    },
+    {
+      "title": "Stone Cold Crazy",
+      "id": null
+    },
+    {
+      "title": "We Will Rock You",
+      "id": null
+    },
+    {
+      "title": "The Show Must Go On",
+      "id": null
+    },
+    {
+      "title": "These Are the Days of Our Lives",
+      "id": null
+    },
+    {
+      "title": "All Right Now",
+      "id": null
+    },
+    {
+      "title": "Feel Like Makin’ Love",
+      "id": null
+    }
+  ]
+}

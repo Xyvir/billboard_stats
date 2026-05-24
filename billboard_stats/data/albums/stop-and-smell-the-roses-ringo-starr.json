@@ -1,1 +1,98 @@
-{"id": "stop-and-smell-the-roses-ringo-starr", "title": "Stop And Smell The Roses", "artist": "Ringo Starr", "peak": 98, "history": [{"date": "1981-11-14", "rank": 150}, {"date": "1981-11-21", "rank": 121}, {"date": "1981-11-28", "rank": 112}, {"date": "1981-12-05", "rank": 100}, {"date": "1981-12-12", "rank": 98}, {"date": "1981-12-19", "rank": 111}, {"date": "1981-12-26", "rank": 111}, {"date": "1982-01-02", "rank": 111}, {"date": "1982-01-09", "rank": 124}, {"date": "1982-01-16", "rank": 129}, {"date": "1982-01-23", "rank": 131}, {"date": "1982-01-30", "rank": 184}]}
+{
+  "id": "stop-and-smell-the-roses-ringo-starr",
+  "title": "Stop And Smell The Roses",
+  "artist": "Ringo Starr",
+  "peak": 98,
+  "history": [
+    {
+      "date": "1981-11-14",
+      "rank": 150
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 121
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 112
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 100
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 98
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 111
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 111
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 111
+    },
+    {
+      "date": "1982-01-09",
+      "rank": 124
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 129
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 131
+    },
+    {
+      "date": "1982-01-30",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wrack My Brain",
+      "id": "wrack-my-brain-ringo-starr"
+    },
+    {
+      "title": "Back Off Boogaloo",
+      "id": "back-off-boogaloo-ringo-starr"
+    },
+    {
+      "title": "Private Property",
+      "id": null
+    },
+    {
+      "title": "Drumming Is My Madness",
+      "id": null
+    },
+    {
+      "title": "Attention",
+      "id": null
+    },
+    {
+      "title": "Stop and Take the Time to Smell the Roses",
+      "id": null
+    },
+    {
+      "title": "Dead Giveaway",
+      "id": null
+    },
+    {
+      "title": "You Belong to Me",
+      "id": null
+    },
+    {
+      "title": "Sure to Fall",
+      "id": null
+    },
+    {
+      "title": "You’ve Got a Nice Way",
+      "id": null
+    }
+  ]
+}

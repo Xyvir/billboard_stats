@@ -1,1 +1,78 @@
-{"id": "stoneheart-brick", "title": "Stoneheart", "artist": "Brick", "peak": 100, "history": [{"date": "1979-05-19", "rank": 130}, {"date": "1979-05-26", "rank": 118}, {"date": "1979-06-02", "rank": 110}, {"date": "1979-06-09", "rank": 101}, {"date": "1979-06-16", "rank": 100}, {"date": "1979-06-23", "rank": 129}, {"date": "1979-06-30", "rank": 150}, {"date": "1979-07-07", "rank": 187}]}
+{
+  "id": "stoneheart-brick",
+  "title": "Stoneheart",
+  "artist": "Brick",
+  "peak": 100,
+  "history": [
+    {
+      "date": "1979-05-19",
+      "rank": 130
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 118
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 110
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 101
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 100
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 129
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 150
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Brick Intro",
+      "id": null
+    },
+    {
+      "title": "Stoneheart",
+      "id": null
+    },
+    {
+      "title": "By the Moonlight",
+      "id": null
+    },
+    {
+      "title": "Magic Woman",
+      "id": null
+    },
+    {
+      "title": "Life Is What You Make It",
+      "id": null
+    },
+    {
+      "title": "Raise Your Hands",
+      "id": null
+    },
+    {
+      "title": "We’ll Love",
+      "id": null
+    },
+    {
+      "title": "Dancin’ Man",
+      "id": null
+    },
+    {
+      "title": "To Me",
+      "id": null
+    }
+  ]
+}

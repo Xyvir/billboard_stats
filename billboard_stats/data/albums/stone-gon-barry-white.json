@@ -1,1 +1,178 @@
-{"id": "stone-gon-barry-white", "title": "Stone Gon'", "artist": "Barry White", "peak": 20, "history": [{"date": "1973-11-17", "rank": 121}, {"date": "1973-11-24", "rank": 83}, {"date": "1973-12-01", "rank": 42}, {"date": "1973-12-08", "rank": 32}, {"date": "1973-12-15", "rank": 28}, {"date": "1973-12-22", "rank": 24}, {"date": "1973-12-29", "rank": 22}, {"date": "1974-01-05", "rank": 25}, {"date": "1974-01-12", "rank": 27}, {"date": "1974-01-19", "rank": 25}, {"date": "1974-01-26", "rank": 23}, {"date": "1974-02-02", "rank": 21}, {"date": "1974-02-09", "rank": 20}, {"date": "1974-02-16", "rank": 22}, {"date": "1974-02-23", "rank": 23}, {"date": "1974-03-02", "rank": 25}, {"date": "1974-03-09", "rank": 26}, {"date": "1974-03-16", "rank": 26}, {"date": "1974-03-23", "rank": 36}, {"date": "1974-03-30", "rank": 49}, {"date": "1974-04-06", "rank": 54}, {"date": "1974-04-13", "rank": 48}, {"date": "1974-04-20", "rank": 44}, {"date": "1974-04-27", "rank": 48}, {"date": "1974-05-04", "rank": 58}, {"date": "1974-05-11", "rank": 62}, {"date": "1974-05-18", "rank": 74}, {"date": "1974-05-25", "rank": 88}, {"date": "1974-06-01", "rank": 93}, {"date": "1974-06-08", "rank": 99}, {"date": "1974-06-15", "rank": 124}, {"date": "1974-06-22", "rank": 128}, {"date": "1974-06-29", "rank": 166}, {"date": "1974-07-06", "rank": 159}, {"date": "1974-07-13", "rank": 170}, {"date": "1974-07-20", "rank": 177}, {"date": "1974-07-27", "rank": 195}]}
+{
+  "id": "stone-gon-barry-white",
+  "title": "Stone Gon'",
+  "artist": "Barry White",
+  "peak": 20,
+  "history": [
+    {
+      "date": "1973-11-17",
+      "rank": 121
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 83
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 42
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 32
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 28
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 24
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 22
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 25
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 27
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 25
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 23
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 21
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 20
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 22
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 23
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 25
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 26
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 26
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 36
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 49
+    },
+    {
+      "date": "1974-04-06",
+      "rank": 54
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 48
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 44
+    },
+    {
+      "date": "1974-04-27",
+      "rank": 48
+    },
+    {
+      "date": "1974-05-04",
+      "rank": 58
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 62
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 74
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 88
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 93
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 99
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 124
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 128
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 166
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 159
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 170
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 177
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Honey Please, Can’t Ya See",
+      "id": "honey-please-can-t-ya-see-barry-white"
+    },
+    {
+      "title": "Never Never Gonna Give Ya Up",
+      "id": "never-never-gonna-give-ya-up-barry-white"
+    },
+    {
+      "title": "Girl It’s True, Yes I’ll Always Love You",
+      "id": null
+    },
+    {
+      "title": "You’re My Baby",
+      "id": null
+    },
+    {
+      "title": "Hard to Believe That I Found You",
+      "id": null
+    }
+  ]
+}

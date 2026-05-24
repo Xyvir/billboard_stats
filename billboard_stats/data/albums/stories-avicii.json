@@ -1,1 +1,86 @@
-{"id": "stories-avicii", "title": "Stories", "artist": "Avicii", "peak": 17, "history": [{"date": "2015-10-24", "rank": 17}, {"date": "2015-10-31", "rank": 73}, {"date": "2015-11-07", "rank": 135}, {"date": "2015-11-14", "rank": 186}, {"date": "2018-05-05", "rank": 73}]}
+{
+  "id": "stories-avicii",
+  "title": "Stories",
+  "artist": "Avicii",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2015-10-24",
+      "rank": 17
+    },
+    {
+      "date": "2015-10-31",
+      "rank": 73
+    },
+    {
+      "date": "2015-11-07",
+      "rank": 135
+    },
+    {
+      "date": "2015-11-14",
+      "rank": 186
+    },
+    {
+      "date": "2018-05-05",
+      "rank": 73
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ten More Days",
+      "id": "the-days-avicii"
+    },
+    {
+      "title": "Waiting for Love",
+      "id": null
+    },
+    {
+      "title": "Talk to Myself",
+      "id": null
+    },
+    {
+      "title": "Touch Me",
+      "id": null
+    },
+    {
+      "title": "For a Better Day",
+      "id": null
+    },
+    {
+      "title": "Broken Arrows",
+      "id": null
+    },
+    {
+      "title": "True Believer",
+      "id": null
+    },
+    {
+      "title": "City Lights",
+      "id": null
+    },
+    {
+      "title": "Pure Grinding",
+      "id": null
+    },
+    {
+      "title": "Sunset Jesus",
+      "id": null
+    },
+    {
+      "title": "Can’t Catch Me",
+      "id": null
+    },
+    {
+      "title": "Somewhere in Stockholm",
+      "id": null
+    },
+    {
+      "title": "Trouble",
+      "id": null
+    },
+    {
+      "title": "Gonna Love Ya",
+      "id": null
+    }
+  ]
+}
