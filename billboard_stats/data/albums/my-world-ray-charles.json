@@ -1,1 +1,82 @@
-{"id": "my-world-ray-charles", "title": "My World", "artist": "Ray Charles", "peak": 145, "history": [{"date": "1993-05-15", "rank": 186}, {"date": "1993-05-22", "rank": 166}, {"date": "1993-05-29", "rank": 178}, {"date": "1993-06-05", "rank": 184}, {"date": "1993-06-12", "rank": 190}, {"date": "1993-06-19", "rank": 145}, {"date": "1993-06-26", "rank": 160}, {"date": "1993-07-03", "rank": 164}]}
+{
+  "id": "my-world-ray-charles",
+  "title": "My World",
+  "artist": "Ray Charles",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1993-05-15",
+      "rank": 186
+    },
+    {
+      "date": "1993-05-22",
+      "rank": 166
+    },
+    {
+      "date": "1993-05-29",
+      "rank": 178
+    },
+    {
+      "date": "1993-06-05",
+      "rank": 184
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 190
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 145
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 160
+    },
+    {
+      "date": "1993-07-03",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let Me Take Over",
+      "id": "let-me-love-you-ray-charles"
+    },
+    {
+      "title": "My World",
+      "id": null
+    },
+    {
+      "title": "A Song for You",
+      "id": null
+    },
+    {
+      "title": "None of Us Are Free",
+      "id": null
+    },
+    {
+      "title": "So Help Me God",
+      "id": null
+    },
+    {
+      "title": "One Drop of Love",
+      "id": null
+    },
+    {
+      "title": "If I Could",
+      "id": null
+    },
+    {
+      "title": "Love Has a Mind of Its Own",
+      "id": null
+    },
+    {
+      "title": "I’ll Be There",
+      "id": null
+    },
+    {
+      "title": "Still Crazy After All These Years",
+      "id": null
+    }
+  ]
+}

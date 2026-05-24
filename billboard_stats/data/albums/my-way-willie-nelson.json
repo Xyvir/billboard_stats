@@ -1,1 +1,62 @@
-{"id": "my-way-willie-nelson", "title": "My Way", "artist": "Willie Nelson", "peak": 36, "history": [{"date": "2018-09-29", "rank": 36}, {"date": "2018-10-06", "rank": 88}]}
+{
+  "id": "my-way-willie-nelson",
+  "title": "My Way",
+  "artist": "Willie Nelson",
+  "peak": 36,
+  "history": [
+    {
+      "date": "2018-09-29",
+      "rank": 36
+    },
+    {
+      "date": "2018-10-06",
+      "rank": 88
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fly Me to the Moon",
+      "id": null
+    },
+    {
+      "title": "Summer Wind",
+      "id": null
+    },
+    {
+      "title": "One for My Baby (and One More for the Road)",
+      "id": null
+    },
+    {
+      "title": "A Foggy Day",
+      "id": null
+    },
+    {
+      "title": "It Was a Very Good Year",
+      "id": null
+    },
+    {
+      "title": "Blue Moon",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Around",
+      "id": null
+    },
+    {
+      "title": "Night and Day",
+      "id": null
+    },
+    {
+      "title": "What Is This Thing Called Love",
+      "id": null
+    },
+    {
+      "title": "Young at Heart",
+      "id": null
+    },
+    {
+      "title": "My Way",
+      "id": null
+    }
+  ]
+}

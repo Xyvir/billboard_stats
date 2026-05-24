@@ -1,1 +1,226 @@
-{"id": "my-worlds-acoustic-justin-bieber", "title": "My Worlds Acoustic", "artist": "Justin Bieber", "peak": 7, "history": [{"date": "2010-12-11", "rank": 7}, {"date": "2010-12-18", "rank": 11}, {"date": "2010-12-25", "rank": 12}, {"date": "2011-01-01", "rank": 12}, {"date": "2011-01-08", "rank": 23}, {"date": "2011-01-15", "rank": 49}, {"date": "2011-01-22", "rank": 60}, {"date": "2011-01-29", "rank": 66}, {"date": "2011-02-05", "rank": 77}, {"date": "2011-02-12", "rank": 67}, {"date": "2011-02-19", "rank": 47}, {"date": "2011-02-26", "rank": 10}, {"date": "2011-03-05", "rank": 18}, {"date": "2011-03-12", "rank": 22}, {"date": "2011-03-19", "rank": 26}, {"date": "2011-03-26", "rank": 36}, {"date": "2011-04-02", "rank": 41}, {"date": "2011-04-09", "rank": 64}, {"date": "2011-04-16", "rank": 80}, {"date": "2011-04-23", "rank": 85}, {"date": "2011-04-30", "rank": 119}, {"date": "2011-05-07", "rank": 66}, {"date": "2011-05-14", "rank": 122}, {"date": "2011-05-28", "rank": 70}, {"date": "2011-06-04", "rank": 76}, {"date": "2011-06-11", "rank": 107}, {"date": "2011-06-18", "rank": 112}, {"date": "2011-06-25", "rank": 80}, {"date": "2011-07-02", "rank": 106}, {"date": "2011-07-09", "rank": 97}, {"date": "2011-07-16", "rank": 129}, {"date": "2011-07-23", "rank": 120}, {"date": "2011-07-30", "rank": 135}, {"date": "2011-08-06", "rank": 159}, {"date": "2011-08-13", "rank": 183}, {"date": "2011-09-24", "rank": 83}, {"date": "2011-10-01", "rank": 75}, {"date": "2011-10-08", "rank": 59}, {"date": "2011-10-15", "rank": 55}, {"date": "2011-10-22", "rank": 63}, {"date": "2011-10-29", "rank": 76}, {"date": "2011-11-05", "rank": 78}, {"date": "2011-11-12", "rank": 136}, {"date": "2011-11-19", "rank": 176}]}
+{
+  "id": "my-worlds-acoustic-justin-bieber",
+  "title": "My Worlds Acoustic",
+  "artist": "Justin Bieber",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2010-12-11",
+      "rank": 7
+    },
+    {
+      "date": "2010-12-18",
+      "rank": 11
+    },
+    {
+      "date": "2010-12-25",
+      "rank": 12
+    },
+    {
+      "date": "2011-01-01",
+      "rank": 12
+    },
+    {
+      "date": "2011-01-08",
+      "rank": 23
+    },
+    {
+      "date": "2011-01-15",
+      "rank": 49
+    },
+    {
+      "date": "2011-01-22",
+      "rank": 60
+    },
+    {
+      "date": "2011-01-29",
+      "rank": 66
+    },
+    {
+      "date": "2011-02-05",
+      "rank": 77
+    },
+    {
+      "date": "2011-02-12",
+      "rank": 67
+    },
+    {
+      "date": "2011-02-19",
+      "rank": 47
+    },
+    {
+      "date": "2011-02-26",
+      "rank": 10
+    },
+    {
+      "date": "2011-03-05",
+      "rank": 18
+    },
+    {
+      "date": "2011-03-12",
+      "rank": 22
+    },
+    {
+      "date": "2011-03-19",
+      "rank": 26
+    },
+    {
+      "date": "2011-03-26",
+      "rank": 36
+    },
+    {
+      "date": "2011-04-02",
+      "rank": 41
+    },
+    {
+      "date": "2011-04-09",
+      "rank": 64
+    },
+    {
+      "date": "2011-04-16",
+      "rank": 80
+    },
+    {
+      "date": "2011-04-23",
+      "rank": 85
+    },
+    {
+      "date": "2011-04-30",
+      "rank": 119
+    },
+    {
+      "date": "2011-05-07",
+      "rank": 66
+    },
+    {
+      "date": "2011-05-14",
+      "rank": 122
+    },
+    {
+      "date": "2011-05-28",
+      "rank": 70
+    },
+    {
+      "date": "2011-06-04",
+      "rank": 76
+    },
+    {
+      "date": "2011-06-11",
+      "rank": 107
+    },
+    {
+      "date": "2011-06-18",
+      "rank": 112
+    },
+    {
+      "date": "2011-06-25",
+      "rank": 80
+    },
+    {
+      "date": "2011-07-02",
+      "rank": 106
+    },
+    {
+      "date": "2011-07-09",
+      "rank": 97
+    },
+    {
+      "date": "2011-07-16",
+      "rank": 129
+    },
+    {
+      "date": "2011-07-23",
+      "rank": 120
+    },
+    {
+      "date": "2011-07-30",
+      "rank": 135
+    },
+    {
+      "date": "2011-08-06",
+      "rank": 159
+    },
+    {
+      "date": "2011-08-13",
+      "rank": 183
+    },
+    {
+      "date": "2011-09-24",
+      "rank": 83
+    },
+    {
+      "date": "2011-10-01",
+      "rank": 75
+    },
+    {
+      "date": "2011-10-08",
+      "rank": 59
+    },
+    {
+      "date": "2011-10-15",
+      "rank": 55
+    },
+    {
+      "date": "2011-10-22",
+      "rank": 63
+    },
+    {
+      "date": "2011-10-29",
+      "rank": 76
+    },
+    {
+      "date": "2011-11-05",
+      "rank": 78
+    },
+    {
+      "date": "2011-11-12",
+      "rank": 136
+    },
+    {
+      "date": "2011-11-19",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One Time",
+      "id": "one-time-justin-bieber"
+    },
+    {
+      "title": "Baby",
+      "id": "go-baby-justin-bieber"
+    },
+    {
+      "title": "One Less Lonely Girl",
+      "id": "one-less-lonely-girl-justin-bieber"
+    },
+    {
+      "title": "Down to Earth",
+      "id": "down-to-earth-justin-bieber"
+    },
+    {
+      "title": "U Smile",
+      "id": "u-smile-justin-bieber"
+    },
+    {
+      "title": "Favorite Girl",
+      "id": "favorite-girl-justin-bieber"
+    },
+    {
+      "title": "That Should Be Me",
+      "id": "that-should-be-me-justin-bieber"
+    },
+    {
+      "title": "Pray",
+      "id": "pray-justin-bieber"
+    },
+    {
+      "title": "Stuck in the Moment",
+      "id": null
+    },
+    {
+      "title": "Never Say Never",
+      "id": null
+    }
+  ]
+}

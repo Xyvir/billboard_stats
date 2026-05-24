@@ -1,1 +1,86 @@
-{"id": "my-time-boz-scaggs", "title": "My Time", "artist": "Boz Scaggs", "peak": 138, "history": [{"date": "1972-09-23", "rank": 164}, {"date": "1972-09-30", "rank": 155}, {"date": "1972-10-07", "rank": 148}, {"date": "1972-10-14", "rank": 148}, {"date": "1972-10-21", "rank": 147}, {"date": "1972-10-28", "rank": 141}, {"date": "1972-11-04", "rank": 138}, {"date": "1972-11-11", "rank": 158}, {"date": "1972-11-18", "rank": 174}]}
+{
+  "id": "my-time-boz-scaggs",
+  "title": "My Time",
+  "artist": "Boz Scaggs",
+  "peak": 138,
+  "history": [
+    {
+      "date": "1972-09-23",
+      "rank": 164
+    },
+    {
+      "date": "1972-09-30",
+      "rank": 155
+    },
+    {
+      "date": "1972-10-07",
+      "rank": 148
+    },
+    {
+      "date": "1972-10-14",
+      "rank": 148
+    },
+    {
+      "date": "1972-10-21",
+      "rank": 147
+    },
+    {
+      "date": "1972-10-28",
+      "rank": 141
+    },
+    {
+      "date": "1972-11-04",
+      "rank": 138
+    },
+    {
+      "date": "1972-11-11",
+      "rank": 158
+    },
+    {
+      "date": "1972-11-18",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dinah Flo",
+      "id": "dinah-flo-boz-scaggs"
+    },
+    {
+      "title": "Slowly in the West",
+      "id": null
+    },
+    {
+      "title": "Full‐Lock Power Slide",
+      "id": null
+    },
+    {
+      "title": "Old Time Lovin’",
+      "id": null
+    },
+    {
+      "title": "Might Have to Cry",
+      "id": null
+    },
+    {
+      "title": "Hello My Lover",
+      "id": null
+    },
+    {
+      "title": "Freedom for the Stallion",
+      "id": null
+    },
+    {
+      "title": "He’s a Fool for You",
+      "id": null
+    },
+    {
+      "title": "We’re Gonna Roll",
+      "id": null
+    },
+    {
+      "title": "My Time",
+      "id": null
+    }
+  ]
+}

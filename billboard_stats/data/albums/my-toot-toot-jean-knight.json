@@ -1,1 +1,74 @@
-{"id": "my-toot-toot-jean-knight", "title": "My Toot Toot", "artist": "Jean Knight", "peak": 180, "history": [{"date": "1985-08-03", "rank": 195}, {"date": "1985-08-10", "rank": 181}, {"date": "1985-08-17", "rank": 181}, {"date": "1985-08-24", "rank": 180}]}
+{
+  "id": "my-toot-toot-jean-knight",
+  "title": "My Toot Toot",
+  "artist": "Jean Knight",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1985-08-03",
+      "rank": 195
+    },
+    {
+      "date": "1985-08-10",
+      "rank": 181
+    },
+    {
+      "date": "1985-08-17",
+      "rank": 181
+    },
+    {
+      "date": "1985-08-24",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Toot Toot",
+      "id": "my-toot-toot-jean-knight"
+    },
+    {
+      "title": "Mr. Big Stuff",
+      "id": "mr-big-stuff-jean-knight"
+    },
+    {
+      "title": "My Toot Toot (Long Version)",
+      "id": "my-toot-toot-jean-knight"
+    },
+    {
+      "title": "One Monkey Don’t Stop the Show",
+      "id": null
+    },
+    {
+      "title": "Let the Good Times Roll",
+      "id": null
+    },
+    {
+      "title": "Working Your Mojo",
+      "id": null
+    },
+    {
+      "title": "Magic",
+      "id": null
+    },
+    {
+      "title": "My Heart Is Willing (And My Body Is Too)",
+      "id": null
+    },
+    {
+      "title": "Isn’t Life Wonderful",
+      "id": null
+    },
+    {
+      "title": "Funny Bone",
+      "id": null
+    },
+    {
+      "title": "My Heart Is Willing (And My Body Is Too) (Long Version)",
+      "id": null
+    },
+    {
+      "title": "Let the Good Times Roll (Single Version)",
+      "id": null
+    }
+  ]
+}

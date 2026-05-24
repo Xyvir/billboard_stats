@@ -1,1 +1,62 @@
-{"id": "my-wild-west-lissie", "title": "My Wild West", "artist": "Lissie", "peak": 171, "history": [{"date": "2016-03-05", "rank": 171}]}
+{
+  "id": "my-wild-west-lissie",
+  "title": "My Wild West",
+  "artist": "Lissie",
+  "peak": 171,
+  "history": [
+    {
+      "date": "2016-03-05",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Wild West Overture",
+      "id": null
+    },
+    {
+      "title": "Hollywood",
+      "id": null
+    },
+    {
+      "title": "Wild West",
+      "id": null
+    },
+    {
+      "title": "Hero",
+      "id": null
+    },
+    {
+      "title": "Sun Keeps Risin’",
+      "id": null
+    },
+    {
+      "title": "Don’t You Give Up on Me",
+      "id": null
+    },
+    {
+      "title": "Stay",
+      "id": null
+    },
+    {
+      "title": "Daughters",
+      "id": null
+    },
+    {
+      "title": "Together or Apart",
+      "id": null
+    },
+    {
+      "title": "Shroud",
+      "id": null
+    },
+    {
+      "title": "Go For a Walk",
+      "id": null
+    },
+    {
+      "title": "Ojai",
+      "id": null
+    }
+  ]
+}

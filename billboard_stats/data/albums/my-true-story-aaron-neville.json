@@ -1,1 +1,78 @@
-{"id": "my-true-story-aaron-neville", "title": "My True Story", "artist": "Aaron Neville", "peak": 45, "history": [{"date": "2013-02-09", "rank": 45}, {"date": "2013-02-16", "rank": 64}, {"date": "2013-02-23", "rank": 101}, {"date": "2013-03-02", "rank": 176}, {"date": "2013-03-23", "rank": 107}]}
+{
+  "id": "my-true-story-aaron-neville",
+  "title": "My True Story",
+  "artist": "Aaron Neville",
+  "peak": 45,
+  "history": [
+    {
+      "date": "2013-02-09",
+      "rank": 45
+    },
+    {
+      "date": "2013-02-16",
+      "rank": 64
+    },
+    {
+      "date": "2013-02-23",
+      "rank": 101
+    },
+    {
+      "date": "2013-03-02",
+      "rank": 176
+    },
+    {
+      "date": "2013-03-23",
+      "rank": 107
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Money Honey",
+      "id": null
+    },
+    {
+      "title": "My True Story",
+      "id": null
+    },
+    {
+      "title": "Ruby Baby",
+      "id": null
+    },
+    {
+      "title": "Gypsy Woman",
+      "id": null
+    },
+    {
+      "title": "Tin a Ling",
+      "id": null
+    },
+    {
+      "title": "Be My Baby",
+      "id": null
+    },
+    {
+      "title": "Little Bitty Pretty One",
+      "id": null
+    },
+    {
+      "title": "Tears on My Pillow",
+      "id": null
+    },
+    {
+      "title": "Under the Boardwalk",
+      "id": null
+    },
+    {
+      "title": "Work With Me Annie",
+      "id": null
+    },
+    {
+      "title": "This Magic Moment / True Love (Medley)",
+      "id": null
+    },
+    {
+      "title": "Goodnight My Love (Pleasant Dreams)",
+      "id": null
+    }
+  ]
+}
