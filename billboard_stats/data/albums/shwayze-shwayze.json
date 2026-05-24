@@ -1,1 +1,94 @@
-{"id": "shwayze-shwayze", "title": "Shwayze", "artist": "Shwayze", "peak": 10, "history": [{"date": "2008-09-06", "rank": 10}, {"date": "2008-09-13", "rank": 28}, {"date": "2008-09-20", "rank": 35}, {"date": "2008-09-27", "rank": 61}, {"date": "2008-10-04", "rank": 91}, {"date": "2008-10-11", "rank": 112}, {"date": "2008-10-18", "rank": 186}]}
+{
+  "id": "shwayze-shwayze",
+  "title": "Shwayze",
+  "artist": "Shwayze",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2008-09-06",
+      "rank": 10
+    },
+    {
+      "date": "2008-09-13",
+      "rank": 28
+    },
+    {
+      "date": "2008-09-20",
+      "rank": 35
+    },
+    {
+      "date": "2008-09-27",
+      "rank": 61
+    },
+    {
+      "date": "2008-10-04",
+      "rank": 91
+    },
+    {
+      "date": "2008-10-11",
+      "rank": 112
+    },
+    {
+      "date": "2008-10-18",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Corona and Lime",
+      "id": "corona-and-lime-shwayze"
+    },
+    {
+      "title": "Roamin'",
+      "id": null
+    },
+    {
+      "title": "Lazy Days",
+      "id": null
+    },
+    {
+      "title": "Buzzin’",
+      "id": null
+    },
+    {
+      "title": "Don't Be Shy",
+      "id": null
+    },
+    {
+      "title": "Hollywood",
+      "id": null
+    },
+    {
+      "title": "Polaroid",
+      "id": null
+    },
+    {
+      "title": "James Brown Is Dead",
+      "id": null
+    },
+    {
+      "title": "Lost My Mind",
+      "id": null
+    },
+    {
+      "title": "Mary Jane",
+      "id": null
+    },
+    {
+      "title": "Lazy Susan",
+      "id": null
+    },
+    {
+      "title": "Flashlight",
+      "id": null
+    },
+    {
+      "title": "High Together",
+      "id": null
+    },
+    {
+      "title": "Buzzin' (DJ Skeet Skeet & Cory Nitta remix)",
+      "id": null
+    }
+  ]
+}

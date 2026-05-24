@@ -1,1 +1,62 @@
-{"id": "show-time-ry-cooder", "title": "Show Time", "artist": "Ry Cooder", "peak": 158, "history": [{"date": "1977-09-10", "rank": 167}, {"date": "1977-09-17", "rank": 166}, {"date": "1977-09-24", "rank": 160}, {"date": "1977-10-01", "rank": 158}, {"date": "1977-10-08", "rank": 188}]}
+{
+  "id": "show-time-ry-cooder",
+  "title": "Show Time",
+  "artist": "Ry Cooder",
+  "peak": 158,
+  "history": [
+    {
+      "date": "1977-09-10",
+      "rank": 167
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 166
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 160
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 158
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "School Is Out",
+      "id": null
+    },
+    {
+      "title": "Alimony",
+      "id": null
+    },
+    {
+      "title": "Jesus on the Mainline",
+      "id": null
+    },
+    {
+      "title": "The Dark End of the Street",
+      "id": null
+    },
+    {
+      "title": "Viva Seguin / Do Re Mi",
+      "id": null
+    },
+    {
+      "title": "Volver, Volver",
+      "id": null
+    },
+    {
+      "title": "How Can a Poor Man Stand Such Times and Live",
+      "id": null
+    },
+    {
+      "title": "Smack Dab in the Middle",
+      "id": null
+    }
+  ]
+}

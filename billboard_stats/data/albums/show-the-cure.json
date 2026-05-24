@@ -1,1 +1,94 @@
-{"id": "show-the-cure", "title": "Show", "artist": "The Cure", "peak": 42, "history": [{"date": "1993-10-09", "rank": 42}, {"date": "1993-10-16", "rank": 73}, {"date": "1993-10-23", "rank": 91}, {"date": "1993-10-30", "rank": 101}, {"date": "1993-11-06", "rank": 128}, {"date": "1993-11-13", "rank": 178}, {"date": "2023-05-06", "rank": 77}]}
+{
+  "id": "show-the-cure",
+  "title": "Show",
+  "artist": "The Cure",
+  "peak": 42,
+  "history": [
+    {
+      "date": "1993-10-09",
+      "rank": 42
+    },
+    {
+      "date": "1993-10-16",
+      "rank": 73
+    },
+    {
+      "date": "1993-10-23",
+      "rank": 91
+    },
+    {
+      "date": "1993-10-30",
+      "rank": 101
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 128
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 178
+    },
+    {
+      "date": "2023-05-06",
+      "rank": 77
+    }
+  ],
+  "tracks": [
+    {
+      "title": "High",
+      "id": "high-the-cure"
+    },
+    {
+      "title": "Pictures of You",
+      "id": "pictures-of-you-the-cure"
+    },
+    {
+      "title": "Lullaby",
+      "id": "lullaby-the-cure"
+    },
+    {
+      "title": "Just Like Heaven",
+      "id": "just-like-heaven-the-cure"
+    },
+    {
+      "title": "Friday I’m in Love",
+      "id": "friday-i-m-in-love-the-cure"
+    },
+    {
+      "title": "Inbetween Days",
+      "id": "in-between-days-the-cure"
+    },
+    {
+      "title": "Never Enough",
+      "id": "never-enough-the-cure"
+    },
+    {
+      "title": "Open",
+      "id": null
+    },
+    {
+      "title": "A Night Like This",
+      "id": null
+    },
+    {
+      "title": "Trust",
+      "id": null
+    },
+    {
+      "title": "Doing the Unstuck",
+      "id": null
+    },
+    {
+      "title": "From the Edge of the Deep Green Sea",
+      "id": null
+    },
+    {
+      "title": "Cut",
+      "id": null
+    },
+    {
+      "title": "End",
+      "id": null
+    }
+  ]
+}

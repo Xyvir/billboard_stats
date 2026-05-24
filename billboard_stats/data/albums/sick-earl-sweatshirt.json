@@ -1,1 +1,54 @@
-{"id": "sick-earl-sweatshirt", "title": "Sick!", "artist": "Earl Sweatshirt", "peak": 80, "history": [{"date": "2022-01-29", "rank": 80}]}
+{
+  "id": "sick-earl-sweatshirt",
+  "title": "Sick!",
+  "artist": "Earl Sweatshirt",
+  "peak": 80,
+  "history": [
+    {
+      "date": "2022-01-29",
+      "rank": 80
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Old Friend",
+      "id": null
+    },
+    {
+      "title": "2010",
+      "id": null
+    },
+    {
+      "title": "Sick!",
+      "id": null
+    },
+    {
+      "title": "Vision",
+      "id": null
+    },
+    {
+      "title": "Tabula Rasa",
+      "id": null
+    },
+    {
+      "title": "Lye",
+      "id": null
+    },
+    {
+      "title": "Lobby (int)",
+      "id": null
+    },
+    {
+      "title": "God Laughs",
+      "id": null
+    },
+    {
+      "title": "Titanic",
+      "id": null
+    },
+    {
+      "title": "Fire in the Hole",
+      "id": null
+    }
+  ]
+}

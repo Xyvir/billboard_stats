@@ -1,1 +1,130 @@
-{"id": "showtime-the-j-geils-band", "title": "Showtime", "artist": "The J. Geils Band", "peak": 23, "history": [{"date": "1982-12-04", "rank": 89}, {"date": "1982-12-11", "rank": 46}, {"date": "1982-12-18", "rank": 34}, {"date": "1982-12-25", "rank": 32}, {"date": "1983-01-01", "rank": 32}, {"date": "1983-01-08", "rank": 31}, {"date": "1983-01-15", "rank": 31}, {"date": "1983-01-22", "rank": 28}, {"date": "1983-01-29", "rank": 23}, {"date": "1983-02-05", "rank": 23}, {"date": "1983-02-12", "rank": 23}, {"date": "1983-02-19", "rank": 28}, {"date": "1983-02-26", "rank": 80}, {"date": "1983-03-05", "rank": 80}, {"date": "1983-03-12", "rank": 104}, {"date": "1983-03-19", "rank": 119}, {"date": "1983-03-26", "rank": 150}, {"date": "1983-04-02", "rank": 172}, {"date": "1983-04-09", "rank": 197}]}
+{
+  "id": "showtime-the-j-geils-band",
+  "title": "Showtime",
+  "artist": "The J. Geils Band",
+  "peak": 23,
+  "history": [
+    {
+      "date": "1982-12-04",
+      "rank": 89
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 46
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 34
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 32
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 32
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 31
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 31
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 28
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 23
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 23
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 23
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 28
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 80
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 80
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 104
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 119
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 150
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 172
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Jus’ Can’t Stop Me",
+      "id": "just-can-t-wait-the-j-geils-band"
+    },
+    {
+      "title": "Just Can’t Wait",
+      "id": "just-can-t-wait-the-j-geils-band"
+    },
+    {
+      "title": "Love Stinks",
+      "id": "love-stinks-the-j-geils-band"
+    },
+    {
+      "title": "I Do",
+      "id": "i-do-the-j-geils-band"
+    },
+    {
+      "title": "Centerfold",
+      "id": "centerfold-the-j-geils-band"
+    },
+    {
+      "title": "Land of a Thousand Dances",
+      "id": "land-of-a-thousand-dances-the-j-geils-band"
+    },
+    {
+      "title": "Till the Walls Come Tumblin’ Down",
+      "id": null
+    },
+    {
+      "title": "Sanctuary",
+      "id": null
+    },
+    {
+      "title": "I’m Falling",
+      "id": null
+    },
+    {
+      "title": "Love Rap",
+      "id": null
+    },
+    {
+      "title": "Stoop Down #39",
+      "id": null
+    }
+  ]
+}
