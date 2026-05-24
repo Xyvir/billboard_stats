@@ -1,1 +1,58 @@
-{"id": "the-soundstage-sessions-stevie-nicks", "title": "The Soundstage Sessions", "artist": "Stevie Nicks", "peak": 47, "history": [{"date": "2009-04-18", "rank": 47}, {"date": "2009-04-25", "rank": 147}]}
+{
+  "id": "the-soundstage-sessions-stevie-nicks",
+  "title": "The Soundstage Sessions",
+  "artist": "Stevie Nicks",
+  "peak": 47,
+  "history": [
+    {
+      "date": "2009-04-18",
+      "rank": 47
+    },
+    {
+      "date": "2009-04-25",
+      "rank": 147
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stand Back",
+      "id": "stand-back-stevie-nicks"
+    },
+    {
+      "title": "Crash Into Me",
+      "id": "talk-to-me-stevie-nicks"
+    },
+    {
+      "title": "If Anyone Falls in Love",
+      "id": "if-anyone-falls-stevie-nicks"
+    },
+    {
+      "title": "Sara",
+      "id": null
+    },
+    {
+      "title": "Landslide",
+      "id": null
+    },
+    {
+      "title": "How Still My Love",
+      "id": null
+    },
+    {
+      "title": "Circle Dance",
+      "id": null
+    },
+    {
+      "title": "Fall From Grace",
+      "id": null
+    },
+    {
+      "title": "Sorcerer",
+      "id": null
+    },
+    {
+      "title": "Beauty and the Beast",
+      "id": null
+    }
+  ]
+}

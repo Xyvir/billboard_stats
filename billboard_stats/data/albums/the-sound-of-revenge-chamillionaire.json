@@ -1,1 +1,258 @@
-{"id": "the-sound-of-revenge-chamillionaire", "title": "The Sound Of Revenge", "artist": "Chamillionaire", "peak": 10, "history": [{"date": "2005-12-10", "rank": 10}, {"date": "2005-12-17", "rank": 26}, {"date": "2005-12-24", "rank": 42}, {"date": "2005-12-31", "rank": 67}, {"date": "2006-01-07", "rank": 70}, {"date": "2006-01-14", "rank": 29}, {"date": "2006-01-21", "rank": 38}, {"date": "2006-01-28", "rank": 42}, {"date": "2006-02-04", "rank": 50}, {"date": "2006-02-11", "rank": 56}, {"date": "2006-02-18", "rank": 54}, {"date": "2006-02-25", "rank": 73}, {"date": "2006-03-04", "rank": 74}, {"date": "2006-03-11", "rank": 71}, {"date": "2006-03-18", "rank": 60}, {"date": "2006-03-25", "rank": 51}, {"date": "2006-04-01", "rank": 49}, {"date": "2006-04-08", "rank": 44}, {"date": "2006-04-15", "rank": 42}, {"date": "2006-04-22", "rank": 47}, {"date": "2006-04-29", "rank": 43}, {"date": "2006-05-06", "rank": 20}, {"date": "2006-05-13", "rank": 24}, {"date": "2006-05-20", "rank": 26}, {"date": "2006-05-27", "rank": 31}, {"date": "2006-06-03", "rank": 27}, {"date": "2006-06-10", "rank": 24}, {"date": "2006-06-17", "rank": 17}, {"date": "2006-06-24", "rank": 18}, {"date": "2006-07-01", "rank": 30}, {"date": "2006-07-08", "rank": 30}, {"date": "2006-07-15", "rank": 31}, {"date": "2006-07-22", "rank": 28}, {"date": "2006-07-29", "rank": 37}, {"date": "2006-08-05", "rank": 46}, {"date": "2006-08-12", "rank": 51}, {"date": "2006-08-19", "rank": 54}, {"date": "2006-08-26", "rank": 64}, {"date": "2006-09-02", "rank": 78}, {"date": "2006-09-09", "rank": 95}, {"date": "2006-09-16", "rank": 100}, {"date": "2006-09-23", "rank": 102}, {"date": "2006-09-30", "rank": 133}, {"date": "2006-10-07", "rank": 131}, {"date": "2006-10-14", "rank": 149}, {"date": "2006-10-21", "rank": 174}]}
+{
+  "id": "the-sound-of-revenge-chamillionaire",
+  "title": "The Sound Of Revenge",
+  "artist": "Chamillionaire",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2005-12-10",
+      "rank": 10
+    },
+    {
+      "date": "2005-12-17",
+      "rank": 26
+    },
+    {
+      "date": "2005-12-24",
+      "rank": 42
+    },
+    {
+      "date": "2005-12-31",
+      "rank": 67
+    },
+    {
+      "date": "2006-01-07",
+      "rank": 70
+    },
+    {
+      "date": "2006-01-14",
+      "rank": 29
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 38
+    },
+    {
+      "date": "2006-01-28",
+      "rank": 42
+    },
+    {
+      "date": "2006-02-04",
+      "rank": 50
+    },
+    {
+      "date": "2006-02-11",
+      "rank": 56
+    },
+    {
+      "date": "2006-02-18",
+      "rank": 54
+    },
+    {
+      "date": "2006-02-25",
+      "rank": 73
+    },
+    {
+      "date": "2006-03-04",
+      "rank": 74
+    },
+    {
+      "date": "2006-03-11",
+      "rank": 71
+    },
+    {
+      "date": "2006-03-18",
+      "rank": 60
+    },
+    {
+      "date": "2006-03-25",
+      "rank": 51
+    },
+    {
+      "date": "2006-04-01",
+      "rank": 49
+    },
+    {
+      "date": "2006-04-08",
+      "rank": 44
+    },
+    {
+      "date": "2006-04-15",
+      "rank": 42
+    },
+    {
+      "date": "2006-04-22",
+      "rank": 47
+    },
+    {
+      "date": "2006-04-29",
+      "rank": 43
+    },
+    {
+      "date": "2006-05-06",
+      "rank": 20
+    },
+    {
+      "date": "2006-05-13",
+      "rank": 24
+    },
+    {
+      "date": "2006-05-20",
+      "rank": 26
+    },
+    {
+      "date": "2006-05-27",
+      "rank": 31
+    },
+    {
+      "date": "2006-06-03",
+      "rank": 27
+    },
+    {
+      "date": "2006-06-10",
+      "rank": 24
+    },
+    {
+      "date": "2006-06-17",
+      "rank": 17
+    },
+    {
+      "date": "2006-06-24",
+      "rank": 18
+    },
+    {
+      "date": "2006-07-01",
+      "rank": 30
+    },
+    {
+      "date": "2006-07-08",
+      "rank": 30
+    },
+    {
+      "date": "2006-07-15",
+      "rank": 31
+    },
+    {
+      "date": "2006-07-22",
+      "rank": 28
+    },
+    {
+      "date": "2006-07-29",
+      "rank": 37
+    },
+    {
+      "date": "2006-08-05",
+      "rank": 46
+    },
+    {
+      "date": "2006-08-12",
+      "rank": 51
+    },
+    {
+      "date": "2006-08-19",
+      "rank": 54
+    },
+    {
+      "date": "2006-08-26",
+      "rank": 64
+    },
+    {
+      "date": "2006-09-02",
+      "rank": 78
+    },
+    {
+      "date": "2006-09-09",
+      "rank": 95
+    },
+    {
+      "date": "2006-09-16",
+      "rank": 100
+    },
+    {
+      "date": "2006-09-23",
+      "rank": 102
+    },
+    {
+      "date": "2006-09-30",
+      "rank": 133
+    },
+    {
+      "date": "2006-10-07",
+      "rank": 131
+    },
+    {
+      "date": "2006-10-14",
+      "rank": 149
+    },
+    {
+      "date": "2006-10-21",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Sound of Revenge (intro)",
+      "id": null
+    },
+    {
+      "title": "In the Trunk",
+      "id": null
+    },
+    {
+      "title": "Turn It Up",
+      "id": null
+    },
+    {
+      "title": "Ridin’",
+      "id": null
+    },
+    {
+      "title": "No Snitchin’",
+      "id": null
+    },
+    {
+      "title": "Southern Takeover",
+      "id": null
+    },
+    {
+      "title": "Radio Interruption",
+      "id": null
+    },
+    {
+      "title": "Frontin’",
+      "id": null
+    },
+    {
+      "title": "Grown and Sexy",
+      "id": null
+    },
+    {
+      "title": "Think I’m Crazy",
+      "id": null
+    },
+    {
+      "title": "Rain",
+      "id": null
+    },
+    {
+      "title": "Picture Perfect",
+      "id": null
+    },
+    {
+      "title": "Fly as the Sky",
+      "id": null
+    },
+    {
+      "title": "Peepin’ Me",
+      "id": null
+    },
+    {
+      "title": "Void in My Life",
+      "id": null
+    },
+    {
+      "title": "Outro",
+      "id": null
+    }
+  ]
+}

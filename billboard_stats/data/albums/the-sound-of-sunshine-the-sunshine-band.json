@@ -1,1 +1,78 @@
-{"id": "the-sound-of-sunshine-the-sunshine-band", "title": "The Sound Of Sunshine", "artist": "The Sunshine Band", "peak": 131, "history": [{"date": "1975-10-04", "rank": 182}, {"date": "1975-10-11", "rank": 149}, {"date": "1975-10-18", "rank": 136}, {"date": "1975-10-25", "rank": 131}, {"date": "1975-11-01", "rank": 163}, {"date": "1975-11-08", "rank": 160}, {"date": "1975-11-15", "rank": 160}, {"date": "1975-11-22", "rank": 167}]}
+{
+  "id": "the-sound-of-sunshine-the-sunshine-band",
+  "title": "The Sound Of Sunshine",
+  "artist": "The Sunshine Band",
+  "peak": 131,
+  "history": [
+    {
+      "date": "1975-10-04",
+      "rank": 182
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 149
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 136
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 131
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 163
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 160
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 160
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shotgun Shuffle",
+      "id": "shotgun-shuffle-the-sunshine-band"
+    },
+    {
+      "title": "Rock Your Baby",
+      "id": null
+    },
+    {
+      "title": "Funky ’75",
+      "id": null
+    },
+    {
+      "title": "S.O.S.",
+      "id": null
+    },
+    {
+      "title": "Miss B. (Theme)",
+      "id": null
+    },
+    {
+      "title": "Hey J",
+      "id": null
+    },
+    {
+      "title": "Just a Groove",
+      "id": null
+    },
+    {
+      "title": "Sunshine City",
+      "id": null
+    },
+    {
+      "title": "I Love You",
+      "id": null
+    }
+  ]
+}
