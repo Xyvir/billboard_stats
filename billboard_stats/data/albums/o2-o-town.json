@@ -1,1 +1,98 @@
-{"id": "o2-o-town", "title": "O2", "artist": "O-Town", "peak": 28, "history": [{"date": "2002-11-30", "rank": 28}, {"date": "2002-12-07", "rank": 87}, {"date": "2002-12-14", "rank": 103}, {"date": "2002-12-21", "rank": 99}, {"date": "2002-12-28", "rank": 102}, {"date": "2003-01-04", "rank": 126}, {"date": "2003-01-11", "rank": 138}, {"date": "2003-01-18", "rank": 156}]}
+{
+  "id": "o2-o-town",
+  "title": "O2",
+  "artist": "O-Town",
+  "peak": 28,
+  "history": [
+    {
+      "date": "2002-11-30",
+      "rank": 28
+    },
+    {
+      "date": "2002-12-07",
+      "rank": 87
+    },
+    {
+      "date": "2002-12-14",
+      "rank": 103
+    },
+    {
+      "date": "2002-12-21",
+      "rank": 99
+    },
+    {
+      "date": "2002-12-28",
+      "rank": 102
+    },
+    {
+      "date": "2003-01-04",
+      "rank": 126
+    },
+    {
+      "date": "2003-01-11",
+      "rank": 138
+    },
+    {
+      "date": "2003-01-18",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "These Are the Days",
+      "id": "these-are-the-days-o-town"
+    },
+    {
+      "title": "From the Damage",
+      "id": null
+    },
+    {
+      "title": "I Only Dance With You",
+      "id": null
+    },
+    {
+      "title": "Favorite Girl",
+      "id": null
+    },
+    {
+      "title": "I Showed Her",
+      "id": null
+    },
+    {
+      "title": "Been Around the World",
+      "id": null
+    },
+    {
+      "title": "Make Her Say",
+      "id": null
+    },
+    {
+      "title": "The Joint",
+      "id": null
+    },
+    {
+      "title": "Suddenly",
+      "id": null
+    },
+    {
+      "title": "Craving",
+      "id": null
+    },
+    {
+      "title": "Over Easy",
+      "id": null
+    },
+    {
+      "title": "Girl Like That",
+      "id": null
+    },
+    {
+      "title": "You Can't Lose Me",
+      "id": null
+    },
+    {
+      "title": "We Fit Together",
+      "id": null
+    }
+  ]
+}
