@@ -1,1 +1,106 @@
-{"id": "stranger-in-the-city-john-miles", "title": "Stranger In The City", "artist": "John Miles", "peak": 93, "history": [{"date": "1977-03-19", "rank": 190}, {"date": "1977-03-26", "rank": 179}, {"date": "1977-04-02", "rank": 165}, {"date": "1977-04-09", "rank": 154}, {"date": "1977-04-16", "rank": 141}, {"date": "1977-04-23", "rank": 130}, {"date": "1977-04-30", "rank": 120}, {"date": "1977-05-07", "rank": 107}, {"date": "1977-05-14", "rank": 102}, {"date": "1977-05-21", "rank": 100}, {"date": "1977-05-28", "rank": 103}, {"date": "1977-06-04", "rank": 99}, {"date": "1977-06-11", "rank": 96}, {"date": "1977-06-18", "rank": 93}, {"date": "1977-06-25", "rank": 192}]}
+{
+  "id": "stranger-in-the-city-john-miles",
+  "title": "Stranger In The City",
+  "artist": "John Miles",
+  "peak": 93,
+  "history": [
+    {
+      "date": "1977-03-19",
+      "rank": 190
+    },
+    {
+      "date": "1977-03-26",
+      "rank": 179
+    },
+    {
+      "date": "1977-04-02",
+      "rank": 165
+    },
+    {
+      "date": "1977-04-09",
+      "rank": 154
+    },
+    {
+      "date": "1977-04-16",
+      "rank": 141
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 130
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 120
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 107
+    },
+    {
+      "date": "1977-05-14",
+      "rank": 102
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 100
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 103
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 99
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 96
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 93
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Slow Down",
+      "id": "slowdown-john-miles"
+    },
+    {
+      "title": "Music Man",
+      "id": "music-john-miles"
+    },
+    {
+      "title": "Stranger in the City",
+      "id": null
+    },
+    {
+      "title": "Stand Up (and Give Me a Reason)",
+      "id": null
+    },
+    {
+      "title": "Time",
+      "id": null
+    },
+    {
+      "title": "Manhattan Skyline",
+      "id": null
+    },
+    {
+      "title": "Glamour Boy",
+      "id": null
+    },
+    {
+      "title": "Do It Anyway",
+      "id": null
+    },
+    {
+      "title": "Remember Yesterday",
+      "id": null
+    }
+  ]
+}

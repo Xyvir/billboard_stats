@@ -1,1 +1,94 @@
-{"id": "strange-times-the-moody-blues", "title": "Strange Times", "artist": "The Moody Blues", "peak": 93, "history": [{"date": "1999-09-04", "rank": 93}, {"date": "1999-09-11", "rank": 148}, {"date": "1999-09-18", "rank": 160}, {"date": "1999-09-25", "rank": 171}, {"date": "1999-10-02", "rank": 195}]}
+{
+  "id": "strange-times-the-moody-blues",
+  "title": "Strange Times",
+  "artist": "The Moody Blues",
+  "peak": 93,
+  "history": [
+    {
+      "date": "1999-09-04",
+      "rank": 93
+    },
+    {
+      "date": "1999-09-11",
+      "rank": 148
+    },
+    {
+      "date": "1999-09-18",
+      "rank": 160
+    },
+    {
+      "date": "1999-09-25",
+      "rank": 171
+    },
+    {
+      "date": "1999-10-02",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The One",
+      "id": "the-voice-the-moody-blues"
+    },
+    {
+      "title": "English Sunset",
+      "id": null
+    },
+    {
+      "title": "Haunted",
+      "id": null
+    },
+    {
+      "title": "Sooner or Later (Walkin’ on Air)",
+      "id": null
+    },
+    {
+      "title": "Wherever You Are",
+      "id": null
+    },
+    {
+      "title": "Foolish Love",
+      "id": null
+    },
+    {
+      "title": "Love Don’t Come Easy",
+      "id": null
+    },
+    {
+      "title": "All That Is Real Is You",
+      "id": null
+    },
+    {
+      "title": "Strange Times",
+      "id": null
+    },
+    {
+      "title": "Words You Say",
+      "id": null
+    },
+    {
+      "title": "My Little Lovely",
+      "id": null
+    },
+    {
+      "title": "Forever Now",
+      "id": null
+    },
+    {
+      "title": "The Swallow",
+      "id": null
+    },
+    {
+      "title": "Nothing Changes",
+      "id": null
+    },
+    {
+      "title": "Highway",
+      "id": null
+    },
+    {
+      "title": "This Is the Moment",
+      "id": null
+    }
+  ]
+}

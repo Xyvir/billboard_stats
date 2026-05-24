@@ -1,1 +1,74 @@
-{"id": "strangeland-keane", "title": "Strangeland", "artist": "Keane", "peak": 17, "history": [{"date": "2012-05-26", "rank": 17}, {"date": "2012-06-02", "rank": 70}, {"date": "2012-06-09", "rank": 141}, {"date": "2012-06-16", "rank": 177}]}
+{
+  "id": "strangeland-keane",
+  "title": "Strangeland",
+  "artist": "Keane",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2012-05-26",
+      "rank": 17
+    },
+    {
+      "date": "2012-06-02",
+      "rank": 70
+    },
+    {
+      "date": "2012-06-09",
+      "rank": 141
+    },
+    {
+      "date": "2012-06-16",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Are Young",
+      "id": null
+    },
+    {
+      "title": "Silenced by the Night",
+      "id": null
+    },
+    {
+      "title": "Disconnected",
+      "id": null
+    },
+    {
+      "title": "Watch How You Go",
+      "id": null
+    },
+    {
+      "title": "Sovereign Light Café",
+      "id": null
+    },
+    {
+      "title": "On the Road",
+      "id": null
+    },
+    {
+      "title": "The Starting Line",
+      "id": null
+    },
+    {
+      "title": "Black Rain",
+      "id": null
+    },
+    {
+      "title": "Neon River",
+      "id": null
+    },
+    {
+      "title": "Day Will Come",
+      "id": null
+    },
+    {
+      "title": "In Your Own Time",
+      "id": null
+    },
+    {
+      "title": "Sea Fog",
+      "id": null
+    }
+  ]
+}

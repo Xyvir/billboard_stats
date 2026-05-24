@@ -1,1 +1,62 @@
-{"id": "strangers-again-judy-collins", "title": "Strangers Again", "artist": "Judy Collins", "peak": 77, "history": [{"date": "2015-10-10", "rank": 77}]}
+{
+  "id": "strangers-again-judy-collins",
+  "title": "Strangers Again",
+  "artist": "Judy Collins",
+  "peak": 77,
+  "history": [
+    {
+      "date": "2015-10-10",
+      "rank": 77
+    }
+  ],
+  "tracks": [
+    {
+      "title": "From Grace",
+      "id": "amazing-grace-judy-collins"
+    },
+    {
+      "title": "Someday Soon",
+      "id": "someday-soon-judy-collins"
+    },
+    {
+      "title": "Send in the Clowns",
+      "id": "send-in-the-clowns-judy-collins"
+    },
+    {
+      "title": "Strangers Again",
+      "id": null
+    },
+    {
+      "title": "Miracle River",
+      "id": null
+    },
+    {
+      "title": "Belfast to Boston",
+      "id": null
+    },
+    {
+      "title": "When I Go",
+      "id": null
+    },
+    {
+      "title": "Make Our Garden Grow",
+      "id": null
+    },
+    {
+      "title": "Feels Like Home",
+      "id": null
+    },
+    {
+      "title": "Hallelujah",
+      "id": null
+    },
+    {
+      "title": "Stars in My Eyes",
+      "id": null
+    },
+    {
+      "title": "Races",
+      "id": null
+    }
+  ]
+}
