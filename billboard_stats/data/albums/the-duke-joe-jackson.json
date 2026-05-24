@@ -1,1 +1,54 @@
-{"id": "the-duke-joe-jackson", "title": "The Duke", "artist": "Joe Jackson", "peak": 93, "history": [{"date": "2012-07-14", "rank": 93}]}
+{
+  "id": "the-duke-joe-jackson",
+  "title": "The Duke",
+  "artist": "Joe Jackson",
+  "peak": 93,
+  "history": [
+    {
+      "date": "2012-07-14",
+      "rank": 93
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Isfahan",
+      "id": null
+    },
+    {
+      "title": "Caravan",
+      "id": null
+    },
+    {
+      "title": "I’m Beginning to See the Light / Take the ‘A’ Train / Cotton Tail",
+      "id": null
+    },
+    {
+      "title": "Mood Indigo",
+      "id": null
+    },
+    {
+      "title": "Rockin’ in Rhythm",
+      "id": null
+    },
+    {
+      "title": "I Ain’t Got Nothin’ but the Blues / Do Nothin’ Til You Hear From Me",
+      "id": null
+    },
+    {
+      "title": "I Got It Bad (and That Ain’t Good)",
+      "id": null
+    },
+    {
+      "title": "Perdido / Satin Doll",
+      "id": null
+    },
+    {
+      "title": "The Mooche / Black and Tan Fantasy",
+      "id": null
+    },
+    {
+      "title": "It Don’t Mean a Thing (If It Ain’t Got That Swing)",
+      "id": null
+    }
+  ]
+}

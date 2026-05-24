@@ -1,1 +1,70 @@
-{"id": "the-eagle-waylon-jennings", "title": "The Eagle", "artist": "Waylon Jennings", "peak": 172, "history": [{"date": "1990-08-18", "rank": 182}, {"date": "1990-08-25", "rank": 181}, {"date": "1990-09-01", "rank": 172}, {"date": "1990-09-08", "rank": 197}, {"date": "1990-09-15", "rank": 198}]}
+{
+  "id": "the-eagle-waylon-jennings",
+  "title": "The Eagle",
+  "artist": "Waylon Jennings",
+  "peak": 172,
+  "history": [
+    {
+      "date": "1990-08-18",
+      "rank": 182
+    },
+    {
+      "date": "1990-08-25",
+      "rank": 181
+    },
+    {
+      "date": "1990-09-01",
+      "rank": 172
+    },
+    {
+      "date": "1990-09-08",
+      "rank": 197
+    },
+    {
+      "date": "1990-09-15",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Eagle",
+      "id": "the-taker-waylon-jennings"
+    },
+    {
+      "title": "Workin’ Cheap",
+      "id": null
+    },
+    {
+      "title": "What Bothers Me Most",
+      "id": null
+    },
+    {
+      "title": "Her Man",
+      "id": null
+    },
+    {
+      "title": "Wrong",
+      "id": null
+    },
+    {
+      "title": "Where Corn Don’t Grow",
+      "id": null
+    },
+    {
+      "title": "Reno and Me",
+      "id": null
+    },
+    {
+      "title": "Too Close to Call",
+      "id": null
+    },
+    {
+      "title": "Waking Up With You",
+      "id": null
+    },
+    {
+      "title": "Old Church Hymns and Nursery Rhymes",
+      "id": null
+    }
+  ]
+}

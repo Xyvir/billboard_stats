@@ -1,1 +1,98 @@
-{"id": "the-dreamer-blake-shelton", "title": "The Dreamer", "artist": "Blake Shelton", "peak": 8, "history": [{"date": "2003-02-22", "rank": 8}, {"date": "2003-03-01", "rank": 35}, {"date": "2003-03-08", "rank": 47}, {"date": "2003-03-15", "rank": 61}, {"date": "2003-03-22", "rank": 76}, {"date": "2003-03-29", "rank": 81}, {"date": "2003-04-05", "rank": 107}, {"date": "2003-04-12", "rank": 127}, {"date": "2003-04-19", "rank": 140}, {"date": "2003-04-26", "rank": 164}, {"date": "2003-05-03", "rank": 164}, {"date": "2003-05-24", "rank": 182}]}
+{
+  "id": "the-dreamer-blake-shelton",
+  "title": "The Dreamer",
+  "artist": "Blake Shelton",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2003-02-22",
+      "rank": 8
+    },
+    {
+      "date": "2003-03-01",
+      "rank": 35
+    },
+    {
+      "date": "2003-03-08",
+      "rank": 47
+    },
+    {
+      "date": "2003-03-15",
+      "rank": 61
+    },
+    {
+      "date": "2003-03-22",
+      "rank": 76
+    },
+    {
+      "date": "2003-03-29",
+      "rank": 81
+    },
+    {
+      "date": "2003-04-05",
+      "rank": 107
+    },
+    {
+      "date": "2003-04-12",
+      "rank": 127
+    },
+    {
+      "date": "2003-04-19",
+      "rank": 140
+    },
+    {
+      "date": "2003-04-26",
+      "rank": 164
+    },
+    {
+      "date": "2003-05-03",
+      "rank": 164
+    },
+    {
+      "date": "2003-05-24",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Baby",
+      "id": "the-baby-blake-shelton"
+    },
+    {
+      "title": "Heavy Liftin'",
+      "id": null
+    },
+    {
+      "title": "Asphalt Cowboy",
+      "id": null
+    },
+    {
+      "title": "In My Heaven",
+      "id": null
+    },
+    {
+      "title": "The Dreamer",
+      "id": null
+    },
+    {
+      "title": "My Neck of the Woods",
+      "id": null
+    },
+    {
+      "title": "Underneath the Same Moon",
+      "id": null
+    },
+    {
+      "title": "Georgia in a Jug",
+      "id": null
+    },
+    {
+      "title": "Playboys of the Southwestern World",
+      "id": null
+    },
+    {
+      "title": "Someday",
+      "id": null
+    }
+  ]
+}

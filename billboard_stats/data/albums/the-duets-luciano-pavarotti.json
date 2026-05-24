@@ -1,1 +1,74 @@
-{"id": "the-duets-luciano-pavarotti", "title": "The Duets", "artist": "Luciano Pavarotti", "peak": 153, "history": [{"date": "2008-11-29", "rank": 164}, {"date": "2008-12-06", "rank": 153}]}
+{
+  "id": "the-duets-luciano-pavarotti",
+  "title": "The Duets",
+  "artist": "Luciano Pavarotti",
+  "peak": 153,
+  "history": [
+    {
+      "date": "2008-11-29",
+      "rank": 164
+    },
+    {
+      "date": "2008-12-06",
+      "rank": 153
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Hate You Then I Love You",
+      "id": null
+    },
+    {
+      "title": "Live Like Horses",
+      "id": null
+    },
+    {
+      "title": "Hero",
+      "id": null
+    },
+    {
+      "title": "Miss Sarajevo",
+      "id": null
+    },
+    {
+      "title": "Holy Mother",
+      "id": null
+    },
+    {
+      "title": "Panis Angelicus",
+      "id": null
+    },
+    {
+      "title": "Miserere",
+      "id": null
+    },
+    {
+      "title": "Notte ’e piscatore",
+      "id": null
+    },
+    {
+      "title": "The Magic of Love",
+      "id": null
+    },
+    {
+      "title": "’O sole mio",
+      "id": null
+    },
+    {
+      "title": "Là ci darem la mano",
+      "id": null
+    },
+    {
+      "title": "Let It Rain",
+      "id": null
+    },
+    {
+      "title": "There Must Be an Angel",
+      "id": null
+    },
+    {
+      "title": "My Way",
+      "id": null
+    }
+  ]
+}
