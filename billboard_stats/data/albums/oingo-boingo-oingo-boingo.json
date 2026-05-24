@@ -1,1 +1,46 @@
-{"id": "oingo-boingo-oingo-boingo", "title": "Oingo Boingo", "artist": "Oingo Boingo", "peak": 163, "history": [{"date": "1980-10-25", "rank": 183}, {"date": "1980-11-01", "rank": 171}, {"date": "1980-11-08", "rank": 163}, {"date": "1980-11-15", "rank": 163}, {"date": "1980-11-22", "rank": 193}]}
+{
+  "id": "oingo-boingo-oingo-boingo",
+  "title": "Oingo Boingo",
+  "artist": "Oingo Boingo",
+  "peak": 163,
+  "history": [
+    {
+      "date": "1980-10-25",
+      "rank": 183
+    },
+    {
+      "date": "1980-11-01",
+      "rank": 171
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 163
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 163
+    },
+    {
+      "date": "1980-11-22",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Only a Lad",
+      "id": null
+    },
+    {
+      "title": "Violent Love",
+      "id": null
+    },
+    {
+      "title": "Ain’t This the Life",
+      "id": null
+    },
+    {
+      "title": "I'm So Bad",
+      "id": null
+    }
+  ]
+}

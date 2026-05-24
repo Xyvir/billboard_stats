@@ -1,1 +1,58 @@
-{"id": "ohms-deftones", "title": "Ohms", "artist": "Deftones", "peak": 5, "history": [{"date": "2020-10-10", "rank": 5}, {"date": "2020-10-17", "rank": 75}]}
+{
+  "id": "ohms-deftones",
+  "title": "Ohms",
+  "artist": "Deftones",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2020-10-10",
+      "rank": 5
+    },
+    {
+      "date": "2020-10-17",
+      "rank": 75
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Genesis",
+      "id": null
+    },
+    {
+      "title": "Ceremony",
+      "id": null
+    },
+    {
+      "title": "Urantia",
+      "id": null
+    },
+    {
+      "title": "Error",
+      "id": null
+    },
+    {
+      "title": "The Spell of Mathematics",
+      "id": null
+    },
+    {
+      "title": "Pompeji",
+      "id": null
+    },
+    {
+      "title": "This Link Is Dead",
+      "id": null
+    },
+    {
+      "title": "Radiant City",
+      "id": null
+    },
+    {
+      "title": "Headless",
+      "id": null
+    },
+    {
+      "title": "Ohms",
+      "id": null
+    }
+  ]
+}

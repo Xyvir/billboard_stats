@@ -1,1 +1,130 @@
-{"id": "oh-no-ok-go", "title": "Oh No", "artist": "OK Go", "peak": 69, "history": [{"date": "2005-09-17", "rank": 134}, {"date": "2006-09-09", "rank": 190}, {"date": "2006-09-16", "rank": 118}, {"date": "2006-09-23", "rank": 69}, {"date": "2006-09-30", "rank": 85}, {"date": "2006-10-07", "rank": 125}, {"date": "2006-10-14", "rank": 145}, {"date": "2006-10-21", "rank": 172}, {"date": "2006-10-28", "rank": 178}, {"date": "2006-11-04", "rank": 188}, {"date": "2006-11-11", "rank": 189}, {"date": "2006-11-25", "rank": 159}, {"date": "2006-12-02", "rank": 154}, {"date": "2007-01-13", "rank": 156}, {"date": "2007-01-20", "rank": 165}, {"date": "2007-01-27", "rank": 190}]}
+{
+  "id": "oh-no-ok-go",
+  "title": "Oh No",
+  "artist": "OK Go",
+  "peak": 69,
+  "history": [
+    {
+      "date": "2005-09-17",
+      "rank": 134
+    },
+    {
+      "date": "2006-09-09",
+      "rank": 190
+    },
+    {
+      "date": "2006-09-16",
+      "rank": 118
+    },
+    {
+      "date": "2006-09-23",
+      "rank": 69
+    },
+    {
+      "date": "2006-09-30",
+      "rank": 85
+    },
+    {
+      "date": "2006-10-07",
+      "rank": 125
+    },
+    {
+      "date": "2006-10-14",
+      "rank": 145
+    },
+    {
+      "date": "2006-10-21",
+      "rank": 172
+    },
+    {
+      "date": "2006-10-28",
+      "rank": 178
+    },
+    {
+      "date": "2006-11-04",
+      "rank": 188
+    },
+    {
+      "date": "2006-11-11",
+      "rank": 189
+    },
+    {
+      "date": "2006-11-25",
+      "rank": 159
+    },
+    {
+      "date": "2006-12-02",
+      "rank": 154
+    },
+    {
+      "date": "2007-01-13",
+      "rank": 156
+    },
+    {
+      "date": "2007-01-20",
+      "rank": 165
+    },
+    {
+      "date": "2007-01-27",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Here It Goes Again",
+      "id": "here-it-goes-again-ok-go"
+    },
+    {
+      "title": "Invincible",
+      "id": null
+    },
+    {
+      "title": "Do What You Want",
+      "id": null
+    },
+    {
+      "title": "A Good Idea at the Time",
+      "id": null
+    },
+    {
+      "title": "Oh Lately It’s So Quiet",
+      "id": null
+    },
+    {
+      "title": "It’s a Disaster",
+      "id": null
+    },
+    {
+      "title": "A Million Ways",
+      "id": null
+    },
+    {
+      "title": "No Sign of Life",
+      "id": null
+    },
+    {
+      "title": "Let It Rain",
+      "id": null
+    },
+    {
+      "title": "Crash the Party",
+      "id": null
+    },
+    {
+      "title": "Television, Television",
+      "id": null
+    },
+    {
+      "title": "Maybe, This Time",
+      "id": null
+    },
+    {
+      "title": "The House Wins",
+      "id": null
+    },
+    {
+      "title": "Down for the Count",
+      "id": null
+    }
+  ]
+}

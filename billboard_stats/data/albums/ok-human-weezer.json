@@ -1,1 +1,62 @@
-{"id": "ok-human-weezer", "title": "OK Human", "artist": "Weezer", "peak": 41, "history": [{"date": "2021-02-13", "rank": 41}]}
+{
+  "id": "ok-human-weezer",
+  "title": "OK Human",
+  "artist": "Weezer",
+  "peak": 41,
+  "history": [
+    {
+      "date": "2021-02-13",
+      "rank": 41
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All My Favorite Songs",
+      "id": null
+    },
+    {
+      "title": "Aloo Gobi",
+      "id": null
+    },
+    {
+      "title": "Grapes of Wrath",
+      "id": null
+    },
+    {
+      "title": "Numbers",
+      "id": null
+    },
+    {
+      "title": "Playing My Piano",
+      "id": null
+    },
+    {
+      "title": "Mirror Image",
+      "id": null
+    },
+    {
+      "title": "Screens",
+      "id": null
+    },
+    {
+      "title": "Bird With a Broken Wing",
+      "id": null
+    },
+    {
+      "title": "Dead Roses",
+      "id": null
+    },
+    {
+      "title": "Everything Happens for a Reason",
+      "id": null
+    },
+    {
+      "title": "Here Comes the Rain",
+      "id": null
+    },
+    {
+      "title": "La Brea Tar Pits",
+      "id": null
+    }
+  ]
+}
