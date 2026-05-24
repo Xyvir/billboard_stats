@@ -1,1 +1,82 @@
-{"id": "the-best-of-sugar-ray-sugar-ray", "title": "The Best Of Sugar Ray", "artist": "Sugar Ray", "peak": 136, "history": [{"date": "2005-07-09", "rank": 136}, {"date": "2005-07-16", "rank": 149}, {"date": "2005-07-23", "rank": 192}]}
+{
+  "id": "the-best-of-sugar-ray-sugar-ray",
+  "title": "The Best Of Sugar Ray",
+  "artist": "Sugar Ray",
+  "peak": 136,
+  "history": [
+    {
+      "date": "2005-07-09",
+      "rank": 136
+    },
+    {
+      "date": "2005-07-16",
+      "rank": 149
+    },
+    {
+      "date": "2005-07-23",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Someday",
+      "id": "someday-sugar-ray"
+    },
+    {
+      "title": "Every Morning",
+      "id": "every-morning-sugar-ray"
+    },
+    {
+      "title": "Falls Apart",
+      "id": "falls-apart-sugar-ray"
+    },
+    {
+      "title": "When It’s Over",
+      "id": "when-it-s-over-sugar-ray"
+    },
+    {
+      "title": "Shot of Laughter",
+      "id": null
+    },
+    {
+      "title": "Answer the Phone",
+      "id": null
+    },
+    {
+      "title": "Fly",
+      "id": null
+    },
+    {
+      "title": "Under the Sun",
+      "id": null
+    },
+    {
+      "title": "Mean Machine",
+      "id": null
+    },
+    {
+      "title": "Time After Time",
+      "id": null
+    },
+    {
+      "title": "Rhyme Stealer",
+      "id": null
+    },
+    {
+      "title": "RPM",
+      "id": null
+    },
+    {
+      "title": "Is She Really Going Out With Him",
+      "id": null
+    },
+    {
+      "title": "Psychedelic Bee",
+      "id": null
+    },
+    {
+      "title": "Chasin’ You Around",
+      "id": null
+    }
+  ]
+}

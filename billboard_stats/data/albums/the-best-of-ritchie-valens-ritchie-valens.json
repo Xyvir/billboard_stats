@@ -1,1 +1,114 @@
-{"id": "the-best-of-ritchie-valens-ritchie-valens", "title": "The Best Of Ritchie Valens", "artist": "Ritchie Valens", "peak": 100, "history": [{"date": "1987-08-29", "rank": 198}, {"date": "1987-09-05", "rank": 171}, {"date": "1987-09-12", "rank": 108}, {"date": "1987-09-19", "rank": 102}, {"date": "1987-09-26", "rank": 100}, {"date": "1987-10-03", "rank": 100}, {"date": "1987-10-10", "rank": 141}, {"date": "1987-10-17", "rank": 148}, {"date": "1987-10-24", "rank": 192}, {"date": "1987-10-31", "rank": 200}]}
+{
+  "id": "the-best-of-ritchie-valens-ritchie-valens",
+  "title": "The Best Of Ritchie Valens",
+  "artist": "Ritchie Valens",
+  "peak": 100,
+  "history": [
+    {
+      "date": "1987-08-29",
+      "rank": 198
+    },
+    {
+      "date": "1987-09-05",
+      "rank": 171
+    },
+    {
+      "date": "1987-09-12",
+      "rank": 108
+    },
+    {
+      "date": "1987-09-19",
+      "rank": 102
+    },
+    {
+      "date": "1987-09-26",
+      "rank": 100
+    },
+    {
+      "date": "1987-10-03",
+      "rank": 100
+    },
+    {
+      "date": "1987-10-10",
+      "rank": 141
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 148
+    },
+    {
+      "date": "1987-10-24",
+      "rank": 192
+    },
+    {
+      "date": "1987-10-31",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "La bamba",
+      "id": "la-bamba-ritchie-valens"
+    },
+    {
+      "title": "Come On Let’s Go",
+      "id": "come-on-let-s-go-ritchie-valens"
+    },
+    {
+      "title": "Donna",
+      "id": "donna-ritchie-valens"
+    },
+    {
+      "title": "That’s My Little Suzie",
+      "id": "that-s-my-little-suzie-ritchie-valens"
+    },
+    {
+      "title": "Little Girl",
+      "id": "little-girl-ritchie-valens"
+    },
+    {
+      "title": "Bluebirds Over The Mountain",
+      "id": null
+    },
+    {
+      "title": "In A Turkish Town",
+      "id": null
+    },
+    {
+      "title": "Ooh! My Head",
+      "id": null
+    },
+    {
+      "title": "Paddi‐Wack Song",
+      "id": null
+    },
+    {
+      "title": "Stay Beside Me",
+      "id": null
+    },
+    {
+      "title": "Malagueña",
+      "id": null
+    },
+    {
+      "title": "Framed",
+      "id": null
+    },
+    {
+      "title": "Fast Freight",
+      "id": null
+    },
+    {
+      "title": "We Belong Together",
+      "id": null
+    },
+    {
+      "title": "Hurry Up",
+      "id": null
+    },
+    {
+      "title": "Hi‐Tone",
+      "id": null
+    }
+  ]
+}

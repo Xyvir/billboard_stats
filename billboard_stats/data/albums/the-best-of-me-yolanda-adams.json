@@ -1,1 +1,66 @@
-{"id": "the-best-of-me-yolanda-adams", "title": "The Best Of Me", "artist": "Yolanda Adams", "peak": 60, "history": [{"date": "2007-05-26", "rank": 60}, {"date": "2007-06-02", "rank": 168}]}
+{
+  "id": "the-best-of-me-yolanda-adams",
+  "title": "The Best Of Me",
+  "artist": "Yolanda Adams",
+  "peak": 60,
+  "history": [
+    {
+      "date": "2007-05-26",
+      "rank": 60
+    },
+    {
+      "date": "2007-06-02",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Open My Heart",
+      "id": "open-my-heart-yolanda-adams"
+    },
+    {
+      "title": "Victory",
+      "id": null
+    },
+    {
+      "title": "I Gotta Believe",
+      "id": null
+    },
+    {
+      "title": "Yeah",
+      "id": null
+    },
+    {
+      "title": "This Too Shall Pass",
+      "id": null
+    },
+    {
+      "title": "Fragile Heart",
+      "id": null
+    },
+    {
+      "title": "Be Blessed",
+      "id": null
+    },
+    {
+      "title": "Continual Praise",
+      "id": null
+    },
+    {
+      "title": "Never Give Up",
+      "id": null
+    },
+    {
+      "title": "I Believe I Can Fly",
+      "id": null
+    },
+    {
+      "title": "In the Midst of It All",
+      "id": null
+    },
+    {
+      "title": "Someone Watching Over You",
+      "id": null
+    }
+  ]
+}

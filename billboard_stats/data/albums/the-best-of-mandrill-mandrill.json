@@ -1,1 +1,62 @@
-{"id": "the-best-of-mandrill-mandrill", "title": "The Best Of Mandrill", "artist": "Mandrill", "peak": 194, "history": [{"date": "1975-07-26", "rank": 196}, {"date": "1975-08-02", "rank": 194}]}
+{
+  "id": "the-best-of-mandrill-mandrill",
+  "title": "The Best Of Mandrill",
+  "artist": "Mandrill",
+  "peak": 194,
+  "history": [
+    {
+      "date": "1975-07-26",
+      "rank": 196
+    },
+    {
+      "date": "1975-08-02",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fencewalk",
+      "id": "fencewalk-mandrill"
+    },
+    {
+      "title": "Hang Loose",
+      "id": "hang-loose-mandrill"
+    },
+    {
+      "title": "Mandrill",
+      "id": "mandrill-mandrill"
+    },
+    {
+      "title": "Ape Is High",
+      "id": null
+    },
+    {
+      "title": "Git It All",
+      "id": null
+    },
+    {
+      "title": "Cohelo",
+      "id": null
+    },
+    {
+      "title": "Mango Meat",
+      "id": null
+    },
+    {
+      "title": "Symphonic Revolutions",
+      "id": null
+    },
+    {
+      "title": "Children of the Sun",
+      "id": null
+    },
+    {
+      "title": "House of Wood",
+      "id": null
+    },
+    {
+      "title": "I Refuse to Smile",
+      "id": null
+    }
+  ]
+}

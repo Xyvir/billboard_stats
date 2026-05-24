@@ -1,1 +1,98 @@
-{"id": "the-best-of-new-order-new-order", "title": "(The Best) Of New Order", "artist": "New Order", "peak": 78, "history": [{"date": "1995-04-01", "rank": 85}, {"date": "1995-04-08", "rank": 78}, {"date": "1995-04-15", "rank": 128}, {"date": "1995-04-22", "rank": 141}, {"date": "1995-04-29", "rank": 175}]}
+{
+  "id": "the-best-of-new-order-new-order",
+  "title": "(The Best) Of New Order",
+  "artist": "New Order",
+  "peak": 78,
+  "history": [
+    {
+      "date": "1995-04-01",
+      "rank": 85
+    },
+    {
+      "date": "1995-04-08",
+      "rank": 78
+    },
+    {
+      "date": "1995-04-15",
+      "rank": 128
+    },
+    {
+      "date": "1995-04-22",
+      "rank": 141
+    },
+    {
+      "date": "1995-04-29",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bizarre Love Triangle‐94",
+      "id": "bizarre-love-triangle-new-order"
+    },
+    {
+      "title": "Round & Round‐94",
+      "id": "round-round-new-order"
+    },
+    {
+      "title": "Regret",
+      "id": "regret-new-order"
+    },
+    {
+      "title": "Blue Monday‐88",
+      "id": "blue-monday-1988-new-order"
+    },
+    {
+      "title": "Let’s Go (Nothing for Me)",
+      "id": null
+    },
+    {
+      "title": "Dreams Never End",
+      "id": null
+    },
+    {
+      "title": "Age of Consent",
+      "id": null
+    },
+    {
+      "title": "Love Vigilantes",
+      "id": null
+    },
+    {
+      "title": "True Faith ’94 (radio edit)",
+      "id": null
+    },
+    {
+      "title": "1963 (’95)",
+      "id": null
+    },
+    {
+      "title": "Fine Time",
+      "id": null
+    },
+    {
+      "title": "Vanishing Point",
+      "id": null
+    },
+    {
+      "title": "Run",
+      "id": null
+    },
+    {
+      "title": "World",
+      "id": null
+    },
+    {
+      "title": "Ruined in a Day",
+      "id": null
+    },
+    {
+      "title": "Touched by the Hand of God",
+      "id": null
+    },
+    {
+      "title": "World in Motion",
+      "id": null
+    }
+  ]
+}
