@@ -1,1 +1,66 @@
-{"id": "playin-it-cool-timothy-b-schmit", "title": "Playin' It Cool", "artist": "Timothy B. Schmit", "peak": 160, "history": [{"date": "1984-11-10", "rank": 171}, {"date": "1984-11-17", "rank": 164}, {"date": "1984-11-24", "rank": 160}, {"date": "1984-12-01", "rank": 160}, {"date": "1984-12-08", "rank": 197}]}
+{
+  "id": "playin-it-cool-timothy-b-schmit",
+  "title": "Playin' It Cool",
+  "artist": "Timothy B. Schmit",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1984-11-10",
+      "rank": 171
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 164
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 160
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 160
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "So Much in Love",
+      "id": "so-much-in-love-timothy-b-schmit"
+    },
+    {
+      "title": "Playin' It Cool",
+      "id": null
+    },
+    {
+      "title": "Lonely Girl",
+      "id": null
+    },
+    {
+      "title": "Something's Wrong",
+      "id": null
+    },
+    {
+      "title": "Voices",
+      "id": null
+    },
+    {
+      "title": "Wrong Number",
+      "id": null
+    },
+    {
+      "title": "Take a Good Look Around You",
+      "id": null
+    },
+    {
+      "title": "Tell Me What You Dream",
+      "id": null
+    },
+    {
+      "title": "Gimme Some Money",
+      "id": null
+    }
+  ]
+}

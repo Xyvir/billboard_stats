@@ -1,1 +1,70 @@
-{"id": "playlist-the-very-best-of-johnny-cash-johnny-cash", "title": "Playlist: The Very Best Of Johnny Cash", "artist": "Johnny Cash", "peak": 140, "history": [{"date": "2012-12-08", "rank": 140}]}
+{
+  "id": "playlist-the-very-best-of-johnny-cash-johnny-cash",
+  "title": "Playlist: The Very Best Of Johnny Cash",
+  "artist": "Johnny Cash",
+  "peak": 140,
+  "history": [
+    {
+      "date": "2012-12-08",
+      "rank": 140
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Man in Black",
+      "id": "man-in-black-johnny-cash"
+    },
+    {
+      "title": "Ring of Fire",
+      "id": "ring-of-fire-johnny-cash"
+    },
+    {
+      "title": "Folsom Prison Blues",
+      "id": "folsom-prison-blues-johnny-cash"
+    },
+    {
+      "title": "A Boy Named Sue (live)",
+      "id": "a-boy-named-sue-johnny-cash"
+    },
+    {
+      "title": "Daddy Sang Bass",
+      "id": "daddy-sang-bass-johnny-cash"
+    },
+    {
+      "title": "I Walk the Line",
+      "id": null
+    },
+    {
+      "title": "I Still Miss Someone",
+      "id": null
+    },
+    {
+      "title": "You Wild Colorado",
+      "id": null
+    },
+    {
+      "title": "40 Shades of Green",
+      "id": null
+    },
+    {
+      "title": "Jackson",
+      "id": null
+    },
+    {
+      "title": "Bad News",
+      "id": null
+    },
+    {
+      "title": "One Piece at a Time",
+      "id": null
+    },
+    {
+      "title": "Hit the Road and Go",
+      "id": null
+    },
+    {
+      "title": "Rockabilly Blues",
+      "id": null
+    }
+  ]
+}
