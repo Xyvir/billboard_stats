@@ -1,1 +1,70 @@
-{"id": "preppie-cheryl-lynn", "title": "Preppie", "artist": "Cheryl Lynn", "peak": 161, "history": [{"date": "1984-04-28", "rank": 162}, {"date": "1984-05-05", "rank": 161}, {"date": "1984-05-12", "rank": 199}, {"date": "1984-05-19", "rank": 191}, {"date": "1984-05-26", "rank": 191}]}
+{
+  "id": "preppie-cheryl-lynn",
+  "title": "Preppie",
+  "artist": "Cheryl Lynn",
+  "peak": 161,
+  "history": [
+    {
+      "date": "1984-04-28",
+      "rank": 162
+    },
+    {
+      "date": "1984-05-05",
+      "rank": 161
+    },
+    {
+      "date": "1984-05-12",
+      "rank": 199
+    },
+    {
+      "date": "1984-05-19",
+      "rank": 191
+    },
+    {
+      "date": "1984-05-26",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Encore",
+      "id": "encore-cheryl-lynn"
+    },
+    {
+      "title": "Fix It",
+      "id": null
+    },
+    {
+      "title": "Fool a Fool",
+      "id": null
+    },
+    {
+      "title": "This Time",
+      "id": null
+    },
+    {
+      "title": "Change the Channel",
+      "id": null
+    },
+    {
+      "title": "Preppie",
+      "id": null
+    },
+    {
+      "title": "Love Rush",
+      "id": null
+    },
+    {
+      "title": "No One Else Will Do",
+      "id": null
+    },
+    {
+      "title": "Free",
+      "id": null
+    },
+    {
+      "title": "Life's Too Short",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"id": "pretty-paper-willie-nelson", "title": "Pretty Paper", "artist": "Willie Nelson", "peak": 73, "history": [{"date": "1979-12-01", "rank": 120}, {"date": "1979-12-08", "rank": 105}, {"date": "1979-12-15", "rank": 93}, {"date": "1979-12-22", "rank": 83}, {"date": "1979-12-29", "rank": 83}, {"date": "1980-01-05", "rank": 78}, {"date": "1980-01-12", "rank": 77}, {"date": "1980-01-19", "rank": 73}]}
+{
+  "id": "pretty-paper-willie-nelson",
+  "title": "Pretty Paper",
+  "artist": "Willie Nelson",
+  "peak": 73,
+  "history": [
+    {
+      "date": "1979-12-01",
+      "rank": 120
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 105
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 93
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 83
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 83
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 78
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 77
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 73
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pretty Paper",
+      "id": null
+    },
+    {
+      "title": "White Christmas",
+      "id": null
+    },
+    {
+      "title": "Winter Wonderland",
+      "id": null
+    },
+    {
+      "title": "Rudolph the Red‐Nosed Reindeer",
+      "id": null
+    },
+    {
+      "title": "Jingle Bells",
+      "id": null
+    },
+    {
+      "title": "Here Comes Santa Claus",
+      "id": null
+    },
+    {
+      "title": "Blue Christmas",
+      "id": null
+    },
+    {
+      "title": "Santa Claus Is Coming to Town",
+      "id": null
+    },
+    {
+      "title": "Frosty the Snowman",
+      "id": null
+    },
+    {
+      "title": "Silent Night",
+      "id": null
+    },
+    {
+      "title": "O Little Town of Bethlehem",
+      "id": null
+    },
+    {
+      "title": "Christmas Blues",
+      "id": null
+    }
+  ]
+}
