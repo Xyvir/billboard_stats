@@ -1,1 +1,266 @@
-{"id": "the-collection-onerepublic", "title": "The Collection", "artist": "OneRepublic", "peak": 46, "history": [{"date": "2025-08-30", "rank": 46}, {"date": "2025-09-06", "rank": 85}, {"date": "2025-09-13", "rank": 87}, {"date": "2025-09-20", "rank": 82}, {"date": "2025-09-27", "rank": 78}, {"date": "2025-10-04", "rank": 79}, {"date": "2025-10-11", "rank": 79}, {"date": "2025-10-18", "rank": 77}, {"date": "2025-10-25", "rank": 74}, {"date": "2025-11-01", "rank": 61}, {"date": "2025-11-08", "rank": 65}, {"date": "2025-11-15", "rank": 63}, {"date": "2025-11-22", "rank": 66}, {"date": "2025-11-29", "rank": 80}, {"date": "2025-12-06", "rank": 91}, {"date": "2025-12-13", "rank": 128}, {"date": "2025-12-20", "rank": 139}, {"date": "2025-12-27", "rank": 143}, {"date": "2026-01-03", "rank": 193}, {"date": "2026-01-10", "rank": 92}, {"date": "2026-01-17", "rank": 63}, {"date": "2026-01-24", "rank": 60}, {"date": "2026-01-31", "rank": 72}, {"date": "2026-02-07", "rank": 69}, {"date": "2026-02-14", "rank": 70}, {"date": "2026-02-21", "rank": 80}, {"date": "2026-02-28", "rank": 78}, {"date": "2026-03-07", "rank": 76}, {"date": "2026-03-14", "rank": 72}, {"date": "2026-03-21", "rank": 71}, {"date": "2026-03-28", "rank": 70}, {"date": "2026-04-04", "rank": 101}, {"date": "2026-04-11", "rank": 69}, {"date": "2026-04-18", "rank": 69}, {"date": "2026-04-25", "rank": 73}, {"date": "2026-05-02", "rank": 73}, {"date": "2026-05-09", "rank": 77}, {"date": "2026-05-16", "rank": 62}]}
+{
+  "id": "the-collection-onerepublic",
+  "title": "The Collection",
+  "artist": "OneRepublic",
+  "peak": 46,
+  "history": [
+    {
+      "date": "2025-08-30",
+      "rank": 46
+    },
+    {
+      "date": "2025-09-06",
+      "rank": 85
+    },
+    {
+      "date": "2025-09-13",
+      "rank": 87
+    },
+    {
+      "date": "2025-09-20",
+      "rank": 82
+    },
+    {
+      "date": "2025-09-27",
+      "rank": 78
+    },
+    {
+      "date": "2025-10-04",
+      "rank": 79
+    },
+    {
+      "date": "2025-10-11",
+      "rank": 79
+    },
+    {
+      "date": "2025-10-18",
+      "rank": 77
+    },
+    {
+      "date": "2025-10-25",
+      "rank": 74
+    },
+    {
+      "date": "2025-11-01",
+      "rank": 61
+    },
+    {
+      "date": "2025-11-08",
+      "rank": 65
+    },
+    {
+      "date": "2025-11-15",
+      "rank": 63
+    },
+    {
+      "date": "2025-11-22",
+      "rank": 66
+    },
+    {
+      "date": "2025-11-29",
+      "rank": 80
+    },
+    {
+      "date": "2025-12-06",
+      "rank": 91
+    },
+    {
+      "date": "2025-12-13",
+      "rank": 128
+    },
+    {
+      "date": "2025-12-20",
+      "rank": 139
+    },
+    {
+      "date": "2025-12-27",
+      "rank": 143
+    },
+    {
+      "date": "2026-01-03",
+      "rank": 193
+    },
+    {
+      "date": "2026-01-10",
+      "rank": 92
+    },
+    {
+      "date": "2026-01-17",
+      "rank": 63
+    },
+    {
+      "date": "2026-01-24",
+      "rank": 60
+    },
+    {
+      "date": "2026-01-31",
+      "rank": 72
+    },
+    {
+      "date": "2026-02-07",
+      "rank": 69
+    },
+    {
+      "date": "2026-02-14",
+      "rank": 70
+    },
+    {
+      "date": "2026-02-21",
+      "rank": 80
+    },
+    {
+      "date": "2026-02-28",
+      "rank": 78
+    },
+    {
+      "date": "2026-03-07",
+      "rank": 76
+    },
+    {
+      "date": "2026-03-14",
+      "rank": 72
+    },
+    {
+      "date": "2026-03-21",
+      "rank": 71
+    },
+    {
+      "date": "2026-03-28",
+      "rank": 70
+    },
+    {
+      "date": "2026-04-04",
+      "rank": 101
+    },
+    {
+      "date": "2026-04-11",
+      "rank": 69
+    },
+    {
+      "date": "2026-04-18",
+      "rank": 69
+    },
+    {
+      "date": "2026-04-25",
+      "rank": 73
+    },
+    {
+      "date": "2026-05-02",
+      "rank": 73
+    },
+    {
+      "date": "2026-05-09",
+      "rank": 77
+    },
+    {
+      "date": "2026-05-16",
+      "rank": 62
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Ain’t Worried",
+      "id": "i-ain-t-worried-onerepublic"
+    },
+    {
+      "title": "Counting Stars",
+      "id": "counting-stars-onerepublic"
+    },
+    {
+      "title": "I Lived",
+      "id": "i-lived-onerepublic"
+    },
+    {
+      "title": "Secrets",
+      "id": "secrets-onerepublic"
+    },
+    {
+      "title": "Love Runs Out",
+      "id": "love-runs-out-onerepublic"
+    },
+    {
+      "title": "Wherever I Go",
+      "id": "wherever-i-go-onerepublic"
+    },
+    {
+      "title": "Good Life",
+      "id": "the-good-life-onerepublic"
+    },
+    {
+      "title": "Stop and Stare",
+      "id": "stop-and-stare-onerepublic"
+    },
+    {
+      "title": "All the Right Moves",
+      "id": "all-the-right-moves-onerepublic"
+    },
+    {
+      "title": "I Don’t Wanna Wait",
+      "id": "i-don-t-wanna-wait-david-guetta-onerepublic"
+    },
+    {
+      "title": "Kids",
+      "id": "kids-onerepublic"
+    },
+    {
+      "title": "Run",
+      "id": null
+    },
+    {
+      "title": "Apologize",
+      "id": null
+    },
+    {
+      "title": "Sunshine",
+      "id": null
+    },
+    {
+      "title": "Rescue Me",
+      "id": null
+    },
+    {
+      "title": "RUNAWAY",
+      "id": null
+    },
+    {
+      "title": "If I Lose Myself - Alesso vs OneRepublic",
+      "id": null
+    },
+    {
+      "title": "Nobody - From Kaiju No. 8",
+      "id": null
+    },
+    {
+      "title": "West Coast",
+      "id": null
+    },
+    {
+      "title": "Can’t Stop",
+      "id": null
+    },
+    {
+      "title": "Come Home",
+      "id": null
+    },
+    {
+      "title": "Feel Again - With Heartbeats",
+      "id": null
+    },
+    {
+      "title": "Something I Need",
+      "id": null
+    },
+    {
+      "title": "Say (All I Need)",
+      "id": null
+    },
+    {
+      "title": "Let’s Hurt Tonight",
+      "id": null
+    },
+    {
+      "title": "Distance",
+      "id": null
+    }
+  ]
+}

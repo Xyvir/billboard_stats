@@ -1,1 +1,86 @@
-{"id": "the-classic-christmas-album-martina-mcbride", "title": "The Classic Christmas Album", "artist": "Martina McBride", "peak": 177, "history": [{"date": "2013-12-21", "rank": 190}, {"date": "2013-12-28", "rank": 177}, {"date": "2014-01-04", "rank": 187}]}
+{
+  "id": "the-classic-christmas-album-martina-mcbride",
+  "title": "The Classic Christmas Album",
+  "artist": "Martina McBride",
+  "peak": 177,
+  "history": [
+    {
+      "date": "2013-12-21",
+      "rank": 190
+    },
+    {
+      "date": "2013-12-28",
+      "rank": 177
+    },
+    {
+      "date": "2014-01-04",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let It Snow, Let It Snow, Let It Snow",
+      "id": null
+    },
+    {
+      "title": "Silver Bells",
+      "id": null
+    },
+    {
+      "title": "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+      "id": null
+    },
+    {
+      "title": "Do You Hear What I Hear?",
+      "id": null
+    },
+    {
+      "title": "Hark! the Herald Angels Sing",
+      "id": null
+    },
+    {
+      "title": "Away in a Manger",
+      "id": null
+    },
+    {
+      "title": "Winter Wonderland",
+      "id": null
+    },
+    {
+      "title": "Have Yourself a Merry Little Christmas",
+      "id": null
+    },
+    {
+      "title": "Blue Christmas",
+      "id": null
+    },
+    {
+      "title": "O Come All Ye Faithful",
+      "id": null
+    },
+    {
+      "title": "Silent Night",
+      "id": null
+    },
+    {
+      "title": "White Christmas",
+      "id": null
+    },
+    {
+      "title": "Baby, It’s Cold Outside",
+      "id": null
+    },
+    {
+      "title": "I'll Be Home for Christmas",
+      "id": null
+    },
+    {
+      "title": "What Child Is This",
+      "id": null
+    },
+    {
+      "title": "O Holy Night",
+      "id": null
+    }
+  ]
+}

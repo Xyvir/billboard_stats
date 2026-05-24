@@ -1,1 +1,178 @@
-{"id": "the-circle-bon-jovi", "title": "The Circle", "artist": "Bon Jovi", "peak": 1, "history": [{"date": "2009-11-28", "rank": 1}, {"date": "2009-12-05", "rank": 19}, {"date": "2009-12-12", "rank": 22}, {"date": "2009-12-19", "rank": 36}, {"date": "2009-12-26", "rank": 44}, {"date": "2010-01-02", "rank": 44}, {"date": "2010-01-09", "rank": 44}, {"date": "2010-01-16", "rank": 68}, {"date": "2010-01-23", "rank": 77}, {"date": "2010-01-30", "rank": 91}, {"date": "2010-02-06", "rank": 109}, {"date": "2010-02-13", "rank": 105}, {"date": "2010-02-20", "rank": 79}, {"date": "2010-02-27", "rank": 105}, {"date": "2010-03-06", "rank": 115}, {"date": "2010-03-13", "rank": 100}, {"date": "2010-03-20", "rank": 134}, {"date": "2010-03-27", "rank": 130}, {"date": "2010-04-03", "rank": 138}, {"date": "2010-04-10", "rank": 142}, {"date": "2010-04-17", "rank": 155}, {"date": "2010-04-24", "rank": 158}, {"date": "2010-05-01", "rank": 156}, {"date": "2010-05-08", "rank": 168}, {"date": "2010-05-29", "rank": 141}, {"date": "2010-06-05", "rank": 178}]}
+{
+  "id": "the-circle-bon-jovi",
+  "title": "The Circle",
+  "artist": "Bon Jovi",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2009-11-28",
+      "rank": 1
+    },
+    {
+      "date": "2009-12-05",
+      "rank": 19
+    },
+    {
+      "date": "2009-12-12",
+      "rank": 22
+    },
+    {
+      "date": "2009-12-19",
+      "rank": 36
+    },
+    {
+      "date": "2009-12-26",
+      "rank": 44
+    },
+    {
+      "date": "2010-01-02",
+      "rank": 44
+    },
+    {
+      "date": "2010-01-09",
+      "rank": 44
+    },
+    {
+      "date": "2010-01-16",
+      "rank": 68
+    },
+    {
+      "date": "2010-01-23",
+      "rank": 77
+    },
+    {
+      "date": "2010-01-30",
+      "rank": 91
+    },
+    {
+      "date": "2010-02-06",
+      "rank": 109
+    },
+    {
+      "date": "2010-02-13",
+      "rank": 105
+    },
+    {
+      "date": "2010-02-20",
+      "rank": 79
+    },
+    {
+      "date": "2010-02-27",
+      "rank": 105
+    },
+    {
+      "date": "2010-03-06",
+      "rank": 115
+    },
+    {
+      "date": "2010-03-13",
+      "rank": 100
+    },
+    {
+      "date": "2010-03-20",
+      "rank": 134
+    },
+    {
+      "date": "2010-03-27",
+      "rank": 130
+    },
+    {
+      "date": "2010-04-03",
+      "rank": 138
+    },
+    {
+      "date": "2010-04-10",
+      "rank": 142
+    },
+    {
+      "date": "2010-04-17",
+      "rank": 155
+    },
+    {
+      "date": "2010-04-24",
+      "rank": 158
+    },
+    {
+      "date": "2010-05-01",
+      "rank": 156
+    },
+    {
+      "date": "2010-05-08",
+      "rank": 168
+    },
+    {
+      "date": "2010-05-29",
+      "rank": 141
+    },
+    {
+      "date": "2010-06-05",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "We Weren’t Born to Follow",
+      "id": "we-weren-t-born-to-follow-bon-jovi"
+    },
+    {
+      "title": "We Weren’t Born to Follow (live)",
+      "id": "we-weren-t-born-to-follow-bon-jovi"
+    },
+    {
+      "title": "When We Were Beautiful",
+      "id": null
+    },
+    {
+      "title": "Work for the Working Man",
+      "id": null
+    },
+    {
+      "title": "Superman Tonight",
+      "id": null
+    },
+    {
+      "title": "Bullet",
+      "id": null
+    },
+    {
+      "title": "Thorn in My Side",
+      "id": null
+    },
+    {
+      "title": "Live Before You Die",
+      "id": null
+    },
+    {
+      "title": "Brokenpromiseland",
+      "id": null
+    },
+    {
+      "title": "Love’s the Only Rule",
+      "id": null
+    },
+    {
+      "title": "Fast Cars",
+      "id": null
+    },
+    {
+      "title": "Happy Now",
+      "id": null
+    },
+    {
+      "title": "Learn to Love",
+      "id": null
+    },
+    {
+      "title": "When We Were Beautiful (live)",
+      "id": null
+    },
+    {
+      "title": "Superman Tonight (live)",
+      "id": null
+    },
+    {
+      "title": "Love’s the Only Rule (live)",
+      "id": null
+    }
+  ]
+}
