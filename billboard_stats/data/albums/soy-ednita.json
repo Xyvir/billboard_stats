@@ -1,1 +1,70 @@
-{"id": "soy-ednita", "title": "Soy", "artist": "Ednita", "peak": 27, "history": [{"date": "2009-11-14", "rank": 27}, {"date": "2009-11-21", "rank": 100}, {"date": "2009-11-28", "rank": 162}]}
+{
+  "id": "soy-ednita",
+  "title": "Soy",
+  "artist": "Ednita",
+  "peak": 27,
+  "history": [
+    {
+      "date": "2009-11-14",
+      "rank": 27
+    },
+    {
+      "date": "2009-11-21",
+      "rank": 100
+    },
+    {
+      "date": "2009-11-28",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Me voy",
+      "id": null
+    },
+    {
+      "title": "Sin querer",
+      "id": null
+    },
+    {
+      "title": "Déjame ser",
+      "id": null
+    },
+    {
+      "title": "Confesados",
+      "id": null
+    },
+    {
+      "title": "Sin pausas",
+      "id": null
+    },
+    {
+      "title": "Intoxicándome",
+      "id": null
+    },
+    {
+      "title": "Dos eternidades",
+      "id": null
+    },
+    {
+      "title": "Yo quiero más",
+      "id": null
+    },
+    {
+      "title": "Soy como soy",
+      "id": null
+    },
+    {
+      "title": "Mi libertad",
+      "id": null
+    },
+    {
+      "title": "Sé que voy a reir",
+      "id": null
+    },
+    {
+      "title": "La fuerza de un te quiero",
+      "id": null
+    }
+  ]
+}

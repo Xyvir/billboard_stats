@@ -1,1 +1,62 @@
-{"id": "southern-rain-billy-ray-cyrus", "title": "Southern Rain", "artist": "Billy Ray Cyrus", "peak": 102, "history": [{"date": "2000-11-04", "rank": 102}, {"date": "2000-11-11", "rank": 165}]}
+{
+  "id": "southern-rain-billy-ray-cyrus",
+  "title": "Southern Rain",
+  "artist": "Billy Ray Cyrus",
+  "peak": 102,
+  "history": [
+    {
+      "date": "2000-11-04",
+      "rank": 102
+    },
+    {
+      "date": "2000-11-11",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Won't Be Lonely Now",
+      "id": "you-won-t-be-lonely-now-billy-ray-cyrus"
+    },
+    {
+      "title": "Southern Rain",
+      "id": null
+    },
+    {
+      "title": "All I'm Thinking About is You",
+      "id": null
+    },
+    {
+      "title": "We the People",
+      "id": null
+    },
+    {
+      "title": "I Will",
+      "id": null
+    },
+    {
+      "title": "Love You Back",
+      "id": null
+    },
+    {
+      "title": "Burn Down the Trailer Park",
+      "id": null
+    },
+    {
+      "title": "Everywhere I Wanna Be",
+      "id": null
+    },
+    {
+      "title": "Crazy 'Bout You Baby",
+      "id": null
+    },
+    {
+      "title": "Without You",
+      "id": null
+    },
+    {
+      "title": "Hey Elvis",
+      "id": null
+    }
+  ]
+}

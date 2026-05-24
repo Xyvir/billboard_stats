@@ -1,1 +1,74 @@
-{"id": "soy-el-mismo-prince-royce", "title": "Soy El Mismo", "artist": "Prince Royce", "peak": 14, "history": [{"date": "2013-10-26", "rank": 14}, {"date": "2013-11-02", "rank": 39}, {"date": "2013-11-09", "rank": 93}, {"date": "2013-11-16", "rank": 122}, {"date": "2013-11-23", "rank": 188}]}
+{
+  "id": "soy-el-mismo-prince-royce",
+  "title": "Soy El Mismo",
+  "artist": "Prince Royce",
+  "peak": 14,
+  "history": [
+    {
+      "date": "2013-10-26",
+      "rank": 14
+    },
+    {
+      "date": "2013-11-02",
+      "rank": 39
+    },
+    {
+      "date": "2013-11-09",
+      "rank": 93
+    },
+    {
+      "date": "2013-11-16",
+      "rank": 122
+    },
+    {
+      "date": "2013-11-23",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Darte un beso",
+      "id": "darte-un-beso-prince-royce"
+    },
+    {
+      "title": "Soy el mismo",
+      "id": null
+    },
+    {
+      "title": "Te robaré",
+      "id": null
+    },
+    {
+      "title": "You Are Fire",
+      "id": null
+    },
+    {
+      "title": "Me encanta",
+      "id": null
+    },
+    {
+      "title": "Tu príncipe",
+      "id": null
+    },
+    {
+      "title": "Already Missing You",
+      "id": null
+    },
+    {
+      "title": "Invisible",
+      "id": null
+    },
+    {
+      "title": "Kiss Kiss",
+      "id": null
+    },
+    {
+      "title": "Nada",
+      "id": null
+    },
+    {
+      "title": "Te regalo el mar",
+      "id": null
+    }
+  ]
+}
