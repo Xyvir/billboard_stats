@@ -1,1 +1,66 @@
-{"id": "night-lights-harmony-four-tops", "title": "Night Lights Harmony", "artist": "Four Tops", "peak": 148, "history": [{"date": "1975-06-14", "rank": 184}, {"date": "1975-06-21", "rank": 174}, {"date": "1975-06-28", "rank": 164}, {"date": "1975-07-05", "rank": 154}, {"date": "1975-07-12", "rank": 148}]}
+{
+  "id": "night-lights-harmony-four-tops",
+  "title": "Night Lights Harmony",
+  "artist": "Four Tops",
+  "peak": 148,
+  "history": [
+    {
+      "date": "1975-06-14",
+      "rank": 184
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 174
+    },
+    {
+      "date": "1975-06-28",
+      "rank": 164
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 154
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 148
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Seven Lonely Nights",
+      "id": "seven-lonely-nights-four-tops"
+    },
+    {
+      "title": "We All Gotta Stick Together",
+      "id": "we-all-gotta-stick-together-four-tops"
+    },
+    {
+      "title": "(It Would Almost) Drive Me Out of My Mind",
+      "id": "i-just-can-t-get-you-out-of-my-mind-four-tops"
+    },
+    {
+      "title": "Mama You're All Right With Me",
+      "id": null
+    },
+    {
+      "title": "Is This the Price?",
+      "id": null
+    },
+    {
+      "title": "I've Got What You Need",
+      "id": null
+    },
+    {
+      "title": "I Can't Hold on Much Longer",
+      "id": null
+    },
+    {
+      "title": "I'm Glad You Walked Into My Life (Dedicated to Stevie)",
+      "id": null
+    },
+    {
+      "title": "Let Me Know the Truth",
+      "id": null
+    }
+  ]
+}

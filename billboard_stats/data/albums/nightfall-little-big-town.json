@@ -1,1 +1,70 @@
-{"id": "nightfall-little-big-town", "title": "Nightfall", "artist": "Little Big Town", "peak": 13, "history": [{"date": "2020-02-01", "rank": 13}, {"date": "2020-02-08", "rank": 126}]}
+{
+  "id": "nightfall-little-big-town",
+  "title": "Nightfall",
+  "artist": "Little Big Town",
+  "peak": 13,
+  "history": [
+    {
+      "date": "2020-02-01",
+      "rank": 13
+    },
+    {
+      "date": "2020-02-08",
+      "rank": 126
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Over Drinking",
+      "id": "day-drinking-little-big-town"
+    },
+    {
+      "title": "Wine, Beer, Whiskey",
+      "id": "wine-beer-whiskey-little-big-town"
+    },
+    {
+      "title": "Next to You",
+      "id": null
+    },
+    {
+      "title": "Nightfall",
+      "id": null
+    },
+    {
+      "title": "Forever and a Night",
+      "id": null
+    },
+    {
+      "title": "Throw Your Love Away",
+      "id": null
+    },
+    {
+      "title": "Questions",
+      "id": null
+    },
+    {
+      "title": "The Daughters",
+      "id": null
+    },
+    {
+      "title": "River of Stars",
+      "id": null
+    },
+    {
+      "title": "Sugar Coat",
+      "id": null
+    },
+    {
+      "title": "Problem Child",
+      "id": null
+    },
+    {
+      "title": "Bluebird",
+      "id": null
+    },
+    {
+      "title": "Trouble With Forever",
+      "id": null
+    }
+  ]
+}

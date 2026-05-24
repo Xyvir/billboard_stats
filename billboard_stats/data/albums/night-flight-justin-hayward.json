@@ -1,1 +1,78 @@
-{"id": "night-flight-justin-hayward", "title": "Night Flight", "artist": "Justin Hayward", "peak": 166, "history": [{"date": "1980-08-09", "rank": 186}, {"date": "1980-08-16", "rank": 176}, {"date": "1980-08-23", "rank": 166}, {"date": "1980-08-30", "rank": 166}, {"date": "1980-09-06", "rank": 182}]}
+{
+  "id": "night-flight-justin-hayward",
+  "title": "Night Flight",
+  "artist": "Justin Hayward",
+  "peak": 166,
+  "history": [
+    {
+      "date": "1980-08-09",
+      "rank": 186
+    },
+    {
+      "date": "1980-08-16",
+      "rank": 176
+    },
+    {
+      "date": "1980-08-23",
+      "rank": 166
+    },
+    {
+      "date": "1980-08-30",
+      "rank": 166
+    },
+    {
+      "date": "1980-09-06",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Forever Autumn (live)",
+      "id": "forever-autumn-justin-hayward"
+    },
+    {
+      "title": "Night Flight",
+      "id": null
+    },
+    {
+      "title": "Maybe It's Just Love",
+      "id": null
+    },
+    {
+      "title": "Crazy Lovers",
+      "id": null
+    },
+    {
+      "title": "Penumbra Moon",
+      "id": null
+    },
+    {
+      "title": "Nearer to You",
+      "id": null
+    },
+    {
+      "title": "A Face in the Crowd",
+      "id": null
+    },
+    {
+      "title": "Suitcase",
+      "id": null
+    },
+    {
+      "title": "I'm Sorry",
+      "id": null
+    },
+    {
+      "title": "It's Not On",
+      "id": null
+    },
+    {
+      "title": "Bedtime Stories",
+      "id": null
+    },
+    {
+      "title": "Bedtime Stories (single version)",
+      "id": null
+    }
+  ]
+}

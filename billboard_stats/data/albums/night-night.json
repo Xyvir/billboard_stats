@@ -1,1 +1,90 @@
-{"id": "night-night", "title": "Night", "artist": "Night", "peak": 113, "history": [{"date": "1979-08-11", "rank": 182}, {"date": "1979-08-18", "rank": 131}, {"date": "1979-08-25", "rank": 127}, {"date": "1979-09-01", "rank": 126}, {"date": "1979-09-08", "rank": 125}, {"date": "1979-09-15", "rank": 115}, {"date": "1979-09-22", "rank": 113}, {"date": "1979-09-29", "rank": 113}, {"date": "1979-10-06", "rank": 174}, {"date": "1979-10-13", "rank": 200}]}
+{
+  "id": "night-night",
+  "title": "Night",
+  "artist": "Night",
+  "peak": 113,
+  "history": [
+    {
+      "date": "1979-08-11",
+      "rank": 182
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 131
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 127
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 126
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 125
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 115
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 113
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 113
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 174
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Out of the Ashes",
+      "id": "love-on-the-airwaves-night"
+    },
+    {
+      "title": "Fire and Steel",
+      "id": null
+    },
+    {
+      "title": "Gunpowder Treason",
+      "id": null
+    },
+    {
+      "title": "Running in the Night",
+      "id": null
+    },
+    {
+      "title": "Taking You Down",
+      "id": null
+    },
+    {
+      "title": "Hang 'Em High",
+      "id": null
+    },
+    {
+      "title": "Stand Your Ground",
+      "id": null
+    },
+    {
+      "title": "Play It Loud",
+      "id": null
+    },
+    {
+      "title": "Into the Night",
+      "id": null
+    },
+    {
+      "title": "Keep the Fire Burning",
+      "id": null
+    }
+  ]
+}
