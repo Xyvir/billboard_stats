@@ -1,1 +1,62 @@
-{"id": "sound-fury-sturgill-simpson", "title": "SOUND & FURY", "artist": "Sturgill Simpson", "peak": 12, "history": [{"date": "2019-10-12", "rank": 12}, {"date": "2019-10-19", "rank": 55}, {"date": "2019-10-26", "rank": 152}]}
+{
+  "id": "sound-fury-sturgill-simpson",
+  "title": "SOUND & FURY",
+  "artist": "Sturgill Simpson",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2019-10-12",
+      "rank": 12
+    },
+    {
+      "date": "2019-10-19",
+      "rank": 55
+    },
+    {
+      "date": "2019-10-26",
+      "rank": 152
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ronin",
+      "id": null
+    },
+    {
+      "title": "Remember to Breathe",
+      "id": null
+    },
+    {
+      "title": "Sing Along",
+      "id": null
+    },
+    {
+      "title": "A Good Look",
+      "id": null
+    },
+    {
+      "title": "Make Art Not Friends",
+      "id": null
+    },
+    {
+      "title": "Best Clockmaker on Mars",
+      "id": null
+    },
+    {
+      "title": "All Said and Done",
+      "id": null
+    },
+    {
+      "title": "Last Man Standing",
+      "id": null
+    },
+    {
+      "title": "Mercury in Retrograde",
+      "id": null
+    },
+    {
+      "title": "Fastest Horse in Town",
+      "id": null
+    }
+  ]
+}
