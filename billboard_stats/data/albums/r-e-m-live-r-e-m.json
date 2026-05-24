@@ -1,1 +1,106 @@
-{"id": "r-e-m-live-r-e-m", "title": "R.E.M. Live", "artist": "R.E.M.", "peak": 72, "history": [{"date": "2007-11-03", "rank": 72}, {"date": "2007-11-10", "rank": 172}]}
+{
+  "id": "r-e-m-live-r-e-m",
+  "title": "R.E.M. Live",
+  "artist": "R.E.M.",
+  "peak": 72,
+  "history": [
+    {
+      "date": "2007-11-03",
+      "rank": 72
+    },
+    {
+      "date": "2007-11-10",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Everybody Hurts",
+      "id": "everybody-hurts-r-e-m"
+    },
+    {
+      "title": "Electron Blue",
+      "id": "electrolite-r-e-m"
+    },
+    {
+      "title": "The Great Beyond",
+      "id": "the-great-beyond-r-e-m"
+    },
+    {
+      "title": "Orange Crush",
+      "id": "strange-currencies-r-e-m"
+    },
+    {
+      "title": "Imitation of Life",
+      "id": "imitation-of-life-r-e-m"
+    },
+    {
+      "title": "The One I Love",
+      "id": "the-one-i-love-r-e-m"
+    },
+    {
+      "title": "Losing My Religion",
+      "id": "losing-my-religion-r-e-m"
+    },
+    {
+      "title": "What’s the Frequency, Kenneth?",
+      "id": "what-s-the-frequency-kenneth-r-e-m"
+    },
+    {
+      "title": "Drive",
+      "id": "drive-r-e-m"
+    },
+    {
+      "title": "Man on the Moon",
+      "id": "man-on-the-moon-r-e-m"
+    },
+    {
+      "title": "I Took Your Name",
+      "id": null
+    },
+    {
+      "title": "So Fast, So Numb",
+      "id": null
+    },
+    {
+      "title": "Boy in the Well",
+      "id": null
+    },
+    {
+      "title": "Cuyahoga",
+      "id": null
+    },
+    {
+      "title": "Bad Day",
+      "id": null
+    },
+    {
+      "title": "The Ascent of Man",
+      "id": null
+    },
+    {
+      "title": "Leaving New York",
+      "id": null
+    },
+    {
+      "title": "I Wanted to Be Wrong",
+      "id": null
+    },
+    {
+      "title": "Final Straw",
+      "id": null
+    },
+    {
+      "title": "Walk Unafraid",
+      "id": null
+    },
+    {
+      "title": "(Don’t Go Back to) Rockville",
+      "id": null
+    },
+    {
+      "title": "I’m Gonna DJ",
+      "id": null
+    }
+  ]
+}

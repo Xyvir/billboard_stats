@@ -1,1 +1,62 @@
-{"id": "remember-my-name-lil-durk", "title": "Remember My Name", "artist": "Lil Durk", "peak": 14, "history": [{"date": "2015-06-20", "rank": 14}, {"date": "2015-06-27", "rank": 80}, {"date": "2015-07-04", "rank": 164}]}
+{
+  "id": "remember-my-name-lil-durk",
+  "title": "Remember My Name",
+  "artist": "Lil Durk",
+  "peak": 14,
+  "history": [
+    {
+      "date": "2015-06-20",
+      "rank": 14
+    },
+    {
+      "date": "2015-06-27",
+      "rank": 80
+    },
+    {
+      "date": "2015-07-04",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Resume",
+      "id": "refugee-lil-durk"
+    },
+    {
+      "title": "500 Homicides",
+      "id": null
+    },
+    {
+      "title": "Amber Alert",
+      "id": null
+    },
+    {
+      "title": "Like Me",
+      "id": null
+    },
+    {
+      "title": "Lord Don’t Make Me Do It",
+      "id": null
+    },
+    {
+      "title": "Don’t Judge Me",
+      "id": null
+    },
+    {
+      "title": "Tryna’ Tryna’",
+      "id": null
+    },
+    {
+      "title": "Higher",
+      "id": null
+    },
+    {
+      "title": "What Your Life Like",
+      "id": null
+    },
+    {
+      "title": "Why Me",
+      "id": null
+    }
+  ]
+}

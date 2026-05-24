@@ -1,1 +1,50 @@
-{"id": "remixed-sarah-mclachlan", "title": "Remixed", "artist": "Sarah McLachlan", "peak": 200, "history": [{"date": "2004-01-17", "rank": 200}]}
+{
+  "id": "remixed-sarah-mclachlan",
+  "title": "Remixed",
+  "artist": "Sarah McLachlan",
+  "peak": 200,
+  "history": [
+    {
+      "date": "2004-01-17",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sweet Surrender (DJ Tiësto mix)",
+      "id": "sweet-surrender-sarah-mclachlan"
+    },
+    {
+      "title": "Fear (Hybrid’s Super Collider mix)",
+      "id": null
+    },
+    {
+      "title": "I Love You (BT mix)",
+      "id": null
+    },
+    {
+      "title": "Possession (Rabbit in the Moon mix)",
+      "id": null
+    },
+    {
+      "title": "Angel (Dusted remix)",
+      "id": null
+    },
+    {
+      "title": "Black (William Orbit mix)",
+      "id": null
+    },
+    {
+      "title": "Silence (DJ Tiësto In Search of Sunrise remix) (edit)",
+      "id": null
+    },
+    {
+      "title": "Hold On (BT mix)",
+      "id": null
+    },
+    {
+      "title": "Plenty (Fade mix)",
+      "id": null
+    }
+  ]
+}

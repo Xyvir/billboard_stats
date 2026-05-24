@@ -1,1 +1,62 @@
-{"id": "renaissance-the-miracles", "title": "Renaissance", "artist": "The Miracles", "peak": 174, "history": [{"date": "1973-06-02", "rank": 195}, {"date": "1973-06-09", "rank": 179}, {"date": "1973-06-16", "rank": 179}, {"date": "1973-06-23", "rank": 174}]}
+{
+  "id": "renaissance-the-miracles",
+  "title": "Renaissance",
+  "artist": "The Miracles",
+  "peak": 174,
+  "history": [
+    {
+      "date": "1973-06-02",
+      "rank": 195
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 179
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 179
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Let It End (Til You Let It Begin)",
+      "id": "don-t-let-it-end-til-you-let-it-begin-the-miracles"
+    },
+    {
+      "title": "What Is a Heart Good For (album version)",
+      "id": null
+    },
+    {
+      "title": "If You’re Ever in the Neighborhood",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be With You",
+      "id": null
+    },
+    {
+      "title": "Wigs and Lashes",
+      "id": null
+    },
+    {
+      "title": "I Love You Secretly",
+      "id": null
+    },
+    {
+      "title": "I Don’t Need No Reason",
+      "id": null
+    },
+    {
+      "title": "Nowhere to Go",
+      "id": null
+    },
+    {
+      "title": "I Didn’t Realize the Show Was Over",
+      "id": null
+    }
+  ]
+}

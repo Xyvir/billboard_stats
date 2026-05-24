@@ -1,1 +1,90 @@
-{"id": "remington-granger-smith", "title": "Remington", "artist": "Granger Smith", "peak": 12, "history": [{"date": "2016-03-26", "rank": 12}, {"date": "2016-04-02", "rank": 59}, {"date": "2016-04-09", "rank": 96}, {"date": "2016-04-16", "rank": 131}, {"date": "2016-04-23", "rank": 165}]}
+{
+  "id": "remington-granger-smith",
+  "title": "Remington",
+  "artist": "Granger Smith",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2016-03-26",
+      "rank": 12
+    },
+    {
+      "date": "2016-04-02",
+      "rank": 59
+    },
+    {
+      "date": "2016-04-09",
+      "rank": 96
+    },
+    {
+      "date": "2016-04-16",
+      "rank": 131
+    },
+    {
+      "date": "2016-04-23",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Backroad Song",
+      "id": "backroad-song-granger-smith"
+    },
+    {
+      "title": "If the Boot Fits",
+      "id": "if-the-boot-fits-granger-smith"
+    },
+    {
+      "title": "Tonight",
+      "id": null
+    },
+    {
+      "title": "Remington",
+      "id": null
+    },
+    {
+      "title": "Tailgate Town",
+      "id": null
+    },
+    {
+      "title": "Blue Collar Dollars",
+      "id": null
+    },
+    {
+      "title": "Crazy As Me",
+      "id": null
+    },
+    {
+      "title": "Likin' Love Songs",
+      "id": null
+    },
+    {
+      "title": "Tractor",
+      "id": null
+    },
+    {
+      "title": "Echo",
+      "id": null
+    },
+    {
+      "title": "Around the Sun",
+      "id": null
+    },
+    {
+      "title": "5 More Minutes (GS Reloaded Bonus Track)",
+      "id": null
+    },
+    {
+      "title": "Country Boy Love (EDJ Reloaded Bonus Track)",
+      "id": null
+    },
+    {
+      "title": "City Boy Stuck",
+      "id": null
+    },
+    {
+      "title": "Merica",
+      "id": null
+    }
+  ]
+}

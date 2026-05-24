@@ -1,1 +1,54 @@
-{"id": "renaissance-ray-charles", "title": "Renaissance", "artist": "Ray Charles", "peak": 175, "history": [{"date": "1975-06-28", "rank": 197}, {"date": "1975-07-05", "rank": 180}, {"date": "1975-07-12", "rank": 175}]}
+{
+  "id": "renaissance-ray-charles",
+  "title": "Renaissance",
+  "artist": "Ray Charles",
+  "peak": 175,
+  "history": [
+    {
+      "date": "1975-06-28",
+      "rank": 197
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 180
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Living for the City",
+      "id": "living-for-the-city-ray-charles"
+    },
+    {
+      "title": "Then We’ll Be Home",
+      "id": null
+    },
+    {
+      "title": "My God and I",
+      "id": null
+    },
+    {
+      "title": "We’re Gonna Make It",
+      "id": null
+    },
+    {
+      "title": "For Mama “La Mamma”",
+      "id": null
+    },
+    {
+      "title": "Sunshine",
+      "id": null
+    },
+    {
+      "title": "It Ain’t Easy Being Green",
+      "id": null
+    },
+    {
+      "title": "Sail Away",
+      "id": null
+    }
+  ]
+}

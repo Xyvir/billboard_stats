@@ -1,1 +1,58 @@
-{"id": "renaissance-village-people", "title": "Renaissance", "artist": "Village People", "peak": 138, "history": [{"date": "1981-08-01", "rank": 149}, {"date": "1981-08-08", "rank": 138}, {"date": "1981-08-15", "rank": 138}, {"date": "1981-08-22", "rank": 168}]}
+{
+  "id": "renaissance-village-people",
+  "title": "Renaissance",
+  "artist": "Village People",
+  "peak": 138,
+  "history": [
+    {
+      "date": "1981-08-01",
+      "rank": 149
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 138
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 138
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Action Man",
+      "id": "macho-man-village-people"
+    },
+    {
+      "title": "Do You Wanna Spend the Night",
+      "id": null
+    },
+    {
+      "title": "5 O’Clock in the Morning",
+      "id": null
+    },
+    {
+      "title": "Fireman",
+      "id": null
+    },
+    {
+      "title": "Jungle City",
+      "id": null
+    },
+    {
+      "title": "Big Mac",
+      "id": null
+    },
+    {
+      "title": "Diet",
+      "id": null
+    },
+    {
+      "title": "Food Fight",
+      "id": null
+    }
+  ]
+}

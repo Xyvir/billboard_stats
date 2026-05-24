@@ -1,1 +1,82 @@
-{"id": "remix-city-volume-1-r-kelly", "title": "Remix City Volume 1", "artist": "R. Kelly", "peak": 72, "history": [{"date": "2005-12-03", "rank": 72}, {"date": "2005-12-10", "rank": 144}, {"date": "2005-12-17", "rank": 178}, {"date": "2005-12-24", "rank": 181}]}
+{
+  "id": "remix-city-volume-1-r-kelly",
+  "title": "Remix City Volume 1",
+  "artist": "R. Kelly",
+  "peak": 72,
+  "history": [
+    {
+      "date": "2005-12-03",
+      "rank": 72
+    },
+    {
+      "date": "2005-12-10",
+      "rank": 144
+    },
+    {
+      "date": "2005-12-17",
+      "rank": 178
+    },
+    {
+      "date": "2005-12-24",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bump n’ Grind (Old School mix)",
+      "id": "bump-n-grind-r-kelly"
+    },
+    {
+      "title": "Your Body’s Callin’ (His & Hers extended mix)",
+      "id": "your-body-s-callin-r-kelly"
+    },
+    {
+      "title": "I Can't Sleep Baby (If I) (remix, radio version)",
+      "id": "i-can-t-sleep-baby-if-i-r-kelly"
+    },
+    {
+      "title": "Feelin' on Yo Booty (Hypnosis mix)",
+      "id": "feelin-on-yo-booty-r-kelly"
+    },
+    {
+      "title": "Ignition (remix)",
+      "id": "ignition-r-kelly"
+    },
+    {
+      "title": "Step in the Name of Love (remix)",
+      "id": "step-in-the-name-of-love-r-kelly"
+    },
+    {
+      "title": "Feelin' on Yo Booty (dirty South mix)",
+      "id": "feelin-on-yo-booty-r-kelly"
+    },
+    {
+      "title": "Slow Dance (Hey Mr. DJ) / After the Party's Over (Singin' mix)",
+      "id": null
+    },
+    {
+      "title": "Sex Me, Part II (extended street version)",
+      "id": null
+    },
+    {
+      "title": "Down Low (Nobody Has to Know) (Live to Regret It mix) (Blame It on the Mo)",
+      "id": null
+    },
+    {
+      "title": "I Wish (remix) (To the Homies That We Lost)",
+      "id": null
+    },
+    {
+      "title": "I Mean (I Don't Mean It)",
+      "id": null
+    },
+    {
+      "title": "Slow Wind (remix)",
+      "id": null
+    },
+    {
+      "title": "Burn It Up (remix)",
+      "id": null
+    }
+  ]
+}
