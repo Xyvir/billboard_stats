@@ -1,1 +1,58 @@
-{"id": "paradise-cody-simpson", "title": "Paradise", "artist": "Cody Simpson", "peak": 27, "history": [{"date": "2012-10-20", "rank": 27}, {"date": "2012-10-27", "rank": 125}]}
+{
+  "id": "paradise-cody-simpson",
+  "title": "Paradise",
+  "artist": "Cody Simpson",
+  "peak": 27,
+  "history": [
+    {
+      "date": "2012-10-20",
+      "rank": 27
+    },
+    {
+      "date": "2012-10-27",
+      "rank": 125
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Paradise",
+      "id": null
+    },
+    {
+      "title": "Got Me Good",
+      "id": null
+    },
+    {
+      "title": "Be the One",
+      "id": null
+    },
+    {
+      "title": "Hello",
+      "id": null
+    },
+    {
+      "title": "Tears On Your Pillow",
+      "id": null
+    },
+    {
+      "title": "Wish U Were Here",
+      "id": null
+    },
+    {
+      "title": "I Love Girls",
+      "id": null
+    },
+    {
+      "title": "Back to You",
+      "id": null
+    },
+    {
+      "title": "Summer Shade",
+      "id": null
+    },
+    {
+      "title": "Gentleman",
+      "id": null
+    }
+  ]
+}

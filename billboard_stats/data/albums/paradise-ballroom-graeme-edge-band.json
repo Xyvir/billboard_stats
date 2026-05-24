@@ -1,1 +1,54 @@
-{"id": "paradise-ballroom-graeme-edge-band", "title": "Paradise Ballroom", "artist": "Graeme Edge Band", "peak": 164, "history": [{"date": "1977-07-09", "rank": 184}, {"date": "1977-07-16", "rank": 174}, {"date": "1977-07-23", "rank": 164}, {"date": "1977-07-30", "rank": 164}]}
+{
+  "id": "paradise-ballroom-graeme-edge-band",
+  "title": "Paradise Ballroom",
+  "artist": "Graeme Edge Band",
+  "peak": 164,
+  "history": [
+    {
+      "date": "1977-07-09",
+      "rank": 184
+    },
+    {
+      "date": "1977-07-16",
+      "rank": 174
+    },
+    {
+      "date": "1977-07-23",
+      "rank": 164
+    },
+    {
+      "date": "1977-07-30",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Paradise Ballroom",
+      "id": null
+    },
+    {
+      "title": "Human",
+      "id": null
+    },
+    {
+      "title": "Everybody Needs Somebody",
+      "id": null
+    },
+    {
+      "title": "All Is Fair",
+      "id": null
+    },
+    {
+      "title": "Down, Down, Down",
+      "id": null
+    },
+    {
+      "title": "In the Night of the Light",
+      "id": null
+    },
+    {
+      "title": "Caroline",
+      "id": null
+    }
+  ]
+}

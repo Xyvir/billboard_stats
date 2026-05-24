@@ -1,1 +1,106 @@
-{"id": "parade-spandau-ballet", "title": "Parade", "artist": "Spandau Ballet", "peak": 50, "history": [{"date": "1984-08-18", "rank": 125}, {"date": "1984-08-25", "rank": 84}, {"date": "1984-09-01", "rank": 72}, {"date": "1984-09-08", "rank": 66}, {"date": "1984-09-15", "rank": 64}, {"date": "1984-09-22", "rank": 57}, {"date": "1984-09-29", "rank": 50}, {"date": "1984-10-06", "rank": 50}, {"date": "1984-10-13", "rank": 50}, {"date": "1984-10-20", "rank": 64}, {"date": "1984-10-27", "rank": 71}, {"date": "1984-11-03", "rank": 96}, {"date": "1984-11-10", "rank": 111}, {"date": "1984-11-17", "rank": 132}, {"date": "1984-11-24", "rank": 175}, {"date": "1984-12-01", "rank": 194}]}
+{
+  "id": "parade-spandau-ballet",
+  "title": "Parade",
+  "artist": "Spandau Ballet",
+  "peak": 50,
+  "history": [
+    {
+      "date": "1984-08-18",
+      "rank": 125
+    },
+    {
+      "date": "1984-08-25",
+      "rank": 84
+    },
+    {
+      "date": "1984-09-01",
+      "rank": 72
+    },
+    {
+      "date": "1984-09-08",
+      "rank": 66
+    },
+    {
+      "date": "1984-09-15",
+      "rank": 64
+    },
+    {
+      "date": "1984-09-22",
+      "rank": 57
+    },
+    {
+      "date": "1984-09-29",
+      "rank": 50
+    },
+    {
+      "date": "1984-10-06",
+      "rank": 50
+    },
+    {
+      "date": "1984-10-13",
+      "rank": 50
+    },
+    {
+      "date": "1984-10-20",
+      "rank": 64
+    },
+    {
+      "date": "1984-10-27",
+      "rank": 71
+    },
+    {
+      "date": "1984-11-03",
+      "rank": 96
+    },
+    {
+      "date": "1984-11-10",
+      "rank": 111
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 132
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 175
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Only When You Leave",
+      "id": "only-when-you-leave-spandau-ballet"
+    },
+    {
+      "title": "Highly Strung",
+      "id": null
+    },
+    {
+      "title": "I’ll Fly for You",
+      "id": null
+    },
+    {
+      "title": "Nature of the Beast",
+      "id": null
+    },
+    {
+      "title": "Revenge for Love",
+      "id": null
+    },
+    {
+      "title": "Always in the Back of My Mind",
+      "id": null
+    },
+    {
+      "title": "With the Pride",
+      "id": null
+    },
+    {
+      "title": "Round and Round",
+      "id": null
+    }
+  ]
+}
