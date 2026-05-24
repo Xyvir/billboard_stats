@@ -1,1 +1,46 @@
-{"id": "tenku-kitaro", "title": "Tenku", "artist": "Kitaro", "peak": 183, "history": [{"date": "1987-04-04", "rank": 183}]}
+{
+  "id": "tenku-kitaro",
+  "title": "Tenku",
+  "artist": "Kitaro",
+  "peak": 183,
+  "history": [
+    {
+      "date": "1987-04-04",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tenku",
+      "id": null
+    },
+    {
+      "title": "Romance",
+      "id": null
+    },
+    {
+      "title": "Wings",
+      "id": null
+    },
+    {
+      "title": "Aura",
+      "id": null
+    },
+    {
+      "title": "Message From the Cosmos",
+      "id": null
+    },
+    {
+      "title": "Time Traveller",
+      "id": null
+    },
+    {
+      "title": "Legend of the Road",
+      "id": null
+    },
+    {
+      "title": "Milky Way",
+      "id": null
+    }
+  ]
+}

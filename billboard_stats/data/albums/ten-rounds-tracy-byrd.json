@@ -1,1 +1,70 @@
-{"id": "ten-rounds-tracy-byrd", "title": "Ten Rounds", "artist": "Tracy Byrd", "peak": 119, "history": [{"date": "2001-08-11", "rank": 119}, {"date": "2001-08-18", "rank": 192}, {"date": "2002-08-10", "rank": 165}]}
+{
+  "id": "ten-rounds-tracy-byrd",
+  "title": "Ten Rounds",
+  "artist": "Tracy Byrd",
+  "peak": 119,
+  "history": [
+    {
+      "date": "2001-08-11",
+      "rank": 119
+    },
+    {
+      "date": "2001-08-18",
+      "rank": 192
+    },
+    {
+      "date": "2002-08-10",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Just Let Me Be in Love",
+      "id": "just-let-me-be-in-love-tracy-byrd"
+    },
+    {
+      "title": "Ten Rounds With Jose Cuervo",
+      "id": "ten-rounds-with-jose-cuervo-tracy-byrd"
+    },
+    {
+      "title": "Keeper of the Stars",
+      "id": "the-keeper-of-the-stars-tracy-byrd"
+    },
+    {
+      "title": "Somebody’s Dream",
+      "id": null
+    },
+    {
+      "title": "Wildfire",
+      "id": null
+    },
+    {
+      "title": "How Much Does the World Weigh",
+      "id": null
+    },
+    {
+      "title": "Summertime Fever",
+      "id": null
+    },
+    {
+      "title": "Crazy Every Time",
+      "id": null
+    },
+    {
+      "title": "A Good Way to Get on My Bad Side",
+      "id": null
+    },
+    {
+      "title": "Needed",
+      "id": null
+    },
+    {
+      "title": "Tryin’ Not to Love You",
+      "id": null
+    },
+    {
+      "title": "Never Gonna Break Again",
+      "id": null
+    }
+  ]
+}

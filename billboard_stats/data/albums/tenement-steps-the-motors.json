@@ -1,1 +1,74 @@
-{"id": "tenement-steps-the-motors", "title": "Tenement Steps", "artist": "The Motors", "peak": 174, "history": [{"date": "1980-04-12", "rank": 180}, {"date": "1980-04-19", "rank": 176}, {"date": "1980-04-26", "rank": 174}, {"date": "1980-05-03", "rank": 182}, {"date": "1980-05-10", "rank": 194}, {"date": "1980-05-17", "rank": 193}, {"date": "1980-05-24", "rank": 189}, {"date": "1980-05-31", "rank": 187}]}
+{
+  "id": "tenement-steps-the-motors",
+  "title": "Tenement Steps",
+  "artist": "The Motors",
+  "peak": 174,
+  "history": [
+    {
+      "date": "1980-04-12",
+      "rank": 180
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 176
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 174
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 182
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 194
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 193
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 189
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love and Loneliness",
+      "id": "love-and-loneliness-the-motors"
+    },
+    {
+      "title": "Metropolis",
+      "id": null
+    },
+    {
+      "title": "Modern Man",
+      "id": null
+    },
+    {
+      "title": "That's What John Said",
+      "id": null
+    },
+    {
+      "title": "Tenement Steps",
+      "id": null
+    },
+    {
+      "title": "Slum People",
+      "id": null
+    },
+    {
+      "title": "Here Comes the Hustler",
+      "id": null
+    },
+    {
+      "title": "Nightmare Zero",
+      "id": null
+    }
+  ]
+}

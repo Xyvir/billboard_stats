@@ -1,1 +1,78 @@
-{"id": "ten-new-songs-leonard-cohen", "title": "Ten New Songs", "artist": "Leonard Cohen", "peak": 143, "history": [{"date": "2001-10-27", "rank": 143}, {"date": "2001-11-03", "rank": 173}, {"date": "2001-11-17", "rank": 165}]}
+{
+  "id": "ten-new-songs-leonard-cohen",
+  "title": "Ten New Songs",
+  "artist": "Leonard Cohen",
+  "peak": 143,
+  "history": [
+    {
+      "date": "2001-10-27",
+      "rank": 143
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 173
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "In My Secret Life",
+      "id": null
+    },
+    {
+      "title": "A Thousand Kisses Deep",
+      "id": null
+    },
+    {
+      "title": "That Don’t Make It Junk",
+      "id": null
+    },
+    {
+      "title": "Here It Is",
+      "id": null
+    },
+    {
+      "title": "Love Itself",
+      "id": null
+    },
+    {
+      "title": "By the Rivers Dark",
+      "id": null
+    },
+    {
+      "title": "Alexandra Leaving",
+      "id": null
+    },
+    {
+      "title": "You Have Loved Enough",
+      "id": null
+    },
+    {
+      "title": "Boogie Street",
+      "id": null
+    },
+    {
+      "title": "The Land of Plenty",
+      "id": null
+    },
+    {
+      "title": "The Future",
+      "id": null
+    },
+    {
+      "title": "Everybody Knows",
+      "id": null
+    },
+    {
+      "title": "Take This Waltz",
+      "id": null
+    },
+    {
+      "title": "Dance Me to the End of Love",
+      "id": null
+    }
+  ]
+}
