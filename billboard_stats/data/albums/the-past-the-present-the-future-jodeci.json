@@ -1,1 +1,66 @@
-{"id": "the-past-the-present-the-future-jodeci", "title": "The Past, The Present, The Future", "artist": "Jodeci", "peak": 23, "history": [{"date": "2015-04-18", "rank": 23}, {"date": "2015-04-25", "rank": 62}, {"date": "2015-05-02", "rank": 98}, {"date": "2015-05-09", "rank": 164}]}
+{
+  "id": "the-past-the-present-the-future-jodeci",
+  "title": "The Past, The Present, The Future",
+  "artist": "Jodeci",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2015-04-18",
+      "rank": 23
+    },
+    {
+      "date": "2015-04-25",
+      "rank": 62
+    },
+    {
+      "date": "2015-05-02",
+      "rank": 98
+    },
+    {
+      "date": "2015-05-09",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Checkin For You",
+      "id": "cry-for-you-jodeci"
+    },
+    {
+      "title": "Too Hot",
+      "id": null
+    },
+    {
+      "title": "Sho Out",
+      "id": null
+    },
+    {
+      "title": "Those Things",
+      "id": null
+    },
+    {
+      "title": "Every Moment",
+      "id": null
+    },
+    {
+      "title": "Nobody Wins",
+      "id": null
+    },
+    {
+      "title": "Incredible",
+      "id": null
+    },
+    {
+      "title": "Jennifer",
+      "id": null
+    },
+    {
+      "title": "Body Parts",
+      "id": null
+    },
+    {
+      "title": "Stress Reliever",
+      "id": null
+    }
+  ]
+}

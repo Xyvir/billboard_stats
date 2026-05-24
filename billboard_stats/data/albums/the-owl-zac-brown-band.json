@@ -1,1 +1,70 @@
-{"id": "the-owl-zac-brown-band", "title": "The Owl", "artist": "Zac Brown Band", "peak": 2, "history": [{"date": "2019-10-05", "rank": 2}, {"date": "2019-10-12", "rank": 73}, {"date": "2019-10-19", "rank": 151}, {"date": "2019-11-16", "rank": 196}]}
+{
+  "id": "the-owl-zac-brown-band",
+  "title": "The Owl",
+  "artist": "Zac Brown Band",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2019-10-05",
+      "rank": 2
+    },
+    {
+      "date": "2019-10-12",
+      "rank": 73
+    },
+    {
+      "date": "2019-10-19",
+      "rank": 151
+    },
+    {
+      "date": "2019-11-16",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Woods",
+      "id": "the-wind-zac-brown-band"
+    },
+    {
+      "title": "Need This",
+      "id": null
+    },
+    {
+      "title": "OMW",
+      "id": null
+    },
+    {
+      "title": "Someone I Used to Know",
+      "id": null
+    },
+    {
+      "title": "Me and the Boys in the Band",
+      "id": null
+    },
+    {
+      "title": "Finish What We Started",
+      "id": null
+    },
+    {
+      "title": "God Given",
+      "id": null
+    },
+    {
+      "title": "Warrior",
+      "id": null
+    },
+    {
+      "title": "Shoofly Pie",
+      "id": null
+    },
+    {
+      "title": "Already on Fire",
+      "id": null
+    },
+    {
+      "title": "Leaving Love Behind",
+      "id": null
+    }
+  ]
+}

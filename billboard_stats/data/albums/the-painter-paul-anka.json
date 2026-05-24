@@ -1,1 +1,118 @@
-{"id": "the-painter-paul-anka", "title": "The Painter", "artist": "Paul Anka", "peak": 85, "history": [{"date": "1976-10-23", "rank": 144}, {"date": "1976-10-30", "rank": 127}, {"date": "1976-11-06", "rank": 117}, {"date": "1976-11-13", "rank": 107}, {"date": "1976-11-20", "rank": 102}, {"date": "1976-11-27", "rank": 99}, {"date": "1976-12-04", "rank": 97}, {"date": "1976-12-11", "rank": 95}, {"date": "1976-12-18", "rank": 93}, {"date": "1976-12-25", "rank": 88}, {"date": "1977-01-01", "rank": 88}, {"date": "1977-01-08", "rank": 85}, {"date": "1977-01-15", "rank": 114}, {"date": "1977-01-22", "rank": 161}, {"date": "1977-01-29", "rank": 191}]}
+{
+  "id": "the-painter-paul-anka",
+  "title": "The Painter",
+  "artist": "Paul Anka",
+  "peak": 85,
+  "history": [
+    {
+      "date": "1976-10-23",
+      "rank": 144
+    },
+    {
+      "date": "1976-10-30",
+      "rank": 127
+    },
+    {
+      "date": "1976-11-06",
+      "rank": 117
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 107
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 102
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 99
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 97
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 95
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 93
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 88
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 88
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 85
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 114
+    },
+    {
+      "date": "1977-01-22",
+      "rank": 161
+    },
+    {
+      "date": "1977-01-29",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Happier",
+      "id": "happier-paul-anka"
+    },
+    {
+      "title": "I’ll Help You",
+      "id": "do-i-love-you-paul-anka"
+    },
+    {
+      "title": "Do I Love You? (Yes, in Every Way)",
+      "id": "i-love-you-in-the-same-old-way-paul-anka"
+    },
+    {
+      "title": "(You Bring Out) The Best in Me",
+      "id": null
+    },
+    {
+      "title": "Wildflower",
+      "id": null
+    },
+    {
+      "title": "The Painter",
+      "id": null
+    },
+    {
+      "title": "Closing Doors",
+      "id": null
+    },
+    {
+      "title": "Living Isn't Living",
+      "id": null
+    },
+    {
+      "title": "Aldous (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Never Gonna Fall in Love Again (Like I Fell in Love with You)",
+      "id": null
+    },
+    {
+      "title": "Prelude",
+      "id": null
+    },
+    {
+      "title": "(You Bring Out) The Best in Me (Reprise)",
+      "id": null
+    }
+  ]
+}
