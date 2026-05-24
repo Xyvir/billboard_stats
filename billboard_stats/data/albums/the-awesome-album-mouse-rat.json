@@ -1,1 +1,42 @@
-{"id": "the-awesome-album-mouse-rat", "title": "The Awesome Album", "artist": "Mouse Rat", "peak": 133, "history": [{"date": "2021-11-27", "rank": 133}]}
+{
+  "id": "the-awesome-album-mouse-rat",
+  "title": "The Awesome Album",
+  "artist": "Mouse Rat",
+  "peak": 133,
+  "history": [
+    {
+      "date": "2021-11-27",
+      "rank": 133
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Pit",
+      "id": null
+    },
+    {
+      "title": "Remember",
+      "id": null
+    },
+    {
+      "title": "Menace Ball",
+      "id": null
+    },
+    {
+      "title": "Ann Song",
+      "id": null
+    },
+    {
+      "title": "Sex Hair",
+      "id": null
+    },
+    {
+      "title": "November",
+      "id": null
+    },
+    {
+      "title": "Two Birds Holding Hands",
+      "id": null
+    }
+  ]
+}

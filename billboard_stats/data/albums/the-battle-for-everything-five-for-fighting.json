@@ -1,1 +1,226 @@
-{"id": "the-battle-for-everything-five-for-fighting", "title": "The Battle For Everything", "artist": "Five for Fighting", "peak": 20, "history": [{"date": "2004-02-21", "rank": 20}, {"date": "2004-02-28", "rank": 43}, {"date": "2004-03-06", "rank": 48}, {"date": "2004-03-13", "rank": 53}, {"date": "2004-03-20", "rank": 47}, {"date": "2004-03-27", "rank": 41}, {"date": "2004-04-03", "rank": 38}, {"date": "2004-04-10", "rank": 48}, {"date": "2004-04-17", "rank": 62}, {"date": "2004-04-24", "rank": 61}, {"date": "2004-05-01", "rank": 61}, {"date": "2004-05-08", "rank": 69}, {"date": "2004-05-15", "rank": 59}, {"date": "2004-05-22", "rank": 64}, {"date": "2004-05-29", "rank": 71}, {"date": "2004-06-05", "rank": 72}, {"date": "2004-06-12", "rank": 86}, {"date": "2004-06-19", "rank": 72}, {"date": "2004-06-26", "rank": 100}, {"date": "2004-07-03", "rank": 108}, {"date": "2004-07-10", "rank": 120}, {"date": "2004-07-17", "rank": 134}, {"date": "2004-07-24", "rank": 128}, {"date": "2004-07-31", "rank": 139}, {"date": "2004-08-07", "rank": 132}, {"date": "2004-08-14", "rank": 121}, {"date": "2004-08-21", "rank": 129}, {"date": "2004-08-28", "rank": 132}, {"date": "2004-09-04", "rank": 139}, {"date": "2004-09-11", "rank": 157}, {"date": "2004-09-18", "rank": 169}, {"date": "2004-09-25", "rank": 176}, {"date": "2004-10-02", "rank": 182}, {"date": "2004-10-09", "rank": 199}, {"date": "2004-11-20", "rank": 142}, {"date": "2004-11-27", "rank": 152}, {"date": "2005-01-22", "rank": 192}, {"date": "2005-01-29", "rank": 197}, {"date": "2005-06-11", "rank": 199}, {"date": "2005-06-18", "rank": 186}, {"date": "2005-06-25", "rank": 184}, {"date": "2005-07-02", "rank": 166}]}
+{
+  "id": "the-battle-for-everything-five-for-fighting",
+  "title": "The Battle For Everything",
+  "artist": "Five for Fighting",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2004-02-21",
+      "rank": 20
+    },
+    {
+      "date": "2004-02-28",
+      "rank": 43
+    },
+    {
+      "date": "2004-03-06",
+      "rank": 48
+    },
+    {
+      "date": "2004-03-13",
+      "rank": 53
+    },
+    {
+      "date": "2004-03-20",
+      "rank": 47
+    },
+    {
+      "date": "2004-03-27",
+      "rank": 41
+    },
+    {
+      "date": "2004-04-03",
+      "rank": 38
+    },
+    {
+      "date": "2004-04-10",
+      "rank": 48
+    },
+    {
+      "date": "2004-04-17",
+      "rank": 62
+    },
+    {
+      "date": "2004-04-24",
+      "rank": 61
+    },
+    {
+      "date": "2004-05-01",
+      "rank": 61
+    },
+    {
+      "date": "2004-05-08",
+      "rank": 69
+    },
+    {
+      "date": "2004-05-15",
+      "rank": 59
+    },
+    {
+      "date": "2004-05-22",
+      "rank": 64
+    },
+    {
+      "date": "2004-05-29",
+      "rank": 71
+    },
+    {
+      "date": "2004-06-05",
+      "rank": 72
+    },
+    {
+      "date": "2004-06-12",
+      "rank": 86
+    },
+    {
+      "date": "2004-06-19",
+      "rank": 72
+    },
+    {
+      "date": "2004-06-26",
+      "rank": 100
+    },
+    {
+      "date": "2004-07-03",
+      "rank": 108
+    },
+    {
+      "date": "2004-07-10",
+      "rank": 120
+    },
+    {
+      "date": "2004-07-17",
+      "rank": 134
+    },
+    {
+      "date": "2004-07-24",
+      "rank": 128
+    },
+    {
+      "date": "2004-07-31",
+      "rank": 139
+    },
+    {
+      "date": "2004-08-07",
+      "rank": 132
+    },
+    {
+      "date": "2004-08-14",
+      "rank": 121
+    },
+    {
+      "date": "2004-08-21",
+      "rank": 129
+    },
+    {
+      "date": "2004-08-28",
+      "rank": 132
+    },
+    {
+      "date": "2004-09-04",
+      "rank": 139
+    },
+    {
+      "date": "2004-09-11",
+      "rank": 157
+    },
+    {
+      "date": "2004-09-18",
+      "rank": 169
+    },
+    {
+      "date": "2004-09-25",
+      "rank": 176
+    },
+    {
+      "date": "2004-10-02",
+      "rank": 182
+    },
+    {
+      "date": "2004-10-09",
+      "rank": 199
+    },
+    {
+      "date": "2004-11-20",
+      "rank": 142
+    },
+    {
+      "date": "2004-11-27",
+      "rank": 152
+    },
+    {
+      "date": "2005-01-22",
+      "rank": 192
+    },
+    {
+      "date": "2005-01-29",
+      "rank": 197
+    },
+    {
+      "date": "2005-06-11",
+      "rank": 199
+    },
+    {
+      "date": "2005-06-18",
+      "rank": 186
+    },
+    {
+      "date": "2005-06-25",
+      "rank": 184
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "100 Years",
+      "id": "100-years-five-for-fighting"
+    },
+    {
+      "title": "NYC Weather Report",
+      "id": null
+    },
+    {
+      "title": "The Devil in the Wishing Well",
+      "id": null
+    },
+    {
+      "title": "If God Made You",
+      "id": null
+    },
+    {
+      "title": "Angels & Girlfriends",
+      "id": null
+    },
+    {
+      "title": "Dying",
+      "id": null
+    },
+    {
+      "title": "Infidel",
+      "id": null
+    },
+    {
+      "title": "Disneyland",
+      "id": null
+    },
+    {
+      "title": "Maybe I",
+      "id": null
+    },
+    {
+      "title": "The Taste",
+      "id": null
+    },
+    {
+      "title": "One More for Love",
+      "id": null
+    },
+    {
+      "title": "Nobody",
+      "id": null
+    }
+  ]
+}

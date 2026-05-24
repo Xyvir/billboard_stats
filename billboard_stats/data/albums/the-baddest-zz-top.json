@@ -1,1 +1,98 @@
-{"id": "the-baddest-zz-top", "title": "The Baddest", "artist": "ZZ Top", "peak": 95, "history": [{"date": "2014-08-09", "rank": 95}, {"date": "2014-08-16", "rank": 110}]}
+{
+  "id": "the-baddest-zz-top",
+  "title": "The Baddest",
+  "artist": "ZZ Top",
+  "peak": 95,
+  "history": [
+    {
+      "date": "2014-08-09",
+      "rank": 95
+    },
+    {
+      "date": "2014-08-16",
+      "rank": 110
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Gimme All Your Lovin’ (single version)",
+      "id": "gimme-all-your-lovin-zz-top"
+    },
+    {
+      "title": "Sharp Dressed Man (single version)",
+      "id": "sharp-dressed-man-zz-top"
+    },
+    {
+      "title": "La Grange",
+      "id": "la-grange-zz-top"
+    },
+    {
+      "title": "Tush",
+      "id": "tush-zz-top"
+    },
+    {
+      "title": "Cheap Sunglasses (single version)",
+      "id": "cheap-sunglasses-zz-top"
+    },
+    {
+      "title": "Doubleback",
+      "id": null
+    },
+    {
+      "title": "I Thank You (single version)",
+      "id": null
+    },
+    {
+      "title": "Legs (single version)",
+      "id": null
+    },
+    {
+      "title": "Tube Snake Boogie",
+      "id": null
+    },
+    {
+      "title": "Waitin’ for the Bus",
+      "id": null
+    },
+    {
+      "title": "Jesus Just Left Chicago",
+      "id": null
+    },
+    {
+      "title": "I’m Bad, I’m Nationwide",
+      "id": null
+    },
+    {
+      "title": "Pincushion",
+      "id": null
+    },
+    {
+      "title": "Got Me Under Pressure",
+      "id": null
+    },
+    {
+      "title": "Rough Boy (single version)",
+      "id": null
+    },
+    {
+      "title": "Velcro Fly (single version)",
+      "id": null
+    },
+    {
+      "title": "Rhythmeen",
+      "id": null
+    },
+    {
+      "title": "What’s Up With That",
+      "id": null
+    },
+    {
+      "title": "Mescalero",
+      "id": null
+    },
+    {
+      "title": "Viva Las Vegas (single version)",
+      "id": null
+    }
+  ]
+}
