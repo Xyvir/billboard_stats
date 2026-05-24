@@ -1,1 +1,74 @@
-{"id": "persona-queen-latifah", "title": "Persona", "artist": "Queen Latifah", "peak": 25, "history": [{"date": "2009-09-12", "rank": 25}, {"date": "2009-09-19", "rank": 120}]}
+{
+  "id": "persona-queen-latifah",
+  "title": "Persona",
+  "artist": "Queen Latifah",
+  "peak": 25,
+  "history": [
+    {
+      "date": "2009-09-12",
+      "rank": 25
+    },
+    {
+      "date": "2009-09-19",
+      "rank": 120
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Light",
+      "id": "it-s-alright-queen-latifah"
+    },
+    {
+      "title": "Fast Car",
+      "id": null
+    },
+    {
+      "title": "Cue the Rain",
+      "id": null
+    },
+    {
+      "title": "My Couch",
+      "id": null
+    },
+    {
+      "title": "Take Me Away (With You)",
+      "id": null
+    },
+    {
+      "title": "With You",
+      "id": null
+    },
+    {
+      "title": "Hard to Love Ya",
+      "id": null
+    },
+    {
+      "title": "What’s the Plan",
+      "id": null
+    },
+    {
+      "title": "Long Ass Week",
+      "id": null
+    },
+    {
+      "title": "Runnin",
+      "id": null
+    },
+    {
+      "title": "People",
+      "id": null
+    },
+    {
+      "title": "If He Wanna",
+      "id": null
+    },
+    {
+      "title": "Over the Mountain",
+      "id": null
+    },
+    {
+      "title": "The World",
+      "id": null
+    }
+  ]
+}

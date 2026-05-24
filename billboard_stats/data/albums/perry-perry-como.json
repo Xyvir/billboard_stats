@@ -1,1 +1,90 @@
-{"id": "perry-perry-como", "title": "Perry", "artist": "Perry Como", "peak": 138, "history": [{"date": "1974-08-17", "rank": 181}, {"date": "1974-08-24", "rank": 170}, {"date": "1974-08-31", "rank": 160}, {"date": "1974-09-07", "rank": 150}, {"date": "1974-09-14", "rank": 150}, {"date": "1974-09-21", "rank": 138}, {"date": "1974-09-28", "rank": 138}, {"date": "1974-10-05", "rank": 200}, {"date": "1974-10-12", "rank": 192}, {"date": "1974-10-19", "rank": 191}]}
+{
+  "id": "perry-perry-como",
+  "title": "Perry",
+  "artist": "Perry Como",
+  "peak": 138,
+  "history": [
+    {
+      "date": "1974-08-17",
+      "rank": 181
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 170
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 160
+    },
+    {
+      "date": "1974-09-07",
+      "rank": 150
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 150
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 138
+    },
+    {
+      "date": "1974-09-28",
+      "rank": 138
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 200
+    },
+    {
+      "date": "1974-10-12",
+      "rank": 192
+    },
+    {
+      "date": "1974-10-19",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Don’t Know What He Told You",
+      "id": "i-know-what-god-is-perry-como"
+    },
+    {
+      "title": "Temptation",
+      "id": null
+    },
+    {
+      "title": "The Hands of Time",
+      "id": null
+    },
+    {
+      "title": "You Are the Sunshine of My Life",
+      "id": null
+    },
+    {
+      "title": "Behind Closed Doors",
+      "id": null
+    },
+    {
+      "title": "That’s You",
+      "id": null
+    },
+    {
+      "title": "The Way We Were",
+      "id": null
+    },
+    {
+      "title": "The Most Beautiful Girl",
+      "id": null
+    },
+    {
+      "title": "Beyond Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Weave Me the Sunshine",
+      "id": null
+    }
+  ]
+}

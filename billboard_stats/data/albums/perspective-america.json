@@ -1,1 +1,66 @@
-{"id": "perspective-america", "title": "Perspective", "artist": "America", "peak": 185, "history": [{"date": "1984-11-10", "rank": 188}, {"date": "1984-11-17", "rank": 186}, {"date": "1984-11-24", "rank": 185}]}
+{
+  "id": "perspective-america",
+  "title": "Perspective",
+  "artist": "America",
+  "peak": 185,
+  "history": [
+    {
+      "date": "1984-11-10",
+      "rank": 188
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 186
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "We Got All Night",
+      "id": "woman-tonight-america"
+    },
+    {
+      "title": "See How the Love Goes",
+      "id": null
+    },
+    {
+      "title": "(Can’t Fall Asleep to a) Lullabye",
+      "id": null
+    },
+    {
+      "title": "Special Girl",
+      "id": null
+    },
+    {
+      "title": "5th Avenue",
+      "id": null
+    },
+    {
+      "title": "(It’s Like You) Never Left at All",
+      "id": null
+    },
+    {
+      "title": "Stereo",
+      "id": null
+    },
+    {
+      "title": "Lady With a Bluebird",
+      "id": null
+    },
+    {
+      "title": "Cinderella",
+      "id": null
+    },
+    {
+      "title": "Unconditional Love",
+      "id": null
+    },
+    {
+      "title": "Fallin’ Off the World",
+      "id": null
+    }
+  ]
+}
