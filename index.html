@@ -547,7 +547,8 @@
                             
                             // Try to find if this song belongs to one of the artist's albums
                             for (const [albumTitle, albumInfo] of Object.entries(albumLookup)) {
-                                const albumHasTrack = albumInfo.songs.some(track => {
+                                const tracks = albumInfo.songs || [];
+                                const albumHasTrack = tracks.some(track => {
                                     let trackId = typeof track === 'string' ? track : (track.id || track.song_id || track.ref || track.path || '');
                                     return String(trackId).replace(/^songs\//, '').replace(/\.json$/, '') === cleanSongId;
                                 });
