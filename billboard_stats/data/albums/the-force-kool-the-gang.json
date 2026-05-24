@@ -1,1 +1,82 @@
-{"id": "the-force-kool-the-gang", "title": "The Force", "artist": "Kool & The Gang", "peak": 142, "history": [{"date": "1978-01-28", "rank": 178}, {"date": "1978-02-04", "rank": 168}, {"date": "1978-02-11", "rank": 158}, {"date": "1978-02-18", "rank": 148}, {"date": "1978-02-25", "rank": 146}, {"date": "1978-03-04", "rank": 142}, {"date": "1978-03-11", "rank": 197}]}
+{
+  "id": "the-force-kool-the-gang",
+  "title": "The Force",
+  "artist": "Kool & The Gang",
+  "peak": 142,
+  "history": [
+    {
+      "date": "1978-01-28",
+      "rank": 178
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 168
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 158
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 148
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 146
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 142
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Free",
+      "id": "fresh-kool-the-gang"
+    },
+    {
+      "title": "A Place in Space",
+      "id": null
+    },
+    {
+      "title": "Slick Superchick",
+      "id": null
+    },
+    {
+      "title": "Just Be True",
+      "id": null
+    },
+    {
+      "title": "The Force",
+      "id": null
+    },
+    {
+      "title": "Mighty, Mighty, High",
+      "id": null
+    },
+    {
+      "title": "Oasis",
+      "id": null
+    },
+    {
+      "title": "Life’s a Song",
+      "id": null
+    },
+    {
+      "title": "Slick Superchick (single version)",
+      "id": null
+    },
+    {
+      "title": "A Place in Space (single version)",
+      "id": null
+    },
+    {
+      "title": "Mighty Mighty High (12″ disco version)",
+      "id": null
+    }
+  ]
+}
