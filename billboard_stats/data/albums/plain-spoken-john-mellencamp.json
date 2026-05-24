@@ -1,1 +1,66 @@
-{"id": "plain-spoken-john-mellencamp", "title": "Plain Spoken", "artist": "John Mellencamp", "peak": 18, "history": [{"date": "2014-10-11", "rank": 18}, {"date": "2014-10-18", "rank": 45}, {"date": "2014-10-25", "rank": 99}, {"date": "2014-11-01", "rank": 167}]}
+{
+  "id": "plain-spoken-john-mellencamp",
+  "title": "Plain Spoken",
+  "artist": "John Mellencamp",
+  "peak": 18,
+  "history": [
+    {
+      "date": "2014-10-11",
+      "rank": 18
+    },
+    {
+      "date": "2014-10-18",
+      "rank": 45
+    },
+    {
+      "date": "2014-10-25",
+      "rank": 99
+    },
+    {
+      "date": "2014-11-01",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Troubled Man",
+      "id": null
+    },
+    {
+      "title": "Sometimes There’s God",
+      "id": null
+    },
+    {
+      "title": "The Isolation of Mister",
+      "id": null
+    },
+    {
+      "title": "The Company of Cowards",
+      "id": null
+    },
+    {
+      "title": "Tears in Vain",
+      "id": null
+    },
+    {
+      "title": "The Brass Ring",
+      "id": null
+    },
+    {
+      "title": "Freedom of Speech",
+      "id": null
+    },
+    {
+      "title": "Blue Charlotte",
+      "id": null
+    },
+    {
+      "title": "The Courtesy of Kings",
+      "id": null
+    },
+    {
+      "title": "Lawless Times",
+      "id": null
+    }
+  ]
+}

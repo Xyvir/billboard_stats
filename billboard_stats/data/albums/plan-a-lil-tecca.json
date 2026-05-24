@@ -1,1 +1,98 @@
-{"id": "plan-a-lil-tecca", "title": "Plan A", "artist": "Lil Tecca", "peak": 9, "history": [{"date": "2024-10-05", "rank": 9}, {"date": "2024-10-12", "rank": 63}, {"date": "2024-10-19", "rank": 119}, {"date": "2024-10-26", "rank": 132}]}
+{
+  "id": "plan-a-lil-tecca",
+  "title": "Plan A",
+  "artist": "Lil Tecca",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2024-10-05",
+      "rank": 9
+    },
+    {
+      "date": "2024-10-12",
+      "rank": 63
+    },
+    {
+      "date": "2024-10-19",
+      "rank": 119
+    },
+    {
+      "date": "2024-10-26",
+      "rank": 132
+    }
+  ],
+  "tracks": [
+    {
+      "title": "NEVER LAST",
+      "id": "never-left-lil-tecca"
+    },
+    {
+      "title": "ALL THE TIME",
+      "id": "half-the-plot-lil-tecca"
+    },
+    {
+      "title": "TASTE",
+      "id": null
+    },
+    {
+      "title": "BAD TIME",
+      "id": null
+    },
+    {
+      "title": "120",
+      "id": null
+    },
+    {
+      "title": "I CAN’T LET GO",
+      "id": null
+    },
+    {
+      "title": "VOGUE",
+      "id": null
+    },
+    {
+      "title": "24HRS",
+      "id": null
+    },
+    {
+      "title": "NUMBER 2",
+      "id": null
+    },
+    {
+      "title": "HOMEBODY",
+      "id": null
+    },
+    {
+      "title": "SELF2SELF",
+      "id": null
+    },
+    {
+      "title": "SEPARATE WAYS",
+      "id": null
+    },
+    {
+      "title": "TIME & A PLACE",
+      "id": null
+    },
+    {
+      "title": "4U",
+      "id": null
+    },
+    {
+      "title": "FLOWERS",
+      "id": null
+    },
+    {
+      "title": "COLD GIRLS",
+      "id": null
+    },
+    {
+      "title": "MAMA",
+      "id": null
+    },
+    {
+      "title": "D1",
+      "id": null
+    }
+  ]
+}
