@@ -1,1 +1,86 @@
-{"id": "sun-cat-power", "title": "Sun", "artist": "Cat Power", "peak": 10, "history": [{"date": "2012-09-22", "rank": 10}, {"date": "2012-09-29", "rank": 32}, {"date": "2012-10-06", "rank": 68}, {"date": "2012-10-13", "rank": 91}, {"date": "2012-10-20", "rank": 149}, {"date": "2012-10-27", "rank": 189}]}
+{
+  "id": "sun-cat-power",
+  "title": "Sun",
+  "artist": "Cat Power",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2012-09-22",
+      "rank": 10
+    },
+    {
+      "date": "2012-09-29",
+      "rank": 32
+    },
+    {
+      "date": "2012-10-06",
+      "rank": 68
+    },
+    {
+      "date": "2012-10-13",
+      "rank": 91
+    },
+    {
+      "date": "2012-10-20",
+      "rank": 149
+    },
+    {
+      "date": "2012-10-27",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cherokee",
+      "id": null
+    },
+    {
+      "title": "Sun",
+      "id": null
+    },
+    {
+      "title": "Ruin",
+      "id": null
+    },
+    {
+      "title": "3,6,9",
+      "id": null
+    },
+    {
+      "title": "Always on My Own",
+      "id": null
+    },
+    {
+      "title": "Real Life",
+      "id": null
+    },
+    {
+      "title": "Human Being",
+      "id": null
+    },
+    {
+      "title": "Manhattan",
+      "id": null
+    },
+    {
+      "title": "Silent Machine",
+      "id": null
+    },
+    {
+      "title": "Nothin but Time",
+      "id": null
+    },
+    {
+      "title": "Peace and Love",
+      "id": null
+    },
+    {
+      "title": "Fire",
+      "id": null
+    },
+    {
+      "title": "Back in the Days",
+      "id": null
+    }
+  ]
+}

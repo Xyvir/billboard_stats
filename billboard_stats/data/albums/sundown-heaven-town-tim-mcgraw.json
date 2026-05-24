@@ -1,1 +1,254 @@
-{"id": "sundown-heaven-town-tim-mcgraw", "title": "Sundown Heaven Town", "artist": "Tim McGraw", "peak": 3, "history": [{"date": "2014-10-04", "rank": 3}, {"date": "2014-10-11", "rank": 13}, {"date": "2014-10-18", "rank": 26}, {"date": "2014-10-25", "rank": 34}, {"date": "2014-11-01", "rank": 43}, {"date": "2014-11-08", "rank": 43}, {"date": "2014-11-15", "rank": 66}, {"date": "2014-11-22", "rank": 57}, {"date": "2014-11-29", "rank": 69}, {"date": "2014-12-06", "rank": 87}, {"date": "2014-12-13", "rank": 57}, {"date": "2014-12-20", "rank": 64}, {"date": "2014-12-27", "rank": 62}, {"date": "2015-01-03", "rank": 60}, {"date": "2015-01-10", "rank": 53}, {"date": "2015-01-17", "rank": 68}, {"date": "2015-01-24", "rank": 66}, {"date": "2015-01-31", "rank": 78}, {"date": "2015-02-07", "rank": 88}, {"date": "2015-02-14", "rank": 126}, {"date": "2015-02-21", "rank": 128}, {"date": "2015-02-28", "rank": 113}, {"date": "2015-03-07", "rank": 124}, {"date": "2015-03-14", "rank": 122}, {"date": "2015-03-21", "rank": 131}, {"date": "2015-03-28", "rank": 117}, {"date": "2015-04-04", "rank": 114}, {"date": "2015-04-18", "rank": 106}, {"date": "2015-04-25", "rank": 98}, {"date": "2015-05-02", "rank": 102}, {"date": "2015-05-09", "rank": 89}, {"date": "2015-05-16", "rank": 86}, {"date": "2015-05-23", "rank": 106}, {"date": "2015-05-30", "rank": 105}, {"date": "2015-06-06", "rank": 140}, {"date": "2015-06-13", "rank": 112}, {"date": "2015-06-20", "rank": 111}, {"date": "2015-06-27", "rank": 109}, {"date": "2015-07-04", "rank": 125}, {"date": "2015-07-11", "rank": 129}, {"date": "2015-07-18", "rank": 165}, {"date": "2015-07-25", "rank": 158}, {"date": "2015-08-01", "rank": 182}]}
+{
+  "id": "sundown-heaven-town-tim-mcgraw",
+  "title": "Sundown Heaven Town",
+  "artist": "Tim McGraw",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2014-10-04",
+      "rank": 3
+    },
+    {
+      "date": "2014-10-11",
+      "rank": 13
+    },
+    {
+      "date": "2014-10-18",
+      "rank": 26
+    },
+    {
+      "date": "2014-10-25",
+      "rank": 34
+    },
+    {
+      "date": "2014-11-01",
+      "rank": 43
+    },
+    {
+      "date": "2014-11-08",
+      "rank": 43
+    },
+    {
+      "date": "2014-11-15",
+      "rank": 66
+    },
+    {
+      "date": "2014-11-22",
+      "rank": 57
+    },
+    {
+      "date": "2014-11-29",
+      "rank": 69
+    },
+    {
+      "date": "2014-12-06",
+      "rank": 87
+    },
+    {
+      "date": "2014-12-13",
+      "rank": 57
+    },
+    {
+      "date": "2014-12-20",
+      "rank": 64
+    },
+    {
+      "date": "2014-12-27",
+      "rank": 62
+    },
+    {
+      "date": "2015-01-03",
+      "rank": 60
+    },
+    {
+      "date": "2015-01-10",
+      "rank": 53
+    },
+    {
+      "date": "2015-01-17",
+      "rank": 68
+    },
+    {
+      "date": "2015-01-24",
+      "rank": 66
+    },
+    {
+      "date": "2015-01-31",
+      "rank": 78
+    },
+    {
+      "date": "2015-02-07",
+      "rank": 88
+    },
+    {
+      "date": "2015-02-14",
+      "rank": 126
+    },
+    {
+      "date": "2015-02-21",
+      "rank": 128
+    },
+    {
+      "date": "2015-02-28",
+      "rank": 113
+    },
+    {
+      "date": "2015-03-07",
+      "rank": 124
+    },
+    {
+      "date": "2015-03-14",
+      "rank": 122
+    },
+    {
+      "date": "2015-03-21",
+      "rank": 131
+    },
+    {
+      "date": "2015-03-28",
+      "rank": 117
+    },
+    {
+      "date": "2015-04-04",
+      "rank": 114
+    },
+    {
+      "date": "2015-04-18",
+      "rank": 106
+    },
+    {
+      "date": "2015-04-25",
+      "rank": 98
+    },
+    {
+      "date": "2015-05-02",
+      "rank": 102
+    },
+    {
+      "date": "2015-05-09",
+      "rank": 89
+    },
+    {
+      "date": "2015-05-16",
+      "rank": 86
+    },
+    {
+      "date": "2015-05-23",
+      "rank": 106
+    },
+    {
+      "date": "2015-05-30",
+      "rank": 105
+    },
+    {
+      "date": "2015-06-06",
+      "rank": 140
+    },
+    {
+      "date": "2015-06-13",
+      "rank": 112
+    },
+    {
+      "date": "2015-06-20",
+      "rank": 111
+    },
+    {
+      "date": "2015-06-27",
+      "rank": 109
+    },
+    {
+      "date": "2015-07-04",
+      "rank": 125
+    },
+    {
+      "date": "2015-07-11",
+      "rank": 129
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 165
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 158
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shotgun Rider",
+      "id": "shotgun-rider-tim-mcgraw"
+    },
+    {
+      "title": "Lookin' for That Girl",
+      "id": "lookin-for-that-girl-tim-mcgraw"
+    },
+    {
+      "title": "The View",
+      "id": "southern-voice-tim-mcgraw"
+    },
+    {
+      "title": "Overrated",
+      "id": null
+    },
+    {
+      "title": "City Lights",
+      "id": null
+    },
+    {
+      "title": "Dust",
+      "id": null
+    },
+    {
+      "title": "Diamond Rings and Old Barstools",
+      "id": null
+    },
+    {
+      "title": "Words Are Medicine",
+      "id": null
+    },
+    {
+      "title": "Sick of Me",
+      "id": null
+    },
+    {
+      "title": "Meanwhile Back at Mama’s",
+      "id": null
+    },
+    {
+      "title": "Keep on Truckin’",
+      "id": null
+    },
+    {
+      "title": "Last Turn Home",
+      "id": null
+    },
+    {
+      "title": "Portland, Maine",
+      "id": null
+    },
+    {
+      "title": "Still on the Line",
+      "id": null
+    },
+    {
+      "title": "Lincoln Continentals and Cadillacs",
+      "id": null
+    },
+    {
+      "title": "Kids Today",
+      "id": null
+    },
+    {
+      "title": "I’m Feelin’ You",
+      "id": null
+    },
+    {
+      "title": "Black Jacket",
+      "id": null
+    }
+  ]
+}

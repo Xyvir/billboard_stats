@@ -1,1 +1,62 @@
-{"id": "summer-of-42-peter-nero", "title": "Summer Of '42", "artist": "Peter Nero", "peak": 126, "history": [{"date": "1972-05-20", "rank": 126}, {"date": "1972-05-27", "rank": 143}]}
+{
+  "id": "summer-of-42-peter-nero",
+  "title": "Summer Of '42",
+  "artist": "Peter Nero",
+  "peak": 126,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 126
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Theme From \"Summer Of '42\"",
+      "id": "theme-from-summer-of-42-peter-nero"
+    },
+    {
+      "title": "Love",
+      "id": null
+    },
+    {
+      "title": "(They Long To Be) Close To You",
+      "id": null
+    },
+    {
+      "title": "How Can You Mend A Broken Heart?",
+      "id": null
+    },
+    {
+      "title": "You've Got A Friend",
+      "id": null
+    },
+    {
+      "title": "Go Away Little Girl",
+      "id": null
+    },
+    {
+      "title": "For All We Know",
+      "id": null
+    },
+    {
+      "title": "Make It With You",
+      "id": null
+    },
+    {
+      "title": "We've Only Just Begun",
+      "id": null
+    },
+    {
+      "title": "Theme From \"Love Story\"",
+      "id": null
+    },
+    {
+      "title": "Never My Love",
+      "id": null
+    }
+  ]
+}
