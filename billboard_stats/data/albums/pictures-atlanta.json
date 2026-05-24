@@ -1,1 +1,78 @@
-{"id": "pictures-atlanta", "title": "Pictures", "artist": "Atlanta", "peak": 140, "history": [{"date": "1984-05-26", "rank": 175}, {"date": "1984-06-02", "rank": 160}, {"date": "1984-06-09", "rank": 151}, {"date": "1984-06-16", "rank": 146}, {"date": "1984-06-23", "rank": 140}, {"date": "1984-06-30", "rank": 140}, {"date": "1984-07-07", "rank": 158}]}
+{
+  "id": "pictures-atlanta",
+  "title": "Pictures",
+  "artist": "Atlanta",
+  "peak": 140,
+  "history": [
+    {
+      "date": "1984-05-26",
+      "rank": 175
+    },
+    {
+      "date": "1984-06-02",
+      "rank": 160
+    },
+    {
+      "date": "1984-06-09",
+      "rank": 151
+    },
+    {
+      "date": "1984-06-16",
+      "rank": 146
+    },
+    {
+      "date": "1984-06-23",
+      "rank": 140
+    },
+    {
+      "date": "1984-06-30",
+      "rank": 140
+    },
+    {
+      "date": "1984-07-07",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dixie Dreaming",
+      "id": null
+    },
+    {
+      "title": "Wishful Drinkin'",
+      "id": null
+    },
+    {
+      "title": "Pictures",
+      "id": null
+    },
+    {
+      "title": "Sweet Was Our Rose",
+      "id": null
+    },
+    {
+      "title": "Long Cool Woman in a Black Dress",
+      "id": null
+    },
+    {
+      "title": "Atlanta Burned Again Last Night",
+      "id": null
+    },
+    {
+      "title": "Sweet Country Music",
+      "id": null
+    },
+    {
+      "title": "(Nothing Left Between Us) But Alabama",
+      "id": null
+    },
+    {
+      "title": "You Are the Wine",
+      "id": null
+    },
+    {
+      "title": "Blue Side of the Grey",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,230 @@
-{"id": "piece-by-piece-kelly-clarkson", "title": "Piece By Piece", "artist": "Kelly Clarkson", "peak": 1, "history": [{"date": "2015-03-21", "rank": 1}, {"date": "2015-03-28", "rank": 12}, {"date": "2015-04-04", "rank": 29}, {"date": "2015-04-11", "rank": 32}, {"date": "2015-04-18", "rank": 31}, {"date": "2015-04-25", "rank": 35}, {"date": "2015-05-02", "rank": 55}, {"date": "2015-05-09", "rank": 65}, {"date": "2015-05-16", "rank": 76}, {"date": "2015-05-23", "rank": 93}, {"date": "2015-05-30", "rank": 115}, {"date": "2015-06-06", "rank": 95}, {"date": "2015-06-13", "rank": 108}, {"date": "2015-06-20", "rank": 120}, {"date": "2015-06-27", "rank": 151}, {"date": "2015-07-04", "rank": 178}, {"date": "2015-07-11", "rank": 161}, {"date": "2015-07-18", "rank": 151}, {"date": "2015-07-25", "rank": 144}, {"date": "2015-08-01", "rank": 163}, {"date": "2015-08-08", "rank": 183}, {"date": "2015-08-15", "rank": 187}, {"date": "2015-08-22", "rank": 191}, {"date": "2015-08-29", "rank": 181}, {"date": "2015-09-05", "rank": 184}, {"date": "2016-03-12", "rank": 120}, {"date": "2016-03-19", "rank": 6}, {"date": "2016-03-26", "rank": 24}, {"date": "2016-04-02", "rank": 79}, {"date": "2016-04-09", "rank": 111}, {"date": "2016-04-16", "rank": 151}, {"date": "2016-04-23", "rank": 117}, {"date": "2016-04-30", "rank": 79}, {"date": "2016-05-07", "rank": 144}, {"date": "2016-05-14", "rank": 158}, {"date": "2016-05-21", "rank": 163}, {"date": "2016-05-28", "rank": 169}, {"date": "2016-06-04", "rank": 162}, {"date": "2016-06-11", "rank": 191}]}
+{
+  "id": "piece-by-piece-kelly-clarkson",
+  "title": "Piece By Piece",
+  "artist": "Kelly Clarkson",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2015-03-21",
+      "rank": 1
+    },
+    {
+      "date": "2015-03-28",
+      "rank": 12
+    },
+    {
+      "date": "2015-04-04",
+      "rank": 29
+    },
+    {
+      "date": "2015-04-11",
+      "rank": 32
+    },
+    {
+      "date": "2015-04-18",
+      "rank": 31
+    },
+    {
+      "date": "2015-04-25",
+      "rank": 35
+    },
+    {
+      "date": "2015-05-02",
+      "rank": 55
+    },
+    {
+      "date": "2015-05-09",
+      "rank": 65
+    },
+    {
+      "date": "2015-05-16",
+      "rank": 76
+    },
+    {
+      "date": "2015-05-23",
+      "rank": 93
+    },
+    {
+      "date": "2015-05-30",
+      "rank": 115
+    },
+    {
+      "date": "2015-06-06",
+      "rank": 95
+    },
+    {
+      "date": "2015-06-13",
+      "rank": 108
+    },
+    {
+      "date": "2015-06-20",
+      "rank": 120
+    },
+    {
+      "date": "2015-06-27",
+      "rank": 151
+    },
+    {
+      "date": "2015-07-04",
+      "rank": 178
+    },
+    {
+      "date": "2015-07-11",
+      "rank": 161
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 151
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 144
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 163
+    },
+    {
+      "date": "2015-08-08",
+      "rank": 183
+    },
+    {
+      "date": "2015-08-15",
+      "rank": 187
+    },
+    {
+      "date": "2015-08-22",
+      "rank": 191
+    },
+    {
+      "date": "2015-08-29",
+      "rank": 181
+    },
+    {
+      "date": "2015-09-05",
+      "rank": 184
+    },
+    {
+      "date": "2016-03-12",
+      "rank": 120
+    },
+    {
+      "date": "2016-03-19",
+      "rank": 6
+    },
+    {
+      "date": "2016-03-26",
+      "rank": 24
+    },
+    {
+      "date": "2016-04-02",
+      "rank": 79
+    },
+    {
+      "date": "2016-04-09",
+      "rank": 111
+    },
+    {
+      "date": "2016-04-16",
+      "rank": 151
+    },
+    {
+      "date": "2016-04-23",
+      "rank": 117
+    },
+    {
+      "date": "2016-04-30",
+      "rank": 79
+    },
+    {
+      "date": "2016-05-07",
+      "rank": 144
+    },
+    {
+      "date": "2016-05-14",
+      "rank": 158
+    },
+    {
+      "date": "2016-05-21",
+      "rank": 163
+    },
+    {
+      "date": "2016-05-28",
+      "rank": 169
+    },
+    {
+      "date": "2016-06-04",
+      "rank": 162
+    },
+    {
+      "date": "2016-06-11",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heartbeat Song",
+      "id": "heartbeat-song-kelly-clarkson"
+    },
+    {
+      "title": "Piece by Piece",
+      "id": "piece-by-piece-kelly-clarkson"
+    },
+    {
+      "title": "Invincible",
+      "id": null
+    },
+    {
+      "title": "Someone",
+      "id": null
+    },
+    {
+      "title": "Take You High",
+      "id": null
+    },
+    {
+      "title": "Run Run Run",
+      "id": null
+    },
+    {
+      "title": "I Had a Dream",
+      "id": null
+    },
+    {
+      "title": "Let Your Tears Fall",
+      "id": null
+    },
+    {
+      "title": "Tightrope",
+      "id": null
+    },
+    {
+      "title": "War Paint",
+      "id": null
+    },
+    {
+      "title": "Dance With Me",
+      "id": null
+    },
+    {
+      "title": "Nostalgic",
+      "id": null
+    },
+    {
+      "title": "Good Goes the Bye",
+      "id": null
+    },
+    {
+      "title": "Bad Reputation",
+      "id": null
+    },
+    {
+      "title": "In the Blue",
+      "id": null
+    },
+    {
+      "title": "Second Wind",
+      "id": null
+    }
+  ]
+}
