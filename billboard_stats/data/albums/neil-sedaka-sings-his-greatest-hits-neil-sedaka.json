@@ -1,1 +1,74 @@
-{"id": "neil-sedaka-sings-his-greatest-hits-neil-sedaka", "title": "Neil Sedaka Sings His Greatest Hits", "artist": "Neil Sedaka", "peak": 161, "history": [{"date": "1975-03-01", "rank": 183}, {"date": "1975-03-08", "rank": 172}, {"date": "1975-03-15", "rank": 161}, {"date": "1975-03-22", "rank": 161}]}
+{
+  "id": "neil-sedaka-sings-his-greatest-hits-neil-sedaka",
+  "title": "Neil Sedaka Sings His Greatest Hits",
+  "artist": "Neil Sedaka",
+  "peak": 161,
+  "history": [
+    {
+      "date": "1975-03-01",
+      "rank": 183
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 172
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 161
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Next Door to an Angel",
+      "id": "next-door-to-an-angel-neil-sedaka"
+    },
+    {
+      "title": "Oh! Carol",
+      "id": "oh-carol-neil-sedaka"
+    },
+    {
+      "title": "King of Clowns",
+      "id": "king-of-clowns-neil-sedaka"
+    },
+    {
+      "title": "Stairway to Heaven",
+      "id": "stairway-to-heaven-neil-sedaka"
+    },
+    {
+      "title": "Run Samson Run",
+      "id": "run-samson-run-neil-sedaka"
+    },
+    {
+      "title": "Calendar Girl",
+      "id": "calendar-girl-neil-sedaka"
+    },
+    {
+      "title": "Breaking Up Is Hard to Do",
+      "id": "breaking-up-is-hard-to-do-neil-sedaka"
+    },
+    {
+      "title": "The Diary",
+      "id": "the-diary-neil-sedaka"
+    },
+    {
+      "title": "Happy Birthday Sweet Sixteen",
+      "id": "happy-birthday-sweet-sixteen-neil-sedaka"
+    },
+    {
+      "title": "Little Devil",
+      "id": "little-devil-neil-sedaka"
+    },
+    {
+      "title": "Sweet Little You",
+      "id": "sweet-little-you-neil-sedaka"
+    },
+    {
+      "title": "You Mean Everything to Me",
+      "id": "you-mean-everything-to-me-neil-sedaka"
+    }
+  ]
+}

@@ -1,1 +1,106 @@
-{"id": "neighborhoods-blink-182", "title": "Neighborhoods", "artist": "blink-182", "peak": 2, "history": [{"date": "2011-10-15", "rank": 2}, {"date": "2011-10-22", "rank": 10}, {"date": "2011-10-29", "rank": 26}, {"date": "2011-11-05", "rank": 45}, {"date": "2011-11-12", "rank": 44}, {"date": "2011-11-19", "rank": 76}, {"date": "2011-11-26", "rank": 107}, {"date": "2011-12-03", "rank": 140}, {"date": "2011-12-10", "rank": 122}, {"date": "2011-12-31", "rank": 200}, {"date": "2012-01-07", "rank": 158}, {"date": "2012-01-14", "rank": 127}, {"date": "2012-01-21", "rank": 147}, {"date": "2012-01-28", "rank": 171}]}
+{
+  "id": "neighborhoods-blink-182",
+  "title": "Neighborhoods",
+  "artist": "blink-182",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2011-10-15",
+      "rank": 2
+    },
+    {
+      "date": "2011-10-22",
+      "rank": 10
+    },
+    {
+      "date": "2011-10-29",
+      "rank": 26
+    },
+    {
+      "date": "2011-11-05",
+      "rank": 45
+    },
+    {
+      "date": "2011-11-12",
+      "rank": 44
+    },
+    {
+      "date": "2011-11-19",
+      "rank": 76
+    },
+    {
+      "date": "2011-11-26",
+      "rank": 107
+    },
+    {
+      "date": "2011-12-03",
+      "rank": 140
+    },
+    {
+      "date": "2011-12-10",
+      "rank": 122
+    },
+    {
+      "date": "2011-12-31",
+      "rank": 200
+    },
+    {
+      "date": "2012-01-07",
+      "rank": 158
+    },
+    {
+      "date": "2012-01-14",
+      "rank": 127
+    },
+    {
+      "date": "2012-01-21",
+      "rank": 147
+    },
+    {
+      "date": "2012-01-28",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Up All Night",
+      "id": "up-all-night-blink-182"
+    },
+    {
+      "title": "After Midnight",
+      "id": "after-midnight-blink-182"
+    },
+    {
+      "title": "Ghost on the Dance Floor",
+      "id": null
+    },
+    {
+      "title": "Natives",
+      "id": null
+    },
+    {
+      "title": "Heart’s All Gone",
+      "id": null
+    },
+    {
+      "title": "Wishing Well",
+      "id": null
+    },
+    {
+      "title": "Kaleidoscope",
+      "id": null
+    },
+    {
+      "title": "This Is Home",
+      "id": null
+    },
+    {
+      "title": "MH 4.18.2011",
+      "id": null
+    },
+    {
+      "title": "Love Is Dangerous",
+      "id": null
+    }
+  ]
+}

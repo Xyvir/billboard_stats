@@ -1,1 +1,274 @@
-{"id": "naughty-by-nature-naughty-by-nature", "title": "Naughty By Nature", "artist": "Naughty by Nature", "peak": 16, "history": [{"date": "1991-09-21", "rank": 17}, {"date": "1991-09-28", "rank": 19}, {"date": "1991-10-05", "rank": 23}, {"date": "1991-10-12", "rank": 19}, {"date": "1991-10-19", "rank": 17}, {"date": "1991-10-26", "rank": 18}, {"date": "1991-11-02", "rank": 17}, {"date": "1991-11-09", "rank": 16}, {"date": "1991-11-16", "rank": 21}, {"date": "1991-11-23", "rank": 22}, {"date": "1991-11-30", "rank": 23}, {"date": "1991-12-07", "rank": 29}, {"date": "1991-12-14", "rank": 33}, {"date": "1991-12-21", "rank": 38}, {"date": "1991-12-28", "rank": 38}, {"date": "1992-01-04", "rank": 37}, {"date": "1992-01-11", "rank": 27}, {"date": "1992-01-18", "rank": 38}, {"date": "1992-01-25", "rank": 39}, {"date": "1992-02-01", "rank": 35}, {"date": "1992-02-08", "rank": 32}, {"date": "1992-02-15", "rank": 25}, {"date": "1992-02-22", "rank": 25}, {"date": "1992-02-29", "rank": 31}, {"date": "1992-03-07", "rank": 25}, {"date": "1992-03-14", "rank": 26}, {"date": "1992-03-21", "rank": 25}, {"date": "1992-03-28", "rank": 29}, {"date": "1992-04-04", "rank": 30}, {"date": "1992-04-11", "rank": 34}, {"date": "1992-04-18", "rank": 44}, {"date": "1992-04-25", "rank": 45}, {"date": "1992-05-02", "rank": 47}, {"date": "1992-05-09", "rank": 52}, {"date": "1992-05-16", "rank": 69}, {"date": "1992-05-23", "rank": 77}, {"date": "1992-05-30", "rank": 82}, {"date": "1992-06-06", "rank": 80}, {"date": "1992-06-13", "rank": 75}, {"date": "1992-06-20", "rank": 87}, {"date": "1992-06-27", "rank": 94}, {"date": "1992-07-04", "rank": 100}, {"date": "1992-07-11", "rank": 97}, {"date": "1992-07-18", "rank": 112}, {"date": "1992-07-25", "rank": 106}, {"date": "1992-08-01", "rank": 122}, {"date": "1992-08-08", "rank": 136}, {"date": "1992-08-15", "rank": 141}, {"date": "1992-08-22", "rank": 143}, {"date": "1992-08-29", "rank": 144}, {"date": "1992-09-05", "rank": 150}, {"date": "1992-09-12", "rank": 165}, {"date": "1992-09-19", "rank": 190}, {"date": "1992-09-26", "rank": 194}]}
+{
+  "id": "naughty-by-nature-naughty-by-nature",
+  "title": "Naughty By Nature",
+  "artist": "Naughty by Nature",
+  "peak": 16,
+  "history": [
+    {
+      "date": "1991-09-21",
+      "rank": 17
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 19
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 23
+    },
+    {
+      "date": "1991-10-12",
+      "rank": 19
+    },
+    {
+      "date": "1991-10-19",
+      "rank": 17
+    },
+    {
+      "date": "1991-10-26",
+      "rank": 18
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 17
+    },
+    {
+      "date": "1991-11-09",
+      "rank": 16
+    },
+    {
+      "date": "1991-11-16",
+      "rank": 21
+    },
+    {
+      "date": "1991-11-23",
+      "rank": 22
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 23
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 29
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 33
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 38
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 38
+    },
+    {
+      "date": "1992-01-04",
+      "rank": 37
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 27
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 38
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 39
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 35
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 32
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 25
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 25
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 31
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 25
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 26
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 25
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 29
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 30
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 34
+    },
+    {
+      "date": "1992-04-18",
+      "rank": 44
+    },
+    {
+      "date": "1992-04-25",
+      "rank": 45
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 47
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 52
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 69
+    },
+    {
+      "date": "1992-05-23",
+      "rank": 77
+    },
+    {
+      "date": "1992-05-30",
+      "rank": 82
+    },
+    {
+      "date": "1992-06-06",
+      "rank": 80
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 75
+    },
+    {
+      "date": "1992-06-20",
+      "rank": 87
+    },
+    {
+      "date": "1992-06-27",
+      "rank": 94
+    },
+    {
+      "date": "1992-07-04",
+      "rank": 100
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 97
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 112
+    },
+    {
+      "date": "1992-07-25",
+      "rank": 106
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 122
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 136
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 141
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 143
+    },
+    {
+      "date": "1992-08-29",
+      "rank": 144
+    },
+    {
+      "date": "1992-09-05",
+      "rank": 150
+    },
+    {
+      "date": "1992-09-12",
+      "rank": 165
+    },
+    {
+      "date": "1992-09-19",
+      "rank": 190
+    },
+    {
+      "date": "1992-09-26",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "O.P.P.",
+      "id": "o-p-p-naughty-by-nature"
+    },
+    {
+      "title": "Everything’s Gonna Be Alright",
+      "id": "everything-s-gonna-be-alright-naughty-by-nature"
+    },
+    {
+      "title": "Yoke the Joker",
+      "id": null
+    },
+    {
+      "title": "Wickedest Man Alive",
+      "id": null
+    },
+    {
+      "title": "Let the Ho’s Go",
+      "id": null
+    },
+    {
+      "title": "Every Day All Day",
+      "id": null
+    },
+    {
+      "title": "Guard Your Grill",
+      "id": null
+    },
+    {
+      "title": "Pin the Tail on the Donkey",
+      "id": null
+    },
+    {
+      "title": "1, 2, 3",
+      "id": null
+    },
+    {
+      "title": "Strike a Nerve",
+      "id": null
+    },
+    {
+      "title": "Rhyme’ll Shine On",
+      "id": null
+    },
+    {
+      "title": "Thankx for Sleepwalking",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,182 @@
-{"id": "nectar-joji", "title": "Nectar", "artist": "Joji", "peak": 3, "history": [{"date": "2020-10-10", "rank": 3}, {"date": "2020-10-17", "rank": 15}, {"date": "2020-10-24", "rank": 25}, {"date": "2020-10-31", "rank": 39}, {"date": "2020-11-07", "rank": 42}, {"date": "2020-11-14", "rank": 59}, {"date": "2020-11-21", "rank": 70}, {"date": "2020-11-28", "rank": 98}, {"date": "2020-12-05", "rank": 132}, {"date": "2020-12-12", "rank": 137}, {"date": "2020-12-19", "rank": 156}, {"date": "2021-01-09", "rank": 188}, {"date": "2021-01-16", "rank": 149}, {"date": "2021-01-23", "rank": 158}, {"date": "2021-01-30", "rank": 164}, {"date": "2021-02-06", "rank": 175}, {"date": "2021-02-13", "rank": 183}, {"date": "2021-02-20", "rank": 181}, {"date": "2021-02-27", "rank": 200}, {"date": "2021-03-06", "rank": 109}, {"date": "2021-03-20", "rank": 175}, {"date": "2021-05-01", "rank": 165}, {"date": "2022-06-25", "rank": 167}, {"date": "2022-07-02", "rank": 139}, {"date": "2022-07-09", "rank": 200}]}
+{
+  "id": "nectar-joji",
+  "title": "Nectar",
+  "artist": "Joji",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2020-10-10",
+      "rank": 3
+    },
+    {
+      "date": "2020-10-17",
+      "rank": 15
+    },
+    {
+      "date": "2020-10-24",
+      "rank": 25
+    },
+    {
+      "date": "2020-10-31",
+      "rank": 39
+    },
+    {
+      "date": "2020-11-07",
+      "rank": 42
+    },
+    {
+      "date": "2020-11-14",
+      "rank": 59
+    },
+    {
+      "date": "2020-11-21",
+      "rank": 70
+    },
+    {
+      "date": "2020-11-28",
+      "rank": 98
+    },
+    {
+      "date": "2020-12-05",
+      "rank": 132
+    },
+    {
+      "date": "2020-12-12",
+      "rank": 137
+    },
+    {
+      "date": "2020-12-19",
+      "rank": 156
+    },
+    {
+      "date": "2021-01-09",
+      "rank": 188
+    },
+    {
+      "date": "2021-01-16",
+      "rank": 149
+    },
+    {
+      "date": "2021-01-23",
+      "rank": 158
+    },
+    {
+      "date": "2021-01-30",
+      "rank": 164
+    },
+    {
+      "date": "2021-02-06",
+      "rank": 175
+    },
+    {
+      "date": "2021-02-13",
+      "rank": 183
+    },
+    {
+      "date": "2021-02-20",
+      "rank": 181
+    },
+    {
+      "date": "2021-02-27",
+      "rank": 200
+    },
+    {
+      "date": "2021-03-06",
+      "rank": 109
+    },
+    {
+      "date": "2021-03-20",
+      "rank": 175
+    },
+    {
+      "date": "2021-05-01",
+      "rank": 165
+    },
+    {
+      "date": "2022-06-25",
+      "rank": 167
+    },
+    {
+      "date": "2022-07-02",
+      "rank": 139
+    },
+    {
+      "date": "2022-07-09",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Run",
+      "id": "run-joji"
+    },
+    {
+      "title": "Sanctuary",
+      "id": "sanctuary-joji"
+    },
+    {
+      "title": "Ew",
+      "id": null
+    },
+    {
+      "title": "MODUS",
+      "id": null
+    },
+    {
+      "title": "Tick Tock",
+      "id": null
+    },
+    {
+      "title": "Daylight",
+      "id": null
+    },
+    {
+      "title": "Upgrade",
+      "id": null
+    },
+    {
+      "title": "Gimme Love",
+      "id": null
+    },
+    {
+      "title": "High Hopes",
+      "id": null
+    },
+    {
+      "title": "NITROUS",
+      "id": null
+    },
+    {
+      "title": "Pretty Boy",
+      "id": null
+    },
+    {
+      "title": "Normal People",
+      "id": null
+    },
+    {
+      "title": "Afterthought",
+      "id": null
+    },
+    {
+      "title": "Mr. Hollywood",
+      "id": null
+    },
+    {
+      "title": "777",
+      "id": null
+    },
+    {
+      "title": "Reanimator",
+      "id": null
+    },
+    {
+      "title": "Like You Do",
+      "id": null
+    },
+    {
+      "title": "Your Man",
+      "id": null
+    }
+  ]
+}
