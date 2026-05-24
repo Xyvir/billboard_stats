@@ -1,1 +1,78 @@
-{"id": "poly-sci-john-forte", "title": "Poly Sci", "artist": "John Forte", "peak": 84, "history": [{"date": "1998-08-01", "rank": 84}, {"date": "1998-08-08", "rank": 154}, {"date": "1998-08-15", "rank": 188}]}
+{
+  "id": "poly-sci-john-forte",
+  "title": "Poly Sci",
+  "artist": "John Forte",
+  "peak": 84,
+  "history": [
+    {
+      "date": "1998-08-01",
+      "rank": 84
+    },
+    {
+      "date": "1998-08-08",
+      "rank": 154
+    },
+    {
+      "date": "1998-08-15",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ninety Nine (Flash the Message)",
+      "id": "ninety-nine-flash-the-message-john-forte"
+    },
+    {
+      "title": "Flash the Message",
+      "id": "ninety-nine-flash-the-message-john-forte"
+    },
+    {
+      "title": "Hot (intro)",
+      "id": null
+    },
+    {
+      "title": "They Got Me",
+      "id": null
+    },
+    {
+      "title": "God Is Love God Is War",
+      "id": null
+    },
+    {
+      "title": "We Got This",
+      "id": null
+    },
+    {
+      "title": "P.B.E. (Powerful, Beautiful, Excellent)",
+      "id": null
+    },
+    {
+      "title": "The Right One / Father to Son (interlude)",
+      "id": null
+    },
+    {
+      "title": "Madina Passage",
+      "id": null
+    },
+    {
+      "title": "All You Gotta Do",
+      "id": null
+    },
+    {
+      "title": "All F#Ucked Up",
+      "id": null
+    },
+    {
+      "title": "Poly Sci",
+      "id": null
+    },
+    {
+      "title": "Born to Win / Riddle of Steel (interlude)",
+      "id": null
+    },
+    {
+      "title": "Hot (outro)",
+      "id": null
+    }
+  ]
+}

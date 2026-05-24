@@ -1,1 +1,54 @@
-{"id": "pop-goes-the-movies-meco", "title": "Pop Goes The Movies", "artist": "Meco", "peak": 68, "history": [{"date": "1982-04-03", "rank": 98}, {"date": "1982-04-10", "rank": 84}, {"date": "1982-04-17", "rank": 74}, {"date": "1982-04-24", "rank": 68}, {"date": "1982-05-01", "rank": 68}, {"date": "1982-05-08", "rank": 93}, {"date": "1982-05-15", "rank": 94}, {"date": "1982-05-22", "rank": 107}, {"date": "1982-05-29", "rank": 193}]}
+{
+  "id": "pop-goes-the-movies-meco",
+  "title": "Pop Goes The Movies",
+  "artist": "Meco",
+  "peak": 68,
+  "history": [
+    {
+      "date": "1982-04-03",
+      "rank": 98
+    },
+    {
+      "date": "1982-04-10",
+      "rank": 84
+    },
+    {
+      "date": "1982-04-17",
+      "rank": 74
+    },
+    {
+      "date": "1982-04-24",
+      "rank": 68
+    },
+    {
+      "date": "1982-05-01",
+      "rank": 68
+    },
+    {
+      "date": "1982-05-08",
+      "rank": 93
+    },
+    {
+      "date": "1982-05-15",
+      "rank": 94
+    },
+    {
+      "date": "1982-05-22",
+      "rank": 107
+    },
+    {
+      "date": "1982-05-29",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pop Goes the Movies, Part 1",
+      "id": "pop-goes-the-movies-part-i-meco"
+    },
+    {
+      "title": "Pop Goes the Movies, Part 2",
+      "id": "pop-goes-the-movies-part-i-meco"
+    }
+  ]
+}

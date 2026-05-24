@@ -1,1 +1,62 @@
-{"id": "pony-rex-orange-county", "title": "Pony", "artist": "Rex Orange County", "peak": 3, "history": [{"date": "2019-11-09", "rank": 3}, {"date": "2019-11-16", "rank": 85}, {"date": "2019-11-23", "rank": 147}]}
+{
+  "id": "pony-rex-orange-county",
+  "title": "Pony",
+  "artist": "Rex Orange County",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2019-11-09",
+      "rank": 3
+    },
+    {
+      "date": "2019-11-16",
+      "rank": 85
+    },
+    {
+      "date": "2019-11-23",
+      "rank": 147
+    }
+  ],
+  "tracks": [
+    {
+      "title": "10/10",
+      "id": null
+    },
+    {
+      "title": "Always",
+      "id": null
+    },
+    {
+      "title": "Laser Lights",
+      "id": null
+    },
+    {
+      "title": "Face to Face",
+      "id": null
+    },
+    {
+      "title": "Stressed Out",
+      "id": null
+    },
+    {
+      "title": "Never Had the Balls",
+      "id": null
+    },
+    {
+      "title": "Pluto Projector",
+      "id": null
+    },
+    {
+      "title": "Every Way",
+      "id": null
+    },
+    {
+      "title": "It Gets Better",
+      "id": null
+    },
+    {
+      "title": "It’s Not the Same Anymore",
+      "id": null
+    }
+  ]
+}

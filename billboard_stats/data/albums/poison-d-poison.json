@@ -1,1 +1,78 @@
-{"id": "poison-d-poison", "title": "POISON'D!", "artist": "Poison", "peak": 32, "history": [{"date": "2007-06-23", "rank": 32}, {"date": "2007-06-30", "rank": 75}, {"date": "2007-07-07", "rank": 104}, {"date": "2007-07-14", "rank": 154}]}
+{
+  "id": "poison-d-poison",
+  "title": "POISON'D!",
+  "artist": "Poison",
+  "peak": 32,
+  "history": [
+    {
+      "date": "2007-06-23",
+      "rank": 32
+    },
+    {
+      "date": "2007-06-30",
+      "rank": 75
+    },
+    {
+      "date": "2007-07-07",
+      "rank": 104
+    },
+    {
+      "date": "2007-07-14",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Your Mama Don’t Dance",
+      "id": "your-mama-don-t-dance-poison"
+    },
+    {
+      "title": "Little Willy",
+      "id": null
+    },
+    {
+      "title": "Suffragette City",
+      "id": null
+    },
+    {
+      "title": "I Never Cry",
+      "id": null
+    },
+    {
+      "title": "I Need to Know",
+      "id": null
+    },
+    {
+      "title": "Can't You See",
+      "id": null
+    },
+    {
+      "title": "What I Like About You",
+      "id": null
+    },
+    {
+      "title": "Dead Flowers",
+      "id": null
+    },
+    {
+      "title": "Just What I Needed",
+      "id": null
+    },
+    {
+      "title": "Rock and Roll All Nite",
+      "id": null
+    },
+    {
+      "title": "Squeeze Box",
+      "id": null
+    },
+    {
+      "title": "You Don’t Mess Around With Jim (demo)",
+      "id": null
+    },
+    {
+      "title": "We're an American Band",
+      "id": null
+    }
+  ]
+}

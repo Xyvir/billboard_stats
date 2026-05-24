@@ -1,1 +1,82 @@
-{"id": "pop-art-transvision-vamp", "title": "Pop Art", "artist": "Transvision Vamp", "peak": 115, "history": [{"date": "1988-09-24", "rank": 156}, {"date": "1988-10-01", "rank": 134}, {"date": "1988-10-08", "rank": 125}, {"date": "1988-10-15", "rank": 117}, {"date": "1988-10-22", "rank": 115}, {"date": "1988-10-29", "rank": 120}, {"date": "1988-11-05", "rank": 140}, {"date": "1988-11-12", "rank": 199}]}
+{
+  "id": "pop-art-transvision-vamp",
+  "title": "Pop Art",
+  "artist": "Transvision Vamp",
+  "peak": 115,
+  "history": [
+    {
+      "date": "1988-09-24",
+      "rank": 156
+    },
+    {
+      "date": "1988-10-01",
+      "rank": 134
+    },
+    {
+      "date": "1988-10-08",
+      "rank": 125
+    },
+    {
+      "date": "1988-10-15",
+      "rank": 117
+    },
+    {
+      "date": "1988-10-22",
+      "rank": 115
+    },
+    {
+      "date": "1988-10-29",
+      "rank": 120
+    },
+    {
+      "date": "1988-11-05",
+      "rank": 140
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tell That Girl to Shut Up",
+      "id": "tell-that-girl-to-shut-up-transvision-vamp"
+    },
+    {
+      "title": "Trash City",
+      "id": null
+    },
+    {
+      "title": "I Want Your Love",
+      "id": null
+    },
+    {
+      "title": "Sister Moon",
+      "id": null
+    },
+    {
+      "title": "Psychosonic Cindy",
+      "id": null
+    },
+    {
+      "title": "Revolution Baby",
+      "id": null
+    },
+    {
+      "title": "Wild Star",
+      "id": null
+    },
+    {
+      "title": "Hanging Out With Halo Jones",
+      "id": null
+    },
+    {
+      "title": "Andy Warhol’s Dead",
+      "id": null
+    },
+    {
+      "title": "Sex Kick",
+      "id": null
+    }
+  ]
+}

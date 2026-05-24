@@ -1,1 +1,94 @@
-{"id": "pool-it-the-monkees", "title": "Pool It", "artist": "The Monkees", "peak": 72, "history": [{"date": "1987-09-19", "rank": 97}, {"date": "1987-09-26", "rank": 80}, {"date": "1987-10-03", "rank": 72}, {"date": "1987-10-10", "rank": 72}, {"date": "1987-10-17", "rank": 94}, {"date": "1987-10-24", "rank": 100}, {"date": "1987-10-31", "rank": 118}, {"date": "1987-11-07", "rank": 186}, {"date": "1987-11-14", "rank": 200}]}
+{
+  "id": "pool-it-the-monkees",
+  "title": "Pool It",
+  "artist": "The Monkees",
+  "peak": 72,
+  "history": [
+    {
+      "date": "1987-09-19",
+      "rank": 97
+    },
+    {
+      "date": "1987-09-26",
+      "rank": 80
+    },
+    {
+      "date": "1987-10-03",
+      "rank": 72
+    },
+    {
+      "date": "1987-10-10",
+      "rank": 72
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 94
+    },
+    {
+      "date": "1987-10-24",
+      "rank": 100
+    },
+    {
+      "date": "1987-10-31",
+      "rank": 118
+    },
+    {
+      "date": "1987-11-07",
+      "rank": 186
+    },
+    {
+      "date": "1987-11-14",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heart and Soul",
+      "id": "heart-and-soul-the-monkees"
+    },
+    {
+      "title": "(I’d Go the) Whole Wide World",
+      "id": null
+    },
+    {
+      "title": "Long Way Home",
+      "id": null
+    },
+    {
+      "title": "Secret Heart",
+      "id": null
+    },
+    {
+      "title": "Gettin’ In",
+      "id": null
+    },
+    {
+      "title": "(I’ll) Love You Forever",
+      "id": null
+    },
+    {
+      "title": "Every Step of the Way",
+      "id": null
+    },
+    {
+      "title": "Don’t Bring Me Down",
+      "id": null
+    },
+    {
+      "title": "Midnight",
+      "id": null
+    },
+    {
+      "title": "She’s Movin’ in With Rico",
+      "id": null
+    },
+    {
+      "title": "Since You Went Away",
+      "id": null
+    },
+    {
+      "title": "Counting on You",
+      "id": null
+    }
+  ]
+}
