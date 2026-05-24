@@ -1,1 +1,74 @@
-{"id": "somebody-s-miracle-liz-phair", "title": "Somebody's Miracle", "artist": "Liz Phair", "peak": 46, "history": [{"date": "2005-10-22", "rank": 46}, {"date": "2005-10-29", "rank": 159}]}
+{
+  "id": "somebody-s-miracle-liz-phair",
+  "title": "Somebody's Miracle",
+  "artist": "Liz Phair",
+  "peak": 46,
+  "history": [
+    {
+      "date": "2005-10-22",
+      "rank": 46
+    },
+    {
+      "date": "2005-10-29",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Why I Lie",
+      "id": "why-can-t-i-liz-phair"
+    },
+    {
+      "title": "Leap of Innocence",
+      "id": null
+    },
+    {
+      "title": "Wind and the Mountain",
+      "id": null
+    },
+    {
+      "title": "Stars and Planets",
+      "id": null
+    },
+    {
+      "title": "Somebody’s Miracle",
+      "id": null
+    },
+    {
+      "title": "Got My Own Thing",
+      "id": null
+    },
+    {
+      "title": "Count On My Love",
+      "id": null
+    },
+    {
+      "title": "Lazy Dreamer",
+      "id": null
+    },
+    {
+      "title": "Everything to Me",
+      "id": null
+    },
+    {
+      "title": "Closer to You",
+      "id": null
+    },
+    {
+      "title": "Table for One",
+      "id": null
+    },
+    {
+      "title": "Lost Tonight",
+      "id": null
+    },
+    {
+      "title": "Everything (Between Us)",
+      "id": null
+    },
+    {
+      "title": "Giving It All to You",
+      "id": null
+    }
+  ]
+}

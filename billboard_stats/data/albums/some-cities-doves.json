@@ -1,1 +1,66 @@
-{"id": "some-cities-doves", "title": "Some Cities", "artist": "Doves", "peak": 111, "history": [{"date": "2005-03-19", "rank": 111}, {"date": "2005-03-26", "rank": 137}]}
+{
+  "id": "some-cities-doves",
+  "title": "Some Cities",
+  "artist": "Doves",
+  "peak": 111,
+  "history": [
+    {
+      "date": "2005-03-19",
+      "rank": 111
+    },
+    {
+      "date": "2005-03-26",
+      "rank": 137
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Some Cities",
+      "id": null
+    },
+    {
+      "title": "Black and White Town",
+      "id": null
+    },
+    {
+      "title": "Almost Forgot Myself",
+      "id": null
+    },
+    {
+      "title": "Snowden",
+      "id": null
+    },
+    {
+      "title": "The Storm",
+      "id": null
+    },
+    {
+      "title": "Walk in Fire",
+      "id": null
+    },
+    {
+      "title": "One of These Days",
+      "id": null
+    },
+    {
+      "title": "Someday Soon",
+      "id": null
+    },
+    {
+      "title": "Shadows of Salford",
+      "id": null
+    },
+    {
+      "title": "Sky Starts Falling",
+      "id": null
+    },
+    {
+      "title": "Ambition",
+      "id": null
+    },
+    {
+      "title": "Cities Under Construction' Documentary, Black and White Town 'Director's Cut / Photo Gallery",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,170 @@
-{"id": "some-days-are-diamonds-john-denver", "title": "Some Days Are Diamonds", "artist": "John Denver", "peak": 32, "history": [{"date": "1981-07-04", "rank": 111}, {"date": "1981-07-11", "rank": 88}, {"date": "1981-07-18", "rank": 84}, {"date": "1981-07-25", "rank": 73}, {"date": "1981-08-01", "rank": 62}, {"date": "1981-08-08", "rank": 53}, {"date": "1981-08-15", "rank": 50}, {"date": "1981-08-22", "rank": 46}, {"date": "1981-08-29", "rank": 42}, {"date": "1981-09-05", "rank": 37}, {"date": "1981-09-12", "rank": 35}, {"date": "1981-09-19", "rank": 32}, {"date": "1981-09-26", "rank": 32}, {"date": "1981-10-03", "rank": 48}, {"date": "1981-10-10", "rank": 50}, {"date": "1981-10-17", "rank": 60}, {"date": "1981-10-24", "rank": 65}, {"date": "1981-10-31", "rank": 79}, {"date": "1981-11-07", "rank": 82}, {"date": "1981-11-14", "rank": 82}, {"date": "1981-11-21", "rank": 105}, {"date": "1981-11-28", "rank": 105}, {"date": "1981-12-05", "rank": 105}, {"date": "1981-12-12", "rank": 121}, {"date": "1981-12-19", "rank": 138}, {"date": "1981-12-26", "rank": 146}, {"date": "1982-01-02", "rank": 146}, {"date": "1982-01-09", "rank": 173}, {"date": "1982-01-16", "rank": 184}, {"date": "1982-01-23", "rank": 188}]}
+{
+  "id": "some-days-are-diamonds-john-denver",
+  "title": "Some Days Are Diamonds",
+  "artist": "John Denver",
+  "peak": 32,
+  "history": [
+    {
+      "date": "1981-07-04",
+      "rank": 111
+    },
+    {
+      "date": "1981-07-11",
+      "rank": 88
+    },
+    {
+      "date": "1981-07-18",
+      "rank": 84
+    },
+    {
+      "date": "1981-07-25",
+      "rank": 73
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 62
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 53
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 50
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 46
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 42
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 37
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 35
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 32
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 32
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 48
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 50
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 60
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 65
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 79
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 82
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 82
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 105
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 105
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 105
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 121
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 138
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 146
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 146
+    },
+    {
+      "date": "1982-01-09",
+      "rank": 173
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 184
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Some Days Are Diamonds (Some Days Are Stone)",
+      "id": "some-days-are-diamonds-some-days-are-stone-john-denver"
+    },
+    {
+      "title": "The Cowboy and the Lady",
+      "id": "the-cowboy-and-the-lady-john-denver"
+    },
+    {
+      "title": "Gravel on the Ground",
+      "id": null
+    },
+    {
+      "title": "San Francisco Mabel Joy",
+      "id": null
+    },
+    {
+      "title": "Sleepin' Alone",
+      "id": null
+    },
+    {
+      "title": "Easy, on Easy Street",
+      "id": null
+    },
+    {
+      "title": "Country Love",
+      "id": null
+    },
+    {
+      "title": "Till You Opened My Eyes",
+      "id": null
+    },
+    {
+      "title": "Wild Flowers in a Mason Jar",
+      "id": null
+    },
+    {
+      "title": "Boy From the Country",
+      "id": null
+    }
+  ]
+}

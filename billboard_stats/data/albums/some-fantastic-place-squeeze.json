@@ -1,1 +1,58 @@
-{"id": "some-fantastic-place-squeeze", "title": "Some Fantastic Place", "artist": "Squeeze", "peak": 182, "history": [{"date": "1993-10-02", "rank": 182}]}
+{
+  "id": "some-fantastic-place-squeeze",
+  "title": "Some Fantastic Place",
+  "artist": "Squeeze",
+  "peak": 182,
+  "history": [
+    {
+      "date": "1993-10-02",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Everything in the World",
+      "id": null
+    },
+    {
+      "title": "Some Fantastic Place",
+      "id": null
+    },
+    {
+      "title": "Third Rail",
+      "id": null
+    },
+    {
+      "title": "Loving You Tonight",
+      "id": null
+    },
+    {
+      "title": "It’s Over",
+      "id": null
+    },
+    {
+      "title": "Cold Shoulder",
+      "id": null
+    },
+    {
+      "title": "Talk to Him",
+      "id": null
+    },
+    {
+      "title": "Jolly Comes Home",
+      "id": null
+    },
+    {
+      "title": "Images of Loving",
+      "id": null
+    },
+    {
+      "title": "True Colours (The Storm)",
+      "id": null
+    },
+    {
+      "title": "Pinocchio",
+      "id": null
+    }
+  ]
+}

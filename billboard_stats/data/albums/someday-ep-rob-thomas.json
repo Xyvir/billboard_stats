@@ -1,1 +1,30 @@
-{"id": "someday-ep-rob-thomas", "title": "Someday (EP)", "artist": "Rob Thomas", "peak": 91, "history": [{"date": "2010-04-17", "rank": 91}]}
+{
+  "id": "someday-ep-rob-thomas",
+  "title": "Someday (EP)",
+  "artist": "Rob Thomas",
+  "peak": 91,
+  "history": [
+    {
+      "date": "2010-04-17",
+      "rank": 91
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Someday (live)",
+      "id": "someday-rob-thomas"
+    },
+    {
+      "title": "Soul Sick",
+      "id": null
+    },
+    {
+      "title": "Feel So Bad",
+      "id": null
+    },
+    {
+      "title": "Sunday Morning New York Blue",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"id": "some-come-running-jim-capaldi", "title": "Some Come Running", "artist": "Jim Capaldi", "peak": 183, "history": [{"date": "1988-12-17", "rank": 197}, {"date": "1988-12-24", "rank": 195}, {"date": "1988-12-31", "rank": 195}, {"date": "1989-01-07", "rank": 195}, {"date": "1989-01-21", "rank": 195}, {"date": "1989-01-28", "rank": 194}, {"date": "1989-02-04", "rank": 183}, {"date": "1989-02-11", "rank": 183}]}
+{
+  "id": "some-come-running-jim-capaldi",
+  "title": "Some Come Running",
+  "artist": "Jim Capaldi",
+  "peak": 183,
+  "history": [
+    {
+      "date": "1988-12-17",
+      "rank": 197
+    },
+    {
+      "date": "1988-12-24",
+      "rank": 195
+    },
+    {
+      "date": "1988-12-31",
+      "rank": 195
+    },
+    {
+      "date": "1989-01-07",
+      "rank": 195
+    },
+    {
+      "date": "1989-01-21",
+      "rank": 195
+    },
+    {
+      "date": "1989-01-28",
+      "rank": 194
+    },
+    {
+      "date": "1989-02-04",
+      "rank": 183
+    },
+    {
+      "date": "1989-02-11",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dancing on the Highway",
+      "id": "living-on-the-edge-jim-capaldi"
+    },
+    {
+      "title": "Something So Strong",
+      "id": null
+    },
+    {
+      "title": "Love Used to Be a Friend of Mine",
+      "id": null
+    },
+    {
+      "title": "Some Come Running",
+      "id": null
+    },
+    {
+      "title": "Voices in the Night",
+      "id": null
+    },
+    {
+      "title": "You Are the One",
+      "id": null
+    },
+    {
+      "title": "Take Me Home",
+      "id": null
+    },
+    {
+      "title": "Oh Lord, Why Lord",
+      "id": null
+    }
+  ]
+}
