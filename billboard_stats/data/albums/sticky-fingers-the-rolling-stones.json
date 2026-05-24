@@ -1,1 +1,158 @@
-{"id": "sticky-fingers-the-rolling-stones", "title": "Sticky Fingers", "artist": "The Rolling Stones", "peak": 5, "history": [{"date": "1978-07-22", "rank": 149}, {"date": "1978-07-29", "rank": 139}, {"date": "1978-08-05", "rank": 137}, {"date": "1978-08-12", "rank": 134}, {"date": "1978-08-19", "rank": 196}, {"date": "1978-08-26", "rank": 182}, {"date": "1978-09-02", "rank": 182}, {"date": "1978-09-09", "rank": 180}, {"date": "1980-10-11", "rank": 181}, {"date": "1980-10-18", "rank": 181}, {"date": "1980-10-25", "rank": 191}, {"date": "1981-09-19", "rank": 136}, {"date": "1981-09-26", "rank": 133}, {"date": "1981-10-03", "rank": 180}, {"date": "1981-10-10", "rank": 198}, {"date": "1981-10-17", "rank": 198}, {"date": "1981-10-24", "rank": 195}, {"date": "1981-10-31", "rank": 191}, {"date": "1981-11-07", "rank": 192}, {"date": "1981-11-14", "rank": 192}, {"date": "2015-06-27", "rank": 5}, {"date": "2015-07-04", "rank": 31}, {"date": "2015-07-11", "rank": 66}, {"date": "2015-07-18", "rank": 111}, {"date": "2015-07-25", "rank": 150}, {"date": "2015-08-01", "rank": 147}, {"date": "2015-08-08", "rank": 186}]}
+{
+  "id": "sticky-fingers-the-rolling-stones",
+  "title": "Sticky Fingers",
+  "artist": "The Rolling Stones",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1978-07-22",
+      "rank": 149
+    },
+    {
+      "date": "1978-07-29",
+      "rank": 139
+    },
+    {
+      "date": "1978-08-05",
+      "rank": 137
+    },
+    {
+      "date": "1978-08-12",
+      "rank": 134
+    },
+    {
+      "date": "1978-08-19",
+      "rank": 196
+    },
+    {
+      "date": "1978-08-26",
+      "rank": 182
+    },
+    {
+      "date": "1978-09-02",
+      "rank": 182
+    },
+    {
+      "date": "1978-09-09",
+      "rank": 180
+    },
+    {
+      "date": "1980-10-11",
+      "rank": 181
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 181
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 191
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 136
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 133
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 180
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 198
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 198
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 195
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 191
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 192
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 192
+    },
+    {
+      "date": "2015-06-27",
+      "rank": 5
+    },
+    {
+      "date": "2015-07-04",
+      "rank": 31
+    },
+    {
+      "date": "2015-07-11",
+      "rank": 66
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 111
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 150
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 147
+    },
+    {
+      "date": "2015-08-08",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Brown Sugar",
+      "id": "brown-sugar-the-rolling-stones"
+    },
+    {
+      "title": "Wild Horses",
+      "id": "wild-horses-the-rolling-stones"
+    },
+    {
+      "title": "Sway",
+      "id": null
+    },
+    {
+      "title": "Can’t You Hear Me Knocking",
+      "id": null
+    },
+    {
+      "title": "You Gotta Move",
+      "id": null
+    },
+    {
+      "title": "Bitch",
+      "id": null
+    },
+    {
+      "title": "I Got the Blues",
+      "id": null
+    },
+    {
+      "title": "Sister Morphine",
+      "id": null
+    },
+    {
+      "title": "Dead Flowers",
+      "id": null
+    },
+    {
+      "title": "Moonlight Mile",
+      "id": null
+    }
+  ]
+}

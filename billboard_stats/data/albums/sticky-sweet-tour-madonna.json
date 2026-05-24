@@ -1,1 +1,94 @@
-{"id": "sticky-sweet-tour-madonna", "title": "Sticky & Sweet Tour", "artist": "Madonna", "peak": 10, "history": [{"date": "2010-04-24", "rank": 10}, {"date": "2010-05-01", "rank": 58}, {"date": "2010-05-08", "rank": 107}, {"date": "2010-05-15", "rank": 146}]}
+{
+  "id": "sticky-sweet-tour-madonna",
+  "title": "Sticky & Sweet Tour",
+  "artist": "Madonna",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2010-04-24",
+      "rank": 10
+    },
+    {
+      "date": "2010-05-01",
+      "rank": 58
+    },
+    {
+      "date": "2010-05-08",
+      "rank": 107
+    },
+    {
+      "date": "2010-05-15",
+      "rank": 146
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Human Nature",
+      "id": "human-nature-madonna"
+    },
+    {
+      "title": "Vogue 2008",
+      "id": "vogue-madonna"
+    },
+    {
+      "title": "Borderline",
+      "id": "borderline-madonna"
+    },
+    {
+      "title": "Music 2008",
+      "id": "music-madonna"
+    },
+    {
+      "title": "La Isla Bonita 2008",
+      "id": "la-isla-bonita-madonna"
+    },
+    {
+      "title": "You Must Love Me",
+      "id": "you-must-love-me-from-evita-madonna"
+    },
+    {
+      "title": "Like a Prayer 2008",
+      "id": "like-a-prayer-madonna"
+    },
+    {
+      "title": "Ray of Light",
+      "id": "ray-of-light-madonna"
+    },
+    {
+      "title": "Give It 2 Me",
+      "id": "give-it-2-me-madonna"
+    },
+    {
+      "title": "Candy Shop (medley)",
+      "id": null
+    },
+    {
+      "title": "Beat Goes On (medley)",
+      "id": null
+    },
+    {
+      "title": "She’s Not Me",
+      "id": null
+    },
+    {
+      "title": "Devil Wouldn’t Recognize You",
+      "id": null
+    },
+    {
+      "title": "Spanish Lesson",
+      "id": null
+    },
+    {
+      "title": "Miles Away",
+      "id": null
+    },
+    {
+      "title": "Get Stupid (medley)",
+      "id": null
+    },
+    {
+      "title": "4 Minutes",
+      "id": null
+    }
+  ]
+}

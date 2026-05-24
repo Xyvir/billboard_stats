@@ -1,1 +1,58 @@
-{"id": "sticky-fingers-live-the-rolling-stones", "title": "Sticky Fingers: Live", "artist": "The Rolling Stones", "peak": 92, "history": [{"date": "2015-07-18", "rank": 92}, {"date": "2015-07-25", "rank": 106}]}
+{
+  "id": "sticky-fingers-live-the-rolling-stones",
+  "title": "Sticky Fingers: Live",
+  "artist": "The Rolling Stones",
+  "peak": 92,
+  "history": [
+    {
+      "date": "2015-07-18",
+      "rank": 92
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 106
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wild Horses",
+      "id": "wild-horses-the-rolling-stones"
+    },
+    {
+      "title": "Brown Sugar",
+      "id": "brown-sugar-the-rolling-stones"
+    },
+    {
+      "title": "Sway",
+      "id": null
+    },
+    {
+      "title": "Dead Flowers",
+      "id": null
+    },
+    {
+      "title": "Sister Morphine",
+      "id": null
+    },
+    {
+      "title": "You Gotta Move",
+      "id": null
+    },
+    {
+      "title": "Bitch",
+      "id": null
+    },
+    {
+      "title": "Can’t You Hear Me Knocking",
+      "id": null
+    },
+    {
+      "title": "I Got The Blues",
+      "id": null
+    },
+    {
+      "title": "Moonlight Mile",
+      "id": null
+    }
+  ]
+}
