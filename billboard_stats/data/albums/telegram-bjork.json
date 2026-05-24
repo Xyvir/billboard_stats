@@ -1,1 +1,70 @@
-{"id": "telegram-bjork", "title": "Telegram", "artist": "Bjork", "peak": 66, "history": [{"date": "1997-02-01", "rank": 66}, {"date": "1997-02-08", "rank": 82}, {"date": "1997-02-15", "rank": 116}, {"date": "1997-02-22", "rank": 126}, {"date": "1997-03-01", "rank": 167}]}
+{
+  "id": "telegram-bjork",
+  "title": "Telegram",
+  "artist": "Bjork",
+  "peak": 66,
+  "history": [
+    {
+      "date": "1997-02-01",
+      "rank": 66
+    },
+    {
+      "date": "1997-02-08",
+      "rank": 82
+    },
+    {
+      "date": "1997-02-15",
+      "rank": 116
+    },
+    {
+      "date": "1997-02-22",
+      "rank": 126
+    },
+    {
+      "date": "1997-03-01",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Possibly Maybe (Lucy mix)",
+      "id": null
+    },
+    {
+      "title": "Hyperballad (Brodsky Quartet version)",
+      "id": null
+    },
+    {
+      "title": "Enjoy (Further Over the Edge mix)",
+      "id": null
+    },
+    {
+      "title": "My Spine",
+      "id": null
+    },
+    {
+      "title": "I Miss You (Dobie Rub, Part One – Sunshine mix)",
+      "id": null
+    },
+    {
+      "title": "Isobel (Deodato mix)",
+      "id": null
+    },
+    {
+      "title": "You’ve Been Flirting Again (Flirt Is a Promise mix)",
+      "id": null
+    },
+    {
+      "title": "Cover Me (Dillinja mix)",
+      "id": null
+    },
+    {
+      "title": "Army of Me (Masseymix)",
+      "id": null
+    },
+    {
+      "title": "Headphones (Ø remix)",
+      "id": null
+    }
+  ]
+}

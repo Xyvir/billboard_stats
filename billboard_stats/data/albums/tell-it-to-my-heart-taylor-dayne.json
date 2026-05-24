@@ -1,1 +1,406 @@
-{"id": "tell-it-to-my-heart-taylor-dayne", "title": "Tell It To My Heart", "artist": "Taylor Dayne", "peak": 21, "history": [{"date": "1988-01-30", "rank": 91}, {"date": "1988-02-06", "rank": 55}, {"date": "1988-02-13", "rank": 46}, {"date": "1988-02-20", "rank": 38}, {"date": "1988-02-27", "rank": 36}, {"date": "1988-03-05", "rank": 35}, {"date": "1988-03-12", "rank": 35}, {"date": "1988-03-19", "rank": 35}, {"date": "1988-03-26", "rank": 35}, {"date": "1988-04-02", "rank": 36}, {"date": "1988-04-09", "rank": 37}, {"date": "1988-04-16", "rank": 39}, {"date": "1988-04-23", "rank": 37}, {"date": "1988-04-30", "rank": 38}, {"date": "1988-05-07", "rank": 51}, {"date": "1988-05-14", "rank": 57}, {"date": "1988-05-21", "rank": 68}, {"date": "1988-05-28", "rank": 74}, {"date": "1988-06-04", "rank": 79}, {"date": "1988-06-11", "rank": 83}, {"date": "1988-06-18", "rank": 90}, {"date": "1988-06-25", "rank": 91}, {"date": "1988-07-02", "rank": 102}, {"date": "1988-07-09", "rank": 102}, {"date": "1988-07-16", "rank": 113}, {"date": "1988-07-23", "rank": 113}, {"date": "1988-07-30", "rank": 120}, {"date": "1988-08-06", "rank": 103}, {"date": "1988-08-13", "rank": 96}, {"date": "1988-08-20", "rank": 93}, {"date": "1988-08-27", "rank": 87}, {"date": "1988-09-03", "rank": 73}, {"date": "1988-09-10", "rank": 63}, {"date": "1988-09-17", "rank": 54}, {"date": "1988-09-24", "rank": 44}, {"date": "1988-10-01", "rank": 35}, {"date": "1988-10-08", "rank": 30}, {"date": "1988-10-15", "rank": 26}, {"date": "1988-10-22", "rank": 23}, {"date": "1988-10-29", "rank": 21}, {"date": "1988-11-05", "rank": 25}, {"date": "1988-11-12", "rank": 23}, {"date": "1988-11-19", "rank": 27}, {"date": "1988-11-26", "rank": 25}, {"date": "1988-12-03", "rank": 28}, {"date": "1988-12-10", "rank": 29}, {"date": "1988-12-17", "rank": 32}, {"date": "1988-12-24", "rank": 35}, {"date": "1988-12-31", "rank": 35}, {"date": "1989-01-07", "rank": 30}, {"date": "1989-01-14", "rank": 31}, {"date": "1989-01-21", "rank": 28}, {"date": "1989-01-28", "rank": 27}, {"date": "1989-02-04", "rank": 26}, {"date": "1989-02-11", "rank": 24}, {"date": "1989-02-18", "rank": 27}, {"date": "1989-02-25", "rank": 33}, {"date": "1989-03-04", "rank": 36}, {"date": "1989-03-11", "rank": 45}, {"date": "1989-03-18", "rank": 51}, {"date": "1989-03-25", "rank": 63}, {"date": "1989-04-01", "rank": 69}, {"date": "1989-04-08", "rank": 78}, {"date": "1989-04-15", "rank": 87}, {"date": "1989-04-22", "rank": 115}, {"date": "1989-04-29", "rank": 117}, {"date": "1989-05-06", "rank": 133}, {"date": "1989-05-13", "rank": 167}, {"date": "1989-05-20", "rank": 183}]}
+{
+  "id": "tell-it-to-my-heart-taylor-dayne",
+  "title": "Tell It To My Heart",
+  "artist": "Taylor Dayne",
+  "peak": 21,
+  "history": [
+    {
+      "date": "1988-01-30",
+      "rank": 91
+    },
+    {
+      "date": "1988-02-06",
+      "rank": 55
+    },
+    {
+      "date": "1988-02-13",
+      "rank": 46
+    },
+    {
+      "date": "1988-02-20",
+      "rank": 38
+    },
+    {
+      "date": "1988-02-27",
+      "rank": 36
+    },
+    {
+      "date": "1988-03-05",
+      "rank": 35
+    },
+    {
+      "date": "1988-03-12",
+      "rank": 35
+    },
+    {
+      "date": "1988-03-19",
+      "rank": 35
+    },
+    {
+      "date": "1988-03-26",
+      "rank": 35
+    },
+    {
+      "date": "1988-04-02",
+      "rank": 36
+    },
+    {
+      "date": "1988-04-09",
+      "rank": 37
+    },
+    {
+      "date": "1988-04-16",
+      "rank": 39
+    },
+    {
+      "date": "1988-04-23",
+      "rank": 37
+    },
+    {
+      "date": "1988-04-30",
+      "rank": 38
+    },
+    {
+      "date": "1988-05-07",
+      "rank": 51
+    },
+    {
+      "date": "1988-05-14",
+      "rank": 57
+    },
+    {
+      "date": "1988-05-21",
+      "rank": 68
+    },
+    {
+      "date": "1988-05-28",
+      "rank": 74
+    },
+    {
+      "date": "1988-06-04",
+      "rank": 79
+    },
+    {
+      "date": "1988-06-11",
+      "rank": 83
+    },
+    {
+      "date": "1988-06-18",
+      "rank": 90
+    },
+    {
+      "date": "1988-06-25",
+      "rank": 91
+    },
+    {
+      "date": "1988-07-02",
+      "rank": 102
+    },
+    {
+      "date": "1988-07-09",
+      "rank": 102
+    },
+    {
+      "date": "1988-07-16",
+      "rank": 113
+    },
+    {
+      "date": "1988-07-23",
+      "rank": 113
+    },
+    {
+      "date": "1988-07-30",
+      "rank": 120
+    },
+    {
+      "date": "1988-08-06",
+      "rank": 103
+    },
+    {
+      "date": "1988-08-13",
+      "rank": 96
+    },
+    {
+      "date": "1988-08-20",
+      "rank": 93
+    },
+    {
+      "date": "1988-08-27",
+      "rank": 87
+    },
+    {
+      "date": "1988-09-03",
+      "rank": 73
+    },
+    {
+      "date": "1988-09-10",
+      "rank": 63
+    },
+    {
+      "date": "1988-09-17",
+      "rank": 54
+    },
+    {
+      "date": "1988-09-24",
+      "rank": 44
+    },
+    {
+      "date": "1988-10-01",
+      "rank": 35
+    },
+    {
+      "date": "1988-10-08",
+      "rank": 30
+    },
+    {
+      "date": "1988-10-15",
+      "rank": 26
+    },
+    {
+      "date": "1988-10-22",
+      "rank": 23
+    },
+    {
+      "date": "1988-10-29",
+      "rank": 21
+    },
+    {
+      "date": "1988-11-05",
+      "rank": 25
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 23
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 27
+    },
+    {
+      "date": "1988-11-26",
+      "rank": 25
+    },
+    {
+      "date": "1988-12-03",
+      "rank": 28
+    },
+    {
+      "date": "1988-12-10",
+      "rank": 29
+    },
+    {
+      "date": "1988-12-17",
+      "rank": 32
+    },
+    {
+      "date": "1988-12-24",
+      "rank": 35
+    },
+    {
+      "date": "1988-12-31",
+      "rank": 35
+    },
+    {
+      "date": "1989-01-07",
+      "rank": 30
+    },
+    {
+      "date": "1989-01-14",
+      "rank": 31
+    },
+    {
+      "date": "1989-01-21",
+      "rank": 28
+    },
+    {
+      "date": "1989-01-28",
+      "rank": 27
+    },
+    {
+      "date": "1989-02-04",
+      "rank": 26
+    },
+    {
+      "date": "1989-02-11",
+      "rank": 24
+    },
+    {
+      "date": "1989-02-18",
+      "rank": 27
+    },
+    {
+      "date": "1989-02-25",
+      "rank": 33
+    },
+    {
+      "date": "1989-03-04",
+      "rank": 36
+    },
+    {
+      "date": "1989-03-11",
+      "rank": 45
+    },
+    {
+      "date": "1989-03-18",
+      "rank": 51
+    },
+    {
+      "date": "1989-03-25",
+      "rank": 63
+    },
+    {
+      "date": "1989-04-01",
+      "rank": 69
+    },
+    {
+      "date": "1989-04-08",
+      "rank": 78
+    },
+    {
+      "date": "1989-04-15",
+      "rank": 87
+    },
+    {
+      "date": "1989-04-22",
+      "rank": 115
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 117
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 133
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 167
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tell It to My Heart",
+      "id": "tell-it-to-my-heart-dub-taylor-dayne"
+    },
+    {
+      "title": "Don't Rush Me",
+      "id": "don-t-rush-me-taylor-dayne"
+    },
+    {
+      "title": "I’ll Always Love You",
+      "id": "i-ll-always-love-you-taylor-dayne"
+    },
+    {
+      "title": "Prove Your Love",
+      "id": "prove-your-love-taylor-dayne"
+    },
+    {
+      "title": "Prove Your Love (hot single mix)",
+      "id": "prove-your-love-taylor-dayne"
+    },
+    {
+      "title": "Don’t Rush Me (remix)",
+      "id": "don-t-rush-me-taylor-dayne"
+    },
+    {
+      "title": "Tell It to My Heart (Percappella mix)",
+      "id": "tell-it-to-my-heart-dub-taylor-dayne"
+    },
+    {
+      "title": "Prove Your Love (edited remix)",
+      "id": "prove-your-love-taylor-dayne"
+    },
+    {
+      "title": "I’ll Always Love You (extended mix)",
+      "id": "i-ll-always-love-you-taylor-dayne"
+    },
+    {
+      "title": "Don’t Rush Me (Rushappella)",
+      "id": "don-t-rush-me-taylor-dayne"
+    },
+    {
+      "title": "Tell It to My Heart (instrumental)",
+      "id": "tell-it-to-my-heart-dub-taylor-dayne"
+    },
+    {
+      "title": "Don’t Rush Me (bonus beats)",
+      "id": "don-t-rush-me-taylor-dayne"
+    },
+    {
+      "title": "Tell It to My Heart (club mix)",
+      "id": "tell-it-to-my-heart-dub-taylor-dayne"
+    },
+    {
+      "title": "Prove Your Love (extended remix)",
+      "id": "prove-your-love-taylor-dayne"
+    },
+    {
+      "title": "Don’t Rush Me (extended version)",
+      "id": "don-t-rush-me-taylor-dayne"
+    },
+    {
+      "title": "Tell It to My Heart (House of Heart mix)",
+      "id": "tell-it-to-my-heart-dub-taylor-dayne"
+    },
+    {
+      "title": "Prove Your Love (House mix)",
+      "id": "prove-your-love-taylor-dayne"
+    },
+    {
+      "title": "Tell It to My Heart (dub mix)",
+      "id": "tell-it-to-my-heart-dub-taylor-dayne"
+    },
+    {
+      "title": "Don’t Rush Me (dub version)",
+      "id": "don-t-rush-me-taylor-dayne"
+    },
+    {
+      "title": "Tell It to My Heart (Dub of Hearts mix)",
+      "id": "tell-it-to-my-heart-dub-taylor-dayne"
+    },
+    {
+      "title": "In the Darkness",
+      "id": null
+    },
+    {
+      "title": "Do You Want It Right Now",
+      "id": null
+    },
+    {
+      "title": "Carry Your Heart",
+      "id": null
+    },
+    {
+      "title": "Want Ads",
+      "id": null
+    },
+    {
+      "title": "Where Does That Boy Hang Out",
+      "id": null
+    },
+    {
+      "title": "Upon the Journey’s End",
+      "id": null
+    },
+    {
+      "title": "Willpower",
+      "id": null
+    },
+    {
+      "title": "Don’t Rush Me (Continental Clubhouse mix)",
+      "id": null
+    },
+    {
+      "title": "Prove Your Love (Prove Your dub/beats)",
+      "id": null
+    },
+    {
+      "title": "Don’t Rush Me (Continental Dubhouse mix)",
+      "id": null
+    }
+  ]
+}

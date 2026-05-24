@@ -1,1 +1,78 @@
-{"id": "teddy-bear-red-sovine", "title": "Teddy Bear", "artist": "Red Sovine", "peak": 119, "history": [{"date": "1976-09-11", "rank": 141}, {"date": "1976-09-18", "rank": 129}, {"date": "1976-09-25", "rank": 119}, {"date": "1976-10-02", "rank": 119}, {"date": "1976-10-09", "rank": 150}, {"date": "1976-10-16", "rank": 150}]}
+{
+  "id": "teddy-bear-red-sovine",
+  "title": "Teddy Bear",
+  "artist": "Red Sovine",
+  "peak": 119,
+  "history": [
+    {
+      "date": "1976-09-11",
+      "rank": 141
+    },
+    {
+      "date": "1976-09-18",
+      "rank": 129
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 119
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 119
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 150
+    },
+    {
+      "date": "1976-10-16",
+      "rank": 150
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Teddy Bear",
+      "id": "teddy-bear-red-sovine"
+    },
+    {
+      "title": "Little Rosa",
+      "id": null
+    },
+    {
+      "title": "It Ain't No Big Thing",
+      "id": null
+    },
+    {
+      "title": "Last Mile Of The Way",
+      "id": null
+    },
+    {
+      "title": "Bootlegger King",
+      "id": null
+    },
+    {
+      "title": "Daddy",
+      "id": null
+    },
+    {
+      "title": "Love Is",
+      "id": null
+    },
+    {
+      "title": "1460 Elder Street",
+      "id": null
+    },
+    {
+      "title": "Does Steppin' Out Mean Daddy Took A Walk",
+      "id": null
+    },
+    {
+      "title": "18 Wheels Hummin' Home Sweet Home",
+      "id": null
+    },
+    {
+      "title": "Sad Violins",
+      "id": null
+    }
+  ]
+}

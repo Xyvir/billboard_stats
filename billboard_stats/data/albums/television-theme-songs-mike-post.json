@@ -1,1 +1,102 @@
-{"id": "television-theme-songs-mike-post", "title": "Television Theme Songs", "artist": "Mike Post", "peak": 70, "history": [{"date": "1982-02-27", "rank": 188}, {"date": "1982-03-06", "rank": 132}, {"date": "1982-03-13", "rank": 96}, {"date": "1982-03-20", "rank": 84}, {"date": "1982-03-27", "rank": 78}, {"date": "1982-04-03", "rank": 76}, {"date": "1982-04-10", "rank": 76}, {"date": "1982-04-17", "rank": 75}, {"date": "1982-04-24", "rank": 74}, {"date": "1982-05-01", "rank": 72}, {"date": "1982-05-08", "rank": 70}, {"date": "1982-05-15", "rank": 70}, {"date": "1982-05-22", "rank": 95}, {"date": "1982-05-29", "rank": 137}, {"date": "1982-06-05", "rank": 172}, {"date": "1982-06-12", "rank": 183}, {"date": "1982-06-19", "rank": 200}]}
+{
+  "id": "television-theme-songs-mike-post",
+  "title": "Television Theme Songs",
+  "artist": "Mike Post",
+  "peak": 70,
+  "history": [
+    {
+      "date": "1982-02-27",
+      "rank": 188
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 132
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 96
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 84
+    },
+    {
+      "date": "1982-03-27",
+      "rank": 78
+    },
+    {
+      "date": "1982-04-03",
+      "rank": 76
+    },
+    {
+      "date": "1982-04-10",
+      "rank": 76
+    },
+    {
+      "date": "1982-04-17",
+      "rank": 75
+    },
+    {
+      "date": "1982-04-24",
+      "rank": 74
+    },
+    {
+      "date": "1982-05-01",
+      "rank": 72
+    },
+    {
+      "date": "1982-05-08",
+      "rank": 70
+    },
+    {
+      "date": "1982-05-15",
+      "rank": 70
+    },
+    {
+      "date": "1982-05-22",
+      "rank": 95
+    },
+    {
+      "date": "1982-05-29",
+      "rank": 137
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 172
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 183
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Theme from \"Magnum, P.I.\"",
+      "id": "theme-from-magnum-p-i-mike-post"
+    },
+    {
+      "title": "The Rockford Files",
+      "id": "the-rockford-files-mike-post"
+    },
+    {
+      "title": "Theme From \"Hill Street Blues\"",
+      "id": null
+    },
+    {
+      "title": "Believe It or Not (from “Greatest American Hero”)",
+      "id": null
+    },
+    {
+      "title": "The White Shadow",
+      "id": null
+    },
+    {
+      "title": "School’s Out (From Richie Brockelman Private Eye)",
+      "id": null
+    }
+  ]
+}
