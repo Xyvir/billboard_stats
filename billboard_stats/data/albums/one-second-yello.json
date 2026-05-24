@@ -1,1 +1,110 @@
-{"id": "one-second-yello", "title": "One Second", "artist": "Yello", "peak": 92, "history": [{"date": "1987-09-26", "rank": 101}, {"date": "1987-10-03", "rank": 96}, {"date": "1987-10-10", "rank": 92}, {"date": "1987-10-17", "rank": 92}, {"date": "1987-10-24", "rank": 106}, {"date": "1987-10-31", "rank": 103}, {"date": "1987-11-07", "rank": 135}, {"date": "1987-11-14", "rank": 143}, {"date": "1987-11-21", "rank": 172}, {"date": "1987-11-28", "rank": 180}]}
+{
+  "id": "one-second-yello",
+  "title": "One Second",
+  "artist": "Yello",
+  "peak": 92,
+  "history": [
+    {
+      "date": "1987-09-26",
+      "rank": 101
+    },
+    {
+      "date": "1987-10-03",
+      "rank": 96
+    },
+    {
+      "date": "1987-10-10",
+      "rank": 92
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 92
+    },
+    {
+      "date": "1987-10-24",
+      "rank": 106
+    },
+    {
+      "date": "1987-10-31",
+      "rank": 103
+    },
+    {
+      "date": "1987-11-07",
+      "rank": 135
+    },
+    {
+      "date": "1987-11-14",
+      "rank": 143
+    },
+    {
+      "date": "1987-11-21",
+      "rank": 172
+    },
+    {
+      "date": "1987-11-28",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "La Habanera",
+      "id": null
+    },
+    {
+      "title": "Moon on Ice",
+      "id": null
+    },
+    {
+      "title": "Call It Love",
+      "id": null
+    },
+    {
+      "title": "Le Secret Farida",
+      "id": null
+    },
+    {
+      "title": "Hawaiian Chance",
+      "id": null
+    },
+    {
+      "title": "The Rhythm Divine",
+      "id": null
+    },
+    {
+      "title": "Santiago",
+      "id": null
+    },
+    {
+      "title": "Goldrush",
+      "id": null
+    },
+    {
+      "title": "Dr. Van Steiner",
+      "id": null
+    },
+    {
+      "title": "Si señor the Hairy Grill",
+      "id": null
+    },
+    {
+      "title": "L’Hôtel",
+      "id": null
+    },
+    {
+      "title": "Goldrush II (12″ mix)",
+      "id": null
+    },
+    {
+      "title": "The Rhythm Divine (1992 version)",
+      "id": null
+    },
+    {
+      "title": "Life Is a Snowball",
+      "id": null
+    },
+    {
+      "title": "Tool in Rose",
+      "id": null
+    }
+  ]
+}

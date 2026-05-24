@@ -1,1 +1,274 @@
-{"id": "one-night-only-bee-gees", "title": "One Night Only", "artist": "Bee Gees", "peak": 72, "history": [{"date": "1998-11-21", "rank": 109}, {"date": "1998-11-28", "rank": 89}, {"date": "1998-12-05", "rank": 106}, {"date": "1998-12-12", "rank": 129}, {"date": "1998-12-19", "rank": 128}, {"date": "1998-12-26", "rank": 116}, {"date": "1999-01-02", "rank": 135}, {"date": "1999-01-09", "rank": 123}, {"date": "1999-01-16", "rank": 114}, {"date": "1999-01-23", "rank": 89}, {"date": "1999-01-30", "rank": 96}, {"date": "1999-02-06", "rank": 107}, {"date": "1999-02-13", "rank": 114}, {"date": "1999-02-20", "rank": 126}, {"date": "1999-02-27", "rank": 142}, {"date": "1999-03-06", "rank": 153}, {"date": "1999-03-13", "rank": 194}, {"date": "1999-03-20", "rank": 115}, {"date": "1999-03-27", "rank": 72}, {"date": "1999-04-03", "rank": 84}, {"date": "1999-04-10", "rank": 105}, {"date": "1999-04-17", "rank": 129}, {"date": "1999-04-24", "rank": 140}, {"date": "1999-05-01", "rank": 125}, {"date": "1999-05-08", "rank": 141}, {"date": "1999-05-15", "rank": 138}, {"date": "1999-05-22", "rank": 135}, {"date": "1999-05-29", "rank": 148}, {"date": "1999-06-05", "rank": 170}, {"date": "1999-06-12", "rank": 164}, {"date": "1999-06-19", "rank": 173}, {"date": "1999-06-26", "rank": 164}, {"date": "1999-07-03", "rank": 172}, {"date": "1999-07-10", "rank": 191}, {"date": "1999-07-17", "rank": 190}, {"date": "1999-07-24", "rank": 200}, {"date": "1999-08-21", "rank": 194}, {"date": "1999-08-28", "rank": 167}, {"date": "1999-09-04", "rank": 147}, {"date": "1999-09-11", "rank": 157}, {"date": "1999-09-18", "rank": 178}, {"date": "1999-09-25", "rank": 192}]}
+{
+  "id": "one-night-only-bee-gees",
+  "title": "One Night Only",
+  "artist": "Bee Gees",
+  "peak": 72,
+  "history": [
+    {
+      "date": "1998-11-21",
+      "rank": 109
+    },
+    {
+      "date": "1998-11-28",
+      "rank": 89
+    },
+    {
+      "date": "1998-12-05",
+      "rank": 106
+    },
+    {
+      "date": "1998-12-12",
+      "rank": 129
+    },
+    {
+      "date": "1998-12-19",
+      "rank": 128
+    },
+    {
+      "date": "1998-12-26",
+      "rank": 116
+    },
+    {
+      "date": "1999-01-02",
+      "rank": 135
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 123
+    },
+    {
+      "date": "1999-01-16",
+      "rank": 114
+    },
+    {
+      "date": "1999-01-23",
+      "rank": 89
+    },
+    {
+      "date": "1999-01-30",
+      "rank": 96
+    },
+    {
+      "date": "1999-02-06",
+      "rank": 107
+    },
+    {
+      "date": "1999-02-13",
+      "rank": 114
+    },
+    {
+      "date": "1999-02-20",
+      "rank": 126
+    },
+    {
+      "date": "1999-02-27",
+      "rank": 142
+    },
+    {
+      "date": "1999-03-06",
+      "rank": 153
+    },
+    {
+      "date": "1999-03-13",
+      "rank": 194
+    },
+    {
+      "date": "1999-03-20",
+      "rank": 115
+    },
+    {
+      "date": "1999-03-27",
+      "rank": 72
+    },
+    {
+      "date": "1999-04-03",
+      "rank": 84
+    },
+    {
+      "date": "1999-04-10",
+      "rank": 105
+    },
+    {
+      "date": "1999-04-17",
+      "rank": 129
+    },
+    {
+      "date": "1999-04-24",
+      "rank": 140
+    },
+    {
+      "date": "1999-05-01",
+      "rank": 125
+    },
+    {
+      "date": "1999-05-08",
+      "rank": 141
+    },
+    {
+      "date": "1999-05-15",
+      "rank": 138
+    },
+    {
+      "date": "1999-05-22",
+      "rank": 135
+    },
+    {
+      "date": "1999-05-29",
+      "rank": 148
+    },
+    {
+      "date": "1999-06-05",
+      "rank": 170
+    },
+    {
+      "date": "1999-06-12",
+      "rank": 164
+    },
+    {
+      "date": "1999-06-19",
+      "rank": 173
+    },
+    {
+      "date": "1999-06-26",
+      "rank": 164
+    },
+    {
+      "date": "1999-07-03",
+      "rank": 172
+    },
+    {
+      "date": "1999-07-10",
+      "rank": 191
+    },
+    {
+      "date": "1999-07-17",
+      "rank": 190
+    },
+    {
+      "date": "1999-07-24",
+      "rank": 200
+    },
+    {
+      "date": "1999-08-21",
+      "rank": 194
+    },
+    {
+      "date": "1999-08-28",
+      "rank": 167
+    },
+    {
+      "date": "1999-09-04",
+      "rank": 147
+    },
+    {
+      "date": "1999-09-11",
+      "rank": 157
+    },
+    {
+      "date": "1999-09-18",
+      "rank": 178
+    },
+    {
+      "date": "1999-09-25",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intro: You Should Be Dancing / Alone",
+      "id": "you-should-be-dancing-bee-gees"
+    },
+    {
+      "title": "To Love Somebody",
+      "id": "to-love-somebody-bee-gees"
+    },
+    {
+      "title": "Words",
+      "id": "words-bee-gees"
+    },
+    {
+      "title": "Lonely Days",
+      "id": "lonely-days-bee-gees"
+    },
+    {
+      "title": "New York Mining Disaster 1941",
+      "id": "new-york-mining-disaster-1941-have-you-seen-my-wife-mr-jones-bee-gees"
+    },
+    {
+      "title": "Nights on Broadway",
+      "id": "nights-on-broadway-bee-gees"
+    },
+    {
+      "title": "How Can You Mend a Broken Heart",
+      "id": "how-can-you-mend-a-broken-heart-bee-gees"
+    },
+    {
+      "title": "Tragedy",
+      "id": "tragedy-bee-gees"
+    },
+    {
+      "title": "I Started a Joke",
+      "id": "i-started-a-joke-bee-gees"
+    },
+    {
+      "title": "Jive Talkin’",
+      "id": "jive-talkin-bee-gees"
+    },
+    {
+      "title": "How Deep Is Your Love",
+      "id": "how-deep-is-your-love-bee-gees"
+    },
+    {
+      "title": "Stayin’ Alive",
+      "id": "stayin-alive-bee-gees"
+    },
+    {
+      "title": "You Should Be Dancing",
+      "id": "you-should-be-dancing-bee-gees"
+    },
+    {
+      "title": "Massachusetts",
+      "id": null
+    },
+    {
+      "title": "Closer Than Close",
+      "id": null
+    },
+    {
+      "title": "Islands in the Stream",
+      "id": null
+    },
+    {
+      "title": "Our Love (Don’t Throw It All Away)",
+      "id": null
+    },
+    {
+      "title": "Night Fever / More Than a Woman",
+      "id": null
+    },
+    {
+      "title": "I Can’t See Nobody",
+      "id": null
+    },
+    {
+      "title": "And the Sun Will Shine",
+      "id": null
+    },
+    {
+      "title": "Heartbreaker",
+      "id": null
+    },
+    {
+      "title": "Guilty",
+      "id": null
+    },
+    {
+      "title": "Immortality",
+      "id": null
+    },
+    {
+      "title": "Grease",
+      "id": null
+    }
+  ]
+}
