@@ -1,1 +1,70 @@
-{"id": "schmilco-wilco", "title": "Schmilco", "artist": "Wilco", "peak": 11, "history": [{"date": "2016-10-01", "rank": 11}, {"date": "2016-10-08", "rank": 81}, {"date": "2016-10-15", "rank": 149}]}
+{
+  "id": "schmilco-wilco",
+  "title": "Schmilco",
+  "artist": "Wilco",
+  "peak": 11,
+  "history": [
+    {
+      "date": "2016-10-01",
+      "rank": 11
+    },
+    {
+      "date": "2016-10-08",
+      "rank": 81
+    },
+    {
+      "date": "2016-10-15",
+      "rank": 149
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Normal American Kids",
+      "id": null
+    },
+    {
+      "title": "If I Ever Was a Child",
+      "id": null
+    },
+    {
+      "title": "Cry All Day",
+      "id": null
+    },
+    {
+      "title": "Common Sense",
+      "id": null
+    },
+    {
+      "title": "Nope",
+      "id": null
+    },
+    {
+      "title": "Someone to Lose",
+      "id": null
+    },
+    {
+      "title": "Happiness",
+      "id": null
+    },
+    {
+      "title": "Quarters",
+      "id": null
+    },
+    {
+      "title": "Locator",
+      "id": null
+    },
+    {
+      "title": "Shrug and Destroy",
+      "id": null
+    },
+    {
+      "title": "We Aren’t the World (Safety Girl)",
+      "id": null
+    },
+    {
+      "title": "Just Say Goodbye",
+      "id": null
+    }
+  ]
+}

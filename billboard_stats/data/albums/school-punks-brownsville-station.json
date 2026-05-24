@@ -1,1 +1,82 @@
-{"id": "school-punks-brownsville-station", "title": "School Punks", "artist": "Brownsville Station", "peak": 170, "history": [{"date": "1974-06-15", "rank": 198}, {"date": "1974-06-22", "rank": 177}, {"date": "1974-06-29", "rank": 172}, {"date": "1974-07-06", "rank": 170}, {"date": "1974-07-13", "rank": 177}, {"date": "1974-08-17", "rank": 199}, {"date": "1974-08-24", "rank": 195}, {"date": "1974-08-31", "rank": 193}]}
+{
+  "id": "school-punks-brownsville-station",
+  "title": "School Punks",
+  "artist": "Brownsville Station",
+  "peak": 170,
+  "history": [
+    {
+      "date": "1974-06-15",
+      "rank": 198
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 177
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 172
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 170
+    },
+    {
+      "date": "1974-07-13",
+      "rank": 177
+    },
+    {
+      "date": "1974-08-17",
+      "rank": 199
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 195
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Kings of the Party",
+      "id": "kings-of-the-party-brownsville-station"
+    },
+    {
+      "title": "I’m the Leader of the Gang",
+      "id": "i-m-the-leader-of-the-gang-brownsville-station"
+    },
+    {
+      "title": "Mama Don’t Allow No Parkin’",
+      "id": null
+    },
+    {
+      "title": "Meet Me on the Fourth Floor",
+      "id": null
+    },
+    {
+      "title": "Fast Phyllis",
+      "id": null
+    },
+    {
+      "title": "I Get So Excited",
+      "id": null
+    },
+    {
+      "title": "Ostritch",
+      "id": null
+    },
+    {
+      "title": "I Got It Bad for You",
+      "id": null
+    },
+    {
+      "title": "Hey Little Girl",
+      "id": null
+    },
+    {
+      "title": "I’ve Got Love If You Want It / I’m a King Bee",
+      "id": null
+    }
+  ]
+}

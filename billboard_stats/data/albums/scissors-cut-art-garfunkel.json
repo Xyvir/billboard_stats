@@ -1,1 +1,82 @@
-{"id": "scissors-cut-art-garfunkel", "title": "Scissors Cut", "artist": "Art Garfunkel", "peak": 113, "history": [{"date": "1981-09-12", "rank": 135}, {"date": "1981-09-19", "rank": 125}, {"date": "1981-09-26", "rank": 115}, {"date": "1981-10-03", "rank": 113}, {"date": "1981-10-10", "rank": 122}, {"date": "1981-10-17", "rank": 122}, {"date": "1981-10-24", "rank": 131}, {"date": "1981-10-31", "rank": 153}]}
+{
+  "id": "scissors-cut-art-garfunkel",
+  "title": "Scissors Cut",
+  "artist": "Art Garfunkel",
+  "peak": 113,
+  "history": [
+    {
+      "date": "1981-09-12",
+      "rank": 135
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 125
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 115
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 113
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 122
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 122
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 131
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 153
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Heart in New York",
+      "id": "a-heart-in-new-york-art-garfunkel"
+    },
+    {
+      "title": "Scissors Cut",
+      "id": null
+    },
+    {
+      "title": "Up in the World",
+      "id": null
+    },
+    {
+      "title": "Hang on In",
+      "id": null
+    },
+    {
+      "title": "So Easy to Begin",
+      "id": null
+    },
+    {
+      "title": "Can’t Turn My",
+      "id": null
+    },
+    {
+      "title": "The French Waltz",
+      "id": null
+    },
+    {
+      "title": "The Romance",
+      "id": null
+    },
+    {
+      "title": "In Cars",
+      "id": null
+    },
+    {
+      "title": "That's All I've Got to Say",
+      "id": null
+    }
+  ]
+}
