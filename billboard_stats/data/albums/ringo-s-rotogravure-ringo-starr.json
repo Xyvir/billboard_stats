@@ -1,1 +1,90 @@
-{"id": "ringo-s-rotogravure-ringo-starr", "title": "Ringo's Rotogravure", "artist": "Ringo Starr", "peak": 28, "history": [{"date": "1976-10-16", "rank": 57}, {"date": "1976-10-23", "rank": 37}, {"date": "1976-10-30", "rank": 33}, {"date": "1976-11-06", "rank": 30}, {"date": "1976-11-13", "rank": 28}, {"date": "1976-11-20", "rank": 28}, {"date": "1976-11-27", "rank": 28}, {"date": "1976-12-04", "rank": 57}, {"date": "1976-12-11", "rank": 161}]}
+{
+  "id": "ringo-s-rotogravure-ringo-starr",
+  "title": "Ringo's Rotogravure",
+  "artist": "Ringo Starr",
+  "peak": 28,
+  "history": [
+    {
+      "date": "1976-10-16",
+      "rank": 57
+    },
+    {
+      "date": "1976-10-23",
+      "rank": 37
+    },
+    {
+      "date": "1976-10-30",
+      "rank": 33
+    },
+    {
+      "date": "1976-11-06",
+      "rank": 30
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 28
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 28
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 28
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 57
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dose of Rock ’n’ Roll",
+      "id": "a-dose-of-rock-n-roll-ringo-starr"
+    },
+    {
+      "title": "Hey Baby",
+      "id": "hey-baby-ringo-starr"
+    },
+    {
+      "title": "Pure Gold",
+      "id": null
+    },
+    {
+      "title": "Cryin’",
+      "id": null
+    },
+    {
+      "title": "You Don’t Know Me at All",
+      "id": null
+    },
+    {
+      "title": "Cookin’ (In the Kitchen of Love)",
+      "id": null
+    },
+    {
+      "title": "I’ll Still Love You",
+      "id": null
+    },
+    {
+      "title": "This Be Called a Song",
+      "id": null
+    },
+    {
+      "title": "Las Brisas",
+      "id": null
+    },
+    {
+      "title": "Lady Gaye",
+      "id": null
+    },
+    {
+      "title": "Spooky Weirdiness",
+      "id": null
+    }
+  ]
+}

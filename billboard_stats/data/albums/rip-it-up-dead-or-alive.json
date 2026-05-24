@@ -1,1 +1,50 @@
-{"id": "rip-it-up-dead-or-alive", "title": "Rip It Up", "artist": "Dead or Alive", "peak": 195, "history": [{"date": "1988-07-30", "rank": 195}, {"date": "1988-08-06", "rank": 195}]}
+{
+  "id": "rip-it-up-dead-or-alive",
+  "title": "Rip It Up",
+  "artist": "Dead or Alive",
+  "peak": 195,
+  "history": [
+    {
+      "date": "1988-07-30",
+      "rank": 195
+    },
+    {
+      "date": "1988-08-06",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Brand New Lover",
+      "id": "brand-new-lover-dead-or-alive"
+    },
+    {
+      "title": "Something in My House",
+      "id": "something-in-my-house-dead-or-alive"
+    },
+    {
+      "title": "Lover Come Back to Me",
+      "id": "lover-come-back-to-me-dead-or-alive"
+    },
+    {
+      "title": "You Spin Me Round (Like a Record)",
+      "id": "you-spin-me-round-like-a-record-dead-or-alive"
+    },
+    {
+      "title": "My Heart Goes Bang",
+      "id": null
+    },
+    {
+      "title": "I’ll Save You All My Kisses",
+      "id": null
+    },
+    {
+      "title": "In Too Deep",
+      "id": null
+    },
+    {
+      "title": "Hooked on Love",
+      "id": null
+    }
+  ]
+}
