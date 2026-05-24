@@ -1,1 +1,266 @@
-{"id": "swept-away-diana-ross", "title": "Swept Away", "artist": "Diana Ross", "peak": 26, "history": [{"date": "1984-09-29", "rank": 73}, {"date": "1984-10-06", "rank": 39}, {"date": "1984-10-13", "rank": 29}, {"date": "1984-10-20", "rank": 28}, {"date": "1984-10-27", "rank": 27}, {"date": "1984-11-03", "rank": 27}, {"date": "1984-11-10", "rank": 26}, {"date": "1984-11-17", "rank": 32}, {"date": "1984-11-24", "rank": 32}, {"date": "1984-12-01", "rank": 41}, {"date": "1984-12-08", "rank": 46}, {"date": "1984-12-15", "rank": 58}, {"date": "1984-12-22", "rank": 60}, {"date": "1984-12-29", "rank": 60}, {"date": "1985-01-05", "rank": 73}, {"date": "1985-01-12", "rank": 73}, {"date": "1985-01-19", "rank": 75}, {"date": "1985-01-26", "rank": 69}, {"date": "1985-02-02", "rank": 67}, {"date": "1985-02-09", "rank": 66}, {"date": "1985-02-16", "rank": 56}, {"date": "1985-02-23", "rank": 49}, {"date": "1985-03-02", "rank": 48}, {"date": "1985-03-09", "rank": 45}, {"date": "1985-03-16", "rank": 38}, {"date": "1985-03-23", "rank": 37}, {"date": "1985-03-30", "rank": 34}, {"date": "1985-04-06", "rank": 32}, {"date": "1985-04-13", "rank": 32}, {"date": "1985-04-20", "rank": 32}, {"date": "1985-04-27", "rank": 29}, {"date": "1985-05-04", "rank": 31}, {"date": "1985-05-11", "rank": 36}, {"date": "1985-05-18", "rank": 35}, {"date": "1985-05-25", "rank": 51}, {"date": "1985-06-01", "rank": 55}, {"date": "1985-06-08", "rank": 63}, {"date": "1985-06-15", "rank": 83}, {"date": "1985-06-22", "rank": 86}, {"date": "1985-06-29", "rank": 116}, {"date": "1985-07-06", "rank": 116}, {"date": "1985-07-13", "rank": 128}, {"date": "1985-07-20", "rank": 152}, {"date": "1985-07-27", "rank": 172}, {"date": "1985-08-03", "rank": 172}]}
+{
+  "id": "swept-away-diana-ross",
+  "title": "Swept Away",
+  "artist": "Diana Ross",
+  "peak": 26,
+  "history": [
+    {
+      "date": "1984-09-29",
+      "rank": 73
+    },
+    {
+      "date": "1984-10-06",
+      "rank": 39
+    },
+    {
+      "date": "1984-10-13",
+      "rank": 29
+    },
+    {
+      "date": "1984-10-20",
+      "rank": 28
+    },
+    {
+      "date": "1984-10-27",
+      "rank": 27
+    },
+    {
+      "date": "1984-11-03",
+      "rank": 27
+    },
+    {
+      "date": "1984-11-10",
+      "rank": 26
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 32
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 32
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 41
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 46
+    },
+    {
+      "date": "1984-12-15",
+      "rank": 58
+    },
+    {
+      "date": "1984-12-22",
+      "rank": 60
+    },
+    {
+      "date": "1984-12-29",
+      "rank": 60
+    },
+    {
+      "date": "1985-01-05",
+      "rank": 73
+    },
+    {
+      "date": "1985-01-12",
+      "rank": 73
+    },
+    {
+      "date": "1985-01-19",
+      "rank": 75
+    },
+    {
+      "date": "1985-01-26",
+      "rank": 69
+    },
+    {
+      "date": "1985-02-02",
+      "rank": 67
+    },
+    {
+      "date": "1985-02-09",
+      "rank": 66
+    },
+    {
+      "date": "1985-02-16",
+      "rank": 56
+    },
+    {
+      "date": "1985-02-23",
+      "rank": 49
+    },
+    {
+      "date": "1985-03-02",
+      "rank": 48
+    },
+    {
+      "date": "1985-03-09",
+      "rank": 45
+    },
+    {
+      "date": "1985-03-16",
+      "rank": 38
+    },
+    {
+      "date": "1985-03-23",
+      "rank": 37
+    },
+    {
+      "date": "1985-03-30",
+      "rank": 34
+    },
+    {
+      "date": "1985-04-06",
+      "rank": 32
+    },
+    {
+      "date": "1985-04-13",
+      "rank": 32
+    },
+    {
+      "date": "1985-04-20",
+      "rank": 32
+    },
+    {
+      "date": "1985-04-27",
+      "rank": 29
+    },
+    {
+      "date": "1985-05-04",
+      "rank": 31
+    },
+    {
+      "date": "1985-05-11",
+      "rank": 36
+    },
+    {
+      "date": "1985-05-18",
+      "rank": 35
+    },
+    {
+      "date": "1985-05-25",
+      "rank": 51
+    },
+    {
+      "date": "1985-06-01",
+      "rank": 55
+    },
+    {
+      "date": "1985-06-08",
+      "rank": 63
+    },
+    {
+      "date": "1985-06-15",
+      "rank": 83
+    },
+    {
+      "date": "1985-06-22",
+      "rank": 86
+    },
+    {
+      "date": "1985-06-29",
+      "rank": 116
+    },
+    {
+      "date": "1985-07-06",
+      "rank": 116
+    },
+    {
+      "date": "1985-07-13",
+      "rank": 128
+    },
+    {
+      "date": "1985-07-20",
+      "rank": 152
+    },
+    {
+      "date": "1985-07-27",
+      "rank": 172
+    },
+    {
+      "date": "1985-08-03",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Missing You",
+      "id": "missing-you-diana-ross"
+    },
+    {
+      "title": "Rescue Me",
+      "id": "remember-me-diana-ross"
+    },
+    {
+      "title": "It's Your Move",
+      "id": "it-s-my-turn-diana-ross"
+    },
+    {
+      "title": "Swept Away",
+      "id": "swept-away-diana-ross"
+    },
+    {
+      "title": "Swept Away (7\" Single Mix)",
+      "id": "swept-away-diana-ross"
+    },
+    {
+      "title": "Missing You (7\" Single Mix)",
+      "id": "missing-you-diana-ross"
+    },
+    {
+      "title": "Touch by Touch",
+      "id": null
+    },
+    {
+      "title": "Telephone",
+      "id": null
+    },
+    {
+      "title": "Nobody Makes Me Crazy (Like You Do)",
+      "id": null
+    },
+    {
+      "title": "All Of You",
+      "id": null
+    },
+    {
+      "title": "We Are The Children Of The World",
+      "id": null
+    },
+    {
+      "title": "Forever Young",
+      "id": null
+    },
+    {
+      "title": "Swept Away (12\" Long Version)",
+      "id": null
+    },
+    {
+      "title": "Swept Away (12\" Instrumental)",
+      "id": null
+    },
+    {
+      "title": "Touch By Touch (12\" Single Mix)",
+      "id": null
+    },
+    {
+      "title": "Touch By Touch (12\" Instrumental)",
+      "id": null
+    },
+    {
+      "title": "Touch By Touch (Alternate Single Mix)",
+      "id": null
+    },
+    {
+      "title": "Telephone (Edited Version)",
+      "id": null
+    },
+    {
+      "title": "Fight For It (7\" Single Version)",
+      "id": null
+    }
+  ]
+}

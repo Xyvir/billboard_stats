@@ -1,1 +1,78 @@
-{"id": "sweet-memories-willie-nelson", "title": "Sweet Memories", "artist": "Willie Nelson", "peak": 154, "history": [{"date": "1979-03-03", "rank": 177}, {"date": "1979-03-10", "rank": 167}, {"date": "1979-03-17", "rank": 154}, {"date": "1979-03-24", "rank": 154}, {"date": "1979-03-31", "rank": 196}]}
+{
+  "id": "sweet-memories-willie-nelson",
+  "title": "Sweet Memories",
+  "artist": "Willie Nelson",
+  "peak": 154,
+  "history": [
+    {
+      "date": "1979-03-03",
+      "rank": 177
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 167
+    },
+    {
+      "date": "1979-03-17",
+      "rank": 154
+    },
+    {
+      "date": "1979-03-24",
+      "rank": 154
+    },
+    {
+      "date": "1979-03-31",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What Now My Love",
+      "id": null
+    },
+    {
+      "title": "Sweet Memories",
+      "id": null
+    },
+    {
+      "title": "Good Times",
+      "id": null
+    },
+    {
+      "title": "Bring Me Sunshine",
+      "id": null
+    },
+    {
+      "title": "Little Things",
+      "id": null
+    },
+    {
+      "title": "One in a Row",
+      "id": null
+    },
+    {
+      "title": "Streets of Laredo",
+      "id": null
+    },
+    {
+      "title": "Born to Lose",
+      "id": null
+    },
+    {
+      "title": "Minstrel Man",
+      "id": null
+    },
+    {
+      "title": "Mountain Dew",
+      "id": null
+    },
+    {
+      "title": "Crazy Arms",
+      "id": null
+    },
+    {
+      "title": "Johnny One Time",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"id": "swim-caribou", "title": "Swim", "artist": "Caribou", "peak": 97, "history": [{"date": "2010-05-08", "rank": 97}, {"date": "2010-05-15", "rank": 199}]}
+{
+  "id": "swim-caribou",
+  "title": "Swim",
+  "artist": "Caribou",
+  "peak": 97,
+  "history": [
+    {
+      "date": "2010-05-08",
+      "rank": 97
+    },
+    {
+      "date": "2010-05-15",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Odessa",
+      "id": null
+    },
+    {
+      "title": "Sun",
+      "id": null
+    },
+    {
+      "title": "Kaili",
+      "id": null
+    },
+    {
+      "title": "Found Out",
+      "id": null
+    },
+    {
+      "title": "Bowls",
+      "id": null
+    },
+    {
+      "title": "Leave House",
+      "id": null
+    },
+    {
+      "title": "Hannibal",
+      "id": null
+    },
+    {
+      "title": "Lalibela",
+      "id": null
+    },
+    {
+      "title": "Jamelia",
+      "id": null
+    }
+  ]
+}

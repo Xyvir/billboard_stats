@@ -1,1 +1,50 @@
-{"id": "sweet-lou-lou-donaldson", "title": "Sweet Lou", "artist": "Lou Donaldson", "peak": 185, "history": [{"date": "1974-09-28", "rank": 192}, {"date": "1974-10-05", "rank": 185}, {"date": "1974-10-12", "rank": 200}]}
+{
+  "id": "sweet-lou-lou-donaldson",
+  "title": "Sweet Lou",
+  "artist": "Lou Donaldson",
+  "peak": 185,
+  "history": [
+    {
+      "date": "1974-09-28",
+      "rank": 192
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 185
+    },
+    {
+      "date": "1974-10-12",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You're Welcome, Stop On",
+      "id": null
+    },
+    {
+      "title": "Lost Love",
+      "id": null
+    },
+    {
+      "title": "Hip Trip",
+      "id": null
+    },
+    {
+      "title": "If You Can't Handle It, Give It To Me",
+      "id": null
+    },
+    {
+      "title": "Love Eyes",
+      "id": null
+    },
+    {
+      "title": "Peepin'",
+      "id": null
+    },
+    {
+      "title": "Herman's Mambo",
+      "id": null
+    }
+  ]
+}
