@@ -1,1 +1,78 @@
-{"id": "sammie-sammie", "title": "Sammie", "artist": "Sammie", "peak": 42, "history": [{"date": "2006-10-28", "rank": 42}, {"date": "2006-11-04", "rank": 117}, {"date": "2006-11-11", "rank": 187}]}
+{
+  "id": "sammie-sammie",
+  "title": "Sammie",
+  "artist": "Sammie",
+  "peak": 42,
+  "history": [
+    {
+      "date": "2006-10-28",
+      "rank": 42
+    },
+    {
+      "date": "2006-11-04",
+      "rank": 117
+    },
+    {
+      "date": "2006-11-11",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Like It",
+      "id": "i-like-it-sammie"
+    },
+    {
+      "title": "The Bottom",
+      "id": null
+    },
+    {
+      "title": "Can't Let Go",
+      "id": null
+    },
+    {
+      "title": "Crazy Things I Do",
+      "id": null
+    },
+    {
+      "title": "Stuff Like This",
+      "id": null
+    },
+    {
+      "title": "When I Grow Up (interlude)",
+      "id": null
+    },
+    {
+      "title": "Hero",
+      "id": null
+    },
+    {
+      "title": "Catching Feelings",
+      "id": null
+    },
+    {
+      "title": "Count",
+      "id": null
+    },
+    {
+      "title": "If I Can",
+      "id": null
+    },
+    {
+      "title": "Fell for Her",
+      "id": null
+    },
+    {
+      "title": "Friend Like You",
+      "id": null
+    },
+    {
+      "title": "Do It for You",
+      "id": null
+    },
+    {
+      "title": "Out",
+      "id": null
+    }
+  ]
+}

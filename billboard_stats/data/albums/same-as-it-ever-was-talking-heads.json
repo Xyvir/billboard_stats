@@ -1,1 +1,82 @@
-{"id": "same-as-it-ever-was-talking-heads", "title": "Same As It Ever Was", "artist": "Talking Heads", "peak": 73, "history": [{"date": "2009-05-30", "rank": 73}, {"date": "2009-06-06", "rank": 141}]}
+{
+  "id": "same-as-it-ever-was-talking-heads",
+  "title": "Same As It Ever Was",
+  "artist": "Talking Heads",
+  "peak": 73,
+  "history": [
+    {
+      "date": "2009-05-30",
+      "rank": 73
+    },
+    {
+      "date": "2009-06-06",
+      "rank": 141
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Psycho Killer",
+      "id": "psycho-killer-talking-heads"
+    },
+    {
+      "title": "Take Me to the River",
+      "id": "take-me-to-the-river-talking-heads"
+    },
+    {
+      "title": "Once in a Lifetime",
+      "id": "once-in-a-lifetime-talking-heads"
+    },
+    {
+      "title": "Burning Down the House",
+      "id": "burning-down-the-house-talking-heads"
+    },
+    {
+      "title": "This Must Be the Place (Naive Melody)",
+      "id": "this-must-be-the-place-naive-melody-talking-heads"
+    },
+    {
+      "title": "And She Was",
+      "id": "and-she-was-talking-heads"
+    },
+    {
+      "title": "Wild Wild Life",
+      "id": "wild-wild-life-talking-heads"
+    },
+    {
+      "title": "Love → Building on Fire",
+      "id": null
+    },
+    {
+      "title": "The Book I Read",
+      "id": null
+    },
+    {
+      "title": "Thank You for Sending Me an Angel",
+      "id": null
+    },
+    {
+      "title": "Heaven",
+      "id": null
+    },
+    {
+      "title": "Cities",
+      "id": null
+    },
+    {
+      "title": "Life During Wartime",
+      "id": null
+    },
+    {
+      "title": "Crosseyed and Painless",
+      "id": null
+    },
+    {
+      "title": "Road to Nowhere",
+      "id": null
+    },
+    {
+      "title": "(Nothing but) Flowers",
+      "id": null
+    }
+  ]
+}
