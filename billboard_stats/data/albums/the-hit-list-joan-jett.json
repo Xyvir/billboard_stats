@@ -1,1 +1,122 @@
-{"id": "the-hit-list-joan-jett", "title": "The Hit List", "artist": "Joan Jett", "peak": 36, "history": [{"date": "1990-02-03", "rank": 92}, {"date": "1990-02-10", "rank": 46}, {"date": "1990-02-17", "rank": 43}, {"date": "1990-02-24", "rank": 36}, {"date": "1990-03-03", "rank": 36}, {"date": "1990-03-10", "rank": 37}, {"date": "1990-03-17", "rank": 49}, {"date": "1990-03-24", "rank": 51}, {"date": "1990-03-31", "rank": 58}, {"date": "1990-04-07", "rank": 66}, {"date": "1990-04-14", "rank": 88}, {"date": "1990-04-21", "rank": 101}, {"date": "1990-04-28", "rank": 119}, {"date": "1990-05-05", "rank": 123}, {"date": "1990-05-12", "rank": 147}, {"date": "1990-05-19", "rank": 169}, {"date": "1990-05-26", "rank": 168}, {"date": "1990-06-02", "rank": 197}]}
+{
+  "id": "the-hit-list-joan-jett",
+  "title": "The Hit List",
+  "artist": "Joan Jett",
+  "peak": 36,
+  "history": [
+    {
+      "date": "1990-02-03",
+      "rank": 92
+    },
+    {
+      "date": "1990-02-10",
+      "rank": 46
+    },
+    {
+      "date": "1990-02-17",
+      "rank": 43
+    },
+    {
+      "date": "1990-02-24",
+      "rank": 36
+    },
+    {
+      "date": "1990-03-03",
+      "rank": 36
+    },
+    {
+      "date": "1990-03-10",
+      "rank": 37
+    },
+    {
+      "date": "1990-03-17",
+      "rank": 49
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 51
+    },
+    {
+      "date": "1990-03-31",
+      "rank": 58
+    },
+    {
+      "date": "1990-04-07",
+      "rank": 66
+    },
+    {
+      "date": "1990-04-14",
+      "rank": 88
+    },
+    {
+      "date": "1990-04-21",
+      "rank": 101
+    },
+    {
+      "date": "1990-04-28",
+      "rank": 119
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 123
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 147
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 169
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 168
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dirty Deeds",
+      "id": "dirty-deeds-joan-jett"
+    },
+    {
+      "title": "Love Hurts",
+      "id": null
+    },
+    {
+      "title": "Pretty Vacant",
+      "id": null
+    },
+    {
+      "title": "Celluloid Heroes",
+      "id": null
+    },
+    {
+      "title": "Tush",
+      "id": null
+    },
+    {
+      "title": "Time Has Come Today",
+      "id": null
+    },
+    {
+      "title": "Up From the Skies",
+      "id": null
+    },
+    {
+      "title": "Have You Ever Seen the Rain?",
+      "id": null
+    },
+    {
+      "title": "Love Me Two Times",
+      "id": null
+    },
+    {
+      "title": "Roadrunner USA (1990 version)",
+      "id": null
+    }
+  ]
+}

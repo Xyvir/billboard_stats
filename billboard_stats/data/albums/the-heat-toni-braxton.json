@@ -1,1 +1,246 @@
-{"id": "the-heat-toni-braxton", "title": "The Heat", "artist": "Toni Braxton", "peak": 2, "history": [{"date": "2000-05-13", "rank": 2}, {"date": "2000-05-20", "rank": 5}, {"date": "2000-05-27", "rank": 7}, {"date": "2000-06-03", "rank": 11}, {"date": "2000-06-10", "rank": 18}, {"date": "2000-06-17", "rank": 18}, {"date": "2000-06-24", "rank": 23}, {"date": "2000-07-01", "rank": 28}, {"date": "2000-07-08", "rank": 24}, {"date": "2000-07-15", "rank": 25}, {"date": "2000-07-22", "rank": 22}, {"date": "2000-07-29", "rank": 19}, {"date": "2000-08-05", "rank": 22}, {"date": "2000-08-12", "rank": 18}, {"date": "2000-08-19", "rank": 17}, {"date": "2000-08-26", "rank": 17}, {"date": "2000-09-02", "rank": 15}, {"date": "2000-09-09", "rank": 16}, {"date": "2000-09-16", "rank": 20}, {"date": "2000-09-23", "rank": 18}, {"date": "2000-09-30", "rank": 28}, {"date": "2000-10-07", "rank": 32}, {"date": "2000-10-14", "rank": 41}, {"date": "2000-10-21", "rank": 49}, {"date": "2000-10-28", "rank": 54}, {"date": "2000-11-04", "rank": 58}, {"date": "2000-11-11", "rank": 67}, {"date": "2000-11-18", "rank": 71}, {"date": "2000-11-25", "rank": 85}, {"date": "2000-12-02", "rank": 100}, {"date": "2000-12-09", "rank": 104}, {"date": "2000-12-16", "rank": 122}, {"date": "2000-12-23", "rank": 120}, {"date": "2000-12-30", "rank": 129}, {"date": "2001-01-06", "rank": 127}, {"date": "2001-01-13", "rank": 120}, {"date": "2001-01-20", "rank": 112}, {"date": "2001-01-27", "rank": 104}, {"date": "2001-02-03", "rank": 116}, {"date": "2001-02-10", "rank": 136}, {"date": "2001-02-17", "rank": 133}, {"date": "2001-02-24", "rank": 145}, {"date": "2001-03-03", "rank": 153}, {"date": "2001-03-10", "rank": 137}, {"date": "2001-03-17", "rank": 151}, {"date": "2001-03-24", "rank": 169}, {"date": "2001-03-31", "rank": 197}]}
+{
+  "id": "the-heat-toni-braxton",
+  "title": "The Heat",
+  "artist": "Toni Braxton",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2000-05-13",
+      "rank": 2
+    },
+    {
+      "date": "2000-05-20",
+      "rank": 5
+    },
+    {
+      "date": "2000-05-27",
+      "rank": 7
+    },
+    {
+      "date": "2000-06-03",
+      "rank": 11
+    },
+    {
+      "date": "2000-06-10",
+      "rank": 18
+    },
+    {
+      "date": "2000-06-17",
+      "rank": 18
+    },
+    {
+      "date": "2000-06-24",
+      "rank": 23
+    },
+    {
+      "date": "2000-07-01",
+      "rank": 28
+    },
+    {
+      "date": "2000-07-08",
+      "rank": 24
+    },
+    {
+      "date": "2000-07-15",
+      "rank": 25
+    },
+    {
+      "date": "2000-07-22",
+      "rank": 22
+    },
+    {
+      "date": "2000-07-29",
+      "rank": 19
+    },
+    {
+      "date": "2000-08-05",
+      "rank": 22
+    },
+    {
+      "date": "2000-08-12",
+      "rank": 18
+    },
+    {
+      "date": "2000-08-19",
+      "rank": 17
+    },
+    {
+      "date": "2000-08-26",
+      "rank": 17
+    },
+    {
+      "date": "2000-09-02",
+      "rank": 15
+    },
+    {
+      "date": "2000-09-09",
+      "rank": 16
+    },
+    {
+      "date": "2000-09-16",
+      "rank": 20
+    },
+    {
+      "date": "2000-09-23",
+      "rank": 18
+    },
+    {
+      "date": "2000-09-30",
+      "rank": 28
+    },
+    {
+      "date": "2000-10-07",
+      "rank": 32
+    },
+    {
+      "date": "2000-10-14",
+      "rank": 41
+    },
+    {
+      "date": "2000-10-21",
+      "rank": 49
+    },
+    {
+      "date": "2000-10-28",
+      "rank": 54
+    },
+    {
+      "date": "2000-11-04",
+      "rank": 58
+    },
+    {
+      "date": "2000-11-11",
+      "rank": 67
+    },
+    {
+      "date": "2000-11-18",
+      "rank": 71
+    },
+    {
+      "date": "2000-11-25",
+      "rank": 85
+    },
+    {
+      "date": "2000-12-02",
+      "rank": 100
+    },
+    {
+      "date": "2000-12-09",
+      "rank": 104
+    },
+    {
+      "date": "2000-12-16",
+      "rank": 122
+    },
+    {
+      "date": "2000-12-23",
+      "rank": 120
+    },
+    {
+      "date": "2000-12-30",
+      "rank": 129
+    },
+    {
+      "date": "2001-01-06",
+      "rank": 127
+    },
+    {
+      "date": "2001-01-13",
+      "rank": 120
+    },
+    {
+      "date": "2001-01-20",
+      "rank": 112
+    },
+    {
+      "date": "2001-01-27",
+      "rank": 104
+    },
+    {
+      "date": "2001-02-03",
+      "rank": 116
+    },
+    {
+      "date": "2001-02-10",
+      "rank": 136
+    },
+    {
+      "date": "2001-02-17",
+      "rank": 133
+    },
+    {
+      "date": "2001-02-24",
+      "rank": 145
+    },
+    {
+      "date": "2001-03-03",
+      "rank": 153
+    },
+    {
+      "date": "2001-03-10",
+      "rank": 137
+    },
+    {
+      "date": "2001-03-17",
+      "rank": 151
+    },
+    {
+      "date": "2001-03-24",
+      "rank": 169
+    },
+    {
+      "date": "2001-03-31",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "He Wasn’t Man Enough",
+      "id": "he-wasn-t-man-enough-toni-braxton"
+    },
+    {
+      "title": "Spanish Guitar",
+      "id": "spanish-guitar-toni-braxton"
+    },
+    {
+      "title": "Just Be a Man About It",
+      "id": "just-be-a-man-about-it-toni-braxton"
+    },
+    {
+      "title": "The Heat",
+      "id": null
+    },
+    {
+      "title": "Gimme Some",
+      "id": null
+    },
+    {
+      "title": "I’m Still Breathing",
+      "id": null
+    },
+    {
+      "title": "Fairy Tale",
+      "id": null
+    },
+    {
+      "title": "The Art of Love",
+      "id": null
+    },
+    {
+      "title": "Speaking in Tongues",
+      "id": null
+    },
+    {
+      "title": "Maybe",
+      "id": null
+    },
+    {
+      "title": "You’ve Been Wrong",
+      "id": null
+    },
+    {
+      "title": "Never Just for a Ring",
+      "id": null
+    }
+  ]
+}

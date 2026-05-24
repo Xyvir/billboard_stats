@@ -1,1 +1,58 @@
-{"id": "the-high-and-the-mighty-donnie-iris", "title": "The High And The Mighty", "artist": "Donnie Iris", "peak": 180, "history": [{"date": "1982-11-27", "rank": 190}, {"date": "1982-12-04", "rank": 180}, {"date": "1982-12-11", "rank": 180}, {"date": "1982-12-18", "rank": 198}]}
+{
+  "id": "the-high-and-the-mighty-donnie-iris",
+  "title": "The High And The Mighty",
+  "artist": "Donnie Iris",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1982-11-27",
+      "rank": 190
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 180
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 180
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tough World",
+      "id": "tough-world-donnie-iris"
+    },
+    {
+      "title": "Love Is Magic",
+      "id": "love-is-like-a-rock-donnie-iris"
+    },
+    {
+      "title": "I Wanna Tell Her",
+      "id": null
+    },
+    {
+      "title": "Glad All Over",
+      "id": null
+    },
+    {
+      "title": "Parallel Time",
+      "id": null
+    },
+    {
+      "title": "The High and the Mighty",
+      "id": null
+    },
+    {
+      "title": "This Time It Must Be Love",
+      "id": null
+    },
+    {
+      "title": "You’re Gonna Miss Me",
+      "id": null
+    }
+  ]
+}
