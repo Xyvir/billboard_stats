@@ -1,1 +1,270 @@
-{"id": "something-anything-todd-rundgren", "title": "Something/Anything?", "artist": "Todd Rundgren", "peak": 29, "history": [{"date": "1972-05-20", "rank": 79}, {"date": "1972-05-27", "rank": 78}, {"date": "1972-06-03", "rank": 75}, {"date": "1972-06-10", "rank": 69}, {"date": "1972-06-17", "rank": 59}, {"date": "1972-06-24", "rank": 52}, {"date": "1972-07-01", "rank": 50}, {"date": "1972-07-08", "rank": 50}, {"date": "1972-07-15", "rank": 59}, {"date": "1972-07-22", "rank": 61}, {"date": "1972-07-29", "rank": 78}, {"date": "1972-08-05", "rank": 102}, {"date": "1972-08-12", "rank": 122}, {"date": "1972-08-19", "rank": 157}, {"date": "1973-11-17", "rank": 164}, {"date": "1973-11-24", "rank": 95}, {"date": "1973-12-01", "rank": 70}, {"date": "1973-12-08", "rank": 48}, {"date": "1973-12-15", "rank": 40}, {"date": "1973-12-22", "rank": 32}, {"date": "1973-12-29", "rank": 30}, {"date": "1974-01-05", "rank": 29}, {"date": "1974-01-12", "rank": 29}, {"date": "1974-01-19", "rank": 32}, {"date": "1974-01-26", "rank": 38}, {"date": "1974-02-02", "rank": 40}, {"date": "1974-02-09", "rank": 48}, {"date": "1974-02-16", "rank": 56}, {"date": "1974-02-23", "rank": 69}, {"date": "1974-03-02", "rank": 79}, {"date": "1974-03-09", "rank": 81}, {"date": "1974-03-16", "rank": 79}, {"date": "1974-03-23", "rank": 100}, {"date": "1974-03-30", "rank": 113}, {"date": "1974-04-06", "rank": 116}, {"date": "1974-04-13", "rank": 128}, {"date": "1974-04-20", "rank": 126}, {"date": "1974-04-27", "rank": 132}, {"date": "1974-05-04", "rank": 142}, {"date": "1974-05-11", "rank": 187}]}
+{
+  "id": "something-anything-todd-rundgren",
+  "title": "Something/Anything?",
+  "artist": "Todd Rundgren",
+  "peak": 29,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 79
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 78
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 75
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 69
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 59
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 52
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 50
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 50
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 59
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 61
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 78
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 102
+    },
+    {
+      "date": "1972-08-12",
+      "rank": 122
+    },
+    {
+      "date": "1972-08-19",
+      "rank": 157
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 164
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 95
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 70
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 48
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 40
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 32
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 30
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 29
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 29
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 32
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 38
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 40
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 48
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 56
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 69
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 79
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 81
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 79
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 100
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 113
+    },
+    {
+      "date": "1974-04-06",
+      "rank": 116
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 128
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 126
+    },
+    {
+      "date": "1974-04-27",
+      "rank": 132
+    },
+    {
+      "date": "1974-05-04",
+      "rank": 142
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Saw the Light",
+      "id": "i-saw-the-light-todd-rundgren"
+    },
+    {
+      "title": "Couldn’t I Just Tell You",
+      "id": "couldn-t-i-just-tell-you-todd-rundgren"
+    },
+    {
+      "title": "Hello It’s Me",
+      "id": "hello-it-s-me-todd-rundgren"
+    },
+    {
+      "title": "It Wouldn’t Have Made Any Difference",
+      "id": null
+    },
+    {
+      "title": "Wolfman Jack",
+      "id": null
+    },
+    {
+      "title": "Cold Morning Light",
+      "id": null
+    },
+    {
+      "title": "It Takes Two to Tango (This Is for the Girls)",
+      "id": null
+    },
+    {
+      "title": "Sweeter Memories",
+      "id": null
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Breathless",
+      "id": null
+    },
+    {
+      "title": "The Night the Carousel Burnt Down",
+      "id": null
+    },
+    {
+      "title": "Saving Grace",
+      "id": null
+    },
+    {
+      "title": "Marlene",
+      "id": null
+    },
+    {
+      "title": "Song of the Viking",
+      "id": null
+    },
+    {
+      "title": "I Went to the Mirror",
+      "id": null
+    },
+    {
+      "title": "Black Maria",
+      "id": null
+    },
+    {
+      "title": "One More Day (No Word)",
+      "id": null
+    },
+    {
+      "title": "Torch Song",
+      "id": null
+    },
+    {
+      "title": "Little Red Lights",
+      "id": null
+    },
+    {
+      "title": "Overture – My Roots: Money (That’s What I Want) / Messin’ With the Kid",
+      "id": null
+    },
+    {
+      "title": "Dust in the Wind",
+      "id": null
+    },
+    {
+      "title": "Piss Aaron",
+      "id": null
+    },
+    {
+      "title": "Some Folks Is Even Whiter Than Me",
+      "id": null
+    },
+    {
+      "title": "You Left Me Sore",
+      "id": null
+    },
+    {
+      "title": "Slut",
+      "id": null
+    }
+  ]
+}

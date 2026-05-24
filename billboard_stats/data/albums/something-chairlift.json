@@ -1,1 +1,58 @@
-{"id": "something-chairlift", "title": "Something", "artist": "Chairlift", "peak": 184, "history": [{"date": "2012-02-11", "rank": 184}]}
+{
+  "id": "something-chairlift",
+  "title": "Something",
+  "artist": "Chairlift",
+  "peak": 184,
+  "history": [
+    {
+      "date": "2012-02-11",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sidewalk Safari",
+      "id": null
+    },
+    {
+      "title": "Wrong Opinion",
+      "id": null
+    },
+    {
+      "title": "I Belong in Your Arms",
+      "id": null
+    },
+    {
+      "title": "Take It Out on Me",
+      "id": null
+    },
+    {
+      "title": "Ghost Tonight",
+      "id": null
+    },
+    {
+      "title": "Cool as a Fire",
+      "id": null
+    },
+    {
+      "title": "Amanaemonesia",
+      "id": null
+    },
+    {
+      "title": "Met Before",
+      "id": null
+    },
+    {
+      "title": "Frigid Spring",
+      "id": null
+    },
+    {
+      "title": "Turning",
+      "id": null
+    },
+    {
+      "title": "Guilty as Charged",
+      "id": null
+    }
+  ]
+}

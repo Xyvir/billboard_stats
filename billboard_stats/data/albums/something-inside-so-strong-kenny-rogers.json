@@ -1,1 +1,82 @@
-{"id": "something-inside-so-strong-kenny-rogers", "title": "Something Inside So Strong", "artist": "Kenny Rogers", "peak": 141, "history": [{"date": "1989-05-27", "rank": 173}, {"date": "1989-06-03", "rank": 143}, {"date": "1989-06-10", "rank": 143}, {"date": "1989-06-17", "rank": 141}, {"date": "1989-06-24", "rank": 141}, {"date": "1989-07-01", "rank": 159}, {"date": "1989-07-08", "rank": 168}, {"date": "1989-07-15", "rank": 179}]}
+{
+  "id": "something-inside-so-strong-kenny-rogers",
+  "title": "Something Inside So Strong",
+  "artist": "Kenny Rogers",
+  "peak": 141,
+  "history": [
+    {
+      "date": "1989-05-27",
+      "rank": 173
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 143
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 143
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 141
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 141
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 159
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 168
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love the Way You Do",
+      "id": "love-the-world-away-kenny-rogers"
+    },
+    {
+      "title": "Planet Texas",
+      "id": null
+    },
+    {
+      "title": "(Something Inside) So Strong",
+      "id": null
+    },
+    {
+      "title": "If I Knew Then What I Know Now",
+      "id": null
+    },
+    {
+      "title": "One Night",
+      "id": null
+    },
+    {
+      "title": "There Lies the Difference",
+      "id": null
+    },
+    {
+      "title": "If I Ever Fall in Love Again",
+      "id": null
+    },
+    {
+      "title": "When You Put Your Heart in It",
+      "id": null
+    },
+    {
+      "title": "The Vows Go Unbroken (Always True to You)",
+      "id": null
+    },
+    {
+      "title": "Maybe",
+      "id": null
+    }
+  ]
+}

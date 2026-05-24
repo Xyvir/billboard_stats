@@ -1,1 +1,86 @@
-{"id": "some-old-bullshit-beastie-boys", "title": "Some Old Bullshit", "artist": "Beastie Boys", "peak": 46, "history": [{"date": "1994-02-26", "rank": 46}, {"date": "1994-03-05", "rank": 68}, {"date": "1994-03-12", "rank": 76}, {"date": "1994-03-19", "rank": 113}, {"date": "1994-03-26", "rank": 134}, {"date": "1994-04-02", "rank": 155}, {"date": "1994-04-09", "rank": 188}]}
+{
+  "id": "some-old-bullshit-beastie-boys",
+  "title": "Some Old Bullshit",
+  "artist": "Beastie Boys",
+  "peak": 46,
+  "history": [
+    {
+      "date": "1994-02-26",
+      "rank": 46
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 68
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 76
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 113
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 134
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 155
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Egg Raid on Mojo",
+      "id": null
+    },
+    {
+      "title": "Beastie Boys",
+      "id": null
+    },
+    {
+      "title": "Transit Cop",
+      "id": null
+    },
+    {
+      "title": "Jimi",
+      "id": null
+    },
+    {
+      "title": "Holy Snappers",
+      "id": null
+    },
+    {
+      "title": "Riot Fight",
+      "id": null
+    },
+    {
+      "title": "Ode To…",
+      "id": null
+    },
+    {
+      "title": "Michelle’s Farm",
+      "id": null
+    },
+    {
+      "title": "Cooky Puss",
+      "id": null
+    },
+    {
+      "title": "Bonus Batter",
+      "id": null
+    },
+    {
+      "title": "Beastie Revolution",
+      "id": null
+    },
+    {
+      "title": "Cooky Puss (censored version)",
+      "id": null
+    }
+  ]
+}

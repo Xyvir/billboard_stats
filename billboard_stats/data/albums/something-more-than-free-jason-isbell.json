@@ -1,1 +1,82 @@
-{"id": "something-more-than-free-jason-isbell", "title": "Something More Than Free", "artist": "Jason Isbell", "peak": 6, "history": [{"date": "2015-08-08", "rank": 6}, {"date": "2015-08-15", "rank": 41}, {"date": "2015-08-22", "rank": 53}, {"date": "2015-08-29", "rank": 28}, {"date": "2015-09-05", "rank": 81}, {"date": "2015-09-12", "rank": 110}, {"date": "2015-09-19", "rank": 200}]}
+{
+  "id": "something-more-than-free-jason-isbell",
+  "title": "Something More Than Free",
+  "artist": "Jason Isbell",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2015-08-08",
+      "rank": 6
+    },
+    {
+      "date": "2015-08-15",
+      "rank": 41
+    },
+    {
+      "date": "2015-08-22",
+      "rank": 53
+    },
+    {
+      "date": "2015-08-29",
+      "rank": 28
+    },
+    {
+      "date": "2015-09-05",
+      "rank": 81
+    },
+    {
+      "date": "2015-09-12",
+      "rank": 110
+    },
+    {
+      "date": "2015-09-19",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If It Takes a Lifetime",
+      "id": null
+    },
+    {
+      "title": "24 Frames",
+      "id": null
+    },
+    {
+      "title": "Flagship",
+      "id": null
+    },
+    {
+      "title": "How to Forget",
+      "id": null
+    },
+    {
+      "title": "Children of Children",
+      "id": null
+    },
+    {
+      "title": "The Life You Chose",
+      "id": null
+    },
+    {
+      "title": "Something More Than Free",
+      "id": null
+    },
+    {
+      "title": "Speed Trap Town",
+      "id": null
+    },
+    {
+      "title": "Hudson Commodore",
+      "id": null
+    },
+    {
+      "title": "Palmetto Rose",
+      "id": null
+    },
+    {
+      "title": "To a Band That I Loved",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"id": "some-rap-songs-earl-sweatshirt", "title": "Some Rap Songs", "artist": "Earl Sweatshirt", "peak": 17, "history": [{"date": "2018-12-15", "rank": 17}, {"date": "2018-12-22", "rank": 173}]}
+{
+  "id": "some-rap-songs-earl-sweatshirt",
+  "title": "Some Rap Songs",
+  "artist": "Earl Sweatshirt",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2018-12-15",
+      "rank": 17
+    },
+    {
+      "date": "2018-12-22",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shattered Dreams",
+      "id": null
+    },
+    {
+      "title": "Red Water",
+      "id": null
+    },
+    {
+      "title": "Cold Summers",
+      "id": null
+    },
+    {
+      "title": "Nowhere2go",
+      "id": null
+    },
+    {
+      "title": "December 24",
+      "id": null
+    },
+    {
+      "title": "Ontheway!",
+      "id": null
+    },
+    {
+      "title": "The Mint",
+      "id": null
+    },
+    {
+      "title": "The Bends",
+      "id": null
+    },
+    {
+      "title": "Loosie",
+      "id": null
+    },
+    {
+      "title": "Azucar",
+      "id": null
+    },
+    {
+      "title": "Eclipse",
+      "id": null
+    },
+    {
+      "title": "Veins",
+      "id": null
+    },
+    {
+      "title": "Playing Possum",
+      "id": null
+    },
+    {
+      "title": "Peanut",
+      "id": null
+    },
+    {
+      "title": "Riot!",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"id": "something-magic-procol-harum", "title": "Something Magic", "artist": "Procol Harum", "peak": 147, "history": [{"date": "1977-03-26", "rank": 185}, {"date": "1977-04-02", "rank": 172}, {"date": "1977-04-09", "rank": 162}, {"date": "1977-04-16", "rank": 152}, {"date": "1977-04-23", "rank": 147}, {"date": "1977-04-30", "rank": 166}]}
+{
+  "id": "something-magic-procol-harum",
+  "title": "Something Magic",
+  "artist": "Procol Harum",
+  "peak": 147,
+  "history": [
+    {
+      "date": "1977-03-26",
+      "rank": 185
+    },
+    {
+      "date": "1977-04-02",
+      "rank": 172
+    },
+    {
+      "date": "1977-04-09",
+      "rank": 162
+    },
+    {
+      "date": "1977-04-16",
+      "rank": 152
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 147
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Something Magic",
+      "id": null
+    },
+    {
+      "title": "Skating on Thin Ice",
+      "id": null
+    },
+    {
+      "title": "Wizard Man",
+      "id": null
+    },
+    {
+      "title": "The Mark of the Claw",
+      "id": null
+    },
+    {
+      "title": "Strangers in Space",
+      "id": null
+    },
+    {
+      "title": "The Worm & the Tree, Part 1",
+      "id": null
+    },
+    {
+      "title": "The Worm & The Tree, Part 2",
+      "id": null
+    },
+    {
+      "title": "The Worm & The Tree, Part 3",
+      "id": null
+    },
+    {
+      "title": "Backgammon",
+      "id": null
+    },
+    {
+      "title": "You’d Better Wait (live)",
+      "id": null
+    },
+    {
+      "title": "This Old Dog (live)",
+      "id": null
+    }
+  ]
+}

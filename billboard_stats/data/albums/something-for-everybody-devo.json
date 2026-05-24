@@ -1,1 +1,82 @@
-{"id": "something-for-everybody-devo", "title": "Something For Everybody", "artist": "Devo", "peak": 30, "history": [{"date": "2010-07-03", "rank": 30}, {"date": "2010-07-10", "rank": 73}, {"date": "2010-07-17", "rank": 167}]}
+{
+  "id": "something-for-everybody-devo",
+  "title": "Something For Everybody",
+  "artist": "Devo",
+  "peak": 30,
+  "history": [
+    {
+      "date": "2010-07-03",
+      "rank": 30
+    },
+    {
+      "date": "2010-07-10",
+      "rank": 73
+    },
+    {
+      "date": "2010-07-17",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fresh",
+      "id": null
+    },
+    {
+      "title": "What We Do",
+      "id": null
+    },
+    {
+      "title": "Please Baby Please",
+      "id": null
+    },
+    {
+      "title": "Don’t Shoot (I’m a Man)",
+      "id": null
+    },
+    {
+      "title": "Mind Games",
+      "id": null
+    },
+    {
+      "title": "Human Rocket",
+      "id": null
+    },
+    {
+      "title": "Sumthin’",
+      "id": null
+    },
+    {
+      "title": "Step Up",
+      "id": null
+    },
+    {
+      "title": "Cameo",
+      "id": null
+    },
+    {
+      "title": "Later Is Now",
+      "id": null
+    },
+    {
+      "title": "No Place Like Home",
+      "id": null
+    },
+    {
+      "title": "March On",
+      "id": null
+    },
+    {
+      "title": "Watch Us Work It",
+      "id": null
+    },
+    {
+      "title": "Signal Ready",
+      "id": null
+    },
+    {
+      "title": "Let’s Get to It",
+      "id": null
+    }
+  ]
+}

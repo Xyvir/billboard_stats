@@ -1,1 +1,170 @@
-{"id": "something-else-robin-thicke", "title": "Something Else", "artist": "Robin Thicke", "peak": 3, "history": [{"date": "2008-10-18", "rank": 3}, {"date": "2008-10-25", "rank": 12}, {"date": "2008-11-01", "rank": 11}, {"date": "2008-11-08", "rank": 26}, {"date": "2008-11-15", "rank": 39}, {"date": "2008-11-22", "rank": 46}, {"date": "2008-11-29", "rank": 47}, {"date": "2008-12-06", "rank": 73}, {"date": "2008-12-13", "rank": 86}, {"date": "2008-12-20", "rank": 102}, {"date": "2008-12-27", "rank": 106}, {"date": "2009-01-03", "rank": 114}, {"date": "2009-01-10", "rank": 95}, {"date": "2009-01-17", "rank": 79}, {"date": "2009-01-24", "rank": 97}, {"date": "2009-01-31", "rank": 92}, {"date": "2009-02-07", "rank": 111}, {"date": "2009-02-14", "rank": 123}, {"date": "2009-02-21", "rank": 142}, {"date": "2009-02-28", "rank": 96}, {"date": "2009-03-07", "rank": 113}, {"date": "2009-03-14", "rank": 130}, {"date": "2009-03-21", "rank": 139}, {"date": "2009-03-28", "rank": 145}, {"date": "2009-04-04", "rank": 173}, {"date": "2009-05-09", "rank": 180}, {"date": "2009-05-16", "rank": 109}, {"date": "2009-05-23", "rank": 161}]}
+{
+  "id": "something-else-robin-thicke",
+  "title": "Something Else",
+  "artist": "Robin Thicke",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2008-10-18",
+      "rank": 3
+    },
+    {
+      "date": "2008-10-25",
+      "rank": 12
+    },
+    {
+      "date": "2008-11-01",
+      "rank": 11
+    },
+    {
+      "date": "2008-11-08",
+      "rank": 26
+    },
+    {
+      "date": "2008-11-15",
+      "rank": 39
+    },
+    {
+      "date": "2008-11-22",
+      "rank": 46
+    },
+    {
+      "date": "2008-11-29",
+      "rank": 47
+    },
+    {
+      "date": "2008-12-06",
+      "rank": 73
+    },
+    {
+      "date": "2008-12-13",
+      "rank": 86
+    },
+    {
+      "date": "2008-12-20",
+      "rank": 102
+    },
+    {
+      "date": "2008-12-27",
+      "rank": 106
+    },
+    {
+      "date": "2009-01-03",
+      "rank": 114
+    },
+    {
+      "date": "2009-01-10",
+      "rank": 95
+    },
+    {
+      "date": "2009-01-17",
+      "rank": 79
+    },
+    {
+      "date": "2009-01-24",
+      "rank": 97
+    },
+    {
+      "date": "2009-01-31",
+      "rank": 92
+    },
+    {
+      "date": "2009-02-07",
+      "rank": 111
+    },
+    {
+      "date": "2009-02-14",
+      "rank": 123
+    },
+    {
+      "date": "2009-02-21",
+      "rank": 142
+    },
+    {
+      "date": "2009-02-28",
+      "rank": 96
+    },
+    {
+      "date": "2009-03-07",
+      "rank": 113
+    },
+    {
+      "date": "2009-03-14",
+      "rank": 130
+    },
+    {
+      "date": "2009-03-21",
+      "rank": 139
+    },
+    {
+      "date": "2009-03-28",
+      "rank": 145
+    },
+    {
+      "date": "2009-04-04",
+      "rank": 173
+    },
+    {
+      "date": "2009-05-09",
+      "rank": 180
+    },
+    {
+      "date": "2009-05-16",
+      "rank": 109
+    },
+    {
+      "date": "2009-05-23",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Magic",
+      "id": "magic-robin-thicke"
+    },
+    {
+      "title": "You’re My Baby",
+      "id": null
+    },
+    {
+      "title": "Sidestep",
+      "id": null
+    },
+    {
+      "title": "Ms. Harmony",
+      "id": null
+    },
+    {
+      "title": "Dreamworld",
+      "id": null
+    },
+    {
+      "title": "Loverman",
+      "id": null
+    },
+    {
+      "title": "Hard on My Love",
+      "id": null
+    },
+    {
+      "title": "The Sweetest Love",
+      "id": null
+    },
+    {
+      "title": "Something Else",
+      "id": null
+    },
+    {
+      "title": "Shadow of Doubt",
+      "id": null
+    },
+    {
+      "title": "Cry No More",
+      "id": null
+    },
+    {
+      "title": "Tie My Hands",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"id": "something-beautiful-jordan-smith", "title": "Something Beautiful", "artist": "Jordan Smith", "peak": 2, "history": [{"date": "2016-04-09", "rank": 2}, {"date": "2016-04-16", "rank": 24}, {"date": "2016-04-23", "rank": 62}, {"date": "2016-04-30", "rank": 39}, {"date": "2016-05-07", "rank": 46}, {"date": "2016-05-14", "rank": 104}, {"date": "2016-05-21", "rank": 120}, {"date": "2016-05-28", "rank": 109}]}
+{
+  "id": "something-beautiful-jordan-smith",
+  "title": "Something Beautiful",
+  "artist": "Jordan Smith",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2016-04-09",
+      "rank": 2
+    },
+    {
+      "date": "2016-04-16",
+      "rank": 24
+    },
+    {
+      "date": "2016-04-23",
+      "rank": 62
+    },
+    {
+      "date": "2016-04-30",
+      "rank": 39
+    },
+    {
+      "date": "2016-05-07",
+      "rank": 46
+    },
+    {
+      "date": "2016-05-14",
+      "rank": 104
+    },
+    {
+      "date": "2016-05-21",
+      "rank": 120
+    },
+    {
+      "date": "2016-05-28",
+      "rank": 109
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Over the Rainbow",
+      "id": null
+    },
+    {
+      "title": "Stand in the Light",
+      "id": null
+    },
+    {
+      "title": "You Are So Beautiful",
+      "id": null
+    },
+    {
+      "title": "Beautiful",
+      "id": null
+    },
+    {
+      "title": "Angel",
+      "id": null
+    },
+    {
+      "title": "And So It Goes",
+      "id": null
+    },
+    {
+      "title": "Amazing Grace",
+      "id": null
+    },
+    {
+      "title": "I Got to Be Me",
+      "id": null
+    },
+    {
+      "title": "Settle",
+      "id": null
+    },
+    {
+      "title": "What Now",
+      "id": null
+    },
+    {
+      "title": "Ain’t Got Far to Go",
+      "id": null
+    },
+    {
+      "title": "Beautiful Things",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"id": "some-rainy-morning-robert-cray", "title": "Some Rainy Morning", "artist": "Robert Cray", "peak": 127, "history": [{"date": "1995-05-27", "rank": 127}, {"date": "1995-06-03", "rank": 143}, {"date": "1995-06-10", "rank": 128}, {"date": "1995-06-17", "rank": 131}, {"date": "1995-06-24", "rank": 167}, {"date": "1995-07-01", "rank": 187}]}
+{
+  "id": "some-rainy-morning-robert-cray",
+  "title": "Some Rainy Morning",
+  "artist": "Robert Cray",
+  "peak": 127,
+  "history": [
+    {
+      "date": "1995-05-27",
+      "rank": 127
+    },
+    {
+      "date": "1995-06-03",
+      "rank": 143
+    },
+    {
+      "date": "1995-06-10",
+      "rank": 128
+    },
+    {
+      "date": "1995-06-17",
+      "rank": 131
+    },
+    {
+      "date": "1995-06-24",
+      "rank": 167
+    },
+    {
+      "date": "1995-07-01",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Moan",
+      "id": null
+    },
+    {
+      "title": "I’ll Go On",
+      "id": null
+    },
+    {
+      "title": "Steppin’ Out",
+      "id": null
+    },
+    {
+      "title": "Never Mattered Much",
+      "id": null
+    },
+    {
+      "title": "Tell the Landlord",
+      "id": null
+    },
+    {
+      "title": "Little Boy Big",
+      "id": null
+    },
+    {
+      "title": "Enough for Me",
+      "id": null
+    },
+    {
+      "title": "Jealous Love",
+      "id": null
+    },
+    {
+      "title": "Will You Think of Me",
+      "id": null
+    },
+    {
+      "title": "Holdin’ On",
+      "id": null
+    },
+    {
+      "title": "Love Well Spent",
+      "id": null
+    }
+  ]
+}

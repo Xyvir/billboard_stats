@@ -1,1 +1,42 @@
-{"id": "something-good-utah-saints", "title": "Something Good", "artist": "Utah Saints", "peak": 182, "history": [{"date": "1992-11-14", "rank": 200}, {"date": "1992-11-21", "rank": 182}, {"date": "1992-11-28", "rank": 191}, {"date": "1992-12-05", "rank": 192}]}
+{
+  "id": "something-good-utah-saints",
+  "title": "Something Good",
+  "artist": "Utah Saints",
+  "peak": 182,
+  "history": [
+    {
+      "date": "1992-11-14",
+      "rank": 200
+    },
+    {
+      "date": "1992-11-21",
+      "rank": 182
+    },
+    {
+      "date": "1992-11-28",
+      "rank": 191
+    },
+    {
+      "date": "1992-12-05",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Something Good",
+      "id": "something-good-utah-saints"
+    },
+    {
+      "title": "Something Good (051 mix)",
+      "id": "something-good-utah-saints"
+    },
+    {
+      "title": "Anything Can Happen",
+      "id": null
+    },
+    {
+      "title": "Trance Atlantic Flight (33 or 45 Rpm mix)",
+      "id": null
+    }
+  ]
+}
