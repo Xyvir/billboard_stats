@@ -1,1 +1,126 @@
-{"id": "offering-axe", "title": "Offering", "artist": "Axe", "peak": 81, "history": [{"date": "1982-06-26", "rank": 190}, {"date": "1982-07-03", "rank": 180}, {"date": "1982-07-10", "rank": 174}, {"date": "1982-07-17", "rank": 167}, {"date": "1982-07-24", "rank": 157}, {"date": "1982-07-31", "rank": 151}, {"date": "1982-08-07", "rank": 126}, {"date": "1982-08-14", "rank": 116}, {"date": "1982-08-21", "rank": 98}, {"date": "1982-08-28", "rank": 86}, {"date": "1982-09-04", "rank": 86}, {"date": "1982-09-11", "rank": 86}, {"date": "1982-09-18", "rank": 81}, {"date": "1982-09-25", "rank": 81}, {"date": "1982-10-02", "rank": 81}, {"date": "1982-10-09", "rank": 101}, {"date": "1982-10-16", "rank": 130}, {"date": "1982-10-23", "rank": 130}, {"date": "1982-10-30", "rank": 150}, {"date": "1982-11-06", "rank": 170}]}
+{
+  "id": "offering-axe",
+  "title": "Offering",
+  "artist": "Axe",
+  "peak": 81,
+  "history": [
+    {
+      "date": "1982-06-26",
+      "rank": 190
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 180
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 174
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 167
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 157
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 151
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 126
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 116
+    },
+    {
+      "date": "1982-08-21",
+      "rank": 98
+    },
+    {
+      "date": "1982-08-28",
+      "rank": 86
+    },
+    {
+      "date": "1982-09-04",
+      "rank": 86
+    },
+    {
+      "date": "1982-09-11",
+      "rank": 86
+    },
+    {
+      "date": "1982-09-18",
+      "rank": 81
+    },
+    {
+      "date": "1982-09-25",
+      "rank": 81
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 81
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 101
+    },
+    {
+      "date": "1982-10-16",
+      "rank": 130
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 130
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 150
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Now or Never",
+      "id": "now-or-never-axe"
+    },
+    {
+      "title": "Rock ’n’ Roll Party in the Streets",
+      "id": null
+    },
+    {
+      "title": "Video Inspiration",
+      "id": null
+    },
+    {
+      "title": "Steal Another Fantasy",
+      "id": null
+    },
+    {
+      "title": "Jennifer",
+      "id": null
+    },
+    {
+      "title": "I Got the Fire",
+      "id": null
+    },
+    {
+      "title": "Burn the City Down",
+      "id": null
+    },
+    {
+      "title": "Holdin' On",
+      "id": null
+    },
+    {
+      "title": "Silent Soldiers",
+      "id": null
+    }
+  ]
+}

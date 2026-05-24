@@ -1,1 +1,74 @@
-{"id": "ode-to-my-lady-willie-hutch", "title": "Ode To My Lady", "artist": "Willie Hutch", "peak": 150, "history": [{"date": "1975-11-15", "rank": 177}, {"date": "1975-11-22", "rank": 166}, {"date": "1975-11-29", "rank": 156}, {"date": "1975-12-06", "rank": 150}, {"date": "1975-12-13", "rank": 150}, {"date": "1975-12-20", "rank": 171}]}
+{
+  "id": "ode-to-my-lady-willie-hutch",
+  "title": "Ode To My Lady",
+  "artist": "Willie Hutch",
+  "peak": 150,
+  "history": [
+    {
+      "date": "1975-11-15",
+      "rank": 177
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 166
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 156
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 150
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 150
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Power",
+      "id": "love-power-willie-hutch"
+    },
+    {
+      "title": "Party Down",
+      "id": null
+    },
+    {
+      "title": "The Way We Were",
+      "id": null
+    },
+    {
+      "title": "Since I Found You Everything's Alright",
+      "id": null
+    },
+    {
+      "title": "(I'm Gonna) Hold On",
+      "id": null
+    },
+    {
+      "title": "Ode to My Lady",
+      "id": null
+    },
+    {
+      "title": "Just Another Day",
+      "id": null
+    },
+    {
+      "title": "Talk to Me",
+      "id": null
+    },
+    {
+      "title": "Love Me Back",
+      "id": null
+    },
+    {
+      "title": "You Gotta Give Love Up",
+      "id": null
+    }
+  ]
+}
