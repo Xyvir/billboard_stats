@@ -1,1 +1,50 @@
-{"id": "shades-yellowjackets", "title": "Shades", "artist": "Yellowjackets", "peak": 195, "history": [{"date": "1986-09-06", "rank": 196}, {"date": "1986-09-13", "rank": 195}]}
+{
+  "id": "shades-yellowjackets",
+  "title": "Shades",
+  "artist": "Yellowjackets",
+  "peak": 195,
+  "history": [
+    {
+      "date": "1986-09-06",
+      "rank": 196
+    },
+    {
+      "date": "1986-09-13",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "And You Know That",
+      "id": null
+    },
+    {
+      "title": "New Shoes",
+      "id": null
+    },
+    {
+      "title": "One Family",
+      "id": null
+    },
+    {
+      "title": "Revelation",
+      "id": null
+    },
+    {
+      "title": "Oasis",
+      "id": null
+    },
+    {
+      "title": "Regular Folks",
+      "id": null
+    },
+    {
+      "title": "Black Tie",
+      "id": null
+    },
+    {
+      "title": "Sonja's Sanfona",
+      "id": null
+    }
+  ]
+}

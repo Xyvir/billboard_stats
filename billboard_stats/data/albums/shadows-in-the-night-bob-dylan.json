@@ -1,1 +1,82 @@
-{"id": "shadows-in-the-night-bob-dylan", "title": "Shadows In The Night", "artist": "Bob Dylan", "peak": 7, "history": [{"date": "2015-02-21", "rank": 7}, {"date": "2015-02-28", "rank": 22}, {"date": "2015-03-07", "rank": 44}, {"date": "2015-03-14", "rank": 58}, {"date": "2015-03-21", "rank": 70}, {"date": "2015-03-28", "rank": 89}, {"date": "2015-04-04", "rank": 89}, {"date": "2015-04-11", "rank": 123}]}
+{
+  "id": "shadows-in-the-night-bob-dylan",
+  "title": "Shadows In The Night",
+  "artist": "Bob Dylan",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2015-02-21",
+      "rank": 7
+    },
+    {
+      "date": "2015-02-28",
+      "rank": 22
+    },
+    {
+      "date": "2015-03-07",
+      "rank": 44
+    },
+    {
+      "date": "2015-03-14",
+      "rank": 58
+    },
+    {
+      "date": "2015-03-21",
+      "rank": 70
+    },
+    {
+      "date": "2015-03-28",
+      "rank": 89
+    },
+    {
+      "date": "2015-04-04",
+      "rank": 89
+    },
+    {
+      "date": "2015-04-11",
+      "rank": 123
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I'm a Fool to Want You",
+      "id": "i-want-you-bob-dylan"
+    },
+    {
+      "title": "Where Are You?",
+      "id": "sweetheart-like-you-bob-dylan"
+    },
+    {
+      "title": "The Night We Called It a Day",
+      "id": null
+    },
+    {
+      "title": "Stay With Me",
+      "id": null
+    },
+    {
+      "title": "Autumn Leaves",
+      "id": null
+    },
+    {
+      "title": "Why Try to Change Me Now",
+      "id": null
+    },
+    {
+      "title": "Some Enchanted Evening",
+      "id": null
+    },
+    {
+      "title": "Full Moon and Empty Arms",
+      "id": null
+    },
+    {
+      "title": "What'll I Do",
+      "id": null
+    },
+    {
+      "title": "That Lucky Old Sun",
+      "id": null
+    }
+  ]
+}

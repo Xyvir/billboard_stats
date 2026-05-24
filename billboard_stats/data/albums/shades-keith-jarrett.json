@@ -1,1 +1,42 @@
-{"id": "shades-keith-jarrett", "title": "Shades", "artist": "Keith Jarrett", "peak": 174, "history": [{"date": "1977-02-12", "rank": 188}, {"date": "1977-02-19", "rank": 178}, {"date": "1977-02-26", "rank": 174}, {"date": "1977-03-05", "rank": 178}]}
+{
+  "id": "shades-keith-jarrett",
+  "title": "Shades",
+  "artist": "Keith Jarrett",
+  "peak": 174,
+  "history": [
+    {
+      "date": "1977-02-12",
+      "rank": 188
+    },
+    {
+      "date": "1977-02-19",
+      "rank": 178
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 174
+    },
+    {
+      "date": "1977-03-05",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shades of Jazz",
+      "id": null
+    },
+    {
+      "title": "Southern Smiles",
+      "id": null
+    },
+    {
+      "title": "Rose Petals",
+      "id": null
+    },
+    {
+      "title": "Diatribe",
+      "id": null
+    }
+  ]
+}
