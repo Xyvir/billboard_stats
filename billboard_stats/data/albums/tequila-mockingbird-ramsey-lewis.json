@@ -1,1 +1,78 @@
-{"id": "tequila-mockingbird-ramsey-lewis", "title": "Tequila Mockingbird", "artist": "Ramsey Lewis", "peak": 111, "history": [{"date": "1977-12-24", "rank": 150}, {"date": "1977-12-31", "rank": 150}, {"date": "1978-01-07", "rank": 122}, {"date": "1978-01-14", "rank": 116}, {"date": "1978-01-21", "rank": 114}, {"date": "1978-01-28", "rank": 111}, {"date": "1978-02-04", "rank": 111}, {"date": "1978-02-11", "rank": 183}, {"date": "1978-02-18", "rank": 183}]}
+{
+  "id": "tequila-mockingbird-ramsey-lewis",
+  "title": "Tequila Mockingbird",
+  "artist": "Ramsey Lewis",
+  "peak": 111,
+  "history": [
+    {
+      "date": "1977-12-24",
+      "rank": 150
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 150
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 122
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 116
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 114
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 111
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 111
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 183
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tequila Mockingbird",
+      "id": null
+    },
+    {
+      "title": "Wandering Rose",
+      "id": null
+    },
+    {
+      "title": "Skippin’",
+      "id": null
+    },
+    {
+      "title": "My Angel’s Smile",
+      "id": null
+    },
+    {
+      "title": "Camino El Bueno",
+      "id": null
+    },
+    {
+      "title": "Caring for You",
+      "id": null
+    },
+    {
+      "title": "Intimacy",
+      "id": null
+    },
+    {
+      "title": "That Ole Bach Magic",
+      "id": null
+    }
+  ]
+}

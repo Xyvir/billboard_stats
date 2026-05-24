@@ -1,1 +1,98 @@
-{"id": "terrapin-station-grateful-dead", "title": "Terrapin Station", "artist": "Grateful Dead", "peak": 28, "history": [{"date": "1977-08-20", "rank": 80}, {"date": "1977-08-27", "rank": 59}, {"date": "1977-09-03", "rank": 44}, {"date": "1977-09-10", "rank": 35}, {"date": "1977-09-17", "rank": 31}, {"date": "1977-09-24", "rank": 29}, {"date": "1977-10-01", "rank": 28}, {"date": "1977-10-08", "rank": 66}, {"date": "1977-10-15", "rank": 111}, {"date": "1977-10-22", "rank": 109}, {"date": "1977-10-29", "rank": 123}, {"date": "1977-11-05", "rank": 136}, {"date": "1977-11-12", "rank": 135}, {"date": "1977-11-19", "rank": 155}, {"date": "1977-11-26", "rank": 151}, {"date": "1977-12-03", "rank": 188}]}
+{
+  "id": "terrapin-station-grateful-dead",
+  "title": "Terrapin Station",
+  "artist": "Grateful Dead",
+  "peak": 28,
+  "history": [
+    {
+      "date": "1977-08-20",
+      "rank": 80
+    },
+    {
+      "date": "1977-08-27",
+      "rank": 59
+    },
+    {
+      "date": "1977-09-03",
+      "rank": 44
+    },
+    {
+      "date": "1977-09-10",
+      "rank": 35
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 31
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 29
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 28
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 66
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 111
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 109
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 123
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 136
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 135
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 155
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 151
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Estimated Prophet",
+      "id": null
+    },
+    {
+      "title": "Dancin’ in the Streets",
+      "id": null
+    },
+    {
+      "title": "Passenger",
+      "id": null
+    },
+    {
+      "title": "Samson and Delilah",
+      "id": null
+    },
+    {
+      "title": "Sunrise",
+      "id": null
+    },
+    {
+      "title": "Terrapin Station (medley)",
+      "id": null
+    }
+  ]
+}

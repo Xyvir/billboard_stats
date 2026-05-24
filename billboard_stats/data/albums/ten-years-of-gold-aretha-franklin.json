@@ -1,1 +1,90 @@
-{"id": "ten-years-of-gold-aretha-franklin", "title": "Ten Years Of Gold", "artist": "Aretha Franklin", "peak": 135, "history": [{"date": "1976-12-25", "rank": 151}, {"date": "1977-01-01", "rank": 151}, {"date": "1977-01-08", "rank": 146}, {"date": "1977-01-15", "rank": 148}, {"date": "1977-01-22", "rank": 142}, {"date": "1977-01-29", "rank": 136}, {"date": "1977-02-05", "rank": 135}, {"date": "1977-02-12", "rank": 200}]}
+{
+  "id": "ten-years-of-gold-aretha-franklin",
+  "title": "Ten Years Of Gold",
+  "artist": "Aretha Franklin",
+  "peak": 135,
+  "history": [
+    {
+      "date": "1976-12-25",
+      "rank": 151
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 151
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 146
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 148
+    },
+    {
+      "date": "1977-01-22",
+      "rank": 142
+    },
+    {
+      "date": "1977-01-29",
+      "rank": 136
+    },
+    {
+      "date": "1977-02-05",
+      "rank": 135
+    },
+    {
+      "date": "1977-02-12",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Never Loved a Man (the Way I Love You)",
+      "id": "i-never-loved-a-man-the-way-i-love-you-aretha-franklin"
+    },
+    {
+      "title": "Respect",
+      "id": "respect-aretha-franklin"
+    },
+    {
+      "title": "Baby I Love You",
+      "id": "baby-i-love-you-aretha-franklin"
+    },
+    {
+      "title": "(You Make Me Feel Like) A Natural Woman",
+      "id": "you-make-me-feel-like-a-natural-woman-aretha-franklin"
+    },
+    {
+      "title": "Think",
+      "id": "think-aretha-franklin"
+    },
+    {
+      "title": "See Saw",
+      "id": "see-saw-aretha-franklin"
+    },
+    {
+      "title": "Spanish Harlem",
+      "id": "spanish-harlem-aretha-franklin"
+    },
+    {
+      "title": "Rock Steady",
+      "id": "rock-steady-aretha-franklin"
+    },
+    {
+      "title": "Day Dreaming",
+      "id": "day-dreaming-aretha-franklin"
+    },
+    {
+      "title": "Angel",
+      "id": "angel-aretha-franklin"
+    },
+    {
+      "title": "Until You Come Back to Me (That’s What I’m Gonna Do)",
+      "id": "until-you-come-back-to-me-that-s-what-i-m-gonna-do-aretha-franklin"
+    },
+    {
+      "title": "Something He Can Feel",
+      "id": "something-he-can-feel-aretha-franklin"
+    }
+  ]
+}

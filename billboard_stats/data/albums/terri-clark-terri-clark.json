@@ -1,1 +1,246 @@
-{"id": "terri-clark-terri-clark", "title": "Terri Clark", "artist": "Terri Clark", "peak": 79, "history": [{"date": "1995-09-23", "rank": 194}, {"date": "1995-09-30", "rank": 180}, {"date": "1995-10-07", "rank": 180}, {"date": "1995-10-14", "rank": 183}, {"date": "1995-10-21", "rank": 151}, {"date": "1995-10-28", "rank": 136}, {"date": "1995-11-04", "rank": 155}, {"date": "1995-11-11", "rank": 189}, {"date": "1995-11-18", "rank": 197}, {"date": "1995-11-25", "rank": 192}, {"date": "1995-12-16", "rank": 191}, {"date": "1995-12-23", "rank": 191}, {"date": "1996-01-13", "rank": 149}, {"date": "1996-01-20", "rank": 131}, {"date": "1996-01-27", "rank": 139}, {"date": "1996-02-03", "rank": 123}, {"date": "1996-02-10", "rank": 119}, {"date": "1996-02-17", "rank": 129}, {"date": "1996-02-24", "rank": 130}, {"date": "1996-03-02", "rank": 122}, {"date": "1996-03-09", "rank": 146}, {"date": "1996-03-16", "rank": 160}, {"date": "1996-03-23", "rank": 128}, {"date": "1996-03-30", "rank": 134}, {"date": "1996-04-06", "rank": 135}, {"date": "1996-04-13", "rank": 131}, {"date": "1996-04-20", "rank": 124}, {"date": "1996-04-27", "rank": 110}, {"date": "1996-05-04", "rank": 92}, {"date": "1996-05-11", "rank": 79}, {"date": "1996-05-18", "rank": 80}, {"date": "1996-05-25", "rank": 83}, {"date": "1996-06-01", "rank": 89}, {"date": "1996-06-08", "rank": 114}, {"date": "1996-06-15", "rank": 110}, {"date": "1996-06-22", "rank": 115}, {"date": "1996-06-29", "rank": 113}, {"date": "1996-07-06", "rank": 117}, {"date": "1996-07-13", "rank": 149}, {"date": "1996-07-20", "rank": 160}, {"date": "1996-07-27", "rank": 169}, {"date": "1996-08-03", "rank": 170}, {"date": "1996-08-10", "rank": 177}, {"date": "1996-08-17", "rank": 176}, {"date": "1996-08-24", "rank": 176}, {"date": "1996-08-31", "rank": 181}, {"date": "1996-09-07", "rank": 194}]}
+{
+  "id": "terri-clark-terri-clark",
+  "title": "Terri Clark",
+  "artist": "Terri Clark",
+  "peak": 79,
+  "history": [
+    {
+      "date": "1995-09-23",
+      "rank": 194
+    },
+    {
+      "date": "1995-09-30",
+      "rank": 180
+    },
+    {
+      "date": "1995-10-07",
+      "rank": 180
+    },
+    {
+      "date": "1995-10-14",
+      "rank": 183
+    },
+    {
+      "date": "1995-10-21",
+      "rank": 151
+    },
+    {
+      "date": "1995-10-28",
+      "rank": 136
+    },
+    {
+      "date": "1995-11-04",
+      "rank": 155
+    },
+    {
+      "date": "1995-11-11",
+      "rank": 189
+    },
+    {
+      "date": "1995-11-18",
+      "rank": 197
+    },
+    {
+      "date": "1995-11-25",
+      "rank": 192
+    },
+    {
+      "date": "1995-12-16",
+      "rank": 191
+    },
+    {
+      "date": "1995-12-23",
+      "rank": 191
+    },
+    {
+      "date": "1996-01-13",
+      "rank": 149
+    },
+    {
+      "date": "1996-01-20",
+      "rank": 131
+    },
+    {
+      "date": "1996-01-27",
+      "rank": 139
+    },
+    {
+      "date": "1996-02-03",
+      "rank": 123
+    },
+    {
+      "date": "1996-02-10",
+      "rank": 119
+    },
+    {
+      "date": "1996-02-17",
+      "rank": 129
+    },
+    {
+      "date": "1996-02-24",
+      "rank": 130
+    },
+    {
+      "date": "1996-03-02",
+      "rank": 122
+    },
+    {
+      "date": "1996-03-09",
+      "rank": 146
+    },
+    {
+      "date": "1996-03-16",
+      "rank": 160
+    },
+    {
+      "date": "1996-03-23",
+      "rank": 128
+    },
+    {
+      "date": "1996-03-30",
+      "rank": 134
+    },
+    {
+      "date": "1996-04-06",
+      "rank": 135
+    },
+    {
+      "date": "1996-04-13",
+      "rank": 131
+    },
+    {
+      "date": "1996-04-20",
+      "rank": 124
+    },
+    {
+      "date": "1996-04-27",
+      "rank": 110
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 92
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 79
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 80
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 83
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 89
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 114
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 110
+    },
+    {
+      "date": "1996-06-22",
+      "rank": 115
+    },
+    {
+      "date": "1996-06-29",
+      "rank": 113
+    },
+    {
+      "date": "1996-07-06",
+      "rank": 117
+    },
+    {
+      "date": "1996-07-13",
+      "rank": 149
+    },
+    {
+      "date": "1996-07-20",
+      "rank": 160
+    },
+    {
+      "date": "1996-07-27",
+      "rank": 169
+    },
+    {
+      "date": "1996-08-03",
+      "rank": 170
+    },
+    {
+      "date": "1996-08-10",
+      "rank": 177
+    },
+    {
+      "date": "1996-08-17",
+      "rank": 176
+    },
+    {
+      "date": "1996-08-24",
+      "rank": 176
+    },
+    {
+      "date": "1996-08-31",
+      "rank": 181
+    },
+    {
+      "date": "1996-09-07",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Better Things to Do",
+      "id": null
+    },
+    {
+      "title": "If I Were You",
+      "id": null
+    },
+    {
+      "title": "Catch 22",
+      "id": null
+    },
+    {
+      "title": "Is Fort Worth Worth It",
+      "id": null
+    },
+    {
+      "title": "When Boy Meets Girl",
+      "id": null
+    },
+    {
+      "title": "Tyin’ a Heart to a Tumbleweed",
+      "id": null
+    },
+    {
+      "title": "When We Had It Bad",
+      "id": null
+    },
+    {
+      "title": "Suddenly Single",
+      "id": null
+    },
+    {
+      "title": "Flowers After the Fact",
+      "id": null
+    },
+    {
+      "title": "The Inside Story",
+      "id": null
+    },
+    {
+      "title": "Was There a Girl on Your Boys’ Night Out",
+      "id": null
+    },
+    {
+      "title": "Something You Should’ve Said",
+      "id": null
+    }
+  ]
+}
