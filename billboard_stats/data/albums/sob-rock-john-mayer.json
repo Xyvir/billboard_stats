@@ -1,1 +1,74 @@
-{"id": "sob-rock-john-mayer", "title": "Sob Rock", "artist": "John Mayer", "peak": 2, "history": [{"date": "2021-07-31", "rank": 2}, {"date": "2021-08-07", "rank": 20}, {"date": "2021-08-14", "rank": 55}, {"date": "2021-08-21", "rank": 107}, {"date": "2021-08-28", "rank": 149}, {"date": "2021-09-04", "rank": 169}]}
+{
+  "id": "sob-rock-john-mayer",
+  "title": "Sob Rock",
+  "artist": "John Mayer",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2021-07-31",
+      "rank": 2
+    },
+    {
+      "date": "2021-08-07",
+      "rank": 20
+    },
+    {
+      "date": "2021-08-14",
+      "rank": 55
+    },
+    {
+      "date": "2021-08-21",
+      "rank": 107
+    },
+    {
+      "date": "2021-08-28",
+      "rank": 149
+    },
+    {
+      "date": "2021-09-04",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Guess I Just Feel Like",
+      "id": "i-guess-i-just-feel-like-john-mayer"
+    },
+    {
+      "title": "Last Train Home",
+      "id": null
+    },
+    {
+      "title": "Shouldn’t Matter but It Does",
+      "id": null
+    },
+    {
+      "title": "New Light",
+      "id": null
+    },
+    {
+      "title": "Why You No Love Me",
+      "id": null
+    },
+    {
+      "title": "Wild Blue",
+      "id": null
+    },
+    {
+      "title": "Shot in the Dark",
+      "id": null
+    },
+    {
+      "title": "Til the Right One Comes",
+      "id": null
+    },
+    {
+      "title": "Carry Me Away",
+      "id": null
+    },
+    {
+      "title": "All I Want Is to Be With You",
+      "id": null
+    }
+  ]
+}

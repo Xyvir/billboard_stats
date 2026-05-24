@@ -1,1 +1,130 @@
-{"id": "sneaker-sneaker", "title": "Sneaker", "artist": "Sneaker", "peak": 149, "history": [{"date": "1981-12-12", "rank": 190}, {"date": "1981-12-19", "rank": 179}, {"date": "1981-12-26", "rank": 169}, {"date": "1982-01-02", "rank": 169}, {"date": "1982-01-09", "rank": 167}, {"date": "1982-01-16", "rank": 160}, {"date": "1982-01-23", "rank": 154}, {"date": "1982-01-30", "rank": 154}, {"date": "1982-02-06", "rank": 151}, {"date": "1982-02-13", "rank": 150}, {"date": "1982-02-20", "rank": 151}, {"date": "1982-02-27", "rank": 149}, {"date": "1982-03-06", "rank": 149}, {"date": "1982-03-13", "rank": 151}, {"date": "1982-03-20", "rank": 161}, {"date": "1982-03-27", "rank": 159}, {"date": "1982-04-03", "rank": 196}]}
+{
+  "id": "sneaker-sneaker",
+  "title": "Sneaker",
+  "artist": "Sneaker",
+  "peak": 149,
+  "history": [
+    {
+      "date": "1981-12-12",
+      "rank": 190
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 179
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 169
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 169
+    },
+    {
+      "date": "1982-01-09",
+      "rank": 167
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 160
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 154
+    },
+    {
+      "date": "1982-01-30",
+      "rank": 154
+    },
+    {
+      "date": "1982-02-06",
+      "rank": 151
+    },
+    {
+      "date": "1982-02-13",
+      "rank": 150
+    },
+    {
+      "date": "1982-02-20",
+      "rank": 151
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 149
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 149
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 151
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 161
+    },
+    {
+      "date": "1982-03-27",
+      "rank": 159
+    },
+    {
+      "date": "1982-04-03",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Let Me In",
+      "id": "don-t-let-me-in-sneaker"
+    },
+    {
+      "title": "More Than Just the Two of Us",
+      "id": "more-than-just-the-two-of-us-sneaker"
+    },
+    {
+      "title": "More Than Just the Two of Us (Demo Version)",
+      "id": "more-than-just-the-two-of-us-sneaker"
+    },
+    {
+      "title": "Don't Let Me In (Demo Version)",
+      "id": "don-t-let-me-in-sneaker"
+    },
+    {
+      "title": "One by One",
+      "id": null
+    },
+    {
+      "title": "Jaymes",
+      "id": null
+    },
+    {
+      "title": "In Time",
+      "id": null
+    },
+    {
+      "title": "Get Up, Get Out",
+      "id": null
+    },
+    {
+      "title": "Looking for Someone Like You",
+      "id": null
+    },
+    {
+      "title": "Millionaire",
+      "id": null
+    },
+    {
+      "title": "No More Lonely Days",
+      "id": null
+    },
+    {
+      "title": "Easy With Your Love",
+      "id": null
+    },
+    {
+      "title": "Lazy Lady",
+      "id": null
+    }
+  ]
+}
