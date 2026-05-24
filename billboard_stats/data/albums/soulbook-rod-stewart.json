@@ -1,1 +1,126 @@
-{"id": "soulbook-rod-stewart", "title": "Soulbook", "artist": "Rod Stewart", "peak": 4, "history": [{"date": "2009-11-14", "rank": 4}, {"date": "2009-11-21", "rank": 13}, {"date": "2009-11-28", "rank": 23}, {"date": "2009-12-05", "rank": 39}, {"date": "2009-12-12", "rank": 46}, {"date": "2009-12-19", "rank": 39}, {"date": "2009-12-26", "rank": 54}, {"date": "2010-01-02", "rank": 48}, {"date": "2010-01-09", "rank": 56}, {"date": "2010-01-16", "rank": 105}, {"date": "2010-01-23", "rank": 104}, {"date": "2010-01-30", "rank": 117}, {"date": "2010-02-06", "rank": 134}, {"date": "2010-02-13", "rank": 171}, {"date": "2010-02-20", "rank": 172}, {"date": "2010-02-27", "rank": 175}]}
+{
+  "id": "soulbook-rod-stewart",
+  "title": "Soulbook",
+  "artist": "Rod Stewart",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2009-11-14",
+      "rank": 4
+    },
+    {
+      "date": "2009-11-21",
+      "rank": 13
+    },
+    {
+      "date": "2009-11-28",
+      "rank": 23
+    },
+    {
+      "date": "2009-12-05",
+      "rank": 39
+    },
+    {
+      "date": "2009-12-12",
+      "rank": 46
+    },
+    {
+      "date": "2009-12-19",
+      "rank": 39
+    },
+    {
+      "date": "2009-12-26",
+      "rank": 54
+    },
+    {
+      "date": "2010-01-02",
+      "rank": 48
+    },
+    {
+      "date": "2010-01-09",
+      "rank": 56
+    },
+    {
+      "date": "2010-01-16",
+      "rank": 105
+    },
+    {
+      "date": "2010-01-23",
+      "rank": 104
+    },
+    {
+      "date": "2010-01-30",
+      "rank": 117
+    },
+    {
+      "date": "2010-02-06",
+      "rank": 134
+    },
+    {
+      "date": "2010-02-13",
+      "rank": 171
+    },
+    {
+      "date": "2010-02-20",
+      "rank": 172
+    },
+    {
+      "date": "2010-02-27",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tracks of My Tears",
+      "id": "rhythm-of-my-heart-rod-stewart"
+    },
+    {
+      "title": "It’s the Same Old Song",
+      "id": null
+    },
+    {
+      "title": "My Cherie Amour",
+      "id": null
+    },
+    {
+      "title": "You Make Me Feel Brand New",
+      "id": null
+    },
+    {
+      "title": "(Your Love Keeps Lifting Me) Higher and Higher",
+      "id": null
+    },
+    {
+      "title": "Let It Be Me",
+      "id": null
+    },
+    {
+      "title": "Rainy Night in Georgia",
+      "id": null
+    },
+    {
+      "title": "What Becomes of the Brokenhearted",
+      "id": null
+    },
+    {
+      "title": "Love Train",
+      "id": null
+    },
+    {
+      "title": "You’ve Really Got a Hold on Me",
+      "id": null
+    },
+    {
+      "title": "Wonderful World",
+      "id": null
+    },
+    {
+      "title": "If You Don't Know Me by Now",
+      "id": null
+    },
+    {
+      "title": "Just My Imagination",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,202 @@
-{"id": "soul-food-goodie-mob", "title": "Soul Food", "artist": "Goodie Mob", "peak": 45, "history": [{"date": "1995-11-25", "rank": 45}, {"date": "1995-12-02", "rank": 76}, {"date": "1995-12-09", "rank": 106}, {"date": "1995-12-16", "rank": 108}, {"date": "1995-12-23", "rank": 137}, {"date": "1995-12-30", "rank": 146}, {"date": "1996-01-06", "rank": 155}, {"date": "1996-01-13", "rank": 112}, {"date": "1996-01-20", "rank": 100}, {"date": "1996-01-27", "rank": 73}, {"date": "1996-02-03", "rank": 74}, {"date": "1996-02-10", "rank": 79}, {"date": "1996-02-17", "rank": 76}, {"date": "1996-02-24", "rank": 66}, {"date": "1996-03-02", "rank": 105}, {"date": "1996-03-09", "rank": 103}, {"date": "1996-03-16", "rank": 98}, {"date": "1996-03-23", "rank": 101}, {"date": "1996-03-30", "rank": 102}, {"date": "1996-04-06", "rank": 112}, {"date": "1996-04-13", "rank": 116}, {"date": "1996-04-20", "rank": 128}, {"date": "1996-04-27", "rank": 131}, {"date": "1996-05-04", "rank": 141}, {"date": "1996-05-11", "rank": 153}, {"date": "1996-05-18", "rank": 176}, {"date": "1996-05-25", "rank": 184}, {"date": "1996-06-01", "rank": 188}, {"date": "1996-06-08", "rank": 191}]}
+{
+  "id": "soul-food-goodie-mob",
+  "title": "Soul Food",
+  "artist": "Goodie Mob",
+  "peak": 45,
+  "history": [
+    {
+      "date": "1995-11-25",
+      "rank": 45
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 76
+    },
+    {
+      "date": "1995-12-09",
+      "rank": 106
+    },
+    {
+      "date": "1995-12-16",
+      "rank": 108
+    },
+    {
+      "date": "1995-12-23",
+      "rank": 137
+    },
+    {
+      "date": "1995-12-30",
+      "rank": 146
+    },
+    {
+      "date": "1996-01-06",
+      "rank": 155
+    },
+    {
+      "date": "1996-01-13",
+      "rank": 112
+    },
+    {
+      "date": "1996-01-20",
+      "rank": 100
+    },
+    {
+      "date": "1996-01-27",
+      "rank": 73
+    },
+    {
+      "date": "1996-02-03",
+      "rank": 74
+    },
+    {
+      "date": "1996-02-10",
+      "rank": 79
+    },
+    {
+      "date": "1996-02-17",
+      "rank": 76
+    },
+    {
+      "date": "1996-02-24",
+      "rank": 66
+    },
+    {
+      "date": "1996-03-02",
+      "rank": 105
+    },
+    {
+      "date": "1996-03-09",
+      "rank": 103
+    },
+    {
+      "date": "1996-03-16",
+      "rank": 98
+    },
+    {
+      "date": "1996-03-23",
+      "rank": 101
+    },
+    {
+      "date": "1996-03-30",
+      "rank": 102
+    },
+    {
+      "date": "1996-04-06",
+      "rank": 112
+    },
+    {
+      "date": "1996-04-13",
+      "rank": 116
+    },
+    {
+      "date": "1996-04-20",
+      "rank": 128
+    },
+    {
+      "date": "1996-04-27",
+      "rank": 131
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 141
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 153
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 176
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 184
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 188
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dirty South",
+      "id": "dirty-south-goodie-mob"
+    },
+    {
+      "title": "Cell Therapy",
+      "id": "cell-therapy-goodie-mob"
+    },
+    {
+      "title": "Soul Food",
+      "id": "soul-food-goodie-mob"
+    },
+    {
+      "title": "Free",
+      "id": null
+    },
+    {
+      "title": "Thought Process",
+      "id": null
+    },
+    {
+      "title": "Red Dog",
+      "id": null
+    },
+    {
+      "title": "Sesame Street",
+      "id": null
+    },
+    {
+      "title": "Guess Who",
+      "id": null
+    },
+    {
+      "title": "Serenity Prayer",
+      "id": null
+    },
+    {
+      "title": "Fighting",
+      "id": null
+    },
+    {
+      "title": "Blood",
+      "id": null
+    },
+    {
+      "title": "Live at the O.M.N.I.",
+      "id": null
+    },
+    {
+      "title": "Goodie Bag",
+      "id": null
+    },
+    {
+      "title": "Funeral",
+      "id": null
+    },
+    {
+      "title": "I Didn’t Ask to Come",
+      "id": null
+    },
+    {
+      "title": "Rico",
+      "id": null
+    },
+    {
+      "title": "The Coming",
+      "id": null
+    },
+    {
+      "title": "Cee-Lo",
+      "id": null
+    },
+    {
+      "title": "The Day After",
+      "id": null
+    }
+  ]
+}

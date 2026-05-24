@@ -1,1 +1,70 @@
-{"id": "soul-eric-church", "title": "Soul", "artist": "Eric Church", "peak": 4, "history": [{"date": "2021-05-08", "rank": 4}, {"date": "2021-05-15", "rank": 60}, {"date": "2021-05-22", "rank": 74}, {"date": "2021-05-29", "rank": 106}, {"date": "2021-06-05", "rank": 117}, {"date": "2021-06-12", "rank": 135}]}
+{
+  "id": "soul-eric-church",
+  "title": "Soul",
+  "artist": "Eric Church",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2021-05-08",
+      "rank": 4
+    },
+    {
+      "date": "2021-05-15",
+      "rank": 60
+    },
+    {
+      "date": "2021-05-22",
+      "rank": 74
+    },
+    {
+      "date": "2021-05-29",
+      "rank": 106
+    },
+    {
+      "date": "2021-06-05",
+      "rank": 117
+    },
+    {
+      "date": "2021-06-12",
+      "rank": 135
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hell of a View",
+      "id": "hell-of-a-view-eric-church"
+    },
+    {
+      "title": "Rock & Roll Found Me",
+      "id": null
+    },
+    {
+      "title": "Look Good and You Know It",
+      "id": null
+    },
+    {
+      "title": "Bright Side Girl",
+      "id": null
+    },
+    {
+      "title": "Break It Kind of Guy",
+      "id": null
+    },
+    {
+      "title": "Where I Wanna Be",
+      "id": null
+    },
+    {
+      "title": "Jenny",
+      "id": null
+    },
+    {
+      "title": "Bad Mother Trucker",
+      "id": null
+    },
+    {
+      "title": "Lynyrd Skynyrd Jones",
+      "id": null
+    }
+  ]
+}

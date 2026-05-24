@@ -1,1 +1,70 @@
-{"id": "soul-alone-daryl-hall", "title": "Soul Alone", "artist": "Daryl Hall", "peak": 177, "history": [{"date": "1993-09-25", "rank": 177}, {"date": "1993-10-02", "rank": 199}, {"date": "1993-10-09", "rank": 193}]}
+{
+  "id": "soul-alone-daryl-hall",
+  "title": "Soul Alone",
+  "artist": "Daryl Hall",
+  "peak": 177,
+  "history": [
+    {
+      "date": "1993-09-25",
+      "rank": 177
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 199
+    },
+    {
+      "date": "1993-10-09",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m in a Philly Mood",
+      "id": "i-m-in-a-philly-mood-daryl-hall"
+    },
+    {
+      "title": "Power of Seduction",
+      "id": null
+    },
+    {
+      "title": "This Time",
+      "id": null
+    },
+    {
+      "title": "Love Revelation",
+      "id": null
+    },
+    {
+      "title": "Borderline",
+      "id": null
+    },
+    {
+      "title": "Stop Loving Me, Stop Loving You",
+      "id": null
+    },
+    {
+      "title": "Help Me Find a Way to Your Heart",
+      "id": null
+    },
+    {
+      "title": "Send Me",
+      "id": null
+    },
+    {
+      "title": "Wildfire",
+      "id": null
+    },
+    {
+      "title": "Money Changes Everything",
+      "id": null
+    },
+    {
+      "title": "Written in Stone",
+      "id": null
+    },
+    {
+      "title": "I've Finally Seen the Light",
+      "id": null
+    }
+  ]
+}
