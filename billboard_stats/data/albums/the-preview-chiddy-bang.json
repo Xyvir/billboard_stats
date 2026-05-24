@@ -1,1 +1,46 @@
-{"id": "the-preview-chiddy-bang", "title": "The Preview", "artist": "Chiddy Bang", "peak": 76, "history": [{"date": "2010-10-30", "rank": 76}]}
+{
+  "id": "the-preview-chiddy-bang",
+  "title": "The Preview",
+  "artist": "Chiddy Bang",
+  "peak": 76,
+  "history": [
+    {
+      "date": "2010-10-30",
+      "rank": 76
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Opposite of Adults",
+      "id": "opposite-of-adults-chiddy-bang"
+    },
+    {
+      "title": "The Good Life",
+      "id": null
+    },
+    {
+      "title": "Truth",
+      "id": null
+    },
+    {
+      "title": "Here We Go",
+      "id": null
+    },
+    {
+      "title": "All Things Go",
+      "id": null
+    },
+    {
+      "title": "Nothing on We",
+      "id": null
+    },
+    {
+      "title": "Bad Day",
+      "id": null
+    },
+    {
+      "title": "Old Ways",
+      "id": null
+    }
+  ]
+}

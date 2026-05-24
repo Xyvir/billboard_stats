@@ -1,1 +1,90 @@
-{"id": "the-promise-bruce-springsteen", "title": "The Promise", "artist": "Bruce Springsteen", "peak": 16, "history": [{"date": "2010-12-04", "rank": 16}, {"date": "2010-12-11", "rank": 60}, {"date": "2010-12-18", "rank": 75}, {"date": "2010-12-25", "rank": 85}, {"date": "2011-01-01", "rank": 78}, {"date": "2011-01-08", "rank": 79}, {"date": "2011-01-15", "rank": 156}, {"date": "2011-01-22", "rank": 148}, {"date": "2011-02-26", "rank": 161}]}
+{
+  "id": "the-promise-bruce-springsteen",
+  "title": "The Promise",
+  "artist": "Bruce Springsteen",
+  "peak": 16,
+  "history": [
+    {
+      "date": "2010-12-04",
+      "rank": 16
+    },
+    {
+      "date": "2010-12-11",
+      "rank": 60
+    },
+    {
+      "date": "2010-12-18",
+      "rank": 75
+    },
+    {
+      "date": "2010-12-25",
+      "rank": 85
+    },
+    {
+      "date": "2011-01-01",
+      "rank": 78
+    },
+    {
+      "date": "2011-01-08",
+      "rank": 79
+    },
+    {
+      "date": "2011-01-15",
+      "rank": 156
+    },
+    {
+      "date": "2011-01-22",
+      "rank": 148
+    },
+    {
+      "date": "2011-02-26",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Promise",
+      "id": "the-rising-bruce-springsteen"
+    },
+    {
+      "title": "Fire",
+      "id": "fire-bruce-springsteen"
+    },
+    {
+      "title": "The Ties That Bind",
+      "id": null
+    },
+    {
+      "title": "Seaside Bar Song",
+      "id": null
+    },
+    {
+      "title": "Zero and Blind Terry",
+      "id": null
+    },
+    {
+      "title": "Because the Night",
+      "id": null
+    },
+    {
+      "title": "Thunder Road",
+      "id": null
+    },
+    {
+      "title": "Independence Day",
+      "id": null
+    },
+    {
+      "title": "Point Blank",
+      "id": null
+    },
+    {
+      "title": "The Fever",
+      "id": null
+    },
+    {
+      "title": "Santa Claus Is Coming to Town",
+      "id": null
+    }
+  ]
+}
