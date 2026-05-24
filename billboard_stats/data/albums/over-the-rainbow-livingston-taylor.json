@@ -1,1 +1,74 @@
-{"id": "over-the-rainbow-livingston-taylor", "title": "Over The Rainbow", "artist": "Livingston Taylor", "peak": 189, "history": [{"date": "1973-11-03", "rank": 197}, {"date": "1973-11-10", "rank": 195}, {"date": "1973-11-17", "rank": 191}, {"date": "1973-11-24", "rank": 189}, {"date": "1973-12-01", "rank": 199}]}
+{
+  "id": "over-the-rainbow-livingston-taylor",
+  "title": "Over The Rainbow",
+  "artist": "Livingston Taylor",
+  "peak": 189,
+  "history": [
+    {
+      "date": "1973-11-03",
+      "rank": 197
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 195
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 191
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 189
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Falling in Love With You",
+      "id": "i-will-be-in-love-with-you-livingston-taylor"
+    },
+    {
+      "title": "Loving Be My New Horizon",
+      "id": null
+    },
+    {
+      "title": "Pretty Woman",
+      "id": null
+    },
+    {
+      "title": "I Can Dream of You",
+      "id": null
+    },
+    {
+      "title": "Blind",
+      "id": null
+    },
+    {
+      "title": "Somewhere Over the Rainbow",
+      "id": null
+    },
+    {
+      "title": "Rodeo",
+      "id": null
+    },
+    {
+      "title": "Lady Tomorrow",
+      "id": null
+    },
+    {
+      "title": "If I Needed Someone",
+      "id": null
+    },
+    {
+      "title": "Let Me Go Down",
+      "id": null
+    },
+    {
+      "title": "Oh Hallelujah",
+      "id": null
+    }
+  ]
+}

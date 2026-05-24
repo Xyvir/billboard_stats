@@ -1,1 +1,82 @@
-{"id": "oxo-oxo", "title": "Oxo", "artist": "Oxo", "peak": 117, "history": [{"date": "1983-04-30", "rank": 147}, {"date": "1983-05-07", "rank": 138}, {"date": "1983-05-14", "rank": 129}, {"date": "1983-05-21", "rank": 121}, {"date": "1983-05-28", "rank": 117}, {"date": "1983-06-04", "rank": 167}, {"date": "1983-06-11", "rank": 187}]}
+{
+  "id": "oxo-oxo",
+  "title": "Oxo",
+  "artist": "Oxo",
+  "peak": 117,
+  "history": [
+    {
+      "date": "1983-04-30",
+      "rank": 147
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 138
+    },
+    {
+      "date": "1983-05-14",
+      "rank": 129
+    },
+    {
+      "date": "1983-05-21",
+      "rank": 121
+    },
+    {
+      "date": "1983-05-28",
+      "rank": 117
+    },
+    {
+      "date": "1983-06-04",
+      "rank": 167
+    },
+    {
+      "date": "1983-06-11",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Whirly Girl",
+      "id": "whirly-girl-oxo"
+    },
+    {
+      "title": "Dance All Night",
+      "id": null
+    },
+    {
+      "title": "My Ride",
+      "id": null
+    },
+    {
+      "title": "Wanna Be Your Lover",
+      "id": null
+    },
+    {
+      "title": "In the Stars",
+      "id": null
+    },
+    {
+      "title": "You Make It Sound So Easy",
+      "id": null
+    },
+    {
+      "title": "Waiting for You",
+      "id": null
+    },
+    {
+      "title": "Back in Town",
+      "id": null
+    },
+    {
+      "title": "I’ll Take You Back",
+      "id": null
+    },
+    {
+      "title": "Love I Need Her",
+      "id": null
+    },
+    {
+      "title": "Runnin’ Low",
+      "id": null
+    }
+  ]
+}
