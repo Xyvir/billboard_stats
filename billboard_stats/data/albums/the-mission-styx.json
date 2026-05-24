@@ -1,1 +1,74 @@
-{"id": "the-mission-styx", "title": "The Mission", "artist": "Styx", "peak": 45, "history": [{"date": "2017-07-08", "rank": 45}, {"date": "2017-07-15", "rank": 140}]}
+{
+  "id": "the-mission-styx",
+  "title": "The Mission",
+  "artist": "Styx",
+  "peak": 45,
+  "history": [
+    {
+      "date": "2017-07-08",
+      "rank": 45
+    },
+    {
+      "date": "2017-07-15",
+      "rank": 140
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Overture",
+      "id": null
+    },
+    {
+      "title": "Gone Gone Gone",
+      "id": null
+    },
+    {
+      "title": "Hundred Million Miles From Home",
+      "id": null
+    },
+    {
+      "title": "Trouble at the Big Show",
+      "id": null
+    },
+    {
+      "title": "Locomotive",
+      "id": null
+    },
+    {
+      "title": "Radio Silence",
+      "id": null
+    },
+    {
+      "title": "The Greater Good",
+      "id": null
+    },
+    {
+      "title": "Time May Bend",
+      "id": null
+    },
+    {
+      "title": "Ten Thousand Ways",
+      "id": null
+    },
+    {
+      "title": "Red Storm",
+      "id": null
+    },
+    {
+      "title": "All Systems Stable",
+      "id": null
+    },
+    {
+      "title": "Khedive",
+      "id": null
+    },
+    {
+      "title": "The Outpost",
+      "id": null
+    },
+    {
+      "title": "Mission to Mars",
+      "id": null
+    }
+  ]
+}

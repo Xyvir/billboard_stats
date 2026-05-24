@@ -1,1 +1,66 @@
-{"id": "the-monroes-the-monroes", "title": "The Monroes", "artist": "The Monroes", "peak": 109, "history": [{"date": "1982-06-19", "rank": 190}, {"date": "1982-06-26", "rank": 179}, {"date": "1982-07-03", "rank": 123}, {"date": "1982-07-10", "rank": 117}, {"date": "1982-07-17", "rank": 109}, {"date": "1982-07-24", "rank": 109}, {"date": "1982-07-31", "rank": 183}, {"date": "1982-08-07", "rank": 180}, {"date": "1982-08-14", "rank": 199}]}
+{
+  "id": "the-monroes-the-monroes",
+  "title": "The Monroes",
+  "artist": "The Monroes",
+  "peak": 109,
+  "history": [
+    {
+      "date": "1982-06-19",
+      "rank": 190
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 179
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 123
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 117
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 109
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 109
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 183
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 180
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What Do All the People Know",
+      "id": "what-do-all-the-people-know-the-monroes"
+    },
+    {
+      "title": "Somewhere in the Night",
+      "id": null
+    },
+    {
+      "title": "Hungry Stranger",
+      "id": null
+    },
+    {
+      "title": "Blind Faith",
+      "id": null
+    },
+    {
+      "title": "Pay, Pay, Pay",
+      "id": null
+    }
+  ]
+}
