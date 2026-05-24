@@ -1,1 +1,90 @@
-{"id": "radio-activity-kraftwerk", "title": "Radio-activity", "artist": "Kraftwerk", "peak": 140, "history": [{"date": "1975-12-13", "rank": 185}, {"date": "1975-12-20", "rank": 174}, {"date": "1975-12-27", "rank": 163}, {"date": "1976-01-03", "rank": 152}, {"date": "1976-01-10", "rank": 147}, {"date": "1976-01-17", "rank": 140}, {"date": "1976-01-24", "rank": 164}, {"date": "1976-01-31", "rank": 199}]}
+{
+  "id": "radio-activity-kraftwerk",
+  "title": "Radio-activity",
+  "artist": "Kraftwerk",
+  "peak": 140,
+  "history": [
+    {
+      "date": "1975-12-13",
+      "rank": 185
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 174
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 163
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 152
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 147
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 140
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 164
+    },
+    {
+      "date": "1976-01-31",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Geigerzähler",
+      "id": null
+    },
+    {
+      "title": "Radioactivity",
+      "id": null
+    },
+    {
+      "title": "Radioland",
+      "id": null
+    },
+    {
+      "title": "Airwaves",
+      "id": null
+    },
+    {
+      "title": "Intermission",
+      "id": null
+    },
+    {
+      "title": "News",
+      "id": null
+    },
+    {
+      "title": "Die Stimme der Energie",
+      "id": null
+    },
+    {
+      "title": "Antenne",
+      "id": null
+    },
+    {
+      "title": "Radio Sterne",
+      "id": null
+    },
+    {
+      "title": "Uran",
+      "id": null
+    },
+    {
+      "title": "Transistor",
+      "id": null
+    },
+    {
+      "title": "Ohm Sweet Ohm",
+      "id": null
+    }
+  ]
+}

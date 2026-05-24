@@ -1,1 +1,94 @@
-{"id": "radio-dinner-national-lampoon", "title": "Radio Dinner", "artist": "National Lampoon", "peak": 132, "history": [{"date": "1972-09-02", "rank": 197}, {"date": "1972-09-09", "rank": 189}, {"date": "1972-09-16", "rank": 163}, {"date": "1972-09-23", "rank": 159}, {"date": "1972-09-30", "rank": 154}, {"date": "1972-10-07", "rank": 147}, {"date": "1972-10-14", "rank": 146}, {"date": "1972-10-21", "rank": 139}, {"date": "1972-10-28", "rank": 137}, {"date": "1972-11-04", "rank": 132}, {"date": "1972-11-11", "rank": 132}, {"date": "1972-11-18", "rank": 153}]}
+{
+  "id": "radio-dinner-national-lampoon",
+  "title": "Radio Dinner",
+  "artist": "National Lampoon",
+  "peak": 132,
+  "history": [
+    {
+      "date": "1972-09-02",
+      "rank": 197
+    },
+    {
+      "date": "1972-09-09",
+      "rank": 189
+    },
+    {
+      "date": "1972-09-16",
+      "rank": 163
+    },
+    {
+      "date": "1972-09-23",
+      "rank": 159
+    },
+    {
+      "date": "1972-09-30",
+      "rank": 154
+    },
+    {
+      "date": "1972-10-07",
+      "rank": 147
+    },
+    {
+      "date": "1972-10-14",
+      "rank": 146
+    },
+    {
+      "date": "1972-10-21",
+      "rank": 139
+    },
+    {
+      "date": "1972-10-28",
+      "rank": 137
+    },
+    {
+      "date": "1972-11-04",
+      "rank": 132
+    },
+    {
+      "date": "1972-11-11",
+      "rank": 132
+    },
+    {
+      "date": "1972-11-18",
+      "rank": 153
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Deteriorata",
+      "id": "deteriorata-national-lampoon"
+    },
+    {
+      "title": "Phono Funnies / Teenyrap / It's Obvious",
+      "id": null
+    },
+    {
+      "title": "Catch It and You Keep It / Pigeons / Teenyrap / 'Quinas 'N' 'Rasmus / All Kidding Aside / Phono Funnies / Teenyrap",
+      "id": null
+    },
+    {
+      "title": "Magical Misery Tour",
+      "id": null
+    },
+    {
+      "title": "Those Fabulous Sixties",
+      "id": null
+    },
+    {
+      "title": "Profiles in Chrome",
+      "id": null
+    },
+    {
+      "title": "Teenyrap / Phono Funnies / Pigeons / Support Your Locol Police",
+      "id": null
+    },
+    {
+      "title": "Pull the Tregros / Teenyrap / ng Asi / Phono Funnies",
+      "id": null
+    },
+    {
+      "title": "Concert in Bangla Desh",
+      "id": null
+    }
+  ]
+}
