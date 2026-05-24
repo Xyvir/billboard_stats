@@ -1,1 +1,66 @@
-{"id": "popular-problems-leonard-cohen", "title": "Popular Problems", "artist": "Leonard Cohen", "peak": 15, "history": [{"date": "2014-10-11", "rank": 15}, {"date": "2014-10-18", "rank": 40}, {"date": "2014-10-25", "rank": 65}, {"date": "2014-11-01", "rank": 94}, {"date": "2014-11-08", "rank": 125}]}
+{
+  "id": "popular-problems-leonard-cohen",
+  "title": "Popular Problems",
+  "artist": "Leonard Cohen",
+  "peak": 15,
+  "history": [
+    {
+      "date": "2014-10-11",
+      "rank": 15
+    },
+    {
+      "date": "2014-10-18",
+      "rank": 40
+    },
+    {
+      "date": "2014-10-25",
+      "rank": 65
+    },
+    {
+      "date": "2014-11-01",
+      "rank": 94
+    },
+    {
+      "date": "2014-11-08",
+      "rank": 125
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Slow",
+      "id": null
+    },
+    {
+      "title": "Almost Like the Blues",
+      "id": null
+    },
+    {
+      "title": "Samson in New Orleans",
+      "id": null
+    },
+    {
+      "title": "A Street",
+      "id": null
+    },
+    {
+      "title": "Did I Ever Love You",
+      "id": null
+    },
+    {
+      "title": "My Oh My",
+      "id": null
+    },
+    {
+      "title": "Nevermind",
+      "id": null
+    },
+    {
+      "title": "Born in Chains",
+      "id": null
+    },
+    {
+      "title": "You Got Me Singing",
+      "id": null
+    }
+  ]
+}

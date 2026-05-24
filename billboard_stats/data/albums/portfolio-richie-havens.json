@@ -1,1 +1,62 @@
-{"id": "portfolio-richie-havens", "title": "Portfolio", "artist": "Richie Havens", "peak": 182, "history": [{"date": "1973-06-09", "rank": 187}, {"date": "1973-06-16", "rank": 182}, {"date": "1973-06-23", "rank": 185}, {"date": "1973-06-30", "rank": 198}]}
+{
+  "id": "portfolio-richie-havens",
+  "title": "Portfolio",
+  "artist": "Richie Havens",
+  "peak": 182,
+  "history": [
+    {
+      "date": "1973-06-09",
+      "rank": 187
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 182
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 185
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It Was A Very Good Year",
+      "id": null
+    },
+    {
+      "title": "Dreaming My Life Away",
+      "id": null
+    },
+    {
+      "title": "23 Days In September",
+      "id": null
+    },
+    {
+      "title": "I Know I Won't Be There",
+      "id": null
+    },
+    {
+      "title": "I Don't Need Nobody",
+      "id": null
+    },
+    {
+      "title": "Woman",
+      "id": null
+    },
+    {
+      "title": "What's Going On",
+      "id": null
+    },
+    {
+      "title": "Tight Rope",
+      "id": null
+    },
+    {
+      "title": "Mama Loves You",
+      "id": null
+    }
+  ]
+}

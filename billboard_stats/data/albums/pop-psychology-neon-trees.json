@@ -1,1 +1,70 @@
-{"id": "pop-psychology-neon-trees", "title": "Pop Psychology", "artist": "Neon Trees", "peak": 6, "history": [{"date": "2014-05-10", "rank": 6}, {"date": "2014-05-17", "rank": 57}, {"date": "2014-05-24", "rank": 166}, {"date": "2014-05-31", "rank": 198}, {"date": "2014-06-07", "rank": 179}]}
+{
+  "id": "pop-psychology-neon-trees",
+  "title": "Pop Psychology",
+  "artist": "Neon Trees",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2014-05-10",
+      "rank": 6
+    },
+    {
+      "date": "2014-05-17",
+      "rank": 57
+    },
+    {
+      "date": "2014-05-24",
+      "rank": 166
+    },
+    {
+      "date": "2014-05-31",
+      "rank": 198
+    },
+    {
+      "date": "2014-06-07",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sleeping With a Friend",
+      "id": "sleeping-with-a-friend-neon-trees"
+    },
+    {
+      "title": "Love in the 21st Century",
+      "id": null
+    },
+    {
+      "title": "Text Me in the Morning",
+      "id": null
+    },
+    {
+      "title": "Teenager in Love",
+      "id": null
+    },
+    {
+      "title": "I Love You (but I Hate Your Friends)",
+      "id": null
+    },
+    {
+      "title": "Unavoidable",
+      "id": null
+    },
+    {
+      "title": "Voices in the Halls",
+      "id": null
+    },
+    {
+      "title": "Foolish Behavior",
+      "id": null
+    },
+    {
+      "title": "Living in Another World",
+      "id": null
+    },
+    {
+      "title": "First Things First",
+      "id": null
+    }
+  ]
+}

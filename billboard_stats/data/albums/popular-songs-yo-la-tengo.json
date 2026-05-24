@@ -1,1 +1,74 @@
-{"id": "popular-songs-yo-la-tengo", "title": "Popular Songs", "artist": "Yo La Tengo", "peak": 58, "history": [{"date": "2009-09-26", "rank": 58}, {"date": "2009-10-03", "rank": 114}, {"date": "2009-10-10", "rank": 155}, {"date": "2009-10-17", "rank": 171}]}
+{
+  "id": "popular-songs-yo-la-tengo",
+  "title": "Popular Songs",
+  "artist": "Yo La Tengo",
+  "peak": 58,
+  "history": [
+    {
+      "date": "2009-09-26",
+      "rank": 58
+    },
+    {
+      "date": "2009-10-03",
+      "rank": 114
+    },
+    {
+      "date": "2009-10-10",
+      "rank": 155
+    },
+    {
+      "date": "2009-10-17",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Here to Fall",
+      "id": null
+    },
+    {
+      "title": "Avalon or Someone Very Similar",
+      "id": null
+    },
+    {
+      "title": "By Two’s",
+      "id": null
+    },
+    {
+      "title": "Nothing to Hide",
+      "id": null
+    },
+    {
+      "title": "Periodically Double or Triple",
+      "id": null
+    },
+    {
+      "title": "If It’s True",
+      "id": null
+    },
+    {
+      "title": "I’m on My Way",
+      "id": null
+    },
+    {
+      "title": "When It’s Dark",
+      "id": null
+    },
+    {
+      "title": "All Your Secrets",
+      "id": null
+    },
+    {
+      "title": "More Stars Than There Are in Heaven",
+      "id": null
+    },
+    {
+      "title": "The Fireside",
+      "id": null
+    },
+    {
+      "title": "And the Glitter Is Gone",
+      "id": null
+    }
+  ]
+}
