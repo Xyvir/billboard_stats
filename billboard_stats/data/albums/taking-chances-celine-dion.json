@@ -1,1 +1,198 @@
-{"id": "taking-chances-celine-dion", "title": "Taking Chances", "artist": "Celine Dion", "peak": 3, "history": [{"date": "2007-12-01", "rank": 3}, {"date": "2007-12-08", "rank": 8}, {"date": "2007-12-15", "rank": 8}, {"date": "2007-12-22", "rank": 12}, {"date": "2007-12-29", "rank": 15}, {"date": "2008-01-05", "rank": 18}, {"date": "2008-01-12", "rank": 20}, {"date": "2008-01-19", "rank": 30}, {"date": "2008-01-26", "rank": 43}, {"date": "2008-02-02", "rank": 58}, {"date": "2008-02-09", "rank": 69}, {"date": "2008-02-16", "rank": 84}, {"date": "2008-02-23", "rank": 100}, {"date": "2008-03-01", "rank": 55}, {"date": "2008-03-08", "rank": 37}, {"date": "2008-03-15", "rank": 62}, {"date": "2008-03-22", "rank": 92}, {"date": "2008-03-29", "rank": 108}, {"date": "2008-04-05", "rank": 67}, {"date": "2008-04-12", "rank": 78}, {"date": "2008-04-19", "rank": 123}, {"date": "2008-04-26", "rank": 140}, {"date": "2008-05-03", "rank": 157}, {"date": "2008-05-10", "rank": 184}, {"date": "2008-05-17", "rank": 194}, {"date": "2008-05-24", "rank": 138}]}
+{
+  "id": "taking-chances-celine-dion",
+  "title": "Taking Chances",
+  "artist": "Celine Dion",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2007-12-01",
+      "rank": 3
+    },
+    {
+      "date": "2007-12-08",
+      "rank": 8
+    },
+    {
+      "date": "2007-12-15",
+      "rank": 8
+    },
+    {
+      "date": "2007-12-22",
+      "rank": 12
+    },
+    {
+      "date": "2007-12-29",
+      "rank": 15
+    },
+    {
+      "date": "2008-01-05",
+      "rank": 18
+    },
+    {
+      "date": "2008-01-12",
+      "rank": 20
+    },
+    {
+      "date": "2008-01-19",
+      "rank": 30
+    },
+    {
+      "date": "2008-01-26",
+      "rank": 43
+    },
+    {
+      "date": "2008-02-02",
+      "rank": 58
+    },
+    {
+      "date": "2008-02-09",
+      "rank": 69
+    },
+    {
+      "date": "2008-02-16",
+      "rank": 84
+    },
+    {
+      "date": "2008-02-23",
+      "rank": 100
+    },
+    {
+      "date": "2008-03-01",
+      "rank": 55
+    },
+    {
+      "date": "2008-03-08",
+      "rank": 37
+    },
+    {
+      "date": "2008-03-15",
+      "rank": 62
+    },
+    {
+      "date": "2008-03-22",
+      "rank": 92
+    },
+    {
+      "date": "2008-03-29",
+      "rank": 108
+    },
+    {
+      "date": "2008-04-05",
+      "rank": 67
+    },
+    {
+      "date": "2008-04-12",
+      "rank": 78
+    },
+    {
+      "date": "2008-04-19",
+      "rank": 123
+    },
+    {
+      "date": "2008-04-26",
+      "rank": 140
+    },
+    {
+      "date": "2008-05-03",
+      "rank": 157
+    },
+    {
+      "date": "2008-05-10",
+      "rank": 184
+    },
+    {
+      "date": "2008-05-17",
+      "rank": 194
+    },
+    {
+      "date": "2008-05-24",
+      "rank": 138
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Taking Chances",
+      "id": "taking-chances-celine-dion"
+    },
+    {
+      "title": "Shadow of Love",
+      "id": "the-power-of-love-celine-dion"
+    },
+    {
+      "title": "This Time",
+      "id": "think-twice-celine-dion"
+    },
+    {
+      "title": "That's Just the Woman in Me",
+      "id": "that-s-the-way-it-is-celine-dion"
+    },
+    {
+      "title": "Alone",
+      "id": null
+    },
+    {
+      "title": "Eyes on Me",
+      "id": null
+    },
+    {
+      "title": "My Love",
+      "id": null
+    },
+    {
+      "title": "Surprise Surprise",
+      "id": null
+    },
+    {
+      "title": "New Dawn",
+      "id": null
+    },
+    {
+      "title": "A Song for You",
+      "id": null
+    },
+    {
+      "title": "A World to Believe In",
+      "id": null
+    },
+    {
+      "title": "Can't Fight the Feelin'",
+      "id": null
+    },
+    {
+      "title": "I Got Nothin' Left",
+      "id": null
+    },
+    {
+      "title": "Right Next to the Right One",
+      "id": null
+    },
+    {
+      "title": "Fade Away",
+      "id": null
+    },
+    {
+      "title": "Skies of L.A.",
+      "id": null
+    },
+    {
+      "title": "Map To My Heart",
+      "id": null
+    },
+    {
+      "title": "The Power of Love (from “A New Day…Live in Las Vegas”)",
+      "id": null
+    },
+    {
+      "title": "I Drove All Night (from “A New Day…Live in Las Vegas”)",
+      "id": null
+    },
+    {
+      "title": "I Surrender (from “A New Day…Live in Las Vegas”)",
+      "id": null
+    },
+    {
+      "title": "I Wish (from “A New Day…Live in Las Vegas”)",
+      "id": null
+    }
+  ]
+}
