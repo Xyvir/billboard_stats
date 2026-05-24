@@ -1,1 +1,110 @@
-{"id": "rock-n-roll-rarities-chuck-berry", "title": "Rock 'N' Roll Rarities", "artist": "Chuck Berry", "peak": 110, "history": [{"date": "2018-12-22", "rank": 193}, {"date": "2018-12-29", "rank": 178}, {"date": "2019-01-05", "rank": 110}, {"date": "2020-12-12", "rank": 165}, {"date": "2021-12-18", "rank": 140}]}
+{
+  "id": "rock-n-roll-rarities-chuck-berry",
+  "title": "Rock 'N' Roll Rarities",
+  "artist": "Chuck Berry",
+  "peak": 110,
+  "history": [
+    {
+      "date": "2018-12-22",
+      "rank": 193
+    },
+    {
+      "date": "2018-12-29",
+      "rank": 178
+    },
+    {
+      "date": "2019-01-05",
+      "rank": 110
+    },
+    {
+      "date": "2020-12-12",
+      "rank": 165
+    },
+    {
+      "date": "2021-12-18",
+      "rank": 140
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No Particular Place to Go",
+      "id": "no-particular-place-to-go-chuck-berry"
+    },
+    {
+      "title": "Reelin’ & Rockin’",
+      "id": "reelin-rockin-chuck-berry"
+    },
+    {
+      "title": "Johnny B. Goode",
+      "id": "johnny-b-goode-chuck-berry"
+    },
+    {
+      "title": "Little Marie",
+      "id": "little-marie-chuck-berry"
+    },
+    {
+      "title": "Promised Land",
+      "id": "promised-land-chuck-berry"
+    },
+    {
+      "title": "Little Queenie",
+      "id": "little-queenie-chuck-berry"
+    },
+    {
+      "title": "You Never Can Tell",
+      "id": "you-never-can-tell-chuck-berry"
+    },
+    {
+      "title": "Run Rudolph Run",
+      "id": "run-rudolph-run-chuck-berry"
+    },
+    {
+      "title": "Beautiful Delilah",
+      "id": "beautiful-delilah-chuck-berry"
+    },
+    {
+      "title": "Rock and Roll Music",
+      "id": null
+    },
+    {
+      "title": "It Wasn’t Me",
+      "id": null
+    },
+    {
+      "title": "Come On",
+      "id": null
+    },
+    {
+      "title": "Bye Bye Johnny",
+      "id": null
+    },
+    {
+      "title": "Time Was",
+      "id": null
+    },
+    {
+      "title": "Sweet Little Sixteen",
+      "id": null
+    },
+    {
+      "title": "County Line",
+      "id": null
+    },
+    {
+      "title": "Nadine",
+      "id": null
+    },
+    {
+      "title": "Betty Jean",
+      "id": null
+    },
+    {
+      "title": "I Want to Be Your Driver",
+      "id": null
+    },
+    {
+      "title": "Oh Yeah",
+      "id": null
+    }
+  ]
+}

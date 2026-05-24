@@ -1,1 +1,74 @@
-{"id": "rock-hard-suzi-quatro", "title": "Rock Hard", "artist": "Suzi Quatro", "peak": 165, "history": [{"date": "1980-11-01", "rank": 190}, {"date": "1980-11-08", "rank": 178}, {"date": "1980-11-15", "rank": 170}, {"date": "1980-11-22", "rank": 165}, {"date": "1980-11-29", "rank": 197}]}
+{
+  "id": "rock-hard-suzi-quatro",
+  "title": "Rock Hard",
+  "artist": "Suzi Quatro",
+  "peak": 165,
+  "history": [
+    {
+      "date": "1980-11-01",
+      "rank": 190
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 178
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 170
+    },
+    {
+      "date": "1980-11-22",
+      "rank": 165
+    },
+    {
+      "date": "1980-11-29",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lipstick",
+      "id": "lipstick-suzi-quatro"
+    },
+    {
+      "title": "Rock Hard",
+      "id": null
+    },
+    {
+      "title": "Glad All Over",
+      "id": null
+    },
+    {
+      "title": "Love Is Ready",
+      "id": null
+    },
+    {
+      "title": "State of Mind",
+      "id": null
+    },
+    {
+      "title": "Woman Cry",
+      "id": null
+    },
+    {
+      "title": "Hard Headed",
+      "id": null
+    },
+    {
+      "title": "Ego in the Night",
+      "id": null
+    },
+    {
+      "title": "Lonely Is the Hardest",
+      "id": null
+    },
+    {
+      "title": "Lay Me Down",
+      "id": null
+    },
+    {
+      "title": "Wish Upon Me",
+      "id": null
+    }
+  ]
+}

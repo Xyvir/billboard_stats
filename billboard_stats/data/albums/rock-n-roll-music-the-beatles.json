@@ -1,1 +1,242 @@
-{"id": "rock-n-roll-music-the-beatles", "title": "Rock 'n' Roll Music", "artist": "The Beatles", "peak": 2, "history": [{"date": "1976-06-26", "rank": 8}, {"date": "1976-07-03", "rank": 5}, {"date": "1976-07-10", "rank": 2}, {"date": "1976-07-17", "rank": 2}, {"date": "1976-07-24", "rank": 8}, {"date": "1976-07-31", "rank": 8}, {"date": "1976-08-07", "rank": 8}, {"date": "1976-08-14", "rank": 7}, {"date": "1976-08-21", "rank": 6}, {"date": "1976-08-28", "rank": 13}, {"date": "1976-09-04", "rank": 29}, {"date": "1976-09-11", "rank": 29}, {"date": "1976-09-18", "rank": 29}, {"date": "1976-09-25", "rank": 58}, {"date": "1976-10-02", "rank": 61}, {"date": "1976-10-09", "rank": 68}, {"date": "1976-10-16", "rank": 84}, {"date": "1976-10-23", "rank": 106}, {"date": "1976-10-30", "rank": 106}, {"date": "1976-11-06", "rank": 104}, {"date": "1976-11-13", "rank": 168}, {"date": "1976-11-20", "rank": 195}, {"date": "1976-11-27", "rank": 195}, {"date": "1976-12-04", "rank": 195}, {"date": "1976-12-11", "rank": 193}, {"date": "1976-12-18", "rank": 192}, {"date": "1976-12-25", "rank": 199}, {"date": "1977-01-01", "rank": 199}, {"date": "1977-01-08", "rank": 196}, {"date": "1977-01-15", "rank": 196}]}
+{
+  "id": "rock-n-roll-music-the-beatles",
+  "title": "Rock 'n' Roll Music",
+  "artist": "The Beatles",
+  "peak": 2,
+  "history": [
+    {
+      "date": "1976-06-26",
+      "rank": 8
+    },
+    {
+      "date": "1976-07-03",
+      "rank": 5
+    },
+    {
+      "date": "1976-07-10",
+      "rank": 2
+    },
+    {
+      "date": "1976-07-17",
+      "rank": 2
+    },
+    {
+      "date": "1976-07-24",
+      "rank": 8
+    },
+    {
+      "date": "1976-07-31",
+      "rank": 8
+    },
+    {
+      "date": "1976-08-07",
+      "rank": 8
+    },
+    {
+      "date": "1976-08-14",
+      "rank": 7
+    },
+    {
+      "date": "1976-08-21",
+      "rank": 6
+    },
+    {
+      "date": "1976-08-28",
+      "rank": 13
+    },
+    {
+      "date": "1976-09-04",
+      "rank": 29
+    },
+    {
+      "date": "1976-09-11",
+      "rank": 29
+    },
+    {
+      "date": "1976-09-18",
+      "rank": 29
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 58
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 61
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 68
+    },
+    {
+      "date": "1976-10-16",
+      "rank": 84
+    },
+    {
+      "date": "1976-10-23",
+      "rank": 106
+    },
+    {
+      "date": "1976-10-30",
+      "rank": 106
+    },
+    {
+      "date": "1976-11-06",
+      "rank": 104
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 168
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 195
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 195
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 195
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 193
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 192
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 199
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 199
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 196
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Twist and Shout",
+      "id": "twist-and-shout-the-beatles"
+    },
+    {
+      "title": "I Saw Her Standing There",
+      "id": "i-saw-her-standing-there-the-beatles"
+    },
+    {
+      "title": "You Can’t Do That",
+      "id": "you-can-t-do-that-the-beatles"
+    },
+    {
+      "title": "I Wanna Be Your Man",
+      "id": "i-want-to-hold-your-hand-the-beatles"
+    },
+    {
+      "title": "Slow Down",
+      "id": "slow-down-the-beatles"
+    },
+    {
+      "title": "Matchbox",
+      "id": "matchbox-the-beatles"
+    },
+    {
+      "title": "Roll Over Beethoven",
+      "id": "roll-over-beethoven-the-beatles"
+    },
+    {
+      "title": "Revolution",
+      "id": "revolution-the-beatles"
+    },
+    {
+      "title": "Got to Get You Into My Life",
+      "id": "got-to-get-you-into-my-life-the-beatles"
+    },
+    {
+      "title": "Hey Bulldog",
+      "id": "hey-jude-the-beatles"
+    },
+    {
+      "title": "I Call Your Name",
+      "id": null
+    },
+    {
+      "title": "Boys",
+      "id": null
+    },
+    {
+      "title": "Long Tall Sally",
+      "id": null
+    },
+    {
+      "title": "Rock and Roll Music",
+      "id": null
+    },
+    {
+      "title": "Kansas City / Hey Hey Hey Hey",
+      "id": null
+    },
+    {
+      "title": "Money (That’s What I Want)",
+      "id": null
+    },
+    {
+      "title": "Bad Boy",
+      "id": null
+    },
+    {
+      "title": "Dizzy Miss Lizzy",
+      "id": null
+    },
+    {
+      "title": "Any Time at All",
+      "id": null
+    },
+    {
+      "title": "Drive My Car",
+      "id": null
+    },
+    {
+      "title": "Everybody’s Trying to Be My Baby",
+      "id": null
+    },
+    {
+      "title": "The Night Before",
+      "id": null
+    },
+    {
+      "title": "I’m Down",
+      "id": null
+    },
+    {
+      "title": "Back in the U.S.S.R.",
+      "id": null
+    },
+    {
+      "title": "Helter Skelter",
+      "id": null
+    },
+    {
+      "title": "Taxman",
+      "id": null
+    },
+    {
+      "title": "Birthday",
+      "id": null
+    },
+    {
+      "title": "Get Back",
+      "id": null
+    }
+  ]
+}

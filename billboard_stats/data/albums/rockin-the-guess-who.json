@@ -1,1 +1,62 @@
-{"id": "rockin-the-guess-who", "title": "Rockin'", "artist": "The Guess Who", "peak": 154, "history": [{"date": "1972-05-20", "rank": 154}]}
+{
+  "id": "rockin-the-guess-who",
+  "title": "Rockin'",
+  "artist": "The Guess Who",
+  "peak": 154,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heartbroken Bopper",
+      "id": "heartbroken-bopper-the-guess-who"
+    },
+    {
+      "title": "Guns, Guns, Guns",
+      "id": "guns-guns-guns-the-guess-who"
+    },
+    {
+      "title": "Get Your Ribbons On",
+      "id": null
+    },
+    {
+      "title": "Smoke Big Factory",
+      "id": null
+    },
+    {
+      "title": "Arrivederci Girl",
+      "id": null
+    },
+    {
+      "title": "Running Bear",
+      "id": null
+    },
+    {
+      "title": "Back to the City",
+      "id": null
+    },
+    {
+      "title": "Your Nashville Sneakers",
+      "id": null
+    },
+    {
+      "title": "Herbert’s a Loser",
+      "id": null
+    },
+    {
+      "title": "Hi Rockers! / Sea of Love / Heaven Only Moved Once Yesterday / Don’t You Want Me",
+      "id": null
+    },
+    {
+      "title": "Sea of Love",
+      "id": null
+    },
+    {
+      "title": "Lost Sheep",
+      "id": null
+    }
+  ]
+}

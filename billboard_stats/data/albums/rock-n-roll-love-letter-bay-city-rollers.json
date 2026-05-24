@@ -1,1 +1,118 @@
-{"id": "rock-n-roll-love-letter-bay-city-rollers", "title": "Rock N' Roll Love Letter", "artist": "Bay City Rollers", "peak": 31, "history": [{"date": "1976-03-20", "rank": 94}, {"date": "1976-03-27", "rank": 60}, {"date": "1976-04-03", "rank": 49}, {"date": "1976-04-10", "rank": 45}, {"date": "1976-04-17", "rank": 41}, {"date": "1976-04-24", "rank": 33}, {"date": "1976-05-01", "rank": 33}, {"date": "1976-05-08", "rank": 31}, {"date": "1976-05-15", "rank": 33}, {"date": "1976-05-22", "rank": 49}, {"date": "1976-05-29", "rank": 93}, {"date": "1976-06-05", "rank": 93}, {"date": "1976-06-12", "rank": 113}, {"date": "1976-06-19", "rank": 113}, {"date": "1976-06-26", "rank": 144}, {"date": "1976-07-03", "rank": 144}]}
+{
+  "id": "rock-n-roll-love-letter-bay-city-rollers",
+  "title": "Rock N' Roll Love Letter",
+  "artist": "Bay City Rollers",
+  "peak": 31,
+  "history": [
+    {
+      "date": "1976-03-20",
+      "rank": 94
+    },
+    {
+      "date": "1976-03-27",
+      "rank": 60
+    },
+    {
+      "date": "1976-04-03",
+      "rank": 49
+    },
+    {
+      "date": "1976-04-10",
+      "rank": 45
+    },
+    {
+      "date": "1976-04-17",
+      "rank": 41
+    },
+    {
+      "date": "1976-04-24",
+      "rank": 33
+    },
+    {
+      "date": "1976-05-01",
+      "rank": 33
+    },
+    {
+      "date": "1976-05-08",
+      "rank": 31
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 33
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 49
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 93
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 93
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 113
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 113
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 144
+    },
+    {
+      "date": "1976-07-03",
+      "rank": 144
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Money Honey",
+      "id": "money-honey-bay-city-rollers"
+    },
+    {
+      "title": "Rock and Roll Love Letter",
+      "id": "rock-and-roll-love-letter-bay-city-rollers"
+    },
+    {
+      "title": "I Only Wanna Dance With You",
+      "id": "i-only-want-to-be-with-you-bay-city-rollers"
+    },
+    {
+      "title": "La Belle Jeane",
+      "id": null
+    },
+    {
+      "title": "Maybe I’m a Fool to Love You",
+      "id": null
+    },
+    {
+      "title": "Wouldn’t You Like It",
+      "id": null
+    },
+    {
+      "title": "Shanghai’d in Love",
+      "id": null
+    },
+    {
+      "title": "Don’t Stop the Music",
+      "id": null
+    },
+    {
+      "title": "The Disco Kid",
+      "id": null
+    },
+    {
+      "title": "Eagles Fly",
+      "id": null
+    },
+    {
+      "title": "Too Young to Rock & Roll",
+      "id": null
+    }
+  ]
+}

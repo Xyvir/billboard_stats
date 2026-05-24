@@ -1,1 +1,254 @@
-{"id": "rockin-around-the-christmas-tree-the-decca-christmas-recordings-brenda-lee", "title": "Rockin' Around The Christmas Tree: The Decca Christmas Recordings", "artist": "Brenda Lee", "peak": 12, "history": [{"date": "2018-01-06", "rank": 144}, {"date": "2019-12-07", "rank": 112}, {"date": "2019-12-14", "rank": 50}, {"date": "2019-12-21", "rank": 41}, {"date": "2019-12-28", "rank": 33}, {"date": "2020-01-04", "rank": 17}, {"date": "2020-12-05", "rank": 101}, {"date": "2020-12-12", "rank": 50}, {"date": "2020-12-19", "rank": 40}, {"date": "2020-12-26", "rank": 32}, {"date": "2021-01-02", "rank": 21}, {"date": "2021-01-09", "rank": 54}, {"date": "2021-12-04", "rank": 95}, {"date": "2021-12-11", "rank": 45}, {"date": "2021-12-18", "rank": 37}, {"date": "2021-12-25", "rank": 30}, {"date": "2022-01-01", "rank": 27}, {"date": "2022-01-08", "rank": 24}, {"date": "2022-11-26", "rank": 165}, {"date": "2022-12-03", "rank": 64}, {"date": "2022-12-10", "rank": 25}, {"date": "2022-12-17", "rank": 24}, {"date": "2022-12-24", "rank": 22}, {"date": "2022-12-31", "rank": 22}, {"date": "2023-01-07", "rank": 16}, {"date": "2023-12-02", "rank": 82}, {"date": "2023-12-09", "rank": 40}, {"date": "2023-12-16", "rank": 28}, {"date": "2023-12-23", "rank": 29}, {"date": "2023-12-30", "rank": 23}, {"date": "2024-01-06", "rank": 17}, {"date": "2024-11-30", "rank": 133}, {"date": "2024-12-07", "rank": 59}, {"date": "2024-12-14", "rank": 36}, {"date": "2024-12-21", "rank": 27}, {"date": "2024-12-28", "rank": 19}, {"date": "2025-01-04", "rank": 15}, {"date": "2025-11-29", "rank": 146}, {"date": "2025-12-06", "rank": 64}, {"date": "2025-12-13", "rank": 29}, {"date": "2025-12-20", "rank": 23}, {"date": "2025-12-27", "rank": 20}, {"date": "2026-01-03", "rank": 12}]}
+{
+  "id": "rockin-around-the-christmas-tree-the-decca-christmas-recordings-brenda-lee",
+  "title": "Rockin' Around The Christmas Tree: The Decca Christmas Recordings",
+  "artist": "Brenda Lee",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2018-01-06",
+      "rank": 144
+    },
+    {
+      "date": "2019-12-07",
+      "rank": 112
+    },
+    {
+      "date": "2019-12-14",
+      "rank": 50
+    },
+    {
+      "date": "2019-12-21",
+      "rank": 41
+    },
+    {
+      "date": "2019-12-28",
+      "rank": 33
+    },
+    {
+      "date": "2020-01-04",
+      "rank": 17
+    },
+    {
+      "date": "2020-12-05",
+      "rank": 101
+    },
+    {
+      "date": "2020-12-12",
+      "rank": 50
+    },
+    {
+      "date": "2020-12-19",
+      "rank": 40
+    },
+    {
+      "date": "2020-12-26",
+      "rank": 32
+    },
+    {
+      "date": "2021-01-02",
+      "rank": 21
+    },
+    {
+      "date": "2021-01-09",
+      "rank": 54
+    },
+    {
+      "date": "2021-12-04",
+      "rank": 95
+    },
+    {
+      "date": "2021-12-11",
+      "rank": 45
+    },
+    {
+      "date": "2021-12-18",
+      "rank": 37
+    },
+    {
+      "date": "2021-12-25",
+      "rank": 30
+    },
+    {
+      "date": "2022-01-01",
+      "rank": 27
+    },
+    {
+      "date": "2022-01-08",
+      "rank": 24
+    },
+    {
+      "date": "2022-11-26",
+      "rank": 165
+    },
+    {
+      "date": "2022-12-03",
+      "rank": 64
+    },
+    {
+      "date": "2022-12-10",
+      "rank": 25
+    },
+    {
+      "date": "2022-12-17",
+      "rank": 24
+    },
+    {
+      "date": "2022-12-24",
+      "rank": 22
+    },
+    {
+      "date": "2022-12-31",
+      "rank": 22
+    },
+    {
+      "date": "2023-01-07",
+      "rank": 16
+    },
+    {
+      "date": "2023-12-02",
+      "rank": 82
+    },
+    {
+      "date": "2023-12-09",
+      "rank": 40
+    },
+    {
+      "date": "2023-12-16",
+      "rank": 28
+    },
+    {
+      "date": "2023-12-23",
+      "rank": 29
+    },
+    {
+      "date": "2023-12-30",
+      "rank": 23
+    },
+    {
+      "date": "2024-01-06",
+      "rank": 17
+    },
+    {
+      "date": "2024-11-30",
+      "rank": 133
+    },
+    {
+      "date": "2024-12-07",
+      "rank": 59
+    },
+    {
+      "date": "2024-12-14",
+      "rank": 36
+    },
+    {
+      "date": "2024-12-21",
+      "rank": 27
+    },
+    {
+      "date": "2024-12-28",
+      "rank": 19
+    },
+    {
+      "date": "2025-01-04",
+      "rank": 15
+    },
+    {
+      "date": "2025-11-29",
+      "rank": 146
+    },
+    {
+      "date": "2025-12-06",
+      "rank": 64
+    },
+    {
+      "date": "2025-12-13",
+      "rank": 29
+    },
+    {
+      "date": "2025-12-20",
+      "rank": 23
+    },
+    {
+      "date": "2025-12-27",
+      "rank": 20
+    },
+    {
+      "date": "2026-01-03",
+      "rank": 12
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rockin’ Around the Christmas Tree",
+      "id": "rockin-around-the-christmas-tree-brenda-lee"
+    },
+    {
+      "title": "Winter Wonderland",
+      "id": "i-wonder-brenda-lee"
+    },
+    {
+      "title": "Silver Bells",
+      "id": "rusty-bells-brenda-lee"
+    },
+    {
+      "title": "Papa Noel",
+      "id": null
+    },
+    {
+      "title": "This Time of the Year",
+      "id": null
+    },
+    {
+      "title": "Jingle Bell Rock",
+      "id": null
+    },
+    {
+      "title": "Christy Christmas",
+      "id": null
+    },
+    {
+      "title": "I’m Gonna Lasso Santa Claus",
+      "id": null
+    },
+    {
+      "title": "Santa Claus Is Coming to Town",
+      "id": null
+    },
+    {
+      "title": "The Angel and the Little Blue Bell",
+      "id": null
+    },
+    {
+      "title": "Frosty the Snowman",
+      "id": null
+    },
+    {
+      "title": "Christmas Will Be Just Another Lonely Day",
+      "id": null
+    },
+    {
+      "title": "Blue Christmas",
+      "id": null
+    },
+    {
+      "title": "A Marshmallow World",
+      "id": null
+    },
+    {
+      "title": "Strawberry Snow",
+      "id": null
+    },
+    {
+      "title": "White Christmas",
+      "id": null
+    },
+    {
+      "title": "Jingle Bells",
+      "id": null
+    },
+    {
+      "title": "Silent Night",
+      "id": null
+    }
+  ]
+}

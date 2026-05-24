@@ -1,1 +1,86 @@
-{"id": "rock-n-roll-ryan-adams", "title": "Rock N Roll", "artist": "Ryan Adams", "peak": 33, "history": [{"date": "2003-11-22", "rank": 33}, {"date": "2003-11-29", "rank": 101}, {"date": "2003-12-06", "rank": 153}, {"date": "2004-01-24", "rank": 197}]}
+{
+  "id": "rock-n-roll-ryan-adams",
+  "title": "Rock N Roll",
+  "artist": "Ryan Adams",
+  "peak": 33,
+  "history": [
+    {
+      "date": "2003-11-22",
+      "rank": 33
+    },
+    {
+      "date": "2003-11-29",
+      "rank": 101
+    },
+    {
+      "date": "2003-12-06",
+      "rank": 153
+    },
+    {
+      "date": "2004-01-24",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "This Is It",
+      "id": null
+    },
+    {
+      "title": "Shallow",
+      "id": null
+    },
+    {
+      "title": "1974",
+      "id": null
+    },
+    {
+      "title": "Wish You Were Here",
+      "id": null
+    },
+    {
+      "title": "So Alive",
+      "id": null
+    },
+    {
+      "title": "Luminol",
+      "id": null
+    },
+    {
+      "title": "Burning Photographs",
+      "id": null
+    },
+    {
+      "title": "She’s Lost Total Control",
+      "id": null
+    },
+    {
+      "title": "Note to Self: Don’t Die",
+      "id": null
+    },
+    {
+      "title": "Rock n Roll",
+      "id": null
+    },
+    {
+      "title": "Anybody Wanna Take Me Home",
+      "id": null
+    },
+    {
+      "title": "Do Miss America",
+      "id": null
+    },
+    {
+      "title": "Boys",
+      "id": null
+    },
+    {
+      "title": "The Drugs Not Working",
+      "id": null
+    },
+    {
+      "title": "Hypnotixed",
+      "id": null
+    }
+  ]
+}

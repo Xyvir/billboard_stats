@@ -1,1 +1,106 @@
-{"id": "rock-n-roll-rocket-starbuck", "title": "Rock 'n' Roll Rocket", "artist": "Starbuck", "peak": 182, "history": [{"date": "1977-06-11", "rank": 182}, {"date": "1977-06-18", "rank": 182}]}
+{
+  "id": "rock-n-roll-rocket-starbuck",
+  "title": "Rock 'n' Roll Rocket",
+  "artist": "Starbuck",
+  "peak": 182,
+  "history": [
+    {
+      "date": "1977-06-11",
+      "rank": 182
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Got to Know",
+      "id": "i-got-to-know-starbuck"
+    },
+    {
+      "title": "Moonlight Feels Right",
+      "id": "moonlight-feels-right-starbuck"
+    },
+    {
+      "title": "Lucky Man",
+      "id": "lucky-man-starbuck"
+    },
+    {
+      "title": "Everybody Be Dancin’",
+      "id": "everybody-be-dancin-starbuck"
+    },
+    {
+      "title": "Drop a Little Rock",
+      "id": null
+    },
+    {
+      "title": "Lash LaRue",
+      "id": null
+    },
+    {
+      "title": "The Slower You Go (The Longer It Lasts)",
+      "id": null
+    },
+    {
+      "title": "I’m Crazy",
+      "id": null
+    },
+    {
+      "title": "So the Night Goes",
+      "id": null
+    },
+    {
+      "title": "Working My Heart to the Bone",
+      "id": null
+    },
+    {
+      "title": "Bordello Bordeaux",
+      "id": null
+    },
+    {
+      "title": "Call Me",
+      "id": null
+    },
+    {
+      "title": "City of the Future",
+      "id": null
+    },
+    {
+      "title": "Fat Boy",
+      "id": null
+    },
+    {
+      "title": "Little Bird",
+      "id": null
+    },
+    {
+      "title": "Sunset Eyes",
+      "id": null
+    },
+    {
+      "title": "A Fool in Line",
+      "id": null
+    },
+    {
+      "title": "Don't You Know How to Love a Lady",
+      "id": null
+    },
+    {
+      "title": "Benny Bought the Big One",
+      "id": null
+    },
+    {
+      "title": "Rock 'n' Roll Rocket / Little Bird (reprise)",
+      "id": null
+    },
+    {
+      "title": "One of These Mornings",
+      "id": null
+    },
+    {
+      "title": "Gimme a Break",
+      "id": null
+    }
+  ]
+}

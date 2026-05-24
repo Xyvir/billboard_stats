@@ -1,1 +1,66 @@
-{"id": "rockford-cheap-trick", "title": "Rockford", "artist": "Cheap Trick", "peak": 101, "history": [{"date": "2006-06-24", "rank": 101}, {"date": "2006-07-01", "rank": 191}]}
+{
+  "id": "rockford-cheap-trick",
+  "title": "Rockford",
+  "artist": "Cheap Trick",
+  "peak": 101,
+  "history": [
+    {
+      "date": "2006-06-24",
+      "rank": 101
+    },
+    {
+      "date": "2006-07-01",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "This Time You Got It",
+      "id": "everything-works-if-you-let-it-cheap-trick"
+    },
+    {
+      "title": "Welcome to the World",
+      "id": null
+    },
+    {
+      "title": "Perfect Stranger",
+      "id": null
+    },
+    {
+      "title": "If It Takes a Lifetime",
+      "id": null
+    },
+    {
+      "title": "Come On Come On Come On",
+      "id": null
+    },
+    {
+      "title": "O Claire",
+      "id": null
+    },
+    {
+      "title": "Give It Away",
+      "id": null
+    },
+    {
+      "title": "One More",
+      "id": null
+    },
+    {
+      "title": "Every Night and Every Day",
+      "id": null
+    },
+    {
+      "title": "Dream the Night Away",
+      "id": null
+    },
+    {
+      "title": "All Those Years",
+      "id": null
+    },
+    {
+      "title": "Decaf",
+      "id": null
+    }
+  ]
+}
