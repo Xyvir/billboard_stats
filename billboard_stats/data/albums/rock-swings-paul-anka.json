@@ -1,1 +1,82 @@
-{"id": "rock-swings-paul-anka", "title": "Rock Swings", "artist": "Paul Anka", "peak": 120, "history": [{"date": "2005-06-25", "rank": 120}, {"date": "2005-07-02", "rank": 130}]}
+{
+  "id": "rock-swings-paul-anka",
+  "title": "Rock Swings",
+  "artist": "Paul Anka",
+  "peak": 120,
+  "history": [
+    {
+      "date": "2005-06-25",
+      "rank": 120
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 130
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s My Life",
+      "id": "times-of-your-life-paul-anka"
+    },
+    {
+      "title": "Wonderwall",
+      "id": "cinderella-paul-anka"
+    },
+    {
+      "title": "Hello",
+      "id": "hello-jim-paul-anka"
+    },
+    {
+      "title": "True",
+      "id": null
+    },
+    {
+      "title": "Eye of the Tiger",
+      "id": null
+    },
+    {
+      "title": "Everybody Hurts",
+      "id": null
+    },
+    {
+      "title": "Black Hole Sun",
+      "id": null
+    },
+    {
+      "title": "It's a Sin",
+      "id": null
+    },
+    {
+      "title": "Jump",
+      "id": null
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "id": null
+    },
+    {
+      "title": "Eyes Without a Face",
+      "id": null
+    },
+    {
+      "title": "The Lovecats",
+      "id": null
+    },
+    {
+      "title": "The Way You Make Me Feel",
+      "id": null
+    },
+    {
+      "title": "Tears in Heaven",
+      "id": null
+    },
+    {
+      "title": "Jump (live at the Montreal Jazz Festival)",
+      "id": null
+    },
+    {
+      "title": "Smells Like Teen Spirit (live at the Montreal Jazz Festival)",
+      "id": null
+    }
+  ]
+}
