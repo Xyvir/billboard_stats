@@ -1,1 +1,70 @@
-{"id": "push-bros", "title": "Push", "artist": "Bros", "peak": 171, "history": [{"date": "1988-07-23", "rank": 190}, {"date": "1988-07-30", "rank": 173}, {"date": "1988-08-06", "rank": 172}, {"date": "1988-08-13", "rank": 171}, {"date": "1988-08-20", "rank": 195}]}
+{
+  "id": "push-bros",
+  "title": "Push",
+  "artist": "Bros",
+  "peak": 171,
+  "history": [
+    {
+      "date": "1988-07-23",
+      "rank": 190
+    },
+    {
+      "date": "1988-07-30",
+      "rank": 173
+    },
+    {
+      "date": "1988-08-06",
+      "rank": 172
+    },
+    {
+      "date": "1988-08-13",
+      "rank": 171
+    },
+    {
+      "date": "1988-08-20",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When Will I Be Famous?",
+      "id": "when-will-i-be-famous-bros"
+    },
+    {
+      "title": "Drop the Boy",
+      "id": null
+    },
+    {
+      "title": "Ten Out of Ten",
+      "id": null
+    },
+    {
+      "title": "Liar",
+      "id": null
+    },
+    {
+      "title": "Love to Hate You",
+      "id": null
+    },
+    {
+      "title": "I Owe You Nothing",
+      "id": null
+    },
+    {
+      "title": "I Quit",
+      "id": null
+    },
+    {
+      "title": "It’s a Jungle Out There",
+      "id": null
+    },
+    {
+      "title": "Shocked",
+      "id": null
+    },
+    {
+      "title": "Cat Among the Pigeons",
+      "id": null
+    }
+  ]
+}
