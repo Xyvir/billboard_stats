@@ -1,1 +1,90 @@
-{"id": "station-identification-channel-live", "title": "Station Identification", "artist": "Channel Live", "peak": 58, "history": [{"date": "1995-04-08", "rank": 58}, {"date": "1995-04-15", "rank": 103}, {"date": "1995-04-22", "rank": 123}, {"date": "1995-04-29", "rank": 170}, {"date": "1995-05-06", "rank": 190}]}
+{
+  "id": "station-identification-channel-live",
+  "title": "Station Identification",
+  "artist": "Channel Live",
+  "peak": 58,
+  "history": [
+    {
+      "date": "1995-04-08",
+      "rank": 58
+    },
+    {
+      "date": "1995-04-15",
+      "rank": 103
+    },
+    {
+      "date": "1995-04-22",
+      "rank": 123
+    },
+    {
+      "date": "1995-04-29",
+      "rank": 170
+    },
+    {
+      "date": "1995-05-06",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mad Izm",
+      "id": "mad-izm-channel-live"
+    },
+    {
+      "title": "Station Identification",
+      "id": null
+    },
+    {
+      "title": "Channel 1",
+      "id": null
+    },
+    {
+      "title": "Lock It Up",
+      "id": null
+    },
+    {
+      "title": "Channel 2",
+      "id": null
+    },
+    {
+      "title": "What! (Cause and Effect)",
+      "id": null
+    },
+    {
+      "title": "Reprogram",
+      "id": null
+    },
+    {
+      "title": "Channel 3",
+      "id": null
+    },
+    {
+      "title": "Sex for the Sport",
+      "id": null
+    },
+    {
+      "title": "Channel 4",
+      "id": null
+    },
+    {
+      "title": "Down Goes the Devil",
+      "id": null
+    },
+    {
+      "title": "Build & Destroy",
+      "id": null
+    },
+    {
+      "title": "Alpha & Omega",
+      "id": null
+    },
+    {
+      "title": "Homicide Ride",
+      "id": null
+    },
+    {
+      "title": "Who U Represent",
+      "id": null
+    }
+  ]
+}
