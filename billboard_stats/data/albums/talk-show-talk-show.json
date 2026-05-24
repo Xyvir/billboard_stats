@@ -1,1 +1,70 @@
-{"id": "talk-show-talk-show", "title": "Talk Show", "artist": "Talk Show", "peak": 131, "history": [{"date": "1997-09-20", "rank": 131}, {"date": "1997-09-27", "rank": 151}, {"date": "1997-10-04", "rank": 185}]}
+{
+  "id": "talk-show-talk-show",
+  "title": "Talk Show",
+  "artist": "Talk Show",
+  "peak": 131,
+  "history": [
+    {
+      "date": "1997-09-20",
+      "rank": 131
+    },
+    {
+      "date": "1997-09-27",
+      "rank": 151
+    },
+    {
+      "date": "1997-10-04",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ring Twice",
+      "id": null
+    },
+    {
+      "title": "Hello Hello",
+      "id": null
+    },
+    {
+      "title": "Everybody Loves My Car",
+      "id": null
+    },
+    {
+      "title": "Peeling an Orange",
+      "id": null
+    },
+    {
+      "title": "So Long",
+      "id": null
+    },
+    {
+      "title": "Wash Me Down",
+      "id": null
+    },
+    {
+      "title": "End of the World",
+      "id": null
+    },
+    {
+      "title": "John",
+      "id": null
+    },
+    {
+      "title": "Behind",
+      "id": null
+    },
+    {
+      "title": "Morning Girl",
+      "id": null
+    },
+    {
+      "title": "Hide",
+      "id": null
+    },
+    {
+      "title": "Fill the Fields",
+      "id": null
+    }
+  ]
+}

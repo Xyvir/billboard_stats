@@ -1,1 +1,70 @@
-{"id": "taming-the-tiger-joni-mitchell", "title": "Taming The Tiger", "artist": "Joni Mitchell", "peak": 75, "history": [{"date": "1998-10-17", "rank": 75}, {"date": "1998-10-24", "rank": 112}, {"date": "1998-10-31", "rank": 132}, {"date": "1998-11-07", "rank": 179}]}
+{
+  "id": "taming-the-tiger-joni-mitchell",
+  "title": "Taming The Tiger",
+  "artist": "Joni Mitchell",
+  "peak": 75,
+  "history": [
+    {
+      "date": "1998-10-17",
+      "rank": 75
+    },
+    {
+      "date": "1998-10-24",
+      "rank": 112
+    },
+    {
+      "date": "1998-10-31",
+      "rank": 132
+    },
+    {
+      "date": "1998-11-07",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Harlem in Havana",
+      "id": null
+    },
+    {
+      "title": "Man From Mars",
+      "id": null
+    },
+    {
+      "title": "Love Puts on a New Face",
+      "id": null
+    },
+    {
+      "title": "Lead Balloon",
+      "id": null
+    },
+    {
+      "title": "No Apologies",
+      "id": null
+    },
+    {
+      "title": "Taming the Tiger",
+      "id": null
+    },
+    {
+      "title": "The Crazy Cries of Love",
+      "id": null
+    },
+    {
+      "title": "Stay in Touch",
+      "id": null
+    },
+    {
+      "title": "Face Lift",
+      "id": null
+    },
+    {
+      "title": "My Best to You",
+      "id": null
+    },
+    {
+      "title": "Tiger Bones",
+      "id": null
+    }
+  ]
+}

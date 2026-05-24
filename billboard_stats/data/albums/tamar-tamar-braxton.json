@@ -1,1 +1,82 @@
-{"id": "tamar-tamar-braxton", "title": "Tamar", "artist": "Tamar Braxton", "peak": 127, "history": [{"date": "2000-04-08", "rank": 127}, {"date": "2000-04-15", "rank": 165}, {"date": "2000-04-22", "rank": 165}, {"date": "2000-04-29", "rank": 188}]}
+{
+  "id": "tamar-tamar-braxton",
+  "title": "Tamar",
+  "artist": "Tamar Braxton",
+  "peak": 127,
+  "history": [
+    {
+      "date": "2000-04-08",
+      "rank": 127
+    },
+    {
+      "date": "2000-04-15",
+      "rank": 165
+    },
+    {
+      "date": "2000-04-22",
+      "rank": 165
+    },
+    {
+      "date": "2000-04-29",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If You Don't Wanna Love Me",
+      "id": "if-you-don-t-wanna-love-me-tamar-braxton"
+    },
+    {
+      "title": "The Way It Should Be",
+      "id": "all-the-way-home-tamar-braxton"
+    },
+    {
+      "title": "Get None",
+      "id": null
+    },
+    {
+      "title": "Your Room",
+      "id": null
+    },
+    {
+      "title": "No Disrespect",
+      "id": null
+    },
+    {
+      "title": "Money Can't Buy You Love",
+      "id": null
+    },
+    {
+      "title": "Tonight",
+      "id": null
+    },
+    {
+      "title": "Once Again",
+      "id": null
+    },
+    {
+      "title": "You Don't Know",
+      "id": null
+    },
+    {
+      "title": "Can't Nobody",
+      "id": null
+    },
+    {
+      "title": "I'm Over You",
+      "id": null
+    },
+    {
+      "title": "Words",
+      "id": null
+    },
+    {
+      "title": "Miss Your Kiss",
+      "id": null
+    },
+    {
+      "title": "Get Mine",
+      "id": null
+    }
+  ]
+}
