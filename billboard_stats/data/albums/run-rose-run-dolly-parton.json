@@ -1,1 +1,66 @@
-{"id": "run-rose-run-dolly-parton", "title": "Run, Rose, Run", "artist": "Dolly Parton", "peak": 34, "history": [{"date": "2022-03-19", "rank": 34}, {"date": "2022-03-26", "rank": 132}]}
+{
+  "id": "run-rose-run-dolly-parton",
+  "title": "Run, Rose, Run",
+  "artist": "Dolly Parton",
+  "peak": 34,
+  "history": [
+    {
+      "date": "2022-03-19",
+      "rank": 34
+    },
+    {
+      "date": "2022-03-26",
+      "rank": 132
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Run",
+      "id": null
+    },
+    {
+      "title": "Big Dreams and Faded Jeans",
+      "id": null
+    },
+    {
+      "title": "Demons",
+      "id": null
+    },
+    {
+      "title": "Driven",
+      "id": null
+    },
+    {
+      "title": "Snakes in the Grass",
+      "id": null
+    },
+    {
+      "title": "Blue Bonnet Breeze",
+      "id": null
+    },
+    {
+      "title": "Woman Up (and Take It Like a Man)",
+      "id": null
+    },
+    {
+      "title": "Firecracker",
+      "id": null
+    },
+    {
+      "title": "Secrets",
+      "id": null
+    },
+    {
+      "title": "Lost and Found",
+      "id": null
+    },
+    {
+      "title": "Dark Night, Bright Future",
+      "id": null
+    },
+    {
+      "title": "Love or Lust",
+      "id": null
+    }
+  ]
+}
