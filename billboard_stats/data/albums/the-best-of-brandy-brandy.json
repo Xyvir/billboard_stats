@@ -1,1 +1,102 @@
-{"id": "the-best-of-brandy-brandy", "title": "The Best Of Brandy", "artist": "Brandy", "peak": 27, "history": [{"date": "2005-04-23", "rank": 27}, {"date": "2005-04-30", "rank": 56}, {"date": "2005-05-07", "rank": 105}, {"date": "2005-05-14", "rank": 148}, {"date": "2005-05-21", "rank": 184}]}
+{
+  "id": "the-best-of-brandy-brandy",
+  "title": "The Best Of Brandy",
+  "artist": "Brandy",
+  "peak": 27,
+  "history": [
+    {
+      "date": "2005-04-23",
+      "rank": 27
+    },
+    {
+      "date": "2005-04-30",
+      "rank": 56
+    },
+    {
+      "date": "2005-05-07",
+      "rank": 105
+    },
+    {
+      "date": "2005-05-14",
+      "rank": 148
+    },
+    {
+      "date": "2005-05-21",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Best Friend",
+      "id": "best-friend-brandy"
+    },
+    {
+      "title": "I Wanna Be Down",
+      "id": "i-wanna-be-down-brandy"
+    },
+    {
+      "title": "Brokenhearted (single version)",
+      "id": "brokenhearted-brandy"
+    },
+    {
+      "title": "Angel in Disguise",
+      "id": "angel-in-disguise-brandy"
+    },
+    {
+      "title": "Almost Doesn’t Count",
+      "id": "almost-doesn-t-count-brandy"
+    },
+    {
+      "title": "U Don’t Know Me (Like U Used to) (remix)",
+      "id": "u-don-t-know-me-like-u-used-to-brandy"
+    },
+    {
+      "title": "Have You Ever (radio edit)",
+      "id": "have-you-ever-brandy"
+    },
+    {
+      "title": "Full Moon",
+      "id": "full-moon-brandy"
+    },
+    {
+      "title": "What About Us?",
+      "id": "what-about-us-brandy"
+    },
+    {
+      "title": "Who Is She 2 U",
+      "id": "who-is-she-2-u-brandy"
+    },
+    {
+      "title": "Sittin’ Up in My Room",
+      "id": "sittin-up-in-my-room-from-waiting-to-exhale-brandy"
+    },
+    {
+      "title": "Baby (single version)",
+      "id": null
+    },
+    {
+      "title": "The Boy Is Mine (radio edit with intro)",
+      "id": null
+    },
+    {
+      "title": "Top of the World",
+      "id": null
+    },
+    {
+      "title": "Talk About Our Love",
+      "id": null
+    },
+    {
+      "title": "Another Day in Paradise",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be Down (The Human Rhythm Hip Hop remix)",
+      "id": null
+    },
+    {
+      "title": "The Boy Is Mine (remix)",
+      "id": null
+    }
+  ]
+}

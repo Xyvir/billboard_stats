@@ -1,1 +1,78 @@
-{"id": "the-best-of-creed", "title": "The Best Of", "artist": "Creed", "peak": 103, "history": [{"date": "2025-12-06", "rank": 103}, {"date": "2025-12-13", "rank": 165}, {"date": "2025-12-20", "rank": 163}, {"date": "2025-12-27", "rank": 156}, {"date": "2026-01-03", "rank": 166}]}
+{
+  "id": "the-best-of-creed",
+  "title": "The Best Of",
+  "artist": "Creed",
+  "peak": 103,
+  "history": [
+    {
+      "date": "2025-12-06",
+      "rank": 103
+    },
+    {
+      "date": "2025-12-13",
+      "rank": 165
+    },
+    {
+      "date": "2025-12-20",
+      "rank": 163
+    },
+    {
+      "date": "2025-12-27",
+      "rank": 156
+    },
+    {
+      "date": "2026-01-03",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One Last Breath - Remastered 2025",
+      "id": "one-last-breath-creed"
+    },
+    {
+      "title": "My Sacrifice - Remastered 2025",
+      "id": "my-sacrifice-creed"
+    },
+    {
+      "title": "Higher - Radio Edit / Remastered 2025",
+      "id": null
+    },
+    {
+      "title": "My Own Prison - Radio Edit / Remastered 2025",
+      "id": null
+    },
+    {
+      "title": "Overcome - Remastered 2025",
+      "id": null
+    },
+    {
+      "title": "What If - Radio Edit / Remastered 2025",
+      "id": null
+    },
+    {
+      "title": "With Arms Wide Open - Single Version / Remastered 2025",
+      "id": null
+    },
+    {
+      "title": "Torn - Radio Edit / Remastered 2025",
+      "id": null
+    },
+    {
+      "title": "Rain - Remastered 2025",
+      "id": null
+    },
+    {
+      "title": "What's This Life For - Remastered 2025",
+      "id": null
+    },
+    {
+      "title": "Hide - Remastered 2025",
+      "id": null
+    },
+    {
+      "title": "A Thousand Faces - Remastered 2025",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,142 @@
-{"id": "the-best-of-blondie-blondie", "title": "The Best Of Blondie", "artist": "Blondie", "peak": 30, "history": [{"date": "1981-10-31", "rank": 78}, {"date": "1981-11-07", "rank": 58}, {"date": "1981-11-14", "rank": 45}, {"date": "1981-11-21", "rank": 35}, {"date": "1981-11-28", "rank": 32}, {"date": "1981-12-05", "rank": 32}, {"date": "1981-12-12", "rank": 30}, {"date": "1981-12-19", "rank": 30}, {"date": "1981-12-26", "rank": 38}, {"date": "1982-01-02", "rank": 38}, {"date": "1982-01-09", "rank": 38}, {"date": "1982-01-16", "rank": 38}, {"date": "1982-01-23", "rank": 35}, {"date": "1982-01-30", "rank": 36}, {"date": "1982-02-06", "rank": 58}, {"date": "1982-02-13", "rank": 67}, {"date": "1982-02-20", "rank": 74}, {"date": "1982-02-27", "rank": 84}, {"date": "1982-03-06", "rank": 101}, {"date": "1982-03-13", "rank": 114}, {"date": "1982-03-20", "rank": 126}, {"date": "1982-03-27", "rank": 136}, {"date": "1982-04-03", "rank": 162}]}
+{
+  "id": "the-best-of-blondie-blondie",
+  "title": "The Best Of Blondie",
+  "artist": "Blondie",
+  "peak": 30,
+  "history": [
+    {
+      "date": "1981-10-31",
+      "rank": 78
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 58
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 45
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 35
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 32
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 32
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 30
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 30
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 38
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 38
+    },
+    {
+      "date": "1982-01-09",
+      "rank": 38
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 38
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 35
+    },
+    {
+      "date": "1982-01-30",
+      "rank": 36
+    },
+    {
+      "date": "1982-02-06",
+      "rank": 58
+    },
+    {
+      "date": "1982-02-13",
+      "rank": 67
+    },
+    {
+      "date": "1982-02-20",
+      "rank": 74
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 84
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 101
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 114
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 126
+    },
+    {
+      "date": "1982-03-27",
+      "rank": 136
+    },
+    {
+      "date": "1982-04-03",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Call Me",
+      "id": "call-me-blondie"
+    },
+    {
+      "title": "One Way or Another",
+      "id": "one-way-or-another-blondie"
+    },
+    {
+      "title": "Dreaming",
+      "id": "dreaming-blondie"
+    },
+    {
+      "title": "Heart of Glass",
+      "id": "heart-of-glass-blondie"
+    },
+    {
+      "title": "Rapture",
+      "id": "rapture-blondie"
+    },
+    {
+      "title": "The Tide Is High",
+      "id": "the-tide-is-high-blondie"
+    },
+    {
+      "title": "Island of Lost Souls",
+      "id": "island-of-lost-souls-blondie"
+    },
+    {
+      "title": "Atomic",
+      "id": "atomic-blondie"
+    },
+    {
+      "title": "Hanging on the Telephone",
+      "id": null
+    },
+    {
+      "title": "Denis",
+      "id": null
+    }
+  ]
+}

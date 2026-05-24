@@ -1,1 +1,74 @@
-{"id": "the-best-of-chuck-mangione-chuck-mangione", "title": "The Best Of Chuck Mangione", "artist": "Chuck Mangione", "peak": 105, "history": [{"date": "1978-09-16", "rank": 124}, {"date": "1978-09-23", "rank": 109}, {"date": "1978-09-30", "rank": 105}, {"date": "1978-10-07", "rank": 107}, {"date": "1978-10-14", "rank": 165}, {"date": "1978-10-21", "rank": 165}]}
+{
+  "id": "the-best-of-chuck-mangione-chuck-mangione",
+  "title": "The Best Of Chuck Mangione",
+  "artist": "Chuck Mangione",
+  "peak": 105,
+  "history": [
+    {
+      "date": "1978-09-16",
+      "rank": 124
+    },
+    {
+      "date": "1978-09-23",
+      "rank": 109
+    },
+    {
+      "date": "1978-09-30",
+      "rank": 105
+    },
+    {
+      "date": "1978-10-07",
+      "rank": 107
+    },
+    {
+      "date": "1978-10-14",
+      "rank": 165
+    },
+    {
+      "date": "1978-10-21",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Feels So Good",
+      "id": "feels-so-good-chuck-mangione"
+    },
+    {
+      "title": "Hill Where the Lord Hides",
+      "id": "hill-where-the-lord-hides-chuck-mangione"
+    },
+    {
+      "title": "Give It All You Got",
+      "id": "give-it-all-you-got-chuck-mangione"
+    },
+    {
+      "title": "Chase the Clouds Away",
+      "id": "chase-the-clouds-away-chuck-mangione"
+    },
+    {
+      "title": "Bellavia",
+      "id": null
+    },
+    {
+      "title": "Fun and Games",
+      "id": null
+    },
+    {
+      "title": "Children of Sanchez Theme",
+      "id": null
+    },
+    {
+      "title": "Land of Make Believe",
+      "id": null
+    },
+    {
+      "title": "Cannonball Run Theme",
+      "id": null
+    },
+    {
+      "title": "Doin’ Everything With You",
+      "id": null
+    }
+  ]
+}
