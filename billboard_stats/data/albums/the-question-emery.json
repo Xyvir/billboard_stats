@@ -1,1 +1,70 @@
-{"id": "the-question-emery", "title": "The Question", "artist": "Emery", "peak": 45, "history": [{"date": "2005-08-20", "rank": 45}, {"date": "2005-08-27", "rank": 121}, {"date": "2005-09-03", "rank": 153}]}
+{
+  "id": "the-question-emery",
+  "title": "The Question",
+  "artist": "Emery",
+  "peak": 45,
+  "history": [
+    {
+      "date": "2005-08-20",
+      "rank": 45
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 121
+    },
+    {
+      "date": "2005-09-03",
+      "rank": 153
+    }
+  ],
+  "tracks": [
+    {
+      "title": "So Cold I Could See My Breath",
+      "id": null
+    },
+    {
+      "title": "Playing With Fire",
+      "id": null
+    },
+    {
+      "title": "Returning the Smile You Have Had From the Start",
+      "id": null
+    },
+    {
+      "title": "Studying Politics",
+      "id": null
+    },
+    {
+      "title": "Left With Alibis and Lying Eyes",
+      "id": null
+    },
+    {
+      "title": "Listening to Freddie Mercury",
+      "id": null
+    },
+    {
+      "title": "The Weakest",
+      "id": null
+    },
+    {
+      "title": "Miss Behavin'",
+      "id": null
+    },
+    {
+      "title": "In Between 4th and 2nd Street",
+      "id": null
+    },
+    {
+      "title": "The Terrible Secret",
+      "id": null
+    },
+    {
+      "title": "In a Lose, Lose Situation",
+      "id": null
+    },
+    {
+      "title": "In a Win, Win Situation",
+      "id": null
+    }
+  ]
+}

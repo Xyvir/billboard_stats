@@ -1,1 +1,42 @@
-{"id": "the-purple-ep-down", "title": "The Purple EP", "artist": "Down", "peak": 35, "history": [{"date": "2012-10-06", "rank": 35}, {"date": "2012-10-13", "rank": 117}]}
+{
+  "id": "the-purple-ep-down",
+  "title": "The Purple EP",
+  "artist": "Down",
+  "peak": 35,
+  "history": [
+    {
+      "date": "2012-10-06",
+      "rank": 35
+    },
+    {
+      "date": "2012-10-13",
+      "rank": 117
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Levitation",
+      "id": null
+    },
+    {
+      "title": "Witchtripper",
+      "id": null
+    },
+    {
+      "title": "Open Coffins",
+      "id": null
+    },
+    {
+      "title": "The Curse Is a Lie",
+      "id": null
+    },
+    {
+      "title": "This Work Is Timeless",
+      "id": null
+    },
+    {
+      "title": "Misfortune Teller",
+      "id": null
+    }
+  ]
+}

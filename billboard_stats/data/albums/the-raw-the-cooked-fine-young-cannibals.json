@@ -1,1 +1,302 @@
-{"id": "the-raw-the-cooked-fine-young-cannibals", "title": "The Raw & The Cooked", "artist": "Fine Young Cannibals", "peak": 1, "history": [{"date": "1989-03-11", "rank": 61}, {"date": "1989-03-18", "rank": 32}, {"date": "1989-03-25", "rank": 16}, {"date": "1989-04-01", "rank": 10}, {"date": "1989-04-08", "rank": 8}, {"date": "1989-04-15", "rank": 6}, {"date": "1989-04-22", "rank": 5}, {"date": "1989-04-29", "rank": 6}, {"date": "1989-05-06", "rank": 4}, {"date": "1989-05-13", "rank": 4}, {"date": "1989-05-20", "rank": 3}, {"date": "1989-05-27", "rank": 2}, {"date": "1989-06-03", "rank": 1}, {"date": "1989-06-10", "rank": 1}, {"date": "1989-06-17", "rank": 1}, {"date": "1989-06-24", "rank": 1}, {"date": "1989-07-01", "rank": 1}, {"date": "1989-07-08", "rank": 1}, {"date": "1989-07-15", "rank": 1}, {"date": "1989-07-22", "rank": 2}, {"date": "1989-07-29", "rank": 2}, {"date": "1989-08-05", "rank": 2}, {"date": "1989-08-12", "rank": 4}, {"date": "1989-08-19", "rank": 6}, {"date": "1989-08-26", "rank": 7}, {"date": "1989-09-02", "rank": 8}, {"date": "1989-09-09", "rank": 10}, {"date": "1989-09-16", "rank": 11}, {"date": "1989-09-23", "rank": 7}, {"date": "1989-09-30", "rank": 9}, {"date": "1989-10-07", "rank": 10}, {"date": "1989-10-14", "rank": 12}, {"date": "1989-10-21", "rank": 13}, {"date": "1989-10-28", "rank": 13}, {"date": "1989-11-04", "rank": 14}, {"date": "1989-11-11", "rank": 17}, {"date": "1989-11-18", "rank": 21}, {"date": "1989-11-25", "rank": 22}, {"date": "1989-12-02", "rank": 28}, {"date": "1989-12-09", "rank": 31}, {"date": "1989-12-16", "rank": 34}, {"date": "1989-12-23", "rank": 44}, {"date": "1989-12-30", "rank": 47}, {"date": "1990-01-06", "rank": 47}, {"date": "1990-01-13", "rank": 48}, {"date": "1990-01-20", "rank": 55}, {"date": "1990-01-27", "rank": 56}, {"date": "1990-02-03", "rank": 59}, {"date": "1990-02-10", "rank": 74}, {"date": "1990-02-17", "rank": 68}, {"date": "1990-02-24", "rank": 70}, {"date": "1990-03-03", "rank": 69}, {"date": "1990-03-10", "rank": 57}, {"date": "1990-03-17", "rank": 53}, {"date": "1990-03-24", "rank": 56}, {"date": "1990-03-31", "rank": 60}, {"date": "1990-04-07", "rank": 86}, {"date": "1990-04-14", "rank": 122}, {"date": "1990-04-21", "rank": 132}, {"date": "1990-04-28", "rank": 157}, {"date": "1990-05-05", "rank": 152}, {"date": "1990-05-12", "rank": 138}, {"date": "1990-05-19", "rank": 177}]}
+{
+  "id": "the-raw-the-cooked-fine-young-cannibals",
+  "title": "The Raw & The Cooked",
+  "artist": "Fine Young Cannibals",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1989-03-11",
+      "rank": 61
+    },
+    {
+      "date": "1989-03-18",
+      "rank": 32
+    },
+    {
+      "date": "1989-03-25",
+      "rank": 16
+    },
+    {
+      "date": "1989-04-01",
+      "rank": 10
+    },
+    {
+      "date": "1989-04-08",
+      "rank": 8
+    },
+    {
+      "date": "1989-04-15",
+      "rank": 6
+    },
+    {
+      "date": "1989-04-22",
+      "rank": 5
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 6
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 4
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 4
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 3
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 2
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 1
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 1
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 1
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 1
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 1
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 1
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 1
+    },
+    {
+      "date": "1989-07-22",
+      "rank": 2
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 2
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 2
+    },
+    {
+      "date": "1989-08-12",
+      "rank": 4
+    },
+    {
+      "date": "1989-08-19",
+      "rank": 6
+    },
+    {
+      "date": "1989-08-26",
+      "rank": 7
+    },
+    {
+      "date": "1989-09-02",
+      "rank": 8
+    },
+    {
+      "date": "1989-09-09",
+      "rank": 10
+    },
+    {
+      "date": "1989-09-16",
+      "rank": 11
+    },
+    {
+      "date": "1989-09-23",
+      "rank": 7
+    },
+    {
+      "date": "1989-09-30",
+      "rank": 9
+    },
+    {
+      "date": "1989-10-07",
+      "rank": 10
+    },
+    {
+      "date": "1989-10-14",
+      "rank": 12
+    },
+    {
+      "date": "1989-10-21",
+      "rank": 13
+    },
+    {
+      "date": "1989-10-28",
+      "rank": 13
+    },
+    {
+      "date": "1989-11-04",
+      "rank": 14
+    },
+    {
+      "date": "1989-11-11",
+      "rank": 17
+    },
+    {
+      "date": "1989-11-18",
+      "rank": 21
+    },
+    {
+      "date": "1989-11-25",
+      "rank": 22
+    },
+    {
+      "date": "1989-12-02",
+      "rank": 28
+    },
+    {
+      "date": "1989-12-09",
+      "rank": 31
+    },
+    {
+      "date": "1989-12-16",
+      "rank": 34
+    },
+    {
+      "date": "1989-12-23",
+      "rank": 44
+    },
+    {
+      "date": "1989-12-30",
+      "rank": 47
+    },
+    {
+      "date": "1990-01-06",
+      "rank": 47
+    },
+    {
+      "date": "1990-01-13",
+      "rank": 48
+    },
+    {
+      "date": "1990-01-20",
+      "rank": 55
+    },
+    {
+      "date": "1990-01-27",
+      "rank": 56
+    },
+    {
+      "date": "1990-02-03",
+      "rank": 59
+    },
+    {
+      "date": "1990-02-10",
+      "rank": 74
+    },
+    {
+      "date": "1990-02-17",
+      "rank": 68
+    },
+    {
+      "date": "1990-02-24",
+      "rank": 70
+    },
+    {
+      "date": "1990-03-03",
+      "rank": 69
+    },
+    {
+      "date": "1990-03-10",
+      "rank": 57
+    },
+    {
+      "date": "1990-03-17",
+      "rank": 53
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 56
+    },
+    {
+      "date": "1990-03-31",
+      "rank": 60
+    },
+    {
+      "date": "1990-04-07",
+      "rank": 86
+    },
+    {
+      "date": "1990-04-14",
+      "rank": 122
+    },
+    {
+      "date": "1990-04-21",
+      "rank": 132
+    },
+    {
+      "date": "1990-04-28",
+      "rank": 157
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 152
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 138
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "She Drives Me Crazy",
+      "id": "she-drives-me-crazy-fine-young-cannibals"
+    },
+    {
+      "title": "Good Thing",
+      "id": "good-thing-fine-young-cannibals"
+    },
+    {
+      "title": "I’m Not the Man I Used to Be",
+      "id": "i-m-not-the-man-i-used-to-be-fine-young-cannibals"
+    },
+    {
+      "title": "I’m Not Satisfied",
+      "id": "i-m-not-satisfied-fine-young-cannibals"
+    },
+    {
+      "title": "Don’t Look Back",
+      "id": "don-t-look-back-fine-young-cannibals"
+    },
+    {
+      "title": "Tell Me What",
+      "id": null
+    },
+    {
+      "title": "It’s OK (It’s Alright)",
+      "id": null
+    },
+    {
+      "title": "Don’t Let It Get You Down",
+      "id": null
+    },
+    {
+      "title": "As Hard as It Is",
+      "id": null
+    },
+    {
+      "title": "Ever Fallen in Love",
+      "id": null
+    }
+  ]
+}

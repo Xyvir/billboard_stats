@@ -1,1 +1,38 @@
-{"id": "the-proud-one-the-osmonds", "title": "The Proud One", "artist": "The Osmonds", "peak": 160, "history": [{"date": "1975-08-30", "rank": 188}, {"date": "1975-09-06", "rank": 177}, {"date": "1975-09-13", "rank": 167}, {"date": "1975-09-20", "rank": 160}, {"date": "1975-09-27", "rank": 198}]}
+{
+  "id": "the-proud-one-the-osmonds",
+  "title": "The Proud One",
+  "artist": "The Osmonds",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1975-08-30",
+      "rank": 188
+    },
+    {
+      "date": "1975-09-06",
+      "rank": 177
+    },
+    {
+      "date": "1975-09-13",
+      "rank": 167
+    },
+    {
+      "date": "1975-09-20",
+      "rank": 160
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Proud One",
+      "id": "the-proud-one-the-osmonds"
+    },
+    {
+      "title": "The Last Day Is Coming",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "the-quintet-vsop", "title": "The Quintet", "artist": "Vsop", "peak": 123, "history": [{"date": "1977-11-12", "rank": 164}, {"date": "1977-11-19", "rank": 134}, {"date": "1977-11-26", "rank": 123}, {"date": "1977-12-03", "rank": 123}, {"date": "1977-12-10", "rank": 145}]}
+{
+  "id": "the-quintet-vsop",
+  "title": "The Quintet",
+  "artist": "Vsop",
+  "peak": 123,
+  "history": [
+    {
+      "date": "1977-11-12",
+      "rank": 164
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 134
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 123
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 123
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 145
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One of a Kind",
+      "id": null
+    },
+    {
+      "title": "Third Plane",
+      "id": null
+    },
+    {
+      "title": "Jessica",
+      "id": null
+    },
+    {
+      "title": "Lawra",
+      "id": null
+    },
+    {
+      "title": "Introduction of Players, Darts",
+      "id": null
+    },
+    {
+      "title": "Dolores",
+      "id": null
+    },
+    {
+      "title": "Little Waltz",
+      "id": null
+    },
+    {
+      "title": "Byrdlike",
+      "id": null
+    }
+  ]
+}
