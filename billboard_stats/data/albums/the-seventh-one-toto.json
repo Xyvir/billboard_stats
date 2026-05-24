@@ -1,1 +1,126 @@
-{"id": "the-seventh-one-toto", "title": "The Seventh One", "artist": "Toto", "peak": 64, "history": [{"date": "1988-03-19", "rank": 90}, {"date": "1988-03-26", "rank": 85}, {"date": "1988-04-02", "rank": 72}, {"date": "1988-04-09", "rank": 69}, {"date": "1988-04-16", "rank": 66}, {"date": "1988-04-23", "rank": 66}, {"date": "1988-04-30", "rank": 64}, {"date": "1988-05-07", "rank": 64}, {"date": "1988-05-14", "rank": 64}, {"date": "1988-05-21", "rank": 73}, {"date": "1988-05-28", "rank": 77}, {"date": "1988-06-04", "rank": 85}, {"date": "1988-06-11", "rank": 88}, {"date": "1988-06-18", "rank": 97}, {"date": "1988-06-25", "rank": 110}, {"date": "1988-07-02", "rank": 121}, {"date": "1988-07-09", "rank": 156}, {"date": "1988-07-16", "rank": 167}]}
+{
+  "id": "the-seventh-one-toto",
+  "title": "The Seventh One",
+  "artist": "Toto",
+  "peak": 64,
+  "history": [
+    {
+      "date": "1988-03-19",
+      "rank": 90
+    },
+    {
+      "date": "1988-03-26",
+      "rank": 85
+    },
+    {
+      "date": "1988-04-02",
+      "rank": 72
+    },
+    {
+      "date": "1988-04-09",
+      "rank": 69
+    },
+    {
+      "date": "1988-04-16",
+      "rank": 66
+    },
+    {
+      "date": "1988-04-23",
+      "rank": 66
+    },
+    {
+      "date": "1988-04-30",
+      "rank": 64
+    },
+    {
+      "date": "1988-05-07",
+      "rank": 64
+    },
+    {
+      "date": "1988-05-14",
+      "rank": 64
+    },
+    {
+      "date": "1988-05-21",
+      "rank": 73
+    },
+    {
+      "date": "1988-05-28",
+      "rank": 77
+    },
+    {
+      "date": "1988-06-04",
+      "rank": 85
+    },
+    {
+      "date": "1988-06-11",
+      "rank": 88
+    },
+    {
+      "date": "1988-06-18",
+      "rank": 97
+    },
+    {
+      "date": "1988-06-25",
+      "rank": 110
+    },
+    {
+      "date": "1988-07-02",
+      "rank": 121
+    },
+    {
+      "date": "1988-07-09",
+      "rank": 156
+    },
+    {
+      "date": "1988-07-16",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pamela",
+      "id": "pamela-toto"
+    },
+    {
+      "title": "Anna",
+      "id": "rosanna-toto"
+    },
+    {
+      "title": "Only the Children",
+      "id": "hold-the-line-toto"
+    },
+    {
+      "title": "You Got Me",
+      "id": null
+    },
+    {
+      "title": "Stop Loving You",
+      "id": null
+    },
+    {
+      "title": "Mushanga",
+      "id": null
+    },
+    {
+      "title": "Stay Away",
+      "id": null
+    },
+    {
+      "title": "Straight for the Heart",
+      "id": null
+    },
+    {
+      "title": "A Thousand Years",
+      "id": null
+    },
+    {
+      "title": "These Chains",
+      "id": null
+    },
+    {
+      "title": "Home of the Brave",
+      "id": null
+    }
+  ]
+}
