@@ -1,1 +1,70 @@
-{"id": "slice-five-for-fighting", "title": "Slice", "artist": "Five for Fighting", "peak": 34, "history": [{"date": "2009-10-31", "rank": 34}, {"date": "2009-11-07", "rank": 96}, {"date": "2009-11-14", "rank": 158}, {"date": "2009-11-21", "rank": 190}]}
+{
+  "id": "slice-five-for-fighting",
+  "title": "Slice",
+  "artist": "Five for Fighting",
+  "peak": 34,
+  "history": [
+    {
+      "date": "2009-10-31",
+      "rank": 34
+    },
+    {
+      "date": "2009-11-07",
+      "rank": 96
+    },
+    {
+      "date": "2009-11-14",
+      "rank": 158
+    },
+    {
+      "date": "2009-11-21",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Chances",
+      "id": "chances-five-for-fighting"
+    },
+    {
+      "title": "Slice",
+      "id": null
+    },
+    {
+      "title": "Note to the Unknown Soldier",
+      "id": null
+    },
+    {
+      "title": "Tuesday",
+      "id": null
+    },
+    {
+      "title": "This Dance",
+      "id": null
+    },
+    {
+      "title": "Above the Timberline",
+      "id": null
+    },
+    {
+      "title": "Transfer",
+      "id": null
+    },
+    {
+      "title": "Hope",
+      "id": null
+    },
+    {
+      "title": "Story of Your Life",
+      "id": null
+    },
+    {
+      "title": "Love Can’t Change the Weather",
+      "id": null
+    },
+    {
+      "title": "Augie Nieto",
+      "id": null
+    }
+  ]
+}

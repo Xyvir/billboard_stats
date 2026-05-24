@@ -1,1 +1,98 @@
-{"id": "slow-flux-steppenwolf", "title": "Slow Flux", "artist": "Steppenwolf", "peak": 47, "history": [{"date": "1974-09-21", "rank": 141}, {"date": "1974-09-28", "rank": 120}, {"date": "1974-10-05", "rank": 88}, {"date": "1974-10-12", "rank": 68}, {"date": "1974-10-19", "rank": 57}, {"date": "1974-10-26", "rank": 47}, {"date": "1974-11-02", "rank": 47}, {"date": "1974-11-09", "rank": 51}, {"date": "1974-11-16", "rank": 58}, {"date": "1974-11-23", "rank": 87}, {"date": "1974-11-30", "rank": 106}, {"date": "1974-12-07", "rank": 129}]}
+{
+  "id": "slow-flux-steppenwolf",
+  "title": "Slow Flux",
+  "artist": "Steppenwolf",
+  "peak": 47,
+  "history": [
+    {
+      "date": "1974-09-21",
+      "rank": 141
+    },
+    {
+      "date": "1974-09-28",
+      "rank": 120
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 88
+    },
+    {
+      "date": "1974-10-12",
+      "rank": 68
+    },
+    {
+      "date": "1974-10-19",
+      "rank": 57
+    },
+    {
+      "date": "1974-10-26",
+      "rank": 47
+    },
+    {
+      "date": "1974-11-02",
+      "rank": 47
+    },
+    {
+      "date": "1974-11-09",
+      "rank": 51
+    },
+    {
+      "date": "1974-11-16",
+      "rank": 58
+    },
+    {
+      "date": "1974-11-23",
+      "rank": 87
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 106
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 129
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Straight Shootin' Woman",
+      "id": "straight-shootin-woman-steppenwolf"
+    },
+    {
+      "title": "Get Into the Wind",
+      "id": null
+    },
+    {
+      "title": "Gang War Blues",
+      "id": null
+    },
+    {
+      "title": "Justice Don't Be Slow",
+      "id": null
+    },
+    {
+      "title": "Children of the Night",
+      "id": null
+    },
+    {
+      "title": "Jeraboah",
+      "id": null
+    },
+    {
+      "title": "Smokey Factory Blues",
+      "id": null
+    },
+    {
+      "title": "Morning Blue",
+      "id": null
+    },
+    {
+      "title": "A Fool’s Fantasy",
+      "id": null
+    },
+    {
+      "title": "Fishin’ in the Dark",
+      "id": null
+    }
+  ]
+}
