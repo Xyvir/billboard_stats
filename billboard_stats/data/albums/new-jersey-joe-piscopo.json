@@ -1,1 +1,66 @@
-{"id": "new-jersey-joe-piscopo", "title": "New Jersey", "artist": "Joe Piscopo", "peak": 168, "history": [{"date": "1985-07-27", "rank": 170}, {"date": "1985-08-03", "rank": 168}, {"date": "1985-08-10", "rank": 192}]}
+{
+  "id": "new-jersey-joe-piscopo",
+  "title": "New Jersey",
+  "artist": "Joe Piscopo",
+  "peak": 168,
+  "history": [
+    {
+      "date": "1985-07-27",
+      "rank": 170
+    },
+    {
+      "date": "1985-08-03",
+      "rank": 168
+    },
+    {
+      "date": "1985-08-10",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Nightclub",
+      "id": null
+    },
+    {
+      "title": "Honeymooners Rap",
+      "id": null
+    },
+    {
+      "title": "Biography",
+      "id": null
+    },
+    {
+      "title": "Candid Radio",
+      "id": null
+    },
+    {
+      "title": "MTV",
+      "id": null
+    },
+    {
+      "title": "New Jersey",
+      "id": null
+    },
+    {
+      "title": "Fat Boy",
+      "id": null
+    },
+    {
+      "title": "Good Morning America",
+      "id": null
+    },
+    {
+      "title": "Music Minus One",
+      "id": null
+    },
+    {
+      "title": "I Wanna Sound Like a Black Man",
+      "id": null
+    },
+    {
+      "title": "Late Night",
+      "id": null
+    }
+  ]
+}

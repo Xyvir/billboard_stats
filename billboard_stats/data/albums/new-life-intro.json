@@ -1,1 +1,62 @@
-{"id": "new-life-intro", "title": "New Life", "artist": "Intro", "peak": 86, "history": [{"date": "1995-11-18", "rank": 86}, {"date": "1995-11-25", "rank": 143}]}
+{
+  "id": "new-life-intro",
+  "title": "New Life",
+  "artist": "Intro",
+  "peak": 86,
+  "history": [
+    {
+      "date": "1995-11-18",
+      "rank": 86
+    },
+    {
+      "date": "1995-11-25",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Funny How Time Flies",
+      "id": "funny-how-time-flies-intro"
+    },
+    {
+      "title": "Strung Out on Your Lovin'",
+      "id": null
+    },
+    {
+      "title": "Love Me Better",
+      "id": null
+    },
+    {
+      "title": "Feels Like the First Time",
+      "id": null
+    },
+    {
+      "title": "My Love's on the Way",
+      "id": null
+    },
+    {
+      "title": "New Life",
+      "id": null
+    },
+    {
+      "title": "There Is a Way",
+      "id": null
+    },
+    {
+      "title": "Spending My Life With You",
+      "id": null
+    },
+    {
+      "title": "My Song",
+      "id": null
+    },
+    {
+      "title": "What You Won't Do for Love",
+      "id": null
+    },
+    {
+      "title": "Somebody Loves You",
+      "id": null
+    }
+  ]
+}

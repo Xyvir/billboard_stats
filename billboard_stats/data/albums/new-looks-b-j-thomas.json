@@ -1,1 +1,62 @@
-{"id": "new-looks-b-j-thomas", "title": "New Looks", "artist": "B.J. Thomas", "peak": 193, "history": [{"date": "1983-05-21", "rank": 199}, {"date": "1983-05-28", "rank": 197}, {"date": "1983-06-04", "rank": 193}]}
+{
+  "id": "new-looks-b-j-thomas",
+  "title": "New Looks",
+  "artist": "B.J. Thomas",
+  "peak": 193,
+  "history": [
+    {
+      "date": "1983-05-21",
+      "rank": 199
+    },
+    {
+      "date": "1983-05-28",
+      "rank": 197
+    },
+    {
+      "date": "1983-06-04",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Whatever Happened to Old Fashioned Love",
+      "id": "whatever-happened-to-old-fashioned-love-b-j-thomas"
+    },
+    {
+      "title": "New Looks From an Old Lover",
+      "id": null
+    },
+    {
+      "title": "The Wind Beneath My Wings",
+      "id": null
+    },
+    {
+      "title": "I'm Saving All the Good Times for You",
+      "id": null
+    },
+    {
+      "title": "Amour",
+      "id": null
+    },
+    {
+      "title": "You Keep the Man in Me Happy (And the Child in Me Alive)",
+      "id": null
+    },
+    {
+      "title": "Rock & Roll You're Beautiful",
+      "id": null
+    },
+    {
+      "title": "Memory Machine",
+      "id": null
+    },
+    {
+      "title": "I Love Us",
+      "id": null
+    },
+    {
+      "title": "I Just Sing",
+      "id": null
+    }
+  ]
+}
