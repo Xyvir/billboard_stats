@@ -1,1 +1,74 @@
-{"id": "street-sermons-morray", "title": "Street Sermons", "artist": "Morray", "peak": 41, "history": [{"date": "2021-05-15", "rank": 41}, {"date": "2021-05-22", "rank": 162}, {"date": "2021-05-29", "rank": 193}]}
+{
+  "id": "street-sermons-morray",
+  "title": "Street Sermons",
+  "artist": "Morray",
+  "peak": 41,
+  "history": [
+    {
+      "date": "2021-05-15",
+      "rank": 41
+    },
+    {
+      "date": "2021-05-22",
+      "rank": 162
+    },
+    {
+      "date": "2021-05-29",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Quicksand",
+      "id": "quicksand-morray"
+    },
+    {
+      "title": "Mistakes",
+      "id": null
+    },
+    {
+      "title": "Trenches",
+      "id": null
+    },
+    {
+      "title": "That’s On God",
+      "id": null
+    },
+    {
+      "title": "Nothing Now",
+      "id": null
+    },
+    {
+      "title": "Reflections",
+      "id": null
+    },
+    {
+      "title": "Big Decisions",
+      "id": null
+    },
+    {
+      "title": "Can’t Use Me",
+      "id": null
+    },
+    {
+      "title": "Kingdom",
+      "id": null
+    },
+    {
+      "title": "Switched Up",
+      "id": null
+    },
+    {
+      "title": "Facade",
+      "id": null
+    },
+    {
+      "title": "Real Ones",
+      "id": null
+    },
+    {
+      "title": "Bigger Things",
+      "id": null
+    }
+  ]
+}
