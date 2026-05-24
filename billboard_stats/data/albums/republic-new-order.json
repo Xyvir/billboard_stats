@@ -1,1 +1,118 @@
-{"id": "republic-new-order", "title": "Republic", "artist": "New Order", "peak": 11, "history": [{"date": "1993-05-29", "rank": 11}, {"date": "1993-06-05", "rank": 24}, {"date": "1993-06-12", "rank": 39}, {"date": "1993-06-19", "rank": 37}, {"date": "1993-06-26", "rank": 45}, {"date": "1993-07-03", "rank": 51}, {"date": "1993-07-10", "rank": 57}, {"date": "1993-07-17", "rank": 77}, {"date": "1993-07-24", "rank": 89}, {"date": "1993-07-31", "rank": 109}, {"date": "1993-08-07", "rank": 105}, {"date": "1993-08-14", "rank": 120}, {"date": "1993-08-21", "rank": 144}, {"date": "1993-08-28", "rank": 169}, {"date": "1993-09-04", "rank": 178}, {"date": "1993-09-11", "rank": 181}]}
+{
+  "id": "republic-new-order",
+  "title": "Republic",
+  "artist": "New Order",
+  "peak": 11,
+  "history": [
+    {
+      "date": "1993-05-29",
+      "rank": 11
+    },
+    {
+      "date": "1993-06-05",
+      "rank": 24
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 39
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 37
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 45
+    },
+    {
+      "date": "1993-07-03",
+      "rank": 51
+    },
+    {
+      "date": "1993-07-10",
+      "rank": 57
+    },
+    {
+      "date": "1993-07-17",
+      "rank": 77
+    },
+    {
+      "date": "1993-07-24",
+      "rank": 89
+    },
+    {
+      "date": "1993-07-31",
+      "rank": 109
+    },
+    {
+      "date": "1993-08-07",
+      "rank": 105
+    },
+    {
+      "date": "1993-08-14",
+      "rank": 120
+    },
+    {
+      "date": "1993-08-21",
+      "rank": 144
+    },
+    {
+      "date": "1993-08-28",
+      "rank": 169
+    },
+    {
+      "date": "1993-09-04",
+      "rank": 178
+    },
+    {
+      "date": "1993-09-11",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Regret",
+      "id": "regret-new-order"
+    },
+    {
+      "title": "World",
+      "id": null
+    },
+    {
+      "title": "Ruined in a Day",
+      "id": null
+    },
+    {
+      "title": "Spooky",
+      "id": null
+    },
+    {
+      "title": "Everyone Everywhere",
+      "id": null
+    },
+    {
+      "title": "Young Offender",
+      "id": null
+    },
+    {
+      "title": "Liar",
+      "id": null
+    },
+    {
+      "title": "Chemical",
+      "id": null
+    },
+    {
+      "title": "Times Change",
+      "id": null
+    },
+    {
+      "title": "Special",
+      "id": null
+    },
+    {
+      "title": "Avalanche",
+      "id": null
+    }
+  ]
+}

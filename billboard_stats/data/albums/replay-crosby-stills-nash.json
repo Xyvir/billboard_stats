@@ -1,1 +1,74 @@
-{"id": "replay-crosby-stills-nash", "title": "Replay", "artist": "Crosby, Stills & Nash", "peak": 122, "history": [{"date": "1981-01-10", "rank": 144}, {"date": "1981-01-17", "rank": 122}, {"date": "1981-01-24", "rank": 122}, {"date": "1981-01-31", "rank": 125}, {"date": "1981-02-07", "rank": 198}]}
+{
+  "id": "replay-crosby-stills-nash",
+  "title": "Replay",
+  "artist": "Crosby, Stills & Nash",
+  "peak": 122,
+  "history": [
+    {
+      "date": "1981-01-10",
+      "rank": 144
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 122
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 122
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 125
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Marrakesh Express",
+      "id": "marrakesh-express-crosby-stills-nash"
+    },
+    {
+      "title": "Just a Song Before I Go",
+      "id": "just-a-song-before-i-go-crosby-stills-nash"
+    },
+    {
+      "title": "Carry On",
+      "id": null
+    },
+    {
+      "title": "First Things First",
+      "id": null
+    },
+    {
+      "title": "Shadow Captain",
+      "id": null
+    },
+    {
+      "title": "To the Last Whale: Critical Mass / Wind on the Water",
+      "id": null
+    },
+    {
+      "title": "Love the One You’re With",
+      "id": null
+    },
+    {
+      "title": "Pre‐Road Downs",
+      "id": null
+    },
+    {
+      "title": "Change Partners",
+      "id": null
+    },
+    {
+      "title": "I Give You Give Blind",
+      "id": null
+    },
+    {
+      "title": "Cathedral",
+      "id": null
+    }
+  ]
+}

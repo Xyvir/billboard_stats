@@ -1,1 +1,62 @@
-{"id": "r-e-o-reo-speedwagon", "title": "R.E.O.", "artist": "REO Speedwagon", "peak": 159, "history": [{"date": "1976-06-19", "rank": 169}, {"date": "1976-06-26", "rank": 165}, {"date": "1976-07-03", "rank": 160}, {"date": "1976-07-10", "rank": 159}, {"date": "1976-07-17", "rank": 195}]}
+{
+  "id": "r-e-o-reo-speedwagon",
+  "title": "R.E.O.",
+  "artist": "REO Speedwagon",
+  "peak": 159,
+  "history": [
+    {
+      "date": "1976-06-19",
+      "rank": 169
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 165
+    },
+    {
+      "date": "1976-07-03",
+      "rank": 160
+    },
+    {
+      "date": "1976-07-10",
+      "rank": 159
+    },
+    {
+      "date": "1976-07-17",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Any Kind of Love",
+      "id": "that-ain-t-love-reo-speedwagon"
+    },
+    {
+      "title": "Tonight",
+      "id": "variety-tonight-reo-speedwagon"
+    },
+    {
+      "title": "Keep Pushin'",
+      "id": null
+    },
+    {
+      "title": "(Only A) Summer Love",
+      "id": null
+    },
+    {
+      "title": "(I Believe) Our Time Is Gonna Come",
+      "id": null
+    },
+    {
+      "title": "Breakaway",
+      "id": null
+    },
+    {
+      "title": "Flying Turkey Trot",
+      "id": null
+    },
+    {
+      "title": "Lightning",
+      "id": null
+    }
+  ]
+}
