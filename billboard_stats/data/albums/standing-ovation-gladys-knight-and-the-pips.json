@@ -1,1 +1,70 @@
-{"id": "standing-ovation-gladys-knight-and-the-pips", "title": "Standing Ovation", "artist": "Gladys Knight And The Pips", "peak": 107, "history": [{"date": "1972-05-20", "rank": 107}, {"date": "1972-05-27", "rank": 110}, {"date": "1972-06-03", "rank": 122}, {"date": "1972-06-10", "rank": 122}, {"date": "1972-06-17", "rank": 158}]}
+{
+  "id": "standing-ovation-gladys-knight-and-the-pips",
+  "title": "Standing Ovation",
+  "artist": "Gladys Knight And The Pips",
+  "peak": 107,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 107
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 110
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 122
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 122
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Make Me the Woman That You Go Home To",
+      "id": "make-me-the-woman-that-you-go-home-to-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Fire and Rain",
+      "id": "friendship-train-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Help Me Make It Through the Night",
+      "id": "help-me-make-it-through-the-night-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Can You Give Me Love With a Guarantee",
+      "id": null
+    },
+    {
+      "title": "Master of My Mind",
+      "id": null
+    },
+    {
+      "title": "Medley: He Ain't Heavy, He's My Brother / Bridge Over Troubled Water",
+      "id": null
+    },
+    {
+      "title": "It Takes a Whole Lotta Man for a Woman Like Me",
+      "id": null
+    },
+    {
+      "title": "The Long and Winding Road",
+      "id": null
+    },
+    {
+      "title": "If You Gonna Leave (Just Leave)",
+      "id": null
+    },
+    {
+      "title": "No One Could Love You More",
+      "id": null
+    }
+  ]
+}

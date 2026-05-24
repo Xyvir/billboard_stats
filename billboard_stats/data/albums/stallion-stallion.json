@@ -1,1 +1,86 @@
-{"id": "stallion-stallion", "title": "Stallion", "artist": "Stallion", "peak": 191, "history": [{"date": "1977-03-26", "rank": 199}, {"date": "1977-04-02", "rank": 197}, {"date": "1977-04-09", "rank": 195}, {"date": "1977-04-16", "rank": 192}, {"date": "1977-04-23", "rank": 191}, {"date": "1977-04-30", "rank": 197}, {"date": "1977-05-07", "rank": 198}, {"date": "1977-05-14", "rank": 200}, {"date": "1977-05-21", "rank": 200}]}
+{
+  "id": "stallion-stallion",
+  "title": "Stallion",
+  "artist": "Stallion",
+  "peak": 191,
+  "history": [
+    {
+      "date": "1977-03-26",
+      "rank": 199
+    },
+    {
+      "date": "1977-04-02",
+      "rank": 197
+    },
+    {
+      "date": "1977-04-09",
+      "rank": 195
+    },
+    {
+      "date": "1977-04-16",
+      "rank": 192
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 191
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 197
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 198
+    },
+    {
+      "date": "1977-05-14",
+      "rank": 200
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Old Fashioned Boy (You're the One)",
+      "id": "old-fashioned-boy-you-re-the-one-stallion"
+    },
+    {
+      "title": "Funny Thing",
+      "id": null
+    },
+    {
+      "title": "Someone Just Told Me",
+      "id": null
+    },
+    {
+      "title": "Glad That I Found You",
+      "id": null
+    },
+    {
+      "title": "Magic to the Music",
+      "id": null
+    },
+    {
+      "title": "Love Is a Game",
+      "id": null
+    },
+    {
+      "title": "Fancy Francie",
+      "id": null
+    },
+    {
+      "title": "Loving You",
+      "id": null
+    },
+    {
+      "title": "I Know How They Feel",
+      "id": null
+    },
+    {
+      "title": "Woman",
+      "id": null
+    }
+  ]
+}

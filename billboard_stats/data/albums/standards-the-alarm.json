@@ -1,1 +1,82 @@
-{"id": "standards-the-alarm", "title": "Standards", "artist": "The Alarm", "peak": 177, "history": [{"date": "1990-12-15", "rank": 177}, {"date": "1990-12-22", "rank": 181}, {"date": "1990-12-29", "rank": 181}]}
+{
+  "id": "standards-the-alarm",
+  "title": "Standards",
+  "artist": "The Alarm",
+  "peak": 177,
+  "history": [
+    {
+      "date": "1990-12-15",
+      "rank": 177
+    },
+    {
+      "date": "1990-12-22",
+      "rank": 181
+    },
+    {
+      "date": "1990-12-29",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Strength",
+      "id": "strength-the-alarm"
+    },
+    {
+      "title": "Rain in the Summertime",
+      "id": "rain-in-the-summertime-the-alarm"
+    },
+    {
+      "title": "Sold Me Down the River",
+      "id": "sold-me-down-the-river-the-alarm"
+    },
+    {
+      "title": "The Road",
+      "id": null
+    },
+    {
+      "title": "Unsafe Building",
+      "id": null
+    },
+    {
+      "title": "The Stand",
+      "id": null
+    },
+    {
+      "title": "Sixty Eight Guns (single version)",
+      "id": null
+    },
+    {
+      "title": "Where Were You Hiding When the Storm Broke?",
+      "id": null
+    },
+    {
+      "title": "Absolute Reality",
+      "id": null
+    },
+    {
+      "title": "Spirit of ’76",
+      "id": null
+    },
+    {
+      "title": "Rescue Me",
+      "id": null
+    },
+    {
+      "title": "Devolution Workin’ Man Blues",
+      "id": null
+    },
+    {
+      "title": "Happy Christmas (War Is Over)",
+      "id": null
+    },
+    {
+      "title": "Marching On",
+      "id": null
+    },
+    {
+      "title": "Blaze of Glory",
+      "id": null
+    }
+  ]
+}
