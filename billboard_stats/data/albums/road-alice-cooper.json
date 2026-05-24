@@ -1,1 +1,66 @@
-{"id": "road-alice-cooper", "title": "Road", "artist": "Alice Cooper", "peak": 160, "history": [{"date": "2023-09-09", "rank": 160}]}
+{
+  "id": "road-alice-cooper",
+  "title": "Road",
+  "artist": "Alice Cooper",
+  "peak": 160,
+  "history": [
+    {
+      "date": "2023-09-09",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Welcome to the Show",
+      "id": "welcome-to-my-nightmare-alice-cooper"
+    },
+    {
+      "title": "I’m Alice",
+      "id": null
+    },
+    {
+      "title": "All Over the World",
+      "id": null
+    },
+    {
+      "title": "Dead Don’t Dance",
+      "id": null
+    },
+    {
+      "title": "Go Away",
+      "id": null
+    },
+    {
+      "title": "White Line Frankenstein",
+      "id": null
+    },
+    {
+      "title": "Big Boots",
+      "id": null
+    },
+    {
+      "title": "Rules of the Road",
+      "id": null
+    },
+    {
+      "title": "The Big Goodbye",
+      "id": null
+    },
+    {
+      "title": "Road Rats Forever",
+      "id": null
+    },
+    {
+      "title": "Baby Please Don’t Go",
+      "id": null
+    },
+    {
+      "title": "100 More Miles",
+      "id": null
+    },
+    {
+      "title": "Magic Bus",
+      "id": null
+    }
+  ]
+}

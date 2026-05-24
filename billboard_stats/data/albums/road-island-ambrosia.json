@@ -1,1 +1,70 @@
-{"id": "road-island-ambrosia", "title": "Road Island", "artist": "Ambrosia", "peak": 115, "history": [{"date": "1982-05-29", "rank": 134}, {"date": "1982-06-05", "rank": 123}, {"date": "1982-06-12", "rank": 115}, {"date": "1982-06-19", "rank": 115}, {"date": "1982-06-26", "rank": 126}, {"date": "1982-07-03", "rank": 147}, {"date": "1982-07-10", "rank": 167}]}
+{
+  "id": "road-island-ambrosia",
+  "title": "Road Island",
+  "artist": "Ambrosia",
+  "peak": 115,
+  "history": [
+    {
+      "date": "1982-05-29",
+      "rank": 134
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 123
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 115
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 115
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 126
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 147
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "How Can You Love Me",
+      "id": "how-can-you-love-me-ambrosia"
+    },
+    {
+      "title": "For Openers (Welcome Home)",
+      "id": null
+    },
+    {
+      "title": "Still Not Satisfied",
+      "id": null
+    },
+    {
+      "title": "Kid No More",
+      "id": null
+    },
+    {
+      "title": "Feelin’ Alive Again",
+      "id": null
+    },
+    {
+      "title": "Fool Like Me",
+      "id": null
+    },
+    {
+      "title": "Ice Age",
+      "id": null
+    },
+    {
+      "title": "Endings",
+      "id": null
+    }
+  ]
+}

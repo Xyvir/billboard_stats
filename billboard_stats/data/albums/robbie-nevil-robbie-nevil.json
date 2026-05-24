@@ -1,1 +1,234 @@
-{"id": "robbie-nevil-robbie-nevil", "title": "Robbie Nevil", "artist": "Robbie Nevil", "peak": 37, "history": [{"date": "1986-11-29", "rank": 156}, {"date": "1986-12-06", "rank": 104}, {"date": "1986-12-13", "rank": 79}, {"date": "1986-12-20", "rank": 72}, {"date": "1986-12-27", "rank": 64}, {"date": "1987-01-03", "rank": 64}, {"date": "1987-01-10", "rank": 58}, {"date": "1987-01-17", "rank": 52}, {"date": "1987-01-24", "rank": 46}, {"date": "1987-01-31", "rank": 38}, {"date": "1987-02-07", "rank": 37}, {"date": "1987-02-14", "rank": 37}, {"date": "1987-02-21", "rank": 42}, {"date": "1987-02-28", "rank": 42}, {"date": "1987-03-07", "rank": 41}, {"date": "1987-03-14", "rank": 46}, {"date": "1987-03-21", "rank": 48}, {"date": "1987-03-28", "rank": 56}, {"date": "1987-04-04", "rank": 64}, {"date": "1987-04-11", "rank": 59}, {"date": "1987-04-18", "rank": 61}, {"date": "1987-04-25", "rank": 65}, {"date": "1987-05-02", "rank": 67}, {"date": "1987-05-09", "rank": 72}, {"date": "1987-05-16", "rank": 81}, {"date": "1987-05-23", "rank": 81}, {"date": "1987-05-30", "rank": 89}, {"date": "1987-06-06", "rank": 92}, {"date": "1987-06-13", "rank": 89}, {"date": "1987-06-20", "rank": 90}, {"date": "1987-06-27", "rank": 81}, {"date": "1987-07-04", "rank": 81}, {"date": "1987-07-11", "rank": 78}, {"date": "1987-07-18", "rank": 79}, {"date": "1987-07-25", "rank": 75}, {"date": "1987-08-01", "rank": 69}, {"date": "1987-08-08", "rank": 69}, {"date": "1987-08-15", "rank": 69}, {"date": "1987-08-22", "rank": 73}, {"date": "1987-08-29", "rank": 72}, {"date": "1987-09-05", "rank": 79}, {"date": "1987-09-12", "rank": 81}, {"date": "1987-09-19", "rank": 99}, {"date": "1987-09-26", "rank": 126}, {"date": "1987-10-03", "rank": 148}, {"date": "1987-10-10", "rank": 190}]}
+{
+  "id": "robbie-nevil-robbie-nevil",
+  "title": "Robbie Nevil",
+  "artist": "Robbie Nevil",
+  "peak": 37,
+  "history": [
+    {
+      "date": "1986-11-29",
+      "rank": 156
+    },
+    {
+      "date": "1986-12-06",
+      "rank": 104
+    },
+    {
+      "date": "1986-12-13",
+      "rank": 79
+    },
+    {
+      "date": "1986-12-20",
+      "rank": 72
+    },
+    {
+      "date": "1986-12-27",
+      "rank": 64
+    },
+    {
+      "date": "1987-01-03",
+      "rank": 64
+    },
+    {
+      "date": "1987-01-10",
+      "rank": 58
+    },
+    {
+      "date": "1987-01-17",
+      "rank": 52
+    },
+    {
+      "date": "1987-01-24",
+      "rank": 46
+    },
+    {
+      "date": "1987-01-31",
+      "rank": 38
+    },
+    {
+      "date": "1987-02-07",
+      "rank": 37
+    },
+    {
+      "date": "1987-02-14",
+      "rank": 37
+    },
+    {
+      "date": "1987-02-21",
+      "rank": 42
+    },
+    {
+      "date": "1987-02-28",
+      "rank": 42
+    },
+    {
+      "date": "1987-03-07",
+      "rank": 41
+    },
+    {
+      "date": "1987-03-14",
+      "rank": 46
+    },
+    {
+      "date": "1987-03-21",
+      "rank": 48
+    },
+    {
+      "date": "1987-03-28",
+      "rank": 56
+    },
+    {
+      "date": "1987-04-04",
+      "rank": 64
+    },
+    {
+      "date": "1987-04-11",
+      "rank": 59
+    },
+    {
+      "date": "1987-04-18",
+      "rank": 61
+    },
+    {
+      "date": "1987-04-25",
+      "rank": 65
+    },
+    {
+      "date": "1987-05-02",
+      "rank": 67
+    },
+    {
+      "date": "1987-05-09",
+      "rank": 72
+    },
+    {
+      "date": "1987-05-16",
+      "rank": 81
+    },
+    {
+      "date": "1987-05-23",
+      "rank": 81
+    },
+    {
+      "date": "1987-05-30",
+      "rank": 89
+    },
+    {
+      "date": "1987-06-06",
+      "rank": 92
+    },
+    {
+      "date": "1987-06-13",
+      "rank": 89
+    },
+    {
+      "date": "1987-06-20",
+      "rank": 90
+    },
+    {
+      "date": "1987-06-27",
+      "rank": 81
+    },
+    {
+      "date": "1987-07-04",
+      "rank": 81
+    },
+    {
+      "date": "1987-07-11",
+      "rank": 78
+    },
+    {
+      "date": "1987-07-18",
+      "rank": 79
+    },
+    {
+      "date": "1987-07-25",
+      "rank": 75
+    },
+    {
+      "date": "1987-08-01",
+      "rank": 69
+    },
+    {
+      "date": "1987-08-08",
+      "rank": 69
+    },
+    {
+      "date": "1987-08-15",
+      "rank": 69
+    },
+    {
+      "date": "1987-08-22",
+      "rank": 73
+    },
+    {
+      "date": "1987-08-29",
+      "rank": 72
+    },
+    {
+      "date": "1987-09-05",
+      "rank": 79
+    },
+    {
+      "date": "1987-09-12",
+      "rank": 81
+    },
+    {
+      "date": "1987-09-19",
+      "rank": 99
+    },
+    {
+      "date": "1987-09-26",
+      "rank": 126
+    },
+    {
+      "date": "1987-10-03",
+      "rank": 148
+    },
+    {
+      "date": "1987-10-10",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Just a Little Closer",
+      "id": "just-like-you-robbie-nevil"
+    },
+    {
+      "title": "Dominoes",
+      "id": "dominoes-robbie-nevil"
+    },
+    {
+      "title": "Back to You",
+      "id": "back-on-holiday-robbie-nevil"
+    },
+    {
+      "title": "C’est la Vie",
+      "id": "c-est-la-vie-robbie-nevil"
+    },
+    {
+      "title": "Wot’s It to Ya",
+      "id": "wot-s-it-to-ya-robbie-nevil"
+    },
+    {
+      "title": "Limousines",
+      "id": null
+    },
+    {
+      "title": "Walk Your Talk",
+      "id": null
+    },
+    {
+      "title": "Simple Life (Mambo Luv Thang)",
+      "id": null
+    },
+    {
+      "title": "Neighbors",
+      "id": null
+    },
+    {
+      "title": "Look Who’s Alone Tonight",
+      "id": null
+    }
+  ]
+}
