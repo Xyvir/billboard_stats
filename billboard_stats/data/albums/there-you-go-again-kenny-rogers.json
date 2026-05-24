@@ -1,1 +1,70 @@
-{"id": "there-you-go-again-kenny-rogers", "title": "There You Go Again", "artist": "Kenny Rogers", "peak": 121, "history": [{"date": "2000-10-21", "rank": 121}, {"date": "2000-10-28", "rank": 164}, {"date": "2000-11-04", "rank": 187}]}
+{
+  "id": "there-you-go-again-kenny-rogers",
+  "title": "There You Go Again",
+  "artist": "Kenny Rogers",
+  "peak": 121,
+  "history": [
+    {
+      "date": "2000-10-21",
+      "rank": 121
+    },
+    {
+      "date": "2000-10-28",
+      "rank": 164
+    },
+    {
+      "date": "2000-11-04",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Crazy Me",
+      "id": "crazy-kenny-rogers"
+    },
+    {
+      "title": "There You Go Again",
+      "id": null
+    },
+    {
+      "title": "He Will, She Knows",
+      "id": null
+    },
+    {
+      "title": "I Wish I Could Say That",
+      "id": null
+    },
+    {
+      "title": "Homeland",
+      "id": null
+    },
+    {
+      "title": "When We Made Love",
+      "id": null
+    },
+    {
+      "title": "Until Forever’s Gone",
+      "id": null
+    },
+    {
+      "title": "Blue Train",
+      "id": null
+    },
+    {
+      "title": "I Do It for Your Love",
+      "id": null
+    },
+    {
+      "title": "What That Means",
+      "id": null
+    },
+    {
+      "title": "I Won’t Forget",
+      "id": null
+    },
+    {
+      "title": "All That You Could Be",
+      "id": null
+    }
+  ]
+}
