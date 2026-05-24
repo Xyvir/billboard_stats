@@ -1,1 +1,54 @@
-{"id": "nasir-nas", "title": "Nasir", "artist": "Nas", "peak": 5, "history": [{"date": "2018-06-30", "rank": 5}, {"date": "2018-07-07", "rank": 36}, {"date": "2018-07-14", "rank": 94}, {"date": "2018-07-21", "rank": 175}]}
+{
+  "id": "nasir-nas",
+  "title": "Nasir",
+  "artist": "Nas",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2018-06-30",
+      "rank": 5
+    },
+    {
+      "date": "2018-07-07",
+      "rank": 36
+    },
+    {
+      "date": "2018-07-14",
+      "rank": 94
+    },
+    {
+      "date": "2018-07-21",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Not for Radio",
+      "id": null
+    },
+    {
+      "title": "Cops Shot the Kid",
+      "id": null
+    },
+    {
+      "title": "White Label",
+      "id": null
+    },
+    {
+      "title": "Bonjour",
+      "id": null
+    },
+    {
+      "title": "everything",
+      "id": null
+    },
+    {
+      "title": "Adam and Eve",
+      "id": null
+    },
+    {
+      "title": "Simple Things",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "name-is-love-bobby-vinton", "title": "Name Is Love", "artist": "Bobby Vinton", "peak": 183, "history": [{"date": "1977-06-11", "rank": 189}, {"date": "1977-06-18", "rank": 183}]}
+{
+  "id": "name-is-love-bobby-vinton",
+  "title": "Name Is Love",
+  "artist": "Bobby Vinton",
+  "peak": 183,
+  "history": [
+    {
+      "date": "1977-06-11",
+      "rank": 189
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Only Love Can Break a Heart",
+      "id": "only-love-can-break-a-heart-bobby-vinton"
+    },
+    {
+      "title": "You Are Love",
+      "id": "roses-are-red-my-love-bobby-vinton"
+    },
+    {
+      "title": "Baby, When It Comes to Loving You",
+      "id": "my-heart-belongs-to-only-you-bobby-vinton"
+    },
+    {
+      "title": "Where Were You All of My Life",
+      "id": "every-day-of-my-life-bobby-vinton"
+    },
+    {
+      "title": "Love Makes Everything Better",
+      "id": null
+    },
+    {
+      "title": "I Remember Loving You",
+      "id": null
+    },
+    {
+      "title": "Hold Me, Thrill Me, Kiss Me",
+      "id": null
+    },
+    {
+      "title": "Her Name Is Love",
+      "id": null
+    },
+    {
+      "title": "All My Todays",
+      "id": null
+    },
+    {
+      "title": "Once More With Feeling",
+      "id": null
+    },
+    {
+      "title": "Ain’t That Lovin’ You",
+      "id": null
+    }
+  ]
+}

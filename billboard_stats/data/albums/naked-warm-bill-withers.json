@@ -1,1 +1,58 @@
-{"id": "naked-warm-bill-withers", "title": "Naked & Warm", "artist": "Bill Withers", "peak": 169, "history": [{"date": "1976-11-06", "rank": 187}, {"date": "1976-11-13", "rank": 174}, {"date": "1976-11-20", "rank": 169}, {"date": "1976-11-27", "rank": 189}]}
+{
+  "id": "naked-warm-bill-withers",
+  "title": "Naked & Warm",
+  "artist": "Bill Withers",
+  "peak": 169,
+  "history": [
+    {
+      "date": "1976-11-06",
+      "rank": 187
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 174
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 169
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Close to Me",
+      "id": "lean-on-me-bill-withers"
+    },
+    {
+      "title": "Naked & Warm (Heaven! Oh! Heaven!)",
+      "id": null
+    },
+    {
+      "title": "Where You Are",
+      "id": null
+    },
+    {
+      "title": "Dreams",
+      "id": null
+    },
+    {
+      "title": "If I Didn’t Mean You Well",
+      "id": null
+    },
+    {
+      "title": "I’ll Be With You",
+      "id": null
+    },
+    {
+      "title": "City of the Angels",
+      "id": null
+    },
+    {
+      "title": "My Imagination",
+      "id": null
+    }
+  ]
+}
