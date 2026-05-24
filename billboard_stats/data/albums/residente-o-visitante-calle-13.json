@@ -1,1 +1,86 @@
-{"id": "residente-o-visitante-calle-13", "title": "Residente O Visitante", "artist": "Calle 13", "peak": 52, "history": [{"date": "2007-05-12", "rank": 52}, {"date": "2007-05-19", "rank": 114}, {"date": "2007-05-26", "rank": 160}, {"date": "2007-06-02", "rank": 169}]}
+{
+  "id": "residente-o-visitante-calle-13",
+  "title": "Residente O Visitante",
+  "artist": "Calle 13",
+  "peak": 52,
+  "history": [
+    {
+      "date": "2007-05-12",
+      "rank": 52
+    },
+    {
+      "date": "2007-05-19",
+      "rank": 114
+    },
+    {
+      "date": "2007-05-26",
+      "rank": 160
+    },
+    {
+      "date": "2007-06-02",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Tango del pecado",
+      "id": null
+    },
+    {
+      "title": "La fokin moda",
+      "id": null
+    },
+    {
+      "title": "Sin exagerar",
+      "id": null
+    },
+    {
+      "title": "Mala suerte con el 13",
+      "id": null
+    },
+    {
+      "title": "Llégale a mi guarida",
+      "id": null
+    },
+    {
+      "title": "Un beso de desayuno",
+      "id": null
+    },
+    {
+      "title": "Uiyi Guaye",
+      "id": null
+    },
+    {
+      "title": "Algo con-sentido",
+      "id": null
+    },
+    {
+      "title": "Pal norte",
+      "id": null
+    },
+    {
+      "title": "La cumbia de los aburridos",
+      "id": null
+    },
+    {
+      "title": "A limpiar el sucio",
+      "id": null
+    },
+    {
+      "title": "El avión se cae",
+      "id": null
+    },
+    {
+      "title": "La crema",
+      "id": null
+    },
+    {
+      "title": "La era de la copiaera",
+      "id": null
+    }
+  ]
+}

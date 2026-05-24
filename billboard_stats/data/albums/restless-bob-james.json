@@ -1,1 +1,58 @@
-{"id": "restless-bob-james", "title": "Restless", "artist": "Bob James", "peak": 168, "history": [{"date": "1994-03-26", "rank": 168}, {"date": "1994-04-02", "rank": 177}]}
+{
+  "id": "restless-bob-james",
+  "title": "Restless",
+  "artist": "Bob James",
+  "peak": 168,
+  "history": [
+    {
+      "date": "1994-03-26",
+      "rank": 168
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lotus Leaves",
+      "id": null
+    },
+    {
+      "title": "Under Me",
+      "id": null
+    },
+    {
+      "title": "Restless",
+      "id": null
+    },
+    {
+      "title": "Kissing Cross",
+      "id": null
+    },
+    {
+      "title": "Storm Warning",
+      "id": null
+    },
+    {
+      "title": "Animal Dreams",
+      "id": null
+    },
+    {
+      "title": "Back to Bali",
+      "id": null
+    },
+    {
+      "title": "Into the Light",
+      "id": null
+    },
+    {
+      "title": "Serenissima",
+      "id": null
+    },
+    {
+      "title": "Awaken Us to the Blue",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "restless-eyes-janis-ian", "title": "Restless Eyes", "artist": "Janis Ian", "peak": 156, "history": [{"date": "1981-07-04", "rank": 168}, {"date": "1981-07-11", "rank": 158}, {"date": "1981-07-18", "rank": 156}]}
+{
+  "id": "restless-eyes-janis-ian",
+  "title": "Restless Eyes",
+  "artist": "Janis Ian",
+  "peak": 156,
+  "history": [
+    {
+      "date": "1981-07-04",
+      "rank": 168
+    },
+    {
+      "date": "1981-07-11",
+      "rank": 158
+    },
+    {
+      "date": "1981-07-18",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Under the Covers",
+      "id": "under-the-covers-janis-ian"
+    },
+    {
+      "title": "I Remember Yesterday",
+      "id": null
+    },
+    {
+      "title": "I Believe I’m Myself Again",
+      "id": null
+    },
+    {
+      "title": "Restless Eyes",
+      "id": null
+    },
+    {
+      "title": "Get Ready to Roll",
+      "id": null
+    },
+    {
+      "title": "Passion Play",
+      "id": null
+    },
+    {
+      "title": "Down and Away",
+      "id": null
+    },
+    {
+      "title": "Bigger Than Real",
+      "id": null
+    },
+    {
+      "title": "Dear Billy",
+      "id": null
+    },
+    {
+      "title": "Sugar Mountain",
+      "id": null
+    }
+  ]
+}
