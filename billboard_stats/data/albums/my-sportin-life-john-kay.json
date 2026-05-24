@@ -1,1 +1,54 @@
-{"id": "my-sportin-life-john-kay", "title": "My Sportin' Life", "artist": "John Kay", "peak": 200, "history": [{"date": "1973-07-14", "rank": 200}, {"date": "1973-07-21", "rank": 200}]}
+{
+  "id": "my-sportin-life-john-kay",
+  "title": "My Sportin' Life",
+  "artist": "John Kay",
+  "peak": 200,
+  "history": [
+    {
+      "date": "1973-07-14",
+      "rank": 200
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Moonshine (Friend of Mine)",
+      "id": null
+    },
+    {
+      "title": "Nobody Lives Here Anymore",
+      "id": null
+    },
+    {
+      "title": "Drift Away",
+      "id": null
+    },
+    {
+      "title": "Heroes and Devils",
+      "id": null
+    },
+    {
+      "title": "My Sportin' Life",
+      "id": null
+    },
+    {
+      "title": "Easy Evil",
+      "id": null
+    },
+    {
+      "title": "Giles of the River",
+      "id": null
+    },
+    {
+      "title": "Dance to My Song",
+      "id": null
+    },
+    {
+      "title": "Sing With the Children",
+      "id": null
+    }
+  ]
+}

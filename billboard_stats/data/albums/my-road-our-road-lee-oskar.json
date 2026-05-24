@@ -1,1 +1,58 @@
-{"id": "my-road-our-road-lee-oskar", "title": "My Road Our Road", "artist": "Lee Oskar", "peak": 162, "history": [{"date": "1981-08-01", "rank": 190}, {"date": "1981-08-08", "rank": 172}, {"date": "1981-08-15", "rank": 172}, {"date": "1981-08-22", "rank": 172}, {"date": "1981-08-29", "rank": 162}, {"date": "1981-09-05", "rank": 162}]}
+{
+  "id": "my-road-our-road-lee-oskar",
+  "title": "My Road Our Road",
+  "artist": "Lee Oskar",
+  "peak": 162,
+  "history": [
+    {
+      "date": "1981-08-01",
+      "rank": 190
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 172
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 172
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 172
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 162
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Road",
+      "id": null
+    },
+    {
+      "title": "Our Road: Now That It Feels So Good / When We First Met / Love Affair / Come On, Come On / (Memories) My Road",
+      "id": null
+    },
+    {
+      "title": "Up All Night",
+      "id": null
+    },
+    {
+      "title": "Song for My Son",
+      "id": null
+    },
+    {
+      "title": "Children’s Song (You Can Find Your Way)",
+      "id": null
+    },
+    {
+      "title": "Yes I’m Singing",
+      "id": null
+    }
+  ]
+}

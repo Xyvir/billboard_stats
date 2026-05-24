@@ -1,1 +1,86 @@
-{"id": "my-songs-sting", "title": "My Songs", "artist": "Sting", "peak": 145, "history": [{"date": "2019-06-08", "rank": 145}]}
+{
+  "id": "my-songs-sting",
+  "title": "My Songs",
+  "artist": "Sting",
+  "peak": 145,
+  "history": [
+    {
+      "date": "2019-06-08",
+      "rank": 145
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If You Love Somebody Set Them Free",
+      "id": "if-you-love-somebody-set-them-free-sting"
+    },
+    {
+      "title": "Fields of Gold",
+      "id": "fields-of-gold-sting"
+    },
+    {
+      "title": "Englishman in New York",
+      "id": "englishman-in-new-york-sting"
+    },
+    {
+      "title": "If I Ever Lose My Faith in You",
+      "id": "if-i-ever-lose-my-faith-in-you-sting"
+    },
+    {
+      "title": "Brand New Day",
+      "id": null
+    },
+    {
+      "title": "Desert Rose",
+      "id": null
+    },
+    {
+      "title": "Every Breath You Take",
+      "id": null
+    },
+    {
+      "title": "Demolition Man",
+      "id": null
+    },
+    {
+      "title": "Can’t Stand Losing You",
+      "id": null
+    },
+    {
+      "title": "So Lonely",
+      "id": null
+    },
+    {
+      "title": "Shape of My Heart",
+      "id": null
+    },
+    {
+      "title": "Message in a Bottle",
+      "id": null
+    },
+    {
+      "title": "Fragile",
+      "id": null
+    },
+    {
+      "title": "Walking on the Moon",
+      "id": null
+    },
+    {
+      "title": "Roxanne",
+      "id": null
+    },
+    {
+      "title": "Synchronicity II",
+      "id": null
+    },
+    {
+      "title": "Next to You",
+      "id": null
+    },
+    {
+      "title": "Spirits in the Material World",
+      "id": null
+    }
+  ]
+}
