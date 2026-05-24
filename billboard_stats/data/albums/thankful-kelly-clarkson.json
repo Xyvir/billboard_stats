@@ -1,1 +1,258 @@
-{"id": "thankful-kelly-clarkson", "title": "Thankful", "artist": "Kelly Clarkson", "peak": 1, "history": [{"date": "2003-05-03", "rank": 1}, {"date": "2003-05-10", "rank": 3}, {"date": "2003-05-17", "rank": 3}, {"date": "2003-05-24", "rank": 9}, {"date": "2003-05-31", "rank": 7}, {"date": "2003-06-07", "rank": 3}, {"date": "2003-06-14", "rank": 4}, {"date": "2003-06-21", "rank": 10}, {"date": "2003-06-28", "rank": 13}, {"date": "2003-07-05", "rank": 10}, {"date": "2003-07-12", "rank": 12}, {"date": "2003-07-19", "rank": 11}, {"date": "2003-07-26", "rank": 13}, {"date": "2003-08-02", "rank": 15}, {"date": "2003-08-09", "rank": 24}, {"date": "2003-08-16", "rank": 22}, {"date": "2003-08-23", "rank": 29}, {"date": "2003-08-30", "rank": 32}, {"date": "2003-09-06", "rank": 46}, {"date": "2003-09-13", "rank": 47}, {"date": "2003-09-20", "rank": 44}, {"date": "2003-09-27", "rank": 51}, {"date": "2003-10-04", "rank": 61}, {"date": "2003-10-11", "rank": 71}, {"date": "2003-10-18", "rank": 86}, {"date": "2003-10-25", "rank": 92}, {"date": "2003-11-01", "rank": 93}, {"date": "2003-11-08", "rank": 108}, {"date": "2003-11-15", "rank": 105}, {"date": "2003-11-22", "rank": 122}, {"date": "2003-11-29", "rank": 128}, {"date": "2003-12-06", "rank": 133}, {"date": "2003-12-13", "rank": 88}, {"date": "2003-12-20", "rank": 88}, {"date": "2003-12-27", "rank": 92}, {"date": "2004-01-03", "rank": 101}, {"date": "2004-01-10", "rank": 116}, {"date": "2004-01-17", "rank": 133}, {"date": "2004-01-24", "rank": 160}, {"date": "2004-01-31", "rank": 166}, {"date": "2004-02-07", "rank": 149}, {"date": "2004-02-14", "rank": 150}, {"date": "2004-02-21", "rank": 143}, {"date": "2004-02-28", "rank": 162}, {"date": "2004-03-06", "rank": 159}, {"date": "2004-03-13", "rank": 183}, {"date": "2004-03-20", "rank": 186}, {"date": "2004-04-17", "rank": 197}, {"date": "2004-04-24", "rank": 186}, {"date": "2005-04-09", "rank": 195}]}
+{
+  "id": "thankful-kelly-clarkson",
+  "title": "Thankful",
+  "artist": "Kelly Clarkson",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2003-05-03",
+      "rank": 1
+    },
+    {
+      "date": "2003-05-10",
+      "rank": 3
+    },
+    {
+      "date": "2003-05-17",
+      "rank": 3
+    },
+    {
+      "date": "2003-05-24",
+      "rank": 9
+    },
+    {
+      "date": "2003-05-31",
+      "rank": 7
+    },
+    {
+      "date": "2003-06-07",
+      "rank": 3
+    },
+    {
+      "date": "2003-06-14",
+      "rank": 4
+    },
+    {
+      "date": "2003-06-21",
+      "rank": 10
+    },
+    {
+      "date": "2003-06-28",
+      "rank": 13
+    },
+    {
+      "date": "2003-07-05",
+      "rank": 10
+    },
+    {
+      "date": "2003-07-12",
+      "rank": 12
+    },
+    {
+      "date": "2003-07-19",
+      "rank": 11
+    },
+    {
+      "date": "2003-07-26",
+      "rank": 13
+    },
+    {
+      "date": "2003-08-02",
+      "rank": 15
+    },
+    {
+      "date": "2003-08-09",
+      "rank": 24
+    },
+    {
+      "date": "2003-08-16",
+      "rank": 22
+    },
+    {
+      "date": "2003-08-23",
+      "rank": 29
+    },
+    {
+      "date": "2003-08-30",
+      "rank": 32
+    },
+    {
+      "date": "2003-09-06",
+      "rank": 46
+    },
+    {
+      "date": "2003-09-13",
+      "rank": 47
+    },
+    {
+      "date": "2003-09-20",
+      "rank": 44
+    },
+    {
+      "date": "2003-09-27",
+      "rank": 51
+    },
+    {
+      "date": "2003-10-04",
+      "rank": 61
+    },
+    {
+      "date": "2003-10-11",
+      "rank": 71
+    },
+    {
+      "date": "2003-10-18",
+      "rank": 86
+    },
+    {
+      "date": "2003-10-25",
+      "rank": 92
+    },
+    {
+      "date": "2003-11-01",
+      "rank": 93
+    },
+    {
+      "date": "2003-11-08",
+      "rank": 108
+    },
+    {
+      "date": "2003-11-15",
+      "rank": 105
+    },
+    {
+      "date": "2003-11-22",
+      "rank": 122
+    },
+    {
+      "date": "2003-11-29",
+      "rank": 128
+    },
+    {
+      "date": "2003-12-06",
+      "rank": 133
+    },
+    {
+      "date": "2003-12-13",
+      "rank": 88
+    },
+    {
+      "date": "2003-12-20",
+      "rank": 88
+    },
+    {
+      "date": "2003-12-27",
+      "rank": 92
+    },
+    {
+      "date": "2004-01-03",
+      "rank": 101
+    },
+    {
+      "date": "2004-01-10",
+      "rank": 116
+    },
+    {
+      "date": "2004-01-17",
+      "rank": 133
+    },
+    {
+      "date": "2004-01-24",
+      "rank": 160
+    },
+    {
+      "date": "2004-01-31",
+      "rank": 166
+    },
+    {
+      "date": "2004-02-07",
+      "rank": 149
+    },
+    {
+      "date": "2004-02-14",
+      "rank": 150
+    },
+    {
+      "date": "2004-02-21",
+      "rank": 143
+    },
+    {
+      "date": "2004-02-28",
+      "rank": 162
+    },
+    {
+      "date": "2004-03-06",
+      "rank": 159
+    },
+    {
+      "date": "2004-03-13",
+      "rank": 183
+    },
+    {
+      "date": "2004-03-20",
+      "rank": 186
+    },
+    {
+      "date": "2004-04-17",
+      "rank": 197
+    },
+    {
+      "date": "2004-04-24",
+      "rank": 186
+    },
+    {
+      "date": "2005-04-09",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Miss Independent",
+      "id": "miss-independent-kelly-clarkson"
+    },
+    {
+      "title": "Low",
+      "id": "low-kelly-clarkson"
+    },
+    {
+      "title": "A Moment Like This (new mix)",
+      "id": "a-moment-like-this-kelly-clarkson"
+    },
+    {
+      "title": "The Trouble With Love Is",
+      "id": null
+    },
+    {
+      "title": "Some Kind of Miracle",
+      "id": null
+    },
+    {
+      "title": "What’s Up Lonely",
+      "id": null
+    },
+    {
+      "title": "Just Missed the Train",
+      "id": null
+    },
+    {
+      "title": "Beautiful Disaster",
+      "id": null
+    },
+    {
+      "title": "You Thought Wrong",
+      "id": null
+    },
+    {
+      "title": "Thankful",
+      "id": null
+    },
+    {
+      "title": "Anytime",
+      "id": null
+    },
+    {
+      "title": "Before Your Love (new mix)",
+      "id": null
+    }
+  ]
+}

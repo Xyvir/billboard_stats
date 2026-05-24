@@ -1,1 +1,62 @@
-{"id": "that-s-all-that-matters-to-me-mickey-gilley", "title": "That's All That Matters To Me", "artist": "Mickey Gilley", "peak": 177, "history": [{"date": "1980-08-30", "rank": 187}, {"date": "1980-09-06", "rank": 177}, {"date": "1980-09-13", "rank": 177}]}
+{
+  "id": "that-s-all-that-matters-to-me-mickey-gilley",
+  "title": "That's All That Matters To Me",
+  "artist": "Mickey Gilley",
+  "peak": 177,
+  "history": [
+    {
+      "date": "1980-08-30",
+      "rank": 187
+    },
+    {
+      "date": "1980-09-06",
+      "rank": 177
+    },
+    {
+      "date": "1980-09-13",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "True Love Ways",
+      "id": "true-love-ways-mickey-gilley"
+    },
+    {
+      "title": "The Blues Don't Care Who's Got 'em",
+      "id": null
+    },
+    {
+      "title": "The More I Turn the Bottle Up",
+      "id": null
+    },
+    {
+      "title": "Jukebox Argument",
+      "id": null
+    },
+    {
+      "title": "Million Dollar Memories",
+      "id": null
+    },
+    {
+      "title": "The Blame Lies With Me",
+      "id": null
+    },
+    {
+      "title": "That's All That Matters",
+      "id": null
+    },
+    {
+      "title": "Lyin' Again",
+      "id": null
+    },
+    {
+      "title": "So Easy to Begin",
+      "id": null
+    },
+    {
+      "title": "A Headache Tomorrow (Or a Heartache Tonight)",
+      "id": null
+    }
+  ]
+}
