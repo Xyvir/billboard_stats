@@ -1,1 +1,66 @@
-{"id": "no-refuge-eddie-schwartz", "title": "No Refuge", "artist": "Eddie Schwartz", "peak": 195, "history": [{"date": "1982-02-06", "rank": 198}, {"date": "1982-02-13", "rank": 198}, {"date": "1982-02-20", "rank": 196}, {"date": "1982-02-27", "rank": 195}, {"date": "1982-03-06", "rank": 195}, {"date": "1982-03-13", "rank": 197}]}
+{
+  "id": "no-refuge-eddie-schwartz",
+  "title": "No Refuge",
+  "artist": "Eddie Schwartz",
+  "peak": 195,
+  "history": [
+    {
+      "date": "1982-02-06",
+      "rank": 198
+    },
+    {
+      "date": "1982-02-13",
+      "rank": 198
+    },
+    {
+      "date": "1982-02-20",
+      "rank": 196
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 195
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 195
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Over the Line",
+      "id": "over-the-line-eddie-schwartz"
+    },
+    {
+      "title": "All Our Tomorrows",
+      "id": "all-our-tomorrows-eddie-schwartz"
+    },
+    {
+      "title": "No Refuge",
+      "id": null
+    },
+    {
+      "title": "Spirit of the Night",
+      "id": null
+    },
+    {
+      "title": "Tonight",
+      "id": null
+    },
+    {
+      "title": "Good With Your Love",
+      "id": null
+    },
+    {
+      "title": "Heart on Fire",
+      "id": null
+    },
+    {
+      "title": "Auction Block",
+      "id": null
+    }
+  ]
+}

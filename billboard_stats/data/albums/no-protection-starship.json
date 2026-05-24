@@ -1,1 +1,154 @@
-{"id": "no-protection-starship", "title": "No Protection", "artist": "Starship", "peak": 12, "history": [{"date": "1987-07-25", "rank": 79}, {"date": "1987-08-01", "rank": 16}, {"date": "1987-08-08", "rank": 14}, {"date": "1987-08-15", "rank": 12}, {"date": "1987-08-22", "rank": 16}, {"date": "1987-08-29", "rank": 17}, {"date": "1987-09-05", "rank": 20}, {"date": "1987-09-12", "rank": 20}, {"date": "1987-09-19", "rank": 23}, {"date": "1987-09-26", "rank": 31}, {"date": "1987-10-03", "rank": 44}, {"date": "1987-10-10", "rank": 51}, {"date": "1987-10-17", "rank": 56}, {"date": "1987-10-24", "rank": 75}, {"date": "1987-10-31", "rank": 76}, {"date": "1987-11-07", "rank": 84}, {"date": "1987-11-14", "rank": 99}, {"date": "1987-11-21", "rank": 123}, {"date": "1987-11-28", "rank": 126}, {"date": "1987-12-05", "rank": 151}, {"date": "1987-12-12", "rank": 163}, {"date": "1987-12-19", "rank": 181}, {"date": "1987-12-26", "rank": 186}, {"date": "1988-01-02", "rank": 186}, {"date": "1988-01-09", "rank": 190}]}
+{
+  "id": "no-protection-starship",
+  "title": "No Protection",
+  "artist": "Starship",
+  "peak": 12,
+  "history": [
+    {
+      "date": "1987-07-25",
+      "rank": 79
+    },
+    {
+      "date": "1987-08-01",
+      "rank": 16
+    },
+    {
+      "date": "1987-08-08",
+      "rank": 14
+    },
+    {
+      "date": "1987-08-15",
+      "rank": 12
+    },
+    {
+      "date": "1987-08-22",
+      "rank": 16
+    },
+    {
+      "date": "1987-08-29",
+      "rank": 17
+    },
+    {
+      "date": "1987-09-05",
+      "rank": 20
+    },
+    {
+      "date": "1987-09-12",
+      "rank": 20
+    },
+    {
+      "date": "1987-09-19",
+      "rank": 23
+    },
+    {
+      "date": "1987-09-26",
+      "rank": 31
+    },
+    {
+      "date": "1987-10-03",
+      "rank": 44
+    },
+    {
+      "date": "1987-10-10",
+      "rank": 51
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 56
+    },
+    {
+      "date": "1987-10-24",
+      "rank": 75
+    },
+    {
+      "date": "1987-10-31",
+      "rank": 76
+    },
+    {
+      "date": "1987-11-07",
+      "rank": 84
+    },
+    {
+      "date": "1987-11-14",
+      "rank": 99
+    },
+    {
+      "date": "1987-11-21",
+      "rank": 123
+    },
+    {
+      "date": "1987-11-28",
+      "rank": 126
+    },
+    {
+      "date": "1987-12-05",
+      "rank": 151
+    },
+    {
+      "date": "1987-12-12",
+      "rank": 163
+    },
+    {
+      "date": "1987-12-19",
+      "rank": 181
+    },
+    {
+      "date": "1987-12-26",
+      "rank": 186
+    },
+    {
+      "date": "1988-01-02",
+      "rank": 186
+    },
+    {
+      "date": "1988-01-09",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Beat Patrol",
+      "id": "beat-patrol-starship"
+    },
+    {
+      "title": "Nothing’s Gonna Stop Us Now",
+      "id": "nothing-s-gonna-stop-us-now-starship"
+    },
+    {
+      "title": "It’s Not Over (’Til It’s Over)",
+      "id": "it-s-not-over-til-it-s-over-starship"
+    },
+    {
+      "title": "Girls Like You",
+      "id": null
+    },
+    {
+      "title": "Wings of a Lie",
+      "id": null
+    },
+    {
+      "title": "The Children",
+      "id": null
+    },
+    {
+      "title": "I Don’t Know Why",
+      "id": null
+    },
+    {
+      "title": "Transatlantic",
+      "id": null
+    },
+    {
+      "title": "Say When",
+      "id": null
+    },
+    {
+      "title": "Babylon",
+      "id": null
+    },
+    {
+      "title": "Set the Night to Music",
+      "id": null
+    }
+  ]
+}
