@@ -1,1 +1,70 @@
-{"id": "please-please-me-the-beatles", "title": "Please Please Me", "artist": "The Beatles", "peak": 155, "history": [{"date": "2010-12-04", "rank": 155}]}
+{
+  "id": "please-please-me-the-beatles",
+  "title": "Please Please Me",
+  "artist": "The Beatles",
+  "peak": 155,
+  "history": [
+    {
+      "date": "2010-12-04",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Saw Her Standing There",
+      "id": "i-saw-her-standing-there-the-beatles"
+    },
+    {
+      "title": "Chains",
+      "id": "rain-the-beatles"
+    },
+    {
+      "title": "Please Please Me",
+      "id": "please-please-me-the-beatles"
+    },
+    {
+      "title": "Love Me Do",
+      "id": "love-me-do-the-beatles"
+    },
+    {
+      "title": "P.S. I Love You",
+      "id": "p-s-i-love-you-the-beatles"
+    },
+    {
+      "title": "Baby It’s You",
+      "id": "baby-it-s-you-the-beatles"
+    },
+    {
+      "title": "Do You Want to Know a Secret",
+      "id": "do-you-want-to-know-a-secret-the-beatles"
+    },
+    {
+      "title": "There’s a Place",
+      "id": "there-s-a-place-the-beatles"
+    },
+    {
+      "title": "Twist and Shout",
+      "id": "twist-and-shout-the-beatles"
+    },
+    {
+      "title": "Misery",
+      "id": null
+    },
+    {
+      "title": "Anna (Go to Him)",
+      "id": null
+    },
+    {
+      "title": "Boys",
+      "id": null
+    },
+    {
+      "title": "Ask Me Why",
+      "id": null
+    },
+    {
+      "title": "A Taste of Honey",
+      "id": null
+    }
+  ]
+}

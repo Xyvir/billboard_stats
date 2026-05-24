@@ -1,1 +1,134 @@
-{"id": "pleasure-ohio-players", "title": "Pleasure", "artist": "Ohio Players", "peak": 63, "history": [{"date": "1973-02-24", "rank": 175}, {"date": "1973-03-03", "rank": 161}, {"date": "1973-03-10", "rank": 150}, {"date": "1973-03-17", "rank": 135}, {"date": "1973-03-24", "rank": 118}, {"date": "1973-03-31", "rank": 106}, {"date": "1973-04-07", "rank": 102}, {"date": "1973-04-14", "rank": 99}, {"date": "1973-04-21", "rank": 84}, {"date": "1973-04-28", "rank": 76}, {"date": "1973-05-05", "rank": 68}, {"date": "1973-05-12", "rank": 65}, {"date": "1973-05-19", "rank": 63}, {"date": "1973-05-26", "rank": 69}, {"date": "1973-06-02", "rank": 86}, {"date": "1973-06-09", "rank": 117}, {"date": "1973-06-16", "rank": 112}, {"date": "1973-06-23", "rank": 113}, {"date": "1973-06-30", "rank": 114}, {"date": "1973-07-07", "rank": 125}, {"date": "1973-07-14", "rank": 141}, {"date": "1973-07-21", "rank": 154}]}
+{
+  "id": "pleasure-ohio-players",
+  "title": "Pleasure",
+  "artist": "Ohio Players",
+  "peak": 63,
+  "history": [
+    {
+      "date": "1973-02-24",
+      "rank": 175
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 161
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 150
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 135
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 118
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 106
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 102
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 99
+    },
+    {
+      "date": "1973-04-21",
+      "rank": 84
+    },
+    {
+      "date": "1973-04-28",
+      "rank": 76
+    },
+    {
+      "date": "1973-05-05",
+      "rank": 68
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 65
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 63
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 69
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 86
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 117
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 112
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 113
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 114
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 125
+    },
+    {
+      "date": "1973-07-14",
+      "rank": 141
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Paint Me",
+      "id": "pain-part-i-ohio-players"
+    },
+    {
+      "title": "Funky Worm",
+      "id": "funky-worm-ohio-players"
+    },
+    {
+      "title": "Pleasure",
+      "id": null
+    },
+    {
+      "title": "Laid It",
+      "id": null
+    },
+    {
+      "title": "Pride and Vanity",
+      "id": null
+    },
+    {
+      "title": "Walt’s First Trip",
+      "id": null
+    },
+    {
+      "title": "Varee Is Love",
+      "id": null
+    },
+    {
+      "title": "Walked Away From You",
+      "id": null
+    },
+    {
+      "title": "Our Love Has Died",
+      "id": null
+    }
+  ]
+}
