@@ -1,1 +1,286 @@
-{"id": "nathaniel-rateliff-the-night-sweats-nathaniel-rateliff-the-night-sweats", "title": "Nathaniel Rateliff & The Night Sweats", "artist": "Nathaniel Rateliff & The Night Sweats", "peak": 17, "history": [{"date": "2015-09-12", "rank": 17}, {"date": "2015-09-19", "rank": 41}, {"date": "2015-09-26", "rank": 45}, {"date": "2015-10-03", "rank": 56}, {"date": "2015-10-10", "rank": 64}, {"date": "2015-10-17", "rank": 69}, {"date": "2015-10-24", "rank": 62}, {"date": "2015-10-31", "rank": 49}, {"date": "2015-11-07", "rank": 60}, {"date": "2015-11-14", "rank": 56}, {"date": "2015-11-21", "rank": 79}, {"date": "2015-11-28", "rank": 63}, {"date": "2015-12-05", "rank": 61}, {"date": "2015-12-12", "rank": 69}, {"date": "2015-12-19", "rank": 84}, {"date": "2015-12-26", "rank": 102}, {"date": "2016-01-02", "rank": 83}, {"date": "2016-01-09", "rank": 83}, {"date": "2016-01-16", "rank": 87}, {"date": "2016-01-23", "rank": 66}, {"date": "2016-01-30", "rank": 73}, {"date": "2016-02-06", "rank": 97}, {"date": "2016-02-13", "rank": 87}, {"date": "2016-02-20", "rank": 92}, {"date": "2016-02-27", "rank": 41}, {"date": "2016-03-05", "rank": 69}, {"date": "2016-03-12", "rank": 89}, {"date": "2016-03-19", "rank": 87}, {"date": "2016-03-26", "rank": 106}, {"date": "2016-04-02", "rank": 115}, {"date": "2016-04-09", "rank": 127}, {"date": "2016-04-16", "rank": 121}, {"date": "2016-04-23", "rank": 121}, {"date": "2016-04-30", "rank": 126}, {"date": "2016-05-07", "rank": 132}, {"date": "2016-05-14", "rank": 129}, {"date": "2016-05-21", "rank": 148}, {"date": "2016-05-28", "rank": 148}, {"date": "2016-06-04", "rank": 183}, {"date": "2016-06-11", "rank": 170}, {"date": "2016-06-18", "rank": 153}, {"date": "2016-06-25", "rank": 144}, {"date": "2016-07-02", "rank": 136}, {"date": "2016-07-09", "rank": 146}, {"date": "2016-07-16", "rank": 167}, {"date": "2016-07-23", "rank": 188}, {"date": "2016-07-30", "rank": 180}, {"date": "2016-08-06", "rank": 192}, {"date": "2016-08-13", "rank": 172}, {"date": "2016-08-20", "rank": 174}]}
+{
+  "id": "nathaniel-rateliff-the-night-sweats-nathaniel-rateliff-the-night-sweats",
+  "title": "Nathaniel Rateliff & The Night Sweats",
+  "artist": "Nathaniel Rateliff & The Night Sweats",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2015-09-12",
+      "rank": 17
+    },
+    {
+      "date": "2015-09-19",
+      "rank": 41
+    },
+    {
+      "date": "2015-09-26",
+      "rank": 45
+    },
+    {
+      "date": "2015-10-03",
+      "rank": 56
+    },
+    {
+      "date": "2015-10-10",
+      "rank": 64
+    },
+    {
+      "date": "2015-10-17",
+      "rank": 69
+    },
+    {
+      "date": "2015-10-24",
+      "rank": 62
+    },
+    {
+      "date": "2015-10-31",
+      "rank": 49
+    },
+    {
+      "date": "2015-11-07",
+      "rank": 60
+    },
+    {
+      "date": "2015-11-14",
+      "rank": 56
+    },
+    {
+      "date": "2015-11-21",
+      "rank": 79
+    },
+    {
+      "date": "2015-11-28",
+      "rank": 63
+    },
+    {
+      "date": "2015-12-05",
+      "rank": 61
+    },
+    {
+      "date": "2015-12-12",
+      "rank": 69
+    },
+    {
+      "date": "2015-12-19",
+      "rank": 84
+    },
+    {
+      "date": "2015-12-26",
+      "rank": 102
+    },
+    {
+      "date": "2016-01-02",
+      "rank": 83
+    },
+    {
+      "date": "2016-01-09",
+      "rank": 83
+    },
+    {
+      "date": "2016-01-16",
+      "rank": 87
+    },
+    {
+      "date": "2016-01-23",
+      "rank": 66
+    },
+    {
+      "date": "2016-01-30",
+      "rank": 73
+    },
+    {
+      "date": "2016-02-06",
+      "rank": 97
+    },
+    {
+      "date": "2016-02-13",
+      "rank": 87
+    },
+    {
+      "date": "2016-02-20",
+      "rank": 92
+    },
+    {
+      "date": "2016-02-27",
+      "rank": 41
+    },
+    {
+      "date": "2016-03-05",
+      "rank": 69
+    },
+    {
+      "date": "2016-03-12",
+      "rank": 89
+    },
+    {
+      "date": "2016-03-19",
+      "rank": 87
+    },
+    {
+      "date": "2016-03-26",
+      "rank": 106
+    },
+    {
+      "date": "2016-04-02",
+      "rank": 115
+    },
+    {
+      "date": "2016-04-09",
+      "rank": 127
+    },
+    {
+      "date": "2016-04-16",
+      "rank": 121
+    },
+    {
+      "date": "2016-04-23",
+      "rank": 121
+    },
+    {
+      "date": "2016-04-30",
+      "rank": 126
+    },
+    {
+      "date": "2016-05-07",
+      "rank": 132
+    },
+    {
+      "date": "2016-05-14",
+      "rank": 129
+    },
+    {
+      "date": "2016-05-21",
+      "rank": 148
+    },
+    {
+      "date": "2016-05-28",
+      "rank": 148
+    },
+    {
+      "date": "2016-06-04",
+      "rank": 183
+    },
+    {
+      "date": "2016-06-11",
+      "rank": 170
+    },
+    {
+      "date": "2016-06-18",
+      "rank": 153
+    },
+    {
+      "date": "2016-06-25",
+      "rank": 144
+    },
+    {
+      "date": "2016-07-02",
+      "rank": 136
+    },
+    {
+      "date": "2016-07-09",
+      "rank": 146
+    },
+    {
+      "date": "2016-07-16",
+      "rank": 167
+    },
+    {
+      "date": "2016-07-23",
+      "rank": 188
+    },
+    {
+      "date": "2016-07-30",
+      "rank": 180
+    },
+    {
+      "date": "2016-08-06",
+      "rank": 192
+    },
+    {
+      "date": "2016-08-13",
+      "rank": 172
+    },
+    {
+      "date": "2016-08-20",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Need Never Get Old",
+      "id": null
+    },
+    {
+      "title": "Howling at Nothing",
+      "id": null
+    },
+    {
+      "title": "Trying So Hard Not to Know",
+      "id": null
+    },
+    {
+      "title": "I’ve Been Failing",
+      "id": null
+    },
+    {
+      "title": "S.O.B.",
+      "id": null
+    },
+    {
+      "title": "Wasting Time",
+      "id": null
+    },
+    {
+      "title": "Thank You",
+      "id": null
+    },
+    {
+      "title": "Look It Here",
+      "id": null
+    },
+    {
+      "title": "Shake",
+      "id": null
+    },
+    {
+      "title": "I’d Be Waiting",
+      "id": null
+    },
+    {
+      "title": "Mellow Out",
+      "id": null
+    },
+    {
+      "title": "Parlor",
+      "id": null
+    },
+    {
+      "title": "I Did It",
+      "id": null
+    },
+    {
+      "title": "Out On the Weekend (version 2)",
+      "id": null
+    },
+    {
+      "title": "Wasting Time (live)",
+      "id": null
+    },
+    {
+      "title": "What I Need",
+      "id": null
+    },
+    {
+      "title": "Just to Talk to You",
+      "id": null
+    },
+    {
+      "title": "How to Make Friends",
+      "id": null
+    },
+    {
+      "title": "Late Night Party (Out On the Weekend Version 1)",
+      "id": null
+    }
+  ]
+}

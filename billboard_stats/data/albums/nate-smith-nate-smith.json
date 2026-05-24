@@ -1,1 +1,178 @@
-{"id": "nate-smith-nate-smith", "title": "Nate Smith", "artist": "Nate Smith", "peak": 30, "history": [{"date": "2023-05-13", "rank": 30}, {"date": "2023-05-20", "rank": 77}, {"date": "2023-05-27", "rank": 105}, {"date": "2023-06-03", "rank": 98}, {"date": "2023-06-10", "rank": 102}, {"date": "2023-06-17", "rank": 154}, {"date": "2023-06-24", "rank": 162}, {"date": "2023-07-01", "rank": 179}, {"date": "2023-07-08", "rank": 144}, {"date": "2023-07-15", "rank": 143}, {"date": "2023-07-22", "rank": 162}, {"date": "2023-07-29", "rank": 169}, {"date": "2023-08-05", "rank": 162}, {"date": "2023-08-12", "rank": 145}, {"date": "2023-08-19", "rank": 173}, {"date": "2023-08-26", "rank": 166}, {"date": "2023-09-02", "rank": 186}, {"date": "2023-09-16", "rank": 200}, {"date": "2023-11-18", "rank": 182}, {"date": "2024-01-13", "rank": 161}, {"date": "2024-01-20", "rank": 148}, {"date": "2024-01-27", "rank": 173}]}
+{
+  "id": "nate-smith-nate-smith",
+  "title": "Nate Smith",
+  "artist": "Nate Smith",
+  "peak": 30,
+  "history": [
+    {
+      "date": "2023-05-13",
+      "rank": 30
+    },
+    {
+      "date": "2023-05-20",
+      "rank": 77
+    },
+    {
+      "date": "2023-05-27",
+      "rank": 105
+    },
+    {
+      "date": "2023-06-03",
+      "rank": 98
+    },
+    {
+      "date": "2023-06-10",
+      "rank": 102
+    },
+    {
+      "date": "2023-06-17",
+      "rank": 154
+    },
+    {
+      "date": "2023-06-24",
+      "rank": 162
+    },
+    {
+      "date": "2023-07-01",
+      "rank": 179
+    },
+    {
+      "date": "2023-07-08",
+      "rank": 144
+    },
+    {
+      "date": "2023-07-15",
+      "rank": 143
+    },
+    {
+      "date": "2023-07-22",
+      "rank": 162
+    },
+    {
+      "date": "2023-07-29",
+      "rank": 169
+    },
+    {
+      "date": "2023-08-05",
+      "rank": 162
+    },
+    {
+      "date": "2023-08-12",
+      "rank": 145
+    },
+    {
+      "date": "2023-08-19",
+      "rank": 173
+    },
+    {
+      "date": "2023-08-26",
+      "rank": 166
+    },
+    {
+      "date": "2023-09-02",
+      "rank": 186
+    },
+    {
+      "date": "2023-09-16",
+      "rank": 200
+    },
+    {
+      "date": "2023-11-18",
+      "rank": 182
+    },
+    {
+      "date": "2024-01-13",
+      "rank": 161
+    },
+    {
+      "date": "2024-01-20",
+      "rank": 148
+    },
+    {
+      "date": "2024-01-27",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wreckage",
+      "id": "wreckage-nate-smith"
+    },
+    {
+      "title": "Whiskey on You",
+      "id": "whiskey-on-you-nate-smith"
+    },
+    {
+      "title": "I Found You",
+      "id": "whiskey-on-you-nate-smith"
+    },
+    {
+      "title": "If I Could Stop Loving You",
+      "id": null
+    },
+    {
+      "title": "Alright, Alright, Alright",
+      "id": null
+    },
+    {
+      "title": "One Good Girl",
+      "id": null
+    },
+    {
+      "title": "Back at It Again",
+      "id": null
+    },
+    {
+      "title": "You Ain’t Been in Love",
+      "id": null
+    },
+    {
+      "title": "Better Boy",
+      "id": null
+    },
+    {
+      "title": "You Only Want Me When You’re Drunk",
+      "id": null
+    },
+    {
+      "title": "Bad Memory",
+      "id": null
+    },
+    {
+      "title": "Oil Spot",
+      "id": null
+    },
+    {
+      "title": "LFG",
+      "id": null
+    },
+    {
+      "title": "You Shouldn’t Have To",
+      "id": null
+    },
+    {
+      "title": "Sleeve",
+      "id": null
+    },
+    {
+      "title": "Backseat",
+      "id": null
+    },
+    {
+      "title": "Name Storms After",
+      "id": null
+    },
+    {
+      "title": "Raised Up",
+      "id": null
+    },
+    {
+      "title": "Under My Skin",
+      "id": null
+    },
+    {
+      "title": "I Don’t Wanna Go to Heaven",
+      "id": null
+    }
+  ]
+}

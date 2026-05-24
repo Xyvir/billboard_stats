@@ -1,1 +1,106 @@
-{"id": "natalie-natalie", "title": "Natalie", "artist": "Natalie", "peak": 16, "history": [{"date": "2005-06-04", "rank": 16}, {"date": "2005-06-11", "rank": 41}, {"date": "2005-06-18", "rank": 46}, {"date": "2005-06-25", "rank": 74}, {"date": "2005-07-02", "rank": 89}, {"date": "2005-07-09", "rank": 102}, {"date": "2005-07-16", "rank": 112}, {"date": "2005-07-23", "rank": 125}, {"date": "2005-07-30", "rank": 140}, {"date": "2005-08-06", "rank": 159}, {"date": "2005-08-13", "rank": 192}]}
+{
+  "id": "natalie-natalie",
+  "title": "Natalie",
+  "artist": "Natalie",
+  "peak": 16,
+  "history": [
+    {
+      "date": "2005-06-04",
+      "rank": 16
+    },
+    {
+      "date": "2005-06-11",
+      "rank": 41
+    },
+    {
+      "date": "2005-06-18",
+      "rank": 46
+    },
+    {
+      "date": "2005-06-25",
+      "rank": 74
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 89
+    },
+    {
+      "date": "2005-07-09",
+      "rank": 102
+    },
+    {
+      "date": "2005-07-16",
+      "rank": 112
+    },
+    {
+      "date": "2005-07-23",
+      "rank": 125
+    },
+    {
+      "date": "2005-07-30",
+      "rank": 140
+    },
+    {
+      "date": "2005-08-06",
+      "rank": 159
+    },
+    {
+      "date": "2005-08-13",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Goin’ Crazy",
+      "id": "goin-crazy-natalie"
+    },
+    {
+      "title": "Goin' Crazy (Urban remix)",
+      "id": "goin-crazy-natalie"
+    },
+    {
+      "title": "Energy",
+      "id": null
+    },
+    {
+      "title": "Better Get It Right",
+      "id": null
+    },
+    {
+      "title": "Ooh",
+      "id": null
+    },
+    {
+      "title": "You Don't Love Me No More",
+      "id": null
+    },
+    {
+      "title": "I Can't Wait",
+      "id": null
+    },
+    {
+      "title": "Stay",
+      "id": null
+    },
+    {
+      "title": "Something About You",
+      "id": null
+    },
+    {
+      "title": "You're the One",
+      "id": null
+    },
+    {
+      "title": "Emptiness",
+      "id": null
+    },
+    {
+      "title": "Where Are You",
+      "id": null
+    },
+    {
+      "title": "Me Faltas Tu",
+      "id": null
+    }
+  ]
+}
