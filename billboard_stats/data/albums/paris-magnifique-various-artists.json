@@ -1,1 +1,74 @@
-{"id": "paris-magnifique-various-artists", "title": "Paris Magnifique", "artist": "Various Artists", "peak": 60, "history": [{"date": "2009-02-21", "rank": 60}, {"date": "2009-02-28", "rank": 106}, {"date": "2009-03-07", "rank": 194}]}
+{
+  "id": "paris-magnifique-various-artists",
+  "title": "Paris Magnifique",
+  "artist": "Various Artists",
+  "peak": 60,
+  "history": [
+    {
+      "date": "2009-02-21",
+      "rank": 60
+    },
+    {
+      "date": "2009-02-28",
+      "rank": 106
+    },
+    {
+      "date": "2009-03-07",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Couleur café",
+      "id": null
+    },
+    {
+      "title": "Tout doucement",
+      "id": null
+    },
+    {
+      "title": "Jardin d’hiver",
+      "id": null
+    },
+    {
+      "title": "Comment te dire adieu",
+      "id": null
+    },
+    {
+      "title": "Paris",
+      "id": null
+    },
+    {
+      "title": "Heart of Glass",
+      "id": null
+    },
+    {
+      "title": "Ta douleur",
+      "id": null
+    },
+    {
+      "title": "Quel temps fait-il à Paris",
+      "id": null
+    },
+    {
+      "title": "C’est l’amour",
+      "id": null
+    },
+    {
+      "title": "Je t’aime tant",
+      "id": null
+    },
+    {
+      "title": "Mais pourtant",
+      "id": null
+    },
+    {
+      "title": "L’Anamour",
+      "id": null
+    },
+    {
+      "title": "Les Champs‐Élysées",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"id": "paris-paris-hilton", "title": "Paris", "artist": "Paris Hilton", "peak": 6, "history": [{"date": "2006-09-09", "rank": 6}, {"date": "2006-09-16", "rank": 33}, {"date": "2006-09-23", "rank": 49}, {"date": "2006-09-30", "rank": 102}, {"date": "2006-10-07", "rank": 152}, {"date": "2006-10-14", "rank": 180}]}
+{
+  "id": "paris-paris-hilton",
+  "title": "Paris",
+  "artist": "Paris Hilton",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2006-09-09",
+      "rank": 6
+    },
+    {
+      "date": "2006-09-16",
+      "rank": 33
+    },
+    {
+      "date": "2006-09-23",
+      "rank": 49
+    },
+    {
+      "date": "2006-09-30",
+      "rank": 102
+    },
+    {
+      "date": "2006-10-07",
+      "rank": 152
+    },
+    {
+      "date": "2006-10-14",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stars Are Blind",
+      "id": "stars-are-blind-paris-hilton"
+    },
+    {
+      "title": "Turn It Up",
+      "id": null
+    },
+    {
+      "title": "Fightin’ Over Me",
+      "id": null
+    },
+    {
+      "title": "I Want You",
+      "id": null
+    },
+    {
+      "title": "Jealousy",
+      "id": null
+    },
+    {
+      "title": "Heartbeat",
+      "id": null
+    },
+    {
+      "title": "Nothing in This World",
+      "id": null
+    },
+    {
+      "title": "Screwed",
+      "id": null
+    },
+    {
+      "title": "Not Leaving Without You (Album Version)",
+      "id": null
+    },
+    {
+      "title": "Turn You On",
+      "id": null
+    },
+    {
+      "title": "Do Ya Think I’m Sexy",
+      "id": null
+    }
+  ]
+}

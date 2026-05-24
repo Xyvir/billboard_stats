@@ -1,1 +1,58 @@
-{"id": "paris-1967-jimi-hendrix-experience", "title": "Paris 1967", "artist": "Jimi Hendrix Experience", "peak": 117, "history": [{"date": "2021-12-11", "rank": 117}]}
+{
+  "id": "paris-1967-jimi-hendrix-experience",
+  "title": "Paris 1967",
+  "artist": "Jimi Hendrix Experience",
+  "peak": 117,
+  "history": [
+    {
+      "date": "2021-12-11",
+      "rank": 117
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Purple Haze",
+      "id": "purple-haze-the-jimi-hendrix-experience"
+    },
+    {
+      "title": "Stone Free",
+      "id": null
+    },
+    {
+      "title": "Hey Joe",
+      "id": null
+    },
+    {
+      "title": "Fire",
+      "id": null
+    },
+    {
+      "title": "Rock Me Baby",
+      "id": null
+    },
+    {
+      "title": "Red House",
+      "id": null
+    },
+    {
+      "title": "Wild Thing",
+      "id": null
+    },
+    {
+      "title": "Killing Floor",
+      "id": null
+    },
+    {
+      "title": "Catfish Blues",
+      "id": null
+    },
+    {
+      "title": "Dear Mr. Fantasy, Part One",
+      "id": null
+    },
+    {
+      "title": "Dear Mr. Fantasy, Part Two",
+      "id": null
+    }
+  ]
+}

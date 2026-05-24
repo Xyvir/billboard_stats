@@ -1,1 +1,82 @@
-{"id": "paranoid-black-sabbath", "title": "Paranoid", "artist": "Black Sabbath", "peak": 27, "history": [{"date": "1975-10-11", "rank": 177}, {"date": "1975-10-18", "rank": 171}, {"date": "1975-10-25", "rank": 168}, {"date": "1975-11-01", "rank": 174}, {"date": "1975-11-08", "rank": 193}, {"date": "2014-02-01", "rank": 121}, {"date": "2014-02-22", "rank": 135}, {"date": "2014-03-15", "rank": 184}, {"date": "2014-03-22", "rank": 134}, {"date": "2014-03-29", "rank": 148}, {"date": "2016-02-13", "rank": 129}, {"date": "2025-08-02", "rank": 37}, {"date": "2025-08-09", "rank": 27}, {"date": "2025-08-16", "rank": 90}, {"date": "2025-08-23", "rank": 91}, {"date": "2025-08-30", "rank": 165}]}
+{
+  "id": "paranoid-black-sabbath",
+  "title": "Paranoid",
+  "artist": "Black Sabbath",
+  "peak": 27,
+  "history": [
+    {
+      "date": "1975-10-11",
+      "rank": 177
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 171
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 168
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 174
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 193
+    },
+    {
+      "date": "2014-02-01",
+      "rank": 121
+    },
+    {
+      "date": "2014-02-22",
+      "rank": 135
+    },
+    {
+      "date": "2014-03-15",
+      "rank": 184
+    },
+    {
+      "date": "2014-03-22",
+      "rank": 134
+    },
+    {
+      "date": "2014-03-29",
+      "rank": 148
+    },
+    {
+      "date": "2016-02-13",
+      "rank": 129
+    },
+    {
+      "date": "2025-08-02",
+      "rank": 37
+    },
+    {
+      "date": "2025-08-09",
+      "rank": 27
+    },
+    {
+      "date": "2025-08-16",
+      "rank": 90
+    },
+    {
+      "date": "2025-08-23",
+      "rank": 91
+    },
+    {
+      "date": "2025-08-30",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Paranoid",
+      "id": "paranoid-black-sabbath"
+    },
+    {
+      "title": "Snowblind",
+      "id": null
+    }
+  ]
+}

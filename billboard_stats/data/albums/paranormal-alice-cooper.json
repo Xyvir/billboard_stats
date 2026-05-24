@@ -1,1 +1,18 @@
-{"id": "paranormal-alice-cooper", "title": "Paranormal", "artist": "Alice Cooper", "peak": 32, "history": [{"date": "2017-08-19", "rank": 32}]}
+{
+  "id": "paranormal-alice-cooper",
+  "title": "Paranormal",
+  "artist": "Alice Cooper",
+  "peak": 32,
+  "history": [
+    {
+      "date": "2017-08-19",
+      "rank": 32
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Paranormal",
+      "id": null
+    }
+  ]
+}

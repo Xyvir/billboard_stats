@@ -1,1 +1,66 @@
-{"id": "paris-the-cure", "title": "Paris", "artist": "The Cure", "peak": 118, "history": [{"date": "1993-11-13", "rank": 118}, {"date": "1993-11-20", "rank": 157}]}
+{
+  "id": "paris-the-cure",
+  "title": "Paris",
+  "artist": "The Cure",
+  "peak": 118,
+  "history": [
+    {
+      "date": "1993-11-13",
+      "rank": 118
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 157
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lovesong",
+      "id": "love-song-the-cure"
+    },
+    {
+      "title": "Close to Me",
+      "id": "close-to-me-the-cure"
+    },
+    {
+      "title": "The Figurehead",
+      "id": null
+    },
+    {
+      "title": "One Hundred Years",
+      "id": null
+    },
+    {
+      "title": "At Night",
+      "id": null
+    },
+    {
+      "title": "Play for Today",
+      "id": null
+    },
+    {
+      "title": "Apart",
+      "id": null
+    },
+    {
+      "title": "In Your House",
+      "id": null
+    },
+    {
+      "title": "Catch",
+      "id": null
+    },
+    {
+      "title": "A Letter to Elise",
+      "id": null
+    },
+    {
+      "title": "Dressing Up",
+      "id": null
+    },
+    {
+      "title": "Charlotte Sometimes",
+      "id": null
+    }
+  ]
+}

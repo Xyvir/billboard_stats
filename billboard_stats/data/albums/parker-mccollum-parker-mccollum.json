@@ -1,1 +1,74 @@
-{"id": "parker-mccollum-parker-mccollum", "title": "Parker McCollum", "artist": "Parker McCollum", "peak": 35, "history": [{"date": "2025-07-12", "rank": 35}, {"date": "2026-04-04", "rank": 196}]}
+{
+  "id": "parker-mccollum-parker-mccollum",
+  "title": "Parker McCollum",
+  "artist": "Parker McCollum",
+  "peak": 35,
+  "history": [
+    {
+      "date": "2025-07-12",
+      "rank": 35
+    },
+    {
+      "date": "2026-04-04",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What Kinda Man",
+      "id": "what-kinda-man-parker-mccollum"
+    },
+    {
+      "title": "My Blue",
+      "id": null
+    },
+    {
+      "title": "Big Sky",
+      "id": null
+    },
+    {
+      "title": "Solid Country Gold",
+      "id": null
+    },
+    {
+      "title": "Watch Me Bleed",
+      "id": null
+    },
+    {
+      "title": "Killin’ Me",
+      "id": null
+    },
+    {
+      "title": "Good Time Charlie’s Got the Blues",
+      "id": null
+    },
+    {
+      "title": "Sunny Days",
+      "id": null
+    },
+    {
+      "title": "Permanent Headphones",
+      "id": null
+    },
+    {
+      "title": "New York Is on Fire",
+      "id": null
+    },
+    {
+      "title": "Come On",
+      "id": null
+    },
+    {
+      "title": "Hope That I’m Enough",
+      "id": null
+    },
+    {
+      "title": "Enough Rope",
+      "id": null
+    },
+    {
+      "title": "My Worst Enemy",
+      "id": null
+    }
+  ]
+}
