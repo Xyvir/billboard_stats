@@ -1,1 +1,58 @@
-{"id": "music-maximus-the-main-ingredient", "title": "Music Maximus", "artist": "The Main Ingredient", "peak": 177, "history": [{"date": "1977-03-05", "rank": 190}, {"date": "1977-03-12", "rank": 178}, {"date": "1977-03-19", "rank": 177}]}
+{
+  "id": "music-maximus-the-main-ingredient",
+  "title": "Music Maximus",
+  "artist": "The Main Ingredient",
+  "peak": 177,
+  "history": [
+    {
+      "date": "1977-03-05",
+      "rank": 190
+    },
+    {
+      "date": "1977-03-12",
+      "rank": 178
+    },
+    {
+      "date": "1977-03-19",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Laughing Song",
+      "id": null
+    },
+    {
+      "title": "I Gotta Know You",
+      "id": null
+    },
+    {
+      "title": "Instant Love",
+      "id": null
+    },
+    {
+      "title": "Car of Love",
+      "id": null
+    },
+    {
+      "title": "Can't Get Ready (For Losing You)",
+      "id": null
+    },
+    {
+      "title": "Comes the Night",
+      "id": null
+    },
+    {
+      "title": "Who You Really Are",
+      "id": null
+    },
+    {
+      "title": "Half a Chance",
+      "id": null
+    },
+    {
+      "title": "Many Women in My Life",
+      "id": null
+    }
+  ]
+}
