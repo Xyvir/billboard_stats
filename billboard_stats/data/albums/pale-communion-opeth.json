@@ -1,1 +1,54 @@
-{"id": "pale-communion-opeth", "title": "Pale Communion", "artist": "Opeth", "peak": 19, "history": [{"date": "2014-09-13", "rank": 19}, {"date": "2014-09-20", "rank": 69}, {"date": "2014-09-27", "rank": 122}]}
+{
+  "id": "pale-communion-opeth",
+  "title": "Pale Communion",
+  "artist": "Opeth",
+  "peak": 19,
+  "history": [
+    {
+      "date": "2014-09-13",
+      "rank": 19
+    },
+    {
+      "date": "2014-09-20",
+      "rank": 69
+    },
+    {
+      "date": "2014-09-27",
+      "rank": 122
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Eternal Rains Will Come",
+      "id": null
+    },
+    {
+      "title": "Cusp of Eternity",
+      "id": null
+    },
+    {
+      "title": "Moon Above, Sun Below",
+      "id": null
+    },
+    {
+      "title": "Elysian Woes",
+      "id": null
+    },
+    {
+      "title": "Goblin",
+      "id": null
+    },
+    {
+      "title": "River",
+      "id": null
+    },
+    {
+      "title": "Voice of Treason",
+      "id": null
+    },
+    {
+      "title": "Faith in Others",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,290 @@
-{"id": "pain-is-love-ja-rule", "title": "Pain Is Love", "artist": "Ja Rule", "peak": 1, "history": [{"date": "2001-10-20", "rank": 1}, {"date": "2001-10-27", "rank": 1}, {"date": "2001-11-03", "rank": 3}, {"date": "2001-11-10", "rank": 5}, {"date": "2001-11-17", "rank": 8}, {"date": "2001-11-24", "rank": 10}, {"date": "2001-12-01", "rank": 13}, {"date": "2001-12-08", "rank": 17}, {"date": "2001-12-15", "rank": 19}, {"date": "2001-12-22", "rank": 19}, {"date": "2001-12-29", "rank": 21}, {"date": "2002-01-05", "rank": 20}, {"date": "2002-01-12", "rank": 8}, {"date": "2002-01-19", "rank": 7}, {"date": "2002-01-26", "rank": 7}, {"date": "2002-02-02", "rank": 6}, {"date": "2002-02-09", "rank": 6}, {"date": "2002-02-16", "rank": 6}, {"date": "2002-02-23", "rank": 8}, {"date": "2002-03-02", "rank": 12}, {"date": "2002-03-09", "rank": 12}, {"date": "2002-03-16", "rank": 22}, {"date": "2002-03-23", "rank": 20}, {"date": "2002-03-30", "rank": 20}, {"date": "2002-04-06", "rank": 23}, {"date": "2002-04-13", "rank": 23}, {"date": "2002-04-20", "rank": 19}, {"date": "2002-04-27", "rank": 24}, {"date": "2002-05-04", "rank": 23}, {"date": "2002-05-11", "rank": 33}, {"date": "2002-05-18", "rank": 33}, {"date": "2002-05-25", "rank": 39}, {"date": "2002-06-01", "rank": 41}, {"date": "2002-06-08", "rank": 45}, {"date": "2002-06-15", "rank": 41}, {"date": "2002-06-22", "rank": 50}, {"date": "2002-06-29", "rank": 63}, {"date": "2002-07-06", "rank": 62}, {"date": "2002-07-13", "rank": 60}, {"date": "2002-07-20", "rank": 63}, {"date": "2002-07-27", "rank": 66}, {"date": "2002-08-03", "rank": 74}, {"date": "2002-08-10", "rank": 87}, {"date": "2002-08-17", "rank": 93}, {"date": "2002-08-24", "rank": 106}, {"date": "2002-08-31", "rank": 120}, {"date": "2002-09-07", "rank": 126}, {"date": "2002-09-14", "rank": 131}, {"date": "2002-09-21", "rank": 128}, {"date": "2002-09-28", "rank": 144}, {"date": "2002-10-05", "rank": 162}, {"date": "2002-10-12", "rank": 188}, {"date": "2002-10-19", "rank": 195}]}
+{
+  "id": "pain-is-love-ja-rule",
+  "title": "Pain Is Love",
+  "artist": "Ja Rule",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2001-10-20",
+      "rank": 1
+    },
+    {
+      "date": "2001-10-27",
+      "rank": 1
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 3
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 5
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 8
+    },
+    {
+      "date": "2001-11-24",
+      "rank": 10
+    },
+    {
+      "date": "2001-12-01",
+      "rank": 13
+    },
+    {
+      "date": "2001-12-08",
+      "rank": 17
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 19
+    },
+    {
+      "date": "2001-12-22",
+      "rank": 19
+    },
+    {
+      "date": "2001-12-29",
+      "rank": 21
+    },
+    {
+      "date": "2002-01-05",
+      "rank": 20
+    },
+    {
+      "date": "2002-01-12",
+      "rank": 8
+    },
+    {
+      "date": "2002-01-19",
+      "rank": 7
+    },
+    {
+      "date": "2002-01-26",
+      "rank": 7
+    },
+    {
+      "date": "2002-02-02",
+      "rank": 6
+    },
+    {
+      "date": "2002-02-09",
+      "rank": 6
+    },
+    {
+      "date": "2002-02-16",
+      "rank": 6
+    },
+    {
+      "date": "2002-02-23",
+      "rank": 8
+    },
+    {
+      "date": "2002-03-02",
+      "rank": 12
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 12
+    },
+    {
+      "date": "2002-03-16",
+      "rank": 22
+    },
+    {
+      "date": "2002-03-23",
+      "rank": 20
+    },
+    {
+      "date": "2002-03-30",
+      "rank": 20
+    },
+    {
+      "date": "2002-04-06",
+      "rank": 23
+    },
+    {
+      "date": "2002-04-13",
+      "rank": 23
+    },
+    {
+      "date": "2002-04-20",
+      "rank": 19
+    },
+    {
+      "date": "2002-04-27",
+      "rank": 24
+    },
+    {
+      "date": "2002-05-04",
+      "rank": 23
+    },
+    {
+      "date": "2002-05-11",
+      "rank": 33
+    },
+    {
+      "date": "2002-05-18",
+      "rank": 33
+    },
+    {
+      "date": "2002-05-25",
+      "rank": 39
+    },
+    {
+      "date": "2002-06-01",
+      "rank": 41
+    },
+    {
+      "date": "2002-06-08",
+      "rank": 45
+    },
+    {
+      "date": "2002-06-15",
+      "rank": 41
+    },
+    {
+      "date": "2002-06-22",
+      "rank": 50
+    },
+    {
+      "date": "2002-06-29",
+      "rank": 63
+    },
+    {
+      "date": "2002-07-06",
+      "rank": 62
+    },
+    {
+      "date": "2002-07-13",
+      "rank": 60
+    },
+    {
+      "date": "2002-07-20",
+      "rank": 63
+    },
+    {
+      "date": "2002-07-27",
+      "rank": 66
+    },
+    {
+      "date": "2002-08-03",
+      "rank": 74
+    },
+    {
+      "date": "2002-08-10",
+      "rank": 87
+    },
+    {
+      "date": "2002-08-17",
+      "rank": 93
+    },
+    {
+      "date": "2002-08-24",
+      "rank": 106
+    },
+    {
+      "date": "2002-08-31",
+      "rank": 120
+    },
+    {
+      "date": "2002-09-07",
+      "rank": 126
+    },
+    {
+      "date": "2002-09-14",
+      "rank": 131
+    },
+    {
+      "date": "2002-09-21",
+      "rank": 128
+    },
+    {
+      "date": "2002-09-28",
+      "rank": 144
+    },
+    {
+      "date": "2002-10-05",
+      "rank": 162
+    },
+    {
+      "date": "2002-10-12",
+      "rank": 188
+    },
+    {
+      "date": "2002-10-19",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pain Is Love (skit)",
+      "id": null
+    },
+    {
+      "title": "Dial M for Murder",
+      "id": null
+    },
+    {
+      "title": "Livin’ It Up",
+      "id": null
+    },
+    {
+      "title": "The Inc.",
+      "id": null
+    },
+    {
+      "title": "Always on Time",
+      "id": null
+    },
+    {
+      "title": "Down Ass Bitch",
+      "id": null
+    },
+    {
+      "title": "Never Again",
+      "id": null
+    },
+    {
+      "title": "Worldwide Gangsta",
+      "id": null
+    },
+    {
+      "title": "Leo (skit)",
+      "id": null
+    },
+    {
+      "title": "I’m Real (Murder remix)",
+      "id": null
+    },
+    {
+      "title": "Smokin and Ridin",
+      "id": null
+    },
+    {
+      "title": "X",
+      "id": null
+    },
+    {
+      "title": "Big Remo (skit)",
+      "id": null
+    },
+    {
+      "title": "Lost Little Girl",
+      "id": null
+    },
+    {
+      "title": "So Much Pain",
+      "id": null
+    },
+    {
+      "title": "Pain Is Love",
+      "id": null
+    },
+    {
+      "title": "Put It on Me (remix)",
+      "id": null
+    }
+  ]
+}
