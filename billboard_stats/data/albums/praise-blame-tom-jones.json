@@ -1,1 +1,66 @@
-{"id": "praise-blame-tom-jones", "title": "Praise & Blame", "artist": "Tom Jones", "peak": 79, "history": [{"date": "2010-08-14", "rank": 79}, {"date": "2010-08-21", "rank": 134}, {"date": "2010-11-06", "rank": 167}]}
+{
+  "id": "praise-blame-tom-jones",
+  "title": "Praise & Blame",
+  "artist": "Tom Jones",
+  "peak": 79,
+  "history": [
+    {
+      "date": "2010-08-14",
+      "rank": 79
+    },
+    {
+      "date": "2010-08-21",
+      "rank": 134
+    },
+    {
+      "date": "2010-11-06",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What Good Am I?",
+      "id": null
+    },
+    {
+      "title": "Lord Help",
+      "id": null
+    },
+    {
+      "title": "Did Trouble Me",
+      "id": null
+    },
+    {
+      "title": "Strange Things",
+      "id": null
+    },
+    {
+      "title": "Burning Hell",
+      "id": null
+    },
+    {
+      "title": "If I Give My Soul",
+      "id": null
+    },
+    {
+      "title": "Don’t Knock",
+      "id": null
+    },
+    {
+      "title": "Nobody’s Fault but Mine",
+      "id": null
+    },
+    {
+      "title": "Didn’t It Rain",
+      "id": null
+    },
+    {
+      "title": "Ain’t No Grave",
+      "id": null
+    },
+    {
+      "title": "Run On",
+      "id": null
+    }
+  ]
+}

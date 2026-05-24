@@ -1,1 +1,66 @@
-{"id": "preflyte-the-byrds", "title": "Preflyte", "artist": "The Byrds", "peak": 183, "history": [{"date": "1973-09-08", "rank": 185}, {"date": "1973-09-15", "rank": 183}, {"date": "1973-09-22", "rank": 199}]}
+{
+  "id": "preflyte-the-byrds",
+  "title": "Preflyte",
+  "artist": "The Byrds",
+  "peak": 183,
+  "history": [
+    {
+      "date": "1973-09-08",
+      "rank": 185
+    },
+    {
+      "date": "1973-09-15",
+      "rank": 183
+    },
+    {
+      "date": "1973-09-22",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mr. Tambourine Man",
+      "id": "mr-tambourine-man-the-byrds"
+    },
+    {
+      "title": "You Showed Me",
+      "id": null
+    },
+    {
+      "title": "Here Without You",
+      "id": null
+    },
+    {
+      "title": "She Has a Way",
+      "id": null
+    },
+    {
+      "title": "The Reason Why",
+      "id": null
+    },
+    {
+      "title": "For Me Again",
+      "id": null
+    },
+    {
+      "title": "Boston",
+      "id": null
+    },
+    {
+      "title": "You Movin’",
+      "id": null
+    },
+    {
+      "title": "The Airport Song",
+      "id": null
+    },
+    {
+      "title": "You Won’t Have to Cry",
+      "id": null
+    },
+    {
+      "title": "I Knew I’d Want You",
+      "id": null
+    }
+  ]
+}
