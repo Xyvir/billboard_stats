@@ -1,1 +1,102 @@
-{"id": "romantic-journey-norman-connors", "title": "Romantic Journey", "artist": "Norman Connors", "peak": 94, "history": [{"date": "1977-04-09", "rank": 164}, {"date": "1977-04-16", "rank": 120}, {"date": "1977-04-23", "rank": 109}, {"date": "1977-04-30", "rank": 106}, {"date": "1977-05-07", "rank": 101}, {"date": "1977-05-14", "rank": 95}, {"date": "1977-05-21", "rank": 94}, {"date": "1977-05-28", "rank": 98}, {"date": "1977-06-04", "rank": 94}, {"date": "1977-06-11", "rank": 104}, {"date": "1977-06-18", "rank": 102}, {"date": "1977-06-25", "rank": 101}, {"date": "1977-07-02", "rank": 97}, {"date": "1977-07-09", "rank": 95}, {"date": "1977-07-16", "rank": 191}, {"date": "1977-07-23", "rank": 195}]}
+{
+  "id": "romantic-journey-norman-connors",
+  "title": "Romantic Journey",
+  "artist": "Norman Connors",
+  "peak": 94,
+  "history": [
+    {
+      "date": "1977-04-09",
+      "rank": 164
+    },
+    {
+      "date": "1977-04-16",
+      "rank": 120
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 109
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 106
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 101
+    },
+    {
+      "date": "1977-05-14",
+      "rank": 95
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 94
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 98
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 94
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 104
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 102
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 101
+    },
+    {
+      "date": "1977-07-02",
+      "rank": 97
+    },
+    {
+      "date": "1977-07-09",
+      "rank": 95
+    },
+    {
+      "date": "1977-07-16",
+      "rank": 191
+    },
+    {
+      "date": "1977-07-23",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Are Everything",
+      "id": "you-are-my-starship-norman-connors"
+    },
+    {
+      "title": "Once I’ve Been There",
+      "id": null
+    },
+    {
+      "title": "Destination Moon",
+      "id": null
+    },
+    {
+      "title": "Romantic Journey",
+      "id": null
+    },
+    {
+      "title": "Last Tango in Paris",
+      "id": null
+    },
+    {
+      "title": "For You Everything",
+      "id": null
+    },
+    {
+      "title": "Thembi",
+      "id": null
+    }
+  ]
+}

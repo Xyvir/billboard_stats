@@ -1,1 +1,74 @@
-{"id": "roman-holliday-roman-holliday", "title": "Roman Holliday", "artist": "Roman Holliday", "peak": 142, "history": [{"date": "1983-09-03", "rank": 179}, {"date": "1983-09-10", "rank": 170}, {"date": "1983-09-17", "rank": 170}, {"date": "1983-09-24", "rank": 158}, {"date": "1983-10-01", "rank": 150}, {"date": "1983-10-08", "rank": 150}, {"date": "1983-10-15", "rank": 143}, {"date": "1983-10-22", "rank": 142}, {"date": "1983-10-29", "rank": 183}, {"date": "1983-11-05", "rank": 181}, {"date": "1983-11-12", "rank": 189}]}
+{
+  "id": "roman-holliday-roman-holliday",
+  "title": "Roman Holliday",
+  "artist": "Roman Holliday",
+  "peak": 142,
+  "history": [
+    {
+      "date": "1983-09-03",
+      "rank": 179
+    },
+    {
+      "date": "1983-09-10",
+      "rank": 170
+    },
+    {
+      "date": "1983-09-17",
+      "rank": 170
+    },
+    {
+      "date": "1983-09-24",
+      "rank": 158
+    },
+    {
+      "date": "1983-10-01",
+      "rank": 150
+    },
+    {
+      "date": "1983-10-08",
+      "rank": 150
+    },
+    {
+      "date": "1983-10-15",
+      "rank": 143
+    },
+    {
+      "date": "1983-10-22",
+      "rank": 142
+    },
+    {
+      "date": "1983-10-29",
+      "rank": 183
+    },
+    {
+      "date": "1983-11-05",
+      "rank": 181
+    },
+    {
+      "date": "1983-11-12",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stand By",
+      "id": "stand-by-roman-holliday"
+    },
+    {
+      "title": "Don’t Try to Stop It",
+      "id": "don-t-try-to-stop-it-roman-holliday"
+    },
+    {
+      "title": "Motor Mania",
+      "id": null
+    },
+    {
+      "title": "I.O.U.",
+      "id": null
+    },
+    {
+      "title": "Beat My Time",
+      "id": null
+    }
+  ]
+}
