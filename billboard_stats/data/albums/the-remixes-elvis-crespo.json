@@ -1,1 +1,50 @@
-{"id": "the-remixes-elvis-crespo", "title": "The Remixes", "artist": "Elvis Crespo", "peak": 155, "history": [{"date": "2000-02-12", "rank": 155}]}
+{
+  "id": "the-remixes-elvis-crespo",
+  "title": "The Remixes",
+  "artist": "Elvis Crespo",
+  "peak": 155,
+  "history": [
+    {
+      "date": "2000-02-12",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Suavemente (Hot Head mix)",
+      "id": "suavemente-elvis-crespo"
+    },
+    {
+      "title": "Suave (megamix)",
+      "id": "suavemente-elvis-crespo"
+    },
+    {
+      "title": "Tu sonrisa (Eddie “Love” Arroyo remix)",
+      "id": null
+    },
+    {
+      "title": "Tiemblo (A. T. Molina remix)",
+      "id": null
+    },
+    {
+      "title": "Come Baby Come",
+      "id": null
+    },
+    {
+      "title": "Suavemente (Cibola extended)",
+      "id": null
+    },
+    {
+      "title": "Tu sonrisa (Club remix) (Off the Wall mix)",
+      "id": null
+    },
+    {
+      "title": "Tiemblo (A que no te atreves mix)",
+      "id": null
+    },
+    {
+      "title": "Come Baby Come (club remix)",
+      "id": null
+    }
+  ]
+}

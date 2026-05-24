@@ -1,1 +1,350 @@
-{"id": "the-reprise-collection-frank-sinatra", "title": "The Reprise Collection", "artist": "Frank Sinatra", "peak": 185, "history": [{"date": "1991-04-27", "rank": 191}, {"date": "1991-05-04", "rank": 200}, {"date": "1991-05-11", "rank": 185}, {"date": "1991-05-18", "rank": 197}]}
+{
+  "id": "the-reprise-collection-frank-sinatra",
+  "title": "The Reprise Collection",
+  "artist": "Frank Sinatra",
+  "peak": 185,
+  "history": [
+    {
+      "date": "1991-04-27",
+      "rank": 191
+    },
+    {
+      "date": "1991-05-04",
+      "rank": 200
+    },
+    {
+      "date": "1991-05-11",
+      "rank": 185
+    },
+    {
+      "date": "1991-05-18",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Second Time Around",
+      "id": "the-second-time-around-frank-sinatra"
+    },
+    {
+      "title": "It Was a Very Good Year",
+      "id": "it-was-a-very-good-year-frank-sinatra"
+    },
+    {
+      "title": "Strangers in the Night",
+      "id": "strangers-in-the-night-frank-sinatra"
+    },
+    {
+      "title": "Summer Wind",
+      "id": "summer-wind-frank-sinatra"
+    },
+    {
+      "title": "All or Nothing at All",
+      "id": "anytime-at-all-frank-sinatra"
+    },
+    {
+      "title": "That’s Life",
+      "id": "that-s-life-frank-sinatra"
+    },
+    {
+      "title": "Somethin’ Stupid",
+      "id": "somethin-stupid-nancy-sinatra-frank-sinatra"
+    },
+    {
+      "title": "My Way",
+      "id": "my-way-frank-sinatra"
+    },
+    {
+      "title": "Forget to Remember",
+      "id": "goin-out-of-my-head-forget-to-remember-frank-sinatra"
+    },
+    {
+      "title": "The Song Is You",
+      "id": "the-second-time-around-frank-sinatra"
+    },
+    {
+      "title": "Theme From New York, New York",
+      "id": "theme-from-new-york-new-york-frank-sinatra"
+    },
+    {
+      "title": "Let’s Fall in Love",
+      "id": null
+    },
+    {
+      "title": "You’d Be So Easy to Love",
+      "id": null
+    },
+    {
+      "title": "The Coffee Song",
+      "id": null
+    },
+    {
+      "title": "Zing! Went the Strings of My Heart",
+      "id": null
+    },
+    {
+      "title": "The Last Dance",
+      "id": null
+    },
+    {
+      "title": "Tina",
+      "id": null
+    },
+    {
+      "title": "Without a Song",
+      "id": null
+    },
+    {
+      "title": "It Started All Over Again",
+      "id": null
+    },
+    {
+      "title": "Love Walked In",
+      "id": null
+    },
+    {
+      "title": "You’re Nobody ’til Somebody Loves You",
+      "id": null
+    },
+    {
+      "title": "Don’t Take Your Love From Me",
+      "id": null
+    },
+    {
+      "title": "Come Rain or Come Shine",
+      "id": null
+    },
+    {
+      "title": "Night and Day",
+      "id": null
+    },
+    {
+      "title": "All Alone",
+      "id": null
+    },
+    {
+      "title": "What’ll I Do?",
+      "id": null
+    },
+    {
+      "title": "I Get a Kick Out of You",
+      "id": null
+    },
+    {
+      "title": "Don’cha Go ’way Mad",
+      "id": null
+    },
+    {
+      "title": "A Garden in the Rain",
+      "id": null
+    },
+    {
+      "title": "A Nightingale Sang in Berkeley Square",
+      "id": null
+    },
+    {
+      "title": "Please Be Kind",
+      "id": null
+    },
+    {
+      "title": "Pennies From Heaven",
+      "id": null
+    },
+    {
+      "title": "Me and My Shadow",
+      "id": null
+    },
+    {
+      "title": "I Have Dreamed",
+      "id": null
+    },
+    {
+      "title": "America the Beautiful",
+      "id": null
+    },
+    {
+      "title": "California",
+      "id": null
+    },
+    {
+      "title": "Soliloquy",
+      "id": null
+    },
+    {
+      "title": "Luck Be a Lady",
+      "id": null
+    },
+    {
+      "title": "Here’s to the Losers",
+      "id": null
+    },
+    {
+      "title": "The Way You Look Tonight",
+      "id": null
+    },
+    {
+      "title": "My Kind of Town",
+      "id": null
+    },
+    {
+      "title": "The Best Is Yet to Come",
+      "id": null
+    },
+    {
+      "title": "Fly Me to the Moon (In Other Words)",
+      "id": null
+    },
+    {
+      "title": "September Song",
+      "id": null
+    },
+    {
+      "title": "This Is All I Ask",
+      "id": null
+    },
+    {
+      "title": "I’ll Only Miss Her When I Think of Her",
+      "id": null
+    },
+    {
+      "title": "Love and Marriage",
+      "id": null
+    },
+    {
+      "title": "Moonlight Serenade",
+      "id": null
+    },
+    {
+      "title": "I Wished on the Moon",
+      "id": null
+    },
+    {
+      "title": "Oh You Crazy Moon",
+      "id": null
+    },
+    {
+      "title": "I’ve Got You Under My Skin",
+      "id": null
+    },
+    {
+      "title": "The Shadow of Your Smile",
+      "id": null
+    },
+    {
+      "title": "Street of Dreams",
+      "id": null
+    },
+    {
+      "title": "You Make Me Feel So Young",
+      "id": null
+    },
+    {
+      "title": "I Concentrate on You",
+      "id": null
+    },
+    {
+      "title": "Dindi",
+      "id": null
+    },
+    {
+      "title": "Once I Loved",
+      "id": null
+    },
+    {
+      "title": "How Insensitive",
+      "id": null
+    },
+    {
+      "title": "Drinking Again",
+      "id": null
+    },
+    {
+      "title": "All I Need Is the Girl",
+      "id": null
+    },
+    {
+      "title": "Indian Summer",
+      "id": null
+    },
+    {
+      "title": "Wave",
+      "id": null
+    },
+    {
+      "title": "A Man Alone",
+      "id": null
+    },
+    {
+      "title": "There Used to Be a Ballpark",
+      "id": null
+    },
+    {
+      "title": "What Are You Doing the Rest of Your Life?",
+      "id": null
+    },
+    {
+      "title": "Just as Though You Were Here",
+      "id": null
+    },
+    {
+      "title": "The Lady Is a Tramp",
+      "id": null
+    },
+    {
+      "title": "Empty Tables",
+      "id": null
+    },
+    {
+      "title": "Send in the Clowns",
+      "id": null
+    },
+    {
+      "title": "I Love My Wife",
+      "id": null
+    },
+    {
+      "title": "Nancy",
+      "id": null
+    },
+    {
+      "title": "Emily",
+      "id": null
+    },
+    {
+      "title": "Sweet Lorraine",
+      "id": null
+    },
+    {
+      "title": "My Shining Hour",
+      "id": null
+    },
+    {
+      "title": "More Than You Know",
+      "id": null
+    },
+    {
+      "title": "Something",
+      "id": null
+    },
+    {
+      "title": "The Gal That Got Away / It Never Entered My Mind (medley)",
+      "id": null
+    },
+    {
+      "title": "A Long Night",
+      "id": null
+    },
+    {
+      "title": "Here’s to the Band",
+      "id": null
+    },
+    {
+      "title": "It’s Sunday",
+      "id": null
+    },
+    {
+      "title": "Mack the Knife",
+      "id": null
+    }
+  ]
+}
