@@ -1,1 +1,66 @@
-{"id": "nine-lives-deuce", "title": "Nine Lives", "artist": "Deuce", "peak": 37, "history": [{"date": "2012-05-12", "rank": 37}, {"date": "2012-05-19", "rank": 99}, {"date": "2012-05-26", "rank": 197}]}
+{
+  "id": "nine-lives-deuce",
+  "title": "Nine Lives",
+  "artist": "Deuce",
+  "peak": 37,
+  "history": [
+    {
+      "date": "2012-05-12",
+      "rank": 37
+    },
+    {
+      "date": "2012-05-19",
+      "rank": 99
+    },
+    {
+      "date": "2012-05-26",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let's Get It Crackin'",
+      "id": null
+    },
+    {
+      "title": "Help Me",
+      "id": null
+    },
+    {
+      "title": "America",
+      "id": null
+    },
+    {
+      "title": "I Came to Party",
+      "id": null
+    },
+    {
+      "title": "The One",
+      "id": null
+    },
+    {
+      "title": "Freaky Now",
+      "id": null
+    },
+    {
+      "title": "Nobody Likes Me",
+      "id": null
+    },
+    {
+      "title": "Walk Alone",
+      "id": null
+    },
+    {
+      "title": "Till I Drop",
+      "id": null
+    },
+    {
+      "title": "Gravestone",
+      "id": null
+    },
+    {
+      "title": "Now You See My Life",
+      "id": null
+    }
+  ]
+}

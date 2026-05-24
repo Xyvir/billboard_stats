@@ -1,1 +1,58 @@
-{"id": "nine-to-the-universe-jimi-hendrix", "title": "Nine To The Universe", "artist": "Jimi Hendrix", "peak": 127, "history": [{"date": "1980-04-26", "rank": 181}, {"date": "1980-05-03", "rank": 151}, {"date": "1980-05-10", "rank": 140}, {"date": "1980-05-17", "rank": 128}, {"date": "1980-05-24", "rank": 127}, {"date": "1980-05-31", "rank": 169}, {"date": "1980-06-07", "rank": 191}]}
+{
+  "id": "nine-to-the-universe-jimi-hendrix",
+  "title": "Nine To The Universe",
+  "artist": "Jimi Hendrix",
+  "peak": 127,
+  "history": [
+    {
+      "date": "1980-04-26",
+      "rank": 181
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 151
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 140
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 128
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 127
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 169
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Nine to the Universe",
+      "id": null
+    },
+    {
+      "title": "Jimi/Jimmy Jam",
+      "id": null
+    },
+    {
+      "title": "Young/Hendrix",
+      "id": null
+    },
+    {
+      "title": "Easy Blues",
+      "id": null
+    },
+    {
+      "title": "Drone Blues",
+      "id": null
+    }
+  ]
+}

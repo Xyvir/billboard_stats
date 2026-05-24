@@ -1,1 +1,266 @@
-{"id": "nirvana-nirvana", "title": "Nirvana", "artist": "Nirvana", "peak": 3, "history": [{"date": "2002-11-16", "rank": 3}, {"date": "2002-11-23", "rank": 10}, {"date": "2002-11-30", "rank": 16}, {"date": "2002-12-07", "rank": 28}, {"date": "2002-12-14", "rank": 25}, {"date": "2002-12-21", "rank": 36}, {"date": "2002-12-28", "rank": 42}, {"date": "2003-01-04", "rank": 39}, {"date": "2003-01-11", "rank": 34}, {"date": "2003-01-18", "rank": 32}, {"date": "2003-01-25", "rank": 43}, {"date": "2003-02-01", "rank": 53}, {"date": "2003-02-08", "rank": 60}, {"date": "2003-02-15", "rank": 75}, {"date": "2003-02-22", "rank": 95}, {"date": "2003-03-01", "rank": 113}, {"date": "2003-03-08", "rank": 111}, {"date": "2003-03-15", "rank": 112}, {"date": "2003-03-22", "rank": 134}, {"date": "2003-03-29", "rank": 137}, {"date": "2003-04-05", "rank": 149}, {"date": "2003-04-12", "rank": 171}, {"date": "2003-04-19", "rank": 177}, {"date": "2003-04-26", "rank": 180}, {"date": "2003-05-03", "rank": 178}, {"date": "2003-05-10", "rank": 179}, {"date": "2003-05-17", "rank": 196}, {"date": "2003-05-31", "rank": 200}, {"date": "2004-04-24", "rank": 117}, {"date": "2004-05-01", "rank": 163}, {"date": "2004-05-08", "rank": 190}, {"date": "2015-01-24", "rank": 147}, {"date": "2015-05-23", "rank": 144}, {"date": "2015-08-01", "rank": 142}, {"date": "2015-12-26", "rank": 194}, {"date": "2016-01-16", "rank": 83}, {"date": "2016-04-30", "rank": 194}, {"date": "2020-11-28", "rank": 36}, {"date": "2021-08-21", "rank": 97}, {"date": "2022-08-27", "rank": 90}, {"date": "2023-04-01", "rank": 73}, {"date": "2023-04-08", "rank": 76}, {"date": "2023-04-15", "rank": 80}, {"date": "2023-04-22", "rank": 78}, {"date": "2023-04-29", "rank": 84}, {"date": "2023-05-20", "rank": 95}, {"date": "2023-05-27", "rank": 87}, {"date": "2023-06-03", "rank": 91}, {"date": "2023-06-24", "rank": 89}]}
+{
+  "id": "nirvana-nirvana",
+  "title": "Nirvana",
+  "artist": "Nirvana",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2002-11-16",
+      "rank": 3
+    },
+    {
+      "date": "2002-11-23",
+      "rank": 10
+    },
+    {
+      "date": "2002-11-30",
+      "rank": 16
+    },
+    {
+      "date": "2002-12-07",
+      "rank": 28
+    },
+    {
+      "date": "2002-12-14",
+      "rank": 25
+    },
+    {
+      "date": "2002-12-21",
+      "rank": 36
+    },
+    {
+      "date": "2002-12-28",
+      "rank": 42
+    },
+    {
+      "date": "2003-01-04",
+      "rank": 39
+    },
+    {
+      "date": "2003-01-11",
+      "rank": 34
+    },
+    {
+      "date": "2003-01-18",
+      "rank": 32
+    },
+    {
+      "date": "2003-01-25",
+      "rank": 43
+    },
+    {
+      "date": "2003-02-01",
+      "rank": 53
+    },
+    {
+      "date": "2003-02-08",
+      "rank": 60
+    },
+    {
+      "date": "2003-02-15",
+      "rank": 75
+    },
+    {
+      "date": "2003-02-22",
+      "rank": 95
+    },
+    {
+      "date": "2003-03-01",
+      "rank": 113
+    },
+    {
+      "date": "2003-03-08",
+      "rank": 111
+    },
+    {
+      "date": "2003-03-15",
+      "rank": 112
+    },
+    {
+      "date": "2003-03-22",
+      "rank": 134
+    },
+    {
+      "date": "2003-03-29",
+      "rank": 137
+    },
+    {
+      "date": "2003-04-05",
+      "rank": 149
+    },
+    {
+      "date": "2003-04-12",
+      "rank": 171
+    },
+    {
+      "date": "2003-04-19",
+      "rank": 177
+    },
+    {
+      "date": "2003-04-26",
+      "rank": 180
+    },
+    {
+      "date": "2003-05-03",
+      "rank": 178
+    },
+    {
+      "date": "2003-05-10",
+      "rank": 179
+    },
+    {
+      "date": "2003-05-17",
+      "rank": 196
+    },
+    {
+      "date": "2003-05-31",
+      "rank": 200
+    },
+    {
+      "date": "2004-04-24",
+      "rank": 117
+    },
+    {
+      "date": "2004-05-01",
+      "rank": 163
+    },
+    {
+      "date": "2004-05-08",
+      "rank": 190
+    },
+    {
+      "date": "2015-01-24",
+      "rank": 147
+    },
+    {
+      "date": "2015-05-23",
+      "rank": 144
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 142
+    },
+    {
+      "date": "2015-12-26",
+      "rank": 194
+    },
+    {
+      "date": "2016-01-16",
+      "rank": 83
+    },
+    {
+      "date": "2016-04-30",
+      "rank": 194
+    },
+    {
+      "date": "2020-11-28",
+      "rank": 36
+    },
+    {
+      "date": "2021-08-21",
+      "rank": 97
+    },
+    {
+      "date": "2022-08-27",
+      "rank": 90
+    },
+    {
+      "date": "2023-04-01",
+      "rank": 73
+    },
+    {
+      "date": "2023-04-08",
+      "rank": 76
+    },
+    {
+      "date": "2023-04-15",
+      "rank": 80
+    },
+    {
+      "date": "2023-04-22",
+      "rank": 78
+    },
+    {
+      "date": "2023-04-29",
+      "rank": 84
+    },
+    {
+      "date": "2023-05-20",
+      "rank": 95
+    },
+    {
+      "date": "2023-05-27",
+      "rank": 87
+    },
+    {
+      "date": "2023-06-03",
+      "rank": 91
+    },
+    {
+      "date": "2023-06-24",
+      "rank": 89
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Know You’re Right",
+      "id": "you-know-you-re-right-nirvana"
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "id": "smells-like-teen-spirit-nirvana"
+    },
+    {
+      "title": "Come as You Are",
+      "id": "come-as-you-are-nirvana"
+    },
+    {
+      "title": "Lithium",
+      "id": "lithium-nirvana"
+    },
+    {
+      "title": "About a Girl",
+      "id": null
+    },
+    {
+      "title": "Been a Son",
+      "id": null
+    },
+    {
+      "title": "Sliver",
+      "id": null
+    },
+    {
+      "title": "In Bloom",
+      "id": null
+    },
+    {
+      "title": "Heart‐Shaped Box",
+      "id": null
+    },
+    {
+      "title": "Pennyroyal Tea",
+      "id": null
+    },
+    {
+      "title": "Rape Me",
+      "id": null
+    },
+    {
+      "title": "Dumb",
+      "id": null
+    },
+    {
+      "title": "All Apologies",
+      "id": null
+    },
+    {
+      "title": "The Man Who Sold the World",
+      "id": null
+    },
+    {
+      "title": "Where Did You Sleep Last Night",
+      "id": null
+    }
+  ]
+}
