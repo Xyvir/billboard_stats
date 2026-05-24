@@ -1,1 +1,78 @@
-{"id": "rough-harvest-john-mellencamp", "title": "Rough Harvest", "artist": "John Mellencamp", "peak": 99, "history": [{"date": "1999-09-04", "rank": 99}, {"date": "1999-09-11", "rank": 151}, {"date": "1999-09-18", "rank": 182}, {"date": "1999-09-25", "rank": 200}]}
+{
+  "id": "rough-harvest-john-mellencamp",
+  "title": "Rough Harvest",
+  "artist": "John Mellencamp",
+  "peak": 99,
+  "history": [
+    {
+      "date": "1999-09-04",
+      "rank": 99
+    },
+    {
+      "date": "1999-09-11",
+      "rank": 151
+    },
+    {
+      "date": "1999-09-18",
+      "rank": 182
+    },
+    {
+      "date": "1999-09-25",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Human Wheels",
+      "id": "human-wheels-john-mellencamp"
+    },
+    {
+      "title": "Rain on the Scarecrow",
+      "id": "rain-on-the-scarecrow-john-mellencamp"
+    },
+    {
+      "title": "Key West Intermezzo",
+      "id": "key-west-intermezzo-i-saw-you-first-john-mellencamp"
+    },
+    {
+      "title": "Jackie Brown",
+      "id": "jackie-brown-john-mellencamp"
+    },
+    {
+      "title": "Love and Happiness",
+      "id": null
+    },
+    {
+      "title": "In My Time of Dying",
+      "id": null
+    },
+    {
+      "title": "Between a Laugh and a Tear",
+      "id": null
+    },
+    {
+      "title": "Farewell Angelina",
+      "id": null
+    },
+    {
+      "title": "When Jesus Left Birmingham",
+      "id": null
+    },
+    {
+      "title": "The Full Catastrophe",
+      "id": null
+    },
+    {
+      "title": "Minutes to Memories",
+      "id": null
+    },
+    {
+      "title": "Under the Boardwalk",
+      "id": null
+    },
+    {
+      "title": "Wild Night (live)",
+      "id": null
+    }
+  ]
+}

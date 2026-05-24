@@ -1,1 +1,102 @@
-{"id": "round-trip-the-knack", "title": "Round Trip", "artist": "The Knack", "peak": 93, "history": [{"date": "1981-11-07", "rank": 112}, {"date": "1981-11-14", "rank": 103}, {"date": "1981-11-21", "rank": 93}, {"date": "1981-11-28", "rank": 93}, {"date": "1981-12-05", "rank": 136}, {"date": "1981-12-12", "rank": 152}]}
+{
+  "id": "round-trip-the-knack",
+  "title": "Round Trip",
+  "artist": "The Knack",
+  "peak": 93,
+  "history": [
+    {
+      "date": "1981-11-07",
+      "rank": 112
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 103
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 93
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 93
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 136
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 152
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pay the Devil (Ooo, Baby, Ooo)",
+      "id": "pay-the-devil-ooo-baby-ooo-the-knack"
+    },
+    {
+      "title": "Radiating Love",
+      "id": null
+    },
+    {
+      "title": "Soul Kissin’",
+      "id": null
+    },
+    {
+      "title": "Africa",
+      "id": null
+    },
+    {
+      "title": "She Likes the Beat",
+      "id": null
+    },
+    {
+      "title": "Just Wait and See",
+      "id": null
+    },
+    {
+      "title": "We Are Waiting",
+      "id": null
+    },
+    {
+      "title": "Boys Go Crazy",
+      "id": null
+    },
+    {
+      "title": "Li’l Cal’s Big Mistake",
+      "id": null
+    },
+    {
+      "title": "Sweet Dreams",
+      "id": null
+    },
+    {
+      "title": "Another Lousy Day in Paradise",
+      "id": null
+    },
+    {
+      "title": "Art War",
+      "id": null
+    },
+    {
+      "title": "Go Away, Stay Away",
+      "id": null
+    },
+    {
+      "title": "Li’l Cal’s Big Mistake (live)",
+      "id": null
+    },
+    {
+      "title": "Art War (alternate mix)",
+      "id": null
+    },
+    {
+      "title": "On the Beach (rehearsal recording)",
+      "id": null
+    },
+    {
+      "title": "Pay the Devil (Ooo, Baby, Ooo) (songwriting demo/alternate version)",
+      "id": null
+    }
+  ]
+}

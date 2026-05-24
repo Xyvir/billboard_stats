@@ -1,1 +1,66 @@
-{"id": "rough-and-rowdy-ways-bob-dylan", "title": "Rough And Rowdy Ways", "artist": "Bob Dylan", "peak": 2, "history": [{"date": "2020-07-04", "rank": 2}, {"date": "2020-07-11", "rank": 50}, {"date": "2020-07-18", "rank": 115}, {"date": "2020-08-01", "rank": 102}]}
+{
+  "id": "rough-and-rowdy-ways-bob-dylan",
+  "title": "Rough And Rowdy Ways",
+  "artist": "Bob Dylan",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2020-07-04",
+      "rank": 2
+    },
+    {
+      "date": "2020-07-11",
+      "rank": 50
+    },
+    {
+      "date": "2020-07-18",
+      "rank": 115
+    },
+    {
+      "date": "2020-08-01",
+      "rank": 102
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Contain Multitudes",
+      "id": null
+    },
+    {
+      "title": "False Prophet",
+      "id": null
+    },
+    {
+      "title": "My Own Version of You",
+      "id": null
+    },
+    {
+      "title": "I’ve Made Up My Mind to Give Myself to You",
+      "id": null
+    },
+    {
+      "title": "Black Rider",
+      "id": null
+    },
+    {
+      "title": "Goodbye Jimmy Reed",
+      "id": null
+    },
+    {
+      "title": "Mother of Muses",
+      "id": null
+    },
+    {
+      "title": "Crossing the Rubicon",
+      "id": null
+    },
+    {
+      "title": "Key West (Philosopher Pirate)",
+      "id": null
+    },
+    {
+      "title": "Murder Most Foul",
+      "id": null
+    }
+  ]
+}

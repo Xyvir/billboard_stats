@@ -1,1 +1,102 @@
-{"id": "round-1-frank-sinatra", "title": "Round #1", "artist": "Frank Sinatra", "peak": 170, "history": [{"date": "1975-01-04", "rank": 185}, {"date": "1975-01-11", "rank": 174}, {"date": "1975-01-18", "rank": 170}]}
+{
+  "id": "round-1-frank-sinatra",
+  "title": "Round #1",
+  "artist": "Frank Sinatra",
+  "peak": 170,
+  "history": [
+    {
+      "date": "1975-01-04",
+      "rank": 185
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 174
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Nice ’n’ Easy",
+      "id": "nice-n-easy-frank-sinatra"
+    },
+    {
+      "title": "September in the Rain",
+      "id": "strangers-in-the-night-frank-sinatra"
+    },
+    {
+      "title": "Come Dance With Me",
+      "id": "stay-with-me-frank-sinatra"
+    },
+    {
+      "title": "I’ve Got You Under My Skin",
+      "id": null
+    },
+    {
+      "title": "I Get a Kick Out of You",
+      "id": null
+    },
+    {
+      "title": "Angel Eyes",
+      "id": null
+    },
+    {
+      "title": "Autumn in New York",
+      "id": null
+    },
+    {
+      "title": "Blue Moon",
+      "id": null
+    },
+    {
+      "title": "If I Had You",
+      "id": null
+    },
+    {
+      "title": "Let’s Get Away From It All",
+      "id": null
+    },
+    {
+      "title": "When You’re Smiling (The Whole World Smiles with You)",
+      "id": null
+    },
+    {
+      "title": "I’ve Got a Crush on You",
+      "id": null
+    },
+    {
+      "title": "Pennies From Heaven",
+      "id": null
+    },
+    {
+      "title": "Don’t Take Your Love From Me",
+      "id": null
+    },
+    {
+      "title": "Night and Day",
+      "id": null
+    },
+    {
+      "title": "You Make Me Feel So Young",
+      "id": null
+    },
+    {
+      "title": "You Go to My Head",
+      "id": null
+    },
+    {
+      "title": "Dream",
+      "id": null
+    },
+    {
+      "title": "It’s Only a Paper Moon",
+      "id": null
+    },
+    {
+      "title": "Put Your Dreams Away (For Another Day)",
+      "id": null
+    }
+  ]
+}

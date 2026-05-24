@@ -1,1 +1,110 @@
-{"id": "ross-diana-ross", "title": "Ross", "artist": "Diana Ross", "peak": 49, "history": [{"date": "1978-10-21", "rank": 113}, {"date": "1978-10-28", "rank": 90}, {"date": "1978-11-04", "rank": 78}, {"date": "1978-11-11", "rank": 67}, {"date": "1978-11-18", "rank": 61}, {"date": "1978-11-25", "rank": 55}, {"date": "1978-12-02", "rank": 49}, {"date": "1978-12-09", "rank": 49}, {"date": "1978-12-16", "rank": 64}, {"date": "1978-12-23", "rank": 85}, {"date": "1978-12-30", "rank": 85}, {"date": "1979-01-06", "rank": 122}, {"date": "1979-01-13", "rank": 152}, {"date": "1979-01-20", "rank": 172}, {"date": "1979-01-27", "rank": 170}, {"date": "1979-02-03", "rank": 167}, {"date": "1979-02-10", "rank": 177}]}
+{
+  "id": "ross-diana-ross",
+  "title": "Ross",
+  "artist": "Diana Ross",
+  "peak": 49,
+  "history": [
+    {
+      "date": "1978-10-21",
+      "rank": 113
+    },
+    {
+      "date": "1978-10-28",
+      "rank": 90
+    },
+    {
+      "date": "1978-11-04",
+      "rank": 78
+    },
+    {
+      "date": "1978-11-11",
+      "rank": 67
+    },
+    {
+      "date": "1978-11-18",
+      "rank": 61
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 55
+    },
+    {
+      "date": "1978-12-02",
+      "rank": 49
+    },
+    {
+      "date": "1978-12-09",
+      "rank": 49
+    },
+    {
+      "date": "1978-12-16",
+      "rank": 64
+    },
+    {
+      "date": "1978-12-23",
+      "rank": 85
+    },
+    {
+      "date": "1978-12-30",
+      "rank": 85
+    },
+    {
+      "date": "1979-01-06",
+      "rank": 122
+    },
+    {
+      "date": "1979-01-13",
+      "rank": 152
+    },
+    {
+      "date": "1979-01-20",
+      "rank": 172
+    },
+    {
+      "date": "1979-01-27",
+      "rank": 170
+    },
+    {
+      "date": "1979-02-03",
+      "rank": 167
+    },
+    {
+      "date": "1979-02-10",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Do It",
+      "id": "you-got-it-diana-ross"
+    },
+    {
+      "title": "Pieces of Ice",
+      "id": "pieces-of-ice-diana-ross"
+    },
+    {
+      "title": "Let’s Go Up",
+      "id": "let-s-go-up-diana-ross"
+    },
+    {
+      "title": "That’s How You Start Over",
+      "id": null
+    },
+    {
+      "title": "Love Will Make It Right",
+      "id": null
+    },
+    {
+      "title": "Love or Loneliness",
+      "id": null
+    },
+    {
+      "title": "Up Front",
+      "id": null
+    },
+    {
+      "title": "Girls",
+      "id": null
+    }
+  ]
+}
