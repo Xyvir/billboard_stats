@@ -219,12 +219,7 @@
                 (song.artist || '').toLowerCase().includes(query)
             ).slice(0, 10);
 
-            const matchedAlbums = (index.albums || []).filter(album => 
-                (album.name || album.title || '').toLowerCase().includes(query) || 
-                (album.artist || '').toLowerCase().includes(query)
-            ).slice(0, 10);
-
-            if (matchedArtists.length === 0 && matchedSongs.length === 0 && matchedAlbums.length === 0) {
+            if (matchedArtists.length === 0 && matchedSongs.length === 0) {
                 resultsContainer.innerHTML = '<div style="padding: 0.5rem; color: #888;">No results found</div>';
                 resultsContainer.style.display = 'block';
                 return;
@@ -265,23 +260,6 @@
                 });
             }
 
-            if (matchedAlbums.length > 0) {
-                html += '<div style="padding: 0.5rem; background: #333; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Albums</div>';
-                matchedAlbums.forEach(album => {
-                    let id = album.id || album.ref || album.album_id || album.path;
-                    if (id) {
-                        id = String(id).replace(/^albums\//, '').replace(/\.json$/, '');
-                    }
-                    const encodedId = id ? encodeURIComponent(id) : '';
-                    html += `<div style="padding: 0.5rem; cursor: pointer; border-bottom: 1px solid var(--border);" 
-                                  onclick="onAlbumSearchClick('${encodedId}')"
-                                  onmouseover="this.style.background='#333'" onmouseout="this.style.background='transparent'">
-                                <div style="font-weight: bold; color: white;">${album.name || album.title}</div>
-                                <div style="font-size: 0.8rem; color: #aaa;">${album.artist}</div>
-                             </div>`;
-                });
-            }
-
             resultsContainer.innerHTML = html;
             resultsContainer.style.display = 'block';
         }
@@ -296,12 +274,6 @@
             document.getElementById('searchResults').style.display = 'none';
             const songId = decodeURIComponent(encodedId);
             loadDetail('songs', songId);
-        }
-
-        function onAlbumSearchClick(encodedId) {
-            document.getElementById('searchResults').style.display = 'none';
-            const albumId = decodeURIComponent(encodedId);
-            loadDetail('albums', albumId);
         }
 
         function loadHistoricalChart(date, chartStr) {
@@ -537,7 +509,6 @@
                         const groupedSongs = {};
                         const singleSongs = [];
                         const albumLookup = {};
-                        const renderedAlbumIds = new Set();
 
                         if (data.albums && Array.isArray(data.albums)) {
                             // Fetch all album details concurrently to get their tracklists
@@ -601,7 +572,6 @@
                             const matchedAlbumId = albumLookup[albumName] ? albumLookup[albumName].id : null;
                             
                             if (matchedAlbumId) {
-                                renderedAlbumIds.add(matchedAlbumId);
                                 const encodedId = encodeURIComponent(matchedAlbumId);
                                 html += `<h4 style="margin: 0 0 0.75rem 0; cursor: pointer; color: var(--text); display: inline-block;"
                                              onmouseover="this.style.color='var(--accent)'; this.style.textDecoration='underline';" 
@@ -640,29 +610,22 @@
                 // Render Catalog of Albums (Artists)
                 const albums = data.albums;
                 if (albums && Array.isArray(albums) && albums.length > 0) {
-                    let albumHtml = '';
+                    html += `<h3 style="margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;">Albums</h3>`;
+                    html += `<div style="display: flex; flex-direction: column; gap: 5px; margin-top: 1rem;">`;
                     albums.forEach(album => {
                         const albumId = album.id || album.album_id || album.ref || album.path || '';
                         const title = album.title || album.name || 'Unknown Album';
                         const cleanId = String(albumId).replace(/^albums\//, '').replace(/\.json$/, '');
-                        
-                        if (renderedAlbumIds.has(cleanId)) return;
-
                         const encodedId = cleanId ? encodeURIComponent(cleanId) : '';
                         
-                        albumHtml += `<div style="background: #222; padding: 10px; border-radius: 4px; cursor: pointer; border: 1px solid var(--border);"
+                        html += `<div style="background: #222; padding: 10px; border-radius: 4px; cursor: pointer; border: 1px solid var(--border);"
                                      onmouseover="this.style.borderColor='var(--accent)'" 
                                      onmouseout="this.style.borderColor='var(--border)'"
                                      onclick="loadDetail('albums', '${encodedId}')">
                                     <strong style="color: white;">${title}</strong>
                                  </div>`;
                     });
-                    if (albumHtml) {
-                        html += `<h3 style="margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;">Other Albums</h3>`;
-                        html += `<div style="display: flex; flex-direction: column; gap: 5px; margin-top: 1rem;">`;
-                        html += albumHtml;
-                        html += `</div>`;
-                    }
+                    html += `</div>`;
                 }
 
                 // Fallback to raw JSON if none of the explicit UI blocks were generated
