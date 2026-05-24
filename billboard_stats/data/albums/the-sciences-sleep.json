@@ -1,1 +1,42 @@
-{"id": "the-sciences-sleep", "title": "The Sciences", "artist": "Sleep", "peak": 49, "history": [{"date": "2018-05-05", "rank": 49}, {"date": "2018-05-12", "rank": 196}]}
+{
+  "id": "the-sciences-sleep",
+  "title": "The Sciences",
+  "artist": "Sleep",
+  "peak": 49,
+  "history": [
+    {
+      "date": "2018-05-05",
+      "rank": 49
+    },
+    {
+      "date": "2018-05-12",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Sciences",
+      "id": null
+    },
+    {
+      "title": "Marijuanaut’s Theme",
+      "id": null
+    },
+    {
+      "title": "Sonic Titan",
+      "id": null
+    },
+    {
+      "title": "Giza Butler",
+      "id": null
+    },
+    {
+      "title": "Antarcticans Thawed",
+      "id": null
+    },
+    {
+      "title": "The Botanist",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,222 @@
-{"id": "the-salsoul-orchestra-the-salsoul-orchestra", "title": "The Salsoul Orchestra", "artist": "The Salsoul Orchestra", "peak": 14, "history": [{"date": "1975-11-29", "rank": 190}, {"date": "1975-12-06", "rank": 179}, {"date": "1975-12-13", "rank": 169}, {"date": "1975-12-20", "rank": 129}, {"date": "1975-12-27", "rank": 97}, {"date": "1976-01-03", "rank": 86}, {"date": "1976-01-10", "rank": 71}, {"date": "1976-01-17", "rank": 62}, {"date": "1976-01-24", "rank": 51}, {"date": "1976-01-31", "rank": 41}, {"date": "1976-02-07", "rank": 30}, {"date": "1976-02-14", "rank": 28}, {"date": "1976-02-21", "rank": 26}, {"date": "1976-02-28", "rank": 25}, {"date": "1976-03-06", "rank": 24}, {"date": "1976-03-13", "rank": 22}, {"date": "1976-03-20", "rank": 20}, {"date": "1976-03-27", "rank": 18}, {"date": "1976-04-03", "rank": 16}, {"date": "1976-04-10", "rank": 14}, {"date": "1976-04-17", "rank": 14}, {"date": "1976-04-24", "rank": 26}, {"date": "1976-05-01", "rank": 30}, {"date": "1976-05-08", "rank": 40}, {"date": "1976-05-15", "rank": 50}, {"date": "1976-05-22", "rank": 88}, {"date": "1976-05-29", "rank": 88}, {"date": "1976-06-05", "rank": 98}, {"date": "1976-06-12", "rank": 118}, {"date": "1976-06-19", "rank": 127}, {"date": "1976-06-26", "rank": 124}, {"date": "1976-07-03", "rank": 121}, {"date": "1976-07-10", "rank": 111}, {"date": "1976-07-17", "rank": 111}, {"date": "1976-07-24", "rank": 121}, {"date": "1976-07-31", "rank": 119}, {"date": "1976-08-07", "rank": 129}, {"date": "1976-08-14", "rank": 127}, {"date": "1976-08-21", "rank": 147}, {"date": "1976-08-28", "rank": 168}, {"date": "1976-09-04", "rank": 158}, {"date": "1976-09-11", "rank": 156}, {"date": "1976-09-18", "rank": 150}, {"date": "1976-09-25", "rank": 148}, {"date": "1976-10-02", "rank": 168}]}
+{
+  "id": "the-salsoul-orchestra-the-salsoul-orchestra",
+  "title": "The Salsoul Orchestra",
+  "artist": "The Salsoul Orchestra",
+  "peak": 14,
+  "history": [
+    {
+      "date": "1975-11-29",
+      "rank": 190
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 179
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 169
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 129
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 97
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 86
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 71
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 62
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 51
+    },
+    {
+      "date": "1976-01-31",
+      "rank": 41
+    },
+    {
+      "date": "1976-02-07",
+      "rank": 30
+    },
+    {
+      "date": "1976-02-14",
+      "rank": 28
+    },
+    {
+      "date": "1976-02-21",
+      "rank": 26
+    },
+    {
+      "date": "1976-02-28",
+      "rank": 25
+    },
+    {
+      "date": "1976-03-06",
+      "rank": 24
+    },
+    {
+      "date": "1976-03-13",
+      "rank": 22
+    },
+    {
+      "date": "1976-03-20",
+      "rank": 20
+    },
+    {
+      "date": "1976-03-27",
+      "rank": 18
+    },
+    {
+      "date": "1976-04-03",
+      "rank": 16
+    },
+    {
+      "date": "1976-04-10",
+      "rank": 14
+    },
+    {
+      "date": "1976-04-17",
+      "rank": 14
+    },
+    {
+      "date": "1976-04-24",
+      "rank": 26
+    },
+    {
+      "date": "1976-05-01",
+      "rank": 30
+    },
+    {
+      "date": "1976-05-08",
+      "rank": 40
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 50
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 88
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 88
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 98
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 118
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 127
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 124
+    },
+    {
+      "date": "1976-07-03",
+      "rank": 121
+    },
+    {
+      "date": "1976-07-10",
+      "rank": 111
+    },
+    {
+      "date": "1976-07-17",
+      "rank": 111
+    },
+    {
+      "date": "1976-07-24",
+      "rank": 121
+    },
+    {
+      "date": "1976-07-31",
+      "rank": 119
+    },
+    {
+      "date": "1976-08-07",
+      "rank": 129
+    },
+    {
+      "date": "1976-08-14",
+      "rank": 127
+    },
+    {
+      "date": "1976-08-21",
+      "rank": 147
+    },
+    {
+      "date": "1976-08-28",
+      "rank": 168
+    },
+    {
+      "date": "1976-09-04",
+      "rank": 158
+    },
+    {
+      "date": "1976-09-11",
+      "rank": 156
+    },
+    {
+      "date": "1976-09-18",
+      "rank": 150
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 148
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Salsoul Hustle",
+      "id": "salsoul-hustle-the-salsoul-orchestra"
+    },
+    {
+      "title": "You're Just the Right Size",
+      "id": "you-re-just-the-right-size-the-salsoul-orchestra"
+    },
+    {
+      "title": "Tangerine",
+      "id": "tangerine-the-salsoul-orchestra"
+    },
+    {
+      "title": "Get Happy",
+      "id": null
+    },
+    {
+      "title": "Chicago Bus Stop (Ooh, I Love It)",
+      "id": null
+    },
+    {
+      "title": "Tale of Three Cities",
+      "id": null
+    },
+    {
+      "title": "Salsoul Rainbow",
+      "id": null
+    },
+    {
+      "title": "Love Letters",
+      "id": null
+    }
+  ]
+}

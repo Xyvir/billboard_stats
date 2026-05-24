@@ -1,1 +1,74 @@
-{"id": "the-second-album-707", "title": "The Second Album", "artist": "707", "peak": 159, "history": [{"date": "1981-02-07", "rank": 190}, {"date": "1981-02-14", "rank": 180}, {"date": "1981-02-21", "rank": 170}, {"date": "1981-02-28", "rank": 160}, {"date": "1981-03-07", "rank": 160}, {"date": "1981-03-14", "rank": 159}]}
+{
+  "id": "the-second-album-707",
+  "title": "The Second Album",
+  "artist": "707",
+  "peak": 159,
+  "history": [
+    {
+      "date": "1981-02-07",
+      "rank": 190
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 180
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 170
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 160
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 160
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tonite's Your Nite",
+      "id": null
+    },
+    {
+      "title": "Millionaire",
+      "id": null
+    },
+    {
+      "title": "Live With the Girl",
+      "id": null
+    },
+    {
+      "title": "Strings Around My Heart",
+      "id": null
+    },
+    {
+      "title": "Pressure Rise",
+      "id": null
+    },
+    {
+      "title": "Rockin' Is Easy",
+      "id": null
+    },
+    {
+      "title": "City Life",
+      "id": null
+    },
+    {
+      "title": "Live Without Her",
+      "id": null
+    },
+    {
+      "title": "Love On the Run",
+      "id": null
+    },
+    {
+      "title": "The Party's Over",
+      "id": null
+    }
+  ]
+}

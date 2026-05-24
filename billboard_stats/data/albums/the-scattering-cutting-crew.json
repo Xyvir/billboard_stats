@@ -1,1 +1,82 @@
-{"id": "the-scattering-cutting-crew", "title": "The Scattering", "artist": "Cutting Crew", "peak": 150, "history": [{"date": "1989-06-03", "rank": 190}, {"date": "1989-06-10", "rank": 166}, {"date": "1989-06-17", "rank": 150}, {"date": "1989-06-24", "rank": 150}, {"date": "1989-07-01", "rank": 165}, {"date": "1989-07-08", "rank": 197}]}
+{
+  "id": "the-scattering-cutting-crew",
+  "title": "The Scattering",
+  "artist": "Cutting Crew",
+  "peak": 150,
+  "history": [
+    {
+      "date": "1989-06-03",
+      "rank": 190
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 166
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 150
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 150
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 165
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "(Between a) Rock and a Hard Place",
+      "id": "between-a-rock-and-a-hard-place-cutting-crew"
+    },
+    {
+      "title": "Year in the Wilderness",
+      "id": null
+    },
+    {
+      "title": "The Scattering",
+      "id": null
+    },
+    {
+      "title": "Big Noise",
+      "id": null
+    },
+    {
+      "title": "Everything but My Pride",
+      "id": null
+    },
+    {
+      "title": "Handcuffs for Houdini",
+      "id": null
+    },
+    {
+      "title": "Tip of Your Tongue",
+      "id": null
+    },
+    {
+      "title": "Reach for the Sky",
+      "id": null
+    },
+    {
+      "title": "The Last Thing",
+      "id": null
+    },
+    {
+      "title": "Feel the Wedge",
+      "id": null
+    },
+    {
+      "title": "Binkies Return",
+      "id": null
+    },
+    {
+      "title": "Brag",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,46 @@
-{"id": "the-season-steve-perry", "title": "The Season", "artist": "Steve Perry", "peak": 80, "history": [{"date": "2021-11-20", "rank": 80}]}
+{
+  "id": "the-season-steve-perry",
+  "title": "The Season",
+  "artist": "Steve Perry",
+  "peak": 80,
+  "history": [
+    {
+      "date": "2021-11-20",
+      "rank": 80
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Christmas Song",
+      "id": null
+    },
+    {
+      "title": "I'll Be Home for Christmas",
+      "id": null
+    },
+    {
+      "title": "Auld Lang Syne",
+      "id": null
+    },
+    {
+      "title": "Winter Wonderland",
+      "id": null
+    },
+    {
+      "title": "What Are You Doing New Year's Eve",
+      "id": null
+    },
+    {
+      "title": "Santa Claus is Coming to Town",
+      "id": null
+    },
+    {
+      "title": "Silver Bells",
+      "id": null
+    },
+    {
+      "title": "Have Yourself a Merry Little Christmas",
+      "id": null
+    }
+  ]
+}
