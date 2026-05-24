@@ -1,1 +1,66 @@
-{"id": "never-been-gone-carly-simon", "title": "Never Been Gone", "artist": "Carly Simon", "peak": 134, "history": [{"date": "2009-11-14", "rank": 134}, {"date": "2009-11-21", "rank": 165}]}
+{
+  "id": "never-been-gone-carly-simon",
+  "title": "Never Been Gone",
+  "artist": "Carly Simon",
+  "peak": 134,
+  "history": [
+    {
+      "date": "2009-11-14",
+      "rank": 134
+    },
+    {
+      "date": "2009-11-21",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Right Thing to Do",
+      "id": "the-right-thing-to-do-carly-simon"
+    },
+    {
+      "title": "You’re So Vain",
+      "id": "you-re-so-vain-carly-simon"
+    },
+    {
+      "title": "You Belong to Me",
+      "id": "you-belong-to-me-carly-simon"
+    },
+    {
+      "title": "That’s the Way I’ve Always Heard It Should Be",
+      "id": "that-s-the-way-i-ve-always-heard-it-should-be-carly-simon"
+    },
+    {
+      "title": "Coming Around Again",
+      "id": "coming-around-again-carly-simon"
+    },
+    {
+      "title": "Anticipation",
+      "id": "anticipation-carly-simon"
+    },
+    {
+      "title": "It Happens Every Day",
+      "id": null
+    },
+    {
+      "title": "Never Been Gone",
+      "id": null
+    },
+    {
+      "title": "Boys in the Trees",
+      "id": null
+    },
+    {
+      "title": "Let the River Run",
+      "id": null
+    },
+    {
+      "title": "No Freedom",
+      "id": null
+    },
+    {
+      "title": "Songbird",
+      "id": null
+    }
+  ]
+}

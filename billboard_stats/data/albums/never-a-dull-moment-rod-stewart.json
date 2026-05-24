@@ -1,1 +1,190 @@
-{"id": "never-a-dull-moment-rod-stewart", "title": "Never A Dull Moment", "artist": "Rod Stewart", "peak": 2, "history": [{"date": "1972-08-12", "rank": 29}, {"date": "1972-08-19", "rank": 11}, {"date": "1972-08-26", "rank": 8}, {"date": "1972-09-02", "rank": 4}, {"date": "1972-09-09", "rank": 2}, {"date": "1972-09-16", "rank": 2}, {"date": "1972-09-23", "rank": 2}, {"date": "1972-09-30", "rank": 3}, {"date": "1972-10-07", "rank": 3}, {"date": "1972-10-14", "rank": 3}, {"date": "1972-10-21", "rank": 4}, {"date": "1972-10-28", "rank": 4}, {"date": "1972-11-04", "rank": 4}, {"date": "1972-11-11", "rank": 9}, {"date": "1972-11-18", "rank": 9}, {"date": "1972-11-25", "rank": 10}, {"date": "1972-12-02", "rank": 14}, {"date": "1972-12-09", "rank": 15}, {"date": "1972-12-16", "rank": 17}, {"date": "1972-12-23", "rank": 20}, {"date": "1972-12-30", "rank": 31}, {"date": "1973-01-06", "rank": 47}, {"date": "1973-01-13", "rank": 52}, {"date": "1973-01-20", "rank": 53}, {"date": "1973-01-27", "rank": 54}, {"date": "1973-02-03", "rank": 56}, {"date": "1973-02-10", "rank": 67}, {"date": "1973-02-17", "rank": 75}, {"date": "1973-02-24", "rank": 84}, {"date": "1973-03-03", "rank": 92}, {"date": "1973-03-10", "rank": 101}, {"date": "1973-03-17", "rank": 126}, {"date": "1973-03-24", "rank": 147}, {"date": "1973-03-31", "rank": 158}, {"date": "1973-04-07", "rank": 163}, {"date": "1973-04-14", "rank": 189}]}
+{
+  "id": "never-a-dull-moment-rod-stewart",
+  "title": "Never A Dull Moment",
+  "artist": "Rod Stewart",
+  "peak": 2,
+  "history": [
+    {
+      "date": "1972-08-12",
+      "rank": 29
+    },
+    {
+      "date": "1972-08-19",
+      "rank": 11
+    },
+    {
+      "date": "1972-08-26",
+      "rank": 8
+    },
+    {
+      "date": "1972-09-02",
+      "rank": 4
+    },
+    {
+      "date": "1972-09-09",
+      "rank": 2
+    },
+    {
+      "date": "1972-09-16",
+      "rank": 2
+    },
+    {
+      "date": "1972-09-23",
+      "rank": 2
+    },
+    {
+      "date": "1972-09-30",
+      "rank": 3
+    },
+    {
+      "date": "1972-10-07",
+      "rank": 3
+    },
+    {
+      "date": "1972-10-14",
+      "rank": 3
+    },
+    {
+      "date": "1972-10-21",
+      "rank": 4
+    },
+    {
+      "date": "1972-10-28",
+      "rank": 4
+    },
+    {
+      "date": "1972-11-04",
+      "rank": 4
+    },
+    {
+      "date": "1972-11-11",
+      "rank": 9
+    },
+    {
+      "date": "1972-11-18",
+      "rank": 9
+    },
+    {
+      "date": "1972-11-25",
+      "rank": 10
+    },
+    {
+      "date": "1972-12-02",
+      "rank": 14
+    },
+    {
+      "date": "1972-12-09",
+      "rank": 15
+    },
+    {
+      "date": "1972-12-16",
+      "rank": 17
+    },
+    {
+      "date": "1972-12-23",
+      "rank": 20
+    },
+    {
+      "date": "1972-12-30",
+      "rank": 31
+    },
+    {
+      "date": "1973-01-06",
+      "rank": 47
+    },
+    {
+      "date": "1973-01-13",
+      "rank": 52
+    },
+    {
+      "date": "1973-01-20",
+      "rank": 53
+    },
+    {
+      "date": "1973-01-27",
+      "rank": 54
+    },
+    {
+      "date": "1973-02-03",
+      "rank": 56
+    },
+    {
+      "date": "1973-02-10",
+      "rank": 67
+    },
+    {
+      "date": "1973-02-17",
+      "rank": 75
+    },
+    {
+      "date": "1973-02-24",
+      "rank": 84
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 92
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 101
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 126
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 147
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 158
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 163
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Angel",
+      "id": "angel-rod-stewart"
+    },
+    {
+      "title": "You Wear It Well",
+      "id": "you-wear-it-well-rod-stewart"
+    },
+    {
+      "title": "Twistin’ the Night Away",
+      "id": "twisting-the-night-away-rod-stewart"
+    },
+    {
+      "title": "True Blue",
+      "id": null
+    },
+    {
+      "title": "Lost Paraguayos",
+      "id": null
+    },
+    {
+      "title": "Mama You Been on My Mind",
+      "id": null
+    },
+    {
+      "title": "Italian Girls",
+      "id": null
+    },
+    {
+      "title": "Interludings",
+      "id": null
+    },
+    {
+      "title": "I’d Rather Go Blind",
+      "id": null
+    }
+  ]
+}

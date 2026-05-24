@@ -1,1 +1,82 @@
-{"id": "nemesis-axe", "title": "Nemesis", "artist": "Axe", "peak": 156, "history": [{"date": "1983-09-10", "rank": 174}, {"date": "1983-09-17", "rank": 169}, {"date": "1983-09-24", "rank": 161}, {"date": "1983-10-01", "rank": 158}, {"date": "1983-10-08", "rank": 156}, {"date": "1983-10-15", "rank": 174}]}
+{
+  "id": "nemesis-axe",
+  "title": "Nemesis",
+  "artist": "Axe",
+  "peak": 156,
+  "history": [
+    {
+      "date": "1983-09-10",
+      "rank": 174
+    },
+    {
+      "date": "1983-09-17",
+      "rank": 169
+    },
+    {
+      "date": "1983-09-24",
+      "rank": 161
+    },
+    {
+      "date": "1983-10-01",
+      "rank": 158
+    },
+    {
+      "date": "1983-10-08",
+      "rank": 156
+    },
+    {
+      "date": "1983-10-15",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Think You’ll Remember Tonight",
+      "id": "i-think-you-ll-remember-tonight-axe"
+    },
+    {
+      "title": "Heat in the Street",
+      "id": null
+    },
+    {
+      "title": "Young Hearts",
+      "id": null
+    },
+    {
+      "title": "All Through the Night",
+      "id": null
+    },
+    {
+      "title": "She’s Had the Power",
+      "id": null
+    },
+    {
+      "title": "Girls, Girls, Girls",
+      "id": null
+    },
+    {
+      "title": "Eagle Flies Alone",
+      "id": null
+    },
+    {
+      "title": "Keep Playing That Rock ’n’ Roll",
+      "id": null
+    },
+    {
+      "title": "Foolin’ Your Mama Again",
+      "id": null
+    },
+    {
+      "title": "Let the Music Come Back",
+      "id": null
+    },
+    {
+      "title": "Masquerade",
+      "id": null
+    },
+    {
+      "title": "Midnight",
+      "id": null
+    }
+  ]
+}

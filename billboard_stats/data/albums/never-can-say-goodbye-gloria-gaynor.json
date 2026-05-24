@@ -1,1 +1,102 @@
-{"id": "never-can-say-goodbye-gloria-gaynor", "title": "Never Can Say Goodbye", "artist": "Gloria Gaynor", "peak": 25, "history": [{"date": "1975-02-01", "rank": 160}, {"date": "1975-02-08", "rank": 97}, {"date": "1975-02-15", "rank": 67}, {"date": "1975-02-22", "rank": 39}, {"date": "1975-03-01", "rank": 31}, {"date": "1975-03-08", "rank": 25}, {"date": "1975-03-15", "rank": 25}, {"date": "1975-03-22", "rank": 30}, {"date": "1975-03-29", "rank": 65}, {"date": "1975-04-05", "rank": 79}, {"date": "1975-04-12", "rank": 98}, {"date": "1975-04-19", "rank": 113}, {"date": "1975-04-26", "rank": 119}, {"date": "1975-05-03", "rank": 141}, {"date": "1975-05-10", "rank": 177}]}
+{
+  "id": "never-can-say-goodbye-gloria-gaynor",
+  "title": "Never Can Say Goodbye",
+  "artist": "Gloria Gaynor",
+  "peak": 25,
+  "history": [
+    {
+      "date": "1975-02-01",
+      "rank": 160
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 97
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 67
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 39
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 31
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 25
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 25
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 30
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 65
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 79
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 98
+    },
+    {
+      "date": "1975-04-19",
+      "rank": 113
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 119
+    },
+    {
+      "date": "1975-05-03",
+      "rank": 141
+    },
+    {
+      "date": "1975-05-10",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Never Can Say Goodbye",
+      "id": "never-can-say-goodbye-gloria-gaynor"
+    },
+    {
+      "title": "Reach Out, I’ll Be There",
+      "id": "reach-out-i-ll-be-there-gloria-gaynor"
+    },
+    {
+      "title": "Honey Bee",
+      "id": null
+    },
+    {
+      "title": "All I Need Is Your Sweet Lovin’",
+      "id": null
+    },
+    {
+      "title": "Searchin’",
+      "id": null
+    },
+    {
+      "title": "We Belong Together",
+      "id": null
+    },
+    {
+      "title": "False Alarm",
+      "id": null
+    },
+    {
+      "title": "Real Good People",
+      "id": null
+    }
+  ]
+}
