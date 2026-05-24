@@ -1,1 +1,82 @@
-{"id": "none-shall-pass-aesop-rock", "title": "None Shall Pass", "artist": "Aesop Rock", "peak": 50, "history": [{"date": "2007-09-15", "rank": 50}, {"date": "2007-09-22", "rank": 102}, {"date": "2007-09-29", "rank": 97}, {"date": "2007-10-06", "rank": 169}]}
+{
+  "id": "none-shall-pass-aesop-rock",
+  "title": "None Shall Pass",
+  "artist": "Aesop Rock",
+  "peak": 50,
+  "history": [
+    {
+      "date": "2007-09-15",
+      "rank": 50
+    },
+    {
+      "date": "2007-09-22",
+      "rank": 102
+    },
+    {
+      "date": "2007-09-29",
+      "rank": 97
+    },
+    {
+      "date": "2007-10-06",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Keep Off the Lawn",
+      "id": null
+    },
+    {
+      "title": "None Shall Pass",
+      "id": null
+    },
+    {
+      "title": "Catacomb Kids",
+      "id": null
+    },
+    {
+      "title": "Bring Back Pluto",
+      "id": null
+    },
+    {
+      "title": "Fumes",
+      "id": null
+    },
+    {
+      "title": "Getaway Car",
+      "id": null
+    },
+    {
+      "title": "39 Thieves",
+      "id": null
+    },
+    {
+      "title": "The Harbor Is Yours",
+      "id": null
+    },
+    {
+      "title": "Citronella",
+      "id": null
+    },
+    {
+      "title": "Gun for the Whole Family",
+      "id": null
+    },
+    {
+      "title": "Five Fingers",
+      "id": null
+    },
+    {
+      "title": "No City",
+      "id": null
+    },
+    {
+      "title": "Dark Heart News",
+      "id": null
+    },
+    {
+      "title": "Coffee / Pigs",
+      "id": null
+    }
+  ]
+}
