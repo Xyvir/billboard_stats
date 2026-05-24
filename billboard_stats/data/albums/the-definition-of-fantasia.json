@@ -1,1 +1,74 @@
-{"id": "the-definition-of-fantasia", "title": "The Definition Of...", "artist": "Fantasia", "peak": 6, "history": [{"date": "2016-08-20", "rank": 6}, {"date": "2016-08-27", "rank": 66}, {"date": "2016-09-03", "rank": 110}, {"date": "2016-09-10", "rank": 147}, {"date": "2016-09-17", "rank": 198}]}
+{
+  "id": "the-definition-of-fantasia",
+  "title": "The Definition Of...",
+  "artist": "Fantasia",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2016-08-20",
+      "rank": 6
+    },
+    {
+      "date": "2016-08-27",
+      "rank": 66
+    },
+    {
+      "date": "2016-09-03",
+      "rank": 110
+    },
+    {
+      "date": "2016-09-10",
+      "rank": 147
+    },
+    {
+      "date": "2016-09-17",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When I Met You",
+      "id": "when-i-see-u-fantasia"
+    },
+    {
+      "title": "Crazy",
+      "id": null
+    },
+    {
+      "title": "No Time for It",
+      "id": null
+    },
+    {
+      "title": "So Blue",
+      "id": null
+    },
+    {
+      "title": "Sleeping With the One I Love",
+      "id": null
+    },
+    {
+      "title": "Stay Up",
+      "id": null
+    },
+    {
+      "title": "Ugly",
+      "id": null
+    },
+    {
+      "title": "Wait for You",
+      "id": null
+    },
+    {
+      "title": "Roller Coasters",
+      "id": null
+    },
+    {
+      "title": "Lonely Legend",
+      "id": null
+    },
+    {
+      "title": "I Made It",
+      "id": null
+    }
+  ]
+}

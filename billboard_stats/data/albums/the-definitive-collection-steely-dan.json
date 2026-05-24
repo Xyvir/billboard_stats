@@ -1,1 +1,98 @@
-{"id": "the-definitive-collection-steely-dan", "title": "The Definitive Collection", "artist": "Steely Dan", "peak": 92, "history": [{"date": "2006-08-19", "rank": 92}, {"date": "2006-08-26", "rank": 152}, {"date": "2006-09-02", "rank": 155}, {"date": "2006-09-09", "rank": 168}, {"date": "2006-09-16", "rank": 192}, {"date": "2006-09-23", "rank": 196}]}
+{
+  "id": "the-definitive-collection-steely-dan",
+  "title": "The Definitive Collection",
+  "artist": "Steely Dan",
+  "peak": 92,
+  "history": [
+    {
+      "date": "2006-08-19",
+      "rank": 92
+    },
+    {
+      "date": "2006-08-26",
+      "rank": 152
+    },
+    {
+      "date": "2006-09-02",
+      "rank": 155
+    },
+    {
+      "date": "2006-09-09",
+      "rank": 168
+    },
+    {
+      "date": "2006-09-16",
+      "rank": 192
+    },
+    {
+      "date": "2006-09-23",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Do It Again",
+      "id": "do-it-again-steely-dan"
+    },
+    {
+      "title": "Reelin’ In the Years",
+      "id": "reeling-in-the-years-steely-dan"
+    },
+    {
+      "title": "My Old School",
+      "id": "my-old-school-steely-dan"
+    },
+    {
+      "title": "Rikki Don’t Lose That Number",
+      "id": "rikki-don-t-lose-that-number-steely-dan"
+    },
+    {
+      "title": "Black Friday",
+      "id": "black-friday-steely-dan"
+    },
+    {
+      "title": "Kid Charlemagne",
+      "id": "kid-charlemagne-steely-dan"
+    },
+    {
+      "title": "Deacon Blues",
+      "id": "deacon-blues-steely-dan"
+    },
+    {
+      "title": "Peg",
+      "id": "peg-steely-dan"
+    },
+    {
+      "title": "Hey Nineteen",
+      "id": "hey-nineteen-steely-dan"
+    },
+    {
+      "title": "Dirty Work",
+      "id": null
+    },
+    {
+      "title": "Bodhisattva",
+      "id": null
+    },
+    {
+      "title": "Bad Sneakers",
+      "id": null
+    },
+    {
+      "title": "FM",
+      "id": null
+    },
+    {
+      "title": "Babylon Sisters",
+      "id": null
+    },
+    {
+      "title": "Cousin Dupree",
+      "id": null
+    },
+    {
+      "title": "Things I Miss the Most",
+      "id": null
+    }
+  ]
+}

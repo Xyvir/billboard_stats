@@ -1,1 +1,70 @@
-{"id": "the-dells-vs-the-dramatics-the-dells", "title": "The Dells vs. The Dramatics", "artist": "The Dells", "peak": 156, "history": [{"date": "1974-05-04", "rank": 177}, {"date": "1974-05-11", "rank": 167}, {"date": "1974-05-18", "rank": 160}, {"date": "1974-05-25", "rank": 156}, {"date": "1974-06-01", "rank": 160}, {"date": "1974-06-08", "rank": 161}]}
+{
+  "id": "the-dells-vs-the-dramatics-the-dells",
+  "title": "The Dells vs. The Dramatics",
+  "artist": "The Dells",
+  "peak": 156,
+  "history": [
+    {
+      "date": "1974-05-04",
+      "rank": 177
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 167
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 160
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 156
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 160
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I'm in Love",
+      "id": "o-o-i-love-you-the-dells"
+    },
+    {
+      "title": "Strung Out Over You",
+      "id": "o-o-i-love-you-the-dells"
+    },
+    {
+      "title": "I Wish It Was Me You Loved",
+      "id": "i-wish-it-was-me-you-loved-the-dells"
+    },
+    {
+      "title": "Love Is Missing From Our Lives",
+      "id": null
+    },
+    {
+      "title": "Choosing Up on You",
+      "id": null
+    },
+    {
+      "title": "Playin' the Love Game",
+      "id": null
+    },
+    {
+      "title": "Door to Your Heart",
+      "id": null
+    },
+    {
+      "title": "Don't Make Me No Promises",
+      "id": null
+    },
+    {
+      "title": "Tune Up",
+      "id": null
+    }
+  ]
+}

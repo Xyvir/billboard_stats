@@ -1,1 +1,122 @@
-{"id": "the-definitive-collection-michael-jackson", "title": "The Definitive Collection", "artist": "Michael Jackson", "peak": 39, "history": [{"date": "2009-09-12", "rank": 46}, {"date": "2009-09-19", "rank": 39}, {"date": "2009-09-26", "rank": 70}, {"date": "2009-10-03", "rank": 70}, {"date": "2009-10-10", "rank": 87}, {"date": "2009-10-17", "rank": 120}, {"date": "2009-10-24", "rank": 152}, {"date": "2009-10-31", "rank": 175}, {"date": "2009-11-07", "rank": 163}, {"date": "2009-11-14", "rank": 191}]}
+{
+  "id": "the-definitive-collection-michael-jackson",
+  "title": "The Definitive Collection",
+  "artist": "Michael Jackson",
+  "peak": 39,
+  "history": [
+    {
+      "date": "2009-09-12",
+      "rank": 46
+    },
+    {
+      "date": "2009-09-19",
+      "rank": 39
+    },
+    {
+      "date": "2009-09-26",
+      "rank": 70
+    },
+    {
+      "date": "2009-10-03",
+      "rank": 70
+    },
+    {
+      "date": "2009-10-10",
+      "rank": 87
+    },
+    {
+      "date": "2009-10-17",
+      "rank": 120
+    },
+    {
+      "date": "2009-10-24",
+      "rank": 152
+    },
+    {
+      "date": "2009-10-31",
+      "rank": 175
+    },
+    {
+      "date": "2009-11-07",
+      "rank": 163
+    },
+    {
+      "date": "2009-11-14",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’ll Be There",
+      "id": "will-you-be-there-michael-jackson"
+    },
+    {
+      "title": "Got to Be There",
+      "id": "got-to-be-there-michael-jackson"
+    },
+    {
+      "title": "Rockin’ Robin",
+      "id": "rockin-robin-michael-jackson"
+    },
+    {
+      "title": "I Wanna Be Where You Are",
+      "id": "i-wanna-be-where-you-are-michael-jackson"
+    },
+    {
+      "title": "Ben",
+      "id": "ben-michael-jackson"
+    },
+    {
+      "title": "With a Child’s Heart",
+      "id": "with-a-child-s-heart-michael-jackson"
+    },
+    {
+      "title": "One Day in Your Life",
+      "id": "one-day-in-your-life-michael-jackson"
+    },
+    {
+      "title": "We’re Almost There",
+      "id": "we-re-almost-there-michael-jackson"
+    },
+    {
+      "title": "Just a Little Bit of You",
+      "id": "just-a-little-bit-of-you-michael-jackson"
+    },
+    {
+      "title": "Farewell My Summer Love",
+      "id": "farewell-my-summer-love-michael-jackson"
+    },
+    {
+      "title": "I Want You Back",
+      "id": null
+    },
+    {
+      "title": "ABC",
+      "id": null
+    },
+    {
+      "title": "The Love You Save",
+      "id": null
+    },
+    {
+      "title": "Never Can Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "Maybe Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Ain’t No Sunshine",
+      "id": null
+    },
+    {
+      "title": "Dancing Machine",
+      "id": null
+    },
+    {
+      "title": "Who’s Lovin’ You",
+      "id": null
+    }
+  ]
+}
