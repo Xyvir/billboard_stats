@@ -1,1 +1,222 @@
-{"id": "out-of-exile-audioslave", "title": "Out Of Exile", "artist": "Audioslave", "peak": 1, "history": [{"date": "2005-06-11", "rank": 1}, {"date": "2005-06-18", "rank": 3}, {"date": "2005-06-25", "rank": 10}, {"date": "2005-07-02", "rank": 15}, {"date": "2005-07-09", "rank": 25}, {"date": "2005-07-16", "rank": 29}, {"date": "2005-07-23", "rank": 31}, {"date": "2005-07-30", "rank": 38}, {"date": "2005-08-06", "rank": 40}, {"date": "2005-08-13", "rank": 53}, {"date": "2005-08-20", "rank": 46}, {"date": "2005-08-27", "rank": 49}, {"date": "2005-09-03", "rank": 66}, {"date": "2005-09-10", "rank": 62}, {"date": "2005-09-17", "rank": 74}, {"date": "2005-09-24", "rank": 61}, {"date": "2005-10-01", "rank": 82}, {"date": "2005-10-08", "rank": 88}, {"date": "2005-10-15", "rank": 96}, {"date": "2005-10-22", "rank": 108}, {"date": "2005-10-29", "rank": 98}, {"date": "2005-11-05", "rank": 96}, {"date": "2005-11-12", "rank": 99}, {"date": "2005-11-19", "rank": 105}, {"date": "2005-11-26", "rank": 130}, {"date": "2005-12-03", "rank": 146}, {"date": "2005-12-10", "rank": 164}, {"date": "2005-12-17", "rank": 147}, {"date": "2005-12-24", "rank": 124}, {"date": "2005-12-31", "rank": 130}, {"date": "2006-01-07", "rank": 130}, {"date": "2006-01-14", "rank": 119}, {"date": "2006-01-21", "rank": 131}, {"date": "2006-01-28", "rank": 136}, {"date": "2006-02-04", "rank": 143}, {"date": "2006-02-11", "rank": 152}, {"date": "2006-02-18", "rank": 168}, {"date": "2006-02-25", "rank": 194}, {"date": "2006-03-04", "rank": 187}]}
+{
+  "id": "out-of-exile-audioslave",
+  "title": "Out Of Exile",
+  "artist": "Audioslave",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2005-06-11",
+      "rank": 1
+    },
+    {
+      "date": "2005-06-18",
+      "rank": 3
+    },
+    {
+      "date": "2005-06-25",
+      "rank": 10
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 15
+    },
+    {
+      "date": "2005-07-09",
+      "rank": 25
+    },
+    {
+      "date": "2005-07-16",
+      "rank": 29
+    },
+    {
+      "date": "2005-07-23",
+      "rank": 31
+    },
+    {
+      "date": "2005-07-30",
+      "rank": 38
+    },
+    {
+      "date": "2005-08-06",
+      "rank": 40
+    },
+    {
+      "date": "2005-08-13",
+      "rank": 53
+    },
+    {
+      "date": "2005-08-20",
+      "rank": 46
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 49
+    },
+    {
+      "date": "2005-09-03",
+      "rank": 66
+    },
+    {
+      "date": "2005-09-10",
+      "rank": 62
+    },
+    {
+      "date": "2005-09-17",
+      "rank": 74
+    },
+    {
+      "date": "2005-09-24",
+      "rank": 61
+    },
+    {
+      "date": "2005-10-01",
+      "rank": 82
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 88
+    },
+    {
+      "date": "2005-10-15",
+      "rank": 96
+    },
+    {
+      "date": "2005-10-22",
+      "rank": 108
+    },
+    {
+      "date": "2005-10-29",
+      "rank": 98
+    },
+    {
+      "date": "2005-11-05",
+      "rank": 96
+    },
+    {
+      "date": "2005-11-12",
+      "rank": 99
+    },
+    {
+      "date": "2005-11-19",
+      "rank": 105
+    },
+    {
+      "date": "2005-11-26",
+      "rank": 130
+    },
+    {
+      "date": "2005-12-03",
+      "rank": 146
+    },
+    {
+      "date": "2005-12-10",
+      "rank": 164
+    },
+    {
+      "date": "2005-12-17",
+      "rank": 147
+    },
+    {
+      "date": "2005-12-24",
+      "rank": 124
+    },
+    {
+      "date": "2005-12-31",
+      "rank": 130
+    },
+    {
+      "date": "2006-01-07",
+      "rank": 130
+    },
+    {
+      "date": "2006-01-14",
+      "rank": 119
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 131
+    },
+    {
+      "date": "2006-01-28",
+      "rank": 136
+    },
+    {
+      "date": "2006-02-04",
+      "rank": 143
+    },
+    {
+      "date": "2006-02-11",
+      "rank": 152
+    },
+    {
+      "date": "2006-02-18",
+      "rank": 168
+    },
+    {
+      "date": "2006-02-25",
+      "rank": 194
+    },
+    {
+      "date": "2006-03-04",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Be Yourself",
+      "id": "be-yourself-audioslave"
+    },
+    {
+      "title": "Doesn’t Remind Me",
+      "id": "doesn-t-remind-me-audioslave"
+    },
+    {
+      "title": "The Curse",
+      "id": "be-yourself-audioslave"
+    },
+    {
+      "title": "Like a Stone (live)",
+      "id": "like-a-stone-audioslave"
+    },
+    {
+      "title": "Your Time Has Come",
+      "id": null
+    },
+    {
+      "title": "Out of Exile",
+      "id": null
+    },
+    {
+      "title": "Drown Me Slowly",
+      "id": null
+    },
+    {
+      "title": "Heaven’s Dead",
+      "id": null
+    },
+    {
+      "title": "The Worm",
+      "id": null
+    },
+    {
+      "title": "Man or Animal",
+      "id": null
+    },
+    {
+      "title": "Yesterday to Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Dandelion",
+      "id": null
+    },
+    {
+      "title": "#1 Zero",
+      "id": null
+    },
+    {
+      "title": "Super Stupid",
+      "id": null
+    }
+  ]
+}

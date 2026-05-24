@@ -1,1 +1,54 @@
-{"id": "out-of-the-storm-jack-bruce", "title": "Out Of The Storm", "artist": "Jack Bruce", "peak": 160, "history": [{"date": "1974-12-07", "rank": 183}, {"date": "1974-12-14", "rank": 166}, {"date": "1974-12-21", "rank": 160}]}
+{
+  "id": "out-of-the-storm-jack-bruce",
+  "title": "Out Of The Storm",
+  "artist": "Jack Bruce",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1974-12-07",
+      "rank": 183
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 166
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pieces of Mind",
+      "id": null
+    },
+    {
+      "title": "Golden Days",
+      "id": null
+    },
+    {
+      "title": "Running Through Our Hands",
+      "id": null
+    },
+    {
+      "title": "Keep on Wondering",
+      "id": null
+    },
+    {
+      "title": "Keep It Down",
+      "id": null
+    },
+    {
+      "title": "Into the Storm",
+      "id": null
+    },
+    {
+      "title": "One",
+      "id": null
+    },
+    {
+      "title": "Timeslip",
+      "id": null
+    }
+  ]
+}

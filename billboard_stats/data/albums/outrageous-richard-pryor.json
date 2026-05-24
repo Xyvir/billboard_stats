@@ -1,1 +1,74 @@
-{"id": "outrageous-richard-pryor", "title": "Outrageous", "artist": "Richard Pryor", "peak": 176, "history": [{"date": "1979-09-08", "rank": 186}, {"date": "1979-09-15", "rank": 176}, {"date": "1979-09-22", "rank": 176}, {"date": "1979-09-29", "rank": 181}]}
+{
+  "id": "outrageous-richard-pryor",
+  "title": "Outrageous",
+  "artist": "Richard Pryor",
+  "peak": 176,
+  "history": [
+    {
+      "date": "1979-09-08",
+      "rank": 186
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 176
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 176
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Operation",
+      "id": null
+    },
+    {
+      "title": "Throw Up",
+      "id": null
+    },
+    {
+      "title": "Improvisation",
+      "id": null
+    },
+    {
+      "title": "Looters",
+      "id": null
+    },
+    {
+      "title": "Bathroom",
+      "id": null
+    },
+    {
+      "title": "White Chicks",
+      "id": null
+    },
+    {
+      "title": "True Story of J.C.",
+      "id": null
+    },
+    {
+      "title": "I Feel",
+      "id": null
+    },
+    {
+      "title": "Fighting",
+      "id": null
+    },
+    {
+      "title": "Jail",
+      "id": null
+    },
+    {
+      "title": "Hi Way 16",
+      "id": null
+    },
+    {
+      "title": "Moses",
+      "id": null
+    }
+  ]
+}
