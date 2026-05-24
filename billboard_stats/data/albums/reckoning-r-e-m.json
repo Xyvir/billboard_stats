@@ -1,1 +1,298 @@
-{"id": "reckoning-r-e-m", "title": "Reckoning", "artist": "R.E.M.", "peak": 27, "history": [{"date": "1984-05-05", "rank": 132}, {"date": "1984-05-12", "rank": 72}, {"date": "1984-05-19", "rank": 52}, {"date": "1984-05-26", "rank": 33}, {"date": "1984-06-02", "rank": 27}, {"date": "1984-06-09", "rank": 27}, {"date": "1984-06-16", "rank": 27}, {"date": "1984-06-23", "rank": 27}, {"date": "1984-06-30", "rank": 27}, {"date": "1984-07-07", "rank": 42}, {"date": "1984-07-14", "rank": 50}, {"date": "1984-07-21", "rank": 50}, {"date": "1984-07-28", "rank": 52}, {"date": "1984-08-04", "rank": 56}, {"date": "1984-08-11", "rank": 60}, {"date": "1984-08-18", "rank": 59}, {"date": "1984-08-25", "rank": 61}, {"date": "1984-09-01", "rank": 63}, {"date": "1984-09-08", "rank": 68}, {"date": "1984-09-15", "rank": 73}, {"date": "1984-09-22", "rank": 73}, {"date": "1984-09-29", "rank": 89}, {"date": "1984-10-06", "rank": 81}, {"date": "1984-10-13", "rank": 81}, {"date": "1984-10-20", "rank": 80}, {"date": "1984-10-27", "rank": 98}, {"date": "1984-11-03", "rank": 102}, {"date": "1984-11-10", "rank": 108}, {"date": "1984-11-17", "rank": 114}, {"date": "1984-11-24", "rank": 126}, {"date": "1984-12-01", "rank": 126}, {"date": "1984-12-08", "rank": 133}, {"date": "1984-12-15", "rank": 137}, {"date": "1984-12-22", "rank": 141}, {"date": "1984-12-29", "rank": 141}, {"date": "1985-01-05", "rank": 148}, {"date": "1985-01-12", "rank": 149}, {"date": "1985-01-19", "rank": 154}, {"date": "1985-01-26", "rank": 173}, {"date": "1985-02-02", "rank": 167}, {"date": "1985-02-09", "rank": 162}, {"date": "1985-02-16", "rank": 159}, {"date": "1985-02-23", "rank": 156}, {"date": "1985-03-02", "rank": 153}, {"date": "1985-03-09", "rank": 153}, {"date": "1985-03-16", "rank": 168}, {"date": "1985-03-23", "rank": 165}, {"date": "1985-03-30", "rank": 162}, {"date": "1985-04-06", "rank": 168}, {"date": "1985-04-13", "rank": 179}, {"date": "1985-04-20", "rank": 188}, {"date": "1985-04-27", "rank": 186}, {"date": "1985-05-04", "rank": 184}]}
+{
+  "id": "reckoning-r-e-m",
+  "title": "Reckoning",
+  "artist": "R.E.M.",
+  "peak": 27,
+  "history": [
+    {
+      "date": "1984-05-05",
+      "rank": 132
+    },
+    {
+      "date": "1984-05-12",
+      "rank": 72
+    },
+    {
+      "date": "1984-05-19",
+      "rank": 52
+    },
+    {
+      "date": "1984-05-26",
+      "rank": 33
+    },
+    {
+      "date": "1984-06-02",
+      "rank": 27
+    },
+    {
+      "date": "1984-06-09",
+      "rank": 27
+    },
+    {
+      "date": "1984-06-16",
+      "rank": 27
+    },
+    {
+      "date": "1984-06-23",
+      "rank": 27
+    },
+    {
+      "date": "1984-06-30",
+      "rank": 27
+    },
+    {
+      "date": "1984-07-07",
+      "rank": 42
+    },
+    {
+      "date": "1984-07-14",
+      "rank": 50
+    },
+    {
+      "date": "1984-07-21",
+      "rank": 50
+    },
+    {
+      "date": "1984-07-28",
+      "rank": 52
+    },
+    {
+      "date": "1984-08-04",
+      "rank": 56
+    },
+    {
+      "date": "1984-08-11",
+      "rank": 60
+    },
+    {
+      "date": "1984-08-18",
+      "rank": 59
+    },
+    {
+      "date": "1984-08-25",
+      "rank": 61
+    },
+    {
+      "date": "1984-09-01",
+      "rank": 63
+    },
+    {
+      "date": "1984-09-08",
+      "rank": 68
+    },
+    {
+      "date": "1984-09-15",
+      "rank": 73
+    },
+    {
+      "date": "1984-09-22",
+      "rank": 73
+    },
+    {
+      "date": "1984-09-29",
+      "rank": 89
+    },
+    {
+      "date": "1984-10-06",
+      "rank": 81
+    },
+    {
+      "date": "1984-10-13",
+      "rank": 81
+    },
+    {
+      "date": "1984-10-20",
+      "rank": 80
+    },
+    {
+      "date": "1984-10-27",
+      "rank": 98
+    },
+    {
+      "date": "1984-11-03",
+      "rank": 102
+    },
+    {
+      "date": "1984-11-10",
+      "rank": 108
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 114
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 126
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 126
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 133
+    },
+    {
+      "date": "1984-12-15",
+      "rank": 137
+    },
+    {
+      "date": "1984-12-22",
+      "rank": 141
+    },
+    {
+      "date": "1984-12-29",
+      "rank": 141
+    },
+    {
+      "date": "1985-01-05",
+      "rank": 148
+    },
+    {
+      "date": "1985-01-12",
+      "rank": 149
+    },
+    {
+      "date": "1985-01-19",
+      "rank": 154
+    },
+    {
+      "date": "1985-01-26",
+      "rank": 173
+    },
+    {
+      "date": "1985-02-02",
+      "rank": 167
+    },
+    {
+      "date": "1985-02-09",
+      "rank": 162
+    },
+    {
+      "date": "1985-02-16",
+      "rank": 159
+    },
+    {
+      "date": "1985-02-23",
+      "rank": 156
+    },
+    {
+      "date": "1985-03-02",
+      "rank": 153
+    },
+    {
+      "date": "1985-03-09",
+      "rank": 153
+    },
+    {
+      "date": "1985-03-16",
+      "rank": 168
+    },
+    {
+      "date": "1985-03-23",
+      "rank": 165
+    },
+    {
+      "date": "1985-03-30",
+      "rank": 162
+    },
+    {
+      "date": "1985-04-06",
+      "rank": 168
+    },
+    {
+      "date": "1985-04-13",
+      "rank": 179
+    },
+    {
+      "date": "1985-04-20",
+      "rank": 188
+    },
+    {
+      "date": "1985-04-27",
+      "rank": 186
+    },
+    {
+      "date": "1985-05-04",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "So. Central Rain",
+      "id": "south-central-rain-i-m-sorry-r-e-m"
+    },
+    {
+      "title": "Radio Free Europe",
+      "id": "radio-free-europe-r-e-m"
+    },
+    {
+      "title": "Driver 8",
+      "id": "drive-r-e-m"
+    },
+    {
+      "title": "So. Central Rain (I’m Sorry)",
+      "id": "south-central-rain-i-m-sorry-r-e-m"
+    },
+    {
+      "title": "Harborcoat",
+      "id": null
+    },
+    {
+      "title": "7 Chinese Bros.",
+      "id": null
+    },
+    {
+      "title": "Pretty Persuasion",
+      "id": null
+    },
+    {
+      "title": "Time After Time (Annelise)",
+      "id": null
+    },
+    {
+      "title": "Second Guessing",
+      "id": null
+    },
+    {
+      "title": "Letter Never Sent",
+      "id": null
+    },
+    {
+      "title": "Camera",
+      "id": null
+    },
+    {
+      "title": "(Don’t Go Back to) Rockville",
+      "id": null
+    },
+    {
+      "title": "Little America",
+      "id": null
+    },
+    {
+      "title": "Femme Fatale",
+      "id": null
+    },
+    {
+      "title": "Gardening at Night",
+      "id": null
+    },
+    {
+      "title": "9‐9",
+      "id": null
+    },
+    {
+      "title": "Windout",
+      "id": null
+    },
+    {
+      "title": "Sitting Still",
+      "id": null
+    },
+    {
+      "title": "Hyena",
+      "id": null
+    }
+  ]
+}

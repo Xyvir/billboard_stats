@@ -1,1 +1,94 @@
-{"id": "recovery-live-great-white", "title": "Recovery: Live", "artist": "Great White", "peak": 99, "history": [{"date": "1988-02-13", "rank": 138}, {"date": "1988-02-20", "rank": 115}, {"date": "1988-02-27", "rank": 107}, {"date": "1988-03-05", "rank": 107}, {"date": "1988-03-12", "rank": 99}, {"date": "1988-03-19", "rank": 99}, {"date": "1988-03-26", "rank": 114}, {"date": "1988-04-02", "rank": 111}, {"date": "1988-04-09", "rank": 127}, {"date": "1988-04-16", "rank": 162}, {"date": "1988-04-23", "rank": 168}, {"date": "1988-04-30", "rank": 173}]}
+{
+  "id": "recovery-live-great-white",
+  "title": "Recovery: Live",
+  "artist": "Great White",
+  "peak": 99,
+  "history": [
+    {
+      "date": "1988-02-13",
+      "rank": 138
+    },
+    {
+      "date": "1988-02-20",
+      "rank": 115
+    },
+    {
+      "date": "1988-02-27",
+      "rank": 107
+    },
+    {
+      "date": "1988-03-05",
+      "rank": 107
+    },
+    {
+      "date": "1988-03-12",
+      "rank": 99
+    },
+    {
+      "date": "1988-03-19",
+      "rank": 99
+    },
+    {
+      "date": "1988-03-26",
+      "rank": 114
+    },
+    {
+      "date": "1988-04-02",
+      "rank": 111
+    },
+    {
+      "date": "1988-04-09",
+      "rank": 127
+    },
+    {
+      "date": "1988-04-16",
+      "rank": 162
+    },
+    {
+      "date": "1988-04-23",
+      "rank": 168
+    },
+    {
+      "date": "1988-04-30",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rock ’n’ Roll",
+      "id": "call-it-rock-n-roll-great-white"
+    },
+    {
+      "title": "Immigrant Song",
+      "id": null
+    },
+    {
+      "title": "Money (That’s What I Want)",
+      "id": null
+    },
+    {
+      "title": "Red House",
+      "id": null
+    },
+    {
+      "title": "I Don’t Need No Doctor",
+      "id": null
+    },
+    {
+      "title": "Shot in the Dark",
+      "id": null
+    },
+    {
+      "title": "What Do You Do",
+      "id": null
+    },
+    {
+      "title": "Gonna Getcha",
+      "id": null
+    },
+    {
+      "title": "All Over Now",
+      "id": null
+    }
+  ]
+}
