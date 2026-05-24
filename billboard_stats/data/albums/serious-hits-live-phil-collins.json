@@ -1,1 +1,458 @@
-{"id": "serious-hits-live-phil-collins", "title": "Serious Hits...Live!", "artist": "Phil Collins", "peak": 11, "history": [{"date": "1990-11-24", "rank": 49}, {"date": "1990-12-01", "rank": 23}, {"date": "1990-12-08", "rank": 16}, {"date": "1990-12-15", "rank": 13}, {"date": "1990-12-22", "rank": 12}, {"date": "1990-12-29", "rank": 12}, {"date": "1991-01-05", "rank": 12}, {"date": "1991-01-12", "rank": 12}, {"date": "1991-01-19", "rank": 12}, {"date": "1991-01-26", "rank": 12}, {"date": "1991-02-02", "rank": 11}, {"date": "1991-02-09", "rank": 15}, {"date": "1991-02-16", "rank": 16}, {"date": "1991-02-23", "rank": 21}, {"date": "1991-03-02", "rank": 22}, {"date": "1991-03-09", "rank": 21}, {"date": "1991-03-16", "rank": 17}, {"date": "1991-03-23", "rank": 25}, {"date": "1991-03-30", "rank": 29}, {"date": "1991-04-06", "rank": 36}, {"date": "1991-04-13", "rank": 46}, {"date": "1991-04-20", "rank": 58}, {"date": "1991-04-27", "rank": 66}, {"date": "1991-05-04", "rank": 79}, {"date": "1991-05-11", "rank": 88}, {"date": "1991-05-18", "rank": 99}, {"date": "1991-05-25", "rank": 66}, {"date": "1991-06-01", "rank": 79}, {"date": "1991-06-08", "rank": 74}, {"date": "1991-06-15", "rank": 81}, {"date": "1991-06-22", "rank": 85}, {"date": "1991-06-29", "rank": 91}, {"date": "1991-07-06", "rank": 82}, {"date": "1991-07-13", "rank": 92}, {"date": "1991-07-20", "rank": 100}, {"date": "1991-07-27", "rank": 102}, {"date": "1991-08-03", "rank": 96}, {"date": "1991-08-10", "rank": 97}, {"date": "1991-08-17", "rank": 96}, {"date": "1991-08-24", "rank": 99}, {"date": "1991-08-31", "rank": 105}, {"date": "1991-09-07", "rank": 100}, {"date": "1991-09-14", "rank": 111}, {"date": "1991-09-21", "rank": 125}, {"date": "1991-09-28", "rank": 126}, {"date": "1991-10-05", "rank": 132}, {"date": "1991-10-12", "rank": 136}, {"date": "1991-10-19", "rank": 146}, {"date": "1991-10-26", "rank": 146}, {"date": "1991-11-02", "rank": 139}, {"date": "1991-11-09", "rank": 151}, {"date": "1991-11-16", "rank": 142}, {"date": "1991-11-23", "rank": 140}, {"date": "1991-11-30", "rank": 142}, {"date": "1991-12-07", "rank": 139}, {"date": "1991-12-14", "rank": 141}, {"date": "1991-12-21", "rank": 127}, {"date": "1991-12-28", "rank": 127}, {"date": "1992-01-04", "rank": 118}, {"date": "1992-01-11", "rank": 117}, {"date": "1992-01-18", "rank": 128}, {"date": "1992-01-25", "rank": 135}, {"date": "1992-02-01", "rank": 133}, {"date": "1992-02-08", "rank": 138}, {"date": "1992-02-15", "rank": 143}, {"date": "1992-02-22", "rank": 137}, {"date": "1992-02-29", "rank": 127}, {"date": "1992-03-07", "rank": 141}, {"date": "1992-03-14", "rank": 158}, {"date": "1992-03-21", "rank": 154}, {"date": "1992-03-28", "rank": 170}, {"date": "1992-04-04", "rank": 171}, {"date": "1992-04-11", "rank": 180}, {"date": "1992-04-18", "rank": 186}, {"date": "1992-04-25", "rank": 180}, {"date": "1992-05-02", "rank": 169}, {"date": "1992-05-09", "rank": 177}, {"date": "1992-05-16", "rank": 192}, {"date": "1992-05-23", "rank": 183}, {"date": "1992-05-30", "rank": 182}, {"date": "1992-06-06", "rank": 183}, {"date": "1992-06-13", "rank": 190}, {"date": "1992-06-20", "rank": 182}, {"date": "1992-06-27", "rank": 187}, {"date": "1992-07-04", "rank": 156}, {"date": "1992-07-11", "rank": 164}, {"date": "1992-07-18", "rank": 178}, {"date": "1992-07-25", "rank": 181}, {"date": "1992-08-01", "rank": 188}, {"date": "1992-08-08", "rank": 187}, {"date": "1992-08-15", "rank": 185}, {"date": "1992-08-22", "rank": 183}, {"date": "1992-08-29", "rank": 196}, {"date": "1992-09-05", "rank": 196}, {"date": "1992-09-12", "rank": 200}, {"date": "1992-09-19", "rank": 198}, {"date": "1992-09-26", "rank": 193}]}
+{
+  "id": "serious-hits-live-phil-collins",
+  "title": "Serious Hits...Live!",
+  "artist": "Phil Collins",
+  "peak": 11,
+  "history": [
+    {
+      "date": "1990-11-24",
+      "rank": 49
+    },
+    {
+      "date": "1990-12-01",
+      "rank": 23
+    },
+    {
+      "date": "1990-12-08",
+      "rank": 16
+    },
+    {
+      "date": "1990-12-15",
+      "rank": 13
+    },
+    {
+      "date": "1990-12-22",
+      "rank": 12
+    },
+    {
+      "date": "1990-12-29",
+      "rank": 12
+    },
+    {
+      "date": "1991-01-05",
+      "rank": 12
+    },
+    {
+      "date": "1991-01-12",
+      "rank": 12
+    },
+    {
+      "date": "1991-01-19",
+      "rank": 12
+    },
+    {
+      "date": "1991-01-26",
+      "rank": 12
+    },
+    {
+      "date": "1991-02-02",
+      "rank": 11
+    },
+    {
+      "date": "1991-02-09",
+      "rank": 15
+    },
+    {
+      "date": "1991-02-16",
+      "rank": 16
+    },
+    {
+      "date": "1991-02-23",
+      "rank": 21
+    },
+    {
+      "date": "1991-03-02",
+      "rank": 22
+    },
+    {
+      "date": "1991-03-09",
+      "rank": 21
+    },
+    {
+      "date": "1991-03-16",
+      "rank": 17
+    },
+    {
+      "date": "1991-03-23",
+      "rank": 25
+    },
+    {
+      "date": "1991-03-30",
+      "rank": 29
+    },
+    {
+      "date": "1991-04-06",
+      "rank": 36
+    },
+    {
+      "date": "1991-04-13",
+      "rank": 46
+    },
+    {
+      "date": "1991-04-20",
+      "rank": 58
+    },
+    {
+      "date": "1991-04-27",
+      "rank": 66
+    },
+    {
+      "date": "1991-05-04",
+      "rank": 79
+    },
+    {
+      "date": "1991-05-11",
+      "rank": 88
+    },
+    {
+      "date": "1991-05-18",
+      "rank": 99
+    },
+    {
+      "date": "1991-05-25",
+      "rank": 66
+    },
+    {
+      "date": "1991-06-01",
+      "rank": 79
+    },
+    {
+      "date": "1991-06-08",
+      "rank": 74
+    },
+    {
+      "date": "1991-06-15",
+      "rank": 81
+    },
+    {
+      "date": "1991-06-22",
+      "rank": 85
+    },
+    {
+      "date": "1991-06-29",
+      "rank": 91
+    },
+    {
+      "date": "1991-07-06",
+      "rank": 82
+    },
+    {
+      "date": "1991-07-13",
+      "rank": 92
+    },
+    {
+      "date": "1991-07-20",
+      "rank": 100
+    },
+    {
+      "date": "1991-07-27",
+      "rank": 102
+    },
+    {
+      "date": "1991-08-03",
+      "rank": 96
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 97
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 96
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 99
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 105
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 100
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 111
+    },
+    {
+      "date": "1991-09-21",
+      "rank": 125
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 126
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 132
+    },
+    {
+      "date": "1991-10-12",
+      "rank": 136
+    },
+    {
+      "date": "1991-10-19",
+      "rank": 146
+    },
+    {
+      "date": "1991-10-26",
+      "rank": 146
+    },
+    {
+      "date": "1991-11-02",
+      "rank": 139
+    },
+    {
+      "date": "1991-11-09",
+      "rank": 151
+    },
+    {
+      "date": "1991-11-16",
+      "rank": 142
+    },
+    {
+      "date": "1991-11-23",
+      "rank": 140
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 142
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 139
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 141
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 127
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 127
+    },
+    {
+      "date": "1992-01-04",
+      "rank": 118
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 117
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 128
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 135
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 133
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 138
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 143
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 137
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 127
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 141
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 158
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 154
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 170
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 171
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 180
+    },
+    {
+      "date": "1992-04-18",
+      "rank": 186
+    },
+    {
+      "date": "1992-04-25",
+      "rank": 180
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 169
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 177
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 192
+    },
+    {
+      "date": "1992-05-23",
+      "rank": 183
+    },
+    {
+      "date": "1992-05-30",
+      "rank": 182
+    },
+    {
+      "date": "1992-06-06",
+      "rank": 183
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 190
+    },
+    {
+      "date": "1992-06-20",
+      "rank": 182
+    },
+    {
+      "date": "1992-06-27",
+      "rank": 187
+    },
+    {
+      "date": "1992-07-04",
+      "rank": 156
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 164
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 178
+    },
+    {
+      "date": "1992-07-25",
+      "rank": 181
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 188
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 187
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 185
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 183
+    },
+    {
+      "date": "1992-08-29",
+      "rank": 196
+    },
+    {
+      "date": "1992-09-05",
+      "rank": 196
+    },
+    {
+      "date": "1992-09-12",
+      "rank": 200
+    },
+    {
+      "date": "1992-09-19",
+      "rank": 198
+    },
+    {
+      "date": "1992-09-26",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Something Happened on the Way to Heaven",
+      "id": "something-happened-on-the-way-to-heaven-phil-collins"
+    },
+    {
+      "title": "Against All Odds (Take a Look at Me Now)",
+      "id": "against-all-odds-take-a-look-at-me-now-phil-collins"
+    },
+    {
+      "title": "Who Said I Would",
+      "id": "who-said-i-would-phil-collins"
+    },
+    {
+      "title": "One More Night",
+      "id": "one-more-night-phil-collins"
+    },
+    {
+      "title": "Don’t Lose My Number",
+      "id": "don-t-lose-my-number-phil-collins"
+    },
+    {
+      "title": "Do You Remember?",
+      "id": "do-you-remember-phil-collins"
+    },
+    {
+      "title": "Another Day in Paradise",
+      "id": "another-day-in-paradise-phil-collins"
+    },
+    {
+      "title": "In the Air Tonight",
+      "id": "in-the-air-tonight-phil-collins"
+    },
+    {
+      "title": "You Can’t Hurry Love",
+      "id": "you-can-t-hurry-love-phil-collins"
+    },
+    {
+      "title": "Two Hearts",
+      "id": "two-hearts-phil-collins"
+    },
+    {
+      "title": "Sussudio",
+      "id": "sussudio-phil-collins"
+    },
+    {
+      "title": "A Groovy Kind of Love",
+      "id": "groovy-kind-of-love-phil-collins"
+    },
+    {
+      "title": "Take Me Home",
+      "id": "take-me-home-phil-collins"
+    },
+    {
+      "title": "Separate Lives",
+      "id": null
+    },
+    {
+      "title": "Easy Lover",
+      "id": null
+    }
+  ]
+}

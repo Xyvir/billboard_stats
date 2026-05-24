@@ -1,1 +1,62 @@
-{"id": "senjutsu-iron-maiden", "title": "Senjutsu", "artist": "Iron Maiden", "peak": 3, "history": [{"date": "2021-09-18", "rank": 3}, {"date": "2021-09-25", "rank": 29}, {"date": "2021-10-02", "rank": 115}]}
+{
+  "id": "senjutsu-iron-maiden",
+  "title": "Senjutsu",
+  "artist": "Iron Maiden",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2021-09-18",
+      "rank": 3
+    },
+    {
+      "date": "2021-09-25",
+      "rank": 29
+    },
+    {
+      "date": "2021-10-02",
+      "rank": 115
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Senjutsu",
+      "id": null
+    },
+    {
+      "title": "Stratego",
+      "id": null
+    },
+    {
+      "title": "The Writing on the Wall",
+      "id": null
+    },
+    {
+      "title": "Lost in a Lost World",
+      "id": null
+    },
+    {
+      "title": "Days of Future Past",
+      "id": null
+    },
+    {
+      "title": "The Time Machine",
+      "id": null
+    },
+    {
+      "title": "Darkest Hour",
+      "id": null
+    },
+    {
+      "title": "Death of the Celts",
+      "id": null
+    },
+    {
+      "title": "The Parchment",
+      "id": null
+    },
+    {
+      "title": "Hell on Earth",
+      "id": null
+    }
+  ]
+}

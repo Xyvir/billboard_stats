@@ -1,1 +1,130 @@
-{"id": "september-morn-neil-diamond", "title": "September Morn", "artist": "Neil Diamond", "peak": 10, "history": [{"date": "1980-01-12", "rank": 51}, {"date": "1980-01-19", "rank": 32}, {"date": "1980-01-26", "rank": 19}, {"date": "1980-02-02", "rank": 17}, {"date": "1980-02-09", "rank": 14}, {"date": "1980-02-16", "rank": 10}, {"date": "1980-02-23", "rank": 10}, {"date": "1980-03-01", "rank": 10}, {"date": "1980-03-08", "rank": 11}, {"date": "1980-03-15", "rank": 24}, {"date": "1980-03-22", "rank": 39}, {"date": "1980-03-29", "rank": 49}, {"date": "1980-04-05", "rank": 72}, {"date": "1980-04-12", "rank": 73}, {"date": "1980-04-19", "rank": 89}, {"date": "1980-04-26", "rank": 112}, {"date": "1980-05-03", "rank": 117}, {"date": "1980-05-10", "rank": 117}, {"date": "1980-05-17", "rank": 167}, {"date": "1980-05-24", "rank": 182}]}
+{
+  "id": "september-morn-neil-diamond",
+  "title": "September Morn",
+  "artist": "Neil Diamond",
+  "peak": 10,
+  "history": [
+    {
+      "date": "1980-01-12",
+      "rank": 51
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 32
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 19
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 17
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 14
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 10
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 10
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 10
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 11
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 24
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 39
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 49
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 72
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 73
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 89
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 112
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 117
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 117
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 167
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "September Morn",
+      "id": "september-morn-neil-diamond"
+    },
+    {
+      "title": "The Good Lord Loves You",
+      "id": "the-good-lord-loves-you-neil-diamond"
+    },
+    {
+      "title": "I’m a Believer",
+      "id": "i-m-a-believer-neil-diamond"
+    },
+    {
+      "title": "Mama Don’t Know",
+      "id": null
+    },
+    {
+      "title": "That Kind",
+      "id": null
+    },
+    {
+      "title": "Jazz Time",
+      "id": null
+    },
+    {
+      "title": "Dancing in the Street",
+      "id": null
+    },
+    {
+      "title": "The Shelter of Your Arms",
+      "id": null
+    },
+    {
+      "title": "The Sun Ain’t Gonna Shine",
+      "id": null
+    },
+    {
+      "title": "Stagger Lee",
+      "id": null
+    }
+  ]
+}

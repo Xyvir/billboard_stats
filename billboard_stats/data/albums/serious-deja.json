@@ -1,1 +1,78 @@
-{"id": "serious-deja", "title": "Serious", "artist": "Deja", "peak": 186, "history": [{"date": "1987-12-05", "rank": 193}, {"date": "1987-12-12", "rank": 193}, {"date": "1987-12-19", "rank": 188}, {"date": "1987-12-26", "rank": 197}, {"date": "1988-01-02", "rank": 197}, {"date": "1988-01-09", "rank": 186}]}
+{
+  "id": "serious-deja",
+  "title": "Serious",
+  "artist": "Deja",
+  "peak": 186,
+  "history": [
+    {
+      "date": "1987-12-05",
+      "rank": 193
+    },
+    {
+      "date": "1987-12-12",
+      "rank": 193
+    },
+    {
+      "date": "1987-12-19",
+      "rank": 188
+    },
+    {
+      "date": "1987-12-26",
+      "rank": 197
+    },
+    {
+      "date": "1988-01-02",
+      "rank": 197
+    },
+    {
+      "date": "1988-01-09",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You and Me Tonight",
+      "id": "you-and-me-tonight-deja"
+    },
+    {
+      "title": "Serious",
+      "id": null
+    },
+    {
+      "title": "Some Things Turn Around",
+      "id": null
+    },
+    {
+      "title": "That's Where You'll Find Me",
+      "id": null
+    },
+    {
+      "title": "Heartbeat",
+      "id": null
+    },
+    {
+      "title": "Premonition",
+      "id": null
+    },
+    {
+      "title": "Life",
+      "id": null
+    },
+    {
+      "title": "What to Do Now",
+      "id": null
+    },
+    {
+      "title": "Summer Love",
+      "id": null
+    },
+    {
+      "title": "Straight to the Point",
+      "id": null
+    },
+    {
+      "title": "Serious (Extra Beat Boys mix)",
+      "id": null
+    }
+  ]
+}

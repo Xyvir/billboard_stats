@@ -1,1 +1,98 @@
-{"id": "sensational-starpoint", "title": "Sensational", "artist": "Starpoint", "peak": 95, "history": [{"date": "1987-03-21", "rank": 140}, {"date": "1987-03-28", "rank": 113}, {"date": "1987-04-04", "rank": 103}, {"date": "1987-04-11", "rank": 99}, {"date": "1987-04-18", "rank": 99}, {"date": "1987-04-25", "rank": 95}, {"date": "1987-05-02", "rank": 95}, {"date": "1987-05-09", "rank": 120}, {"date": "1987-05-16", "rank": 117}, {"date": "1987-05-23", "rank": 141}, {"date": "1987-05-30", "rank": 138}, {"date": "1987-06-06", "rank": 140}, {"date": "1987-06-13", "rank": 159}, {"date": "1987-06-20", "rank": 172}]}
+{
+  "id": "sensational-starpoint",
+  "title": "Sensational",
+  "artist": "Starpoint",
+  "peak": 95,
+  "history": [
+    {
+      "date": "1987-03-21",
+      "rank": 140
+    },
+    {
+      "date": "1987-03-28",
+      "rank": 113
+    },
+    {
+      "date": "1987-04-04",
+      "rank": 103
+    },
+    {
+      "date": "1987-04-11",
+      "rank": 99
+    },
+    {
+      "date": "1987-04-18",
+      "rank": 99
+    },
+    {
+      "date": "1987-04-25",
+      "rank": 95
+    },
+    {
+      "date": "1987-05-02",
+      "rank": 95
+    },
+    {
+      "date": "1987-05-09",
+      "rank": 120
+    },
+    {
+      "date": "1987-05-16",
+      "rank": 117
+    },
+    {
+      "date": "1987-05-23",
+      "rank": 141
+    },
+    {
+      "date": "1987-05-30",
+      "rank": 138
+    },
+    {
+      "date": "1987-06-06",
+      "rank": 140
+    },
+    {
+      "date": "1987-06-13",
+      "rank": 159
+    },
+    {
+      "date": "1987-06-20",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "He Wants My Body",
+      "id": "he-wants-my-body-starpoint"
+    },
+    {
+      "title": "D.Y.B.O.",
+      "id": null
+    },
+    {
+      "title": "Prove It Tonight",
+      "id": null
+    },
+    {
+      "title": "Sensational",
+      "id": null
+    },
+    {
+      "title": "Another Night",
+      "id": null
+    },
+    {
+      "title": "The More We Love",
+      "id": null
+    },
+    {
+      "title": "Touch of Your Love",
+      "id": null
+    },
+    {
+      "title": "Second Chance",
+      "id": null
+    }
+  ]
+}
