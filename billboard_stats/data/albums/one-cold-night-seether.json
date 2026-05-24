@@ -1,1 +1,94 @@
-{"id": "one-cold-night-seether", "title": "One Cold Night", "artist": "Seether", "peak": 50, "history": [{"date": "2006-07-29", "rank": 50}, {"date": "2006-08-05", "rank": 88}, {"date": "2006-08-12", "rank": 111}, {"date": "2006-08-19", "rank": 126}, {"date": "2006-08-26", "rank": 161}, {"date": "2006-09-02", "rank": 189}]}
+{
+  "id": "one-cold-night-seether",
+  "title": "One Cold Night",
+  "artist": "Seether",
+  "peak": 50,
+  "history": [
+    {
+      "date": "2006-07-29",
+      "rank": 50
+    },
+    {
+      "date": "2006-08-05",
+      "rank": 88
+    },
+    {
+      "date": "2006-08-12",
+      "rank": 111
+    },
+    {
+      "date": "2006-08-19",
+      "rank": 126
+    },
+    {
+      "date": "2006-08-26",
+      "rank": 161
+    },
+    {
+      "date": "2006-09-02",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fine Again",
+      "id": "fine-again-seether"
+    },
+    {
+      "title": "Remedy",
+      "id": "remedy-seether"
+    },
+    {
+      "title": "Gasoline",
+      "id": null
+    },
+    {
+      "title": "Driven Under",
+      "id": null
+    },
+    {
+      "title": "Diseased",
+      "id": null
+    },
+    {
+      "title": "Truth",
+      "id": null
+    },
+    {
+      "title": "Immortality",
+      "id": null
+    },
+    {
+      "title": "Tied My Hands",
+      "id": null
+    },
+    {
+      "title": "Sympathetic",
+      "id": null
+    },
+    {
+      "title": "Broken",
+      "id": null
+    },
+    {
+      "title": "The Gift",
+      "id": null
+    },
+    {
+      "title": "Plastic Man",
+      "id": null
+    },
+    {
+      "title": "The Gift (alternate mix)",
+      "id": null
+    },
+    {
+      "title": "Needles",
+      "id": null
+    },
+    {
+      "title": "Burrito",
+      "id": null
+    }
+  ]
+}

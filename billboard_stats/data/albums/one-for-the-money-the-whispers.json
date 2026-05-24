@@ -1,1 +1,62 @@
-{"id": "one-for-the-money-the-whispers", "title": "One For The Money", "artist": "The Whispers", "peak": 189, "history": [{"date": "1976-08-28", "rank": 196}, {"date": "1976-09-04", "rank": 194}, {"date": "1976-09-11", "rank": 191}, {"date": "1976-09-18", "rank": 190}, {"date": "1976-09-25", "rank": 189}, {"date": "1976-10-02", "rank": 193}]}
+{
+  "id": "one-for-the-money-the-whispers",
+  "title": "One For The Money",
+  "artist": "The Whispers",
+  "peak": 189,
+  "history": [
+    {
+      "date": "1976-08-28",
+      "rank": 196
+    },
+    {
+      "date": "1976-09-04",
+      "rank": 194
+    },
+    {
+      "date": "1976-09-11",
+      "rank": 191
+    },
+    {
+      "date": "1976-09-18",
+      "rank": 190
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 189
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One for the Money",
+      "id": "one-for-the-money-part-1-the-whispers"
+    },
+    {
+      "title": "Sounds Like a Love Song",
+      "id": "seems-like-i-gotta-do-wrong-the-whispers"
+    },
+    {
+      "title": "Living Together (in Sin)",
+      "id": null
+    },
+    {
+      "title": "Put Me in the News",
+      "id": null
+    },
+    {
+      "title": "You’re Only as Good as You Think You Are",
+      "id": null
+    },
+    {
+      "title": "I’ve Got a Feeling",
+      "id": null
+    },
+    {
+      "title": "In My Heart",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"id": "one-day-in-your-life-michael-jackson", "title": "One Day In Your Life", "artist": "Michael Jackson", "peak": 144, "history": [{"date": "1981-04-25", "rank": 179}, {"date": "1981-05-02", "rank": 167}, {"date": "1981-05-09", "rank": 167}, {"date": "1981-05-16", "rank": 157}, {"date": "1981-05-23", "rank": 148}, {"date": "1981-05-30", "rank": 144}, {"date": "1981-06-06", "rank": 147}, {"date": "1981-06-13", "rank": 187}, {"date": "1981-06-20", "rank": 181}, {"date": "1981-06-27", "rank": 178}]}
+{
+  "id": "one-day-in-your-life-michael-jackson",
+  "title": "One Day In Your Life",
+  "artist": "Michael Jackson",
+  "peak": 144,
+  "history": [
+    {
+      "date": "1981-04-25",
+      "rank": 179
+    },
+    {
+      "date": "1981-05-02",
+      "rank": 167
+    },
+    {
+      "date": "1981-05-09",
+      "rank": 167
+    },
+    {
+      "date": "1981-05-16",
+      "rank": 157
+    },
+    {
+      "date": "1981-05-23",
+      "rank": 148
+    },
+    {
+      "date": "1981-05-30",
+      "rank": 144
+    },
+    {
+      "date": "1981-06-06",
+      "rank": 147
+    },
+    {
+      "date": "1981-06-13",
+      "rank": 187
+    },
+    {
+      "date": "1981-06-20",
+      "rank": 181
+    },
+    {
+      "date": "1981-06-27",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One Day in Your Life",
+      "id": "one-day-in-your-life-michael-jackson"
+    },
+    {
+      "title": "You Are There",
+      "id": "will-you-be-there-michael-jackson"
+    },
+    {
+      "title": "Don’t Say Goodbye Again",
+      "id": null
+    },
+    {
+      "title": "You're My Best Friend, My Love",
+      "id": null
+    },
+    {
+      "title": "Take Me Back",
+      "id": null
+    },
+    {
+      "title": "We’ve Got Forever",
+      "id": null
+    },
+    {
+      "title": "It’s Too Late to Change the Time",
+      "id": null
+    },
+    {
+      "title": "Dear Michael",
+      "id": null
+    },
+    {
+      "title": "I’ll Come Home to You",
+      "id": null
+    },
+    {
+      "title": "Make Tonight All Mine",
+      "id": null
+    }
+  ]
+}
