@@ -1,1 +1,74 @@
-{"id": "the-rings-the-rings", "title": "The Rings", "artist": "The Rings", "peak": 164, "history": [{"date": "1981-02-21", "rank": 190}, {"date": "1981-02-28", "rank": 175}, {"date": "1981-03-07", "rank": 164}, {"date": "1981-03-14", "rank": 164}, {"date": "1981-03-21", "rank": 185}, {"date": "1981-03-28", "rank": 195}]}
+{
+  "id": "the-rings-the-rings",
+  "title": "The Rings",
+  "artist": "The Rings",
+  "peak": 164,
+  "history": [
+    {
+      "date": "1981-02-21",
+      "rank": 190
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 175
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 164
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 164
+    },
+    {
+      "date": "1981-03-21",
+      "rank": 185
+    },
+    {
+      "date": "1981-03-28",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let Me Go",
+      "id": "let-me-go-the-rings"
+    },
+    {
+      "title": "Opposites Attract",
+      "id": null
+    },
+    {
+      "title": "Who's She Dancin' With",
+      "id": null
+    },
+    {
+      "title": "This One's for the Girls",
+      "id": null
+    },
+    {
+      "title": "Got My Wish",
+      "id": null
+    },
+    {
+      "title": "My Kinda Girl",
+      "id": null
+    },
+    {
+      "title": "I Need Strange",
+      "id": null
+    },
+    {
+      "title": "Watch You Break",
+      "id": null
+    },
+    {
+      "title": "Too Much of Nothin'",
+      "id": null
+    },
+    {
+      "title": "Third Generation",
+      "id": null
+    }
+  ]
+}
