@@ -1,1 +1,74 @@
-{"id": "robert-hazard-robert-hazard", "title": "Robert Hazard", "artist": "Robert Hazard", "peak": 102, "history": [{"date": "1983-03-26", "rank": 129}, {"date": "1983-04-02", "rank": 121}, {"date": "1983-04-09", "rank": 114}, {"date": "1983-04-16", "rank": 108}, {"date": "1983-04-23", "rank": 108}, {"date": "1983-04-30", "rank": 102}, {"date": "1983-05-07", "rank": 108}, {"date": "1983-05-14", "rank": 120}, {"date": "1983-05-21", "rank": 128}, {"date": "1983-05-28", "rank": 167}, {"date": "1983-06-04", "rank": 192}]}
+{
+  "id": "robert-hazard-robert-hazard",
+  "title": "Robert Hazard",
+  "artist": "Robert Hazard",
+  "peak": 102,
+  "history": [
+    {
+      "date": "1983-03-26",
+      "rank": 129
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 121
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 114
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 108
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 108
+    },
+    {
+      "date": "1983-04-30",
+      "rank": 102
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 108
+    },
+    {
+      "date": "1983-05-14",
+      "rank": 120
+    },
+    {
+      "date": "1983-05-21",
+      "rank": 128
+    },
+    {
+      "date": "1983-05-28",
+      "rank": 167
+    },
+    {
+      "date": "1983-06-04",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Escalator of Life",
+      "id": "escalator-of-life-robert-hazard"
+    },
+    {
+      "title": "Change Reaction",
+      "id": null
+    },
+    {
+      "title": "Hang Around With You",
+      "id": null
+    },
+    {
+      "title": "Out of the Blue",
+      "id": null
+    },
+    {
+      "title": "Blowin' in the Wind",
+      "id": null
+    }
+  ]
+}

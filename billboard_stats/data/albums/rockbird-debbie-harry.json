@@ -1,1 +1,98 @@
-{"id": "rockbird-debbie-harry", "title": "Rockbird", "artist": "Debbie Harry", "peak": 97, "history": [{"date": "1986-12-13", "rank": 137}, {"date": "1986-12-20", "rank": 112}, {"date": "1986-12-27", "rank": 103}, {"date": "1987-01-03", "rank": 103}, {"date": "1987-01-10", "rank": 100}, {"date": "1987-01-17", "rank": 100}, {"date": "1987-01-24", "rank": 97}, {"date": "1987-01-31", "rank": 97}, {"date": "1987-02-07", "rank": 111}, {"date": "1987-02-14", "rank": 111}, {"date": "1987-02-21", "rank": 108}, {"date": "1987-02-28", "rank": 138}, {"date": "1987-03-07", "rank": 190}]}
+{
+  "id": "rockbird-debbie-harry",
+  "title": "Rockbird",
+  "artist": "Debbie Harry",
+  "peak": 97,
+  "history": [
+    {
+      "date": "1986-12-13",
+      "rank": 137
+    },
+    {
+      "date": "1986-12-20",
+      "rank": 112
+    },
+    {
+      "date": "1986-12-27",
+      "rank": 103
+    },
+    {
+      "date": "1987-01-03",
+      "rank": 103
+    },
+    {
+      "date": "1987-01-10",
+      "rank": 100
+    },
+    {
+      "date": "1987-01-17",
+      "rank": 100
+    },
+    {
+      "date": "1987-01-24",
+      "rank": 97
+    },
+    {
+      "date": "1987-01-31",
+      "rank": 97
+    },
+    {
+      "date": "1987-02-07",
+      "rank": 111
+    },
+    {
+      "date": "1987-02-14",
+      "rank": 111
+    },
+    {
+      "date": "1987-02-21",
+      "rank": 108
+    },
+    {
+      "date": "1987-02-28",
+      "rank": 138
+    },
+    {
+      "date": "1987-03-07",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "French Kissin’ in the USA",
+      "id": "french-kissin-debbie-harry"
+    },
+    {
+      "title": "In Love With Love",
+      "id": "in-love-with-love-debbie-harry"
+    },
+    {
+      "title": "I Want You",
+      "id": null
+    },
+    {
+      "title": "Buckle Up",
+      "id": null
+    },
+    {
+      "title": "You Got Me in Trouble",
+      "id": null
+    },
+    {
+      "title": "Free to Fall",
+      "id": null
+    },
+    {
+      "title": "Rockbird",
+      "id": null
+    },
+    {
+      "title": "Secret Life",
+      "id": null
+    },
+    {
+      "title": "Beyond the Limit",
+      "id": null
+    }
+  ]
+}

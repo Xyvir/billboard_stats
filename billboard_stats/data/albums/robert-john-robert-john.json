@@ -1,1 +1,106 @@
-{"id": "robert-john-robert-john", "title": "Robert John", "artist": "Robert John", "peak": 68, "history": [{"date": "1979-08-25", "rank": 182}, {"date": "1979-09-01", "rank": 172}, {"date": "1979-09-08", "rank": 142}, {"date": "1979-09-15", "rank": 122}, {"date": "1979-09-22", "rank": 115}, {"date": "1979-09-29", "rank": 98}, {"date": "1979-10-06", "rank": 88}, {"date": "1979-10-13", "rank": 78}, {"date": "1979-10-20", "rank": 70}, {"date": "1979-10-27", "rank": 68}, {"date": "1979-11-03", "rank": 98}, {"date": "1979-11-10", "rank": 97}, {"date": "1979-11-17", "rank": 147}, {"date": "1979-11-24", "rank": 173}]}
+{
+  "id": "robert-john-robert-john",
+  "title": "Robert John",
+  "artist": "Robert John",
+  "peak": 68,
+  "history": [
+    {
+      "date": "1979-08-25",
+      "rank": 182
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 172
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 142
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 122
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 115
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 98
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 88
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 78
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 70
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 68
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 98
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 97
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 147
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lonely Eyes",
+      "id": "lonely-eyes-robert-john"
+    },
+    {
+      "title": "Sad Eyes",
+      "id": "sad-eyes-robert-john"
+    },
+    {
+      "title": "Only Time",
+      "id": "lonely-eyes-robert-john"
+    },
+    {
+      "title": "That’s What Keeps Us Together",
+      "id": null
+    },
+    {
+      "title": "Love of a Woman",
+      "id": null
+    },
+    {
+      "title": "Am I Ever Gonna Hold You Again",
+      "id": null
+    },
+    {
+      "title": "Dance the Night Away",
+      "id": null
+    },
+    {
+      "title": "Give a Little More",
+      "id": null
+    },
+    {
+      "title": "Takin’ My Love for Granted",
+      "id": null
+    },
+    {
+      "title": "Stay a Little Longer",
+      "id": null
+    }
+  ]
+}
