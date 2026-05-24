@@ -1,1 +1,106 @@
-{"id": "strange-behavior-animotion", "title": "Strange Behavior", "artist": "Animotion", "peak": 71, "history": [{"date": "1986-03-15", "rank": 145}, {"date": "1986-03-22", "rank": 108}, {"date": "1986-03-29", "rank": 82}, {"date": "1986-04-05", "rank": 73}, {"date": "1986-04-12", "rank": 71}, {"date": "1986-04-19", "rank": 71}, {"date": "1986-04-26", "rank": 102}, {"date": "1986-05-03", "rank": 102}, {"date": "1986-05-10", "rank": 124}, {"date": "1986-05-17", "rank": 129}, {"date": "1986-05-24", "rank": 149}, {"date": "1986-05-31", "rank": 143}, {"date": "1986-06-07", "rank": 143}, {"date": "1986-06-14", "rank": 158}]}
+{
+  "id": "strange-behavior-animotion",
+  "title": "Strange Behavior",
+  "artist": "Animotion",
+  "peak": 71,
+  "history": [
+    {
+      "date": "1986-03-15",
+      "rank": 145
+    },
+    {
+      "date": "1986-03-22",
+      "rank": 108
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 82
+    },
+    {
+      "date": "1986-04-05",
+      "rank": 73
+    },
+    {
+      "date": "1986-04-12",
+      "rank": 71
+    },
+    {
+      "date": "1986-04-19",
+      "rank": 71
+    },
+    {
+      "date": "1986-04-26",
+      "rank": 102
+    },
+    {
+      "date": "1986-05-03",
+      "rank": 102
+    },
+    {
+      "date": "1986-05-10",
+      "rank": 124
+    },
+    {
+      "date": "1986-05-17",
+      "rank": 129
+    },
+    {
+      "date": "1986-05-24",
+      "rank": 149
+    },
+    {
+      "date": "1986-05-31",
+      "rank": 143
+    },
+    {
+      "date": "1986-06-07",
+      "rank": 143
+    },
+    {
+      "date": "1986-06-14",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Want You",
+      "id": "i-want-you-animotion"
+    },
+    {
+      "title": "I Engineer",
+      "id": "i-engineer-animotion"
+    },
+    {
+      "title": "Strange Behavior",
+      "id": null
+    },
+    {
+      "title": "Stealing Time",
+      "id": null
+    },
+    {
+      "title": "Anxiety",
+      "id": null
+    },
+    {
+      "title": "Out of Control",
+      "id": null
+    },
+    {
+      "title": "Stranded",
+      "id": null
+    },
+    {
+      "title": "The Essence",
+      "id": null
+    },
+    {
+      "title": "One Step Ahead",
+      "id": null
+    },
+    {
+      "title": "Staring Down the Demons",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,106 @@
-{"id": "straight-up-badfinger", "title": "Straight Up", "artist": "Badfinger", "peak": 62, "history": [{"date": "1972-05-20", "rank": 65}, {"date": "1972-05-27", "rank": 62}, {"date": "1972-06-03", "rank": 74}, {"date": "1972-06-10", "rank": 85}, {"date": "1972-06-17", "rank": 89}, {"date": "1972-06-24", "rank": 89}, {"date": "1972-07-01", "rank": 105}, {"date": "1972-07-08", "rank": 120}, {"date": "1972-07-15", "rank": 153}, {"date": "1972-07-22", "rank": 158}, {"date": "1972-07-29", "rank": 170}]}
+{
+  "id": "straight-up-badfinger",
+  "title": "Straight Up",
+  "artist": "Badfinger",
+  "peak": 62,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 65
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 62
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 74
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 85
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 89
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 89
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 105
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 120
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 153
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 158
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Baby Blue",
+      "id": "baby-blue-badfinger"
+    },
+    {
+      "title": "Day After Day",
+      "id": "day-after-day-badfinger"
+    },
+    {
+      "title": "Take It All",
+      "id": null
+    },
+    {
+      "title": "Money",
+      "id": null
+    },
+    {
+      "title": "Flying",
+      "id": null
+    },
+    {
+      "title": "I’d Die Babe",
+      "id": null
+    },
+    {
+      "title": "Name of the Game",
+      "id": null
+    },
+    {
+      "title": "Suitcase",
+      "id": null
+    },
+    {
+      "title": "Sweet Tuesday Morning",
+      "id": null
+    },
+    {
+      "title": "Sometimes",
+      "id": null
+    },
+    {
+      "title": "Perfection",
+      "id": null
+    },
+    {
+      "title": "It’s Over",
+      "id": null
+    },
+    {
+      "title": "Baby Blue (U.S. Single Mix)",
+      "id": null
+    }
+  ]
+}

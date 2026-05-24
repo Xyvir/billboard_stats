@@ -1,1 +1,70 @@
-{"id": "stranded-tangier", "title": "Stranded", "artist": "Tangier", "peak": 187, "history": [{"date": "1991-03-16", "rank": 187}, {"date": "1991-03-23", "rank": 190}, {"date": "1991-03-30", "rank": 188}, {"date": "1991-04-06", "rank": 190}, {"date": "1991-04-13", "rank": 194}]}
+{
+  "id": "stranded-tangier",
+  "title": "Stranded",
+  "artist": "Tangier",
+  "peak": 187,
+  "history": [
+    {
+      "date": "1991-03-16",
+      "rank": 187
+    },
+    {
+      "date": "1991-03-23",
+      "rank": 190
+    },
+    {
+      "date": "1991-03-30",
+      "rank": 188
+    },
+    {
+      "date": "1991-04-06",
+      "rank": 190
+    },
+    {
+      "date": "1991-04-13",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Down the Line",
+      "id": "on-the-line-tangier"
+    },
+    {
+      "title": "Caution to the Wind",
+      "id": "on-the-line-tangier"
+    },
+    {
+      "title": "You're Not the Lovin' Kind",
+      "id": null
+    },
+    {
+      "title": "Since You Been Gone",
+      "id": null
+    },
+    {
+      "title": "Takes Just a Little Time",
+      "id": null
+    },
+    {
+      "title": "Excited",
+      "id": null
+    },
+    {
+      "title": "Back in the Limelight",
+      "id": null
+    },
+    {
+      "title": "Stranded",
+      "id": null
+    },
+    {
+      "title": "It's Hard",
+      "id": null
+    },
+    {
+      "title": "If Ya Can't Find Love",
+      "id": null
+    }
+  ]
+}
