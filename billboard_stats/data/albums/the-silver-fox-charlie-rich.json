@@ -1,1 +1,114 @@
-{"id": "the-silver-fox-charlie-rich", "title": "The Silver Fox", "artist": "Charlie Rich", "peak": 25, "history": [{"date": "1974-12-07", "rank": 91}, {"date": "1974-12-14", "rank": 60}, {"date": "1974-12-21", "rank": 49}, {"date": "1974-12-28", "rank": 40}, {"date": "1975-01-04", "rank": 32}, {"date": "1975-01-11", "rank": 26}, {"date": "1975-01-18", "rank": 29}, {"date": "1975-01-25", "rank": 27}, {"date": "1975-02-01", "rank": 25}, {"date": "1975-02-08", "rank": 25}, {"date": "1975-02-15", "rank": 32}, {"date": "1975-02-22", "rank": 40}, {"date": "1975-03-01", "rank": 63}, {"date": "1975-03-08", "rank": 63}, {"date": "1975-03-15", "rank": 74}, {"date": "1975-03-22", "rank": 114}, {"date": "1975-03-29", "rank": 172}]}
+{
+  "id": "the-silver-fox-charlie-rich",
+  "title": "The Silver Fox",
+  "artist": "Charlie Rich",
+  "peak": 25,
+  "history": [
+    {
+      "date": "1974-12-07",
+      "rank": 91
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 60
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 49
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 40
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 32
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 26
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 29
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 27
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 25
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 25
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 32
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 40
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 63
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 63
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 74
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 114
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lonely Week-Ends",
+      "id": "lonely-weekends-charlie-rich"
+    },
+    {
+      "title": "Caught in the Middle",
+      "id": null
+    },
+    {
+      "title": "Easy Money",
+      "id": null
+    },
+    {
+      "title": "Gentle as a Lamb",
+      "id": null
+    },
+    {
+      "title": "Goodbye Mary Ann",
+      "id": null
+    },
+    {
+      "title": "There’s Another Place I Can’t Go",
+      "id": null
+    },
+    {
+      "title": "You’re Gonna Be Waitin’",
+      "id": null
+    },
+    {
+      "title": "Little by Little",
+      "id": null
+    },
+    {
+      "title": "Come Back",
+      "id": null
+    }
+  ]
+}

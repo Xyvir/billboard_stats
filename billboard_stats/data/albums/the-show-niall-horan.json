@@ -1,1 +1,58 @@
-{"id": "the-show-niall-horan", "title": "The Show", "artist": "Niall Horan", "peak": 2, "history": [{"date": "2023-06-24", "rank": 2}, {"date": "2023-07-01", "rank": 80}]}
+{
+  "id": "the-show-niall-horan",
+  "title": "The Show",
+  "artist": "Niall Horan",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2023-06-24",
+      "rank": 2
+    },
+    {
+      "date": "2023-07-01",
+      "rank": 80
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heaven",
+      "id": "heaven-niall-horan"
+    },
+    {
+      "title": "If You Leave Me",
+      "id": null
+    },
+    {
+      "title": "Meltdown",
+      "id": null
+    },
+    {
+      "title": "Never Grow Up",
+      "id": null
+    },
+    {
+      "title": "The Show",
+      "id": null
+    },
+    {
+      "title": "You Could Start a Cult",
+      "id": null
+    },
+    {
+      "title": "Save My Life",
+      "id": null
+    },
+    {
+      "title": "On a Night Like Tonight",
+      "id": null
+    },
+    {
+      "title": "Science",
+      "id": null
+    },
+    {
+      "title": "Must Be Love",
+      "id": null
+    }
+  ]
+}

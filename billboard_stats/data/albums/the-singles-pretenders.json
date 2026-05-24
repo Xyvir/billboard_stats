@@ -1,1 +1,130 @@
-{"id": "the-singles-pretenders", "title": "The Singles", "artist": "Pretenders", "peak": 69, "history": [{"date": "1987-12-05", "rank": 94}, {"date": "1987-12-12", "rank": 78}, {"date": "1987-12-19", "rank": 69}, {"date": "1987-12-26", "rank": 69}, {"date": "1988-01-02", "rank": 69}, {"date": "1988-01-09", "rank": 80}, {"date": "1988-01-16", "rank": 86}, {"date": "1988-01-23", "rank": 85}, {"date": "1988-01-30", "rank": 96}, {"date": "1988-02-06", "rank": 105}, {"date": "1988-02-13", "rank": 120}, {"date": "1988-02-20", "rank": 142}, {"date": "1988-02-27", "rank": 171}, {"date": "1988-03-05", "rank": 169}, {"date": "1988-03-12", "rank": 193}]}
+{
+  "id": "the-singles-pretenders",
+  "title": "The Singles",
+  "artist": "Pretenders",
+  "peak": 69,
+  "history": [
+    {
+      "date": "1987-12-05",
+      "rank": 94
+    },
+    {
+      "date": "1987-12-12",
+      "rank": 78
+    },
+    {
+      "date": "1987-12-19",
+      "rank": 69
+    },
+    {
+      "date": "1987-12-26",
+      "rank": 69
+    },
+    {
+      "date": "1988-01-02",
+      "rank": 69
+    },
+    {
+      "date": "1988-01-09",
+      "rank": 80
+    },
+    {
+      "date": "1988-01-16",
+      "rank": 86
+    },
+    {
+      "date": "1988-01-23",
+      "rank": 85
+    },
+    {
+      "date": "1988-01-30",
+      "rank": 96
+    },
+    {
+      "date": "1988-02-06",
+      "rank": 105
+    },
+    {
+      "date": "1988-02-13",
+      "rank": 120
+    },
+    {
+      "date": "1988-02-20",
+      "rank": 142
+    },
+    {
+      "date": "1988-02-27",
+      "rank": 171
+    },
+    {
+      "date": "1988-03-05",
+      "rank": 169
+    },
+    {
+      "date": "1988-03-12",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stop Your Sobbing",
+      "id": "stop-your-sobbing-pretenders"
+    },
+    {
+      "title": "Brass in Pocket",
+      "id": "brass-in-pocket-i-m-special-pretenders"
+    },
+    {
+      "title": "Back on the Chain Gang",
+      "id": "back-on-the-chain-gang-pretenders"
+    },
+    {
+      "title": "Middle of the Road",
+      "id": "middle-of-the-road-pretenders"
+    },
+    {
+      "title": "Show Me",
+      "id": "show-me-pretenders"
+    },
+    {
+      "title": "Thin Line Between Love and Hate",
+      "id": "thin-line-between-love-and-hate-pretenders"
+    },
+    {
+      "title": "Don’t Get Me Wrong",
+      "id": "don-t-get-me-wrong-pretenders"
+    },
+    {
+      "title": "My Baby",
+      "id": "my-baby-pretenders"
+    },
+    {
+      "title": "Kid",
+      "id": null
+    },
+    {
+      "title": "Talk of the Town",
+      "id": null
+    },
+    {
+      "title": "I Go to Sleep",
+      "id": null
+    },
+    {
+      "title": "Day After Day",
+      "id": null
+    },
+    {
+      "title": "Message of Love",
+      "id": null
+    },
+    {
+      "title": "2000 Miles",
+      "id": null
+    },
+    {
+      "title": "Hymn to Her",
+      "id": null
+    }
+  ]
+}

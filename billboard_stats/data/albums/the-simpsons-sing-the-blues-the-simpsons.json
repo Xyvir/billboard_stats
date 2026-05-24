@@ -1,1 +1,206 @@
-{"id": "the-simpsons-sing-the-blues-the-simpsons", "title": "The Simpsons Sing The Blues", "artist": "The Simpsons", "peak": 3, "history": [{"date": "1990-12-22", "rank": 42}, {"date": "1990-12-29", "rank": 42}, {"date": "1991-01-05", "rank": 10}, {"date": "1991-01-12", "rank": 7}, {"date": "1991-01-19", "rank": 4}, {"date": "1991-01-26", "rank": 3}, {"date": "1991-02-02", "rank": 4}, {"date": "1991-02-09", "rank": 4}, {"date": "1991-02-16", "rank": 4}, {"date": "1991-02-23", "rank": 6}, {"date": "1991-03-02", "rank": 8}, {"date": "1991-03-09", "rank": 12}, {"date": "1991-03-16", "rank": 14}, {"date": "1991-03-23", "rank": 15}, {"date": "1991-03-30", "rank": 17}, {"date": "1991-04-06", "rank": 18}, {"date": "1991-04-13", "rank": 18}, {"date": "1991-04-20", "rank": 27}, {"date": "1991-04-27", "rank": 35}, {"date": "1991-05-04", "rank": 38}, {"date": "1991-05-11", "rank": 44}, {"date": "1991-05-18", "rank": 51}, {"date": "1991-05-25", "rank": 26}, {"date": "1991-06-01", "rank": 34}, {"date": "1991-06-08", "rank": 39}, {"date": "1991-06-15", "rank": 51}, {"date": "1991-06-22", "rank": 64}, {"date": "1991-06-29", "rank": 69}, {"date": "1991-07-06", "rank": 80}, {"date": "1991-07-13", "rank": 86}, {"date": "1991-07-20", "rank": 96}, {"date": "1991-07-27", "rank": 99}, {"date": "1991-08-03", "rank": 108}, {"date": "1991-08-10", "rank": 109}, {"date": "1991-08-17", "rank": 127}, {"date": "1991-08-24", "rank": 132}, {"date": "1991-08-31", "rank": 154}, {"date": "1991-09-07", "rank": 158}, {"date": "1991-09-14", "rank": 181}]}
+{
+  "id": "the-simpsons-sing-the-blues-the-simpsons",
+  "title": "The Simpsons Sing The Blues",
+  "artist": "The Simpsons",
+  "peak": 3,
+  "history": [
+    {
+      "date": "1990-12-22",
+      "rank": 42
+    },
+    {
+      "date": "1990-12-29",
+      "rank": 42
+    },
+    {
+      "date": "1991-01-05",
+      "rank": 10
+    },
+    {
+      "date": "1991-01-12",
+      "rank": 7
+    },
+    {
+      "date": "1991-01-19",
+      "rank": 4
+    },
+    {
+      "date": "1991-01-26",
+      "rank": 3
+    },
+    {
+      "date": "1991-02-02",
+      "rank": 4
+    },
+    {
+      "date": "1991-02-09",
+      "rank": 4
+    },
+    {
+      "date": "1991-02-16",
+      "rank": 4
+    },
+    {
+      "date": "1991-02-23",
+      "rank": 6
+    },
+    {
+      "date": "1991-03-02",
+      "rank": 8
+    },
+    {
+      "date": "1991-03-09",
+      "rank": 12
+    },
+    {
+      "date": "1991-03-16",
+      "rank": 14
+    },
+    {
+      "date": "1991-03-23",
+      "rank": 15
+    },
+    {
+      "date": "1991-03-30",
+      "rank": 17
+    },
+    {
+      "date": "1991-04-06",
+      "rank": 18
+    },
+    {
+      "date": "1991-04-13",
+      "rank": 18
+    },
+    {
+      "date": "1991-04-20",
+      "rank": 27
+    },
+    {
+      "date": "1991-04-27",
+      "rank": 35
+    },
+    {
+      "date": "1991-05-04",
+      "rank": 38
+    },
+    {
+      "date": "1991-05-11",
+      "rank": 44
+    },
+    {
+      "date": "1991-05-18",
+      "rank": 51
+    },
+    {
+      "date": "1991-05-25",
+      "rank": 26
+    },
+    {
+      "date": "1991-06-01",
+      "rank": 34
+    },
+    {
+      "date": "1991-06-08",
+      "rank": 39
+    },
+    {
+      "date": "1991-06-15",
+      "rank": 51
+    },
+    {
+      "date": "1991-06-22",
+      "rank": 64
+    },
+    {
+      "date": "1991-06-29",
+      "rank": 69
+    },
+    {
+      "date": "1991-07-06",
+      "rank": 80
+    },
+    {
+      "date": "1991-07-13",
+      "rank": 86
+    },
+    {
+      "date": "1991-07-20",
+      "rank": 96
+    },
+    {
+      "date": "1991-07-27",
+      "rank": 99
+    },
+    {
+      "date": "1991-08-03",
+      "rank": 108
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 109
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 127
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 132
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 154
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 158
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Do the Bartman",
+      "id": null
+    },
+    {
+      "title": "School Day",
+      "id": null
+    },
+    {
+      "title": "Born Under a Bad Sign",
+      "id": null
+    },
+    {
+      "title": "Moanin’ Lisa Blues",
+      "id": null
+    },
+    {
+      "title": "Deep, Deep Trouble",
+      "id": null
+    },
+    {
+      "title": "God Bless the Child",
+      "id": null
+    },
+    {
+      "title": "I Love to See You Smile",
+      "id": null
+    },
+    {
+      "title": "Springfield Soul Stew",
+      "id": null
+    },
+    {
+      "title": "Look at All Those Idiots",
+      "id": null
+    },
+    {
+      "title": "Sibling Rivalry",
+      "id": null
+    }
+  ]
+}
