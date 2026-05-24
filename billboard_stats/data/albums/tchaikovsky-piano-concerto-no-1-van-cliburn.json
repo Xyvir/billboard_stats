@@ -1,1 +1,38 @@
-{"id": "tchaikovsky-piano-concerto-no-1-van-cliburn", "title": "Tchaikovsky: Piano Concerto No. 1", "artist": "Van Cliburn", "peak": 150, "history": [{"date": "2013-03-16", "rank": 150}]}
+{
+  "id": "tchaikovsky-piano-concerto-no-1-van-cliburn",
+  "title": "Tchaikovsky: Piano Concerto No. 1",
+  "artist": "Van Cliburn",
+  "peak": 150,
+  "history": [
+    {
+      "date": "2013-03-16",
+      "rank": 150
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Piano Concerto no. 1 in B‐flat minor, op. 23: I. Allegro non troppo e molto maestoso",
+      "id": null
+    },
+    {
+      "title": "Piano Concerto no. 1 in B‐flat minor, op. 23: II. Andantino simplice",
+      "id": null
+    },
+    {
+      "title": "Piano Concerto no. 1 in B‐flat minor, op. 23: III. Allegro con fuoco",
+      "id": null
+    },
+    {
+      "title": "Piano Concerto no. 2 in C minor, op. 18: I. Moderato - Allegro",
+      "id": null
+    },
+    {
+      "title": "Piano Concerto no. 2 in C minor, op. 18: II. Adagio sostenuto",
+      "id": null
+    },
+    {
+      "title": "Piano Concerto no. 2 in C minor, op. 18: III. Allegro scherzando",
+      "id": null
+    }
+  ]
+}

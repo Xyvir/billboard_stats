@@ -1,1 +1,82 @@
-{"id": "taxi-bryan-ferry", "title": "Taxi", "artist": "Bryan Ferry", "peak": 79, "history": [{"date": "1993-05-01", "rank": 79}, {"date": "1993-05-08", "rank": 106}, {"date": "1993-05-15", "rank": 112}, {"date": "1993-05-22", "rank": 109}, {"date": "1993-05-29", "rank": 138}, {"date": "1993-06-05", "rank": 165}, {"date": "1993-06-12", "rank": 182}, {"date": "1993-06-19", "rank": 197}]}
+{
+  "id": "taxi-bryan-ferry",
+  "title": "Taxi",
+  "artist": "Bryan Ferry",
+  "peak": 79,
+  "history": [
+    {
+      "date": "1993-05-01",
+      "rank": 79
+    },
+    {
+      "date": "1993-05-08",
+      "rank": 106
+    },
+    {
+      "date": "1993-05-15",
+      "rank": 112
+    },
+    {
+      "date": "1993-05-22",
+      "rank": 109
+    },
+    {
+      "date": "1993-05-29",
+      "rank": 138
+    },
+    {
+      "date": "1993-06-05",
+      "rank": 165
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 182
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Put a Spell on You",
+      "id": null
+    },
+    {
+      "title": "Will You Love Me Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Answer Me",
+      "id": null
+    },
+    {
+      "title": "Just One Look",
+      "id": null
+    },
+    {
+      "title": "Rescue Me",
+      "id": null
+    },
+    {
+      "title": "All Tomorrow’s Parties",
+      "id": null
+    },
+    {
+      "title": "Girl of My Best Friend",
+      "id": null
+    },
+    {
+      "title": "Amazing Grace",
+      "id": null
+    },
+    {
+      "title": "Taxi",
+      "id": null
+    },
+    {
+      "title": "Because You’re Mine",
+      "id": null
+    }
+  ]
+}
