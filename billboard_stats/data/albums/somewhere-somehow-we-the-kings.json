@@ -1,1 +1,74 @@
-{"id": "somewhere-somehow-we-the-kings", "title": "Somewhere Somehow", "artist": "We the Kings", "peak": 44, "history": [{"date": "2014-01-04", "rank": 44}, {"date": "2014-01-11", "rank": 106}, {"date": "2014-01-18", "rank": 164}]}
+{
+  "id": "somewhere-somehow-we-the-kings",
+  "title": "Somewhere Somehow",
+  "artist": "We the Kings",
+  "peak": 44,
+  "history": [
+    {
+      "date": "2014-01-04",
+      "rank": 44
+    },
+    {
+      "date": "2014-01-11",
+      "rank": 106
+    },
+    {
+      "date": "2014-01-18",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Just Keep Breathing",
+      "id": "just-keep-breathing-we-the-kings"
+    },
+    {
+      "title": "Queen of Hearts",
+      "id": null
+    },
+    {
+      "title": "Find You There",
+      "id": null
+    },
+    {
+      "title": "I Feel Alive",
+      "id": null
+    },
+    {
+      "title": "I Like It",
+      "id": null
+    },
+    {
+      "title": "That Feeling",
+      "id": null
+    },
+    {
+      "title": "See You in My Dreams",
+      "id": null
+    },
+    {
+      "title": "Die Young Live Forever",
+      "id": null
+    },
+    {
+      "title": "Phoenix Hearts",
+      "id": null
+    },
+    {
+      "title": "Any Other Way",
+      "id": null
+    },
+    {
+      "title": "Say It Now",
+      "id": null
+    },
+    {
+      "title": "Art of War",
+      "id": null
+    },
+    {
+      "title": "Sad Song",
+      "id": null
+    }
+  ]
+}

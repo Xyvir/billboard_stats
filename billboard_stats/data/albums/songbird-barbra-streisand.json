@@ -1,1 +1,158 @@
-{"id": "songbird-barbra-streisand", "title": "Songbird", "artist": "Barbra Streisand", "peak": 12, "history": [{"date": "1978-06-17", "rank": 54}, {"date": "1978-06-24", "rank": 25}, {"date": "1978-07-01", "rank": 20}, {"date": "1978-07-08", "rank": 17}, {"date": "1978-07-15", "rank": 14}, {"date": "1978-07-22", "rank": 12}, {"date": "1978-07-29", "rank": 12}, {"date": "1978-08-05", "rank": 18}, {"date": "1978-08-12", "rank": 29}, {"date": "1978-08-19", "rank": 39}, {"date": "1978-08-26", "rank": 39}, {"date": "1978-09-02", "rank": 37}, {"date": "1978-09-09", "rank": 36}, {"date": "1978-09-16", "rank": 35}, {"date": "1978-09-23", "rank": 76}, {"date": "1978-09-30", "rank": 76}, {"date": "1978-10-07", "rank": 83}, {"date": "1978-10-14", "rank": 83}, {"date": "1978-10-21", "rank": 93}, {"date": "1978-10-28", "rank": 91}, {"date": "1978-11-04", "rank": 138}, {"date": "1978-11-11", "rank": 138}, {"date": "1978-11-18", "rank": 129}, {"date": "1978-11-25", "rank": 189}, {"date": "1978-12-02", "rank": 182}, {"date": "1978-12-09", "rank": 172}, {"date": "1978-12-16", "rank": 172}]}
+{
+  "id": "songbird-barbra-streisand",
+  "title": "Songbird",
+  "artist": "Barbra Streisand",
+  "peak": 12,
+  "history": [
+    {
+      "date": "1978-06-17",
+      "rank": 54
+    },
+    {
+      "date": "1978-06-24",
+      "rank": 25
+    },
+    {
+      "date": "1978-07-01",
+      "rank": 20
+    },
+    {
+      "date": "1978-07-08",
+      "rank": 17
+    },
+    {
+      "date": "1978-07-15",
+      "rank": 14
+    },
+    {
+      "date": "1978-07-22",
+      "rank": 12
+    },
+    {
+      "date": "1978-07-29",
+      "rank": 12
+    },
+    {
+      "date": "1978-08-05",
+      "rank": 18
+    },
+    {
+      "date": "1978-08-12",
+      "rank": 29
+    },
+    {
+      "date": "1978-08-19",
+      "rank": 39
+    },
+    {
+      "date": "1978-08-26",
+      "rank": 39
+    },
+    {
+      "date": "1978-09-02",
+      "rank": 37
+    },
+    {
+      "date": "1978-09-09",
+      "rank": 36
+    },
+    {
+      "date": "1978-09-16",
+      "rank": 35
+    },
+    {
+      "date": "1978-09-23",
+      "rank": 76
+    },
+    {
+      "date": "1978-09-30",
+      "rank": 76
+    },
+    {
+      "date": "1978-10-07",
+      "rank": 83
+    },
+    {
+      "date": "1978-10-14",
+      "rank": 83
+    },
+    {
+      "date": "1978-10-21",
+      "rank": 93
+    },
+    {
+      "date": "1978-10-28",
+      "rank": 91
+    },
+    {
+      "date": "1978-11-04",
+      "rank": 138
+    },
+    {
+      "date": "1978-11-11",
+      "rank": 138
+    },
+    {
+      "date": "1978-11-18",
+      "rank": 129
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 189
+    },
+    {
+      "date": "1978-12-02",
+      "rank": 182
+    },
+    {
+      "date": "1978-12-09",
+      "rank": 172
+    },
+    {
+      "date": "1978-12-16",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Man I Loved",
+      "id": "woman-in-love-barbra-streisand"
+    },
+    {
+      "title": "Songbird",
+      "id": "songbird-barbra-streisand"
+    },
+    {
+      "title": "Tomorrow",
+      "id": null
+    },
+    {
+      "title": "I Don’t Break Easily",
+      "id": null
+    },
+    {
+      "title": "Love Breakdown",
+      "id": null
+    },
+    {
+      "title": "You Don’t Bring Me Flowers",
+      "id": null
+    },
+    {
+      "title": "Honey Can I Put On Your Clothes",
+      "id": null
+    },
+    {
+      "title": "One More Night",
+      "id": null
+    },
+    {
+      "title": "Stay Away",
+      "id": null
+    },
+    {
+      "title": "Deep in the Night",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "somo-somo", "title": "SoMo", "artist": "SoMo", "peak": 6, "history": [{"date": "2014-04-26", "rank": 6}, {"date": "2014-05-03", "rank": 67}, {"date": "2014-05-10", "rank": 110}, {"date": "2014-05-17", "rank": 179}]}
+{
+  "id": "somo-somo",
+  "title": "SoMo",
+  "artist": "SoMo",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2014-04-26",
+      "rank": 6
+    },
+    {
+      "date": "2014-05-03",
+      "rank": 67
+    },
+    {
+      "date": "2014-05-10",
+      "rank": 110
+    },
+    {
+      "date": "2014-05-17",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ride",
+      "id": "ride-somo"
+    },
+    {
+      "title": "TMWYKAL",
+      "id": null
+    },
+    {
+      "title": "I Do It All For You",
+      "id": null
+    },
+    {
+      "title": "Show Off",
+      "id": null
+    },
+    {
+      "title": "We Can Make Love",
+      "id": null
+    },
+    {
+      "title": "Crash",
+      "id": null
+    },
+    {
+      "title": "Blind",
+      "id": null
+    },
+    {
+      "title": "Back To The Start",
+      "id": null
+    },
+    {
+      "title": "Fire",
+      "id": null
+    },
+    {
+      "title": "Hush",
+      "id": null
+    },
+    {
+      "title": "Red Lighter",
+      "id": null
+    }
+  ]
+}
