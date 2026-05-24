@@ -1,1 +1,230 @@
-{"id": "shaved-fish-john-lennon", "title": "Shaved Fish", "artist": "John Lennon", "peak": 12, "history": [{"date": "1975-11-08", "rank": 97}, {"date": "1975-11-15", "rank": 37}, {"date": "1975-11-22", "rank": 21}, {"date": "1975-11-29", "rank": 16}, {"date": "1975-12-06", "rank": 13}, {"date": "1975-12-13", "rank": 12}, {"date": "1975-12-20", "rank": 29}, {"date": "1975-12-27", "rank": 47}, {"date": "1976-01-03", "rank": 73}, {"date": "1976-01-10", "rank": 73}, {"date": "1976-01-17", "rank": 79}, {"date": "1976-01-24", "rank": 125}, {"date": "1976-01-31", "rank": 135}, {"date": "1976-02-07", "rank": 183}, {"date": "1981-01-17", "rank": 84}, {"date": "1981-01-24", "rank": 69}, {"date": "1981-01-31", "rank": 62}, {"date": "1981-02-07", "rank": 60}, {"date": "1981-02-14", "rank": 57}, {"date": "1981-02-21", "rank": 60}, {"date": "1981-02-28", "rank": 59}, {"date": "1981-03-07", "rank": 80}, {"date": "1981-03-14", "rank": 78}, {"date": "1981-03-21", "rank": 104}, {"date": "1981-03-28", "rank": 108}, {"date": "1981-04-04", "rank": 127}, {"date": "1981-04-11", "rank": 144}, {"date": "1981-04-18", "rank": 177}, {"date": "1981-04-25", "rank": 177}, {"date": "1981-05-02", "rank": 174}, {"date": "1981-05-09", "rank": 172}, {"date": "1981-05-16", "rank": 199}]}
+{
+  "id": "shaved-fish-john-lennon",
+  "title": "Shaved Fish",
+  "artist": "John Lennon",
+  "peak": 12,
+  "history": [
+    {
+      "date": "1975-11-08",
+      "rank": 97
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 37
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 21
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 16
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 13
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 12
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 29
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 47
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 73
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 73
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 79
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 125
+    },
+    {
+      "date": "1976-01-31",
+      "rank": 135
+    },
+    {
+      "date": "1976-02-07",
+      "rank": 183
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 84
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 69
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 62
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 60
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 57
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 60
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 59
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 80
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 78
+    },
+    {
+      "date": "1981-03-21",
+      "rank": 104
+    },
+    {
+      "date": "1981-03-28",
+      "rank": 108
+    },
+    {
+      "date": "1981-04-04",
+      "rank": 127
+    },
+    {
+      "date": "1981-04-11",
+      "rank": 144
+    },
+    {
+      "date": "1981-04-18",
+      "rank": 177
+    },
+    {
+      "date": "1981-04-25",
+      "rank": 177
+    },
+    {
+      "date": "1981-05-02",
+      "rank": 174
+    },
+    {
+      "date": "1981-05-09",
+      "rank": 172
+    },
+    {
+      "date": "1981-05-16",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mind Games (rough mix)",
+      "id": "mind-games-john-lennon"
+    },
+    {
+      "title": "Give Peace a Chance (rehearsal)",
+      "id": null
+    },
+    {
+      "title": "Cold Turkey (one to one rehearsal)",
+      "id": null
+    },
+    {
+      "title": "Instant Karma! (different mix from 'Top of the Pops')",
+      "id": null
+    },
+    {
+      "title": "Power to People (rough mix with longer intro and outro)",
+      "id": null
+    },
+    {
+      "title": "Mother (alternate take, different beginning)",
+      "id": null
+    },
+    {
+      "title": "Woman Is the Nigger of the World (alternate take with count in, runs much longer)",
+      "id": null
+    },
+    {
+      "title": "Imagine (take 1)",
+      "id": null
+    },
+    {
+      "title": "Whatever Gets You Thru the Night (rough mix, almost complete)",
+      "id": null
+    },
+    {
+      "title": "39 Dreammonitor Mix",
+      "id": null
+    },
+    {
+      "title": "Happy Xmas (War Is Over)",
+      "id": null
+    },
+    {
+      "title": "Give Peace a Chance (rehearsal, complete version, lasts 5:20)",
+      "id": null
+    },
+    {
+      "title": "Cold Turkey (Rough mix from Acetate)",
+      "id": null
+    },
+    {
+      "title": "Instant Karma! (US single mix, different version)",
+      "id": null
+    },
+    {
+      "title": "Power to the People (alternate take, early runthrough)",
+      "id": null
+    },
+    {
+      "title": "Power to the People (alternate take, no backing vocals)",
+      "id": null
+    },
+    {
+      "title": "Give Peace a Chance (acoustic guitar demo)",
+      "id": null
+    },
+    {
+      "title": "Cold Turkey (acoustic guitar demo)",
+      "id": null
+    },
+    {
+      "title": "Whatever Gets You Thru (acoustic guitar demo)",
+      "id": null
+    },
+    {
+      "title": "#9 Dream (acoustic guitar demo)",
+      "id": null
+    },
+    {
+      "title": "Happy Xmas \"War Is Over\" (acoustic guitar demo, only John on vocals)",
+      "id": null
+    },
+    {
+      "title": "Imagine (live, Jerry Lewis TV Show)",
+      "id": null
+    },
+    {
+      "title": "Whatever Gets You Thru the Night (live)",
+      "id": null
+    }
+  ]
+}

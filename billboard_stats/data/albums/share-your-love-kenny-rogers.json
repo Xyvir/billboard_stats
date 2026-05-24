@@ -1,1 +1,250 @@
-{"id": "share-your-love-kenny-rogers", "title": "Share Your Love", "artist": "Kenny Rogers", "peak": 6, "history": [{"date": "1981-07-11", "rank": 16}, {"date": "1981-07-18", "rank": 14}, {"date": "1981-07-25", "rank": 8}, {"date": "1981-08-01", "rank": 7}, {"date": "1981-08-08", "rank": 7}, {"date": "1981-08-15", "rank": 6}, {"date": "1981-08-22", "rank": 6}, {"date": "1981-08-29", "rank": 11}, {"date": "1981-09-05", "rank": 18}, {"date": "1981-09-12", "rank": 31}, {"date": "1981-09-19", "rank": 30}, {"date": "1981-09-26", "rank": 29}, {"date": "1981-10-03", "rank": 29}, {"date": "1981-10-10", "rank": 48}, {"date": "1981-10-17", "rank": 47}, {"date": "1981-10-24", "rank": 46}, {"date": "1981-10-31", "rank": 44}, {"date": "1981-11-07", "rank": 43}, {"date": "1981-11-14", "rank": 42}, {"date": "1981-11-21", "rank": 47}, {"date": "1981-11-28", "rank": 67}, {"date": "1981-12-05", "rank": 59}, {"date": "1981-12-12", "rank": 59}, {"date": "1981-12-19", "rank": 56}, {"date": "1981-12-26", "rank": 56}, {"date": "1982-01-02", "rank": 56}, {"date": "1982-01-09", "rank": 55}, {"date": "1982-01-16", "rank": 61}, {"date": "1982-01-23", "rank": 61}, {"date": "1982-01-30", "rank": 61}, {"date": "1982-02-06", "rank": 67}, {"date": "1982-02-13", "rank": 65}, {"date": "1982-02-20", "rank": 63}, {"date": "1982-02-27", "rank": 57}, {"date": "1982-03-06", "rank": 55}, {"date": "1982-03-13", "rank": 60}, {"date": "1982-03-20", "rank": 59}, {"date": "1982-03-27", "rank": 68}, {"date": "1982-04-03", "rank": 78}, {"date": "1982-04-10", "rank": 106}, {"date": "1982-04-17", "rank": 106}, {"date": "1982-04-24", "rank": 124}, {"date": "1982-05-01", "rank": 124}, {"date": "1982-05-08", "rank": 124}, {"date": "1982-05-15", "rank": 124}, {"date": "1982-05-22", "rank": 125}, {"date": "1982-05-29", "rank": 125}, {"date": "1982-06-05", "rank": 151}, {"date": "1982-06-12", "rank": 168}, {"date": "1982-06-19", "rank": 181}]}
+{
+  "id": "share-your-love-kenny-rogers",
+  "title": "Share Your Love",
+  "artist": "Kenny Rogers",
+  "peak": 6,
+  "history": [
+    {
+      "date": "1981-07-11",
+      "rank": 16
+    },
+    {
+      "date": "1981-07-18",
+      "rank": 14
+    },
+    {
+      "date": "1981-07-25",
+      "rank": 8
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 7
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 7
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 6
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 6
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 11
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 18
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 31
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 30
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 29
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 29
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 48
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 47
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 46
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 44
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 43
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 42
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 47
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 67
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 59
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 59
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 56
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 56
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 56
+    },
+    {
+      "date": "1982-01-09",
+      "rank": 55
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 61
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 61
+    },
+    {
+      "date": "1982-01-30",
+      "rank": 61
+    },
+    {
+      "date": "1982-02-06",
+      "rank": 67
+    },
+    {
+      "date": "1982-02-13",
+      "rank": 65
+    },
+    {
+      "date": "1982-02-20",
+      "rank": 63
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 57
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 55
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 60
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 59
+    },
+    {
+      "date": "1982-03-27",
+      "rank": 68
+    },
+    {
+      "date": "1982-04-03",
+      "rank": 78
+    },
+    {
+      "date": "1982-04-10",
+      "rank": 106
+    },
+    {
+      "date": "1982-04-17",
+      "rank": 106
+    },
+    {
+      "date": "1982-04-24",
+      "rank": 124
+    },
+    {
+      "date": "1982-05-01",
+      "rank": 124
+    },
+    {
+      "date": "1982-05-08",
+      "rank": 124
+    },
+    {
+      "date": "1982-05-15",
+      "rank": 124
+    },
+    {
+      "date": "1982-05-22",
+      "rank": 125
+    },
+    {
+      "date": "1982-05-29",
+      "rank": 125
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 151
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 168
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blaze of Glory",
+      "id": "blaze-of-glory-kenny-rogers"
+    },
+    {
+      "title": "I Don’t Need You",
+      "id": "i-don-t-need-you-kenny-rogers"
+    },
+    {
+      "title": "Through the Years",
+      "id": "through-the-years-kenny-rogers"
+    },
+    {
+      "title": "Share Your Love With Me",
+      "id": "share-your-love-with-me-kenny-rogers"
+    },
+    {
+      "title": "So in Love With You",
+      "id": "share-your-love-with-me-kenny-rogers"
+    },
+    {
+      "title": "The Good Life",
+      "id": null
+    },
+    {
+      "title": "Make Me Wonder If I Ever Said Goodbye",
+      "id": null
+    },
+    {
+      "title": "Goin’ Back to Alabama",
+      "id": null
+    },
+    {
+      "title": "Without You in My Life",
+      "id": null
+    },
+    {
+      "title": "Greybeard",
+      "id": null
+    }
+  ]
+}

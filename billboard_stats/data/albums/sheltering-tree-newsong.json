@@ -1,1 +1,66 @@
-{"id": "sheltering-tree-newsong", "title": "Sheltering Tree", "artist": "NewSong", "peak": 130, "history": [{"date": "2000-12-30", "rank": 165}, {"date": "2001-01-06", "rank": 130}]}
+{
+  "id": "sheltering-tree-newsong",
+  "title": "Sheltering Tree",
+  "artist": "NewSong",
+  "peak": 130,
+  "history": [
+    {
+      "date": "2000-12-30",
+      "rank": 165
+    },
+    {
+      "date": "2001-01-06",
+      "rank": 130
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Christmas Shoes",
+      "id": "the-christmas-shoes-newsong"
+    },
+    {
+      "title": "Red Letter Day",
+      "id": null
+    },
+    {
+      "title": "Wonderful One",
+      "id": null
+    },
+    {
+      "title": "Sheltering Tree",
+      "id": null
+    },
+    {
+      "title": "Defining Moment",
+      "id": null
+    },
+    {
+      "title": "Don't It Make You Want to Go Home",
+      "id": null
+    },
+    {
+      "title": "Wide Open",
+      "id": null
+    },
+    {
+      "title": "Nothing Without Christ",
+      "id": null
+    },
+    {
+      "title": "God Made Man",
+      "id": null
+    },
+    {
+      "title": "Anything But You",
+      "id": null
+    },
+    {
+      "title": "God & Time",
+      "id": null
+    },
+    {
+      "title": "Hope Changes Everything",
+      "id": null
+    }
+  ]
+}

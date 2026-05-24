@@ -1,1 +1,190 @@
-{"id": "sheer-heart-attack-queen", "title": "Sheer Heart Attack", "artist": "Queen", "peak": 12, "history": [{"date": "1974-12-14", "rank": 153}, {"date": "1974-12-21", "rank": 124}, {"date": "1974-12-28", "rank": 111}, {"date": "1975-01-04", "rank": 100}, {"date": "1975-01-11", "rank": 89}, {"date": "1975-01-18", "rank": 89}, {"date": "1975-01-25", "rank": 98}, {"date": "1975-02-01", "rank": 109}, {"date": "1975-02-08", "rank": 96}, {"date": "1975-02-15", "rank": 85}, {"date": "1975-02-22", "rank": 75}, {"date": "1975-03-01", "rank": 75}, {"date": "1975-03-08", "rank": 69}, {"date": "1975-03-15", "rank": 61}, {"date": "1975-03-22", "rank": 51}, {"date": "1975-03-29", "rank": 41}, {"date": "1975-04-05", "rank": 31}, {"date": "1975-04-12", "rank": 24}, {"date": "1975-04-19", "rank": 21}, {"date": "1975-04-26", "rank": 17}, {"date": "1975-05-03", "rank": 13}, {"date": "1975-05-10", "rank": 12}, {"date": "1975-05-17", "rank": 12}, {"date": "1975-05-24", "rank": 19}, {"date": "1975-05-31", "rank": 28}, {"date": "1975-06-07", "rank": 37}, {"date": "1975-06-14", "rank": 47}, {"date": "1975-06-21", "rank": 66}, {"date": "1975-06-28", "rank": 84}, {"date": "1975-07-05", "rank": 107}, {"date": "1975-07-12", "rank": 107}, {"date": "1975-07-19", "rank": 169}]}
+{
+  "id": "sheer-heart-attack-queen",
+  "title": "Sheer Heart Attack",
+  "artist": "Queen",
+  "peak": 12,
+  "history": [
+    {
+      "date": "1974-12-14",
+      "rank": 153
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 124
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 111
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 100
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 89
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 89
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 98
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 109
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 96
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 85
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 75
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 75
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 69
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 61
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 51
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 41
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 31
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 24
+    },
+    {
+      "date": "1975-04-19",
+      "rank": 21
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 17
+    },
+    {
+      "date": "1975-05-03",
+      "rank": 13
+    },
+    {
+      "date": "1975-05-10",
+      "rank": 12
+    },
+    {
+      "date": "1975-05-17",
+      "rank": 12
+    },
+    {
+      "date": "1975-05-24",
+      "rank": 19
+    },
+    {
+      "date": "1975-05-31",
+      "rank": 28
+    },
+    {
+      "date": "1975-06-07",
+      "rank": 37
+    },
+    {
+      "date": "1975-06-14",
+      "rank": 47
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 66
+    },
+    {
+      "date": "1975-06-28",
+      "rank": 84
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 107
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 107
+    },
+    {
+      "date": "1975-07-19",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Killer Queen",
+      "id": "killer-queen-queen"
+    },
+    {
+      "title": "Brighton Rock",
+      "id": null
+    },
+    {
+      "title": "Tenement Funster",
+      "id": null
+    },
+    {
+      "title": "Flick of the Wrist",
+      "id": null
+    },
+    {
+      "title": "Lily of the Valley",
+      "id": null
+    },
+    {
+      "title": "Now I’m Here",
+      "id": null
+    },
+    {
+      "title": "In the Lap of the Gods",
+      "id": null
+    },
+    {
+      "title": "Stone Cold Crazy",
+      "id": null
+    },
+    {
+      "title": "Dear Friends",
+      "id": null
+    },
+    {
+      "title": "Misfire",
+      "id": null
+    },
+    {
+      "title": "Bring Back That Leroy Brown",
+      "id": null
+    },
+    {
+      "title": "She Makes Me (Stormtrooper in Stilettos)",
+      "id": null
+    },
+    {
+      "title": "In the Lap of the Gods… Revisited",
+      "id": null
+    }
+  ]
+}

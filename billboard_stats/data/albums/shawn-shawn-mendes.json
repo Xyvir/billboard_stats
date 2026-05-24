@@ -1,1 +1,22 @@
-{"id": "shawn-shawn-mendes", "title": "Shawn", "artist": "Shawn Mendes", "peak": 26, "history": [{"date": "2024-11-30", "rank": 26}]}
+{
+  "id": "shawn-shawn-mendes",
+  "title": "Shawn",
+  "artist": "Shawn Mendes",
+  "peak": 26,
+  "history": [
+    {
+      "date": "2024-11-30",
+      "rank": 26
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Why Why Why",
+      "id": "why-why-why-shawn-mendes"
+    },
+    {
+      "title": "Isn’t That Enough",
+      "id": null
+    }
+  ]
+}
