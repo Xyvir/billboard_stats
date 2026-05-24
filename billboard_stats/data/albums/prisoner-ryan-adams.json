@@ -1,1 +1,70 @@
-{"id": "prisoner-ryan-adams", "title": "Prisoner", "artist": "Ryan Adams", "peak": 8, "history": [{"date": "2017-03-11", "rank": 8}, {"date": "2017-03-18", "rank": 54}, {"date": "2017-03-25", "rank": 132}]}
+{
+  "id": "prisoner-ryan-adams",
+  "title": "Prisoner",
+  "artist": "Ryan Adams",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2017-03-11",
+      "rank": 8
+    },
+    {
+      "date": "2017-03-18",
+      "rank": 54
+    },
+    {
+      "date": "2017-03-25",
+      "rank": 132
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Do You Still Love Me?",
+      "id": null
+    },
+    {
+      "title": "Prisoner",
+      "id": null
+    },
+    {
+      "title": "Doomsday",
+      "id": null
+    },
+    {
+      "title": "Haunted House",
+      "id": null
+    },
+    {
+      "title": "Shiver and Shake",
+      "id": null
+    },
+    {
+      "title": "To Be Without You",
+      "id": null
+    },
+    {
+      "title": "Anything I Say to You Now",
+      "id": null
+    },
+    {
+      "title": "Breakdown",
+      "id": null
+    },
+    {
+      "title": "Outbound Train",
+      "id": null
+    },
+    {
+      "title": "Broken Anyway",
+      "id": null
+    },
+    {
+      "title": "Tightrope",
+      "id": null
+    },
+    {
+      "title": "We Disappear",
+      "id": null
+    }
+  ]
+}

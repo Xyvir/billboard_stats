@@ -1,1 +1,126 @@
-{"id": "profile-emmylou-harris", "title": "Profile", "artist": "Emmylou Harris", "peak": 81, "history": [{"date": "1978-12-02", "rank": 113}, {"date": "1978-12-09", "rank": 103}, {"date": "1978-12-16", "rank": 93}, {"date": "1978-12-23", "rank": 88}, {"date": "1978-12-30", "rank": 88}, {"date": "1979-01-06", "rank": 88}, {"date": "1979-01-13", "rank": 81}, {"date": "1979-01-20", "rank": 141}, {"date": "1979-01-27", "rank": 151}, {"date": "1979-02-03", "rank": 161}, {"date": "1979-02-10", "rank": 160}, {"date": "1979-02-17", "rank": 159}, {"date": "1979-02-24", "rank": 160}, {"date": "1979-03-03", "rank": 158}, {"date": "1979-03-10", "rank": 163}, {"date": "1979-03-17", "rank": 165}, {"date": "1979-03-24", "rank": 166}]}
+{
+  "id": "profile-emmylou-harris",
+  "title": "Profile",
+  "artist": "Emmylou Harris",
+  "peak": 81,
+  "history": [
+    {
+      "date": "1978-12-02",
+      "rank": 113
+    },
+    {
+      "date": "1978-12-09",
+      "rank": 103
+    },
+    {
+      "date": "1978-12-16",
+      "rank": 93
+    },
+    {
+      "date": "1978-12-23",
+      "rank": 88
+    },
+    {
+      "date": "1978-12-30",
+      "rank": 88
+    },
+    {
+      "date": "1979-01-06",
+      "rank": 88
+    },
+    {
+      "date": "1979-01-13",
+      "rank": 81
+    },
+    {
+      "date": "1979-01-20",
+      "rank": 141
+    },
+    {
+      "date": "1979-01-27",
+      "rank": 151
+    },
+    {
+      "date": "1979-02-03",
+      "rank": 161
+    },
+    {
+      "date": "1979-02-10",
+      "rank": 160
+    },
+    {
+      "date": "1979-02-17",
+      "rank": 159
+    },
+    {
+      "date": "1979-02-24",
+      "rank": 160
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 158
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 163
+    },
+    {
+      "date": "1979-03-17",
+      "rank": 165
+    },
+    {
+      "date": "1979-03-24",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If I Could Only Win Your Love",
+      "id": "if-i-could-only-win-your-love-emmylou-harris"
+    },
+    {
+      "title": "One of These Days",
+      "id": null
+    },
+    {
+      "title": "Sweet Dreams",
+      "id": null
+    },
+    {
+      "title": "To Daddy",
+      "id": null
+    },
+    {
+      "title": "(You Can Never Tell) C'est la Vie",
+      "id": null
+    },
+    {
+      "title": "Making Believe",
+      "id": null
+    },
+    {
+      "title": "Easy From Now On",
+      "id": null
+    },
+    {
+      "title": "Together Again",
+      "id": null
+    },
+    {
+      "title": "Too Far Gone",
+      "id": null
+    },
+    {
+      "title": "Two More Bottles of Wine",
+      "id": null
+    },
+    {
+      "title": "Boulder to Birmingham",
+      "id": null
+    },
+    {
+      "title": "Hello Stranger",
+      "id": null
+    }
+  ]
+}

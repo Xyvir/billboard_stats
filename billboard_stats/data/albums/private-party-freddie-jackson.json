@@ -1,1 +1,58 @@
-{"id": "private-party-freddie-jackson", "title": "Private Party", "artist": "Freddie Jackson", "peak": 188, "history": [{"date": "1995-03-18", "rank": 188}, {"date": "1995-03-25", "rank": 200}]}
+{
+  "id": "private-party-freddie-jackson",
+  "title": "Private Party",
+  "artist": "Freddie Jackson",
+  "peak": 188,
+  "history": [
+    {
+      "date": "1995-03-18",
+      "rank": 188
+    },
+    {
+      "date": "1995-03-25",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lay Your Love on Me",
+      "id": "have-you-ever-loved-somebody-freddie-jackson"
+    },
+    {
+      "title": "Private Party",
+      "id": null
+    },
+    {
+      "title": "Rub Up Against You",
+      "id": null
+    },
+    {
+      "title": "Love You All Over",
+      "id": null
+    },
+    {
+      "title": "I Want to Thank You",
+      "id": null
+    },
+    {
+      "title": "Your Lovin' (Is a Good Thang)",
+      "id": null
+    },
+    {
+      "title": "I Tried My Best",
+      "id": null
+    },
+    {
+      "title": "No One Else",
+      "id": null
+    },
+    {
+      "title": "Teach Me",
+      "id": null
+    },
+    {
+      "title": "Once in a While",
+      "id": null
+    }
+  ]
+}
