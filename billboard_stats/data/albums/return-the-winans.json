@@ -1,1 +1,90 @@
-{"id": "return-the-winans", "title": "Return", "artist": "The Winans", "peak": 90, "history": [{"date": "1990-05-19", "rank": 102}, {"date": "1990-05-26", "rank": 95}, {"date": "1990-06-02", "rank": 90}, {"date": "1990-06-09", "rank": 92}, {"date": "1990-06-16", "rank": 103}, {"date": "1990-06-23", "rank": 110}, {"date": "1990-06-30", "rank": 134}, {"date": "1990-07-07", "rank": 154}, {"date": "1990-07-14", "rank": 153}, {"date": "1990-07-21", "rank": 193}]}
+{
+  "id": "return-the-winans",
+  "title": "Return",
+  "artist": "The Winans",
+  "peak": 90,
+  "history": [
+    {
+      "date": "1990-05-19",
+      "rank": 102
+    },
+    {
+      "date": "1990-05-26",
+      "rank": 95
+    },
+    {
+      "date": "1990-06-02",
+      "rank": 90
+    },
+    {
+      "date": "1990-06-09",
+      "rank": 92
+    },
+    {
+      "date": "1990-06-16",
+      "rank": 103
+    },
+    {
+      "date": "1990-06-23",
+      "rank": 110
+    },
+    {
+      "date": "1990-06-30",
+      "rank": 134
+    },
+    {
+      "date": "1990-07-07",
+      "rank": 154
+    },
+    {
+      "date": "1990-07-14",
+      "rank": 153
+    },
+    {
+      "date": "1990-07-21",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It's Time",
+      "id": null
+    },
+    {
+      "title": "Everyday the Same",
+      "id": null
+    },
+    {
+      "title": "Don't Leave Me",
+      "id": null
+    },
+    {
+      "title": "A Friend",
+      "id": null
+    },
+    {
+      "title": "Gonna Be Alright",
+      "id": null
+    },
+    {
+      "title": "When You Cry",
+      "id": null
+    },
+    {
+      "title": "Together We Stand",
+      "id": null
+    },
+    {
+      "title": "This Time It's Personal",
+      "id": null
+    },
+    {
+      "title": "Free",
+      "id": null
+    },
+    {
+      "title": "Wherever I Go",
+      "id": null
+    }
+  ]
+}

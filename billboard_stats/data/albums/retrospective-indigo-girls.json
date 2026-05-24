@@ -1,1 +1,90 @@
-{"id": "retrospective-indigo-girls", "title": "Retrospective", "artist": "Indigo Girls", "peak": 128, "history": [{"date": "2000-10-21", "rank": 128}, {"date": "2000-10-28", "rank": 141}, {"date": "2000-11-04", "rank": 162}, {"date": "2000-11-11", "rank": 179}]}
+{
+  "id": "retrospective-indigo-girls",
+  "title": "Retrospective",
+  "artist": "Indigo Girls",
+  "peak": 128,
+  "history": [
+    {
+      "date": "2000-10-21",
+      "rank": 128
+    },
+    {
+      "date": "2000-10-28",
+      "rank": 141
+    },
+    {
+      "date": "2000-11-04",
+      "rank": 162
+    },
+    {
+      "date": "2000-11-11",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Closer to Fine",
+      "id": "closer-to-fine-indigo-girls"
+    },
+    {
+      "title": "Galileo",
+      "id": "galileo-indigo-girls"
+    },
+    {
+      "title": "Strange Fire",
+      "id": null
+    },
+    {
+      "title": "Kid Fears",
+      "id": null
+    },
+    {
+      "title": "Watershed",
+      "id": null
+    },
+    {
+      "title": "Three Hits",
+      "id": null
+    },
+    {
+      "title": "Ghost",
+      "id": null
+    },
+    {
+      "title": "Reunion",
+      "id": null
+    },
+    {
+      "title": "Power of Two",
+      "id": null
+    },
+    {
+      "title": "Least Complicated",
+      "id": null
+    },
+    {
+      "title": "Shame on You",
+      "id": null
+    },
+    {
+      "title": "Get Out the Map",
+      "id": null
+    },
+    {
+      "title": "Go",
+      "id": null
+    },
+    {
+      "title": "Trouble",
+      "id": null
+    },
+    {
+      "title": "Devotion",
+      "id": null
+    },
+    {
+      "title": "Leaving",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,258 @@
-{"id": "return-of-saturn-no-doubt", "title": "Return Of Saturn", "artist": "No Doubt", "peak": 2, "history": [{"date": "2000-04-29", "rank": 2}, {"date": "2000-05-06", "rank": 7}, {"date": "2000-05-13", "rank": 11}, {"date": "2000-05-20", "rank": 19}, {"date": "2000-05-27", "rank": 24}, {"date": "2000-06-03", "rank": 32}, {"date": "2000-06-10", "rank": 39}, {"date": "2000-06-17", "rank": 47}, {"date": "2000-06-24", "rank": 42}, {"date": "2000-07-01", "rank": 48}, {"date": "2000-07-08", "rank": 55}, {"date": "2000-07-15", "rank": 56}, {"date": "2000-07-22", "rank": 50}, {"date": "2000-07-29", "rank": 59}, {"date": "2000-08-05", "rank": 65}, {"date": "2000-08-12", "rank": 63}, {"date": "2000-08-19", "rank": 73}, {"date": "2000-08-26", "rank": 78}, {"date": "2000-09-02", "rank": 85}, {"date": "2000-09-09", "rank": 86}, {"date": "2000-09-16", "rank": 98}, {"date": "2000-09-23", "rank": 107}, {"date": "2000-09-30", "rank": 128}, {"date": "2000-10-07", "rank": 148}, {"date": "2000-10-14", "rank": 122}, {"date": "2000-10-21", "rank": 140}, {"date": "2000-10-28", "rank": 144}, {"date": "2000-11-04", "rank": 140}, {"date": "2000-11-11", "rank": 164}, {"date": "2000-11-18", "rank": 177}, {"date": "2000-11-25", "rank": 149}, {"date": "2000-12-02", "rank": 177}, {"date": "2000-12-09", "rank": 180}, {"date": "2000-12-16", "rank": 160}, {"date": "2000-12-23", "rank": 148}, {"date": "2000-12-30", "rank": 138}, {"date": "2001-01-06", "rank": 131}, {"date": "2001-01-13", "rank": 121}, {"date": "2001-01-20", "rank": 118}, {"date": "2001-01-27", "rank": 128}, {"date": "2001-02-03", "rank": 129}, {"date": "2001-02-10", "rank": 140}, {"date": "2001-02-17", "rank": 144}, {"date": "2001-02-24", "rank": 161}, {"date": "2001-03-03", "rank": 174}, {"date": "2001-03-10", "rank": 170}]}
+{
+  "id": "return-of-saturn-no-doubt",
+  "title": "Return Of Saturn",
+  "artist": "No Doubt",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2000-04-29",
+      "rank": 2
+    },
+    {
+      "date": "2000-05-06",
+      "rank": 7
+    },
+    {
+      "date": "2000-05-13",
+      "rank": 11
+    },
+    {
+      "date": "2000-05-20",
+      "rank": 19
+    },
+    {
+      "date": "2000-05-27",
+      "rank": 24
+    },
+    {
+      "date": "2000-06-03",
+      "rank": 32
+    },
+    {
+      "date": "2000-06-10",
+      "rank": 39
+    },
+    {
+      "date": "2000-06-17",
+      "rank": 47
+    },
+    {
+      "date": "2000-06-24",
+      "rank": 42
+    },
+    {
+      "date": "2000-07-01",
+      "rank": 48
+    },
+    {
+      "date": "2000-07-08",
+      "rank": 55
+    },
+    {
+      "date": "2000-07-15",
+      "rank": 56
+    },
+    {
+      "date": "2000-07-22",
+      "rank": 50
+    },
+    {
+      "date": "2000-07-29",
+      "rank": 59
+    },
+    {
+      "date": "2000-08-05",
+      "rank": 65
+    },
+    {
+      "date": "2000-08-12",
+      "rank": 63
+    },
+    {
+      "date": "2000-08-19",
+      "rank": 73
+    },
+    {
+      "date": "2000-08-26",
+      "rank": 78
+    },
+    {
+      "date": "2000-09-02",
+      "rank": 85
+    },
+    {
+      "date": "2000-09-09",
+      "rank": 86
+    },
+    {
+      "date": "2000-09-16",
+      "rank": 98
+    },
+    {
+      "date": "2000-09-23",
+      "rank": 107
+    },
+    {
+      "date": "2000-09-30",
+      "rank": 128
+    },
+    {
+      "date": "2000-10-07",
+      "rank": 148
+    },
+    {
+      "date": "2000-10-14",
+      "rank": 122
+    },
+    {
+      "date": "2000-10-21",
+      "rank": 140
+    },
+    {
+      "date": "2000-10-28",
+      "rank": 144
+    },
+    {
+      "date": "2000-11-04",
+      "rank": 140
+    },
+    {
+      "date": "2000-11-11",
+      "rank": 164
+    },
+    {
+      "date": "2000-11-18",
+      "rank": 177
+    },
+    {
+      "date": "2000-11-25",
+      "rank": 149
+    },
+    {
+      "date": "2000-12-02",
+      "rank": 177
+    },
+    {
+      "date": "2000-12-09",
+      "rank": 180
+    },
+    {
+      "date": "2000-12-16",
+      "rank": 160
+    },
+    {
+      "date": "2000-12-23",
+      "rank": 148
+    },
+    {
+      "date": "2000-12-30",
+      "rank": 138
+    },
+    {
+      "date": "2001-01-06",
+      "rank": 131
+    },
+    {
+      "date": "2001-01-13",
+      "rank": 121
+    },
+    {
+      "date": "2001-01-20",
+      "rank": 118
+    },
+    {
+      "date": "2001-01-27",
+      "rank": 128
+    },
+    {
+      "date": "2001-02-03",
+      "rank": 129
+    },
+    {
+      "date": "2001-02-10",
+      "rank": 140
+    },
+    {
+      "date": "2001-02-17",
+      "rank": 144
+    },
+    {
+      "date": "2001-02-24",
+      "rank": 161
+    },
+    {
+      "date": "2001-03-03",
+      "rank": 174
+    },
+    {
+      "date": "2001-03-10",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Simple Kind of Life",
+      "id": "simple-kind-of-life-no-doubt"
+    },
+    {
+      "title": "Ex‐Girlfriend",
+      "id": null
+    },
+    {
+      "title": "Bathwater",
+      "id": null
+    },
+    {
+      "title": "Six Feet Under",
+      "id": null
+    },
+    {
+      "title": "Magic’s in the Makeup",
+      "id": null
+    },
+    {
+      "title": "Artificial Sweetener",
+      "id": null
+    },
+    {
+      "title": "Marry Me",
+      "id": null
+    },
+    {
+      "title": "New",
+      "id": null
+    },
+    {
+      "title": "Too Late",
+      "id": null
+    },
+    {
+      "title": "Comforting Lie",
+      "id": null
+    },
+    {
+      "title": "Suspension Without Suspense",
+      "id": null
+    },
+    {
+      "title": "Staring Problem",
+      "id": null
+    },
+    {
+      "title": "Home Now",
+      "id": null
+    },
+    {
+      "title": "Dark Blue",
+      "id": null
+    },
+    {
+      "title": "Big Distraction",
+      "id": null
+    },
+    {
+      "title": "Full Circle",
+      "id": null
+    }
+  ]
+}

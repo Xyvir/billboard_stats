@@ -1,1 +1,462 @@
-{"id": "retaliation-dane-cook", "title": "Retaliation", "artist": "Dane Cook", "peak": 4, "history": [{"date": "2005-08-13", "rank": 4}, {"date": "2005-08-20", "rank": 15}, {"date": "2005-08-27", "rank": 22}, {"date": "2005-09-03", "rank": 25}, {"date": "2005-09-10", "rank": 35}, {"date": "2005-09-17", "rank": 47}, {"date": "2005-09-24", "rank": 49}, {"date": "2005-10-01", "rank": 68}, {"date": "2005-10-08", "rank": 81}, {"date": "2005-10-15", "rank": 92}, {"date": "2005-10-22", "rank": 71}, {"date": "2005-10-29", "rank": 71}, {"date": "2005-11-05", "rank": 107}, {"date": "2005-11-12", "rank": 112}, {"date": "2005-11-19", "rank": 114}, {"date": "2005-11-26", "rank": 117}, {"date": "2005-12-03", "rank": 132}, {"date": "2005-12-10", "rank": 135}, {"date": "2005-12-17", "rank": 121}, {"date": "2005-12-24", "rank": 101}, {"date": "2005-12-31", "rank": 96}, {"date": "2006-01-07", "rank": 86}, {"date": "2006-01-14", "rank": 70}, {"date": "2006-01-21", "rank": 84}, {"date": "2006-01-28", "rank": 82}, {"date": "2006-02-04", "rank": 92}, {"date": "2006-02-11", "rank": 104}, {"date": "2006-02-18", "rank": 104}, {"date": "2006-02-25", "rank": 127}, {"date": "2006-03-04", "rank": 115}, {"date": "2006-03-11", "rank": 108}, {"date": "2006-03-18", "rank": 116}, {"date": "2006-03-25", "rank": 120}, {"date": "2006-04-01", "rank": 122}, {"date": "2006-04-08", "rank": 127}, {"date": "2006-04-15", "rank": 125}, {"date": "2006-04-22", "rank": 133}, {"date": "2006-04-29", "rank": 134}, {"date": "2006-05-06", "rank": 125}, {"date": "2006-05-13", "rank": 129}, {"date": "2006-05-20", "rank": 132}, {"date": "2006-05-27", "rank": 142}, {"date": "2006-06-03", "rank": 131}, {"date": "2006-06-10", "rank": 125}, {"date": "2006-06-17", "rank": 127}, {"date": "2006-06-24", "rank": 121}, {"date": "2006-07-01", "rank": 102}, {"date": "2006-07-08", "rank": 97}, {"date": "2006-07-15", "rank": 94}, {"date": "2006-07-22", "rank": 97}, {"date": "2006-07-29", "rank": 92}, {"date": "2006-08-05", "rank": 84}, {"date": "2006-08-12", "rank": 85}, {"date": "2006-08-19", "rank": 86}, {"date": "2006-08-26", "rank": 80}, {"date": "2006-09-02", "rank": 82}, {"date": "2006-09-09", "rank": 90}, {"date": "2006-09-16", "rank": 101}, {"date": "2006-09-23", "rank": 94}, {"date": "2006-09-30", "rank": 101}, {"date": "2006-10-07", "rank": 99}, {"date": "2006-10-14", "rank": 105}, {"date": "2006-10-21", "rank": 116}, {"date": "2006-10-28", "rank": 121}, {"date": "2006-11-04", "rank": 124}, {"date": "2006-11-11", "rank": 143}, {"date": "2006-11-18", "rank": 160}, {"date": "2006-11-25", "rank": 163}, {"date": "2006-12-02", "rank": 183}, {"date": "2006-12-09", "rank": 172}, {"date": "2006-12-16", "rank": 168}, {"date": "2006-12-23", "rank": 163}, {"date": "2006-12-30", "rank": 156}, {"date": "2007-01-06", "rank": 135}, {"date": "2007-01-13", "rank": 119}, {"date": "2007-01-20", "rank": 117}, {"date": "2007-01-27", "rank": 125}, {"date": "2007-02-03", "rank": 130}, {"date": "2007-02-10", "rank": 162}, {"date": "2007-02-17", "rank": 179}, {"date": "2007-02-24", "rank": 189}, {"date": "2007-03-03", "rank": 172}, {"date": "2007-03-10", "rank": 189}, {"date": "2007-03-17", "rank": 192}]}
+{
+  "id": "retaliation-dane-cook",
+  "title": "Retaliation",
+  "artist": "Dane Cook",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2005-08-13",
+      "rank": 4
+    },
+    {
+      "date": "2005-08-20",
+      "rank": 15
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 22
+    },
+    {
+      "date": "2005-09-03",
+      "rank": 25
+    },
+    {
+      "date": "2005-09-10",
+      "rank": 35
+    },
+    {
+      "date": "2005-09-17",
+      "rank": 47
+    },
+    {
+      "date": "2005-09-24",
+      "rank": 49
+    },
+    {
+      "date": "2005-10-01",
+      "rank": 68
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 81
+    },
+    {
+      "date": "2005-10-15",
+      "rank": 92
+    },
+    {
+      "date": "2005-10-22",
+      "rank": 71
+    },
+    {
+      "date": "2005-10-29",
+      "rank": 71
+    },
+    {
+      "date": "2005-11-05",
+      "rank": 107
+    },
+    {
+      "date": "2005-11-12",
+      "rank": 112
+    },
+    {
+      "date": "2005-11-19",
+      "rank": 114
+    },
+    {
+      "date": "2005-11-26",
+      "rank": 117
+    },
+    {
+      "date": "2005-12-03",
+      "rank": 132
+    },
+    {
+      "date": "2005-12-10",
+      "rank": 135
+    },
+    {
+      "date": "2005-12-17",
+      "rank": 121
+    },
+    {
+      "date": "2005-12-24",
+      "rank": 101
+    },
+    {
+      "date": "2005-12-31",
+      "rank": 96
+    },
+    {
+      "date": "2006-01-07",
+      "rank": 86
+    },
+    {
+      "date": "2006-01-14",
+      "rank": 70
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 84
+    },
+    {
+      "date": "2006-01-28",
+      "rank": 82
+    },
+    {
+      "date": "2006-02-04",
+      "rank": 92
+    },
+    {
+      "date": "2006-02-11",
+      "rank": 104
+    },
+    {
+      "date": "2006-02-18",
+      "rank": 104
+    },
+    {
+      "date": "2006-02-25",
+      "rank": 127
+    },
+    {
+      "date": "2006-03-04",
+      "rank": 115
+    },
+    {
+      "date": "2006-03-11",
+      "rank": 108
+    },
+    {
+      "date": "2006-03-18",
+      "rank": 116
+    },
+    {
+      "date": "2006-03-25",
+      "rank": 120
+    },
+    {
+      "date": "2006-04-01",
+      "rank": 122
+    },
+    {
+      "date": "2006-04-08",
+      "rank": 127
+    },
+    {
+      "date": "2006-04-15",
+      "rank": 125
+    },
+    {
+      "date": "2006-04-22",
+      "rank": 133
+    },
+    {
+      "date": "2006-04-29",
+      "rank": 134
+    },
+    {
+      "date": "2006-05-06",
+      "rank": 125
+    },
+    {
+      "date": "2006-05-13",
+      "rank": 129
+    },
+    {
+      "date": "2006-05-20",
+      "rank": 132
+    },
+    {
+      "date": "2006-05-27",
+      "rank": 142
+    },
+    {
+      "date": "2006-06-03",
+      "rank": 131
+    },
+    {
+      "date": "2006-06-10",
+      "rank": 125
+    },
+    {
+      "date": "2006-06-17",
+      "rank": 127
+    },
+    {
+      "date": "2006-06-24",
+      "rank": 121
+    },
+    {
+      "date": "2006-07-01",
+      "rank": 102
+    },
+    {
+      "date": "2006-07-08",
+      "rank": 97
+    },
+    {
+      "date": "2006-07-15",
+      "rank": 94
+    },
+    {
+      "date": "2006-07-22",
+      "rank": 97
+    },
+    {
+      "date": "2006-07-29",
+      "rank": 92
+    },
+    {
+      "date": "2006-08-05",
+      "rank": 84
+    },
+    {
+      "date": "2006-08-12",
+      "rank": 85
+    },
+    {
+      "date": "2006-08-19",
+      "rank": 86
+    },
+    {
+      "date": "2006-08-26",
+      "rank": 80
+    },
+    {
+      "date": "2006-09-02",
+      "rank": 82
+    },
+    {
+      "date": "2006-09-09",
+      "rank": 90
+    },
+    {
+      "date": "2006-09-16",
+      "rank": 101
+    },
+    {
+      "date": "2006-09-23",
+      "rank": 94
+    },
+    {
+      "date": "2006-09-30",
+      "rank": 101
+    },
+    {
+      "date": "2006-10-07",
+      "rank": 99
+    },
+    {
+      "date": "2006-10-14",
+      "rank": 105
+    },
+    {
+      "date": "2006-10-21",
+      "rank": 116
+    },
+    {
+      "date": "2006-10-28",
+      "rank": 121
+    },
+    {
+      "date": "2006-11-04",
+      "rank": 124
+    },
+    {
+      "date": "2006-11-11",
+      "rank": 143
+    },
+    {
+      "date": "2006-11-18",
+      "rank": 160
+    },
+    {
+      "date": "2006-11-25",
+      "rank": 163
+    },
+    {
+      "date": "2006-12-02",
+      "rank": 183
+    },
+    {
+      "date": "2006-12-09",
+      "rank": 172
+    },
+    {
+      "date": "2006-12-16",
+      "rank": 168
+    },
+    {
+      "date": "2006-12-23",
+      "rank": 163
+    },
+    {
+      "date": "2006-12-30",
+      "rank": 156
+    },
+    {
+      "date": "2007-01-06",
+      "rank": 135
+    },
+    {
+      "date": "2007-01-13",
+      "rank": 119
+    },
+    {
+      "date": "2007-01-20",
+      "rank": 117
+    },
+    {
+      "date": "2007-01-27",
+      "rank": 125
+    },
+    {
+      "date": "2007-02-03",
+      "rank": 130
+    },
+    {
+      "date": "2007-02-10",
+      "rank": 162
+    },
+    {
+      "date": "2007-02-17",
+      "rank": 179
+    },
+    {
+      "date": "2007-02-24",
+      "rank": 189
+    },
+    {
+      "date": "2007-03-03",
+      "rank": 172
+    },
+    {
+      "date": "2007-03-10",
+      "rank": 189
+    },
+    {
+      "date": "2007-03-17",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intro / Riot",
+      "id": null
+    },
+    {
+      "title": "Struck by a Vehicle",
+      "id": null
+    },
+    {
+      "title": "Superbleeder",
+      "id": null
+    },
+    {
+      "title": "Legacy",
+      "id": null
+    },
+    {
+      "title": "Someone S#!t on the Coats",
+      "id": null
+    },
+    {
+      "title": "Abducted",
+      "id": null
+    },
+    {
+      "title": "Punkass / Are You Out of Your F#+in' Mind?!",
+      "id": null
+    },
+    {
+      "title": "Driveway Intruder",
+      "id": null
+    },
+    {
+      "title": "Car Alarm",
+      "id": null
+    },
+    {
+      "title": "Heist / Monkey",
+      "id": null
+    },
+    {
+      "title": "BAMF",
+      "id": null
+    },
+    {
+      "title": "Dream House",
+      "id": null
+    },
+    {
+      "title": "At the Wall",
+      "id": null
+    },
+    {
+      "title": "The Chicken Sangwich, the Heckler and the Kabbash",
+      "id": null
+    },
+    {
+      "title": "Intro / The Dane Train",
+      "id": null
+    },
+    {
+      "title": "Itchy A**hole",
+      "id": null
+    },
+    {
+      "title": "Superpowers",
+      "id": null
+    },
+    {
+      "title": "The Friend Nobody Likes",
+      "id": null
+    },
+    {
+      "title": "Obby",
+      "id": null
+    },
+    {
+      "title": "Creepy Guy @ Work",
+      "id": null
+    },
+    {
+      "title": "L-O-V-E",
+      "id": null
+    },
+    {
+      "title": "Turn On's Slash Turn Off's",
+      "id": null
+    },
+    {
+      "title": "Exaggerating GF / Bachelor",
+      "id": null
+    },
+    {
+      "title": "The Nothing Fight",
+      "id": null
+    },
+    {
+      "title": "Making Up",
+      "id": null
+    },
+    {
+      "title": "My Son Optimus Prime",
+      "id": null
+    },
+    {
+      "title": "One Night Stand / DJ Diddles",
+      "id": null
+    },
+    {
+      "title": "Where's the Handle?",
+      "id": null
+    },
+    {
+      "title": "Let's Do This, I'm a Cashew",
+      "id": null
+    }
+  ]
+}
