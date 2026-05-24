@@ -1,1 +1,90 @@
-{"id": "the-fall-gorillaz", "title": "The Fall", "artist": "Gorillaz", "peak": 24, "history": [{"date": "2011-05-07", "rank": 24}, {"date": "2011-05-14", "rank": 65}, {"date": "2011-05-21", "rank": 167}]}
+{
+  "id": "the-fall-gorillaz",
+  "title": "The Fall",
+  "artist": "Gorillaz",
+  "peak": 24,
+  "history": [
+    {
+      "date": "2011-05-07",
+      "rank": 24
+    },
+    {
+      "date": "2011-05-14",
+      "rank": 65
+    },
+    {
+      "date": "2011-05-21",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Phoner to Arizona",
+      "id": null
+    },
+    {
+      "title": "Revolving Doors",
+      "id": null
+    },
+    {
+      "title": "Hillbilly Man",
+      "id": null
+    },
+    {
+      "title": "Detroit",
+      "id": null
+    },
+    {
+      "title": "Shy‐town",
+      "id": null
+    },
+    {
+      "title": "Little Pink Plastic Bags",
+      "id": null
+    },
+    {
+      "title": "The Joplin Spider",
+      "id": null
+    },
+    {
+      "title": "The Parish of Space Dust",
+      "id": null
+    },
+    {
+      "title": "The Snake in Dallas",
+      "id": null
+    },
+    {
+      "title": "Amarillo",
+      "id": null
+    },
+    {
+      "title": "The Speak It Mountains",
+      "id": null
+    },
+    {
+      "title": "Aspen Forest",
+      "id": null
+    },
+    {
+      "title": "Bobby in Phoenix",
+      "id": null
+    },
+    {
+      "title": "California & the Slipping of the Sun",
+      "id": null
+    },
+    {
+      "title": "Seattle Yodel",
+      "id": null
+    },
+    {
+      "title": "Doncamatic",
+      "id": null
+    },
+    {
+      "title": "DoYaThing (full length)",
+      "id": null
+    }
+  ]
+}

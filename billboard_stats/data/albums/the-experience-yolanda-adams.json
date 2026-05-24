@@ -1,1 +1,98 @@
-{"id": "the-experience-yolanda-adams", "title": "The Experience", "artist": "Yolanda Adams", "peak": 63, "history": [{"date": "2001-04-07", "rank": 63}, {"date": "2001-04-14", "rank": 84}, {"date": "2001-04-21", "rank": 110}, {"date": "2001-04-28", "rank": 129}, {"date": "2001-05-05", "rank": 140}, {"date": "2001-05-12", "rank": 143}, {"date": "2001-05-19", "rank": 161}, {"date": "2001-05-26", "rank": 161}, {"date": "2001-06-02", "rank": 198}, {"date": "2001-07-07", "rank": 172}, {"date": "2001-07-14", "rank": 181}]}
+{
+  "id": "the-experience-yolanda-adams",
+  "title": "The Experience",
+  "artist": "Yolanda Adams",
+  "peak": 63,
+  "history": [
+    {
+      "date": "2001-04-07",
+      "rank": 63
+    },
+    {
+      "date": "2001-04-14",
+      "rank": 84
+    },
+    {
+      "date": "2001-04-21",
+      "rank": 110
+    },
+    {
+      "date": "2001-04-28",
+      "rank": 129
+    },
+    {
+      "date": "2001-05-05",
+      "rank": 140
+    },
+    {
+      "date": "2001-05-12",
+      "rank": 143
+    },
+    {
+      "date": "2001-05-19",
+      "rank": 161
+    },
+    {
+      "date": "2001-05-26",
+      "rank": 161
+    },
+    {
+      "date": "2001-06-02",
+      "rank": 198
+    },
+    {
+      "date": "2001-07-07",
+      "rank": 172
+    },
+    {
+      "date": "2001-07-14",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Open My Heart",
+      "id": "open-my-heart-yolanda-adams"
+    },
+    {
+      "title": "I Believe I Can Fly (Duet With Gerald Levert)",
+      "id": null
+    },
+    {
+      "title": "Already Alright",
+      "id": null
+    },
+    {
+      "title": "Continual Praise",
+      "id": null
+    },
+    {
+      "title": "Fragile Heart",
+      "id": null
+    },
+    {
+      "title": "What About the Children?",
+      "id": null
+    },
+    {
+      "title": "Ye of Little Faith",
+      "id": null
+    },
+    {
+      "title": "That Name",
+      "id": null
+    },
+    {
+      "title": "In the Midst of It All",
+      "id": null
+    },
+    {
+      "title": "Yeah",
+      "id": null
+    },
+    {
+      "title": "I Believe I Can Fly",
+      "id": null
+    }
+  ]
+}
