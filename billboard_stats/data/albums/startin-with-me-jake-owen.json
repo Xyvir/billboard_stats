@@ -1,1 +1,106 @@
-{"id": "startin-with-me-jake-owen", "title": "Startin' With Me", "artist": "Jake Owen", "peak": 31, "history": [{"date": "2006-08-12", "rank": 31}, {"date": "2006-08-19", "rank": 71}, {"date": "2006-08-26", "rank": 90}, {"date": "2006-09-02", "rank": 102}, {"date": "2006-09-09", "rank": 124}, {"date": "2006-09-16", "rank": 154}, {"date": "2006-09-23", "rank": 179}, {"date": "2007-06-23", "rank": 199}, {"date": "2007-06-30", "rank": 199}, {"date": "2007-07-14", "rank": 188}, {"date": "2007-07-21", "rank": 180}, {"date": "2007-07-28", "rank": 178}, {"date": "2007-08-04", "rank": 192}]}
+{
+  "id": "startin-with-me-jake-owen",
+  "title": "Startin' With Me",
+  "artist": "Jake Owen",
+  "peak": 31,
+  "history": [
+    {
+      "date": "2006-08-12",
+      "rank": 31
+    },
+    {
+      "date": "2006-08-19",
+      "rank": 71
+    },
+    {
+      "date": "2006-08-26",
+      "rank": 90
+    },
+    {
+      "date": "2006-09-02",
+      "rank": 102
+    },
+    {
+      "date": "2006-09-09",
+      "rank": 124
+    },
+    {
+      "date": "2006-09-16",
+      "rank": 154
+    },
+    {
+      "date": "2006-09-23",
+      "rank": 179
+    },
+    {
+      "date": "2007-06-23",
+      "rank": 199
+    },
+    {
+      "date": "2007-06-30",
+      "rank": 199
+    },
+    {
+      "date": "2007-07-14",
+      "rank": 188
+    },
+    {
+      "date": "2007-07-21",
+      "rank": 180
+    },
+    {
+      "date": "2007-07-28",
+      "rank": 178
+    },
+    {
+      "date": "2007-08-04",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Startin’ With Me",
+      "id": "startin-with-me-jake-owen"
+    },
+    {
+      "title": "Yee Haw",
+      "id": "yee-haw-jake-owen"
+    },
+    {
+      "title": "Eight Second Ride",
+      "id": "eight-second-ride-jake-owen"
+    },
+    {
+      "title": "Long Night With You",
+      "id": "alone-with-you-jake-owen"
+    },
+    {
+      "title": "The Bad in Me",
+      "id": null
+    },
+    {
+      "title": "Something About a Woman",
+      "id": null
+    },
+    {
+      "title": "Ghosts",
+      "id": null
+    },
+    {
+      "title": "Hard Not to Love You",
+      "id": null
+    },
+    {
+      "title": "The Bottle and Me",
+      "id": null
+    },
+    {
+      "title": "Places to Run",
+      "id": null
+    },
+    {
+      "title": "You Can Thank Dixie",
+      "id": null
+    }
+  ]
+}

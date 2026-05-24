@@ -1,1 +1,214 @@
-{"id": "starting-over-reba-mcentire", "title": "Starting Over", "artist": "Reba McEntire", "peak": 5, "history": [{"date": "1995-10-21", "rank": 5}, {"date": "1995-10-28", "rank": 7}, {"date": "1995-11-04", "rank": 11}, {"date": "1995-11-11", "rank": 14}, {"date": "1995-11-18", "rank": 20}, {"date": "1995-11-25", "rank": 24}, {"date": "1995-12-02", "rank": 27}, {"date": "1995-12-09", "rank": 28}, {"date": "1995-12-16", "rank": 14}, {"date": "1995-12-23", "rank": 16}, {"date": "1995-12-30", "rank": 23}, {"date": "1996-01-06", "rank": 24}, {"date": "1996-01-13", "rank": 32}, {"date": "1996-01-20", "rank": 36}, {"date": "1996-01-27", "rank": 48}, {"date": "1996-02-03", "rank": 58}, {"date": "1996-02-10", "rank": 66}, {"date": "1996-02-17", "rank": 48}, {"date": "1996-02-24", "rank": 58}, {"date": "1996-03-02", "rank": 65}, {"date": "1996-03-09", "rank": 92}, {"date": "1996-03-16", "rank": 106}, {"date": "1996-03-23", "rank": 111}, {"date": "1996-03-30", "rank": 119}, {"date": "1996-04-06", "rank": 125}, {"date": "1996-04-13", "rank": 141}, {"date": "1996-04-20", "rank": 147}, {"date": "1996-04-27", "rank": 148}, {"date": "1996-05-04", "rank": 153}, {"date": "1996-05-11", "rank": 146}, {"date": "1996-05-18", "rank": 144}, {"date": "1996-05-25", "rank": 128}, {"date": "1996-06-01", "rank": 135}, {"date": "1996-06-08", "rank": 193}, {"date": "1996-06-15", "rank": 191}, {"date": "1996-06-22", "rank": 198}, {"date": "1996-06-29", "rank": 178}, {"date": "1996-07-06", "rank": 198}]}
+{
+  "id": "starting-over-reba-mcentire",
+  "title": "Starting Over",
+  "artist": "Reba McEntire",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1995-10-21",
+      "rank": 5
+    },
+    {
+      "date": "1995-10-28",
+      "rank": 7
+    },
+    {
+      "date": "1995-11-04",
+      "rank": 11
+    },
+    {
+      "date": "1995-11-11",
+      "rank": 14
+    },
+    {
+      "date": "1995-11-18",
+      "rank": 20
+    },
+    {
+      "date": "1995-11-25",
+      "rank": 24
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 27
+    },
+    {
+      "date": "1995-12-09",
+      "rank": 28
+    },
+    {
+      "date": "1995-12-16",
+      "rank": 14
+    },
+    {
+      "date": "1995-12-23",
+      "rank": 16
+    },
+    {
+      "date": "1995-12-30",
+      "rank": 23
+    },
+    {
+      "date": "1996-01-06",
+      "rank": 24
+    },
+    {
+      "date": "1996-01-13",
+      "rank": 32
+    },
+    {
+      "date": "1996-01-20",
+      "rank": 36
+    },
+    {
+      "date": "1996-01-27",
+      "rank": 48
+    },
+    {
+      "date": "1996-02-03",
+      "rank": 58
+    },
+    {
+      "date": "1996-02-10",
+      "rank": 66
+    },
+    {
+      "date": "1996-02-17",
+      "rank": 48
+    },
+    {
+      "date": "1996-02-24",
+      "rank": 58
+    },
+    {
+      "date": "1996-03-02",
+      "rank": 65
+    },
+    {
+      "date": "1996-03-09",
+      "rank": 92
+    },
+    {
+      "date": "1996-03-16",
+      "rank": 106
+    },
+    {
+      "date": "1996-03-23",
+      "rank": 111
+    },
+    {
+      "date": "1996-03-30",
+      "rank": 119
+    },
+    {
+      "date": "1996-04-06",
+      "rank": 125
+    },
+    {
+      "date": "1996-04-13",
+      "rank": 141
+    },
+    {
+      "date": "1996-04-20",
+      "rank": 147
+    },
+    {
+      "date": "1996-04-27",
+      "rank": 148
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 153
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 146
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 144
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 128
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 135
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 193
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 191
+    },
+    {
+      "date": "1996-06-22",
+      "rank": 198
+    },
+    {
+      "date": "1996-06-29",
+      "rank": 178
+    },
+    {
+      "date": "1996-07-06",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Talking in Your Sleep (album version)",
+      "id": null
+    },
+    {
+      "title": "Please Come to Boston (album version)",
+      "id": null
+    },
+    {
+      "title": "On My Own (album version)",
+      "id": null
+    },
+    {
+      "title": "I Won't Mention It Again (album version)",
+      "id": null
+    },
+    {
+      "title": "You're No Good (album version)",
+      "id": null
+    },
+    {
+      "title": "Ring on Her Finger, Time on Her Hands",
+      "id": null
+    },
+    {
+      "title": "Five Hundred Miles Away From Home (album version)",
+      "id": null
+    },
+    {
+      "title": "Starting Over Again",
+      "id": null
+    },
+    {
+      "title": "You Keep Me Hangin' On (album version)",
+      "id": null
+    },
+    {
+      "title": "By the Time I Get to Phoenix (album version)",
+      "id": null
+    },
+    {
+      "title": "Heat Wave",
+      "id": null
+    },
+    {
+      "title": "Misty Blue",
+      "id": null
+    },
+    {
+      "title": "Tulsa Time",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,34 @@
-{"id": "start-the-car-jude-cole", "title": "Start The Car", "artist": "Jude Cole", "peak": 177, "history": [{"date": "1992-10-17", "rank": 194}, {"date": "1992-10-24", "rank": 177}, {"date": "1992-10-31", "rank": 188}]}
+{
+  "id": "start-the-car-jude-cole",
+  "title": "Start The Car",
+  "artist": "Jude Cole",
+  "peak": 177,
+  "history": [
+    {
+      "date": "1992-10-17",
+      "rank": 194
+    },
+    {
+      "date": "1992-10-24",
+      "rank": 177
+    },
+    {
+      "date": "1992-10-31",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Start the Car (short edit)",
+      "id": "start-the-car-jude-cole"
+    },
+    {
+      "title": "Baby, It's Tonight",
+      "id": "baby-it-s-tonight-jude-cole"
+    },
+    {
+      "title": "A Place in the Line (LP version)",
+      "id": null
+    }
+  ]
+}

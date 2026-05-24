@@ -1,1 +1,102 @@
-{"id": "start-here-maddie-tae", "title": "Start Here", "artist": "Maddie & Tae", "peak": 7, "history": [{"date": "2015-09-19", "rank": 7}, {"date": "2015-09-26", "rank": 43}, {"date": "2015-10-03", "rank": 72}, {"date": "2015-10-10", "rank": 106}, {"date": "2015-10-17", "rank": 126}, {"date": "2015-10-24", "rank": 109}, {"date": "2015-10-31", "rank": 116}, {"date": "2015-11-07", "rank": 116}, {"date": "2015-11-14", "rank": 185}, {"date": "2015-11-21", "rank": 180}]}
+{
+  "id": "start-here-maddie-tae",
+  "title": "Start Here",
+  "artist": "Maddie & Tae",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2015-09-19",
+      "rank": 7
+    },
+    {
+      "date": "2015-09-26",
+      "rank": 43
+    },
+    {
+      "date": "2015-10-03",
+      "rank": 72
+    },
+    {
+      "date": "2015-10-10",
+      "rank": 106
+    },
+    {
+      "date": "2015-10-17",
+      "rank": 126
+    },
+    {
+      "date": "2015-10-24",
+      "rank": 109
+    },
+    {
+      "date": "2015-10-31",
+      "rank": 116
+    },
+    {
+      "date": "2015-11-07",
+      "rank": 116
+    },
+    {
+      "date": "2015-11-14",
+      "rank": 185
+    },
+    {
+      "date": "2015-11-21",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Girl in a Country Song",
+      "id": "girl-in-a-country-song-maddie-tae"
+    },
+    {
+      "title": "Fly",
+      "id": "fly-maddie-tae"
+    },
+    {
+      "title": "Waitin’ on a Plane",
+      "id": null
+    },
+    {
+      "title": "Smoke",
+      "id": null
+    },
+    {
+      "title": "Shut Up and Fish",
+      "id": null
+    },
+    {
+      "title": "Sierra",
+      "id": null
+    },
+    {
+      "title": "Your Side of Town",
+      "id": null
+    },
+    {
+      "title": "Right Here, Right Now",
+      "id": null
+    },
+    {
+      "title": "No Place Like You",
+      "id": null
+    },
+    {
+      "title": "After the Storm Blows Through",
+      "id": null
+    },
+    {
+      "title": "Downside of Growing Up",
+      "id": null
+    },
+    {
+      "title": "After the Storm Blows Through (acoustic version)",
+      "id": null
+    },
+    {
+      "title": "Downside of Growing Up (acoustic version)",
+      "id": null
+    }
+  ]
+}

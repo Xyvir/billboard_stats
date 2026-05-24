@@ -1,1 +1,90 @@
-{"id": "starting-now-chuck-wicks", "title": "Starting Now", "artist": "Chuck Wicks", "peak": 24, "history": [{"date": "2008-02-09", "rank": 24}, {"date": "2008-02-16", "rank": 66}, {"date": "2008-02-23", "rank": 92}, {"date": "2008-03-01", "rank": 128}, {"date": "2008-03-08", "rank": 145}, {"date": "2008-03-15", "rank": 157}, {"date": "2008-03-22", "rank": 171}, {"date": "2008-03-29", "rank": 177}, {"date": "2008-04-05", "rank": 188}]}
+{
+  "id": "starting-now-chuck-wicks",
+  "title": "Starting Now",
+  "artist": "Chuck Wicks",
+  "peak": 24,
+  "history": [
+    {
+      "date": "2008-02-09",
+      "rank": 24
+    },
+    {
+      "date": "2008-02-16",
+      "rank": 66
+    },
+    {
+      "date": "2008-02-23",
+      "rank": 92
+    },
+    {
+      "date": "2008-03-01",
+      "rank": 128
+    },
+    {
+      "date": "2008-03-08",
+      "rank": 145
+    },
+    {
+      "date": "2008-03-15",
+      "rank": 157
+    },
+    {
+      "date": "2008-03-22",
+      "rank": 171
+    },
+    {
+      "date": "2008-03-29",
+      "rank": 177
+    },
+    {
+      "date": "2008-04-05",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All I Ever Wanted",
+      "id": "all-i-ever-wanted-chuck-wicks"
+    },
+    {
+      "title": "Stealing Cinderella",
+      "id": "stealing-cinderella-chuck-wicks"
+    },
+    {
+      "title": "Good Time Comin' On",
+      "id": null
+    },
+    {
+      "title": "If We Loved",
+      "id": null
+    },
+    {
+      "title": "When You're Single",
+      "id": null
+    },
+    {
+      "title": "Starting Now",
+      "id": null
+    },
+    {
+      "title": "The Easy Part",
+      "id": null
+    },
+    {
+      "title": "What If You Stay",
+      "id": null
+    },
+    {
+      "title": "She's Gonna Hurt Somebody",
+      "id": null
+    },
+    {
+      "title": "Mine All Mine",
+      "id": null
+    },
+    {
+      "title": "Man of the House",
+      "id": null
+    }
+  ]
+}

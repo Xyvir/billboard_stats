@@ -1,1 +1,78 @@
-{"id": "stars-cher", "title": "Stars", "artist": "Cher", "peak": 153, "history": [{"date": "1975-05-10", "rank": 178}, {"date": "1975-05-17", "rank": 168}, {"date": "1975-05-24", "rank": 163}, {"date": "1975-05-31", "rank": 153}, {"date": "1975-06-07", "rank": 153}, {"date": "1975-06-14", "rank": 176}, {"date": "1975-06-21", "rank": 172}]}
+{
+  "id": "stars-cher",
+  "title": "Stars",
+  "artist": "Cher",
+  "peak": 153,
+  "history": [
+    {
+      "date": "1975-05-10",
+      "rank": 178
+    },
+    {
+      "date": "1975-05-17",
+      "rank": 168
+    },
+    {
+      "date": "1975-05-24",
+      "rank": 163
+    },
+    {
+      "date": "1975-05-31",
+      "rank": 153
+    },
+    {
+      "date": "1975-06-07",
+      "rank": 153
+    },
+    {
+      "date": "1975-06-14",
+      "rank": 176
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Enough",
+      "id": "strong-enough-cher"
+    },
+    {
+      "title": "Bell Bottom Blues",
+      "id": null
+    },
+    {
+      "title": "These Days",
+      "id": null
+    },
+    {
+      "title": "Mr Soul",
+      "id": null
+    },
+    {
+      "title": "Just This One Time",
+      "id": null
+    },
+    {
+      "title": "Geronimo’s Cadillac",
+      "id": null
+    },
+    {
+      "title": "The Bigger They Come, the Harder They Fall",
+      "id": null
+    },
+    {
+      "title": "Love Hurts",
+      "id": null
+    },
+    {
+      "title": "Rock and Roll Doctor",
+      "id": null
+    },
+    {
+      "title": "Stars",
+      "id": null
+    }
+  ]
+}
