@@ -1,1 +1,102 @@
-{"id": "rhythmeen-zz-top", "title": "Rhythmeen", "artist": "ZZ Top", "peak": 29, "history": [{"date": "1996-10-05", "rank": 29}, {"date": "1996-10-12", "rank": 49}, {"date": "1996-10-19", "rank": 68}, {"date": "1996-10-26", "rank": 75}, {"date": "1996-11-02", "rank": 90}, {"date": "1996-11-09", "rank": 102}, {"date": "1996-11-16", "rank": 121}, {"date": "1996-11-23", "rank": 149}, {"date": "1996-11-30", "rank": 145}, {"date": "1996-12-07", "rank": 174}, {"date": "1996-12-21", "rank": 196}]}
+{
+  "id": "rhythmeen-zz-top",
+  "title": "Rhythmeen",
+  "artist": "ZZ Top",
+  "peak": 29,
+  "history": [
+    {
+      "date": "1996-10-05",
+      "rank": 29
+    },
+    {
+      "date": "1996-10-12",
+      "rank": 49
+    },
+    {
+      "date": "1996-10-19",
+      "rank": 68
+    },
+    {
+      "date": "1996-10-26",
+      "rank": 75
+    },
+    {
+      "date": "1996-11-02",
+      "rank": 90
+    },
+    {
+      "date": "1996-11-09",
+      "rank": 102
+    },
+    {
+      "date": "1996-11-16",
+      "rank": 121
+    },
+    {
+      "date": "1996-11-23",
+      "rank": 149
+    },
+    {
+      "date": "1996-11-30",
+      "rank": 145
+    },
+    {
+      "date": "1996-12-07",
+      "rank": 174
+    },
+    {
+      "date": "1996-12-21",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Black Fly",
+      "id": "velcro-fly-zz-top"
+    },
+    {
+      "title": "Hairdresser",
+      "id": "sharp-dressed-man-zz-top"
+    },
+    {
+      "title": "Rhythmeen",
+      "id": null
+    },
+    {
+      "title": "Bang Bang",
+      "id": null
+    },
+    {
+      "title": "What’s Up With That",
+      "id": null
+    },
+    {
+      "title": "Vincent Price Blues",
+      "id": null
+    },
+    {
+      "title": "Zipper Job",
+      "id": null
+    },
+    {
+      "title": "She’s Just Killing Me",
+      "id": null
+    },
+    {
+      "title": "My Mind Is Gone",
+      "id": null
+    },
+    {
+      "title": "Loaded",
+      "id": null
+    },
+    {
+      "title": "Prettyhead",
+      "id": null
+    },
+    {
+      "title": "Hummbucking, Part 2",
+      "id": null
+    }
+  ]
+}

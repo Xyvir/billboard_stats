@@ -1,1 +1,106 @@
-{"id": "rewind-the-rolling-stones", "title": "Rewind", "artist": "The Rolling Stones", "peak": 86, "history": [{"date": "1984-07-28", "rank": 106}, {"date": "1984-08-04", "rank": 98}, {"date": "1984-08-11", "rank": 87}, {"date": "1984-08-18", "rank": 86}, {"date": "1984-08-25", "rank": 91}, {"date": "1984-09-01", "rank": 113}, {"date": "1984-09-08", "rank": 122}, {"date": "1984-09-15", "rank": 133}, {"date": "1984-09-22", "rank": 152}, {"date": "1984-09-29", "rank": 172}, {"date": "1984-10-06", "rank": 185}]}
+{
+  "id": "rewind-the-rolling-stones",
+  "title": "Rewind",
+  "artist": "The Rolling Stones",
+  "peak": 86,
+  "history": [
+    {
+      "date": "1984-07-28",
+      "rank": 106
+    },
+    {
+      "date": "1984-08-04",
+      "rank": 98
+    },
+    {
+      "date": "1984-08-11",
+      "rank": 87
+    },
+    {
+      "date": "1984-08-18",
+      "rank": 86
+    },
+    {
+      "date": "1984-08-25",
+      "rank": 91
+    },
+    {
+      "date": "1984-09-01",
+      "rank": 113
+    },
+    {
+      "date": "1984-09-08",
+      "rank": 122
+    },
+    {
+      "date": "1984-09-15",
+      "rank": 133
+    },
+    {
+      "date": "1984-09-22",
+      "rank": 152
+    },
+    {
+      "date": "1984-09-29",
+      "rank": 172
+    },
+    {
+      "date": "1984-10-06",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Miss You",
+      "id": "miss-you-the-rolling-stones"
+    },
+    {
+      "title": "Brown Sugar",
+      "id": "brown-sugar-the-rolling-stones"
+    },
+    {
+      "title": "Undercover of the Night",
+      "id": "undercover-of-the-night-the-rolling-stones"
+    },
+    {
+      "title": "Start Me Up",
+      "id": "start-me-up-the-rolling-stones"
+    },
+    {
+      "title": "Tumbling Dice",
+      "id": "tumbling-dice-the-rolling-stones"
+    },
+    {
+      "title": "Hang Fire",
+      "id": "hang-fire-the-rolling-stones"
+    },
+    {
+      "title": "It’s Only Rock ’n’ Roll",
+      "id": "it-s-only-rock-n-roll-but-i-like-it-the-rolling-stones"
+    },
+    {
+      "title": "Emotional Rescue",
+      "id": "emotional-rescue-the-rolling-stones"
+    },
+    {
+      "title": "Beast of Burden",
+      "id": "beast-of-burden-the-rolling-stones"
+    },
+    {
+      "title": "Fool to Cry",
+      "id": "fool-to-cry-the-rolling-stones"
+    },
+    {
+      "title": "Waiting on a Friend",
+      "id": "waiting-on-a-friend-the-rolling-stones"
+    },
+    {
+      "title": "Angie",
+      "id": "angie-the-rolling-stones"
+    },
+    {
+      "title": "Doo Doo Doo Doo Doo (Heartbreaker)",
+      "id": "doo-doo-doo-doo-doo-heartbreaker-the-rolling-stones"
+    }
+  ]
+}
