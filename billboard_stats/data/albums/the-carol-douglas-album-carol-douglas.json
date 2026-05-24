@@ -1,1 +1,66 @@
-{"id": "the-carol-douglas-album-carol-douglas", "title": "The Carol Douglas Album", "artist": "Carol Douglas", "peak": 177, "history": [{"date": "1975-03-29", "rank": 180}, {"date": "1975-04-05", "rank": 180}, {"date": "1975-04-12", "rank": 177}]}
+{
+  "id": "the-carol-douglas-album-carol-douglas",
+  "title": "The Carol Douglas Album",
+  "artist": "Carol Douglas",
+  "peak": 177,
+  "history": [
+    {
+      "date": "1975-03-29",
+      "rank": 180
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 180
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Doctor’s Orders",
+      "id": "doctor-s-orders-carol-douglas"
+    },
+    {
+      "title": "A Hurricane Is Coming Tonite",
+      "id": "a-hurricane-is-coming-tonite-carol-douglas"
+    },
+    {
+      "title": "Doctor's Orders (extended mix)",
+      "id": "doctor-s-orders-carol-douglas"
+    },
+    {
+      "title": "A Friend in Need",
+      "id": null
+    },
+    {
+      "title": "Baby Don’t Let This Good Love Die",
+      "id": null
+    },
+    {
+      "title": "Take Me (Make Me Lose Control)",
+      "id": null
+    },
+    {
+      "title": "I Fell in Love With Love",
+      "id": null
+    },
+    {
+      "title": "All Night Long",
+      "id": null
+    },
+    {
+      "title": "Will We Make It Tonight",
+      "id": null
+    },
+    {
+      "title": "Boy, You Know Just What I’m After",
+      "id": null
+    },
+    {
+      "title": "My Simple Heart",
+      "id": null
+    }
+  ]
+}

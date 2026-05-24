@@ -1,1 +1,74 @@
-{"id": "the-captain-the-kid-elton-john", "title": "The Captain & The Kid", "artist": "Elton John", "peak": 18, "history": [{"date": "2006-10-07", "rank": 18}, {"date": "2006-10-14", "rank": 49}, {"date": "2006-10-21", "rank": 89}, {"date": "2006-10-28", "rank": 116}, {"date": "2006-11-04", "rank": 165}, {"date": "2006-11-25", "rank": 68}]}
+{
+  "id": "the-captain-the-kid-elton-john",
+  "title": "The Captain & The Kid",
+  "artist": "Elton John",
+  "peak": 18,
+  "history": [
+    {
+      "date": "2006-10-07",
+      "rank": 18
+    },
+    {
+      "date": "2006-10-14",
+      "rank": 49
+    },
+    {
+      "date": "2006-10-21",
+      "rank": 89
+    },
+    {
+      "date": "2006-10-28",
+      "rank": 116
+    },
+    {
+      "date": "2006-11-04",
+      "rank": 165
+    },
+    {
+      "date": "2006-11-25",
+      "rank": 68
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tinderbox",
+      "id": "tiny-dancer-elton-john"
+    },
+    {
+      "title": "The Bridge",
+      "id": "kiss-the-bride-elton-john"
+    },
+    {
+      "title": "Postcards From Richard Nixon",
+      "id": null
+    },
+    {
+      "title": "Just Like Noah’s Ark",
+      "id": null
+    },
+    {
+      "title": "Wouldn’t Have You Any Other Way (NYC)",
+      "id": null
+    },
+    {
+      "title": "And the House Fell Down",
+      "id": null
+    },
+    {
+      "title": "Blues Never Fade Away",
+      "id": null
+    },
+    {
+      "title": "I Must Have Lost It on the Wind",
+      "id": null
+    },
+    {
+      "title": "Old ’67",
+      "id": null
+    },
+    {
+      "title": "The Captain and the Kid",
+      "id": null
+    }
+  ]
+}

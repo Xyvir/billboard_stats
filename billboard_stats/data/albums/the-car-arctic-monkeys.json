@@ -1,1 +1,54 @@
-{"id": "the-car-arctic-monkeys", "title": "The Car", "artist": "Arctic Monkeys", "peak": 6, "history": [{"date": "2022-11-05", "rank": 6}]}
+{
+  "id": "the-car-arctic-monkeys",
+  "title": "The Car",
+  "artist": "Arctic Monkeys",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2022-11-05",
+      "rank": 6
+    }
+  ],
+  "tracks": [
+    {
+      "title": "There'd Better Be a Mirrorball",
+      "id": null
+    },
+    {
+      "title": "I Ain’t Quite Where I Think I Am",
+      "id": null
+    },
+    {
+      "title": "Sculptures of Anything Goes",
+      "id": null
+    },
+    {
+      "title": "Jet Skis on the Moat",
+      "id": null
+    },
+    {
+      "title": "Body Paint",
+      "id": null
+    },
+    {
+      "title": "The Car",
+      "id": null
+    },
+    {
+      "title": "Big Ideas",
+      "id": null
+    },
+    {
+      "title": "Hello You",
+      "id": null
+    },
+    {
+      "title": "Mr Schwartz",
+      "id": null
+    },
+    {
+      "title": "Perfect Sense",
+      "id": null
+    }
+  ]
+}
