@@ -1,1 +1,74 @@
-{"id": "southbound-the-doobie-brothers", "title": "Southbound", "artist": "The Doobie Brothers", "peak": 16, "history": [{"date": "2014-11-22", "rank": 16}, {"date": "2014-11-29", "rank": 62}, {"date": "2014-12-06", "rank": 171}]}
+{
+  "id": "southbound-the-doobie-brothers",
+  "title": "Southbound",
+  "artist": "The Doobie Brothers",
+  "peak": 16,
+  "history": [
+    {
+      "date": "2014-11-22",
+      "rank": 16
+    },
+    {
+      "date": "2014-11-29",
+      "rank": 62
+    },
+    {
+      "date": "2014-12-06",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Black Water",
+      "id": "black-water-the-doobie-brothers"
+    },
+    {
+      "title": "Listen to the Music",
+      "id": "listen-to-the-music-the-doobie-brothers"
+    },
+    {
+      "title": "What a Fool Believes",
+      "id": "what-a-fool-believes-the-doobie-brothers"
+    },
+    {
+      "title": "Long Train Runnin’",
+      "id": "long-train-runnin-the-doobie-brothers"
+    },
+    {
+      "title": "China Grove",
+      "id": "china-grove-the-doobie-brothers"
+    },
+    {
+      "title": "Takin’ It to the Streets",
+      "id": "takin-it-to-the-streets-the-doobie-brothers"
+    },
+    {
+      "title": "Jesus Is Just Alright",
+      "id": "jesus-is-just-alright-the-doobie-brothers"
+    },
+    {
+      "title": "Take Me in Your Arms (Rock Me)",
+      "id": "take-me-in-your-arms-rock-me-the-doobie-brothers"
+    },
+    {
+      "title": "You Belong to Me",
+      "id": "you-belong-to-me-the-doobie-brothers"
+    },
+    {
+      "title": "Nobody (intro)",
+      "id": "nobody-the-doobie-brothers"
+    },
+    {
+      "title": "Nobody",
+      "id": "nobody-the-doobie-brothers"
+    },
+    {
+      "title": "Rockin’ Down the Highway",
+      "id": null
+    },
+    {
+      "title": "South City Midnight Lady",
+      "id": null
+    }
+  ]
+}
