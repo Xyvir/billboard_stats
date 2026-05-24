@@ -1,1 +1,74 @@
-{"id": "return-to-zero-rtz", "title": "Return To Zero", "artist": "RTZ", "peak": 169, "history": [{"date": "1992-03-07", "rank": 190}, {"date": "1992-03-14", "rank": 171}, {"date": "1992-03-21", "rank": 174}, {"date": "1992-03-28", "rank": 169}, {"date": "1992-04-04", "rank": 194}]}
+{
+  "id": "return-to-zero-rtz",
+  "title": "Return To Zero",
+  "artist": "RTZ",
+  "peak": 169,
+  "history": [
+    {
+      "date": "1992-03-07",
+      "rank": 190
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 171
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 174
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 169
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Face the Music",
+      "id": "face-the-music-rtz"
+    },
+    {
+      "title": "All You've Got",
+      "id": "all-you-ve-got-rtz"
+    },
+    {
+      "title": "Until Your Love Comes Back Around",
+      "id": "until-your-love-comes-back-around-rtz"
+    },
+    {
+      "title": "There's Another Side",
+      "id": null
+    },
+    {
+      "title": "This Is My Life",
+      "id": null
+    },
+    {
+      "title": "Rain Down on Me",
+      "id": null
+    },
+    {
+      "title": "Every Door Is Open",
+      "id": null
+    },
+    {
+      "title": "Devil to Pay",
+      "id": null
+    },
+    {
+      "title": "Livin’ for the Rock ’n’ Roll",
+      "id": null
+    },
+    {
+      "title": "Hard Time (In the Big House)",
+      "id": null
+    },
+    {
+      "title": "Return to Zero",
+      "id": null
+    }
+  ]
+}

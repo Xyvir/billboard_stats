@@ -1,1 +1,82 @@
-{"id": "reunion-live-at-madison-square-garden-1972-dion", "title": "Reunion-Live At Madison Square Garden 1972", "artist": "Dion", "peak": 144, "history": [{"date": "1973-02-24", "rank": 177}, {"date": "1973-03-03", "rank": 171}, {"date": "1973-03-10", "rank": 157}, {"date": "1973-03-17", "rank": 147}, {"date": "1973-03-24", "rank": 144}, {"date": "1973-03-31", "rank": 150}, {"date": "1973-04-07", "rank": 181}, {"date": "1973-04-14", "rank": 182}]}
+{
+  "id": "reunion-live-at-madison-square-garden-1972-dion",
+  "title": "Reunion-Live At Madison Square Garden 1972",
+  "artist": "Dion",
+  "peak": 144,
+  "history": [
+    {
+      "date": "1973-02-24",
+      "rank": 177
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 171
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 157
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 147
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 144
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 150
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 181
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Wanderer",
+      "id": "the-wanderer-dion"
+    },
+    {
+      "title": "Ruby Baby",
+      "id": "ruby-baby-dion"
+    },
+    {
+      "title": "Runaround Sue",
+      "id": "runaround-sue-dion"
+    },
+    {
+      "title": "Little Diane",
+      "id": "little-diane-dion"
+    },
+    {
+      "title": "I Wonder Why",
+      "id": null
+    },
+    {
+      "title": "A Teenager in Love",
+      "id": null
+    },
+    {
+      "title": "No One Knows",
+      "id": null
+    },
+    {
+      "title": "Drip Drop",
+      "id": null
+    },
+    {
+      "title": "That’s My Desire",
+      "id": null
+    },
+    {
+      "title": "Where or When",
+      "id": null
+    }
+  ]
+}

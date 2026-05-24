@@ -1,1 +1,54 @@
-{"id": "revamped-demi-lovato", "title": "Revamped", "artist": "Demi Lovato", "peak": 60, "history": [{"date": "2023-09-30", "rank": 60}]}
+{
+  "id": "revamped-demi-lovato",
+  "title": "Revamped",
+  "artist": "Demi Lovato",
+  "peak": 60,
+  "history": [
+    {
+      "date": "2023-09-30",
+      "rank": 60
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heart Attack (rock version)",
+      "id": "heart-attack-demi-lovato"
+    },
+    {
+      "title": "Sorry Not Sorry (rock version)",
+      "id": "sorry-not-sorry-demi-lovato"
+    },
+    {
+      "title": "Cool for the Summer (rock version)",
+      "id": "cool-for-the-summer-demi-lovato"
+    },
+    {
+      "title": "Tell Me You Love Me (rock version)",
+      "id": "tell-me-you-love-me-demi-lovato"
+    },
+    {
+      "title": "Neon Lights (rock version)",
+      "id": "neon-lights-demi-lovato"
+    },
+    {
+      "title": "Skyscraper (rock version)",
+      "id": "skyscraper-demi-lovato"
+    },
+    {
+      "title": "La La Land (rock version)",
+      "id": "la-la-land-demi-lovato"
+    },
+    {
+      "title": "Give Your Heart a Break (rock version)",
+      "id": "give-your-heart-a-break-demi-lovato"
+    },
+    {
+      "title": "Don’t Forget (rock version)",
+      "id": "don-t-forget-demi-lovato"
+    },
+    {
+      "title": "Confident (rock version)",
+      "id": null
+    }
+  ]
+}

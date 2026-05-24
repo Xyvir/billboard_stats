@@ -1,1 +1,90 @@
-{"id": "reunion-concert-the-everly-brothers", "title": "Reunion Concert", "artist": "The Everly Brothers", "peak": 162, "history": [{"date": "1984-03-10", "rank": 177}, {"date": "1984-03-17", "rank": 171}, {"date": "1984-03-24", "rank": 166}, {"date": "1984-03-31", "rank": 162}, {"date": "1984-04-07", "rank": 162}]}
+{
+  "id": "reunion-concert-the-everly-brothers",
+  "title": "Reunion Concert",
+  "artist": "The Everly Brothers",
+  "peak": 162,
+  "history": [
+    {
+      "date": "1984-03-10",
+      "rank": 177
+    },
+    {
+      "date": "1984-03-17",
+      "rank": 171
+    },
+    {
+      "date": "1984-03-24",
+      "rank": 166
+    },
+    {
+      "date": "1984-03-31",
+      "rank": 162
+    },
+    {
+      "date": "1984-04-07",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Walk Right Back",
+      "id": "walk-right-back-the-everly-brothers"
+    },
+    {
+      "title": "Crying in the Rain",
+      "id": "crying-in-the-rain-the-everly-brothers"
+    },
+    {
+      "title": "Love Is Strange",
+      "id": "like-strangers-the-everly-brothers"
+    },
+    {
+      "title": "When Will I Be Loved",
+      "id": "when-will-i-be-loved-the-everly-brothers"
+    },
+    {
+      "title": "Bird Dog",
+      "id": "bird-dog-the-everly-brothers"
+    },
+    {
+      "title": "The Price of Love",
+      "id": null
+    },
+    {
+      "title": "Claudette",
+      "id": null
+    },
+    {
+      "title": "(Take a) Message to Mary / Maybe Tommorow / I Wonder If I Care as Much",
+      "id": null
+    },
+    {
+      "title": "Love Hurts",
+      "id": null
+    },
+    {
+      "title": "For the Love of Barbara Allen",
+      "id": null
+    },
+    {
+      "title": "Lightning Express",
+      "id": null
+    },
+    {
+      "title": "Put My Little Shoes Way",
+      "id": null
+    },
+    {
+      "title": "Long Time Gone",
+      "id": null
+    },
+    {
+      "title": "Down in the Willow Garden",
+      "id": null
+    },
+    {
+      "title": "Step It Up and Go",
+      "id": null
+    }
+  ]
+}

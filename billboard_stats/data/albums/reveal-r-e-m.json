@@ -1,1 +1,98 @@
-{"id": "reveal-r-e-m", "title": "Reveal", "artist": "R.E.M.", "peak": 6, "history": [{"date": "2001-06-02", "rank": 6}, {"date": "2001-06-09", "rank": 24}, {"date": "2001-06-16", "rank": 35}, {"date": "2001-06-23", "rank": 51}, {"date": "2001-06-30", "rank": 58}, {"date": "2001-07-07", "rank": 91}, {"date": "2001-07-14", "rank": 120}, {"date": "2001-07-21", "rank": 143}, {"date": "2001-07-28", "rank": 159}, {"date": "2001-08-04", "rank": 190}]}
+{
+  "id": "reveal-r-e-m",
+  "title": "Reveal",
+  "artist": "R.E.M.",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2001-06-02",
+      "rank": 6
+    },
+    {
+      "date": "2001-06-09",
+      "rank": 24
+    },
+    {
+      "date": "2001-06-16",
+      "rank": 35
+    },
+    {
+      "date": "2001-06-23",
+      "rank": 51
+    },
+    {
+      "date": "2001-06-30",
+      "rank": 58
+    },
+    {
+      "date": "2001-07-07",
+      "rank": 91
+    },
+    {
+      "date": "2001-07-14",
+      "rank": 120
+    },
+    {
+      "date": "2001-07-21",
+      "rank": 143
+    },
+    {
+      "date": "2001-07-28",
+      "rank": 159
+    },
+    {
+      "date": "2001-08-04",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Imitation of Life",
+      "id": "imitation-of-life-r-e-m"
+    },
+    {
+      "title": "The Lifting",
+      "id": null
+    },
+    {
+      "title": "I’ve Been High",
+      "id": null
+    },
+    {
+      "title": "All the Way to Reno (You’re Gonna Be a Star)",
+      "id": null
+    },
+    {
+      "title": "She Just Wants to Be",
+      "id": null
+    },
+    {
+      "title": "Disappear",
+      "id": null
+    },
+    {
+      "title": "Saturn Return",
+      "id": null
+    },
+    {
+      "title": "Beat a Drum",
+      "id": null
+    },
+    {
+      "title": "Summer Turns to High",
+      "id": null
+    },
+    {
+      "title": "Chorus and the Ring",
+      "id": null
+    },
+    {
+      "title": "I’ll Take the Rain",
+      "id": null
+    },
+    {
+      "title": "Beachball",
+      "id": null
+    }
+  ]
+}
