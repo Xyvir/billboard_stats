@@ -1,1 +1,234 @@
-{"id": "paid-tha-cost-to-be-da-bo-snoop-dogg", "title": "Paid Tha Cost To Be Da Bo$$", "artist": "Snoop Dogg", "peak": 12, "history": [{"date": "2002-12-14", "rank": 12}, {"date": "2002-12-21", "rank": 28}, {"date": "2002-12-28", "rank": 44}, {"date": "2003-01-04", "rank": 46}, {"date": "2003-01-11", "rank": 39}, {"date": "2003-01-18", "rank": 33}, {"date": "2003-01-25", "rank": 30}, {"date": "2003-02-01", "rank": 41}, {"date": "2003-02-08", "rank": 42}, {"date": "2003-02-15", "rank": 43}, {"date": "2003-02-22", "rank": 49}, {"date": "2003-03-01", "rank": 73}, {"date": "2003-03-08", "rank": 50}, {"date": "2003-03-15", "rank": 45}, {"date": "2003-03-22", "rank": 39}, {"date": "2003-03-29", "rank": 39}, {"date": "2003-04-05", "rank": 31}, {"date": "2003-04-12", "rank": 37}, {"date": "2003-04-19", "rank": 37}, {"date": "2003-04-26", "rank": 44}, {"date": "2003-05-03", "rank": 63}, {"date": "2003-05-10", "rank": 52}, {"date": "2003-05-17", "rank": 54}, {"date": "2003-05-24", "rank": 69}, {"date": "2003-05-31", "rank": 65}, {"date": "2003-06-07", "rank": 87}, {"date": "2003-06-14", "rank": 85}, {"date": "2003-06-21", "rank": 95}, {"date": "2003-06-28", "rank": 128}, {"date": "2003-07-05", "rank": 94}, {"date": "2003-07-12", "rank": 106}, {"date": "2003-07-19", "rank": 118}, {"date": "2003-07-26", "rank": 130}, {"date": "2003-08-02", "rank": 167}, {"date": "2003-08-09", "rank": 195}, {"date": "2003-08-16", "rank": 198}]}
+{
+  "id": "paid-tha-cost-to-be-da-bo-snoop-dogg",
+  "title": "Paid Tha Cost To Be Da Bo$$",
+  "artist": "Snoop Dogg",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2002-12-14",
+      "rank": 12
+    },
+    {
+      "date": "2002-12-21",
+      "rank": 28
+    },
+    {
+      "date": "2002-12-28",
+      "rank": 44
+    },
+    {
+      "date": "2003-01-04",
+      "rank": 46
+    },
+    {
+      "date": "2003-01-11",
+      "rank": 39
+    },
+    {
+      "date": "2003-01-18",
+      "rank": 33
+    },
+    {
+      "date": "2003-01-25",
+      "rank": 30
+    },
+    {
+      "date": "2003-02-01",
+      "rank": 41
+    },
+    {
+      "date": "2003-02-08",
+      "rank": 42
+    },
+    {
+      "date": "2003-02-15",
+      "rank": 43
+    },
+    {
+      "date": "2003-02-22",
+      "rank": 49
+    },
+    {
+      "date": "2003-03-01",
+      "rank": 73
+    },
+    {
+      "date": "2003-03-08",
+      "rank": 50
+    },
+    {
+      "date": "2003-03-15",
+      "rank": 45
+    },
+    {
+      "date": "2003-03-22",
+      "rank": 39
+    },
+    {
+      "date": "2003-03-29",
+      "rank": 39
+    },
+    {
+      "date": "2003-04-05",
+      "rank": 31
+    },
+    {
+      "date": "2003-04-12",
+      "rank": 37
+    },
+    {
+      "date": "2003-04-19",
+      "rank": 37
+    },
+    {
+      "date": "2003-04-26",
+      "rank": 44
+    },
+    {
+      "date": "2003-05-03",
+      "rank": 63
+    },
+    {
+      "date": "2003-05-10",
+      "rank": 52
+    },
+    {
+      "date": "2003-05-17",
+      "rank": 54
+    },
+    {
+      "date": "2003-05-24",
+      "rank": 69
+    },
+    {
+      "date": "2003-05-31",
+      "rank": 65
+    },
+    {
+      "date": "2003-06-07",
+      "rank": 87
+    },
+    {
+      "date": "2003-06-14",
+      "rank": 85
+    },
+    {
+      "date": "2003-06-21",
+      "rank": 95
+    },
+    {
+      "date": "2003-06-28",
+      "rank": 128
+    },
+    {
+      "date": "2003-07-05",
+      "rank": 94
+    },
+    {
+      "date": "2003-07-12",
+      "rank": 106
+    },
+    {
+      "date": "2003-07-19",
+      "rank": 118
+    },
+    {
+      "date": "2003-07-26",
+      "rank": 130
+    },
+    {
+      "date": "2003-08-02",
+      "rank": 167
+    },
+    {
+      "date": "2003-08-09",
+      "rank": 195
+    },
+    {
+      "date": "2003-08-16",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don Doggy",
+      "id": "snoop-dogg-snoop-dogg"
+    },
+    {
+      "title": "From tha Chuuuch to da Palace",
+      "id": "from-tha-chuuuch-to-da-palace-snoop-dogg"
+    },
+    {
+      "title": "Da Bo$$ Would Like to See You",
+      "id": null
+    },
+    {
+      "title": "Stoplight",
+      "id": null
+    },
+    {
+      "title": "I Believe in You",
+      "id": null
+    },
+    {
+      "title": "Lollipop",
+      "id": null
+    },
+    {
+      "title": "Ballin’",
+      "id": null
+    },
+    {
+      "title": "Beautiful",
+      "id": null
+    },
+    {
+      "title": "Paper’d Up",
+      "id": null
+    },
+    {
+      "title": "Wasn’t Your Fault",
+      "id": null
+    },
+    {
+      "title": "Bo$$ Playa",
+      "id": null
+    },
+    {
+      "title": "Hourglass",
+      "id": null
+    },
+    {
+      "title": "The One and Only",
+      "id": null
+    },
+    {
+      "title": "I Miss That Bitch",
+      "id": null
+    },
+    {
+      "title": "From Long Beach 2 Brick City",
+      "id": null
+    },
+    {
+      "title": "Suited n Booted",
+      "id": null
+    },
+    {
+      "title": "You Got What I Want",
+      "id": null
+    },
+    {
+      "title": "Batman & Robin",
+      "id": null
+    },
+    {
+      "title": "A Message 2 Fat Cuzz",
+      "id": null
+    },
+    {
+      "title": "Pimp Slapp’d",
+      "id": null
+    }
+  ]
+}

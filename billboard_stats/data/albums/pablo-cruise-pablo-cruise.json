@@ -1,1 +1,58 @@
-{"id": "pablo-cruise-pablo-cruise", "title": "Pablo Cruise", "artist": "Pablo Cruise", "peak": 174, "history": [{"date": "1975-08-16", "rank": 190}, {"date": "1975-08-23", "rank": 180}, {"date": "1975-08-30", "rank": 174}, {"date": "1975-09-06", "rank": 174}]}
+{
+  "id": "pablo-cruise-pablo-cruise",
+  "title": "Pablo Cruise",
+  "artist": "Pablo Cruise",
+  "peak": 174,
+  "history": [
+    {
+      "date": "1975-08-16",
+      "rank": 190
+    },
+    {
+      "date": "1975-08-23",
+      "rank": 180
+    },
+    {
+      "date": "1975-08-30",
+      "rank": 174
+    },
+    {
+      "date": "1975-09-06",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Not Tonight",
+      "id": "i-want-you-tonight-pablo-cruise"
+    },
+    {
+      "title": "Island Woman",
+      "id": null
+    },
+    {
+      "title": "Denny",
+      "id": null
+    },
+    {
+      "title": "Sleeping Dogs",
+      "id": null
+    },
+    {
+      "title": "What Does It Take",
+      "id": null
+    },
+    {
+      "title": "Rock ’n’ Roller",
+      "id": null
+    },
+    {
+      "title": "In My Own Quiet Way",
+      "id": null
+    },
+    {
+      "title": "Ocean Breeze",
+      "id": null
+    }
+  ]
+}
