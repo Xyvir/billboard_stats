@@ -1,1 +1,90 @@
-{"id": "risk-megadeth", "title": "Risk", "artist": "Megadeth", "peak": 16, "history": [{"date": "1999-09-18", "rank": 16}, {"date": "1999-09-25", "rank": 41}, {"date": "1999-10-02", "rank": 63}, {"date": "1999-10-09", "rank": 91}, {"date": "1999-10-16", "rank": 121}, {"date": "1999-10-23", "rank": 140}, {"date": "1999-10-30", "rank": 160}, {"date": "1999-11-06", "rank": 175}]}
+{
+  "id": "risk-megadeth",
+  "title": "Risk",
+  "artist": "Megadeth",
+  "peak": 16,
+  "history": [
+    {
+      "date": "1999-09-18",
+      "rank": 16
+    },
+    {
+      "date": "1999-09-25",
+      "rank": 41
+    },
+    {
+      "date": "1999-10-02",
+      "rank": 63
+    },
+    {
+      "date": "1999-10-09",
+      "rank": 91
+    },
+    {
+      "date": "1999-10-16",
+      "rank": 121
+    },
+    {
+      "date": "1999-10-23",
+      "rank": 140
+    },
+    {
+      "date": "1999-10-30",
+      "rank": 160
+    },
+    {
+      "date": "1999-11-06",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Insomnia",
+      "id": null
+    },
+    {
+      "title": "Prince of Darkness",
+      "id": null
+    },
+    {
+      "title": "Enter the Arena",
+      "id": null
+    },
+    {
+      "title": "Crush ’Em",
+      "id": null
+    },
+    {
+      "title": "Breadline",
+      "id": null
+    },
+    {
+      "title": "The Doctor Is Calling",
+      "id": null
+    },
+    {
+      "title": "I’ll Be There",
+      "id": null
+    },
+    {
+      "title": "Wanderlust",
+      "id": null
+    },
+    {
+      "title": "Ecstasy",
+      "id": null
+    },
+    {
+      "title": "Seven",
+      "id": null
+    },
+    {
+      "title": "Time: The Beginning",
+      "id": null
+    },
+    {
+      "title": "Time: The End",
+      "id": null
+    }
+  ]
+}

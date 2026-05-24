@@ -1,1 +1,82 @@
-{"id": "rising-dr-hook", "title": "Rising", "artist": "Dr. Hook", "peak": 175, "history": [{"date": "1980-12-06", "rank": 186}, {"date": "1980-12-13", "rank": 186}, {"date": "1980-12-20", "rank": 175}, {"date": "1980-12-27", "rank": 175}, {"date": "1981-01-03", "rank": 175}, {"date": "1981-01-10", "rank": 199}, {"date": "1981-01-17", "rank": 197}, {"date": "1981-01-24", "rank": 199}]}
+{
+  "id": "rising-dr-hook",
+  "title": "Rising",
+  "artist": "Dr. Hook",
+  "peak": 175,
+  "history": [
+    {
+      "date": "1980-12-06",
+      "rank": 186
+    },
+    {
+      "date": "1980-12-13",
+      "rank": 186
+    },
+    {
+      "date": "1980-12-20",
+      "rank": 175
+    },
+    {
+      "date": "1980-12-27",
+      "rank": 175
+    },
+    {
+      "date": "1981-01-03",
+      "rank": 175
+    },
+    {
+      "date": "1981-01-10",
+      "rank": 199
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 197
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Girls Can Get It",
+      "id": "girls-can-get-it-dr-hook"
+    },
+    {
+      "title": "That Didn’t Hurt Too Bad",
+      "id": "that-didn-t-hurt-too-bad-dr-hook"
+    },
+    {
+      "title": "Body Talking",
+      "id": null
+    },
+    {
+      "title": "Blown Away",
+      "id": null
+    },
+    {
+      "title": "S.O.S. for Love",
+      "id": null
+    },
+    {
+      "title": "Doin’ It",
+      "id": null
+    },
+    {
+      "title": "Before the Tears",
+      "id": null
+    },
+    {
+      "title": "Hold Me Like You Never Had Me",
+      "id": null
+    },
+    {
+      "title": "Do You Right Tonight",
+      "id": null
+    },
+    {
+      "title": "99 and Me",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,106 @@
-{"id": "risque-chic", "title": "Risque", "artist": "Chic", "peak": 5, "history": [{"date": "1979-08-25", "rank": 32}, {"date": "1979-09-01", "rank": 7}, {"date": "1979-09-08", "rank": 7}, {"date": "1979-09-15", "rank": 6}, {"date": "1979-09-22", "rank": 5}, {"date": "1979-09-29", "rank": 5}, {"date": "1979-10-06", "rank": 7}, {"date": "1979-10-13", "rank": 8}, {"date": "1979-10-20", "rank": 19}, {"date": "1979-10-27", "rank": 19}, {"date": "1979-11-03", "rank": 32}, {"date": "1979-11-10", "rank": 45}, {"date": "1979-11-17", "rank": 88}, {"date": "1979-11-24", "rank": 78}, {"date": "1979-12-01", "rank": 78}, {"date": "1979-12-08", "rank": 108}, {"date": "1979-12-15", "rank": 171}]}
+{
+  "id": "risque-chic",
+  "title": "Risque",
+  "artist": "Chic",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1979-08-25",
+      "rank": 32
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 7
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 7
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 6
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 5
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 5
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 7
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 8
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 19
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 19
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 32
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 45
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 88
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 78
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 78
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 108
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Good Times",
+      "id": "good-times-chic"
+    },
+    {
+      "title": "My Forbidden Lover",
+      "id": "my-forbidden-lover-chic"
+    },
+    {
+      "title": "A Warm Summer Night",
+      "id": null
+    },
+    {
+      "title": "My Feet Keep Dancing",
+      "id": null
+    },
+    {
+      "title": "Can’t Stand to Love You",
+      "id": null
+    },
+    {
+      "title": "Will You Cry (When You Hear This Song)",
+      "id": null
+    },
+    {
+      "title": "What About Me",
+      "id": null
+    }
+  ]
+}
