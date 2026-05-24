@@ -1,1 +1,238 @@
-{"id": "the-rose-bette-midler", "title": "The Rose", "artist": "Bette Midler", "peak": 12, "history": [{"date": "1979-12-22", "rank": 186}, {"date": "1979-12-29", "rank": 186}, {"date": "1980-01-05", "rank": 49}, {"date": "1980-01-12", "rank": 39}, {"date": "1980-01-19", "rank": 26}, {"date": "1980-01-26", "rank": 21}, {"date": "1980-02-02", "rank": 16}, {"date": "1980-02-09", "rank": 13}, {"date": "1980-02-16", "rank": 13}, {"date": "1980-02-23", "rank": 12}, {"date": "1980-03-01", "rank": 12}, {"date": "1980-03-08", "rank": 12}, {"date": "1980-03-15", "rank": 14}, {"date": "1980-03-22", "rank": 19}, {"date": "1980-03-29", "rank": 35}, {"date": "1980-04-05", "rank": 44}, {"date": "1980-04-12", "rank": 46}, {"date": "1980-04-19", "rank": 45}, {"date": "1980-04-26", "rank": 57}, {"date": "1980-05-03", "rank": 57}, {"date": "1980-05-10", "rank": 63}, {"date": "1980-05-17", "rank": 61}, {"date": "1980-05-24", "rank": 54}, {"date": "1980-05-31", "rank": 40}, {"date": "1980-06-07", "rank": 32}, {"date": "1980-06-14", "rank": 29}, {"date": "1980-06-21", "rank": 22}, {"date": "1980-06-28", "rank": 20}, {"date": "1980-07-05", "rank": 19}, {"date": "1980-07-12", "rank": 15}, {"date": "1980-07-19", "rank": 14}, {"date": "1980-07-26", "rank": 14}, {"date": "1980-08-02", "rank": 22}, {"date": "1980-08-09", "rank": 38}, {"date": "1980-08-16", "rank": 58}, {"date": "1980-08-23", "rank": 68}, {"date": "1980-08-30", "rank": 79}, {"date": "1980-09-06", "rank": 94}, {"date": "1980-09-13", "rank": 96}, {"date": "1980-09-20", "rank": 120}, {"date": "1980-09-27", "rank": 123}, {"date": "1980-10-04", "rank": 141}, {"date": "1980-10-11", "rank": 152}, {"date": "1980-10-18", "rank": 170}, {"date": "1980-10-25", "rank": 173}]}
+{
+  "id": "the-rose-bette-midler",
+  "title": "The Rose",
+  "artist": "Bette Midler",
+  "peak": 12,
+  "history": [
+    {
+      "date": "1979-12-22",
+      "rank": 186
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 186
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 49
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 39
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 26
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 21
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 16
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 13
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 13
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 12
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 12
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 12
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 14
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 19
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 35
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 44
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 46
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 45
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 57
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 57
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 63
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 61
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 54
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 40
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 32
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 29
+    },
+    {
+      "date": "1980-06-21",
+      "rank": 22
+    },
+    {
+      "date": "1980-06-28",
+      "rank": 20
+    },
+    {
+      "date": "1980-07-05",
+      "rank": 19
+    },
+    {
+      "date": "1980-07-12",
+      "rank": 15
+    },
+    {
+      "date": "1980-07-19",
+      "rank": 14
+    },
+    {
+      "date": "1980-07-26",
+      "rank": 14
+    },
+    {
+      "date": "1980-08-02",
+      "rank": 22
+    },
+    {
+      "date": "1980-08-09",
+      "rank": 38
+    },
+    {
+      "date": "1980-08-16",
+      "rank": 58
+    },
+    {
+      "date": "1980-08-23",
+      "rank": 68
+    },
+    {
+      "date": "1980-08-30",
+      "rank": 79
+    },
+    {
+      "date": "1980-09-06",
+      "rank": 94
+    },
+    {
+      "date": "1980-09-13",
+      "rank": 96
+    },
+    {
+      "date": "1980-09-20",
+      "rank": 120
+    },
+    {
+      "date": "1980-09-27",
+      "rank": 123
+    },
+    {
+      "date": "1980-10-04",
+      "rank": 141
+    },
+    {
+      "date": "1980-10-11",
+      "rank": 152
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 170
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When a Man Loves a Woman",
+      "id": "when-a-man-loves-a-woman-bette-midler"
+    },
+    {
+      "title": "The Rose",
+      "id": "the-rose-bette-midler"
+    },
+    {
+      "title": "Whose Side Are You On?",
+      "id": null
+    },
+    {
+      "title": "Midnight in Memphis",
+      "id": null
+    },
+    {
+      "title": "Concert Monologue",
+      "id": null
+    },
+    {
+      "title": "Sold My Soul to Rock ’n’ Roll",
+      "id": null
+    },
+    {
+      "title": "Keep On Rockin’",
+      "id": null
+    },
+    {
+      "title": "Love Me With a Feeling",
+      "id": null
+    },
+    {
+      "title": "Camellia",
+      "id": null
+    },
+    {
+      "title": "Homecoming Monologue",
+      "id": null
+    },
+    {
+      "title": "Stay With Me",
+      "id": null
+    },
+    {
+      "title": "Let Me Call You Sweetheart",
+      "id": null
+    }
+  ]
+}

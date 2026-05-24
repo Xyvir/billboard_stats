@@ -1,1 +1,90 @@
-{"id": "the-rumour-olivia-newton-john", "title": "The Rumour", "artist": "Olivia Newton-John", "peak": 67, "history": [{"date": "1988-09-03", "rank": 89}, {"date": "1988-09-10", "rank": 73}, {"date": "1988-09-17", "rank": 67}, {"date": "1988-09-24", "rank": 67}, {"date": "1988-10-01", "rank": 79}, {"date": "1988-10-08", "rank": 103}, {"date": "1988-10-15", "rank": 135}, {"date": "1988-10-22", "rank": 173}, {"date": "1988-10-29", "rank": 194}]}
+{
+  "id": "the-rumour-olivia-newton-john",
+  "title": "The Rumour",
+  "artist": "Olivia Newton-John",
+  "peak": 67,
+  "history": [
+    {
+      "date": "1988-09-03",
+      "rank": 89
+    },
+    {
+      "date": "1988-09-10",
+      "rank": 73
+    },
+    {
+      "date": "1988-09-17",
+      "rank": 67
+    },
+    {
+      "date": "1988-09-24",
+      "rank": 67
+    },
+    {
+      "date": "1988-10-01",
+      "rank": 79
+    },
+    {
+      "date": "1988-10-08",
+      "rank": 103
+    },
+    {
+      "date": "1988-10-15",
+      "rank": 135
+    },
+    {
+      "date": "1988-10-22",
+      "rank": 173
+    },
+    {
+      "date": "1988-10-29",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Rumour",
+      "id": "the-rumour-olivia-newton-john"
+    },
+    {
+      "title": "Love and Let Live",
+      "id": null
+    },
+    {
+      "title": "Can’t We Talk It Over in Bed",
+      "id": null
+    },
+    {
+      "title": "Let's Talk About Tomorrow",
+      "id": null
+    },
+    {
+      "title": "It’s Not Heaven",
+      "id": null
+    },
+    {
+      "title": "It’s Always Australia for Me",
+      "id": null
+    },
+    {
+      "title": "Get Out",
+      "id": null
+    },
+    {
+      "title": "Big and Strong",
+      "id": null
+    },
+    {
+      "title": "Car Games",
+      "id": null
+    },
+    {
+      "title": "Walk Through Fire",
+      "id": null
+    },
+    {
+      "title": "Tutta la Vita",
+      "id": null
+    }
+  ]
+}
