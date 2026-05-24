@@ -1,1 +1,74 @@
-{"id": "pure-music-chase", "title": "Pure Music", "artist": "Chase", "peak": 155, "history": [{"date": "1974-04-27", "rank": 196}, {"date": "1974-05-04", "rank": 174}, {"date": "1974-05-11", "rank": 164}, {"date": "1974-05-18", "rank": 161}, {"date": "1974-05-25", "rank": 158}, {"date": "1974-06-01", "rank": 155}, {"date": "1974-06-08", "rank": 157}, {"date": "1974-06-15", "rank": 184}, {"date": "1974-06-22", "rank": 196}, {"date": "1974-06-29", "rank": 200}]}
+{
+  "id": "pure-music-chase",
+  "title": "Pure Music",
+  "artist": "Chase",
+  "peak": 155,
+  "history": [
+    {
+      "date": "1974-04-27",
+      "rank": 196
+    },
+    {
+      "date": "1974-05-04",
+      "rank": 174
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 164
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 161
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 158
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 155
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 157
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 184
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 196
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Weird Song #1",
+      "id": null
+    },
+    {
+      "title": "Run Back to Mama",
+      "id": null
+    },
+    {
+      "title": "Twinkles",
+      "id": null
+    },
+    {
+      "title": "Bochawa",
+      "id": null
+    },
+    {
+      "title": "Love Is on the Way",
+      "id": null
+    },
+    {
+      "title": "Close Up Tight",
+      "id": null
+    }
+  ]
+}
