@@ -1,1 +1,94 @@
-{"id": "release-me-barbra-streisand", "title": "Release Me", "artist": "Barbra Streisand", "peak": 7, "history": [{"date": "2012-10-27", "rank": 7}, {"date": "2012-11-03", "rank": 19}, {"date": "2012-11-10", "rank": 49}, {"date": "2012-11-17", "rank": 53}, {"date": "2012-11-24", "rank": 99}, {"date": "2012-12-01", "rank": 157}, {"date": "2012-12-15", "rank": 188}, {"date": "2012-12-22", "rank": 188}, {"date": "2012-12-29", "rank": 192}, {"date": "2013-01-05", "rank": 175}]}
+{
+  "id": "release-me-barbra-streisand",
+  "title": "Release Me",
+  "artist": "Barbra Streisand",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2012-10-27",
+      "rank": 7
+    },
+    {
+      "date": "2012-11-03",
+      "rank": 19
+    },
+    {
+      "date": "2012-11-10",
+      "rank": 49
+    },
+    {
+      "date": "2012-11-17",
+      "rank": 53
+    },
+    {
+      "date": "2012-11-24",
+      "rank": 99
+    },
+    {
+      "date": "2012-12-01",
+      "rank": 157
+    },
+    {
+      "date": "2012-12-15",
+      "rank": 188
+    },
+    {
+      "date": "2012-12-22",
+      "rank": 188
+    },
+    {
+      "date": "2012-12-29",
+      "rank": 192
+    },
+    {
+      "date": "2013-01-05",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Didn’t We",
+      "id": "didn-t-we-barbra-streisand"
+    },
+    {
+      "title": "With One More Look at You (from “A Star Is Born”)",
+      "id": "evergreen-love-theme-from-a-star-is-born-barbra-streisand"
+    },
+    {
+      "title": "Being Good Isn’t Good Enough (from “Hallelujah, Baby!”)",
+      "id": null
+    },
+    {
+      "title": "Willow Weep for Me",
+      "id": null
+    },
+    {
+      "title": "Try to Win a Friend",
+      "id": null
+    },
+    {
+      "title": "I Think It’s Going to Rain Today",
+      "id": null
+    },
+    {
+      "title": "Lost in Wonderland",
+      "id": null
+    },
+    {
+      "title": "How Are Things in Glocca Morra? / Heather on the Hill (from “Finian’s Rainbow / Brigadoon”)",
+      "id": null
+    },
+    {
+      "title": "Mother and Child",
+      "id": null
+    },
+    {
+      "title": "If It’s Meant to Be",
+      "id": null
+    },
+    {
+      "title": "Home (from “The Wiz”)",
+      "id": null
+    }
+  ]
+}

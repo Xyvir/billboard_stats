@@ -1,1 +1,54 @@
-{"id": "release-me-2-barbra-streisand", "title": "Release Me 2", "artist": "Barbra Streisand", "peak": 15, "history": [{"date": "2021-08-21", "rank": 15}]}
+{
+  "id": "release-me-2-barbra-streisand",
+  "title": "Release Me 2",
+  "artist": "Barbra Streisand",
+  "peak": 15,
+  "history": [
+    {
+      "date": "2021-08-21",
+      "rank": 15
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Right as the Rain",
+      "id": "kiss-me-in-the-rain-barbra-streisand"
+    },
+    {
+      "title": "Be Aware",
+      "id": null
+    },
+    {
+      "title": "You Light Up My Life",
+      "id": null
+    },
+    {
+      "title": "I’d Want It to Be You",
+      "id": null
+    },
+    {
+      "title": "Sweet Forgiveness",
+      "id": null
+    },
+    {
+      "title": "Living Without You",
+      "id": null
+    },
+    {
+      "title": "One Day (A Prayer)",
+      "id": null
+    },
+    {
+      "title": "Rainbow Connection",
+      "id": null
+    },
+    {
+      "title": "If Only You Were Mine",
+      "id": null
+    },
+    {
+      "title": "Once You’ve Been in Love",
+      "id": null
+    }
+  ]
+}

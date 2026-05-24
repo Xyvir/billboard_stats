@@ -1,1 +1,126 @@
-{"id": "reloaded-greatest-hits-tom-jones", "title": "Reloaded: Greatest Hits", "artist": "Tom Jones", "peak": 127, "history": [{"date": "2003-11-01", "rank": 171}, {"date": "2003-11-15", "rank": 127}, {"date": "2003-11-22", "rank": 145}, {"date": "2003-11-29", "rank": 133}, {"date": "2003-12-06", "rank": 152}, {"date": "2003-12-20", "rank": 190}, {"date": "2003-12-27", "rank": 186}, {"date": "2004-01-03", "rank": 188}, {"date": "2004-02-28", "rank": 192}, {"date": "2004-03-27", "rank": 160}]}
+{
+  "id": "reloaded-greatest-hits-tom-jones",
+  "title": "Reloaded: Greatest Hits",
+  "artist": "Tom Jones",
+  "peak": 127,
+  "history": [
+    {
+      "date": "2003-11-01",
+      "rank": 171
+    },
+    {
+      "date": "2003-11-15",
+      "rank": 127
+    },
+    {
+      "date": "2003-11-22",
+      "rank": 145
+    },
+    {
+      "date": "2003-11-29",
+      "rank": 133
+    },
+    {
+      "date": "2003-12-06",
+      "rank": 152
+    },
+    {
+      "date": "2003-12-20",
+      "rank": 190
+    },
+    {
+      "date": "2003-12-27",
+      "rank": 186
+    },
+    {
+      "date": "2004-01-03",
+      "rank": 188
+    },
+    {
+      "date": "2004-02-28",
+      "rank": 192
+    },
+    {
+      "date": "2004-03-27",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s Not Unusual",
+      "id": "it-s-not-unusual-tom-jones"
+    },
+    {
+      "title": "What’s New Pussycat?",
+      "id": "what-s-new-pussycat-tom-jones"
+    },
+    {
+      "title": "Delilah",
+      "id": "delilah-tom-jones"
+    },
+    {
+      "title": "She’s a Lady",
+      "id": "she-s-a-lady-tom-jones"
+    },
+    {
+      "title": "Thunderball",
+      "id": "thunderball-tom-jones"
+    },
+    {
+      "title": "Green Green Grass of Home",
+      "id": "green-green-grass-of-home-tom-jones"
+    },
+    {
+      "title": "Without Love (There Is Nothing)",
+      "id": "without-love-there-is-nothing-tom-jones"
+    },
+    {
+      "title": "With These Hands",
+      "id": "with-these-hands-tom-jones"
+    },
+    {
+      "title": "Help Yourself",
+      "id": "help-yourself-tom-jones"
+    },
+    {
+      "title": "Sexbomb (Peppermint Disco radio mix)",
+      "id": null
+    },
+    {
+      "title": "Kiss",
+      "id": null
+    },
+    {
+      "title": "Mama Told Me Not to Come",
+      "id": null
+    },
+    {
+      "title": "Tom Jones International",
+      "id": null
+    },
+    {
+      "title": "Baby, It’s Cold Outside",
+      "id": null
+    },
+    {
+      "title": "Black Betty",
+      "id": null
+    },
+    {
+      "title": "If I Only Knew",
+      "id": null
+    },
+    {
+      "title": "Sometimes We Cry",
+      "id": null
+    },
+    {
+      "title": "Motherless Child",
+      "id": null
+    },
+    {
+      "title": "Burning Down the House",
+      "id": null
+    }
+  ]
+}
