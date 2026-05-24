@@ -1,1 +1,150 @@
-{"id": "scream-ozzy-osbourne", "title": "Scream", "artist": "Ozzy Osbourne", "peak": 4, "history": [{"date": "2010-07-10", "rank": 4}, {"date": "2010-07-17", "rank": 11}, {"date": "2010-07-24", "rank": 18}, {"date": "2010-07-31", "rank": 26}, {"date": "2010-08-07", "rank": 26}, {"date": "2010-08-14", "rank": 37}, {"date": "2010-08-21", "rank": 46}, {"date": "2010-08-28", "rank": 45}, {"date": "2010-09-04", "rank": 58}, {"date": "2010-09-11", "rank": 80}, {"date": "2010-09-18", "rank": 93}, {"date": "2010-09-25", "rank": 131}, {"date": "2010-10-02", "rank": 162}, {"date": "2010-10-09", "rank": 157}, {"date": "2010-10-16", "rank": 167}, {"date": "2010-10-23", "rank": 144}, {"date": "2010-10-30", "rank": 173}, {"date": "2010-11-06", "rank": 191}, {"date": "2010-11-20", "rank": 200}]}
+{
+  "id": "scream-ozzy-osbourne",
+  "title": "Scream",
+  "artist": "Ozzy Osbourne",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2010-07-10",
+      "rank": 4
+    },
+    {
+      "date": "2010-07-17",
+      "rank": 11
+    },
+    {
+      "date": "2010-07-24",
+      "rank": 18
+    },
+    {
+      "date": "2010-07-31",
+      "rank": 26
+    },
+    {
+      "date": "2010-08-07",
+      "rank": 26
+    },
+    {
+      "date": "2010-08-14",
+      "rank": 37
+    },
+    {
+      "date": "2010-08-21",
+      "rank": 46
+    },
+    {
+      "date": "2010-08-28",
+      "rank": 45
+    },
+    {
+      "date": "2010-09-04",
+      "rank": 58
+    },
+    {
+      "date": "2010-09-11",
+      "rank": 80
+    },
+    {
+      "date": "2010-09-18",
+      "rank": 93
+    },
+    {
+      "date": "2010-09-25",
+      "rank": 131
+    },
+    {
+      "date": "2010-10-02",
+      "rank": 162
+    },
+    {
+      "date": "2010-10-09",
+      "rank": 157
+    },
+    {
+      "date": "2010-10-16",
+      "rank": 167
+    },
+    {
+      "date": "2010-10-23",
+      "rank": 144
+    },
+    {
+      "date": "2010-10-30",
+      "rank": 173
+    },
+    {
+      "date": "2010-11-06",
+      "rank": 191
+    },
+    {
+      "date": "2010-11-20",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Life Won’t Wait",
+      "id": "i-don-t-wanna-stop-ozzy-osbourne"
+    },
+    {
+      "title": "One More Time",
+      "id": "no-more-tears-ozzy-osbourne"
+    },
+    {
+      "title": "Let It Die",
+      "id": null
+    },
+    {
+      "title": "Let Me Hear You Scream",
+      "id": null
+    },
+    {
+      "title": "Soul Sucker",
+      "id": null
+    },
+    {
+      "title": "Diggin’ Me Down",
+      "id": null
+    },
+    {
+      "title": "Crucify",
+      "id": null
+    },
+    {
+      "title": "Fearless",
+      "id": null
+    },
+    {
+      "title": "Time",
+      "id": null
+    },
+    {
+      "title": "I Want It More",
+      "id": null
+    },
+    {
+      "title": "Latimer’s Mercy",
+      "id": null
+    },
+    {
+      "title": "I Love You All",
+      "id": null
+    },
+    {
+      "title": "Hand of the Enemy",
+      "id": null
+    },
+    {
+      "title": "Jump the Moon",
+      "id": null
+    },
+    {
+      "title": "Let Me Hear You Scream (live)",
+      "id": null
+    },
+    {
+      "title": "Life Won’t Wait (edit)",
+      "id": null
+    }
+  ]
+}

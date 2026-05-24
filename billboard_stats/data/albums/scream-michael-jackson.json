@@ -1,1 +1,54 @@
-{"id": "scream-michael-jackson", "title": "Scream", "artist": "Michael Jackson", "peak": 33, "history": [{"date": "2017-10-21", "rank": 33}, {"date": "2017-10-28", "rank": 124}, {"date": "2017-11-04", "rank": 180}, {"date": "2017-11-11", "rank": 156}, {"date": "2017-11-18", "rank": 47}, {"date": "2021-11-13", "rank": 179}, {"date": "2024-11-09", "rank": 172}]}
+{
+  "id": "scream-michael-jackson",
+  "title": "Scream",
+  "artist": "Michael Jackson",
+  "peak": 33,
+  "history": [
+    {
+      "date": "2017-10-21",
+      "rank": 33
+    },
+    {
+      "date": "2017-10-28",
+      "rank": 124
+    },
+    {
+      "date": "2017-11-04",
+      "rank": 180
+    },
+    {
+      "date": "2017-11-11",
+      "rank": 156
+    },
+    {
+      "date": "2017-11-18",
+      "rank": 47
+    },
+    {
+      "date": "2021-11-13",
+      "rank": 179
+    },
+    {
+      "date": "2024-11-09",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Scream (single edit)",
+      "id": null
+    },
+    {
+      "title": "Scream (Def radio mix)",
+      "id": null
+    },
+    {
+      "title": "Scream (Dave “Jam” Hall's urban remix edit)",
+      "id": null
+    },
+    {
+      "title": "Childhood (theme from “Free Willy 2”)",
+      "id": null
+    }
+  ]
+}

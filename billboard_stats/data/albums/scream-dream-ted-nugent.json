@@ -1,1 +1,122 @@
-{"id": "scream-dream-ted-nugent", "title": "Scream Dream", "artist": "Ted Nugent", "peak": 13, "history": [{"date": "1980-05-31", "rank": 69}, {"date": "1980-06-07", "rank": 22}, {"date": "1980-06-14", "rank": 19}, {"date": "1980-06-21", "rank": 17}, {"date": "1980-06-28", "rank": 15}, {"date": "1980-07-05", "rank": 13}, {"date": "1980-07-12", "rank": 13}, {"date": "1980-07-19", "rank": 22}, {"date": "1980-07-26", "rank": 25}, {"date": "1980-08-02", "rank": 31}, {"date": "1980-08-09", "rank": 45}, {"date": "1980-08-16", "rank": 59}, {"date": "1980-08-23", "rank": 70}, {"date": "1980-08-30", "rank": 111}, {"date": "1980-09-06", "rank": 140}, {"date": "1980-09-13", "rank": 137}, {"date": "1980-09-20", "rank": 152}, {"date": "1980-09-27", "rank": 164}]}
+{
+  "id": "scream-dream-ted-nugent",
+  "title": "Scream Dream",
+  "artist": "Ted Nugent",
+  "peak": 13,
+  "history": [
+    {
+      "date": "1980-05-31",
+      "rank": 69
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 22
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 19
+    },
+    {
+      "date": "1980-06-21",
+      "rank": 17
+    },
+    {
+      "date": "1980-06-28",
+      "rank": 15
+    },
+    {
+      "date": "1980-07-05",
+      "rank": 13
+    },
+    {
+      "date": "1980-07-12",
+      "rank": 13
+    },
+    {
+      "date": "1980-07-19",
+      "rank": 22
+    },
+    {
+      "date": "1980-07-26",
+      "rank": 25
+    },
+    {
+      "date": "1980-08-02",
+      "rank": 31
+    },
+    {
+      "date": "1980-08-09",
+      "rank": 45
+    },
+    {
+      "date": "1980-08-16",
+      "rank": 59
+    },
+    {
+      "date": "1980-08-23",
+      "rank": 70
+    },
+    {
+      "date": "1980-08-30",
+      "rank": 111
+    },
+    {
+      "date": "1980-09-06",
+      "rank": 140
+    },
+    {
+      "date": "1980-09-13",
+      "rank": 137
+    },
+    {
+      "date": "1980-09-20",
+      "rank": 152
+    },
+    {
+      "date": "1980-09-27",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wango Tango",
+      "id": "wango-tango-ted-nugent"
+    },
+    {
+      "title": "Scream Dream",
+      "id": null
+    },
+    {
+      "title": "Hard as Nails",
+      "id": null
+    },
+    {
+      "title": "I Gotta Move",
+      "id": null
+    },
+    {
+      "title": "Violent Love",
+      "id": null
+    },
+    {
+      "title": "Flesh & Blood",
+      "id": null
+    },
+    {
+      "title": "Spit It Out",
+      "id": null
+    },
+    {
+      "title": "Come and Get It",
+      "id": null
+    },
+    {
+      "title": "Terminus El Dorado",
+      "id": null
+    },
+    {
+      "title": "Don’t Cry (I’ll Be Back Before You Know It Baby)",
+      "id": null
+    }
+  ]
+}
