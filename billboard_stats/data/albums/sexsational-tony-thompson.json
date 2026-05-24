@@ -1,1 +1,74 @@
-{"id": "sexsational-tony-thompson", "title": "Sexsational", "artist": "Tony Thompson", "peak": 99, "history": [{"date": "1995-07-15", "rank": 99}, {"date": "1995-07-22", "rank": 111}, {"date": "1995-07-29", "rank": 126}, {"date": "1995-08-05", "rank": 159}, {"date": "1995-08-12", "rank": 187}]}
+{
+  "id": "sexsational-tony-thompson",
+  "title": "Sexsational",
+  "artist": "Tony Thompson",
+  "peak": 99,
+  "history": [
+    {
+      "date": "1995-07-15",
+      "rank": 99
+    },
+    {
+      "date": "1995-07-22",
+      "rank": 111
+    },
+    {
+      "date": "1995-07-29",
+      "rank": 126
+    },
+    {
+      "date": "1995-08-05",
+      "rank": 159
+    },
+    {
+      "date": "1995-08-12",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Wanna Love Like That",
+      "id": "i-wanna-love-like-that-tony-thompson"
+    },
+    {
+      "title": "I Know",
+      "id": null
+    },
+    {
+      "title": "What's Goin' On",
+      "id": null
+    },
+    {
+      "title": "Sweat",
+      "id": null
+    },
+    {
+      "title": "Handle Our Business",
+      "id": null
+    },
+    {
+      "title": "My Cherie Amour",
+      "id": null
+    },
+    {
+      "title": "Come Over",
+      "id": null
+    },
+    {
+      "title": "Dance With Me",
+      "id": null
+    },
+    {
+      "title": "Goodbye Eyes",
+      "id": null
+    },
+    {
+      "title": "Slave",
+      "id": null
+    },
+    {
+      "title": "Break It Down",
+      "id": null
+    }
+  ]
+}

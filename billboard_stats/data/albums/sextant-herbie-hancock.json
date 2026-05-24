@@ -1,1 +1,46 @@
-{"id": "sextant-herbie-hancock", "title": "Sextant", "artist": "Herbie Hancock", "peak": 176, "history": [{"date": "1973-06-02", "rank": 192}, {"date": "1973-06-09", "rank": 182}, {"date": "1973-06-16", "rank": 180}, {"date": "1973-06-23", "rank": 176}, {"date": "1973-06-30", "rank": 187}, {"date": "1973-07-07", "rank": 189}]}
+{
+  "id": "sextant-herbie-hancock",
+  "title": "Sextant",
+  "artist": "Herbie Hancock",
+  "peak": 176,
+  "history": [
+    {
+      "date": "1973-06-02",
+      "rank": 192
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 182
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 180
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 176
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 187
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rain Dance",
+      "id": null
+    },
+    {
+      "title": "Hidden Shadows",
+      "id": null
+    },
+    {
+      "title": "Hornets",
+      "id": null
+    }
+  ]
+}

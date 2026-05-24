@@ -1,1 +1,218 @@
-{"id": "seventh-sojourn-the-moody-blues", "title": "Seventh Sojourn", "artist": "The Moody Blues", "peak": 1, "history": [{"date": "1972-11-18", "rank": 69}, {"date": "1972-11-25", "rank": 12}, {"date": "1972-12-02", "rank": 5}, {"date": "1972-12-09", "rank": 1}, {"date": "1972-12-16", "rank": 1}, {"date": "1972-12-23", "rank": 1}, {"date": "1972-12-30", "rank": 1}, {"date": "1973-01-06", "rank": 1}, {"date": "1973-01-13", "rank": 2}, {"date": "1973-01-20", "rank": 6}, {"date": "1973-01-27", "rank": 10}, {"date": "1973-02-03", "rank": 9}, {"date": "1973-02-10", "rank": 8}, {"date": "1973-02-17", "rank": 10}, {"date": "1973-02-24", "rank": 12}, {"date": "1973-03-03", "rank": 12}, {"date": "1973-03-10", "rank": 13}, {"date": "1973-03-17", "rank": 12}, {"date": "1973-03-24", "rank": 12}, {"date": "1973-03-31", "rank": 13}, {"date": "1973-04-07", "rank": 18}, {"date": "1973-04-14", "rank": 23}, {"date": "1973-04-21", "rank": 36}, {"date": "1973-04-28", "rank": 39}, {"date": "1973-05-05", "rank": 55}, {"date": "1973-05-12", "rank": 58}, {"date": "1973-05-19", "rank": 76}, {"date": "1973-05-26", "rank": 83}, {"date": "1973-06-02", "rank": 85}, {"date": "1973-06-09", "rank": 90}, {"date": "1973-06-16", "rank": 91}, {"date": "1973-06-23", "rank": 95}, {"date": "1973-06-30", "rank": 97}, {"date": "1973-07-07", "rank": 96}, {"date": "1973-07-14", "rank": 98}, {"date": "1973-07-21", "rank": 103}, {"date": "1973-07-28", "rank": 121}, {"date": "1973-08-04", "rank": 128}, {"date": "1973-08-11", "rank": 135}, {"date": "1973-08-18", "rank": 147}, {"date": "1973-08-25", "rank": 147}, {"date": "1973-09-01", "rank": 150}, {"date": "1973-09-08", "rank": 153}, {"date": "1973-09-15", "rank": 153}]}
+{
+  "id": "seventh-sojourn-the-moody-blues",
+  "title": "Seventh Sojourn",
+  "artist": "The Moody Blues",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1972-11-18",
+      "rank": 69
+    },
+    {
+      "date": "1972-11-25",
+      "rank": 12
+    },
+    {
+      "date": "1972-12-02",
+      "rank": 5
+    },
+    {
+      "date": "1972-12-09",
+      "rank": 1
+    },
+    {
+      "date": "1972-12-16",
+      "rank": 1
+    },
+    {
+      "date": "1972-12-23",
+      "rank": 1
+    },
+    {
+      "date": "1972-12-30",
+      "rank": 1
+    },
+    {
+      "date": "1973-01-06",
+      "rank": 1
+    },
+    {
+      "date": "1973-01-13",
+      "rank": 2
+    },
+    {
+      "date": "1973-01-20",
+      "rank": 6
+    },
+    {
+      "date": "1973-01-27",
+      "rank": 10
+    },
+    {
+      "date": "1973-02-03",
+      "rank": 9
+    },
+    {
+      "date": "1973-02-10",
+      "rank": 8
+    },
+    {
+      "date": "1973-02-17",
+      "rank": 10
+    },
+    {
+      "date": "1973-02-24",
+      "rank": 12
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 12
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 13
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 12
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 12
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 13
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 18
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 23
+    },
+    {
+      "date": "1973-04-21",
+      "rank": 36
+    },
+    {
+      "date": "1973-04-28",
+      "rank": 39
+    },
+    {
+      "date": "1973-05-05",
+      "rank": 55
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 58
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 76
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 83
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 85
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 90
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 91
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 95
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 97
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 96
+    },
+    {
+      "date": "1973-07-14",
+      "rank": 98
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 103
+    },
+    {
+      "date": "1973-07-28",
+      "rank": 121
+    },
+    {
+      "date": "1973-08-04",
+      "rank": 128
+    },
+    {
+      "date": "1973-08-11",
+      "rank": 135
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 147
+    },
+    {
+      "date": "1973-08-25",
+      "rank": 147
+    },
+    {
+      "date": "1973-09-01",
+      "rank": 150
+    },
+    {
+      "date": "1973-09-08",
+      "rank": 153
+    },
+    {
+      "date": "1973-09-15",
+      "rank": 153
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Isn’t Life Strange",
+      "id": "isn-t-life-strange-the-moody-blues"
+    },
+    {
+      "title": "I’m Just a Singer (in a Rock and Roll Band)",
+      "id": "i-m-just-a-singer-in-a-rock-and-roll-band-the-moody-blues"
+    },
+    {
+      "title": "Lost in a Lost World",
+      "id": null
+    },
+    {
+      "title": "New Horizons",
+      "id": null
+    },
+    {
+      "title": "For My Lady",
+      "id": null
+    },
+    {
+      "title": "You and Me",
+      "id": null
+    },
+    {
+      "title": "The Land of Make‐Believe",
+      "id": null
+    },
+    {
+      "title": "When You’re a Free Man",
+      "id": null
+    }
+  ]
+}
