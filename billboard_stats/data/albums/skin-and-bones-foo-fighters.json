@@ -1,1 +1,118 @@
-{"id": "skin-and-bones-foo-fighters", "title": "Skin And Bones", "artist": "Foo Fighters", "peak": 21, "history": [{"date": "2006-11-25", "rank": 21}, {"date": "2006-12-02", "rank": 72}, {"date": "2006-12-09", "rank": 117}, {"date": "2006-12-16", "rank": 105}, {"date": "2006-12-23", "rank": 145}, {"date": "2006-12-30", "rank": 146}, {"date": "2007-01-06", "rank": 116}, {"date": "2007-01-13", "rank": 99}, {"date": "2007-01-20", "rank": 119}, {"date": "2007-01-27", "rank": 146}, {"date": "2007-02-03", "rank": 174}]}
+{
+  "id": "skin-and-bones-foo-fighters",
+  "title": "Skin And Bones",
+  "artist": "Foo Fighters",
+  "peak": 21,
+  "history": [
+    {
+      "date": "2006-11-25",
+      "rank": 21
+    },
+    {
+      "date": "2006-12-02",
+      "rank": 72
+    },
+    {
+      "date": "2006-12-09",
+      "rank": 117
+    },
+    {
+      "date": "2006-12-16",
+      "rank": 105
+    },
+    {
+      "date": "2006-12-23",
+      "rank": 145
+    },
+    {
+      "date": "2006-12-30",
+      "rank": 146
+    },
+    {
+      "date": "2007-01-06",
+      "rank": 116
+    },
+    {
+      "date": "2007-01-13",
+      "rank": 99
+    },
+    {
+      "date": "2007-01-20",
+      "rank": 119
+    },
+    {
+      "date": "2007-01-27",
+      "rank": 146
+    },
+    {
+      "date": "2007-02-03",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Times Like These",
+      "id": "times-like-these-foo-fighters"
+    },
+    {
+      "title": "Best of You",
+      "id": "best-of-you-foo-fighters"
+    },
+    {
+      "title": "Razor",
+      "id": null
+    },
+    {
+      "title": "Over and Out",
+      "id": null
+    },
+    {
+      "title": "Walking After You",
+      "id": null
+    },
+    {
+      "title": "Marigold",
+      "id": null
+    },
+    {
+      "title": "My Hero",
+      "id": null
+    },
+    {
+      "title": "Next Year",
+      "id": null
+    },
+    {
+      "title": "Another Round",
+      "id": null
+    },
+    {
+      "title": "Big Me",
+      "id": null
+    },
+    {
+      "title": "Cold Day in the Sun",
+      "id": null
+    },
+    {
+      "title": "Skin and Bones",
+      "id": null
+    },
+    {
+      "title": "February Stars",
+      "id": null
+    },
+    {
+      "title": "Friend of a Friend",
+      "id": null
+    },
+    {
+      "title": "Everlong",
+      "id": null
+    },
+    {
+      "title": "Ain’t It the Life",
+      "id": null
+    }
+  ]
+}

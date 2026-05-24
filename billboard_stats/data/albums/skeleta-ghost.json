@@ -1,1 +1,62 @@
-{"id": "skeleta-ghost", "title": "Skeleta", "artist": "Ghost", "peak": 1, "history": [{"date": "2025-05-10", "rank": 1}, {"date": "2025-05-17", "rank": 58}, {"date": "2025-05-24", "rank": 154}]}
+{
+  "id": "skeleta-ghost",
+  "title": "Skeleta",
+  "artist": "Ghost",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2025-05-10",
+      "rank": 1
+    },
+    {
+      "date": "2025-05-17",
+      "rank": 58
+    },
+    {
+      "date": "2025-05-24",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Peacefield",
+      "id": null
+    },
+    {
+      "title": "Lachryma",
+      "id": null
+    },
+    {
+      "title": "Satanized",
+      "id": null
+    },
+    {
+      "title": "Guiding Lights",
+      "id": null
+    },
+    {
+      "title": "De Profundis Borealis",
+      "id": null
+    },
+    {
+      "title": "Cenotaph",
+      "id": null
+    },
+    {
+      "title": "Missilia Amori",
+      "id": null
+    },
+    {
+      "title": "Marks of the Evil One",
+      "id": null
+    },
+    {
+      "title": "Umbra",
+      "id": null
+    },
+    {
+      "title": "Excelsis",
+      "id": null
+    }
+  ]
+}

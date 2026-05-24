@@ -1,1 +1,70 @@
-{"id": "size-isn-t-everything-bee-gees", "title": "Size Isn't Everything", "artist": "Bee Gees", "peak": 153, "history": [{"date": "1993-11-20", "rank": 153}, {"date": "1993-11-27", "rank": 198}, {"date": "1993-12-04", "rank": 194}]}
+{
+  "id": "size-isn-t-everything-bee-gees",
+  "title": "Size Isn't Everything",
+  "artist": "Bee Gees",
+  "peak": 153,
+  "history": [
+    {
+      "date": "1993-11-20",
+      "rank": 153
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 198
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Paying the Price of Love",
+      "id": "paying-the-price-of-love-bee-gees"
+    },
+    {
+      "title": "Kiss of Life",
+      "id": null
+    },
+    {
+      "title": "How to Fall in Love, Part 1",
+      "id": null
+    },
+    {
+      "title": "Omega Man",
+      "id": null
+    },
+    {
+      "title": "Haunted House",
+      "id": null
+    },
+    {
+      "title": "Heart Like Mine",
+      "id": null
+    },
+    {
+      "title": "Anything for You",
+      "id": null
+    },
+    {
+      "title": "Blue Island",
+      "id": null
+    },
+    {
+      "title": "Above and Beyond",
+      "id": null
+    },
+    {
+      "title": "For Whom the Bell Tolls",
+      "id": null
+    },
+    {
+      "title": "Fallen Angel",
+      "id": null
+    },
+    {
+      "title": "Decadance",
+      "id": null
+    }
+  ]
+}
