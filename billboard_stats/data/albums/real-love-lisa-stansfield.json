@@ -1,1 +1,298 @@
-{"id": "real-love-lisa-stansfield", "title": "Real Love", "artist": "Lisa Stansfield", "peak": 43, "history": [{"date": "1991-11-30", "rank": 72}, {"date": "1991-12-07", "rank": 61}, {"date": "1991-12-14", "rank": 57}, {"date": "1991-12-21", "rank": 72}, {"date": "1991-12-28", "rank": 72}, {"date": "1992-01-04", "rank": 83}, {"date": "1992-01-11", "rank": 85}, {"date": "1992-01-18", "rank": 70}, {"date": "1992-01-25", "rank": 59}, {"date": "1992-02-01", "rank": 44}, {"date": "1992-02-08", "rank": 43}, {"date": "1992-02-15", "rank": 47}, {"date": "1992-02-22", "rank": 54}, {"date": "1992-02-29", "rank": 54}, {"date": "1992-03-07", "rank": 50}, {"date": "1992-03-14", "rank": 54}, {"date": "1992-03-21", "rank": 57}, {"date": "1992-03-28", "rank": 62}, {"date": "1992-04-04", "rank": 57}, {"date": "1992-04-11", "rank": 48}, {"date": "1992-04-18", "rank": 52}, {"date": "1992-04-25", "rank": 54}, {"date": "1992-05-02", "rank": 58}, {"date": "1992-05-09", "rank": 61}, {"date": "1992-05-16", "rank": 66}, {"date": "1992-05-23", "rank": 62}, {"date": "1992-05-30", "rank": 75}, {"date": "1992-06-06", "rank": 91}, {"date": "1992-06-13", "rank": 91}, {"date": "1992-06-20", "rank": 114}, {"date": "1992-06-27", "rank": 140}, {"date": "1992-07-04", "rank": 159}, {"date": "1992-07-11", "rank": 147}, {"date": "1992-07-18", "rank": 150}, {"date": "1992-07-25", "rank": 184}, {"date": "1992-08-01", "rank": 198}, {"date": "1992-08-08", "rank": 188}, {"date": "1992-08-15", "rank": 190}, {"date": "1992-08-22", "rank": 197}, {"date": "1992-09-05", "rank": 199}]}
+{
+  "id": "real-love-lisa-stansfield",
+  "title": "Real Love",
+  "artist": "Lisa Stansfield",
+  "peak": 43,
+  "history": [
+    {
+      "date": "1991-11-30",
+      "rank": 72
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 61
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 57
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 72
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 72
+    },
+    {
+      "date": "1992-01-04",
+      "rank": 83
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 85
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 70
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 59
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 44
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 43
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 47
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 54
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 54
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 50
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 54
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 57
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 62
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 57
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 48
+    },
+    {
+      "date": "1992-04-18",
+      "rank": 52
+    },
+    {
+      "date": "1992-04-25",
+      "rank": 54
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 58
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 61
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 66
+    },
+    {
+      "date": "1992-05-23",
+      "rank": 62
+    },
+    {
+      "date": "1992-05-30",
+      "rank": 75
+    },
+    {
+      "date": "1992-06-06",
+      "rank": 91
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 91
+    },
+    {
+      "date": "1992-06-20",
+      "rank": 114
+    },
+    {
+      "date": "1992-06-27",
+      "rank": 140
+    },
+    {
+      "date": "1992-07-04",
+      "rank": 159
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 147
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 150
+    },
+    {
+      "date": "1992-07-25",
+      "rank": 184
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 198
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 188
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 190
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 197
+    },
+    {
+      "date": "1992-09-05",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Change",
+      "id": "change-lisa-stansfield"
+    },
+    {
+      "title": "All Woman",
+      "id": "all-woman-lisa-stansfield"
+    },
+    {
+      "title": "All Woman (live)",
+      "id": "all-woman-lisa-stansfield"
+    },
+    {
+      "title": "Real Love",
+      "id": null
+    },
+    {
+      "title": "Set Your Loving Free",
+      "id": null
+    },
+    {
+      "title": "I Will Be Waiting",
+      "id": null
+    },
+    {
+      "title": "Soul Deep",
+      "id": null
+    },
+    {
+      "title": "Make Love to Ya",
+      "id": null
+    },
+    {
+      "title": "Time to Make You Mine",
+      "id": null
+    },
+    {
+      "title": "Symptoms of Loneliness & Heartache",
+      "id": null
+    },
+    {
+      "title": "It’s Got to Be Real",
+      "id": null
+    },
+    {
+      "title": "First Joy",
+      "id": null
+    },
+    {
+      "title": "Tenderly",
+      "id": null
+    },
+    {
+      "title": "A Little More Love",
+      "id": null
+    },
+    {
+      "title": "Whenever You’re Gone",
+      "id": null
+    },
+    {
+      "title": "Time to Make You Mine (Sugar Lips mix)",
+      "id": null
+    },
+    {
+      "title": "Change (Knuckles mix)",
+      "id": null
+    },
+    {
+      "title": "Set Your Loving Free (extended version)",
+      "id": null
+    },
+    {
+      "title": "Everything Will Get Better (extended mix)",
+      "id": null
+    },
+    {
+      "title": "Change (Driza Bone mix)",
+      "id": null
+    },
+    {
+      "title": "Time to Make You Mine (Bomb Squad remix)",
+      "id": null
+    },
+    {
+      "title": "Make Love to Ya (The Floor mix)",
+      "id": null
+    },
+    {
+      "title": "Everything Will Get Better (Underground club mix)",
+      "id": null
+    },
+    {
+      "title": "Time to Make You Mine (house dub)",
+      "id": null
+    },
+    {
+      "title": "Set Your Loving Free (Kenlou 12″)",
+      "id": null
+    },
+    {
+      "title": "Everything Will Get Better (Sax on the Beach mix)",
+      "id": null
+    },
+    {
+      "title": "Time to Make You Mine (Kenlou Supa mix)",
+      "id": null
+    },
+    {
+      "title": "Set Your Loving Free (Mellow mix)",
+      "id": null
+    },
+    {
+      "title": "Change (Misty dub mix)",
+      "id": null
+    },
+    {
+      "title": "Change (U.S. version)",
+      "id": null
+    },
+    {
+      "title": "’t Ain’t Nobody’s Bizness If I Do (live)",
+      "id": null
+    },
+    {
+      "title": "2014 Interview with Mark Goodier",
+      "id": null
+    }
+  ]
+}

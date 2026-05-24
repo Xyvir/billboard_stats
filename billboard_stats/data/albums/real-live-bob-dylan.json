@@ -1,1 +1,86 @@
-{"id": "real-live-bob-dylan", "title": "Real Live", "artist": "Bob Dylan", "peak": 115, "history": [{"date": "1985-01-05", "rank": 122}, {"date": "1985-01-12", "rank": 118}, {"date": "1985-01-19", "rank": 115}, {"date": "1985-01-26", "rank": 115}, {"date": "1985-02-02", "rank": 125}, {"date": "1985-02-09", "rank": 125}, {"date": "1985-02-16", "rank": 136}, {"date": "1985-02-23", "rank": 148}, {"date": "1985-03-02", "rank": 176}]}
+{
+  "id": "real-live-bob-dylan",
+  "title": "Real Live",
+  "artist": "Bob Dylan",
+  "peak": 115,
+  "history": [
+    {
+      "date": "1985-01-05",
+      "rank": 122
+    },
+    {
+      "date": "1985-01-12",
+      "rank": 118
+    },
+    {
+      "date": "1985-01-19",
+      "rank": 115
+    },
+    {
+      "date": "1985-01-26",
+      "rank": 115
+    },
+    {
+      "date": "1985-02-02",
+      "rank": 125
+    },
+    {
+      "date": "1985-02-09",
+      "rank": 125
+    },
+    {
+      "date": "1985-02-16",
+      "rank": 136
+    },
+    {
+      "date": "1985-02-23",
+      "rank": 148
+    },
+    {
+      "date": "1985-03-02",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tangled Up in Blue",
+      "id": "tangled-up-in-blue-bob-dylan"
+    },
+    {
+      "title": "Highway 61 Revisited",
+      "id": null
+    },
+    {
+      "title": "Maggie’s Farm",
+      "id": null
+    },
+    {
+      "title": "I and I",
+      "id": null
+    },
+    {
+      "title": "License to Kill",
+      "id": null
+    },
+    {
+      "title": "It Ain’t Me, Babe",
+      "id": null
+    },
+    {
+      "title": "Masters of War",
+      "id": null
+    },
+    {
+      "title": "Ballad of a Thin Man",
+      "id": null
+    },
+    {
+      "title": "Girl From the North Country",
+      "id": null
+    },
+    {
+      "title": "Tombstone Blues",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "reality-james-brown", "title": "Reality", "artist": "James Brown", "peak": 56, "history": [{"date": "1975-01-25", "rank": 144}, {"date": "1975-02-01", "rank": 133}, {"date": "1975-02-08", "rank": 99}, {"date": "1975-02-15", "rank": 71}, {"date": "1975-02-22", "rank": 61}, {"date": "1975-03-01", "rank": 56}, {"date": "1975-03-08", "rank": 57}, {"date": "1975-03-15", "rank": 66}, {"date": "1975-03-22", "rank": 108}, {"date": "1975-03-29", "rank": 136}]}
+{
+  "id": "reality-james-brown",
+  "title": "Reality",
+  "artist": "James Brown",
+  "peak": 56,
+  "history": [
+    {
+      "date": "1975-01-25",
+      "rank": 144
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 133
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 99
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 71
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 61
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 56
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 57
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 66
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 108
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 136
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Reality",
+      "id": "reality-james-brown"
+    },
+    {
+      "title": "Funky President (People It’s Bad)",
+      "id": "funky-president-people-it-s-bad-coldblooded-james-brown"
+    },
+    {
+      "title": "Further on Up the Road",
+      "id": null
+    },
+    {
+      "title": "Check Your Body",
+      "id": null
+    },
+    {
+      "title": "Don’t Fence Me In",
+      "id": null
+    },
+    {
+      "title": "All for One",
+      "id": null
+    },
+    {
+      "title": "I’m Broken Hearted",
+      "id": null
+    },
+    {
+      "title": "Twist",
+      "id": null
+    },
+    {
+      "title": "Who Can I Turn To",
+      "id": null
+    }
+  ]
+}
