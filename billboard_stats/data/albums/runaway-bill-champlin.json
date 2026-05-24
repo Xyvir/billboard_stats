@@ -1,1 +1,70 @@
-{"id": "runaway-bill-champlin", "title": "Runaway", "artist": "Bill Champlin", "peak": 178, "history": [{"date": "1982-02-06", "rank": 187}, {"date": "1982-02-13", "rank": 178}, {"date": "1982-02-20", "rank": 178}, {"date": "1982-02-27", "rank": 178}]}
+{
+  "id": "runaway-bill-champlin",
+  "title": "Runaway",
+  "artist": "Bill Champlin",
+  "peak": 178,
+  "history": [
+    {
+      "date": "1982-02-06",
+      "rank": 187
+    },
+    {
+      "date": "1982-02-13",
+      "rank": 178
+    },
+    {
+      "date": "1982-02-20",
+      "rank": 178
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sara",
+      "id": "sara-bill-champlin"
+    },
+    {
+      "title": "Tonight Tonight",
+      "id": "tonight-tonight-bill-champlin"
+    },
+    {
+      "title": "Runaway",
+      "id": null
+    },
+    {
+      "title": "One Way Ticket",
+      "id": null
+    },
+    {
+      "title": "Runaway Reprise",
+      "id": null
+    },
+    {
+      "title": "Take It Uptown",
+      "id": null
+    },
+    {
+      "title": "Satisfaction",
+      "id": null
+    },
+    {
+      "title": "Stop Knockin’ on My Door",
+      "id": null
+    },
+    {
+      "title": "Gotta Get Back to Love",
+      "id": null
+    },
+    {
+      "title": "Without You",
+      "id": null
+    },
+    {
+      "title": "The Fool Is All Alone",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"id": "run-for-your-life-the-tarney-spencer-band", "title": "Run For Your Life", "artist": "The Tarney/Spencer Band", "peak": 181, "history": [{"date": "1979-05-12", "rank": 184}, {"date": "1979-05-19", "rank": 184}, {"date": "1979-05-26", "rank": 181}, {"date": "1979-06-02", "rank": 197}]}
+{
+  "id": "run-for-your-life-the-tarney-spencer-band",
+  "title": "Run For Your Life",
+  "artist": "The Tarney/Spencer Band",
+  "peak": 181,
+  "history": [
+    {
+      "date": "1979-05-12",
+      "rank": 184
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 184
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 181
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No Time to Lose",
+      "id": "no-time-to-lose-the-tarney-spencer-band"
+    },
+    {
+      "title": "The Race Is Almost Run",
+      "id": null
+    },
+    {
+      "title": "Won’tcha Tell Me",
+      "id": null
+    },
+    {
+      "title": "Live Again",
+      "id": null
+    },
+    {
+      "title": "Run Your Life",
+      "id": null
+    },
+    {
+      "title": "Don’t",
+      "id": null
+    },
+    {
+      "title": "Far Better Man",
+      "id": null
+    },
+    {
+      "title": "Lies",
+      "id": null
+    },
+    {
+      "title": "A Heart Will Break Tonight",
+      "id": null
+    },
+    {
+      "title": "I’m Alive",
+      "id": null
+    }
+  ]
+}
