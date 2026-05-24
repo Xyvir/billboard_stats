@@ -1,1 +1,118 @@
-{"id": "new-england-new-england", "title": "New England", "artist": "New England", "peak": 50, "history": [{"date": "1979-05-19", "rank": 116}, {"date": "1979-05-26", "rank": 109}, {"date": "1979-06-02", "rank": 79}, {"date": "1979-06-09", "rank": 66}, {"date": "1979-06-16", "rank": 58}, {"date": "1979-06-23", "rank": 50}, {"date": "1979-06-30", "rank": 50}, {"date": "1979-07-07", "rank": 82}, {"date": "1979-07-14", "rank": 82}, {"date": "1979-07-21", "rank": 85}, {"date": "1979-07-28", "rank": 92}, {"date": "1979-08-04", "rank": 137}, {"date": "1979-08-11", "rank": 137}, {"date": "1979-08-18", "rank": 142}, {"date": "1979-08-25", "rank": 158}, {"date": "1979-09-01", "rank": 179}, {"date": "1979-09-08", "rank": 192}]}
+{
+  "id": "new-england-new-england",
+  "title": "New England",
+  "artist": "New England",
+  "peak": 50,
+  "history": [
+    {
+      "date": "1979-05-19",
+      "rank": 116
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 109
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 79
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 66
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 58
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 50
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 50
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 82
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 82
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 85
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 92
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 137
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 137
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 142
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 158
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 179
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hello, Hello, Hello",
+      "id": "hello-hello-hello-new-england"
+    },
+    {
+      "title": "Don’t Ever Wanna Lose Ya",
+      "id": "don-t-ever-wanna-lose-ya-new-england"
+    },
+    {
+      "title": "P.U.N.K.",
+      "id": null
+    },
+    {
+      "title": "Shall I Run Away",
+      "id": null
+    },
+    {
+      "title": "Alone Tonight",
+      "id": null
+    },
+    {
+      "title": "Nothing to Fear",
+      "id": null
+    },
+    {
+      "title": "Shoot",
+      "id": null
+    },
+    {
+      "title": "Turn Out the Light",
+      "id": null
+    },
+    {
+      "title": "The Last Show",
+      "id": null
+    },
+    {
+      "title": "Encore",
+      "id": null
+    }
+  ]
+}

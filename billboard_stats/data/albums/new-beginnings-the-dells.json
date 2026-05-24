@@ -1,1 +1,54 @@
-{"id": "new-beginnings-the-dells", "title": "New Beginnings", "artist": "The Dells", "peak": 169, "history": [{"date": "1978-09-23", "rank": 179}, {"date": "1978-09-30", "rank": 169}, {"date": "1978-10-07", "rank": 169}]}
+{
+  "id": "new-beginnings-the-dells",
+  "title": "New Beginnings",
+  "artist": "The Dells",
+  "peak": 169,
+  "history": [
+    {
+      "date": "1978-09-23",
+      "rank": 179
+    },
+    {
+      "date": "1978-09-30",
+      "rank": 169
+    },
+    {
+      "date": "1978-10-07",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cherish",
+      "id": "there-is-the-dells"
+    },
+    {
+      "title": "Super Woman",
+      "id": null
+    },
+    {
+      "title": "Drowning for Your Love",
+      "id": null
+    },
+    {
+      "title": "I Wanna Testify",
+      "id": null
+    },
+    {
+      "title": "All Your Goodies Are Gone",
+      "id": null
+    },
+    {
+      "title": "My Life Is So Wonderful (When You're Around)",
+      "id": null
+    },
+    {
+      "title": "Call Me (Right by Your Side I'll Be)",
+      "id": null
+    },
+    {
+      "title": "Tripped, Slipped, Stumbled and Fell",
+      "id": null
+    }
+  ]
+}

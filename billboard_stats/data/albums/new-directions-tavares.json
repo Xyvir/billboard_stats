@@ -1,1 +1,86 @@
-{"id": "new-directions-tavares", "title": "New Directions", "artist": "Tavares", "peak": 137, "history": [{"date": "1982-12-11", "rank": 190}, {"date": "1982-12-18", "rank": 183}, {"date": "1982-12-25", "rank": 177}, {"date": "1983-01-01", "rank": 177}, {"date": "1983-01-08", "rank": 171}, {"date": "1983-01-15", "rank": 167}, {"date": "1983-01-22", "rank": 150}, {"date": "1983-01-29", "rank": 138}, {"date": "1983-02-05", "rank": 137}, {"date": "1983-02-12", "rank": 196}, {"date": "1983-02-19", "rank": 196}]}
+{
+  "id": "new-directions-tavares",
+  "title": "New Directions",
+  "artist": "Tavares",
+  "peak": 137,
+  "history": [
+    {
+      "date": "1982-12-11",
+      "rank": 190
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 183
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 177
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 177
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 171
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 167
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 150
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 138
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 137
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 196
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Penny for Your Thoughts",
+      "id": "a-penny-for-your-thoughts-tavares"
+    },
+    {
+      "title": "I Hope You’ll Be Very Unhappy Without Me",
+      "id": null
+    },
+    {
+      "title": "Mystery Lady",
+      "id": null
+    },
+    {
+      "title": "Abra‐Ca‐Dabra Love You Too",
+      "id": null
+    },
+    {
+      "title": "Got to Find My Way Back to You",
+      "id": null
+    },
+    {
+      "title": "Maybe We’ll Fall in Love Again",
+      "id": null
+    },
+    {
+      "title": "The Skin You’re In",
+      "id": null
+    },
+    {
+      "title": "Wanna Be Close to You",
+      "id": null
+    }
+  ]
+}
