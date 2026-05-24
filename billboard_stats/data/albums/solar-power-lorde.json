@@ -1,1 +1,74 @@
-{"id": "solar-power-lorde", "title": "Solar Power", "artist": "Lorde", "peak": 5, "history": [{"date": "2021-09-04", "rank": 5}, {"date": "2021-09-11", "rank": 40}, {"date": "2021-09-18", "rank": 113}, {"date": "2021-09-25", "rank": 165}]}
+{
+  "id": "solar-power-lorde",
+  "title": "Solar Power",
+  "artist": "Lorde",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2021-09-04",
+      "rank": 5
+    },
+    {
+      "date": "2021-09-11",
+      "rank": 40
+    },
+    {
+      "date": "2021-09-18",
+      "rank": 113
+    },
+    {
+      "date": "2021-09-25",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Solar Power",
+      "id": "solar-power-lorde"
+    },
+    {
+      "title": "The Path",
+      "id": null
+    },
+    {
+      "title": "California",
+      "id": null
+    },
+    {
+      "title": "Stoned at the Nail Salon",
+      "id": null
+    },
+    {
+      "title": "Fallen Fruit",
+      "id": null
+    },
+    {
+      "title": "Secrets From a Girl (Who’s Seen It All)",
+      "id": null
+    },
+    {
+      "title": "The Man With the Axe",
+      "id": null
+    },
+    {
+      "title": "Dominoes",
+      "id": null
+    },
+    {
+      "title": "Big Star",
+      "id": null
+    },
+    {
+      "title": "Leader of a New Regime",
+      "id": null
+    },
+    {
+      "title": "Mood Ring",
+      "id": null
+    },
+    {
+      "title": "Oceanic Feeling",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "so-far-gone-drake", "title": "So Far Gone", "artist": "Drake", "peak": 5, "history": [{"date": "2019-03-02", "rank": 5}, {"date": "2019-03-09", "rank": 47}, {"date": "2019-03-16", "rank": 103}, {"date": "2019-03-23", "rank": 136}, {"date": "2019-03-30", "rank": 169}, {"date": "2019-04-06", "rank": 200}]}
+{
+  "id": "so-far-gone-drake",
+  "title": "So Far Gone",
+  "artist": "Drake",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2019-03-02",
+      "rank": 5
+    },
+    {
+      "date": "2019-03-09",
+      "rank": 47
+    },
+    {
+      "date": "2019-03-16",
+      "rank": 103
+    },
+    {
+      "date": "2019-03-23",
+      "rank": 136
+    },
+    {
+      "date": "2019-03-30",
+      "rank": 169
+    },
+    {
+      "date": "2019-04-06",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Best I Ever Had",
+      "id": "best-i-ever-had-drake"
+    },
+    {
+      "title": "Houstatlantavegas",
+      "id": null
+    },
+    {
+      "title": "Successful",
+      "id": null
+    },
+    {
+      "title": "Uptown",
+      "id": null
+    },
+    {
+      "title": "I’m Goin’ In",
+      "id": null
+    },
+    {
+      "title": "The Calm",
+      "id": null
+    },
+    {
+      "title": "Fear",
+      "id": null
+    }
+  ]
+}

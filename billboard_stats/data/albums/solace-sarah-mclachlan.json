@@ -1,1 +1,66 @@
-{"id": "solace-sarah-mclachlan", "title": "Solace", "artist": "Sarah McLachlan", "peak": 167, "history": [{"date": "1992-04-25", "rank": 167}, {"date": "1992-05-02", "rank": 178}, {"date": "1992-05-09", "rank": 190}, {"date": "1992-05-16", "rank": 183}]}
+{
+  "id": "solace-sarah-mclachlan",
+  "title": "Solace",
+  "artist": "Sarah McLachlan",
+  "peak": 167,
+  "history": [
+    {
+      "date": "1992-04-25",
+      "rank": 167
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 178
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 190
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Will Not Forget You",
+      "id": "i-will-remember-you-sarah-mclachlan"
+    },
+    {
+      "title": "Drawn to the Rhythm",
+      "id": null
+    },
+    {
+      "title": "Into the Fire",
+      "id": null
+    },
+    {
+      "title": "The Path of Thorns (Terms)",
+      "id": null
+    },
+    {
+      "title": "Lost",
+      "id": null
+    },
+    {
+      "title": "Back Door Man",
+      "id": null
+    },
+    {
+      "title": "Shelter",
+      "id": null
+    },
+    {
+      "title": "Black",
+      "id": null
+    },
+    {
+      "title": "Home",
+      "id": null
+    },
+    {
+      "title": "Mercy",
+      "id": null
+    }
+  ]
+}
