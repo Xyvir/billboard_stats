@@ -1,1 +1,78 @@
-{"id": "now-what-deep-purple", "title": "Now What?!", "artist": "Deep Purple", "peak": 110, "history": [{"date": "2013-05-18", "rank": 115}, {"date": "2013-06-01", "rank": 110}]}
+{
+  "id": "now-what-deep-purple",
+  "title": "Now What?!",
+  "artist": "Deep Purple",
+  "peak": 110,
+  "history": [
+    {
+      "date": "2013-05-18",
+      "rank": 115
+    },
+    {
+      "date": "2013-06-01",
+      "rank": 110
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Simple Song",
+      "id": null
+    },
+    {
+      "title": "Weirdistan",
+      "id": null
+    },
+    {
+      "title": "Out of Hand",
+      "id": null
+    },
+    {
+      "title": "Hell to Pay",
+      "id": null
+    },
+    {
+      "title": "Bodyline",
+      "id": null
+    },
+    {
+      "title": "Above and Beyond",
+      "id": null
+    },
+    {
+      "title": "Blood From a Stone",
+      "id": null
+    },
+    {
+      "title": "Uncommon Man",
+      "id": null
+    },
+    {
+      "title": "Après vous",
+      "id": null
+    },
+    {
+      "title": "All the Time in the World",
+      "id": null
+    },
+    {
+      "title": "Vincent Price",
+      "id": null
+    },
+    {
+      "title": "It’ll Be Me",
+      "id": null
+    },
+    {
+      "title": "In Conversation",
+      "id": null
+    },
+    {
+      "title": "Perfect Strangers",
+      "id": null
+    },
+    {
+      "title": "Rapture of the Deep",
+      "id": null
+    }
+  ]
+}

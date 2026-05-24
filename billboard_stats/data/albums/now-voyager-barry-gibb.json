@@ -1,1 +1,86 @@
-{"id": "now-voyager-barry-gibb", "title": "Now Voyager", "artist": "Barry Gibb", "peak": 72, "history": [{"date": "1984-10-20", "rank": 118}, {"date": "1984-10-27", "rank": 78}, {"date": "1984-11-03", "rank": 72}, {"date": "1984-11-10", "rank": 72}, {"date": "1984-11-17", "rank": 88}, {"date": "1984-11-24", "rank": 119}, {"date": "1984-12-01", "rank": 148}, {"date": "1984-12-08", "rank": 167}]}
+{
+  "id": "now-voyager-barry-gibb",
+  "title": "Now Voyager",
+  "artist": "Barry Gibb",
+  "peak": 72,
+  "history": [
+    {
+      "date": "1984-10-20",
+      "rank": 118
+    },
+    {
+      "date": "1984-10-27",
+      "rank": 78
+    },
+    {
+      "date": "1984-11-03",
+      "rank": 72
+    },
+    {
+      "date": "1984-11-10",
+      "rank": 72
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 88
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 119
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 148
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fine Line",
+      "id": "shine-shine-barry-gibb"
+    },
+    {
+      "title": "Shine Shine",
+      "id": "shine-shine-barry-gibb"
+    },
+    {
+      "title": "I Am Your Driver",
+      "id": null
+    },
+    {
+      "title": "Face to Face",
+      "id": null
+    },
+    {
+      "title": "Shatterproof",
+      "id": null
+    },
+    {
+      "title": "Lesson in Love",
+      "id": null
+    },
+    {
+      "title": "One Night (For Lovers)",
+      "id": null
+    },
+    {
+      "title": "Stay Alone",
+      "id": null
+    },
+    {
+      "title": "Temptation",
+      "id": null
+    },
+    {
+      "title": "She Says",
+      "id": null
+    },
+    {
+      "title": "The Hunter",
+      "id": null
+    }
+  ]
+}

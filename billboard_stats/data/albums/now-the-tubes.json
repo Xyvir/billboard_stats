@@ -1,1 +1,78 @@
-{"id": "now-the-tubes", "title": "Now", "artist": "The Tubes", "peak": 122, "history": [{"date": "1977-05-28", "rank": 186}, {"date": "1977-06-04", "rank": 175}, {"date": "1977-06-11", "rank": 133}, {"date": "1977-06-18", "rank": 122}, {"date": "1977-06-25", "rank": 122}, {"date": "1977-07-02", "rank": 152}]}
+{
+  "id": "now-the-tubes",
+  "title": "Now",
+  "artist": "The Tubes",
+  "peak": 122,
+  "history": [
+    {
+      "date": "1977-05-28",
+      "rank": 186
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 175
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 133
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 122
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 122
+    },
+    {
+      "date": "1977-07-02",
+      "rank": 152
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Smoke (La Vie en Fumer)",
+      "id": null
+    },
+    {
+      "title": "Hit Parade",
+      "id": null
+    },
+    {
+      "title": "Strung Out on Strings",
+      "id": null
+    },
+    {
+      "title": "Golden Boy",
+      "id": null
+    },
+    {
+      "title": "My Head Is My Only House Unless It Rains",
+      "id": null
+    },
+    {
+      "title": "God Bird Change",
+      "id": null
+    },
+    {
+      "title": "I’m Just a Mess",
+      "id": null
+    },
+    {
+      "title": "Cathy’s Clone",
+      "id": null
+    },
+    {
+      "title": "This Town",
+      "id": null
+    },
+    {
+      "title": "Pound of Flesh",
+      "id": null
+    },
+    {
+      "title": "You’re No Fun",
+      "id": null
+    }
+  ]
+}
