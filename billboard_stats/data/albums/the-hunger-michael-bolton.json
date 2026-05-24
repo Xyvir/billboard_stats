@@ -1,1 +1,210 @@
-{"id": "the-hunger-michael-bolton", "title": "The Hunger", "artist": "Michael Bolton", "peak": 46, "history": [{"date": "1987-10-10", "rank": 176}, {"date": "1987-10-17", "rank": 171}, {"date": "1987-10-24", "rank": 155}, {"date": "1987-10-31", "rank": 150}, {"date": "1987-11-07", "rank": 150}, {"date": "1987-11-14", "rank": 156}, {"date": "1987-11-21", "rank": 129}, {"date": "1987-11-28", "rank": 125}, {"date": "1987-12-05", "rank": 106}, {"date": "1987-12-12", "rank": 99}, {"date": "1987-12-19", "rank": 96}, {"date": "1987-12-26", "rank": 93}, {"date": "1988-01-02", "rank": 93}, {"date": "1988-01-09", "rank": 93}, {"date": "1988-01-16", "rank": 101}, {"date": "1988-01-23", "rank": 100}, {"date": "1988-01-30", "rank": 94}, {"date": "1988-02-06", "rank": 89}, {"date": "1988-02-13", "rank": 80}, {"date": "1988-02-20", "rank": 70}, {"date": "1988-02-27", "rank": 62}, {"date": "1988-03-05", "rank": 59}, {"date": "1988-03-12", "rank": 48}, {"date": "1988-03-19", "rank": 47}, {"date": "1988-03-26", "rank": 53}, {"date": "1988-04-02", "rank": 46}, {"date": "1988-04-09", "rank": 48}, {"date": "1988-04-16", "rank": 48}, {"date": "1988-04-23", "rank": 56}, {"date": "1988-04-30", "rank": 50}, {"date": "1988-05-07", "rank": 61}, {"date": "1988-05-14", "rank": 69}, {"date": "1988-05-21", "rank": 77}, {"date": "1988-05-28", "rank": 83}, {"date": "1988-06-04", "rank": 89}, {"date": "1988-06-11", "rank": 97}, {"date": "1988-06-18", "rank": 100}, {"date": "1988-06-25", "rank": 107}, {"date": "1988-07-02", "rank": 116}, {"date": "1988-07-09", "rank": 142}, {"date": "1988-07-16", "rank": 172}]}
+{
+  "id": "the-hunger-michael-bolton",
+  "title": "The Hunger",
+  "artist": "Michael Bolton",
+  "peak": 46,
+  "history": [
+    {
+      "date": "1987-10-10",
+      "rank": 176
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 171
+    },
+    {
+      "date": "1987-10-24",
+      "rank": 155
+    },
+    {
+      "date": "1987-10-31",
+      "rank": 150
+    },
+    {
+      "date": "1987-11-07",
+      "rank": 150
+    },
+    {
+      "date": "1987-11-14",
+      "rank": 156
+    },
+    {
+      "date": "1987-11-21",
+      "rank": 129
+    },
+    {
+      "date": "1987-11-28",
+      "rank": 125
+    },
+    {
+      "date": "1987-12-05",
+      "rank": 106
+    },
+    {
+      "date": "1987-12-12",
+      "rank": 99
+    },
+    {
+      "date": "1987-12-19",
+      "rank": 96
+    },
+    {
+      "date": "1987-12-26",
+      "rank": 93
+    },
+    {
+      "date": "1988-01-02",
+      "rank": 93
+    },
+    {
+      "date": "1988-01-09",
+      "rank": 93
+    },
+    {
+      "date": "1988-01-16",
+      "rank": 101
+    },
+    {
+      "date": "1988-01-23",
+      "rank": 100
+    },
+    {
+      "date": "1988-01-30",
+      "rank": 94
+    },
+    {
+      "date": "1988-02-06",
+      "rank": 89
+    },
+    {
+      "date": "1988-02-13",
+      "rank": 80
+    },
+    {
+      "date": "1988-02-20",
+      "rank": 70
+    },
+    {
+      "date": "1988-02-27",
+      "rank": 62
+    },
+    {
+      "date": "1988-03-05",
+      "rank": 59
+    },
+    {
+      "date": "1988-03-12",
+      "rank": 48
+    },
+    {
+      "date": "1988-03-19",
+      "rank": 47
+    },
+    {
+      "date": "1988-03-26",
+      "rank": 53
+    },
+    {
+      "date": "1988-04-02",
+      "rank": 46
+    },
+    {
+      "date": "1988-04-09",
+      "rank": 48
+    },
+    {
+      "date": "1988-04-16",
+      "rank": 48
+    },
+    {
+      "date": "1988-04-23",
+      "rank": 56
+    },
+    {
+      "date": "1988-04-30",
+      "rank": 50
+    },
+    {
+      "date": "1988-05-07",
+      "rank": 61
+    },
+    {
+      "date": "1988-05-14",
+      "rank": 69
+    },
+    {
+      "date": "1988-05-21",
+      "rank": 77
+    },
+    {
+      "date": "1988-05-28",
+      "rank": 83
+    },
+    {
+      "date": "1988-06-04",
+      "rank": 89
+    },
+    {
+      "date": "1988-06-11",
+      "rank": 97
+    },
+    {
+      "date": "1988-06-18",
+      "rank": 100
+    },
+    {
+      "date": "1988-06-25",
+      "rank": 107
+    },
+    {
+      "date": "1988-07-02",
+      "rank": 116
+    },
+    {
+      "date": "1988-07-09",
+      "rank": 142
+    },
+    {
+      "date": "1988-07-16",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hot Love",
+      "id": "wait-on-love-michael-bolton"
+    },
+    {
+      "title": "Wait on Love",
+      "id": "wait-on-love-michael-bolton"
+    },
+    {
+      "title": "(Sittin’ on) The Dock of the Bay",
+      "id": "sittin-on-the-dock-of-the-bay-michael-bolton"
+    },
+    {
+      "title": "That’s What Love Is All About",
+      "id": "that-s-what-love-is-all-about-michael-bolton"
+    },
+    {
+      "title": "Gina",
+      "id": null
+    },
+    {
+      "title": "The Hunger",
+      "id": null
+    },
+    {
+      "title": "You’re All That I Need",
+      "id": null
+    },
+    {
+      "title": "Take a Look at My Face",
+      "id": null
+    },
+    {
+      "title": "Walk Away",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,106 @@
-{"id": "the-hunter-blondie", "title": "The Hunter", "artist": "Blondie", "peak": 33, "history": [{"date": "1982-06-19", "rank": 58}, {"date": "1982-06-26", "rank": 39}, {"date": "1982-07-03", "rank": 35}, {"date": "1982-07-10", "rank": 33}, {"date": "1982-07-17", "rank": 33}, {"date": "1982-07-24", "rank": 70}, {"date": "1982-07-31", "rank": 106}, {"date": "1982-08-07", "rank": 137}, {"date": "1982-08-14", "rank": 137}, {"date": "1982-08-21", "rank": 157}, {"date": "1982-08-28", "rank": 184}, {"date": "1982-09-04", "rank": 200}]}
+{
+  "id": "the-hunter-blondie",
+  "title": "The Hunter",
+  "artist": "Blondie",
+  "peak": 33,
+  "history": [
+    {
+      "date": "1982-06-19",
+      "rank": 58
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 39
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 35
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 33
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 33
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 70
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 106
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 137
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 137
+    },
+    {
+      "date": "1982-08-21",
+      "rank": 157
+    },
+    {
+      "date": "1982-08-28",
+      "rank": 184
+    },
+    {
+      "date": "1982-09-04",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Island of Lost Souls",
+      "id": "island-of-lost-souls-blondie"
+    },
+    {
+      "title": "Orchid Club",
+      "id": null
+    },
+    {
+      "title": "Dragonfly",
+      "id": null
+    },
+    {
+      "title": "For Your Eyes Only",
+      "id": null
+    },
+    {
+      "title": "The Beast",
+      "id": null
+    },
+    {
+      "title": "War Child",
+      "id": null
+    },
+    {
+      "title": "Little Caesar",
+      "id": null
+    },
+    {
+      "title": "Danceway",
+      "id": null
+    },
+    {
+      "title": "(Can I) Find the Right Words (to Say)",
+      "id": null
+    },
+    {
+      "title": "English Boys",
+      "id": null
+    },
+    {
+      "title": "The Hunter Gets Captured by the Game",
+      "id": null
+    },
+    {
+      "title": "War Child (extended version)",
+      "id": null
+    }
+  ]
+}

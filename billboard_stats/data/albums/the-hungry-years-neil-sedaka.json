@@ -1,1 +1,198 @@
-{"id": "the-hungry-years-neil-sedaka", "title": "The Hungry Years", "artist": "Neil Sedaka", "peak": 16, "history": [{"date": "1975-10-11", "rank": 68}, {"date": "1975-10-18", "rank": 57}, {"date": "1975-10-25", "rank": 47}, {"date": "1975-11-01", "rank": 41}, {"date": "1975-11-08", "rank": 33}, {"date": "1975-11-15", "rank": 29}, {"date": "1975-11-22", "rank": 29}, {"date": "1975-11-29", "rank": 25}, {"date": "1975-12-06", "rank": 21}, {"date": "1975-12-13", "rank": 19}, {"date": "1975-12-20", "rank": 17}, {"date": "1975-12-27", "rank": 16}, {"date": "1976-01-03", "rank": 16}, {"date": "1976-01-10", "rank": 29}, {"date": "1976-01-17", "rank": 56}, {"date": "1976-01-24", "rank": 57}, {"date": "1976-01-31", "rank": 55}, {"date": "1976-02-07", "rank": 73}, {"date": "1976-02-14", "rank": 72}, {"date": "1976-02-21", "rank": 72}, {"date": "1976-02-28", "rank": 78}, {"date": "1976-03-06", "rank": 77}, {"date": "1976-03-13", "rank": 95}, {"date": "1976-03-20", "rank": 93}, {"date": "1976-03-27", "rank": 92}, {"date": "1976-04-03", "rank": 112}, {"date": "1976-04-10", "rank": 110}, {"date": "1976-04-17", "rank": 112}, {"date": "1976-04-24", "rank": 114}, {"date": "1976-05-01", "rank": 121}, {"date": "1976-05-08", "rank": 112}, {"date": "1976-05-15", "rank": 185}]}
+{
+  "id": "the-hungry-years-neil-sedaka",
+  "title": "The Hungry Years",
+  "artist": "Neil Sedaka",
+  "peak": 16,
+  "history": [
+    {
+      "date": "1975-10-11",
+      "rank": 68
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 57
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 47
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 41
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 33
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 29
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 29
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 25
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 21
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 19
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 17
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 16
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 16
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 29
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 56
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 57
+    },
+    {
+      "date": "1976-01-31",
+      "rank": 55
+    },
+    {
+      "date": "1976-02-07",
+      "rank": 73
+    },
+    {
+      "date": "1976-02-14",
+      "rank": 72
+    },
+    {
+      "date": "1976-02-21",
+      "rank": 72
+    },
+    {
+      "date": "1976-02-28",
+      "rank": 78
+    },
+    {
+      "date": "1976-03-06",
+      "rank": 77
+    },
+    {
+      "date": "1976-03-13",
+      "rank": 95
+    },
+    {
+      "date": "1976-03-20",
+      "rank": 93
+    },
+    {
+      "date": "1976-03-27",
+      "rank": 92
+    },
+    {
+      "date": "1976-04-03",
+      "rank": 112
+    },
+    {
+      "date": "1976-04-10",
+      "rank": 110
+    },
+    {
+      "date": "1976-04-17",
+      "rank": 112
+    },
+    {
+      "date": "1976-04-24",
+      "rank": 114
+    },
+    {
+      "date": "1976-05-01",
+      "rank": 121
+    },
+    {
+      "date": "1976-05-08",
+      "rank": 112
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bad Blood",
+      "id": "bad-blood-neil-sedaka"
+    },
+    {
+      "title": "Breaking Up Is Hard to Do",
+      "id": "breaking-up-is-hard-to-do-neil-sedaka"
+    },
+    {
+      "title": "Crossroads",
+      "id": null
+    },
+    {
+      "title": "Lonely Night (Angel Face)",
+      "id": null
+    },
+    {
+      "title": "Stephen",
+      "id": null
+    },
+    {
+      "title": "Your Favorite Entertainer",
+      "id": null
+    },
+    {
+      "title": "Baby Blue",
+      "id": null
+    },
+    {
+      "title": "Tit for Tat",
+      "id": null
+    },
+    {
+      "title": "New York City Blues",
+      "id": null
+    },
+    {
+      "title": "When You Were Lovin’ Me",
+      "id": null
+    },
+    {
+      "title": "The Hungry Years",
+      "id": null
+    },
+    {
+      "title": "Hey Mister Sunshine",
+      "id": null
+    },
+    {
+      "title": "The Queen of 1964",
+      "id": null
+    },
+    {
+      "title": "Betty Grable...",
+      "id": null
+    },
+    {
+      "title": "Goodman Goodbye",
+      "id": null
+    }
+  ]
+}
