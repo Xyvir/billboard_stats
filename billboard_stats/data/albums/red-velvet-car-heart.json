@@ -1,1 +1,86 @@
-{"id": "red-velvet-car-heart", "title": "Red Velvet Car", "artist": "Heart", "peak": 10, "history": [{"date": "2010-09-18", "rank": 10}, {"date": "2010-09-25", "rank": 36}, {"date": "2010-10-02", "rank": 80}, {"date": "2010-10-09", "rank": 83}, {"date": "2010-10-16", "rank": 117}, {"date": "2010-10-23", "rank": 194}]}
+{
+  "id": "red-velvet-car-heart",
+  "title": "Red Velvet Car",
+  "artist": "Heart",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2010-09-18",
+      "rank": 10
+    },
+    {
+      "date": "2010-09-25",
+      "rank": 36
+    },
+    {
+      "date": "2010-10-02",
+      "rank": 80
+    },
+    {
+      "date": "2010-10-09",
+      "rank": 83
+    },
+    {
+      "date": "2010-10-16",
+      "rank": 117
+    },
+    {
+      "date": "2010-10-23",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Queen City",
+      "id": "even-it-up-heart"
+    },
+    {
+      "title": "Sand",
+      "id": "stranded-heart"
+    },
+    {
+      "title": "There You Go",
+      "id": null
+    },
+    {
+      "title": "WTF",
+      "id": null
+    },
+    {
+      "title": "Red Velvet Car",
+      "id": null
+    },
+    {
+      "title": "Hey You",
+      "id": null
+    },
+    {
+      "title": "Wheels",
+      "id": null
+    },
+    {
+      "title": "Safronia’s Mark",
+      "id": null
+    },
+    {
+      "title": "Death Valley",
+      "id": null
+    },
+    {
+      "title": "Sunflower",
+      "id": null
+    },
+    {
+      "title": "Bootful of Beer",
+      "id": null
+    },
+    {
+      "title": "Closer to the Sun",
+      "id": null
+    },
+    {
+      "title": "Listening",
+      "id": null
+    }
+  ]
+}

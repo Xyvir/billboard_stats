@@ -1,1 +1,126 @@
-{"id": "reflections-rick-james", "title": "Reflections", "artist": "Rick James", "peak": 41, "history": [{"date": "1984-08-25", "rank": 122}, {"date": "1984-09-01", "rank": 64}, {"date": "1984-09-08", "rank": 47}, {"date": "1984-09-15", "rank": 43}, {"date": "1984-09-22", "rank": 41}, {"date": "1984-09-29", "rank": 41}, {"date": "1984-10-06", "rank": 54}, {"date": "1984-10-13", "rank": 58}, {"date": "1984-10-20", "rank": 70}, {"date": "1984-10-27", "rank": 94}, {"date": "1984-11-03", "rank": 104}, {"date": "1984-11-10", "rank": 123}, {"date": "1984-11-17", "rank": 126}, {"date": "1984-11-24", "rank": 178}, {"date": "1984-12-01", "rank": 191}, {"date": "1984-12-08", "rank": 188}, {"date": "1984-12-15", "rank": 188}, {"date": "1984-12-22", "rank": 199}, {"date": "1984-12-29", "rank": 199}]}
+{
+  "id": "reflections-rick-james",
+  "title": "Reflections",
+  "artist": "Rick James",
+  "peak": 41,
+  "history": [
+    {
+      "date": "1984-08-25",
+      "rank": 122
+    },
+    {
+      "date": "1984-09-01",
+      "rank": 64
+    },
+    {
+      "date": "1984-09-08",
+      "rank": 47
+    },
+    {
+      "date": "1984-09-15",
+      "rank": 43
+    },
+    {
+      "date": "1984-09-22",
+      "rank": 41
+    },
+    {
+      "date": "1984-09-29",
+      "rank": 41
+    },
+    {
+      "date": "1984-10-06",
+      "rank": 54
+    },
+    {
+      "date": "1984-10-13",
+      "rank": 58
+    },
+    {
+      "date": "1984-10-20",
+      "rank": 70
+    },
+    {
+      "date": "1984-10-27",
+      "rank": 94
+    },
+    {
+      "date": "1984-11-03",
+      "rank": 104
+    },
+    {
+      "date": "1984-11-10",
+      "rank": 123
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 126
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 178
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 191
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 188
+    },
+    {
+      "date": "1984-12-15",
+      "rank": 188
+    },
+    {
+      "date": "1984-12-22",
+      "rank": 199
+    },
+    {
+      "date": "1984-12-29",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "17",
+      "id": "17-rick-james"
+    },
+    {
+      "title": "Bustin’ Out",
+      "id": "bustin-out-rick-james"
+    },
+    {
+      "title": "You and I",
+      "id": "you-and-i-rick-james"
+    },
+    {
+      "title": "Mary Jane",
+      "id": "mary-jane-rick-james"
+    },
+    {
+      "title": "Dance Wit’ Me",
+      "id": "dance-wit-me-part-1-rick-james"
+    },
+    {
+      "title": "Give It to Me Baby",
+      "id": "give-it-to-me-baby-rick-james"
+    },
+    {
+      "title": "Super Freak",
+      "id": "super-freak-part-i-rick-james"
+    },
+    {
+      "title": "Oh What a Night (4 Luv)",
+      "id": null
+    },
+    {
+      "title": "You Turn Me On",
+      "id": null
+    },
+    {
+      "title": "Fire and Desire",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,122 @@
-{"id": "reflector-pablo-cruise", "title": "Reflector", "artist": "Pablo Cruise", "peak": 34, "history": [{"date": "1981-07-18", "rank": 90}, {"date": "1981-07-25", "rank": 77}, {"date": "1981-08-01", "rank": 64}, {"date": "1981-08-08", "rank": 52}, {"date": "1981-08-15", "rank": 42}, {"date": "1981-08-22", "rank": 39}, {"date": "1981-08-29", "rank": 38}, {"date": "1981-09-05", "rank": 36}, {"date": "1981-09-12", "rank": 34}, {"date": "1981-09-19", "rank": 34}, {"date": "1981-09-26", "rank": 59}, {"date": "1981-10-03", "rank": 69}, {"date": "1981-10-10", "rank": 67}, {"date": "1981-10-17", "rank": 72}, {"date": "1981-10-24", "rank": 90}, {"date": "1981-10-31", "rank": 109}, {"date": "1981-11-07", "rank": 138}, {"date": "1981-11-14", "rank": 179}]}
+{
+  "id": "reflector-pablo-cruise",
+  "title": "Reflector",
+  "artist": "Pablo Cruise",
+  "peak": 34,
+  "history": [
+    {
+      "date": "1981-07-18",
+      "rank": 90
+    },
+    {
+      "date": "1981-07-25",
+      "rank": 77
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 64
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 52
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 42
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 39
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 38
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 36
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 34
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 34
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 59
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 69
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 67
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 72
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 90
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 109
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 138
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cool Love",
+      "id": "cool-love-pablo-cruise"
+    },
+    {
+      "title": "Slip Away",
+      "id": "slip-away-pablo-cruise"
+    },
+    {
+      "title": "This Time",
+      "id": null
+    },
+    {
+      "title": "Don’t Let the Magic Disappear",
+      "id": null
+    },
+    {
+      "title": "One More Night",
+      "id": null
+    },
+    {
+      "title": "Jenny",
+      "id": null
+    },
+    {
+      "title": "That’s When",
+      "id": null
+    },
+    {
+      "title": "Inside / Outside",
+      "id": null
+    },
+    {
+      "title": "Paradise (Let Me Take You Into)",
+      "id": null
+    },
+    {
+      "title": "Drums in the Night",
+      "id": null
+    }
+  ]
+}

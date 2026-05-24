@@ -1,1 +1,114 @@
-{"id": "reel-music-the-beatles", "title": "Reel Music", "artist": "The Beatles", "peak": 19, "history": [{"date": "1982-04-10", "rank": 40}, {"date": "1982-04-17", "rank": 33}, {"date": "1982-04-24", "rank": 27}, {"date": "1982-05-01", "rank": 22}, {"date": "1982-05-08", "rank": 19}, {"date": "1982-05-15", "rank": 19}, {"date": "1982-05-22", "rank": 19}, {"date": "1982-05-29", "rank": 35}, {"date": "1982-06-05", "rank": 78}, {"date": "1982-06-12", "rank": 96}, {"date": "1982-06-19", "rank": 140}, {"date": "1982-06-26", "rank": 193}]}
+{
+  "id": "reel-music-the-beatles",
+  "title": "Reel Music",
+  "artist": "The Beatles",
+  "peak": 19,
+  "history": [
+    {
+      "date": "1982-04-10",
+      "rank": 40
+    },
+    {
+      "date": "1982-04-17",
+      "rank": 33
+    },
+    {
+      "date": "1982-04-24",
+      "rank": 27
+    },
+    {
+      "date": "1982-05-01",
+      "rank": 22
+    },
+    {
+      "date": "1982-05-08",
+      "rank": 19
+    },
+    {
+      "date": "1982-05-15",
+      "rank": 19
+    },
+    {
+      "date": "1982-05-22",
+      "rank": 19
+    },
+    {
+      "date": "1982-05-29",
+      "rank": 35
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 78
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 96
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 140
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Hard Day’s Night",
+      "id": "a-hard-day-s-night-the-beatles"
+    },
+    {
+      "title": "I Should Have Known Better",
+      "id": "i-should-have-known-better-the-beatles"
+    },
+    {
+      "title": "Can’t Buy Me Love",
+      "id": "can-t-buy-me-love-the-beatles"
+    },
+    {
+      "title": "And I Love Her",
+      "id": "and-i-love-her-the-beatles"
+    },
+    {
+      "title": "Help!",
+      "id": "help-the-beatles"
+    },
+    {
+      "title": "Ticket to Ride",
+      "id": "ticket-to-ride-the-beatles"
+    },
+    {
+      "title": "I Am the Walrus",
+      "id": "i-am-the-walrus-the-beatles"
+    },
+    {
+      "title": "Yellow Submarine",
+      "id": "yellow-submarine-the-beatles"
+    },
+    {
+      "title": "All You Need Is Love",
+      "id": "all-you-need-is-love-the-beatles"
+    },
+    {
+      "title": "Let It Be",
+      "id": "let-it-be-the-beatles"
+    },
+    {
+      "title": "The Long and Winding Road",
+      "id": "the-long-and-winding-road-for-you-blue-the-beatles"
+    },
+    {
+      "title": "You’ve Got to Hide Your Love Away",
+      "id": null
+    },
+    {
+      "title": "Magical Mystery Tour",
+      "id": null
+    },
+    {
+      "title": "Get Back",
+      "id": null
+    }
+  ]
+}

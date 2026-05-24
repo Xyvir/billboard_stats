@@ -1,1 +1,86 @@
-{"id": "red-the-communards", "title": "Red", "artist": "The Communards", "peak": 93, "history": [{"date": "1988-02-06", "rank": 118}, {"date": "1988-02-13", "rank": 105}, {"date": "1988-02-20", "rank": 96}, {"date": "1988-02-27", "rank": 93}, {"date": "1988-03-05", "rank": 94}, {"date": "1988-03-12", "rank": 113}, {"date": "1988-03-19", "rank": 132}, {"date": "1988-03-26", "rank": 149}, {"date": "1988-04-02", "rank": 195}]}
+{
+  "id": "red-the-communards",
+  "title": "Red",
+  "artist": "The Communards",
+  "peak": 93,
+  "history": [
+    {
+      "date": "1988-02-06",
+      "rank": 118
+    },
+    {
+      "date": "1988-02-13",
+      "rank": 105
+    },
+    {
+      "date": "1988-02-20",
+      "rank": 96
+    },
+    {
+      "date": "1988-02-27",
+      "rank": 93
+    },
+    {
+      "date": "1988-03-05",
+      "rank": 94
+    },
+    {
+      "date": "1988-03-12",
+      "rank": 113
+    },
+    {
+      "date": "1988-03-19",
+      "rank": 132
+    },
+    {
+      "date": "1988-03-26",
+      "rank": 149
+    },
+    {
+      "date": "1988-04-02",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Never Can Say Goodbye",
+      "id": "never-can-say-goodbye-the-communards"
+    },
+    {
+      "title": "Tomorrow",
+      "id": null
+    },
+    {
+      "title": "T.M.T.♥.T.B.M.G.",
+      "id": null
+    },
+    {
+      "title": "Matter of Opinion",
+      "id": null
+    },
+    {
+      "title": "Victims",
+      "id": null
+    },
+    {
+      "title": "For a Friend",
+      "id": null
+    },
+    {
+      "title": "Lovers and Friends",
+      "id": null
+    },
+    {
+      "title": "Hold On Tight",
+      "id": null
+    },
+    {
+      "title": "If I Could Tell You",
+      "id": null
+    },
+    {
+      "title": "C Minor",
+      "id": null
+    }
+  ]
+}
