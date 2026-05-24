@@ -1,1 +1,94 @@
-{"id": "take-it-home-b-b-king", "title": "Take It Home", "artist": "B.B. King", "peak": 112, "history": [{"date": "1979-08-25", "rank": 130}, {"date": "1979-09-01", "rank": 129}, {"date": "1979-09-08", "rank": 129}, {"date": "1979-09-15", "rank": 118}, {"date": "1979-09-22", "rank": 114}, {"date": "1979-09-29", "rank": 112}, {"date": "1979-10-06", "rank": 134}, {"date": "1979-10-13", "rank": 135}, {"date": "1979-10-20", "rank": 134}, {"date": "1979-10-27", "rank": 137}, {"date": "1979-11-03", "rank": 169}, {"date": "1979-11-10", "rank": 170}]}
+{
+  "id": "take-it-home-b-b-king",
+  "title": "Take It Home",
+  "artist": "B.B. King",
+  "peak": 112,
+  "history": [
+    {
+      "date": "1979-08-25",
+      "rank": 130
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 129
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 129
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 118
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 114
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 112
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 134
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 135
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 134
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 137
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 169
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Happy Birthday Blues",
+      "id": "why-i-sing-the-blues-b-b-king"
+    },
+    {
+      "title": "Better Not Look Down",
+      "id": null
+    },
+    {
+      "title": "Same Old Story (Same Old Song)",
+      "id": null
+    },
+    {
+      "title": "I’ve Always Been Lonely",
+      "id": null
+    },
+    {
+      "title": "Secondhand Woman",
+      "id": null
+    },
+    {
+      "title": "Tonight I’m Gonna Make You a Star",
+      "id": null
+    },
+    {
+      "title": "The Beginning of the End",
+      "id": null
+    },
+    {
+      "title": "A Story Everybody Knows",
+      "id": null
+    },
+    {
+      "title": "Take It Home",
+      "id": null
+    }
+  ]
+}
