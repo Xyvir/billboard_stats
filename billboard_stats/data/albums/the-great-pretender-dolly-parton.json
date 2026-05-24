@@ -1,1 +1,106 @@
-{"id": "the-great-pretender-dolly-parton", "title": "The Great Pretender", "artist": "Dolly Parton", "peak": 73, "history": [{"date": "1984-02-18", "rank": 125}, {"date": "1984-02-25", "rank": 114}, {"date": "1984-03-03", "rank": 109}, {"date": "1984-03-10", "rank": 104}, {"date": "1984-03-17", "rank": 80}, {"date": "1984-03-24", "rank": 75}, {"date": "1984-03-31", "rank": 73}, {"date": "1984-04-07", "rank": 115}, {"date": "1984-04-14", "rank": 115}, {"date": "1984-04-21", "rank": 123}, {"date": "1984-04-28", "rank": 156}, {"date": "1984-05-05", "rank": 153}, {"date": "1984-05-12", "rank": 159}, {"date": "1984-05-19", "rank": 197}]}
+{
+  "id": "the-great-pretender-dolly-parton",
+  "title": "The Great Pretender",
+  "artist": "Dolly Parton",
+  "peak": 73,
+  "history": [
+    {
+      "date": "1984-02-18",
+      "rank": 125
+    },
+    {
+      "date": "1984-02-25",
+      "rank": 114
+    },
+    {
+      "date": "1984-03-03",
+      "rank": 109
+    },
+    {
+      "date": "1984-03-10",
+      "rank": 104
+    },
+    {
+      "date": "1984-03-17",
+      "rank": 80
+    },
+    {
+      "date": "1984-03-24",
+      "rank": 75
+    },
+    {
+      "date": "1984-03-31",
+      "rank": 73
+    },
+    {
+      "date": "1984-04-07",
+      "rank": 115
+    },
+    {
+      "date": "1984-04-14",
+      "rank": 115
+    },
+    {
+      "date": "1984-04-21",
+      "rank": 123
+    },
+    {
+      "date": "1984-04-28",
+      "rank": 156
+    },
+    {
+      "date": "1984-05-05",
+      "rank": 153
+    },
+    {
+      "date": "1984-05-12",
+      "rank": 159
+    },
+    {
+      "date": "1984-05-19",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Save the Last Dance for Me",
+      "id": "save-the-last-dance-for-me-dolly-parton"
+    },
+    {
+      "title": "Downtown",
+      "id": "downtown-dolly-parton"
+    },
+    {
+      "title": "She Don’t Love You (Like I Love You)",
+      "id": "but-you-know-i-love-you-dolly-parton"
+    },
+    {
+      "title": "I Walk the Line",
+      "id": null
+    },
+    {
+      "title": "Turn! Turn! Turn! (To Everything There Is a Season)",
+      "id": null
+    },
+    {
+      "title": "We Had It All",
+      "id": null
+    },
+    {
+      "title": "We’ll Sing in the Sunshine",
+      "id": null
+    },
+    {
+      "title": "I Can’t Help Myself (Sugar Pie, Honey Bunch)",
+      "id": null
+    },
+    {
+      "title": "Elusive Butterfly",
+      "id": null
+    },
+    {
+      "title": "The Great Pretender",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,42 @@
-{"id": "the-greeting-mccoy-tyner", "title": "The Greeting", "artist": "McCoy Tyner", "peak": 170, "history": [{"date": "1978-10-14", "rank": 182}, {"date": "1978-10-21", "rank": 172}, {"date": "1978-10-28", "rank": 170}]}
+{
+  "id": "the-greeting-mccoy-tyner",
+  "title": "The Greeting",
+  "artist": "McCoy Tyner",
+  "peak": 170,
+  "history": [
+    {
+      "date": "1978-10-14",
+      "rank": 182
+    },
+    {
+      "date": "1978-10-21",
+      "rank": 172
+    },
+    {
+      "date": "1978-10-28",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hand in Hand",
+      "id": null
+    },
+    {
+      "title": "Fly With the Wind",
+      "id": null
+    },
+    {
+      "title": "Pictures",
+      "id": null
+    },
+    {
+      "title": "Naima",
+      "id": null
+    },
+    {
+      "title": "The Greeting",
+      "id": null
+    }
+  ]
+}

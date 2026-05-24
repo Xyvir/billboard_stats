@@ -1,1 +1,98 @@
-{"id": "the-greatest-the-number-ones-johnny-cash", "title": "The Greatest: The Number Ones", "artist": "Johnny Cash", "peak": 125, "history": [{"date": "2012-08-25", "rank": 125}, {"date": "2021-04-17", "rank": 193}]}
+{
+  "id": "the-greatest-the-number-ones-johnny-cash",
+  "title": "The Greatest: The Number Ones",
+  "artist": "Johnny Cash",
+  "peak": 125,
+  "history": [
+    {
+      "date": "2012-08-25",
+      "rank": 125
+    },
+    {
+      "date": "2021-04-17",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What Do I Care",
+      "id": "what-do-i-care-johnny-cash"
+    },
+    {
+      "title": "Don’t Take Your Guns to Town",
+      "id": "don-t-take-your-guns-to-town-johnny-cash"
+    },
+    {
+      "title": "Ring of Fire",
+      "id": "ring-of-fire-johnny-cash"
+    },
+    {
+      "title": "Understand Your Man",
+      "id": "understand-your-man-johnny-cash"
+    },
+    {
+      "title": "The One on the Right Is on the Left",
+      "id": "the-one-on-the-right-is-on-the-left-johnny-cash"
+    },
+    {
+      "title": "Folsom Prison Blues",
+      "id": "folsom-prison-blues-johnny-cash"
+    },
+    {
+      "title": "Daddy Sang Bass",
+      "id": "daddy-sang-bass-johnny-cash"
+    },
+    {
+      "title": "A Boy Named Sue",
+      "id": "a-boy-named-sue-johnny-cash"
+    },
+    {
+      "title": "Sunday Mornin' Comin' Down (live)",
+      "id": "sunday-morning-coming-down-johnny-cash"
+    },
+    {
+      "title": "Flesh and Blood",
+      "id": "flesh-and-blood-johnny-cash"
+    },
+    {
+      "title": "Sunday Mornin' Comin' Down",
+      "id": "sunday-morning-coming-down-johnny-cash"
+    },
+    {
+      "title": "I Walk the Line",
+      "id": null
+    },
+    {
+      "title": "There You Go",
+      "id": null
+    },
+    {
+      "title": "Ballad of a Teenage Queen",
+      "id": null
+    },
+    {
+      "title": "Guess Things Happen That Way",
+      "id": null
+    },
+    {
+      "title": "The Ways of a Woman in Love",
+      "id": null
+    },
+    {
+      "title": "One Piece at a Time",
+      "id": null
+    },
+    {
+      "title": "There Ain't No Good Chain Gang",
+      "id": null
+    },
+    {
+      "title": "(Ghost) Riders in the Sky",
+      "id": null
+    },
+    {
+      "title": "Highwayman",
+      "id": null
+    }
+  ]
+}

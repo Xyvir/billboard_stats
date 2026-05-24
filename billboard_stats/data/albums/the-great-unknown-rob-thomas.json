@@ -1,1 +1,78 @@
-{"id": "the-great-unknown-rob-thomas", "title": "The Great Unknown", "artist": "Rob Thomas", "peak": 6, "history": [{"date": "2015-09-12", "rank": 6}, {"date": "2015-09-19", "rank": 55}, {"date": "2015-09-26", "rank": 151}, {"date": "2015-10-31", "rank": 183}]}
+{
+  "id": "the-great-unknown-rob-thomas",
+  "title": "The Great Unknown",
+  "artist": "Rob Thomas",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2015-09-12",
+      "rank": 6
+    },
+    {
+      "date": "2015-09-19",
+      "rank": 55
+    },
+    {
+      "date": "2015-09-26",
+      "rank": 151
+    },
+    {
+      "date": "2015-10-31",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heaven Help Me",
+      "id": "ever-the-same-rob-thomas"
+    },
+    {
+      "title": "Lie to Me",
+      "id": "lonely-no-more-rob-thomas"
+    },
+    {
+      "title": "I Think We’d Feel Good Together",
+      "id": null
+    },
+    {
+      "title": "Trust You",
+      "id": null
+    },
+    {
+      "title": "Hold on Forever",
+      "id": null
+    },
+    {
+      "title": "Wind It Up",
+      "id": null
+    },
+    {
+      "title": "One Shot",
+      "id": null
+    },
+    {
+      "title": "The Great Unknown",
+      "id": null
+    },
+    {
+      "title": "Absence of Affection",
+      "id": null
+    },
+    {
+      "title": "Things You Said",
+      "id": null
+    },
+    {
+      "title": "Paper Dolls",
+      "id": null
+    },
+    {
+      "title": "Nlytm",
+      "id": null
+    },
+    {
+      "title": "Pieces",
+      "id": null
+    }
+  ]
+}
