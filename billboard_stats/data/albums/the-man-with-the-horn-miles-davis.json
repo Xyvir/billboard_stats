@@ -1,1 +1,106 @@
-{"id": "the-man-with-the-horn-miles-davis", "title": "The Man With The Horn", "artist": "Miles Davis", "peak": 53, "history": [{"date": "1981-07-25", "rank": 170}, {"date": "1981-08-01", "rank": 150}, {"date": "1981-08-08", "rank": 99}, {"date": "1981-08-15", "rank": 89}, {"date": "1981-08-22", "rank": 79}, {"date": "1981-08-29", "rank": 71}, {"date": "1981-09-05", "rank": 62}, {"date": "1981-09-12", "rank": 53}, {"date": "1981-09-19", "rank": 53}, {"date": "1981-09-26", "rank": 67}, {"date": "1981-10-03", "rank": 71}, {"date": "1981-10-10", "rank": 84}, {"date": "1981-10-17", "rank": 106}, {"date": "1981-10-24", "rank": 126}, {"date": "1981-10-31", "rank": 148}, {"date": "1981-11-07", "rank": 154}, {"date": "1981-11-14", "rank": 164}, {"date": "1981-11-21", "rank": 194}]}
+{
+  "id": "the-man-with-the-horn-miles-davis",
+  "title": "The Man With The Horn",
+  "artist": "Miles Davis",
+  "peak": 53,
+  "history": [
+    {
+      "date": "1981-07-25",
+      "rank": 170
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 150
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 99
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 89
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 79
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 71
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 62
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 53
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 53
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 67
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 71
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 84
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 106
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 126
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 148
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 154
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 164
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fat Time",
+      "id": null
+    },
+    {
+      "title": "Back Seat Betty",
+      "id": null
+    },
+    {
+      "title": "Shout",
+      "id": null
+    },
+    {
+      "title": "Aïda",
+      "id": null
+    },
+    {
+      "title": "The Man With the Horn",
+      "id": null
+    },
+    {
+      "title": "Ursula",
+      "id": null
+    }
+  ]
+}
