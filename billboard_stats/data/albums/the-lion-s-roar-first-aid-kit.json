@@ -1,1 +1,62 @@
-{"id": "the-lion-s-roar-first-aid-kit", "title": "The Lion's Roar", "artist": "First Aid Kit", "peak": 65, "history": [{"date": "2012-02-04", "rank": 90}, {"date": "2012-02-11", "rank": 65}, {"date": "2012-02-18", "rank": 170}]}
+{
+  "id": "the-lion-s-roar-first-aid-kit",
+  "title": "The Lion's Roar",
+  "artist": "First Aid Kit",
+  "peak": 65,
+  "history": [
+    {
+      "date": "2012-02-04",
+      "rank": 90
+    },
+    {
+      "date": "2012-02-11",
+      "rank": 65
+    },
+    {
+      "date": "2012-02-18",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Lion’s Roar",
+      "id": null
+    },
+    {
+      "title": "Emmylou",
+      "id": null
+    },
+    {
+      "title": "In the Hearts of Men",
+      "id": null
+    },
+    {
+      "title": "Blue",
+      "id": null
+    },
+    {
+      "title": "This Old Routine",
+      "id": null
+    },
+    {
+      "title": "To a Poet",
+      "id": null
+    },
+    {
+      "title": "I Found a Way",
+      "id": null
+    },
+    {
+      "title": "Dance to Another Tune",
+      "id": null
+    },
+    {
+      "title": "New Year’s Eve",
+      "id": null
+    },
+    {
+      "title": "King of the World",
+      "id": null
+    }
+  ]
+}

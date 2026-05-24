@@ -1,1 +1,258 @@
-{"id": "the-life-ginuwine", "title": "The Life", "artist": "Ginuwine", "peak": 3, "history": [{"date": "2001-04-21", "rank": 3}, {"date": "2001-04-28", "rank": 6}, {"date": "2001-05-05", "rank": 12}, {"date": "2001-05-12", "rank": 19}, {"date": "2001-05-19", "rank": 23}, {"date": "2001-05-26", "rank": 43}, {"date": "2001-06-02", "rank": 47}, {"date": "2001-06-09", "rank": 66}, {"date": "2001-06-16", "rank": 74}, {"date": "2001-06-23", "rank": 86}, {"date": "2001-06-30", "rank": 108}, {"date": "2001-07-07", "rank": 113}, {"date": "2001-07-14", "rank": 111}, {"date": "2001-07-21", "rank": 102}, {"date": "2001-07-28", "rank": 98}, {"date": "2001-08-04", "rank": 90}, {"date": "2001-08-11", "rank": 83}, {"date": "2001-08-18", "rank": 80}, {"date": "2001-08-25", "rank": 76}, {"date": "2001-09-01", "rank": 57}, {"date": "2001-09-08", "rank": 42}, {"date": "2001-09-15", "rank": 43}, {"date": "2001-09-22", "rank": 41}, {"date": "2001-09-29", "rank": 37}, {"date": "2001-10-06", "rank": 40}, {"date": "2001-10-13", "rank": 41}, {"date": "2001-10-20", "rank": 42}, {"date": "2001-10-27", "rank": 44}, {"date": "2001-11-03", "rank": 48}, {"date": "2001-11-10", "rank": 56}, {"date": "2001-11-17", "rank": 50}, {"date": "2001-11-24", "rank": 61}, {"date": "2001-12-01", "rank": 75}, {"date": "2001-12-08", "rank": 90}, {"date": "2001-12-15", "rank": 108}, {"date": "2001-12-22", "rank": 130}, {"date": "2001-12-29", "rank": 138}, {"date": "2002-01-05", "rank": 147}, {"date": "2002-01-12", "rank": 130}, {"date": "2002-01-19", "rank": 145}, {"date": "2002-01-26", "rank": 156}, {"date": "2002-02-02", "rank": 165}, {"date": "2002-02-09", "rank": 164}, {"date": "2002-02-16", "rank": 158}, {"date": "2002-02-23", "rank": 142}, {"date": "2002-03-02", "rank": 166}, {"date": "2002-03-09", "rank": 186}]}
+{
+  "id": "the-life-ginuwine",
+  "title": "The Life",
+  "artist": "Ginuwine",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2001-04-21",
+      "rank": 3
+    },
+    {
+      "date": "2001-04-28",
+      "rank": 6
+    },
+    {
+      "date": "2001-05-05",
+      "rank": 12
+    },
+    {
+      "date": "2001-05-12",
+      "rank": 19
+    },
+    {
+      "date": "2001-05-19",
+      "rank": 23
+    },
+    {
+      "date": "2001-05-26",
+      "rank": 43
+    },
+    {
+      "date": "2001-06-02",
+      "rank": 47
+    },
+    {
+      "date": "2001-06-09",
+      "rank": 66
+    },
+    {
+      "date": "2001-06-16",
+      "rank": 74
+    },
+    {
+      "date": "2001-06-23",
+      "rank": 86
+    },
+    {
+      "date": "2001-06-30",
+      "rank": 108
+    },
+    {
+      "date": "2001-07-07",
+      "rank": 113
+    },
+    {
+      "date": "2001-07-14",
+      "rank": 111
+    },
+    {
+      "date": "2001-07-21",
+      "rank": 102
+    },
+    {
+      "date": "2001-07-28",
+      "rank": 98
+    },
+    {
+      "date": "2001-08-04",
+      "rank": 90
+    },
+    {
+      "date": "2001-08-11",
+      "rank": 83
+    },
+    {
+      "date": "2001-08-18",
+      "rank": 80
+    },
+    {
+      "date": "2001-08-25",
+      "rank": 76
+    },
+    {
+      "date": "2001-09-01",
+      "rank": 57
+    },
+    {
+      "date": "2001-09-08",
+      "rank": 42
+    },
+    {
+      "date": "2001-09-15",
+      "rank": 43
+    },
+    {
+      "date": "2001-09-22",
+      "rank": 41
+    },
+    {
+      "date": "2001-09-29",
+      "rank": 37
+    },
+    {
+      "date": "2001-10-06",
+      "rank": 40
+    },
+    {
+      "date": "2001-10-13",
+      "rank": 41
+    },
+    {
+      "date": "2001-10-20",
+      "rank": 42
+    },
+    {
+      "date": "2001-10-27",
+      "rank": 44
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 48
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 56
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 50
+    },
+    {
+      "date": "2001-11-24",
+      "rank": 61
+    },
+    {
+      "date": "2001-12-01",
+      "rank": 75
+    },
+    {
+      "date": "2001-12-08",
+      "rank": 90
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 108
+    },
+    {
+      "date": "2001-12-22",
+      "rank": 130
+    },
+    {
+      "date": "2001-12-29",
+      "rank": 138
+    },
+    {
+      "date": "2002-01-05",
+      "rank": 147
+    },
+    {
+      "date": "2002-01-12",
+      "rank": 130
+    },
+    {
+      "date": "2002-01-19",
+      "rank": 145
+    },
+    {
+      "date": "2002-01-26",
+      "rank": 156
+    },
+    {
+      "date": "2002-02-02",
+      "rank": 165
+    },
+    {
+      "date": "2002-02-09",
+      "rank": 164
+    },
+    {
+      "date": "2002-02-16",
+      "rank": 158
+    },
+    {
+      "date": "2002-02-23",
+      "rank": 142
+    },
+    {
+      "date": "2002-03-02",
+      "rank": 166
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "There It Is",
+      "id": "there-it-is-ginuwine"
+    },
+    {
+      "title": "Differences",
+      "id": "differences-ginuwine"
+    },
+    {
+      "title": "Why Not Me",
+      "id": null
+    },
+    {
+      "title": "2 Way",
+      "id": null
+    },
+    {
+      "title": "So Fine",
+      "id": null
+    },
+    {
+      "title": "Tribute to a Woman",
+      "id": null
+    },
+    {
+      "title": "Why Did You Go",
+      "id": null
+    },
+    {
+      "title": "How Deep Is Your Love",
+      "id": null
+    },
+    {
+      "title": "That's How I Get Down",
+      "id": null
+    },
+    {
+      "title": "Show After the Show",
+      "id": null
+    },
+    {
+      "title": "Role Play",
+      "id": null
+    },
+    {
+      "title": "Open Arms",
+      "id": null
+    },
+    {
+      "title": "Superhuman",
+      "id": null
+    },
+    {
+      "title": "Two Reasons I Cry",
+      "id": null
+    },
+    {
+      "title": "Just Because",
+      "id": null
+    }
+  ]
+}
