@@ -1,1 +1,74 @@
-{"id": "queens-of-the-stone-age-queens-of-the-stone-age", "title": "Queens Of The Stone Age", "artist": "Queens Of The Stone Age", "peak": 90, "history": [{"date": "2011-06-04", "rank": 122}, {"date": "2022-11-05", "rank": 90}]}
+{
+  "id": "queens-of-the-stone-age-queens-of-the-stone-age",
+  "title": "Queens Of The Stone Age",
+  "artist": "Queens Of The Stone Age",
+  "peak": 90,
+  "history": [
+    {
+      "date": "2011-06-04",
+      "rank": 122
+    },
+    {
+      "date": "2022-11-05",
+      "rank": 90
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Would Know",
+      "id": "no-one-knows-queens-of-the-stone-age"
+    },
+    {
+      "title": "Regular John",
+      "id": null
+    },
+    {
+      "title": "Avon",
+      "id": null
+    },
+    {
+      "title": "If Only",
+      "id": null
+    },
+    {
+      "title": "Walkin on the Sidewalks",
+      "id": null
+    },
+    {
+      "title": "The Bronze",
+      "id": null
+    },
+    {
+      "title": "How to Handle a Rope",
+      "id": null
+    },
+    {
+      "title": "Mexicola",
+      "id": null
+    },
+    {
+      "title": "Hispanic Impressions",
+      "id": null
+    },
+    {
+      "title": "You Can’t Quit Me Baby",
+      "id": null
+    },
+    {
+      "title": "These Aren’t the Droids You’re Looking For",
+      "id": null
+    },
+    {
+      "title": "Give the Mule What He Wants",
+      "id": null
+    },
+    {
+      "title": "Spiders and Vinegaroons",
+      "id": null
+    },
+    {
+      "title": "I Was a Teenage Hand Model",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,234 @@
-{"id": "quiet-lies-juice-newton", "title": "Quiet Lies", "artist": "Juice Newton", "peak": 20, "history": [{"date": "1982-05-29", "rank": 90}, {"date": "1982-06-05", "rank": 39}, {"date": "1982-06-12", "rank": 31}, {"date": "1982-06-19", "rank": 27}, {"date": "1982-06-26", "rank": 25}, {"date": "1982-07-03", "rank": 23}, {"date": "1982-07-10", "rank": 21}, {"date": "1982-07-17", "rank": 20}, {"date": "1982-07-24", "rank": 20}, {"date": "1982-07-31", "rank": 69}, {"date": "1982-08-07", "rank": 63}, {"date": "1982-08-14", "rank": 60}, {"date": "1982-08-21", "rank": 55}, {"date": "1982-08-28", "rank": 55}, {"date": "1982-09-04", "rank": 53}, {"date": "1982-09-11", "rank": 53}, {"date": "1982-09-18", "rank": 71}, {"date": "1982-09-25", "rank": 69}, {"date": "1982-10-02", "rank": 63}, {"date": "1982-10-09", "rank": 60}, {"date": "1982-10-16", "rank": 56}, {"date": "1982-10-23", "rank": 54}, {"date": "1982-10-30", "rank": 54}, {"date": "1982-11-06", "rank": 54}, {"date": "1982-11-13", "rank": 54}, {"date": "1982-11-20", "rank": 70}, {"date": "1982-11-27", "rank": 70}, {"date": "1982-12-04", "rank": 84}, {"date": "1982-12-11", "rank": 84}, {"date": "1982-12-18", "rank": 84}, {"date": "1982-12-25", "rank": 84}, {"date": "1983-01-01", "rank": 84}, {"date": "1983-01-08", "rank": 84}, {"date": "1983-01-15", "rank": 98}, {"date": "1983-01-22", "rank": 94}, {"date": "1983-01-29", "rank": 93}, {"date": "1983-02-05", "rank": 91}, {"date": "1983-02-12", "rank": 91}, {"date": "1983-02-19", "rank": 116}, {"date": "1983-02-26", "rank": 144}, {"date": "1983-03-05", "rank": 146}, {"date": "1983-03-12", "rank": 140}, {"date": "1983-03-19", "rank": 170}, {"date": "1983-03-26", "rank": 170}, {"date": "1983-04-02", "rank": 186}, {"date": "1983-04-09", "rank": 200}]}
+{
+  "id": "quiet-lies-juice-newton",
+  "title": "Quiet Lies",
+  "artist": "Juice Newton",
+  "peak": 20,
+  "history": [
+    {
+      "date": "1982-05-29",
+      "rank": 90
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 39
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 31
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 27
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 25
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 23
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 21
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 20
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 20
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 69
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 63
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 60
+    },
+    {
+      "date": "1982-08-21",
+      "rank": 55
+    },
+    {
+      "date": "1982-08-28",
+      "rank": 55
+    },
+    {
+      "date": "1982-09-04",
+      "rank": 53
+    },
+    {
+      "date": "1982-09-11",
+      "rank": 53
+    },
+    {
+      "date": "1982-09-18",
+      "rank": 71
+    },
+    {
+      "date": "1982-09-25",
+      "rank": 69
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 63
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 60
+    },
+    {
+      "date": "1982-10-16",
+      "rank": 56
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 54
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 54
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 54
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 54
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 70
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 70
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 84
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 84
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 84
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 84
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 84
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 84
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 98
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 94
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 93
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 91
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 91
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 116
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 144
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 146
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 140
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 170
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 170
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 186
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heart of the Night",
+      "id": "heart-of-the-night-juice-newton"
+    },
+    {
+      "title": "Love’s Been a Little Bit Hard on Me",
+      "id": "love-s-been-a-little-bit-hard-on-me-juice-newton"
+    },
+    {
+      "title": "Break It to Me Gently",
+      "id": "break-it-to-me-gently-juice-newton"
+    },
+    {
+      "title": "Love Sail Away",
+      "id": null
+    },
+    {
+      "title": "I’m Dancing as Fast as I Can",
+      "id": null
+    },
+    {
+      "title": "I’m Gonna Be Strong",
+      "id": null
+    },
+    {
+      "title": "Trail of Tears",
+      "id": null
+    },
+    {
+      "title": "Adiós mi corazón",
+      "id": null
+    },
+    {
+      "title": "Falling in Love",
+      "id": null
+    },
+    {
+      "title": "Ever True",
+      "id": null
+    }
+  ]
+}
