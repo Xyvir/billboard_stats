@@ -1,1 +1,90 @@
-{"id": "symphonica-george-michael", "title": "Symphonica", "artist": "George Michael", "peak": 60, "history": [{"date": "2014-04-05", "rank": 60}, {"date": "2014-04-12", "rank": 155}]}
+{
+  "id": "symphonica-george-michael",
+  "title": "Symphonica",
+  "artist": "George Michael",
+  "peak": 60,
+  "history": [
+    {
+      "date": "2014-04-05",
+      "rank": 60
+    },
+    {
+      "date": "2014-04-12",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Different Corner",
+      "id": "a-different-corner-george-michael"
+    },
+    {
+      "title": "Praying for Time",
+      "id": "praying-for-time-george-michael"
+    },
+    {
+      "title": "One More Try",
+      "id": "one-more-try-george-michael"
+    },
+    {
+      "title": "Through",
+      "id": null
+    },
+    {
+      "title": "My Baby Just Cares for Me",
+      "id": null
+    },
+    {
+      "title": "Let Her Down Easy",
+      "id": null
+    },
+    {
+      "title": "The First Time Ever I Saw Your Face",
+      "id": null
+    },
+    {
+      "title": "Feeling Good",
+      "id": null
+    },
+    {
+      "title": "John and Elvis Are Dead",
+      "id": null
+    },
+    {
+      "title": "Roxanne",
+      "id": null
+    },
+    {
+      "title": "Going to a Town",
+      "id": null
+    },
+    {
+      "title": "Cowboys and Angels",
+      "id": null
+    },
+    {
+      "title": "Idol",
+      "id": null
+    },
+    {
+      "title": "Brother Can You Spare a Dime",
+      "id": null
+    },
+    {
+      "title": "You Have Been Loved",
+      "id": null
+    },
+    {
+      "title": "Wild Is the Wind",
+      "id": null
+    },
+    {
+      "title": "You’ve Changed",
+      "id": null
+    },
+    {
+      "title": "I Remember You",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "swing-your-daddy-jim-gilstrap", "title": "Swing Your Daddy", "artist": "Jim Gilstrap", "peak": 179, "history": [{"date": "1975-08-30", "rank": 196}, {"date": "1975-09-06", "rank": 192}, {"date": "1975-09-13", "rank": 188}, {"date": "1975-09-20", "rank": 185}, {"date": "1975-09-27", "rank": 182}, {"date": "1975-10-04", "rank": 180}, {"date": "1975-10-11", "rank": 179}]}
+{
+  "id": "swing-your-daddy-jim-gilstrap",
+  "title": "Swing Your Daddy",
+  "artist": "Jim Gilstrap",
+  "peak": 179,
+  "history": [
+    {
+      "date": "1975-08-30",
+      "rank": 196
+    },
+    {
+      "date": "1975-09-06",
+      "rank": 192
+    },
+    {
+      "date": "1975-09-13",
+      "rank": 188
+    },
+    {
+      "date": "1975-09-20",
+      "rank": 185
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 182
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 180
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "House of Strangers",
+      "id": "house-of-strangers-jim-gilstrap"
+    },
+    {
+      "title": "Swing Your Daddy",
+      "id": "swing-your-daddy-jim-gilstrap"
+    },
+    {
+      "title": "Swing Your Daddy, Part II",
+      "id": "swing-your-daddy-jim-gilstrap"
+    },
+    {
+      "title": "Put Out the Fire",
+      "id": null
+    },
+    {
+      "title": "Special Occasion",
+      "id": null
+    },
+    {
+      "title": "Ain't That Peculiar",
+      "id": null
+    },
+    {
+      "title": "One More Heartache",
+      "id": null
+    },
+    {
+      "title": "Take Your Daddy for a Ride",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "switch-v-switch", "title": "Switch V", "artist": "Switch", "peak": 174, "history": [{"date": "1981-11-21", "rank": 187}, {"date": "1981-11-28", "rank": 176}, {"date": "1981-12-05", "rank": 174}, {"date": "1981-12-12", "rank": 174}]}
+{
+  "id": "switch-v-switch",
+  "title": "Switch V",
+  "artist": "Switch",
+  "peak": 174,
+  "history": [
+    {
+      "date": "1981-11-21",
+      "rank": 187
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 176
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 174
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Call on Me",
+      "id": "i-call-your-name-switch"
+    },
+    {
+      "title": "I Do Love You",
+      "id": null
+    },
+    {
+      "title": "You Keep Me High",
+      "id": null
+    },
+    {
+      "title": "I'll Always Keep",
+      "id": null
+    },
+    {
+      "title": "This Is Just for You",
+      "id": null
+    },
+    {
+      "title": "The Best of Love",
+      "id": null
+    },
+    {
+      "title": "I Luv It",
+      "id": null
+    },
+    {
+      "title": "Two Wrong Don't Make a Right",
+      "id": null
+    },
+    {
+      "title": "Push the Switch (High Energy Switch)",
+      "id": null
+    }
+  ]
+}

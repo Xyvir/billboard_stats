@@ -1,1 +1,154 @@
-{"id": "sybil-sybil", "title": "Sybil", "artist": "Sybil", "peak": 75, "history": [{"date": "1989-10-21", "rank": 139}, {"date": "1989-10-28", "rank": 116}, {"date": "1989-11-04", "rank": 107}, {"date": "1989-11-11", "rank": 94}, {"date": "1989-11-18", "rank": 80}, {"date": "1989-11-25", "rank": 80}, {"date": "1989-12-02", "rank": 75}, {"date": "1989-12-09", "rank": 75}, {"date": "1989-12-16", "rank": 95}, {"date": "1989-12-23", "rank": 96}, {"date": "1989-12-30", "rank": 113}, {"date": "1990-01-06", "rank": 113}, {"date": "1990-01-13", "rank": 127}, {"date": "1990-01-20", "rank": 125}, {"date": "1990-01-27", "rank": 125}, {"date": "1990-02-03", "rank": 120}, {"date": "1990-02-10", "rank": 118}, {"date": "1990-02-17", "rank": 106}, {"date": "1990-02-24", "rank": 109}, {"date": "1990-03-03", "rank": 122}, {"date": "1990-03-10", "rank": 144}, {"date": "1990-03-17", "rank": 164}, {"date": "1990-03-24", "rank": 183}, {"date": "1990-03-31", "rank": 197}]}
+{
+  "id": "sybil-sybil",
+  "title": "Sybil",
+  "artist": "Sybil",
+  "peak": 75,
+  "history": [
+    {
+      "date": "1989-10-21",
+      "rank": 139
+    },
+    {
+      "date": "1989-10-28",
+      "rank": 116
+    },
+    {
+      "date": "1989-11-04",
+      "rank": 107
+    },
+    {
+      "date": "1989-11-11",
+      "rank": 94
+    },
+    {
+      "date": "1989-11-18",
+      "rank": 80
+    },
+    {
+      "date": "1989-11-25",
+      "rank": 80
+    },
+    {
+      "date": "1989-12-02",
+      "rank": 75
+    },
+    {
+      "date": "1989-12-09",
+      "rank": 75
+    },
+    {
+      "date": "1989-12-16",
+      "rank": 95
+    },
+    {
+      "date": "1989-12-23",
+      "rank": 96
+    },
+    {
+      "date": "1989-12-30",
+      "rank": 113
+    },
+    {
+      "date": "1990-01-06",
+      "rank": 113
+    },
+    {
+      "date": "1990-01-13",
+      "rank": 127
+    },
+    {
+      "date": "1990-01-20",
+      "rank": 125
+    },
+    {
+      "date": "1990-01-27",
+      "rank": 125
+    },
+    {
+      "date": "1990-02-03",
+      "rank": 120
+    },
+    {
+      "date": "1990-02-10",
+      "rank": 118
+    },
+    {
+      "date": "1990-02-17",
+      "rank": 106
+    },
+    {
+      "date": "1990-02-24",
+      "rank": 109
+    },
+    {
+      "date": "1990-03-03",
+      "rank": 122
+    },
+    {
+      "date": "1990-03-10",
+      "rank": 144
+    },
+    {
+      "date": "1990-03-17",
+      "rank": 164
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 183
+    },
+    {
+      "date": "1990-03-31",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don't Make Me Over",
+      "id": "don-t-make-me-over-sybil"
+    },
+    {
+      "title": "Walk on By",
+      "id": "walk-on-by-sybil"
+    },
+    {
+      "title": "Love's Calling",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be Where You Are",
+      "id": null
+    },
+    {
+      "title": "Crazy for You (with Salt-N-Pepa)",
+      "id": null
+    },
+    {
+      "title": "Bad Beats Suite",
+      "id": null
+    },
+    {
+      "title": "Take Me Away",
+      "id": null
+    },
+    {
+      "title": "Give It to Me",
+      "id": null
+    },
+    {
+      "title": "Living for the Moment",
+      "id": null
+    },
+    {
+      "title": "Can't Wait (on Tomorrow)",
+      "id": null
+    },
+    {
+      "title": "We're Gonna Make It Work This Time",
+      "id": null
+    },
+    {
+      "title": "In My Dreams",
+      "id": null
+    }
+  ]
+}
