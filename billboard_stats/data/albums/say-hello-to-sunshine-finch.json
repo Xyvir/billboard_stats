@@ -1,1 +1,82 @@
-{"id": "say-hello-to-sunshine-finch", "title": "Say Hello To Sunshine", "artist": "Finch", "peak": 24, "history": [{"date": "2005-06-25", "rank": 24}, {"date": "2005-07-02", "rank": 100}, {"date": "2005-07-09", "rank": 134}, {"date": "2005-07-16", "rank": 187}]}
+{
+  "id": "say-hello-to-sunshine-finch",
+  "title": "Say Hello To Sunshine",
+  "artist": "Finch",
+  "peak": 24,
+  "history": [
+    {
+      "date": "2005-06-25",
+      "rank": 24
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 100
+    },
+    {
+      "date": "2005-07-09",
+      "rank": 134
+    },
+    {
+      "date": "2005-07-16",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Insomniatic Meat",
+      "id": null
+    },
+    {
+      "title": "Revelation Song",
+      "id": null
+    },
+    {
+      "title": "Brother Bleed Brother",
+      "id": null
+    },
+    {
+      "title": "A Piece of Mind",
+      "id": null
+    },
+    {
+      "title": "Ink",
+      "id": null
+    },
+    {
+      "title": "Fireflies",
+      "id": null
+    },
+    {
+      "title": "Hopeless Host",
+      "id": null
+    },
+    {
+      "title": "Reduced to Teeth",
+      "id": null
+    },
+    {
+      "title": "A Man Alone",
+      "id": null
+    },
+    {
+      "title": "Miro",
+      "id": null
+    },
+    {
+      "title": "Ravenous",
+      "id": null
+    },
+    {
+      "title": "Bitemarks and Bloodstains",
+      "id": null
+    },
+    {
+      "title": "The Casket of Roderick Usher",
+      "id": null
+    },
+    {
+      "title": "Dreams of Psilocybin",
+      "id": null
+    }
+  ]
+}

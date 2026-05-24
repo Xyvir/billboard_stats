@@ -1,1 +1,74 @@
-{"id": "say-no-more-badfinger", "title": "Say No More", "artist": "Badfinger", "peak": 155, "history": [{"date": "1981-03-28", "rank": 169}, {"date": "1981-04-04", "rank": 159}, {"date": "1981-04-11", "rank": 157}, {"date": "1981-04-18", "rank": 155}, {"date": "1981-04-25", "rank": 178}, {"date": "1981-05-02", "rank": 200}]}
+{
+  "id": "say-no-more-badfinger",
+  "title": "Say No More",
+  "artist": "Badfinger",
+  "peak": 155,
+  "history": [
+    {
+      "date": "1981-03-28",
+      "rank": 169
+    },
+    {
+      "date": "1981-04-04",
+      "rank": 159
+    },
+    {
+      "date": "1981-04-11",
+      "rank": 157
+    },
+    {
+      "date": "1981-04-18",
+      "rank": 155
+    },
+    {
+      "date": "1981-04-25",
+      "rank": 178
+    },
+    {
+      "date": "1981-05-02",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hold On",
+      "id": "hold-on-badfinger"
+    },
+    {
+      "title": "I Got You",
+      "id": null
+    },
+    {
+      "title": "Come On",
+      "id": null
+    },
+    {
+      "title": "Because I Love You",
+      "id": null
+    },
+    {
+      "title": "Rock 'n Roll Contract",
+      "id": null
+    },
+    {
+      "title": "Passin' Time",
+      "id": null
+    },
+    {
+      "title": "Three Times Loser",
+      "id": null
+    },
+    {
+      "title": "Too Hung Up on You",
+      "id": null
+    },
+    {
+      "title": "Crocadillo",
+      "id": null
+    },
+    {
+      "title": "No More",
+      "id": null
+    }
+  ]
+}
