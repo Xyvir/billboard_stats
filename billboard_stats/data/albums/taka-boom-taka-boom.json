@@ -1,1 +1,58 @@
-{"id": "taka-boom-taka-boom", "title": "Taka Boom", "artist": "Taka Boom", "peak": 171, "history": [{"date": "1979-06-09", "rank": 184}, {"date": "1979-06-16", "rank": 171}, {"date": "1979-06-23", "rank": 171}, {"date": "1979-06-30", "rank": 182}]}
+{
+  "id": "taka-boom-taka-boom",
+  "title": "Taka Boom",
+  "artist": "Taka Boom",
+  "peak": 171,
+  "history": [
+    {
+      "date": "1979-06-09",
+      "rank": 184
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 171
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 171
+    },
+    {
+      "date": "1979-06-30",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Night Dancin'",
+      "id": "night-dancin-taka-boom"
+    },
+    {
+      "title": "Anything You Want",
+      "id": null
+    },
+    {
+      "title": "Dance Baby Dance",
+      "id": null
+    },
+    {
+      "title": "Troubled Waters",
+      "id": null
+    },
+    {
+      "title": "Red Hot",
+      "id": null
+    },
+    {
+      "title": "You're My Everything",
+      "id": null
+    },
+    {
+      "title": "Dance Like You Do at Home",
+      "id": null
+    },
+    {
+      "title": "Cloud Dancer",
+      "id": null
+    }
+  ]
+}
