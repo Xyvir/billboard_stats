@@ -1,1 +1,70 @@
-{"id": "the-player-first-choice", "title": "The Player", "artist": "First Choice", "peak": 143, "history": [{"date": "1974-10-26", "rank": 196}, {"date": "1974-11-02", "rank": 174}, {"date": "1974-11-09", "rank": 163}, {"date": "1974-11-16", "rank": 160}, {"date": "1974-11-23", "rank": 154}, {"date": "1974-11-30", "rank": 143}, {"date": "1974-12-07", "rank": 143}]}
+{
+  "id": "the-player-first-choice",
+  "title": "The Player",
+  "artist": "First Choice",
+  "peak": 143,
+  "history": [
+    {
+      "date": "1974-10-26",
+      "rank": 196
+    },
+    {
+      "date": "1974-11-02",
+      "rank": 174
+    },
+    {
+      "date": "1974-11-09",
+      "rank": 163
+    },
+    {
+      "date": "1974-11-16",
+      "rank": 160
+    },
+    {
+      "date": "1974-11-23",
+      "rank": 154
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 143
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Player",
+      "id": "the-player-part-1-first-choice"
+    },
+    {
+      "title": "Guilty",
+      "id": null
+    },
+    {
+      "title": "You Took the Words Right Out of My Mouth",
+      "id": null
+    },
+    {
+      "title": "You've Been Doin' Wrong for So Long",
+      "id": null
+    },
+    {
+      "title": "Hustler Bill",
+      "id": null
+    },
+    {
+      "title": "All I Need Is Time",
+      "id": null
+    },
+    {
+      "title": "Guess What Mary Jones Did",
+      "id": null
+    },
+    {
+      "title": "Guilty (instrumental)",
+      "id": null
+    }
+  ]
+}

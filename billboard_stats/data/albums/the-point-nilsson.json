@@ -1,1 +1,98 @@
-{"id": "the-point-nilsson", "title": "The Point!", "artist": "Nilsson", "peak": 115, "history": [{"date": "1974-12-28", "rank": 187}, {"date": "1975-01-04", "rank": 176}, {"date": "1975-01-11", "rank": 139}, {"date": "1975-01-18", "rank": 129}, {"date": "1975-01-25", "rank": 129}, {"date": "1975-02-01", "rank": 124}, {"date": "1975-02-08", "rank": 120}, {"date": "1975-02-15", "rank": 115}]}
+{
+  "id": "the-point-nilsson",
+  "title": "The Point!",
+  "artist": "Nilsson",
+  "peak": 115,
+  "history": [
+    {
+      "date": "1974-12-28",
+      "rank": 187
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 176
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 139
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 129
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 129
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 124
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 120
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 115
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Me and My Arrow",
+      "id": "me-and-my-arrow-nilsson"
+    },
+    {
+      "title": "Everything’s Got ’em",
+      "id": null
+    },
+    {
+      "title": "The Town",
+      "id": null
+    },
+    {
+      "title": "The Game",
+      "id": null
+    },
+    {
+      "title": "Poli High",
+      "id": null
+    },
+    {
+      "title": "The Trial & Banishment",
+      "id": null
+    },
+    {
+      "title": "Think About Your Troubles",
+      "id": null
+    },
+    {
+      "title": "The Pointed Man",
+      "id": null
+    },
+    {
+      "title": "Life Line",
+      "id": null
+    },
+    {
+      "title": "The Birds",
+      "id": null
+    },
+    {
+      "title": "P.O.V. Waltz",
+      "id": null
+    },
+    {
+      "title": "The Clearing in the Woods",
+      "id": null
+    },
+    {
+      "title": "Are You Sleeping?",
+      "id": null
+    },
+    {
+      "title": "Oblio’s Return",
+      "id": null
+    }
+  ]
+}
