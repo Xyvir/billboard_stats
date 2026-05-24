@@ -1,1 +1,282 @@
-{"id": "songs-for-the-deaf-queens-of-the-stone-age", "title": "Songs For The Deaf", "artist": "Queens Of The Stone Age", "peak": 17, "history": [{"date": "2002-09-14", "rank": 17}, {"date": "2002-09-21", "rank": 47}, {"date": "2002-09-28", "rank": 48}, {"date": "2002-10-05", "rank": 50}, {"date": "2002-10-12", "rank": 61}, {"date": "2002-10-19", "rank": 73}, {"date": "2002-10-26", "rank": 69}, {"date": "2002-11-02", "rank": 66}, {"date": "2002-11-09", "rank": 66}, {"date": "2002-11-16", "rank": 90}, {"date": "2002-11-23", "rank": 98}, {"date": "2002-11-30", "rank": 97}, {"date": "2002-12-07", "rank": 99}, {"date": "2002-12-14", "rank": 120}, {"date": "2002-12-21", "rank": 115}, {"date": "2002-12-28", "rank": 106}, {"date": "2003-01-04", "rank": 90}, {"date": "2003-01-11", "rank": 60}, {"date": "2003-01-18", "rank": 51}, {"date": "2003-01-25", "rank": 50}, {"date": "2003-02-01", "rank": 45}, {"date": "2003-02-08", "rank": 37}, {"date": "2003-02-15", "rank": 42}, {"date": "2003-02-22", "rank": 51}, {"date": "2003-03-01", "rank": 72}, {"date": "2003-03-08", "rank": 59}, {"date": "2003-03-15", "rank": 51}, {"date": "2003-03-22", "rank": 83}, {"date": "2003-03-29", "rank": 95}, {"date": "2003-04-05", "rank": 104}, {"date": "2003-04-12", "rank": 106}, {"date": "2003-04-19", "rank": 104}, {"date": "2003-04-26", "rank": 114}, {"date": "2003-05-03", "rank": 117}, {"date": "2003-05-10", "rank": 107}, {"date": "2003-05-17", "rank": 118}, {"date": "2003-05-24", "rank": 131}, {"date": "2003-05-31", "rank": 123}, {"date": "2003-06-07", "rank": 140}, {"date": "2003-06-14", "rank": 142}, {"date": "2003-06-21", "rank": 152}, {"date": "2003-06-28", "rank": 149}, {"date": "2003-07-05", "rank": 153}, {"date": "2003-07-12", "rank": 169}, {"date": "2003-07-19", "rank": 169}, {"date": "2003-07-26", "rank": 161}, {"date": "2003-08-02", "rank": 156}, {"date": "2003-08-09", "rank": 170}, {"date": "2003-08-16", "rank": 179}, {"date": "2003-09-20", "rank": 198}, {"date": "2014-10-25", "rank": 40}]}
+{
+  "id": "songs-for-the-deaf-queens-of-the-stone-age",
+  "title": "Songs For The Deaf",
+  "artist": "Queens Of The Stone Age",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2002-09-14",
+      "rank": 17
+    },
+    {
+      "date": "2002-09-21",
+      "rank": 47
+    },
+    {
+      "date": "2002-09-28",
+      "rank": 48
+    },
+    {
+      "date": "2002-10-05",
+      "rank": 50
+    },
+    {
+      "date": "2002-10-12",
+      "rank": 61
+    },
+    {
+      "date": "2002-10-19",
+      "rank": 73
+    },
+    {
+      "date": "2002-10-26",
+      "rank": 69
+    },
+    {
+      "date": "2002-11-02",
+      "rank": 66
+    },
+    {
+      "date": "2002-11-09",
+      "rank": 66
+    },
+    {
+      "date": "2002-11-16",
+      "rank": 90
+    },
+    {
+      "date": "2002-11-23",
+      "rank": 98
+    },
+    {
+      "date": "2002-11-30",
+      "rank": 97
+    },
+    {
+      "date": "2002-12-07",
+      "rank": 99
+    },
+    {
+      "date": "2002-12-14",
+      "rank": 120
+    },
+    {
+      "date": "2002-12-21",
+      "rank": 115
+    },
+    {
+      "date": "2002-12-28",
+      "rank": 106
+    },
+    {
+      "date": "2003-01-04",
+      "rank": 90
+    },
+    {
+      "date": "2003-01-11",
+      "rank": 60
+    },
+    {
+      "date": "2003-01-18",
+      "rank": 51
+    },
+    {
+      "date": "2003-01-25",
+      "rank": 50
+    },
+    {
+      "date": "2003-02-01",
+      "rank": 45
+    },
+    {
+      "date": "2003-02-08",
+      "rank": 37
+    },
+    {
+      "date": "2003-02-15",
+      "rank": 42
+    },
+    {
+      "date": "2003-02-22",
+      "rank": 51
+    },
+    {
+      "date": "2003-03-01",
+      "rank": 72
+    },
+    {
+      "date": "2003-03-08",
+      "rank": 59
+    },
+    {
+      "date": "2003-03-15",
+      "rank": 51
+    },
+    {
+      "date": "2003-03-22",
+      "rank": 83
+    },
+    {
+      "date": "2003-03-29",
+      "rank": 95
+    },
+    {
+      "date": "2003-04-05",
+      "rank": 104
+    },
+    {
+      "date": "2003-04-12",
+      "rank": 106
+    },
+    {
+      "date": "2003-04-19",
+      "rank": 104
+    },
+    {
+      "date": "2003-04-26",
+      "rank": 114
+    },
+    {
+      "date": "2003-05-03",
+      "rank": 117
+    },
+    {
+      "date": "2003-05-10",
+      "rank": 107
+    },
+    {
+      "date": "2003-05-17",
+      "rank": 118
+    },
+    {
+      "date": "2003-05-24",
+      "rank": 131
+    },
+    {
+      "date": "2003-05-31",
+      "rank": 123
+    },
+    {
+      "date": "2003-06-07",
+      "rank": 140
+    },
+    {
+      "date": "2003-06-14",
+      "rank": 142
+    },
+    {
+      "date": "2003-06-21",
+      "rank": 152
+    },
+    {
+      "date": "2003-06-28",
+      "rank": 149
+    },
+    {
+      "date": "2003-07-05",
+      "rank": 153
+    },
+    {
+      "date": "2003-07-12",
+      "rank": 169
+    },
+    {
+      "date": "2003-07-19",
+      "rank": 169
+    },
+    {
+      "date": "2003-07-26",
+      "rank": 161
+    },
+    {
+      "date": "2003-08-02",
+      "rank": 156
+    },
+    {
+      "date": "2003-08-09",
+      "rank": 170
+    },
+    {
+      "date": "2003-08-16",
+      "rank": 179
+    },
+    {
+      "date": "2003-09-20",
+      "rank": 198
+    },
+    {
+      "date": "2014-10-25",
+      "rank": 40
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No One Knows",
+      "id": "no-one-knows-queens-of-the-stone-age"
+    },
+    {
+      "title": "You Think I Ain’t Worth a Dollar, but I Feel Like a Millionaire",
+      "id": null
+    },
+    {
+      "title": "First It Giveth",
+      "id": null
+    },
+    {
+      "title": "A Song for the Dead",
+      "id": null
+    },
+    {
+      "title": "The Sky Is Fallin’",
+      "id": null
+    },
+    {
+      "title": "Six Shooter",
+      "id": null
+    },
+    {
+      "title": "Hangin’ Tree",
+      "id": null
+    },
+    {
+      "title": "Go With the Flow",
+      "id": null
+    },
+    {
+      "title": "Gonna Leave You",
+      "id": null
+    },
+    {
+      "title": "Do It Again",
+      "id": null
+    },
+    {
+      "title": "God Is in the Radio",
+      "id": null
+    },
+    {
+      "title": "Another Love Song",
+      "id": null
+    },
+    {
+      "title": "A Song for the Deaf / Feel Good Hit of the Summer (reprise)",
+      "id": null
+    },
+    {
+      "title": "Mosquito Song",
+      "id": null
+    },
+    {
+      "title": "The Lost Art of Keeping a Secret",
+      "id": null
+    },
+    {
+      "title": "Everybody’s Gonna Be Happy",
+      "id": null
+    },
+    {
+      "title": "Gonna Leave You (Spanish version)",
+      "id": null
+    }
+  ]
+}

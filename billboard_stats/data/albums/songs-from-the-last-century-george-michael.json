@@ -1,1 +1,78 @@
-{"id": "songs-from-the-last-century-george-michael", "title": "Songs From The Last Century", "artist": "George Michael", "peak": 157, "history": [{"date": "2000-01-01", "rank": 182}, {"date": "2000-01-08", "rank": 186}, {"date": "2000-01-15", "rank": 198}, {"date": "2000-01-22", "rank": 166}, {"date": "2000-01-29", "rank": 157}, {"date": "2000-02-05", "rank": 172}, {"date": "2000-02-12", "rank": 189}]}
+{
+  "id": "songs-from-the-last-century-george-michael",
+  "title": "Songs From The Last Century",
+  "artist": "George Michael",
+  "peak": 157,
+  "history": [
+    {
+      "date": "2000-01-01",
+      "rank": 182
+    },
+    {
+      "date": "2000-01-08",
+      "rank": 186
+    },
+    {
+      "date": "2000-01-15",
+      "rank": 198
+    },
+    {
+      "date": "2000-01-22",
+      "rank": 166
+    },
+    {
+      "date": "2000-01-29",
+      "rank": 157
+    },
+    {
+      "date": "2000-02-05",
+      "rank": 172
+    },
+    {
+      "date": "2000-02-12",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Secret Love",
+      "id": "fastlove-george-michael"
+    },
+    {
+      "title": "Brother Can You Spare a Dime",
+      "id": null
+    },
+    {
+      "title": "Roxanne",
+      "id": null
+    },
+    {
+      "title": "You’ve Changed",
+      "id": null
+    },
+    {
+      "title": "My Baby Just Cares for Me",
+      "id": null
+    },
+    {
+      "title": "The First Time Ever I Saw Your Face",
+      "id": null
+    },
+    {
+      "title": "Miss Sarajevo",
+      "id": null
+    },
+    {
+      "title": "I Remember You",
+      "id": null
+    },
+    {
+      "title": "Wild Is the Wind",
+      "id": null
+    },
+    {
+      "title": "Where or When / It’s All Right With Me (instrumental)",
+      "id": null
+    }
+  ]
+}

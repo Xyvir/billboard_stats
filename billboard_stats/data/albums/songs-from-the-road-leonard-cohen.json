@@ -1,1 +1,70 @@
-{"id": "songs-from-the-road-leonard-cohen", "title": "Songs From The Road", "artist": "Leonard Cohen", "peak": 112, "history": [{"date": "2010-10-02", "rank": 112}, {"date": "2010-10-09", "rank": 149}]}
+{
+  "id": "songs-from-the-road-leonard-cohen",
+  "title": "Songs From The Road",
+  "artist": "Leonard Cohen",
+  "peak": 112,
+  "history": [
+    {
+      "date": "2010-10-02",
+      "rank": 112
+    },
+    {
+      "date": "2010-10-09",
+      "rank": 149
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hallelujah",
+      "id": "hallelujah-leonard-cohen"
+    },
+    {
+      "title": "Lover, Lover, Lover",
+      "id": null
+    },
+    {
+      "title": "Bird on the Wire",
+      "id": null
+    },
+    {
+      "title": "Chelsea Hotel",
+      "id": null
+    },
+    {
+      "title": "Heart With No Companion",
+      "id": null
+    },
+    {
+      "title": "That Don’t Make It Junk",
+      "id": null
+    },
+    {
+      "title": "Waiting for the Miracle",
+      "id": null
+    },
+    {
+      "title": "Avalanche",
+      "id": null
+    },
+    {
+      "title": "Suzanne",
+      "id": null
+    },
+    {
+      "title": "The Partisan",
+      "id": null
+    },
+    {
+      "title": "Famous Blue Raincoat",
+      "id": null
+    },
+    {
+      "title": "Closing Time",
+      "id": null
+    },
+    {
+      "title": "Backstage Sketch",
+      "id": null
+    }
+  ]
+}
