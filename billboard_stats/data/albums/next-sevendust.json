@@ -1,1 +1,70 @@
-{"id": "next-sevendust", "title": "Next", "artist": "Sevendust", "peak": 20, "history": [{"date": "2005-10-29", "rank": 20}, {"date": "2005-11-05", "rank": 74}, {"date": "2005-11-12", "rank": 121}, {"date": "2005-11-19", "rank": 167}]}
+{
+  "id": "next-sevendust",
+  "title": "Next",
+  "artist": "Sevendust",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2005-10-29",
+      "rank": 20
+    },
+    {
+      "date": "2005-11-05",
+      "rank": 74
+    },
+    {
+      "date": "2005-11-12",
+      "rank": 121
+    },
+    {
+      "date": "2005-11-19",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hero",
+      "id": null
+    },
+    {
+      "title": "Ugly",
+      "id": null
+    },
+    {
+      "title": "Pieces",
+      "id": null
+    },
+    {
+      "title": "Silence",
+      "id": null
+    },
+    {
+      "title": "This Life",
+      "id": null
+    },
+    {
+      "title": "Failure",
+      "id": null
+    },
+    {
+      "title": "See and Believe",
+      "id": null
+    },
+    {
+      "title": "The Last Song",
+      "id": null
+    },
+    {
+      "title": "Desertion",
+      "id": null
+    },
+    {
+      "title": "Never",
+      "id": null
+    },
+    {
+      "title": "Shadows in Red",
+      "id": null
+    }
+  ]
+}

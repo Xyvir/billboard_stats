@@ -1,1 +1,86 @@
-{"id": "nicotine-trevor-daniel", "title": "Nicotine", "artist": "Trevor Daniel", "peak": 79, "history": [{"date": "2020-04-11", "rank": 79}, {"date": "2020-04-18", "rank": 107}, {"date": "2020-04-25", "rank": 112}, {"date": "2020-05-02", "rank": 127}, {"date": "2020-05-23", "rank": 143}, {"date": "2020-06-06", "rank": 173}, {"date": "2020-07-11", "rank": 84}, {"date": "2020-08-08", "rank": 149}, {"date": "2020-08-22", "rank": 185}]}
+{
+  "id": "nicotine-trevor-daniel",
+  "title": "Nicotine",
+  "artist": "Trevor Daniel",
+  "peak": 79,
+  "history": [
+    {
+      "date": "2020-04-11",
+      "rank": 79
+    },
+    {
+      "date": "2020-04-18",
+      "rank": 107
+    },
+    {
+      "date": "2020-04-25",
+      "rank": 112
+    },
+    {
+      "date": "2020-05-02",
+      "rank": 127
+    },
+    {
+      "date": "2020-05-23",
+      "rank": 143
+    },
+    {
+      "date": "2020-06-06",
+      "rank": 173
+    },
+    {
+      "date": "2020-07-11",
+      "rank": 84
+    },
+    {
+      "date": "2020-08-08",
+      "rank": 149
+    },
+    {
+      "date": "2020-08-22",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Falling",
+      "id": "falling-trevor-daniel"
+    },
+    {
+      "title": "Nicotine",
+      "id": null
+    },
+    {
+      "title": "Lovesick",
+      "id": null
+    },
+    {
+      "title": "Anymore",
+      "id": null
+    },
+    {
+      "title": "Things We Do for Love",
+      "id": null
+    },
+    {
+      "title": "All of That",
+      "id": null
+    },
+    {
+      "title": "OMG",
+      "id": null
+    },
+    {
+      "title": "Disaster",
+      "id": null
+    },
+    {
+      "title": "911",
+      "id": null
+    },
+    {
+      "title": "Past Life",
+      "id": null
+    }
+  ]
+}

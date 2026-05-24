@@ -1,1 +1,74 @@
-{"id": "next-xavi", "title": "Next", "artist": "Xavi", "peak": 128, "history": [{"date": "2024-10-26", "rank": 128}]}
+{
+  "id": "next-xavi",
+  "title": "Next",
+  "artist": "Xavi",
+  "peak": 128,
+  "history": [
+    {
+      "date": "2024-10-26",
+      "rank": 128
+    }
+  ],
+  "tracks": [
+    {
+      "title": "La víctima",
+      "id": "la-victima-xavi"
+    },
+    {
+      "title": "La diabla",
+      "id": "la-diabla-xavi"
+    },
+    {
+      "title": "La diosa",
+      "id": "la-diabla-xavi"
+    },
+    {
+      "title": "Corazón de piedra",
+      "id": "corazon-de-piedra-xavi"
+    },
+    {
+      "title": "Una semana",
+      "id": null
+    },
+    {
+      "title": "Que hay que hacer",
+      "id": null
+    },
+    {
+      "title": "Next",
+      "id": null
+    },
+    {
+      "title": "Modo DND",
+      "id": null
+    },
+    {
+      "title": "Flores",
+      "id": null
+    },
+    {
+      "title": "La luna X Mi",
+      "id": null
+    },
+    {
+      "title": "Filosofía",
+      "id": null
+    },
+    {
+      "title": "Tu casi algo",
+      "id": null
+    },
+    {
+      "title": "Poco a poco",
+      "id": null
+    },
+    {
+      "title": "Si mañana me voy",
+      "id": null
+    },
+    {
+      "title": "Peak",
+      "id": null
+    }
+  ]
+}

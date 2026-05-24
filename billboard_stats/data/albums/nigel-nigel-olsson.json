@@ -1,1 +1,66 @@
-{"id": "nigel-nigel-olsson", "title": "Nigel", "artist": "Nigel Olsson", "peak": 140, "history": [{"date": "1979-03-24", "rank": 151}, {"date": "1979-03-31", "rank": 141}, {"date": "1979-04-07", "rank": 140}, {"date": "1979-04-14", "rank": 181}, {"date": "1979-04-21", "rank": 183}]}
+{
+  "id": "nigel-nigel-olsson",
+  "title": "Nigel",
+  "artist": "Nigel Olsson",
+  "peak": 140,
+  "history": [
+    {
+      "date": "1979-03-24",
+      "rank": 151
+    },
+    {
+      "date": "1979-03-31",
+      "rank": 141
+    },
+    {
+      "date": "1979-04-07",
+      "rank": 140
+    },
+    {
+      "date": "1979-04-14",
+      "rank": 181
+    },
+    {
+      "date": "1979-04-21",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Little Bit of Soap",
+      "id": "little-bit-of-soap-nigel-olsson"
+    },
+    {
+      "title": "Dancin’ Shoes",
+      "id": "dancin-shoes-nigel-olsson"
+    },
+    {
+      "title": "You Know I’ll Always Love You",
+      "id": null
+    },
+    {
+      "title": "Part of the Chosen Few",
+      "id": null
+    },
+    {
+      "title": "Say Goodbye to Hollywood",
+      "id": null
+    },
+    {
+      "title": "All It Takes",
+      "id": null
+    },
+    {
+      "title": "Thinking of You",
+      "id": null
+    },
+    {
+      "title": "Living in a Fantasy",
+      "id": null
+    },
+    {
+      "title": "Cassey Blue / Au Revoir",
+      "id": null
+    }
+  ]
+}

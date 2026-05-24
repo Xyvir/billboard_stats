@@ -1,1 +1,86 @@
-{"id": "night-and-day-chicago", "title": "Night And Day", "artist": "Chicago", "peak": 90, "history": [{"date": "1995-06-10", "rank": 106}, {"date": "1995-06-17", "rank": 90}, {"date": "1995-06-24", "rank": 114}, {"date": "1995-07-01", "rank": 122}, {"date": "1995-07-08", "rank": 123}, {"date": "1995-07-15", "rank": 169}, {"date": "1995-07-22", "rank": 187}]}
+{
+  "id": "night-and-day-chicago",
+  "title": "Night And Day",
+  "artist": "Chicago",
+  "peak": 90,
+  "history": [
+    {
+      "date": "1995-06-10",
+      "rank": 106
+    },
+    {
+      "date": "1995-06-17",
+      "rank": 90
+    },
+    {
+      "date": "1995-06-24",
+      "rank": 114
+    },
+    {
+      "date": "1995-07-01",
+      "rank": 122
+    },
+    {
+      "date": "1995-07-08",
+      "rank": 123
+    },
+    {
+      "date": "1995-07-15",
+      "rank": 169
+    },
+    {
+      "date": "1995-07-22",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blues in the Night",
+      "id": "stay-the-night-chicago"
+    },
+    {
+      "title": "In the Mood",
+      "id": "chasin-the-wind-chicago"
+    },
+    {
+      "title": "Chicago",
+      "id": null
+    },
+    {
+      "title": "Caravan",
+      "id": null
+    },
+    {
+      "title": "Dream a Little Dream of Me",
+      "id": null
+    },
+    {
+      "title": "Goody Goody",
+      "id": null
+    },
+    {
+      "title": "Moonlight Serenade",
+      "id": null
+    },
+    {
+      "title": "Night & Day",
+      "id": null
+    },
+    {
+      "title": "Sing, Sing, Sing",
+      "id": null
+    },
+    {
+      "title": "Sophisticated Lady",
+      "id": null
+    },
+    {
+      "title": "Don’t Get Around Much Anymore",
+      "id": null
+    },
+    {
+      "title": "Take the “A” Train",
+      "id": null
+    }
+  ]
+}
