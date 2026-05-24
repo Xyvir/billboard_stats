@@ -1,1 +1,66 @@
-{"id": "the-gift-kenny-rogers", "title": "The Gift", "artist": "Kenny Rogers", "peak": 63, "history": [{"date": "1996-12-14", "rank": 93}, {"date": "1996-12-21", "rank": 73}, {"date": "1996-12-28", "rank": 63}, {"date": "1997-01-04", "rank": 66}, {"date": "1997-01-11", "rank": 108}]}
+{
+  "id": "the-gift-kenny-rogers",
+  "title": "The Gift",
+  "artist": "Kenny Rogers",
+  "peak": 63,
+  "history": [
+    {
+      "date": "1996-12-14",
+      "rank": 93
+    },
+    {
+      "date": "1996-12-21",
+      "rank": 73
+    },
+    {
+      "date": "1996-12-28",
+      "rank": 63
+    },
+    {
+      "date": "1997-01-04",
+      "rank": 66
+    },
+    {
+      "date": "1997-01-11",
+      "rank": 108
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mary, Did You Know",
+      "id": null
+    },
+    {
+      "title": "A Soldier’s King",
+      "id": null
+    },
+    {
+      "title": "Pretty Little Baby Child",
+      "id": null
+    },
+    {
+      "title": "What a Wonderful Beginning",
+      "id": null
+    },
+    {
+      "title": "It’s the Messiah",
+      "id": null
+    },
+    {
+      "title": "I Trust You",
+      "id": null
+    },
+    {
+      "title": "Sweet Little Jesus Boy",
+      "id": null
+    },
+    {
+      "title": "The Chosen One Montage",
+      "id": null
+    },
+    {
+      "title": "’Til the Season Comes ’round Again",
+      "id": null
+    }
+  ]
+}
