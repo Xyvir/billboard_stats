@@ -1,1 +1,238 @@
-{"id": "spike-elvis-costello", "title": "Spike", "artist": "Elvis Costello", "peak": 32, "history": [{"date": "1989-02-25", "rank": 98}, {"date": "1989-03-04", "rank": 70}, {"date": "1989-03-11", "rank": 48}, {"date": "1989-03-18", "rank": 40}, {"date": "1989-03-25", "rank": 35}, {"date": "1989-04-01", "rank": 33}, {"date": "1989-04-08", "rank": 33}, {"date": "1989-04-15", "rank": 33}, {"date": "1989-04-22", "rank": 32}, {"date": "1989-04-29", "rank": 34}, {"date": "1989-05-06", "rank": 35}, {"date": "1989-05-13", "rank": 34}, {"date": "1989-05-20", "rank": 39}, {"date": "1989-05-27", "rank": 39}, {"date": "1989-06-03", "rank": 41}, {"date": "1989-06-10", "rank": 42}, {"date": "1989-06-17", "rank": 47}, {"date": "1989-06-24", "rank": 48}, {"date": "1989-07-01", "rank": 54}, {"date": "1989-07-08", "rank": 65}, {"date": "1989-07-15", "rank": 68}, {"date": "1989-07-22", "rank": 90}, {"date": "1989-07-29", "rank": 122}, {"date": "1989-08-05", "rank": 161}, {"date": "1989-08-12", "rank": 182}]}
+{
+  "id": "spike-elvis-costello",
+  "title": "Spike",
+  "artist": "Elvis Costello",
+  "peak": 32,
+  "history": [
+    {
+      "date": "1989-02-25",
+      "rank": 98
+    },
+    {
+      "date": "1989-03-04",
+      "rank": 70
+    },
+    {
+      "date": "1989-03-11",
+      "rank": 48
+    },
+    {
+      "date": "1989-03-18",
+      "rank": 40
+    },
+    {
+      "date": "1989-03-25",
+      "rank": 35
+    },
+    {
+      "date": "1989-04-01",
+      "rank": 33
+    },
+    {
+      "date": "1989-04-08",
+      "rank": 33
+    },
+    {
+      "date": "1989-04-15",
+      "rank": 33
+    },
+    {
+      "date": "1989-04-22",
+      "rank": 32
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 34
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 35
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 34
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 39
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 39
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 41
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 42
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 47
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 48
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 54
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 65
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 68
+    },
+    {
+      "date": "1989-07-22",
+      "rank": 90
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 122
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 161
+    },
+    {
+      "date": "1989-08-12",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Veronica",
+      "id": "veronica-elvis-costello"
+    },
+    {
+      "title": "Veronica (demo)",
+      "id": "veronica-elvis-costello"
+    },
+    {
+      "title": "…This Town…",
+      "id": null
+    },
+    {
+      "title": "Let Him Dangle",
+      "id": null
+    },
+    {
+      "title": "Deep Dark Truthful Mirror",
+      "id": null
+    },
+    {
+      "title": "God’s Comic",
+      "id": null
+    },
+    {
+      "title": "Chewing Gum",
+      "id": null
+    },
+    {
+      "title": "Tramp the Dirt Down",
+      "id": null
+    },
+    {
+      "title": "Stalin Malone",
+      "id": null
+    },
+    {
+      "title": "Satellite",
+      "id": null
+    },
+    {
+      "title": "Pads, Paws and Claws",
+      "id": null
+    },
+    {
+      "title": "Baby Plays Around",
+      "id": null
+    },
+    {
+      "title": "Miss Macbeth",
+      "id": null
+    },
+    {
+      "title": "Any King’s Shilling",
+      "id": null
+    },
+    {
+      "title": "Coal‐Train Robberies",
+      "id": null
+    },
+    {
+      "title": "Last Boat Leaving",
+      "id": null
+    },
+    {
+      "title": "Miss Macbeth (demo)",
+      "id": null
+    },
+    {
+      "title": "…This Town… (demo)",
+      "id": null
+    },
+    {
+      "title": "Deep Dark Truthful Mirror (demo)",
+      "id": null
+    },
+    {
+      "title": "Coal Train Robberies (demo)",
+      "id": null
+    },
+    {
+      "title": "Satellite (demo)",
+      "id": null
+    },
+    {
+      "title": "Pads, Paws and Claws (demo)",
+      "id": null
+    },
+    {
+      "title": "Let Him Dangle (demo)",
+      "id": null
+    },
+    {
+      "title": "Tramp the Dirt Down (demo)",
+      "id": null
+    },
+    {
+      "title": "Baby Plays Around (demo)",
+      "id": null
+    },
+    {
+      "title": "Put Your Big Toe in the Milk of Human Kindness (demo)",
+      "id": null
+    },
+    {
+      "title": "Last Boat Leaving (demo)",
+      "id": null
+    },
+    {
+      "title": "The Ugly Things",
+      "id": null
+    },
+    {
+      "title": "You’re No Good",
+      "id": null
+    },
+    {
+      "title": "Point of No Return",
+      "id": null
+    },
+    {
+      "title": "The Room Nobody Lives In",
+      "id": null
+    },
+    {
+      "title": "Stalin Malone (vocal version)",
+      "id": null
+    }
+  ]
+}

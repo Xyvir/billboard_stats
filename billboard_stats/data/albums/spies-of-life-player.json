@@ -1,1 +1,78 @@
-{"id": "spies-of-life-player", "title": "Spies Of Life", "artist": "Player", "peak": 152, "history": [{"date": "1982-02-06", "rank": 164}, {"date": "1982-02-13", "rank": 154}, {"date": "1982-02-20", "rank": 154}, {"date": "1982-02-27", "rank": 152}, {"date": "1982-03-06", "rank": 174}, {"date": "1982-03-13", "rank": 184}, {"date": "1982-03-20", "rank": 200}]}
+{
+  "id": "spies-of-life-player",
+  "title": "Spies Of Life",
+  "artist": "Player",
+  "peak": 152,
+  "history": [
+    {
+      "date": "1982-02-06",
+      "rank": 164
+    },
+    {
+      "date": "1982-02-13",
+      "rank": 154
+    },
+    {
+      "date": "1982-02-20",
+      "rank": 154
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 152
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 174
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 184
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If Looks Could Kill",
+      "id": "if-looks-could-kill-player"
+    },
+    {
+      "title": "Take Me Back",
+      "id": "baby-come-back-player"
+    },
+    {
+      "title": "Some Things Are Better Left Unsaid",
+      "id": null
+    },
+    {
+      "title": "Thank You for the Use of Your Love",
+      "id": null
+    },
+    {
+      "title": "It Only Hurts When I Breathe",
+      "id": null
+    },
+    {
+      "title": "My Mind’s Made Up",
+      "id": null
+    },
+    {
+      "title": "I’d Rather Be Gone",
+      "id": null
+    },
+    {
+      "title": "My Survival",
+      "id": null
+    },
+    {
+      "title": "Born to Be With You",
+      "id": null
+    },
+    {
+      "title": "In Like Flynn",
+      "id": null
+    }
+  ]
+}
