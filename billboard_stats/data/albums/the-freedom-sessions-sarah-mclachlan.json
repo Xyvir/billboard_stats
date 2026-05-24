@@ -1,1 +1,62 @@
-{"id": "the-freedom-sessions-sarah-mclachlan", "title": "The Freedom Sessions", "artist": "Sarah McLachlan", "peak": 78, "history": [{"date": "1995-04-15", "rank": 78}, {"date": "1995-04-22", "rank": 111}, {"date": "1995-04-29", "rank": 147}, {"date": "1995-05-06", "rank": 160}, {"date": "1995-05-13", "rank": 165}]}
+{
+  "id": "the-freedom-sessions-sarah-mclachlan",
+  "title": "The Freedom Sessions",
+  "artist": "Sarah McLachlan",
+  "peak": 78,
+  "history": [
+    {
+      "date": "1995-04-15",
+      "rank": 78
+    },
+    {
+      "date": "1995-04-22",
+      "rank": 111
+    },
+    {
+      "date": "1995-04-29",
+      "rank": 147
+    },
+    {
+      "date": "1995-05-06",
+      "rank": 160
+    },
+    {
+      "date": "1995-05-13",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Good Enough",
+      "id": "good-enough-sarah-mclachlan"
+    },
+    {
+      "title": "Elsewhere",
+      "id": null
+    },
+    {
+      "title": "Plenty",
+      "id": null
+    },
+    {
+      "title": "Mary",
+      "id": null
+    },
+    {
+      "title": "Hold On",
+      "id": null
+    },
+    {
+      "title": "Ice Cream",
+      "id": null
+    },
+    {
+      "title": "Ice",
+      "id": null
+    },
+    {
+      "title": "Ol’55 / Hold On (acoustic)",
+      "id": null
+    }
+  ]
+}

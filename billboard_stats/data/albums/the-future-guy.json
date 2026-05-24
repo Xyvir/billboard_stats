@@ -1,1 +1,258 @@
-{"id": "the-future-guy", "title": "The Future", "artist": "Guy", "peak": 16, "history": [{"date": "1990-12-01", "rank": 50}, {"date": "1990-12-08", "rank": 26}, {"date": "1990-12-15", "rank": 19}, {"date": "1990-12-22", "rank": 22}, {"date": "1990-12-29", "rank": 22}, {"date": "1991-01-05", "rank": 23}, {"date": "1991-01-12", "rank": 24}, {"date": "1991-01-19", "rank": 20}, {"date": "1991-01-26", "rank": 16}, {"date": "1991-02-02", "rank": 16}, {"date": "1991-02-09", "rank": 18}, {"date": "1991-02-16", "rank": 21}, {"date": "1991-02-23", "rank": 20}, {"date": "1991-03-02", "rank": 21}, {"date": "1991-03-09", "rank": 19}, {"date": "1991-03-16", "rank": 21}, {"date": "1991-03-23", "rank": 20}, {"date": "1991-03-30", "rank": 21}, {"date": "1991-04-06", "rank": 23}, {"date": "1991-04-13", "rank": 26}, {"date": "1991-04-20", "rank": 28}, {"date": "1991-04-27", "rank": 28}, {"date": "1991-05-04", "rank": 29}, {"date": "1991-05-11", "rank": 34}, {"date": "1991-05-18", "rank": 48}, {"date": "1991-05-25", "rank": 54}, {"date": "1991-06-01", "rank": 68}, {"date": "1991-06-08", "rank": 66}, {"date": "1991-06-15", "rank": 73}, {"date": "1991-06-22", "rank": 69}, {"date": "1991-06-29", "rank": 94}, {"date": "1991-07-06", "rank": 91}, {"date": "1991-07-13", "rank": 93}, {"date": "1991-07-20", "rank": 101}, {"date": "1991-07-27", "rank": 112}, {"date": "1991-08-03", "rank": 114}, {"date": "1991-08-10", "rank": 131}, {"date": "1991-08-17", "rank": 133}, {"date": "1991-08-24", "rank": 133}, {"date": "1991-08-31", "rank": 145}, {"date": "1991-09-07", "rank": 155}, {"date": "1991-09-14", "rank": 166}, {"date": "1991-09-21", "rank": 175}, {"date": "1991-09-28", "rank": 192}, {"date": "1991-10-05", "rank": 193}, {"date": "1991-10-19", "rank": 200}]}
+{
+  "id": "the-future-guy",
+  "title": "The Future",
+  "artist": "Guy",
+  "peak": 16,
+  "history": [
+    {
+      "date": "1990-12-01",
+      "rank": 50
+    },
+    {
+      "date": "1990-12-08",
+      "rank": 26
+    },
+    {
+      "date": "1990-12-15",
+      "rank": 19
+    },
+    {
+      "date": "1990-12-22",
+      "rank": 22
+    },
+    {
+      "date": "1990-12-29",
+      "rank": 22
+    },
+    {
+      "date": "1991-01-05",
+      "rank": 23
+    },
+    {
+      "date": "1991-01-12",
+      "rank": 24
+    },
+    {
+      "date": "1991-01-19",
+      "rank": 20
+    },
+    {
+      "date": "1991-01-26",
+      "rank": 16
+    },
+    {
+      "date": "1991-02-02",
+      "rank": 16
+    },
+    {
+      "date": "1991-02-09",
+      "rank": 18
+    },
+    {
+      "date": "1991-02-16",
+      "rank": 21
+    },
+    {
+      "date": "1991-02-23",
+      "rank": 20
+    },
+    {
+      "date": "1991-03-02",
+      "rank": 21
+    },
+    {
+      "date": "1991-03-09",
+      "rank": 19
+    },
+    {
+      "date": "1991-03-16",
+      "rank": 21
+    },
+    {
+      "date": "1991-03-23",
+      "rank": 20
+    },
+    {
+      "date": "1991-03-30",
+      "rank": 21
+    },
+    {
+      "date": "1991-04-06",
+      "rank": 23
+    },
+    {
+      "date": "1991-04-13",
+      "rank": 26
+    },
+    {
+      "date": "1991-04-20",
+      "rank": 28
+    },
+    {
+      "date": "1991-04-27",
+      "rank": 28
+    },
+    {
+      "date": "1991-05-04",
+      "rank": 29
+    },
+    {
+      "date": "1991-05-11",
+      "rank": 34
+    },
+    {
+      "date": "1991-05-18",
+      "rank": 48
+    },
+    {
+      "date": "1991-05-25",
+      "rank": 54
+    },
+    {
+      "date": "1991-06-01",
+      "rank": 68
+    },
+    {
+      "date": "1991-06-08",
+      "rank": 66
+    },
+    {
+      "date": "1991-06-15",
+      "rank": 73
+    },
+    {
+      "date": "1991-06-22",
+      "rank": 69
+    },
+    {
+      "date": "1991-06-29",
+      "rank": 94
+    },
+    {
+      "date": "1991-07-06",
+      "rank": 91
+    },
+    {
+      "date": "1991-07-13",
+      "rank": 93
+    },
+    {
+      "date": "1991-07-20",
+      "rank": 101
+    },
+    {
+      "date": "1991-07-27",
+      "rank": 112
+    },
+    {
+      "date": "1991-08-03",
+      "rank": 114
+    },
+    {
+      "date": "1991-08-10",
+      "rank": 131
+    },
+    {
+      "date": "1991-08-17",
+      "rank": 133
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 133
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 145
+    },
+    {
+      "date": "1991-09-07",
+      "rank": 155
+    },
+    {
+      "date": "1991-09-14",
+      "rank": 166
+    },
+    {
+      "date": "1991-09-21",
+      "rank": 175
+    },
+    {
+      "date": "1991-09-28",
+      "rank": 192
+    },
+    {
+      "date": "1991-10-05",
+      "rank": 193
+    },
+    {
+      "date": "1991-10-19",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wanna Get With U",
+      "id": "i-wanna-get-with-u-guy"
+    },
+    {
+      "title": "Let's Chill",
+      "id": "let-s-chill-guy"
+    },
+    {
+      "title": "Wanna Get With U (club version)",
+      "id": "i-wanna-get-with-u-guy"
+    },
+    {
+      "title": "Her",
+      "id": null
+    },
+    {
+      "title": "Do Me Right",
+      "id": null
+    },
+    {
+      "title": "Teddy's Jam 2",
+      "id": null
+    },
+    {
+      "title": "Tease Me Tonite",
+      "id": null
+    },
+    {
+      "title": "D-O-G Me Out",
+      "id": null
+    },
+    {
+      "title": "Total Control",
+      "id": null
+    },
+    {
+      "title": "Gotta Be a Leader",
+      "id": null
+    },
+    {
+      "title": "The Future",
+      "id": null
+    },
+    {
+      "title": "Let's Stay Together",
+      "id": null
+    },
+    {
+      "title": "Where Did the Love Go",
+      "id": null
+    },
+    {
+      "title": "Yearning for Your Love",
+      "id": null
+    },
+    {
+      "title": "Smile",
+      "id": null
+    },
+    {
+      "title": "Long Gone",
+      "id": null
+    }
+  ]
+}

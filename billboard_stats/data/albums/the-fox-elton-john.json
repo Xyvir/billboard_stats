@@ -1,1 +1,122 @@
-{"id": "the-fox-elton-john", "title": "The Fox", "artist": "Elton John", "peak": 21, "history": [{"date": "1981-06-06", "rank": 50}, {"date": "1981-06-13", "rank": 25}, {"date": "1981-06-20", "rank": 23}, {"date": "1981-06-27", "rank": 21}, {"date": "1981-07-04", "rank": 21}, {"date": "1981-07-11", "rank": 29}, {"date": "1981-07-18", "rank": 62}, {"date": "1981-07-25", "rank": 60}, {"date": "1981-08-01", "rank": 59}, {"date": "1981-08-08", "rank": 57}, {"date": "1981-08-15", "rank": 84}, {"date": "1981-08-22", "rank": 92}, {"date": "1981-08-29", "rank": 101}, {"date": "1981-09-05", "rank": 100}, {"date": "1981-09-12", "rank": 121}, {"date": "1981-09-19", "rank": 121}, {"date": "1981-09-26", "rank": 120}, {"date": "1981-10-03", "rank": 130}, {"date": "1981-10-10", "rank": 177}]}
+{
+  "id": "the-fox-elton-john",
+  "title": "The Fox",
+  "artist": "Elton John",
+  "peak": 21,
+  "history": [
+    {
+      "date": "1981-06-06",
+      "rank": 50
+    },
+    {
+      "date": "1981-06-13",
+      "rank": 25
+    },
+    {
+      "date": "1981-06-20",
+      "rank": 23
+    },
+    {
+      "date": "1981-06-27",
+      "rank": 21
+    },
+    {
+      "date": "1981-07-04",
+      "rank": 21
+    },
+    {
+      "date": "1981-07-11",
+      "rank": 29
+    },
+    {
+      "date": "1981-07-18",
+      "rank": 62
+    },
+    {
+      "date": "1981-07-25",
+      "rank": 60
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 59
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 57
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 84
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 92
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 101
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 100
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 121
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 121
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 120
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 130
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Nobody Wins",
+      "id": "nobody-wins-elton-john"
+    },
+    {
+      "title": "Heels of the Wind",
+      "id": "candle-in-the-wind-elton-john"
+    },
+    {
+      "title": "Elton’s Song",
+      "id": "the-last-song-elton-john"
+    },
+    {
+      "title": "The Fox",
+      "id": "the-one-elton-john"
+    },
+    {
+      "title": "Breaking Down Barriers",
+      "id": null
+    },
+    {
+      "title": "Heart in the Right Place",
+      "id": null
+    },
+    {
+      "title": "Just Like Belgium",
+      "id": null
+    },
+    {
+      "title": "Fascist Faces",
+      "id": null
+    },
+    {
+      "title": "Carla / Etude / Fanfare / Chloe",
+      "id": null
+    }
+  ]
+}

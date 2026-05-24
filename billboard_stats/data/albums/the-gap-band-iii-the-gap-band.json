@@ -1,1 +1,194 @@
-{"id": "the-gap-band-iii-the-gap-band", "title": "The Gap Band III", "artist": "The Gap Band", "peak": 16, "history": [{"date": "1980-12-27", "rank": 104}, {"date": "1981-01-03", "rank": 104}, {"date": "1981-01-10", "rank": 87}, {"date": "1981-01-17", "rank": 76}, {"date": "1981-01-24", "rank": 66}, {"date": "1981-01-31", "rank": 51}, {"date": "1981-02-07", "rank": 41}, {"date": "1981-02-14", "rank": 21}, {"date": "1981-02-21", "rank": 19}, {"date": "1981-02-28", "rank": 18}, {"date": "1981-03-07", "rank": 18}, {"date": "1981-03-14", "rank": 16}, {"date": "1981-03-21", "rank": 16}, {"date": "1981-03-28", "rank": 20}, {"date": "1981-04-04", "rank": 20}, {"date": "1981-04-11", "rank": 20}, {"date": "1981-04-18", "rank": 21}, {"date": "1981-04-25", "rank": 24}, {"date": "1981-05-02", "rank": 29}, {"date": "1981-05-09", "rank": 31}, {"date": "1981-05-16", "rank": 30}, {"date": "1981-05-23", "rank": 33}, {"date": "1981-05-30", "rank": 33}, {"date": "1981-06-06", "rank": 32}, {"date": "1981-06-13", "rank": 58}, {"date": "1981-06-20", "rank": 58}, {"date": "1981-06-27", "rank": 66}, {"date": "1981-07-04", "rank": 69}, {"date": "1981-07-11", "rank": 82}, {"date": "1981-07-18", "rank": 82}, {"date": "1981-07-25", "rank": 92}, {"date": "1981-08-01", "rank": 90}, {"date": "1981-08-08", "rank": 90}, {"date": "1981-08-15", "rank": 109}, {"date": "1981-08-22", "rank": 136}, {"date": "1981-08-29", "rank": 150}, {"date": "1981-09-05", "rank": 148}]}
+{
+  "id": "the-gap-band-iii-the-gap-band",
+  "title": "The Gap Band III",
+  "artist": "The Gap Band",
+  "peak": 16,
+  "history": [
+    {
+      "date": "1980-12-27",
+      "rank": 104
+    },
+    {
+      "date": "1981-01-03",
+      "rank": 104
+    },
+    {
+      "date": "1981-01-10",
+      "rank": 87
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 76
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 66
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 51
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 41
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 21
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 19
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 18
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 18
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 16
+    },
+    {
+      "date": "1981-03-21",
+      "rank": 16
+    },
+    {
+      "date": "1981-03-28",
+      "rank": 20
+    },
+    {
+      "date": "1981-04-04",
+      "rank": 20
+    },
+    {
+      "date": "1981-04-11",
+      "rank": 20
+    },
+    {
+      "date": "1981-04-18",
+      "rank": 21
+    },
+    {
+      "date": "1981-04-25",
+      "rank": 24
+    },
+    {
+      "date": "1981-05-02",
+      "rank": 29
+    },
+    {
+      "date": "1981-05-09",
+      "rank": 31
+    },
+    {
+      "date": "1981-05-16",
+      "rank": 30
+    },
+    {
+      "date": "1981-05-23",
+      "rank": 33
+    },
+    {
+      "date": "1981-05-30",
+      "rank": 33
+    },
+    {
+      "date": "1981-06-06",
+      "rank": 32
+    },
+    {
+      "date": "1981-06-13",
+      "rank": 58
+    },
+    {
+      "date": "1981-06-20",
+      "rank": 58
+    },
+    {
+      "date": "1981-06-27",
+      "rank": 66
+    },
+    {
+      "date": "1981-07-04",
+      "rank": 69
+    },
+    {
+      "date": "1981-07-11",
+      "rank": 82
+    },
+    {
+      "date": "1981-07-18",
+      "rank": 82
+    },
+    {
+      "date": "1981-07-25",
+      "rank": 92
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 90
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 90
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 109
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 136
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 150
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 148
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Yearning for Your Love",
+      "id": "yearning-for-your-love-the-gap-band"
+    },
+    {
+      "title": "Burn Rubber (Why You Wanna Hurt Me)",
+      "id": "burn-rubber-why-you-wanna-hurt-me-the-gap-band"
+    },
+    {
+      "title": "When I Look in Your Eyes",
+      "id": null
+    },
+    {
+      "title": "Nothing Comes to Sleepers",
+      "id": null
+    },
+    {
+      "title": "Are You Living",
+      "id": null
+    },
+    {
+      "title": "Sweet Caroline",
+      "id": null
+    },
+    {
+      "title": "Humpin’",
+      "id": null
+    },
+    {
+      "title": "The Way",
+      "id": null
+    },
+    {
+      "title": "Gash Gash Gash",
+      "id": null
+    }
+  ]
+}
