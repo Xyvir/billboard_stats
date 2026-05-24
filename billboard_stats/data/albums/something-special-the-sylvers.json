@@ -1,1 +1,122 @@
-{"id": "something-special-the-sylvers", "title": "Something Special", "artist": "The Sylvers", "peak": 80, "history": [{"date": "1976-11-20", "rank": 157}, {"date": "1976-11-27", "rank": 146}, {"date": "1976-12-04", "rank": 113}, {"date": "1976-12-11", "rank": 103}, {"date": "1976-12-18", "rank": 92}, {"date": "1976-12-25", "rank": 80}, {"date": "1977-01-01", "rank": 80}, {"date": "1977-01-08", "rank": 80}, {"date": "1977-01-15", "rank": 107}, {"date": "1977-01-22", "rank": 116}, {"date": "1977-01-29", "rank": 113}, {"date": "1977-02-05", "rank": 109}, {"date": "1977-02-12", "rank": 103}, {"date": "1977-02-19", "rank": 101}, {"date": "1977-02-26", "rank": 111}, {"date": "1977-03-05", "rank": 121}, {"date": "1977-03-12", "rank": 184}, {"date": "1977-03-19", "rank": 197}]}
+{
+  "id": "something-special-the-sylvers",
+  "title": "Something Special",
+  "artist": "The Sylvers",
+  "peak": 80,
+  "history": [
+    {
+      "date": "1976-11-20",
+      "rank": 157
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 146
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 113
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 103
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 92
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 80
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 80
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 80
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 107
+    },
+    {
+      "date": "1977-01-22",
+      "rank": 116
+    },
+    {
+      "date": "1977-01-29",
+      "rank": 113
+    },
+    {
+      "date": "1977-02-05",
+      "rank": 109
+    },
+    {
+      "date": "1977-02-12",
+      "rank": 103
+    },
+    {
+      "date": "1977-02-19",
+      "rank": 101
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 111
+    },
+    {
+      "date": "1977-03-05",
+      "rank": 121
+    },
+    {
+      "date": "1977-03-12",
+      "rank": 184
+    },
+    {
+      "date": "1977-03-19",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hot Line",
+      "id": "hot-line-the-sylvers"
+    },
+    {
+      "title": "High School Dance",
+      "id": "high-school-dance-the-sylvers"
+    },
+    {
+      "title": "Got To Have You (For My Very Own)",
+      "id": null
+    },
+    {
+      "title": "Now I Want You",
+      "id": null
+    },
+    {
+      "title": "Ain’t No Doubt About It",
+      "id": null
+    },
+    {
+      "title": "Shake ’Um Up",
+      "id": null
+    },
+    {
+      "title": "Mista Guitar Man",
+      "id": null
+    },
+    {
+      "title": "Lovin' You Is Like Lovin' The Wind",
+      "id": null
+    },
+    {
+      "title": "That's What Love Is Made Of",
+      "id": null
+    },
+    {
+      "title": "Disco Showdown",
+      "id": null
+    }
+  ]
+}

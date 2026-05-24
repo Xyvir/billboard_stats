@@ -1,1 +1,66 @@
-{"id": "something-to-give-each-other-troye-sivan", "title": "Something To Give Each Other", "artist": "Troye Sivan", "peak": 20, "history": [{"date": "2023-10-28", "rank": 20}, {"date": "2023-11-04", "rank": 66}, {"date": "2023-11-11", "rank": 130}, {"date": "2023-11-18", "rank": 183}]}
+{
+  "id": "something-to-give-each-other-troye-sivan",
+  "title": "Something To Give Each Other",
+  "artist": "Troye Sivan",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2023-10-28",
+      "rank": 20
+    },
+    {
+      "date": "2023-11-04",
+      "rank": 66
+    },
+    {
+      "date": "2023-11-11",
+      "rank": 130
+    },
+    {
+      "date": "2023-11-18",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rush",
+      "id": "rush-troye-sivan"
+    },
+    {
+      "title": "One of Your Girls",
+      "id": "one-of-your-girls-troye-sivan"
+    },
+    {
+      "title": "What’s the Time Where You Are?",
+      "id": null
+    },
+    {
+      "title": "In My Room",
+      "id": null
+    },
+    {
+      "title": "Still Got It",
+      "id": null
+    },
+    {
+      "title": "Can’t Go Back, Baby",
+      "id": null
+    },
+    {
+      "title": "Got Me Started",
+      "id": null
+    },
+    {
+      "title": "Silly",
+      "id": null
+    },
+    {
+      "title": "Honey",
+      "id": null
+    },
+    {
+      "title": "How to Stay With You",
+      "id": null
+    }
+  ]
+}

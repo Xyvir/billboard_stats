@@ -1,1 +1,166 @@
-{"id": "something-s-going-on-frida", "title": "Something's Going On", "artist": "Frida", "peak": 41, "history": [{"date": "1982-11-13", "rank": 189}, {"date": "1982-11-20", "rank": 180}, {"date": "1982-11-27", "rank": 172}, {"date": "1982-12-04", "rank": 159}, {"date": "1982-12-11", "rank": 128}, {"date": "1982-12-18", "rank": 121}, {"date": "1982-12-25", "rank": 121}, {"date": "1983-01-01", "rank": 121}, {"date": "1983-01-08", "rank": 115}, {"date": "1983-01-15", "rank": 115}, {"date": "1983-01-22", "rank": 111}, {"date": "1983-01-29", "rank": 108}, {"date": "1983-02-05", "rank": 108}, {"date": "1983-02-12", "rank": 95}, {"date": "1983-02-19", "rank": 77}, {"date": "1983-02-26", "rank": 68}, {"date": "1983-03-05", "rank": 59}, {"date": "1983-03-12", "rank": 51}, {"date": "1983-03-19", "rank": 47}, {"date": "1983-03-26", "rank": 43}, {"date": "1983-04-02", "rank": 43}, {"date": "1983-04-09", "rank": 41}, {"date": "1983-04-16", "rank": 41}, {"date": "1983-04-23", "rank": 56}, {"date": "1983-04-30", "rank": 78}, {"date": "1983-05-07", "rank": 83}, {"date": "1983-05-14", "rank": 101}, {"date": "1983-05-21", "rank": 114}]}
+{
+  "id": "something-s-going-on-frida",
+  "title": "Something's Going On",
+  "artist": "Frida",
+  "peak": 41,
+  "history": [
+    {
+      "date": "1982-11-13",
+      "rank": 189
+    },
+    {
+      "date": "1982-11-20",
+      "rank": 180
+    },
+    {
+      "date": "1982-11-27",
+      "rank": 172
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 159
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 128
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 121
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 121
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 121
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 115
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 115
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 111
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 108
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 108
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 95
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 77
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 68
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 59
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 51
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 47
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 43
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 43
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 41
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 41
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 56
+    },
+    {
+      "date": "1983-04-30",
+      "rank": 78
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 83
+    },
+    {
+      "date": "1983-05-14",
+      "rank": 101
+    },
+    {
+      "date": "1983-05-21",
+      "rank": 114
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Know There’s Something Going On",
+      "id": "i-know-there-s-something-going-on-frida"
+    },
+    {
+      "title": "Tell Me It’s Over",
+      "id": null
+    },
+    {
+      "title": "I See Red",
+      "id": null
+    },
+    {
+      "title": "I Got Something",
+      "id": null
+    },
+    {
+      "title": "Strangers",
+      "id": null
+    },
+    {
+      "title": "To Turn the Stone",
+      "id": null
+    },
+    {
+      "title": "Threnody",
+      "id": null
+    },
+    {
+      "title": "Baby Don’t You Cry No More",
+      "id": null
+    },
+    {
+      "title": "The Way You Do",
+      "id": null
+    },
+    {
+      "title": "You Know What I Mean",
+      "id": null
+    },
+    {
+      "title": "Here We’ll Stay",
+      "id": null
+    }
+  ]
+}

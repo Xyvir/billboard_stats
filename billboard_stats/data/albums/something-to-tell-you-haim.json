@@ -1,1 +1,62 @@
-{"id": "something-to-tell-you-haim", "title": "Something To Tell You", "artist": "Haim", "peak": 7, "history": [{"date": "2017-07-29", "rank": 7}, {"date": "2017-08-05", "rank": 70}]}
+{
+  "id": "something-to-tell-you-haim",
+  "title": "Something To Tell You",
+  "artist": "Haim",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2017-07-29",
+      "rank": 7
+    },
+    {
+      "date": "2017-08-05",
+      "rank": 70
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Want You Back",
+      "id": null
+    },
+    {
+      "title": "Nothing’s Wrong",
+      "id": null
+    },
+    {
+      "title": "Little of Your Love",
+      "id": null
+    },
+    {
+      "title": "Ready for You",
+      "id": null
+    },
+    {
+      "title": "Something to Tell You",
+      "id": null
+    },
+    {
+      "title": "You Never Knew",
+      "id": null
+    },
+    {
+      "title": "Kept Me Crying",
+      "id": null
+    },
+    {
+      "title": "Found It in Silence",
+      "id": null
+    },
+    {
+      "title": "Walking Away",
+      "id": null
+    },
+    {
+      "title": "Right Now",
+      "id": null
+    },
+    {
+      "title": "Night So Long",
+      "id": null
+    }
+  ]
+}
