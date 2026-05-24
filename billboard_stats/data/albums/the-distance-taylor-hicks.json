@@ -1,1 +1,70 @@
-{"id": "the-distance-taylor-hicks", "title": "The Distance", "artist": "Taylor Hicks", "peak": 58, "history": [{"date": "2009-03-28", "rank": 58}, {"date": "2009-04-04", "rank": 87}, {"date": "2009-04-11", "rank": 166}, {"date": "2009-05-16", "rank": 180}]}
+{
+  "id": "the-distance-taylor-hicks",
+  "title": "The Distance",
+  "artist": "Taylor Hicks",
+  "peak": 58,
+  "history": [
+    {
+      "date": "2009-03-28",
+      "rank": 58
+    },
+    {
+      "date": "2009-04-04",
+      "rank": 87
+    },
+    {
+      "date": "2009-04-11",
+      "rank": 166
+    },
+    {
+      "date": "2009-05-16",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Maybe You Should",
+      "id": "do-i-make-you-proud-taylor-hicks"
+    },
+    {
+      "title": "The Distance",
+      "id": null
+    },
+    {
+      "title": "What's Right Is Right",
+      "id": null
+    },
+    {
+      "title": "New Found Freedom",
+      "id": null
+    },
+    {
+      "title": "Nineteen",
+      "id": null
+    },
+    {
+      "title": "Once Upon a Lover",
+      "id": null
+    },
+    {
+      "title": "Seven Mile Breakdown",
+      "id": null
+    },
+    {
+      "title": "Keeping It Real",
+      "id": null
+    },
+    {
+      "title": "I Live on a Battlefield",
+      "id": null
+    },
+    {
+      "title": "Wedding Day Blues",
+      "id": null
+    },
+    {
+      "title": "Woman's Got to Have It",
+      "id": null
+    }
+  ]
+}

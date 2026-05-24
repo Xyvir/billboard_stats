@@ -1,1 +1,86 @@
-{"id": "the-doctor-cheap-trick", "title": "The Doctor", "artist": "Cheap Trick", "peak": 115, "history": [{"date": "1986-10-18", "rank": 158}, {"date": "1986-10-25", "rank": 135}, {"date": "1986-11-01", "rank": 117}, {"date": "1986-11-08", "rank": 115}, {"date": "1986-11-15", "rank": 115}, {"date": "1986-11-22", "rank": 139}, {"date": "1986-11-29", "rank": 152}, {"date": "1986-12-06", "rank": 183}, {"date": "1986-12-13", "rank": 200}]}
+{
+  "id": "the-doctor-cheap-trick",
+  "title": "The Doctor",
+  "artist": "Cheap Trick",
+  "peak": 115,
+  "history": [
+    {
+      "date": "1986-10-18",
+      "rank": 158
+    },
+    {
+      "date": "1986-10-25",
+      "rank": 135
+    },
+    {
+      "date": "1986-11-01",
+      "rank": 117
+    },
+    {
+      "date": "1986-11-08",
+      "rank": 115
+    },
+    {
+      "date": "1986-11-15",
+      "rank": 115
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 139
+    },
+    {
+      "date": "1986-11-29",
+      "rank": 152
+    },
+    {
+      "date": "1986-12-06",
+      "rank": 183
+    },
+    {
+      "date": "1986-12-13",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Name of the Game",
+      "id": "stop-this-game-cheap-trick"
+    },
+    {
+      "title": "It’s Up to You",
+      "id": null
+    },
+    {
+      "title": "Rearview Mirror Romance",
+      "id": null
+    },
+    {
+      "title": "The Doctor",
+      "id": null
+    },
+    {
+      "title": "Are You Lonely Tonight",
+      "id": null
+    },
+    {
+      "title": "Kiss Me Red",
+      "id": null
+    },
+    {
+      "title": "Take Me to the Top",
+      "id": null
+    },
+    {
+      "title": "Good Girls Go to Heaven (Bad Girls Go Everywhere)",
+      "id": null
+    },
+    {
+      "title": "Man‐u‐lip‐u‐lator",
+      "id": null
+    },
+    {
+      "title": "It’s Only Love",
+      "id": null
+    }
+  ]
+}
