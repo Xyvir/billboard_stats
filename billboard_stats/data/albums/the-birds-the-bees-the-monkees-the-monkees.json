@@ -1,1 +1,102 @@
-{"id": "the-birds-the-bees-the-monkees-the-monkees", "title": "The Birds, The Bees & The Monkees", "artist": "The Monkees", "peak": 145, "history": [{"date": "1986-09-13", "rank": 185}, {"date": "1986-09-20", "rank": 165}, {"date": "1986-09-27", "rank": 149}, {"date": "1986-10-04", "rank": 149}, {"date": "1986-10-11", "rank": 145}, {"date": "1986-10-18", "rank": 151}, {"date": "1986-10-25", "rank": 148}, {"date": "1986-11-01", "rank": 148}, {"date": "1986-11-08", "rank": 158}, {"date": "1986-11-15", "rank": 160}, {"date": "1986-11-22", "rank": 189}]}
+{
+  "id": "the-birds-the-bees-the-monkees-the-monkees",
+  "title": "The Birds, The Bees & The Monkees",
+  "artist": "The Monkees",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1986-09-13",
+      "rank": 185
+    },
+    {
+      "date": "1986-09-20",
+      "rank": 165
+    },
+    {
+      "date": "1986-09-27",
+      "rank": 149
+    },
+    {
+      "date": "1986-10-04",
+      "rank": 149
+    },
+    {
+      "date": "1986-10-11",
+      "rank": 145
+    },
+    {
+      "date": "1986-10-18",
+      "rank": 151
+    },
+    {
+      "date": "1986-10-25",
+      "rank": 148
+    },
+    {
+      "date": "1986-11-01",
+      "rank": 148
+    },
+    {
+      "date": "1986-11-08",
+      "rank": 158
+    },
+    {
+      "date": "1986-11-15",
+      "rank": 160
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tapioca Tundra",
+      "id": "tapioca-tundra-the-monkees"
+    },
+    {
+      "title": "Daydream Believer",
+      "id": "daydream-believer-the-monkees"
+    },
+    {
+      "title": "Valleri",
+      "id": "valleri-the-monkees"
+    },
+    {
+      "title": "Dream World",
+      "id": null
+    },
+    {
+      "title": "Auntie’s Municipal Court",
+      "id": null
+    },
+    {
+      "title": "We Were Made for Each Other",
+      "id": null
+    },
+    {
+      "title": "Writing Wrongs",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Back Up on My Feet",
+      "id": null
+    },
+    {
+      "title": "The Poster",
+      "id": null
+    },
+    {
+      "title": "P.O. Box 9847",
+      "id": null
+    },
+    {
+      "title": "Magnolia Simms",
+      "id": null
+    },
+    {
+      "title": "Zor and Zam",
+      "id": null
+    }
+  ]
+}

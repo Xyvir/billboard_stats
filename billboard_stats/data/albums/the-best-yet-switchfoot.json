@@ -1,1 +1,86 @@
-{"id": "the-best-yet-switchfoot", "title": "The Best Yet", "artist": "Switchfoot", "peak": 123, "history": [{"date": "2008-11-22", "rank": 123}]}
+{
+  "id": "the-best-yet-switchfoot",
+  "title": "The Best Yet",
+  "artist": "Switchfoot",
+  "peak": 123,
+  "history": [
+    {
+      "date": "2008-11-22",
+      "rank": 123
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dare You to Move",
+      "id": "dare-you-to-move-switchfoot"
+    },
+    {
+      "title": "Meant to Live",
+      "id": "meant-to-live-switchfoot"
+    },
+    {
+      "title": "Stars",
+      "id": "stars-switchfoot"
+    },
+    {
+      "title": "Oh! Gravity.",
+      "id": null
+    },
+    {
+      "title": "This Is Home",
+      "id": null
+    },
+    {
+      "title": "Learning to Breathe",
+      "id": null
+    },
+    {
+      "title": "Awakening",
+      "id": null
+    },
+    {
+      "title": "This Is Your Life",
+      "id": null
+    },
+    {
+      "title": "On Fire",
+      "id": null
+    },
+    {
+      "title": "Only Hope",
+      "id": null
+    },
+    {
+      "title": "Dirty Second Hands",
+      "id": null
+    },
+    {
+      "title": "Love Is the Movement",
+      "id": null
+    },
+    {
+      "title": "Company Car",
+      "id": null
+    },
+    {
+      "title": "Lonely Nation",
+      "id": null
+    },
+    {
+      "title": "The Shadow Proves the Sunshine",
+      "id": null
+    },
+    {
+      "title": "Concrete Girl",
+      "id": null
+    },
+    {
+      "title": "Twenty-Four",
+      "id": null
+    },
+    {
+      "title": "The Beautiful Letdown",
+      "id": null
+    }
+  ]
+}

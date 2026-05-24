@@ -1,1 +1,86 @@
-{"id": "the-big-express-xtc", "title": "The Big Express", "artist": "XTC", "peak": 178, "history": [{"date": "1984-11-10", "rank": 183}, {"date": "1984-11-17", "rank": 181}, {"date": "1984-11-24", "rank": 181}, {"date": "1984-12-01", "rank": 178}, {"date": "1984-12-08", "rank": 198}]}
+{
+  "id": "the-big-express-xtc",
+  "title": "The Big Express",
+  "artist": "XTC",
+  "peak": 178,
+  "history": [
+    {
+      "date": "1984-11-10",
+      "rank": 183
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 181
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 181
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 178
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Everyday Story of Smalltown",
+      "id": "the-mayor-of-simpleton-xtc"
+    },
+    {
+      "title": "Wake Up",
+      "id": null
+    },
+    {
+      "title": "All You Pretty Girls",
+      "id": null
+    },
+    {
+      "title": "Shake You Donkey Up",
+      "id": null
+    },
+    {
+      "title": "Seagulls Screaming Kiss Her, Kiss Her",
+      "id": null
+    },
+    {
+      "title": "This World Over",
+      "id": null
+    },
+    {
+      "title": "Red Brick Dream",
+      "id": null
+    },
+    {
+      "title": "Washaway",
+      "id": null
+    },
+    {
+      "title": "Blue Overall",
+      "id": null
+    },
+    {
+      "title": "I Bought Myself a Liarbird",
+      "id": null
+    },
+    {
+      "title": "Reign of Blows",
+      "id": null
+    },
+    {
+      "title": "You’re the Wish You Are I Had",
+      "id": null
+    },
+    {
+      "title": "I Remember the Sun",
+      "id": null
+    },
+    {
+      "title": "Train Running Low on Soul Coal",
+      "id": null
+    }
+  ]
+}
