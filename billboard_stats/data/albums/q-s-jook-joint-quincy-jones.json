@@ -1,1 +1,218 @@
-{"id": "q-s-jook-joint-quincy-jones", "title": "Q's Jook Joint", "artist": "Quincy Jones", "peak": 32, "history": [{"date": "1995-11-25", "rank": 33}, {"date": "1995-12-02", "rank": 32}, {"date": "1995-12-09", "rank": 45}, {"date": "1995-12-16", "rank": 45}, {"date": "1995-12-23", "rank": 60}, {"date": "1995-12-30", "rank": 59}, {"date": "1996-01-06", "rank": 62}, {"date": "1996-01-13", "rank": 67}, {"date": "1996-01-20", "rank": 50}, {"date": "1996-01-27", "rank": 43}, {"date": "1996-02-03", "rank": 40}, {"date": "1996-02-10", "rank": 38}, {"date": "1996-02-17", "rank": 47}, {"date": "1996-02-24", "rank": 46}, {"date": "1996-03-02", "rank": 53}, {"date": "1996-03-09", "rank": 62}, {"date": "1996-03-16", "rank": 67}, {"date": "1996-03-23", "rank": 77}, {"date": "1996-03-30", "rank": 77}, {"date": "1996-04-06", "rank": 80}, {"date": "1996-04-13", "rank": 77}, {"date": "1996-04-20", "rank": 73}, {"date": "1996-04-27", "rank": 73}, {"date": "1996-05-04", "rank": 68}, {"date": "1996-05-11", "rank": 72}, {"date": "1996-05-18", "rank": 87}, {"date": "1996-05-25", "rank": 90}, {"date": "1996-06-01", "rank": 106}, {"date": "1996-06-08", "rank": 113}, {"date": "1996-06-15", "rank": 121}, {"date": "1996-06-22", "rank": 153}, {"date": "1996-06-29", "rank": 51}, {"date": "1996-07-06", "rank": 85}, {"date": "1996-07-13", "rank": 127}, {"date": "1996-07-20", "rank": 133}, {"date": "1996-07-27", "rank": 157}, {"date": "1996-08-03", "rank": 177}, {"date": "1996-08-10", "rank": 190}]}
+{
+  "id": "q-s-jook-joint-quincy-jones",
+  "title": "Q's Jook Joint",
+  "artist": "Quincy Jones",
+  "peak": 32,
+  "history": [
+    {
+      "date": "1995-11-25",
+      "rank": 33
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 32
+    },
+    {
+      "date": "1995-12-09",
+      "rank": 45
+    },
+    {
+      "date": "1995-12-16",
+      "rank": 45
+    },
+    {
+      "date": "1995-12-23",
+      "rank": 60
+    },
+    {
+      "date": "1995-12-30",
+      "rank": 59
+    },
+    {
+      "date": "1996-01-06",
+      "rank": 62
+    },
+    {
+      "date": "1996-01-13",
+      "rank": 67
+    },
+    {
+      "date": "1996-01-20",
+      "rank": 50
+    },
+    {
+      "date": "1996-01-27",
+      "rank": 43
+    },
+    {
+      "date": "1996-02-03",
+      "rank": 40
+    },
+    {
+      "date": "1996-02-10",
+      "rank": 38
+    },
+    {
+      "date": "1996-02-17",
+      "rank": 47
+    },
+    {
+      "date": "1996-02-24",
+      "rank": 46
+    },
+    {
+      "date": "1996-03-02",
+      "rank": 53
+    },
+    {
+      "date": "1996-03-09",
+      "rank": 62
+    },
+    {
+      "date": "1996-03-16",
+      "rank": 67
+    },
+    {
+      "date": "1996-03-23",
+      "rank": 77
+    },
+    {
+      "date": "1996-03-30",
+      "rank": 77
+    },
+    {
+      "date": "1996-04-06",
+      "rank": 80
+    },
+    {
+      "date": "1996-04-13",
+      "rank": 77
+    },
+    {
+      "date": "1996-04-20",
+      "rank": 73
+    },
+    {
+      "date": "1996-04-27",
+      "rank": 73
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 68
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 72
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 87
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 90
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 106
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 113
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 121
+    },
+    {
+      "date": "1996-06-22",
+      "rank": 153
+    },
+    {
+      "date": "1996-06-29",
+      "rank": 51
+    },
+    {
+      "date": "1996-07-06",
+      "rank": 85
+    },
+    {
+      "date": "1996-07-13",
+      "rank": 127
+    },
+    {
+      "date": "1996-07-20",
+      "rank": 133
+    },
+    {
+      "date": "1996-07-27",
+      "rank": 157
+    },
+    {
+      "date": "1996-08-03",
+      "rank": 177
+    },
+    {
+      "date": "1996-08-10",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Jook Joint Intro",
+      "id": null
+    },
+    {
+      "title": "Let the Good Times Roll",
+      "id": null
+    },
+    {
+      "title": "Cool Joe, Mean Joe (Killer Joe)",
+      "id": null
+    },
+    {
+      "title": "You Put a Move on My Heart",
+      "id": null
+    },
+    {
+      "title": "Rock With You",
+      "id": null
+    },
+    {
+      "title": "Moody’s Mood for Love",
+      "id": null
+    },
+    {
+      "title": "Stomp",
+      "id": null
+    },
+    {
+      "title": "Jook Joint Reprise",
+      "id": null
+    },
+    {
+      "title": "Do Nothin’ Till You Hear From Me",
+      "id": null
+    },
+    {
+      "title": "Is It Love That We’re Missin’",
+      "id": null
+    },
+    {
+      "title": "Heaven’s Girl",
+      "id": null
+    },
+    {
+      "title": "Slow Jams",
+      "id": null
+    },
+    {
+      "title": "At the End of the Day (Grace)",
+      "id": null
+    },
+    {
+      "title": "Jook Joint Outro",
+      "id": null
+    }
+  ]
+}
