@@ -1,1 +1,118 @@
-{"id": "the-number-one-hits-elvis-presley", "title": "The Number One Hits", "artist": "Elvis Presley", "peak": 143, "history": [{"date": "1987-08-08", "rank": 187}, {"date": "1987-08-15", "rank": 187}, {"date": "1987-08-22", "rank": 185}, {"date": "1987-08-29", "rank": 145}, {"date": "1987-09-05", "rank": 143}, {"date": "1987-09-12", "rank": 145}, {"date": "1987-09-19", "rank": 158}, {"date": "1987-09-26", "rank": 159}, {"date": "1987-10-03", "rank": 170}]}
+{
+  "id": "the-number-one-hits-elvis-presley",
+  "title": "The Number One Hits",
+  "artist": "Elvis Presley",
+  "peak": 143,
+  "history": [
+    {
+      "date": "1987-08-08",
+      "rank": 187
+    },
+    {
+      "date": "1987-08-15",
+      "rank": 187
+    },
+    {
+      "date": "1987-08-22",
+      "rank": 185
+    },
+    {
+      "date": "1987-08-29",
+      "rank": 145
+    },
+    {
+      "date": "1987-09-05",
+      "rank": 143
+    },
+    {
+      "date": "1987-09-12",
+      "rank": 145
+    },
+    {
+      "date": "1987-09-19",
+      "rank": 158
+    },
+    {
+      "date": "1987-09-26",
+      "rank": 159
+    },
+    {
+      "date": "1987-10-03",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Me Tender",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "Suspicious Minds",
+      "id": "suspicious-minds-elvis-presley"
+    },
+    {
+      "title": "Heartbreak Hotel",
+      "id": null
+    },
+    {
+      "title": "I Want You, I Need You, I Love You",
+      "id": null
+    },
+    {
+      "title": "Hound Dog",
+      "id": null
+    },
+    {
+      "title": "Don’t Be Cruel",
+      "id": null
+    },
+    {
+      "title": "Too Much",
+      "id": null
+    },
+    {
+      "title": "All Shook Up",
+      "id": null
+    },
+    {
+      "title": "(Let Me Be Your) Teddy Bear",
+      "id": null
+    },
+    {
+      "title": "Jailhouse Rock",
+      "id": null
+    },
+    {
+      "title": "Don’t",
+      "id": null
+    },
+    {
+      "title": "Hard Headed Woman",
+      "id": null
+    },
+    {
+      "title": "A Big Hunk o’ Love",
+      "id": null
+    },
+    {
+      "title": "Stuck on You",
+      "id": null
+    },
+    {
+      "title": "It’s Now or Never",
+      "id": null
+    },
+    {
+      "title": "Are You Lonesome Tonight?",
+      "id": null
+    },
+    {
+      "title": "Surrender",
+      "id": null
+    },
+    {
+      "title": "Good Luck Charm",
+      "id": null
+    }
+  ]
+}
