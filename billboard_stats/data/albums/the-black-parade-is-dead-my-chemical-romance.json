@@ -1,1 +1,86 @@
-{"id": "the-black-parade-is-dead-my-chemical-romance", "title": "The Black Parade Is Dead!", "artist": "My Chemical Romance", "peak": 22, "history": [{"date": "2008-07-19", "rank": 22}, {"date": "2008-07-26", "rank": 104}, {"date": "2008-08-02", "rank": 159}]}
+{
+  "id": "the-black-parade-is-dead-my-chemical-romance",
+  "title": "The Black Parade Is Dead!",
+  "artist": "My Chemical Romance",
+  "peak": 22,
+  "history": [
+    {
+      "date": "2008-07-19",
+      "rank": 22
+    },
+    {
+      "date": "2008-07-26",
+      "rank": 104
+    },
+    {
+      "date": "2008-08-02",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Welcome to the Black Parade",
+      "id": "welcome-to-the-black-parade-my-chemical-romance"
+    },
+    {
+      "title": "Teenagers",
+      "id": "teenagers-my-chemical-romance"
+    },
+    {
+      "title": "The Black Parade Is Dead",
+      "id": "welcome-to-the-black-parade-my-chemical-romance"
+    },
+    {
+      "title": "Famous Last Words",
+      "id": "famous-last-words-my-chemical-romance"
+    },
+    {
+      "title": "The End.",
+      "id": null
+    },
+    {
+      "title": "Dead!",
+      "id": null
+    },
+    {
+      "title": "This Is How I Disappear",
+      "id": null
+    },
+    {
+      "title": "The Sharpest Lives",
+      "id": null
+    },
+    {
+      "title": "I Don’t Love You",
+      "id": null
+    },
+    {
+      "title": "House of Wolves",
+      "id": null
+    },
+    {
+      "title": "Interlude",
+      "id": null
+    },
+    {
+      "title": "Cancer",
+      "id": null
+    },
+    {
+      "title": "Mama",
+      "id": null
+    },
+    {
+      "title": "Sleep",
+      "id": null
+    },
+    {
+      "title": "Disenchanted",
+      "id": null
+    },
+    {
+      "title": "Blood (end credits)",
+      "id": null
+    }
+  ]
+}

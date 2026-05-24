@@ -1,1 +1,74 @@
-{"id": "the-black-album-acappella-jay-z", "title": "The Black Album: Acappella", "artist": "Jay-Z", "peak": 106, "history": [{"date": "2004-05-29", "rank": 106}, {"date": "2004-06-05", "rank": 154}]}
+{
+  "id": "the-black-album-acappella-jay-z",
+  "title": "The Black Album: Acappella",
+  "artist": "Jay-Z",
+  "peak": 106,
+  "history": [
+    {
+      "date": "2004-05-29",
+      "rank": 106
+    },
+    {
+      "date": "2004-06-05",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Change Clothes",
+      "id": "change-clothes-jay-z"
+    },
+    {
+      "title": "Dirt Off Your Shoulder",
+      "id": "dirt-off-your-shoulder-jay-z"
+    },
+    {
+      "title": "99 Problems",
+      "id": "99-problems-jay-z"
+    },
+    {
+      "title": "Interlude",
+      "id": null
+    },
+    {
+      "title": "December 4th",
+      "id": null
+    },
+    {
+      "title": "What More Can I Say",
+      "id": null
+    },
+    {
+      "title": "Encore",
+      "id": null
+    },
+    {
+      "title": "Threat",
+      "id": null
+    },
+    {
+      "title": "Moment of Clarity",
+      "id": null
+    },
+    {
+      "title": "Public Service Announcement (interlude)",
+      "id": null
+    },
+    {
+      "title": "Justify My Thug",
+      "id": null
+    },
+    {
+      "title": "Lucifer",
+      "id": null
+    },
+    {
+      "title": "Allure",
+      "id": null
+    },
+    {
+      "title": "My 1st Song",
+      "id": null
+    }
+  ]
+}

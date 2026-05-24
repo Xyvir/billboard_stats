@@ -1,1 +1,82 @@
-{"id": "the-black-swan-story-of-the-year", "title": "The Black Swan", "artist": "Story of the Year", "peak": 18, "history": [{"date": "2008-05-10", "rank": 18}, {"date": "2008-05-17", "rank": 90}, {"date": "2008-05-24", "rank": 132}, {"date": "2008-05-31", "rank": 163}, {"date": "2008-06-07", "rank": 189}]}
+{
+  "id": "the-black-swan-story-of-the-year",
+  "title": "The Black Swan",
+  "artist": "Story of the Year",
+  "peak": 18,
+  "history": [
+    {
+      "date": "2008-05-10",
+      "rank": 18
+    },
+    {
+      "date": "2008-05-17",
+      "rank": 90
+    },
+    {
+      "date": "2008-05-24",
+      "rank": 132
+    },
+    {
+      "date": "2008-05-31",
+      "rank": 163
+    },
+    {
+      "date": "2008-06-07",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Choose Your Fate",
+      "id": null
+    },
+    {
+      "title": "Wake Up",
+      "id": null
+    },
+    {
+      "title": "The Antidote",
+      "id": null
+    },
+    {
+      "title": "Tell Me (P.A.C.)",
+      "id": null
+    },
+    {
+      "title": "Angel in the Swamp",
+      "id": null
+    },
+    {
+      "title": "The Black Swan",
+      "id": null
+    },
+    {
+      "title": "Message to the World",
+      "id": null
+    },
+    {
+      "title": "Apathy Is a Deathwish",
+      "id": null
+    },
+    {
+      "title": "We’re Not Gonna Make It",
+      "id": null
+    },
+    {
+      "title": "Cannonball",
+      "id": null
+    },
+    {
+      "title": "Terrified",
+      "id": null
+    },
+    {
+      "title": "Pale Blue Dot (interlude)",
+      "id": null
+    },
+    {
+      "title": "Welcome to Our New War",
+      "id": null
+    }
+  ]
+}
