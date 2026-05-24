@@ -1,1 +1,194 @@
-{"id": "one-step-at-a-time-george-strait", "title": "One Step At A Time", "artist": "George Strait", "peak": 2, "history": [{"date": "1998-05-09", "rank": 2}, {"date": "1998-05-16", "rank": 4}, {"date": "1998-05-23", "rank": 13}, {"date": "1998-05-30", "rank": 9}, {"date": "1998-06-06", "rank": 21}, {"date": "1998-06-13", "rank": 24}, {"date": "1998-06-20", "rank": 30}, {"date": "1998-06-27", "rank": 34}, {"date": "1998-07-04", "rank": 30}, {"date": "1998-07-11", "rank": 39}, {"date": "1998-07-18", "rank": 49}, {"date": "1998-07-25", "rank": 58}, {"date": "1998-08-01", "rank": 67}, {"date": "1998-08-08", "rank": 77}, {"date": "1998-08-15", "rank": 84}, {"date": "1998-08-22", "rank": 88}, {"date": "1998-08-29", "rank": 98}, {"date": "1998-09-05", "rank": 109}, {"date": "1998-09-12", "rank": 124}, {"date": "1998-09-19", "rank": 122}, {"date": "1998-09-26", "rank": 129}, {"date": "1998-10-03", "rank": 136}, {"date": "1998-10-10", "rank": 103}, {"date": "1998-10-17", "rank": 100}, {"date": "1998-10-24", "rank": 121}, {"date": "1998-10-31", "rank": 121}, {"date": "1998-11-07", "rank": 125}, {"date": "1998-11-14", "rank": 130}, {"date": "1998-11-21", "rank": 148}, {"date": "1998-11-28", "rank": 149}, {"date": "1998-12-05", "rank": 153}, {"date": "1998-12-12", "rank": 156}, {"date": "1998-12-19", "rank": 151}, {"date": "1998-12-26", "rank": 141}, {"date": "1999-01-02", "rank": 140}, {"date": "1999-01-09", "rank": 156}]}
+{
+  "id": "one-step-at-a-time-george-strait",
+  "title": "One Step At A Time",
+  "artist": "George Strait",
+  "peak": 2,
+  "history": [
+    {
+      "date": "1998-05-09",
+      "rank": 2
+    },
+    {
+      "date": "1998-05-16",
+      "rank": 4
+    },
+    {
+      "date": "1998-05-23",
+      "rank": 13
+    },
+    {
+      "date": "1998-05-30",
+      "rank": 9
+    },
+    {
+      "date": "1998-06-06",
+      "rank": 21
+    },
+    {
+      "date": "1998-06-13",
+      "rank": 24
+    },
+    {
+      "date": "1998-06-20",
+      "rank": 30
+    },
+    {
+      "date": "1998-06-27",
+      "rank": 34
+    },
+    {
+      "date": "1998-07-04",
+      "rank": 30
+    },
+    {
+      "date": "1998-07-11",
+      "rank": 39
+    },
+    {
+      "date": "1998-07-18",
+      "rank": 49
+    },
+    {
+      "date": "1998-07-25",
+      "rank": 58
+    },
+    {
+      "date": "1998-08-01",
+      "rank": 67
+    },
+    {
+      "date": "1998-08-08",
+      "rank": 77
+    },
+    {
+      "date": "1998-08-15",
+      "rank": 84
+    },
+    {
+      "date": "1998-08-22",
+      "rank": 88
+    },
+    {
+      "date": "1998-08-29",
+      "rank": 98
+    },
+    {
+      "date": "1998-09-05",
+      "rank": 109
+    },
+    {
+      "date": "1998-09-12",
+      "rank": 124
+    },
+    {
+      "date": "1998-09-19",
+      "rank": 122
+    },
+    {
+      "date": "1998-09-26",
+      "rank": 129
+    },
+    {
+      "date": "1998-10-03",
+      "rank": 136
+    },
+    {
+      "date": "1998-10-10",
+      "rank": 103
+    },
+    {
+      "date": "1998-10-17",
+      "rank": 100
+    },
+    {
+      "date": "1998-10-24",
+      "rank": 121
+    },
+    {
+      "date": "1998-10-31",
+      "rank": 121
+    },
+    {
+      "date": "1998-11-07",
+      "rank": 125
+    },
+    {
+      "date": "1998-11-14",
+      "rank": 130
+    },
+    {
+      "date": "1998-11-21",
+      "rank": 148
+    },
+    {
+      "date": "1998-11-28",
+      "rank": 149
+    },
+    {
+      "date": "1998-12-05",
+      "rank": 153
+    },
+    {
+      "date": "1998-12-12",
+      "rank": 156
+    },
+    {
+      "date": "1998-12-19",
+      "rank": 151
+    },
+    {
+      "date": "1998-12-26",
+      "rank": 141
+    },
+    {
+      "date": "1999-01-02",
+      "rank": 140
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Just Want to Dance With You",
+      "id": "i-just-want-to-dance-with-you-george-strait"
+    },
+    {
+      "title": "One Step at a Time",
+      "id": "one-night-at-a-time-george-strait"
+    },
+    {
+      "title": "We Really Shouldn’t Be Doing This",
+      "id": "we-really-shouldn-t-be-doing-this-george-strait"
+    },
+    {
+      "title": "True",
+      "id": null
+    },
+    {
+      "title": "Remember the Alamo",
+      "id": null
+    },
+    {
+      "title": "Maria",
+      "id": null
+    },
+    {
+      "title": "Why Not Now",
+      "id": null
+    },
+    {
+      "title": "That’s the Breaks",
+      "id": null
+    },
+    {
+      "title": "Neon Row",
+      "id": null
+    },
+    {
+      "title": "You Haven’t Left Me Yet",
+      "id": null
+    }
+  ]
+}
