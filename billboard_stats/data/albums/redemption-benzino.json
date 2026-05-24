@@ -1,1 +1,86 @@
-{"id": "redemption-benzino", "title": "Redemption", "artist": "Benzino", "peak": 65, "history": [{"date": "2003-02-01", "rank": 65}, {"date": "2003-02-08", "rank": 127}, {"date": "2003-02-15", "rank": 165}]}
+{
+  "id": "redemption-benzino",
+  "title": "Redemption",
+  "artist": "Benzino",
+  "peak": 65,
+  "history": [
+    {
+      "date": "2003-02-01",
+      "rank": 65
+    },
+    {
+      "date": "2003-02-08",
+      "rank": 127
+    },
+    {
+      "date": "2003-02-15",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rock the Party",
+      "id": "rock-the-party-benzino"
+    },
+    {
+      "title": "Rock the Party (Young Heff remix)",
+      "id": "rock-the-party-benzino"
+    },
+    {
+      "title": "Stayin' 4 Eva",
+      "id": null
+    },
+    {
+      "title": "Call My Name",
+      "id": null
+    },
+    {
+      "title": "Would You",
+      "id": null
+    },
+    {
+      "title": "Make You Wanna Holla",
+      "id": null
+    },
+    {
+      "title": "Neva Shuvin",
+      "id": null
+    },
+    {
+      "title": "Gangsta's Touch",
+      "id": null
+    },
+    {
+      "title": "Redemption (Rosary)",
+      "id": null
+    },
+    {
+      "title": "Xtra Hot",
+      "id": null
+    },
+    {
+      "title": "I Remember",
+      "id": null
+    },
+    {
+      "title": "Get It On",
+      "id": null
+    },
+    {
+      "title": "44 Cal Killa",
+      "id": null
+    },
+    {
+      "title": "Love",
+      "id": null
+    },
+    {
+      "title": "Different Kind of Lady",
+      "id": null
+    },
+    {
+      "title": "Pull Your Skirt Up",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,238 @@
-{"id": "red-headed-stranger-willie-nelson", "title": "Red Headed Stranger", "artist": "Willie Nelson", "peak": 28, "history": [{"date": "1975-07-26", "rank": 189}, {"date": "1975-08-02", "rank": 176}, {"date": "1975-08-09", "rank": 170}, {"date": "1975-08-16", "rank": 165}, {"date": "1975-08-23", "rank": 161}, {"date": "1975-08-30", "rank": 158}, {"date": "1975-09-06", "rank": 148}, {"date": "1975-09-13", "rank": 127}, {"date": "1975-09-20", "rank": 116}, {"date": "1975-09-27", "rank": 96}, {"date": "1975-10-04", "rank": 85}, {"date": "1975-10-11", "rank": 74}, {"date": "1975-10-18", "rank": 63}, {"date": "1975-10-25", "rank": 53}, {"date": "1975-11-01", "rank": 48}, {"date": "1975-11-08", "rank": 48}, {"date": "1975-11-15", "rank": 40}, {"date": "1975-11-22", "rank": 34}, {"date": "1975-11-29", "rank": 28}, {"date": "1975-12-06", "rank": 28}, {"date": "1975-12-13", "rank": 65}, {"date": "1975-12-20", "rank": 61}, {"date": "1975-12-27", "rank": 59}, {"date": "1976-01-03", "rank": 57}, {"date": "1976-01-10", "rank": 69}, {"date": "1976-01-17", "rank": 68}, {"date": "1976-01-24", "rank": 68}, {"date": "1976-01-31", "rank": 77}, {"date": "1976-02-07", "rank": 106}, {"date": "1976-02-14", "rank": 100}, {"date": "1976-02-21", "rank": 132}, {"date": "1976-02-28", "rank": 127}, {"date": "1976-03-06", "rank": 125}, {"date": "1976-03-13", "rank": 125}, {"date": "1976-03-20", "rank": 163}, {"date": "1976-03-27", "rank": 158}, {"date": "1976-04-03", "rank": 155}, {"date": "1976-04-10", "rank": 155}, {"date": "1976-04-17", "rank": 158}, {"date": "1976-04-24", "rank": 151}, {"date": "1976-05-01", "rank": 151}, {"date": "1976-05-08", "rank": 149}, {"date": "1976-05-15", "rank": 199}]}
+{
+  "id": "red-headed-stranger-willie-nelson",
+  "title": "Red Headed Stranger",
+  "artist": "Willie Nelson",
+  "peak": 28,
+  "history": [
+    {
+      "date": "1975-07-26",
+      "rank": 189
+    },
+    {
+      "date": "1975-08-02",
+      "rank": 176
+    },
+    {
+      "date": "1975-08-09",
+      "rank": 170
+    },
+    {
+      "date": "1975-08-16",
+      "rank": 165
+    },
+    {
+      "date": "1975-08-23",
+      "rank": 161
+    },
+    {
+      "date": "1975-08-30",
+      "rank": 158
+    },
+    {
+      "date": "1975-09-06",
+      "rank": 148
+    },
+    {
+      "date": "1975-09-13",
+      "rank": 127
+    },
+    {
+      "date": "1975-09-20",
+      "rank": 116
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 96
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 85
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 74
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 63
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 53
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 48
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 48
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 40
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 34
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 28
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 28
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 65
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 61
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 59
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 57
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 69
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 68
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 68
+    },
+    {
+      "date": "1976-01-31",
+      "rank": 77
+    },
+    {
+      "date": "1976-02-07",
+      "rank": 106
+    },
+    {
+      "date": "1976-02-14",
+      "rank": 100
+    },
+    {
+      "date": "1976-02-21",
+      "rank": 132
+    },
+    {
+      "date": "1976-02-28",
+      "rank": 127
+    },
+    {
+      "date": "1976-03-06",
+      "rank": 125
+    },
+    {
+      "date": "1976-03-13",
+      "rank": 125
+    },
+    {
+      "date": "1976-03-20",
+      "rank": 163
+    },
+    {
+      "date": "1976-03-27",
+      "rank": 158
+    },
+    {
+      "date": "1976-04-03",
+      "rank": 155
+    },
+    {
+      "date": "1976-04-10",
+      "rank": 155
+    },
+    {
+      "date": "1976-04-17",
+      "rank": 158
+    },
+    {
+      "date": "1976-04-24",
+      "rank": 151
+    },
+    {
+      "date": "1976-05-01",
+      "rank": 151
+    },
+    {
+      "date": "1976-05-08",
+      "rank": 149
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blue Eyes Crying in the Rain",
+      "id": "blue-eyes-crying-in-the-rain-willie-nelson"
+    },
+    {
+      "title": "Remember Me",
+      "id": "remember-me-willie-nelson"
+    },
+    {
+      "title": "Time of the Preacher",
+      "id": null
+    },
+    {
+      "title": "I Couldn’t Believe It Was True",
+      "id": null
+    },
+    {
+      "title": "Time of the Preacher Theme",
+      "id": null
+    },
+    {
+      "title": "Medley: Blue Rock Montana / Red Headed Stranger",
+      "id": null
+    },
+    {
+      "title": "Red Headed Stranger",
+      "id": null
+    },
+    {
+      "title": "Just as I Am",
+      "id": null
+    },
+    {
+      "title": "Denver",
+      "id": null
+    },
+    {
+      "title": "O’er the Waves",
+      "id": null
+    },
+    {
+      "title": "Down Yonder",
+      "id": null
+    },
+    {
+      "title": "Can I Sleep in Your Arms",
+      "id": null
+    },
+    {
+      "title": "Hands on the Wheel",
+      "id": null
+    },
+    {
+      "title": "Bandera",
+      "id": null
+    }
+  ]
+}
