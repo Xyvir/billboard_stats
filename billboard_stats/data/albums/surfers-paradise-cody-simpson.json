@@ -1,1 +1,78 @@
-{"id": "surfers-paradise-cody-simpson", "title": "Surfers Paradise", "artist": "Cody Simpson", "peak": 10, "history": [{"date": "2013-08-03", "rank": 10}, {"date": "2013-08-10", "rank": 88}, {"date": "2013-08-17", "rank": 151}, {"date": "2013-08-24", "rank": 97}, {"date": "2013-08-31", "rank": 193}]}
+{
+  "id": "surfers-paradise-cody-simpson",
+  "title": "Surfers Paradise",
+  "artist": "Cody Simpson",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2013-08-03",
+      "rank": 10
+    },
+    {
+      "date": "2013-08-10",
+      "rank": 88
+    },
+    {
+      "date": "2013-08-17",
+      "rank": 151
+    },
+    {
+      "date": "2013-08-24",
+      "rank": 97
+    },
+    {
+      "date": "2013-08-31",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "La Da Dee",
+      "id": null
+    },
+    {
+      "title": "Pretty Brown Eyes",
+      "id": null
+    },
+    {
+      "title": "No Ceiling",
+      "id": null
+    },
+    {
+      "title": "Sinkin' In",
+      "id": null
+    },
+    {
+      "title": "Summertime of Our Lives",
+      "id": null
+    },
+    {
+      "title": "Imma Be Cool",
+      "id": null
+    },
+    {
+      "title": "If You Left Him For Me",
+      "id": null
+    },
+    {
+      "title": "Love",
+      "id": null
+    },
+    {
+      "title": "Better Be Mine",
+      "id": null
+    },
+    {
+      "title": "Children of the Ocean",
+      "id": null
+    },
+    {
+      "title": "Rainy Day",
+      "id": null
+    },
+    {
+      "title": "Awake All Night",
+      "id": null
+    }
+  ]
+}

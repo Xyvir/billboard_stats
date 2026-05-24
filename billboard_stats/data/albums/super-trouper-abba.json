@@ -1,1 +1,202 @@
-{"id": "super-trouper-abba", "title": "Super Trouper", "artist": "ABBA", "peak": 17, "history": [{"date": "1980-12-13", "rank": 64}, {"date": "1980-12-20", "rank": 52}, {"date": "1980-12-27", "rank": 32}, {"date": "1981-01-03", "rank": 32}, {"date": "1981-01-10", "rank": 28}, {"date": "1981-01-17", "rank": 23}, {"date": "1981-01-24", "rank": 22}, {"date": "1981-01-31", "rank": 22}, {"date": "1981-02-07", "rank": 20}, {"date": "1981-02-14", "rank": 19}, {"date": "1981-02-21", "rank": 18}, {"date": "1981-02-28", "rank": 17}, {"date": "1981-03-07", "rank": 17}, {"date": "1981-03-14", "rank": 17}, {"date": "1981-03-21", "rank": 22}, {"date": "1981-03-28", "rank": 27}, {"date": "1981-04-04", "rank": 37}, {"date": "1981-04-11", "rank": 40}, {"date": "1981-04-18", "rank": 55}, {"date": "1981-04-25", "rank": 54}, {"date": "1981-05-02", "rank": 54}, {"date": "1981-05-09", "rank": 53}, {"date": "1981-05-16", "rank": 51}, {"date": "1981-05-23", "rank": 66}, {"date": "1981-05-30", "rank": 64}, {"date": "1981-06-06", "rank": 69}, {"date": "1981-06-13", "rank": 73}, {"date": "1981-06-20", "rank": 72}, {"date": "1981-06-27", "rank": 94}, {"date": "1981-07-04", "rank": 102}, {"date": "1981-07-11", "rank": 108}, {"date": "1981-07-18", "rank": 122}, {"date": "1981-07-25", "rank": 145}, {"date": "1981-08-01", "rank": 145}, {"date": "1981-08-08", "rank": 142}, {"date": "1981-08-15", "rank": 158}, {"date": "1981-08-22", "rank": 188}, {"date": "1981-08-29", "rank": 200}]}
+{
+  "id": "super-trouper-abba",
+  "title": "Super Trouper",
+  "artist": "ABBA",
+  "peak": 17,
+  "history": [
+    {
+      "date": "1980-12-13",
+      "rank": 64
+    },
+    {
+      "date": "1980-12-20",
+      "rank": 52
+    },
+    {
+      "date": "1980-12-27",
+      "rank": 32
+    },
+    {
+      "date": "1981-01-03",
+      "rank": 32
+    },
+    {
+      "date": "1981-01-10",
+      "rank": 28
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 23
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 22
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 22
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 20
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 19
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 18
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 17
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 17
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 17
+    },
+    {
+      "date": "1981-03-21",
+      "rank": 22
+    },
+    {
+      "date": "1981-03-28",
+      "rank": 27
+    },
+    {
+      "date": "1981-04-04",
+      "rank": 37
+    },
+    {
+      "date": "1981-04-11",
+      "rank": 40
+    },
+    {
+      "date": "1981-04-18",
+      "rank": 55
+    },
+    {
+      "date": "1981-04-25",
+      "rank": 54
+    },
+    {
+      "date": "1981-05-02",
+      "rank": 54
+    },
+    {
+      "date": "1981-05-09",
+      "rank": 53
+    },
+    {
+      "date": "1981-05-16",
+      "rank": 51
+    },
+    {
+      "date": "1981-05-23",
+      "rank": 66
+    },
+    {
+      "date": "1981-05-30",
+      "rank": 64
+    },
+    {
+      "date": "1981-06-06",
+      "rank": 69
+    },
+    {
+      "date": "1981-06-13",
+      "rank": 73
+    },
+    {
+      "date": "1981-06-20",
+      "rank": 72
+    },
+    {
+      "date": "1981-06-27",
+      "rank": 94
+    },
+    {
+      "date": "1981-07-04",
+      "rank": 102
+    },
+    {
+      "date": "1981-07-11",
+      "rank": 108
+    },
+    {
+      "date": "1981-07-18",
+      "rank": 122
+    },
+    {
+      "date": "1981-07-25",
+      "rank": 145
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 145
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 142
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 158
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 188
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Super Trouper",
+      "id": "super-trouper-abba"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "id": "the-winner-takes-it-all-abba"
+    },
+    {
+      "title": "On and On and On",
+      "id": "on-and-on-and-on-abba"
+    },
+    {
+      "title": "Andante, andante",
+      "id": null
+    },
+    {
+      "title": "Me and I",
+      "id": null
+    },
+    {
+      "title": "Happy New Year",
+      "id": null
+    },
+    {
+      "title": "Our Last Summer",
+      "id": null
+    },
+    {
+      "title": "The Piper",
+      "id": null
+    },
+    {
+      "title": "Lay All Your Love on Me",
+      "id": null
+    },
+    {
+      "title": "The Way Old Friends Do",
+      "id": null
+    }
+  ]
+}
