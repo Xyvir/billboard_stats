@@ -1,1 +1,234 @@
-{"id": "sawdust-the-killers", "title": "Sawdust", "artist": "The Killers", "peak": 12, "history": [{"date": "2007-12-01", "rank": 12}, {"date": "2007-12-08", "rank": 46}, {"date": "2007-12-15", "rank": 54}, {"date": "2007-12-22", "rank": 75}, {"date": "2007-12-29", "rank": 87}, {"date": "2008-01-05", "rank": 89}, {"date": "2008-01-12", "rank": 75}, {"date": "2008-01-19", "rank": 85}, {"date": "2008-01-26", "rank": 81}, {"date": "2008-02-02", "rank": 90}, {"date": "2008-02-09", "rank": 108}, {"date": "2008-02-16", "rank": 136}, {"date": "2008-02-23", "rank": 148}, {"date": "2008-03-01", "rank": 160}, {"date": "2008-03-08", "rank": 169}, {"date": "2008-03-15", "rank": 183}, {"date": "2008-03-29", "rank": 194}]}
+{
+  "id": "sawdust-the-killers",
+  "title": "Sawdust",
+  "artist": "The Killers",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2007-12-01",
+      "rank": 12
+    },
+    {
+      "date": "2007-12-08",
+      "rank": 46
+    },
+    {
+      "date": "2007-12-15",
+      "rank": 54
+    },
+    {
+      "date": "2007-12-22",
+      "rank": 75
+    },
+    {
+      "date": "2007-12-29",
+      "rank": 87
+    },
+    {
+      "date": "2008-01-05",
+      "rank": 89
+    },
+    {
+      "date": "2008-01-12",
+      "rank": 75
+    },
+    {
+      "date": "2008-01-19",
+      "rank": 85
+    },
+    {
+      "date": "2008-01-26",
+      "rank": 81
+    },
+    {
+      "date": "2008-02-02",
+      "rank": 90
+    },
+    {
+      "date": "2008-02-09",
+      "rank": 108
+    },
+    {
+      "date": "2008-02-16",
+      "rank": 136
+    },
+    {
+      "date": "2008-02-23",
+      "rank": 148
+    },
+    {
+      "date": "2008-03-01",
+      "rank": 160
+    },
+    {
+      "date": "2008-03-08",
+      "rank": 169
+    },
+    {
+      "date": "2008-03-15",
+      "rank": 183
+    },
+    {
+      "date": "2008-03-29",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Shadowplay",
+      "id": "shadowplay-the-killers"
+    },
+    {
+      "title": "Somebody Told Me",
+      "id": "somebody-told-me-the-killers"
+    },
+    {
+      "title": "When You Were Young",
+      "id": "when-you-were-young-the-killers"
+    },
+    {
+      "title": "Mr Brightside",
+      "id": "mr-brightside-the-killers"
+    },
+    {
+      "title": "All These Things That I’ve Done",
+      "id": "all-these-things-that-i-ve-done-the-killers"
+    },
+    {
+      "title": "Tranquilize",
+      "id": null
+    },
+    {
+      "title": "All the Pretty Faces",
+      "id": null
+    },
+    {
+      "title": "Leave the Bourbon on the Shelf",
+      "id": null
+    },
+    {
+      "title": "Sweet Talk",
+      "id": null
+    },
+    {
+      "title": "Under the Gun",
+      "id": null
+    },
+    {
+      "title": "Where the White Boys Dance",
+      "id": null
+    },
+    {
+      "title": "Show You How",
+      "id": null
+    },
+    {
+      "title": "Move Away",
+      "id": null
+    },
+    {
+      "title": "Glamorous Indie Rock and Roll",
+      "id": null
+    },
+    {
+      "title": "Who Let You Go?",
+      "id": null
+    },
+    {
+      "title": "The Ballad of Michael Valentine",
+      "id": null
+    },
+    {
+      "title": "Ruby, Don’t Take Your Love to Town",
+      "id": null
+    },
+    {
+      "title": "Daddy’s Eyes",
+      "id": null
+    },
+    {
+      "title": "Sam’s Town (Abbey Road version)",
+      "id": null
+    },
+    {
+      "title": "Romeo and Juliet",
+      "id": null
+    },
+    {
+      "title": "Change Your Mind",
+      "id": null
+    },
+    {
+      "title": "Why Don’t You Find Out for Yourself",
+      "id": null
+    },
+    {
+      "title": "Get Trashed",
+      "id": null
+    },
+    {
+      "title": "Sam's Town",
+      "id": null
+    },
+    {
+      "title": "Jenny Was a Friend of Mine",
+      "id": null
+    },
+    {
+      "title": "Smile Like You Mean It",
+      "id": null
+    },
+    {
+      "title": "Andy, You’re a Star",
+      "id": null
+    },
+    {
+      "title": "On Top",
+      "id": null
+    },
+    {
+      "title": "Believe Me Natalie",
+      "id": null
+    },
+    {
+      "title": "Midnight Show",
+      "id": null
+    },
+    {
+      "title": "Everything Will Be Alright",
+      "id": null
+    },
+    {
+      "title": "Glamorous Indie Rock & Roll",
+      "id": null
+    },
+    {
+      "title": "Ballad of Michael Valentine",
+      "id": null
+    },
+    {
+      "title": "Everyday I Love You Less and Less",
+      "id": null
+    },
+    {
+      "title": "I Predict a Riot",
+      "id": null
+    },
+    {
+      "title": "Modern Way",
+      "id": null
+    },
+    {
+      "title": "Na Na Na Na Na",
+      "id": null
+    },
+    {
+      "title": "You Can Have It All",
+      "id": null
+    },
+    {
+      "title": "Oh My God",
+      "id": null
+    }
+  ]
+}

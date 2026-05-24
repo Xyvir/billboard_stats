@@ -1,1 +1,254 @@
-{"id": "savage-amusement-scorpions", "title": "Savage Amusement", "artist": "Scorpions", "peak": 5, "history": [{"date": "1988-05-07", "rank": 33}, {"date": "1988-05-14", "rank": 18}, {"date": "1988-05-21", "rank": 10}, {"date": "1988-05-28", "rank": 7}, {"date": "1988-06-04", "rank": 5}, {"date": "1988-06-11", "rank": 6}, {"date": "1988-06-18", "rank": 7}, {"date": "1988-06-25", "rank": 9}, {"date": "1988-07-02", "rank": 10}, {"date": "1988-07-09", "rank": 11}, {"date": "1988-07-16", "rank": 13}, {"date": "1988-07-23", "rank": 16}, {"date": "1988-07-30", "rank": 17}, {"date": "1988-08-06", "rank": 20}, {"date": "1988-08-13", "rank": 23}, {"date": "1988-08-20", "rank": 25}, {"date": "1988-08-27", "rank": 26}, {"date": "1988-09-03", "rank": 28}, {"date": "1988-09-10", "rank": 35}, {"date": "1988-09-17", "rank": 36}, {"date": "1988-09-24", "rank": 37}, {"date": "1988-10-01", "rank": 40}, {"date": "1988-10-08", "rank": 46}, {"date": "1988-10-15", "rank": 47}, {"date": "1988-10-22", "rank": 52}, {"date": "1988-10-29", "rank": 67}, {"date": "1988-11-05", "rank": 70}, {"date": "1988-11-12", "rank": 92}, {"date": "1988-11-19", "rank": 103}, {"date": "1988-11-26", "rank": 101}, {"date": "1988-12-03", "rank": 137}, {"date": "1988-12-10", "rank": 135}, {"date": "1988-12-17", "rank": 145}, {"date": "1988-12-24", "rank": 167}, {"date": "1988-12-31", "rank": 167}, {"date": "1989-01-07", "rank": 172}, {"date": "1989-01-14", "rank": 149}, {"date": "1989-01-21", "rank": 149}, {"date": "1989-01-28", "rank": 159}, {"date": "1989-02-04", "rank": 176}, {"date": "1989-02-11", "rank": 180}, {"date": "1989-02-18", "rank": 198}, {"date": "1989-02-25", "rank": 200}]}
+{
+  "id": "savage-amusement-scorpions",
+  "title": "Savage Amusement",
+  "artist": "Scorpions",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1988-05-07",
+      "rank": 33
+    },
+    {
+      "date": "1988-05-14",
+      "rank": 18
+    },
+    {
+      "date": "1988-05-21",
+      "rank": 10
+    },
+    {
+      "date": "1988-05-28",
+      "rank": 7
+    },
+    {
+      "date": "1988-06-04",
+      "rank": 5
+    },
+    {
+      "date": "1988-06-11",
+      "rank": 6
+    },
+    {
+      "date": "1988-06-18",
+      "rank": 7
+    },
+    {
+      "date": "1988-06-25",
+      "rank": 9
+    },
+    {
+      "date": "1988-07-02",
+      "rank": 10
+    },
+    {
+      "date": "1988-07-09",
+      "rank": 11
+    },
+    {
+      "date": "1988-07-16",
+      "rank": 13
+    },
+    {
+      "date": "1988-07-23",
+      "rank": 16
+    },
+    {
+      "date": "1988-07-30",
+      "rank": 17
+    },
+    {
+      "date": "1988-08-06",
+      "rank": 20
+    },
+    {
+      "date": "1988-08-13",
+      "rank": 23
+    },
+    {
+      "date": "1988-08-20",
+      "rank": 25
+    },
+    {
+      "date": "1988-08-27",
+      "rank": 26
+    },
+    {
+      "date": "1988-09-03",
+      "rank": 28
+    },
+    {
+      "date": "1988-09-10",
+      "rank": 35
+    },
+    {
+      "date": "1988-09-17",
+      "rank": 36
+    },
+    {
+      "date": "1988-09-24",
+      "rank": 37
+    },
+    {
+      "date": "1988-10-01",
+      "rank": 40
+    },
+    {
+      "date": "1988-10-08",
+      "rank": 46
+    },
+    {
+      "date": "1988-10-15",
+      "rank": 47
+    },
+    {
+      "date": "1988-10-22",
+      "rank": 52
+    },
+    {
+      "date": "1988-10-29",
+      "rank": 67
+    },
+    {
+      "date": "1988-11-05",
+      "rank": 70
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 92
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 103
+    },
+    {
+      "date": "1988-11-26",
+      "rank": 101
+    },
+    {
+      "date": "1988-12-03",
+      "rank": 137
+    },
+    {
+      "date": "1988-12-10",
+      "rank": 135
+    },
+    {
+      "date": "1988-12-17",
+      "rank": 145
+    },
+    {
+      "date": "1988-12-24",
+      "rank": 167
+    },
+    {
+      "date": "1988-12-31",
+      "rank": 167
+    },
+    {
+      "date": "1989-01-07",
+      "rank": 172
+    },
+    {
+      "date": "1989-01-14",
+      "rank": 149
+    },
+    {
+      "date": "1989-01-21",
+      "rank": 149
+    },
+    {
+      "date": "1989-01-28",
+      "rank": 159
+    },
+    {
+      "date": "1989-02-04",
+      "rank": 176
+    },
+    {
+      "date": "1989-02-11",
+      "rank": 180
+    },
+    {
+      "date": "1989-02-18",
+      "rank": 198
+    },
+    {
+      "date": "1989-02-25",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rhythm of Love",
+      "id": "rhythm-of-love-scorpions"
+    },
+    {
+      "title": "Don’t Stop at the Top",
+      "id": null
+    },
+    {
+      "title": "Passion Rules the Game",
+      "id": null
+    },
+    {
+      "title": "Media Overkill",
+      "id": null
+    },
+    {
+      "title": "Walking on the Edge",
+      "id": null
+    },
+    {
+      "title": "We Let It Rock… You Let It Roll",
+      "id": null
+    },
+    {
+      "title": "Every Minute Every Day",
+      "id": null
+    },
+    {
+      "title": "Love on the Run",
+      "id": null
+    },
+    {
+      "title": "Believe in Love",
+      "id": null
+    },
+    {
+      "title": "Taste of Love (demo Song)",
+      "id": null
+    },
+    {
+      "title": "Edge of Time (demo version)",
+      "id": null
+    },
+    {
+      "title": "Fast and Furious (demo)",
+      "id": null
+    },
+    {
+      "title": "Dancing in the Moonlight (demo version)",
+      "id": null
+    },
+    {
+      "title": "Living for Tomorrow",
+      "id": null
+    },
+    {
+      "title": "I Can’t Explain",
+      "id": null
+    },
+    {
+      "title": "To Russia With Love and Other Savage Amusements",
+      "id": null
+    },
+    {
+      "title": "Believe In Love",
+      "id": null
+    },
+    {
+      "title": "The Story Of Savage Amusements (Documentary)",
+      "id": null
+    }
+  ]
+}

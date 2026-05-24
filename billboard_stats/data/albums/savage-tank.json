@@ -1,1 +1,66 @@
-{"id": "savage-tank", "title": "Savage", "artist": "Tank", "peak": 24, "history": [{"date": "2017-10-21", "rank": 24}, {"date": "2017-10-28", "rank": 105}, {"date": "2017-11-04", "rank": 162}]}
+{
+  "id": "savage-tank",
+  "title": "Savage",
+  "artist": "Tank",
+  "peak": 24,
+  "history": [
+    {
+      "date": "2017-10-21",
+      "rank": 24
+    },
+    {
+      "date": "2017-10-28",
+      "rank": 105
+    },
+    {
+      "date": "2017-11-04",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When We",
+      "id": "when-we-tank"
+    },
+    {
+      "title": "Savage",
+      "id": null
+    },
+    {
+      "title": "Everything",
+      "id": null
+    },
+    {
+      "title": "Do For Me",
+      "id": null
+    },
+    {
+      "title": "Only One",
+      "id": null
+    },
+    {
+      "title": "You Belong To Me",
+      "id": null
+    },
+    {
+      "title": "Good Thing",
+      "id": null
+    },
+    {
+      "title": "Sexy",
+      "id": null
+    },
+    {
+      "title": "F It Up",
+      "id": null
+    },
+    {
+      "title": "Nothing On",
+      "id": null
+    },
+    {
+      "title": "Stay Where You Are",
+      "id": null
+    }
+  ]
+}
