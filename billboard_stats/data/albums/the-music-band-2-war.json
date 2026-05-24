@@ -1,1 +1,86 @@
-{"id": "the-music-band-2-war", "title": "The Music Band 2", "artist": "War", "peak": 111, "history": [{"date": "1979-12-08", "rank": 136}, {"date": "1979-12-15", "rank": 123}, {"date": "1979-12-22", "rank": 111}, {"date": "1979-12-29", "rank": 111}, {"date": "1980-01-05", "rank": 111}, {"date": "1980-01-12", "rank": 112}, {"date": "1980-01-19", "rank": 152}, {"date": "1980-01-26", "rank": 152}, {"date": "1980-02-02", "rank": 150}, {"date": "1980-02-09", "rank": 150}, {"date": "1980-02-16", "rank": 144}, {"date": "1980-02-23", "rank": 170}, {"date": "1980-03-01", "rank": 171}]}
+{
+  "id": "the-music-band-2-war",
+  "title": "The Music Band 2",
+  "artist": "War",
+  "peak": 111,
+  "history": [
+    {
+      "date": "1979-12-08",
+      "rank": 136
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 123
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 111
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 111
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 111
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 112
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 152
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 152
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 150
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 150
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 144
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 170
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The World Is a Ghetto",
+      "id": "the-world-is-a-ghetto-war"
+    },
+    {
+      "title": "Don’t Take It Away",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Around",
+      "id": null
+    },
+    {
+      "title": "I’ll Take Care of You",
+      "id": null
+    },
+    {
+      "title": "Night People",
+      "id": null
+    },
+    {
+      "title": "The Music Band 2 (We Are the Music Band)",
+      "id": null
+    }
+  ]
+}

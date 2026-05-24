@@ -1,1 +1,82 @@
-{"id": "the-mountain-gorillaz", "title": "The Mountain", "artist": "Gorillaz", "peak": 7, "history": [{"date": "2026-03-14", "rank": 7}, {"date": "2026-03-21", "rank": 16}, {"date": "2026-03-28", "rank": 97}]}
+{
+  "id": "the-mountain-gorillaz",
+  "title": "The Mountain",
+  "artist": "Gorillaz",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2026-03-14",
+      "rank": 7
+    },
+    {
+      "date": "2026-03-21",
+      "rank": 16
+    },
+    {
+      "date": "2026-03-28",
+      "rank": 97
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Mountain",
+      "id": null
+    },
+    {
+      "title": "The Moon Cave",
+      "id": null
+    },
+    {
+      "title": "The Happy Dictator",
+      "id": null
+    },
+    {
+      "title": "The Hardest Thing",
+      "id": null
+    },
+    {
+      "title": "Orange County",
+      "id": null
+    },
+    {
+      "title": "The God of Lying",
+      "id": null
+    },
+    {
+      "title": "The Empty Dream Machine",
+      "id": null
+    },
+    {
+      "title": "The Manifesto",
+      "id": null
+    },
+    {
+      "title": "The Plastic Guru",
+      "id": null
+    },
+    {
+      "title": "Delirium",
+      "id": null
+    },
+    {
+      "title": "Damascus",
+      "id": null
+    },
+    {
+      "title": "The Shadowy Light",
+      "id": null
+    },
+    {
+      "title": "Casablanca",
+      "id": null
+    },
+    {
+      "title": "The Sweet Prince",
+      "id": null
+    },
+    {
+      "title": "The Sad God",
+      "id": null
+    }
+  ]
+}

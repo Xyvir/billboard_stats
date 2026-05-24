@@ -1,1 +1,58 @@
-{"id": "the-music-the-music", "title": "The Music", "artist": "The Music", "peak": 128, "history": [{"date": "2003-03-15", "rank": 128}, {"date": "2003-03-22", "rank": 183}]}
+{
+  "id": "the-music-the-music",
+  "title": "The Music",
+  "artist": "The Music",
+  "peak": 128,
+  "history": [
+    {
+      "date": "2003-03-15",
+      "rank": 128
+    },
+    {
+      "date": "2003-03-22",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Dance",
+      "id": null
+    },
+    {
+      "title": "Take the Long Road and Walk It",
+      "id": null
+    },
+    {
+      "title": "Human",
+      "id": null
+    },
+    {
+      "title": "The Truth Is No Words",
+      "id": null
+    },
+    {
+      "title": "Float",
+      "id": null
+    },
+    {
+      "title": "Turn Out the Light",
+      "id": null
+    },
+    {
+      "title": "The People",
+      "id": null
+    },
+    {
+      "title": "Getaway",
+      "id": null
+    },
+    {
+      "title": "Disco",
+      "id": null
+    },
+    {
+      "title": "Too High",
+      "id": null
+    }
+  ]
+}
