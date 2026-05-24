@@ -1,1 +1,102 @@
-{"id": "still-climbing-brownstone", "title": "Still Climbing", "artist": "Brownstone", "peak": 51, "history": [{"date": "1997-07-12", "rank": 51}, {"date": "1997-07-19", "rank": 59}, {"date": "1997-07-26", "rank": 78}, {"date": "1997-08-02", "rank": 91}, {"date": "1997-08-09", "rank": 106}, {"date": "1997-08-16", "rank": 122}, {"date": "1997-08-23", "rank": 143}, {"date": "1997-08-30", "rank": 168}, {"date": "1997-09-06", "rank": 172}, {"date": "1997-09-13", "rank": 190}, {"date": "1997-09-27", "rank": 191}]}
+{
+  "id": "still-climbing-brownstone",
+  "title": "Still Climbing",
+  "artist": "Brownstone",
+  "peak": 51,
+  "history": [
+    {
+      "date": "1997-07-12",
+      "rank": 51
+    },
+    {
+      "date": "1997-07-19",
+      "rank": 59
+    },
+    {
+      "date": "1997-07-26",
+      "rank": 78
+    },
+    {
+      "date": "1997-08-02",
+      "rank": 91
+    },
+    {
+      "date": "1997-08-09",
+      "rank": 106
+    },
+    {
+      "date": "1997-08-16",
+      "rank": 122
+    },
+    {
+      "date": "1997-08-23",
+      "rank": 143
+    },
+    {
+      "date": "1997-08-30",
+      "rank": 168
+    },
+    {
+      "date": "1997-09-06",
+      "rank": 172
+    },
+    {
+      "date": "1997-09-13",
+      "rank": 190
+    },
+    {
+      "date": "1997-09-27",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "5 Miles to Empty",
+      "id": "5-miles-to-empty-brownstone"
+    },
+    {
+      "title": "Revenge",
+      "id": "grapevyne-brownstone"
+    },
+    {
+      "title": "Let’s Get It Started",
+      "id": null
+    },
+    {
+      "title": "Love Me Like You Do",
+      "id": null
+    },
+    {
+      "title": "In the Game of Love",
+      "id": null
+    },
+    {
+      "title": "Foolish Pride",
+      "id": null
+    },
+    {
+      "title": "Kiss and Tell",
+      "id": null
+    },
+    {
+      "title": "Baby Love",
+      "id": null
+    },
+    {
+      "title": "Around You",
+      "id": null
+    },
+    {
+      "title": "All I Do",
+      "id": null
+    },
+    {
+      "title": "You Give Good Love",
+      "id": null
+    },
+    {
+      "title": "If You Play Your Cards Right",
+      "id": null
+    }
+  ]
+}

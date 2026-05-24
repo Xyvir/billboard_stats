@@ -1,1 +1,226 @@
-{"id": "still-bill-bill-withers", "title": "Still Bill", "artist": "Bill Withers", "peak": 4, "history": [{"date": "1972-05-20", "rank": 135}, {"date": "1972-05-27", "rank": 99}, {"date": "1972-06-03", "rank": 65}, {"date": "1972-06-10", "rank": 55}, {"date": "1972-06-17", "rank": 31}, {"date": "1972-06-24", "rank": 23}, {"date": "1972-07-01", "rank": 18}, {"date": "1972-07-08", "rank": 14}, {"date": "1972-07-15", "rank": 9}, {"date": "1972-07-22", "rank": 4}, {"date": "1972-07-29", "rank": 4}, {"date": "1972-08-05", "rank": 4}, {"date": "1972-08-12", "rank": 11}, {"date": "1972-08-19", "rank": 15}, {"date": "1972-08-26", "rank": 18}, {"date": "1972-09-02", "rank": 19}, {"date": "1972-09-09", "rank": 19}, {"date": "1972-09-16", "rank": 18}, {"date": "1972-09-23", "rank": 18}, {"date": "1972-09-30", "rank": 18}, {"date": "1972-10-07", "rank": 22}, {"date": "1972-10-14", "rank": 23}, {"date": "1972-10-21", "rank": 23}, {"date": "1972-10-28", "rank": 26}, {"date": "1972-11-04", "rank": 27}, {"date": "1972-11-11", "rank": 28}, {"date": "1972-11-18", "rank": 31}, {"date": "1972-11-25", "rank": 34}, {"date": "1972-12-02", "rank": 38}, {"date": "1972-12-09", "rank": 60}, {"date": "1972-12-16", "rank": 65}, {"date": "1972-12-23", "rank": 75}, {"date": "1972-12-30", "rank": 82}, {"date": "1973-01-06", "rank": 96}, {"date": "1973-01-13", "rank": 101}, {"date": "1973-01-20", "rank": 112}, {"date": "1973-01-27", "rank": 118}, {"date": "1973-02-03", "rank": 128}, {"date": "1973-02-10", "rank": 129}, {"date": "1973-02-17", "rank": 135}, {"date": "1973-02-24", "rank": 140}, {"date": "1973-03-03", "rank": 141}, {"date": "1973-03-10", "rank": 143}, {"date": "2020-04-18", "rank": 77}]}
+{
+  "id": "still-bill-bill-withers",
+  "title": "Still Bill",
+  "artist": "Bill Withers",
+  "peak": 4,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 135
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 99
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 65
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 55
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 31
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 23
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 18
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 14
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 9
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 4
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 4
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 4
+    },
+    {
+      "date": "1972-08-12",
+      "rank": 11
+    },
+    {
+      "date": "1972-08-19",
+      "rank": 15
+    },
+    {
+      "date": "1972-08-26",
+      "rank": 18
+    },
+    {
+      "date": "1972-09-02",
+      "rank": 19
+    },
+    {
+      "date": "1972-09-09",
+      "rank": 19
+    },
+    {
+      "date": "1972-09-16",
+      "rank": 18
+    },
+    {
+      "date": "1972-09-23",
+      "rank": 18
+    },
+    {
+      "date": "1972-09-30",
+      "rank": 18
+    },
+    {
+      "date": "1972-10-07",
+      "rank": 22
+    },
+    {
+      "date": "1972-10-14",
+      "rank": 23
+    },
+    {
+      "date": "1972-10-21",
+      "rank": 23
+    },
+    {
+      "date": "1972-10-28",
+      "rank": 26
+    },
+    {
+      "date": "1972-11-04",
+      "rank": 27
+    },
+    {
+      "date": "1972-11-11",
+      "rank": 28
+    },
+    {
+      "date": "1972-11-18",
+      "rank": 31
+    },
+    {
+      "date": "1972-11-25",
+      "rank": 34
+    },
+    {
+      "date": "1972-12-02",
+      "rank": 38
+    },
+    {
+      "date": "1972-12-09",
+      "rank": 60
+    },
+    {
+      "date": "1972-12-16",
+      "rank": 65
+    },
+    {
+      "date": "1972-12-23",
+      "rank": 75
+    },
+    {
+      "date": "1972-12-30",
+      "rank": 82
+    },
+    {
+      "date": "1973-01-06",
+      "rank": 96
+    },
+    {
+      "date": "1973-01-13",
+      "rank": 101
+    },
+    {
+      "date": "1973-01-20",
+      "rank": 112
+    },
+    {
+      "date": "1973-01-27",
+      "rank": 118
+    },
+    {
+      "date": "1973-02-03",
+      "rank": 128
+    },
+    {
+      "date": "1973-02-10",
+      "rank": 129
+    },
+    {
+      "date": "1973-02-17",
+      "rank": 135
+    },
+    {
+      "date": "1973-02-24",
+      "rank": 140
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 141
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 143
+    },
+    {
+      "date": "2020-04-18",
+      "rank": 77
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Use Me",
+      "id": "use-me-bill-withers"
+    },
+    {
+      "title": "Lean on Me",
+      "id": "lean-on-me-bill-withers"
+    },
+    {
+      "title": "Kissing My Love",
+      "id": "kissing-my-love-bill-withers"
+    },
+    {
+      "title": "Lonely Town, Lonely Street",
+      "id": null
+    },
+    {
+      "title": "Let Me in Your Life",
+      "id": null
+    },
+    {
+      "title": "Who Is He (and What Is He to You)?",
+      "id": null
+    },
+    {
+      "title": "I Don’t Know",
+      "id": null
+    },
+    {
+      "title": "Another Day to Run",
+      "id": null
+    },
+    {
+      "title": "I Don’t Want You on My Mind",
+      "id": null
+    },
+    {
+      "title": "Take It All in and Check It All Out",
+      "id": null
+    }
+  ]
+}

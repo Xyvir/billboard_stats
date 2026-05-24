@@ -1,1 +1,218 @@
-{"id": "stillmatic-nas", "title": "Stillmatic", "artist": "Nas", "peak": 5, "history": [{"date": "2002-01-05", "rank": 8}, {"date": "2002-01-12", "rank": 9}, {"date": "2002-01-19", "rank": 9}, {"date": "2002-01-26", "rank": 5}, {"date": "2002-02-02", "rank": 7}, {"date": "2002-02-09", "rank": 7}, {"date": "2002-02-16", "rank": 7}, {"date": "2002-02-23", "rank": 11}, {"date": "2002-03-02", "rank": 20}, {"date": "2002-03-09", "rank": 18}, {"date": "2002-03-16", "rank": 27}, {"date": "2002-03-23", "rank": 27}, {"date": "2002-03-30", "rank": 27}, {"date": "2002-04-06", "rank": 28}, {"date": "2002-04-13", "rank": 35}, {"date": "2002-04-20", "rank": 32}, {"date": "2002-04-27", "rank": 35}, {"date": "2002-05-04", "rank": 34}, {"date": "2002-05-11", "rank": 44}, {"date": "2002-05-18", "rank": 46}, {"date": "2002-05-25", "rank": 52}, {"date": "2002-06-01", "rank": 52}, {"date": "2002-06-08", "rank": 59}, {"date": "2002-06-15", "rank": 62}, {"date": "2002-06-22", "rank": 72}, {"date": "2002-06-29", "rank": 83}, {"date": "2002-07-06", "rank": 84}, {"date": "2002-07-13", "rank": 113}, {"date": "2002-07-20", "rank": 90}, {"date": "2002-07-27", "rank": 112}, {"date": "2002-08-03", "rank": 123}, {"date": "2002-08-10", "rank": 144}, {"date": "2002-08-17", "rank": 161}, {"date": "2002-08-24", "rank": 161}, {"date": "2002-08-31", "rank": 186}, {"date": "2002-09-07", "rank": 199}, {"date": "2002-09-14", "rank": 181}, {"date": "2002-09-21", "rank": 196}]}
+{
+  "id": "stillmatic-nas",
+  "title": "Stillmatic",
+  "artist": "Nas",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2002-01-05",
+      "rank": 8
+    },
+    {
+      "date": "2002-01-12",
+      "rank": 9
+    },
+    {
+      "date": "2002-01-19",
+      "rank": 9
+    },
+    {
+      "date": "2002-01-26",
+      "rank": 5
+    },
+    {
+      "date": "2002-02-02",
+      "rank": 7
+    },
+    {
+      "date": "2002-02-09",
+      "rank": 7
+    },
+    {
+      "date": "2002-02-16",
+      "rank": 7
+    },
+    {
+      "date": "2002-02-23",
+      "rank": 11
+    },
+    {
+      "date": "2002-03-02",
+      "rank": 20
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 18
+    },
+    {
+      "date": "2002-03-16",
+      "rank": 27
+    },
+    {
+      "date": "2002-03-23",
+      "rank": 27
+    },
+    {
+      "date": "2002-03-30",
+      "rank": 27
+    },
+    {
+      "date": "2002-04-06",
+      "rank": 28
+    },
+    {
+      "date": "2002-04-13",
+      "rank": 35
+    },
+    {
+      "date": "2002-04-20",
+      "rank": 32
+    },
+    {
+      "date": "2002-04-27",
+      "rank": 35
+    },
+    {
+      "date": "2002-05-04",
+      "rank": 34
+    },
+    {
+      "date": "2002-05-11",
+      "rank": 44
+    },
+    {
+      "date": "2002-05-18",
+      "rank": 46
+    },
+    {
+      "date": "2002-05-25",
+      "rank": 52
+    },
+    {
+      "date": "2002-06-01",
+      "rank": 52
+    },
+    {
+      "date": "2002-06-08",
+      "rank": 59
+    },
+    {
+      "date": "2002-06-15",
+      "rank": 62
+    },
+    {
+      "date": "2002-06-22",
+      "rank": 72
+    },
+    {
+      "date": "2002-06-29",
+      "rank": 83
+    },
+    {
+      "date": "2002-07-06",
+      "rank": 84
+    },
+    {
+      "date": "2002-07-13",
+      "rank": 113
+    },
+    {
+      "date": "2002-07-20",
+      "rank": 90
+    },
+    {
+      "date": "2002-07-27",
+      "rank": 112
+    },
+    {
+      "date": "2002-08-03",
+      "rank": 123
+    },
+    {
+      "date": "2002-08-10",
+      "rank": 144
+    },
+    {
+      "date": "2002-08-17",
+      "rank": 161
+    },
+    {
+      "date": "2002-08-24",
+      "rank": 161
+    },
+    {
+      "date": "2002-08-31",
+      "rank": 186
+    },
+    {
+      "date": "2002-09-07",
+      "rank": 199
+    },
+    {
+      "date": "2002-09-14",
+      "rank": 181
+    },
+    {
+      "date": "2002-09-21",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Got Ur Self a…",
+      "id": "got-ur-self-a-nas"
+    },
+    {
+      "title": "One Mic",
+      "id": "one-mic-nas"
+    },
+    {
+      "title": "Stillmatic (the intro)",
+      "id": null
+    },
+    {
+      "title": "Ether",
+      "id": null
+    },
+    {
+      "title": "Smokin’",
+      "id": null
+    },
+    {
+      "title": "You’re da Man",
+      "id": null
+    },
+    {
+      "title": "Rewind",
+      "id": null
+    },
+    {
+      "title": "2nd Childhood",
+      "id": null
+    },
+    {
+      "title": "Destroy & Rebuild",
+      "id": null
+    },
+    {
+      "title": "The Flyest",
+      "id": null
+    },
+    {
+      "title": "Rule",
+      "id": null
+    },
+    {
+      "title": "My Country",
+      "id": null
+    },
+    {
+      "title": "What Goes Around",
+      "id": null
+    },
+    {
+      "title": "Every Ghetto",
+      "id": null
+    }
+  ]
+}
