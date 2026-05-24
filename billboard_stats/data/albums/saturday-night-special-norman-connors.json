@@ -1,1 +1,58 @@
-{"id": "saturday-night-special-norman-connors", "title": "Saturday Night Special", "artist": "Norman Connors", "peak": 150, "history": [{"date": "1975-10-11", "rank": 172}, {"date": "1975-10-18", "rank": 162}, {"date": "1975-10-25", "rank": 150}, {"date": "1975-11-01", "rank": 150}, {"date": "1975-11-08", "rank": 158}]}
+{
+  "id": "saturday-night-special-norman-connors",
+  "title": "Saturday Night Special",
+  "artist": "Norman Connors",
+  "peak": 150,
+  "history": [
+    {
+      "date": "1975-10-11",
+      "rank": 172
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 162
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 150
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 150
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Valentine Love",
+      "id": "valentine-love-norman-connors"
+    },
+    {
+      "title": "Saturday Night Special",
+      "id": null
+    },
+    {
+      "title": "Dindi",
+      "id": null
+    },
+    {
+      "title": "Maiden Voyage",
+      "id": null
+    },
+    {
+      "title": "Akia",
+      "id": null
+    },
+    {
+      "title": "Skin Diver",
+      "id": null
+    },
+    {
+      "title": "Kwasi",
+      "id": null
+    }
+  ]
+}
