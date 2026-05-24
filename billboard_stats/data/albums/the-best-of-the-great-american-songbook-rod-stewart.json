@@ -1,1 +1,82 @@
-{"id": "the-best-of-the-great-american-songbook-rod-stewart", "title": "The Best Of... The Great American Songbook", "artist": "Rod Stewart", "peak": 49, "history": [{"date": "2011-02-19", "rank": 49}, {"date": "2011-02-26", "rank": 105}, {"date": "2011-03-05", "rank": 154}, {"date": "2011-03-12", "rank": 176}]}
+{
+  "id": "the-best-of-the-great-american-songbook-rod-stewart",
+  "title": "The Best Of... The Great American Songbook",
+  "artist": "Rod Stewart",
+  "peak": 49,
+  "history": [
+    {
+      "date": "2011-02-19",
+      "rank": 49
+    },
+    {
+      "date": "2011-02-26",
+      "rank": 105
+    },
+    {
+      "date": "2011-03-05",
+      "rank": 154
+    },
+    {
+      "date": "2011-03-12",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Time After Time",
+      "id": "mine-for-me-rod-stewart"
+    },
+    {
+      "title": "But Not for Me",
+      "id": "mine-for-me-rod-stewart"
+    },
+    {
+      "title": "Long Ago and Far Away",
+      "id": null
+    },
+    {
+      "title": "Someone to Watch Over Me",
+      "id": null
+    },
+    {
+      "title": "They Can’t Take That Away From Me",
+      "id": null
+    },
+    {
+      "title": "Beyond the Sea",
+      "id": null
+    },
+    {
+      "title": "You’ll Never Know",
+      "id": null
+    },
+    {
+      "title": "I Can’t Get Started",
+      "id": null
+    },
+    {
+      "title": "The Way You Look Tonight",
+      "id": null
+    },
+    {
+      "title": "Bye Bye Blackbird",
+      "id": null
+    },
+    {
+      "title": "These Foolish Things",
+      "id": null
+    },
+    {
+      "title": "What a Wonderful World",
+      "id": null
+    },
+    {
+      "title": "My Foolish Heart",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Seeing You",
+      "id": null
+    }
+  ]
+}

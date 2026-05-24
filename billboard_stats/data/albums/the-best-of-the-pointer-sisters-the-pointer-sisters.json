@@ -1,1 +1,106 @@
-{"id": "the-best-of-the-pointer-sisters-the-pointer-sisters", "title": "The Best Of The Pointer Sisters", "artist": "The Pointer Sisters", "peak": 164, "history": [{"date": "1976-12-04", "rank": 183}, {"date": "1976-12-11", "rank": 169}, {"date": "1976-12-18", "rank": 166}, {"date": "1976-12-25", "rank": 164}, {"date": "1977-01-01", "rank": 164}, {"date": "1977-01-08", "rank": 164}]}
+{
+  "id": "the-best-of-the-pointer-sisters-the-pointer-sisters",
+  "title": "The Best Of The Pointer Sisters",
+  "artist": "The Pointer Sisters",
+  "peak": 164,
+  "history": [
+    {
+      "date": "1976-12-04",
+      "rank": 183
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 169
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 166
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 164
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 164
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fire",
+      "id": "fire-the-pointer-sisters"
+    },
+    {
+      "title": "Could I Be Dreamin’",
+      "id": "could-i-be-dreaming-the-pointer-sisters"
+    },
+    {
+      "title": "Slow Hand",
+      "id": "slow-hand-the-pointer-sisters"
+    },
+    {
+      "title": "Should I Do It (re‐EQ’d version)",
+      "id": "should-i-do-it-the-pointer-sisters"
+    },
+    {
+      "title": "American Music (re‐EQ’d version)",
+      "id": "american-music-the-pointer-sisters"
+    },
+    {
+      "title": "If You Wanna Get Back Your Lady",
+      "id": "if-you-wanna-get-back-your-lady-the-pointer-sisters"
+    },
+    {
+      "title": "Automatic",
+      "id": "automatic-the-pointer-sisters"
+    },
+    {
+      "title": "Jump (For My Love)",
+      "id": "jump-for-my-love-the-pointer-sisters"
+    },
+    {
+      "title": "I’m So Excited",
+      "id": "i-m-so-excited-the-pointer-sisters"
+    },
+    {
+      "title": "Neutron Dance",
+      "id": "neutron-dance-the-pointer-sisters"
+    },
+    {
+      "title": "Baby, Come and Get It (re‐EQ’d version)",
+      "id": "baby-come-and-get-it-the-pointer-sisters"
+    },
+    {
+      "title": "Dare Me",
+      "id": "dare-me-the-pointer-sisters"
+    },
+    {
+      "title": "Freedom",
+      "id": "freedom-the-pointer-sisters"
+    },
+    {
+      "title": "Happiness (re‐EQ’d version)",
+      "id": null
+    },
+    {
+      "title": "He’s So Shy (re‐EQ’d version)",
+      "id": null
+    },
+    {
+      "title": "I Need You (re‐EQ’d version)",
+      "id": null
+    },
+    {
+      "title": "Heart to Heart (re‐EQ’d version)",
+      "id": null
+    },
+    {
+      "title": "Goldmine (re‐EQ’d version)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"id": "the-best-of-the-animals-the-animals", "title": "The Best Of The Animals", "artist": "The Animals", "peak": 188, "history": [{"date": "1973-08-25", "rank": 188}, {"date": "1973-09-01", "rank": 188}]}
+{
+  "id": "the-best-of-the-animals-the-animals",
+  "title": "The Best Of The Animals",
+  "artist": "The Animals",
+  "peak": 188,
+  "history": [
+    {
+      "date": "1973-08-25",
+      "rank": 188
+    },
+    {
+      "date": "1973-09-01",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The House of the Rising Sun",
+      "id": "house-of-the-rising-sun-the-animals"
+    },
+    {
+      "title": "Don’t Let Me Be Misunderstood",
+      "id": "don-t-let-me-be-misunderstood-the-animals"
+    },
+    {
+      "title": "We Gotta Get Out of This Place",
+      "id": "we-gotta-get-out-of-this-place-the-animals"
+    },
+    {
+      "title": "Colour of the Sunset",
+      "id": "house-of-the-rising-sun-the-animals"
+    },
+    {
+      "title": "San Franciscan Nights",
+      "id": "san-franciscan-nights-eric-burdon-the-animals"
+    },
+    {
+      "title": "When I Was Young",
+      "id": "when-i-was-young-eric-burdon-the-animals"
+    },
+    {
+      "title": "Frisco Queen",
+      "id": null
+    },
+    {
+      "title": "To Love Somebody",
+      "id": null
+    },
+    {
+      "title": "Howlin’",
+      "id": null
+    },
+    {
+      "title": "Scandinavian Dreams",
+      "id": null
+    },
+    {
+      "title": "Love Fire",
+      "id": null
+    },
+    {
+      "title": "Night Fighter",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"id": "the-best-of-the-blues-brothers-blues-brothers", "title": "The Best Of The Blues Brothers", "artist": "Blues Brothers", "peak": 143, "history": [{"date": "1982-01-09", "rank": 153}, {"date": "1982-01-16", "rank": 143}, {"date": "1982-01-23", "rank": 143}]}
+{
+  "id": "the-best-of-the-blues-brothers-blues-brothers",
+  "title": "The Best Of The Blues Brothers",
+  "artist": "Blues Brothers",
+  "peak": 143,
+  "history": [
+    {
+      "date": "1982-01-09",
+      "rank": 153
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 143
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Soul Man",
+      "id": "soul-man-blues-brothers"
+    },
+    {
+      "title": "Rubber Biscuit",
+      "id": "rubber-biscuit-blues-brothers"
+    },
+    {
+      "title": "Opening Credits",
+      "id": null
+    },
+    {
+      "title": "I’m a King Bee",
+      "id": null
+    },
+    {
+      "title": "I’ve Got Everything I Need (Almost)",
+      "id": null
+    },
+    {
+      "title": "Can’t Turn You Loose",
+      "id": null
+    },
+    {
+      "title": "B‐Movie Boxcar Blues",
+      "id": null
+    },
+    {
+      "title": "Messin’ With the Kid",
+      "id": null
+    },
+    {
+      "title": "Groove Me",
+      "id": null
+    },
+    {
+      "title": "Flip, Flop and Fly",
+      "id": null
+    },
+    {
+      "title": "I Don’t Know",
+      "id": null
+    },
+    {
+      "title": "Hey, Bartender",
+      "id": null
+    },
+    {
+      "title": "Jailhouse Rock",
+      "id": null
+    },
+    {
+      "title": "Shotgun Blues",
+      "id": null
+    },
+    {
+      "title": "Soul Man (reprise) / End Credits",
+      "id": null
+    }
+  ]
+}
