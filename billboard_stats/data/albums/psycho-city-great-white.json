@@ -1,1 +1,78 @@
-{"id": "psycho-city-great-white", "title": "Psycho City", "artist": "Great White", "peak": 107, "history": [{"date": "1992-10-10", "rank": 107}, {"date": "1992-10-17", "rank": 133}, {"date": "1992-10-24", "rank": 150}, {"date": "1992-10-31", "rank": 164}, {"date": "1992-11-07", "rank": 149}, {"date": "1992-11-14", "rank": 172}]}
+{
+  "id": "psycho-city-great-white",
+  "title": "Psycho City",
+  "artist": "Great White",
+  "peak": 107,
+  "history": [
+    {
+      "date": "1992-10-10",
+      "rank": 107
+    },
+    {
+      "date": "1992-10-17",
+      "rank": 133
+    },
+    {
+      "date": "1992-10-24",
+      "rank": 150
+    },
+    {
+      "date": "1992-10-31",
+      "rank": 164
+    },
+    {
+      "date": "1992-11-07",
+      "rank": 149
+    },
+    {
+      "date": "1992-11-14",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Doctor Me",
+      "id": "rock-me-great-white"
+    },
+    {
+      "title": "Somebody to Love",
+      "id": "save-your-love-great-white"
+    },
+    {
+      "title": "Psycho City",
+      "id": null
+    },
+    {
+      "title": "Step on You",
+      "id": null
+    },
+    {
+      "title": "Old Rose Motel",
+      "id": null
+    },
+    {
+      "title": "Maybe Someday",
+      "id": null
+    },
+    {
+      "title": "Big Goodbye",
+      "id": null
+    },
+    {
+      "title": "I Want You",
+      "id": null
+    },
+    {
+      "title": "Never Trust a Pretty Face",
+      "id": null
+    },
+    {
+      "title": "Love Is a Lie",
+      "id": null
+    },
+    {
+      "title": "Get on Home",
+      "id": null
+    }
+  ]
+}
