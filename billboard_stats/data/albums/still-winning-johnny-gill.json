@@ -1,1 +1,70 @@
-{"id": "still-winning-johnny-gill", "title": "Still Winning", "artist": "Johnny Gill", "peak": 17, "history": [{"date": "2011-10-29", "rank": 17}, {"date": "2011-11-05", "rank": 53}, {"date": "2011-11-12", "rank": 82}, {"date": "2011-11-19", "rank": 100}, {"date": "2011-11-26", "rank": 151}]}
+{
+  "id": "still-winning-johnny-gill",
+  "title": "Still Winning",
+  "artist": "Johnny Gill",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2011-10-29",
+      "rank": 17
+    },
+    {
+      "date": "2011-11-05",
+      "rank": 53
+    },
+    {
+      "date": "2011-11-12",
+      "rank": 82
+    },
+    {
+      "date": "2011-11-19",
+      "rank": 100
+    },
+    {
+      "date": "2011-11-26",
+      "rank": 151
+    }
+  ],
+  "tracks": [
+    {
+      "title": "In the Mood",
+      "id": "the-floor-johnny-gill"
+    },
+    {
+      "title": "Still Winning",
+      "id": null
+    },
+    {
+      "title": "Let's Stay Together",
+      "id": null
+    },
+    {
+      "title": "Just the Way You Are",
+      "id": null
+    },
+    {
+      "title": "Black Box",
+      "id": null
+    },
+    {
+      "title": "Long, Long, Time",
+      "id": null
+    },
+    {
+      "title": "2nd Place",
+      "id": null
+    },
+    {
+      "title": "Which Is He",
+      "id": null
+    },
+    {
+      "title": "It Would Be You",
+      "id": null
+    },
+    {
+      "title": "My Love",
+      "id": null
+    }
+  ]
+}

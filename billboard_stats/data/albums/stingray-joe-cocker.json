@@ -1,1 +1,90 @@
-{"id": "stingray-joe-cocker", "title": "Stingray", "artist": "Joe Cocker", "peak": 70, "history": [{"date": "1976-05-15", "rank": 116}, {"date": "1976-05-22", "rank": 99}, {"date": "1976-05-29", "rank": 87}, {"date": "1976-06-05", "rank": 77}, {"date": "1976-06-12", "rank": 74}, {"date": "1976-06-19", "rank": 70}, {"date": "1976-06-26", "rank": 102}, {"date": "1976-07-03", "rank": 136}, {"date": "1976-07-10", "rank": 146}, {"date": "1976-07-17", "rank": 192}]}
+{
+  "id": "stingray-joe-cocker",
+  "title": "Stingray",
+  "artist": "Joe Cocker",
+  "peak": 70,
+  "history": [
+    {
+      "date": "1976-05-15",
+      "rank": 116
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 99
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 87
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 77
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 74
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 70
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 102
+    },
+    {
+      "date": "1976-07-03",
+      "rank": 136
+    },
+    {
+      "date": "1976-07-10",
+      "rank": 146
+    },
+    {
+      "date": "1976-07-17",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Jealous Kind",
+      "id": null
+    },
+    {
+      "title": "I Broke Down",
+      "id": null
+    },
+    {
+      "title": "You Came Along",
+      "id": null
+    },
+    {
+      "title": "Catfish",
+      "id": null
+    },
+    {
+      "title": "Moon Dew",
+      "id": null
+    },
+    {
+      "title": "The Man in Me",
+      "id": null
+    },
+    {
+      "title": "She Is My Lady",
+      "id": null
+    },
+    {
+      "title": "Worrier",
+      "id": null
+    },
+    {
+      "title": "Born Thru Indifference",
+      "id": null
+    },
+    {
+      "title": "A Song for You",
+      "id": null
+    }
+  ]
+}
