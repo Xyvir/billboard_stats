@@ -1,1 +1,90 @@
-{"id": "ray-charles-live-ray-charles", "title": "Ray Charles Live", "artist": "Ray Charles", "peak": 182, "history": [{"date": "1973-05-19", "rank": 187}, {"date": "1973-05-26", "rank": 182}, {"date": "1973-06-02", "rank": 182}, {"date": "1973-06-09", "rank": 183}, {"date": "1973-06-16", "rank": 195}]}
+{
+  "id": "ray-charles-live-ray-charles",
+  "title": "Ray Charles Live",
+  "artist": "Ray Charles",
+  "peak": 182,
+  "history": [
+    {
+      "date": "1973-05-19",
+      "rank": 187
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 182
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 182
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 183
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Right Time",
+      "id": "crying-time-ray-charles"
+    },
+    {
+      "title": "Talkin’ ’bout You",
+      "id": "i-want-to-talk-about-you-ray-charles"
+    },
+    {
+      "title": "Hot Rod",
+      "id": null
+    },
+    {
+      "title": "Blues Waltz",
+      "id": null
+    },
+    {
+      "title": "In a Little Spanish Town",
+      "id": null
+    },
+    {
+      "title": "Sherry",
+      "id": null
+    },
+    {
+      "title": "A Fool for You",
+      "id": null
+    },
+    {
+      "title": "I Got a Woman",
+      "id": null
+    },
+    {
+      "title": "Swanee River Rock",
+      "id": null
+    },
+    {
+      "title": "Yes Indeed!",
+      "id": null
+    },
+    {
+      "title": "Frenesi",
+      "id": null
+    },
+    {
+      "title": "The Spirit‐Feel",
+      "id": null
+    },
+    {
+      "title": "Tell the Truth",
+      "id": null
+    },
+    {
+      "title": "Drown in My Own Tears",
+      "id": null
+    },
+    {
+      "title": "What’d I Say",
+      "id": null
+    }
+  ]
+}
