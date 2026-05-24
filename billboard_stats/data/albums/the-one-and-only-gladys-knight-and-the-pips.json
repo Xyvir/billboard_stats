@@ -1,1 +1,74 @@
-{"id": "the-one-and-only-gladys-knight-and-the-pips", "title": "The One And Only", "artist": "Gladys Knight And The Pips", "peak": 145, "history": [{"date": "1978-09-16", "rank": 184}, {"date": "1978-09-23", "rank": 172}, {"date": "1978-09-30", "rank": 159}, {"date": "1978-10-07", "rank": 149}, {"date": "1978-10-14", "rank": 147}, {"date": "1978-10-21", "rank": 145}]}
+{
+  "id": "the-one-and-only-gladys-knight-and-the-pips",
+  "title": "The One And Only",
+  "artist": "Gladys Knight And The Pips",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1978-09-16",
+      "rank": 184
+    },
+    {
+      "date": "1978-09-23",
+      "rank": 172
+    },
+    {
+      "date": "1978-09-30",
+      "rank": 159
+    },
+    {
+      "date": "1978-10-07",
+      "rank": 149
+    },
+    {
+      "date": "1978-10-14",
+      "rank": 147
+    },
+    {
+      "date": "1978-10-21",
+      "rank": 145
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All the Time",
+      "id": "all-i-need-is-time-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "The One and Only",
+      "id": "on-and-on-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Don’t Say No to Me Tonight",
+      "id": "i-don-t-want-to-do-wrong-gladys-knight-and-the-pips"
+    },
+    {
+      "title": "Sorry Doesn’t Always Make It Right",
+      "id": null
+    },
+    {
+      "title": "Come Back and Finish What You Started",
+      "id": null
+    },
+    {
+      "title": "It’s Better Than a Good Time",
+      "id": null
+    },
+    {
+      "title": "Butterfly",
+      "id": null
+    },
+    {
+      "title": "Saved by the Grace of Your Love",
+      "id": null
+    },
+    {
+      "title": "Be Yourself",
+      "id": null
+    },
+    {
+      "title": "What If I Should Ever Need You",
+      "id": null
+    }
+  ]
+}

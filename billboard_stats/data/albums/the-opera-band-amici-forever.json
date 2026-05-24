@@ -1,1 +1,86 @@
-{"id": "the-opera-band-amici-forever", "title": "The Opera Band", "artist": "Amici Forever", "peak": 74, "history": [{"date": "2004-01-31", "rank": 106}, {"date": "2004-02-07", "rank": 74}, {"date": "2004-02-14", "rank": 112}, {"date": "2004-02-21", "rank": 124}, {"date": "2004-02-28", "rank": 157}, {"date": "2004-03-06", "rank": 160}, {"date": "2004-03-13", "rank": 181}]}
+{
+  "id": "the-opera-band-amici-forever",
+  "title": "The Opera Band",
+  "artist": "Amici Forever",
+  "peak": 74,
+  "history": [
+    {
+      "date": "2004-01-31",
+      "rank": 106
+    },
+    {
+      "date": "2004-02-07",
+      "rank": 74
+    },
+    {
+      "date": "2004-02-14",
+      "rank": 112
+    },
+    {
+      "date": "2004-02-21",
+      "rank": 124
+    },
+    {
+      "date": "2004-02-28",
+      "rank": 157
+    },
+    {
+      "date": "2004-03-06",
+      "rank": 160
+    },
+    {
+      "date": "2004-03-13",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Prayer in the Night",
+      "id": null
+    },
+    {
+      "title": "Senza catene (Unchained Melody)",
+      "id": null
+    },
+    {
+      "title": "Canto alla vita",
+      "id": null
+    },
+    {
+      "title": "Vita mia",
+      "id": null
+    },
+    {
+      "title": "Requiem for a Soldier (Theme from Band of Brothers)",
+      "id": null
+    },
+    {
+      "title": "Whisper of Angels (based on Fauré’s Pavane)",
+      "id": null
+    },
+    {
+      "title": "The Pearl Fishers (Au fond du temple saint)",
+      "id": null
+    },
+    {
+      "title": "Soave Sia Il Vento (From Mozart's Cosi Fan Tutte)",
+      "id": null
+    },
+    {
+      "title": "Nimrod: Lux Aeterna",
+      "id": null
+    },
+    {
+      "title": "Song to the Moon (from Dvorák’s Rusalka)",
+      "id": null
+    },
+    {
+      "title": "Zadok the Priest",
+      "id": null
+    },
+    {
+      "title": "Nessun dorma (from Puccini’s Turandot)",
+      "id": null
+    }
+  ]
+}
