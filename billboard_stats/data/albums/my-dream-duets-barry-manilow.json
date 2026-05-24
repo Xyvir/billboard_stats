@@ -1,1 +1,82 @@
-{"id": "my-dream-duets-barry-manilow", "title": "My Dream Duets", "artist": "Barry Manilow", "peak": 4, "history": [{"date": "2014-11-15", "rank": 4}, {"date": "2014-11-22", "rank": 14}, {"date": "2014-11-29", "rank": 35}, {"date": "2014-12-06", "rank": 29}, {"date": "2014-12-20", "rank": 88}, {"date": "2014-12-27", "rank": 136}, {"date": "2015-01-03", "rank": 75}]}
+{
+  "id": "my-dream-duets-barry-manilow",
+  "title": "My Dream Duets",
+  "artist": "Barry Manilow",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2014-11-15",
+      "rank": 4
+    },
+    {
+      "date": "2014-11-22",
+      "rank": 14
+    },
+    {
+      "date": "2014-11-29",
+      "rank": 35
+    },
+    {
+      "date": "2014-12-06",
+      "rank": 29
+    },
+    {
+      "date": "2014-12-20",
+      "rank": 88
+    },
+    {
+      "date": "2014-12-27",
+      "rank": 136
+    },
+    {
+      "date": "2015-01-03",
+      "rank": 75
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Song’s Gotta Come From the Heart",
+      "id": null
+    },
+    {
+      "title": "Goody Goody",
+      "id": null
+    },
+    {
+      "title": "Dream a Little Dream of Me",
+      "id": null
+    },
+    {
+      "title": "I Believe in You and Me",
+      "id": null
+    },
+    {
+      "title": "Sunshine on My Shoulders",
+      "id": null
+    },
+    {
+      "title": "Zing! Went the Strings of My Heart",
+      "id": null
+    },
+    {
+      "title": "Moon River",
+      "id": null
+    },
+    {
+      "title": "The Look of Love",
+      "id": null
+    },
+    {
+      "title": "The Candyman",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be Loved by You",
+      "id": null
+    },
+    {
+      "title": "What a Wonderful World / What a Wonderful Life",
+      "id": null
+    }
+  ]
+}
