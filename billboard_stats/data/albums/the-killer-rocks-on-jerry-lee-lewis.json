@@ -1,1 +1,90 @@
-{"id": "the-killer-rocks-on-jerry-lee-lewis", "title": "The \"Killer\" Rocks On", "artist": "Jerry Lee Lewis", "peak": 105, "history": [{"date": "1972-05-20", "rank": 115}, {"date": "1972-05-27", "rank": 111}, {"date": "1972-06-03", "rank": 106}, {"date": "1972-06-10", "rank": 106}, {"date": "1972-06-17", "rank": 105}, {"date": "1972-06-24", "rank": 118}, {"date": "1972-07-01", "rank": 153}, {"date": "1972-07-08", "rank": 156}]}
+{
+  "id": "the-killer-rocks-on-jerry-lee-lewis",
+  "title": "The \"Killer\" Rocks On",
+  "artist": "Jerry Lee Lewis",
+  "peak": 105,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 115
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 111
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 106
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 106
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 105
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 118
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 153
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Turn on Your Love Light",
+      "id": "turn-on-your-love-light-jerry-lee-lewis"
+    },
+    {
+      "title": "Chantilly Lace",
+      "id": "chantilly-lace-jerry-lee-lewis"
+    },
+    {
+      "title": "Me and Bobby McGee",
+      "id": "me-and-bobby-mcgee-jerry-lee-lewis"
+    },
+    {
+      "title": "Don’t Be Cruel",
+      "id": null
+    },
+    {
+      "title": "You Can Have Her",
+      "id": null
+    },
+    {
+      "title": "Games People Play",
+      "id": null
+    },
+    {
+      "title": "Lonely Weekends",
+      "id": null
+    },
+    {
+      "title": "You Don’t Miss Your Water",
+      "id": null
+    },
+    {
+      "title": "C.C. Rider",
+      "id": null
+    },
+    {
+      "title": "Walk a Mile in My Shoes",
+      "id": null
+    },
+    {
+      "title": "Shutgun Man",
+      "id": null
+    },
+    {
+      "title": "I’m Walkin’",
+      "id": null
+    }
+  ]
+}

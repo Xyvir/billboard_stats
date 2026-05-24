@@ -1,1 +1,262 @@
-{"id": "the-jimi-hendrix-experience-jimi-hendrix", "title": "The Jimi Hendrix Experience", "artist": "Jimi Hendrix", "peak": 78, "history": [{"date": "2000-09-30", "rank": 78}, {"date": "2000-10-07", "rank": 140}, {"date": "2000-10-14", "rank": 200}]}
+{
+  "id": "the-jimi-hendrix-experience-jimi-hendrix",
+  "title": "The Jimi Hendrix Experience",
+  "artist": "Jimi Hendrix",
+  "peak": 78,
+  "history": [
+    {
+      "date": "2000-09-30",
+      "rank": 78
+    },
+    {
+      "date": "2000-10-07",
+      "rank": 140
+    },
+    {
+      "date": "2000-10-14",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Purple Haze (Delane Lea Studios, London, UK, January 11, 1967)",
+      "id": null
+    },
+    {
+      "title": "Killing Floor (live at the Olympia Theater, Paris, France October 18, 1966)",
+      "id": null
+    },
+    {
+      "title": "Hey Joe (live at the Olympia Theater, Paris, France October 18, 1966)",
+      "id": null
+    },
+    {
+      "title": "Foxey Lady (CBS Studios, London, UK, December 13, 1966)",
+      "id": null
+    },
+    {
+      "title": "Highway Chile (Olympic Studios, London, UK April 3, 1967)",
+      "id": null
+    },
+    {
+      "title": "Hey Joe (Pye Studios, London, UK, October 1966)",
+      "id": null
+    },
+    {
+      "title": "Title #3 (Olympic Studios, London, UK, April 3, 1967)",
+      "id": null
+    },
+    {
+      "title": "3rd Stone From the Sun (Delane Lea Studios, London, UK, January 11,1967)",
+      "id": null
+    },
+    {
+      "title": "Taking Care of No Business (Olympic Studios, London, UK, May 4,1967)",
+      "id": null
+    },
+    {
+      "title": "Here He Comes (Lover Man) (Olympic Studios, London, UK, April 4, 1967)",
+      "id": null
+    },
+    {
+      "title": "Burning of the Midnight Lamp (Olympic Studios, London, UK, May 9, 1967)",
+      "id": null
+    },
+    {
+      "title": "If 6 Was 9 (Olympic Studios, London, UK, May 4, 1967)",
+      "id": null
+    },
+    {
+      "title": "Rock Me Baby (live at the Monterey International Pop Festival, Los Angeles, CA, June 18, 1967)",
+      "id": null
+    },
+    {
+      "title": "Like a Rolling Stone (live at the Monterey International Pop Festival, Los Angeles, CA, June 18, 1967)",
+      "id": null
+    },
+    {
+      "title": "Burning of the Midnight Lamp (live at the Dee Time, Lime Grove Studios, London, August 22, 1967)",
+      "id": null
+    },
+    {
+      "title": "The Stars That Play With Laughing Sam’s Dice (Mayfair Studios, New York, July 19, 20, 1967)",
+      "id": null
+    },
+    {
+      "title": "Sgt. Pepper’s Lonely Hearts Club Band (live in Stockholm, Sweden, September 5, 1967)",
+      "id": null
+    },
+    {
+      "title": "Burning of the Midnight Lamp (live in Stockholm, Sweden, September 5, 1967)",
+      "id": null
+    },
+    {
+      "title": "Little Wing (Olympic Studios, London, UK, October 25, 1967)",
+      "id": null
+    },
+    {
+      "title": "Little Miss Lover (Olympic Studios, London, UK, October 1, 1967)",
+      "id": null
+    },
+    {
+      "title": "The Wind Cries Mary (live Olympia Theater, Paris, October, 9, 1967)",
+      "id": null
+    },
+    {
+      "title": "Catfish Blues (live Olympia Theater, Paris, October, 9, 1967)",
+      "id": null
+    },
+    {
+      "title": "Bold as Love (Olympic Studios, London, UK, October 5, 1967)",
+      "id": null
+    },
+    {
+      "title": "Sweet Angel (Olympic Studios, London, UK, November 13, 1967)",
+      "id": null
+    },
+    {
+      "title": "Fire (live at Clark University, Worcester, MA, March 15, 1968)",
+      "id": null
+    },
+    {
+      "title": "Somewhere (Sound Center, New York, NY, March 1968)",
+      "id": null
+    },
+    {
+      "title": "(Have You Ever Been to) Electric Ladyland (Record Plant, New York, NY, June 14, 1968)",
+      "id": null
+    },
+    {
+      "title": "Gypsy Eyes (Record Plant, New York, NY, April, 22, 1968)",
+      "id": null
+    },
+    {
+      "title": "Room Full of Mirrors (Record Plant, New York, NY, August 12, 1968)",
+      "id": null
+    },
+    {
+      "title": "Gloria (TTG Studios, Hollywood, CA, October 29, 1968)",
+      "id": null
+    },
+    {
+      "title": "Peace in Mississippi (TTG Studios, Hollywood, CA, October 24, 1968)",
+      "id": null
+    },
+    {
+      "title": "It’s Too Bad (Record Plant, New York, NY, February 11, 1969)",
+      "id": null
+    },
+    {
+      "title": "Star Spangled Banner (Record Plant, New York, NY, March 18, 1969)",
+      "id": null
+    },
+    {
+      "title": "Stone Free (Record Plant, New York, NY, April, 7, 1969)",
+      "id": null
+    },
+    {
+      "title": "Like a Rolling Stone (live at the Winterland, San Francisco, CA, October 10, 1968)",
+      "id": null
+    },
+    {
+      "title": "Spanish Castle Magic (Olympic Studios, London, UK, February 17, 1969)",
+      "id": null
+    },
+    {
+      "title": "Hear My Train A Comin’ (Olympic Studios, London, UK, February 17, 1969)",
+      "id": null
+    },
+    {
+      "title": "Room Full of Mirrors (Record Plant, New York, NY, April 21, 1969)",
+      "id": null
+    },
+    {
+      "title": "I Don’t Live Today (live at the Los Angeles Forum, CA, April 26, 1969)",
+      "id": null
+    },
+    {
+      "title": "Little Wing (live at the Royal Albert Hall, London, UK, February 24, 1969)",
+      "id": null
+    },
+    {
+      "title": "Red House (live at the San Diego Sports Arena, CA, May 25, 1969)",
+      "id": null
+    },
+    {
+      "title": "Purple Haze (live at the San Diego Sports Arena, CA, May 25, 1969)",
+      "id": null
+    },
+    {
+      "title": "Voodoo Child (slight return) (live at the Royal Albert Hall, London, UK, February 24, 1969)",
+      "id": null
+    },
+    {
+      "title": "Izabella (Hit Factory New York, NY, August 29, 1969)",
+      "id": null
+    },
+    {
+      "title": "Message to Love (Record Plant, New York, NY, December 19, 1969)",
+      "id": null
+    },
+    {
+      "title": "Earth Blues (Record Plant, New York, NY, December 19, 1969)",
+      "id": null
+    },
+    {
+      "title": "Astro Man (Record Plant, New York, NY, January 21, 1970)",
+      "id": null
+    },
+    {
+      "title": "Country Blues (Record Plant, New York, NY, January 23, 1970)",
+      "id": null
+    },
+    {
+      "title": "Freedom (Record Plant, New York, NY, February 16, 1970)",
+      "id": null
+    },
+    {
+      "title": "Johnny B. Goode (live at the Berkeley Community Theater, Berkeley, CA, May 30, 1970)",
+      "id": null
+    },
+    {
+      "title": "Lover Man",
+      "id": null
+    },
+    {
+      "title": "Blue Suede Shoes (live at the Berkeley Community Theater, Berkeley, CA, May 30, 1970)",
+      "id": null
+    },
+    {
+      "title": "Cherokee Mist (Electric Lady Studios, New York, NY, June 14, 1970)",
+      "id": null
+    },
+    {
+      "title": "Come Down Hard on Me (Electric Lady Studios, New York, NY, July 15, 1970)",
+      "id": null
+    },
+    {
+      "title": "Hey Baby (In From the Storm (live in Maui, Hawaii, July 30, 1970))",
+      "id": null
+    },
+    {
+      "title": "Eazy Ryder (Record Plant, New York, NY, December 18, 1969)",
+      "id": null
+    },
+    {
+      "title": "Night Bird Flying (Electric Lady Studios, New York, NY, June 16, 1970)",
+      "id": null
+    },
+    {
+      "title": "All Along the Watchtower (live at the Isle of Wight, England, UK, August 30, 1970)",
+      "id": null
+    },
+    {
+      "title": "In From the Storm (live at the Isle of Wight, England, UK, August 30, 1970)",
+      "id": null
+    },
+    {
+      "title": "Slow Blues (Electric Lady Studios, New York, NY, August 20, 1970)",
+      "id": null
+    }
+  ]
+}

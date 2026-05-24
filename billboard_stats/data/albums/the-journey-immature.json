@@ -1,1 +1,74 @@
-{"id": "the-journey-immature", "title": "The Journey", "artist": "Immature", "peak": 92, "history": [{"date": "1997-10-11", "rank": 92}, {"date": "1997-10-18", "rank": 129}, {"date": "1997-10-25", "rank": 166}]}
+{
+  "id": "the-journey-immature",
+  "title": "The Journey",
+  "artist": "Immature",
+  "peak": 92,
+  "history": [
+    {
+      "date": "1997-10-11",
+      "rank": 92
+    },
+    {
+      "date": "1997-10-18",
+      "rank": 129
+    },
+    {
+      "date": "1997-10-25",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I'm Not a Fool",
+      "id": "i-m-not-a-fool-immature"
+    },
+    {
+      "title": "Where Do We Go",
+      "id": "please-don-t-go-immature"
+    },
+    {
+      "title": "Give Up the Ghost",
+      "id": null
+    },
+    {
+      "title": "Tamika",
+      "id": null
+    },
+    {
+      "title": "Extra, Extra",
+      "id": null
+    },
+    {
+      "title": "Don't Ever Say Never",
+      "id": null
+    },
+    {
+      "title": "24/7",
+      "id": null
+    },
+    {
+      "title": "Can't You See",
+      "id": null
+    },
+    {
+      "title": "Ooh Wee Baby",
+      "id": null
+    },
+    {
+      "title": "I'll Give You Everything",
+      "id": null
+    },
+    {
+      "title": "I Can't Wait",
+      "id": null
+    },
+    {
+      "title": "Bring Your Lovin' Home",
+      "id": null
+    },
+    {
+      "title": "All Alone",
+      "id": null
+    }
+  ]
+}

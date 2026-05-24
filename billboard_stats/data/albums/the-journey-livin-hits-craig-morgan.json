@@ -1,1 +1,66 @@
-{"id": "the-journey-livin-hits-craig-morgan", "title": "The Journey (Livin Hits)", "artist": "Craig Morgan", "peak": 78, "history": [{"date": "2013-09-21", "rank": 78}, {"date": "2013-09-28", "rank": 175}]}
+{
+  "id": "the-journey-livin-hits-craig-morgan",
+  "title": "The Journey (Livin Hits)",
+  "artist": "Craig Morgan",
+  "peak": 78,
+  "history": [
+    {
+      "date": "2013-09-21",
+      "rank": 78
+    },
+    {
+      "date": "2013-09-28",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wake Up Lovin’ You",
+      "id": "wake-up-lovin-you-craig-morgan"
+    },
+    {
+      "title": "This Ole Boy",
+      "id": "this-ole-boy-craig-morgan"
+    },
+    {
+      "title": "International Harvester",
+      "id": "international-harvester-craig-morgan"
+    },
+    {
+      "title": "Tough",
+      "id": "tough-craig-morgan"
+    },
+    {
+      "title": "Little Bit of Life",
+      "id": "little-bit-of-life-craig-morgan"
+    },
+    {
+      "title": "Redneck Yacht Club",
+      "id": "redneck-yacht-club-craig-morgan"
+    },
+    {
+      "title": "That’s What I Love About Sunday",
+      "id": "that-s-what-i-love-about-sunday-craig-morgan"
+    },
+    {
+      "title": "Almost Home",
+      "id": "almost-home-craig-morgan"
+    },
+    {
+      "title": "We’ll Come Back Around",
+      "id": null
+    },
+    {
+      "title": "Party Girl",
+      "id": null
+    },
+    {
+      "title": "If Not Me",
+      "id": null
+    },
+    {
+      "title": "More Trucks Than Cars",
+      "id": null
+    }
+  ]
+}

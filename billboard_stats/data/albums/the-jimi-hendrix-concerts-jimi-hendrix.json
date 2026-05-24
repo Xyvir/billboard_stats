@@ -1,1 +1,86 @@
-{"id": "the-jimi-hendrix-concerts-jimi-hendrix", "title": "The Jimi Hendrix Concerts", "artist": "Jimi Hendrix", "peak": 79, "history": [{"date": "1982-09-25", "rank": 140}, {"date": "1982-10-02", "rank": 93}, {"date": "1982-10-09", "rank": 84}, {"date": "1982-10-16", "rank": 79}, {"date": "1982-10-23", "rank": 79}, {"date": "1982-10-30", "rank": 87}, {"date": "1982-11-06", "rank": 103}, {"date": "1982-11-13", "rank": 190}]}
+{
+  "id": "the-jimi-hendrix-concerts-jimi-hendrix",
+  "title": "The Jimi Hendrix Concerts",
+  "artist": "Jimi Hendrix",
+  "peak": 79,
+  "history": [
+    {
+      "date": "1982-09-25",
+      "rank": 140
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 93
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 84
+    },
+    {
+      "date": "1982-10-16",
+      "rank": 79
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 79
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 87
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 103
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fire",
+      "id": null
+    },
+    {
+      "title": "I Don’t Live Today",
+      "id": null
+    },
+    {
+      "title": "Red House",
+      "id": null
+    },
+    {
+      "title": "Stone Free",
+      "id": null
+    },
+    {
+      "title": "Are You Experienced",
+      "id": null
+    },
+    {
+      "title": "Little Wing",
+      "id": null
+    },
+    {
+      "title": "Voodoo Chile (slight return)",
+      "id": null
+    },
+    {
+      "title": "Bleeding Heart (Blues in C Sharp)",
+      "id": null
+    },
+    {
+      "title": "Hey Joe",
+      "id": null
+    },
+    {
+      "title": "Wild Thing",
+      "id": null
+    },
+    {
+      "title": "Hear My Train a Comin (Gettin’ My Heart Back Together Again)",
+      "id": null
+    }
+  ]
+}
