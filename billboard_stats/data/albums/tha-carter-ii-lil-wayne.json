@@ -1,1 +1,334 @@
-{"id": "tha-carter-ii-lil-wayne", "title": "Tha Carter II", "artist": "Lil Wayne", "peak": 2, "history": [{"date": "2005-12-24", "rank": 2}, {"date": "2005-12-31", "rank": 21}, {"date": "2006-01-07", "rank": 23}, {"date": "2006-01-14", "rank": 13}, {"date": "2006-01-21", "rank": 17}, {"date": "2006-01-28", "rank": 17}, {"date": "2006-02-04", "rank": 20}, {"date": "2006-02-11", "rank": 29}, {"date": "2006-02-18", "rank": 36}, {"date": "2006-02-25", "rank": 56}, {"date": "2006-03-04", "rank": 59}, {"date": "2006-03-11", "rank": 55}, {"date": "2006-03-18", "rank": 49}, {"date": "2006-03-25", "rank": 61}, {"date": "2006-04-01", "rank": 55}, {"date": "2006-04-08", "rank": 60}, {"date": "2006-04-15", "rank": 58}, {"date": "2006-04-22", "rank": 81}, {"date": "2006-04-29", "rank": 92}, {"date": "2006-05-06", "rank": 83}, {"date": "2006-05-13", "rank": 88}, {"date": "2006-05-20", "rank": 96}, {"date": "2006-05-27", "rank": 119}, {"date": "2006-06-03", "rank": 104}, {"date": "2006-06-10", "rank": 117}, {"date": "2006-06-17", "rank": 110}, {"date": "2006-06-24", "rank": 117}, {"date": "2006-07-01", "rank": 144}, {"date": "2006-07-08", "rank": 137}, {"date": "2006-07-15", "rank": 149}, {"date": "2006-07-22", "rank": 144}, {"date": "2006-07-29", "rank": 167}, {"date": "2006-08-05", "rank": 155}, {"date": "2006-08-12", "rank": 150}, {"date": "2006-08-19", "rank": 148}, {"date": "2006-08-26", "rank": 151}, {"date": "2006-09-02", "rank": 150}, {"date": "2006-09-09", "rank": 167}, {"date": "2006-09-16", "rank": 178}, {"date": "2006-09-23", "rank": 166}, {"date": "2006-09-30", "rank": 175}, {"date": "2006-10-07", "rank": 190}, {"date": "2006-10-14", "rank": 194}, {"date": "2011-09-17", "rank": 128}]}
+{
+  "id": "tha-carter-ii-lil-wayne",
+  "title": "Tha Carter II",
+  "artist": "Lil Wayne",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2005-12-24",
+      "rank": 2
+    },
+    {
+      "date": "2005-12-31",
+      "rank": 21
+    },
+    {
+      "date": "2006-01-07",
+      "rank": 23
+    },
+    {
+      "date": "2006-01-14",
+      "rank": 13
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 17
+    },
+    {
+      "date": "2006-01-28",
+      "rank": 17
+    },
+    {
+      "date": "2006-02-04",
+      "rank": 20
+    },
+    {
+      "date": "2006-02-11",
+      "rank": 29
+    },
+    {
+      "date": "2006-02-18",
+      "rank": 36
+    },
+    {
+      "date": "2006-02-25",
+      "rank": 56
+    },
+    {
+      "date": "2006-03-04",
+      "rank": 59
+    },
+    {
+      "date": "2006-03-11",
+      "rank": 55
+    },
+    {
+      "date": "2006-03-18",
+      "rank": 49
+    },
+    {
+      "date": "2006-03-25",
+      "rank": 61
+    },
+    {
+      "date": "2006-04-01",
+      "rank": 55
+    },
+    {
+      "date": "2006-04-08",
+      "rank": 60
+    },
+    {
+      "date": "2006-04-15",
+      "rank": 58
+    },
+    {
+      "date": "2006-04-22",
+      "rank": 81
+    },
+    {
+      "date": "2006-04-29",
+      "rank": 92
+    },
+    {
+      "date": "2006-05-06",
+      "rank": 83
+    },
+    {
+      "date": "2006-05-13",
+      "rank": 88
+    },
+    {
+      "date": "2006-05-20",
+      "rank": 96
+    },
+    {
+      "date": "2006-05-27",
+      "rank": 119
+    },
+    {
+      "date": "2006-06-03",
+      "rank": 104
+    },
+    {
+      "date": "2006-06-10",
+      "rank": 117
+    },
+    {
+      "date": "2006-06-17",
+      "rank": 110
+    },
+    {
+      "date": "2006-06-24",
+      "rank": 117
+    },
+    {
+      "date": "2006-07-01",
+      "rank": 144
+    },
+    {
+      "date": "2006-07-08",
+      "rank": 137
+    },
+    {
+      "date": "2006-07-15",
+      "rank": 149
+    },
+    {
+      "date": "2006-07-22",
+      "rank": 144
+    },
+    {
+      "date": "2006-07-29",
+      "rank": 167
+    },
+    {
+      "date": "2006-08-05",
+      "rank": 155
+    },
+    {
+      "date": "2006-08-12",
+      "rank": 150
+    },
+    {
+      "date": "2006-08-19",
+      "rank": 148
+    },
+    {
+      "date": "2006-08-26",
+      "rank": 151
+    },
+    {
+      "date": "2006-09-02",
+      "rank": 150
+    },
+    {
+      "date": "2006-09-09",
+      "rank": 167
+    },
+    {
+      "date": "2006-09-16",
+      "rank": 178
+    },
+    {
+      "date": "2006-09-23",
+      "rank": 166
+    },
+    {
+      "date": "2006-09-30",
+      "rank": 175
+    },
+    {
+      "date": "2006-10-07",
+      "rank": 190
+    },
+    {
+      "date": "2006-10-14",
+      "rank": 194
+    },
+    {
+      "date": "2011-09-17",
+      "rank": 128
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fireman",
+      "id": "fireman-lil-wayne"
+    },
+    {
+      "title": "Mo’ Fire",
+      "id": "on-fire-lil-wayne"
+    },
+    {
+      "title": "Carter II",
+      "id": "king-carter-lil-wayne"
+    },
+    {
+      "title": "Hustler Musik",
+      "id": "hustler-musik-lil-wayne"
+    },
+    {
+      "title": "Get Over",
+      "id": "hot-revolver-lil-wayne"
+    },
+    {
+      "title": "Tha Mobb",
+      "id": null
+    },
+    {
+      "title": "Fly In",
+      "id": null
+    },
+    {
+      "title": "Money on My Mind",
+      "id": null
+    },
+    {
+      "title": "On tha Block #1 (skit)",
+      "id": null
+    },
+    {
+      "title": "Best Rapper Alive",
+      "id": null
+    },
+    {
+      "title": "Lock and Load",
+      "id": null
+    },
+    {
+      "title": "Oh No",
+      "id": null
+    },
+    {
+      "title": "Grown Man",
+      "id": null
+    },
+    {
+      "title": "On tha Block #2 (skit)",
+      "id": null
+    },
+    {
+      "title": "Hit ’Em Up",
+      "id": null
+    },
+    {
+      "title": "Receipt",
+      "id": null
+    },
+    {
+      "title": "Shooter",
+      "id": null
+    },
+    {
+      "title": "Weezy Baby",
+      "id": null
+    },
+    {
+      "title": "On tha Block #3 (skit)",
+      "id": null
+    },
+    {
+      "title": "I’m a D‐Boy",
+      "id": null
+    },
+    {
+      "title": "Feel Me",
+      "id": null
+    },
+    {
+      "title": "Fly Out",
+      "id": null
+    },
+    {
+      "title": "The Block Is Hot (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "Bring It Back (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "Get Off the Corner (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "On the Grind (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "F**k the World (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "BM J.R. (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "Fireman (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "Go DJ (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "I Miss My Dawgs (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "This Is the Carter (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "Way of Life (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "500 Degrees (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "Where You At (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "Bloodline (Screwed & Chopped mix)",
+      "id": null
+    },
+    {
+      "title": "Everything (Screwed & Chopped mix)",
+      "id": null
+    }
+  ]
+}

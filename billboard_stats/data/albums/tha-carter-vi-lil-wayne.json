@@ -1,1 +1,110 @@
-{"id": "tha-carter-vi-lil-wayne", "title": "Tha Carter VI", "artist": "Lil Wayne", "peak": 2, "history": [{"date": "2025-06-21", "rank": 2}, {"date": "2025-06-28", "rank": 18}, {"date": "2025-07-05", "rank": 47}, {"date": "2025-07-12", "rank": 124}]}
+{
+  "id": "tha-carter-vi-lil-wayne",
+  "title": "Tha Carter VI",
+  "artist": "Lil Wayne",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2025-06-21",
+      "rank": 2
+    },
+    {
+      "date": "2025-06-28",
+      "rank": 18
+    },
+    {
+      "date": "2025-07-05",
+      "rank": 47
+    },
+    {
+      "date": "2025-07-12",
+      "rank": 124
+    }
+  ],
+  "tracks": [
+    {
+      "title": "King Carter",
+      "id": "king-carter-lil-wayne"
+    },
+    {
+      "title": "Welcome to tha Carter",
+      "id": "welcome-to-tha-carter-lil-wayne"
+    },
+    {
+      "title": "Bells",
+      "id": "bells-lil-wayne"
+    },
+    {
+      "title": "Banned From NO",
+      "id": "banned-from-no-lil-wayne"
+    },
+    {
+      "title": "Loki’s Theme",
+      "id": "took-his-time-lil-wayne"
+    },
+    {
+      "title": "Rari",
+      "id": "uproar-lil-wayne"
+    },
+    {
+      "title": "Maria",
+      "id": "mama-mia-lil-wayne"
+    },
+    {
+      "title": "Banned From NO (remix)",
+      "id": "banned-from-no-lil-wayne"
+    },
+    {
+      "title": "Hip-Hop",
+      "id": null
+    },
+    {
+      "title": "Sharks",
+      "id": null
+    },
+    {
+      "title": "The Days",
+      "id": null
+    },
+    {
+      "title": "Cotton Candy",
+      "id": null
+    },
+    {
+      "title": "Flex Up",
+      "id": null
+    },
+    {
+      "title": "Island Holiday",
+      "id": null
+    },
+    {
+      "title": "If I Played Guitar",
+      "id": null
+    },
+    {
+      "title": "Peanuts 2 N Elephant",
+      "id": null
+    },
+    {
+      "title": "Bein Myself",
+      "id": null
+    },
+    {
+      "title": "Mula Komin In",
+      "id": null
+    },
+    {
+      "title": "Alone in the Studio With My Gun",
+      "id": null
+    },
+    {
+      "title": "Written History",
+      "id": null
+    },
+    {
+      "title": "Momma Don’t Worry",
+      "id": null
+    }
+  ]
+}

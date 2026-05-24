@@ -1,1 +1,58 @@
-{"id": "t-g-sheppard-s-greatest-hits-t-g-sheppard", "title": "T.g. Sheppard's Greatest Hits", "artist": "T.G. Sheppard", "peak": 189, "history": [{"date": "1983-06-18", "rank": 189}, {"date": "1983-06-25", "rank": 189}]}
+{
+  "id": "t-g-sheppard-s-greatest-hits-t-g-sheppard",
+  "title": "T.g. Sheppard's Greatest Hits",
+  "artist": "T.G. Sheppard",
+  "peak": 189,
+  "history": [
+    {
+      "date": "1983-06-18",
+      "rank": 189
+    },
+    {
+      "date": "1983-06-25",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Loved 'Em Every One",
+      "id": "i-loved-em-every-one-t-g-sheppard"
+    },
+    {
+      "title": "Finally",
+      "id": "finally-t-g-sheppard"
+    },
+    {
+      "title": "Only One You",
+      "id": "only-one-you-t-g-sheppard"
+    },
+    {
+      "title": "Party Time",
+      "id": null
+    },
+    {
+      "title": "War Is Hell (On The Homefront, Too)",
+      "id": null
+    },
+    {
+      "title": "Without You",
+      "id": null
+    },
+    {
+      "title": "You Feel Good All Over",
+      "id": null
+    },
+    {
+      "title": "Last Cheater's Waltz",
+      "id": null
+    },
+    {
+      "title": "I'll Be Coming Back For More",
+      "id": null
+    },
+    {
+      "title": "Do You Wanna Go To Heaven",
+      "id": null
+    }
+  ]
+}

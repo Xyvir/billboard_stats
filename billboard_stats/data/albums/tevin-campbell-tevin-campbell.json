@@ -1,1 +1,74 @@
-{"id": "tevin-campbell-tevin-campbell", "title": "Tevin Campbell", "artist": "Tevin Campbell", "peak": 88, "history": [{"date": "1999-03-13", "rank": 88}, {"date": "1999-03-20", "rank": 112}, {"date": "1999-03-27", "rank": 144}, {"date": "1999-04-03", "rank": 166}]}
+{
+  "id": "tevin-campbell-tevin-campbell",
+  "title": "Tevin Campbell",
+  "artist": "Tevin Campbell",
+  "peak": 88,
+  "history": [
+    {
+      "date": "1999-03-13",
+      "rank": 88
+    },
+    {
+      "date": "1999-03-20",
+      "rank": 112
+    },
+    {
+      "date": "1999-03-27",
+      "rank": 144
+    },
+    {
+      "date": "1999-04-03",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Another Way",
+      "id": "another-way-tevin-campbell"
+    },
+    {
+      "title": "Never Again",
+      "id": null
+    },
+    {
+      "title": "Since I Lost You",
+      "id": null
+    },
+    {
+      "title": "For Your Love",
+      "id": null
+    },
+    {
+      "title": "The Only One For Me",
+      "id": null
+    },
+    {
+      "title": "My Love Ain't Blind",
+      "id": null
+    },
+    {
+      "title": "Everything You Are",
+      "id": null
+    },
+    {
+      "title": "Dandelion",
+      "id": null
+    },
+    {
+      "title": "Losing All Control",
+      "id": null
+    },
+    {
+      "title": "Don't Throw Your Life Away",
+      "id": null
+    },
+    {
+      "title": "Just Begun To Grow",
+      "id": null
+    },
+    {
+      "title": "Siempre estaras en mi (Dandelion)",
+      "id": null
+    }
+  ]
+}

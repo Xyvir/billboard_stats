@@ -1,1 +1,238 @@
-{"id": "t-e-v-i-n-tevin-campbell", "title": "T.E.V.I.N.", "artist": "Tevin Campbell", "peak": 38, "history": [{"date": "1991-12-07", "rank": 103}, {"date": "1991-12-14", "rank": 84}, {"date": "1991-12-21", "rank": 84}, {"date": "1991-12-28", "rank": 84}, {"date": "1992-01-04", "rank": 89}, {"date": "1992-01-11", "rank": 63}, {"date": "1992-01-18", "rank": 60}, {"date": "1992-01-25", "rank": 61}, {"date": "1992-02-01", "rank": 47}, {"date": "1992-02-08", "rank": 46}, {"date": "1992-02-15", "rank": 41}, {"date": "1992-02-22", "rank": 40}, {"date": "1992-02-29", "rank": 38}, {"date": "1992-03-07", "rank": 44}, {"date": "1992-03-14", "rank": 46}, {"date": "1992-03-21", "rank": 39}, {"date": "1992-03-28", "rank": 42}, {"date": "1992-04-04", "rank": 52}, {"date": "1992-04-11", "rank": 56}, {"date": "1992-04-18", "rank": 63}, {"date": "1992-04-25", "rank": 60}, {"date": "1992-05-02", "rank": 62}, {"date": "1992-05-09", "rank": 79}, {"date": "1992-05-16", "rank": 87}, {"date": "1992-05-23", "rank": 95}, {"date": "1992-05-30", "rank": 104}, {"date": "1992-06-06", "rank": 110}, {"date": "1992-06-13", "rank": 126}, {"date": "1992-06-20", "rank": 122}, {"date": "1992-06-27", "rank": 118}, {"date": "1992-07-04", "rank": 123}, {"date": "1992-07-11", "rank": 121}, {"date": "1992-07-18", "rank": 122}, {"date": "1992-07-25", "rank": 134}, {"date": "1992-08-01", "rank": 159}, {"date": "1992-08-08", "rank": 168}, {"date": "1992-08-15", "rank": 162}, {"date": "1992-08-22", "rank": 145}, {"date": "1992-08-29", "rank": 147}, {"date": "1992-09-05", "rank": 158}, {"date": "1992-09-12", "rank": 189}, {"date": "1992-09-19", "rank": 182}, {"date": "1992-09-26", "rank": 177}, {"date": "1992-10-03", "rank": 183}]}
+{
+  "id": "t-e-v-i-n-tevin-campbell",
+  "title": "T.E.V.I.N.",
+  "artist": "Tevin Campbell",
+  "peak": 38,
+  "history": [
+    {
+      "date": "1991-12-07",
+      "rank": 103
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 84
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 84
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 84
+    },
+    {
+      "date": "1992-01-04",
+      "rank": 89
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 63
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 60
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 61
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 47
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 46
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 41
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 40
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 38
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 44
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 46
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 39
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 42
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 52
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 56
+    },
+    {
+      "date": "1992-04-18",
+      "rank": 63
+    },
+    {
+      "date": "1992-04-25",
+      "rank": 60
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 62
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 79
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 87
+    },
+    {
+      "date": "1992-05-23",
+      "rank": 95
+    },
+    {
+      "date": "1992-05-30",
+      "rank": 104
+    },
+    {
+      "date": "1992-06-06",
+      "rank": 110
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 126
+    },
+    {
+      "date": "1992-06-20",
+      "rank": 122
+    },
+    {
+      "date": "1992-06-27",
+      "rank": 118
+    },
+    {
+      "date": "1992-07-04",
+      "rank": 123
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 121
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 122
+    },
+    {
+      "date": "1992-07-25",
+      "rank": 134
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 159
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 168
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 162
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 145
+    },
+    {
+      "date": "1992-08-29",
+      "rank": 147
+    },
+    {
+      "date": "1992-09-05",
+      "rank": 158
+    },
+    {
+      "date": "1992-09-12",
+      "rank": 189
+    },
+    {
+      "date": "1992-09-19",
+      "rank": 182
+    },
+    {
+      "date": "1992-09-26",
+      "rank": 177
+    },
+    {
+      "date": "1992-10-03",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Round and Round (Soul mix edit)",
+      "id": "round-and-round-tevin-campbell"
+    },
+    {
+      "title": "Tell Me What You Want Me to Do",
+      "id": "tell-me-what-you-want-me-to-do-tevin-campbell"
+    },
+    {
+      "title": "Alone With You",
+      "id": "alone-with-you-tevin-campbell"
+    },
+    {
+      "title": "Strawberry Letter 23",
+      "id": "strawberry-letter-23-tevin-campbell"
+    },
+    {
+      "title": "Goodbye",
+      "id": "goodbye-tevin-campbell"
+    },
+    {
+      "title": "Interlude / Over the Rainbow and on to the Sun",
+      "id": null
+    },
+    {
+      "title": "Lil’ Brother",
+      "id": null
+    },
+    {
+      "title": "One Song",
+      "id": null
+    },
+    {
+      "title": "Just Ask Me To",
+      "id": null
+    },
+    {
+      "title": "Perfect World",
+      "id": null
+    },
+    {
+      "title": "Confused",
+      "id": null
+    },
+    {
+      "title": "Look What We’d Have (If You Were Mine)",
+      "id": null
+    },
+    {
+      "title": "She’s All That",
+      "id": null
+    }
+  ]
+}

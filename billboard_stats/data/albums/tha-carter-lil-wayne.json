@@ -1,1 +1,238 @@
-{"id": "tha-carter-lil-wayne", "title": "Tha Carter", "artist": "Lil Wayne", "peak": 5, "history": [{"date": "2004-07-17", "rank": 5}, {"date": "2004-07-24", "rank": 13}, {"date": "2004-07-31", "rank": 17}, {"date": "2004-08-07", "rank": 23}, {"date": "2004-08-14", "rank": 33}, {"date": "2004-08-21", "rank": 33}, {"date": "2004-08-28", "rank": 46}, {"date": "2004-09-04", "rank": 53}, {"date": "2004-09-11", "rank": 59}, {"date": "2004-09-18", "rank": 57}, {"date": "2004-09-25", "rank": 59}, {"date": "2004-10-02", "rank": 56}, {"date": "2004-10-09", "rank": 50}, {"date": "2004-10-16", "rank": 59}, {"date": "2004-10-23", "rank": 60}, {"date": "2004-10-30", "rank": 65}, {"date": "2004-11-06", "rank": 63}, {"date": "2004-11-13", "rank": 59}, {"date": "2004-11-20", "rank": 64}, {"date": "2004-11-27", "rank": 89}, {"date": "2004-12-04", "rank": 113}, {"date": "2004-12-11", "rank": 139}, {"date": "2004-12-18", "rank": 136}, {"date": "2004-12-25", "rank": 160}, {"date": "2005-01-01", "rank": 172}, {"date": "2005-01-08", "rank": 145}, {"date": "2005-01-15", "rank": 96}, {"date": "2005-01-22", "rank": 115}, {"date": "2005-01-29", "rank": 124}, {"date": "2005-02-05", "rank": 120}, {"date": "2005-02-12", "rank": 136}, {"date": "2005-02-19", "rank": 123}, {"date": "2005-02-26", "rank": 158}, {"date": "2005-03-05", "rank": 143}, {"date": "2005-03-12", "rank": 157}, {"date": "2005-03-19", "rank": 182}]}
+{
+  "id": "tha-carter-lil-wayne",
+  "title": "Tha Carter",
+  "artist": "Lil Wayne",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2004-07-17",
+      "rank": 5
+    },
+    {
+      "date": "2004-07-24",
+      "rank": 13
+    },
+    {
+      "date": "2004-07-31",
+      "rank": 17
+    },
+    {
+      "date": "2004-08-07",
+      "rank": 23
+    },
+    {
+      "date": "2004-08-14",
+      "rank": 33
+    },
+    {
+      "date": "2004-08-21",
+      "rank": 33
+    },
+    {
+      "date": "2004-08-28",
+      "rank": 46
+    },
+    {
+      "date": "2004-09-04",
+      "rank": 53
+    },
+    {
+      "date": "2004-09-11",
+      "rank": 59
+    },
+    {
+      "date": "2004-09-18",
+      "rank": 57
+    },
+    {
+      "date": "2004-09-25",
+      "rank": 59
+    },
+    {
+      "date": "2004-10-02",
+      "rank": 56
+    },
+    {
+      "date": "2004-10-09",
+      "rank": 50
+    },
+    {
+      "date": "2004-10-16",
+      "rank": 59
+    },
+    {
+      "date": "2004-10-23",
+      "rank": 60
+    },
+    {
+      "date": "2004-10-30",
+      "rank": 65
+    },
+    {
+      "date": "2004-11-06",
+      "rank": 63
+    },
+    {
+      "date": "2004-11-13",
+      "rank": 59
+    },
+    {
+      "date": "2004-11-20",
+      "rank": 64
+    },
+    {
+      "date": "2004-11-27",
+      "rank": 89
+    },
+    {
+      "date": "2004-12-04",
+      "rank": 113
+    },
+    {
+      "date": "2004-12-11",
+      "rank": 139
+    },
+    {
+      "date": "2004-12-18",
+      "rank": 136
+    },
+    {
+      "date": "2004-12-25",
+      "rank": 160
+    },
+    {
+      "date": "2005-01-01",
+      "rank": 172
+    },
+    {
+      "date": "2005-01-08",
+      "rank": 145
+    },
+    {
+      "date": "2005-01-15",
+      "rank": 96
+    },
+    {
+      "date": "2005-01-22",
+      "rank": 115
+    },
+    {
+      "date": "2005-01-29",
+      "rank": 124
+    },
+    {
+      "date": "2005-02-05",
+      "rank": 120
+    },
+    {
+      "date": "2005-02-12",
+      "rank": 136
+    },
+    {
+      "date": "2005-02-19",
+      "rank": 123
+    },
+    {
+      "date": "2005-02-26",
+      "rank": 158
+    },
+    {
+      "date": "2005-03-05",
+      "rank": 143
+    },
+    {
+      "date": "2005-03-12",
+      "rank": 157
+    },
+    {
+      "date": "2005-03-19",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Go DJ",
+      "id": "go-d-j-lil-wayne"
+    },
+    {
+      "title": "Only Way",
+      "id": "lonely-dababy-x-lil-wayne"
+    },
+    {
+      "title": "Walk In",
+      "id": null
+    },
+    {
+      "title": "This Is the Carter",
+      "id": null
+    },
+    {
+      "title": "BM J.R.",
+      "id": null
+    },
+    {
+      "title": "On the Block #1",
+      "id": null
+    },
+    {
+      "title": "I Miss My Dawgs",
+      "id": null
+    },
+    {
+      "title": "We Don’t",
+      "id": null
+    },
+    {
+      "title": "On My Own",
+      "id": null
+    },
+    {
+      "title": "Tha Heat",
+      "id": null
+    },
+    {
+      "title": "Cash Money Millionaires",
+      "id": null
+    },
+    {
+      "title": "Inside",
+      "id": null
+    },
+    {
+      "title": "Bring It Back",
+      "id": null
+    },
+    {
+      "title": "Who Wanna",
+      "id": null
+    },
+    {
+      "title": "On the Block #2",
+      "id": null
+    },
+    {
+      "title": "Get Down",
+      "id": null
+    },
+    {
+      "title": "Snitch",
+      "id": null
+    },
+    {
+      "title": "Hoes",
+      "id": null
+    },
+    {
+      "title": "Shine",
+      "id": null
+    },
+    {
+      "title": "Ain’t That a Bitch",
+      "id": null
+    },
+    {
+      "title": "Walk Out",
+      "id": null
+    }
+  ]
+}
