@@ -1,1 +1,218 @@
-{"id": "the-beginning-the-black-eyed-peas", "title": "The Beginning", "artist": "The Black Eyed Peas", "peak": 6, "history": [{"date": "2010-12-18", "rank": 6}, {"date": "2010-12-25", "rank": 16}, {"date": "2011-01-01", "rank": 14}, {"date": "2011-01-08", "rank": 16}, {"date": "2011-01-15", "rank": 12}, {"date": "2011-01-22", "rank": 15}, {"date": "2011-01-29", "rank": 22}, {"date": "2011-02-05", "rank": 22}, {"date": "2011-02-12", "rank": 26}, {"date": "2011-02-19", "rank": 20}, {"date": "2011-02-26", "rank": 14}, {"date": "2011-03-05", "rank": 27}, {"date": "2011-03-12", "rank": 31}, {"date": "2011-03-19", "rank": 32}, {"date": "2011-03-26", "rank": 44}, {"date": "2011-04-02", "rank": 28}, {"date": "2011-04-09", "rank": 39}, {"date": "2011-04-16", "rank": 48}, {"date": "2011-04-23", "rank": 43}, {"date": "2011-04-30", "rank": 43}, {"date": "2011-05-07", "rank": 39}, {"date": "2011-05-14", "rank": 45}, {"date": "2011-05-21", "rank": 52}, {"date": "2011-05-28", "rank": 52}, {"date": "2011-06-04", "rank": 60}, {"date": "2011-06-11", "rank": 56}, {"date": "2011-06-18", "rank": 61}, {"date": "2011-06-25", "rank": 63}, {"date": "2011-07-02", "rank": 76}, {"date": "2011-07-09", "rank": 94}, {"date": "2011-07-16", "rank": 86}, {"date": "2011-07-23", "rank": 90}, {"date": "2011-07-30", "rank": 112}, {"date": "2011-08-06", "rank": 112}, {"date": "2011-08-13", "rank": 114}, {"date": "2011-08-20", "rank": 124}, {"date": "2011-08-27", "rank": 144}, {"date": "2011-09-03", "rank": 145}, {"date": "2011-09-10", "rank": 159}, {"date": "2011-09-17", "rank": 196}]}
+{
+  "id": "the-beginning-the-black-eyed-peas",
+  "title": "The Beginning",
+  "artist": "The Black Eyed Peas",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2010-12-18",
+      "rank": 6
+    },
+    {
+      "date": "2010-12-25",
+      "rank": 16
+    },
+    {
+      "date": "2011-01-01",
+      "rank": 14
+    },
+    {
+      "date": "2011-01-08",
+      "rank": 16
+    },
+    {
+      "date": "2011-01-15",
+      "rank": 12
+    },
+    {
+      "date": "2011-01-22",
+      "rank": 15
+    },
+    {
+      "date": "2011-01-29",
+      "rank": 22
+    },
+    {
+      "date": "2011-02-05",
+      "rank": 22
+    },
+    {
+      "date": "2011-02-12",
+      "rank": 26
+    },
+    {
+      "date": "2011-02-19",
+      "rank": 20
+    },
+    {
+      "date": "2011-02-26",
+      "rank": 14
+    },
+    {
+      "date": "2011-03-05",
+      "rank": 27
+    },
+    {
+      "date": "2011-03-12",
+      "rank": 31
+    },
+    {
+      "date": "2011-03-19",
+      "rank": 32
+    },
+    {
+      "date": "2011-03-26",
+      "rank": 44
+    },
+    {
+      "date": "2011-04-02",
+      "rank": 28
+    },
+    {
+      "date": "2011-04-09",
+      "rank": 39
+    },
+    {
+      "date": "2011-04-16",
+      "rank": 48
+    },
+    {
+      "date": "2011-04-23",
+      "rank": 43
+    },
+    {
+      "date": "2011-04-30",
+      "rank": 43
+    },
+    {
+      "date": "2011-05-07",
+      "rank": 39
+    },
+    {
+      "date": "2011-05-14",
+      "rank": 45
+    },
+    {
+      "date": "2011-05-21",
+      "rank": 52
+    },
+    {
+      "date": "2011-05-28",
+      "rank": 52
+    },
+    {
+      "date": "2011-06-04",
+      "rank": 60
+    },
+    {
+      "date": "2011-06-11",
+      "rank": 56
+    },
+    {
+      "date": "2011-06-18",
+      "rank": 61
+    },
+    {
+      "date": "2011-06-25",
+      "rank": 63
+    },
+    {
+      "date": "2011-07-02",
+      "rank": 76
+    },
+    {
+      "date": "2011-07-09",
+      "rank": 94
+    },
+    {
+      "date": "2011-07-16",
+      "rank": 86
+    },
+    {
+      "date": "2011-07-23",
+      "rank": 90
+    },
+    {
+      "date": "2011-07-30",
+      "rank": 112
+    },
+    {
+      "date": "2011-08-06",
+      "rank": 112
+    },
+    {
+      "date": "2011-08-13",
+      "rank": 114
+    },
+    {
+      "date": "2011-08-20",
+      "rank": 124
+    },
+    {
+      "date": "2011-08-27",
+      "rank": 144
+    },
+    {
+      "date": "2011-09-03",
+      "rank": 145
+    },
+    {
+      "date": "2011-09-10",
+      "rank": 159
+    },
+    {
+      "date": "2011-09-17",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Time (Dirty Bit)",
+      "id": "the-time-dirty-bit-the-black-eyed-peas"
+    },
+    {
+      "title": "Don’t Stop the Party",
+      "id": "don-t-stop-the-party-the-black-eyed-peas"
+    },
+    {
+      "title": "Do It Like This",
+      "id": "don-t-lie-the-black-eyed-peas"
+    },
+    {
+      "title": "Just Can’t Get Enough",
+      "id": "just-can-t-get-enough-the-black-eyed-peas"
+    },
+    {
+      "title": "Light Up the Night",
+      "id": null
+    },
+    {
+      "title": "Love You Long Time",
+      "id": null
+    },
+    {
+      "title": "XOXOXO",
+      "id": null
+    },
+    {
+      "title": "Someday",
+      "id": null
+    },
+    {
+      "title": "Whenever",
+      "id": null
+    },
+    {
+      "title": "Fashion Beats",
+      "id": null
+    },
+    {
+      "title": "The Best One Yet (The Boy)",
+      "id": null
+    },
+    {
+      "title": "Play It Loud",
+      "id": null
+    }
+  ]
+}

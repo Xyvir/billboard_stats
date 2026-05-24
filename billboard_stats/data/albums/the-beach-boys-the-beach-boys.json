@@ -1,1 +1,110 @@
-{"id": "the-beach-boys-the-beach-boys", "title": "The Beach Boys", "artist": "The Beach Boys", "peak": 52, "history": [{"date": "1985-06-29", "rank": 88}, {"date": "1985-07-06", "rank": 64}, {"date": "1985-07-13", "rank": 58}, {"date": "1985-07-20", "rank": 52}, {"date": "1985-07-27", "rank": 52}, {"date": "1985-08-03", "rank": 52}, {"date": "1985-08-10", "rank": 55}, {"date": "1985-08-17", "rank": 68}, {"date": "1985-08-24", "rank": 72}, {"date": "1985-08-31", "rank": 81}, {"date": "1985-09-07", "rank": 104}, {"date": "1985-09-14", "rank": 126}, {"date": "1985-09-21", "rank": 153}, {"date": "1985-09-28", "rank": 171}]}
+{
+  "id": "the-beach-boys-the-beach-boys",
+  "title": "The Beach Boys",
+  "artist": "The Beach Boys",
+  "peak": 52,
+  "history": [
+    {
+      "date": "1985-06-29",
+      "rank": 88
+    },
+    {
+      "date": "1985-07-06",
+      "rank": 64
+    },
+    {
+      "date": "1985-07-13",
+      "rank": 58
+    },
+    {
+      "date": "1985-07-20",
+      "rank": 52
+    },
+    {
+      "date": "1985-07-27",
+      "rank": 52
+    },
+    {
+      "date": "1985-08-03",
+      "rank": 52
+    },
+    {
+      "date": "1985-08-10",
+      "rank": 55
+    },
+    {
+      "date": "1985-08-17",
+      "rank": 68
+    },
+    {
+      "date": "1985-08-24",
+      "rank": 72
+    },
+    {
+      "date": "1985-08-31",
+      "rank": 81
+    },
+    {
+      "date": "1985-09-07",
+      "rank": 104
+    },
+    {
+      "date": "1985-09-14",
+      "rank": 126
+    },
+    {
+      "date": "1985-09-21",
+      "rank": 153
+    },
+    {
+      "date": "1985-09-28",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Getcha Back",
+      "id": "getcha-back-the-beach-boys"
+    },
+    {
+      "title": "It’s Gettin’ Late",
+      "id": "it-s-getting-late-the-beach-boys"
+    },
+    {
+      "title": "California Calling",
+      "id": "california-dreamin-the-beach-boys"
+    },
+    {
+      "title": "Crack at Your Love",
+      "id": null
+    },
+    {
+      "title": "Maybe I Don’t Know",
+      "id": null
+    },
+    {
+      "title": "She Believes in Love Again",
+      "id": null
+    },
+    {
+      "title": "Passing Friend",
+      "id": null
+    },
+    {
+      "title": "I’m So Lonely",
+      "id": null
+    },
+    {
+      "title": "Where I Belong",
+      "id": null
+    },
+    {
+      "title": "I Do Love You",
+      "id": null
+    },
+    {
+      "title": "It’s Just a Matter of Time",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "the-beau-brummels-beau-brummels", "title": "The Beau Brummels", "artist": "Beau Brummels", "peak": 180, "history": [{"date": "1975-07-05", "rank": 190}, {"date": "1975-07-12", "rank": 180}, {"date": "1975-07-19", "rank": 180}]}
+{
+  "id": "the-beau-brummels-beau-brummels",
+  "title": "The Beau Brummels",
+  "artist": "Beau Brummels",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1975-07-05",
+      "rank": 190
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 180
+    },
+    {
+      "date": "1975-07-19",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Tell Me Why",
+      "id": "you-tell-me-why-the-beau-brummels"
+    },
+    {
+      "title": "First in Line",
+      "id": null
+    },
+    {
+      "title": "Wolf",
+      "id": null
+    },
+    {
+      "title": "Down to the Bottom",
+      "id": null
+    },
+    {
+      "title": "Tennessee Walker",
+      "id": null
+    },
+    {
+      "title": "Singing Cowboy",
+      "id": null
+    },
+    {
+      "title": "Goldrush",
+      "id": null
+    },
+    {
+      "title": "The Lonely Side",
+      "id": null
+    },
+    {
+      "title": "Gate of Hearts",
+      "id": null
+    },
+    {
+      "title": "Today by Day",
+      "id": null
+    }
+  ]
+}
