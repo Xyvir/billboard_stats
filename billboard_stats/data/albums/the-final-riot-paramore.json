@@ -1,1 +1,82 @@
-{"id": "the-final-riot-paramore", "title": "The Final Riot!", "artist": "Paramore", "peak": 88, "history": [{"date": "2008-12-13", "rank": 88}, {"date": "2008-12-20", "rank": 191}, {"date": "2008-12-27", "rank": 196}]}
+{
+  "id": "the-final-riot-paramore",
+  "title": "The Final Riot!",
+  "artist": "Paramore",
+  "peak": 88,
+  "history": [
+    {
+      "date": "2008-12-13",
+      "rank": 88
+    },
+    {
+      "date": "2008-12-20",
+      "rank": 191
+    },
+    {
+      "date": "2008-12-27",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "That’s What You Get",
+      "id": "that-s-what-you-get-paramore"
+    },
+    {
+      "title": "crushcrushcrush",
+      "id": "crushcrushcrush-paramore"
+    },
+    {
+      "title": "Decoy",
+      "id": "decode-paramore"
+    },
+    {
+      "title": "Misery Business",
+      "id": "misery-business-paramore"
+    },
+    {
+      "title": "Born for This",
+      "id": null
+    },
+    {
+      "title": "Here We Go Again",
+      "id": null
+    },
+    {
+      "title": "Fences",
+      "id": null
+    },
+    {
+      "title": "Let the Flames Begin",
+      "id": null
+    },
+    {
+      "title": "When It Rains",
+      "id": null
+    },
+    {
+      "title": "My Heart",
+      "id": null
+    },
+    {
+      "title": "Pressure",
+      "id": null
+    },
+    {
+      "title": "For a Pessimist, I’m Pretty Optimistic",
+      "id": null
+    },
+    {
+      "title": "We Are Broken",
+      "id": null
+    },
+    {
+      "title": "Emergency",
+      "id": null
+    },
+    {
+      "title": "Hallelujah",
+      "id": null
+    }
+  ]
+}

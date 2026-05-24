@@ -1,1 +1,70 @@
-{"id": "the-fanatic-felony", "title": "The Fanatic", "artist": "Felony", "peak": 185, "history": [{"date": "1983-03-26", "rank": 198}, {"date": "1983-04-02", "rank": 191}, {"date": "1983-04-09", "rank": 185}, {"date": "1983-04-16", "rank": 185}, {"date": "1983-04-23", "rank": 190}]}
+{
+  "id": "the-fanatic-felony",
+  "title": "The Fanatic",
+  "artist": "Felony",
+  "peak": 185,
+  "history": [
+    {
+      "date": "1983-03-26",
+      "rank": 198
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 191
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 185
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 185
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Fanatic",
+      "id": "the-fanatic-felony"
+    },
+    {
+      "title": "No Room in Heaven",
+      "id": null
+    },
+    {
+      "title": "One Step",
+      "id": null
+    },
+    {
+      "title": "Positively Negative",
+      "id": null
+    },
+    {
+      "title": "Aggravated Man",
+      "id": null
+    },
+    {
+      "title": "What a Way to Go",
+      "id": null
+    },
+    {
+      "title": "Kristine",
+      "id": null
+    },
+    {
+      "title": "The Girl Ain't Straight",
+      "id": null
+    },
+    {
+      "title": "Teaser",
+      "id": null
+    },
+    {
+      "title": "666 Beware",
+      "id": null
+    }
+  ]
+}
