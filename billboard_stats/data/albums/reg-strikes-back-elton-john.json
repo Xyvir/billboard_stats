@@ -1,1 +1,182 @@
-{"id": "reg-strikes-back-elton-john", "title": "Reg Strikes Back", "artist": "Elton John", "peak": 16, "history": [{"date": "1988-07-09", "rank": 39}, {"date": "1988-07-16", "rank": 28}, {"date": "1988-07-23", "rank": 24}, {"date": "1988-07-30", "rank": 20}, {"date": "1988-08-06", "rank": 19}, {"date": "1988-08-13", "rank": 18}, {"date": "1988-08-20", "rank": 17}, {"date": "1988-08-27", "rank": 17}, {"date": "1988-09-03", "rank": 16}, {"date": "1988-09-10", "rank": 18}, {"date": "1988-09-17", "rank": 19}, {"date": "1988-09-24", "rank": 23}, {"date": "1988-10-01", "rank": 23}, {"date": "1988-10-08", "rank": 28}, {"date": "1988-10-15", "rank": 27}, {"date": "1988-10-22", "rank": 28}, {"date": "1988-10-29", "rank": 29}, {"date": "1988-11-05", "rank": 35}, {"date": "1988-11-12", "rank": 37}, {"date": "1988-11-19", "rank": 47}, {"date": "1988-11-26", "rank": 54}, {"date": "1988-12-03", "rank": 70}, {"date": "1988-12-10", "rank": 103}, {"date": "1988-12-17", "rank": 131}, {"date": "1988-12-24", "rank": 162}, {"date": "1988-12-31", "rank": 162}, {"date": "1989-01-07", "rank": 166}, {"date": "1989-01-14", "rank": 182}, {"date": "1989-01-21", "rank": 185}]}
+{
+  "id": "reg-strikes-back-elton-john",
+  "title": "Reg Strikes Back",
+  "artist": "Elton John",
+  "peak": 16,
+  "history": [
+    {
+      "date": "1988-07-09",
+      "rank": 39
+    },
+    {
+      "date": "1988-07-16",
+      "rank": 28
+    },
+    {
+      "date": "1988-07-23",
+      "rank": 24
+    },
+    {
+      "date": "1988-07-30",
+      "rank": 20
+    },
+    {
+      "date": "1988-08-06",
+      "rank": 19
+    },
+    {
+      "date": "1988-08-13",
+      "rank": 18
+    },
+    {
+      "date": "1988-08-20",
+      "rank": 17
+    },
+    {
+      "date": "1988-08-27",
+      "rank": 17
+    },
+    {
+      "date": "1988-09-03",
+      "rank": 16
+    },
+    {
+      "date": "1988-09-10",
+      "rank": 18
+    },
+    {
+      "date": "1988-09-17",
+      "rank": 19
+    },
+    {
+      "date": "1988-09-24",
+      "rank": 23
+    },
+    {
+      "date": "1988-10-01",
+      "rank": 23
+    },
+    {
+      "date": "1988-10-08",
+      "rank": 28
+    },
+    {
+      "date": "1988-10-15",
+      "rank": 27
+    },
+    {
+      "date": "1988-10-22",
+      "rank": 28
+    },
+    {
+      "date": "1988-10-29",
+      "rank": 29
+    },
+    {
+      "date": "1988-11-05",
+      "rank": 35
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 37
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 47
+    },
+    {
+      "date": "1988-11-26",
+      "rank": 54
+    },
+    {
+      "date": "1988-12-03",
+      "rank": 70
+    },
+    {
+      "date": "1988-12-10",
+      "rank": 103
+    },
+    {
+      "date": "1988-12-17",
+      "rank": 131
+    },
+    {
+      "date": "1988-12-24",
+      "rank": 162
+    },
+    {
+      "date": "1988-12-31",
+      "rank": 162
+    },
+    {
+      "date": "1989-01-07",
+      "rank": 166
+    },
+    {
+      "date": "1989-01-14",
+      "rank": 182
+    },
+    {
+      "date": "1989-01-21",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Word in Spanish",
+      "id": "a-word-in-spanish-elton-john"
+    },
+    {
+      "title": "I Don’t Wanna Go On With You Like That",
+      "id": "i-don-t-wanna-go-on-with-you-like-that-elton-john"
+    },
+    {
+      "title": "Goodbye Marlon Brando",
+      "id": "goodbye-yellow-brick-road-elton-john"
+    },
+    {
+      "title": "I Don’t Wanna Go On With You Like That (Shep Pettibone mix)",
+      "id": "i-don-t-wanna-go-on-with-you-like-that-elton-john"
+    },
+    {
+      "title": "I Don’t Wanna Go On With You Like That (Just Elton and His Piano mix)",
+      "id": "i-don-t-wanna-go-on-with-you-like-that-elton-john"
+    },
+    {
+      "title": "Town of Plenty",
+      "id": null
+    },
+    {
+      "title": "Mona Lisas and Mad Hatters, Part 2",
+      "id": null
+    },
+    {
+      "title": "Japanese Hands",
+      "id": null
+    },
+    {
+      "title": "The Camera Never Lies",
+      "id": null
+    },
+    {
+      "title": "Heavy Traffic",
+      "id": null
+    },
+    {
+      "title": "Poor Cow",
+      "id": null
+    },
+    {
+      "title": "Since God Invented Girls",
+      "id": null
+    },
+    {
+      "title": "Rope Around a Fool",
+      "id": null
+    },
+    {
+      "title": "Mona Lisas and Mad Hatters, Part 2 (The Renaissance mix)",
+      "id": null
+    }
+  ]
+}
