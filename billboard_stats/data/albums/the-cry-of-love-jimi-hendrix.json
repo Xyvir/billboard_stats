@@ -1,1 +1,54 @@
-{"id": "the-cry-of-love-jimi-hendrix", "title": "The Cry Of Love", "artist": "Jimi Hendrix", "peak": 91, "history": [{"date": "2014-10-04", "rank": 91}]}
+{
+  "id": "the-cry-of-love-jimi-hendrix",
+  "title": "The Cry Of Love",
+  "artist": "Jimi Hendrix",
+  "peak": 91,
+  "history": [
+    {
+      "date": "2014-10-04",
+      "rank": 91
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Freedom",
+      "id": "freedom-jimi-hendrix"
+    },
+    {
+      "title": "Drifting",
+      "id": null
+    },
+    {
+      "title": "Ezy Ryder",
+      "id": null
+    },
+    {
+      "title": "Night Bird Flying",
+      "id": null
+    },
+    {
+      "title": "My Friend",
+      "id": null
+    },
+    {
+      "title": "Straight Ahead",
+      "id": null
+    },
+    {
+      "title": "Astro Man",
+      "id": null
+    },
+    {
+      "title": "Angel",
+      "id": null
+    },
+    {
+      "title": "In From the Storm",
+      "id": null
+    },
+    {
+      "title": "Belly Button Window",
+      "id": null
+    }
+  ]
+}

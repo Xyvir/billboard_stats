@@ -1,1 +1,82 @@
-{"id": "the-creed-avalon", "title": "The Creed", "artist": "Avalon", "peak": 104, "history": [{"date": "2004-03-13", "rank": 104}, {"date": "2004-03-20", "rank": 118}, {"date": "2004-03-27", "rank": 133}, {"date": "2004-04-03", "rank": 142}, {"date": "2004-04-10", "rank": 183}, {"date": "2004-04-17", "rank": 196}, {"date": "2004-04-24", "rank": 192}, {"date": "2004-12-11", "rank": 132}]}
+{
+  "id": "the-creed-avalon",
+  "title": "The Creed",
+  "artist": "Avalon",
+  "peak": 104,
+  "history": [
+    {
+      "date": "2004-03-13",
+      "rank": 104
+    },
+    {
+      "date": "2004-03-20",
+      "rank": 118
+    },
+    {
+      "date": "2004-03-27",
+      "rank": 133
+    },
+    {
+      "date": "2004-04-03",
+      "rank": 142
+    },
+    {
+      "date": "2004-04-10",
+      "rank": 183
+    },
+    {
+      "date": "2004-04-17",
+      "rank": 196
+    },
+    {
+      "date": "2004-04-24",
+      "rank": 192
+    },
+    {
+      "date": "2004-12-11",
+      "rank": 132
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All",
+      "id": null
+    },
+    {
+      "title": "The Creed",
+      "id": null
+    },
+    {
+      "title": "Abundantly",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be With You",
+      "id": null
+    },
+    {
+      "title": "You Were There",
+      "id": null
+    },
+    {
+      "title": "Far Away From Here",
+      "id": null
+    },
+    {
+      "title": "Overjoyed",
+      "id": null
+    },
+    {
+      "title": "I Bring It to You",
+      "id": null
+    },
+    {
+      "title": "The Good Way",
+      "id": null
+    },
+    {
+      "title": "Renew Me",
+      "id": null
+    }
+  ]
+}

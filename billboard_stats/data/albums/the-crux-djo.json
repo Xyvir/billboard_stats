@@ -1,1 +1,74 @@
-{"id": "the-crux-djo", "title": "The Crux", "artist": "Djo", "peak": 50, "history": [{"date": "2025-04-19", "rank": 50}, {"date": "2026-01-17", "rank": 125}, {"date": "2026-01-24", "rank": 137}, {"date": "2026-01-31", "rank": 188}]}
+{
+  "id": "the-crux-djo",
+  "title": "The Crux",
+  "artist": "Djo",
+  "peak": 50,
+  "history": [
+    {
+      "date": "2025-04-19",
+      "rank": 50
+    },
+    {
+      "date": "2026-01-17",
+      "rank": 125
+    },
+    {
+      "date": "2026-01-24",
+      "rank": 137
+    },
+    {
+      "date": "2026-01-31",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lonesome Is a State of Mind",
+      "id": null
+    },
+    {
+      "title": "Basic Being Basic",
+      "id": null
+    },
+    {
+      "title": "Link",
+      "id": null
+    },
+    {
+      "title": "Potion",
+      "id": null
+    },
+    {
+      "title": "Delete Ya",
+      "id": null
+    },
+    {
+      "title": "Egg",
+      "id": null
+    },
+    {
+      "title": "Fly",
+      "id": null
+    },
+    {
+      "title": "Charlie’s Garden",
+      "id": null
+    },
+    {
+      "title": "Gap Tooth Smile",
+      "id": null
+    },
+    {
+      "title": "Golden Line",
+      "id": null
+    },
+    {
+      "title": "Back on You",
+      "id": null
+    },
+    {
+      "title": "Crux",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"id": "the-curse-atreyu", "title": "The Curse", "artist": "Atreyu", "peak": 32, "history": [{"date": "2004-07-17", "rank": 32}, {"date": "2004-07-24", "rank": 82}, {"date": "2004-07-31", "rank": 107}, {"date": "2004-08-07", "rank": 123}, {"date": "2004-08-14", "rank": 151}, {"date": "2004-08-21", "rank": 148}, {"date": "2004-08-28", "rank": 183}]}
+{
+  "id": "the-curse-atreyu",
+  "title": "The Curse",
+  "artist": "Atreyu",
+  "peak": 32,
+  "history": [
+    {
+      "date": "2004-07-17",
+      "rank": 32
+    },
+    {
+      "date": "2004-07-24",
+      "rank": 82
+    },
+    {
+      "date": "2004-07-31",
+      "rank": 107
+    },
+    {
+      "date": "2004-08-07",
+      "rank": 123
+    },
+    {
+      "date": "2004-08-14",
+      "rank": 151
+    },
+    {
+      "date": "2004-08-21",
+      "rank": 148
+    },
+    {
+      "date": "2004-08-28",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bleeding Mascara",
+      "id": null
+    },
+    {
+      "title": "Right Side of the Bed",
+      "id": null
+    },
+    {
+      "title": "Speeding Up the Octaves",
+      "id": null
+    },
+    {
+      "title": "Abandonment",
+      "id": null
+    },
+    {
+      "title": "Mordecai",
+      "id": null
+    }
+  ]
+}
