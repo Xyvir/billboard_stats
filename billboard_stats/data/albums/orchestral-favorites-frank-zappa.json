@@ -1,1 +1,46 @@
-{"id": "orchestral-favorites-frank-zappa", "title": "Orchestral Favorites", "artist": "Frank Zappa", "peak": 168, "history": [{"date": "1979-06-02", "rank": 190}, {"date": "1979-06-09", "rank": 169}, {"date": "1979-06-16", "rank": 168}, {"date": "1979-06-23", "rank": 183}]}
+{
+  "id": "orchestral-favorites-frank-zappa",
+  "title": "Orchestral Favorites",
+  "artist": "Frank Zappa",
+  "peak": 168,
+  "history": [
+    {
+      "date": "1979-06-02",
+      "rank": 190
+    },
+    {
+      "date": "1979-06-09",
+      "rank": 169
+    },
+    {
+      "date": "1979-06-16",
+      "rank": 168
+    },
+    {
+      "date": "1979-06-23",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Strictly Genteel",
+      "id": null
+    },
+    {
+      "title": "Pedro’s Dowry",
+      "id": null
+    },
+    {
+      "title": "Naval Aviation in Art?",
+      "id": null
+    },
+    {
+      "title": "Duke of Prunes",
+      "id": null
+    },
+    {
+      "title": "Bogus Pomp",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"id": "opus-collection-creedence-clearwater-revival", "title": "Opus Collection", "artist": "Creedence Clearwater Revival", "peak": 25, "history": [{"date": "2009-08-22", "rank": 25}, {"date": "2009-08-29", "rank": 33}, {"date": "2009-09-05", "rank": 41}, {"date": "2009-09-12", "rank": 106}]}
+{
+  "id": "opus-collection-creedence-clearwater-revival",
+  "title": "Opus Collection",
+  "artist": "Creedence Clearwater Revival",
+  "peak": 25,
+  "history": [
+    {
+      "date": "2009-08-22",
+      "rank": 25
+    },
+    {
+      "date": "2009-08-29",
+      "rank": 33
+    },
+    {
+      "date": "2009-09-05",
+      "rank": 41
+    },
+    {
+      "date": "2009-09-12",
+      "rank": 106
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Have You Ever Seen the Rain?",
+      "id": "have-you-ever-seen-the-rain-hey-tonight-creedence-clearwater-revival"
+    },
+    {
+      "title": "Run Through the Jungle",
+      "id": "up-around-the-bend-run-through-the-jungle-creedence-clearwater-revival"
+    },
+    {
+      "title": "Down on the Corner",
+      "id": "down-on-the-corner-fortunate-son-creedence-clearwater-revival"
+    },
+    {
+      "title": "Long as I Can See the Light",
+      "id": "lookin-out-my-back-door-long-as-i-can-see-the-light-creedence-clearwater-revival"
+    },
+    {
+      "title": "Who’ll Stop the Rain",
+      "id": "travelin-band-who-ll-stop-the-rain-creedence-clearwater-revival"
+    },
+    {
+      "title": "I Put a Spell on You",
+      "id": "i-put-a-spell-on-you-creedence-clearwater-revival"
+    },
+    {
+      "title": "Fortunate Son",
+      "id": "fortunate-son-creedence-clearwater-revival"
+    },
+    {
+      "title": "Born on the Bayou",
+      "id": null
+    },
+    {
+      "title": "Cross‐Tie Walker",
+      "id": null
+    },
+    {
+      "title": "Feelin’ Blue",
+      "id": null
+    },
+    {
+      "title": "I Heard It Through the Grapevine",
+      "id": null
+    },
+    {
+      "title": "The Midnight Special",
+      "id": null
+    },
+    {
+      "title": "Susie Q",
+      "id": null
+    },
+    {
+      "title": "Cotton Fields",
+      "id": null
+    },
+    {
+      "title": "Bootleg",
+      "id": null
+    },
+    {
+      "title": "Effigy",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "opus-collection-roy-orbison", "title": "Opus Collection", "artist": "Roy Orbison", "peak": 65, "history": [{"date": "2011-05-28", "rank": 65}, {"date": "2011-06-04", "rank": 83}, {"date": "2011-06-11", "rank": 127}]}
+{
+  "id": "opus-collection-roy-orbison",
+  "title": "Opus Collection",
+  "artist": "Roy Orbison",
+  "peak": 65,
+  "history": [
+    {
+      "date": "2011-05-28",
+      "rank": 65
+    },
+    {
+      "date": "2011-06-04",
+      "rank": 83
+    },
+    {
+      "date": "2011-06-11",
+      "rank": 127
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mean Woman Blues",
+      "id": "mean-woman-blues-roy-orbison"
+    },
+    {
+      "title": "Blue Bayou",
+      "id": "blue-bayou-roy-orbison"
+    },
+    {
+      "title": "Uptown",
+      "id": "up-town-roy-orbison"
+    },
+    {
+      "title": "The Comedians",
+      "id": "the-crowd-roy-orbison"
+    },
+    {
+      "title": "Only the Lonely (Know the Way I Feel)",
+      "id": "only-the-lonely-know-how-i-feel-roy-orbison"
+    },
+    {
+      "title": "Crying",
+      "id": "crying-roy-orbison"
+    },
+    {
+      "title": "Workin’ for the Man",
+      "id": "workin-for-the-man-roy-orbison"
+    },
+    {
+      "title": "Leah",
+      "id": "l-ah-roy-orbison"
+    },
+    {
+      "title": "Running Scared",
+      "id": "running-scared-roy-orbison"
+    },
+    {
+      "title": "You Got It",
+      "id": "you-got-it-roy-orbison"
+    },
+    {
+      "title": "Ooby Dooby [Alternative Version]",
+      "id": null
+    },
+    {
+      "title": "Dream Baby",
+      "id": null
+    },
+    {
+      "title": "Oh, Pretty Woman",
+      "id": null
+    },
+    {
+      "title": "Love Hurts",
+      "id": null
+    },
+    {
+      "title": "Trying to Get to You",
+      "id": null
+    },
+    {
+      "title": "(All I Can Do Is) Dream You",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "opus-collection-billy-joel", "title": "Opus Collection", "artist": "Billy Joel", "peak": 80, "history": [{"date": "2012-04-07", "rank": 80}, {"date": "2012-04-14", "rank": 96}, {"date": "2012-04-21", "rank": 142}]}
+{
+  "id": "opus-collection-billy-joel",
+  "title": "Opus Collection",
+  "artist": "Billy Joel",
+  "peak": 80,
+  "history": [
+    {
+      "date": "2012-04-07",
+      "rank": 80
+    },
+    {
+      "date": "2012-04-14",
+      "rank": 96
+    },
+    {
+      "date": "2012-04-21",
+      "rank": 142
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Life",
+      "id": "my-life-billy-joel"
+    },
+    {
+      "title": "Travelin’ Prayer",
+      "id": "travelin-prayer-billy-joel"
+    },
+    {
+      "title": "Piano Man",
+      "id": "piano-man-billy-joel"
+    },
+    {
+      "title": "She’s Always a Woman",
+      "id": "she-s-always-a-woman-billy-joel"
+    },
+    {
+      "title": "An Innocent Man",
+      "id": "an-innocent-man-billy-joel"
+    },
+    {
+      "title": "And So It Goes",
+      "id": "and-so-it-goes-billy-joel"
+    },
+    {
+      "title": "Just the Way You Are",
+      "id": "just-the-way-you-are-billy-joel"
+    },
+    {
+      "title": "Movin’ Out (Anthony’s Song)",
+      "id": "movin-out-anthony-s-song-billy-joel"
+    },
+    {
+      "title": "You May Be Right",
+      "id": "you-may-be-right-billy-joel"
+    },
+    {
+      "title": "The Downeaster “Alexa”",
+      "id": "the-downeaster-alexa-billy-joel"
+    },
+    {
+      "title": "Honesty",
+      "id": "honesty-billy-joel"
+    },
+    {
+      "title": "Lullabye (Goodnight, My Angel)",
+      "id": "lullabye-goodnight-my-angel-billy-joel"
+    },
+    {
+      "title": "Vienna",
+      "id": null
+    },
+    {
+      "title": "Summer, Highland Falls",
+      "id": null
+    },
+    {
+      "title": "New York State of Mind",
+      "id": null
+    },
+    {
+      "title": "Scenes From an Italian Restaurant",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "opus-collection-the-band", "title": "Opus Collection", "artist": "The Band", "peak": 91, "history": [{"date": "2013-06-22", "rank": 91}, {"date": "2013-06-29", "rank": 107}, {"date": "2013-07-06", "rank": 129}]}
+{
+  "id": "opus-collection-the-band",
+  "title": "Opus Collection",
+  "artist": "The Band",
+  "peak": 91,
+  "history": [
+    {
+      "date": "2013-06-22",
+      "rank": 91
+    },
+    {
+      "date": "2013-06-29",
+      "rank": 107
+    },
+    {
+      "date": "2013-07-06",
+      "rank": 129
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Weight",
+      "id": "the-weight-the-band"
+    },
+    {
+      "title": "Up on Cripple Creek",
+      "id": "up-on-cripple-creek-the-band"
+    },
+    {
+      "title": "Stage Fright",
+      "id": "the-weight-the-band"
+    },
+    {
+      "title": "Life is a Carnival",
+      "id": "life-is-a-carnival-the-band"
+    },
+    {
+      "title": "Rag Mama Rag (live)",
+      "id": "rag-mama-rag-the-band"
+    },
+    {
+      "title": "Ophelia",
+      "id": "ophelia-the-band"
+    },
+    {
+      "title": "Caledonia Mission",
+      "id": null
+    },
+    {
+      "title": "Tears of Rage",
+      "id": null
+    },
+    {
+      "title": "Ain't No More Cane on the Brazo",
+      "id": null
+    },
+    {
+      "title": "King Harvest (Has Surely Come)",
+      "id": null
+    },
+    {
+      "title": "Whispering Pines",
+      "id": null
+    },
+    {
+      "title": "The Shape I’m In",
+      "id": null
+    },
+    {
+      "title": "When I Paint My Masterpiece",
+      "id": null
+    },
+    {
+      "title": "Mystery Train",
+      "id": null
+    },
+    {
+      "title": "It Makes No Difference",
+      "id": null
+    },
+    {
+      "title": "The Night They Drove Old Dixie Down",
+      "id": null
+    }
+  ]
+}

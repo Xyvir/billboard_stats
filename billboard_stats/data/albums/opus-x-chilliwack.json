@@ -1,1 +1,86 @@
-{"id": "opus-x-chilliwack", "title": "Opus X", "artist": "Chilliwack", "peak": 112, "history": [{"date": "1982-11-27", "rank": 174}, {"date": "1982-12-04", "rank": 131}, {"date": "1982-12-11", "rank": 121}, {"date": "1982-12-18", "rank": 114}, {"date": "1982-12-25", "rank": 112}, {"date": "1983-01-01", "rank": 112}, {"date": "1983-01-08", "rank": 187}, {"date": "1983-01-15", "rank": 187}, {"date": "1983-01-22", "rank": 197}, {"date": "1983-01-29", "rank": 196}]}
+{
+  "id": "opus-x-chilliwack",
+  "title": "Opus X",
+  "artist": "Chilliwack",
+  "peak": 112,
+  "history": [
+    {
+      "date": "1982-11-27",
+      "rank": 174
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 131
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 121
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 114
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 112
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 112
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 187
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 187
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 197
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Whatcha Gonna Do",
+      "id": "whatcha-gonna-do-chilliwack"
+    },
+    {
+      "title": "Secret Information",
+      "id": null
+    },
+    {
+      "title": "She Don't Know",
+      "id": null
+    },
+    {
+      "title": "Night Time",
+      "id": null
+    },
+    {
+      "title": "Lean On Me",
+      "id": null
+    },
+    {
+      "title": "Don't It Make You Feel Good",
+      "id": null
+    },
+    {
+      "title": "Really Don't Mind",
+      "id": null
+    },
+    {
+      "title": "You're Gonna Last",
+      "id": null
+    },
+    {
+      "title": "Midnight",
+      "id": null
+    }
+  ]
+}

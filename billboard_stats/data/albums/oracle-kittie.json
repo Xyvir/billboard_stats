@@ -1,1 +1,94 @@
-{"id": "oracle-kittie", "title": "Oracle", "artist": "Kittie", "peak": 57, "history": [{"date": "2001-12-01", "rank": 57}, {"date": "2001-12-08", "rank": 116}, {"date": "2001-12-15", "rank": 148}, {"date": "2001-12-22", "rank": 191}, {"date": "2002-01-12", "rank": 174}]}
+{
+  "id": "oracle-kittie",
+  "title": "Oracle",
+  "artist": "Kittie",
+  "peak": 57,
+  "history": [
+    {
+      "date": "2001-12-01",
+      "rank": 57
+    },
+    {
+      "date": "2001-12-08",
+      "rank": 116
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 148
+    },
+    {
+      "date": "2001-12-22",
+      "rank": 191
+    },
+    {
+      "date": "2002-01-12",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Oracle",
+      "id": null
+    },
+    {
+      "title": "Mouthful of Poison",
+      "id": null
+    },
+    {
+      "title": "In Winter",
+      "id": null
+    },
+    {
+      "title": "Severed",
+      "id": null
+    },
+    {
+      "title": "Run Like Hell",
+      "id": null
+    },
+    {
+      "title": "Pain",
+      "id": null
+    },
+    {
+      "title": "Wolves",
+      "id": null
+    },
+    {
+      "title": "What I Always Wanted",
+      "id": null
+    },
+    {
+      "title": "Safe",
+      "id": null
+    },
+    {
+      "title": "No Name",
+      "id": null
+    },
+    {
+      "title": "Pink Lemonade",
+      "id": null
+    },
+    {
+      "title": "Spit",
+      "id": null
+    },
+    {
+      "title": "Brackish",
+      "id": null
+    },
+    {
+      "title": "Suck",
+      "id": null
+    },
+    {
+      "title": "Do You Think ...",
+      "id": null
+    },
+    {
+      "title": "Raven",
+      "id": null
+    }
+  ]
+}

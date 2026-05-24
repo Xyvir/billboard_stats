@@ -1,1 +1,82 @@
-{"id": "opus-collection-fleetwood-mac", "title": "Opus Collection", "artist": "Fleetwood Mac", "peak": 72, "history": [{"date": "2013-09-21", "rank": 72}, {"date": "2013-09-28", "rank": 79}, {"date": "2013-10-05", "rank": 125}]}
+{
+  "id": "opus-collection-fleetwood-mac",
+  "title": "Opus Collection",
+  "artist": "Fleetwood Mac",
+  "peak": 72,
+  "history": [
+    {
+      "date": "2013-09-21",
+      "rank": 72
+    },
+    {
+      "date": "2013-09-28",
+      "rank": 79
+    },
+    {
+      "date": "2013-10-05",
+      "rank": 125
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Make Loving Fun",
+      "id": "you-make-loving-fun-fleetwood-mac"
+    },
+    {
+      "title": "Go Your Own Way",
+      "id": "go-your-own-way-fleetwood-mac"
+    },
+    {
+      "title": "Gypsy",
+      "id": "gypsy-fleetwood-mac"
+    },
+    {
+      "title": "Sara",
+      "id": "sara-fleetwood-mac"
+    },
+    {
+      "title": "Tusk",
+      "id": "tusk-fleetwood-mac"
+    },
+    {
+      "title": "Dreams",
+      "id": "dreams-fleetwood-mac"
+    },
+    {
+      "title": "Everywhere",
+      "id": "everywhere-fleetwood-mac"
+    },
+    {
+      "title": "Little Lies",
+      "id": "little-lies-fleetwood-mac"
+    },
+    {
+      "title": "Landslide",
+      "id": "landslide-fleetwood-mac"
+    },
+    {
+      "title": "World Turning",
+      "id": null
+    },
+    {
+      "title": "Rhiannon",
+      "id": null
+    },
+    {
+      "title": "Oh Diane",
+      "id": null
+    },
+    {
+      "title": "Never Going Back Again",
+      "id": null
+    },
+    {
+      "title": "Honey Hi",
+      "id": null
+    },
+    {
+      "title": "Planets of the Universe (demo)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"id": "opus-collection-dusty-springfield", "title": "Opus Collection", "artist": "Dusty Springfield", "peak": 96, "history": [{"date": "2014-02-22", "rank": 96}, {"date": "2014-03-01", "rank": 124}, {"date": "2014-03-08", "rank": 137}, {"date": "2014-03-15", "rank": 174}]}
+{
+  "id": "opus-collection-dusty-springfield",
+  "title": "Opus Collection",
+  "artist": "Dusty Springfield",
+  "peak": 96,
+  "history": [
+    {
+      "date": "2014-02-22",
+      "rank": 96
+    },
+    {
+      "date": "2014-03-01",
+      "rank": 124
+    },
+    {
+      "date": "2014-03-08",
+      "rank": 137
+    },
+    {
+      "date": "2014-03-15",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Son of a Preacher Man",
+      "id": "son-of-a-preacher-man-dusty-springfield"
+    },
+    {
+      "title": "Wishin’ and Hopin’",
+      "id": "wishin-and-hopin-dusty-springfield"
+    },
+    {
+      "title": "The Look of Love",
+      "id": "the-look-of-love-dusty-springfield"
+    },
+    {
+      "title": "Don’t Forget About Me",
+      "id": "don-t-forget-about-me-dusty-springfield"
+    },
+    {
+      "title": "Breakfast in Bed",
+      "id": "breakfast-in-bed-dusty-springfield"
+    },
+    {
+      "title": "Silly, Silly, Fool",
+      "id": "silly-silly-fool-dusty-springfield"
+    },
+    {
+      "title": "I Believe in You",
+      "id": "all-i-see-is-you-dusty-springfield"
+    },
+    {
+      "title": "Twenty Four Hours From Tulsa",
+      "id": null
+    },
+    {
+      "title": "I’ve Been Wrong Before",
+      "id": null
+    },
+    {
+      "title": "I Think It’s Going to Rain Today",
+      "id": null
+    },
+    {
+      "title": "No Easy Way Down",
+      "id": null
+    },
+    {
+      "title": "That Old Sweet Roll (Hi-De-Ho)",
+      "id": null
+    },
+    {
+      "title": "What Do You Do When Love Dies",
+      "id": null
+    },
+    {
+      "title": "Have a Good Life Baby",
+      "id": null
+    },
+    {
+      "title": "Tupelo Honey",
+      "id": null
+    },
+    {
+      "title": "Where Is a Woman to Go",
+      "id": null
+    }
+  ]
+}
