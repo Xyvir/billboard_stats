@@ -1,1 +1,94 @@
-{"id": "the-magic-of-christmas-garth-brooks", "title": "The Magic Of Christmas", "artist": "Garth Brooks", "peak": 7, "history": [{"date": "1999-12-11", "rank": 13}, {"date": "1999-12-18", "rank": 7}, {"date": "1999-12-25", "rank": 16}, {"date": "2000-01-01", "rank": 20}, {"date": "2000-01-08", "rank": 29}, {"date": "2000-01-15", "rank": 82}, {"date": "2000-01-22", "rank": 182}]}
+{
+  "id": "the-magic-of-christmas-garth-brooks",
+  "title": "The Magic Of Christmas",
+  "artist": "Garth Brooks",
+  "peak": 7,
+  "history": [
+    {
+      "date": "1999-12-11",
+      "rank": 13
+    },
+    {
+      "date": "1999-12-18",
+      "rank": 7
+    },
+    {
+      "date": "1999-12-25",
+      "rank": 16
+    },
+    {
+      "date": "2000-01-01",
+      "rank": 20
+    },
+    {
+      "date": "2000-01-08",
+      "rank": 29
+    },
+    {
+      "date": "2000-01-15",
+      "rank": 82
+    },
+    {
+      "date": "2000-01-22",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s the Most Wonderful Time of the Year",
+      "id": null
+    },
+    {
+      "title": "Let It Snow! Let It Snow! Let It Snow!",
+      "id": null
+    },
+    {
+      "title": "The Christmas Song",
+      "id": null
+    },
+    {
+      "title": "White Christmas",
+      "id": null
+    },
+    {
+      "title": "Baby Jesus Is Born",
+      "id": null
+    },
+    {
+      "title": "God Rest Ye Merry Gentlemen",
+      "id": null
+    },
+    {
+      "title": "Winter Wonderland",
+      "id": null
+    },
+    {
+      "title": "Sleigh Ride",
+      "id": null
+    },
+    {
+      "title": "Have Yourself a Merry Little Christmas",
+      "id": null
+    },
+    {
+      "title": "(There’s No Place Like) Home for the Holidays",
+      "id": null
+    },
+    {
+      "title": "Silver Bells",
+      "id": null
+    },
+    {
+      "title": "Go Tell It on the Mountain",
+      "id": null
+    },
+    {
+      "title": "The Wise Men’s Journey (instrumental)",
+      "id": null
+    },
+    {
+      "title": "O Little Town of Bethlehem",
+      "id": null
+    }
+  ]
+}

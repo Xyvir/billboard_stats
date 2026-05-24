@@ -1,1 +1,102 @@
-{"id": "the-magic-of-the-blue-blue-magic", "title": "The Magic Of The Blue", "artist": "Blue Magic", "peak": 71, "history": [{"date": "1974-12-28", "rank": 123}, {"date": "1975-01-04", "rank": 112}, {"date": "1975-01-11", "rank": 101}, {"date": "1975-01-18", "rank": 91}, {"date": "1975-01-25", "rank": 81}, {"date": "1975-02-01", "rank": 76}, {"date": "1975-02-08", "rank": 71}, {"date": "1975-02-15", "rank": 72}, {"date": "1975-02-22", "rank": 72}, {"date": "1975-03-01", "rank": 95}, {"date": "1975-03-08", "rank": 112}, {"date": "1975-03-15", "rank": 124}, {"date": "1975-03-22", "rank": 149}]}
+{
+  "id": "the-magic-of-the-blue-blue-magic",
+  "title": "The Magic Of The Blue",
+  "artist": "Blue Magic",
+  "peak": 71,
+  "history": [
+    {
+      "date": "1974-12-28",
+      "rank": 123
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 112
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 101
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 91
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 81
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 76
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 71
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 72
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 72
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 95
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 112
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 124
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 149
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Three Ring Circus",
+      "id": "three-ring-circus-blue-magic"
+    },
+    {
+      "title": "Stringin' Me Along",
+      "id": null
+    },
+    {
+      "title": "You Won't Have to Tell Me Goodbye",
+      "id": null
+    },
+    {
+      "title": "Never Get Over You",
+      "id": null
+    },
+    {
+      "title": "Talking to Myself",
+      "id": null
+    },
+    {
+      "title": "Let Me Be the One",
+      "id": null
+    },
+    {
+      "title": "Maybe Just Maybe (We Can Fall in Love Again)",
+      "id": null
+    },
+    {
+      "title": "Love Has Found Its Way Way to Me",
+      "id": null
+    },
+    {
+      "title": "When ya Coming Home",
+      "id": null
+    },
+    {
+      "title": "Looking for a Friend",
+      "id": null
+    }
+  ]
+}

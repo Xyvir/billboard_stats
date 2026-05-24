@@ -1,1 +1,138 @@
-{"id": "the-magazine-rickie-lee-jones", "title": "The Magazine", "artist": "Rickie Lee Jones", "peak": 44, "history": [{"date": "1984-10-13", "rank": 72}, {"date": "1984-10-20", "rank": 50}, {"date": "1984-10-27", "rank": 46}, {"date": "1984-11-03", "rank": 45}, {"date": "1984-11-10", "rank": 44}, {"date": "1984-11-17", "rank": 44}, {"date": "1984-11-24", "rank": 56}, {"date": "1984-12-01", "rank": 73}, {"date": "1984-12-08", "rank": 73}, {"date": "1984-12-15", "rank": 68}, {"date": "1984-12-22", "rank": 68}, {"date": "1984-12-29", "rank": 68}, {"date": "1985-01-05", "rank": 87}, {"date": "1985-01-12", "rank": 93}, {"date": "1985-01-19", "rank": 111}, {"date": "1985-01-26", "rank": 111}, {"date": "1985-02-02", "rank": 119}, {"date": "1985-02-09", "rank": 117}, {"date": "1985-02-16", "rank": 145}, {"date": "1985-02-23", "rank": 179}, {"date": "1985-03-02", "rank": 175}]}
+{
+  "id": "the-magazine-rickie-lee-jones",
+  "title": "The Magazine",
+  "artist": "Rickie Lee Jones",
+  "peak": 44,
+  "history": [
+    {
+      "date": "1984-10-13",
+      "rank": 72
+    },
+    {
+      "date": "1984-10-20",
+      "rank": 50
+    },
+    {
+      "date": "1984-10-27",
+      "rank": 46
+    },
+    {
+      "date": "1984-11-03",
+      "rank": 45
+    },
+    {
+      "date": "1984-11-10",
+      "rank": 44
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 44
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 56
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 73
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 73
+    },
+    {
+      "date": "1984-12-15",
+      "rank": 68
+    },
+    {
+      "date": "1984-12-22",
+      "rank": 68
+    },
+    {
+      "date": "1984-12-29",
+      "rank": 68
+    },
+    {
+      "date": "1985-01-05",
+      "rank": 87
+    },
+    {
+      "date": "1985-01-12",
+      "rank": 93
+    },
+    {
+      "date": "1985-01-19",
+      "rank": 111
+    },
+    {
+      "date": "1985-01-26",
+      "rank": 111
+    },
+    {
+      "date": "1985-02-02",
+      "rank": 119
+    },
+    {
+      "date": "1985-02-09",
+      "rank": 117
+    },
+    {
+      "date": "1985-02-16",
+      "rank": 145
+    },
+    {
+      "date": "1985-02-23",
+      "rank": 179
+    },
+    {
+      "date": "1985-03-02",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Real End",
+      "id": "the-real-end-rickie-lee-jones"
+    },
+    {
+      "title": "Prelude to Gravity",
+      "id": null
+    },
+    {
+      "title": "Gravity",
+      "id": null
+    },
+    {
+      "title": "Juke Box Fury",
+      "id": null
+    },
+    {
+      "title": "It Must Be Love",
+      "id": null
+    },
+    {
+      "title": "Magazine",
+      "id": null
+    },
+    {
+      "title": "Deep Space",
+      "id": null
+    },
+    {
+      "title": "Runaround",
+      "id": null
+    },
+    {
+      "title": "Rorschachs (Theme for the Pope)",
+      "id": null
+    },
+    {
+      "title": "Rorschachs: The Unsigned Painting",
+      "id": null
+    },
+    {
+      "title": "Rorschachs: The Weird Beast",
+      "id": null
+    }
+  ]
+}
