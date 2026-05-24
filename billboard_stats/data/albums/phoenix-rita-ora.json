@@ -1,1 +1,66 @@
-{"id": "phoenix-rita-ora", "title": "Phoenix", "artist": "Rita Ora", "peak": 79, "history": [{"date": "2018-12-08", "rank": 79}, {"date": "2018-12-15", "rank": 197}]}
+{
+  "id": "phoenix-rita-ora",
+  "title": "Phoenix",
+  "artist": "Rita Ora",
+  "peak": 79,
+  "history": [
+    {
+      "date": "2018-12-08",
+      "rank": 79
+    },
+    {
+      "date": "2018-12-15",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "For You (Fifty Shades Freed)",
+      "id": "for-you-fifty-shades-freed-liam-payne-rita-ora"
+    },
+    {
+      "title": "Anywhere",
+      "id": null
+    },
+    {
+      "title": "Let You Love Me",
+      "id": null
+    },
+    {
+      "title": "New Look",
+      "id": null
+    },
+    {
+      "title": "Lonely Together",
+      "id": null
+    },
+    {
+      "title": "Your Song",
+      "id": null
+    },
+    {
+      "title": "Only Want You",
+      "id": null
+    },
+    {
+      "title": "First Time High",
+      "id": null
+    },
+    {
+      "title": "Summer Love",
+      "id": null
+    },
+    {
+      "title": "Girls",
+      "id": null
+    },
+    {
+      "title": "Keep Talking",
+      "id": null
+    },
+    {
+      "title": "Hell of a Life",
+      "id": null
+    }
+  ]
+}
