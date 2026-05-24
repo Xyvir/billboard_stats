@@ -1,1 +1,94 @@
-{"id": "musical-chairs-sammy-hagar", "title": "Musical Chairs", "artist": "Sammy Hagar", "peak": 100, "history": [{"date": "1978-01-21", "rank": 184}, {"date": "1978-01-28", "rank": 174}, {"date": "1978-02-04", "rank": 163}, {"date": "1978-02-11", "rank": 150}, {"date": "1978-02-18", "rank": 139}, {"date": "1978-02-25", "rank": 124}, {"date": "1978-03-04", "rank": 114}, {"date": "1978-03-11", "rank": 105}, {"date": "1978-03-18", "rank": 102}, {"date": "1978-03-25", "rank": 100}, {"date": "1978-04-01", "rank": 191}]}
+{
+  "id": "musical-chairs-sammy-hagar",
+  "title": "Musical Chairs",
+  "artist": "Sammy Hagar",
+  "peak": 100,
+  "history": [
+    {
+      "date": "1978-01-21",
+      "rank": 184
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 174
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 163
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 150
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 139
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 124
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 114
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 105
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 102
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 100
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Make Me Crazy",
+      "id": "you-make-me-crazy-sammy-hagar"
+    },
+    {
+      "title": "Try (Try to Fall in Love)",
+      "id": "i-ll-fall-in-love-again-sammy-hagar"
+    },
+    {
+      "title": "Turn Up the Music",
+      "id": null
+    },
+    {
+      "title": "It’s Gonna Be All Right",
+      "id": null
+    },
+    {
+      "title": "Reckless",
+      "id": null
+    },
+    {
+      "title": "Don’t Stop Me Now",
+      "id": null
+    },
+    {
+      "title": "Straight From the Hip Kid",
+      "id": null
+    },
+    {
+      "title": "Hey Boys",
+      "id": null
+    },
+    {
+      "title": "Someone Out There",
+      "id": null
+    },
+    {
+      "title": "Crack in the World",
+      "id": null
+    }
+  ]
+}

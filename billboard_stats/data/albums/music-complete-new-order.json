@@ -1,1 +1,58 @@
-{"id": "music-complete-new-order", "title": "Music Complete", "artist": "New Order", "peak": 34, "history": [{"date": "2015-10-17", "rank": 34}]}
+{
+  "id": "music-complete-new-order",
+  "title": "Music Complete",
+  "artist": "New Order",
+  "peak": 34,
+  "history": [
+    {
+      "date": "2015-10-17",
+      "rank": 34
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Restless",
+      "id": null
+    },
+    {
+      "title": "Singularity",
+      "id": null
+    },
+    {
+      "title": "Plastic",
+      "id": null
+    },
+    {
+      "title": "Tutti Frutti",
+      "id": null
+    },
+    {
+      "title": "People on the High Line",
+      "id": null
+    },
+    {
+      "title": "Stray Dog",
+      "id": null
+    },
+    {
+      "title": "Academic",
+      "id": null
+    },
+    {
+      "title": "Nothing but a Fool",
+      "id": null
+    },
+    {
+      "title": "Unlearn This Hatred",
+      "id": null
+    },
+    {
+      "title": "The Game",
+      "id": null
+    },
+    {
+      "title": "Superheated",
+      "id": null
+    }
+  ]
+}

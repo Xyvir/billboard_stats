@@ -1,1 +1,142 @@
-{"id": "music-carole-king", "title": "Music", "artist": "Carole King", "peak": 45, "history": [{"date": "1972-05-20", "rank": 47}, {"date": "1972-05-27", "rank": 45}, {"date": "1972-06-03", "rank": 45}, {"date": "1972-06-10", "rank": 57}, {"date": "1972-06-17", "rank": 62}, {"date": "1972-06-24", "rank": 68}, {"date": "1972-07-01", "rank": 72}, {"date": "1972-07-08", "rank": 95}, {"date": "1972-07-15", "rank": 95}, {"date": "1972-07-22", "rank": 95}, {"date": "1972-07-29", "rank": 108}, {"date": "1972-08-05", "rank": 121}, {"date": "1972-08-12", "rank": 133}, {"date": "1972-08-19", "rank": 153}, {"date": "1972-08-26", "rank": 156}, {"date": "1972-09-02", "rank": 153}, {"date": "1972-09-09", "rank": 152}, {"date": "1972-09-16", "rank": 152}, {"date": "1972-09-23", "rank": 161}, {"date": "1972-09-30", "rank": 164}, {"date": "1972-10-07", "rank": 174}]}
+{
+  "id": "music-carole-king",
+  "title": "Music",
+  "artist": "Carole King",
+  "peak": 45,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 47
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 45
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 45
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 57
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 62
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 68
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 72
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 95
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 95
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 95
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 108
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 121
+    },
+    {
+      "date": "1972-08-12",
+      "rank": 133
+    },
+    {
+      "date": "1972-08-19",
+      "rank": 153
+    },
+    {
+      "date": "1972-08-26",
+      "rank": 156
+    },
+    {
+      "date": "1972-09-02",
+      "rank": 153
+    },
+    {
+      "date": "1972-09-09",
+      "rank": 152
+    },
+    {
+      "date": "1972-09-16",
+      "rank": 152
+    },
+    {
+      "date": "1972-09-23",
+      "rank": 161
+    },
+    {
+      "date": "1972-09-30",
+      "rank": 164
+    },
+    {
+      "date": "1972-10-07",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sweet Seasons",
+      "id": "sweet-seasons-carole-king"
+    },
+    {
+      "title": "Brother, Brother",
+      "id": null
+    },
+    {
+      "title": "It’s Going to Take Some Time",
+      "id": null
+    },
+    {
+      "title": "Some Kind of Wonderful",
+      "id": null
+    },
+    {
+      "title": "Surely",
+      "id": null
+    },
+    {
+      "title": "Carry Your Load",
+      "id": null
+    },
+    {
+      "title": "Music",
+      "id": null
+    },
+    {
+      "title": "Song of Long Ago",
+      "id": null
+    },
+    {
+      "title": "Brighter",
+      "id": null
+    },
+    {
+      "title": "Growing Away From Me",
+      "id": null
+    },
+    {
+      "title": "Too Much Rain",
+      "id": null
+    },
+    {
+      "title": "Back to California",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,322 @@
-{"id": "music-for-the-masses-depeche-mode", "title": "Music For The Masses", "artist": "Depeche Mode", "peak": 35, "history": [{"date": "1987-10-24", "rank": 111}, {"date": "1987-10-31", "rank": 53}, {"date": "1987-11-07", "rank": 47}, {"date": "1987-11-14", "rank": 36}, {"date": "1987-11-21", "rank": 35}, {"date": "1987-11-28", "rank": 35}, {"date": "1987-12-05", "rank": 45}, {"date": "1987-12-12", "rank": 48}, {"date": "1987-12-19", "rank": 53}, {"date": "1987-12-26", "rank": 59}, {"date": "1988-01-02", "rank": 59}, {"date": "1988-01-09", "rank": 56}, {"date": "1988-01-16", "rank": 56}, {"date": "1988-01-23", "rank": 53}, {"date": "1988-01-30", "rank": 56}, {"date": "1988-02-06", "rank": 65}, {"date": "1988-02-13", "rank": 70}, {"date": "1988-02-20", "rank": 80}, {"date": "1988-02-27", "rank": 78}, {"date": "1988-03-05", "rank": 84}, {"date": "1988-03-12", "rank": 86}, {"date": "1988-03-19", "rank": 108}, {"date": "1988-03-26", "rank": 107}, {"date": "1988-04-02", "rank": 116}, {"date": "1988-04-09", "rank": 116}, {"date": "1988-04-16", "rank": 120}, {"date": "1988-04-23", "rank": 129}, {"date": "1988-04-30", "rank": 117}, {"date": "1988-05-07", "rank": 143}, {"date": "1988-05-14", "rank": 138}, {"date": "1988-05-21", "rank": 117}, {"date": "1988-05-28", "rank": 113}, {"date": "1988-06-04", "rank": 105}, {"date": "1988-06-11", "rank": 99}, {"date": "1988-06-18", "rank": 98}, {"date": "1988-06-25", "rank": 109}, {"date": "1988-07-02", "rank": 117}, {"date": "1988-07-09", "rank": 146}, {"date": "1988-07-16", "rank": 137}, {"date": "1988-07-23", "rank": 157}, {"date": "1988-07-30", "rank": 155}, {"date": "1988-08-06", "rank": 162}, {"date": "1988-08-13", "rank": 175}, {"date": "1988-08-20", "rank": 176}, {"date": "1988-08-27", "rank": 196}, {"date": "1988-09-03", "rank": 189}, {"date": "1988-09-10", "rank": 180}, {"date": "1988-09-17", "rank": 158}, {"date": "1988-09-24", "rank": 179}, {"date": "1988-10-01", "rank": 126}, {"date": "1988-10-08", "rank": 115}, {"date": "1988-10-15", "rank": 110}, {"date": "1988-10-22", "rank": 112}, {"date": "1988-10-29", "rank": 118}, {"date": "1988-11-05", "rank": 130}, {"date": "1988-11-12", "rank": 161}, {"date": "1988-11-19", "rank": 178}, {"date": "1988-11-26", "rank": 175}, {"date": "1988-12-03", "rank": 196}]}
+{
+  "id": "music-for-the-masses-depeche-mode",
+  "title": "Music For The Masses",
+  "artist": "Depeche Mode",
+  "peak": 35,
+  "history": [
+    {
+      "date": "1987-10-24",
+      "rank": 111
+    },
+    {
+      "date": "1987-10-31",
+      "rank": 53
+    },
+    {
+      "date": "1987-11-07",
+      "rank": 47
+    },
+    {
+      "date": "1987-11-14",
+      "rank": 36
+    },
+    {
+      "date": "1987-11-21",
+      "rank": 35
+    },
+    {
+      "date": "1987-11-28",
+      "rank": 35
+    },
+    {
+      "date": "1987-12-05",
+      "rank": 45
+    },
+    {
+      "date": "1987-12-12",
+      "rank": 48
+    },
+    {
+      "date": "1987-12-19",
+      "rank": 53
+    },
+    {
+      "date": "1987-12-26",
+      "rank": 59
+    },
+    {
+      "date": "1988-01-02",
+      "rank": 59
+    },
+    {
+      "date": "1988-01-09",
+      "rank": 56
+    },
+    {
+      "date": "1988-01-16",
+      "rank": 56
+    },
+    {
+      "date": "1988-01-23",
+      "rank": 53
+    },
+    {
+      "date": "1988-01-30",
+      "rank": 56
+    },
+    {
+      "date": "1988-02-06",
+      "rank": 65
+    },
+    {
+      "date": "1988-02-13",
+      "rank": 70
+    },
+    {
+      "date": "1988-02-20",
+      "rank": 80
+    },
+    {
+      "date": "1988-02-27",
+      "rank": 78
+    },
+    {
+      "date": "1988-03-05",
+      "rank": 84
+    },
+    {
+      "date": "1988-03-12",
+      "rank": 86
+    },
+    {
+      "date": "1988-03-19",
+      "rank": 108
+    },
+    {
+      "date": "1988-03-26",
+      "rank": 107
+    },
+    {
+      "date": "1988-04-02",
+      "rank": 116
+    },
+    {
+      "date": "1988-04-09",
+      "rank": 116
+    },
+    {
+      "date": "1988-04-16",
+      "rank": 120
+    },
+    {
+      "date": "1988-04-23",
+      "rank": 129
+    },
+    {
+      "date": "1988-04-30",
+      "rank": 117
+    },
+    {
+      "date": "1988-05-07",
+      "rank": 143
+    },
+    {
+      "date": "1988-05-14",
+      "rank": 138
+    },
+    {
+      "date": "1988-05-21",
+      "rank": 117
+    },
+    {
+      "date": "1988-05-28",
+      "rank": 113
+    },
+    {
+      "date": "1988-06-04",
+      "rank": 105
+    },
+    {
+      "date": "1988-06-11",
+      "rank": 99
+    },
+    {
+      "date": "1988-06-18",
+      "rank": 98
+    },
+    {
+      "date": "1988-06-25",
+      "rank": 109
+    },
+    {
+      "date": "1988-07-02",
+      "rank": 117
+    },
+    {
+      "date": "1988-07-09",
+      "rank": 146
+    },
+    {
+      "date": "1988-07-16",
+      "rank": 137
+    },
+    {
+      "date": "1988-07-23",
+      "rank": 157
+    },
+    {
+      "date": "1988-07-30",
+      "rank": 155
+    },
+    {
+      "date": "1988-08-06",
+      "rank": 162
+    },
+    {
+      "date": "1988-08-13",
+      "rank": 175
+    },
+    {
+      "date": "1988-08-20",
+      "rank": 176
+    },
+    {
+      "date": "1988-08-27",
+      "rank": 196
+    },
+    {
+      "date": "1988-09-03",
+      "rank": 189
+    },
+    {
+      "date": "1988-09-10",
+      "rank": 180
+    },
+    {
+      "date": "1988-09-17",
+      "rank": 158
+    },
+    {
+      "date": "1988-09-24",
+      "rank": 179
+    },
+    {
+      "date": "1988-10-01",
+      "rank": 126
+    },
+    {
+      "date": "1988-10-08",
+      "rank": 115
+    },
+    {
+      "date": "1988-10-15",
+      "rank": 110
+    },
+    {
+      "date": "1988-10-22",
+      "rank": 112
+    },
+    {
+      "date": "1988-10-29",
+      "rank": 118
+    },
+    {
+      "date": "1988-11-05",
+      "rank": 130
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 161
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 178
+    },
+    {
+      "date": "1988-11-26",
+      "rank": 175
+    },
+    {
+      "date": "1988-12-03",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Never Let Me Down Again",
+      "id": "never-let-me-down-again-depeche-mode"
+    },
+    {
+      "title": "Strangelove",
+      "id": "strangelove-depeche-mode"
+    },
+    {
+      "title": "Behind the Wheel",
+      "id": "route-66-behind-the-wheel-depeche-mode"
+    },
+    {
+      "title": "Never Let Me Down Again (Aggro mix)",
+      "id": "never-let-me-down-again-depeche-mode"
+    },
+    {
+      "title": "The Things You Said",
+      "id": null
+    },
+    {
+      "title": "Sacred",
+      "id": null
+    },
+    {
+      "title": "Little 15",
+      "id": null
+    },
+    {
+      "title": "I Want You Now",
+      "id": null
+    },
+    {
+      "title": "To Have and to Hold",
+      "id": null
+    },
+    {
+      "title": "Nothing",
+      "id": null
+    },
+    {
+      "title": "Pimpf / Interlude #1: Mission Impossible",
+      "id": null
+    },
+    {
+      "title": "Depeche Mode 1987–88: Sometimes You Do Need Some New Jokes",
+      "id": null
+    },
+    {
+      "title": "Agent Orange",
+      "id": null
+    },
+    {
+      "title": "To Have and to Hold (Spanish Taster)",
+      "id": null
+    },
+    {
+      "title": "Pleasure, Little Treasure (Glitter mix)",
+      "id": null
+    },
+    {
+      "title": "Pleasure, Little Treasure",
+      "id": null
+    },
+    {
+      "title": "Route 66",
+      "id": null
+    },
+    {
+      "title": "Stjarna",
+      "id": null
+    },
+    {
+      "title": "Sonata No. 14 in C♯m (Moonlight Sonata)",
+      "id": null
+    }
+  ]
+}
