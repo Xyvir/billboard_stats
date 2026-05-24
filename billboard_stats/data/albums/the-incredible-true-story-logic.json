@@ -1,1 +1,274 @@
-{"id": "the-incredible-true-story-logic", "title": "The Incredible True Story", "artist": "Logic", "peak": 3, "history": [{"date": "2015-12-05", "rank": 3}, {"date": "2015-12-12", "rank": 21}, {"date": "2015-12-19", "rank": 31}, {"date": "2015-12-26", "rank": 61}, {"date": "2016-01-02", "rank": 72}, {"date": "2016-01-09", "rank": 102}, {"date": "2016-01-16", "rank": 59}, {"date": "2016-01-23", "rank": 73}, {"date": "2016-01-30", "rank": 81}, {"date": "2016-02-06", "rank": 115}, {"date": "2016-02-13", "rank": 109}, {"date": "2016-02-20", "rank": 120}, {"date": "2016-02-27", "rank": 128}, {"date": "2016-03-05", "rank": 137}, {"date": "2016-03-12", "rank": 131}, {"date": "2016-03-19", "rank": 114}, {"date": "2016-03-26", "rank": 129}, {"date": "2016-04-02", "rank": 134}, {"date": "2016-04-09", "rank": 138}, {"date": "2016-04-16", "rank": 139}, {"date": "2016-04-23", "rank": 147}, {"date": "2016-04-30", "rank": 131}, {"date": "2016-05-07", "rank": 112}, {"date": "2016-05-14", "rank": 147}, {"date": "2016-05-21", "rank": 149}, {"date": "2016-05-28", "rank": 157}, {"date": "2016-06-04", "rank": 141}, {"date": "2016-06-11", "rank": 164}, {"date": "2016-06-18", "rank": 92}, {"date": "2016-06-25", "rank": 102}, {"date": "2016-07-02", "rank": 195}, {"date": "2016-07-09", "rank": 180}, {"date": "2016-07-16", "rank": 156}, {"date": "2016-07-23", "rank": 130}, {"date": "2016-07-30", "rank": 130}, {"date": "2016-08-06", "rank": 141}, {"date": "2016-08-13", "rank": 155}, {"date": "2016-08-20", "rank": 158}, {"date": "2016-08-27", "rank": 160}, {"date": "2016-09-03", "rank": 169}, {"date": "2016-09-10", "rank": 180}, {"date": "2016-09-17", "rank": 187}, {"date": "2016-09-24", "rank": 180}, {"date": "2016-10-01", "rank": 185}, {"date": "2017-04-22", "rank": 181}, {"date": "2017-05-20", "rank": 200}, {"date": "2017-05-27", "rank": 130}, {"date": "2017-06-03", "rank": 194}]}
+{
+  "id": "the-incredible-true-story-logic",
+  "title": "The Incredible True Story",
+  "artist": "Logic",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2015-12-05",
+      "rank": 3
+    },
+    {
+      "date": "2015-12-12",
+      "rank": 21
+    },
+    {
+      "date": "2015-12-19",
+      "rank": 31
+    },
+    {
+      "date": "2015-12-26",
+      "rank": 61
+    },
+    {
+      "date": "2016-01-02",
+      "rank": 72
+    },
+    {
+      "date": "2016-01-09",
+      "rank": 102
+    },
+    {
+      "date": "2016-01-16",
+      "rank": 59
+    },
+    {
+      "date": "2016-01-23",
+      "rank": 73
+    },
+    {
+      "date": "2016-01-30",
+      "rank": 81
+    },
+    {
+      "date": "2016-02-06",
+      "rank": 115
+    },
+    {
+      "date": "2016-02-13",
+      "rank": 109
+    },
+    {
+      "date": "2016-02-20",
+      "rank": 120
+    },
+    {
+      "date": "2016-02-27",
+      "rank": 128
+    },
+    {
+      "date": "2016-03-05",
+      "rank": 137
+    },
+    {
+      "date": "2016-03-12",
+      "rank": 131
+    },
+    {
+      "date": "2016-03-19",
+      "rank": 114
+    },
+    {
+      "date": "2016-03-26",
+      "rank": 129
+    },
+    {
+      "date": "2016-04-02",
+      "rank": 134
+    },
+    {
+      "date": "2016-04-09",
+      "rank": 138
+    },
+    {
+      "date": "2016-04-16",
+      "rank": 139
+    },
+    {
+      "date": "2016-04-23",
+      "rank": 147
+    },
+    {
+      "date": "2016-04-30",
+      "rank": 131
+    },
+    {
+      "date": "2016-05-07",
+      "rank": 112
+    },
+    {
+      "date": "2016-05-14",
+      "rank": 147
+    },
+    {
+      "date": "2016-05-21",
+      "rank": 149
+    },
+    {
+      "date": "2016-05-28",
+      "rank": 157
+    },
+    {
+      "date": "2016-06-04",
+      "rank": 141
+    },
+    {
+      "date": "2016-06-11",
+      "rank": 164
+    },
+    {
+      "date": "2016-06-18",
+      "rank": 92
+    },
+    {
+      "date": "2016-06-25",
+      "rank": 102
+    },
+    {
+      "date": "2016-07-02",
+      "rank": 195
+    },
+    {
+      "date": "2016-07-09",
+      "rank": 180
+    },
+    {
+      "date": "2016-07-16",
+      "rank": 156
+    },
+    {
+      "date": "2016-07-23",
+      "rank": 130
+    },
+    {
+      "date": "2016-07-30",
+      "rank": 130
+    },
+    {
+      "date": "2016-08-06",
+      "rank": 141
+    },
+    {
+      "date": "2016-08-13",
+      "rank": 155
+    },
+    {
+      "date": "2016-08-20",
+      "rank": 158
+    },
+    {
+      "date": "2016-08-27",
+      "rank": 160
+    },
+    {
+      "date": "2016-09-03",
+      "rank": 169
+    },
+    {
+      "date": "2016-09-10",
+      "rank": 180
+    },
+    {
+      "date": "2016-09-17",
+      "rank": 187
+    },
+    {
+      "date": "2016-09-24",
+      "rank": 180
+    },
+    {
+      "date": "2016-10-01",
+      "rank": 185
+    },
+    {
+      "date": "2017-04-22",
+      "rank": 181
+    },
+    {
+      "date": "2017-05-20",
+      "rank": 200
+    },
+    {
+      "date": "2017-05-27",
+      "rank": 130
+    },
+    {
+      "date": "2017-06-03",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Contact",
+      "id": "contra-logic"
+    },
+    {
+      "title": "Fade Away",
+      "id": null
+    },
+    {
+      "title": "Upgrade",
+      "id": null
+    },
+    {
+      "title": "White People (scene)",
+      "id": null
+    },
+    {
+      "title": "Like Woah",
+      "id": null
+    },
+    {
+      "title": "Young Jesus",
+      "id": null
+    },
+    {
+      "title": "Innermission",
+      "id": null
+    },
+    {
+      "title": "I Am the Greatest",
+      "id": null
+    },
+    {
+      "title": "The Cube (scene)",
+      "id": null
+    },
+    {
+      "title": "Lord Willin’",
+      "id": null
+    },
+    {
+      "title": "City of Stars",
+      "id": null
+    },
+    {
+      "title": "Stainless",
+      "id": null
+    },
+    {
+      "title": "Babel (scene)",
+      "id": null
+    },
+    {
+      "title": "Paradise",
+      "id": null
+    },
+    {
+      "title": "Never Been",
+      "id": null
+    },
+    {
+      "title": "Run It",
+      "id": null
+    },
+    {
+      "title": "Lucidity (scene)",
+      "id": null
+    },
+    {
+      "title": "The Incredible True Story",
+      "id": null
+    }
+  ]
+}

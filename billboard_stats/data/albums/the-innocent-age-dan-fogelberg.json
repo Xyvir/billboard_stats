@@ -1,1 +1,326 @@
-{"id": "the-innocent-age-dan-fogelberg", "title": "The Innocent Age", "artist": "Dan Fogelberg", "peak": 6, "history": [{"date": "1981-09-12", "rank": 111}, {"date": "1981-09-19", "rank": 39}, {"date": "1981-09-26", "rank": 20}, {"date": "1981-10-03", "rank": 7}, {"date": "1981-10-10", "rank": 6}, {"date": "1981-10-17", "rank": 6}, {"date": "1981-10-24", "rank": 6}, {"date": "1981-10-31", "rank": 6}, {"date": "1981-11-07", "rank": 6}, {"date": "1981-11-14", "rank": 6}, {"date": "1981-11-21", "rank": 10}, {"date": "1981-11-28", "rank": 13}, {"date": "1981-12-05", "rank": 13}, {"date": "1981-12-12", "rank": 19}, {"date": "1981-12-19", "rank": 23}, {"date": "1981-12-26", "rank": 23}, {"date": "1982-01-02", "rank": 23}, {"date": "1982-01-09", "rank": 26}, {"date": "1982-01-16", "rank": 25}, {"date": "1982-01-23", "rank": 23}, {"date": "1982-01-30", "rank": 21}, {"date": "1982-02-06", "rank": 20}, {"date": "1982-02-13", "rank": 19}, {"date": "1982-02-20", "rank": 17}, {"date": "1982-02-27", "rank": 16}, {"date": "1982-03-06", "rank": 15}, {"date": "1982-03-13", "rank": 15}, {"date": "1982-03-20", "rank": 16}, {"date": "1982-03-27", "rank": 16}, {"date": "1982-04-03", "rank": 26}, {"date": "1982-04-10", "rank": 25}, {"date": "1982-04-17", "rank": 30}, {"date": "1982-04-24", "rank": 43}, {"date": "1982-05-01", "rank": 53}, {"date": "1982-05-08", "rank": 55}, {"date": "1982-05-15", "rank": 53}, {"date": "1982-05-22", "rank": 50}, {"date": "1982-05-29", "rank": 64}, {"date": "1982-06-05", "rank": 61}, {"date": "1982-06-12", "rank": 89}, {"date": "1982-06-19", "rank": 90}, {"date": "1982-06-26", "rank": 98}, {"date": "1982-07-03", "rank": 98}, {"date": "1982-07-10", "rank": 131}, {"date": "1982-07-17", "rank": 131}, {"date": "1982-07-24", "rank": 131}, {"date": "1982-07-31", "rank": 131}, {"date": "1982-08-07", "rank": 151}, {"date": "1982-08-14", "rank": 149}, {"date": "1982-08-21", "rank": 149}, {"date": "1982-08-28", "rank": 151}, {"date": "1982-09-04", "rank": 159}, {"date": "1982-09-11", "rank": 159}, {"date": "1982-09-18", "rank": 159}, {"date": "1982-09-25", "rank": 157}, {"date": "1982-10-02", "rank": 196}, {"date": "1982-10-09", "rank": 195}, {"date": "1982-10-16", "rank": 194}, {"date": "1982-10-23", "rank": 194}, {"date": "1982-10-30", "rank": 199}, {"date": "1982-11-06", "rank": 199}, {"date": "1982-11-13", "rank": 195}]}
+{
+  "id": "the-innocent-age-dan-fogelberg",
+  "title": "The Innocent Age",
+  "artist": "Dan Fogelberg",
+  "peak": 6,
+  "history": [
+    {
+      "date": "1981-09-12",
+      "rank": 111
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 39
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 20
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 7
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 6
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 6
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 6
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 6
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 6
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 6
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 10
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 13
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 13
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 19
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 23
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 23
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 23
+    },
+    {
+      "date": "1982-01-09",
+      "rank": 26
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 25
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 23
+    },
+    {
+      "date": "1982-01-30",
+      "rank": 21
+    },
+    {
+      "date": "1982-02-06",
+      "rank": 20
+    },
+    {
+      "date": "1982-02-13",
+      "rank": 19
+    },
+    {
+      "date": "1982-02-20",
+      "rank": 17
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 16
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 15
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 15
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 16
+    },
+    {
+      "date": "1982-03-27",
+      "rank": 16
+    },
+    {
+      "date": "1982-04-03",
+      "rank": 26
+    },
+    {
+      "date": "1982-04-10",
+      "rank": 25
+    },
+    {
+      "date": "1982-04-17",
+      "rank": 30
+    },
+    {
+      "date": "1982-04-24",
+      "rank": 43
+    },
+    {
+      "date": "1982-05-01",
+      "rank": 53
+    },
+    {
+      "date": "1982-05-08",
+      "rank": 55
+    },
+    {
+      "date": "1982-05-15",
+      "rank": 53
+    },
+    {
+      "date": "1982-05-22",
+      "rank": 50
+    },
+    {
+      "date": "1982-05-29",
+      "rank": 64
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 61
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 89
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 90
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 98
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 98
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 131
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 131
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 131
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 131
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 151
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 149
+    },
+    {
+      "date": "1982-08-21",
+      "rank": 149
+    },
+    {
+      "date": "1982-08-28",
+      "rank": 151
+    },
+    {
+      "date": "1982-09-04",
+      "rank": 159
+    },
+    {
+      "date": "1982-09-11",
+      "rank": 159
+    },
+    {
+      "date": "1982-09-18",
+      "rank": 159
+    },
+    {
+      "date": "1982-09-25",
+      "rank": 157
+    },
+    {
+      "date": "1982-10-02",
+      "rank": 196
+    },
+    {
+      "date": "1982-10-09",
+      "rank": 195
+    },
+    {
+      "date": "1982-10-16",
+      "rank": 194
+    },
+    {
+      "date": "1982-10-23",
+      "rank": 194
+    },
+    {
+      "date": "1982-10-30",
+      "rank": 199
+    },
+    {
+      "date": "1982-11-06",
+      "rank": 199
+    },
+    {
+      "date": "1982-11-13",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Run for the Roses",
+      "id": "run-for-the-roses-dan-fogelberg"
+    },
+    {
+      "title": "Leader of the Band/Washington Post March",
+      "id": "leader-of-the-band-dan-fogelberg"
+    },
+    {
+      "title": "Same Old Lang Syne",
+      "id": "same-old-lang-syne-dan-fogelberg"
+    },
+    {
+      "title": "Hard to Say",
+      "id": "hard-to-say-dan-fogelberg"
+    },
+    {
+      "title": "Nexus",
+      "id": null
+    },
+    {
+      "title": "The Innocent Age",
+      "id": null
+    },
+    {
+      "title": "The Sand and the Foam",
+      "id": null
+    },
+    {
+      "title": "In the Passage",
+      "id": null
+    },
+    {
+      "title": "Lost in the Sun",
+      "id": null
+    },
+    {
+      "title": "Stolen Moments",
+      "id": null
+    },
+    {
+      "title": "The Lion’s Share",
+      "id": null
+    },
+    {
+      "title": "Only the Heart May Know",
+      "id": null
+    },
+    {
+      "title": "The Reach",
+      "id": null
+    },
+    {
+      "title": "Aireshire Lament",
+      "id": null
+    },
+    {
+      "title": "Times Like These",
+      "id": null
+    },
+    {
+      "title": "Empty Cages",
+      "id": null
+    },
+    {
+      "title": "Ghosts",
+      "id": null
+    }
+  ]
+}

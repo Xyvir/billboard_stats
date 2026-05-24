@@ -1,1 +1,66 @@
-{"id": "the-infection-chimaira", "title": "The Infection", "artist": "Chimaira", "peak": 30, "history": [{"date": "2009-05-09", "rank": 30}, {"date": "2009-05-16", "rank": 88}, {"date": "2009-05-23", "rank": 179}, {"date": "2009-05-30", "rank": 189}]}
+{
+  "id": "the-infection-chimaira",
+  "title": "The Infection",
+  "artist": "Chimaira",
+  "peak": 30,
+  "history": [
+    {
+      "date": "2009-05-09",
+      "rank": 30
+    },
+    {
+      "date": "2009-05-16",
+      "rank": 88
+    },
+    {
+      "date": "2009-05-23",
+      "rank": 179
+    },
+    {
+      "date": "2009-05-30",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Venom Inside",
+      "id": null
+    },
+    {
+      "title": "Frozen in Time",
+      "id": null
+    },
+    {
+      "title": "Coming Alive",
+      "id": null
+    },
+    {
+      "title": "Secrets of the Dead",
+      "id": null
+    },
+    {
+      "title": "The Disappearing Sun",
+      "id": null
+    },
+    {
+      "title": "Impending Doom",
+      "id": null
+    },
+    {
+      "title": "On Broken Glass",
+      "id": null
+    },
+    {
+      "title": "Destroy and Dominate",
+      "id": null
+    },
+    {
+      "title": "Try to Survive",
+      "id": null
+    },
+    {
+      "title": "The Heart of It All",
+      "id": null
+    }
+  ]
+}

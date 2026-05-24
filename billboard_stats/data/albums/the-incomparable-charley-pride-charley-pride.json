@@ -1,1 +1,82 @@
-{"id": "the-incomparable-charley-pride-charley-pride", "title": "The Incomparable Charley Pride", "artist": "Charley Pride", "peak": 189, "history": [{"date": "1973-01-06", "rank": 200}, {"date": "1973-01-13", "rank": 200}, {"date": "1973-01-20", "rank": 194}, {"date": "1973-01-27", "rank": 195}, {"date": "1973-02-03", "rank": 190}, {"date": "1973-02-10", "rank": 189}, {"date": "1973-02-17", "rank": 197}, {"date": "1973-02-24", "rank": 197}]}
+{
+  "id": "the-incomparable-charley-pride-charley-pride",
+  "title": "The Incomparable Charley Pride",
+  "artist": "Charley Pride",
+  "peak": 189,
+  "history": [
+    {
+      "date": "1973-01-06",
+      "rank": 200
+    },
+    {
+      "date": "1973-01-13",
+      "rank": 200
+    },
+    {
+      "date": "1973-01-20",
+      "rank": 194
+    },
+    {
+      "date": "1973-01-27",
+      "rank": 195
+    },
+    {
+      "date": "1973-02-03",
+      "rank": 190
+    },
+    {
+      "date": "1973-02-10",
+      "rank": 189
+    },
+    {
+      "date": "1973-02-17",
+      "rank": 197
+    },
+    {
+      "date": "1973-02-24",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I'd Rather Love You",
+      "id": "i-d-rather-love-you-charley-pride"
+    },
+    {
+      "title": "Time (You're Not a Friend of Mine)",
+      "id": null
+    },
+    {
+      "title": "Jeanie Norman",
+      "id": null
+    },
+    {
+      "title": "Anywhere (Just Inside Your Arms)",
+      "id": null
+    },
+    {
+      "title": "When the Trains Come In",
+      "id": null
+    },
+    {
+      "title": "Piroque Joe",
+      "id": null
+    },
+    {
+      "title": "Was It All Worth Losing You",
+      "id": null
+    },
+    {
+      "title": "Instant Loneliness",
+      "id": null
+    },
+    {
+      "title": "This Highway Leads to Glory",
+      "id": null
+    },
+    {
+      "title": "Time Out for Jesus",
+      "id": null
+    }
+  ]
+}
