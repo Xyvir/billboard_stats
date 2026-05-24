@@ -1,1 +1,322 @@
-{"id": "raymond-v-raymond-usher", "title": "Raymond V Raymond", "artist": "Usher", "peak": 1, "history": [{"date": "2010-04-17", "rank": 1}, {"date": "2010-04-24", "rank": 2}, {"date": "2010-05-01", "rank": 4}, {"date": "2010-05-08", "rank": 5}, {"date": "2010-05-15", "rank": 6}, {"date": "2010-05-22", "rank": 10}, {"date": "2010-05-29", "rank": 7}, {"date": "2010-06-05", "rank": 8}, {"date": "2010-06-12", "rank": 5}, {"date": "2010-06-19", "rank": 5}, {"date": "2010-06-26", "rank": 12}, {"date": "2010-07-03", "rank": 13}, {"date": "2010-07-10", "rank": 14}, {"date": "2010-07-17", "rank": 14}, {"date": "2010-07-24", "rank": 17}, {"date": "2010-07-31", "rank": 20}, {"date": "2010-08-07", "rank": 11}, {"date": "2010-08-14", "rank": 12}, {"date": "2010-08-21", "rank": 17}, {"date": "2010-08-28", "rank": 19}, {"date": "2010-09-04", "rank": 31}, {"date": "2010-09-11", "rank": 19}, {"date": "2010-09-18", "rank": 30}, {"date": "2010-09-25", "rank": 29}, {"date": "2010-10-02", "rank": 25}, {"date": "2010-10-09", "rank": 34}, {"date": "2010-10-16", "rank": 52}, {"date": "2010-10-23", "rank": 59}, {"date": "2010-10-30", "rank": 57}, {"date": "2010-11-06", "rank": 70}, {"date": "2010-11-13", "rank": 80}, {"date": "2010-11-20", "rank": 90}, {"date": "2010-11-27", "rank": 119}, {"date": "2010-12-04", "rank": 156}, {"date": "2010-12-11", "rank": 182}, {"date": "2010-12-18", "rank": 175}, {"date": "2010-12-25", "rank": 179}, {"date": "2011-01-01", "rank": 142}, {"date": "2011-01-08", "rank": 146}, {"date": "2011-01-15", "rank": 151}, {"date": "2011-01-22", "rank": 118}, {"date": "2011-01-29", "rank": 173}, {"date": "2011-02-05", "rank": 187}, {"date": "2011-02-12", "rank": 193}, {"date": "2011-02-19", "rank": 161}, {"date": "2011-02-26", "rank": 134}, {"date": "2011-03-05", "rank": 121}, {"date": "2011-03-12", "rank": 150}, {"date": "2011-03-19", "rank": 145}, {"date": "2011-03-26", "rank": 176}, {"date": "2011-04-02", "rank": 195}, {"date": "2024-02-24", "rank": 68}, {"date": "2024-03-02", "rank": 171}]}
+{
+  "id": "raymond-v-raymond-usher",
+  "title": "Raymond V Raymond",
+  "artist": "Usher",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2010-04-17",
+      "rank": 1
+    },
+    {
+      "date": "2010-04-24",
+      "rank": 2
+    },
+    {
+      "date": "2010-05-01",
+      "rank": 4
+    },
+    {
+      "date": "2010-05-08",
+      "rank": 5
+    },
+    {
+      "date": "2010-05-15",
+      "rank": 6
+    },
+    {
+      "date": "2010-05-22",
+      "rank": 10
+    },
+    {
+      "date": "2010-05-29",
+      "rank": 7
+    },
+    {
+      "date": "2010-06-05",
+      "rank": 8
+    },
+    {
+      "date": "2010-06-12",
+      "rank": 5
+    },
+    {
+      "date": "2010-06-19",
+      "rank": 5
+    },
+    {
+      "date": "2010-06-26",
+      "rank": 12
+    },
+    {
+      "date": "2010-07-03",
+      "rank": 13
+    },
+    {
+      "date": "2010-07-10",
+      "rank": 14
+    },
+    {
+      "date": "2010-07-17",
+      "rank": 14
+    },
+    {
+      "date": "2010-07-24",
+      "rank": 17
+    },
+    {
+      "date": "2010-07-31",
+      "rank": 20
+    },
+    {
+      "date": "2010-08-07",
+      "rank": 11
+    },
+    {
+      "date": "2010-08-14",
+      "rank": 12
+    },
+    {
+      "date": "2010-08-21",
+      "rank": 17
+    },
+    {
+      "date": "2010-08-28",
+      "rank": 19
+    },
+    {
+      "date": "2010-09-04",
+      "rank": 31
+    },
+    {
+      "date": "2010-09-11",
+      "rank": 19
+    },
+    {
+      "date": "2010-09-18",
+      "rank": 30
+    },
+    {
+      "date": "2010-09-25",
+      "rank": 29
+    },
+    {
+      "date": "2010-10-02",
+      "rank": 25
+    },
+    {
+      "date": "2010-10-09",
+      "rank": 34
+    },
+    {
+      "date": "2010-10-16",
+      "rank": 52
+    },
+    {
+      "date": "2010-10-23",
+      "rank": 59
+    },
+    {
+      "date": "2010-10-30",
+      "rank": 57
+    },
+    {
+      "date": "2010-11-06",
+      "rank": 70
+    },
+    {
+      "date": "2010-11-13",
+      "rank": 80
+    },
+    {
+      "date": "2010-11-20",
+      "rank": 90
+    },
+    {
+      "date": "2010-11-27",
+      "rank": 119
+    },
+    {
+      "date": "2010-12-04",
+      "rank": 156
+    },
+    {
+      "date": "2010-12-11",
+      "rank": 182
+    },
+    {
+      "date": "2010-12-18",
+      "rank": 175
+    },
+    {
+      "date": "2010-12-25",
+      "rank": 179
+    },
+    {
+      "date": "2011-01-01",
+      "rank": 142
+    },
+    {
+      "date": "2011-01-08",
+      "rank": 146
+    },
+    {
+      "date": "2011-01-15",
+      "rank": 151
+    },
+    {
+      "date": "2011-01-22",
+      "rank": 118
+    },
+    {
+      "date": "2011-01-29",
+      "rank": 173
+    },
+    {
+      "date": "2011-02-05",
+      "rank": 187
+    },
+    {
+      "date": "2011-02-12",
+      "rank": 193
+    },
+    {
+      "date": "2011-02-19",
+      "rank": 161
+    },
+    {
+      "date": "2011-02-26",
+      "rank": 134
+    },
+    {
+      "date": "2011-03-05",
+      "rank": 121
+    },
+    {
+      "date": "2011-03-12",
+      "rank": 150
+    },
+    {
+      "date": "2011-03-19",
+      "rank": 145
+    },
+    {
+      "date": "2011-03-26",
+      "rank": 176
+    },
+    {
+      "date": "2011-04-02",
+      "rank": 195
+    },
+    {
+      "date": "2024-02-24",
+      "rank": 68
+    },
+    {
+      "date": "2024-03-02",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "There Goes My Baby",
+      "id": "there-goes-my-baby-usher"
+    },
+    {
+      "title": "Papers",
+      "id": "papers-usher"
+    },
+    {
+      "title": "More",
+      "id": "more-usher"
+    },
+    {
+      "title": "Monstar",
+      "id": null
+    },
+    {
+      "title": "Hey Daddy (Daddy’s Home)",
+      "id": null
+    },
+    {
+      "title": "Lil’ Freak",
+      "id": null
+    },
+    {
+      "title": "She Don’t Know",
+      "id": null
+    },
+    {
+      "title": "OMG",
+      "id": null
+    },
+    {
+      "title": "Mars vs. Venus",
+      "id": null
+    },
+    {
+      "title": "Pro Lover",
+      "id": null
+    },
+    {
+      "title": "Foolin’ Around",
+      "id": null
+    },
+    {
+      "title": "So Many Girls",
+      "id": null
+    },
+    {
+      "title": "Guilty",
+      "id": null
+    },
+    {
+      "title": "Okay",
+      "id": null
+    },
+    {
+      "title": "Making Love (Into the Night)",
+      "id": null
+    },
+    {
+      "title": "Love ’Em All",
+      "id": null
+    },
+    {
+      "title": "DJ Got Us Fallin’ In Love",
+      "id": null
+    },
+    {
+      "title": "Hot Tottie",
+      "id": null
+    },
+    {
+      "title": "Lay You Down",
+      "id": null
+    },
+    {
+      "title": "Lingerie",
+      "id": null
+    },
+    {
+      "title": "Get in My Car",
+      "id": null
+    },
+    {
+      "title": "Somebody to Love (remix)",
+      "id": null
+    },
+    {
+      "title": "Stranger",
+      "id": null
+    },
+    {
+      "title": "Dirty Dancer",
+      "id": null
+    },
+    {
+      "title": "OMG (Disco Fries radio edit)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,30 @@
-{"id": "react-erick-sermon", "title": "React", "artist": "Erick Sermon", "peak": 72, "history": [{"date": "2002-12-07", "rank": 72}, {"date": "2002-12-14", "rank": 133}, {"date": "2002-12-21", "rank": 154}, {"date": "2003-01-25", "rank": 199}]}
+{
+  "id": "react-erick-sermon",
+  "title": "React",
+  "artist": "Erick Sermon",
+  "peak": 72,
+  "history": [
+    {
+      "date": "2002-12-07",
+      "rank": 72
+    },
+    {
+      "date": "2002-12-14",
+      "rank": 133
+    },
+    {
+      "date": "2002-12-21",
+      "rank": 154
+    },
+    {
+      "date": "2003-01-25",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "React",
+      "id": null
+    }
+  ]
+}

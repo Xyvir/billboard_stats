@@ -1,1 +1,94 @@
-{"id": "reach-for-the-sky-the-allman-brothers-band", "title": "Reach For The Sky", "artist": "The Allman Brothers Band", "peak": 27, "history": [{"date": "1980-08-23", "rank": 86}, {"date": "1980-08-30", "rank": 41}, {"date": "1980-09-06", "rank": 35}, {"date": "1980-09-13", "rank": 31}, {"date": "1980-09-20", "rank": 29}, {"date": "1980-09-27", "rank": 28}, {"date": "1980-10-04", "rank": 27}, {"date": "1980-10-11", "rank": 27}, {"date": "1980-10-18", "rank": 49}, {"date": "1980-10-25", "rank": 53}, {"date": "1980-11-01", "rank": 76}, {"date": "1980-11-08", "rank": 95}, {"date": "1980-11-15", "rank": 158}]}
+{
+  "id": "reach-for-the-sky-the-allman-brothers-band",
+  "title": "Reach For The Sky",
+  "artist": "The Allman Brothers Band",
+  "peak": 27,
+  "history": [
+    {
+      "date": "1980-08-23",
+      "rank": 86
+    },
+    {
+      "date": "1980-08-30",
+      "rank": 41
+    },
+    {
+      "date": "1980-09-06",
+      "rank": 35
+    },
+    {
+      "date": "1980-09-13",
+      "rank": 31
+    },
+    {
+      "date": "1980-09-20",
+      "rank": 29
+    },
+    {
+      "date": "1980-09-27",
+      "rank": 28
+    },
+    {
+      "date": "1980-10-04",
+      "rank": 27
+    },
+    {
+      "date": "1980-10-11",
+      "rank": 27
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 49
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 53
+    },
+    {
+      "date": "1980-11-01",
+      "rank": 76
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 95
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Angeline",
+      "id": "angeline-the-allman-brothers-band"
+    },
+    {
+      "title": "Hell & High Water",
+      "id": null
+    },
+    {
+      "title": "Mystery Woman",
+      "id": null
+    },
+    {
+      "title": "From the Madness of the West",
+      "id": null
+    },
+    {
+      "title": "I Got a Right to Be Wrong",
+      "id": null
+    },
+    {
+      "title": "Famous Last Words",
+      "id": null
+    },
+    {
+      "title": "Keep On Keepin’ On",
+      "id": null
+    },
+    {
+      "title": "So Long",
+      "id": null
+    }
+  ]
+}
