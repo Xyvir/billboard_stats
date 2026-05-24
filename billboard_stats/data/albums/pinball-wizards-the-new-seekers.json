@@ -1,1 +1,70 @@
-{"id": "pinball-wizards-the-new-seekers", "title": "Pinball Wizards", "artist": "The New Seekers", "peak": 190, "history": [{"date": "1973-05-19", "rank": 193}, {"date": "1973-05-26", "rank": 192}, {"date": "1973-06-02", "rank": 190}, {"date": "1973-06-09", "rank": 194}]}
+{
+  "id": "pinball-wizards-the-new-seekers",
+  "title": "Pinball Wizards",
+  "artist": "The New Seekers",
+  "peak": 190,
+  "history": [
+    {
+      "date": "1973-05-19",
+      "rank": 193
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 192
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 190
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pinball Wizard / See Me, Feel Me (From The Rock Opera \"TOMMY\")",
+      "id": "pinball-wizard-see-me-feel-me-the-new-seekers"
+    },
+    {
+      "title": "Brand New Song",
+      "id": null
+    },
+    {
+      "title": "Look Look",
+      "id": null
+    },
+    {
+      "title": "That's My Guy",
+      "id": null
+    },
+    {
+      "title": "Feelin'",
+      "id": null
+    },
+    {
+      "title": "Utah",
+      "id": null
+    },
+    {
+      "title": "Reaching Out For Someone",
+      "id": null
+    },
+    {
+      "title": "With Everything Changing",
+      "id": null
+    },
+    {
+      "title": "Time Limit",
+      "id": null
+    },
+    {
+      "title": "Somebody Somewhere",
+      "id": null
+    },
+    {
+      "title": "The Further We Reach Out",
+      "id": null
+    }
+  ]
+}

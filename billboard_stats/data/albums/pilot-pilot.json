@@ -1,1 +1,86 @@
-{"id": "pilot-pilot", "title": "Pilot", "artist": "Pilot", "peak": 82, "history": [{"date": "1975-05-31", "rank": 179}, {"date": "1975-06-07", "rank": 159}, {"date": "1975-06-14", "rank": 147}, {"date": "1975-06-21", "rank": 136}, {"date": "1975-06-28", "rank": 124}, {"date": "1975-07-05", "rank": 118}, {"date": "1975-07-12", "rank": 112}, {"date": "1975-07-19", "rank": 106}, {"date": "1975-07-26", "rank": 95}, {"date": "1975-08-02", "rank": 90}, {"date": "1975-08-09", "rank": 82}, {"date": "1975-08-16", "rank": 113}, {"date": "1975-08-23", "rank": 131}, {"date": "1975-08-30", "rank": 152}]}
+{
+  "id": "pilot-pilot",
+  "title": "Pilot",
+  "artist": "Pilot",
+  "peak": 82,
+  "history": [
+    {
+      "date": "1975-05-31",
+      "rank": 179
+    },
+    {
+      "date": "1975-06-07",
+      "rank": 159
+    },
+    {
+      "date": "1975-06-14",
+      "rank": 147
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 136
+    },
+    {
+      "date": "1975-06-28",
+      "rank": 124
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 118
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 112
+    },
+    {
+      "date": "1975-07-19",
+      "rank": 106
+    },
+    {
+      "date": "1975-07-26",
+      "rank": 95
+    },
+    {
+      "date": "1975-08-02",
+      "rank": 90
+    },
+    {
+      "date": "1975-08-09",
+      "rank": 82
+    },
+    {
+      "date": "1975-08-16",
+      "rank": 113
+    },
+    {
+      "date": "1975-08-23",
+      "rank": 131
+    },
+    {
+      "date": "1975-08-30",
+      "rank": 152
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Black Jack",
+      "id": null
+    },
+    {
+      "title": "Up Late",
+      "id": null
+    },
+    {
+      "title": "Snapper",
+      "id": null
+    },
+    {
+      "title": "Friday Night Vision",
+      "id": null
+    },
+    {
+      "title": "Remember September",
+      "id": null
+    }
+  ]
+}

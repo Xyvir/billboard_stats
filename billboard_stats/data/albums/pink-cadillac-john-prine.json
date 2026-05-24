@@ -1,1 +1,78 @@
-{"id": "pink-cadillac-john-prine", "title": "Pink Cadillac", "artist": "John Prine", "peak": 152, "history": [{"date": "1979-09-08", "rank": 164}, {"date": "1979-09-15", "rank": 154}, {"date": "1979-09-22", "rank": 153}, {"date": "1979-09-29", "rank": 152}, {"date": "1979-10-06", "rank": 160}, {"date": "1979-10-13", "rank": 164}, {"date": "1979-10-20", "rank": 188}]}
+{
+  "id": "pink-cadillac-john-prine",
+  "title": "Pink Cadillac",
+  "artist": "John Prine",
+  "peak": 152,
+  "history": [
+    {
+      "date": "1979-09-08",
+      "rank": 164
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 154
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 153
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 152
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 160
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 164
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Chinatown",
+      "id": null
+    },
+    {
+      "title": "Automobile",
+      "id": null
+    },
+    {
+      "title": "Killing the Blues",
+      "id": null
+    },
+    {
+      "title": "No Name Girl",
+      "id": null
+    },
+    {
+      "title": "Saigon",
+      "id": null
+    },
+    {
+      "title": "This Cold War With You",
+      "id": null
+    },
+    {
+      "title": "Baby Let's Play House",
+      "id": null
+    },
+    {
+      "title": "Down by the Side of the Road",
+      "id": null
+    },
+    {
+      "title": "How Lucky",
+      "id": null
+    },
+    {
+      "title": "Ubangi Stomp",
+      "id": null
+    }
+  ]
+}
