@@ -1,1 +1,134 @@
-{"id": "stages-triumph", "title": "Stages", "artist": "Triumph", "peak": 50, "history": [{"date": "1985-11-02", "rank": 185}, {"date": "1985-11-09", "rank": 97}, {"date": "1985-11-16", "rank": 69}, {"date": "1985-11-23", "rank": 51}, {"date": "1985-11-30", "rank": 50}, {"date": "1985-12-07", "rank": 50}, {"date": "1985-12-14", "rank": 58}, {"date": "1985-12-21", "rank": 60}, {"date": "1985-12-28", "rank": 62}, {"date": "1986-01-04", "rank": 62}, {"date": "1986-01-11", "rank": 69}, {"date": "1986-01-18", "rank": 89}, {"date": "1986-01-25", "rank": 99}, {"date": "1986-02-01", "rank": 98}, {"date": "1986-02-08", "rank": 106}, {"date": "1986-02-15", "rank": 156}, {"date": "1986-02-22", "rank": 164}, {"date": "1986-03-01", "rank": 173}]}
+{
+  "id": "stages-triumph",
+  "title": "Stages",
+  "artist": "Triumph",
+  "peak": 50,
+  "history": [
+    {
+      "date": "1985-11-02",
+      "rank": 185
+    },
+    {
+      "date": "1985-11-09",
+      "rank": 97
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 69
+    },
+    {
+      "date": "1985-11-23",
+      "rank": 51
+    },
+    {
+      "date": "1985-11-30",
+      "rank": 50
+    },
+    {
+      "date": "1985-12-07",
+      "rank": 50
+    },
+    {
+      "date": "1985-12-14",
+      "rank": 58
+    },
+    {
+      "date": "1985-12-21",
+      "rank": 60
+    },
+    {
+      "date": "1985-12-28",
+      "rank": 62
+    },
+    {
+      "date": "1986-01-04",
+      "rank": 62
+    },
+    {
+      "date": "1986-01-11",
+      "rank": 69
+    },
+    {
+      "date": "1986-01-18",
+      "rank": 89
+    },
+    {
+      "date": "1986-01-25",
+      "rank": 99
+    },
+    {
+      "date": "1986-02-01",
+      "rank": 98
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 106
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 156
+    },
+    {
+      "date": "1986-02-22",
+      "rank": 164
+    },
+    {
+      "date": "1986-03-01",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hold On",
+      "id": "hold-on-triumph"
+    },
+    {
+      "title": "Magic Power",
+      "id": "magic-power-triumph"
+    },
+    {
+      "title": "Lay It on the Line",
+      "id": "lay-it-on-the-line-triumph"
+    },
+    {
+      "title": "Follow Your Heart",
+      "id": "follow-your-heart-triumph"
+    },
+    {
+      "title": "When the Lights Go Down",
+      "id": null
+    },
+    {
+      "title": "Never Surrender",
+      "id": null
+    },
+    {
+      "title": "Rock and Roll Machine",
+      "id": null
+    },
+    {
+      "title": "A World of Fantasy",
+      "id": null
+    },
+    {
+      "title": "Midsummer's Daydream",
+      "id": null
+    },
+    {
+      "title": "Spellbound",
+      "id": null
+    },
+    {
+      "title": "Fight the Good Fight",
+      "id": null
+    },
+    {
+      "title": "Mind Games",
+      "id": null
+    },
+    {
+      "title": "Empty Inside",
+      "id": null
+    }
+  ]
+}

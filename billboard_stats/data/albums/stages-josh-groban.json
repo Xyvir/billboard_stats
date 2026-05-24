@@ -1,1 +1,230 @@
-{"id": "stages-josh-groban", "title": "Stages", "artist": "Josh Groban", "peak": 2, "history": [{"date": "2015-05-16", "rank": 2}, {"date": "2015-05-23", "rank": 2}, {"date": "2015-05-30", "rank": 8}, {"date": "2015-06-06", "rank": 18}, {"date": "2015-06-13", "rank": 13}, {"date": "2015-06-20", "rank": 29}, {"date": "2015-06-27", "rank": 36}, {"date": "2015-07-04", "rank": 32}, {"date": "2015-07-11", "rank": 54}, {"date": "2015-07-18", "rank": 64}, {"date": "2015-07-25", "rank": 67}, {"date": "2015-08-01", "rank": 76}, {"date": "2015-08-08", "rank": 111}, {"date": "2015-08-15", "rank": 120}, {"date": "2015-08-22", "rank": 121}, {"date": "2015-08-29", "rank": 150}, {"date": "2015-09-05", "rank": 139}, {"date": "2015-09-12", "rank": 117}, {"date": "2015-09-19", "rank": 54}, {"date": "2015-09-26", "rank": 131}, {"date": "2015-10-03", "rank": 142}, {"date": "2015-10-10", "rank": 174}, {"date": "2015-10-17", "rank": 171}, {"date": "2015-10-24", "rank": 167}, {"date": "2015-10-31", "rank": 144}, {"date": "2015-11-07", "rank": 174}, {"date": "2015-11-14", "rank": 172}, {"date": "2015-11-21", "rank": 110}, {"date": "2015-11-28", "rank": 100}, {"date": "2015-12-05", "rank": 150}, {"date": "2015-12-12", "rank": 73}, {"date": "2015-12-19", "rank": 58}, {"date": "2015-12-26", "rank": 40}, {"date": "2016-01-02", "rank": 26}, {"date": "2016-01-09", "rank": 24}, {"date": "2016-01-16", "rank": 95}, {"date": "2016-01-23", "rank": 151}, {"date": "2016-01-30", "rank": 189}, {"date": "2016-02-06", "rank": 195}, {"date": "2016-02-27", "rank": 196}]}
+{
+  "id": "stages-josh-groban",
+  "title": "Stages",
+  "artist": "Josh Groban",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2015-05-16",
+      "rank": 2
+    },
+    {
+      "date": "2015-05-23",
+      "rank": 2
+    },
+    {
+      "date": "2015-05-30",
+      "rank": 8
+    },
+    {
+      "date": "2015-06-06",
+      "rank": 18
+    },
+    {
+      "date": "2015-06-13",
+      "rank": 13
+    },
+    {
+      "date": "2015-06-20",
+      "rank": 29
+    },
+    {
+      "date": "2015-06-27",
+      "rank": 36
+    },
+    {
+      "date": "2015-07-04",
+      "rank": 32
+    },
+    {
+      "date": "2015-07-11",
+      "rank": 54
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 64
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 67
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 76
+    },
+    {
+      "date": "2015-08-08",
+      "rank": 111
+    },
+    {
+      "date": "2015-08-15",
+      "rank": 120
+    },
+    {
+      "date": "2015-08-22",
+      "rank": 121
+    },
+    {
+      "date": "2015-08-29",
+      "rank": 150
+    },
+    {
+      "date": "2015-09-05",
+      "rank": 139
+    },
+    {
+      "date": "2015-09-12",
+      "rank": 117
+    },
+    {
+      "date": "2015-09-19",
+      "rank": 54
+    },
+    {
+      "date": "2015-09-26",
+      "rank": 131
+    },
+    {
+      "date": "2015-10-03",
+      "rank": 142
+    },
+    {
+      "date": "2015-10-10",
+      "rank": 174
+    },
+    {
+      "date": "2015-10-17",
+      "rank": 171
+    },
+    {
+      "date": "2015-10-24",
+      "rank": 167
+    },
+    {
+      "date": "2015-10-31",
+      "rank": 144
+    },
+    {
+      "date": "2015-11-07",
+      "rank": 174
+    },
+    {
+      "date": "2015-11-14",
+      "rank": 172
+    },
+    {
+      "date": "2015-11-21",
+      "rank": 110
+    },
+    {
+      "date": "2015-11-28",
+      "rank": 100
+    },
+    {
+      "date": "2015-12-05",
+      "rank": 150
+    },
+    {
+      "date": "2015-12-12",
+      "rank": 73
+    },
+    {
+      "date": "2015-12-19",
+      "rank": 58
+    },
+    {
+      "date": "2015-12-26",
+      "rank": 40
+    },
+    {
+      "date": "2016-01-02",
+      "rank": 26
+    },
+    {
+      "date": "2016-01-09",
+      "rank": 24
+    },
+    {
+      "date": "2016-01-16",
+      "rank": 95
+    },
+    {
+      "date": "2016-01-23",
+      "rank": 151
+    },
+    {
+      "date": "2016-01-30",
+      "rank": 189
+    },
+    {
+      "date": "2016-02-06",
+      "rank": 195
+    },
+    {
+      "date": "2016-02-27",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pure Imagination (from \"Charlie and the Chocolate Factory\")",
+      "id": null
+    },
+    {
+      "title": "What I Did for Love (from \"A Chorus Line\")",
+      "id": null
+    },
+    {
+      "title": "Bring Him Home (from \"Les Misérables\")",
+      "id": null
+    },
+    {
+      "title": "Le temps des cathédrales (from \"Notre-Dame de Paris\")",
+      "id": null
+    },
+    {
+      "title": "All I Ask of You (from \"The Phantom of the Opera\")",
+      "id": null
+    },
+    {
+      "title": "Try to Remember (from \"The Fantasticks\")",
+      "id": null
+    },
+    {
+      "title": "Over the Rainbow (from \"The Wizard of Oz\")",
+      "id": null
+    },
+    {
+      "title": "Children Will Listen / Not While I'm Around (from \"Into the Woods\" / \"Sweeney Todd\")",
+      "id": null
+    },
+    {
+      "title": "You'll Never Walk Alone (from \"Carousel\")",
+      "id": null
+    },
+    {
+      "title": "Old Devil Moon (from \"Finian's Rainbow\")",
+      "id": null
+    },
+    {
+      "title": "Finishing the Hat (from \"Sunday in the Park with George\")",
+      "id": null
+    },
+    {
+      "title": "If I Loved You (from \"Carousel\")",
+      "id": null
+    },
+    {
+      "title": "Anthem (from \"Chess\")",
+      "id": null
+    },
+    {
+      "title": "Gold Can Turn to Sand (from \"Kristina\")",
+      "id": null
+    },
+    {
+      "title": "Empty Chairs at Empty Tables (from \"Les Misérables\")",
+      "id": null
+    }
+  ]
+}

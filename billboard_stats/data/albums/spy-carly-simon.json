@@ -1,1 +1,98 @@
-{"id": "spy-carly-simon", "title": "Spy", "artist": "Carly Simon", "peak": 45, "history": [{"date": "1979-06-30", "rank": 108}, {"date": "1979-07-07", "rank": 63}, {"date": "1979-07-14", "rank": 53}, {"date": "1979-07-21", "rank": 45}, {"date": "1979-07-28", "rank": 45}, {"date": "1979-08-04", "rank": 54}, {"date": "1979-08-11", "rank": 76}, {"date": "1979-08-18", "rank": 102}, {"date": "1979-08-25", "rank": 104}, {"date": "1979-09-01", "rank": 119}, {"date": "1979-09-08", "rank": 126}, {"date": "1979-09-15", "rank": 129}, {"date": "1979-09-22", "rank": 183}]}
+{
+  "id": "spy-carly-simon",
+  "title": "Spy",
+  "artist": "Carly Simon",
+  "peak": 45,
+  "history": [
+    {
+      "date": "1979-06-30",
+      "rank": 108
+    },
+    {
+      "date": "1979-07-07",
+      "rank": 63
+    },
+    {
+      "date": "1979-07-14",
+      "rank": 53
+    },
+    {
+      "date": "1979-07-21",
+      "rank": 45
+    },
+    {
+      "date": "1979-07-28",
+      "rank": 45
+    },
+    {
+      "date": "1979-08-04",
+      "rank": 54
+    },
+    {
+      "date": "1979-08-11",
+      "rank": 76
+    },
+    {
+      "date": "1979-08-18",
+      "rank": 102
+    },
+    {
+      "date": "1979-08-25",
+      "rank": 104
+    },
+    {
+      "date": "1979-09-01",
+      "rank": 119
+    },
+    {
+      "date": "1979-09-08",
+      "rank": 126
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 129
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Vengeance",
+      "id": "vengeance-carly-simon"
+    },
+    {
+      "title": "Pure Sin",
+      "id": "you-re-so-vain-carly-simon"
+    },
+    {
+      "title": "Just Like You Do",
+      "id": null
+    },
+    {
+      "title": "We’re So Close",
+      "id": null
+    },
+    {
+      "title": "Coming to Get You",
+      "id": null
+    },
+    {
+      "title": "Never Been Gone",
+      "id": null
+    },
+    {
+      "title": "Love You by Heart",
+      "id": null
+    },
+    {
+      "title": "Spy",
+      "id": null
+    },
+    {
+      "title": "Memorial Day",
+      "id": null
+    }
+  ]
+}

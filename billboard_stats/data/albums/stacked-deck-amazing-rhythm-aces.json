@@ -1,1 +1,90 @@
-{"id": "stacked-deck-amazing-rhythm-aces", "title": "Stacked Deck", "artist": "Amazing Rhythm Aces", "peak": 120, "history": [{"date": "1975-10-18", "rank": 184}, {"date": "1975-10-25", "rank": 174}, {"date": "1975-11-01", "rank": 164}, {"date": "1975-11-08", "rank": 147}, {"date": "1975-11-15", "rank": 126}, {"date": "1975-11-22", "rank": 120}, {"date": "1975-11-29", "rank": 139}, {"date": "1975-12-06", "rank": 177}]}
+{
+  "id": "stacked-deck-amazing-rhythm-aces",
+  "title": "Stacked Deck",
+  "artist": "Amazing Rhythm Aces",
+  "peak": 120,
+  "history": [
+    {
+      "date": "1975-10-18",
+      "rank": 184
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 174
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 164
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 147
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 126
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 120
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 139
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Third Rate Romance",
+      "id": "third-rate-romance-amazing-rhythm-aces"
+    },
+    {
+      "title": "Amazing Grace (Used to Be Her Favorite Song)",
+      "id": "amazing-grace-used-to-be-her-favorite-song-amazing-rhythm-aces"
+    },
+    {
+      "title": "The \"Ella B\"",
+      "id": null
+    },
+    {
+      "title": "Life's Railway to Heaven",
+      "id": null
+    },
+    {
+      "title": "The Beautiful Lie",
+      "id": null
+    },
+    {
+      "title": "Hit the Nail on the Head",
+      "id": null
+    },
+    {
+      "title": "Who Will the Next Fool Be",
+      "id": null
+    },
+    {
+      "title": "Anything You Want",
+      "id": null
+    },
+    {
+      "title": "My Tears Still Flow",
+      "id": null
+    },
+    {
+      "title": "Emma-Jean",
+      "id": null
+    },
+    {
+      "title": "Why Can't I Be Satisfied",
+      "id": null
+    },
+    {
+      "title": "King of the Cowboys",
+      "id": null
+    }
+  ]
+}

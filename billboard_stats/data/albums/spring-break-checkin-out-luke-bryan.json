@@ -1,1 +1,146 @@
-{"id": "spring-break-checkin-out-luke-bryan", "title": "Spring Break... Checkin' Out", "artist": "Luke Bryan", "peak": 3, "history": [{"date": "2015-03-28", "rank": 3}, {"date": "2015-04-04", "rank": 15}, {"date": "2015-04-11", "rank": 24}, {"date": "2015-04-18", "rank": 32}, {"date": "2015-04-25", "rank": 39}, {"date": "2015-05-02", "rank": 45}, {"date": "2015-05-09", "rank": 49}, {"date": "2015-05-16", "rank": 49}, {"date": "2015-05-23", "rank": 50}, {"date": "2015-05-30", "rank": 62}, {"date": "2015-06-06", "rank": 61}, {"date": "2015-06-13", "rank": 60}, {"date": "2015-06-20", "rank": 68}, {"date": "2015-06-27", "rank": 76}, {"date": "2015-07-04", "rank": 86}, {"date": "2015-07-11", "rank": 101}, {"date": "2015-07-18", "rank": 121}, {"date": "2015-07-25", "rank": 121}, {"date": "2015-08-01", "rank": 130}, {"date": "2015-08-08", "rank": 154}, {"date": "2015-08-15", "rank": 179}, {"date": "2015-08-22", "rank": 157}, {"date": "2015-08-29", "rank": 173}]}
+{
+  "id": "spring-break-checkin-out-luke-bryan",
+  "title": "Spring Break... Checkin' Out",
+  "artist": "Luke Bryan",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2015-03-28",
+      "rank": 3
+    },
+    {
+      "date": "2015-04-04",
+      "rank": 15
+    },
+    {
+      "date": "2015-04-11",
+      "rank": 24
+    },
+    {
+      "date": "2015-04-18",
+      "rank": 32
+    },
+    {
+      "date": "2015-04-25",
+      "rank": 39
+    },
+    {
+      "date": "2015-05-02",
+      "rank": 45
+    },
+    {
+      "date": "2015-05-09",
+      "rank": 49
+    },
+    {
+      "date": "2015-05-16",
+      "rank": 49
+    },
+    {
+      "date": "2015-05-23",
+      "rank": 50
+    },
+    {
+      "date": "2015-05-30",
+      "rank": 62
+    },
+    {
+      "date": "2015-06-06",
+      "rank": 61
+    },
+    {
+      "date": "2015-06-13",
+      "rank": 60
+    },
+    {
+      "date": "2015-06-20",
+      "rank": 68
+    },
+    {
+      "date": "2015-06-27",
+      "rank": 76
+    },
+    {
+      "date": "2015-07-04",
+      "rank": 86
+    },
+    {
+      "date": "2015-07-11",
+      "rank": 101
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 121
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 121
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 130
+    },
+    {
+      "date": "2015-08-08",
+      "rank": 154
+    },
+    {
+      "date": "2015-08-15",
+      "rank": 179
+    },
+    {
+      "date": "2015-08-22",
+      "rank": 157
+    },
+    {
+      "date": "2015-08-29",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Games",
+      "id": "games-luke-bryan"
+    },
+    {
+      "title": "Night One",
+      "id": "down-to-one-luke-bryan"
+    },
+    {
+      "title": "My Ol’ Bronco",
+      "id": null
+    },
+    {
+      "title": "She Get Me High",
+      "id": null
+    },
+    {
+      "title": "Spring Breakdown",
+      "id": null
+    },
+    {
+      "title": "Good Lookin’ Girl",
+      "id": null
+    },
+    {
+      "title": "Checkin’ Out",
+      "id": null
+    },
+    {
+      "title": "You and the Beach",
+      "id": null
+    },
+    {
+      "title": "Like We Ain’t Ever",
+      "id": null
+    },
+    {
+      "title": "The Sand I Brought to the Beach",
+      "id": null
+    },
+    {
+      "title": "Are You Leaving With Him",
+      "id": null
+    }
+  ]
+}

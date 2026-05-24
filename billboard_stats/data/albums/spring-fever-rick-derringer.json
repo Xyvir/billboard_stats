@@ -1,1 +1,82 @@
-{"id": "spring-fever-rick-derringer", "title": "Spring Fever", "artist": "Rick Derringer", "peak": 141, "history": [{"date": "1975-04-26", "rank": 178}, {"date": "1975-05-03", "rank": 167}, {"date": "1975-05-10", "rank": 156}, {"date": "1975-05-17", "rank": 145}, {"date": "1975-05-24", "rank": 141}, {"date": "1975-05-31", "rank": 169}, {"date": "1975-06-07", "rank": 168}, {"date": "1975-06-14", "rank": 165}]}
+{
+  "id": "spring-fever-rick-derringer",
+  "title": "Spring Fever",
+  "artist": "Rick Derringer",
+  "peak": 141,
+  "history": [
+    {
+      "date": "1975-04-26",
+      "rank": 178
+    },
+    {
+      "date": "1975-05-03",
+      "rank": 167
+    },
+    {
+      "date": "1975-05-10",
+      "rank": 156
+    },
+    {
+      "date": "1975-05-17",
+      "rank": 145
+    },
+    {
+      "date": "1975-05-24",
+      "rank": 141
+    },
+    {
+      "date": "1975-05-31",
+      "rank": 169
+    },
+    {
+      "date": "1975-06-07",
+      "rank": 168
+    },
+    {
+      "date": "1975-06-14",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hang on Sloopy",
+      "id": "hang-on-sloopy-rick-derringer"
+    },
+    {
+      "title": "Gimme More",
+      "id": null
+    },
+    {
+      "title": "Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Don't Ever Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "Still Alive and Well",
+      "id": null
+    },
+    {
+      "title": "Rock",
+      "id": null
+    },
+    {
+      "title": "Roll With Me",
+      "id": null
+    },
+    {
+      "title": "Walkin' the Dog",
+      "id": null
+    },
+    {
+      "title": "He Needs Some Answers",
+      "id": null
+    },
+    {
+      "title": "Skyscraper Blues",
+      "id": null
+    }
+  ]
+}
