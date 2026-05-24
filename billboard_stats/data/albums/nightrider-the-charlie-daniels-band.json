@@ -1,1 +1,94 @@
-{"id": "nightrider-the-charlie-daniels-band", "title": "Nightrider", "artist": "The Charlie Daniels Band", "peak": 57, "history": [{"date": "1975-10-04", "rank": 92}, {"date": "1975-10-11", "rank": 81}, {"date": "1975-10-18", "rank": 71}, {"date": "1975-10-25", "rank": 61}, {"date": "1975-11-01", "rank": 61}, {"date": "1975-11-08", "rank": 58}, {"date": "1975-11-15", "rank": 57}, {"date": "1975-11-22", "rank": 87}, {"date": "1975-11-29", "rank": 87}, {"date": "1975-12-06", "rank": 91}, {"date": "1975-12-13", "rank": 148}, {"date": "1975-12-20", "rank": 194}]}
+{
+  "id": "nightrider-the-charlie-daniels-band",
+  "title": "Nightrider",
+  "artist": "The Charlie Daniels Band",
+  "peak": 57,
+  "history": [
+    {
+      "date": "1975-10-04",
+      "rank": 92
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 81
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 71
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 61
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 61
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 58
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 57
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 87
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 87
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 91
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 148
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Texas",
+      "id": "texas-the-charlie-daniels-band"
+    },
+    {
+      "title": "Willie Jones",
+      "id": null
+    },
+    {
+      "title": "Franklin Limestone",
+      "id": null
+    },
+    {
+      "title": "Evil",
+      "id": null
+    },
+    {
+      "title": "Everything Is Kinda All Right",
+      "id": null
+    },
+    {
+      "title": "Funky Junky",
+      "id": null
+    },
+    {
+      "title": "Birmingham Blues",
+      "id": null
+    },
+    {
+      "title": "Damn Good Cowboy",
+      "id": null
+    },
+    {
+      "title": "Tomorrow’s Gonna Be Another Day",
+      "id": null
+    }
+  ]
+}

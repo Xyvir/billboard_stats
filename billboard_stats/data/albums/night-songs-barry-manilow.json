@@ -1,1 +1,90 @@
-{"id": "night-songs-barry-manilow", "title": "Night Songs", "artist": "Barry Manilow", "peak": 8, "history": [{"date": "2014-04-12", "rank": 8}, {"date": "2014-04-26", "rank": 43}, {"date": "2014-05-03", "rank": 140}, {"date": "2014-05-10", "rank": 181}]}
+{
+  "id": "night-songs-barry-manilow",
+  "title": "Night Songs",
+  "artist": "Barry Manilow",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2014-04-12",
+      "rank": 8
+    },
+    {
+      "date": "2014-04-26",
+      "rank": 43
+    },
+    {
+      "date": "2014-05-03",
+      "rank": 140
+    },
+    {
+      "date": "2014-05-10",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Alone Together",
+      "id": "lonely-together-barry-manilow"
+    },
+    {
+      "title": "It’s a New World",
+      "id": "it-s-a-miracle-barry-manilow"
+    },
+    {
+      "title": "I Fall in Love Too Easily",
+      "id": null
+    },
+    {
+      "title": "Blame It on My Youth",
+      "id": null
+    },
+    {
+      "title": "I Get Along Without You Very Well",
+      "id": null
+    },
+    {
+      "title": "You’re Getting to Be a Habit With Me",
+      "id": null
+    },
+    {
+      "title": "It Amazes Me",
+      "id": null
+    },
+    {
+      "title": "But Not for Me",
+      "id": null
+    },
+    {
+      "title": "While We’re Young",
+      "id": null
+    },
+    {
+      "title": "You Don’t Know What Love Is",
+      "id": null
+    },
+    {
+      "title": "Ac‐cent‐tchu‐ate the Positive",
+      "id": null
+    },
+    {
+      "title": "My One and Only Love",
+      "id": null
+    },
+    {
+      "title": "I’ve Never Been in Love Before",
+      "id": null
+    },
+    {
+      "title": "I Walk a Little Faster",
+      "id": null
+    },
+    {
+      "title": "Here’s That Rainy Day",
+      "id": null
+    },
+    {
+      "title": "Some Other Time",
+      "id": null
+    }
+  ]
+}

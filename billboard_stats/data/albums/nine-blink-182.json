@@ -1,1 +1,82 @@
-{"id": "nine-blink-182", "title": "Nine", "artist": "blink-182", "peak": 3, "history": [{"date": "2019-10-05", "rank": 3}, {"date": "2019-10-12", "rank": 45}, {"date": "2019-10-19", "rank": 130}]}
+{
+  "id": "nine-blink-182",
+  "title": "Nine",
+  "artist": "blink-182",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2019-10-05",
+      "rank": 3
+    },
+    {
+      "date": "2019-10-12",
+      "rank": 45
+    },
+    {
+      "date": "2019-10-19",
+      "rank": 130
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The First Time",
+      "id": null
+    },
+    {
+      "title": "Happy Days",
+      "id": null
+    },
+    {
+      "title": "Heaven",
+      "id": null
+    },
+    {
+      "title": "Darkside",
+      "id": null
+    },
+    {
+      "title": "Blame It on My Youth",
+      "id": null
+    },
+    {
+      "title": "Generational Divide",
+      "id": null
+    },
+    {
+      "title": "Run Away",
+      "id": null
+    },
+    {
+      "title": "Black Rain",
+      "id": null
+    },
+    {
+      "title": "I Really Wish I Hated You",
+      "id": null
+    },
+    {
+      "title": "Pin the Grenade",
+      "id": null
+    },
+    {
+      "title": "No Heart to Speak Of",
+      "id": null
+    },
+    {
+      "title": "Ransom",
+      "id": null
+    },
+    {
+      "title": "On Some Emo Shit",
+      "id": null
+    },
+    {
+      "title": "Hungover You",
+      "id": null
+    },
+    {
+      "title": "Remember to Forget Me",
+      "id": null
+    }
+  ]
+}
