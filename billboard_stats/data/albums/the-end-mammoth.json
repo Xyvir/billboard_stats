@@ -1,1 +1,18 @@
-{"id": "the-end-mammoth", "title": "The End", "artist": "Mammoth", "peak": 77, "history": [{"date": "2025-11-08", "rank": 77}]}
+{
+  "id": "the-end-mammoth",
+  "title": "The End",
+  "artist": "Mammoth",
+  "peak": 77,
+  "history": [
+    {
+      "date": "2025-11-08",
+      "rank": 77
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The End",
+      "id": null
+    }
+  ]
+}

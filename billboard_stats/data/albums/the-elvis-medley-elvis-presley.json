@@ -1,1 +1,54 @@
-{"id": "the-elvis-medley-elvis-presley", "title": "The Elvis Medley", "artist": "Elvis Presley", "peak": 133, "history": [{"date": "1982-11-27", "rank": 179}, {"date": "1982-12-04", "rank": 139}, {"date": "1982-12-11", "rank": 133}, {"date": "1982-12-18", "rank": 133}, {"date": "1982-12-25", "rank": 143}, {"date": "1983-01-01", "rank": 143}, {"date": "1983-01-08", "rank": 143}, {"date": "1983-01-15", "rank": 180}, {"date": "1983-01-22", "rank": 196}]}
+{
+  "id": "the-elvis-medley-elvis-presley",
+  "title": "The Elvis Medley",
+  "artist": "Elvis Presley",
+  "peak": 133,
+  "history": [
+    {
+      "date": "1982-11-27",
+      "rank": 179
+    },
+    {
+      "date": "1982-12-04",
+      "rank": 139
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 133
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 133
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 143
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 143
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 143
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 180
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Elvis Medley: Jailhouse Rock / (Let Me Be Your) Teddy Bear / Hound Dog / Don’t Be Cruel (to a Heart That’s True) / Burning Love / Suspicious Minds",
+      "id": null
+    },
+    {
+      "title": "Always on My Mind",
+      "id": null
+    }
+  ]
+}

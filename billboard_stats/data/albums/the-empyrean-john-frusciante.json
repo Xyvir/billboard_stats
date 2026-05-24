@@ -1,1 +1,58 @@
-{"id": "the-empyrean-john-frusciante", "title": "The Empyrean", "artist": "John Frusciante", "peak": 151, "history": [{"date": "2009-02-07", "rank": 190}, {"date": "2009-02-14", "rank": 151}]}
+{
+  "id": "the-empyrean-john-frusciante",
+  "title": "The Empyrean",
+  "artist": "John Frusciante",
+  "peak": 151,
+  "history": [
+    {
+      "date": "2009-02-07",
+      "rank": 190
+    },
+    {
+      "date": "2009-02-14",
+      "rank": 151
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Before the Beginning",
+      "id": null
+    },
+    {
+      "title": "Song to the Siren",
+      "id": null
+    },
+    {
+      "title": "Unreachable",
+      "id": null
+    },
+    {
+      "title": "God",
+      "id": null
+    },
+    {
+      "title": "Dark/Light",
+      "id": null
+    },
+    {
+      "title": "Heaven",
+      "id": null
+    },
+    {
+      "title": "Enough of Me",
+      "id": null
+    },
+    {
+      "title": "Central",
+      "id": null
+    },
+    {
+      "title": "One More of Me",
+      "id": null
+    },
+    {
+      "title": "After the Ending",
+      "id": null
+    }
+  ]
+}
