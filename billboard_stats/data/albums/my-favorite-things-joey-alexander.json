@@ -1,1 +1,62 @@
-{"id": "my-favorite-things-joey-alexander", "title": "My Favorite Things", "artist": "Joey Alexander", "peak": 59, "history": [{"date": "2015-05-30", "rank": 174}, {"date": "2016-01-23", "rank": 59}, {"date": "2016-01-30", "rank": 102}, {"date": "2016-06-25", "rank": 175}]}
+{
+  "id": "my-favorite-things-joey-alexander",
+  "title": "My Favorite Things",
+  "artist": "Joey Alexander",
+  "peak": 59,
+  "history": [
+    {
+      "date": "2015-05-30",
+      "rank": 174
+    },
+    {
+      "date": "2016-01-23",
+      "rank": 59
+    },
+    {
+      "date": "2016-01-30",
+      "rank": 102
+    },
+    {
+      "date": "2016-06-25",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Giant Steps",
+      "id": null
+    },
+    {
+      "title": "Lush Life",
+      "id": null
+    },
+    {
+      "title": "My Favorite Things",
+      "id": null
+    },
+    {
+      "title": "It Might as Well Be Spring",
+      "id": null
+    },
+    {
+      "title": "Ma Blues",
+      "id": null
+    },
+    {
+      "title": "’Round Midnight",
+      "id": null
+    },
+    {
+      "title": "I Mean You",
+      "id": null
+    },
+    {
+      "title": "Tour de Force",
+      "id": null
+    },
+    {
+      "title": "Over the Rainbow",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"id": "my-farewell-to-elvis-merle-haggard", "title": "My Farewell To Elvis", "artist": "Merle Haggard", "peak": 133, "history": [{"date": "1977-11-19", "rank": 150}, {"date": "1977-11-26", "rank": 138}, {"date": "1977-12-03", "rank": 136}, {"date": "1977-12-10", "rank": 133}, {"date": "1977-12-17", "rank": 199}]}
+{
+  "id": "my-farewell-to-elvis-merle-haggard",
+  "title": "My Farewell To Elvis",
+  "artist": "Merle Haggard",
+  "peak": 133,
+  "history": [
+    {
+      "date": "1977-11-19",
+      "rank": 150
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 138
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 136
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 133
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "From Graceland to the Promised Land",
+      "id": "from-graceland-to-the-promised-land-merle-haggard"
+    },
+    {
+      "title": "In the Ghetto",
+      "id": null
+    },
+    {
+      "title": "Don’t Be Cruel",
+      "id": null
+    },
+    {
+      "title": "Jailhouse Rock",
+      "id": null
+    },
+    {
+      "title": "Love Me Tender",
+      "id": null
+    },
+    {
+      "title": "That’s All Right (Mama)",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Hotel",
+      "id": null
+    },
+    {
+      "title": "Blue Christmas",
+      "id": null
+    },
+    {
+      "title": "Blue Suede Shoes",
+      "id": null
+    },
+    {
+      "title": "Are You Lonesome Tonight",
+      "id": null
+    },
+    {
+      "title": "Merle’s Farewell to Elvis",
+      "id": null
+    }
+  ]
+}

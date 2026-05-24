@@ -1,1 +1,66 @@
-{"id": "my-kind-of-country-van-zant", "title": "My Kind Of Country", "artist": "Van Zant", "peak": 57, "history": [{"date": "2007-10-27", "rank": 57}, {"date": "2007-11-03", "rank": 101}, {"date": "2007-11-10", "rank": 163}]}
+{
+  "id": "my-kind-of-country-van-zant",
+  "title": "My Kind Of Country",
+  "artist": "Van Zant",
+  "peak": 57,
+  "history": [
+    {
+      "date": "2007-10-27",
+      "rank": 57
+    },
+    {
+      "date": "2007-11-03",
+      "rank": 101
+    },
+    {
+      "date": "2007-11-10",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Train",
+      "id": null
+    },
+    {
+      "title": "These Colors Don't Run",
+      "id": null
+    },
+    {
+      "title": "Goes Down Easy",
+      "id": null
+    },
+    {
+      "title": "That Scares Me",
+      "id": null
+    },
+    {
+      "title": "My Kind of Country",
+      "id": null
+    },
+    {
+      "title": "The Hardest Thing",
+      "id": null
+    },
+    {
+      "title": "It's Only Money",
+      "id": null
+    },
+    {
+      "title": "We Can't Do It Alone",
+      "id": null
+    },
+    {
+      "title": "Friend",
+      "id": null
+    },
+    {
+      "title": "It's All About You",
+      "id": null
+    },
+    {
+      "title": "Headed South",
+      "id": null
+    }
+  ]
+}

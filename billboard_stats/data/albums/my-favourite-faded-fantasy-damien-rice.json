@@ -1,1 +1,50 @@
-{"id": "my-favourite-faded-fantasy-damien-rice", "title": "My Favourite Faded Fantasy", "artist": "Damien Rice", "peak": 15, "history": [{"date": "2014-11-29", "rank": 15}, {"date": "2014-12-06", "rank": 70}]}
+{
+  "id": "my-favourite-faded-fantasy-damien-rice",
+  "title": "My Favourite Faded Fantasy",
+  "artist": "Damien Rice",
+  "peak": 15,
+  "history": [
+    {
+      "date": "2014-11-29",
+      "rank": 15
+    },
+    {
+      "date": "2014-12-06",
+      "rank": 70
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Favourite Faded Fantasy",
+      "id": null
+    },
+    {
+      "title": "It Takes a Lot to Know a Man",
+      "id": null
+    },
+    {
+      "title": "The Greatest Bastard",
+      "id": null
+    },
+    {
+      "title": "I Don’t Want to Change You",
+      "id": null
+    },
+    {
+      "title": "Colour Me In",
+      "id": null
+    },
+    {
+      "title": "The Box",
+      "id": null
+    },
+    {
+      "title": "Trusty and True",
+      "id": null
+    },
+    {
+      "title": "Long Long Way",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"id": "my-heart-lorrie-morgan", "title": "My Heart", "artist": "Lorrie Morgan", "peak": 116, "history": [{"date": "1999-05-01", "rank": 116}, {"date": "1999-05-08", "rank": 144}, {"date": "1999-05-15", "rank": 152}, {"date": "1999-05-22", "rank": 166}, {"date": "1999-05-29", "rank": 182}]}
+{
+  "id": "my-heart-lorrie-morgan",
+  "title": "My Heart",
+  "artist": "Lorrie Morgan",
+  "peak": 116,
+  "history": [
+    {
+      "date": "1999-05-01",
+      "rank": 116
+    },
+    {
+      "date": "1999-05-08",
+      "rank": 144
+    },
+    {
+      "date": "1999-05-15",
+      "rank": 152
+    },
+    {
+      "date": "1999-05-22",
+      "rank": 166
+    },
+    {
+      "date": "1999-05-29",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Maybe Not Tonight",
+      "id": "maybe-not-tonight-sammy-kershaw-lorrie-morgan"
+    },
+    {
+      "title": "The Things We Do",
+      "id": null
+    },
+    {
+      "title": "Where Does That Leave Me",
+      "id": null
+    },
+    {
+      "title": "I Did",
+      "id": null
+    },
+    {
+      "title": "Strong Enough to Cry",
+      "id": null
+    },
+    {
+      "title": "Here I Go Again",
+      "id": null
+    },
+    {
+      "title": "Between Midnight and Tomorrow",
+      "id": null
+    },
+    {
+      "title": "The Only Thing That Looks Good on Me Is You",
+      "id": null
+    },
+    {
+      "title": "Never Been Good at Letting Go",
+      "id": null
+    },
+    {
+      "title": "My Heart",
+      "id": null
+    },
+    {
+      "title": "On This Bed",
+      "id": null
+    }
+  ]
+}

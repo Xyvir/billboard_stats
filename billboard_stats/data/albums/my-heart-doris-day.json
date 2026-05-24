@@ -1,1 +1,66 @@
-{"id": "my-heart-doris-day", "title": "My Heart", "artist": "Doris Day", "peak": 135, "history": [{"date": "2011-12-31", "rank": 135}]}
+{
+  "id": "my-heart-doris-day",
+  "title": "My Heart",
+  "artist": "Doris Day",
+  "peak": 135,
+  "history": [
+    {
+      "date": "2011-12-31",
+      "rank": 135
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hurry, It's Lovely Up Here",
+      "id": null
+    },
+    {
+      "title": "Daydream",
+      "id": null
+    },
+    {
+      "title": "The Way I Dreamed It",
+      "id": null
+    },
+    {
+      "title": "Heaven Tonight",
+      "id": null
+    },
+    {
+      "title": "My One and Only Love",
+      "id": null
+    },
+    {
+      "title": "My Heart",
+      "id": null
+    },
+    {
+      "title": "You Are So Beautiful",
+      "id": null
+    },
+    {
+      "title": "Life Is Just a Bowl of Cherries",
+      "id": null
+    },
+    {
+      "title": "Disney Girls",
+      "id": null
+    },
+    {
+      "title": "Stewball",
+      "id": null
+    },
+    {
+      "title": "My Buddy",
+      "id": null
+    },
+    {
+      "title": "Happy Endings",
+      "id": null
+    },
+    {
+      "title": "Ohio",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "my-favorite-picture-of-you-guy-clark", "title": "My Favorite Picture Of You", "artist": "Guy Clark", "peak": 62, "history": [{"date": "2013-08-10", "rank": 62}, {"date": "2013-08-17", "rank": 180}]}
+{
+  "id": "my-favorite-picture-of-you-guy-clark",
+  "title": "My Favorite Picture Of You",
+  "artist": "Guy Clark",
+  "peak": 62,
+  "history": [
+    {
+      "date": "2013-08-10",
+      "rank": 62
+    },
+    {
+      "date": "2013-08-17",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cornmeal Waltz",
+      "id": null
+    },
+    {
+      "title": "My Favorite Picture of You",
+      "id": null
+    },
+    {
+      "title": "Hell Bent on a Heartache",
+      "id": null
+    },
+    {
+      "title": "El Coyote",
+      "id": null
+    },
+    {
+      "title": "Heroes",
+      "id": null
+    },
+    {
+      "title": "Rain in Durango",
+      "id": null
+    },
+    {
+      "title": "Good Advice",
+      "id": null
+    },
+    {
+      "title": "The Death of Sis Draper",
+      "id": null
+    },
+    {
+      "title": "Waltzing Fool",
+      "id": null
+    },
+    {
+      "title": "The High Price of Inspiration",
+      "id": null
+    },
+    {
+      "title": "I’ll Show Me",
+      "id": null
+    }
+  ]
+}

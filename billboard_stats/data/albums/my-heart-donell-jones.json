@@ -1,1 +1,86 @@
-{"id": "my-heart-donell-jones", "title": "My Heart", "artist": "Donell Jones", "peak": 180, "history": [{"date": "1996-10-19", "rank": 193}, {"date": "1996-10-26", "rank": 180}, {"date": "1996-11-02", "rank": 193}, {"date": "1996-11-09", "rank": 196}]}
+{
+  "id": "my-heart-donell-jones",
+  "title": "My Heart",
+  "artist": "Donell Jones",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1996-10-19",
+      "rank": 193
+    },
+    {
+      "date": "1996-10-26",
+      "rank": 180
+    },
+    {
+      "date": "1996-11-02",
+      "rank": 193
+    },
+    {
+      "date": "1996-11-09",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Knocks Me Off My Feet",
+      "id": "knocks-me-off-my-feet-donell-jones"
+    },
+    {
+      "title": "In the Hood (remix)",
+      "id": "in-the-hood-donell-jones"
+    },
+    {
+      "title": "In the Hood (Playas version)",
+      "id": null
+    },
+    {
+      "title": "No Interruptions",
+      "id": null
+    },
+    {
+      "title": "Waiting on You",
+      "id": null
+    },
+    {
+      "title": "I Want You to Know",
+      "id": null
+    },
+    {
+      "title": "My Heart",
+      "id": null
+    },
+    {
+      "title": "Yearnin’",
+      "id": null
+    },
+    {
+      "title": "Wish You Were Here",
+      "id": null
+    },
+    {
+      "title": "All About You",
+      "id": null
+    },
+    {
+      "title": "You Should Know",
+      "id": null
+    },
+    {
+      "title": "Natural Thang",
+      "id": null
+    },
+    {
+      "title": "Believe in Me",
+      "id": null
+    },
+    {
+      "title": "Don’t Cry",
+      "id": null
+    },
+    {
+      "title": "The Only One You Need",
+      "id": null
+    }
+  ]
+}

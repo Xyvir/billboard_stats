@@ -1,1 +1,62 @@
-{"id": "my-garden-kat-dahlia", "title": "My Garden", "artist": "Kat Dahlia", "peak": 54, "history": [{"date": "2015-01-31", "rank": 54}]}
+{
+  "id": "my-garden-kat-dahlia",
+  "title": "My Garden",
+  "artist": "Kat Dahlia",
+  "peak": 54,
+  "history": [
+    {
+      "date": "2015-01-31",
+      "rank": 54
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Garden",
+      "id": null
+    },
+    {
+      "title": "Gangsta",
+      "id": null
+    },
+    {
+      "title": "Crazy",
+      "id": null
+    },
+    {
+      "title": "Saturday Sunday",
+      "id": null
+    },
+    {
+      "title": "I Think I’m in Love",
+      "id": null
+    },
+    {
+      "title": "Tumbao",
+      "id": null
+    },
+    {
+      "title": "Mirror",
+      "id": null
+    },
+    {
+      "title": "Lava",
+      "id": null
+    },
+    {
+      "title": "Walk on Water",
+      "id": null
+    },
+    {
+      "title": "Clocks",
+      "id": null
+    },
+    {
+      "title": "Just Another Dude",
+      "id": null
+    },
+    {
+      "title": "Pleasin",
+      "id": null
+    }
+  ]
+}
