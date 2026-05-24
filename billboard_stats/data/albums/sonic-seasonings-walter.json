@@ -1,1 +1,54 @@
-{"id": "sonic-seasonings-walter", "title": "Sonic Seasonings", "artist": "Walter", "peak": 168, "history": [{"date": "1972-07-08", "rank": 176}, {"date": "1972-07-15", "rank": 171}, {"date": "1972-07-22", "rank": 168}, {"date": "1972-07-29", "rank": 168}, {"date": "1972-08-05", "rank": 172}, {"date": "1972-08-12", "rank": 172}, {"date": "1972-08-19", "rank": 192}]}
+{
+  "id": "sonic-seasonings-walter",
+  "title": "Sonic Seasonings",
+  "artist": "Walter",
+  "peak": 168,
+  "history": [
+    {
+      "date": "1972-07-08",
+      "rank": 176
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 171
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 168
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 168
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 172
+    },
+    {
+      "date": "1972-08-12",
+      "rank": 172
+    },
+    {
+      "date": "1972-08-19",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Spring",
+      "id": null
+    },
+    {
+      "title": "Summer",
+      "id": null
+    },
+    {
+      "title": "Fall",
+      "id": null
+    },
+    {
+      "title": "Winter",
+      "id": null
+    }
+  ]
+}

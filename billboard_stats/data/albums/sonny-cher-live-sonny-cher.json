@@ -1,1 +1,82 @@
-{"id": "sonny-cher-live-sonny-cher", "title": "Sonny & Cher Live", "artist": "Sonny & Cher", "peak": 93, "history": [{"date": "1972-05-20", "rank": 97}, {"date": "1972-05-27", "rank": 93}, {"date": "1972-06-03", "rank": 111}, {"date": "1972-06-10", "rank": 113}, {"date": "1972-06-17", "rank": 123}, {"date": "1972-06-24", "rank": 156}, {"date": "1972-07-01", "rank": 181}]}
+{
+  "id": "sonny-cher-live-sonny-cher",
+  "title": "Sonny & Cher Live",
+  "artist": "Sonny & Cher",
+  "peak": 93,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 97
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 93
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 111
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 113
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 123
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 156
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What Now My Love",
+      "id": "what-now-my-love-sonny-cher"
+    },
+    {
+      "title": "The Beat Goes On",
+      "id": "the-beat-goes-on-sonny-cher"
+    },
+    {
+      "title": "I Got You Babe",
+      "id": "i-got-you-babe-sonny-cher"
+    },
+    {
+      "title": "Once in a Lifetime",
+      "id": null
+    },
+    {
+      "title": "More Today Than Yesterday",
+      "id": null
+    },
+    {
+      "title": "Gotta Get You Into My Life",
+      "id": null
+    },
+    {
+      "title": "Someday (You’ll Want Me to Want You)",
+      "id": null
+    },
+    {
+      "title": "Danny Boy",
+      "id": null
+    },
+    {
+      "title": "Laugh at Me",
+      "id": null
+    },
+    {
+      "title": "Something",
+      "id": null
+    },
+    {
+      "title": "Hey Jude",
+      "id": null
+    }
+  ]
+}

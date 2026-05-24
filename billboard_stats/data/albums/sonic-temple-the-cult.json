@@ -1,1 +1,186 @@
-{"id": "sonic-temple-the-cult", "title": "Sonic Temple", "artist": "The Cult", "peak": 10, "history": [{"date": "1989-04-29", "rank": 46}, {"date": "1989-05-06", "rank": 19}, {"date": "1989-05-13", "rank": 16}, {"date": "1989-05-20", "rank": 12}, {"date": "1989-05-27", "rank": 10}, {"date": "1989-06-03", "rank": 10}, {"date": "1989-06-10", "rank": 10}, {"date": "1989-06-17", "rank": 10}, {"date": "1989-06-24", "rank": 10}, {"date": "1989-07-01", "rank": 10}, {"date": "1989-07-08", "rank": 12}, {"date": "1989-07-15", "rank": 14}, {"date": "1989-07-22", "rank": 17}, {"date": "1989-07-29", "rank": 18}, {"date": "1989-08-05", "rank": 21}, {"date": "1989-08-12", "rank": 25}, {"date": "1989-08-19", "rank": 26}, {"date": "1989-08-26", "rank": 29}, {"date": "1989-09-02", "rank": 37}, {"date": "1989-09-09", "rank": 38}, {"date": "1989-09-16", "rank": 39}, {"date": "1989-09-23", "rank": 45}, {"date": "1989-09-30", "rank": 49}, {"date": "1989-10-07", "rank": 53}, {"date": "1989-10-14", "rank": 60}, {"date": "1989-10-21", "rank": 61}, {"date": "1989-10-28", "rank": 72}, {"date": "1989-11-04", "rank": 78}, {"date": "1989-11-11", "rank": 87}, {"date": "1989-11-18", "rank": 111}, {"date": "1989-11-25", "rank": 160}, {"date": "1989-12-02", "rank": 185}, {"date": "1989-12-09", "rank": 184}]}
+{
+  "id": "sonic-temple-the-cult",
+  "title": "Sonic Temple",
+  "artist": "The Cult",
+  "peak": 10,
+  "history": [
+    {
+      "date": "1989-04-29",
+      "rank": 46
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 19
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 16
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 12
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 10
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 10
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 10
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 10
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 10
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 10
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 12
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 14
+    },
+    {
+      "date": "1989-07-22",
+      "rank": 17
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 18
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 21
+    },
+    {
+      "date": "1989-08-12",
+      "rank": 25
+    },
+    {
+      "date": "1989-08-19",
+      "rank": 26
+    },
+    {
+      "date": "1989-08-26",
+      "rank": 29
+    },
+    {
+      "date": "1989-09-02",
+      "rank": 37
+    },
+    {
+      "date": "1989-09-09",
+      "rank": 38
+    },
+    {
+      "date": "1989-09-16",
+      "rank": 39
+    },
+    {
+      "date": "1989-09-23",
+      "rank": 45
+    },
+    {
+      "date": "1989-09-30",
+      "rank": 49
+    },
+    {
+      "date": "1989-10-07",
+      "rank": 53
+    },
+    {
+      "date": "1989-10-14",
+      "rank": 60
+    },
+    {
+      "date": "1989-10-21",
+      "rank": 61
+    },
+    {
+      "date": "1989-10-28",
+      "rank": 72
+    },
+    {
+      "date": "1989-11-04",
+      "rank": 78
+    },
+    {
+      "date": "1989-11-11",
+      "rank": 87
+    },
+    {
+      "date": "1989-11-18",
+      "rank": 111
+    },
+    {
+      "date": "1989-11-25",
+      "rank": 160
+    },
+    {
+      "date": "1989-12-02",
+      "rank": 185
+    },
+    {
+      "date": "1989-12-09",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fire Woman",
+      "id": "fire-woman-the-cult"
+    },
+    {
+      "title": "Edie (Ciao Baby)",
+      "id": "edie-ciao-baby-the-cult"
+    },
+    {
+      "title": "Sun King",
+      "id": null
+    },
+    {
+      "title": "American Horse",
+      "id": null
+    },
+    {
+      "title": "Sweet Soul Sister",
+      "id": null
+    },
+    {
+      "title": "Soul Asylum",
+      "id": null
+    },
+    {
+      "title": "New York City",
+      "id": null
+    },
+    {
+      "title": "Automatic Blues",
+      "id": null
+    },
+    {
+      "title": "Soldier Blue",
+      "id": null
+    },
+    {
+      "title": "Wake Up Time for Freedom",
+      "id": null
+    },
+    {
+      "title": "Medicine Train",
+      "id": null
+    }
+  ]
+}

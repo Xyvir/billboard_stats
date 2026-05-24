@@ -1,1 +1,142 @@
-{"id": "songs-willie-nelson", "title": "Songs", "artist": "Willie Nelson", "peak": 64, "history": [{"date": "2005-03-05", "rank": 64}, {"date": "2005-03-12", "rank": 88}, {"date": "2005-03-19", "rank": 106}, {"date": "2005-03-26", "rank": 134}, {"date": "2005-04-02", "rank": 156}, {"date": "2005-04-09", "rank": 193}, {"date": "2005-04-16", "rank": 197}, {"date": "2005-04-23", "rank": 190}, {"date": "2005-04-30", "rank": 166}, {"date": "2005-05-07", "rank": 177}, {"date": "2005-05-14", "rank": 192}, {"date": "2005-05-21", "rank": 197}, {"date": "2005-07-02", "rank": 194}]}
+{
+  "id": "songs-willie-nelson",
+  "title": "Songs",
+  "artist": "Willie Nelson",
+  "peak": 64,
+  "history": [
+    {
+      "date": "2005-03-05",
+      "rank": 64
+    },
+    {
+      "date": "2005-03-12",
+      "rank": 88
+    },
+    {
+      "date": "2005-03-19",
+      "rank": 106
+    },
+    {
+      "date": "2005-03-26",
+      "rank": 134
+    },
+    {
+      "date": "2005-04-02",
+      "rank": 156
+    },
+    {
+      "date": "2005-04-09",
+      "rank": 193
+    },
+    {
+      "date": "2005-04-16",
+      "rank": 197
+    },
+    {
+      "date": "2005-04-23",
+      "rank": 190
+    },
+    {
+      "date": "2005-04-30",
+      "rank": 166
+    },
+    {
+      "date": "2005-05-07",
+      "rank": 177
+    },
+    {
+      "date": "2005-05-14",
+      "rank": 192
+    },
+    {
+      "date": "2005-05-21",
+      "rank": 197
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Blue Eyes Crying in the Rain",
+      "id": "blue-eyes-crying-in-the-rain-willie-nelson"
+    },
+    {
+      "title": "Always on My Mind",
+      "id": "always-on-my-mind-willie-nelson"
+    },
+    {
+      "title": "On the Road Again",
+      "id": "on-the-road-again-willie-nelson"
+    },
+    {
+      "title": "Crazy (original demo)",
+      "id": null
+    },
+    {
+      "title": "Touch Me",
+      "id": null
+    },
+    {
+      "title": "Good Times",
+      "id": null
+    },
+    {
+      "title": "Yesterday’s Wine",
+      "id": null
+    },
+    {
+      "title": "Whiskey River",
+      "id": null
+    },
+    {
+      "title": "Stay All Night (Stay a Little Longer)",
+      "id": null
+    },
+    {
+      "title": "It’s Not Supposed to Be That Way",
+      "id": null
+    },
+    {
+      "title": "Good Hearted Woman (live)",
+      "id": null
+    },
+    {
+      "title": "Just to Satisfy You",
+      "id": null
+    },
+    {
+      "title": "Pancho and Lefty",
+      "id": null
+    },
+    {
+      "title": "She Is Gone",
+      "id": null
+    },
+    {
+      "title": "My Own Peculiar Way",
+      "id": null
+    },
+    {
+      "title": "Funny How Time Slips Away",
+      "id": null
+    },
+    {
+      "title": "Night Life",
+      "id": null
+    },
+    {
+      "title": "Rainbow Connection",
+      "id": null
+    },
+    {
+      "title": "Don’t Fade Away",
+      "id": null
+    },
+    {
+      "title": "Mendocino County Line",
+      "id": null
+    }
+  ]
+}

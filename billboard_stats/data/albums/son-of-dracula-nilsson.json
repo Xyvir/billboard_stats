@@ -1,1 +1,102 @@
-{"id": "son-of-dracula-nilsson", "title": "Son Of Dracula", "artist": "Nilsson", "peak": 106, "history": [{"date": "1974-05-04", "rank": 190}, {"date": "1974-05-11", "rank": 147}, {"date": "1974-05-18", "rank": 130}, {"date": "1974-05-25", "rank": 114}, {"date": "1974-06-01", "rank": 106}, {"date": "1974-06-08", "rank": 115}, {"date": "1974-06-15", "rank": 107}, {"date": "1974-06-22", "rank": 112}, {"date": "1974-06-29", "rank": 185}]}
+{
+  "id": "son-of-dracula-nilsson",
+  "title": "Son Of Dracula",
+  "artist": "Nilsson",
+  "peak": 106,
+  "history": [
+    {
+      "date": "1974-05-04",
+      "rank": 190
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 147
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 130
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 114
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 106
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 115
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 107
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 112
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Daybreak",
+      "id": "daybreak-nilsson"
+    },
+    {
+      "title": "Remember",
+      "id": "remember-christmas-nilsson"
+    },
+    {
+      "title": "Intro: Without You",
+      "id": "without-you-nilsson"
+    },
+    {
+      "title": "Jump Into the Fire",
+      "id": "jump-into-the-fire-nilsson"
+    },
+    {
+      "title": "It Is He Who Will Be King",
+      "id": null
+    },
+    {
+      "title": "At My Front Door",
+      "id": null
+    },
+    {
+      "title": "Count Down Meets Merlin and Amber",
+      "id": null
+    },
+    {
+      "title": "Moonbeam",
+      "id": null
+    },
+    {
+      "title": "Perhaps This Is All a Dream",
+      "id": null
+    },
+    {
+      "title": "The Count’s Vulnerability",
+      "id": null
+    },
+    {
+      "title": "Down",
+      "id": null
+    },
+    {
+      "title": "Frankenstein, Merlin and the Operation",
+      "id": null
+    },
+    {
+      "title": "The Abdication of Count Down",
+      "id": null
+    },
+    {
+      "title": "The End (Moonbeam)",
+      "id": null
+    }
+  ]
+}
