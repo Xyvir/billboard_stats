@@ -1,1 +1,58 @@
-{"id": "stuff-stuff", "title": "Stuff", "artist": "Stuff", "peak": 163, "history": [{"date": "1976-11-27", "rank": 170}, {"date": "1976-12-04", "rank": 170}, {"date": "1976-12-11", "rank": 163}]}
+{
+  "id": "stuff-stuff",
+  "title": "Stuff",
+  "artist": "Stuff",
+  "peak": 163,
+  "history": [
+    {
+      "date": "1976-11-27",
+      "rank": 170
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 170
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Event Horizon",
+      "id": null
+    },
+    {
+      "title": "Skywalker",
+      "id": null
+    },
+    {
+      "title": "Tahtam",
+      "id": null
+    },
+    {
+      "title": "Sifa",
+      "id": null
+    },
+    {
+      "title": "Caves",
+      "id": null
+    },
+    {
+      "title": "Ahfreaq",
+      "id": null
+    },
+    {
+      "title": "Java",
+      "id": null
+    },
+    {
+      "title": "Walking Headz",
+      "id": null
+    },
+    {
+      "title": "R-Over",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"id": "strut-lenny-kravitz", "title": "Strut", "artist": "Lenny Kravitz", "peak": 19, "history": [{"date": "2014-10-11", "rank": 19}, {"date": "2014-10-18", "rank": 57}, {"date": "2014-10-25", "rank": 126}, {"date": "2014-11-01", "rank": 162}]}
+{
+  "id": "strut-lenny-kravitz",
+  "title": "Strut",
+  "artist": "Lenny Kravitz",
+  "peak": 19,
+  "history": [
+    {
+      "date": "2014-10-11",
+      "rank": 19
+    },
+    {
+      "date": "2014-10-18",
+      "rank": 57
+    },
+    {
+      "date": "2014-10-25",
+      "rank": 126
+    },
+    {
+      "date": "2014-11-01",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m a Believer",
+      "id": "believe-lenny-kravitz"
+    },
+    {
+      "title": "Sex",
+      "id": null
+    },
+    {
+      "title": "The Chamber",
+      "id": null
+    },
+    {
+      "title": "Dirty White Boots",
+      "id": null
+    },
+    {
+      "title": "New York City",
+      "id": null
+    },
+    {
+      "title": "The Pleasure and the Pain",
+      "id": null
+    },
+    {
+      "title": "Strut",
+      "id": null
+    },
+    {
+      "title": "Frankenstein",
+      "id": null
+    },
+    {
+      "title": "She’s a Beast",
+      "id": null
+    },
+    {
+      "title": "Happy Birthday",
+      "id": null
+    },
+    {
+      "title": "I Never Want to Let You Down",
+      "id": null
+    },
+    {
+      "title": "Ooo Baby Baby",
+      "id": null
+    },
+    {
+      "title": "Lift Me Out of My Head",
+      "id": null
+    },
+    {
+      "title": "It Won’t Feel the Same",
+      "id": null
+    }
+  ]
+}

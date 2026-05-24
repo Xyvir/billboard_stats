@@ -1,1 +1,354 @@
-{"id": "stronger-kelly-clarkson", "title": "Stronger", "artist": "Kelly Clarkson", "peak": 2, "history": [{"date": "2011-11-12", "rank": 2}, {"date": "2011-11-19", "rank": 10}, {"date": "2011-11-26", "rank": 19}, {"date": "2011-12-03", "rank": 22}, {"date": "2011-12-10", "rank": 25}, {"date": "2011-12-17", "rank": 35}, {"date": "2011-12-24", "rank": 49}, {"date": "2011-12-31", "rank": 44}, {"date": "2012-01-07", "rank": 39}, {"date": "2012-01-14", "rank": 17}, {"date": "2012-01-21", "rank": 16}, {"date": "2012-01-28", "rank": 14}, {"date": "2012-02-04", "rank": 14}, {"date": "2012-02-11", "rank": 20}, {"date": "2012-02-18", "rank": 13}, {"date": "2012-02-25", "rank": 12}, {"date": "2012-03-03", "rank": 13}, {"date": "2012-03-10", "rank": 15}, {"date": "2012-03-17", "rank": 24}, {"date": "2012-03-24", "rank": 20}, {"date": "2012-03-31", "rank": 16}, {"date": "2012-04-07", "rank": 19}, {"date": "2012-04-14", "rank": 26}, {"date": "2012-04-21", "rank": 12}, {"date": "2012-04-28", "rank": 27}, {"date": "2012-05-05", "rank": 39}, {"date": "2012-05-12", "rank": 42}, {"date": "2012-05-19", "rank": 46}, {"date": "2012-05-26", "rank": 35}, {"date": "2012-06-02", "rank": 51}, {"date": "2012-06-09", "rank": 38}, {"date": "2012-06-16", "rank": 41}, {"date": "2012-06-23", "rank": 50}, {"date": "2012-06-30", "rank": 66}, {"date": "2012-07-07", "rank": 53}, {"date": "2012-07-14", "rank": 58}, {"date": "2012-07-21", "rank": 57}, {"date": "2012-07-28", "rank": 48}, {"date": "2012-08-04", "rank": 57}, {"date": "2012-08-11", "rank": 50}, {"date": "2012-08-18", "rank": 55}, {"date": "2012-08-25", "rank": 63}, {"date": "2012-09-01", "rank": 35}, {"date": "2012-09-08", "rank": 19}, {"date": "2012-09-15", "rank": 74}, {"date": "2012-09-22", "rank": 71}, {"date": "2012-09-29", "rank": 89}, {"date": "2012-10-06", "rank": 104}, {"date": "2012-10-13", "rank": 124}, {"date": "2012-10-20", "rank": 140}, {"date": "2012-10-27", "rank": 153}, {"date": "2012-11-03", "rank": 145}, {"date": "2012-11-10", "rank": 160}, {"date": "2012-11-17", "rank": 152}, {"date": "2012-11-24", "rank": 177}, {"date": "2012-12-08", "rank": 54}, {"date": "2012-12-15", "rank": 180}, {"date": "2013-01-05", "rank": 173}, {"date": "2013-01-12", "rank": 187}, {"date": "2013-01-26", "rank": 198}, {"date": "2013-02-02", "rank": 185}, {"date": "2013-02-09", "rank": 167}, {"date": "2013-02-16", "rank": 180}, {"date": "2013-02-23", "rank": 128}, {"date": "2013-03-02", "rank": 70}, {"date": "2013-03-09", "rank": 107}, {"date": "2013-03-16", "rank": 174}, {"date": "2013-11-16", "rank": 84}]}
+{
+  "id": "stronger-kelly-clarkson",
+  "title": "Stronger",
+  "artist": "Kelly Clarkson",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2011-11-12",
+      "rank": 2
+    },
+    {
+      "date": "2011-11-19",
+      "rank": 10
+    },
+    {
+      "date": "2011-11-26",
+      "rank": 19
+    },
+    {
+      "date": "2011-12-03",
+      "rank": 22
+    },
+    {
+      "date": "2011-12-10",
+      "rank": 25
+    },
+    {
+      "date": "2011-12-17",
+      "rank": 35
+    },
+    {
+      "date": "2011-12-24",
+      "rank": 49
+    },
+    {
+      "date": "2011-12-31",
+      "rank": 44
+    },
+    {
+      "date": "2012-01-07",
+      "rank": 39
+    },
+    {
+      "date": "2012-01-14",
+      "rank": 17
+    },
+    {
+      "date": "2012-01-21",
+      "rank": 16
+    },
+    {
+      "date": "2012-01-28",
+      "rank": 14
+    },
+    {
+      "date": "2012-02-04",
+      "rank": 14
+    },
+    {
+      "date": "2012-02-11",
+      "rank": 20
+    },
+    {
+      "date": "2012-02-18",
+      "rank": 13
+    },
+    {
+      "date": "2012-02-25",
+      "rank": 12
+    },
+    {
+      "date": "2012-03-03",
+      "rank": 13
+    },
+    {
+      "date": "2012-03-10",
+      "rank": 15
+    },
+    {
+      "date": "2012-03-17",
+      "rank": 24
+    },
+    {
+      "date": "2012-03-24",
+      "rank": 20
+    },
+    {
+      "date": "2012-03-31",
+      "rank": 16
+    },
+    {
+      "date": "2012-04-07",
+      "rank": 19
+    },
+    {
+      "date": "2012-04-14",
+      "rank": 26
+    },
+    {
+      "date": "2012-04-21",
+      "rank": 12
+    },
+    {
+      "date": "2012-04-28",
+      "rank": 27
+    },
+    {
+      "date": "2012-05-05",
+      "rank": 39
+    },
+    {
+      "date": "2012-05-12",
+      "rank": 42
+    },
+    {
+      "date": "2012-05-19",
+      "rank": 46
+    },
+    {
+      "date": "2012-05-26",
+      "rank": 35
+    },
+    {
+      "date": "2012-06-02",
+      "rank": 51
+    },
+    {
+      "date": "2012-06-09",
+      "rank": 38
+    },
+    {
+      "date": "2012-06-16",
+      "rank": 41
+    },
+    {
+      "date": "2012-06-23",
+      "rank": 50
+    },
+    {
+      "date": "2012-06-30",
+      "rank": 66
+    },
+    {
+      "date": "2012-07-07",
+      "rank": 53
+    },
+    {
+      "date": "2012-07-14",
+      "rank": 58
+    },
+    {
+      "date": "2012-07-21",
+      "rank": 57
+    },
+    {
+      "date": "2012-07-28",
+      "rank": 48
+    },
+    {
+      "date": "2012-08-04",
+      "rank": 57
+    },
+    {
+      "date": "2012-08-11",
+      "rank": 50
+    },
+    {
+      "date": "2012-08-18",
+      "rank": 55
+    },
+    {
+      "date": "2012-08-25",
+      "rank": 63
+    },
+    {
+      "date": "2012-09-01",
+      "rank": 35
+    },
+    {
+      "date": "2012-09-08",
+      "rank": 19
+    },
+    {
+      "date": "2012-09-15",
+      "rank": 74
+    },
+    {
+      "date": "2012-09-22",
+      "rank": 71
+    },
+    {
+      "date": "2012-09-29",
+      "rank": 89
+    },
+    {
+      "date": "2012-10-06",
+      "rank": 104
+    },
+    {
+      "date": "2012-10-13",
+      "rank": 124
+    },
+    {
+      "date": "2012-10-20",
+      "rank": 140
+    },
+    {
+      "date": "2012-10-27",
+      "rank": 153
+    },
+    {
+      "date": "2012-11-03",
+      "rank": 145
+    },
+    {
+      "date": "2012-11-10",
+      "rank": 160
+    },
+    {
+      "date": "2012-11-17",
+      "rank": 152
+    },
+    {
+      "date": "2012-11-24",
+      "rank": 177
+    },
+    {
+      "date": "2012-12-08",
+      "rank": 54
+    },
+    {
+      "date": "2012-12-15",
+      "rank": 180
+    },
+    {
+      "date": "2013-01-05",
+      "rank": 173
+    },
+    {
+      "date": "2013-01-12",
+      "rank": 187
+    },
+    {
+      "date": "2013-01-26",
+      "rank": 198
+    },
+    {
+      "date": "2013-02-02",
+      "rank": 185
+    },
+    {
+      "date": "2013-02-09",
+      "rank": 167
+    },
+    {
+      "date": "2013-02-16",
+      "rank": 180
+    },
+    {
+      "date": "2013-02-23",
+      "rank": 128
+    },
+    {
+      "date": "2013-03-02",
+      "rank": 70
+    },
+    {
+      "date": "2013-03-09",
+      "rank": 107
+    },
+    {
+      "date": "2013-03-16",
+      "rank": 174
+    },
+    {
+      "date": "2013-11-16",
+      "rank": 84
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mr. Know It All",
+      "id": "mr-know-it-all-kelly-clarkson"
+    },
+    {
+      "title": "Stronger (What Doesn’t Kill You)",
+      "id": "stronger-what-doesn-t-kill-you-kelly-clarkson"
+    },
+    {
+      "title": "Dark Side",
+      "id": "dark-side-kelly-clarkson"
+    },
+    {
+      "title": "I Forgive You",
+      "id": "i-dare-you-kelly-clarkson"
+    },
+    {
+      "title": "Don’t You Wanna Stay",
+      "id": "don-t-you-wanna-stay-jason-aldean-with-kelly-clarkson"
+    },
+    {
+      "title": "Honestly",
+      "id": null
+    },
+    {
+      "title": "You Love Me",
+      "id": null
+    },
+    {
+      "title": "Einstein",
+      "id": null
+    },
+    {
+      "title": "Standing in Front of You",
+      "id": null
+    },
+    {
+      "title": "Hello",
+      "id": null
+    },
+    {
+      "title": "The War Is Over",
+      "id": null
+    },
+    {
+      "title": "Let Me Down",
+      "id": null
+    },
+    {
+      "title": "You Can’t Win",
+      "id": null
+    },
+    {
+      "title": "Breaking Your Own Heart",
+      "id": null
+    },
+    {
+      "title": "Alone",
+      "id": null
+    },
+    {
+      "title": "Don’t Be a Girl About It",
+      "id": null
+    },
+    {
+      "title": "The Sun Will Rise",
+      "id": null
+    },
+    {
+      "title": "Why Don’t You Try",
+      "id": null
+    }
+  ]
+}
