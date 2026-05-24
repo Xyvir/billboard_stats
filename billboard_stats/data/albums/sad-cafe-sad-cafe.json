@@ -1,1 +1,70 @@
-{"id": "sad-cafe-sad-cafe", "title": "Sad Cafe", "artist": "Sad Cafe", "peak": 160, "history": [{"date": "1981-08-15", "rank": 190}, {"date": "1981-08-22", "rank": 180}, {"date": "1981-08-29", "rank": 170}, {"date": "1981-09-05", "rank": 160}, {"date": "1981-09-12", "rank": 160}, {"date": "1981-09-19", "rank": 180}]}
+{
+  "id": "sad-cafe-sad-cafe",
+  "title": "Sad Cafe",
+  "artist": "Sad Cafe",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1981-08-15",
+      "rank": 190
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 180
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 170
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 160
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 160
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "La-Di-Da",
+      "id": "la-di-da-sad-cafe"
+    },
+    {
+      "title": "Digital Daydream Blues",
+      "id": null
+    },
+    {
+      "title": "What Am I Gonna Do",
+      "id": null
+    },
+    {
+      "title": "Keeping It From the Troops",
+      "id": null
+    },
+    {
+      "title": "I’m in Love Again",
+      "id": null
+    },
+    {
+      "title": "Losin’ You",
+      "id": null
+    },
+    {
+      "title": "Dreaming",
+      "id": null
+    },
+    {
+      "title": "No Favours No Way",
+      "id": null
+    },
+    {
+      "title": "Love Today",
+      "id": null
+    }
+  ]
+}
