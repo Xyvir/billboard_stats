@@ -1,1 +1,62 @@
-{"id": "paul-davis-paul-davis", "title": "Paul Davis", "artist": "Paul Davis", "peak": 173, "history": [{"date": "1980-04-26", "rank": 188}, {"date": "1980-05-03", "rank": 185}, {"date": "1980-05-10", "rank": 173}, {"date": "1980-05-17", "rank": 173}]}
+{
+  "id": "paul-davis-paul-davis",
+  "title": "Paul Davis",
+  "artist": "Paul Davis",
+  "peak": 173,
+  "history": [
+    {
+      "date": "1980-04-26",
+      "rank": 188
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 185
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 173
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Do Right",
+      "id": "do-right-paul-davis"
+    },
+    {
+      "title": "Cry Just a Little",
+      "id": "cry-just-a-little-paul-davis"
+    },
+    {
+      "title": "He Sang Our Love Songs",
+      "id": null
+    },
+    {
+      "title": "All the Way",
+      "id": null
+    },
+    {
+      "title": "Too Slow to Disco",
+      "id": null
+    },
+    {
+      "title": "Let Me Know If It’s Over",
+      "id": null
+    },
+    {
+      "title": "Do You Believe in Love",
+      "id": null
+    },
+    {
+      "title": "So True",
+      "id": null
+    },
+    {
+      "title": "When Everything Else Is Gone",
+      "id": null
+    }
+  ]
+}

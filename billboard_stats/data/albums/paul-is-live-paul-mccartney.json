@@ -1,1 +1,122 @@
-{"id": "paul-is-live-paul-mccartney", "title": "Paul Is Live", "artist": "Paul McCartney", "peak": 78, "history": [{"date": "1993-12-04", "rank": 78}, {"date": "1993-12-11", "rank": 147}, {"date": "1993-12-18", "rank": 151}, {"date": "1993-12-25", "rank": 200}]}
+{
+  "id": "paul-is-live-paul-mccartney",
+  "title": "Paul Is Live",
+  "artist": "Paul McCartney",
+  "peak": 78,
+  "history": [
+    {
+      "date": "1993-12-04",
+      "rank": 78
+    },
+    {
+      "date": "1993-12-11",
+      "rank": 147
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 151
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Good Rocking Tonight",
+      "id": "dance-tonight-paul-mccartney"
+    },
+    {
+      "title": "Hope of Deliverance",
+      "id": "hope-of-deliverance-paul-mccartney"
+    },
+    {
+      "title": "Drive My Car",
+      "id": null
+    },
+    {
+      "title": "Let Me Roll It",
+      "id": null
+    },
+    {
+      "title": "Looking for Changes",
+      "id": null
+    },
+    {
+      "title": "Peace in the Neighbourhood",
+      "id": null
+    },
+    {
+      "title": "All My Loving",
+      "id": null
+    },
+    {
+      "title": "Robbie’s Bit (Thanks Chet)",
+      "id": null
+    },
+    {
+      "title": "We Can Work It Out",
+      "id": null
+    },
+    {
+      "title": "Michelle",
+      "id": null
+    },
+    {
+      "title": "Biker Like an Icon",
+      "id": null
+    },
+    {
+      "title": "Here, There and Everywhere",
+      "id": null
+    },
+    {
+      "title": "My Love",
+      "id": null
+    },
+    {
+      "title": "Magical Mystery Tour",
+      "id": null
+    },
+    {
+      "title": "C’mon People",
+      "id": null
+    },
+    {
+      "title": "Lady Madonna",
+      "id": null
+    },
+    {
+      "title": "Paperback Writer",
+      "id": null
+    },
+    {
+      "title": "Penny Lane",
+      "id": null
+    },
+    {
+      "title": "Live and Let Die",
+      "id": null
+    },
+    {
+      "title": "Kansas City",
+      "id": null
+    },
+    {
+      "title": "Welcome to Soundcheck",
+      "id": null
+    },
+    {
+      "title": "Hotel in Benidorm",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be Your Man",
+      "id": null
+    },
+    {
+      "title": "A Fine Day",
+      "id": null
+    }
+  ]
+}

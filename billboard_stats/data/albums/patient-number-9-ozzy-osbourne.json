@@ -1,1 +1,78 @@
-{"id": "patient-number-9-ozzy-osbourne", "title": "Patient Number 9", "artist": "Ozzy Osbourne", "peak": 3, "history": [{"date": "2022-09-24", "rank": 3}, {"date": "2022-10-01", "rank": 35}, {"date": "2022-10-08", "rank": 124}, {"date": "2022-10-15", "rank": 197}]}
+{
+  "id": "patient-number-9-ozzy-osbourne",
+  "title": "Patient Number 9",
+  "artist": "Ozzy Osbourne",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2022-09-24",
+      "rank": 3
+    },
+    {
+      "date": "2022-10-01",
+      "rank": 35
+    },
+    {
+      "date": "2022-10-08",
+      "rank": 124
+    },
+    {
+      "date": "2022-10-15",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Patient Number 9",
+      "id": null
+    },
+    {
+      "title": "Immortal",
+      "id": null
+    },
+    {
+      "title": "Parasite",
+      "id": null
+    },
+    {
+      "title": "No Escape From Now",
+      "id": null
+    },
+    {
+      "title": "One of Those Days",
+      "id": null
+    },
+    {
+      "title": "A Thousand Shades",
+      "id": null
+    },
+    {
+      "title": "Mr. Darkness",
+      "id": null
+    },
+    {
+      "title": "Nothing Feels Right",
+      "id": null
+    },
+    {
+      "title": "Evil Shuffle",
+      "id": null
+    },
+    {
+      "title": "Degradation Rules",
+      "id": null
+    },
+    {
+      "title": "Dead and Gone",
+      "id": null
+    },
+    {
+      "title": "God Only Knows",
+      "id": null
+    },
+    {
+      "title": "Darkside Blues",
+      "id": null
+    }
+  ]
+}

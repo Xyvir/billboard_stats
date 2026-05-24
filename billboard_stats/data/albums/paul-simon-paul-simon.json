@@ -1,1 +1,142 @@
-{"id": "paul-simon-paul-simon", "title": "Paul Simon", "artist": "Paul Simon", "peak": 15, "history": [{"date": "1972-05-20", "rank": 15}, {"date": "1972-05-27", "rank": 17}, {"date": "1972-06-03", "rank": 22}, {"date": "1972-06-10", "rank": 26}, {"date": "1972-06-17", "rank": 37}, {"date": "1972-06-24", "rank": 41}, {"date": "1972-07-01", "rank": 57}, {"date": "1972-07-08", "rank": 73}, {"date": "1972-07-15", "rank": 80}, {"date": "1972-07-22", "rank": 88}, {"date": "1972-07-29", "rank": 88}, {"date": "1972-08-05", "rank": 95}, {"date": "1972-08-12", "rank": 95}, {"date": "1972-08-19", "rank": 100}, {"date": "1972-08-26", "rank": 111}, {"date": "1972-09-02", "rank": 115}, {"date": "1972-09-09", "rank": 117}, {"date": "1972-09-16", "rank": 117}, {"date": "1972-09-23", "rank": 129}, {"date": "1972-09-30", "rank": 147}, {"date": "1972-10-07", "rank": 155}, {"date": "1972-10-14", "rank": 173}]}
+{
+  "id": "paul-simon-paul-simon",
+  "title": "Paul Simon",
+  "artist": "Paul Simon",
+  "peak": 15,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 15
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 17
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 22
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 26
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 37
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 41
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 57
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 73
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 80
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 88
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 88
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 95
+    },
+    {
+      "date": "1972-08-12",
+      "rank": 95
+    },
+    {
+      "date": "1972-08-19",
+      "rank": 100
+    },
+    {
+      "date": "1972-08-26",
+      "rank": 111
+    },
+    {
+      "date": "1972-09-02",
+      "rank": 115
+    },
+    {
+      "date": "1972-09-09",
+      "rank": 117
+    },
+    {
+      "date": "1972-09-16",
+      "rank": 117
+    },
+    {
+      "date": "1972-09-23",
+      "rank": 129
+    },
+    {
+      "date": "1972-09-30",
+      "rank": 147
+    },
+    {
+      "date": "1972-10-07",
+      "rank": 155
+    },
+    {
+      "date": "1972-10-14",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mother and Child Reunion",
+      "id": "mother-and-child-reunion-paul-simon"
+    },
+    {
+      "title": "Duncan",
+      "id": "duncan-paul-simon"
+    },
+    {
+      "title": "Me and Julio Down by the Schoolyard",
+      "id": "me-and-julio-down-by-the-schoolyard-paul-simon"
+    },
+    {
+      "title": "Everything Put Together Falls Apart",
+      "id": null
+    },
+    {
+      "title": "Run That Body Down",
+      "id": null
+    },
+    {
+      "title": "Armistice Day",
+      "id": null
+    },
+    {
+      "title": "Peace Like a River",
+      "id": null
+    },
+    {
+      "title": "Papa Hobo",
+      "id": null
+    },
+    {
+      "title": "Hobo’s Blues",
+      "id": null
+    },
+    {
+      "title": "Paranoia Blues",
+      "id": null
+    },
+    {
+      "title": "Congratulations",
+      "id": null
+    }
+  ]
+}
