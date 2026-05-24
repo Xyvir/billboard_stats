@@ -1,1 +1,78 @@
-{"id": "mtv-unplugged-florence-the-machine", "title": "MTV Unplugged", "artist": "Florence + The Machine", "peak": 51, "history": [{"date": "2012-04-28", "rank": 51}, {"date": "2012-05-05", "rank": 118}, {"date": "2012-05-12", "rank": 184}]}
+{
+  "id": "mtv-unplugged-florence-the-machine",
+  "title": "MTV Unplugged",
+  "artist": "Florence + The Machine",
+  "peak": 51,
+  "history": [
+    {
+      "date": "2012-04-28",
+      "rank": 51
+    },
+    {
+      "date": "2012-05-05",
+      "rank": 118
+    },
+    {
+      "date": "2012-05-12",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What the Water Gave Me",
+      "id": "what-the-water-gave-me-florence-the-machine"
+    },
+    {
+      "title": "Dog Days Are Over",
+      "id": "dog-days-are-over-florence-the-machine"
+    },
+    {
+      "title": "Shake It Out",
+      "id": "shake-it-out-florence-the-machine"
+    },
+    {
+      "title": "Shake It Out (acoustic)",
+      "id": "shake-it-out-florence-the-machine"
+    },
+    {
+      "title": "Only If for a Night",
+      "id": null
+    },
+    {
+      "title": "Drumming Song",
+      "id": null
+    },
+    {
+      "title": "Cosmic Love",
+      "id": null
+    },
+    {
+      "title": "Breaking Down",
+      "id": null
+    },
+    {
+      "title": "Never Let Me Go",
+      "id": null
+    },
+    {
+      "title": "Try a Little Tenderness",
+      "id": null
+    },
+    {
+      "title": "No Light, No Light",
+      "id": null
+    },
+    {
+      "title": "Jackson",
+      "id": null
+    },
+    {
+      "title": "Landscape (demo)",
+      "id": null
+    },
+    {
+      "title": "Heartlines (acoustic)",
+      "id": null
+    }
+  ]
+}

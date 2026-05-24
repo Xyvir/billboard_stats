@@ -1,1 +1,246 @@
-{"id": "mtv-unplugged-10-000-maniacs", "title": "MTV Unplugged", "artist": "10,000 Maniacs", "peak": 13, "history": [{"date": "1993-11-13", "rank": 13}, {"date": "1993-11-20", "rank": 14}, {"date": "1993-11-27", "rank": 16}, {"date": "1993-12-04", "rank": 17}, {"date": "1993-12-11", "rank": 19}, {"date": "1993-12-18", "rank": 22}, {"date": "1993-12-25", "rank": 22}, {"date": "1994-01-01", "rank": 18}, {"date": "1994-01-08", "rank": 14}, {"date": "1994-01-15", "rank": 16}, {"date": "1994-01-22", "rank": 15}, {"date": "1994-01-29", "rank": 13}, {"date": "1994-02-05", "rank": 19}, {"date": "1994-02-12", "rank": 23}, {"date": "1994-02-19", "rank": 25}, {"date": "1994-02-26", "rank": 30}, {"date": "1994-03-05", "rank": 30}, {"date": "1994-03-12", "rank": 28}, {"date": "1994-03-19", "rank": 42}, {"date": "1994-03-26", "rank": 48}, {"date": "1994-04-02", "rank": 49}, {"date": "1994-04-09", "rank": 60}, {"date": "1994-04-16", "rank": 63}, {"date": "1994-04-23", "rank": 75}, {"date": "1994-04-30", "rank": 81}, {"date": "1994-05-07", "rank": 77}, {"date": "1994-05-14", "rank": 83}, {"date": "1994-05-21", "rank": 98}, {"date": "1994-05-28", "rank": 115}, {"date": "1994-06-04", "rank": 117}, {"date": "1994-06-11", "rank": 124}, {"date": "1994-06-18", "rank": 131}, {"date": "1994-06-25", "rank": 142}, {"date": "1994-07-02", "rank": 159}, {"date": "1994-07-09", "rank": 152}, {"date": "1994-07-16", "rank": 157}, {"date": "1994-07-23", "rank": 156}, {"date": "1994-07-30", "rank": 161}, {"date": "1994-08-06", "rank": 166}, {"date": "1994-08-13", "rank": 164}, {"date": "1994-08-20", "rank": 175}, {"date": "1994-08-27", "rank": 175}, {"date": "1994-09-03", "rank": 173}, {"date": "1994-09-10", "rank": 186}, {"date": "1994-09-17", "rank": 199}]}
+{
+  "id": "mtv-unplugged-10-000-maniacs",
+  "title": "MTV Unplugged",
+  "artist": "10,000 Maniacs",
+  "peak": 13,
+  "history": [
+    {
+      "date": "1993-11-13",
+      "rank": 13
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 14
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 16
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 17
+    },
+    {
+      "date": "1993-12-11",
+      "rank": 19
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 22
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 22
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 18
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 14
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 16
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 15
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 13
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 19
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 23
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 25
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 30
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 30
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 28
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 42
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 48
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 49
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 60
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 63
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 75
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 81
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 77
+    },
+    {
+      "date": "1994-05-14",
+      "rank": 83
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 98
+    },
+    {
+      "date": "1994-05-28",
+      "rank": 115
+    },
+    {
+      "date": "1994-06-04",
+      "rank": 117
+    },
+    {
+      "date": "1994-06-11",
+      "rank": 124
+    },
+    {
+      "date": "1994-06-18",
+      "rank": 131
+    },
+    {
+      "date": "1994-06-25",
+      "rank": 142
+    },
+    {
+      "date": "1994-07-02",
+      "rank": 159
+    },
+    {
+      "date": "1994-07-09",
+      "rank": 152
+    },
+    {
+      "date": "1994-07-16",
+      "rank": 157
+    },
+    {
+      "date": "1994-07-23",
+      "rank": 156
+    },
+    {
+      "date": "1994-07-30",
+      "rank": 161
+    },
+    {
+      "date": "1994-08-06",
+      "rank": 166
+    },
+    {
+      "date": "1994-08-13",
+      "rank": 164
+    },
+    {
+      "date": "1994-08-20",
+      "rank": 175
+    },
+    {
+      "date": "1994-08-27",
+      "rank": 175
+    },
+    {
+      "date": "1994-09-03",
+      "rank": 173
+    },
+    {
+      "date": "1994-09-10",
+      "rank": 186
+    },
+    {
+      "date": "1994-09-17",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "These Are Days",
+      "id": "these-are-days-10-000-maniacs"
+    },
+    {
+      "title": "Candy Everybody Wants",
+      "id": "candy-everybody-wants-10-000-maniacs"
+    },
+    {
+      "title": "What’s the Matter Here?",
+      "id": "what-s-the-matter-here-10-000-maniacs"
+    },
+    {
+      "title": "Like the Weather",
+      "id": "like-the-weather-10-000-maniacs"
+    },
+    {
+      "title": "Trouble Me",
+      "id": "trouble-me-10-000-maniacs"
+    },
+    {
+      "title": "Because the Night",
+      "id": "because-the-night-10-000-maniacs"
+    },
+    {
+      "title": "Eat for Two",
+      "id": null
+    },
+    {
+      "title": "I’m Not the Man",
+      "id": null
+    },
+    {
+      "title": "Don’t Talk",
+      "id": null
+    },
+    {
+      "title": "Hey Jack Kerouac",
+      "id": null
+    },
+    {
+      "title": "Gold Rush Brides",
+      "id": null
+    },
+    {
+      "title": "Jezebel",
+      "id": null
+    },
+    {
+      "title": "Stockton Gala Days",
+      "id": null
+    },
+    {
+      "title": "Noah’s Dove",
+      "id": null
+    }
+  ]
+}

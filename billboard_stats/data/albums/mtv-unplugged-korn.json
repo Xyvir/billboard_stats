@@ -1,1 +1,82 @@
-{"id": "mtv-unplugged-korn", "title": "MTV Unplugged", "artist": "Korn", "peak": 9, "history": [{"date": "2007-03-24", "rank": 9}, {"date": "2007-03-31", "rank": 25}, {"date": "2007-04-07", "rank": 50}, {"date": "2007-04-14", "rank": 89}, {"date": "2007-04-21", "rank": 118}, {"date": "2007-04-28", "rank": 146}, {"date": "2007-05-05", "rank": 185}]}
+{
+  "id": "mtv-unplugged-korn",
+  "title": "MTV Unplugged",
+  "artist": "Korn",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2007-03-24",
+      "rank": 9
+    },
+    {
+      "date": "2007-03-31",
+      "rank": 25
+    },
+    {
+      "date": "2007-04-07",
+      "rank": 50
+    },
+    {
+      "date": "2007-04-14",
+      "rank": 89
+    },
+    {
+      "date": "2007-04-21",
+      "rank": 118
+    },
+    {
+      "date": "2007-04-28",
+      "rank": 146
+    },
+    {
+      "date": "2007-05-05",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Twisted Transistor",
+      "id": "twisted-transistor-korn"
+    },
+    {
+      "title": "Coming Undone",
+      "id": "coming-undone-korn"
+    },
+    {
+      "title": "Blind",
+      "id": null
+    },
+    {
+      "title": "Hollow Life",
+      "id": null
+    },
+    {
+      "title": "Freak on a Leash",
+      "id": null
+    },
+    {
+      "title": "Falling Away From Me",
+      "id": null
+    },
+    {
+      "title": "Creep",
+      "id": null
+    },
+    {
+      "title": "Love Song",
+      "id": null
+    },
+    {
+      "title": "Got the Life",
+      "id": null
+    },
+    {
+      "title": "Make Me Bad / In Between Days",
+      "id": null
+    },
+    {
+      "title": "Throw Me Away",
+      "id": null
+    }
+  ]
+}

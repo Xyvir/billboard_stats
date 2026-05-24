@@ -1,1 +1,42 @@
-{"id": "mtv-unplugged-all-time-low", "title": "MTV Unplugged", "artist": "All Time Low", "peak": 92, "history": [{"date": "2010-01-30", "rank": 92}]}
+{
+  "id": "mtv-unplugged-all-time-low",
+  "title": "MTV Unplugged",
+  "artist": "All Time Low",
+  "peak": 92,
+  "history": [
+    {
+      "date": "2010-01-30",
+      "rank": 92
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Damned If I Do Ya (Damned If I Don’t)",
+      "id": "damned-if-i-do-ya-damned-if-i-don-t-all-time-low"
+    },
+    {
+      "title": "Damned If I Do Ya (Damned If I Don't)",
+      "id": "damned-if-i-do-ya-damned-if-i-don-t-all-time-low"
+    },
+    {
+      "title": "Coffee Shop Soundtrack",
+      "id": null
+    },
+    {
+      "title": "Remembering Sunday",
+      "id": null
+    },
+    {
+      "title": "Jasey Rae",
+      "id": null
+    },
+    {
+      "title": "Weightless",
+      "id": null
+    },
+    {
+      "title": "Dear Maria, Count Me In",
+      "id": null
+    }
+  ]
+}

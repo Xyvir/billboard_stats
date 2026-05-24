@@ -1,1 +1,70 @@
-{"id": "mt-zion-josiah-queen", "title": "Mt. Zion", "artist": "Josiah Queen", "peak": 57, "history": [{"date": "2025-09-06", "rank": 57}, {"date": "2025-09-13", "rank": 196}, {"date": "2025-09-27", "rank": 173}]}
+{
+  "id": "mt-zion-josiah-queen",
+  "title": "Mt. Zion",
+  "artist": "Josiah Queen",
+  "peak": 57,
+  "history": [
+    {
+      "date": "2025-09-06",
+      "rank": 57
+    },
+    {
+      "date": "2025-09-13",
+      "rank": 196
+    },
+    {
+      "date": "2025-09-27",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dusty Bibles",
+      "id": "dusty-bibles-josiah-queen"
+    },
+    {
+      "title": "Yesterday Is Dead",
+      "id": null
+    },
+    {
+      "title": "Watch Your Mouth",
+      "id": null
+    },
+    {
+      "title": "Can’t Steal My Joy",
+      "id": null
+    },
+    {
+      "title": "Two Wooden Beams",
+      "id": null
+    },
+    {
+      "title": "Mt. Zion",
+      "id": null
+    },
+    {
+      "title": "Cloud and Fire",
+      "id": null
+    },
+    {
+      "title": "Slow Down, Please",
+      "id": null
+    },
+    {
+      "title": "I’ll Fly Away",
+      "id": null
+    },
+    {
+      "title": "The Meaning of Life",
+      "id": null
+    },
+    {
+      "title": "Thief in the Night",
+      "id": null
+    },
+    {
+      "title": "Adonai (Lord of My Life)",
+      "id": null
+    }
+  ]
+}

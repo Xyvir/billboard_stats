@@ -1,1 +1,42 @@
-{"id": "mtv-unplugged-twenty-one-pilots", "title": "MTV Unplugged", "artist": "Twenty One Pilots", "peak": 148, "history": [{"date": "2023-05-06", "rank": 148}]}
+{
+  "id": "mtv-unplugged-twenty-one-pilots",
+  "title": "MTV Unplugged",
+  "artist": "Twenty One Pilots",
+  "peak": 148,
+  "history": [
+    {
+      "date": "2023-05-06",
+      "rank": 148
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stressed Out",
+      "id": "stressed-out-twenty-one-pilots"
+    },
+    {
+      "title": "Tear in My Heart",
+      "id": "tear-in-my-heart-twenty-one-pilots"
+    },
+    {
+      "title": "Shy Away",
+      "id": "shy-away-twenty-one-pilots"
+    },
+    {
+      "title": "Ride / Nico and the Niners",
+      "id": "nico-and-the-niners-twenty-one-pilots"
+    },
+    {
+      "title": "Car Radio / Heathens",
+      "id": "heathens-twenty-one-pilots"
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "House of Gold / Lane Boy",
+      "id": null
+    }
+  ]
+}
