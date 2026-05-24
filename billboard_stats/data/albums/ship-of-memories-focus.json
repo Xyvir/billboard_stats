@@ -1,1 +1,78 @@
-{"id": "ship-of-memories-focus", "title": "Ship Of Memories", "artist": "Focus", "peak": 163, "history": [{"date": "1977-06-04", "rank": 198}, {"date": "1977-06-11", "rank": 195}, {"date": "1977-06-18", "rank": 195}, {"date": "1977-06-25", "rank": 185}, {"date": "1977-07-02", "rank": 173}, {"date": "1977-07-09", "rank": 165}, {"date": "1977-07-16", "rank": 163}]}
+{
+  "id": "ship-of-memories-focus",
+  "title": "Ship Of Memories",
+  "artist": "Focus",
+  "peak": 163,
+  "history": [
+    {
+      "date": "1977-06-04",
+      "rank": 198
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 195
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 195
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 185
+    },
+    {
+      "date": "1977-07-02",
+      "rank": 173
+    },
+    {
+      "date": "1977-07-09",
+      "rank": 165
+    },
+    {
+      "date": "1977-07-16",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hocus Pocus",
+      "id": "hocus-pocus-focus"
+    },
+    {
+      "title": "P’s March",
+      "id": null
+    },
+    {
+      "title": "Can’t Believe My Eyes",
+      "id": null
+    },
+    {
+      "title": "Focus V",
+      "id": null
+    },
+    {
+      "title": "Out of Vesuvius",
+      "id": null
+    },
+    {
+      "title": "Glider",
+      "id": null
+    },
+    {
+      "title": "Red Sky at Night",
+      "id": null
+    },
+    {
+      "title": "Spoke the Lord Creator",
+      "id": null
+    },
+    {
+      "title": "Crackers",
+      "id": null
+    },
+    {
+      "title": "Ship of Memories",
+      "id": null
+    }
+  ]
+}
