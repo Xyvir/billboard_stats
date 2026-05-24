@@ -1,1 +1,58 @@
-{"id": "the-snake-harvey", "title": "The Snake", "artist": "Harvey", "peak": 198, "history": [{"date": "1972-07-22", "rank": 199}, {"date": "1972-07-29", "rank": 198}, {"date": "1972-08-05", "rank": 198}]}
+{
+  "id": "the-snake-harvey",
+  "title": "The Snake",
+  "artist": "Harvey",
+  "peak": 198,
+  "history": [
+    {
+      "date": "1972-07-22",
+      "rank": 199
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 198
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Divining Rod",
+      "id": null
+    },
+    {
+      "title": "Pegasus",
+      "id": null
+    },
+    {
+      "title": "Lynda Love",
+      "id": null
+    },
+    {
+      "title": "Peruvian Flake",
+      "id": null
+    },
+    {
+      "title": "The Snake",
+      "id": null
+    },
+    {
+      "title": "Uno Ino",
+      "id": null
+    },
+    {
+      "title": "Ode to the Owl",
+      "id": null
+    },
+    {
+      "title": "Levitation",
+      "id": null
+    },
+    {
+      "title": "Bite the Electric Eel",
+      "id": null
+    }
+  ]
+}

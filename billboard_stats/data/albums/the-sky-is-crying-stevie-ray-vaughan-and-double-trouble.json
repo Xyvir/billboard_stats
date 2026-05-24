@@ -1,1 +1,242 @@
-{"id": "the-sky-is-crying-stevie-ray-vaughan-and-double-trouble", "title": "The Sky Is Crying", "artist": "Stevie Ray Vaughan And Double Trouble", "peak": 10, "history": [{"date": "1991-11-23", "rank": 10}, {"date": "1991-11-30", "rank": 14}, {"date": "1991-12-07", "rank": 17}, {"date": "1991-12-14", "rank": 24}, {"date": "1991-12-21", "rank": 29}, {"date": "1991-12-28", "rank": 29}, {"date": "1992-01-04", "rank": 29}, {"date": "1992-01-11", "rank": 25}, {"date": "1992-01-18", "rank": 39}, {"date": "1992-01-25", "rank": 38}, {"date": "1992-02-01", "rank": 39}, {"date": "1992-02-08", "rank": 36}, {"date": "1992-02-15", "rank": 39}, {"date": "1992-02-22", "rank": 41}, {"date": "1992-02-29", "rank": 40}, {"date": "1992-03-07", "rank": 53}, {"date": "1992-03-14", "rank": 58}, {"date": "1992-03-21", "rank": 58}, {"date": "1992-03-28", "rank": 58}, {"date": "1992-04-04", "rank": 58}, {"date": "1992-04-11", "rank": 62}, {"date": "1992-04-18", "rank": 71}, {"date": "1992-04-25", "rank": 70}, {"date": "1992-05-02", "rank": 75}, {"date": "1992-05-09", "rank": 83}, {"date": "1992-05-16", "rank": 83}, {"date": "1992-05-23", "rank": 90}, {"date": "1992-05-30", "rank": 95}, {"date": "1992-06-06", "rank": 100}, {"date": "1992-06-13", "rank": 95}, {"date": "1992-06-20", "rank": 107}, {"date": "1992-06-27", "rank": 113}, {"date": "1992-07-04", "rank": 110}, {"date": "1992-07-11", "rank": 116}, {"date": "1992-07-18", "rank": 140}, {"date": "1992-07-25", "rank": 140}, {"date": "1992-08-01", "rank": 151}, {"date": "1992-08-08", "rank": 148}, {"date": "1992-08-15", "rank": 154}, {"date": "1992-08-22", "rank": 159}, {"date": "1992-08-29", "rank": 164}, {"date": "1992-09-05", "rank": 168}, {"date": "1992-09-12", "rank": 171}, {"date": "1992-09-19", "rank": 181}, {"date": "1992-09-26", "rank": 171}, {"date": "1992-10-03", "rank": 190}, {"date": "1993-03-13", "rank": 189}, {"date": "1993-03-20", "rank": 192}]}
+{
+  "id": "the-sky-is-crying-stevie-ray-vaughan-and-double-trouble",
+  "title": "The Sky Is Crying",
+  "artist": "Stevie Ray Vaughan And Double Trouble",
+  "peak": 10,
+  "history": [
+    {
+      "date": "1991-11-23",
+      "rank": 10
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 14
+    },
+    {
+      "date": "1991-12-07",
+      "rank": 17
+    },
+    {
+      "date": "1991-12-14",
+      "rank": 24
+    },
+    {
+      "date": "1991-12-21",
+      "rank": 29
+    },
+    {
+      "date": "1991-12-28",
+      "rank": 29
+    },
+    {
+      "date": "1992-01-04",
+      "rank": 29
+    },
+    {
+      "date": "1992-01-11",
+      "rank": 25
+    },
+    {
+      "date": "1992-01-18",
+      "rank": 39
+    },
+    {
+      "date": "1992-01-25",
+      "rank": 38
+    },
+    {
+      "date": "1992-02-01",
+      "rank": 39
+    },
+    {
+      "date": "1992-02-08",
+      "rank": 36
+    },
+    {
+      "date": "1992-02-15",
+      "rank": 39
+    },
+    {
+      "date": "1992-02-22",
+      "rank": 41
+    },
+    {
+      "date": "1992-02-29",
+      "rank": 40
+    },
+    {
+      "date": "1992-03-07",
+      "rank": 53
+    },
+    {
+      "date": "1992-03-14",
+      "rank": 58
+    },
+    {
+      "date": "1992-03-21",
+      "rank": 58
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 58
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 58
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 62
+    },
+    {
+      "date": "1992-04-18",
+      "rank": 71
+    },
+    {
+      "date": "1992-04-25",
+      "rank": 70
+    },
+    {
+      "date": "1992-05-02",
+      "rank": 75
+    },
+    {
+      "date": "1992-05-09",
+      "rank": 83
+    },
+    {
+      "date": "1992-05-16",
+      "rank": 83
+    },
+    {
+      "date": "1992-05-23",
+      "rank": 90
+    },
+    {
+      "date": "1992-05-30",
+      "rank": 95
+    },
+    {
+      "date": "1992-06-06",
+      "rank": 100
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 95
+    },
+    {
+      "date": "1992-06-20",
+      "rank": 107
+    },
+    {
+      "date": "1992-06-27",
+      "rank": 113
+    },
+    {
+      "date": "1992-07-04",
+      "rank": 110
+    },
+    {
+      "date": "1992-07-11",
+      "rank": 116
+    },
+    {
+      "date": "1992-07-18",
+      "rank": 140
+    },
+    {
+      "date": "1992-07-25",
+      "rank": 140
+    },
+    {
+      "date": "1992-08-01",
+      "rank": 151
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 148
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 154
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 159
+    },
+    {
+      "date": "1992-08-29",
+      "rank": 164
+    },
+    {
+      "date": "1992-09-05",
+      "rank": 168
+    },
+    {
+      "date": "1992-09-12",
+      "rank": 171
+    },
+    {
+      "date": "1992-09-19",
+      "rank": 181
+    },
+    {
+      "date": "1992-09-26",
+      "rank": 171
+    },
+    {
+      "date": "1992-10-03",
+      "rank": 190
+    },
+    {
+      "date": "1993-03-13",
+      "rank": 189
+    },
+    {
+      "date": "1993-03-20",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Boot Hill",
+      "id": null
+    },
+    {
+      "title": "The Sky Is Crying",
+      "id": null
+    },
+    {
+      "title": "Empty Arms",
+      "id": null
+    },
+    {
+      "title": "Little Wing",
+      "id": null
+    },
+    {
+      "title": "Wham",
+      "id": null
+    },
+    {
+      "title": "May I Have a Talk With You",
+      "id": null
+    },
+    {
+      "title": "Close to You",
+      "id": null
+    },
+    {
+      "title": "Chitlins Con Carne",
+      "id": null
+    },
+    {
+      "title": "So Excited",
+      "id": null
+    },
+    {
+      "title": "Life by the Drop",
+      "id": null
+    }
+  ]
+}
