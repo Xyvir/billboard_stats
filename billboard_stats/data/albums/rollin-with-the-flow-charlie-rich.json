@@ -1,1 +1,62 @@
-{"id": "rollin-with-the-flow-charlie-rich", "title": "Rollin' With The Flow", "artist": "Charlie Rich", "peak": 180, "history": [{"date": "1977-10-29", "rank": 184}, {"date": "1977-11-05", "rank": 180}, {"date": "1977-11-12", "rank": 195}]}
+{
+  "id": "rollin-with-the-flow-charlie-rich",
+  "title": "Rollin' With The Flow",
+  "artist": "Charlie Rich",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1977-10-29",
+      "rank": 184
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 180
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "To Sing a Love Song",
+      "id": "a-very-special-love-song-charlie-rich"
+    },
+    {
+      "title": "Love Survived",
+      "id": "i-love-my-friend-charlie-rich"
+    },
+    {
+      "title": "Rollin’ With the Flow",
+      "id": null
+    },
+    {
+      "title": "Somebody Wrote That Song for Me",
+      "id": null
+    },
+    {
+      "title": "Windsong",
+      "id": null
+    },
+    {
+      "title": "That’s What Love Is",
+      "id": null
+    },
+    {
+      "title": "Night Talk",
+      "id": null
+    },
+    {
+      "title": "Beautiful Woman",
+      "id": null
+    },
+    {
+      "title": "Somewhere in My Lifetime",
+      "id": null
+    },
+    {
+      "title": "That’s the Way a Cowboy Rocks and Rolls",
+      "id": null
+    }
+  ]
+}
