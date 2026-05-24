@@ -1,1 +1,74 @@
-{"id": "the-atlantic-years-roxy-music", "title": "The Atlantic Years", "artist": "Roxy Music", "peak": 183, "history": [{"date": "1984-01-21", "rank": 193}, {"date": "1984-01-28", "rank": 188}, {"date": "1984-02-04", "rank": 186}, {"date": "1984-02-11", "rank": 186}, {"date": "1984-02-18", "rank": 183}, {"date": "1984-02-25", "rank": 183}]}
+{
+  "id": "the-atlantic-years-roxy-music",
+  "title": "The Atlantic Years",
+  "artist": "Roxy Music",
+  "peak": 183,
+  "history": [
+    {
+      "date": "1984-01-21",
+      "rank": 193
+    },
+    {
+      "date": "1984-01-28",
+      "rank": 188
+    },
+    {
+      "date": "1984-02-04",
+      "rank": 186
+    },
+    {
+      "date": "1984-02-11",
+      "rank": 186
+    },
+    {
+      "date": "1984-02-18",
+      "rank": 183
+    },
+    {
+      "date": "1984-02-25",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dance Away",
+      "id": "dance-away-roxy-music"
+    },
+    {
+      "title": "Over You",
+      "id": "over-you-roxy-music"
+    },
+    {
+      "title": "Love Is the Drug",
+      "id": "love-is-the-drug-roxy-music"
+    },
+    {
+      "title": "Angel Eyes",
+      "id": null
+    },
+    {
+      "title": "Oh Yeah",
+      "id": null
+    },
+    {
+      "title": "Ain’t That So",
+      "id": null
+    },
+    {
+      "title": "My Only Love",
+      "id": null
+    },
+    {
+      "title": "In the Midnight Hour",
+      "id": null
+    },
+    {
+      "title": "Still Falls the Rain",
+      "id": null
+    },
+    {
+      "title": "Do the Strand",
+      "id": null
+    }
+  ]
+}

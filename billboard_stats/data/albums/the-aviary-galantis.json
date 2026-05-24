@@ -1,1 +1,62 @@
-{"id": "the-aviary-galantis", "title": "The Aviary", "artist": "Galantis", "peak": 102, "history": [{"date": "2017-10-07", "rank": 102}]}
+{
+  "id": "the-aviary-galantis",
+  "title": "The Aviary",
+  "artist": "Galantis",
+  "peak": 102,
+  "history": [
+    {
+      "date": "2017-10-07",
+      "rank": 102
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No Money",
+      "id": "no-money-galantis"
+    },
+    {
+      "title": "True Feeling",
+      "id": null
+    },
+    {
+      "title": "Hey Alligator",
+      "id": null
+    },
+    {
+      "title": "Girls on Boys",
+      "id": null
+    },
+    {
+      "title": "Salvage (Up All Night)",
+      "id": null
+    },
+    {
+      "title": "Tell Me You Love Me",
+      "id": null
+    },
+    {
+      "title": "Hello",
+      "id": null
+    },
+    {
+      "title": "Hunter",
+      "id": null
+    },
+    {
+      "title": "Written in the Scars",
+      "id": null
+    },
+    {
+      "title": "Call Me Home",
+      "id": null
+    },
+    {
+      "title": "Love on Me",
+      "id": null
+    },
+    {
+      "title": "Pillow Fight",
+      "id": null
+    }
+  ]
+}
