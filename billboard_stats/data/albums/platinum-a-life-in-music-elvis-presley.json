@@ -1,1 +1,422 @@
-{"id": "platinum-a-life-in-music-elvis-presley", "title": "Platinum: A Life In Music", "artist": "Elvis Presley", "peak": 80, "history": [{"date": "1997-08-02", "rank": 80}, {"date": "1997-08-30", "rank": 155}, {"date": "1997-09-06", "rank": 82}]}
+{
+  "id": "platinum-a-life-in-music-elvis-presley",
+  "title": "Platinum: A Life In Music",
+  "artist": "Elvis Presley",
+  "peak": 80,
+  "history": [
+    {
+      "date": "1997-08-02",
+      "rank": 80
+    },
+    {
+      "date": "1997-08-30",
+      "rank": 155
+    },
+    {
+      "date": "1997-09-06",
+      "rank": 82
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Me Tender",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "I Feel So Bad (alternate take 1)",
+      "id": "i-feel-so-bad-elvis-presley"
+    },
+    {
+      "title": "Trying to Get to You",
+      "id": "in-the-ghetto-elvis-presley"
+    },
+    {
+      "title": "If I Can Dream (alternate take 1)",
+      "id": "if-i-can-dream-elvis-presley"
+    },
+    {
+      "title": "In the Ghetto (alternate take 3)",
+      "id": "in-the-ghetto-elvis-presley"
+    },
+    {
+      "title": "Suspicious Minds (alternate take 7)",
+      "id": "suspicious-minds-elvis-presley"
+    },
+    {
+      "title": "The Wonder of You",
+      "id": "the-wonder-of-you-mama-liked-the-roses-elvis-presley"
+    },
+    {
+      "title": "You Don’t Have to Say You Love Me",
+      "id": "you-don-t-have-to-say-you-love-me-patch-it-up-elvis-presley"
+    },
+    {
+      "title": "Burning Love",
+      "id": "burning-love-elvis-presley"
+    },
+    {
+      "title": "Separate Ways",
+      "id": "separate-ways-elvis-presley"
+    },
+    {
+      "title": "An American Trilogy",
+      "id": "an-american-trilogy-elvis-presley"
+    },
+    {
+      "title": "I’ve Got a Thing About You Baby",
+      "id": "i-ve-got-a-thing-about-you-baby-take-good-care-of-her-elvis-presley"
+    },
+    {
+      "title": "Promised Land",
+      "id": "promised-land-elvis-presley"
+    },
+    {
+      "title": "Steamroller Blues",
+      "id": "steamroller-blues-fool-elvis-presley"
+    },
+    {
+      "title": "T‐R‐O‐U‐B‐L‐E",
+      "id": "t-r-o-u-b-l-e-elvis-presley"
+    },
+    {
+      "title": "Danny Boy",
+      "id": "my-boy-elvis-presley"
+    },
+    {
+      "title": "For the Heart",
+      "id": "hurt-for-the-heart-elvis-presley"
+    },
+    {
+      "title": "Way Down",
+      "id": "way-down-elvis-presley"
+    },
+    {
+      "title": "My Way",
+      "id": "my-way-elvis-presley"
+    },
+    {
+      "title": "I’ll Never Stand in Your Way",
+      "id": null
+    },
+    {
+      "title": "That’s All Right (alternate take)",
+      "id": null
+    },
+    {
+      "title": "Blue Moon (alternate take)",
+      "id": null
+    },
+    {
+      "title": "Good Rockin’ Tonight",
+      "id": null
+    },
+    {
+      "title": "Mystery Train",
+      "id": null
+    },
+    {
+      "title": "I Got a Woman (alternate take)",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Hotel (alternate take 6)",
+      "id": null
+    },
+    {
+      "title": "I’m Counting on You (alternate take)",
+      "id": null
+    },
+    {
+      "title": "Shake, Rattle and Roll / Flip, Flop and Fly",
+      "id": null
+    },
+    {
+      "title": "Lawdy Miss Clawdy (alternate)",
+      "id": null
+    },
+    {
+      "title": "I Want You, I Need You, I Love You (alternate)",
+      "id": null
+    },
+    {
+      "title": "Hound Dog",
+      "id": null
+    },
+    {
+      "title": "Don’t Be Cruel",
+      "id": null
+    },
+    {
+      "title": "Rip It Up (alternate take)",
+      "id": null
+    },
+    {
+      "title": "When the Saints Go Marching In",
+      "id": null
+    },
+    {
+      "title": "All Shook Up",
+      "id": null
+    },
+    {
+      "title": "(There’ll Be) Peace in the Valley (for Me) (alternate take)",
+      "id": null
+    },
+    {
+      "title": "Blueberry Hill",
+      "id": null
+    },
+    {
+      "title": "(Let Me Be Your) Teddy Bear",
+      "id": null
+    },
+    {
+      "title": "Jailhouse Rock",
+      "id": null
+    },
+    {
+      "title": "New Orleans",
+      "id": null
+    },
+    {
+      "title": "I Need Your Love Tonight (alternate take)",
+      "id": null
+    },
+    {
+      "title": "A Big Hunk o’ Love (alternate take)",
+      "id": null
+    },
+    {
+      "title": "Bad Nauheim (medley)",
+      "id": null
+    },
+    {
+      "title": "Stuck on You",
+      "id": null
+    },
+    {
+      "title": "Fame and Fortune",
+      "id": null
+    },
+    {
+      "title": "It’s Now or Never",
+      "id": null
+    },
+    {
+      "title": "It Feels So Right (alternate take 3)",
+      "id": null
+    },
+    {
+      "title": "A Mess of Blues (alternate take 1)",
+      "id": null
+    },
+    {
+      "title": "Are You Lonesome Tonight?",
+      "id": null
+    },
+    {
+      "title": "Reconsider Baby",
+      "id": null
+    },
+    {
+      "title": "Tonight Is So Right for Love (alternate take 3)",
+      "id": null
+    },
+    {
+      "title": "His Hand in Mine (alternate take 1)",
+      "id": null
+    },
+    {
+      "title": "Milky White Way (alternate take 3)",
+      "id": null
+    },
+    {
+      "title": "I’m Comin’ Home (alternate take 3)",
+      "id": null
+    },
+    {
+      "title": "Can’t Help Falling in Love",
+      "id": null
+    },
+    {
+      "title": "Something Blue (alternate take 2)",
+      "id": null
+    },
+    {
+      "title": "Return to Sender",
+      "id": null
+    },
+    {
+      "title": "Bossa Nova Baby (alternate take 2)",
+      "id": null
+    },
+    {
+      "title": "How Great Thou Art (alternate take 2)",
+      "id": null
+    },
+    {
+      "title": "Guitar Man (alternate take 2)",
+      "id": null
+    },
+    {
+      "title": "You’ll Never Walk Alone (alternate take 2)",
+      "id": null
+    },
+    {
+      "title": "Oh How I Love Jesus (home recording)",
+      "id": null
+    },
+    {
+      "title": "Tennessee Waltz (home recording)",
+      "id": null
+    },
+    {
+      "title": "Blowin’ in the Wind (home recording)",
+      "id": null
+    },
+    {
+      "title": "I Can’t Help It (home recording)",
+      "id": null
+    },
+    {
+      "title": "I’m Beginning to Forget You (home recording)",
+      "id": null
+    },
+    {
+      "title": "After Loving You (home recording)",
+      "id": null
+    },
+    {
+      "title": "I Got a Woman (rehearsal, 1968-06)",
+      "id": null
+    },
+    {
+      "title": "Tiger Man (rehearsal, 1968-06)",
+      "id": null
+    },
+    {
+      "title": "When My Blue Moon Turns to Gold Again (rehearsal, 1968-06-27)",
+      "id": null
+    },
+    {
+      "title": "Power of My Love (alternate take 3)",
+      "id": null
+    },
+    {
+      "title": "Baby What You Want Me to Do",
+      "id": null
+    },
+    {
+      "title": "Words",
+      "id": null
+    },
+    {
+      "title": "Johnny B. Goode",
+      "id": null
+    },
+    {
+      "title": "Release Me",
+      "id": null
+    },
+    {
+      "title": "See See Rider",
+      "id": null
+    },
+    {
+      "title": "The Sound of Your Cry",
+      "id": null
+    },
+    {
+      "title": "Funny How Time Slips Away",
+      "id": null
+    },
+    {
+      "title": "I Washed My Hands in Muddy Water",
+      "id": null
+    },
+    {
+      "title": "I Was the One",
+      "id": null
+    },
+    {
+      "title": "Cattle Call",
+      "id": null
+    },
+    {
+      "title": "Baby, Let’s Play House",
+      "id": null
+    },
+    {
+      "title": "Don’t",
+      "id": null
+    },
+    {
+      "title": "Money Honey",
+      "id": null
+    },
+    {
+      "title": "What’d I Say",
+      "id": null
+    },
+    {
+      "title": "Bridge Over Troubled Water",
+      "id": null
+    },
+    {
+      "title": "Miracle of the Rosary",
+      "id": null
+    },
+    {
+      "title": "He Touched Me",
+      "id": null
+    },
+    {
+      "title": "Bosom of Abraham",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Home on Christmas Day",
+      "id": null
+    },
+    {
+      "title": "For the Good Times",
+      "id": null
+    },
+    {
+      "title": "Always on My Mind",
+      "id": null
+    },
+    {
+      "title": "Take Good Care of Her",
+      "id": null
+    },
+    {
+      "title": "Are You Sincere",
+      "id": null
+    },
+    {
+      "title": "It’s Midnight",
+      "id": null
+    },
+    {
+      "title": "And I Love You So",
+      "id": null
+    },
+    {
+      "title": "Moody Blue",
+      "id": null
+    },
+    {
+      "title": "Hurt",
+      "id": null
+    },
+    {
+      "title": "Pledging My Love",
+      "id": null
+    },
+    {
+      "title": "(excerpt from) The Jaycees Speech",
+      "id": null
+    }
+  ]
+}
