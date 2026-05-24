@@ -1,1 +1,38 @@
-{"id": "prince-of-darkness-ozzy-osbourne", "title": "Prince Of Darkness", "artist": "Ozzy Osbourne", "peak": 36, "history": [{"date": "2005-04-09", "rank": 36}, {"date": "2005-04-16", "rank": 111}, {"date": "2005-04-23", "rank": 159}]}
+{
+  "id": "prince-of-darkness-ozzy-osbourne",
+  "title": "Prince Of Darkness",
+  "artist": "Ozzy Osbourne",
+  "peak": 36,
+  "history": [
+    {
+      "date": "2005-04-09",
+      "rank": 36
+    },
+    {
+      "date": "2005-04-16",
+      "rank": 111
+    },
+    {
+      "date": "2005-04-23",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Lookin’ at Me Lookin’ at You",
+      "id": null
+    },
+    {
+      "title": "One Up the “B” Side",
+      "id": null
+    },
+    {
+      "title": "Slow Down",
+      "id": null
+    },
+    {
+      "title": "Bark at the Moon",
+      "id": null
+    }
+  ]
+}

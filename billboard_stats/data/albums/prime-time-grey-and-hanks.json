@@ -1,1 +1,58 @@
-{"id": "prime-time-grey-and-hanks", "title": "Prime Time", "artist": "Grey And Hanks", "peak": 195, "history": [{"date": "1980-02-23", "rank": 195}, {"date": "1980-03-01", "rank": 200}, {"date": "1980-03-08", "rank": 200}]}
+{
+  "id": "prime-time-grey-and-hanks",
+  "title": "Prime Time",
+  "artist": "Grey And Hanks",
+  "peak": 195,
+  "history": [
+    {
+      "date": "1980-02-23",
+      "rank": 195
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 200
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Now I'm Fine",
+      "id": null
+    },
+    {
+      "title": "We Need More",
+      "id": null
+    },
+    {
+      "title": "Single Girls",
+      "id": null
+    },
+    {
+      "title": "Prime Time",
+      "id": null
+    },
+    {
+      "title": "Tired of Taking Chances",
+      "id": null
+    },
+    {
+      "title": "I'm Calling on You",
+      "id": null
+    },
+    {
+      "title": "Since I Found You(Lucky Davis)",
+      "id": null
+    },
+    {
+      "title": "Love's in Command",
+      "id": null
+    },
+    {
+      "title": "For the People",
+      "id": null
+    }
+  ]
+}
