@@ -1,1 +1,238 @@
-{"id": "ready-for-the-world-ready-for-the-world", "title": "Ready For the World", "artist": "Ready For The World", "peak": 17, "history": [{"date": "1985-06-22", "rank": 131}, {"date": "1985-06-29", "rank": 120}, {"date": "1985-07-06", "rank": 117}, {"date": "1985-07-13", "rank": 114}, {"date": "1985-07-20", "rank": 111}, {"date": "1985-07-27", "rank": 111}, {"date": "1985-08-03", "rank": 100}, {"date": "1985-08-10", "rank": 70}, {"date": "1985-08-17", "rank": 61}, {"date": "1985-08-24", "rank": 48}, {"date": "1985-08-31", "rank": 40}, {"date": "1985-09-07", "rank": 38}, {"date": "1985-09-14", "rank": 35}, {"date": "1985-09-21", "rank": 32}, {"date": "1985-09-28", "rank": 32}, {"date": "1985-10-05", "rank": 27}, {"date": "1985-10-12", "rank": 17}, {"date": "1985-10-19", "rank": 17}, {"date": "1985-10-26", "rank": 17}, {"date": "1985-11-02", "rank": 17}, {"date": "1985-11-09", "rank": 17}, {"date": "1985-11-16", "rank": 18}, {"date": "1985-11-23", "rank": 20}, {"date": "1985-11-30", "rank": 25}, {"date": "1985-12-07", "rank": 28}, {"date": "1985-12-14", "rank": 32}, {"date": "1985-12-21", "rank": 28}, {"date": "1985-12-28", "rank": 31}, {"date": "1986-01-04", "rank": 31}, {"date": "1986-01-11", "rank": 31}, {"date": "1986-01-18", "rank": 37}, {"date": "1986-01-25", "rank": 31}, {"date": "1986-02-01", "rank": 30}, {"date": "1986-02-08", "rank": 29}, {"date": "1986-02-15", "rank": 28}, {"date": "1986-02-22", "rank": 23}, {"date": "1986-03-01", "rank": 23}, {"date": "1986-03-08", "rank": 28}, {"date": "1986-03-15", "rank": 36}, {"date": "1986-03-22", "rank": 40}, {"date": "1986-03-29", "rank": 44}, {"date": "1986-04-05", "rank": 52}, {"date": "1986-04-12", "rank": 61}, {"date": "1986-04-19", "rank": 91}, {"date": "1986-04-26", "rank": 116}, {"date": "1986-05-03", "rank": 135}, {"date": "1986-05-10", "rank": 173}, {"date": "1986-05-17", "rank": 174}]}
+{
+  "id": "ready-for-the-world-ready-for-the-world",
+  "title": "Ready For the World",
+  "artist": "Ready For The World",
+  "peak": 17,
+  "history": [
+    {
+      "date": "1985-06-22",
+      "rank": 131
+    },
+    {
+      "date": "1985-06-29",
+      "rank": 120
+    },
+    {
+      "date": "1985-07-06",
+      "rank": 117
+    },
+    {
+      "date": "1985-07-13",
+      "rank": 114
+    },
+    {
+      "date": "1985-07-20",
+      "rank": 111
+    },
+    {
+      "date": "1985-07-27",
+      "rank": 111
+    },
+    {
+      "date": "1985-08-03",
+      "rank": 100
+    },
+    {
+      "date": "1985-08-10",
+      "rank": 70
+    },
+    {
+      "date": "1985-08-17",
+      "rank": 61
+    },
+    {
+      "date": "1985-08-24",
+      "rank": 48
+    },
+    {
+      "date": "1985-08-31",
+      "rank": 40
+    },
+    {
+      "date": "1985-09-07",
+      "rank": 38
+    },
+    {
+      "date": "1985-09-14",
+      "rank": 35
+    },
+    {
+      "date": "1985-09-21",
+      "rank": 32
+    },
+    {
+      "date": "1985-09-28",
+      "rank": 32
+    },
+    {
+      "date": "1985-10-05",
+      "rank": 27
+    },
+    {
+      "date": "1985-10-12",
+      "rank": 17
+    },
+    {
+      "date": "1985-10-19",
+      "rank": 17
+    },
+    {
+      "date": "1985-10-26",
+      "rank": 17
+    },
+    {
+      "date": "1985-11-02",
+      "rank": 17
+    },
+    {
+      "date": "1985-11-09",
+      "rank": 17
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 18
+    },
+    {
+      "date": "1985-11-23",
+      "rank": 20
+    },
+    {
+      "date": "1985-11-30",
+      "rank": 25
+    },
+    {
+      "date": "1985-12-07",
+      "rank": 28
+    },
+    {
+      "date": "1985-12-14",
+      "rank": 32
+    },
+    {
+      "date": "1985-12-21",
+      "rank": 28
+    },
+    {
+      "date": "1985-12-28",
+      "rank": 31
+    },
+    {
+      "date": "1986-01-04",
+      "rank": 31
+    },
+    {
+      "date": "1986-01-11",
+      "rank": 31
+    },
+    {
+      "date": "1986-01-18",
+      "rank": 37
+    },
+    {
+      "date": "1986-01-25",
+      "rank": 31
+    },
+    {
+      "date": "1986-02-01",
+      "rank": 30
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 29
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 28
+    },
+    {
+      "date": "1986-02-22",
+      "rank": 23
+    },
+    {
+      "date": "1986-03-01",
+      "rank": 23
+    },
+    {
+      "date": "1986-03-08",
+      "rank": 28
+    },
+    {
+      "date": "1986-03-15",
+      "rank": 36
+    },
+    {
+      "date": "1986-03-22",
+      "rank": 40
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 44
+    },
+    {
+      "date": "1986-04-05",
+      "rank": 52
+    },
+    {
+      "date": "1986-04-12",
+      "rank": 61
+    },
+    {
+      "date": "1986-04-19",
+      "rank": 91
+    },
+    {
+      "date": "1986-04-26",
+      "rank": 116
+    },
+    {
+      "date": "1986-05-03",
+      "rank": 135
+    },
+    {
+      "date": "1986-05-10",
+      "rank": 173
+    },
+    {
+      "date": "1986-05-17",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Digital Display",
+      "id": "digital-display-ready-for-the-world"
+    },
+    {
+      "title": "Oh Sheila",
+      "id": "oh-sheila-ready-for-the-world"
+    },
+    {
+      "title": "Tonight",
+      "id": null
+    },
+    {
+      "title": "Ceramic Girl",
+      "id": null
+    },
+    {
+      "title": "Deep Inside Your Love",
+      "id": null
+    },
+    {
+      "title": "Human Toy",
+      "id": null
+    },
+    {
+      "title": "Slide Over",
+      "id": null
+    },
+    {
+      "title": "Out of Town Lover",
+      "id": null
+    },
+    {
+      "title": "I'm the One Who Loves You",
+      "id": null
+    }
+  ]
+}
