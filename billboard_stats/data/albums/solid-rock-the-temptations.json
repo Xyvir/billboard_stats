@@ -1,1 +1,66 @@
-{"id": "solid-rock-the-temptations", "title": "Solid Rock", "artist": "The Temptations", "peak": 106, "history": [{"date": "1972-05-20", "rank": 106}, {"date": "1972-05-27", "rank": 116}, {"date": "1972-06-03", "rank": 127}, {"date": "1972-06-10", "rank": 129}, {"date": "1972-06-17", "rank": 142}, {"date": "1972-06-24", "rank": 172}]}
+{
+  "id": "solid-rock-the-temptations",
+  "title": "Solid Rock",
+  "artist": "The Temptations",
+  "peak": 106,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 106
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 116
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 127
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 129
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 142
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Take a Look Around",
+      "id": "take-a-look-around-the-temptations"
+    },
+    {
+      "title": "Superstar (Remember How You Got Where You Are)",
+      "id": "superstar-remember-how-you-got-where-you-are-the-temptations"
+    },
+    {
+      "title": "It’s Summer",
+      "id": "it-s-summer-the-temptations"
+    },
+    {
+      "title": "Ain’t No Sunshine",
+      "id": null
+    },
+    {
+      "title": "Stop the War Now",
+      "id": null
+    },
+    {
+      "title": "What It Is?",
+      "id": null
+    },
+    {
+      "title": "Smooth Sailing (From Now On)",
+      "id": null
+    },
+    {
+      "title": "The End of Our Road",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"id": "solid-gold-gang-of-four", "title": "Solid Gold", "artist": "Gang Of Four", "peak": 190, "history": [{"date": "1981-06-06", "rank": 190}, {"date": "1981-06-13", "rank": 190}]}
+{
+  "id": "solid-gold-gang-of-four",
+  "title": "Solid Gold",
+  "artist": "Gang Of Four",
+  "peak": 190,
+  "history": [
+    {
+      "date": "1981-06-06",
+      "rank": 190
+    },
+    {
+      "date": "1981-06-13",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Paralysed",
+      "id": null
+    },
+    {
+      "title": "What We All Want",
+      "id": null
+    },
+    {
+      "title": "Why Theory?",
+      "id": null
+    },
+    {
+      "title": "If I Could Keep It for Myself",
+      "id": null
+    },
+    {
+      "title": "Outside the Trains Don’t Run on Time",
+      "id": null
+    },
+    {
+      "title": "Cheeseburger",
+      "id": null
+    },
+    {
+      "title": "The Republic",
+      "id": null
+    },
+    {
+      "title": "In the Ditch",
+      "id": null
+    },
+    {
+      "title": "A Hole in the Wallet",
+      "id": null
+    },
+    {
+      "title": "He’d Send In the Army",
+      "id": null
+    }
+  ]
+}

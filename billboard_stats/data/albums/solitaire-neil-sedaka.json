@@ -1,1 +1,70 @@
-{"id": "solitaire-neil-sedaka", "title": "Solitaire", "artist": "Neil Sedaka", "peak": 159, "history": [{"date": "1976-09-18", "rank": 177}, {"date": "1976-09-25", "rank": 163}, {"date": "1976-10-02", "rank": 163}, {"date": "1976-10-09", "rank": 159}]}
+{
+  "id": "solitaire-neil-sedaka",
+  "title": "Solitaire",
+  "artist": "Neil Sedaka",
+  "peak": 159,
+  "history": [
+    {
+      "date": "1976-09-18",
+      "rank": 177
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 163
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 163
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "That’s When the Music Takes Me",
+      "id": "that-s-when-the-music-takes-me-neil-sedaka"
+    },
+    {
+      "title": "Beautiful You",
+      "id": null
+    },
+    {
+      "title": "Express Yourself",
+      "id": null
+    },
+    {
+      "title": "Anywhere You’re Gonna Be",
+      "id": null
+    },
+    {
+      "title": "Home",
+      "id": null
+    },
+    {
+      "title": "Adventures of a Boy Child Wonder",
+      "id": null
+    },
+    {
+      "title": "Better Days Are Coming",
+      "id": null
+    },
+    {
+      "title": "Dimbo Man",
+      "id": null
+    },
+    {
+      "title": "Trying to Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "Solitaire",
+      "id": null
+    },
+    {
+      "title": "Don’t Let It Mess Your Mind",
+      "id": null
+    }
+  ]
+}

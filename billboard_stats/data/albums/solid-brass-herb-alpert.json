@@ -1,1 +1,102 @@
-{"id": "solid-brass-herb-alpert", "title": "Solid Brass", "artist": "Herb Alpert", "peak": 135, "history": [{"date": "1972-06-17", "rank": 168}, {"date": "1972-06-24", "rank": 151}, {"date": "1972-07-01", "rank": 145}, {"date": "1972-07-08", "rank": 145}, {"date": "1972-07-15", "rank": 137}, {"date": "1972-07-22", "rank": 137}, {"date": "1972-07-29", "rank": 135}, {"date": "1972-08-05", "rank": 141}, {"date": "1972-08-12", "rank": 161}]}
+{
+  "id": "solid-brass-herb-alpert",
+  "title": "Solid Brass",
+  "artist": "Herb Alpert",
+  "peak": 135,
+  "history": [
+    {
+      "date": "1972-06-17",
+      "rank": 168
+    },
+    {
+      "date": "1972-06-24",
+      "rank": 151
+    },
+    {
+      "date": "1972-07-01",
+      "rank": 145
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 145
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 137
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 137
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 135
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 141
+    },
+    {
+      "date": "1972-08-12",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "This Guy’s in Love With You",
+      "id": "this-guy-s-in-love-with-you-herb-alpert"
+    },
+    {
+      "title": "What Now My Love",
+      "id": "to-wait-for-love-herb-alpert"
+    },
+    {
+      "title": "Without Her",
+      "id": "without-her-herb-alpert"
+    },
+    {
+      "title": "The Work Song",
+      "id": null
+    },
+    {
+      "title": "Slick",
+      "id": null
+    },
+    {
+      "title": "The Maltese Melody",
+      "id": null
+    },
+    {
+      "title": "So What’s New?",
+      "id": null
+    },
+    {
+      "title": "Jerusalem",
+      "id": null
+    },
+    {
+      "title": "Flamingo",
+      "id": null
+    },
+    {
+      "title": "Casino Royale",
+      "id": null
+    },
+    {
+      "title": "A Banda",
+      "id": null
+    },
+    {
+      "title": "Summertime",
+      "id": null
+    },
+    {
+      "title": "Acapulco 1922",
+      "id": null
+    },
+    {
+      "title": "Wade in the Water",
+      "id": null
+    }
+  ]
+}

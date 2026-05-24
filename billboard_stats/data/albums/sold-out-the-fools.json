@@ -1,1 +1,86 @@
-{"id": "sold-out-the-fools", "title": "Sold Out", "artist": "The Fools", "peak": 151, "history": [{"date": "1980-04-05", "rank": 172}, {"date": "1980-04-12", "rank": 162}, {"date": "1980-04-19", "rank": 153}, {"date": "1980-04-26", "rank": 151}, {"date": "1980-05-03", "rank": 152}, {"date": "1980-05-10", "rank": 185}, {"date": "1980-05-17", "rank": 192}, {"date": "1980-05-24", "rank": 194}]}
+{
+  "id": "sold-out-the-fools",
+  "title": "Sold Out",
+  "artist": "The Fools",
+  "peak": 151,
+  "history": [
+    {
+      "date": "1980-04-05",
+      "rank": 172
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 162
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 153
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 151
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 152
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 185
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 192
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s a Night for Beautiful Girls",
+      "id": "it-s-a-night-for-beautiful-girls-the-fools"
+    },
+    {
+      "title": "Night Out",
+      "id": null
+    },
+    {
+      "title": "Fine With Me",
+      "id": null
+    },
+    {
+      "title": "Don't Tell Me",
+      "id": null
+    },
+    {
+      "title": "Sold Out",
+      "id": null
+    },
+    {
+      "title": "Sad Story",
+      "id": null
+    },
+    {
+      "title": "Psycho Chicken (Clucked)",
+      "id": null
+    },
+    {
+      "title": "Mutual of Omaha",
+      "id": null
+    },
+    {
+      "title": "Spent the Rent",
+      "id": null
+    },
+    {
+      "title": "Easy for You",
+      "id": null
+    },
+    {
+      "title": "I Won’t Grow Up",
+      "id": null
+    }
+  ]
+}
