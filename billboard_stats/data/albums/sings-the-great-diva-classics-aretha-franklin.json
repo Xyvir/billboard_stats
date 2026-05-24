@@ -1,1 +1,74 @@
-{"id": "sings-the-great-diva-classics-aretha-franklin", "title": "Sings The Great Diva Classics", "artist": "Aretha Franklin", "peak": 13, "history": [{"date": "2014-11-08", "rank": 13}, {"date": "2014-11-15", "rank": 41}, {"date": "2014-11-22", "rank": 69}, {"date": "2014-11-29", "rank": 77}, {"date": "2014-12-06", "rank": 146}, {"date": "2014-12-13", "rank": 188}]}
+{
+  "id": "sings-the-great-diva-classics-aretha-franklin",
+  "title": "Sings The Great Diva Classics",
+  "artist": "Aretha Franklin",
+  "peak": 13,
+  "history": [
+    {
+      "date": "2014-11-08",
+      "rank": 13
+    },
+    {
+      "date": "2014-11-15",
+      "rank": 41
+    },
+    {
+      "date": "2014-11-22",
+      "rank": 69
+    },
+    {
+      "date": "2014-11-29",
+      "rank": 77
+    },
+    {
+      "date": "2014-12-06",
+      "rank": 146
+    },
+    {
+      "date": "2014-12-13",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Teach Me Tonight",
+      "id": "the-weight-aretha-franklin"
+    },
+    {
+      "title": "At Last",
+      "id": null
+    },
+    {
+      "title": "Rolling in the Deep (the Aretha version)",
+      "id": null
+    },
+    {
+      "title": "Midnight Train to Georgia",
+      "id": null
+    },
+    {
+      "title": "I Will Survive (the Aretha version)",
+      "id": null
+    },
+    {
+      "title": "People",
+      "id": null
+    },
+    {
+      "title": "No One",
+      "id": null
+    },
+    {
+      "title": "I’m Every Woman / Respect",
+      "id": null
+    },
+    {
+      "title": "You Keep Me Hangin’ On",
+      "id": null
+    },
+    {
+      "title": "Nothing Compares 2 U",
+      "id": null
+    }
+  ]
+}
