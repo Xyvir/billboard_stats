@@ -1,1 +1,58 @@
-{"id": "no-strings-ace", "title": "No Strings", "artist": "Ace", "peak": 170, "history": [{"date": "1977-02-12", "rank": 173}, {"date": "1977-02-19", "rank": 170}]}
+{
+  "id": "no-strings-ace",
+  "title": "No Strings",
+  "artist": "Ace",
+  "peak": 170,
+  "history": [
+    {
+      "date": "1977-02-12",
+      "rank": 173
+    },
+    {
+      "date": "1977-02-19",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rock and Roll Singer",
+      "id": null
+    },
+    {
+      "title": "You’re All That I Need",
+      "id": null
+    },
+    {
+      "title": "Crazy World",
+      "id": null
+    },
+    {
+      "title": "I’m Not Takin’ It Out on You",
+      "id": null
+    },
+    {
+      "title": "Movin’",
+      "id": null
+    },
+    {
+      "title": "Gleaming in the Gloom",
+      "id": null
+    },
+    {
+      "title": "Let’s Hang On",
+      "id": null
+    },
+    {
+      "title": "Why Did You Leave Me",
+      "id": null
+    },
+    {
+      "title": "Found Out the Hard Way",
+      "id": null
+    },
+    {
+      "title": "C’est La Vie",
+      "id": null
+    }
+  ]
+}

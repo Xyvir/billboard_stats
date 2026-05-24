@@ -1,1 +1,86 @@
-{"id": "notebook-paper-huey", "title": "Notebook Paper", "artist": "Huey", "peak": 26, "history": [{"date": "2007-07-07", "rank": 26}, {"date": "2007-07-14", "rank": 62}, {"date": "2007-07-21", "rank": 89}, {"date": "2007-07-28", "rank": 123}, {"date": "2007-08-04", "rank": 159}]}
+{
+  "id": "notebook-paper-huey",
+  "title": "Notebook Paper",
+  "artist": "Huey",
+  "peak": 26,
+  "history": [
+    {
+      "date": "2007-07-07",
+      "rank": 26
+    },
+    {
+      "date": "2007-07-14",
+      "rank": 62
+    },
+    {
+      "date": "2007-07-21",
+      "rank": 89
+    },
+    {
+      "date": "2007-07-28",
+      "rank": 123
+    },
+    {
+      "date": "2007-08-04",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pop, Lock & Drop It",
+      "id": "pop-lock-drop-it-huey"
+    },
+    {
+      "title": "Pop, Lock & Drop It (remix)",
+      "id": "pop-lock-drop-it-huey"
+    },
+    {
+      "title": "Notebook Paper (intro)",
+      "id": null
+    },
+    {
+      "title": "Bout Dat",
+      "id": null
+    },
+    {
+      "title": "Aye",
+      "id": null
+    },
+    {
+      "title": "Closet Full of Clothes",
+      "id": null
+    },
+    {
+      "title": "2 Nite",
+      "id": null
+    },
+    {
+      "title": "Tell Me This (G-5)",
+      "id": null
+    },
+    {
+      "title": "Money Ova",
+      "id": null
+    },
+    {
+      "title": "My Zone",
+      "id": null
+    },
+    {
+      "title": "When I Hustle",
+      "id": null
+    },
+    {
+      "title": "Luv n Ya Life",
+      "id": null
+    },
+    {
+      "title": "Nobody Loves the Hood",
+      "id": null
+    },
+    {
+      "title": "Glad 2 Be Alive",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,98 @@
-{"id": "nostalgia-annie-lennox", "title": "Nostalgia", "artist": "Annie Lennox", "peak": 10, "history": [{"date": "2014-11-08", "rank": 10}, {"date": "2014-11-15", "rank": 23}, {"date": "2014-11-22", "rank": 46}, {"date": "2014-11-29", "rank": 56}, {"date": "2014-12-06", "rank": 98}, {"date": "2014-12-13", "rank": 194}, {"date": "2014-12-20", "rank": 191}, {"date": "2015-02-28", "rank": 40}, {"date": "2015-03-07", "rank": 96}, {"date": "2015-03-14", "rank": 179}]}
+{
+  "id": "nostalgia-annie-lennox",
+  "title": "Nostalgia",
+  "artist": "Annie Lennox",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2014-11-08",
+      "rank": 10
+    },
+    {
+      "date": "2014-11-15",
+      "rank": 23
+    },
+    {
+      "date": "2014-11-22",
+      "rank": 46
+    },
+    {
+      "date": "2014-11-29",
+      "rank": 56
+    },
+    {
+      "date": "2014-12-06",
+      "rank": 98
+    },
+    {
+      "date": "2014-12-13",
+      "rank": 194
+    },
+    {
+      "date": "2014-12-20",
+      "rank": 191
+    },
+    {
+      "date": "2015-02-28",
+      "rank": 40
+    },
+    {
+      "date": "2015-03-07",
+      "rank": 96
+    },
+    {
+      "date": "2015-03-14",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Put a Spell on You",
+      "id": "i-put-a-spell-on-you-annie-lennox"
+    },
+    {
+      "title": "Memphis in June",
+      "id": null
+    },
+    {
+      "title": "Georgia on My Mind",
+      "id": null
+    },
+    {
+      "title": "Summertime",
+      "id": null
+    },
+    {
+      "title": "I Cover the Waterfront",
+      "id": null
+    },
+    {
+      "title": "Strange Fruit",
+      "id": null
+    },
+    {
+      "title": "God Bless the Child",
+      "id": null
+    },
+    {
+      "title": "You Belong to Me",
+      "id": null
+    },
+    {
+      "title": "September in the Rain",
+      "id": null
+    },
+    {
+      "title": "I Can Dream, Can’t I?",
+      "id": null
+    },
+    {
+      "title": "The Nearness of You",
+      "id": null
+    },
+    {
+      "title": "Mood Indigo",
+      "id": null
+    }
+  ]
+}
