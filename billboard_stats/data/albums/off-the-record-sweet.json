@@ -1,1 +1,86 @@
-{"id": "off-the-record-sweet", "title": "Off The Record", "artist": "Sweet", "peak": 151, "history": [{"date": "1977-05-14", "rank": 180}, {"date": "1977-05-21", "rank": 169}, {"date": "1977-05-28", "rank": 158}, {"date": "1977-06-04", "rank": 151}]}
+{
+  "id": "off-the-record-sweet",
+  "title": "Off The Record",
+  "artist": "Sweet",
+  "peak": 151,
+  "history": [
+    {
+      "date": "1977-05-14",
+      "rank": 180
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 169
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 158
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 151
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Funk It Up",
+      "id": "funk-it-up-david-s-song-sweet"
+    },
+    {
+      "title": "Fever of Love",
+      "id": null
+    },
+    {
+      "title": "Lost Angels",
+      "id": null
+    },
+    {
+      "title": "Midnight to Daylight",
+      "id": null
+    },
+    {
+      "title": "Windy City",
+      "id": null
+    },
+    {
+      "title": "Live for Today",
+      "id": null
+    },
+    {
+      "title": "She Gimme Lovin’",
+      "id": null
+    },
+    {
+      "title": "Laura Lee",
+      "id": null
+    },
+    {
+      "title": "Hard Times",
+      "id": null
+    },
+    {
+      "title": "Lost Angels (demo version)",
+      "id": null
+    },
+    {
+      "title": "She Gimme Lovin’ (alternate version)",
+      "id": null
+    },
+    {
+      "title": "Hard Times (alternative version)",
+      "id": null
+    },
+    {
+      "title": "Fever of Love (US single version)",
+      "id": null
+    },
+    {
+      "title": "Fever of Love (demo)",
+      "id": null
+    },
+    {
+      "title": "A Distinct Lack of Ancient (demo)",
+      "id": null
+    }
+  ]
+}
