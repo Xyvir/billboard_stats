@@ -1,1 +1,54 @@
-{"id": "song-in-my-head-the-string-cheese-incident", "title": "Song In My Head", "artist": "The String Cheese Incident", "peak": 123, "history": [{"date": "2014-05-17", "rank": 123}]}
+{
+  "id": "song-in-my-head-the-string-cheese-incident",
+  "title": "Song In My Head",
+  "artist": "The String Cheese Incident",
+  "peak": 123,
+  "history": [
+    {
+      "date": "2014-05-17",
+      "rank": 123
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Colorado Bluebird Sky",
+      "id": null
+    },
+    {
+      "title": "Betray the Dark",
+      "id": null
+    },
+    {
+      "title": "Let’s Go Outside",
+      "id": null
+    },
+    {
+      "title": "Song in My Head",
+      "id": null
+    },
+    {
+      "title": "Struggling Angel",
+      "id": null
+    },
+    {
+      "title": "Can’t Wait Another Day",
+      "id": null
+    },
+    {
+      "title": "So Far From Home",
+      "id": null
+    },
+    {
+      "title": "Rosie",
+      "id": null
+    },
+    {
+      "title": "Stay Through",
+      "id": null
+    },
+    {
+      "title": "Colliding",
+      "id": null
+    }
+  ]
+}
