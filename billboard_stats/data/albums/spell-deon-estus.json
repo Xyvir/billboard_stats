@@ -1,1 +1,110 @@
-{"id": "spell-deon-estus", "title": "Spell", "artist": "Deon Estus", "peak": 89, "history": [{"date": "1989-04-01", "rank": 161}, {"date": "1989-04-08", "rank": 119}, {"date": "1989-04-15", "rank": 107}, {"date": "1989-04-22", "rank": 97}, {"date": "1989-04-29", "rank": 95}, {"date": "1989-05-06", "rank": 95}, {"date": "1989-05-13", "rank": 89}, {"date": "1989-05-20", "rank": 103}, {"date": "1989-05-27", "rank": 111}, {"date": "1989-06-03", "rank": 124}, {"date": "1989-06-10", "rank": 124}, {"date": "1989-06-17", "rank": 137}, {"date": "1989-06-24", "rank": 152}, {"date": "1989-07-01", "rank": 160}, {"date": "1989-07-08", "rank": 175}]}
+{
+  "id": "spell-deon-estus",
+  "title": "Spell",
+  "artist": "Deon Estus",
+  "peak": 89,
+  "history": [
+    {
+      "date": "1989-04-01",
+      "rank": 161
+    },
+    {
+      "date": "1989-04-08",
+      "rank": 119
+    },
+    {
+      "date": "1989-04-15",
+      "rank": 107
+    },
+    {
+      "date": "1989-04-22",
+      "rank": 97
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 95
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 95
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 89
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 103
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 111
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 124
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 124
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 137
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 152
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 160
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heaven Help Me",
+      "id": "heaven-help-me-deon-estus"
+    },
+    {
+      "title": "Me or the Rumours (The Jellybean mix)",
+      "id": null
+    },
+    {
+      "title": "Spell",
+      "id": null
+    },
+    {
+      "title": "Love Me Over",
+      "id": null
+    },
+    {
+      "title": "You’re the Only One",
+      "id": null
+    },
+    {
+      "title": "False Start",
+      "id": null
+    },
+    {
+      "title": "Blue Envelope",
+      "id": null
+    },
+    {
+      "title": "Love Can’t Wait",
+      "id": null
+    },
+    {
+      "title": "Solid Ground",
+      "id": null
+    },
+    {
+      "title": "Me or the Rumours (The George Michael mix)",
+      "id": null
+    }
+  ]
+}

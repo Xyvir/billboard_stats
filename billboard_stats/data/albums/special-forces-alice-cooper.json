@@ -1,1 +1,70 @@
-{"id": "special-forces-alice-cooper", "title": "Special Forces", "artist": "Alice Cooper", "peak": 125, "history": [{"date": "1981-09-19", "rank": 149}, {"date": "1981-09-26", "rank": 137}, {"date": "1981-10-03", "rank": 125}, {"date": "1981-10-10", "rank": 125}, {"date": "1981-10-17", "rank": 143}]}
+{
+  "id": "special-forces-alice-cooper",
+  "title": "Special Forces",
+  "artist": "Alice Cooper",
+  "peak": 125,
+  "history": [
+    {
+      "date": "1981-09-19",
+      "rank": 149
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 137
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 125
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 125
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You’re a Movie",
+      "id": "you-and-me-alice-cooper"
+    },
+    {
+      "title": "Who Do You Think We Are",
+      "id": null
+    },
+    {
+      "title": "Seven & Seven Is",
+      "id": null
+    },
+    {
+      "title": "Prettiest Cop on the Block",
+      "id": null
+    },
+    {
+      "title": "Don’t Talk Old to Me",
+      "id": null
+    },
+    {
+      "title": "Generation Landslide ’81 (live)",
+      "id": null
+    },
+    {
+      "title": "Skeletons in the Closet",
+      "id": null
+    },
+    {
+      "title": "You Want It, You Got It",
+      "id": null
+    },
+    {
+      "title": "You Look Good in Rags",
+      "id": null
+    },
+    {
+      "title": "Vicious Rumours",
+      "id": null
+    }
+  ]
+}

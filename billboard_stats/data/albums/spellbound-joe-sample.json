@@ -1,1 +1,106 @@
-{"id": "spellbound-joe-sample", "title": "Spellbound", "artist": "Joe Sample", "peak": 129, "history": [{"date": "1989-04-15", "rank": 192}, {"date": "1989-04-22", "rank": 192}, {"date": "1989-04-29", "rank": 154}, {"date": "1989-05-06", "rank": 147}, {"date": "1989-05-13", "rank": 139}, {"date": "1989-05-20", "rank": 130}, {"date": "1989-05-27", "rank": 130}, {"date": "1989-06-03", "rank": 129}, {"date": "1989-06-10", "rank": 145}, {"date": "1989-06-17", "rank": 153}, {"date": "1989-06-24", "rank": 180}, {"date": "1989-07-01", "rank": 192}, {"date": "1989-07-08", "rank": 182}, {"date": "1989-07-15", "rank": 199}]}
+{
+  "id": "spellbound-joe-sample",
+  "title": "Spellbound",
+  "artist": "Joe Sample",
+  "peak": 129,
+  "history": [
+    {
+      "date": "1989-04-15",
+      "rank": 192
+    },
+    {
+      "date": "1989-04-22",
+      "rank": 192
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 154
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 147
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 139
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 130
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 130
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 129
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 145
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 153
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 180
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 192
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 182
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Seven Years of Good Luck",
+      "id": null
+    },
+    {
+      "title": "Spellbound",
+      "id": null
+    },
+    {
+      "title": "Somehow Our Love Survives",
+      "id": null
+    },
+    {
+      "title": "All God's Children",
+      "id": null
+    },
+    {
+      "title": "Leading Me Back to You",
+      "id": null
+    },
+    {
+      "title": "U Turn",
+      "id": null
+    },
+    {
+      "title": "Bones Jive",
+      "id": null
+    },
+    {
+      "title": "Luna en New York",
+      "id": null
+    },
+    {
+      "title": "Sermonized",
+      "id": null
+    },
+    {
+      "title": "Looking Glass",
+      "id": null
+    }
+  ]
+}
