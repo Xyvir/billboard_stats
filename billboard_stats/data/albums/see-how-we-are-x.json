@@ -1,1 +1,98 @@
-{"id": "see-how-we-are-x", "title": "See How We Are", "artist": "X", "peak": 107, "history": [{"date": "1987-07-11", "rank": 151}, {"date": "1987-07-18", "rank": 126}, {"date": "1987-07-25", "rank": 121}, {"date": "1987-08-01", "rank": 107}, {"date": "1987-08-08", "rank": 107}, {"date": "1987-08-15", "rank": 142}, {"date": "1987-08-22", "rank": 133}, {"date": "1987-08-29", "rank": 121}, {"date": "1987-09-05", "rank": 121}, {"date": "1987-09-12", "rank": 172}, {"date": "1987-09-19", "rank": 169}]}
+{
+  "id": "see-how-we-are-x",
+  "title": "See How We Are",
+  "artist": "X",
+  "peak": 107,
+  "history": [
+    {
+      "date": "1987-07-11",
+      "rank": 151
+    },
+    {
+      "date": "1987-07-18",
+      "rank": 126
+    },
+    {
+      "date": "1987-07-25",
+      "rank": 121
+    },
+    {
+      "date": "1987-08-01",
+      "rank": 107
+    },
+    {
+      "date": "1987-08-08",
+      "rank": 107
+    },
+    {
+      "date": "1987-08-15",
+      "rank": 142
+    },
+    {
+      "date": "1987-08-22",
+      "rank": 133
+    },
+    {
+      "date": "1987-08-29",
+      "rank": 121
+    },
+    {
+      "date": "1987-09-05",
+      "rank": 121
+    },
+    {
+      "date": "1987-09-12",
+      "rank": 172
+    },
+    {
+      "date": "1987-09-19",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Holiday Story",
+      "id": "holiday-lil-nas-x"
+    },
+    {
+      "title": "I'm Lost",
+      "id": null
+    },
+    {
+      "title": "You",
+      "id": null
+    },
+    {
+      "title": "4th of July",
+      "id": null
+    },
+    {
+      "title": "In the Time It Takes",
+      "id": null
+    },
+    {
+      "title": "Anyone Can Fill Your Shoes",
+      "id": null
+    },
+    {
+      "title": "See How We Are",
+      "id": null
+    },
+    {
+      "title": "Left & Right",
+      "id": null
+    },
+    {
+      "title": "When It Rains…",
+      "id": null
+    },
+    {
+      "title": "Surprise Surprise",
+      "id": null
+    },
+    {
+      "title": "Cyrano de Berger’s Back",
+      "id": null
+    }
+  ]
+}

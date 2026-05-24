@@ -1,1 +1,82 @@
-{"id": "seduction-james-last-band", "title": "Seduction", "artist": "James Last Band", "peak": 148, "history": [{"date": "1980-06-28", "rank": 172}, {"date": "1980-07-05", "rank": 161}, {"date": "1980-07-12", "rank": 159}, {"date": "1980-07-19", "rank": 155}, {"date": "1980-07-26", "rank": 151}, {"date": "1980-08-02", "rank": 148}, {"date": "1980-08-09", "rank": 160}, {"date": "1980-08-16", "rank": 161}]}
+{
+  "id": "seduction-james-last-band",
+  "title": "Seduction",
+  "artist": "James Last Band",
+  "peak": 148,
+  "history": [
+    {
+      "date": "1980-06-28",
+      "rank": 172
+    },
+    {
+      "date": "1980-07-05",
+      "rank": 161
+    },
+    {
+      "date": "1980-07-12",
+      "rank": 159
+    },
+    {
+      "date": "1980-07-19",
+      "rank": 155
+    },
+    {
+      "date": "1980-07-26",
+      "rank": 151
+    },
+    {
+      "date": "1980-08-02",
+      "rank": 148
+    },
+    {
+      "date": "1980-08-09",
+      "rank": 160
+    },
+    {
+      "date": "1980-08-16",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Seduction (Love Theme)",
+      "id": "the-seduction-love-theme-james-last-band"
+    },
+    {
+      "title": "Fantasy",
+      "id": null
+    },
+    {
+      "title": "Dancing Shadows",
+      "id": null
+    },
+    {
+      "title": "Vibrations",
+      "id": null
+    },
+    {
+      "title": "Falling Star",
+      "id": null
+    },
+    {
+      "title": "So Excited",
+      "id": null
+    },
+    {
+      "title": "Night Drive",
+      "id": null
+    },
+    {
+      "title": "Glow",
+      "id": null
+    },
+    {
+      "title": "Infight",
+      "id": null
+    },
+    {
+      "title": "It's Over",
+      "id": null
+    }
+  ]
+}
