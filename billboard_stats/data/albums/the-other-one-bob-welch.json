@@ -1,1 +1,82 @@
-{"id": "the-other-one-bob-welch", "title": "The Other One", "artist": "Bob Welch", "peak": 105, "history": [{"date": "1979-12-01", "rank": 165}, {"date": "1979-12-08", "rank": 132}, {"date": "1979-12-15", "rank": 114}, {"date": "1979-12-22", "rank": 105}, {"date": "1979-12-29", "rank": 105}, {"date": "1980-01-05", "rank": 105}, {"date": "1980-01-12", "rank": 135}, {"date": "1980-01-19", "rank": 155}]}
+{
+  "id": "the-other-one-bob-welch",
+  "title": "The Other One",
+  "artist": "Bob Welch",
+  "peak": 105,
+  "history": [
+    {
+      "date": "1979-12-01",
+      "rank": 165
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 132
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 114
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 105
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 105
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 105
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 135
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rebel Rouser",
+      "id": null
+    },
+    {
+      "title": "Love Came 2×",
+      "id": null
+    },
+    {
+      "title": "Watch the Animals",
+      "id": null
+    },
+    {
+      "title": "Straight Up",
+      "id": null
+    },
+    {
+      "title": "Hideaway",
+      "id": null
+    },
+    {
+      "title": "Future Games",
+      "id": null
+    },
+    {
+      "title": "One on One",
+      "id": null
+    },
+    {
+      "title": "Don’t Let Me Fall",
+      "id": null
+    },
+    {
+      "title": "Spanish Dancers",
+      "id": null
+    },
+    {
+      "title": "Old Man of 17",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"id": "the-other-ones-the-other-ones", "title": "The Other Ones", "artist": "The Other Ones", "peak": 139, "history": [{"date": "1987-05-16", "rank": 178}, {"date": "1987-05-23", "rank": 164}, {"date": "1987-05-30", "rank": 150}, {"date": "1987-06-06", "rank": 139}, {"date": "1987-06-13", "rank": 139}, {"date": "1987-06-20", "rank": 179}]}
+{
+  "id": "the-other-ones-the-other-ones",
+  "title": "The Other Ones",
+  "artist": "The Other Ones",
+  "peak": 139,
+  "history": [
+    {
+      "date": "1987-05-16",
+      "rank": 178
+    },
+    {
+      "date": "1987-05-23",
+      "rank": 164
+    },
+    {
+      "date": "1987-05-30",
+      "rank": 150
+    },
+    {
+      "date": "1987-06-06",
+      "rank": 139
+    },
+    {
+      "date": "1987-06-13",
+      "rank": 139
+    },
+    {
+      "date": "1987-06-20",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Holiday",
+      "id": "holiday-the-other-ones"
+    },
+    {
+      "title": "We Are What We Are",
+      "id": "we-are-what-we-are-the-other-ones"
+    },
+    {
+      "title": "Stay With Me (It’s Not Forever)",
+      "id": null
+    },
+    {
+      "title": "Losing It",
+      "id": null
+    },
+    {
+      "title": "Moments",
+      "id": null
+    },
+    {
+      "title": "He’s a Man",
+      "id": null
+    },
+    {
+      "title": "All the Love",
+      "id": null
+    },
+    {
+      "title": "All Day, All Night",
+      "id": null
+    },
+    {
+      "title": "It Makes Me Higher",
+      "id": null
+    },
+    {
+      "title": "Stranger",
+      "id": null
+    }
+  ]
+}

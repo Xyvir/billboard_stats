@@ -1,1 +1,46 @@
-{"id": "the-original-jeff-foxworthy", "title": "The Original", "artist": "Jeff Foxworthy", "peak": 184, "history": [{"date": "1995-08-19", "rank": 184}, {"date": "1995-09-02", "rank": 200}]}
+{
+  "id": "the-original-jeff-foxworthy",
+  "title": "The Original",
+  "artist": "Jeff Foxworthy",
+  "peak": 184,
+  "history": [
+    {
+      "date": "1995-08-19",
+      "rank": 184
+    },
+    {
+      "date": "1995-09-02",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Back in the South",
+      "id": null
+    },
+    {
+      "title": "Southern Words",
+      "id": null
+    },
+    {
+      "title": "You Might Be a Redneck",
+      "id": null
+    },
+    {
+      "title": "Mothers Against Drunk Driving",
+      "id": null
+    },
+    {
+      "title": "Towing Dad's Boat",
+      "id": null
+    },
+    {
+      "title": "Throwing a Party",
+      "id": null
+    },
+    {
+      "title": "The Wedding Reception",
+      "id": null
+    }
+  ]
+}
