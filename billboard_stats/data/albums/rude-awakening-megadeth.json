@@ -1,1 +1,62 @@
-{"id": "rude-awakening-megadeth", "title": "Rude Awakening", "artist": "Megadeth", "peak": 115, "history": [{"date": "2002-04-06", "rank": 115}]}
+{
+  "id": "rude-awakening-megadeth",
+  "title": "Rude Awakening",
+  "artist": "Megadeth",
+  "peak": 115,
+  "history": [
+    {
+      "date": "2002-04-06",
+      "rank": 115
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Symphony of Destruction",
+      "id": "symphony-of-destruction-megadeth"
+    },
+    {
+      "title": "Dread and the Fugitive Mind",
+      "id": null
+    },
+    {
+      "title": "In My Darkest Hour",
+      "id": null
+    },
+    {
+      "title": "Hangar 18",
+      "id": null
+    },
+    {
+      "title": "Return to Hangar",
+      "id": null
+    },
+    {
+      "title": "Almost Honest",
+      "id": null
+    },
+    {
+      "title": "Tornado of Souls",
+      "id": null
+    },
+    {
+      "title": "Sweating Bullets",
+      "id": null
+    },
+    {
+      "title": "Peace Sells",
+      "id": null
+    },
+    {
+      "title": "Holy Wars… The Punishment Due",
+      "id": null
+    },
+    {
+      "title": "Holy Wars... The Punishment Due",
+      "id": null
+    },
+    {
+      "title": "[untitled]",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"id": "rubicon-rubicon", "title": "Rubicon", "artist": "Rubicon", "peak": 147, "history": [{"date": "1978-03-25", "rank": 186}, {"date": "1978-04-01", "rank": 176}, {"date": "1978-04-08", "rank": 157}, {"date": "1978-04-15", "rank": 151}, {"date": "1978-04-22", "rank": 147}, {"date": "1978-04-29", "rank": 147}, {"date": "1978-05-06", "rank": 198}]}
+{
+  "id": "rubicon-rubicon",
+  "title": "Rubicon",
+  "artist": "Rubicon",
+  "peak": 147,
+  "history": [
+    {
+      "date": "1978-03-25",
+      "rank": 186
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 176
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 157
+    },
+    {
+      "date": "1978-04-15",
+      "rank": 151
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 147
+    },
+    {
+      "date": "1978-04-29",
+      "rank": 147
+    },
+    {
+      "date": "1978-05-06",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m Gonna Take Care of Everything",
+      "id": "i-m-gonna-take-care-of-everything-rubicon"
+    },
+    {
+      "title": "And the Moon's Out Tonight",
+      "id": null
+    },
+    {
+      "title": "Far Away",
+      "id": null
+    },
+    {
+      "title": "Closely",
+      "id": null
+    },
+    {
+      "title": "Vanilla Gorilla",
+      "id": null
+    },
+    {
+      "title": "I Want to Love You",
+      "id": null
+    },
+    {
+      "title": "Cheatin'",
+      "id": null
+    },
+    {
+      "title": "It's All for the Show",
+      "id": null
+    },
+    {
+      "title": "That's the Way Things Are",
+      "id": null
+    }
+  ]
+}

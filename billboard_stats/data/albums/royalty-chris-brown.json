@@ -1,1 +1,254 @@
-{"id": "royalty-chris-brown", "title": "Royalty", "artist": "Chris Brown", "peak": 3, "history": [{"date": "2016-01-09", "rank": 3}, {"date": "2016-01-16", "rank": 8}, {"date": "2016-01-23", "rank": 12}, {"date": "2016-01-30", "rank": 14}, {"date": "2016-02-06", "rank": 22}, {"date": "2016-02-13", "rank": 20}, {"date": "2016-02-20", "rank": 20}, {"date": "2016-02-27", "rank": 25}, {"date": "2016-03-05", "rank": 26}, {"date": "2016-03-12", "rank": 27}, {"date": "2016-03-19", "rank": 23}, {"date": "2016-03-26", "rank": 35}, {"date": "2016-04-02", "rank": 35}, {"date": "2016-04-09", "rank": 43}, {"date": "2016-04-16", "rank": 58}, {"date": "2016-04-23", "rank": 64}, {"date": "2016-04-30", "rank": 60}, {"date": "2016-05-07", "rank": 72}, {"date": "2016-05-14", "rank": 90}, {"date": "2016-05-21", "rank": 84}, {"date": "2016-05-28", "rank": 84}, {"date": "2016-06-04", "rank": 92}, {"date": "2016-06-11", "rank": 107}, {"date": "2016-06-18", "rank": 113}, {"date": "2016-06-25", "rank": 116}, {"date": "2016-07-02", "rank": 132}, {"date": "2016-07-09", "rank": 130}, {"date": "2016-07-16", "rank": 137}, {"date": "2016-07-23", "rank": 121}, {"date": "2016-07-30", "rank": 125}, {"date": "2016-08-06", "rank": 136}, {"date": "2016-08-13", "rank": 134}, {"date": "2016-08-20", "rank": 132}, {"date": "2016-08-27", "rank": 158}, {"date": "2016-09-03", "rank": 154}, {"date": "2016-09-10", "rank": 171}, {"date": "2016-09-17", "rank": 162}, {"date": "2016-09-24", "rank": 164}, {"date": "2016-10-01", "rank": 166}, {"date": "2016-10-08", "rank": 179}, {"date": "2016-10-15", "rank": 198}]}
+{
+  "id": "royalty-chris-brown",
+  "title": "Royalty",
+  "artist": "Chris Brown",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2016-01-09",
+      "rank": 3
+    },
+    {
+      "date": "2016-01-16",
+      "rank": 8
+    },
+    {
+      "date": "2016-01-23",
+      "rank": 12
+    },
+    {
+      "date": "2016-01-30",
+      "rank": 14
+    },
+    {
+      "date": "2016-02-06",
+      "rank": 22
+    },
+    {
+      "date": "2016-02-13",
+      "rank": 20
+    },
+    {
+      "date": "2016-02-20",
+      "rank": 20
+    },
+    {
+      "date": "2016-02-27",
+      "rank": 25
+    },
+    {
+      "date": "2016-03-05",
+      "rank": 26
+    },
+    {
+      "date": "2016-03-12",
+      "rank": 27
+    },
+    {
+      "date": "2016-03-19",
+      "rank": 23
+    },
+    {
+      "date": "2016-03-26",
+      "rank": 35
+    },
+    {
+      "date": "2016-04-02",
+      "rank": 35
+    },
+    {
+      "date": "2016-04-09",
+      "rank": 43
+    },
+    {
+      "date": "2016-04-16",
+      "rank": 58
+    },
+    {
+      "date": "2016-04-23",
+      "rank": 64
+    },
+    {
+      "date": "2016-04-30",
+      "rank": 60
+    },
+    {
+      "date": "2016-05-07",
+      "rank": 72
+    },
+    {
+      "date": "2016-05-14",
+      "rank": 90
+    },
+    {
+      "date": "2016-05-21",
+      "rank": 84
+    },
+    {
+      "date": "2016-05-28",
+      "rank": 84
+    },
+    {
+      "date": "2016-06-04",
+      "rank": 92
+    },
+    {
+      "date": "2016-06-11",
+      "rank": 107
+    },
+    {
+      "date": "2016-06-18",
+      "rank": 113
+    },
+    {
+      "date": "2016-06-25",
+      "rank": 116
+    },
+    {
+      "date": "2016-07-02",
+      "rank": 132
+    },
+    {
+      "date": "2016-07-09",
+      "rank": 130
+    },
+    {
+      "date": "2016-07-16",
+      "rank": 137
+    },
+    {
+      "date": "2016-07-23",
+      "rank": 121
+    },
+    {
+      "date": "2016-07-30",
+      "rank": 125
+    },
+    {
+      "date": "2016-08-06",
+      "rank": 136
+    },
+    {
+      "date": "2016-08-13",
+      "rank": 134
+    },
+    {
+      "date": "2016-08-20",
+      "rank": 132
+    },
+    {
+      "date": "2016-08-27",
+      "rank": 158
+    },
+    {
+      "date": "2016-09-03",
+      "rank": 154
+    },
+    {
+      "date": "2016-09-10",
+      "rank": 171
+    },
+    {
+      "date": "2016-09-17",
+      "rank": 162
+    },
+    {
+      "date": "2016-09-24",
+      "rank": 164
+    },
+    {
+      "date": "2016-10-01",
+      "rank": 166
+    },
+    {
+      "date": "2016-10-08",
+      "rank": 179
+    },
+    {
+      "date": "2016-10-15",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Back to Sleep",
+      "id": "back-to-sleep-chris-brown"
+    },
+    {
+      "title": "Make Love",
+      "id": "sweet-love-chris-brown"
+    },
+    {
+      "title": "Liquor",
+      "id": "liquor-chris-brown"
+    },
+    {
+      "title": "Zero",
+      "id": "zero-chris-brown"
+    },
+    {
+      "title": "Little More (Royalty)",
+      "id": "little-more-royalty-chris-brown"
+    },
+    {
+      "title": "Fine by Me",
+      "id": null
+    },
+    {
+      "title": "Wrist",
+      "id": null
+    },
+    {
+      "title": "Anyway",
+      "id": null
+    },
+    {
+      "title": "Picture Me Rollin’",
+      "id": null
+    },
+    {
+      "title": "Who’s Gonna (Nobody)",
+      "id": null
+    },
+    {
+      "title": "Discover",
+      "id": null
+    },
+    {
+      "title": "Little Bit",
+      "id": null
+    },
+    {
+      "title": "Proof",
+      "id": null
+    },
+    {
+      "title": "No Filter",
+      "id": null
+    },
+    {
+      "title": "Day One",
+      "id": null
+    },
+    {
+      "title": "Blow It in the Wind",
+      "id": null
+    },
+    {
+      "title": "KAE",
+      "id": null
+    },
+    {
+      "title": "U Did It",
+      "id": null
+    },
+    {
+      "title": "The 80s",
+      "id": null
+    },
+    {
+      "title": "Blue Jeans",
+      "id": null
+    }
+  ]
+}

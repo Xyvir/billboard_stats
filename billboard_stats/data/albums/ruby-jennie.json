@@ -1,1 +1,114 @@
-{"id": "ruby-jennie", "title": "Ruby", "artist": "JENNIE", "peak": 7, "history": [{"date": "2025-03-22", "rank": 7}, {"date": "2025-03-29", "rank": 20}, {"date": "2025-04-05", "rank": 27}, {"date": "2025-04-12", "rank": 53}, {"date": "2025-04-19", "rank": 88}, {"date": "2025-04-26", "rank": 81}, {"date": "2025-05-03", "rank": 85}, {"date": "2025-05-10", "rank": 119}, {"date": "2025-05-17", "rank": 159}, {"date": "2025-05-24", "rank": 192}, {"date": "2025-09-06", "rank": 153}]}
+{
+  "id": "ruby-jennie",
+  "title": "Ruby",
+  "artist": "JENNIE",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2025-03-22",
+      "rank": 7
+    },
+    {
+      "date": "2025-03-29",
+      "rank": 20
+    },
+    {
+      "date": "2025-04-05",
+      "rank": 27
+    },
+    {
+      "date": "2025-04-12",
+      "rank": 53
+    },
+    {
+      "date": "2025-04-19",
+      "rank": 88
+    },
+    {
+      "date": "2025-04-26",
+      "rank": 81
+    },
+    {
+      "date": "2025-05-03",
+      "rank": 85
+    },
+    {
+      "date": "2025-05-10",
+      "rank": 119
+    },
+    {
+      "date": "2025-05-17",
+      "rank": 159
+    },
+    {
+      "date": "2025-05-24",
+      "rank": 192
+    },
+    {
+      "date": "2025-09-06",
+      "rank": 153
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mantra",
+      "id": "mantra-jennie"
+    },
+    {
+      "title": "like JENNIE",
+      "id": "like-jennie-jennie"
+    },
+    {
+      "title": "Intro : JANE",
+      "id": null
+    },
+    {
+      "title": "start a war",
+      "id": null
+    },
+    {
+      "title": "Handlebars",
+      "id": null
+    },
+    {
+      "title": "Seoul City",
+      "id": null
+    },
+    {
+      "title": "ExtraL",
+      "id": null
+    },
+    {
+      "title": "with the IE (way up)",
+      "id": null
+    },
+    {
+      "title": "ZEN",
+      "id": null
+    },
+    {
+      "title": "Damn Right",
+      "id": null
+    },
+    {
+      "title": "Love Hangover",
+      "id": null
+    },
+    {
+      "title": "Filter",
+      "id": null
+    },
+    {
+      "title": "F.T.S.",
+      "id": null
+    },
+    {
+      "title": "Starlight",
+      "id": null
+    },
+    {
+      "title": "twin",
+      "id": null
+    }
+  ]
+}
