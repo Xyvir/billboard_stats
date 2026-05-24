@@ -1,1 +1,94 @@
-{"id": "ride-out-bob-seger", "title": "Ride Out", "artist": "Bob Seger", "peak": 3, "history": [{"date": "2014-11-01", "rank": 3}, {"date": "2014-11-08", "rank": 14}, {"date": "2014-11-15", "rank": 22}, {"date": "2014-11-22", "rank": 32}, {"date": "2014-11-29", "rank": 37}, {"date": "2014-12-06", "rank": 55}, {"date": "2014-12-13", "rank": 69}, {"date": "2014-12-20", "rank": 89}, {"date": "2014-12-27", "rank": 97}, {"date": "2015-01-03", "rank": 55}, {"date": "2015-01-10", "rank": 111}]}
+{
+  "id": "ride-out-bob-seger",
+  "title": "Ride Out",
+  "artist": "Bob Seger",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2014-11-01",
+      "rank": 3
+    },
+    {
+      "date": "2014-11-08",
+      "rank": 14
+    },
+    {
+      "date": "2014-11-15",
+      "rank": 22
+    },
+    {
+      "date": "2014-11-22",
+      "rank": 32
+    },
+    {
+      "date": "2014-11-29",
+      "rank": 37
+    },
+    {
+      "date": "2014-12-06",
+      "rank": 55
+    },
+    {
+      "date": "2014-12-13",
+      "rank": 69
+    },
+    {
+      "date": "2014-12-20",
+      "rank": 89
+    },
+    {
+      "date": "2014-12-27",
+      "rank": 97
+    },
+    {
+      "date": "2015-01-03",
+      "rank": 55
+    },
+    {
+      "date": "2015-01-10",
+      "rank": 111
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s Your World",
+      "id": "it-s-you-bob-seger"
+    },
+    {
+      "title": "Gates of Eden",
+      "id": "get-out-of-denver-bob-seger"
+    },
+    {
+      "title": "Detroit Made",
+      "id": null
+    },
+    {
+      "title": "Hey Gypsy",
+      "id": null
+    },
+    {
+      "title": "The Devil’s Right Hand",
+      "id": null
+    },
+    {
+      "title": "Ride Out",
+      "id": null
+    },
+    {
+      "title": "Adam and Eve",
+      "id": null
+    },
+    {
+      "title": "California Stars",
+      "id": null
+    },
+    {
+      "title": "All of the Roads",
+      "id": null
+    },
+    {
+      "title": "You Take Me In",
+      "id": null
+    }
+  ]
+}

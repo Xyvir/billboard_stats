@@ -1,1 +1,82 @@
-{"id": "rick-danko-rick-danko", "title": "Rick Danko", "artist": "Rick Danko", "peak": 119, "history": [{"date": "1977-12-24", "rank": 160}, {"date": "1977-12-31", "rank": 160}, {"date": "1978-01-07", "rank": 149}, {"date": "1978-01-14", "rank": 138}, {"date": "1978-01-21", "rank": 127}, {"date": "1978-01-28", "rank": 127}, {"date": "1978-02-04", "rank": 119}, {"date": "1978-02-11", "rank": 164}]}
+{
+  "id": "rick-danko-rick-danko",
+  "title": "Rick Danko",
+  "artist": "Rick Danko",
+  "peak": 119,
+  "history": [
+    {
+      "date": "1977-12-24",
+      "rank": 160
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 160
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 149
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 138
+    },
+    {
+      "date": "1978-01-21",
+      "rank": 127
+    },
+    {
+      "date": "1978-01-28",
+      "rank": 127
+    },
+    {
+      "date": "1978-02-04",
+      "rank": 119
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What a Town",
+      "id": null
+    },
+    {
+      "title": "Brainwash",
+      "id": null
+    },
+    {
+      "title": "New Mexico",
+      "id": null
+    },
+    {
+      "title": "Tired of Waiting",
+      "id": null
+    },
+    {
+      "title": "Sip the Wine",
+      "id": null
+    },
+    {
+      "title": "Java Blues",
+      "id": null
+    },
+    {
+      "title": "Sweet Romance",
+      "id": null
+    },
+    {
+      "title": "Small Town Talk",
+      "id": null
+    },
+    {
+      "title": "Shake It",
+      "id": null
+    },
+    {
+      "title": "Once Upon a Time",
+      "id": null
+    }
+  ]
+}

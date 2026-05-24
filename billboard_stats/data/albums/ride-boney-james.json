@@ -1,1 +1,74 @@
-{"id": "ride-boney-james", "title": "Ride", "artist": "Boney James", "peak": 82, "history": [{"date": "2001-11-10", "rank": 82}, {"date": "2001-11-17", "rank": 117}, {"date": "2001-11-24", "rank": 140}, {"date": "2001-12-01", "rank": 162}, {"date": "2001-12-08", "rank": 199}]}
+{
+  "id": "ride-boney-james",
+  "title": "Ride",
+  "artist": "Boney James",
+  "peak": 82,
+  "history": [
+    {
+      "date": "2001-11-10",
+      "rank": 82
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 117
+    },
+    {
+      "date": "2001-11-24",
+      "rank": 140
+    },
+    {
+      "date": "2001-12-01",
+      "rank": 162
+    },
+    {
+      "date": "2001-12-08",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heaven",
+      "id": null
+    },
+    {
+      "title": "Grand Central",
+      "id": null
+    },
+    {
+      "title": "RPM",
+      "id": null
+    },
+    {
+      "title": "Something Inside",
+      "id": null
+    },
+    {
+      "title": "So Beautiful",
+      "id": null
+    },
+    {
+      "title": "See What I’m Sayin’?",
+      "id": null
+    },
+    {
+      "title": "All About You",
+      "id": null
+    },
+    {
+      "title": "Ride",
+      "id": null
+    },
+    {
+      "title": "As You Are",
+      "id": null
+    },
+    {
+      "title": "This Is the Life",
+      "id": null
+    },
+    {
+      "title": "Boneyard",
+      "id": null
+    }
+  ]
+}

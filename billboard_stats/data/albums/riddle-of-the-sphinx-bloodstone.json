@@ -1,1 +1,78 @@
-{"id": "riddle-of-the-sphinx-bloodstone", "title": "Riddle Of The Sphinx", "artist": "Bloodstone", "peak": 147, "history": [{"date": "1975-02-22", "rank": 189}, {"date": "1975-03-01", "rank": 169}, {"date": "1975-03-08", "rank": 158}, {"date": "1975-03-15", "rank": 147}, {"date": "1975-03-22", "rank": 147}, {"date": "1975-03-29", "rank": 173}]}
+{
+  "id": "riddle-of-the-sphinx-bloodstone",
+  "title": "Riddle Of The Sphinx",
+  "artist": "Bloodstone",
+  "peak": 147,
+  "history": [
+    {
+      "date": "1975-02-22",
+      "rank": 189
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 169
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 158
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 147
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 147
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Little Lady",
+      "id": "my-little-lady-bloodstone"
+    },
+    {
+      "title": "For The First Time",
+      "id": null
+    },
+    {
+      "title": "I Just Learned To Walk",
+      "id": null
+    },
+    {
+      "title": "Sign For Me Dad",
+      "id": null
+    },
+    {
+      "title": "Something's Missing",
+      "id": null
+    },
+    {
+      "title": "A Time For Reflection",
+      "id": null
+    },
+    {
+      "title": "This World Is Funky",
+      "id": null
+    },
+    {
+      "title": "Young Times Old Times",
+      "id": null
+    },
+    {
+      "title": "Wasted Time (Theme From \"Riddle Of The Sphinx\")",
+      "id": null
+    },
+    {
+      "title": "Nobody But You",
+      "id": null
+    },
+    {
+      "title": "Save Me",
+      "id": null
+    }
+  ]
+}

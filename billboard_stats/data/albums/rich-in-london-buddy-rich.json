@@ -1,1 +1,66 @@
-{"id": "rich-in-london-buddy-rich", "title": "Rich In London", "artist": "Buddy Rich", "peak": 180, "history": [{"date": "1972-05-20", "rank": 199}, {"date": "1972-05-27", "rank": 196}, {"date": "1972-06-03", "rank": 185}, {"date": "1972-06-10", "rank": 180}, {"date": "1972-06-17", "rank": 184}]}
+{
+  "id": "rich-in-london-buddy-rich",
+  "title": "Rich In London",
+  "artist": "Buddy Rich",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 199
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 196
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 185
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 180
+    },
+    {
+      "date": "1972-06-17",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dancing Men",
+      "id": null
+    },
+    {
+      "title": "The Word",
+      "id": null
+    },
+    {
+      "title": "St. Mark's Square (A Special Day)",
+      "id": null
+    },
+    {
+      "title": "That's Enough",
+      "id": null
+    },
+    {
+      "title": "Little Train",
+      "id": null
+    },
+    {
+      "title": "Two Bass Hit",
+      "id": null
+    },
+    {
+      "title": "Theme From \"Love Story\"",
+      "id": null
+    },
+    {
+      "title": "Time Being",
+      "id": null
+    },
+    {
+      "title": "Buddy Rich Speaks",
+      "id": null
+    }
+  ]
+}
