@@ -1,1 +1,66 @@
-{"id": "street-beat-tom-scott", "title": "Street Beat", "artist": "Tom Scott", "peak": 162, "history": [{"date": "1979-12-15", "rank": 172}, {"date": "1979-12-22", "rank": 162}, {"date": "1979-12-29", "rank": 162}, {"date": "1980-01-05", "rank": 162}, {"date": "1980-01-12", "rank": 192}, {"date": "1980-01-19", "rank": 192}]}
+{
+  "id": "street-beat-tom-scott",
+  "title": "Street Beat",
+  "artist": "Tom Scott",
+  "peak": 162,
+  "history": [
+    {
+      "date": "1979-12-15",
+      "rank": 172
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 162
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 162
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 162
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 192
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Street Beat",
+      "id": null
+    },
+    {
+      "title": "Greed",
+      "id": null
+    },
+    {
+      "title": "Come Closer, Baby",
+      "id": null
+    },
+    {
+      "title": "Heading Home",
+      "id": null
+    },
+    {
+      "title": "Car Wars",
+      "id": null
+    },
+    {
+      "title": "We Can Fly",
+      "id": null
+    },
+    {
+      "title": "Give Me Your Love",
+      "id": null
+    },
+    {
+      "title": "The Shakedown",
+      "id": null
+    }
+  ]
+}

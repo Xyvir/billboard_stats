@@ -1,1 +1,62 @@
-{"id": "street-action-bachman-turner-overdrive", "title": "Street Action", "artist": "Bachman-Turner Overdrive", "peak": 130, "history": [{"date": "1978-03-18", "rank": 144}, {"date": "1978-03-25", "rank": 134}, {"date": "1978-04-01", "rank": 130}, {"date": "1978-04-08", "rank": 176}]}
+{
+  "id": "street-action-bachman-turner-overdrive",
+  "title": "Street Action",
+  "artist": "Bachman-Turner Overdrive",
+  "peak": 130,
+  "history": [
+    {
+      "date": "1978-03-18",
+      "rank": 144
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 134
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 130
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Down the Road",
+      "id": "down-to-the-line-bachman-turner-overdrive"
+    },
+    {
+      "title": "I’m in Love",
+      "id": null
+    },
+    {
+      "title": "Takes a Lot of People",
+      "id": null
+    },
+    {
+      "title": "A Long Time for a Little While",
+      "id": null
+    },
+    {
+      "title": "Street Action",
+      "id": null
+    },
+    {
+      "title": "For Love",
+      "id": null
+    },
+    {
+      "title": "Madison Avenue",
+      "id": null
+    },
+    {
+      "title": "You’re Gonna Miss Me",
+      "id": null
+    },
+    {
+      "title": "The World Is Waiting for a Love Song",
+      "id": null
+    }
+  ]
+}

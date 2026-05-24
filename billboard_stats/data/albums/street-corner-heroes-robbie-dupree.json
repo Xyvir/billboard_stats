@@ -1,1 +1,70 @@
-{"id": "street-corner-heroes-robbie-dupree", "title": "Street Corner Heroes", "artist": "Robbie Dupree", "peak": 169, "history": [{"date": "1981-06-13", "rank": 184}, {"date": "1981-06-20", "rank": 171}, {"date": "1981-06-27", "rank": 171}, {"date": "1981-07-04", "rank": 170}, {"date": "1981-07-11", "rank": 169}]}
+{
+  "id": "street-corner-heroes-robbie-dupree",
+  "title": "Street Corner Heroes",
+  "artist": "Robbie Dupree",
+  "peak": 169,
+  "history": [
+    {
+      "date": "1981-06-13",
+      "rank": 184
+    },
+    {
+      "date": "1981-06-20",
+      "rank": 171
+    },
+    {
+      "date": "1981-06-27",
+      "rank": 171
+    },
+    {
+      "date": "1981-07-04",
+      "rank": 170
+    },
+    {
+      "date": "1981-07-11",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Brooklyn Girls",
+      "id": "brooklyn-girls-robbie-dupree"
+    },
+    {
+      "title": "Street Corner Heroes",
+      "id": null
+    },
+    {
+      "title": "Desperation",
+      "id": null
+    },
+    {
+      "title": "All Night Long",
+      "id": null
+    },
+    {
+      "title": "Free Fallin’",
+      "id": null
+    },
+    {
+      "title": "I’ll Be the Fool Again",
+      "id": null
+    },
+    {
+      "title": "Are You Ready for Love",
+      "id": null
+    },
+    {
+      "title": "Saturday Night",
+      "id": null
+    },
+    {
+      "title": "Missing You",
+      "id": null
+    },
+    {
+      "title": "The Long Goodbye",
+      "id": null
+    }
+  ]
+}

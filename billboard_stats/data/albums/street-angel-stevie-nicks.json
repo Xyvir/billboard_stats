@@ -1,1 +1,102 @@
-{"id": "street-angel-stevie-nicks", "title": "Street Angel", "artist": "Stevie Nicks", "peak": 45, "history": [{"date": "1994-06-25", "rank": 45}, {"date": "1994-07-02", "rank": 61}, {"date": "1994-07-09", "rank": 87}, {"date": "1994-07-16", "rank": 109}, {"date": "1994-07-23", "rank": 125}, {"date": "1994-07-30", "rank": 116}, {"date": "1994-08-06", "rank": 140}, {"date": "1994-08-13", "rank": 142}, {"date": "1994-08-20", "rank": 151}, {"date": "1994-08-27", "rank": 179}]}
+{
+  "id": "street-angel-stevie-nicks",
+  "title": "Street Angel",
+  "artist": "Stevie Nicks",
+  "peak": 45,
+  "history": [
+    {
+      "date": "1994-06-25",
+      "rank": 45
+    },
+    {
+      "date": "1994-07-02",
+      "rank": 61
+    },
+    {
+      "date": "1994-07-09",
+      "rank": 87
+    },
+    {
+      "date": "1994-07-16",
+      "rank": 109
+    },
+    {
+      "date": "1994-07-23",
+      "rank": 125
+    },
+    {
+      "date": "1994-07-30",
+      "rank": 116
+    },
+    {
+      "date": "1994-08-06",
+      "rank": 140
+    },
+    {
+      "date": "1994-08-13",
+      "rank": 142
+    },
+    {
+      "date": "1994-08-20",
+      "rank": 151
+    },
+    {
+      "date": "1994-08-27",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Maybe Love Will Change Your Mind",
+      "id": "maybe-love-will-change-your-mind-stevie-nicks"
+    },
+    {
+      "title": "Blue Denim",
+      "id": null
+    },
+    {
+      "title": "Greta",
+      "id": null
+    },
+    {
+      "title": "Street Angel",
+      "id": null
+    },
+    {
+      "title": "Docklands",
+      "id": null
+    },
+    {
+      "title": "Listen to the Rain",
+      "id": null
+    },
+    {
+      "title": "Destiny",
+      "id": null
+    },
+    {
+      "title": "Unconditional Love",
+      "id": null
+    },
+    {
+      "title": "Love Is Like a River",
+      "id": null
+    },
+    {
+      "title": "Rose Garden",
+      "id": null
+    },
+    {
+      "title": "Just Like a Woman",
+      "id": null
+    },
+    {
+      "title": "Kick It",
+      "id": null
+    },
+    {
+      "title": "Jane",
+      "id": null
+    }
+  ]
+}
