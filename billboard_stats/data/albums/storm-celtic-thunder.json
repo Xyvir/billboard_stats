@@ -1,1 +1,78 @@
-{"id": "storm-celtic-thunder", "title": "Storm", "artist": "Celtic Thunder", "peak": 25, "history": [{"date": "2011-09-24", "rank": 25}, {"date": "2011-10-08", "rank": 77}]}
+{
+  "id": "storm-celtic-thunder",
+  "title": "Storm",
+  "artist": "Celtic Thunder",
+  "peak": 25,
+  "history": [
+    {
+      "date": "2011-09-24",
+      "rank": 25
+    },
+    {
+      "date": "2011-10-08",
+      "rank": 77
+    }
+  ],
+  "tracks": [
+    {
+      "title": "New Day Dawning",
+      "id": null
+    },
+    {
+      "title": "Outside Looking In",
+      "id": null
+    },
+    {
+      "title": "When You Are 18",
+      "id": null
+    },
+    {
+      "title": "Life in the Old Dog Yet",
+      "id": null
+    },
+    {
+      "title": "Not the One",
+      "id": null
+    },
+    {
+      "title": "Stand and Deliver",
+      "id": null
+    },
+    {
+      "title": "The Highwayman",
+      "id": null
+    },
+    {
+      "title": "Lagan Love",
+      "id": null
+    },
+    {
+      "title": "Midnight Well",
+      "id": null
+    },
+    {
+      "title": "Shadow’s Dancing",
+      "id": null
+    },
+    {
+      "title": "Harry’s Game",
+      "id": null
+    },
+    {
+      "title": "Tender Is the Night",
+      "id": null
+    },
+    {
+      "title": "This Was My Life",
+      "id": null
+    },
+    {
+      "title": "Look at Me",
+      "id": null
+    },
+    {
+      "title": "Hail the Hero (Mo Ghile Mear)",
+      "id": null
+    }
+  ]
+}

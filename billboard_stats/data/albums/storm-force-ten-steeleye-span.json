@@ -1,1 +1,54 @@
-{"id": "storm-force-ten-steeleye-span", "title": "Storm Force Ten", "artist": "Steeleye Span", "peak": 191, "history": [{"date": "1978-03-25", "rank": 199}, {"date": "1978-04-01", "rank": 197}, {"date": "1978-04-08", "rank": 191}]}
+{
+  "id": "storm-force-ten-steeleye-span",
+  "title": "Storm Force Ten",
+  "artist": "Steeleye Span",
+  "peak": 191,
+  "history": [
+    {
+      "date": "1978-03-25",
+      "rank": 199
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 197
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Awake, Awake",
+      "id": null
+    },
+    {
+      "title": "Sweep, Chimney Sweep",
+      "id": null
+    },
+    {
+      "title": "The Wife of the Soldier",
+      "id": null
+    },
+    {
+      "title": "The Victory",
+      "id": null
+    },
+    {
+      "title": "The Black Freighter",
+      "id": null
+    },
+    {
+      "title": "Some Rival",
+      "id": null
+    },
+    {
+      "title": "Treadmill Song",
+      "id": null
+    },
+    {
+      "title": "Seventeen Come Sunday",
+      "id": null
+    }
+  ]
+}

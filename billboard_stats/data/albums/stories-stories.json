@@ -1,1 +1,86 @@
-{"id": "stories-stories", "title": "Stories", "artist": "Stories", "peak": 182, "history": [{"date": "1972-07-01", "rank": 197}, {"date": "1972-07-08", "rank": 196}, {"date": "1972-07-15", "rank": 189}, {"date": "1972-07-22", "rank": 186}, {"date": "1972-07-29", "rank": 186}, {"date": "1972-08-05", "rank": 183}, {"date": "1972-08-12", "rank": 182}, {"date": "1972-08-19", "rank": 182}, {"date": "1972-08-26", "rank": 188}]}
+{
+  "id": "stories-stories",
+  "title": "Stories",
+  "artist": "Stories",
+  "peak": 182,
+  "history": [
+    {
+      "date": "1972-07-01",
+      "rank": 197
+    },
+    {
+      "date": "1972-07-08",
+      "rank": 196
+    },
+    {
+      "date": "1972-07-15",
+      "rank": 189
+    },
+    {
+      "date": "1972-07-22",
+      "rank": 186
+    },
+    {
+      "date": "1972-07-29",
+      "rank": 186
+    },
+    {
+      "date": "1972-08-05",
+      "rank": 183
+    },
+    {
+      "date": "1972-08-12",
+      "rank": 182
+    },
+    {
+      "date": "1972-08-19",
+      "rank": 182
+    },
+    {
+      "date": "1972-08-26",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m Coming Home",
+      "id": "i-m-coming-home-stories"
+    },
+    {
+      "title": "Hello People",
+      "id": null
+    },
+    {
+      "title": "Winter Scenes",
+      "id": null
+    },
+    {
+      "title": "Step Back",
+      "id": null
+    },
+    {
+      "title": "You Told Me",
+      "id": null
+    },
+    {
+      "title": "St. James",
+      "id": null
+    },
+    {
+      "title": "Kathleen",
+      "id": null
+    },
+    {
+      "title": "Take Cover",
+      "id": null
+    },
+    {
+      "title": "Nice to Have You Here",
+      "id": null
+    },
+    {
+      "title": "High and Low",
+      "id": null
+    }
+  ]
+}
