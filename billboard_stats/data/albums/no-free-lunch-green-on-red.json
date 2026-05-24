@@ -1,1 +1,62 @@
-{"id": "no-free-lunch-green-on-red", "title": "No Free Lunch", "artist": "Green On Red", "peak": 177, "history": [{"date": "1986-05-03", "rank": 195}, {"date": "1986-05-10", "rank": 194}, {"date": "1986-05-17", "rank": 191}, {"date": "1986-05-24", "rank": 186}, {"date": "1986-05-31", "rank": 182}, {"date": "1986-06-07", "rank": 177}]}
+{
+  "id": "no-free-lunch-green-on-red",
+  "title": "No Free Lunch",
+  "artist": "Green On Red",
+  "peak": 177,
+  "history": [
+    {
+      "date": "1986-05-03",
+      "rank": 195
+    },
+    {
+      "date": "1986-05-10",
+      "rank": 194
+    },
+    {
+      "date": "1986-05-17",
+      "rank": 191
+    },
+    {
+      "date": "1986-05-24",
+      "rank": 186
+    },
+    {
+      "date": "1986-05-31",
+      "rank": 182
+    },
+    {
+      "date": "1986-06-07",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Keep On Moving",
+      "id": null
+    },
+    {
+      "title": "Honest Man",
+      "id": null
+    },
+    {
+      "title": "Ballad of Guy Fawkes",
+      "id": null
+    },
+    {
+      "title": "No Free Lunch",
+      "id": null
+    },
+    {
+      "title": "Funny How Time Slips Away",
+      "id": null
+    },
+    {
+      "title": "Jimmy Boy",
+      "id": null
+    },
+    {
+      "title": "Time Ain’t Nothing",
+      "id": null
+    }
+  ]
+}

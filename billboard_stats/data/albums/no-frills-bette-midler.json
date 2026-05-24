@@ -1,1 +1,102 @@
-{"id": "no-frills-bette-midler", "title": "No Frills", "artist": "Bette Midler", "peak": 60, "history": [{"date": "1983-08-27", "rank": 140}, {"date": "1983-09-03", "rank": 87}, {"date": "1983-09-10", "rank": 74}, {"date": "1983-09-17", "rank": 68}, {"date": "1983-09-24", "rank": 64}, {"date": "1983-10-01", "rank": 63}, {"date": "1983-10-08", "rank": 60}, {"date": "1983-10-15", "rank": 66}, {"date": "1983-10-22", "rank": 89}, {"date": "1983-10-29", "rank": 96}, {"date": "1983-11-05", "rank": 113}, {"date": "1983-11-12", "rank": 133}, {"date": "1983-11-19", "rank": 184}]}
+{
+  "id": "no-frills-bette-midler",
+  "title": "No Frills",
+  "artist": "Bette Midler",
+  "peak": 60,
+  "history": [
+    {
+      "date": "1983-08-27",
+      "rank": 140
+    },
+    {
+      "date": "1983-09-03",
+      "rank": 87
+    },
+    {
+      "date": "1983-09-10",
+      "rank": 74
+    },
+    {
+      "date": "1983-09-17",
+      "rank": 68
+    },
+    {
+      "date": "1983-09-24",
+      "rank": 64
+    },
+    {
+      "date": "1983-10-01",
+      "rank": 63
+    },
+    {
+      "date": "1983-10-08",
+      "rank": 60
+    },
+    {
+      "date": "1983-10-15",
+      "rank": 66
+    },
+    {
+      "date": "1983-10-22",
+      "rank": 89
+    },
+    {
+      "date": "1983-10-29",
+      "rank": 96
+    },
+    {
+      "date": "1983-11-05",
+      "rank": 113
+    },
+    {
+      "date": "1983-11-12",
+      "rank": 133
+    },
+    {
+      "date": "1983-11-19",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Favorite Waste of Time",
+      "id": "favorite-waste-of-time-bette-midler"
+    },
+    {
+      "title": "All I Need to Know",
+      "id": "all-i-need-to-know-bette-midler"
+    },
+    {
+      "title": "Beast of Burden",
+      "id": "beast-of-burden-bette-midler"
+    },
+    {
+      "title": "Is It Love",
+      "id": null
+    },
+    {
+      "title": "Only in Miami",
+      "id": null
+    },
+    {
+      "title": "Heart Over Head",
+      "id": null
+    },
+    {
+      "title": "Let Me Drive",
+      "id": null
+    },
+    {
+      "title": "My Eye on You",
+      "id": null
+    },
+    {
+      "title": "Soda and a Souvenir",
+      "id": null
+    },
+    {
+      "title": "Come Back Jimmy Dean",
+      "id": null
+    }
+  ]
+}
