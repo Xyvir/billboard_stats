@@ -1,1 +1,58 @@
-{"id": "the-alternate-rumours-fleetwood-mac", "title": "The Alternate Rumours", "artist": "Fleetwood Mac", "peak": 164, "history": [{"date": "2020-10-10", "rank": 164}]}
+{
+  "id": "the-alternate-rumours-fleetwood-mac",
+  "title": "The Alternate Rumours",
+  "artist": "Fleetwood Mac",
+  "peak": 164,
+  "history": [
+    {
+      "date": "2020-10-10",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Stop (alternate)",
+      "id": "don-t-stop-fleetwood-mac"
+    },
+    {
+      "title": "Go Your Own Way (alternate)",
+      "id": "go-your-own-way-fleetwood-mac"
+    },
+    {
+      "title": "You Make Loving Fun (alternate)",
+      "id": "you-make-loving-fun-fleetwood-mac"
+    },
+    {
+      "title": "Second Hand News (alternate)",
+      "id": null
+    },
+    {
+      "title": "Dreams (alternate)",
+      "id": null
+    },
+    {
+      "title": "Never Going Back Again (acoustic duet)",
+      "id": null
+    },
+    {
+      "title": "Songbird (alternate)",
+      "id": null
+    },
+    {
+      "title": "The Chain (demo)",
+      "id": null
+    },
+    {
+      "title": "I Don’t Want to Know (early take)",
+      "id": null
+    },
+    {
+      "title": "Oh Daddy (alternate)",
+      "id": null
+    },
+    {
+      "title": "Gold Dust Woman (early take)",
+      "id": null
+    }
+  ]
+}

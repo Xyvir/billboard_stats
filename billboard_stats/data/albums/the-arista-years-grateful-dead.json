@@ -1,1 +1,122 @@
-{"id": "the-arista-years-grateful-dead", "title": "The Arista Years", "artist": "Grateful Dead", "peak": 95, "history": [{"date": "1996-11-02", "rank": 95}, {"date": "1996-11-09", "rank": 154}]}
+{
+  "id": "the-arista-years-grateful-dead",
+  "title": "The Arista Years",
+  "artist": "Grateful Dead",
+  "peak": 95,
+  "history": [
+    {
+      "date": "1996-11-02",
+      "rank": 95
+    },
+    {
+      "date": "1996-11-09",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Alabama Getaway",
+      "id": "alabama-getaway-grateful-dead"
+    },
+    {
+      "title": "Touch of Grey",
+      "id": "touch-of-grey-grateful-dead"
+    },
+    {
+      "title": "Estimated Prophet",
+      "id": null
+    },
+    {
+      "title": "Passenger",
+      "id": null
+    },
+    {
+      "title": "Samson and Delilah",
+      "id": null
+    },
+    {
+      "title": "Terrapin Station (medley)",
+      "id": null
+    },
+    {
+      "title": "Good Lovin’",
+      "id": null
+    },
+    {
+      "title": "Shakedown Street",
+      "id": null
+    },
+    {
+      "title": "Fire on the Mountain",
+      "id": null
+    },
+    {
+      "title": "I Need a Miracle",
+      "id": null
+    },
+    {
+      "title": "Far From Me",
+      "id": null
+    },
+    {
+      "title": "Saint of Circumstance",
+      "id": null
+    },
+    {
+      "title": "Dire Wolf",
+      "id": null
+    },
+    {
+      "title": "Cassidy",
+      "id": null
+    },
+    {
+      "title": "Feel Like a Stranger",
+      "id": null
+    },
+    {
+      "title": "Franklin’s Tower",
+      "id": null
+    },
+    {
+      "title": "Hell in a Bucket",
+      "id": null
+    },
+    {
+      "title": "West L.A. Fadeaway",
+      "id": null
+    },
+    {
+      "title": "Throwing Stones",
+      "id": null
+    },
+    {
+      "title": "Black Muddy River",
+      "id": null
+    },
+    {
+      "title": "Foolish Heart",
+      "id": null
+    },
+    {
+      "title": "Built to Last",
+      "id": null
+    },
+    {
+      "title": "Just a Little Light",
+      "id": null
+    },
+    {
+      "title": "Picasso Moon",
+      "id": null
+    },
+    {
+      "title": "Standing on the Moon",
+      "id": null
+    },
+    {
+      "title": "Eyes of the World",
+      "id": null
+    }
+  ]
+}

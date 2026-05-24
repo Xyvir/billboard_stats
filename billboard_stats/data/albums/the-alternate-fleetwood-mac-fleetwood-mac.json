@@ -1,1 +1,58 @@
-{"id": "the-alternate-fleetwood-mac-fleetwood-mac", "title": "The Alternate Fleetwood Mac", "artist": "Fleetwood Mac", "peak": 181, "history": [{"date": "2019-04-27", "rank": 181}]}
+{
+  "id": "the-alternate-fleetwood-mac-fleetwood-mac",
+  "title": "The Alternate Fleetwood Mac",
+  "artist": "Fleetwood Mac",
+  "peak": 181,
+  "history": [
+    {
+      "date": "2019-04-27",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Over My Head (early take)",
+      "id": "over-my-head-fleetwood-mac"
+    },
+    {
+      "title": "Say You Love Me (early version)",
+      "id": "say-you-love-me-fleetwood-mac"
+    },
+    {
+      "title": "Landslide (early version)",
+      "id": "landslide-live-1997-fleetwood-mac"
+    },
+    {
+      "title": "Monday Morning (early take)",
+      "id": null
+    },
+    {
+      "title": "Warm Ways (early take)",
+      "id": null
+    },
+    {
+      "title": "Blue Letter (early take)",
+      "id": null
+    },
+    {
+      "title": "Rhiannon (early take)",
+      "id": null
+    },
+    {
+      "title": "Crystal (early version)",
+      "id": null
+    },
+    {
+      "title": "World Turning (early version)",
+      "id": null
+    },
+    {
+      "title": "Sugar Daddy (early take)",
+      "id": null
+    },
+    {
+      "title": "I’m So Afraid (early version)",
+      "id": null
+    }
+  ]
+}
