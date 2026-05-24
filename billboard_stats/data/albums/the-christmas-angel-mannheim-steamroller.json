@@ -1,1 +1,102 @@
-{"id": "the-christmas-angel-mannheim-steamroller", "title": "The Christmas Angel", "artist": "Mannheim Steamroller", "peak": 25, "history": [{"date": "1998-11-14", "rank": 88}, {"date": "1998-11-21", "rank": 86}, {"date": "1998-11-28", "rank": 80}, {"date": "1998-12-05", "rank": 36}, {"date": "1998-12-12", "rank": 31}, {"date": "1998-12-19", "rank": 27}, {"date": "1998-12-26", "rank": 25}, {"date": "1999-01-02", "rank": 40}, {"date": "1999-01-09", "rank": 61}, {"date": "1999-01-16", "rank": 119}, {"date": "1999-01-23", "rank": 64}]}
+{
+  "id": "the-christmas-angel-mannheim-steamroller",
+  "title": "The Christmas Angel",
+  "artist": "Mannheim Steamroller",
+  "peak": 25,
+  "history": [
+    {
+      "date": "1998-11-14",
+      "rank": 88
+    },
+    {
+      "date": "1998-11-21",
+      "rank": 86
+    },
+    {
+      "date": "1998-11-28",
+      "rank": 80
+    },
+    {
+      "date": "1998-12-05",
+      "rank": 36
+    },
+    {
+      "date": "1998-12-12",
+      "rank": 31
+    },
+    {
+      "date": "1998-12-19",
+      "rank": 27
+    },
+    {
+      "date": "1998-12-26",
+      "rank": 25
+    },
+    {
+      "date": "1999-01-02",
+      "rank": 40
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 61
+    },
+    {
+      "date": "1999-01-16",
+      "rank": 119
+    },
+    {
+      "date": "1999-01-23",
+      "rank": 64
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Introduction",
+      "id": null
+    },
+    {
+      "title": "Joy to the World",
+      "id": null
+    },
+    {
+      "title": "Stille Nacht",
+      "id": null
+    },
+    {
+      "title": "The Dream",
+      "id": null
+    },
+    {
+      "title": "Crystal",
+      "id": null
+    },
+    {
+      "title": "Carol of the Bells",
+      "id": null
+    },
+    {
+      "title": "Messengers of Christmas",
+      "id": null
+    },
+    {
+      "title": "Greensleeves",
+      "id": null
+    },
+    {
+      "title": "Above the Northern Lights",
+      "id": null
+    },
+    {
+      "title": "Good King Wenceslas",
+      "id": null
+    },
+    {
+      "title": "Deck the Halls",
+      "id": null
+    },
+    {
+      "title": "Angels We Have Heard on High",
+      "id": null
+    }
+  ]
+}

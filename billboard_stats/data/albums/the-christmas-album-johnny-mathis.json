@@ -1,1 +1,58 @@
-{"id": "the-christmas-album-johnny-mathis", "title": "The Christmas Album", "artist": "Johnny Mathis", "peak": 143, "history": [{"date": "2002-12-14", "rank": 153}, {"date": "2002-12-21", "rank": 143}]}
+{
+  "id": "the-christmas-album-johnny-mathis",
+  "title": "The Christmas Album",
+  "artist": "Johnny Mathis",
+  "peak": 143,
+  "history": [
+    {
+      "date": "2002-12-14",
+      "rank": 153
+    },
+    {
+      "date": "2002-12-21",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Joy to the World",
+      "id": null
+    },
+    {
+      "title": "Heavenly Peace",
+      "id": null
+    },
+    {
+      "title": "Away in a Manger",
+      "id": null
+    },
+    {
+      "title": "A Christmas Love Song",
+      "id": null
+    },
+    {
+      "title": "Frosty the Snowman",
+      "id": null
+    },
+    {
+      "title": "Have a Holly Jolly Christmas",
+      "id": null
+    },
+    {
+      "title": "O Little Town of Bethlehem",
+      "id": null
+    },
+    {
+      "title": "I’ve Got My Love to Keep Me Warm",
+      "id": null
+    },
+    {
+      "title": "Snowfall / Christmas Time Is Here",
+      "id": null
+    },
+    {
+      "title": "Merry Christmas",
+      "id": null
+    }
+  ]
+}

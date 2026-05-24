@@ -1,1 +1,78 @@
-{"id": "the-christmas-music-of-johnny-mathis-a-personal-collection-johnny-mathis", "title": "The Christmas Music Of Johnny Mathis, A Personal Collection", "artist": "Johnny Mathis", "peak": 162, "history": [{"date": "1993-12-18", "rank": 183}, {"date": "1993-12-25", "rank": 162}, {"date": "1994-01-01", "rank": 187}]}
+{
+  "id": "the-christmas-music-of-johnny-mathis-a-personal-collection-johnny-mathis",
+  "title": "The Christmas Music Of Johnny Mathis, A Personal Collection",
+  "artist": "Johnny Mathis",
+  "peak": 162,
+  "history": [
+    {
+      "date": "1993-12-18",
+      "rank": 183
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 162
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Marshmallow World",
+      "id": "small-world-johnny-mathis"
+    },
+    {
+      "title": "Silent Night, Holy Night",
+      "id": null
+    },
+    {
+      "title": "Silver Bells",
+      "id": null
+    },
+    {
+      "title": "Winter Wonderland",
+      "id": null
+    },
+    {
+      "title": "Sleigh Ride",
+      "id": null
+    },
+    {
+      "title": "White Christmas",
+      "id": null
+    },
+    {
+      "title": "Let It Snow! Let It Snow! Let It Snow!",
+      "id": null
+    },
+    {
+      "title": "Have Yourself a Merry Little Christmas",
+      "id": null
+    },
+    {
+      "title": "The Little Drummer Boy",
+      "id": null
+    },
+    {
+      "title": "Santa Claus Is Comin’ to Town",
+      "id": null
+    },
+    {
+      "title": "It’s Beginning to Look a Lot Like Christmas",
+      "id": null
+    },
+    {
+      "title": "The Christmas Waltz",
+      "id": null
+    },
+    {
+      "title": "We Need a Little Christmas",
+      "id": null
+    },
+    {
+      "title": "It’s the Most Wonderful Time of the Year",
+      "id": null
+    }
+  ]
+}

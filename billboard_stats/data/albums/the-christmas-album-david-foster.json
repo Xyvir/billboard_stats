@@ -1,1 +1,78 @@
-{"id": "the-christmas-album-david-foster", "title": "The Christmas Album", "artist": "David Foster", "peak": 48, "history": [{"date": "1993-12-11", "rank": 157}, {"date": "1993-12-18", "rank": 98}, {"date": "1993-12-25", "rank": 48}, {"date": "1994-01-01", "rank": 50}, {"date": "1994-01-08", "rank": 75}]}
+{
+  "id": "the-christmas-album-david-foster",
+  "title": "The Christmas Album",
+  "artist": "David Foster",
+  "peak": 48,
+  "history": [
+    {
+      "date": "1993-12-11",
+      "rank": 157
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 98
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 48
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 50
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 75
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Carol of the Bells",
+      "id": null
+    },
+    {
+      "title": "Blue Christmas",
+      "id": null
+    },
+    {
+      "title": "The First Noel",
+      "id": null
+    },
+    {
+      "title": "It’s the Most Wonderful Time of the Year",
+      "id": null
+    },
+    {
+      "title": "Grown-Up Christmas List",
+      "id": null
+    },
+    {
+      "title": "O Holy Night",
+      "id": null
+    },
+    {
+      "title": "Go Tell It on the Mountain",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Home for Christmas",
+      "id": null
+    },
+    {
+      "title": "Mary’s Boy Child",
+      "id": null
+    },
+    {
+      "title": "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+      "id": null
+    },
+    {
+      "title": "Away in a Manger",
+      "id": null
+    },
+    {
+      "title": "White Christmas",
+      "id": null
+    }
+  ]
+}

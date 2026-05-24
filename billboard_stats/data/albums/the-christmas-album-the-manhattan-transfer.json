@@ -1,1 +1,70 @@
-{"id": "the-christmas-album-the-manhattan-transfer", "title": "The Christmas Album", "artist": "The Manhattan Transfer", "peak": 120, "history": [{"date": "1992-12-12", "rank": 169}, {"date": "1992-12-19", "rank": 139}, {"date": "1992-12-26", "rank": 120}, {"date": "1993-01-02", "rank": 140}]}
+{
+  "id": "the-christmas-album-the-manhattan-transfer",
+  "title": "The Christmas Album",
+  "artist": "The Manhattan Transfer",
+  "peak": 120,
+  "history": [
+    {
+      "date": "1992-12-12",
+      "rank": 169
+    },
+    {
+      "date": "1992-12-19",
+      "rank": 139
+    },
+    {
+      "date": "1992-12-26",
+      "rank": 120
+    },
+    {
+      "date": "1993-01-02",
+      "rank": 140
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Snowfall",
+      "id": null
+    },
+    {
+      "title": "Let It Snow! Let It Snow! Let It Snow!",
+      "id": null
+    },
+    {
+      "title": "Santa Claus Is Coming to Town / Santa Man",
+      "id": null
+    },
+    {
+      "title": "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+      "id": null
+    },
+    {
+      "title": "Silent Night, Holy Night",
+      "id": null
+    },
+    {
+      "title": "Caroling, Caroling",
+      "id": null
+    },
+    {
+      "title": "Happy Holiday / The Holiday Season",
+      "id": null
+    },
+    {
+      "title": "A Christmas Love Song",
+      "id": null
+    },
+    {
+      "title": "It Came Upon a Midnight Clear",
+      "id": null
+    },
+    {
+      "title": "Have Yourself a Merry Little Christmas",
+      "id": null
+    },
+    {
+      "title": "Goodnight",
+      "id": null
+    }
+  ]
+}
