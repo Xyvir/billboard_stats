@@ -1,1 +1,82 @@
-{"id": "reboot-brooks-dunn", "title": "Reboot", "artist": "Brooks & Dunn", "peak": 8, "history": [{"date": "2019-04-20", "rank": 8}, {"date": "2019-04-27", "rank": 41}, {"date": "2019-05-04", "rank": 72}, {"date": "2019-05-11", "rank": 120}, {"date": "2019-05-18", "rank": 152}, {"date": "2019-05-25", "rank": 171}]}
+{
+  "id": "reboot-brooks-dunn",
+  "title": "Reboot",
+  "artist": "Brooks & Dunn",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2019-04-20",
+      "rank": 8
+    },
+    {
+      "date": "2019-04-27",
+      "rank": 41
+    },
+    {
+      "date": "2019-05-04",
+      "rank": 72
+    },
+    {
+      "date": "2019-05-11",
+      "rank": 120
+    },
+    {
+      "date": "2019-05-18",
+      "rank": 152
+    },
+    {
+      "date": "2019-05-25",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ain’t Nothing ’bout You",
+      "id": "ain-t-nothing-bout-you-brooks-dunn"
+    },
+    {
+      "title": "My Maria",
+      "id": "my-maria-brooks-dunn"
+    },
+    {
+      "title": "Red Dirt Road",
+      "id": "red-dirt-road-brooks-dunn"
+    },
+    {
+      "title": "Boot Scootin’ Boogie",
+      "id": "boot-scootin-boogie-brooks-dunn"
+    },
+    {
+      "title": "Believe",
+      "id": "believe-brooks-dunn"
+    },
+    {
+      "title": "Brand New Man",
+      "id": null
+    },
+    {
+      "title": "My Next Broken Heart",
+      "id": null
+    },
+    {
+      "title": "Neon Moon",
+      "id": null
+    },
+    {
+      "title": "Lost and Found",
+      "id": null
+    },
+    {
+      "title": "Hard Workin’ Man",
+      "id": null
+    },
+    {
+      "title": "You’re Gonna Miss Me When I’m Gone",
+      "id": null
+    },
+    {
+      "title": "Mama Don’t Get Dressed Up for Nothing",
+      "id": null
+    }
+  ]
+}

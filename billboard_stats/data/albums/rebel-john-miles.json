@@ -1,1 +1,70 @@
-{"id": "rebel-john-miles", "title": "Rebel", "artist": "John Miles", "peak": 171, "history": [{"date": "1976-05-22", "rank": 185}, {"date": "1976-05-29", "rank": 175}, {"date": "1976-06-05", "rank": 172}, {"date": "1976-06-12", "rank": 171}]}
+{
+  "id": "rebel-john-miles",
+  "title": "Rebel",
+  "artist": "John Miles",
+  "peak": 171,
+  "history": [
+    {
+      "date": "1976-05-22",
+      "rank": 185
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 175
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 172
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Music",
+      "id": "music-john-miles"
+    },
+    {
+      "title": "Highfly",
+      "id": "highfly-john-miles"
+    },
+    {
+      "title": "Everybody Wants Some More",
+      "id": null
+    },
+    {
+      "title": "You Have It All",
+      "id": null
+    },
+    {
+      "title": "Rebel",
+      "id": null
+    },
+    {
+      "title": "When You Lose Someone So Young",
+      "id": null
+    },
+    {
+      "title": "Lady of My Life",
+      "id": null
+    },
+    {
+      "title": "Pull the Damn Thing Down",
+      "id": null
+    },
+    {
+      "title": "Music (reprise)",
+      "id": null
+    },
+    {
+      "title": "(There’s a) Man Behind the Guitar",
+      "id": null
+    },
+    {
+      "title": "Putting My New Song Together",
+      "id": null
+    }
+  ]
+}
