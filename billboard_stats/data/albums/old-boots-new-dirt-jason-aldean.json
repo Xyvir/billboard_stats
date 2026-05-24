@@ -1,1 +1,366 @@
-{"id": "old-boots-new-dirt-jason-aldean", "title": "Old Boots, New Dirt", "artist": "Jason Aldean", "peak": 1, "history": [{"date": "2014-10-25", "rank": 1}, {"date": "2014-11-01", "rank": 2}, {"date": "2014-11-08", "rank": 6}, {"date": "2014-11-15", "rank": 5}, {"date": "2014-11-22", "rank": 4}, {"date": "2014-11-29", "rank": 11}, {"date": "2014-12-06", "rank": 14}, {"date": "2014-12-13", "rank": 23}, {"date": "2014-12-20", "rank": 20}, {"date": "2014-12-27", "rank": 18}, {"date": "2015-01-03", "rank": 18}, {"date": "2015-01-10", "rank": 14}, {"date": "2015-01-17", "rank": 17}, {"date": "2015-01-24", "rank": 17}, {"date": "2015-01-31", "rank": 21}, {"date": "2015-02-07", "rank": 30}, {"date": "2015-02-14", "rank": 34}, {"date": "2015-02-21", "rank": 30}, {"date": "2015-02-28", "rank": 30}, {"date": "2015-03-07", "rank": 28}, {"date": "2015-03-14", "rank": 37}, {"date": "2015-03-21", "rank": 44}, {"date": "2015-03-28", "rank": 37}, {"date": "2015-04-04", "rank": 44}, {"date": "2015-04-11", "rank": 55}, {"date": "2015-04-18", "rank": 48}, {"date": "2015-04-25", "rank": 50}, {"date": "2015-05-02", "rank": 48}, {"date": "2015-05-09", "rank": 38}, {"date": "2015-05-16", "rank": 41}, {"date": "2015-05-23", "rank": 46}, {"date": "2015-05-30", "rank": 48}, {"date": "2015-06-06", "rank": 59}, {"date": "2015-06-13", "rank": 63}, {"date": "2015-06-20", "rank": 54}, {"date": "2015-06-27", "rank": 52}, {"date": "2015-07-04", "rank": 54}, {"date": "2015-07-11", "rank": 51}, {"date": "2015-07-18", "rank": 62}, {"date": "2015-07-25", "rank": 62}, {"date": "2015-08-01", "rank": 61}, {"date": "2015-08-08", "rank": 54}, {"date": "2015-08-15", "rank": 60}, {"date": "2015-08-22", "rank": 44}, {"date": "2015-08-29", "rank": 55}, {"date": "2015-09-05", "rank": 70}, {"date": "2015-09-12", "rank": 86}, {"date": "2015-09-19", "rank": 68}, {"date": "2015-09-26", "rank": 68}, {"date": "2015-10-03", "rank": 93}, {"date": "2015-10-10", "rank": 119}, {"date": "2015-10-17", "rank": 130}, {"date": "2015-10-24", "rank": 139}, {"date": "2015-10-31", "rank": 125}, {"date": "2015-11-07", "rank": 108}, {"date": "2015-11-14", "rank": 114}, {"date": "2015-11-21", "rank": 102}, {"date": "2015-11-28", "rank": 113}, {"date": "2015-12-05", "rank": 122}, {"date": "2015-12-12", "rank": 121}, {"date": "2015-12-19", "rank": 158}, {"date": "2015-12-26", "rank": 164}, {"date": "2016-01-02", "rank": 149}, {"date": "2016-01-09", "rank": 123}, {"date": "2016-01-16", "rank": 118}, {"date": "2016-01-23", "rank": 118}, {"date": "2016-01-30", "rank": 131}, {"date": "2016-02-06", "rank": 175}, {"date": "2016-02-13", "rank": 189}, {"date": "2016-02-20", "rank": 186}, {"date": "2016-04-23", "rank": 171}]}
+{
+  "id": "old-boots-new-dirt-jason-aldean",
+  "title": "Old Boots, New Dirt",
+  "artist": "Jason Aldean",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2014-10-25",
+      "rank": 1
+    },
+    {
+      "date": "2014-11-01",
+      "rank": 2
+    },
+    {
+      "date": "2014-11-08",
+      "rank": 6
+    },
+    {
+      "date": "2014-11-15",
+      "rank": 5
+    },
+    {
+      "date": "2014-11-22",
+      "rank": 4
+    },
+    {
+      "date": "2014-11-29",
+      "rank": 11
+    },
+    {
+      "date": "2014-12-06",
+      "rank": 14
+    },
+    {
+      "date": "2014-12-13",
+      "rank": 23
+    },
+    {
+      "date": "2014-12-20",
+      "rank": 20
+    },
+    {
+      "date": "2014-12-27",
+      "rank": 18
+    },
+    {
+      "date": "2015-01-03",
+      "rank": 18
+    },
+    {
+      "date": "2015-01-10",
+      "rank": 14
+    },
+    {
+      "date": "2015-01-17",
+      "rank": 17
+    },
+    {
+      "date": "2015-01-24",
+      "rank": 17
+    },
+    {
+      "date": "2015-01-31",
+      "rank": 21
+    },
+    {
+      "date": "2015-02-07",
+      "rank": 30
+    },
+    {
+      "date": "2015-02-14",
+      "rank": 34
+    },
+    {
+      "date": "2015-02-21",
+      "rank": 30
+    },
+    {
+      "date": "2015-02-28",
+      "rank": 30
+    },
+    {
+      "date": "2015-03-07",
+      "rank": 28
+    },
+    {
+      "date": "2015-03-14",
+      "rank": 37
+    },
+    {
+      "date": "2015-03-21",
+      "rank": 44
+    },
+    {
+      "date": "2015-03-28",
+      "rank": 37
+    },
+    {
+      "date": "2015-04-04",
+      "rank": 44
+    },
+    {
+      "date": "2015-04-11",
+      "rank": 55
+    },
+    {
+      "date": "2015-04-18",
+      "rank": 48
+    },
+    {
+      "date": "2015-04-25",
+      "rank": 50
+    },
+    {
+      "date": "2015-05-02",
+      "rank": 48
+    },
+    {
+      "date": "2015-05-09",
+      "rank": 38
+    },
+    {
+      "date": "2015-05-16",
+      "rank": 41
+    },
+    {
+      "date": "2015-05-23",
+      "rank": 46
+    },
+    {
+      "date": "2015-05-30",
+      "rank": 48
+    },
+    {
+      "date": "2015-06-06",
+      "rank": 59
+    },
+    {
+      "date": "2015-06-13",
+      "rank": 63
+    },
+    {
+      "date": "2015-06-20",
+      "rank": 54
+    },
+    {
+      "date": "2015-06-27",
+      "rank": 52
+    },
+    {
+      "date": "2015-07-04",
+      "rank": 54
+    },
+    {
+      "date": "2015-07-11",
+      "rank": 51
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 62
+    },
+    {
+      "date": "2015-07-25",
+      "rank": 62
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 61
+    },
+    {
+      "date": "2015-08-08",
+      "rank": 54
+    },
+    {
+      "date": "2015-08-15",
+      "rank": 60
+    },
+    {
+      "date": "2015-08-22",
+      "rank": 44
+    },
+    {
+      "date": "2015-08-29",
+      "rank": 55
+    },
+    {
+      "date": "2015-09-05",
+      "rank": 70
+    },
+    {
+      "date": "2015-09-12",
+      "rank": 86
+    },
+    {
+      "date": "2015-09-19",
+      "rank": 68
+    },
+    {
+      "date": "2015-09-26",
+      "rank": 68
+    },
+    {
+      "date": "2015-10-03",
+      "rank": 93
+    },
+    {
+      "date": "2015-10-10",
+      "rank": 119
+    },
+    {
+      "date": "2015-10-17",
+      "rank": 130
+    },
+    {
+      "date": "2015-10-24",
+      "rank": 139
+    },
+    {
+      "date": "2015-10-31",
+      "rank": 125
+    },
+    {
+      "date": "2015-11-07",
+      "rank": 108
+    },
+    {
+      "date": "2015-11-14",
+      "rank": 114
+    },
+    {
+      "date": "2015-11-21",
+      "rank": 102
+    },
+    {
+      "date": "2015-11-28",
+      "rank": 113
+    },
+    {
+      "date": "2015-12-05",
+      "rank": 122
+    },
+    {
+      "date": "2015-12-12",
+      "rank": 121
+    },
+    {
+      "date": "2015-12-19",
+      "rank": 158
+    },
+    {
+      "date": "2015-12-26",
+      "rank": 164
+    },
+    {
+      "date": "2016-01-02",
+      "rank": 149
+    },
+    {
+      "date": "2016-01-09",
+      "rank": 123
+    },
+    {
+      "date": "2016-01-16",
+      "rank": 118
+    },
+    {
+      "date": "2016-01-23",
+      "rank": 118
+    },
+    {
+      "date": "2016-01-30",
+      "rank": 131
+    },
+    {
+      "date": "2016-02-06",
+      "rank": 175
+    },
+    {
+      "date": "2016-02-13",
+      "rank": 189
+    },
+    {
+      "date": "2016-02-20",
+      "rank": 186
+    },
+    {
+      "date": "2016-04-23",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Just Gettin’ Started",
+      "id": "just-gettin-started-jason-aldean"
+    },
+    {
+      "title": "Burnin’ It Down",
+      "id": "burnin-it-down-jason-aldean"
+    },
+    {
+      "title": "Sweet Little Somethin’",
+      "id": "sweet-little-somethin-jason-aldean"
+    },
+    {
+      "title": "Laid Back",
+      "id": "we-back-jason-aldean"
+    },
+    {
+      "title": "Tonight Looks Good on You",
+      "id": "tonight-looks-good-on-you-jason-aldean"
+    },
+    {
+      "title": "Don’t Change Gone",
+      "id": "don-t-tell-on-me-jason-aldean"
+    },
+    {
+      "title": "Gonna Know We Were Here",
+      "id": "gonna-know-we-were-here-jason-aldean"
+    },
+    {
+      "title": "Two Night Town",
+      "id": "two-night-town-jason-aldean"
+    },
+    {
+      "title": "Show You Off",
+      "id": null
+    },
+    {
+      "title": "Tryin’ to Love Me",
+      "id": null
+    },
+    {
+      "title": "Too Fast",
+      "id": null
+    },
+    {
+      "title": "If My Truck Could Talk",
+      "id": null
+    },
+    {
+      "title": "Old Boots, New Dirt",
+      "id": null
+    },
+    {
+      "title": "I Took It With Me",
+      "id": null
+    },
+    {
+      "title": "Miss That Girl",
+      "id": null
+    },
+    {
+      "title": "Fast Lanes",
+      "id": null
+    },
+    {
+      "title": "Too Much You for Me",
+      "id": null
+    },
+    {
+      "title": "Ain’t No Easy Way",
+      "id": null
+    }
+  ]
+}

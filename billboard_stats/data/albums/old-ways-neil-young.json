@@ -1,1 +1,98 @@
-{"id": "old-ways-neil-young", "title": "Old Ways", "artist": "Neil Young", "peak": 75, "history": [{"date": "1985-09-07", "rank": 100}, {"date": "1985-09-14", "rank": 84}, {"date": "1985-09-21", "rank": 80}, {"date": "1985-09-28", "rank": 78}, {"date": "1985-10-05", "rank": 75}, {"date": "1985-10-12", "rank": 75}, {"date": "1985-10-19", "rank": 97}, {"date": "1985-10-26", "rank": 95}, {"date": "1985-11-02", "rank": 107}, {"date": "1985-11-09", "rank": 125}, {"date": "1985-11-16", "rank": 148}, {"date": "1985-11-23", "rank": 172}]}
+{
+  "id": "old-ways-neil-young",
+  "title": "Old Ways",
+  "artist": "Neil Young",
+  "peak": 75,
+  "history": [
+    {
+      "date": "1985-09-07",
+      "rank": 100
+    },
+    {
+      "date": "1985-09-14",
+      "rank": 84
+    },
+    {
+      "date": "1985-09-21",
+      "rank": 80
+    },
+    {
+      "date": "1985-09-28",
+      "rank": 78
+    },
+    {
+      "date": "1985-10-05",
+      "rank": 75
+    },
+    {
+      "date": "1985-10-12",
+      "rank": 75
+    },
+    {
+      "date": "1985-10-19",
+      "rank": 97
+    },
+    {
+      "date": "1985-10-26",
+      "rank": 95
+    },
+    {
+      "date": "1985-11-02",
+      "rank": 107
+    },
+    {
+      "date": "1985-11-09",
+      "rank": 125
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 148
+    },
+    {
+      "date": "1985-11-23",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Old Ways",
+      "id": "old-man-neil-young"
+    },
+    {
+      "title": "The Wayward Wind",
+      "id": null
+    },
+    {
+      "title": "Get Back to the Country",
+      "id": null
+    },
+    {
+      "title": "Are There Any More Real Cowboys?",
+      "id": null
+    },
+    {
+      "title": "Once an Angel",
+      "id": null
+    },
+    {
+      "title": "Misfits",
+      "id": null
+    },
+    {
+      "title": "California Sunset",
+      "id": null
+    },
+    {
+      "title": "My Boy",
+      "id": null
+    },
+    {
+      "title": "Bound for Glory",
+      "id": null
+    },
+    {
+      "title": "Where Is the Highway Tonight?",
+      "id": null
+    }
+  ]
+}

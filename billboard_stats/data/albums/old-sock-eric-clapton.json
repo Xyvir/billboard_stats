@@ -1,1 +1,114 @@
-{"id": "old-sock-eric-clapton", "title": "Old Sock", "artist": "Eric Clapton", "peak": 7, "history": [{"date": "2013-03-30", "rank": 7}, {"date": "2013-04-06", "rank": 23}, {"date": "2013-04-13", "rank": 59}, {"date": "2013-04-20", "rank": 33}, {"date": "2013-04-27", "rank": 42}, {"date": "2013-05-04", "rank": 58}, {"date": "2013-05-11", "rank": 79}, {"date": "2013-05-18", "rank": 101}, {"date": "2013-05-25", "rank": 117}, {"date": "2013-06-01", "rank": 150}, {"date": "2013-06-08", "rank": 173}, {"date": "2013-06-15", "rank": 146}, {"date": "2013-06-22", "rank": 171}, {"date": "2013-06-29", "rank": 141}]}
+{
+  "id": "old-sock-eric-clapton",
+  "title": "Old Sock",
+  "artist": "Eric Clapton",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2013-03-30",
+      "rank": 7
+    },
+    {
+      "date": "2013-04-06",
+      "rank": 23
+    },
+    {
+      "date": "2013-04-13",
+      "rank": 59
+    },
+    {
+      "date": "2013-04-20",
+      "rank": 33
+    },
+    {
+      "date": "2013-04-27",
+      "rank": 42
+    },
+    {
+      "date": "2013-05-04",
+      "rank": 58
+    },
+    {
+      "date": "2013-05-11",
+      "rank": 79
+    },
+    {
+      "date": "2013-05-18",
+      "rank": 101
+    },
+    {
+      "date": "2013-05-25",
+      "rank": 117
+    },
+    {
+      "date": "2013-06-01",
+      "rank": 150
+    },
+    {
+      "date": "2013-06-08",
+      "rank": 173
+    },
+    {
+      "date": "2013-06-15",
+      "rank": 146
+    },
+    {
+      "date": "2013-06-22",
+      "rank": 171
+    },
+    {
+      "date": "2013-06-29",
+      "rank": 141
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Still Got the Blues",
+      "id": "bell-bottom-blues-eric-clapton"
+    },
+    {
+      "title": "Further On Down the Road",
+      "id": null
+    },
+    {
+      "title": "Angel",
+      "id": null
+    },
+    {
+      "title": "The Folks Who Live on the Hill",
+      "id": null
+    },
+    {
+      "title": "Gotta Get Over",
+      "id": null
+    },
+    {
+      "title": "Till Your Well Runs Dry",
+      "id": null
+    },
+    {
+      "title": "All of Me",
+      "id": null
+    },
+    {
+      "title": "Born to Lose",
+      "id": null
+    },
+    {
+      "title": "Goodnight Irene",
+      "id": null
+    },
+    {
+      "title": "Your One and Only Man",
+      "id": null
+    },
+    {
+      "title": "Every Little Thing",
+      "id": null
+    },
+    {
+      "title": "Our Love Is Here to Stay",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"id": "old-things-new-joe-nichols", "title": "Old Things New", "artist": "Joe Nichols", "peak": 71, "history": [{"date": "2009-11-14", "rank": 71}, {"date": "2009-11-21", "rank": 131}]}
+{
+  "id": "old-things-new-joe-nichols",
+  "title": "Old Things New",
+  "artist": "Joe Nichols",
+  "peak": 71,
+  "history": [
+    {
+      "date": "2009-11-14",
+      "rank": 71
+    },
+    {
+      "date": "2009-11-21",
+      "rank": 131
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Gimmie That Girl",
+      "id": "gimmie-that-girl-joe-nichols"
+    },
+    {
+      "title": "The Shape I'm In",
+      "id": "the-shape-i-m-in-joe-nichols"
+    },
+    {
+      "title": "Tequila Makes Her Clothes Fall Off (Fat Shan remix)",
+      "id": "tequila-makes-her-clothes-fall-off-joe-nichols"
+    },
+    {
+      "title": "It’s Me I’m Worried About",
+      "id": null
+    },
+    {
+      "title": "Old Things New",
+      "id": null
+    },
+    {
+      "title": "Man Woman",
+      "id": null
+    },
+    {
+      "title": "Believers",
+      "id": null
+    },
+    {
+      "title": "Cheaper Than a Shrink",
+      "id": null
+    },
+    {
+      "title": "This Bed’s Too Big",
+      "id": null
+    },
+    {
+      "title": "We All Go Home",
+      "id": null
+    },
+    {
+      "title": "An Old Friend of Mine",
+      "id": null
+    },
+    {
+      "title": "Let’s Get Drunk and Fight",
+      "id": null
+    }
+  ]
+}
