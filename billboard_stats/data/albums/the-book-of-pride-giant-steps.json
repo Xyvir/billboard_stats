@@ -1,1 +1,70 @@
-{"id": "the-book-of-pride-giant-steps", "title": "The Book Of Pride", "artist": "Giant Steps", "peak": 184, "history": [{"date": "1988-11-12", "rank": 194}, {"date": "1988-11-19", "rank": 187}, {"date": "1988-11-26", "rank": 185}, {"date": "1988-12-03", "rank": 184}, {"date": "1988-12-10", "rank": 195}]}
+{
+  "id": "the-book-of-pride-giant-steps",
+  "title": "The Book Of Pride",
+  "artist": "Giant Steps",
+  "peak": 184,
+  "history": [
+    {
+      "date": "1988-11-12",
+      "rank": 194
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 187
+    },
+    {
+      "date": "1988-11-26",
+      "rank": 185
+    },
+    {
+      "date": "1988-12-03",
+      "rank": 184
+    },
+    {
+      "date": "1988-12-10",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Into You",
+      "id": "into-you-giant-steps"
+    },
+    {
+      "title": "Steamy",
+      "id": null
+    },
+    {
+      "title": "(The World Don't Need) Another Lover",
+      "id": null
+    },
+    {
+      "title": "Golden Hours (Bone)",
+      "id": null
+    },
+    {
+      "title": "Do You Still Care",
+      "id": null
+    },
+    {
+      "title": "Same Planet Different World",
+      "id": null
+    },
+    {
+      "title": "The Book of Pride",
+      "id": null
+    },
+    {
+      "title": "End of the War",
+      "id": null
+    },
+    {
+      "title": "Dance Away",
+      "id": null
+    },
+    {
+      "title": "Dream Wonderful",
+      "id": null
+    }
+  ]
+}

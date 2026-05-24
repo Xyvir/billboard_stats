@@ -1,1 +1,90 @@
-{"id": "the-body-and-soul-of-tom-jones-tom-jones", "title": "The Body And Soul Of Tom Jones", "artist": "Tom Jones", "peak": 93, "history": [{"date": "1973-06-16", "rank": 175}, {"date": "1973-06-23", "rank": 122}, {"date": "1973-06-30", "rank": 118}, {"date": "1973-07-07", "rank": 118}, {"date": "1973-07-14", "rank": 93}, {"date": "1973-07-21", "rank": 93}, {"date": "1973-07-28", "rank": 108}, {"date": "1973-08-04", "rank": 118}, {"date": "1973-08-11", "rank": 142}, {"date": "1973-08-18", "rank": 166}]}
+{
+  "id": "the-body-and-soul-of-tom-jones-tom-jones",
+  "title": "The Body And Soul Of Tom Jones",
+  "artist": "Tom Jones",
+  "peak": 93,
+  "history": [
+    {
+      "date": "1973-06-16",
+      "rank": 175
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 122
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 118
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 118
+    },
+    {
+      "date": "1973-07-14",
+      "rank": 93
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 93
+    },
+    {
+      "date": "1973-07-28",
+      "rank": 108
+    },
+    {
+      "date": "1973-08-04",
+      "rank": 118
+    },
+    {
+      "date": "1973-08-11",
+      "rank": 142
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Letter to Lucille",
+      "id": "letter-to-lucille-tom-jones"
+    },
+    {
+      "title": "Today I Started Loving You Again",
+      "id": "can-t-stop-loving-you-tom-jones"
+    },
+    {
+      "title": "Running Bear",
+      "id": null
+    },
+    {
+      "title": "Ain’t No Sunshine",
+      "id": null
+    },
+    {
+      "title": "(If Loving You Is Wrong) I Don’t Want to Be Right",
+      "id": null
+    },
+    {
+      "title": "Since I Loved You Last",
+      "id": null
+    },
+    {
+      "title": "Lean on Me",
+      "id": null
+    },
+    {
+      "title": "I’ll Share My World With You",
+      "id": null
+    },
+    {
+      "title": "I Still Love You Enough (To Love You All Over Again)",
+      "id": null
+    },
+    {
+      "title": "Ballad of Billie Joe",
+      "id": null
+    }
+  ]
+}

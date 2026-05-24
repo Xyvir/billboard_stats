@@ -1,1 +1,78 @@
-{"id": "the-book-of-souls-iron-maiden", "title": "The Book Of Souls", "artist": "Iron Maiden", "peak": 4, "history": [{"date": "2015-09-26", "rank": 4}, {"date": "2015-10-03", "rank": 14}, {"date": "2015-10-10", "rank": 42}, {"date": "2015-10-17", "rank": 92}, {"date": "2015-10-24", "rank": 99}, {"date": "2015-10-31", "rank": 137}]}
+{
+  "id": "the-book-of-souls-iron-maiden",
+  "title": "The Book Of Souls",
+  "artist": "Iron Maiden",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2015-09-26",
+      "rank": 4
+    },
+    {
+      "date": "2015-10-03",
+      "rank": 14
+    },
+    {
+      "date": "2015-10-10",
+      "rank": 42
+    },
+    {
+      "date": "2015-10-17",
+      "rank": 92
+    },
+    {
+      "date": "2015-10-24",
+      "rank": 99
+    },
+    {
+      "date": "2015-10-31",
+      "rank": 137
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If Eternity Should Fail",
+      "id": null
+    },
+    {
+      "title": "Speed of Light",
+      "id": null
+    },
+    {
+      "title": "The Great Unknown",
+      "id": null
+    },
+    {
+      "title": "The Red and the Black",
+      "id": null
+    },
+    {
+      "title": "When the River Runs Deep",
+      "id": null
+    },
+    {
+      "title": "The Book of Souls",
+      "id": null
+    },
+    {
+      "title": "Death or Glory",
+      "id": null
+    },
+    {
+      "title": "Shadows of the Valley",
+      "id": null
+    },
+    {
+      "title": "Tears of a Clown",
+      "id": null
+    },
+    {
+      "title": "The Man of Sorrows",
+      "id": null
+    },
+    {
+      "title": "Empire of the Clouds",
+      "id": null
+    }
+  ]
+}
