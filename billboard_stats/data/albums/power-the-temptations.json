@@ -1,1 +1,98 @@
-{"id": "power-the-temptations", "title": "Power", "artist": "The Temptations", "peak": 45, "history": [{"date": "1980-05-17", "rank": 80}, {"date": "1980-05-24", "rank": 71}, {"date": "1980-05-31", "rank": 64}, {"date": "1980-06-07", "rank": 56}, {"date": "1980-06-14", "rank": 51}, {"date": "1980-06-21", "rank": 50}, {"date": "1980-06-28", "rank": 47}, {"date": "1980-07-05", "rank": 46}, {"date": "1980-07-12", "rank": 45}, {"date": "1980-07-19", "rank": 79}, {"date": "1980-07-26", "rank": 93}, {"date": "1980-08-02", "rank": 118}, {"date": "1980-08-09", "rank": 146}, {"date": "1980-08-16", "rank": 164}]}
+{
+  "id": "power-the-temptations",
+  "title": "Power",
+  "artist": "The Temptations",
+  "peak": 45,
+  "history": [
+    {
+      "date": "1980-05-17",
+      "rank": 80
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 71
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 64
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 56
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 51
+    },
+    {
+      "date": "1980-06-21",
+      "rank": 50
+    },
+    {
+      "date": "1980-06-28",
+      "rank": 47
+    },
+    {
+      "date": "1980-07-05",
+      "rank": 46
+    },
+    {
+      "date": "1980-07-12",
+      "rank": 45
+    },
+    {
+      "date": "1980-07-19",
+      "rank": 79
+    },
+    {
+      "date": "1980-07-26",
+      "rank": 93
+    },
+    {
+      "date": "1980-08-02",
+      "rank": 118
+    },
+    {
+      "date": "1980-08-09",
+      "rank": 146
+    },
+    {
+      "date": "1980-08-16",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Power",
+      "id": "power-the-temptations"
+    },
+    {
+      "title": "Struck by Lightning Twice",
+      "id": null
+    },
+    {
+      "title": "Isn’t the Night Fantastic",
+      "id": null
+    },
+    {
+      "title": "How Can I Resist Your Love",
+      "id": null
+    },
+    {
+      "title": "Shadow of Your Love",
+      "id": null
+    },
+    {
+      "title": "Can’t You See Sweet Thing",
+      "id": null
+    },
+    {
+      "title": "Go for It",
+      "id": null
+    },
+    {
+      "title": "I’m Coming Home",
+      "id": null
+    }
+  ]
+}

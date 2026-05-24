@@ -1,1 +1,154 @@
-{"id": "power-windows-rush", "title": "Power Windows", "artist": "Rush", "peak": 10, "history": [{"date": "1985-11-09", "rank": 32}, {"date": "1985-11-16", "rank": 15}, {"date": "1985-11-23", "rank": 12}, {"date": "1985-11-30", "rank": 11}, {"date": "1985-12-07", "rank": 11}, {"date": "1985-12-14", "rank": 10}, {"date": "1985-12-21", "rank": 10}, {"date": "1985-12-28", "rank": 11}, {"date": "1986-01-04", "rank": 11}, {"date": "1986-01-11", "rank": 17}, {"date": "1986-01-18", "rank": 17}, {"date": "1986-01-25", "rank": 24}, {"date": "1986-02-01", "rank": 29}, {"date": "1986-02-08", "rank": 34}, {"date": "1986-02-15", "rank": 46}, {"date": "1986-02-22", "rank": 49}, {"date": "1986-03-01", "rank": 52}, {"date": "1986-03-08", "rank": 60}, {"date": "1986-03-15", "rank": 68}, {"date": "1986-03-22", "rank": 78}, {"date": "1986-03-29", "rank": 101}, {"date": "1986-04-05", "rank": 99}, {"date": "1986-04-12", "rank": 99}, {"date": "1986-04-19", "rank": 99}, {"date": "1986-04-26", "rank": 118}, {"date": "1986-05-03", "rank": 127}, {"date": "1986-05-10", "rank": 156}, {"date": "1986-05-17", "rank": 187}]}
+{
+  "id": "power-windows-rush",
+  "title": "Power Windows",
+  "artist": "Rush",
+  "peak": 10,
+  "history": [
+    {
+      "date": "1985-11-09",
+      "rank": 32
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 15
+    },
+    {
+      "date": "1985-11-23",
+      "rank": 12
+    },
+    {
+      "date": "1985-11-30",
+      "rank": 11
+    },
+    {
+      "date": "1985-12-07",
+      "rank": 11
+    },
+    {
+      "date": "1985-12-14",
+      "rank": 10
+    },
+    {
+      "date": "1985-12-21",
+      "rank": 10
+    },
+    {
+      "date": "1985-12-28",
+      "rank": 11
+    },
+    {
+      "date": "1986-01-04",
+      "rank": 11
+    },
+    {
+      "date": "1986-01-11",
+      "rank": 17
+    },
+    {
+      "date": "1986-01-18",
+      "rank": 17
+    },
+    {
+      "date": "1986-01-25",
+      "rank": 24
+    },
+    {
+      "date": "1986-02-01",
+      "rank": 29
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 34
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 46
+    },
+    {
+      "date": "1986-02-22",
+      "rank": 49
+    },
+    {
+      "date": "1986-03-01",
+      "rank": 52
+    },
+    {
+      "date": "1986-03-08",
+      "rank": 60
+    },
+    {
+      "date": "1986-03-15",
+      "rank": 68
+    },
+    {
+      "date": "1986-03-22",
+      "rank": 78
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 101
+    },
+    {
+      "date": "1986-04-05",
+      "rank": 99
+    },
+    {
+      "date": "1986-04-12",
+      "rank": 99
+    },
+    {
+      "date": "1986-04-19",
+      "rank": 99
+    },
+    {
+      "date": "1986-04-26",
+      "rank": 118
+    },
+    {
+      "date": "1986-05-03",
+      "rank": 127
+    },
+    {
+      "date": "1986-05-10",
+      "rank": 156
+    },
+    {
+      "date": "1986-05-17",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Big Money",
+      "id": "the-big-money-rush"
+    },
+    {
+      "title": "Grand Designs",
+      "id": null
+    },
+    {
+      "title": "Manhattan Project",
+      "id": null
+    },
+    {
+      "title": "Marathon",
+      "id": null
+    },
+    {
+      "title": "Territories",
+      "id": null
+    },
+    {
+      "title": "Middletown Dreams",
+      "id": null
+    },
+    {
+      "title": "Emotion Detector",
+      "id": null
+    },
+    {
+      "title": "Mystic Rhythms",
+      "id": null
+    }
+  ]
+}

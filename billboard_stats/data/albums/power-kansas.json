@@ -1,1 +1,158 @@
-{"id": "power-kansas", "title": "Power", "artist": "Kansas", "peak": 35, "history": [{"date": "1986-11-15", "rank": 123}, {"date": "1986-11-22", "rank": 83}, {"date": "1986-11-29", "rank": 59}, {"date": "1986-12-06", "rank": 51}, {"date": "1986-12-13", "rank": 46}, {"date": "1986-12-20", "rank": 44}, {"date": "1986-12-27", "rank": 41}, {"date": "1987-01-03", "rank": 41}, {"date": "1987-01-10", "rank": 40}, {"date": "1987-01-17", "rank": 36}, {"date": "1987-01-24", "rank": 35}, {"date": "1987-01-31", "rank": 35}, {"date": "1987-02-07", "rank": 39}, {"date": "1987-02-14", "rank": 42}, {"date": "1987-02-21", "rank": 53}, {"date": "1987-02-28", "rank": 61}, {"date": "1987-03-07", "rank": 64}, {"date": "1987-03-14", "rank": 79}, {"date": "1987-03-21", "rank": 87}, {"date": "1987-03-28", "rank": 112}, {"date": "1987-04-04", "rank": 194}, {"date": "1987-04-11", "rank": 157}, {"date": "1987-04-18", "rank": 150}, {"date": "1987-04-25", "rank": 126}, {"date": "1987-05-02", "rank": 145}, {"date": "1987-05-09", "rank": 181}, {"date": "1987-05-16", "rank": 199}]}
+{
+  "id": "power-kansas",
+  "title": "Power",
+  "artist": "Kansas",
+  "peak": 35,
+  "history": [
+    {
+      "date": "1986-11-15",
+      "rank": 123
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 83
+    },
+    {
+      "date": "1986-11-29",
+      "rank": 59
+    },
+    {
+      "date": "1986-12-06",
+      "rank": 51
+    },
+    {
+      "date": "1986-12-13",
+      "rank": 46
+    },
+    {
+      "date": "1986-12-20",
+      "rank": 44
+    },
+    {
+      "date": "1986-12-27",
+      "rank": 41
+    },
+    {
+      "date": "1987-01-03",
+      "rank": 41
+    },
+    {
+      "date": "1987-01-10",
+      "rank": 40
+    },
+    {
+      "date": "1987-01-17",
+      "rank": 36
+    },
+    {
+      "date": "1987-01-24",
+      "rank": 35
+    },
+    {
+      "date": "1987-01-31",
+      "rank": 35
+    },
+    {
+      "date": "1987-02-07",
+      "rank": 39
+    },
+    {
+      "date": "1987-02-14",
+      "rank": 42
+    },
+    {
+      "date": "1987-02-21",
+      "rank": 53
+    },
+    {
+      "date": "1987-02-28",
+      "rank": 61
+    },
+    {
+      "date": "1987-03-07",
+      "rank": 64
+    },
+    {
+      "date": "1987-03-14",
+      "rank": 79
+    },
+    {
+      "date": "1987-03-21",
+      "rank": 87
+    },
+    {
+      "date": "1987-03-28",
+      "rank": 112
+    },
+    {
+      "date": "1987-04-04",
+      "rank": 194
+    },
+    {
+      "date": "1987-04-11",
+      "rank": 157
+    },
+    {
+      "date": "1987-04-18",
+      "rank": 150
+    },
+    {
+      "date": "1987-04-25",
+      "rank": 126
+    },
+    {
+      "date": "1987-05-02",
+      "rank": 145
+    },
+    {
+      "date": "1987-05-09",
+      "rank": 181
+    },
+    {
+      "date": "1987-05-16",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Power",
+      "id": "power-kansas"
+    },
+    {
+      "title": "All I Wanted",
+      "id": "all-i-wanted-kansas"
+    },
+    {
+      "title": "Silhouettes in Disguise",
+      "id": null
+    },
+    {
+      "title": "Secret Service",
+      "id": null
+    },
+    {
+      "title": "We’re Not Alone Anymore",
+      "id": null
+    },
+    {
+      "title": "Musicatto",
+      "id": null
+    },
+    {
+      "title": "Taking In the View",
+      "id": null
+    },
+    {
+      "title": "Three Pretenders",
+      "id": null
+    },
+    {
+      "title": "Tomb 19",
+      "id": null
+    },
+    {
+      "title": "Can’t Cry Anymore",
+      "id": null
+    }
+  ]
+}

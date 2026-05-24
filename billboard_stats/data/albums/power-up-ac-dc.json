@@ -1,1 +1,94 @@
-{"id": "power-up-ac-dc", "title": "Power Up", "artist": "AC/DC", "peak": 1, "history": [{"date": "2020-11-28", "rank": 1}, {"date": "2020-12-05", "rank": 12}, {"date": "2020-12-12", "rank": 29}, {"date": "2020-12-19", "rank": 41}, {"date": "2020-12-26", "rank": 47}, {"date": "2021-01-02", "rank": 45}, {"date": "2021-01-09", "rank": 133}, {"date": "2021-01-16", "rank": 151}, {"date": "2021-01-30", "rank": 193}]}
+{
+  "id": "power-up-ac-dc",
+  "title": "Power Up",
+  "artist": "AC/DC",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2020-11-28",
+      "rank": 1
+    },
+    {
+      "date": "2020-12-05",
+      "rank": 12
+    },
+    {
+      "date": "2020-12-12",
+      "rank": 29
+    },
+    {
+      "date": "2020-12-19",
+      "rank": 41
+    },
+    {
+      "date": "2020-12-26",
+      "rank": 47
+    },
+    {
+      "date": "2021-01-02",
+      "rank": 45
+    },
+    {
+      "date": "2021-01-09",
+      "rank": 133
+    },
+    {
+      "date": "2021-01-16",
+      "rank": 151
+    },
+    {
+      "date": "2021-01-30",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Money Shot",
+      "id": "moneytalks-ac-dc"
+    },
+    {
+      "title": "Realize",
+      "id": null
+    },
+    {
+      "title": "Rejection",
+      "id": null
+    },
+    {
+      "title": "Shot in the Dark",
+      "id": null
+    },
+    {
+      "title": "Through the Mists of Time",
+      "id": null
+    },
+    {
+      "title": "Kick You When You’re Down",
+      "id": null
+    },
+    {
+      "title": "Witch’s Spell",
+      "id": null
+    },
+    {
+      "title": "Demon Fire",
+      "id": null
+    },
+    {
+      "title": "Wild Reputation",
+      "id": null
+    },
+    {
+      "title": "No Man’s Land",
+      "id": null
+    },
+    {
+      "title": "Systems Down",
+      "id": null
+    },
+    {
+      "title": "Code Red",
+      "id": null
+    }
+  ]
+}
