@@ -1,1 +1,234 @@
-{"id": "sparkle-and-fade-everclear", "title": "Sparkle And Fade", "artist": "Everclear", "peak": 25, "history": [{"date": "1996-01-13", "rank": 147}, {"date": "1996-01-20", "rank": 107}, {"date": "1996-01-27", "rank": 55}, {"date": "1996-02-03", "rank": 44}, {"date": "1996-02-10", "rank": 35}, {"date": "1996-02-17", "rank": 30}, {"date": "1996-02-24", "rank": 30}, {"date": "1996-03-02", "rank": 33}, {"date": "1996-03-09", "rank": 33}, {"date": "1996-03-16", "rank": 30}, {"date": "1996-03-23", "rank": 28}, {"date": "1996-03-30", "rank": 25}, {"date": "1996-04-06", "rank": 26}, {"date": "1996-04-13", "rank": 28}, {"date": "1996-04-20", "rank": 29}, {"date": "1996-04-27", "rank": 34}, {"date": "1996-05-04", "rank": 37}, {"date": "1996-05-11", "rank": 45}, {"date": "1996-05-18", "rank": 48}, {"date": "1996-05-25", "rank": 53}, {"date": "1996-06-01", "rank": 57}, {"date": "1996-06-08", "rank": 57}, {"date": "1996-06-15", "rank": 62}, {"date": "1996-06-22", "rank": 66}, {"date": "1996-06-29", "rank": 76}, {"date": "1996-07-06", "rank": 75}, {"date": "1996-07-13", "rank": 81}, {"date": "1996-07-20", "rank": 101}, {"date": "1996-07-27", "rank": 114}, {"date": "1996-08-03", "rank": 120}, {"date": "1996-08-10", "rank": 126}, {"date": "1996-08-17", "rank": 142}, {"date": "1996-08-24", "rank": 152}, {"date": "1996-08-31", "rank": 148}, {"date": "1996-09-07", "rank": 143}, {"date": "1996-09-14", "rank": 153}, {"date": "1996-09-21", "rank": 168}, {"date": "1996-09-28", "rank": 177}]}
+{
+  "id": "sparkle-and-fade-everclear",
+  "title": "Sparkle And Fade",
+  "artist": "Everclear",
+  "peak": 25,
+  "history": [
+    {
+      "date": "1996-01-13",
+      "rank": 147
+    },
+    {
+      "date": "1996-01-20",
+      "rank": 107
+    },
+    {
+      "date": "1996-01-27",
+      "rank": 55
+    },
+    {
+      "date": "1996-02-03",
+      "rank": 44
+    },
+    {
+      "date": "1996-02-10",
+      "rank": 35
+    },
+    {
+      "date": "1996-02-17",
+      "rank": 30
+    },
+    {
+      "date": "1996-02-24",
+      "rank": 30
+    },
+    {
+      "date": "1996-03-02",
+      "rank": 33
+    },
+    {
+      "date": "1996-03-09",
+      "rank": 33
+    },
+    {
+      "date": "1996-03-16",
+      "rank": 30
+    },
+    {
+      "date": "1996-03-23",
+      "rank": 28
+    },
+    {
+      "date": "1996-03-30",
+      "rank": 25
+    },
+    {
+      "date": "1996-04-06",
+      "rank": 26
+    },
+    {
+      "date": "1996-04-13",
+      "rank": 28
+    },
+    {
+      "date": "1996-04-20",
+      "rank": 29
+    },
+    {
+      "date": "1996-04-27",
+      "rank": 34
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 37
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 45
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 48
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 53
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 57
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 57
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 62
+    },
+    {
+      "date": "1996-06-22",
+      "rank": 66
+    },
+    {
+      "date": "1996-06-29",
+      "rank": 76
+    },
+    {
+      "date": "1996-07-06",
+      "rank": 75
+    },
+    {
+      "date": "1996-07-13",
+      "rank": 81
+    },
+    {
+      "date": "1996-07-20",
+      "rank": 101
+    },
+    {
+      "date": "1996-07-27",
+      "rank": 114
+    },
+    {
+      "date": "1996-08-03",
+      "rank": 120
+    },
+    {
+      "date": "1996-08-10",
+      "rank": 126
+    },
+    {
+      "date": "1996-08-17",
+      "rank": 142
+    },
+    {
+      "date": "1996-08-24",
+      "rank": 152
+    },
+    {
+      "date": "1996-08-31",
+      "rank": 148
+    },
+    {
+      "date": "1996-09-07",
+      "rank": 143
+    },
+    {
+      "date": "1996-09-14",
+      "rank": 153
+    },
+    {
+      "date": "1996-09-21",
+      "rank": 168
+    },
+    {
+      "date": "1996-09-28",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heartspark Dollarsign",
+      "id": "heartspark-dollarsign-everclear"
+    },
+    {
+      "title": "Electra Made Me Blind",
+      "id": null
+    },
+    {
+      "title": "Heroin Girl",
+      "id": null
+    },
+    {
+      "title": "You Make Me Feel Like a Whore",
+      "id": null
+    },
+    {
+      "title": "Santa Monica",
+      "id": null
+    },
+    {
+      "title": "Summerland",
+      "id": null
+    },
+    {
+      "title": "Strawberry",
+      "id": null
+    },
+    {
+      "title": "The Twistinside",
+      "id": null
+    },
+    {
+      "title": "Her Brand New Skin",
+      "id": null
+    },
+    {
+      "title": "Nehalem",
+      "id": null
+    },
+    {
+      "title": "Queen of the Air",
+      "id": null
+    },
+    {
+      "title": "Pale Green Stars",
+      "id": null
+    },
+    {
+      "title": "Chemical Smile",
+      "id": null
+    },
+    {
+      "title": "My Sexual Life",
+      "id": null
+    },
+    {
+      "title": "Summerland (acoustic)",
+      "id": null
+    },
+    {
+      "title": "Annabella",
+      "id": null
+    },
+    {
+      "title": "Sparkle",
+      "id": null
+    },
+    {
+      "title": "American Girl",
+      "id": null
+    }
+  ]
+}

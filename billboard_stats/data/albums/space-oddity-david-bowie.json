@@ -1,1 +1,202 @@
-{"id": "space-oddity-david-bowie", "title": "Space Oddity", "artist": "David Bowie", "peak": 16, "history": [{"date": "1972-11-18", "rank": 136}, {"date": "1972-11-25", "rank": 121}, {"date": "1972-12-02", "rank": 113}, {"date": "1972-12-09", "rank": 109}, {"date": "1972-12-16", "rank": 107}, {"date": "1972-12-23", "rank": 99}, {"date": "1972-12-30", "rank": 97}, {"date": "1973-01-06", "rank": 92}, {"date": "1973-01-13", "rank": 90}, {"date": "1973-01-20", "rank": 83}, {"date": "1973-01-27", "rank": 77}, {"date": "1973-02-03", "rank": 63}, {"date": "1973-02-10", "rank": 51}, {"date": "1973-02-17", "rank": 46}, {"date": "1973-02-24", "rank": 44}, {"date": "1973-03-03", "rank": 38}, {"date": "1973-03-10", "rank": 30}, {"date": "1973-03-17", "rank": 26}, {"date": "1973-03-24", "rank": 22}, {"date": "1973-03-31", "rank": 17}, {"date": "1973-04-07", "rank": 16}, {"date": "1973-04-14", "rank": 17}, {"date": "1973-04-21", "rank": 19}, {"date": "1973-04-28", "rank": 27}, {"date": "1973-05-05", "rank": 33}, {"date": "1973-05-12", "rank": 46}, {"date": "1973-05-19", "rank": 79}, {"date": "1973-05-26", "rank": 89}, {"date": "1973-06-02", "rank": 91}, {"date": "1973-06-09", "rank": 100}, {"date": "1973-06-16", "rank": 117}, {"date": "1973-06-23", "rank": 121}, {"date": "1973-06-30", "rank": 138}, {"date": "1973-07-07", "rank": 161}, {"date": "1973-07-14", "rank": 183}, {"date": "1973-07-21", "rank": 194}]}
+{
+  "id": "space-oddity-david-bowie",
+  "title": "Space Oddity",
+  "artist": "David Bowie",
+  "peak": 16,
+  "history": [
+    {
+      "date": "1972-11-18",
+      "rank": 136
+    },
+    {
+      "date": "1972-11-25",
+      "rank": 121
+    },
+    {
+      "date": "1972-12-02",
+      "rank": 113
+    },
+    {
+      "date": "1972-12-09",
+      "rank": 109
+    },
+    {
+      "date": "1972-12-16",
+      "rank": 107
+    },
+    {
+      "date": "1972-12-23",
+      "rank": 99
+    },
+    {
+      "date": "1972-12-30",
+      "rank": 97
+    },
+    {
+      "date": "1973-01-06",
+      "rank": 92
+    },
+    {
+      "date": "1973-01-13",
+      "rank": 90
+    },
+    {
+      "date": "1973-01-20",
+      "rank": 83
+    },
+    {
+      "date": "1973-01-27",
+      "rank": 77
+    },
+    {
+      "date": "1973-02-03",
+      "rank": 63
+    },
+    {
+      "date": "1973-02-10",
+      "rank": 51
+    },
+    {
+      "date": "1973-02-17",
+      "rank": 46
+    },
+    {
+      "date": "1973-02-24",
+      "rank": 44
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 38
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 30
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 26
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 22
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 17
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 16
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 17
+    },
+    {
+      "date": "1973-04-21",
+      "rank": 19
+    },
+    {
+      "date": "1973-04-28",
+      "rank": 27
+    },
+    {
+      "date": "1973-05-05",
+      "rank": 33
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 46
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 79
+    },
+    {
+      "date": "1973-05-26",
+      "rank": 89
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 91
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 100
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 117
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 121
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 138
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 161
+    },
+    {
+      "date": "1973-07-14",
+      "rank": 183
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Space Oddity (bass and drums)",
+      "id": "space-oddity-david-bowie"
+    },
+    {
+      "title": "Space Oddity (strings)",
+      "id": "space-oddity-david-bowie"
+    },
+    {
+      "title": "Space Oddity (acoustic guitar)",
+      "id": "space-oddity-david-bowie"
+    },
+    {
+      "title": "Space Oddity (mellotron)",
+      "id": "space-oddity-david-bowie"
+    },
+    {
+      "title": "Space Oddity (lead vocal)",
+      "id": "space-oddity-david-bowie"
+    },
+    {
+      "title": "Space Oddity (mono single edit)",
+      "id": null
+    },
+    {
+      "title": "Space Oddity (US mono single edit)",
+      "id": null
+    },
+    {
+      "title": "Space Oddity (US stereo single edit)",
+      "id": null
+    },
+    {
+      "title": "Space Oddity (re‐recorded single B‐side, 1979)",
+      "id": null
+    },
+    {
+      "title": "Space Oddity (backing vocal, flute and cellos)",
+      "id": null
+    },
+    {
+      "title": "Space Oddity (stylophone and guitar)",
+      "id": null
+    },
+    {
+      "title": "Space Oddity (main backing vocal including countdown)",
+      "id": null
+    }
+  ]
+}
