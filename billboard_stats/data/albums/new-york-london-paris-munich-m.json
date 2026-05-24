@@ -1,1 +1,74 @@
-{"id": "new-york-london-paris-munich-m", "title": "New York,london,paris,munich", "artist": "M", "peak": 79, "history": [{"date": "1979-12-22", "rank": 183}, {"date": "1979-12-29", "rank": 183}, {"date": "1980-01-05", "rank": 103}, {"date": "1980-01-12", "rank": 92}, {"date": "1980-01-19", "rank": 79}, {"date": "1980-01-26", "rank": 79}, {"date": "1980-02-02", "rank": 148}, {"date": "1980-02-09", "rank": 196}]}
+{
+  "id": "new-york-london-paris-munich-m",
+  "title": "New York,london,paris,munich",
+  "artist": "M",
+  "peak": 79,
+  "history": [
+    {
+      "date": "1979-12-22",
+      "rank": 183
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 183
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 103
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 92
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 79
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 79
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 148
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pop Muzik",
+      "id": "pop-muzik-m"
+    },
+    {
+      "title": "Woman Make Man",
+      "id": null
+    },
+    {
+      "title": "Moderne Man / Satisfy Your Lust",
+      "id": null
+    },
+    {
+      "title": "Made in Munich",
+      "id": null
+    },
+    {
+      "title": "Moonlight and Muzak",
+      "id": null
+    },
+    {
+      "title": "That’s the Way the Money Goes",
+      "id": null
+    },
+    {
+      "title": "Cowboys and Indians",
+      "id": null
+    },
+    {
+      "title": "Unite Your Nation",
+      "id": null
+    }
+  ]
+}

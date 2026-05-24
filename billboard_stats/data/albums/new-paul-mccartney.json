@@ -1,1 +1,122 @@
-{"id": "new-paul-mccartney", "title": "New", "artist": "Paul McCartney", "peak": 3, "history": [{"date": "2013-11-02", "rank": 3}, {"date": "2013-11-09", "rank": 11}, {"date": "2013-11-16", "rank": 17}, {"date": "2013-11-23", "rank": 40}, {"date": "2013-11-30", "rank": 63}, {"date": "2013-12-07", "rank": 94}, {"date": "2013-12-14", "rank": 120}, {"date": "2013-12-21", "rank": 106}, {"date": "2013-12-28", "rank": 98}, {"date": "2014-01-04", "rank": 60}, {"date": "2014-01-11", "rank": 92}, {"date": "2014-01-18", "rank": 163}, {"date": "2014-01-25", "rank": 170}, {"date": "2014-02-15", "rank": 189}]}
+{
+  "id": "new-paul-mccartney",
+  "title": "New",
+  "artist": "Paul McCartney",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2013-11-02",
+      "rank": 3
+    },
+    {
+      "date": "2013-11-09",
+      "rank": 11
+    },
+    {
+      "date": "2013-11-16",
+      "rank": 17
+    },
+    {
+      "date": "2013-11-23",
+      "rank": 40
+    },
+    {
+      "date": "2013-11-30",
+      "rank": 63
+    },
+    {
+      "date": "2013-12-07",
+      "rank": 94
+    },
+    {
+      "date": "2013-12-14",
+      "rank": 120
+    },
+    {
+      "date": "2013-12-21",
+      "rank": 106
+    },
+    {
+      "date": "2013-12-28",
+      "rank": 98
+    },
+    {
+      "date": "2014-01-04",
+      "rank": 60
+    },
+    {
+      "date": "2014-01-11",
+      "rank": 92
+    },
+    {
+      "date": "2014-01-18",
+      "rank": 163
+    },
+    {
+      "date": "2014-01-25",
+      "rank": 170
+    },
+    {
+      "date": "2014-02-15",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Road",
+      "id": "so-bad-paul-mccartney"
+    },
+    {
+      "title": "Save Us",
+      "id": null
+    },
+    {
+      "title": "Alligator",
+      "id": null
+    },
+    {
+      "title": "On My Way to Work",
+      "id": null
+    },
+    {
+      "title": "Queenie Eye",
+      "id": null
+    },
+    {
+      "title": "Early Days",
+      "id": null
+    },
+    {
+      "title": "New",
+      "id": null
+    },
+    {
+      "title": "Appreciate",
+      "id": null
+    },
+    {
+      "title": "Everybody Out There",
+      "id": null
+    },
+    {
+      "title": "Hosanna",
+      "id": null
+    },
+    {
+      "title": "I Can Bet",
+      "id": null
+    },
+    {
+      "title": "Looking at Her",
+      "id": null
+    },
+    {
+      "title": "Turned Out",
+      "id": null
+    },
+    {
+      "title": "Get Me Out of Here / Scared",
+      "id": null
+    }
+  ]
+}

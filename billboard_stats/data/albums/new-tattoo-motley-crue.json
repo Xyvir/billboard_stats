@@ -1,1 +1,78 @@
-{"id": "new-tattoo-motley-crue", "title": "New Tattoo", "artist": "Motley Crue", "peak": 41, "history": [{"date": "2000-07-29", "rank": 41}, {"date": "2000-08-05", "rank": 79}, {"date": "2000-08-12", "rank": 121}, {"date": "2000-08-19", "rank": 154}, {"date": "2000-08-26", "rank": 167}, {"date": "2000-09-02", "rank": 176}]}
+{
+  "id": "new-tattoo-motley-crue",
+  "title": "New Tattoo",
+  "artist": "Motley Crue",
+  "peak": 41,
+  "history": [
+    {
+      "date": "2000-07-29",
+      "rank": 41
+    },
+    {
+      "date": "2000-08-05",
+      "rank": 79
+    },
+    {
+      "date": "2000-08-12",
+      "rank": 121
+    },
+    {
+      "date": "2000-08-19",
+      "rank": 154
+    },
+    {
+      "date": "2000-08-26",
+      "rank": 167
+    },
+    {
+      "date": "2000-09-02",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hell on High Heels",
+      "id": null
+    },
+    {
+      "title": "Treat Me Like the Dog I Am",
+      "id": null
+    },
+    {
+      "title": "New Tattoo",
+      "id": null
+    },
+    {
+      "title": "Dragstrip Superstar",
+      "id": null
+    },
+    {
+      "title": "1st Band on the Moon",
+      "id": null
+    },
+    {
+      "title": "She Needs Rock n Roll",
+      "id": null
+    },
+    {
+      "title": "Punched in the Teeth by Love",
+      "id": null
+    },
+    {
+      "title": "Hollywood Ending",
+      "id": null
+    },
+    {
+      "title": "Fake",
+      "id": null
+    },
+    {
+      "title": "Porno Star",
+      "id": null
+    },
+    {
+      "title": "White Punks on Dope",
+      "id": null
+    }
+  ]
+}

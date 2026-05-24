@@ -1,1 +1,50 @@
-{"id": "new-york-cake-kano", "title": "New York Cake", "artist": "Kano", "peak": 189, "history": [{"date": "1982-01-09", "rank": 194}, {"date": "1982-01-16", "rank": 193}, {"date": "1982-01-23", "rank": 189}, {"date": "1982-01-30", "rank": 196}]}
+{
+  "id": "new-york-cake-kano",
+  "title": "New York Cake",
+  "artist": "Kano",
+  "peak": 189,
+  "history": [
+    {
+      "date": "1982-01-09",
+      "rank": 194
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 193
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 189
+    },
+    {
+      "date": "1982-01-30",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Can't Hold Back (Your Loving)",
+      "id": "can-t-hold-back-your-loving-kano"
+    },
+    {
+      "title": "She’s a Star",
+      "id": null
+    },
+    {
+      "title": "Baby Not Tonight",
+      "id": null
+    },
+    {
+      "title": "Party",
+      "id": null
+    },
+    {
+      "title": "Round and Round",
+      "id": null
+    },
+    {
+      "title": "Don’t Try to Stop Me",
+      "id": null
+    }
+  ]
+}

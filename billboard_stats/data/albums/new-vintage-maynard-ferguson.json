@@ -1,1 +1,66 @@
-{"id": "new-vintage-maynard-ferguson", "title": "New Vintage", "artist": "Maynard Ferguson", "peak": 124, "history": [{"date": "1977-11-26", "rank": 154}, {"date": "1977-12-03", "rank": 143}, {"date": "1977-12-10", "rank": 129}, {"date": "1977-12-17", "rank": 125}, {"date": "1977-12-24", "rank": 124}, {"date": "1977-12-31", "rank": 124}, {"date": "1978-01-07", "rank": 199}, {"date": "1978-01-14", "rank": 192}]}
+{
+  "id": "new-vintage-maynard-ferguson",
+  "title": "New Vintage",
+  "artist": "Maynard Ferguson",
+  "peak": 124,
+  "history": [
+    {
+      "date": "1977-11-26",
+      "rank": 154
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 143
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 129
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 125
+    },
+    {
+      "date": "1977-12-24",
+      "rank": 124
+    },
+    {
+      "date": "1977-12-31",
+      "rank": 124
+    },
+    {
+      "date": "1978-01-07",
+      "rank": 199
+    },
+    {
+      "date": "1978-01-14",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Main Title (from the 20th Century-Fox Film Star Wars)",
+      "id": null
+    },
+    {
+      "title": "Oasis",
+      "id": null
+    },
+    {
+      "title": "Maria",
+      "id": null
+    },
+    {
+      "title": "El Vuelo (The Flight)",
+      "id": null
+    },
+    {
+      "title": "Scheherazade",
+      "id": null
+    },
+    {
+      "title": "Airegin",
+      "id": null
+    }
+  ]
+}

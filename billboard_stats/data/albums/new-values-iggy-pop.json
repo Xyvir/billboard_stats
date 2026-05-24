@@ -1,1 +1,82 @@
-{"id": "new-values-iggy-pop", "title": "New Values", "artist": "Iggy Pop", "peak": 180, "history": [{"date": "1979-10-06", "rank": 190}, {"date": "1979-10-13", "rank": 180}, {"date": "1979-10-20", "rank": 180}, {"date": "1979-10-27", "rank": 191}]}
+{
+  "id": "new-values-iggy-pop",
+  "title": "New Values",
+  "artist": "Iggy Pop",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1979-10-06",
+      "rank": 190
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 180
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 180
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tell Me a Story",
+      "id": null
+    },
+    {
+      "title": "New Values",
+      "id": null
+    },
+    {
+      "title": "Girls",
+      "id": null
+    },
+    {
+      "title": "I’m Bored",
+      "id": null
+    },
+    {
+      "title": "Don’t Look Down",
+      "id": null
+    },
+    {
+      "title": "The Endless Sea",
+      "id": null
+    },
+    {
+      "title": "Five Foot One",
+      "id": null
+    },
+    {
+      "title": "How Do Ya Fix a Broken Part",
+      "id": null
+    },
+    {
+      "title": "Angel",
+      "id": null
+    },
+    {
+      "title": "Curiosity",
+      "id": null
+    },
+    {
+      "title": "African Man",
+      "id": null
+    },
+    {
+      "title": "Billy Is a Runaway",
+      "id": null
+    },
+    {
+      "title": "Chains",
+      "id": null
+    },
+    {
+      "title": "Pretty Flamingo",
+      "id": null
+    }
+  ]
+}
