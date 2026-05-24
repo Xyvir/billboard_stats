@@ -1,1 +1,330 @@
-{"id": "my-lives-billy-joel", "title": "My Lives", "artist": "Billy Joel", "peak": 171, "history": [{"date": "2005-12-10", "rank": 171}, {"date": "2005-12-17", "rank": 198}]}
+{
+  "id": "my-lives-billy-joel",
+  "title": "My Lives",
+  "artist": "Billy Joel",
+  "peak": 171,
+  "history": [
+    {
+      "date": "2005-12-10",
+      "rank": 171
+    },
+    {
+      "date": "2005-12-17",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "She’s Got a Way",
+      "id": "she-s-got-a-way-billy-joel"
+    },
+    {
+      "title": "It’s Still Rock and Roll to Me",
+      "id": "it-s-still-rock-and-roll-to-me-billy-joel"
+    },
+    {
+      "title": "The Prime of Your Life",
+      "id": "the-river-of-dreams-billy-joel"
+    },
+    {
+      "title": "An Innocent Man",
+      "id": "an-innocent-man-billy-joel"
+    },
+    {
+      "title": "And So It Goes",
+      "id": "and-so-it-goes-billy-joel"
+    },
+    {
+      "title": "Keeping the Faith (12″ version)",
+      "id": "keeping-the-faith-billy-joel"
+    },
+    {
+      "title": "House of Blue Light",
+      "id": "you-may-be-right-billy-joel"
+    },
+    {
+      "title": "The Downeaster “Alexa”",
+      "id": "the-downeaster-alexa-billy-joel"
+    },
+    {
+      "title": "I Go to Extremes",
+      "id": "i-go-to-extremes-billy-joel"
+    },
+    {
+      "title": "Shout",
+      "id": "big-shot-billy-joel"
+    },
+    {
+      "title": "The River of Dreams (alternate version)",
+      "id": "the-river-of-dreams-billy-joel"
+    },
+    {
+      "title": "To Make You Feel My Love",
+      "id": "to-make-you-feel-my-love-billy-joel"
+    },
+    {
+      "title": "You May Be Right (live)",
+      "id": "you-may-be-right-billy-joel"
+    },
+    {
+      "title": "Big Shot",
+      "id": "big-shot-billy-joel"
+    },
+    {
+      "title": "Pressure",
+      "id": "pressure-billy-joel"
+    },
+    {
+      "title": "Allentown",
+      "id": "allentown-billy-joel"
+    },
+    {
+      "title": "My Life",
+      "id": "my-life-billy-joel"
+    },
+    {
+      "title": "The River of Dreams",
+      "id": "the-river-of-dreams-billy-joel"
+    },
+    {
+      "title": "Goodnight Saigon",
+      "id": "goodnight-saigon-billy-joel"
+    },
+    {
+      "title": "We Didn’t Start the Fire",
+      "id": "we-didn-t-start-the-fire-billy-joel"
+    },
+    {
+      "title": "Piano Man",
+      "id": "piano-man-billy-joel"
+    },
+    {
+      "title": "My Journey’s End",
+      "id": null
+    },
+    {
+      "title": "Time and Time Again",
+      "id": null
+    },
+    {
+      "title": "Every Step I Take (Every Move I Make)",
+      "id": null
+    },
+    {
+      "title": "You’ve Got Me Hummin’",
+      "id": null
+    },
+    {
+      "title": "Amplifier Fire",
+      "id": null
+    },
+    {
+      "title": "Only a Man (demo, never released)",
+      "id": null
+    },
+    {
+      "title": "Oyster Bay (demo, never released)",
+      "id": null
+    },
+    {
+      "title": "Piano Man (demo, never released)",
+      "id": null
+    },
+    {
+      "title": "The Siegfried Line (demo, never released)",
+      "id": null
+    },
+    {
+      "title": "New Mexico (demo, never released, Became “Worse Comes to Worst”)",
+      "id": null
+    },
+    {
+      "title": "Cross to Bear (demo)",
+      "id": null
+    },
+    {
+      "title": "Miami 2017 (demo, never released)",
+      "id": null
+    },
+    {
+      "title": "These Rhinestone Days (demo, never released, Became “I Loved These Days”)",
+      "id": null
+    },
+    {
+      "title": "Everybody Has a Dream",
+      "id": null
+    },
+    {
+      "title": "Only the Good Die Young (alternate version, never released)",
+      "id": null
+    },
+    {
+      "title": "Until the Night",
+      "id": null
+    },
+    {
+      "title": "Zanzibar (album version, unfaded)",
+      "id": null
+    },
+    {
+      "title": "Captain Jack",
+      "id": null
+    },
+    {
+      "title": "The End of the World",
+      "id": null
+    },
+    {
+      "title": "She’s Right on Time",
+      "id": null
+    },
+    {
+      "title": "Elvis Presley Blvd.",
+      "id": null
+    },
+    {
+      "title": "Nobody Knows but Me",
+      "id": null
+    },
+    {
+      "title": "Christie Lee (demo)",
+      "id": null
+    },
+    {
+      "title": "Easy Money",
+      "id": null
+    },
+    {
+      "title": "I’ll Cry Instead",
+      "id": null
+    },
+    {
+      "title": "Modern Woman",
+      "id": null
+    },
+    {
+      "title": "Baby Grand",
+      "id": null
+    },
+    {
+      "title": "Getting Closer",
+      "id": null
+    },
+    {
+      "title": "Money or Love",
+      "id": null
+    },
+    {
+      "title": "The Times They Are A‐Changin’",
+      "id": null
+    },
+    {
+      "title": "All Shook Up",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Hotel",
+      "id": null
+    },
+    {
+      "title": "When You Wish Upon a Star",
+      "id": null
+    },
+    {
+      "title": "In a Sentimental Mood",
+      "id": null
+    },
+    {
+      "title": "Motorcycle Song (demo)",
+      "id": null
+    },
+    {
+      "title": "You Picked a Real Bad Time",
+      "id": null
+    },
+    {
+      "title": "A Hard Day’s Night",
+      "id": null
+    },
+    {
+      "title": "Light as the Breeze",
+      "id": null
+    },
+    {
+      "title": "Hey Girl",
+      "id": null
+    },
+    {
+      "title": "Why Should I Worry?",
+      "id": null
+    },
+    {
+      "title": "Where Were You (on Our Wedding Day)",
+      "id": null
+    },
+    {
+      "title": "Highway 61 Revisited (demo)",
+      "id": null
+    },
+    {
+      "title": "Movin’ Out",
+      "id": null
+    },
+    {
+      "title": "Don't Worry Baby (An All Star Tribute to Brian Wilson)",
+      "id": null
+    },
+    {
+      "title": "Goodnight Saigon (Vietnam Veterans version)",
+      "id": null
+    },
+    {
+      "title": "Los Angelenos",
+      "id": null
+    },
+    {
+      "title": "New York State of Mind (America: A Tribute to Heroes Concert for NY)",
+      "id": null
+    },
+    {
+      "title": "Opus 1. Soliloquy (On a Separation)",
+      "id": null
+    },
+    {
+      "title": "Opus 8. Suite for Piano: I. Innamorato",
+      "id": null
+    },
+    {
+      "title": "Opus 8. Suite for Piano: II. Sorbetto",
+      "id": null
+    },
+    {
+      "title": "Opus 8. Suite for Piano: III. Delusion",
+      "id": null
+    },
+    {
+      "title": "Elegy: The Great Peconic",
+      "id": null
+    },
+    {
+      "title": "“Glass Houses” Promotional Spot",
+      "id": null
+    },
+    {
+      "title": "No Man’s Land",
+      "id": null
+    },
+    {
+      "title": "Ballad of Billy the Kid",
+      "id": null
+    },
+    {
+      "title": "Leningrad",
+      "id": null
+    },
+    {
+      "title": "Shades of Grey",
+      "id": null
+    }
+  ]
+}

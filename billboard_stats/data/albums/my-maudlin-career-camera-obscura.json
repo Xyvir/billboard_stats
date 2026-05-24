@@ -1,1 +1,70 @@
-{"id": "my-maudlin-career-camera-obscura", "title": "My Maudlin Career", "artist": "Camera Obscura", "peak": 87, "history": [{"date": "2009-05-09", "rank": 87}, {"date": "2009-05-16", "rank": 153}, {"date": "2009-05-23", "rank": 194}, {"date": "2009-05-30", "rank": 194}]}
+{
+  "id": "my-maudlin-career-camera-obscura",
+  "title": "My Maudlin Career",
+  "artist": "Camera Obscura",
+  "peak": 87,
+  "history": [
+    {
+      "date": "2009-05-09",
+      "rank": 87
+    },
+    {
+      "date": "2009-05-16",
+      "rank": 153
+    },
+    {
+      "date": "2009-05-23",
+      "rank": 194
+    },
+    {
+      "date": "2009-05-30",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "French Navy",
+      "id": null
+    },
+    {
+      "title": "The Sweetest Thing",
+      "id": null
+    },
+    {
+      "title": "You Told a Lie",
+      "id": null
+    },
+    {
+      "title": "Away With Murder",
+      "id": null
+    },
+    {
+      "title": "Swans",
+      "id": null
+    },
+    {
+      "title": "James",
+      "id": null
+    },
+    {
+      "title": "Careless Love",
+      "id": null
+    },
+    {
+      "title": "My Maudlin Career",
+      "id": null
+    },
+    {
+      "title": "Forests and Sands",
+      "id": null
+    },
+    {
+      "title": "Other Towns and Cities",
+      "id": null
+    },
+    {
+      "title": "Honey in the Sun",
+      "id": null
+    }
+  ]
+}

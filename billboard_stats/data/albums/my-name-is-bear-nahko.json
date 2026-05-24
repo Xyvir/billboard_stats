@@ -1,1 +1,78 @@
-{"id": "my-name-is-bear-nahko", "title": "My Name Is Bear", "artist": "Nahko", "peak": 170, "history": [{"date": "2017-11-11", "rank": 170}]}
+{
+  "id": "my-name-is-bear-nahko",
+  "title": "My Name Is Bear",
+  "artist": "Nahko",
+  "peak": 170,
+  "history": [
+    {
+      "date": "2017-11-11",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dragonfly",
+      "id": null
+    },
+    {
+      "title": "The Vow (interlude)",
+      "id": null
+    },
+    {
+      "title": "Be Here Now",
+      "id": null
+    },
+    {
+      "title": "Goodnight, Sun",
+      "id": null
+    },
+    {
+      "title": "Too Much Kerouac (interlude)",
+      "id": null
+    },
+    {
+      "title": "Kirby, Joe",
+      "id": null
+    },
+    {
+      "title": "Susanna",
+      "id": null
+    },
+    {
+      "title": "Bearly Thoughts (interlude)",
+      "id": null
+    },
+    {
+      "title": "Sing Him of My Revelations",
+      "id": null
+    },
+    {
+      "title": "Hamakua",
+      "id": null
+    },
+    {
+      "title": "Call Him by His Name",
+      "id": null
+    },
+    {
+      "title": "Early February",
+      "id": null
+    },
+    {
+      "title": "Stoned on a Stone (interlude)",
+      "id": null
+    },
+    {
+      "title": "Creation’s Daughter",
+      "id": null
+    },
+    {
+      "title": "Alice",
+      "id": null
+    },
+    {
+      "title": "Die Like Dinoz",
+      "id": null
+    }
+  ]
+}

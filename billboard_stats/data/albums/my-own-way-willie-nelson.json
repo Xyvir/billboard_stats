@@ -1,1 +1,66 @@
-{"id": "my-own-way-willie-nelson", "title": "My Own Way", "artist": "Willie Nelson", "peak": 182, "history": [{"date": "1983-12-03", "rank": 184}, {"date": "1983-12-10", "rank": 182}, {"date": "1983-12-17", "rank": 200}, {"date": "1983-12-24", "rank": 194}, {"date": "1983-12-31", "rank": 194}]}
+{
+  "id": "my-own-way-willie-nelson",
+  "title": "My Own Way",
+  "artist": "Willie Nelson",
+  "peak": 182,
+  "history": [
+    {
+      "date": "1983-12-03",
+      "rank": 184
+    },
+    {
+      "date": "1983-12-10",
+      "rank": 182
+    },
+    {
+      "date": "1983-12-17",
+      "rank": 200
+    },
+    {
+      "date": "1983-12-24",
+      "rank": 194
+    },
+    {
+      "date": "1983-12-31",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m a Memory",
+      "id": null
+    },
+    {
+      "title": "My Own Peculiar Way",
+      "id": null
+    },
+    {
+      "title": "Both Sides Now",
+      "id": null
+    },
+    {
+      "title": "Funny How Time Slips Away",
+      "id": null
+    },
+    {
+      "title": "Hello Walls",
+      "id": null
+    },
+    {
+      "title": "One in a Row",
+      "id": null
+    },
+    {
+      "title": "Stay Away From Lonely Places",
+      "id": null
+    },
+    {
+      "title": "Pins and Needles (In My Heart)",
+      "id": null
+    },
+    {
+      "title": "Rainy Day Blues",
+      "id": null
+    }
+  ]
+}

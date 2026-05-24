@@ -1,1 +1,74 @@
-{"id": "my-merry-go-round-johnny-nash", "title": "My Merry-Go-Round", "artist": "Johnny Nash", "peak": 169, "history": [{"date": "1973-07-14", "rank": 174}, {"date": "1973-07-21", "rank": 171}, {"date": "1973-07-28", "rank": 170}, {"date": "1973-08-04", "rank": 169}, {"date": "1973-08-11", "rank": 172}, {"date": "1973-08-18", "rank": 183}]}
+{
+  "id": "my-merry-go-round-johnny-nash",
+  "title": "My Merry-Go-Round",
+  "artist": "Johnny Nash",
+  "peak": 169,
+  "history": [
+    {
+      "date": "1973-07-14",
+      "rank": 174
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 171
+    },
+    {
+      "date": "1973-07-28",
+      "rank": 170
+    },
+    {
+      "date": "1973-08-04",
+      "rank": 169
+    },
+    {
+      "date": "1973-08-11",
+      "rank": 172
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Merry-Go-Round",
+      "id": "my-merry-go-round-johnny-nash"
+    },
+    {
+      "title": "Loving You",
+      "id": "loving-you-johnny-nash"
+    },
+    {
+      "title": "Nice Time",
+      "id": null
+    },
+    {
+      "title": "You Better Stop (Messing Around)",
+      "id": null
+    },
+    {
+      "title": "Gonna Open Up My Heart Again",
+      "id": null
+    },
+    {
+      "title": "Ooh What a Feeling",
+      "id": null
+    },
+    {
+      "title": "Love is Not a Game",
+      "id": null
+    },
+    {
+      "title": "Yellow House",
+      "id": null
+    },
+    {
+      "title": "(Oh Jesus) We're Trying to Get Back to You",
+      "id": null
+    },
+    {
+      "title": "Salt Annie Ginger Tree",
+      "id": null
+    }
+  ]
+}

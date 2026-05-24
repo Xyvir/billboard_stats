@@ -1,1 +1,106 @@
-{"id": "my-maria-b-w-stevenson", "title": "My Maria", "artist": "B.W. Stevenson", "peak": 45, "history": [{"date": "1973-09-15", "rank": 170}, {"date": "1973-09-22", "rank": 102}, {"date": "1973-09-29", "rank": 69}, {"date": "1973-10-06", "rank": 57}, {"date": "1973-10-13", "rank": 47}, {"date": "1973-10-20", "rank": 47}, {"date": "1973-10-27", "rank": 45}, {"date": "1973-11-03", "rank": 48}, {"date": "1973-11-10", "rank": 53}, {"date": "1973-11-17", "rank": 63}, {"date": "1973-11-24", "rank": 87}, {"date": "1973-12-01", "rank": 112}, {"date": "1973-12-08", "rank": 150}, {"date": "1973-12-15", "rank": 168}]}
+{
+  "id": "my-maria-b-w-stevenson",
+  "title": "My Maria",
+  "artist": "B.W. Stevenson",
+  "peak": 45,
+  "history": [
+    {
+      "date": "1973-09-15",
+      "rank": 170
+    },
+    {
+      "date": "1973-09-22",
+      "rank": 102
+    },
+    {
+      "date": "1973-09-29",
+      "rank": 69
+    },
+    {
+      "date": "1973-10-06",
+      "rank": 57
+    },
+    {
+      "date": "1973-10-13",
+      "rank": 47
+    },
+    {
+      "date": "1973-10-20",
+      "rank": 47
+    },
+    {
+      "date": "1973-10-27",
+      "rank": 45
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 48
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 53
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 63
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 87
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 112
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 150
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Maria",
+      "id": "my-maria-b-w-stevenson"
+    },
+    {
+      "title": "Shambala",
+      "id": "shambala-b-w-stevenson"
+    },
+    {
+      "title": "Be My Woman Tonight",
+      "id": null
+    },
+    {
+      "title": "Sunset Woman",
+      "id": null
+    },
+    {
+      "title": "A Good Love Is Like a Good Song",
+      "id": null
+    },
+    {
+      "title": "Grab a Hold of My Soul",
+      "id": null
+    },
+    {
+      "title": "Lucky Touch",
+      "id": null
+    },
+    {
+      "title": "I Got to Boogie",
+      "id": null
+    },
+    {
+      "title": "Remember Me",
+      "id": null
+    },
+    {
+      "title": "Pass This Way",
+      "id": null
+    }
+  ]
+}

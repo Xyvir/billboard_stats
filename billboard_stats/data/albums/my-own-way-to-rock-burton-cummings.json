@@ -1,1 +1,70 @@
-{"id": "my-own-way-to-rock-burton-cummings", "title": "My Own Way To Rock", "artist": "Burton Cummings", "peak": 51, "history": [{"date": "1977-07-09", "rank": 73}, {"date": "1977-07-16", "rank": 61}, {"date": "1977-07-23", "rank": 51}, {"date": "1977-07-30", "rank": 51}, {"date": "1977-08-06", "rank": 77}, {"date": "1977-08-13", "rank": 168}]}
+{
+  "id": "my-own-way-to-rock-burton-cummings",
+  "title": "My Own Way To Rock",
+  "artist": "Burton Cummings",
+  "peak": 51,
+  "history": [
+    {
+      "date": "1977-07-09",
+      "rank": 73
+    },
+    {
+      "date": "1977-07-16",
+      "rank": 61
+    },
+    {
+      "date": "1977-07-23",
+      "rank": 51
+    },
+    {
+      "date": "1977-07-30",
+      "rank": 51
+    },
+    {
+      "date": "1977-08-06",
+      "rank": 77
+    },
+    {
+      "date": "1977-08-13",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Own Way to Rock",
+      "id": "my-own-way-to-rock-burton-cummings"
+    },
+    {
+      "title": "Never Had a Lady Before",
+      "id": null
+    },
+    {
+      "title": "Come on By",
+      "id": null
+    },
+    {
+      "title": "Try to Find Another Man",
+      "id": null
+    },
+    {
+      "title": "Got to Find Another Way",
+      "id": null
+    },
+    {
+      "title": "Charlemagne",
+      "id": null
+    },
+    {
+      "title": "Timeless Love",
+      "id": null
+    },
+    {
+      "title": "Framed",
+      "id": null
+    },
+    {
+      "title": "A Song for Him",
+      "id": null
+    }
+  ]
+}
