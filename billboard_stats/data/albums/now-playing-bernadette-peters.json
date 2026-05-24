@@ -1,1 +1,82 @@
-{"id": "now-playing-bernadette-peters", "title": "Now Playing", "artist": "Bernadette Peters", "peak": 151, "history": [{"date": "1981-10-03", "rank": 162}, {"date": "1981-10-10", "rank": 154}, {"date": "1981-10-17", "rank": 151}, {"date": "1981-10-24", "rank": 164}, {"date": "1981-10-31", "rank": 164}, {"date": "1981-11-07", "rank": 176}, {"date": "1981-11-14", "rank": 175}, {"date": "1981-11-21", "rank": 174}, {"date": "1981-11-28", "rank": 194}]}
+{
+  "id": "now-playing-bernadette-peters",
+  "title": "Now Playing",
+  "artist": "Bernadette Peters",
+  "peak": 151,
+  "history": [
+    {
+      "date": "1981-10-03",
+      "rank": 162
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 154
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 151
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 164
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 164
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 176
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 175
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 174
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dedicated To The One I Love",
+      "id": "dedicated-to-the-one-i-love-bernadette-peters"
+    },
+    {
+      "title": "Broadway Baby",
+      "id": null
+    },
+    {
+      "title": "Don't",
+      "id": null
+    },
+    {
+      "title": "Carrying A Torch",
+      "id": null
+    },
+    {
+      "title": "Sweet Alibis",
+      "id": null
+    },
+    {
+      "title": "The Weekend Of A Private Secretary",
+      "id": null
+    },
+    {
+      "title": "Tears On My Pillow",
+      "id": null
+    },
+    {
+      "title": "Maybe My Baby Will",
+      "id": null
+    },
+    {
+      "title": "I Don't Know Why (I Just Do) / Mean To Me",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"id": "now-appearing-at-ole-miss-b-b-king", "title": "Now Appearing At Ole' Miss", "artist": "B.B. King", "peak": 162, "history": [{"date": "1980-04-26", "rank": 185}, {"date": "1980-05-03", "rank": 175}, {"date": "1980-05-10", "rank": 162}, {"date": "1980-05-17", "rank": 162}]}
+{
+  "id": "now-appearing-at-ole-miss-b-b-king",
+  "title": "Now Appearing At Ole' Miss",
+  "artist": "B.B. King",
+  "peak": 162,
+  "history": [
+    {
+      "date": "1980-04-26",
+      "rank": 185
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 175
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 162
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Got Some Outside Help (I Don’t Really Need)",
+      "id": "i-got-some-help-i-don-t-need-b-b-king"
+    },
+    {
+      "title": "Darlin’ You Know I Love You",
+      "id": "to-know-you-is-to-love-you-b-b-king"
+    },
+    {
+      "title": "The Thrill Is Gone",
+      "id": "the-thrill-is-gone-b-b-king"
+    },
+    {
+      "title": "Rock Me Baby",
+      "id": "rock-me-baby-b-b-king"
+    },
+    {
+      "title": "Intro – B.B. King Blues Theme",
+      "id": null
+    },
+    {
+      "title": "Caldonia",
+      "id": null
+    },
+    {
+      "title": "Blues Medley",
+      "id": null
+    },
+    {
+      "title": "Hold On",
+      "id": null
+    },
+    {
+      "title": "When I’m Wrong",
+      "id": null
+    },
+    {
+      "title": "Never Make a Move to Soon",
+      "id": null
+    },
+    {
+      "title": "Three O’Clock in the Morning",
+      "id": null
+    },
+    {
+      "title": "Guess Who",
+      "id": null
+    },
+    {
+      "title": "I Just Can’t Leave Your Love Alone",
+      "id": null
+    }
+  ]
+}

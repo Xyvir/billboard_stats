@@ -1,1 +1,66 @@
-{"id": "now-forever-color-me-badd", "title": "Now & Forever", "artist": "Color Me Badd", "peak": 113, "history": [{"date": "1996-06-01", "rank": 113}, {"date": "1996-06-08", "rank": 122}, {"date": "1996-06-15", "rank": 142}, {"date": "1996-06-22", "rank": 169}]}
+{
+  "id": "now-forever-color-me-badd",
+  "title": "Now & Forever",
+  "artist": "Color Me Badd",
+  "peak": 113,
+  "history": [
+    {
+      "date": "1996-06-01",
+      "rank": 113
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 122
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 142
+    },
+    {
+      "date": "1996-06-22",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Earth, the Sun, the Rain",
+      "id": "the-earth-the-sun-the-rain-color-me-badd"
+    },
+    {
+      "title": "Sexual Capacity",
+      "id": null
+    },
+    {
+      "title": "Ooh Tonight",
+      "id": null
+    },
+    {
+      "title": "The Last to Know",
+      "id": null
+    },
+    {
+      "title": "For All Eternity",
+      "id": null
+    },
+    {
+      "title": "From the Back",
+      "id": null
+    },
+    {
+      "title": "Ain’t Nobody Goin’ Home",
+      "id": null
+    },
+    {
+      "title": "On My Mind",
+      "id": null
+    },
+    {
+      "title": "Soft n’ Easy",
+      "id": null
+    },
+    {
+      "title": "Tonite, Tonite",
+      "id": null
+    }
+  ]
+}

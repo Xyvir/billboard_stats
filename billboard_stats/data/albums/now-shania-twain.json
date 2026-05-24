@@ -1,1 +1,102 @@
-{"id": "now-shania-twain", "title": "Now", "artist": "Shania Twain", "peak": 1, "history": [{"date": "2017-10-21", "rank": 1}, {"date": "2017-10-28", "rank": 29}, {"date": "2017-11-04", "rank": 62}, {"date": "2017-11-11", "rank": 74}, {"date": "2017-11-18", "rank": 126}, {"date": "2017-11-25", "rank": 152}, {"date": "2018-01-13", "rank": 99}]}
+{
+  "id": "now-shania-twain",
+  "title": "Now",
+  "artist": "Shania Twain",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2017-10-21",
+      "rank": 1
+    },
+    {
+      "date": "2017-10-28",
+      "rank": 29
+    },
+    {
+      "date": "2017-11-04",
+      "rank": 62
+    },
+    {
+      "date": "2017-11-11",
+      "rank": 74
+    },
+    {
+      "date": "2017-11-18",
+      "rank": 126
+    },
+    {
+      "date": "2017-11-25",
+      "rank": 152
+    },
+    {
+      "date": "2018-01-13",
+      "rank": 99
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Roll Me on the River",
+      "id": "come-on-over-shania-twain"
+    },
+    {
+      "title": "Swingin’ With My Eyes Closed",
+      "id": null
+    },
+    {
+      "title": "Home Now",
+      "id": null
+    },
+    {
+      "title": "Light of My Life",
+      "id": null
+    },
+    {
+      "title": "Poor Me",
+      "id": null
+    },
+    {
+      "title": "Who’s Gonna Be Your Girl",
+      "id": null
+    },
+    {
+      "title": "More Fun",
+      "id": null
+    },
+    {
+      "title": "I’m Alright",
+      "id": null
+    },
+    {
+      "title": "Let’s Kiss and Make Up",
+      "id": null
+    },
+    {
+      "title": "Where Do You Think You’re Going",
+      "id": null
+    },
+    {
+      "title": "We Got Something They Don’t",
+      "id": null
+    },
+    {
+      "title": "Because of You",
+      "id": null
+    },
+    {
+      "title": "You Can’t Buy Love",
+      "id": null
+    },
+    {
+      "title": "Life’s About to Get Good",
+      "id": null
+    },
+    {
+      "title": "Soldier",
+      "id": null
+    },
+    {
+      "title": "All in All",
+      "id": null
+    }
+  ]
+}
