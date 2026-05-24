@@ -1,1 +1,122 @@
-{"id": "non-stop-b-t-express", "title": "Non-stop", "artist": "B.T. Express", "peak": 19, "history": [{"date": "1975-08-02", "rank": 80}, {"date": "1975-08-09", "rank": 69}, {"date": "1975-08-16", "rank": 42}, {"date": "1975-08-23", "rank": 34}, {"date": "1975-08-30", "rank": 28}, {"date": "1975-09-06", "rank": 24}, {"date": "1975-09-13", "rank": 20}, {"date": "1975-09-20", "rank": 20}, {"date": "1975-09-27", "rank": 20}, {"date": "1975-10-04", "rank": 19}, {"date": "1975-10-11", "rank": 27}, {"date": "1975-10-18", "rank": 55}, {"date": "1975-10-25", "rank": 74}, {"date": "1975-11-01", "rank": 67}, {"date": "1975-11-08", "rank": 73}, {"date": "1975-11-15", "rank": 104}, {"date": "1975-11-22", "rank": 92}, {"date": "1975-11-29", "rank": 92}, {"date": "1975-12-06", "rank": 169}]}
+{
+  "id": "non-stop-b-t-express",
+  "title": "Non-stop",
+  "artist": "B.T. Express",
+  "peak": 19,
+  "history": [
+    {
+      "date": "1975-08-02",
+      "rank": 80
+    },
+    {
+      "date": "1975-08-09",
+      "rank": 69
+    },
+    {
+      "date": "1975-08-16",
+      "rank": 42
+    },
+    {
+      "date": "1975-08-23",
+      "rank": 34
+    },
+    {
+      "date": "1975-08-30",
+      "rank": 28
+    },
+    {
+      "date": "1975-09-06",
+      "rank": 24
+    },
+    {
+      "date": "1975-09-13",
+      "rank": 20
+    },
+    {
+      "date": "1975-09-20",
+      "rank": 20
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 20
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 19
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 27
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 55
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 74
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 67
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 73
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 104
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 92
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 92
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Give It What You Got",
+      "id": "give-it-what-you-got-peace-pipe-b-t-express"
+    },
+    {
+      "title": "Close to You",
+      "id": "close-to-you-b-t-express"
+    },
+    {
+      "title": "Peace Pipe",
+      "id": null
+    },
+    {
+      "title": "Discotizer",
+      "id": null
+    },
+    {
+      "title": "Still Good - Still Like It",
+      "id": null
+    },
+    {
+      "title": "You Got It - You Want It",
+      "id": null
+    },
+    {
+      "title": "Devil's Workshop",
+      "id": null
+    },
+    {
+      "title": "Happiness",
+      "id": null
+    },
+    {
+      "title": "Whatcha Think About That?",
+      "id": null
+    }
+  ]
+}

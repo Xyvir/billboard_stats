@@ -1,1 +1,70 @@
-{"id": "no-ordinary-girl-jordan-pruitt", "title": "No Ordinary Girl", "artist": "Jordan Pruitt", "peak": 64, "history": [{"date": "2007-02-24", "rank": 64}, {"date": "2007-03-03", "rank": 134}, {"date": "2007-03-10", "rank": 179}]}
+{
+  "id": "no-ordinary-girl-jordan-pruitt",
+  "title": "No Ordinary Girl",
+  "artist": "Jordan Pruitt",
+  "peak": 64,
+  "history": [
+    {
+      "date": "2007-02-24",
+      "rank": 64
+    },
+    {
+      "date": "2007-03-03",
+      "rank": 134
+    },
+    {
+      "date": "2007-03-10",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Outside Looking In",
+      "id": "outside-looking-in-jordan-pruitt"
+    },
+    {
+      "title": "Jump to the Rhythm",
+      "id": "jump-to-the-rhythm-jordan-pruitt"
+    },
+    {
+      "title": "No Ordinary Girl",
+      "id": null
+    },
+    {
+      "title": "Miss Popularity",
+      "id": null
+    },
+    {
+      "title": "Over It",
+      "id": null
+    },
+    {
+      "title": "Teenager",
+      "id": null
+    },
+    {
+      "title": "We Are Family",
+      "id": null
+    },
+    {
+      "title": "Waiting for You",
+      "id": null
+    },
+    {
+      "title": "My Reality",
+      "id": null
+    },
+    {
+      "title": "Who Likes Who",
+      "id": null
+    },
+    {
+      "title": "Later",
+      "id": null
+    },
+    {
+      "title": "When I Pretend",
+      "id": null
+    }
+  ]
+}
