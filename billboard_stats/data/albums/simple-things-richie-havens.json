@@ -1,1 +1,62 @@
-{"id": "simple-things-richie-havens", "title": "Simple Things", "artist": "Richie Havens", "peak": 173, "history": [{"date": "1987-10-03", "rank": 184}, {"date": "1987-10-10", "rank": 184}, {"date": "1987-10-17", "rank": 181}, {"date": "1987-10-24", "rank": 173}]}
+{
+  "id": "simple-things-richie-havens",
+  "title": "Simple Things",
+  "artist": "Richie Havens",
+  "peak": 173,
+  "history": [
+    {
+      "date": "1987-10-03",
+      "rank": 184
+    },
+    {
+      "date": "1987-10-10",
+      "rank": 184
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 181
+    },
+    {
+      "date": "1987-10-24",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Drivin'",
+      "id": null
+    },
+    {
+      "title": "Simple Things",
+      "id": null
+    },
+    {
+      "title": "Songwriter",
+      "id": null
+    },
+    {
+      "title": "Passin' By",
+      "id": null
+    },
+    {
+      "title": "Wake Up and Dream",
+      "id": null
+    },
+    {
+      "title": "I Don't Wanna Know",
+      "id": null
+    },
+    {
+      "title": "Shouldn't We All Be Having a Good Time",
+      "id": null
+    },
+    {
+      "title": "Arrow Through Me",
+      "id": null
+    },
+    {
+      "title": "Runner in the Night",
+      "id": null
+    }
+  ]
+}

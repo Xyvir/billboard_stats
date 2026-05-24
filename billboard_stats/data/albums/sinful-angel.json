@@ -1,1 +1,70 @@
-{"id": "sinful-angel", "title": "Sinful", "artist": "Angel", "peak": 159, "history": [{"date": "1979-03-03", "rank": 178}, {"date": "1979-03-10", "rank": 162}, {"date": "1979-03-17", "rank": 159}, {"date": "1979-03-24", "rank": 186}, {"date": "1979-03-31", "rank": 183}]}
+{
+  "id": "sinful-angel",
+  "title": "Sinful",
+  "artist": "Angel",
+  "peak": 159,
+  "history": [
+    {
+      "date": "1979-03-03",
+      "rank": 178
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 162
+    },
+    {
+      "date": "1979-03-17",
+      "rank": 159
+    },
+    {
+      "date": "1979-03-24",
+      "rank": 186
+    },
+    {
+      "date": "1979-03-31",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Take Your Love",
+      "id": null
+    },
+    {
+      "title": "L.A. Lady",
+      "id": null
+    },
+    {
+      "title": "Just Can’t Take It",
+      "id": null
+    },
+    {
+      "title": "You Can’t Buy Love",
+      "id": null
+    },
+    {
+      "title": "Bad Time",
+      "id": null
+    },
+    {
+      "title": "Waited a Long Time",
+      "id": null
+    },
+    {
+      "title": "I’ll Bring the Whole World to Your Door",
+      "id": null
+    },
+    {
+      "title": "I’ll Never Fall in Love Again",
+      "id": null
+    },
+    {
+      "title": "Wild and Hot",
+      "id": null
+    },
+    {
+      "title": "Lovers Live On",
+      "id": null
+    }
+  ]
+}

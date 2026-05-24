@@ -1,1 +1,110 @@
-{"id": "simple-things-jim-brickman", "title": "Simple Things", "artist": "Jim Brickman", "peak": 54, "history": [{"date": "2001-10-13", "rank": 54}, {"date": "2001-10-20", "rank": 62}, {"date": "2001-10-27", "rank": 94}, {"date": "2001-11-03", "rank": 101}, {"date": "2001-11-10", "rank": 117}, {"date": "2001-11-17", "rank": 123}, {"date": "2001-11-24", "rank": 145}, {"date": "2001-12-01", "rank": 164}, {"date": "2001-12-15", "rank": 196}, {"date": "2001-12-22", "rank": 193}, {"date": "2001-12-29", "rank": 186}, {"date": "2002-01-05", "rank": 186}]}
+{
+  "id": "simple-things-jim-brickman",
+  "title": "Simple Things",
+  "artist": "Jim Brickman",
+  "peak": 54,
+  "history": [
+    {
+      "date": "2001-10-13",
+      "rank": 54
+    },
+    {
+      "date": "2001-10-20",
+      "rank": 62
+    },
+    {
+      "date": "2001-10-27",
+      "rank": 94
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 101
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 117
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 123
+    },
+    {
+      "date": "2001-11-24",
+      "rank": 145
+    },
+    {
+      "date": "2001-12-01",
+      "rank": 164
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 196
+    },
+    {
+      "date": "2001-12-22",
+      "rank": 193
+    },
+    {
+      "date": "2001-12-29",
+      "rank": 186
+    },
+    {
+      "date": "2002-01-05",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Promise",
+      "id": null
+    },
+    {
+      "title": "Simple Things",
+      "id": null
+    },
+    {
+      "title": "Catching Twilight",
+      "id": null
+    },
+    {
+      "title": "Night Rain",
+      "id": null
+    },
+    {
+      "title": "Another Tuesday Morning",
+      "id": null
+    },
+    {
+      "title": "Gate 41",
+      "id": null
+    },
+    {
+      "title": "Waiting for You",
+      "id": null
+    },
+    {
+      "title": "Journey",
+      "id": null
+    },
+    {
+      "title": "Devotion",
+      "id": null
+    },
+    {
+      "title": "One and Only",
+      "id": null
+    },
+    {
+      "title": "Serenade",
+      "id": null
+    },
+    {
+      "title": "A Mother’s Day",
+      "id": null
+    },
+    {
+      "title": "It Must Be You",
+      "id": null
+    }
+  ]
+}

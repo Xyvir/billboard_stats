@@ -1,1 +1,82 @@
-{"id": "simple-times-joshua-radin", "title": "Simple Times", "artist": "Joshua Radin", "peak": 34, "history": [{"date": "2008-09-27", "rank": 34}, {"date": "2008-10-04", "rank": 100}, {"date": "2008-10-18", "rank": 72}, {"date": "2008-10-25", "rank": 147}, {"date": "2008-11-01", "rank": 171}, {"date": "2009-03-21", "rank": 116}, {"date": "2010-07-03", "rank": 151}]}
+{
+  "id": "simple-times-joshua-radin",
+  "title": "Simple Times",
+  "artist": "Joshua Radin",
+  "peak": 34,
+  "history": [
+    {
+      "date": "2008-09-27",
+      "rank": 34
+    },
+    {
+      "date": "2008-10-04",
+      "rank": 100
+    },
+    {
+      "date": "2008-10-18",
+      "rank": 72
+    },
+    {
+      "date": "2008-10-25",
+      "rank": 147
+    },
+    {
+      "date": "2008-11-01",
+      "rank": 171
+    },
+    {
+      "date": "2009-03-21",
+      "rank": 116
+    },
+    {
+      "date": "2010-07-03",
+      "rank": 151
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’d Rather Be With You",
+      "id": "i-d-rather-be-with-you-joshua-radin"
+    },
+    {
+      "title": "One of Those Days",
+      "id": null
+    },
+    {
+      "title": "Sky",
+      "id": null
+    },
+    {
+      "title": "Friend Like You",
+      "id": null
+    },
+    {
+      "title": "Brand New Day",
+      "id": null
+    },
+    {
+      "title": "They Bring Me to You",
+      "id": null
+    },
+    {
+      "title": "Vegetable Car",
+      "id": null
+    },
+    {
+      "title": "Free of Me",
+      "id": null
+    },
+    {
+      "title": "You Got Growin' Up to Do",
+      "id": null
+    },
+    {
+      "title": "We Are Okay",
+      "id": null
+    },
+    {
+      "title": "No Envy, No Fear",
+      "id": null
+    }
+  ]
+}
