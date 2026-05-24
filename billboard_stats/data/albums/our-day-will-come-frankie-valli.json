@@ -1,1 +1,50 @@
-{"id": "our-day-will-come-frankie-valli", "title": "Our Day Will Come", "artist": "Frankie Valli", "peak": 107, "history": [{"date": "1975-12-13", "rank": 187}, {"date": "1975-12-20", "rank": 137}, {"date": "1975-12-27", "rank": 125}, {"date": "1976-01-03", "rank": 114}, {"date": "1976-01-10", "rank": 107}, {"date": "1976-01-17", "rank": 107}, {"date": "1976-01-24", "rank": 130}, {"date": "1976-01-31", "rank": 175}]}
+{
+  "id": "our-day-will-come-frankie-valli",
+  "title": "Our Day Will Come",
+  "artist": "Frankie Valli",
+  "peak": 107,
+  "history": [
+    {
+      "date": "1975-12-13",
+      "rank": 187
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 137
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 125
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 114
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 107
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 107
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 130
+    },
+    {
+      "date": "1976-01-31",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Our Day Will Come",
+      "id": "our-day-will-come-frankie-valli"
+    },
+    {
+      "title": "You Can Bet (I Ain’t Goin’ Nowhere)",
+      "id": null
+    }
+  ]
+}
