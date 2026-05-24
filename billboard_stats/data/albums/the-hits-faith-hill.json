@@ -1,1 +1,122 @@
-{"id": "the-hits-faith-hill", "title": "The Hits", "artist": "Faith Hill", "peak": 12, "history": [{"date": "2007-10-20", "rank": 12}, {"date": "2007-10-27", "rank": 32}, {"date": "2007-11-03", "rank": 58}, {"date": "2007-11-10", "rank": 72}, {"date": "2007-11-17", "rank": 101}, {"date": "2007-11-24", "rank": 123}, {"date": "2007-12-01", "rank": 137}, {"date": "2007-12-08", "rank": 123}, {"date": "2007-12-15", "rank": 123}, {"date": "2007-12-22", "rank": 120}, {"date": "2007-12-29", "rank": 124}, {"date": "2008-01-05", "rank": 120}, {"date": "2008-01-12", "rank": 145}]}
+{
+  "id": "the-hits-faith-hill",
+  "title": "The Hits",
+  "artist": "Faith Hill",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2007-10-20",
+      "rank": 12
+    },
+    {
+      "date": "2007-10-27",
+      "rank": 32
+    },
+    {
+      "date": "2007-11-03",
+      "rank": 58
+    },
+    {
+      "date": "2007-11-10",
+      "rank": 72
+    },
+    {
+      "date": "2007-11-17",
+      "rank": 101
+    },
+    {
+      "date": "2007-11-24",
+      "rank": 123
+    },
+    {
+      "date": "2007-12-01",
+      "rank": 137
+    },
+    {
+      "date": "2007-12-08",
+      "rank": 123
+    },
+    {
+      "date": "2007-12-15",
+      "rank": 123
+    },
+    {
+      "date": "2007-12-22",
+      "rank": 120
+    },
+    {
+      "date": "2007-12-29",
+      "rank": 124
+    },
+    {
+      "date": "2008-01-05",
+      "rank": 120
+    },
+    {
+      "date": "2008-01-12",
+      "rank": 145
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lost",
+      "id": "lost-faith-hill"
+    },
+    {
+      "title": "Mississippi Girl",
+      "id": "mississippi-girl-faith-hill"
+    },
+    {
+      "title": "Cry",
+      "id": "cry-faith-hill"
+    },
+    {
+      "title": "The Way You Love Me",
+      "id": "the-way-you-love-me-faith-hill"
+    },
+    {
+      "title": "Breathe",
+      "id": "breathe-faith-hill"
+    },
+    {
+      "title": "The Secret of Life",
+      "id": "the-secret-of-life-faith-hill"
+    },
+    {
+      "title": "Let Me Let Go",
+      "id": "let-me-let-go-faith-hill"
+    },
+    {
+      "title": "This Kiss",
+      "id": "this-kiss-faith-hill"
+    },
+    {
+      "title": "It Matters to Me",
+      "id": "it-matters-to-me-faith-hill"
+    },
+    {
+      "title": "Red Umbrella",
+      "id": null
+    },
+    {
+      "title": "Stronger (live)",
+      "id": null
+    },
+    {
+      "title": "I Need You",
+      "id": null
+    },
+    {
+      "title": "There You’ll Be (Love Theme From “Pearl Harbour”)",
+      "id": null
+    },
+    {
+      "title": "Piece of My Heart",
+      "id": null
+    },
+    {
+      "title": "Wild One",
+      "id": null
+    }
+  ]
+}

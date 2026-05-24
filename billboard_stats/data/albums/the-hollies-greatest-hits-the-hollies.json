@@ -1,1 +1,86 @@
-{"id": "the-hollies-greatest-hits-the-hollies", "title": "The Hollies' Greatest Hits", "artist": "The Hollies", "peak": 157, "history": [{"date": "1973-10-20", "rank": 199}, {"date": "1973-10-27", "rank": 177}, {"date": "1973-11-03", "rank": 169}, {"date": "1973-11-10", "rank": 161}, {"date": "1973-11-17", "rank": 157}, {"date": "1973-11-24", "rank": 162}, {"date": "1973-12-01", "rank": 165}]}
+{
+  "id": "the-hollies-greatest-hits-the-hollies",
+  "title": "The Hollies' Greatest Hits",
+  "artist": "The Hollies",
+  "peak": 157,
+  "history": [
+    {
+      "date": "1973-10-20",
+      "rank": 199
+    },
+    {
+      "date": "1973-10-27",
+      "rank": 177
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 169
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 161
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 157
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 162
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bus Stop",
+      "id": "bus-stop-the-hollies"
+    },
+    {
+      "title": "Carrie Anne",
+      "id": "carrie-anne-the-hollies"
+    },
+    {
+      "title": "Stop, Stop, Stop",
+      "id": "stop-stop-stop-the-hollies"
+    },
+    {
+      "title": "Look Through Any Window",
+      "id": "look-through-any-window-the-hollies"
+    },
+    {
+      "title": "Dear Eloise",
+      "id": "dear-eloise-the-hollies"
+    },
+    {
+      "title": "Long Cool Woman in a Black Dress",
+      "id": "long-cool-woman-in-a-black-dress-the-hollies"
+    },
+    {
+      "title": "He Ain’t Heavy, He’s My Brother",
+      "id": "he-ain-t-heavy-he-s-my-brother-the-hollies"
+    },
+    {
+      "title": "Just One Look",
+      "id": "just-one-look-the-hollies"
+    },
+    {
+      "title": "King Midas in Reverse",
+      "id": "king-midas-in-reverse-the-hollies"
+    },
+    {
+      "title": "Pay You Back With Interest",
+      "id": "pay-you-back-with-interest-the-hollies"
+    },
+    {
+      "title": "Long Dark Road",
+      "id": "long-dark-road-the-hollies"
+    },
+    {
+      "title": "On a Carousel",
+      "id": "on-a-carousel-the-hollies"
+    }
+  ]
+}

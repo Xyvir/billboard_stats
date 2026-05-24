@@ -385,51 +385,6 @@
             });
         }
 
-        async function loadItemStats(itemType, cleanId, elementId) {
-            try {
-                const res = await fetch(`${DATA_DIR}/${itemType}/${cleanId}.json`);
-                if (!res.ok) return;
-                const data = await res.json();
-                
-                const history = data.history || data.chart_history || data.charts || data.chart_weeks;
-                let peak = data.peak || null;
-                let longestRun = 0;
-                
-                if (history && history.length > 0) {
-                    if (!peak) {
-                        peak = Math.min(...history.map(h => h.rank || h.position));
-                    }
-                    
-                    let currentRun = 1;
-                    longestRun = 1;
-                    const sorted = [...history].sort((a,b) => new Date(a.date || a.week || a.chart_date) - new Date(b.date || b.week || b.chart_date));
-                    
-                    for (let i = 1; i < sorted.length; i++) {
-                        const d1 = new Date(sorted[i-1].date || sorted[i-1].week || sorted[i-1].chart_date);
-                        const d2 = new Date(sorted[i].date || sorted[i].week || sorted[i].chart_date);
-                        const diffDays = Math.round((d2 - d1) / (1000 * 60 * 60 * 24));
-                        
-                        if (diffDays <= 8) { 
-                            currentRun++;
-                        } else {
-                            if (currentRun > longestRun) longestRun = currentRun;
-                            currentRun = 1;
-                        }
-                    }
-                    if (currentRun > longestRun) longestRun = currentRun;
-                }
-                
-                const el = document.getElementById(elementId);
-                if (el && (peak || longestRun > 0)) {
-                    let html = '';
-                    const peakColor = itemType === 'songs' ? '#ff4757' : '#a55eea';
-                    if (peak) html += `<span class="stat-badge" style="background: ${peakColor}; color: white; margin-right: 5px;">Peak: #${peak}</span>`;
-                    if (longestRun > 0) html += `<span class="stat-badge" style="background: #444; color: white;">Longest Run: ${longestRun} Wks</span>`;
-                    el.innerHTML = html;
-                }
-            } catch (e) {}
-        }
-
         async function loadDetail(type, itemId) {
             if (!itemId || itemId === 'null' || itemId === 'undefined') {
                 alert("This record hasn't been processed by the new ETL yet.");
@@ -543,6 +498,7 @@
                     const renderSongRow = (song) => {
                         let songId = '';
                         let title = 'Unknown Song';
+                        let peakHtml = '';
 
                         if (typeof song === 'string') {
                             songId = song;
@@ -555,15 +511,11 @@
                         } else {
                             songId = song.id || song.song_id || song.ref || song.path || '';
                             title = song.title || song.name || 'Unknown Song';
+                            peakHtml = song.peak ? `<span class="stat-badge">Peak: #${song.peak}</span>` : '';
                         }
 
                         const cleanId = String(songId).replace(/^songs\//, '').replace(/\.json$/, '');
                         const encodedId = cleanId ? encodeURIComponent(cleanId) : '';
-                        const statsId = `stats-song-${cleanId}-${Math.random().toString(36).substr(2, 9)}`;
-                        
-                        if (cleanId) {
-                            setTimeout(() => loadItemStats('songs', cleanId, statsId), 0);
-                        }
                         
                         if (!encodedId) {
                             return `<div style="background: #1a1a1a; padding: 10px; border-radius: 4px; border: 1px solid #333; display: flex; justify-content: space-between; align-items: center;">
@@ -576,7 +528,7 @@
                                          onmouseout="this.style.borderColor='var(--border)'"
                                          onclick="loadDetail('songs', '${encodedId}')">
                                         <strong style="color: white;">${title}</strong>
-                                        <div id="${statsId}"></div>
+                                        ${peakHtml}
                                      </div>`;
                         }
                     };
@@ -651,16 +603,10 @@
                             if (matchedAlbumId) {
                                 renderedAlbumIds.add(matchedAlbumId);
                                 const encodedId = encodeURIComponent(matchedAlbumId);
-                                const statsId = `stats-album-hdr-${matchedAlbumId}-${Math.random().toString(36).substr(2, 9)}`;
-                                setTimeout(() => loadItemStats('albums', matchedAlbumId, statsId), 0);
-
-                                html += `<div style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 0.75rem 0;">
-                                            <h4 style="margin: 0; cursor: pointer; color: var(--text);"
-                                                 onmouseover="this.style.color='var(--accent)'; this.style.textDecoration='underline';" 
-                                                 onmouseout="this.style.color='var(--text)'; this.style.textDecoration='none';"
-                                                 onclick="loadDetail('albums', '${encodedId}')">💿 ${albumName}</h4>
-                                            <div id="${statsId}"></div>
-                                         </div>`;
+                                html += `<h4 style="margin: 0 0 0.75rem 0; cursor: pointer; color: var(--text); display: inline-block;"
+                                             onmouseover="this.style.color='var(--accent)'; this.style.textDecoration='underline';" 
+                                             onmouseout="this.style.color='var(--text)'; this.style.textDecoration='none';"
+                                             onclick="loadDetail('albums', '${encodedId}')">💿 ${albumName}</h4>`;
                             } else {
                                 html += `<h4 style="margin: 0 0 0.75rem 0; color: #aaa;">💿 ${albumName}</h4>`;
                             }
@@ -703,18 +649,12 @@
                         if (renderedAlbumIds.has(cleanId)) return;
 
                         const encodedId = cleanId ? encodeURIComponent(cleanId) : '';
-                        const statsId = `stats-album-${cleanId}-${Math.random().toString(36).substr(2, 9)}`;
                         
-                        if (cleanId) {
-                            setTimeout(() => loadItemStats('albums', cleanId, statsId), 0);
-                        }
-                        
-                        albumHtml += `<div style="background: #222; padding: 10px; border-radius: 4px; cursor: pointer; border: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center;"
+                        albumHtml += `<div style="background: #222; padding: 10px; border-radius: 4px; cursor: pointer; border: 1px solid var(--border);"
                                      onmouseover="this.style.borderColor='var(--accent)'" 
                                      onmouseout="this.style.borderColor='var(--border)'"
                                      onclick="loadDetail('albums', '${encodedId}')">
                                     <strong style="color: white;">${title}</strong>
-                                    <div id="${statsId}"></div>
                                  </div>`;
                     });
                     if (albumHtml) {
