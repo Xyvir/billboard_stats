@@ -1,1 +1,54 @@
-{"id": "performance-rockin-the-fillmore-humble-pie", "title": "Performance-Rockin' The Fillmore", "artist": "Humble Pie", "peak": 131, "history": [{"date": "1972-05-20", "rank": 131}, {"date": "1972-05-27", "rank": 131}, {"date": "1972-06-03", "rank": 161}, {"date": "1972-06-10", "rank": 181}]}
+{
+  "id": "performance-rockin-the-fillmore-humble-pie",
+  "title": "Performance-Rockin' The Fillmore",
+  "artist": "Humble Pie",
+  "peak": 131,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 131
+    },
+    {
+      "date": "1972-05-27",
+      "rank": 131
+    },
+    {
+      "date": "1972-06-03",
+      "rank": 161
+    },
+    {
+      "date": "1972-06-10",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Don’t Need No Doctor",
+      "id": "i-don-t-need-no-doctor-humble-pie"
+    },
+    {
+      "title": "Four Day Creep",
+      "id": null
+    },
+    {
+      "title": "I’m Ready",
+      "id": null
+    },
+    {
+      "title": "Stone Cold Fever",
+      "id": null
+    },
+    {
+      "title": "I Walk on Gilded Splinters",
+      "id": null
+    },
+    {
+      "title": "Rolling Stone",
+      "id": null
+    },
+    {
+      "title": "Hallelujah (I Love Her So)",
+      "id": null
+    }
+  ]
+}

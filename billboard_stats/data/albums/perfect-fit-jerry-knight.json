@@ -1,1 +1,42 @@
-{"id": "perfect-fit-jerry-knight", "title": "Perfect Fit", "artist": "Jerry Knight", "peak": 146, "history": [{"date": "1981-04-11", "rank": 188}, {"date": "1981-04-18", "rank": 147}, {"date": "1981-04-25", "rank": 146}, {"date": "1981-05-02", "rank": 162}, {"date": "1981-05-09", "rank": 171}, {"date": "1981-05-16", "rank": 197}]}
+{
+  "id": "perfect-fit-jerry-knight",
+  "title": "Perfect Fit",
+  "artist": "Jerry Knight",
+  "peak": 146,
+  "history": [
+    {
+      "date": "1981-04-11",
+      "rank": 188
+    },
+    {
+      "date": "1981-04-18",
+      "rank": 147
+    },
+    {
+      "date": "1981-04-25",
+      "rank": 146
+    },
+    {
+      "date": "1981-05-02",
+      "rank": 162
+    },
+    {
+      "date": "1981-05-09",
+      "rank": 171
+    },
+    {
+      "date": "1981-05-16",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Perfect Fit (Album Version)",
+      "id": null
+    },
+    {
+      "title": "Perfect Fit (Edited Version)",
+      "id": null
+    }
+  ]
+}

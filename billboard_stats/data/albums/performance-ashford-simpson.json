@@ -1,1 +1,86 @@
-{"id": "performance-ashford-simpson", "title": "Performance", "artist": "Ashford & Simpson", "peak": 125, "history": [{"date": "1981-10-17", "rank": 153}, {"date": "1981-10-24", "rank": 139}, {"date": "1981-10-31", "rank": 127}, {"date": "1981-11-07", "rank": 125}, {"date": "1981-11-14", "rank": 159}, {"date": "1981-11-21", "rank": 183}]}
+{
+  "id": "performance-ashford-simpson",
+  "title": "Performance",
+  "artist": "Ashford & Simpson",
+  "peak": 125,
+  "history": [
+    {
+      "date": "1981-10-17",
+      "rank": 153
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 139
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 127
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 125
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 159
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Cost You Nothing",
+      "id": "don-t-cost-you-nothing-ashford-simpson"
+    },
+    {
+      "title": "Found a Cure",
+      "id": "found-a-cure-ashford-simpson"
+    },
+    {
+      "title": "Bourgie Bourgie (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Nobody Knows",
+      "id": null
+    },
+    {
+      "title": "You’re All I Need / Ain’t Nothing Like the Real Thing / Ain’t No Mountain High Enough",
+      "id": null
+    },
+    {
+      "title": "It Seems to Hang On",
+      "id": null
+    },
+    {
+      "title": "Medley: Landlord, Clouds, the Boss, Is It Still Good to Ya",
+      "id": null
+    },
+    {
+      "title": "I Need Your Light",
+      "id": null
+    },
+    {
+      "title": "Love Don’t Make It Right",
+      "id": null
+    },
+    {
+      "title": "Gimme Something Real",
+      "id": null
+    },
+    {
+      "title": "It Shows in the Eyes (studio)",
+      "id": null
+    },
+    {
+      "title": "It’s the Long Run (studio)",
+      "id": null
+    },
+    {
+      "title": "Come On, Pretty Baby (studio)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "perfect-day-cascada", "title": "Perfect Day", "artist": "Cascada", "peak": 70, "history": [{"date": "2008-03-22", "rank": 70}, {"date": "2008-03-29", "rank": 125}, {"date": "2008-04-05", "rank": 173}]}
+{
+  "id": "perfect-day-cascada",
+  "title": "Perfect Day",
+  "artist": "Cascada",
+  "peak": 70,
+  "history": [
+    {
+      "date": "2008-03-22",
+      "rank": 70
+    },
+    {
+      "date": "2008-03-29",
+      "rank": 125
+    },
+    {
+      "date": "2008-04-05",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What Hurts the Most",
+      "id": "what-hurts-the-most-cascada"
+    },
+    {
+      "title": "What Hurts the Most (Yanou’s Candlelight mix)",
+      "id": "what-hurts-the-most-cascada"
+    },
+    {
+      "title": "Faded",
+      "id": null
+    },
+    {
+      "title": "Holiday",
+      "id": null
+    },
+    {
+      "title": "He’s All That",
+      "id": null
+    },
+    {
+      "title": "Perfect Day",
+      "id": null
+    },
+    {
+      "title": "Dream on Dreamer",
+      "id": null
+    },
+    {
+      "title": "Could It Be You",
+      "id": null
+    },
+    {
+      "title": "Because the Night",
+      "id": null
+    },
+    {
+      "title": "Who Do You Think You Are",
+      "id": null
+    },
+    {
+      "title": "What Do You Want From Me? (radio mix)",
+      "id": null
+    },
+    {
+      "title": "Runaway",
+      "id": null
+    }
+  ]
+}
