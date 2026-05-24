@@ -1,1 +1,274 @@
-{"id": "smells-like-children-marilyn-manson", "title": "Smells Like Children", "artist": "Marilyn Manson", "peak": 31, "history": [{"date": "1995-11-11", "rank": 59}, {"date": "1995-11-18", "rank": 102}, {"date": "1995-11-25", "rank": 146}, {"date": "1995-12-02", "rank": 195}, {"date": "1996-01-13", "rank": 196}, {"date": "1996-02-03", "rank": 188}, {"date": "1996-02-17", "rank": 197}, {"date": "1996-04-06", "rank": 186}, {"date": "1996-04-13", "rank": 151}, {"date": "1996-04-20", "rank": 115}, {"date": "1996-04-27", "rank": 60}, {"date": "1996-05-04", "rank": 49}, {"date": "1996-05-11", "rank": 39}, {"date": "1996-05-18", "rank": 36}, {"date": "1996-05-25", "rank": 33}, {"date": "1996-06-01", "rank": 33}, {"date": "1996-06-08", "rank": 31}, {"date": "1996-06-15", "rank": 37}, {"date": "1996-06-22", "rank": 45}, {"date": "1996-06-29", "rank": 49}, {"date": "1996-07-06", "rank": 56}, {"date": "1996-07-13", "rank": 67}, {"date": "1996-07-20", "rank": 93}, {"date": "1996-07-27", "rank": 101}, {"date": "1996-08-03", "rank": 119}, {"date": "1996-08-10", "rank": 123}, {"date": "1996-08-17", "rank": 145}, {"date": "1996-08-24", "rank": 162}, {"date": "1996-08-31", "rank": 174}, {"date": "1996-09-21", "rank": 190}, {"date": "1996-09-28", "rank": 179}, {"date": "1996-10-05", "rank": 147}, {"date": "1996-10-12", "rank": 136}, {"date": "1996-10-19", "rank": 132}, {"date": "1996-10-26", "rank": 159}, {"date": "1996-11-02", "rank": 167}, {"date": "1996-11-09", "rank": 161}, {"date": "1996-11-16", "rank": 163}, {"date": "1996-11-23", "rank": 162}, {"date": "1996-11-30", "rank": 181}, {"date": "1996-12-07", "rank": 200}, {"date": "1997-01-11", "rank": 173}, {"date": "1997-01-18", "rank": 171}, {"date": "1997-01-25", "rank": 161}, {"date": "1997-02-01", "rank": 154}, {"date": "1997-02-08", "rank": 158}, {"date": "1997-02-15", "rank": 170}, {"date": "1997-02-22", "rank": 177}, {"date": "1997-03-08", "rank": 179}, {"date": "1997-03-22", "rank": 195}]}
+{
+  "id": "smells-like-children-marilyn-manson",
+  "title": "Smells Like Children",
+  "artist": "Marilyn Manson",
+  "peak": 31,
+  "history": [
+    {
+      "date": "1995-11-11",
+      "rank": 59
+    },
+    {
+      "date": "1995-11-18",
+      "rank": 102
+    },
+    {
+      "date": "1995-11-25",
+      "rank": 146
+    },
+    {
+      "date": "1995-12-02",
+      "rank": 195
+    },
+    {
+      "date": "1996-01-13",
+      "rank": 196
+    },
+    {
+      "date": "1996-02-03",
+      "rank": 188
+    },
+    {
+      "date": "1996-02-17",
+      "rank": 197
+    },
+    {
+      "date": "1996-04-06",
+      "rank": 186
+    },
+    {
+      "date": "1996-04-13",
+      "rank": 151
+    },
+    {
+      "date": "1996-04-20",
+      "rank": 115
+    },
+    {
+      "date": "1996-04-27",
+      "rank": 60
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 49
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 39
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 36
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 33
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 33
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 31
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 37
+    },
+    {
+      "date": "1996-06-22",
+      "rank": 45
+    },
+    {
+      "date": "1996-06-29",
+      "rank": 49
+    },
+    {
+      "date": "1996-07-06",
+      "rank": 56
+    },
+    {
+      "date": "1996-07-13",
+      "rank": 67
+    },
+    {
+      "date": "1996-07-20",
+      "rank": 93
+    },
+    {
+      "date": "1996-07-27",
+      "rank": 101
+    },
+    {
+      "date": "1996-08-03",
+      "rank": 119
+    },
+    {
+      "date": "1996-08-10",
+      "rank": 123
+    },
+    {
+      "date": "1996-08-17",
+      "rank": 145
+    },
+    {
+      "date": "1996-08-24",
+      "rank": 162
+    },
+    {
+      "date": "1996-08-31",
+      "rank": 174
+    },
+    {
+      "date": "1996-09-21",
+      "rank": 190
+    },
+    {
+      "date": "1996-09-28",
+      "rank": 179
+    },
+    {
+      "date": "1996-10-05",
+      "rank": 147
+    },
+    {
+      "date": "1996-10-12",
+      "rank": 136
+    },
+    {
+      "date": "1996-10-19",
+      "rank": 132
+    },
+    {
+      "date": "1996-10-26",
+      "rank": 159
+    },
+    {
+      "date": "1996-11-02",
+      "rank": 167
+    },
+    {
+      "date": "1996-11-09",
+      "rank": 161
+    },
+    {
+      "date": "1996-11-16",
+      "rank": 163
+    },
+    {
+      "date": "1996-11-23",
+      "rank": 162
+    },
+    {
+      "date": "1996-11-30",
+      "rank": 181
+    },
+    {
+      "date": "1996-12-07",
+      "rank": 200
+    },
+    {
+      "date": "1997-01-11",
+      "rank": 173
+    },
+    {
+      "date": "1997-01-18",
+      "rank": 171
+    },
+    {
+      "date": "1997-01-25",
+      "rank": 161
+    },
+    {
+      "date": "1997-02-01",
+      "rank": 154
+    },
+    {
+      "date": "1997-02-08",
+      "rank": 158
+    },
+    {
+      "date": "1997-02-15",
+      "rank": 170
+    },
+    {
+      "date": "1997-02-22",
+      "rank": 177
+    },
+    {
+      "date": "1997-03-08",
+      "rank": 179
+    },
+    {
+      "date": "1997-03-22",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Hands of Small Children",
+      "id": null
+    },
+    {
+      "title": "Diary of a Dope Fiend",
+      "id": null
+    },
+    {
+      "title": "Shitty Chicken Gang Bang",
+      "id": null
+    },
+    {
+      "title": "Kiddie Grinder (remix)",
+      "id": null
+    },
+    {
+      "title": "Sympathy for the Parents",
+      "id": null
+    },
+    {
+      "title": "Sweet Dreams (Are Made of This)",
+      "id": null
+    },
+    {
+      "title": "Everlasting Cocksucker (remix)",
+      "id": null
+    },
+    {
+      "title": "Fuck Frankie",
+      "id": null
+    },
+    {
+      "title": "I Put a Spell on You",
+      "id": null
+    },
+    {
+      "title": "May Cause Discoloration of the Urine or Feces",
+      "id": null
+    },
+    {
+      "title": "Scabs, Guns and Peanut Butter",
+      "id": null
+    },
+    {
+      "title": "Dance of the Dope Hats (remix)",
+      "id": null
+    },
+    {
+      "title": "White Trash (remixed by Tony F. Wiggins)",
+      "id": null
+    },
+    {
+      "title": "Dancing With the One‐Legged…",
+      "id": null
+    },
+    {
+      "title": "Rock ’n’ Roll Nigger",
+      "id": null
+    },
+    {
+      "title": "[unknown]",
+      "id": null
+    }
+  ]
+}

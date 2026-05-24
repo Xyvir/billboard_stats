@@ -1,1 +1,62 @@
-{"id": "smash-hits-the-jimi-hendrix-experience", "title": "Smash Hits", "artist": "The Jimi Hendrix Experience", "peak": 121, "history": [{"date": "2020-11-28", "rank": 121}]}
+{
+  "id": "smash-hits-the-jimi-hendrix-experience",
+  "title": "Smash Hits",
+  "artist": "The Jimi Hendrix Experience",
+  "peak": 121,
+  "history": [
+    {
+      "date": "2020-11-28",
+      "rank": 121
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Purple Haze",
+      "id": "purple-haze-the-jimi-hendrix-experience"
+    },
+    {
+      "title": "All Along the Watchtower",
+      "id": "all-along-the-watchtower-the-jimi-hendrix-experience"
+    },
+    {
+      "title": "Crosstown Traffic",
+      "id": "crosstown-traffic-the-jimi-hendrix-experience"
+    },
+    {
+      "title": "Fire",
+      "id": null
+    },
+    {
+      "title": "The Wind Cries Mary",
+      "id": null
+    },
+    {
+      "title": "Can You See Me",
+      "id": null
+    },
+    {
+      "title": "Hey Joe",
+      "id": null
+    },
+    {
+      "title": "Stone Free",
+      "id": null
+    },
+    {
+      "title": "Manic Depression",
+      "id": null
+    },
+    {
+      "title": "Remember",
+      "id": null
+    },
+    {
+      "title": "Red House",
+      "id": null
+    },
+    {
+      "title": "Foxy Lady",
+      "id": null
+    }
+  ]
+}

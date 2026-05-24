@@ -1,1 +1,74 @@
-{"id": "small-change-tom-waits", "title": "Small Change", "artist": "Tom Waits", "peak": 89, "history": [{"date": "1976-11-06", "rank": 105}, {"date": "1976-11-13", "rank": 95}, {"date": "1976-11-20", "rank": 91}, {"date": "1976-11-27", "rank": 89}, {"date": "1976-12-04", "rank": 187}]}
+{
+  "id": "small-change-tom-waits",
+  "title": "Small Change",
+  "artist": "Tom Waits",
+  "peak": 89,
+  "history": [
+    {
+      "date": "1976-11-06",
+      "rank": 105
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 95
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 91
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 89
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tom Traubert’s Blues (Four Sheets to the Wind in Copenhagen)",
+      "id": null
+    },
+    {
+      "title": "Step Right Up",
+      "id": null
+    },
+    {
+      "title": "Jitterbug Boy (Sharing a Curbstone With Chuck E. Weiss, Robert Marchese, Paul Body and the Mug and Artie)",
+      "id": null
+    },
+    {
+      "title": "I Wish I Was in New Orleans (in the Ninth Ward)",
+      "id": null
+    },
+    {
+      "title": "The Piano Has Been Drinking (Not Me) (An Evening With Pete King)",
+      "id": null
+    },
+    {
+      "title": "Invitation to the Blues",
+      "id": null
+    },
+    {
+      "title": "Pasties and a G‐String (at the Two O’Clock Club)",
+      "id": null
+    },
+    {
+      "title": "Bad Liver and a Broken Heart (in Lowell)",
+      "id": null
+    },
+    {
+      "title": "The One That Got Away",
+      "id": null
+    },
+    {
+      "title": "Small Change (Got Rained On With His Own .38)",
+      "id": null
+    },
+    {
+      "title": "I Can’t Wait to Get Off Work (and See My Baby on Montgomery Avenue)",
+      "id": null
+    }
+  ]
+}

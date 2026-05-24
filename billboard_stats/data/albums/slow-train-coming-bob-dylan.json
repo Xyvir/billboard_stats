@@ -1,1 +1,150 @@
-{"id": "slow-train-coming-bob-dylan", "title": "Slow Train Coming", "artist": "Bob Dylan", "peak": 3, "history": [{"date": "1979-09-08", "rank": 57}, {"date": "1979-09-15", "rank": 14}, {"date": "1979-09-22", "rank": 3}, {"date": "1979-09-29", "rank": 3}, {"date": "1979-10-06", "rank": 3}, {"date": "1979-10-13", "rank": 3}, {"date": "1979-10-20", "rank": 8}, {"date": "1979-10-27", "rank": 10}, {"date": "1979-11-03", "rank": 11}, {"date": "1979-11-10", "rank": 16}, {"date": "1979-11-17", "rank": 18}, {"date": "1979-11-24", "rank": 22}, {"date": "1979-12-01", "rank": 21}, {"date": "1979-12-08", "rank": 27}, {"date": "1979-12-15", "rank": 67}, {"date": "1979-12-22", "rank": 76}, {"date": "1979-12-29", "rank": 76}, {"date": "1980-01-05", "rank": 76}, {"date": "1980-01-12", "rank": 76}, {"date": "1980-01-19", "rank": 91}, {"date": "1980-01-26", "rank": 104}, {"date": "1980-02-02", "rank": 101}, {"date": "1980-02-09", "rank": 114}, {"date": "1980-02-16", "rank": 125}, {"date": "1980-02-23", "rank": 163}, {"date": "1980-03-01", "rank": 183}]}
+{
+  "id": "slow-train-coming-bob-dylan",
+  "title": "Slow Train Coming",
+  "artist": "Bob Dylan",
+  "peak": 3,
+  "history": [
+    {
+      "date": "1979-09-08",
+      "rank": 57
+    },
+    {
+      "date": "1979-09-15",
+      "rank": 14
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 3
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 3
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 3
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 3
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 8
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 10
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 11
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 16
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 18
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 22
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 21
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 27
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 67
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 76
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 76
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 76
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 76
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 91
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 104
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 101
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 114
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 125
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 163
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Gotta Serve Somebody",
+      "id": "gotta-serve-somebody-bob-dylan"
+    },
+    {
+      "title": "Precious Angel",
+      "id": null
+    },
+    {
+      "title": "I Believe in You",
+      "id": null
+    },
+    {
+      "title": "Slow Train",
+      "id": null
+    },
+    {
+      "title": "Gonna Change My Way of Thinking",
+      "id": null
+    },
+    {
+      "title": "Do Right to Me Baby (Do Unto Others)",
+      "id": null
+    },
+    {
+      "title": "When You Gonna Wake Up",
+      "id": null
+    },
+    {
+      "title": "Man Gave Names to All the Animals",
+      "id": null
+    },
+    {
+      "title": "When He Returns",
+      "id": null
+    }
+  ]
+}

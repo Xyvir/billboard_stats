@@ -1,1 +1,74 @@
-{"id": "smile-katy-perry", "title": "Smile", "artist": "Katy Perry", "peak": 5, "history": [{"date": "2020-09-12", "rank": 5}, {"date": "2020-09-19", "rank": 54}, {"date": "2020-09-26", "rank": 104}, {"date": "2020-10-03", "rank": 160}]}
+{
+  "id": "smile-katy-perry",
+  "title": "Smile",
+  "artist": "Katy Perry",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2020-09-12",
+      "rank": 5
+    },
+    {
+      "date": "2020-09-19",
+      "rank": 54
+    },
+    {
+      "date": "2020-09-26",
+      "rank": 104
+    },
+    {
+      "date": "2020-10-03",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Never Really Over",
+      "id": "never-really-over-katy-perry"
+    },
+    {
+      "title": "Daisies",
+      "id": "daisies-katy-perry"
+    },
+    {
+      "title": "Cry About It Later",
+      "id": null
+    },
+    {
+      "title": "Teary Eyes",
+      "id": null
+    },
+    {
+      "title": "Resilient",
+      "id": null
+    },
+    {
+      "title": "Not the End of the World",
+      "id": null
+    },
+    {
+      "title": "Smile",
+      "id": null
+    },
+    {
+      "title": "Champagne Problems",
+      "id": null
+    },
+    {
+      "title": "Tucked",
+      "id": null
+    },
+    {
+      "title": "Harleys in Hawaii",
+      "id": null
+    },
+    {
+      "title": "Only Love",
+      "id": null
+    },
+    {
+      "title": "What Makes a Woman",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,102 @@
-{"id": "smash-mouth-smash-mouth", "title": "Smash Mouth", "artist": "Smash Mouth", "peak": 48, "history": [{"date": "2001-12-15", "rank": 48}, {"date": "2001-12-22", "rank": 68}, {"date": "2001-12-29", "rank": 73}, {"date": "2002-01-05", "rank": 91}, {"date": "2002-01-12", "rank": 109}, {"date": "2002-01-19", "rank": 130}, {"date": "2002-01-26", "rank": 172}, {"date": "2002-02-02", "rank": 175}, {"date": "2002-02-09", "rank": 193}, {"date": "2002-04-13", "rank": 199}]}
+{
+  "id": "smash-mouth-smash-mouth",
+  "title": "Smash Mouth",
+  "artist": "Smash Mouth",
+  "peak": 48,
+  "history": [
+    {
+      "date": "2001-12-15",
+      "rank": 48
+    },
+    {
+      "date": "2001-12-22",
+      "rank": 68
+    },
+    {
+      "date": "2001-12-29",
+      "rank": 73
+    },
+    {
+      "date": "2002-01-05",
+      "rank": 91
+    },
+    {
+      "date": "2002-01-12",
+      "rank": 109
+    },
+    {
+      "date": "2002-01-19",
+      "rank": 130
+    },
+    {
+      "date": "2002-01-26",
+      "rank": 172
+    },
+    {
+      "date": "2002-02-02",
+      "rank": 175
+    },
+    {
+      "date": "2002-02-09",
+      "rank": 193
+    },
+    {
+      "date": "2002-04-13",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m a Believer",
+      "id": "i-m-a-believer-smash-mouth"
+    },
+    {
+      "title": "Holiday in My Head",
+      "id": null
+    },
+    {
+      "title": "Your Man",
+      "id": null
+    },
+    {
+      "title": "Pacific Coast Party",
+      "id": null
+    },
+    {
+      "title": "She Turns Me On",
+      "id": null
+    },
+    {
+      "title": "Sister Psychic",
+      "id": null
+    },
+    {
+      "title": "Out of Sight",
+      "id": null
+    },
+    {
+      "title": "Force Field",
+      "id": null
+    },
+    {
+      "title": "Shoes ’n’ Hats",
+      "id": null
+    },
+    {
+      "title": "Hold You High",
+      "id": null
+    },
+    {
+      "title": "The In Set",
+      "id": null
+    },
+    {
+      "title": "Disenchanted",
+      "id": null
+    },
+    {
+      "title": "Keep It Down",
+      "id": null
+    }
+  ]
+}
