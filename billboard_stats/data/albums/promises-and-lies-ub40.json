@@ -1,1 +1,218 @@
-{"id": "promises-and-lies-ub40", "title": "Promises And Lies", "artist": "UB40", "peak": 6, "history": [{"date": "1993-08-14", "rank": 7}, {"date": "1993-08-21", "rank": 6}, {"date": "1993-08-28", "rank": 8}, {"date": "1993-09-04", "rank": 8}, {"date": "1993-09-11", "rank": 8}, {"date": "1993-09-18", "rank": 9}, {"date": "1993-09-25", "rank": 14}, {"date": "1993-10-02", "rank": 15}, {"date": "1993-10-09", "rank": 19}, {"date": "1993-10-16", "rank": 24}, {"date": "1993-10-23", "rank": 32}, {"date": "1993-10-30", "rank": 34}, {"date": "1993-11-06", "rank": 40}, {"date": "1993-11-13", "rank": 47}, {"date": "1993-11-20", "rank": 56}, {"date": "1993-11-27", "rank": 57}, {"date": "1993-12-04", "rank": 74}, {"date": "1993-12-11", "rank": 73}, {"date": "1993-12-18", "rank": 63}, {"date": "1993-12-25", "rank": 61}, {"date": "1994-01-01", "rank": 61}, {"date": "1994-01-08", "rank": 64}, {"date": "1994-01-15", "rank": 65}, {"date": "1994-01-22", "rank": 65}, {"date": "1994-01-29", "rank": 68}, {"date": "1994-02-05", "rank": 74}, {"date": "1994-02-12", "rank": 91}, {"date": "1994-02-19", "rank": 98}, {"date": "1994-02-26", "rank": 95}, {"date": "1994-03-05", "rank": 89}, {"date": "1994-03-12", "rank": 91}, {"date": "1994-03-19", "rank": 109}, {"date": "1994-03-26", "rank": 116}, {"date": "1994-04-02", "rank": 124}, {"date": "1994-04-09", "rank": 133}, {"date": "1994-04-16", "rank": 136}, {"date": "1994-04-23", "rank": 145}, {"date": "1994-04-30", "rank": 153}, {"date": "1994-05-07", "rank": 158}, {"date": "1994-05-14", "rank": 181}, {"date": "1994-05-21", "rank": 195}]}
+{
+  "id": "promises-and-lies-ub40",
+  "title": "Promises And Lies",
+  "artist": "UB40",
+  "peak": 6,
+  "history": [
+    {
+      "date": "1993-08-14",
+      "rank": 7
+    },
+    {
+      "date": "1993-08-21",
+      "rank": 6
+    },
+    {
+      "date": "1993-08-28",
+      "rank": 8
+    },
+    {
+      "date": "1993-09-04",
+      "rank": 8
+    },
+    {
+      "date": "1993-09-11",
+      "rank": 8
+    },
+    {
+      "date": "1993-09-18",
+      "rank": 9
+    },
+    {
+      "date": "1993-09-25",
+      "rank": 14
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 15
+    },
+    {
+      "date": "1993-10-09",
+      "rank": 19
+    },
+    {
+      "date": "1993-10-16",
+      "rank": 24
+    },
+    {
+      "date": "1993-10-23",
+      "rank": 32
+    },
+    {
+      "date": "1993-10-30",
+      "rank": 34
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 40
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 47
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 56
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 57
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 74
+    },
+    {
+      "date": "1993-12-11",
+      "rank": 73
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 63
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 61
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 61
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 64
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 65
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 65
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 68
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 74
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 91
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 98
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 95
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 89
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 91
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 109
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 116
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 124
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 133
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 136
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 145
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 153
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 158
+    },
+    {
+      "date": "1994-05-14",
+      "rank": 181
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Higher Ground",
+      "id": "higher-ground-ub40"
+    },
+    {
+      "title": "(I Can’t Help) Falling in Love With You",
+      "id": "can-t-help-falling-in-love-from-sliver-ub40"
+    },
+    {
+      "title": "C’est la vie",
+      "id": null
+    },
+    {
+      "title": "Desert Sand",
+      "id": null
+    },
+    {
+      "title": "Promises and Lies",
+      "id": null
+    },
+    {
+      "title": "Bring Me Your Cup",
+      "id": null
+    },
+    {
+      "title": "Reggae Music",
+      "id": null
+    },
+    {
+      "title": "Now and Then",
+      "id": null
+    },
+    {
+      "title": "Things Ain't Like They Used to Be",
+      "id": null
+    },
+    {
+      "title": "It's a Long Long Way",
+      "id": null
+    },
+    {
+      "title": "Sorry",
+      "id": null
+    }
+  ]
+}

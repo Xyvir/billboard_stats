@@ -1,1 +1,98 @@
-{"id": "promised-land-elvis-presley", "title": "Promised Land", "artist": "Elvis Presley", "peak": 47, "history": [{"date": "1975-02-01", "rank": 102}, {"date": "1975-02-08", "rank": 84}, {"date": "1975-02-15", "rank": 73}, {"date": "1975-02-22", "rank": 62}, {"date": "1975-03-01", "rank": 52}, {"date": "1975-03-08", "rank": 48}, {"date": "1975-03-15", "rank": 47}, {"date": "1975-03-22", "rank": 48}, {"date": "1975-03-29", "rank": 86}, {"date": "1975-04-05", "rank": 132}, {"date": "1975-04-12", "rank": 152}, {"date": "1975-04-19", "rank": 161}]}
+{
+  "id": "promised-land-elvis-presley",
+  "title": "Promised Land",
+  "artist": "Elvis Presley",
+  "peak": 47,
+  "history": [
+    {
+      "date": "1975-02-01",
+      "rank": 102
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 84
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 73
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 62
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 52
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 48
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 47
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 48
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 86
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 132
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 152
+    },
+    {
+      "date": "1975-04-19",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Promised Land",
+      "id": "promised-land-elvis-presley"
+    },
+    {
+      "title": "If You Talk in Your Sleep",
+      "id": "if-you-talk-in-your-sleep-elvis-presley"
+    },
+    {
+      "title": "There’s a Honky Tonk Angel (Who Will Take Me Back In)",
+      "id": null
+    },
+    {
+      "title": "Help Me",
+      "id": null
+    },
+    {
+      "title": "Mr. Songman",
+      "id": null
+    },
+    {
+      "title": "Love Song of the Year",
+      "id": null
+    },
+    {
+      "title": "It’s Midnight",
+      "id": null
+    },
+    {
+      "title": "Your Love’s Been a Long Time Coming",
+      "id": null
+    },
+    {
+      "title": "Thinking About You",
+      "id": null
+    },
+    {
+      "title": "You Asked Me To",
+      "id": null
+    }
+  ]
+}

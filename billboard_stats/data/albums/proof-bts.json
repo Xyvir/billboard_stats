@@ -1,1 +1,314 @@
-{"id": "proof-bts", "title": "Proof", "artist": "BTS", "peak": 1, "history": [{"date": "2022-06-25", "rank": 1}, {"date": "2022-07-02", "rank": 4}, {"date": "2022-07-09", "rank": 13}, {"date": "2022-07-16", "rank": 17}, {"date": "2022-07-23", "rank": 19}, {"date": "2022-07-30", "rank": 37}, {"date": "2022-08-06", "rank": 49}, {"date": "2022-08-13", "rank": 62}, {"date": "2022-08-20", "rank": 59}, {"date": "2022-08-27", "rank": 83}, {"date": "2022-09-03", "rank": 74}, {"date": "2022-09-10", "rank": 72}, {"date": "2022-09-17", "rank": 91}, {"date": "2022-09-24", "rank": 90}, {"date": "2022-10-01", "rank": 80}, {"date": "2022-10-08", "rank": 74}, {"date": "2022-10-15", "rank": 77}, {"date": "2022-10-22", "rank": 58}, {"date": "2022-10-29", "rank": 46}, {"date": "2022-11-05", "rank": 52}, {"date": "2022-11-12", "rank": 66}, {"date": "2022-11-19", "rank": 68}, {"date": "2022-11-26", "rank": 69}, {"date": "2022-12-03", "rank": 70}, {"date": "2022-12-10", "rank": 61}, {"date": "2022-12-17", "rank": 110}, {"date": "2022-12-24", "rank": 95}, {"date": "2022-12-31", "rank": 90}, {"date": "2023-01-07", "rank": 102}, {"date": "2023-01-14", "rank": 87}, {"date": "2023-01-21", "rank": 120}, {"date": "2023-01-28", "rank": 114}, {"date": "2023-02-04", "rank": 118}, {"date": "2023-02-11", "rank": 102}, {"date": "2023-02-18", "rank": 91}, {"date": "2023-02-25", "rank": 151}, {"date": "2023-03-04", "rank": 169}, {"date": "2023-03-11", "rank": 174}, {"date": "2023-03-18", "rank": 187}, {"date": "2023-03-25", "rank": 190}, {"date": "2023-04-01", "rank": 195}]}
+{
+  "id": "proof-bts",
+  "title": "Proof",
+  "artist": "BTS",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2022-06-25",
+      "rank": 1
+    },
+    {
+      "date": "2022-07-02",
+      "rank": 4
+    },
+    {
+      "date": "2022-07-09",
+      "rank": 13
+    },
+    {
+      "date": "2022-07-16",
+      "rank": 17
+    },
+    {
+      "date": "2022-07-23",
+      "rank": 19
+    },
+    {
+      "date": "2022-07-30",
+      "rank": 37
+    },
+    {
+      "date": "2022-08-06",
+      "rank": 49
+    },
+    {
+      "date": "2022-08-13",
+      "rank": 62
+    },
+    {
+      "date": "2022-08-20",
+      "rank": 59
+    },
+    {
+      "date": "2022-08-27",
+      "rank": 83
+    },
+    {
+      "date": "2022-09-03",
+      "rank": 74
+    },
+    {
+      "date": "2022-09-10",
+      "rank": 72
+    },
+    {
+      "date": "2022-09-17",
+      "rank": 91
+    },
+    {
+      "date": "2022-09-24",
+      "rank": 90
+    },
+    {
+      "date": "2022-10-01",
+      "rank": 80
+    },
+    {
+      "date": "2022-10-08",
+      "rank": 74
+    },
+    {
+      "date": "2022-10-15",
+      "rank": 77
+    },
+    {
+      "date": "2022-10-22",
+      "rank": 58
+    },
+    {
+      "date": "2022-10-29",
+      "rank": 46
+    },
+    {
+      "date": "2022-11-05",
+      "rank": 52
+    },
+    {
+      "date": "2022-11-12",
+      "rank": 66
+    },
+    {
+      "date": "2022-11-19",
+      "rank": 68
+    },
+    {
+      "date": "2022-11-26",
+      "rank": 69
+    },
+    {
+      "date": "2022-12-03",
+      "rank": 70
+    },
+    {
+      "date": "2022-12-10",
+      "rank": 61
+    },
+    {
+      "date": "2022-12-17",
+      "rank": 110
+    },
+    {
+      "date": "2022-12-24",
+      "rank": 95
+    },
+    {
+      "date": "2022-12-31",
+      "rank": 90
+    },
+    {
+      "date": "2023-01-07",
+      "rank": 102
+    },
+    {
+      "date": "2023-01-14",
+      "rank": 87
+    },
+    {
+      "date": "2023-01-21",
+      "rank": 120
+    },
+    {
+      "date": "2023-01-28",
+      "rank": 114
+    },
+    {
+      "date": "2023-02-04",
+      "rank": 118
+    },
+    {
+      "date": "2023-02-11",
+      "rank": 102
+    },
+    {
+      "date": "2023-02-18",
+      "rank": 91
+    },
+    {
+      "date": "2023-02-25",
+      "rank": 151
+    },
+    {
+      "date": "2023-03-04",
+      "rank": 169
+    },
+    {
+      "date": "2023-03-11",
+      "rank": 174
+    },
+    {
+      "date": "2023-03-18",
+      "rank": 187
+    },
+    {
+      "date": "2023-03-25",
+      "rank": 190
+    },
+    {
+      "date": "2023-04-01",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "RUN",
+      "id": "run-bts-bts"
+    },
+    {
+      "title": "불타오르네 (FIRE)",
+      "id": "filter-bts"
+    },
+    {
+      "title": "DNA",
+      "id": "dna-bts"
+    },
+    {
+      "title": "FAKE LOVE",
+      "id": "fake-love-bts"
+    },
+    {
+      "title": "ON",
+      "id": "on-bts"
+    },
+    {
+      "title": "Dynamite",
+      "id": "dynamite-bts"
+    },
+    {
+      "title": "Life Goes On",
+      "id": "life-goes-on-bts"
+    },
+    {
+      "title": "Butter",
+      "id": "butter-bts"
+    },
+    {
+      "title": "Intro : Persona",
+      "id": "into-the-sun-bts"
+    },
+    {
+      "title": "Stay",
+      "id": "stay-bts"
+    },
+    {
+      "title": "Moon",
+      "id": "on-bts"
+    },
+    {
+      "title": "Filter",
+      "id": "filter-bts"
+    },
+    {
+      "title": "Born Singer",
+      "id": null
+    },
+    {
+      "title": "No More Dream",
+      "id": null
+    },
+    {
+      "title": "N.O",
+      "id": null
+    },
+    {
+      "title": "상남자 (Boy in Luv)",
+      "id": null
+    },
+    {
+      "title": "Danger",
+      "id": null
+    },
+    {
+      "title": "I NEED U",
+      "id": null
+    },
+    {
+      "title": "피 땀 눈물",
+      "id": null
+    },
+    {
+      "title": "봄날",
+      "id": null
+    },
+    {
+      "title": "IDOL",
+      "id": null
+    },
+    {
+      "title": "작은 것들을 위한 시 (Boy With Luv)",
+      "id": null
+    },
+    {
+      "title": "Yet to Come (The Most Beautiful Moment)",
+      "id": null
+    },
+    {
+      "title": "달려라 방탄",
+      "id": null
+    },
+    {
+      "title": "Jamais vu",
+      "id": null
+    },
+    {
+      "title": "Trivia 轉 : Seesaw",
+      "id": null
+    },
+    {
+      "title": "BTS Cypher PT.3 : KILLER",
+      "id": null
+    },
+    {
+      "title": "Outro : Ego",
+      "id": null
+    },
+    {
+      "title": "Her",
+      "id": null
+    },
+    {
+      "title": "친구",
+      "id": null
+    },
+    {
+      "title": "Singularity",
+      "id": null
+    },
+    {
+      "title": "00:00 (Zero O’Clock)",
+      "id": null
+    },
+    {
+      "title": "Euphoria",
+      "id": null
+    },
+    {
+      "title": "보조개",
+      "id": null
+    },
+    {
+      "title": "For Youth",
+      "id": null
+    }
+  ]
+}
