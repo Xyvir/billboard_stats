@@ -219,7 +219,12 @@
                 (song.artist || '').toLowerCase().includes(query)
             ).slice(0, 10);
 
-            if (matchedArtists.length === 0 && matchedSongs.length === 0) {
+            const matchedAlbums = (index.albums || []).filter(album => 
+                (album.name || album.title || '').toLowerCase().includes(query) || 
+                (album.artist || '').toLowerCase().includes(query)
+            ).slice(0, 10);
+
+            if (matchedArtists.length === 0 && matchedSongs.length === 0 && matchedAlbums.length === 0) {
                 resultsContainer.innerHTML = '<div style="padding: 0.5rem; color: #888;">No results found</div>';
                 resultsContainer.style.display = 'block';
                 return;
@@ -260,6 +265,23 @@
                 });
             }
 
+            if (matchedAlbums.length > 0) {
+                html += '<div style="padding: 0.5rem; background: #333; font-weight: bold; font-size: 0.8rem; text-transform: uppercase;">Albums</div>';
+                matchedAlbums.forEach(album => {
+                    let id = album.id || album.ref || album.album_id || album.path;
+                    if (id) {
+                        id = String(id).replace(/^albums\//, '').replace(/\.json$/, '');
+                    }
+                    const encodedId = id ? encodeURIComponent(id) : '';
+                    html += `<div style="padding: 0.5rem; cursor: pointer; border-bottom: 1px solid var(--border);" 
+                                  onclick="onAlbumSearchClick('${encodedId}')"
+                                  onmouseover="this.style.background='#333'" onmouseout="this.style.background='transparent'">
+                                <div style="font-weight: bold; color: white;">${album.name || album.title}</div>
+                                <div style="font-size: 0.8rem; color: #aaa;">${album.artist}</div>
+                             </div>`;
+                });
+            }
+
             resultsContainer.innerHTML = html;
             resultsContainer.style.display = 'block';
         }
@@ -274,6 +296,12 @@
             document.getElementById('searchResults').style.display = 'none';
             const songId = decodeURIComponent(encodedId);
             loadDetail('songs', songId);
+        }
+
+        function onAlbumSearchClick(encodedId) {
+            document.getElementById('searchResults').style.display = 'none';
+            const albumId = decodeURIComponent(encodedId);
+            loadDetail('albums', albumId);
         }
 
         function loadHistoricalChart(date, chartStr) {

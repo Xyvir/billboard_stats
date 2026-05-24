@@ -1,1 +1,214 @@
-{"id": "the-hard-way-clint-black", "title": "The Hard Way", "artist": "Clint Black", "peak": 8, "history": [{"date": "1992-08-01", "rank": 10}, {"date": "1992-08-08", "rank": 8}, {"date": "1992-08-15", "rank": 10}, {"date": "1992-08-22", "rank": 21}, {"date": "1992-08-29", "rank": 25}, {"date": "1992-09-05", "rank": 24}, {"date": "1992-09-12", "rank": 30}, {"date": "1992-09-19", "rank": 39}, {"date": "1992-09-26", "rank": 45}, {"date": "1992-10-03", "rank": 44}, {"date": "1992-10-10", "rank": 56}, {"date": "1992-10-17", "rank": 63}, {"date": "1992-10-24", "rank": 60}, {"date": "1992-10-31", "rank": 58}, {"date": "1992-11-07", "rank": 61}, {"date": "1992-11-14", "rank": 70}, {"date": "1992-11-21", "rank": 71}, {"date": "1992-11-28", "rank": 70}, {"date": "1992-12-05", "rank": 64}, {"date": "1992-12-12", "rank": 78}, {"date": "1992-12-19", "rank": 69}, {"date": "1992-12-26", "rank": 65}, {"date": "1993-01-02", "rank": 69}, {"date": "1993-01-09", "rank": 77}, {"date": "1993-01-16", "rank": 75}, {"date": "1993-01-23", "rank": 60}, {"date": "1993-01-30", "rank": 78}, {"date": "1993-02-06", "rank": 106}, {"date": "1993-02-13", "rank": 123}, {"date": "1993-02-20", "rank": 129}, {"date": "1993-02-27", "rank": 131}, {"date": "1993-03-06", "rank": 127}, {"date": "1993-03-13", "rank": 136}, {"date": "1993-03-20", "rank": 141}, {"date": "1993-03-27", "rank": 142}, {"date": "1993-04-03", "rank": 150}, {"date": "1993-04-10", "rank": 153}, {"date": "1993-04-17", "rank": 162}, {"date": "1993-04-24", "rank": 160}, {"date": "1993-05-01", "rank": 173}, {"date": "1993-05-08", "rank": 190}]}
+{
+  "id": "the-hard-way-clint-black",
+  "title": "The Hard Way",
+  "artist": "Clint Black",
+  "peak": 8,
+  "history": [
+    {
+      "date": "1992-08-01",
+      "rank": 10
+    },
+    {
+      "date": "1992-08-08",
+      "rank": 8
+    },
+    {
+      "date": "1992-08-15",
+      "rank": 10
+    },
+    {
+      "date": "1992-08-22",
+      "rank": 21
+    },
+    {
+      "date": "1992-08-29",
+      "rank": 25
+    },
+    {
+      "date": "1992-09-05",
+      "rank": 24
+    },
+    {
+      "date": "1992-09-12",
+      "rank": 30
+    },
+    {
+      "date": "1992-09-19",
+      "rank": 39
+    },
+    {
+      "date": "1992-09-26",
+      "rank": 45
+    },
+    {
+      "date": "1992-10-03",
+      "rank": 44
+    },
+    {
+      "date": "1992-10-10",
+      "rank": 56
+    },
+    {
+      "date": "1992-10-17",
+      "rank": 63
+    },
+    {
+      "date": "1992-10-24",
+      "rank": 60
+    },
+    {
+      "date": "1992-10-31",
+      "rank": 58
+    },
+    {
+      "date": "1992-11-07",
+      "rank": 61
+    },
+    {
+      "date": "1992-11-14",
+      "rank": 70
+    },
+    {
+      "date": "1992-11-21",
+      "rank": 71
+    },
+    {
+      "date": "1992-11-28",
+      "rank": 70
+    },
+    {
+      "date": "1992-12-05",
+      "rank": 64
+    },
+    {
+      "date": "1992-12-12",
+      "rank": 78
+    },
+    {
+      "date": "1992-12-19",
+      "rank": 69
+    },
+    {
+      "date": "1992-12-26",
+      "rank": 65
+    },
+    {
+      "date": "1993-01-02",
+      "rank": 69
+    },
+    {
+      "date": "1993-01-09",
+      "rank": 77
+    },
+    {
+      "date": "1993-01-16",
+      "rank": 75
+    },
+    {
+      "date": "1993-01-23",
+      "rank": 60
+    },
+    {
+      "date": "1993-01-30",
+      "rank": 78
+    },
+    {
+      "date": "1993-02-06",
+      "rank": 106
+    },
+    {
+      "date": "1993-02-13",
+      "rank": 123
+    },
+    {
+      "date": "1993-02-20",
+      "rank": 129
+    },
+    {
+      "date": "1993-02-27",
+      "rank": 131
+    },
+    {
+      "date": "1993-03-06",
+      "rank": 127
+    },
+    {
+      "date": "1993-03-13",
+      "rank": 136
+    },
+    {
+      "date": "1993-03-20",
+      "rank": 141
+    },
+    {
+      "date": "1993-03-27",
+      "rank": 142
+    },
+    {
+      "date": "1993-04-03",
+      "rank": 150
+    },
+    {
+      "date": "1993-04-10",
+      "rank": 153
+    },
+    {
+      "date": "1993-04-17",
+      "rank": 162
+    },
+    {
+      "date": "1993-04-24",
+      "rank": 160
+    },
+    {
+      "date": "1993-05-01",
+      "rank": 173
+    },
+    {
+      "date": "1993-05-08",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Something to Cry About",
+      "id": "something-that-we-do-clint-black"
+    },
+    {
+      "title": "We Tell Ourselves",
+      "id": null
+    },
+    {
+      "title": "The Hard Way",
+      "id": null
+    },
+    {
+      "title": "Buying Time",
+      "id": null
+    },
+    {
+      "title": "When My Ship Comes In",
+      "id": null
+    },
+    {
+      "title": "A Woman Has Her Way",
+      "id": null
+    },
+    {
+      "title": "There Never Was a Train",
+      "id": null
+    },
+    {
+      "title": "The Good Old Days",
+      "id": null
+    },
+    {
+      "title": "Burn One Down",
+      "id": null
+    },
+    {
+      "title": "Wake Up Yesterday",
+      "id": null
+    }
+  ]
+}
