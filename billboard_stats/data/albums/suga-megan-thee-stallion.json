@@ -1,1 +1,194 @@
-{"id": "suga-megan-thee-stallion", "title": "Suga", "artist": "Megan Thee Stallion", "peak": 7, "history": [{"date": "2020-03-21", "rank": 10}, {"date": "2020-03-28", "rank": 21}, {"date": "2020-04-04", "rank": 16}, {"date": "2020-04-11", "rank": 19}, {"date": "2020-04-18", "rank": 16}, {"date": "2020-04-25", "rank": 21}, {"date": "2020-05-02", "rank": 21}, {"date": "2020-05-09", "rank": 10}, {"date": "2020-05-16", "rank": 7}, {"date": "2020-05-23", "rank": 14}, {"date": "2020-05-30", "rank": 15}, {"date": "2020-06-06", "rank": 16}, {"date": "2020-06-13", "rank": 23}, {"date": "2020-06-20", "rank": 16}, {"date": "2020-06-27", "rank": 18}, {"date": "2020-07-04", "rank": 25}, {"date": "2020-07-11", "rank": 25}, {"date": "2020-07-18", "rank": 27}, {"date": "2020-07-25", "rank": 31}, {"date": "2020-08-01", "rank": 37}, {"date": "2020-08-08", "rank": 39}, {"date": "2020-08-15", "rank": 48}, {"date": "2020-08-22", "rank": 42}, {"date": "2020-08-29", "rank": 45}, {"date": "2020-09-05", "rank": 53}, {"date": "2020-09-12", "rank": 66}, {"date": "2020-09-19", "rank": 63}, {"date": "2020-09-26", "rank": 69}, {"date": "2020-10-03", "rank": 92}, {"date": "2020-10-10", "rank": 98}, {"date": "2020-10-17", "rank": 104}, {"date": "2020-10-24", "rank": 117}, {"date": "2020-10-31", "rank": 135}, {"date": "2020-11-07", "rank": 152}, {"date": "2020-11-14", "rank": 152}, {"date": "2020-11-21", "rank": 163}, {"date": "2020-11-28", "rank": 183}]}
+{
+  "id": "suga-megan-thee-stallion",
+  "title": "Suga",
+  "artist": "Megan Thee Stallion",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2020-03-21",
+      "rank": 10
+    },
+    {
+      "date": "2020-03-28",
+      "rank": 21
+    },
+    {
+      "date": "2020-04-04",
+      "rank": 16
+    },
+    {
+      "date": "2020-04-11",
+      "rank": 19
+    },
+    {
+      "date": "2020-04-18",
+      "rank": 16
+    },
+    {
+      "date": "2020-04-25",
+      "rank": 21
+    },
+    {
+      "date": "2020-05-02",
+      "rank": 21
+    },
+    {
+      "date": "2020-05-09",
+      "rank": 10
+    },
+    {
+      "date": "2020-05-16",
+      "rank": 7
+    },
+    {
+      "date": "2020-05-23",
+      "rank": 14
+    },
+    {
+      "date": "2020-05-30",
+      "rank": 15
+    },
+    {
+      "date": "2020-06-06",
+      "rank": 16
+    },
+    {
+      "date": "2020-06-13",
+      "rank": 23
+    },
+    {
+      "date": "2020-06-20",
+      "rank": 16
+    },
+    {
+      "date": "2020-06-27",
+      "rank": 18
+    },
+    {
+      "date": "2020-07-04",
+      "rank": 25
+    },
+    {
+      "date": "2020-07-11",
+      "rank": 25
+    },
+    {
+      "date": "2020-07-18",
+      "rank": 27
+    },
+    {
+      "date": "2020-07-25",
+      "rank": 31
+    },
+    {
+      "date": "2020-08-01",
+      "rank": 37
+    },
+    {
+      "date": "2020-08-08",
+      "rank": 39
+    },
+    {
+      "date": "2020-08-15",
+      "rank": 48
+    },
+    {
+      "date": "2020-08-22",
+      "rank": 42
+    },
+    {
+      "date": "2020-08-29",
+      "rank": 45
+    },
+    {
+      "date": "2020-09-05",
+      "rank": 53
+    },
+    {
+      "date": "2020-09-12",
+      "rank": 66
+    },
+    {
+      "date": "2020-09-19",
+      "rank": 63
+    },
+    {
+      "date": "2020-09-26",
+      "rank": 69
+    },
+    {
+      "date": "2020-10-03",
+      "rank": 92
+    },
+    {
+      "date": "2020-10-10",
+      "rank": 98
+    },
+    {
+      "date": "2020-10-17",
+      "rank": 104
+    },
+    {
+      "date": "2020-10-24",
+      "rank": 117
+    },
+    {
+      "date": "2020-10-31",
+      "rank": 135
+    },
+    {
+      "date": "2020-11-07",
+      "rank": 152
+    },
+    {
+      "date": "2020-11-14",
+      "rank": 152
+    },
+    {
+      "date": "2020-11-21",
+      "rank": 163
+    },
+    {
+      "date": "2020-11-28",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Captain Hook",
+      "id": "captain-hook-megan-thee-stallion"
+    },
+    {
+      "title": "B.I.T.C.H.",
+      "id": "b-i-t-c-h-megan-thee-stallion"
+    },
+    {
+      "title": "Ain’t Equal",
+      "id": null
+    },
+    {
+      "title": "Savage",
+      "id": null
+    },
+    {
+      "title": "Hit My Phone",
+      "id": null
+    },
+    {
+      "title": "Rich",
+      "id": null
+    },
+    {
+      "title": "Stop Playing",
+      "id": null
+    },
+    {
+      "title": "Crying in the Car",
+      "id": null
+    },
+    {
+      "title": "What I Need",
+      "id": null
+    }
+  ]
+}
