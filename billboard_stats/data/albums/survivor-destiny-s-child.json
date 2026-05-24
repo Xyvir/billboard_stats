@@ -1,1 +1,270 @@
-{"id": "survivor-destiny-s-child", "title": "Survivor", "artist": "Destiny's Child", "peak": 1, "history": [{"date": "2001-05-19", "rank": 1}, {"date": "2001-05-26", "rank": 1}, {"date": "2001-06-02", "rank": 3}, {"date": "2001-06-09", "rank": 3}, {"date": "2001-06-16", "rank": 2}, {"date": "2001-06-23", "rank": 5}, {"date": "2001-06-30", "rank": 3}, {"date": "2001-07-07", "rank": 4}, {"date": "2001-07-14", "rank": 6}, {"date": "2001-07-21", "rank": 5}, {"date": "2001-07-28", "rank": 5}, {"date": "2001-08-04", "rank": 7}, {"date": "2001-08-11", "rank": 6}, {"date": "2001-08-18", "rank": 9}, {"date": "2001-08-25", "rank": 19}, {"date": "2001-09-01", "rank": 18}, {"date": "2001-09-08", "rank": 23}, {"date": "2001-09-15", "rank": 29}, {"date": "2001-09-22", "rank": 26}, {"date": "2001-09-29", "rank": 33}, {"date": "2001-10-06", "rank": 36}, {"date": "2001-10-13", "rank": 37}, {"date": "2001-10-20", "rank": 38}, {"date": "2001-10-27", "rank": 36}, {"date": "2001-11-03", "rank": 38}, {"date": "2001-11-10", "rank": 44}, {"date": "2001-11-17", "rank": 45}, {"date": "2001-11-24", "rank": 52}, {"date": "2001-12-01", "rank": 59}, {"date": "2001-12-08", "rank": 55}, {"date": "2001-12-15", "rank": 57}, {"date": "2001-12-22", "rank": 53}, {"date": "2001-12-29", "rank": 50}, {"date": "2002-01-05", "rank": 50}, {"date": "2002-01-12", "rank": 57}, {"date": "2002-01-19", "rank": 69}, {"date": "2002-01-26", "rank": 82}, {"date": "2002-02-02", "rank": 93}, {"date": "2002-02-09", "rank": 104}, {"date": "2002-02-16", "rank": 106}, {"date": "2002-02-23", "rank": 109}, {"date": "2002-03-02", "rank": 129}, {"date": "2002-03-09", "rank": 127}, {"date": "2002-03-16", "rank": 129}, {"date": "2002-03-23", "rank": 145}, {"date": "2002-03-30", "rank": 183}]}
+{
+  "id": "survivor-destiny-s-child",
+  "title": "Survivor",
+  "artist": "Destiny's Child",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2001-05-19",
+      "rank": 1
+    },
+    {
+      "date": "2001-05-26",
+      "rank": 1
+    },
+    {
+      "date": "2001-06-02",
+      "rank": 3
+    },
+    {
+      "date": "2001-06-09",
+      "rank": 3
+    },
+    {
+      "date": "2001-06-16",
+      "rank": 2
+    },
+    {
+      "date": "2001-06-23",
+      "rank": 5
+    },
+    {
+      "date": "2001-06-30",
+      "rank": 3
+    },
+    {
+      "date": "2001-07-07",
+      "rank": 4
+    },
+    {
+      "date": "2001-07-14",
+      "rank": 6
+    },
+    {
+      "date": "2001-07-21",
+      "rank": 5
+    },
+    {
+      "date": "2001-07-28",
+      "rank": 5
+    },
+    {
+      "date": "2001-08-04",
+      "rank": 7
+    },
+    {
+      "date": "2001-08-11",
+      "rank": 6
+    },
+    {
+      "date": "2001-08-18",
+      "rank": 9
+    },
+    {
+      "date": "2001-08-25",
+      "rank": 19
+    },
+    {
+      "date": "2001-09-01",
+      "rank": 18
+    },
+    {
+      "date": "2001-09-08",
+      "rank": 23
+    },
+    {
+      "date": "2001-09-15",
+      "rank": 29
+    },
+    {
+      "date": "2001-09-22",
+      "rank": 26
+    },
+    {
+      "date": "2001-09-29",
+      "rank": 33
+    },
+    {
+      "date": "2001-10-06",
+      "rank": 36
+    },
+    {
+      "date": "2001-10-13",
+      "rank": 37
+    },
+    {
+      "date": "2001-10-20",
+      "rank": 38
+    },
+    {
+      "date": "2001-10-27",
+      "rank": 36
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 38
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 44
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 45
+    },
+    {
+      "date": "2001-11-24",
+      "rank": 52
+    },
+    {
+      "date": "2001-12-01",
+      "rank": 59
+    },
+    {
+      "date": "2001-12-08",
+      "rank": 55
+    },
+    {
+      "date": "2001-12-15",
+      "rank": 57
+    },
+    {
+      "date": "2001-12-22",
+      "rank": 53
+    },
+    {
+      "date": "2001-12-29",
+      "rank": 50
+    },
+    {
+      "date": "2002-01-05",
+      "rank": 50
+    },
+    {
+      "date": "2002-01-12",
+      "rank": 57
+    },
+    {
+      "date": "2002-01-19",
+      "rank": 69
+    },
+    {
+      "date": "2002-01-26",
+      "rank": 82
+    },
+    {
+      "date": "2002-02-02",
+      "rank": 93
+    },
+    {
+      "date": "2002-02-09",
+      "rank": 104
+    },
+    {
+      "date": "2002-02-16",
+      "rank": 106
+    },
+    {
+      "date": "2002-02-23",
+      "rank": 109
+    },
+    {
+      "date": "2002-03-02",
+      "rank": 129
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 127
+    },
+    {
+      "date": "2002-03-16",
+      "rank": 129
+    },
+    {
+      "date": "2002-03-23",
+      "rank": 145
+    },
+    {
+      "date": "2002-03-30",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Independent Women, Part I",
+      "id": "independent-women-part-i-destiny-s-child"
+    },
+    {
+      "title": "Survivor",
+      "id": "survivor-destiny-s-child"
+    },
+    {
+      "title": "Bootylicious",
+      "id": "bootylicious-destiny-s-child"
+    },
+    {
+      "title": "Independent Women, Part II",
+      "id": "independent-women-part-i-destiny-s-child"
+    },
+    {
+      "title": "Emotion",
+      "id": "emotion-destiny-s-child"
+    },
+    {
+      "title": "Nasty Girl",
+      "id": null
+    },
+    {
+      "title": "Fancy",
+      "id": null
+    },
+    {
+      "title": "Apple Pie à la mode",
+      "id": null
+    },
+    {
+      "title": "Sexy Daddy",
+      "id": null
+    },
+    {
+      "title": "Perfect Man",
+      "id": null
+    },
+    {
+      "title": "Happy Face",
+      "id": null
+    },
+    {
+      "title": "Dance With Me",
+      "id": null
+    },
+    {
+      "title": "Survivor (Maurice's radio mix)",
+      "id": null
+    },
+    {
+      "title": "My Heart Still Beats",
+      "id": null
+    },
+    {
+      "title": "Brown Eyes",
+      "id": null
+    },
+    {
+      "title": "Dangerously in Love",
+      "id": null
+    },
+    {
+      "title": "The Story of Beauty",
+      "id": null
+    },
+    {
+      "title": "Gospel Medley (dedicated to Andretta Tillman): You’ve Been So Good / Now Behold the Lamb / Jesus Loves Me / Total Praise",
+      "id": null
+    },
+    {
+      "title": "Outro (DC‐3) Thank You",
+      "id": null
+    }
+  ]
+}

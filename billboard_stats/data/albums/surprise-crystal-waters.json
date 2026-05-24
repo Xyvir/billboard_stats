@@ -1,1 +1,58 @@
-{"id": "surprise-crystal-waters", "title": "Surprise", "artist": "Crystal Waters", "peak": 197, "history": [{"date": "1991-07-20", "rank": 197}, {"date": "1991-07-27", "rank": 199}, {"date": "1991-08-24", "rank": 197}]}
+{
+  "id": "surprise-crystal-waters",
+  "title": "Surprise",
+  "artist": "Crystal Waters",
+  "peak": 197,
+  "history": [
+    {
+      "date": "1991-07-20",
+      "rank": 197
+    },
+    {
+      "date": "1991-07-27",
+      "rank": 199
+    },
+    {
+      "date": "1991-08-24",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Gypsy Woman (She’s Homeless)",
+      "id": "gypsy-woman-she-s-homeless-crystal-waters"
+    },
+    {
+      "title": "Surprise",
+      "id": null
+    },
+    {
+      "title": "Makin’ Happy",
+      "id": null
+    },
+    {
+      "title": "Small Cry",
+      "id": null
+    },
+    {
+      "title": "Tell Me",
+      "id": null
+    },
+    {
+      "title": "Good Lovin",
+      "id": null
+    },
+    {
+      "title": "Twisted",
+      "id": null
+    },
+    {
+      "title": "Deepest of Hearts",
+      "id": null
+    },
+    {
+      "title": "Gypsy Woman (La da Dee La da da) (Basement Boy “Strip to the Bone” mix)",
+      "id": null
+    }
+  ]
+}

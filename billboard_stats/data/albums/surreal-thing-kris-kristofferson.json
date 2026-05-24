@@ -1,1 +1,58 @@
-{"id": "surreal-thing-kris-kristofferson", "title": "Surreal Thing", "artist": "Kris Kristofferson", "peak": 180, "history": [{"date": "1976-08-21", "rank": 184}, {"date": "1976-08-28", "rank": 180}]}
+{
+  "id": "surreal-thing-kris-kristofferson",
+  "title": "Surreal Thing",
+  "artist": "Kris Kristofferson",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1976-08-21",
+      "rank": 184
+    },
+    {
+      "date": "1976-08-28",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Show Me Yours (And I’ll Show You Mine)",
+      "id": null
+    },
+    {
+      "title": "Killing Time",
+      "id": null
+    },
+    {
+      "title": "The Prisoner",
+      "id": null
+    },
+    {
+      "title": "Eddie the Eunuch",
+      "id": null
+    },
+    {
+      "title": "It’s Never Gonna Be the Same Again",
+      "id": null
+    },
+    {
+      "title": "I Got a Life of My Own",
+      "id": null
+    },
+    {
+      "title": "The Stranger I Love",
+      "id": null
+    },
+    {
+      "title": "The Golden Idol",
+      "id": null
+    },
+    {
+      "title": "Bad Love Story",
+      "id": null
+    },
+    {
+      "title": "If You Don’t Like Hank Williams",
+      "id": null
+    }
+  ]
+}

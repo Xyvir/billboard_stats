@@ -1,1 +1,82 @@
-{"id": "survivor-survivor", "title": "Survivor", "artist": "Survivor", "peak": 169, "history": [{"date": "1980-03-29", "rank": 197}, {"date": "1980-04-05", "rank": 190}, {"date": "1980-04-12", "rank": 184}, {"date": "1980-04-19", "rank": 180}, {"date": "1980-04-26", "rank": 176}, {"date": "1980-05-03", "rank": 171}, {"date": "1980-05-10", "rank": 169}]}
+{
+  "id": "survivor-survivor",
+  "title": "Survivor",
+  "artist": "Survivor",
+  "peak": 169,
+  "history": [
+    {
+      "date": "1980-03-29",
+      "rank": 197
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 190
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 184
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 180
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 176
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 171
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Somewhere in America",
+      "id": "somewhere-in-america-survivor"
+    },
+    {
+      "title": "Can’t Getcha Offa My Mind",
+      "id": null
+    },
+    {
+      "title": "Let It Be Now",
+      "id": null
+    },
+    {
+      "title": "As Soon as Love Finds Me",
+      "id": null
+    },
+    {
+      "title": "Youngblood",
+      "id": null
+    },
+    {
+      "title": "Love Has Got Me",
+      "id": null
+    },
+    {
+      "title": "Whole Town’s Talking",
+      "id": null
+    },
+    {
+      "title": "20/20",
+      "id": null
+    },
+    {
+      "title": "Freelance",
+      "id": null
+    },
+    {
+      "title": "Nothing Can Shake Me (From Your Love)",
+      "id": null
+    },
+    {
+      "title": "Whatever It Takes",
+      "id": null
+    }
+  ]
+}
