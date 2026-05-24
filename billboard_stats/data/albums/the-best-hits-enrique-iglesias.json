@@ -1,1 +1,78 @@
-{"id": "the-best-hits-enrique-iglesias", "title": "The Best Hits", "artist": "Enrique Iglesias", "peak": 175, "history": [{"date": "2000-03-04", "rank": 195}, {"date": "2000-03-11", "rank": 175}]}
+{
+  "id": "the-best-hits-enrique-iglesias",
+  "title": "The Best Hits",
+  "artist": "Enrique Iglesias",
+  "peak": 175,
+  "history": [
+    {
+      "date": "2000-03-04",
+      "rank": 195
+    },
+    {
+      "date": "2000-03-11",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No llores por mí",
+      "id": "lloro-por-ti-enrique-iglesias"
+    },
+    {
+      "title": "Bailamos",
+      "id": "bailamos-enrique-iglesias"
+    },
+    {
+      "title": "Enamorado por primera vez",
+      "id": null
+    },
+    {
+      "title": "Si tú te vas",
+      "id": null
+    },
+    {
+      "title": "Por amarte",
+      "id": null
+    },
+    {
+      "title": "Esperanza",
+      "id": null
+    },
+    {
+      "title": "Nunca te olvidaré",
+      "id": null
+    },
+    {
+      "title": "Miente",
+      "id": null
+    },
+    {
+      "title": "Volveré",
+      "id": null
+    },
+    {
+      "title": "Si juras regresar",
+      "id": null
+    },
+    {
+      "title": "Al despertar",
+      "id": null
+    },
+    {
+      "title": "Cosas del amor",
+      "id": null
+    },
+    {
+      "title": "Trapecista",
+      "id": null
+    },
+    {
+      "title": "Falta tanto amor",
+      "id": null
+    },
+    {
+      "title": "Experiencia religiosa",
+      "id": null
+    }
+  ]
+}

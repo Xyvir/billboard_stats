@@ -1,1 +1,66 @@
-{"id": "the-best-of-barbara-mandrell-barbara-mandrell", "title": "The Best Of Barbara Mandrell", "artist": "Barbara Mandrell", "peak": 170, "history": [{"date": "1979-02-24", "rank": 188}, {"date": "1979-03-03", "rank": 180}, {"date": "1979-03-10", "rank": 170}, {"date": "1979-03-17", "rank": 170}]}
+{
+  "id": "the-best-of-barbara-mandrell-barbara-mandrell",
+  "title": "The Best Of Barbara Mandrell",
+  "artist": "Barbara Mandrell",
+  "peak": 170,
+  "history": [
+    {
+      "date": "1979-02-24",
+      "rank": 188
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 180
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 170
+    },
+    {
+      "date": "1979-03-17",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Woman to Woman",
+      "id": "woman-to-woman-barbara-mandrell"
+    },
+    {
+      "title": "Love Is Thin Ice",
+      "id": null
+    },
+    {
+      "title": "Hold Me",
+      "id": null
+    },
+    {
+      "title": "After the Lovin'",
+      "id": null
+    },
+    {
+      "title": "Married but Not to Each Other",
+      "id": null
+    },
+    {
+      "title": "Sleeping Single in a Double Bed",
+      "id": null
+    },
+    {
+      "title": "That’s What Friends Are For",
+      "id": null
+    },
+    {
+      "title": "Midnight Angel",
+      "id": null
+    },
+    {
+      "title": "Standing Room Only",
+      "id": null
+    },
+    {
+      "title": "Tonight",
+      "id": null
+    }
+  ]
+}

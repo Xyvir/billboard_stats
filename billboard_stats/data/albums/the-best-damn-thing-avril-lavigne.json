@@ -1,1 +1,270 @@
-{"id": "the-best-damn-thing-avril-lavigne", "title": "The Best Damn Thing", "artist": "Avril Lavigne", "peak": 1, "history": [{"date": "2007-05-05", "rank": 1}, {"date": "2007-05-12", "rank": 1}, {"date": "2007-05-19", "rank": 4}, {"date": "2007-05-26", "rank": 5}, {"date": "2007-06-02", "rank": 6}, {"date": "2007-06-09", "rank": 9}, {"date": "2007-06-16", "rank": 8}, {"date": "2007-06-23", "rank": 13}, {"date": "2007-06-30", "rank": 18}, {"date": "2007-07-07", "rank": 16}, {"date": "2007-07-14", "rank": 18}, {"date": "2007-07-21", "rank": 20}, {"date": "2007-07-28", "rank": 22}, {"date": "2007-08-04", "rank": 20}, {"date": "2007-08-11", "rank": 23}, {"date": "2007-08-18", "rank": 23}, {"date": "2007-08-25", "rank": 25}, {"date": "2007-09-01", "rank": 25}, {"date": "2007-09-08", "rank": 30}, {"date": "2007-09-15", "rank": 36}, {"date": "2007-09-22", "rank": 30}, {"date": "2007-09-29", "rank": 31}, {"date": "2007-10-06", "rank": 44}, {"date": "2007-10-13", "rank": 61}, {"date": "2007-10-20", "rank": 66}, {"date": "2007-10-27", "rank": 71}, {"date": "2007-11-03", "rank": 74}, {"date": "2007-11-10", "rank": 87}, {"date": "2007-11-17", "rank": 94}, {"date": "2007-11-24", "rank": 100}, {"date": "2007-12-01", "rank": 91}, {"date": "2007-12-08", "rank": 76}, {"date": "2007-12-15", "rank": 74}, {"date": "2007-12-22", "rank": 70}, {"date": "2007-12-29", "rank": 74}, {"date": "2008-01-05", "rank": 73}, {"date": "2008-01-12", "rank": 72}, {"date": "2008-01-19", "rank": 87}, {"date": "2008-01-26", "rank": 95}, {"date": "2008-02-02", "rank": 102}, {"date": "2008-02-09", "rank": 112}, {"date": "2008-02-16", "rank": 122}, {"date": "2008-02-23", "rank": 131}, {"date": "2008-03-01", "rank": 132}, {"date": "2008-03-08", "rank": 152}, {"date": "2008-03-15", "rank": 172}, {"date": "2008-03-22", "rank": 177}, {"date": "2008-03-29", "rank": 163}, {"date": "2008-04-05", "rank": 142}, {"date": "2008-04-12", "rank": 174}, {"date": "2008-04-19", "rank": 196}]}
+{
+  "id": "the-best-damn-thing-avril-lavigne",
+  "title": "The Best Damn Thing",
+  "artist": "Avril Lavigne",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2007-05-05",
+      "rank": 1
+    },
+    {
+      "date": "2007-05-12",
+      "rank": 1
+    },
+    {
+      "date": "2007-05-19",
+      "rank": 4
+    },
+    {
+      "date": "2007-05-26",
+      "rank": 5
+    },
+    {
+      "date": "2007-06-02",
+      "rank": 6
+    },
+    {
+      "date": "2007-06-09",
+      "rank": 9
+    },
+    {
+      "date": "2007-06-16",
+      "rank": 8
+    },
+    {
+      "date": "2007-06-23",
+      "rank": 13
+    },
+    {
+      "date": "2007-06-30",
+      "rank": 18
+    },
+    {
+      "date": "2007-07-07",
+      "rank": 16
+    },
+    {
+      "date": "2007-07-14",
+      "rank": 18
+    },
+    {
+      "date": "2007-07-21",
+      "rank": 20
+    },
+    {
+      "date": "2007-07-28",
+      "rank": 22
+    },
+    {
+      "date": "2007-08-04",
+      "rank": 20
+    },
+    {
+      "date": "2007-08-11",
+      "rank": 23
+    },
+    {
+      "date": "2007-08-18",
+      "rank": 23
+    },
+    {
+      "date": "2007-08-25",
+      "rank": 25
+    },
+    {
+      "date": "2007-09-01",
+      "rank": 25
+    },
+    {
+      "date": "2007-09-08",
+      "rank": 30
+    },
+    {
+      "date": "2007-09-15",
+      "rank": 36
+    },
+    {
+      "date": "2007-09-22",
+      "rank": 30
+    },
+    {
+      "date": "2007-09-29",
+      "rank": 31
+    },
+    {
+      "date": "2007-10-06",
+      "rank": 44
+    },
+    {
+      "date": "2007-10-13",
+      "rank": 61
+    },
+    {
+      "date": "2007-10-20",
+      "rank": 66
+    },
+    {
+      "date": "2007-10-27",
+      "rank": 71
+    },
+    {
+      "date": "2007-11-03",
+      "rank": 74
+    },
+    {
+      "date": "2007-11-10",
+      "rank": 87
+    },
+    {
+      "date": "2007-11-17",
+      "rank": 94
+    },
+    {
+      "date": "2007-11-24",
+      "rank": 100
+    },
+    {
+      "date": "2007-12-01",
+      "rank": 91
+    },
+    {
+      "date": "2007-12-08",
+      "rank": 76
+    },
+    {
+      "date": "2007-12-15",
+      "rank": 74
+    },
+    {
+      "date": "2007-12-22",
+      "rank": 70
+    },
+    {
+      "date": "2007-12-29",
+      "rank": 74
+    },
+    {
+      "date": "2008-01-05",
+      "rank": 73
+    },
+    {
+      "date": "2008-01-12",
+      "rank": 72
+    },
+    {
+      "date": "2008-01-19",
+      "rank": 87
+    },
+    {
+      "date": "2008-01-26",
+      "rank": 95
+    },
+    {
+      "date": "2008-02-02",
+      "rank": 102
+    },
+    {
+      "date": "2008-02-09",
+      "rank": 112
+    },
+    {
+      "date": "2008-02-16",
+      "rank": 122
+    },
+    {
+      "date": "2008-02-23",
+      "rank": 131
+    },
+    {
+      "date": "2008-03-01",
+      "rank": 132
+    },
+    {
+      "date": "2008-03-08",
+      "rank": 152
+    },
+    {
+      "date": "2008-03-15",
+      "rank": 172
+    },
+    {
+      "date": "2008-03-22",
+      "rank": 177
+    },
+    {
+      "date": "2008-03-29",
+      "rank": 163
+    },
+    {
+      "date": "2008-04-05",
+      "rank": 142
+    },
+    {
+      "date": "2008-04-12",
+      "rank": 174
+    },
+    {
+      "date": "2008-04-19",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Girlfriend",
+      "id": "girlfriend-avril-lavigne"
+    },
+    {
+      "title": "When You're Gone",
+      "id": "when-you-re-gone-avril-lavigne"
+    },
+    {
+      "title": "Hot",
+      "id": "hot-avril-lavigne"
+    },
+    {
+      "title": "Keep Holding On",
+      "id": "keep-holding-on-avril-lavigne"
+    },
+    {
+      "title": "I Can Do Better",
+      "id": null
+    },
+    {
+      "title": "Runaway",
+      "id": null
+    },
+    {
+      "title": "The Best Damn Thing",
+      "id": null
+    },
+    {
+      "title": "Everything Back but You",
+      "id": null
+    },
+    {
+      "title": "Innocence",
+      "id": null
+    },
+    {
+      "title": "I Don't Have to Try",
+      "id": null
+    },
+    {
+      "title": "One of Those Girls",
+      "id": null
+    },
+    {
+      "title": "Contagious",
+      "id": null
+    },
+    {
+      "title": "The Making of the Best Damn Thing",
+      "id": null
+    },
+    {
+      "title": "Photo Gallery",
+      "id": null
+    }
+  ]
+}

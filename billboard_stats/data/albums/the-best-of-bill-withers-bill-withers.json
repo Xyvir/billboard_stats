@@ -1,1 +1,58 @@
-{"id": "the-best-of-bill-withers-bill-withers", "title": "The Best Of Bill Withers", "artist": "Bill Withers", "peak": 182, "history": [{"date": "1975-05-17", "rank": 186}, {"date": "1975-05-24", "rank": 182}]}
+{
+  "id": "the-best-of-bill-withers-bill-withers",
+  "title": "The Best Of Bill Withers",
+  "artist": "Bill Withers",
+  "peak": 182,
+  "history": [
+    {
+      "date": "1975-05-17",
+      "rank": 186
+    },
+    {
+      "date": "1975-05-24",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lean on Me",
+      "id": "lean-on-me-bill-withers"
+    },
+    {
+      "title": "Grandma’s Hands",
+      "id": "grandma-s-hands-bill-withers"
+    },
+    {
+      "title": "Use Me",
+      "id": "use-me-bill-withers"
+    },
+    {
+      "title": "Ain’t No Sunshine",
+      "id": "ain-t-no-sunshine-bill-withers"
+    },
+    {
+      "title": "Kissing My Love",
+      "id": "kissing-my-love-bill-withers"
+    },
+    {
+      "title": "The Same Love That Made Me Laugh",
+      "id": "the-same-love-that-made-me-laugh-bill-withers"
+    },
+    {
+      "title": "Harlem",
+      "id": null
+    },
+    {
+      "title": "Everybody’s Talkin’",
+      "id": null
+    },
+    {
+      "title": "You",
+      "id": null
+    },
+    {
+      "title": "Who Is He (and What Is He to You)?",
+      "id": null
+    }
+  ]
+}

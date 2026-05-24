@@ -1,1 +1,90 @@
-{"id": "the-best-of-b-b-king-b-b-king", "title": "The Best Of B.B. King", "artist": "B.B. King", "peak": 101, "history": [{"date": "1973-02-24", "rank": 193}, {"date": "1973-03-03", "rank": 149}, {"date": "1973-03-10", "rank": 121}, {"date": "1973-03-17", "rank": 112}, {"date": "1973-03-24", "rank": 106}, {"date": "1973-03-31", "rank": 104}, {"date": "1973-04-07", "rank": 101}, {"date": "1973-04-14", "rank": 112}, {"date": "1973-04-21", "rank": 128}, {"date": "1973-04-28", "rank": 163}, {"date": "1973-05-05", "rank": 194}]}
+{
+  "id": "the-best-of-b-b-king-b-b-king",
+  "title": "The Best Of B.B. King",
+  "artist": "B.B. King",
+  "peak": 101,
+  "history": [
+    {
+      "date": "1973-02-24",
+      "rank": 193
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 149
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 121
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 112
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 106
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 104
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 101
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 112
+    },
+    {
+      "date": "1973-04-21",
+      "rank": 128
+    },
+    {
+      "date": "1973-04-28",
+      "rank": 163
+    },
+    {
+      "date": "1973-05-05",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hummingbird",
+      "id": "hummingbird-b-b-king"
+    },
+    {
+      "title": "Sweet Sixteen",
+      "id": "sweet-sixteen-b-b-king"
+    },
+    {
+      "title": "Ain’t Nobody Home",
+      "id": "ain-t-nobody-home-b-b-king"
+    },
+    {
+      "title": "Why I Sing the Blues",
+      "id": "why-i-sing-the-blues-b-b-king"
+    },
+    {
+      "title": "The Thrill Is Gone",
+      "id": "the-thrill-is-gone-b-b-king"
+    },
+    {
+      "title": "Cook County Jail Introduction",
+      "id": null
+    },
+    {
+      "title": "How Blue Can You Get",
+      "id": null
+    },
+    {
+      "title": "Caldonia",
+      "id": null
+    },
+    {
+      "title": "Nobody Loves Me but My Mother",
+      "id": null
+    }
+  ]
+}
