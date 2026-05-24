@@ -1,1 +1,70 @@
-{"id": "salute-gordon-lightfoot", "title": "Salute", "artist": "Gordon Lightfoot", "peak": 175, "history": [{"date": "1983-08-13", "rank": 180}, {"date": "1983-08-20", "rank": 177}, {"date": "1983-08-27", "rank": 176}, {"date": "1983-09-03", "rank": 175}, {"date": "1983-09-10", "rank": 198}]}
+{
+  "id": "salute-gordon-lightfoot",
+  "title": "Salute",
+  "artist": "Gordon Lightfoot",
+  "peak": 175,
+  "history": [
+    {
+      "date": "1983-08-13",
+      "rank": 180
+    },
+    {
+      "date": "1983-08-20",
+      "rank": 177
+    },
+    {
+      "date": "1983-08-27",
+      "rank": 176
+    },
+    {
+      "date": "1983-09-03",
+      "rank": 175
+    },
+    {
+      "date": "1983-09-10",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Salute (A Lot More Livin' To Do)",
+      "id": null
+    },
+    {
+      "title": "Gotta Get Away",
+      "id": null
+    },
+    {
+      "title": "Whispers of the North",
+      "id": null
+    },
+    {
+      "title": "Someone to Believe In",
+      "id": null
+    },
+    {
+      "title": "Romance",
+      "id": null
+    },
+    {
+      "title": "Knotty Pine",
+      "id": null
+    },
+    {
+      "title": "Biscuit City",
+      "id": null
+    },
+    {
+      "title": "Without You",
+      "id": null
+    },
+    {
+      "title": "Tattoo",
+      "id": null
+    },
+    {
+      "title": "Broken Dreams",
+      "id": null
+    }
+  ]
+}

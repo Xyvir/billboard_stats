@@ -1,1 +1,34 @@
-{"id": "saint-cecilia-ep-foo-fighters", "title": "Saint Cecilia EP", "artist": "Foo Fighters", "peak": 117, "history": [{"date": "2016-03-12", "rank": 117}]}
+{
+  "id": "saint-cecilia-ep-foo-fighters",
+  "title": "Saint Cecilia EP",
+  "artist": "Foo Fighters",
+  "peak": 117,
+  "history": [
+    {
+      "date": "2016-03-12",
+      "rank": 117
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Saint Cecilia",
+      "id": null
+    },
+    {
+      "title": "Sean",
+      "id": null
+    },
+    {
+      "title": "Savior Breath",
+      "id": null
+    },
+    {
+      "title": "Iron Rooster",
+      "id": null
+    },
+    {
+      "title": "The Neverending Sigh",
+      "id": null
+    }
+  ]
+}

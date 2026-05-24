@@ -1,1 +1,82 @@
-{"id": "sam-cooke-live-at-the-harlem-square-club-sam-cooke", "title": "Sam Cooke Live At The Harlem Square Club", "artist": "Sam Cooke", "peak": 134, "history": [{"date": "1985-06-22", "rank": 190}, {"date": "1985-06-29", "rank": 158}, {"date": "1985-07-06", "rank": 141}, {"date": "1985-07-13", "rank": 137}, {"date": "1985-07-20", "rank": 134}, {"date": "1985-07-27", "rank": 168}, {"date": "1985-08-03", "rank": 173}, {"date": "1985-08-10", "rank": 186}]}
+{
+  "id": "sam-cooke-live-at-the-harlem-square-club-sam-cooke",
+  "title": "Sam Cooke Live At The Harlem Square Club",
+  "artist": "Sam Cooke",
+  "peak": 134,
+  "history": [
+    {
+      "date": "1985-06-22",
+      "rank": 190
+    },
+    {
+      "date": "1985-06-29",
+      "rank": 158
+    },
+    {
+      "date": "1985-07-06",
+      "rank": 141
+    },
+    {
+      "date": "1985-07-13",
+      "rank": 137
+    },
+    {
+      "date": "1985-07-20",
+      "rank": 134
+    },
+    {
+      "date": "1985-07-27",
+      "rank": 168
+    },
+    {
+      "date": "1985-08-03",
+      "rank": 173
+    },
+    {
+      "date": "1985-08-10",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Chain Gang",
+      "id": "chain-gang-sam-cooke"
+    },
+    {
+      "title": "Cupid",
+      "id": "cupid-sam-cooke"
+    },
+    {
+      "title": "Twistin’ the Night Away",
+      "id": "twistin-the-night-away-sam-cooke"
+    },
+    {
+      "title": "Somebody Have Mercy",
+      "id": "somebody-have-mercy-sam-cooke"
+    },
+    {
+      "title": "Bring It on Home to Me",
+      "id": "bring-it-on-home-to-me-sam-cooke"
+    },
+    {
+      "title": "Nothing Can Change This Love",
+      "id": "nothing-can-change-this-love-sam-cooke"
+    },
+    {
+      "title": "Having a Party",
+      "id": "having-a-party-sam-cooke"
+    },
+    {
+      "title": "Soul Twist / Introduction",
+      "id": null
+    },
+    {
+      "title": "Feel It (Don’t Fight It)",
+      "id": null
+    },
+    {
+      "title": "Medley: It’s All Right / For Sentimental Reasons",
+      "id": null
+    }
+  ]
+}
