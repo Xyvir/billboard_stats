@@ -1,1 +1,50 @@
-{"id": "songs-of-a-lost-world-the-cure", "title": "Songs Of A Lost World", "artist": "The Cure", "peak": 4, "history": [{"date": "2024-11-16", "rank": 4}, {"date": "2024-11-23", "rank": 74}]}
+{
+  "id": "songs-of-a-lost-world-the-cure",
+  "title": "Songs Of A Lost World",
+  "artist": "The Cure",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2024-11-16",
+      "rank": 4
+    },
+    {
+      "date": "2024-11-23",
+      "rank": 74
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Endsong",
+      "id": "love-song-the-cure"
+    },
+    {
+      "title": "Alone",
+      "id": null
+    },
+    {
+      "title": "And Nothing Is Forever",
+      "id": null
+    },
+    {
+      "title": "A Fragile Thing",
+      "id": null
+    },
+    {
+      "title": "Warsong",
+      "id": null
+    },
+    {
+      "title": "Drone:Nodrone",
+      "id": null
+    },
+    {
+      "title": "I Can Never Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "All I Ever Am",
+      "id": null
+    }
+  ]
+}

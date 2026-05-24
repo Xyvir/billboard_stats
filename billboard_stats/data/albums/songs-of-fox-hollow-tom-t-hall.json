@@ -1,1 +1,62 @@
-{"id": "songs-of-fox-hollow-tom-t-hall", "title": "Songs Of Fox Hollow", "artist": "Tom T. Hall", "peak": 180, "history": [{"date": "1975-04-19", "rank": 186}, {"date": "1975-04-26", "rank": 180}]}
+{
+  "id": "songs-of-fox-hollow-tom-t-hall",
+  "title": "Songs Of Fox Hollow",
+  "artist": "Tom T. Hall",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1975-04-19",
+      "rank": 186
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sneaky Snake",
+      "id": "sneaky-snake-tom-t-hall"
+    },
+    {
+      "title": "I Love",
+      "id": "i-love-tom-t-hall"
+    },
+    {
+      "title": "The Mysterious Fox of Fox Hollow",
+      "id": null
+    },
+    {
+      "title": "How to Talk to a Little Baby Goat",
+      "id": null
+    },
+    {
+      "title": "The Barn Dance",
+      "id": null
+    },
+    {
+      "title": "I Care",
+      "id": null
+    },
+    {
+      "title": "Ole Lonesome George the Basset",
+      "id": null
+    },
+    {
+      "title": "I Wish I Had a Million Friends",
+      "id": null
+    },
+    {
+      "title": "Everybody Loves to Hear a Bird Sing",
+      "id": null
+    },
+    {
+      "title": "I Like to Feel Pretty Inside",
+      "id": null
+    },
+    {
+      "title": "The Song of the One Legged Chicken",
+      "id": null
+    }
+  ]
+}

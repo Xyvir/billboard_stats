@@ -1,1 +1,74 @@
-{"id": "songs-placido-domingo", "title": "Songs", "artist": "Placido Domingo", "peak": 136, "history": [{"date": "2012-11-03", "rank": 158}, {"date": "2012-11-10", "rank": 136}]}
+{
+  "id": "songs-placido-domingo",
+  "title": "Songs",
+  "artist": "Placido Domingo",
+  "peak": 136,
+  "history": [
+    {
+      "date": "2012-11-03",
+      "rank": 158
+    },
+    {
+      "date": "2012-11-10",
+      "rank": 136
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Canción para una reina",
+      "id": null
+    },
+    {
+      "title": "Sous le ciel de Paris",
+      "id": null
+    },
+    {
+      "title": "Time After Time",
+      "id": null
+    },
+    {
+      "title": "Un uomo tra la folla",
+      "id": null
+    },
+    {
+      "title": "La Chanson des vieux amants",
+      "id": null
+    },
+    {
+      "title": "Come What May (from Moulin Rouge)",
+      "id": null
+    },
+    {
+      "title": "Bésame mucho",
+      "id": null
+    },
+    {
+      "title": "From This Moment On",
+      "id": null
+    },
+    {
+      "title": "Parla più piano (theme from The Godfather)",
+      "id": null
+    },
+    {
+      "title": "Il mio cuore va (My Heart Will Go On)",
+      "id": null
+    },
+    {
+      "title": "Eternally (from Charlie Chaplin’s Limelight)",
+      "id": null
+    },
+    {
+      "title": "Celos (Jalousie)",
+      "id": null
+    },
+    {
+      "title": "The Girl from Ipanema",
+      "id": null
+    },
+    {
+      "title": "What a Wonderful World",
+      "id": null
+    }
+  ]
+}

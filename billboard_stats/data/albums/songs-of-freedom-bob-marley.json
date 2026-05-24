@@ -1,1 +1,382 @@
-{"id": "songs-of-freedom-bob-marley", "title": "Songs Of Freedom", "artist": "Bob Marley", "peak": 86, "history": [{"date": "1992-10-24", "rank": 87}, {"date": "1992-10-31", "rank": 86}, {"date": "1992-11-07", "rank": 98}, {"date": "1992-11-14", "rank": 109}, {"date": "1992-11-21", "rank": 143}, {"date": "1992-11-28", "rank": 144}, {"date": "1992-12-05", "rank": 141}, {"date": "1992-12-12", "rank": 129}, {"date": "1992-12-19", "rank": 108}, {"date": "1992-12-26", "rank": 105}, {"date": "1993-01-02", "rank": 102}, {"date": "1993-01-09", "rank": 94}, {"date": "1993-01-16", "rank": 163}, {"date": "1993-01-30", "rank": 191}, {"date": "1993-02-06", "rank": 195}]}
+{
+  "id": "songs-of-freedom-bob-marley",
+  "title": "Songs Of Freedom",
+  "artist": "Bob Marley",
+  "peak": 86,
+  "history": [
+    {
+      "date": "1992-10-24",
+      "rank": 87
+    },
+    {
+      "date": "1992-10-31",
+      "rank": 86
+    },
+    {
+      "date": "1992-11-07",
+      "rank": 98
+    },
+    {
+      "date": "1992-11-14",
+      "rank": 109
+    },
+    {
+      "date": "1992-11-21",
+      "rank": 143
+    },
+    {
+      "date": "1992-11-28",
+      "rank": 144
+    },
+    {
+      "date": "1992-12-05",
+      "rank": 141
+    },
+    {
+      "date": "1992-12-12",
+      "rank": 129
+    },
+    {
+      "date": "1992-12-19",
+      "rank": 108
+    },
+    {
+      "date": "1992-12-26",
+      "rank": 105
+    },
+    {
+      "date": "1993-01-02",
+      "rank": 102
+    },
+    {
+      "date": "1993-01-09",
+      "rank": 94
+    },
+    {
+      "date": "1993-01-16",
+      "rank": 163
+    },
+    {
+      "date": "1993-01-30",
+      "rank": 191
+    },
+    {
+      "date": "1993-02-06",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Judge Not",
+      "id": null
+    },
+    {
+      "title": "One Cup of Coffee",
+      "id": null
+    },
+    {
+      "title": "Simmer Down",
+      "id": null
+    },
+    {
+      "title": "I’m Still Waiting",
+      "id": null
+    },
+    {
+      "title": "One Love",
+      "id": null
+    },
+    {
+      "title": "Put It On",
+      "id": null
+    },
+    {
+      "title": "Bus Dem Shut",
+      "id": null
+    },
+    {
+      "title": "Mellow Mood",
+      "id": null
+    },
+    {
+      "title": "Bend Down Low",
+      "id": null
+    },
+    {
+      "title": "Hypocrites",
+      "id": null
+    },
+    {
+      "title": "Stir It Up",
+      "id": null
+    },
+    {
+      "title": "Nice Time",
+      "id": null
+    },
+    {
+      "title": "Thank You Lord",
+      "id": null
+    },
+    {
+      "title": "Hammer",
+      "id": null
+    },
+    {
+      "title": "Caution",
+      "id": null
+    },
+    {
+      "title": "Back Out",
+      "id": null
+    },
+    {
+      "title": "Soul Shake Down Party",
+      "id": null
+    },
+    {
+      "title": "Do It Twice",
+      "id": null
+    },
+    {
+      "title": "Soul Rebel",
+      "id": null
+    },
+    {
+      "title": "Sun Is Shining",
+      "id": null
+    },
+    {
+      "title": "Don’t Rock My Boat",
+      "id": null
+    },
+    {
+      "title": "Small Axe",
+      "id": null
+    },
+    {
+      "title": "Duppy Conqueror",
+      "id": null
+    },
+    {
+      "title": "Mr. Brown",
+      "id": null
+    },
+    {
+      "title": "Screw Face (take 1)",
+      "id": null
+    },
+    {
+      "title": "Lick Samba",
+      "id": null
+    },
+    {
+      "title": "Trench Town Rock",
+      "id": null
+    },
+    {
+      "title": "Craven Choke Puppy",
+      "id": null
+    },
+    {
+      "title": "Guava Jelly",
+      "id": null
+    },
+    {
+      "title": "Acoustic Medley",
+      "id": null
+    },
+    {
+      "title": "I’m Hurting Inside",
+      "id": null
+    },
+    {
+      "title": "High Tide or Low Tide",
+      "id": null
+    },
+    {
+      "title": "Slave Driver",
+      "id": null
+    },
+    {
+      "title": "No More Trouble",
+      "id": null
+    },
+    {
+      "title": "Concrete Jungle",
+      "id": null
+    },
+    {
+      "title": "Get Up, Stand Up",
+      "id": null
+    },
+    {
+      "title": "Rasta Man Chant",
+      "id": null
+    },
+    {
+      "title": "Burnin’ and Lootin’",
+      "id": null
+    },
+    {
+      "title": "Iron Lion Zion",
+      "id": null
+    },
+    {
+      "title": "Lively Up Yourself",
+      "id": null
+    },
+    {
+      "title": "Natty Dread",
+      "id": null
+    },
+    {
+      "title": "I Shot the Sheriff",
+      "id": null
+    },
+    {
+      "title": "No Woman No Cry",
+      "id": null
+    },
+    {
+      "title": "Who the Cap Fit",
+      "id": null
+    },
+    {
+      "title": "Jah Live",
+      "id": null
+    },
+    {
+      "title": "Crazy Baldhead",
+      "id": null
+    },
+    {
+      "title": "War",
+      "id": null
+    },
+    {
+      "title": "Johnny Was",
+      "id": null
+    },
+    {
+      "title": "Rat Race",
+      "id": null
+    },
+    {
+      "title": "Jammin’ (12″ mix)",
+      "id": null
+    },
+    {
+      "title": "Waiting in Vain (advert mix)",
+      "id": null
+    },
+    {
+      "title": "Exodus",
+      "id": null
+    },
+    {
+      "title": "Natural Mystic",
+      "id": null
+    },
+    {
+      "title": "Three Little Birds (alternate mix)",
+      "id": null
+    },
+    {
+      "title": "Running Away",
+      "id": null
+    },
+    {
+      "title": "Keep On Moving (London version)",
+      "id": null
+    },
+    {
+      "title": "Easy Skanking",
+      "id": null
+    },
+    {
+      "title": "Is This Love (horns mix)",
+      "id": null
+    },
+    {
+      "title": "Smile Jamaica",
+      "id": null
+    },
+    {
+      "title": "Time Will Tell",
+      "id": null
+    },
+    {
+      "title": "Africa Unite",
+      "id": null
+    },
+    {
+      "title": "Survival",
+      "id": null
+    },
+    {
+      "title": "One Drop",
+      "id": null
+    },
+    {
+      "title": "One Dub",
+      "id": null
+    },
+    {
+      "title": "Zimbabwe",
+      "id": null
+    },
+    {
+      "title": "So Much Trouble in the World",
+      "id": null
+    },
+    {
+      "title": "Ride Natty Ride (12″ mix)",
+      "id": null
+    },
+    {
+      "title": "Babylon System",
+      "id": null
+    },
+    {
+      "title": "Coming In From the Cold (12″ mix)",
+      "id": null
+    },
+    {
+      "title": "Real Situation",
+      "id": null
+    },
+    {
+      "title": "Bad Card",
+      "id": null
+    },
+    {
+      "title": "Could You Be Loved (12″ mix)",
+      "id": null
+    },
+    {
+      "title": "Forever Loving Jah",
+      "id": null
+    },
+    {
+      "title": "Rastaman Live Up!",
+      "id": null
+    },
+    {
+      "title": "Give Thanks and Praises",
+      "id": null
+    },
+    {
+      "title": "One Love / People Get Ready (12″ mix)",
+      "id": null
+    },
+    {
+      "title": "Why Should I",
+      "id": null
+    },
+    {
+      "title": "Redemption Song",
+      "id": null
+    }
+  ]
+}
