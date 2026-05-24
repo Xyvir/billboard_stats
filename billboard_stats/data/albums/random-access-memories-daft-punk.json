@@ -1,1 +1,322 @@
-{"id": "random-access-memories-daft-punk", "title": "Random Access Memories", "artist": "Daft Punk", "peak": 1, "history": [{"date": "2013-06-08", "rank": 1}, {"date": "2013-06-15", "rank": 1}, {"date": "2013-06-22", "rank": 2}, {"date": "2013-06-29", "rank": 2}, {"date": "2013-07-06", "rank": 6}, {"date": "2013-07-13", "rank": 5}, {"date": "2013-07-20", "rank": 7}, {"date": "2013-07-27", "rank": 9}, {"date": "2013-08-03", "rank": 14}, {"date": "2013-08-10", "rank": 17}, {"date": "2013-08-17", "rank": 21}, {"date": "2013-08-24", "rank": 16}, {"date": "2013-08-31", "rank": 22}, {"date": "2013-09-07", "rank": 31}, {"date": "2013-09-14", "rank": 33}, {"date": "2013-09-21", "rank": 48}, {"date": "2013-09-28", "rank": 49}, {"date": "2013-10-05", "rank": 59}, {"date": "2013-10-12", "rank": 68}, {"date": "2013-10-19", "rank": 79}, {"date": "2013-10-26", "rank": 86}, {"date": "2013-11-02", "rank": 99}, {"date": "2013-11-09", "rank": 98}, {"date": "2013-11-16", "rank": 120}, {"date": "2013-11-23", "rank": 46}, {"date": "2013-11-30", "rank": 140}, {"date": "2013-12-07", "rank": 183}, {"date": "2013-12-14", "rank": 89}, {"date": "2013-12-21", "rank": 147}, {"date": "2013-12-28", "rank": 161}, {"date": "2014-01-04", "rank": 133}, {"date": "2014-01-11", "rank": 97}, {"date": "2014-01-18", "rank": 67}, {"date": "2014-01-25", "rank": 59}, {"date": "2014-02-01", "rank": 83}, {"date": "2014-02-08", "rank": 39}, {"date": "2014-02-15", "rank": 10}, {"date": "2014-02-22", "rank": 28}, {"date": "2014-03-01", "rank": 42}, {"date": "2014-03-08", "rank": 46}, {"date": "2014-03-15", "rank": 52}, {"date": "2014-03-22", "rank": 68}, {"date": "2014-03-29", "rank": 75}, {"date": "2014-04-05", "rank": 104}, {"date": "2014-04-12", "rank": 110}, {"date": "2014-04-19", "rank": 130}, {"date": "2014-04-26", "rank": 139}, {"date": "2014-05-03", "rank": 155}, {"date": "2014-05-10", "rank": 144}, {"date": "2014-05-17", "rank": 156}, {"date": "2014-05-24", "rank": 184}, {"date": "2014-05-31", "rank": 192}, {"date": "2014-06-07", "rank": 200}, {"date": "2021-03-06", "rank": 146}, {"date": "2023-05-27", "rank": 8}, {"date": "2023-06-03", "rank": 106}]}
+{
+  "id": "random-access-memories-daft-punk",
+  "title": "Random Access Memories",
+  "artist": "Daft Punk",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2013-06-08",
+      "rank": 1
+    },
+    {
+      "date": "2013-06-15",
+      "rank": 1
+    },
+    {
+      "date": "2013-06-22",
+      "rank": 2
+    },
+    {
+      "date": "2013-06-29",
+      "rank": 2
+    },
+    {
+      "date": "2013-07-06",
+      "rank": 6
+    },
+    {
+      "date": "2013-07-13",
+      "rank": 5
+    },
+    {
+      "date": "2013-07-20",
+      "rank": 7
+    },
+    {
+      "date": "2013-07-27",
+      "rank": 9
+    },
+    {
+      "date": "2013-08-03",
+      "rank": 14
+    },
+    {
+      "date": "2013-08-10",
+      "rank": 17
+    },
+    {
+      "date": "2013-08-17",
+      "rank": 21
+    },
+    {
+      "date": "2013-08-24",
+      "rank": 16
+    },
+    {
+      "date": "2013-08-31",
+      "rank": 22
+    },
+    {
+      "date": "2013-09-07",
+      "rank": 31
+    },
+    {
+      "date": "2013-09-14",
+      "rank": 33
+    },
+    {
+      "date": "2013-09-21",
+      "rank": 48
+    },
+    {
+      "date": "2013-09-28",
+      "rank": 49
+    },
+    {
+      "date": "2013-10-05",
+      "rank": 59
+    },
+    {
+      "date": "2013-10-12",
+      "rank": 68
+    },
+    {
+      "date": "2013-10-19",
+      "rank": 79
+    },
+    {
+      "date": "2013-10-26",
+      "rank": 86
+    },
+    {
+      "date": "2013-11-02",
+      "rank": 99
+    },
+    {
+      "date": "2013-11-09",
+      "rank": 98
+    },
+    {
+      "date": "2013-11-16",
+      "rank": 120
+    },
+    {
+      "date": "2013-11-23",
+      "rank": 46
+    },
+    {
+      "date": "2013-11-30",
+      "rank": 140
+    },
+    {
+      "date": "2013-12-07",
+      "rank": 183
+    },
+    {
+      "date": "2013-12-14",
+      "rank": 89
+    },
+    {
+      "date": "2013-12-21",
+      "rank": 147
+    },
+    {
+      "date": "2013-12-28",
+      "rank": 161
+    },
+    {
+      "date": "2014-01-04",
+      "rank": 133
+    },
+    {
+      "date": "2014-01-11",
+      "rank": 97
+    },
+    {
+      "date": "2014-01-18",
+      "rank": 67
+    },
+    {
+      "date": "2014-01-25",
+      "rank": 59
+    },
+    {
+      "date": "2014-02-01",
+      "rank": 83
+    },
+    {
+      "date": "2014-02-08",
+      "rank": 39
+    },
+    {
+      "date": "2014-02-15",
+      "rank": 10
+    },
+    {
+      "date": "2014-02-22",
+      "rank": 28
+    },
+    {
+      "date": "2014-03-01",
+      "rank": 42
+    },
+    {
+      "date": "2014-03-08",
+      "rank": 46
+    },
+    {
+      "date": "2014-03-15",
+      "rank": 52
+    },
+    {
+      "date": "2014-03-22",
+      "rank": 68
+    },
+    {
+      "date": "2014-03-29",
+      "rank": 75
+    },
+    {
+      "date": "2014-04-05",
+      "rank": 104
+    },
+    {
+      "date": "2014-04-12",
+      "rank": 110
+    },
+    {
+      "date": "2014-04-19",
+      "rank": 130
+    },
+    {
+      "date": "2014-04-26",
+      "rank": 139
+    },
+    {
+      "date": "2014-05-03",
+      "rank": 155
+    },
+    {
+      "date": "2014-05-10",
+      "rank": 144
+    },
+    {
+      "date": "2014-05-17",
+      "rank": 156
+    },
+    {
+      "date": "2014-05-24",
+      "rank": 184
+    },
+    {
+      "date": "2014-05-31",
+      "rank": 192
+    },
+    {
+      "date": "2014-06-07",
+      "rank": 200
+    },
+    {
+      "date": "2021-03-06",
+      "rank": 146
+    },
+    {
+      "date": "2023-05-27",
+      "rank": 8
+    },
+    {
+      "date": "2023-06-03",
+      "rank": 106
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Give Life Back to Music",
+      "id": null
+    },
+    {
+      "title": "The Game of Love",
+      "id": null
+    },
+    {
+      "title": "Giorgio by Moroder",
+      "id": null
+    },
+    {
+      "title": "Within",
+      "id": null
+    },
+    {
+      "title": "Instant Crush",
+      "id": null
+    },
+    {
+      "title": "Lose Yourself to Dance",
+      "id": null
+    },
+    {
+      "title": "Touch",
+      "id": null
+    },
+    {
+      "title": "Get Lucky",
+      "id": null
+    },
+    {
+      "title": "Beyond",
+      "id": null
+    },
+    {
+      "title": "Motherboard",
+      "id": null
+    },
+    {
+      "title": "Fragments of Time",
+      "id": null
+    },
+    {
+      "title": "Doin’ It Right",
+      "id": null
+    },
+    {
+      "title": "Contact",
+      "id": null
+    },
+    {
+      "title": "Horizon Ouverture",
+      "id": null
+    },
+    {
+      "title": "Horizon",
+      "id": null
+    },
+    {
+      "title": "GLBTM (studio outtakes)",
+      "id": null
+    },
+    {
+      "title": "Infinity Repeating (2013 demo)",
+      "id": null
+    },
+    {
+      "title": "GL (early take)",
+      "id": null
+    },
+    {
+      "title": "Prime (2012 unfinished)",
+      "id": null
+    },
+    {
+      "title": "LYTD (vocoder tests)",
+      "id": null
+    },
+    {
+      "title": "The Writing of Fragments of Time",
+      "id": null
+    },
+    {
+      "title": "Touch (2021 epilogue)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,98 @@
-{"id": "ram-jam-ram-jam", "title": "Ram Jam", "artist": "Ram Jam", "peak": 34, "history": [{"date": "1977-09-10", "rank": 146}, {"date": "1977-09-17", "rank": 96}, {"date": "1977-09-24", "rank": 70}, {"date": "1977-10-01", "rank": 53}, {"date": "1977-10-08", "rank": 41}, {"date": "1977-10-15", "rank": 39}, {"date": "1977-10-22", "rank": 37}, {"date": "1977-10-29", "rank": 35}, {"date": "1977-11-05", "rank": 34}, {"date": "1977-11-12", "rank": 65}, {"date": "1977-11-19", "rank": 112}, {"date": "1977-11-26", "rank": 182}]}
+{
+  "id": "ram-jam-ram-jam",
+  "title": "Ram Jam",
+  "artist": "Ram Jam",
+  "peak": 34,
+  "history": [
+    {
+      "date": "1977-09-10",
+      "rank": 146
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 96
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 70
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 53
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 41
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 39
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 37
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 35
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 34
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 65
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 112
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Black Betty",
+      "id": "black-betty-ram-jam"
+    },
+    {
+      "title": "Let It All Out",
+      "id": null
+    },
+    {
+      "title": "Keep Your Hands on the Wheel",
+      "id": null
+    },
+    {
+      "title": "Right on the Money",
+      "id": null
+    },
+    {
+      "title": "All for the Love of Rock N' Roll",
+      "id": null
+    },
+    {
+      "title": "404",
+      "id": null
+    },
+    {
+      "title": "High Steppin'",
+      "id": null
+    },
+    {
+      "title": "Overloaded",
+      "id": null
+    },
+    {
+      "title": "Hey Boogie Woman",
+      "id": null
+    },
+    {
+      "title": "Too Bad on Your Birthday",
+      "id": null
+    }
+  ]
+}

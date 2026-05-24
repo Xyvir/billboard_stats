@@ -1,1 +1,82 @@
-{"id": "ram-paul-linda-mccartney", "title": "Ram", "artist": "Paul & Linda McCartney", "peak": 24, "history": [{"date": "2012-06-09", "rank": 24}, {"date": "2012-06-16", "rank": 58}, {"date": "2012-06-23", "rank": 124}, {"date": "2012-06-30", "rank": 177}, {"date": "2012-07-07", "rank": 187}]}
+{
+  "id": "ram-paul-linda-mccartney",
+  "title": "Ram",
+  "artist": "Paul & Linda McCartney",
+  "peak": 24,
+  "history": [
+    {
+      "date": "2012-06-09",
+      "rank": 24
+    },
+    {
+      "date": "2012-06-16",
+      "rank": 58
+    },
+    {
+      "date": "2012-06-23",
+      "rank": 124
+    },
+    {
+      "date": "2012-06-30",
+      "rank": 177
+    },
+    {
+      "date": "2012-07-07",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Uncle Albert/Admiral Halsey",
+      "id": "uncle-albert-admiral-halsey-paul-linda-mccartney"
+    },
+    {
+      "title": "Too Many People",
+      "id": null
+    },
+    {
+      "title": "3 Legs",
+      "id": null
+    },
+    {
+      "title": "Ram On",
+      "id": null
+    },
+    {
+      "title": "Dear Boy",
+      "id": null
+    },
+    {
+      "title": "Smile Away",
+      "id": null
+    },
+    {
+      "title": "Heart of the Country",
+      "id": null
+    },
+    {
+      "title": "Monkberry Moon Delight",
+      "id": null
+    },
+    {
+      "title": "Eat at Home",
+      "id": null
+    },
+    {
+      "title": "Long Haired Lady",
+      "id": null
+    },
+    {
+      "title": "The Back Seat of My Car",
+      "id": null
+    },
+    {
+      "title": "Another Day",
+      "id": null
+    },
+    {
+      "title": "Oh Woman, Oh Why",
+      "id": null
+    }
+  ]
+}
