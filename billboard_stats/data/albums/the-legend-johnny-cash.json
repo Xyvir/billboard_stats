@@ -1,1 +1,482 @@
-{"id": "the-legend-johnny-cash", "title": "The Legend", "artist": "Johnny Cash", "peak": 173, "history": [{"date": "2005-12-17", "rank": 173}, {"date": "2005-12-24", "rank": 176}, {"date": "2005-12-31", "rank": 198}, {"date": "2007-01-06", "rank": 195}]}
+{
+  "id": "the-legend-johnny-cash",
+  "title": "The Legend",
+  "artist": "Johnny Cash",
+  "peak": 173,
+  "history": [
+    {
+      "date": "2005-12-17",
+      "rank": 173
+    },
+    {
+      "date": "2005-12-24",
+      "rank": 176
+    },
+    {
+      "date": "2005-12-31",
+      "rank": 198
+    },
+    {
+      "date": "2007-01-06",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Take Your Guns to Town",
+      "id": "don-t-take-your-guns-to-town-johnny-cash"
+    },
+    {
+      "title": "Ring of Fire",
+      "id": "ring-of-fire-johnny-cash"
+    },
+    {
+      "title": "The Matador",
+      "id": "the-matador-johnny-cash"
+    },
+    {
+      "title": "Understand Your Man",
+      "id": "understand-your-man-johnny-cash"
+    },
+    {
+      "title": "Orange Blossom Special",
+      "id": "orange-blossom-special-johnny-cash"
+    },
+    {
+      "title": "The One on the Right Is on the Left",
+      "id": "the-one-on-the-right-is-on-the-left-johnny-cash"
+    },
+    {
+      "title": "Rosanna’s Going Wild",
+      "id": "rosanna-s-going-wild-johnny-cash"
+    },
+    {
+      "title": "Folsom Prison Blues",
+      "id": "folsom-prison-blues-johnny-cash"
+    },
+    {
+      "title": "Daddy Sang Bass",
+      "id": "daddy-sang-bass-johnny-cash"
+    },
+    {
+      "title": "A Boy Named Sue",
+      "id": "a-boy-named-sue-johnny-cash"
+    },
+    {
+      "title": "What Is Truth",
+      "id": "what-is-truth-johnny-cash"
+    },
+    {
+      "title": "Sunday Morning Coming Down",
+      "id": "sunday-morning-coming-down-johnny-cash"
+    },
+    {
+      "title": "Flesh and Blood",
+      "id": "flesh-and-blood-johnny-cash"
+    },
+    {
+      "title": "Man in Black",
+      "id": "man-in-black-johnny-cash"
+    },
+    {
+      "title": "Get Rhythm",
+      "id": "get-rhythm-johnny-cash"
+    },
+    {
+      "title": "Five Feet High and Rising",
+      "id": "five-feet-high-and-rising-johnny-cash"
+    },
+    {
+      "title": "Tennessee Flat‐Top Box",
+      "id": "tennessee-flat-top-box-johnny-cash"
+    },
+    {
+      "title": "I Got Stripes",
+      "id": "i-got-stripes-johnny-cash"
+    },
+    {
+      "title": "Rock Island Line",
+      "id": "rock-island-line-johnny-cash"
+    },
+    {
+      "title": "Frankie’s Man, Johnny",
+      "id": "frankie-s-man-johnny-johnny-cash"
+    },
+    {
+      "title": "The Wanderer",
+      "id": "the-matador-johnny-cash"
+    },
+    {
+      "title": "I Walk the Line",
+      "id": null
+    },
+    {
+      "title": "There You Go",
+      "id": null
+    },
+    {
+      "title": "Home of the Blues",
+      "id": null
+    },
+    {
+      "title": "Ballad of a Teenage Queen",
+      "id": null
+    },
+    {
+      "title": "Guess Things Happen That Way",
+      "id": null
+    },
+    {
+      "title": "The Ways of a Woman in Love",
+      "id": null
+    },
+    {
+      "title": "The Ballad of Ira Hayes",
+      "id": null
+    },
+    {
+      "title": "A Thing Called Love",
+      "id": null
+    },
+    {
+      "title": "Kate",
+      "id": null
+    },
+    {
+      "title": "Oney",
+      "id": null
+    },
+    {
+      "title": "Any Old Wind That Blows",
+      "id": null
+    },
+    {
+      "title": "One Piece at a Time",
+      "id": null
+    },
+    {
+      "title": "(Ghost) Riders in the Sky",
+      "id": null
+    },
+    {
+      "title": "Hey Porter!",
+      "id": null
+    },
+    {
+      "title": "Cry! Cry! Cry!",
+      "id": null
+    },
+    {
+      "title": "Luther Played the Boogie",
+      "id": null
+    },
+    {
+      "title": "Give My Love to Rose",
+      "id": null
+    },
+    {
+      "title": "I Was There When It Happened",
+      "id": null
+    },
+    {
+      "title": "Big River",
+      "id": null
+    },
+    {
+      "title": "I Still Miss Someone",
+      "id": null
+    },
+    {
+      "title": "Pickin’ Time",
+      "id": null
+    },
+    {
+      "title": "The Man on the Hill",
+      "id": null
+    },
+    {
+      "title": "Troublesome Waters",
+      "id": null
+    },
+    {
+      "title": "The Long Black Veil",
+      "id": null
+    },
+    {
+      "title": "Dark as a Dungeon",
+      "id": null
+    },
+    {
+      "title": "The Wall",
+      "id": null
+    },
+    {
+      "title": "25 Minutes to Go",
+      "id": null
+    },
+    {
+      "title": "Cocaine Blues",
+      "id": null
+    },
+    {
+      "title": "Doin’ My Time",
+      "id": null
+    },
+    {
+      "title": "I Will Rock and Roll With You",
+      "id": null
+    },
+    {
+      "title": "Without Love",
+      "id": null
+    },
+    {
+      "title": "The Big Light",
+      "id": null
+    },
+    {
+      "title": "Highway Patrolman",
+      "id": null
+    },
+    {
+      "title": "I’m Never Gonna Roam Again",
+      "id": null
+    },
+    {
+      "title": "When I’m Gray",
+      "id": null
+    },
+    {
+      "title": "Forever Young",
+      "id": null
+    },
+    {
+      "title": "The Wreck of the Old ’97",
+      "id": null
+    },
+    {
+      "title": "Goodnight Irene",
+      "id": null
+    },
+    {
+      "title": "Goodbye, Little Darlin’",
+      "id": null
+    },
+    {
+      "title": "Born to Lose",
+      "id": null
+    },
+    {
+      "title": "Walking the Blues",
+      "id": null
+    },
+    {
+      "title": "Delia's Gone (1)",
+      "id": null
+    },
+    {
+      "title": "In the Jailhouse Now",
+      "id": null
+    },
+    {
+      "title": "Waiting for a Train",
+      "id": null
+    },
+    {
+      "title": "Casey Jones",
+      "id": null
+    },
+    {
+      "title": "The Legend of John Henry’s Hammer",
+      "id": null
+    },
+    {
+      "title": "I’ve Been Working on the Railroad",
+      "id": null
+    },
+    {
+      "title": "Sweet Betsy From Pike",
+      "id": null
+    },
+    {
+      "title": "The Streets of Laredo",
+      "id": null
+    },
+    {
+      "title": "Bury Me Not on the Lone Prairie",
+      "id": null
+    },
+    {
+      "title": "Down in the Valley",
+      "id": null
+    },
+    {
+      "title": "Wabash Cannonball",
+      "id": null
+    },
+    {
+      "title": "The Great Speckled Bird",
+      "id": null
+    },
+    {
+      "title": "Wildwood Flower",
+      "id": null
+    },
+    {
+      "title": "Cotton Fields",
+      "id": null
+    },
+    {
+      "title": "Pick a Bale of Cotton",
+      "id": null
+    },
+    {
+      "title": "Old Shep",
+      "id": null
+    },
+    {
+      "title": "I’ll Be All Smiles Tonight",
+      "id": null
+    },
+    {
+      "title": "I’m So Lonesome I Could Cry",
+      "id": null
+    },
+    {
+      "title": "Time Changes Everything",
+      "id": null
+    },
+    {
+      "title": "Keep on the Sunny Side",
+      "id": null
+    },
+    {
+      "title": "Diamonds in the Rough",
+      "id": null
+    },
+    {
+      "title": "Peace in the Valley",
+      "id": null
+    },
+    {
+      "title": "Were You There (When They Crucified My Lord)",
+      "id": null
+    },
+    {
+      "title": "Another Man Done Gone",
+      "id": null
+    },
+    {
+      "title": "Pick the Wildwood Flower",
+      "id": null
+    },
+    {
+      "title": "Jackson",
+      "id": null
+    },
+    {
+      "title": "If I Were a Carpenter",
+      "id": null
+    },
+    {
+      "title": "Girl From the North Country",
+      "id": null
+    },
+    {
+      "title": "One More Ride",
+      "id": null
+    },
+    {
+      "title": "You Can’t Beat Jesus Christ",
+      "id": null
+    },
+    {
+      "title": "There Ain’t No Good Chain Gang",
+      "id": null
+    },
+    {
+      "title": "We Ought to Be Ashamed",
+      "id": null
+    },
+    {
+      "title": "Crazy Old Soldier",
+      "id": null
+    },
+    {
+      "title": "Silver Haired Daddy of Mine",
+      "id": null
+    },
+    {
+      "title": "Who’s Gene Autry",
+      "id": null
+    },
+    {
+      "title": "The Night Hank Williams Came to Town",
+      "id": null
+    },
+    {
+      "title": "I Walk the Line (Revisited)",
+      "id": null
+    },
+    {
+      "title": "Highwayman",
+      "id": null
+    },
+    {
+      "title": "September When It Comes",
+      "id": null
+    },
+    {
+      "title": "Tears in the Holston River",
+      "id": null
+    },
+    {
+      "title": "Far Side Banks of Jordan",
+      "id": null
+    },
+    {
+      "title": "It Takes One to Know Me",
+      "id": null
+    },
+    {
+      "title": "KWEM Announcements and Advertisements",
+      "id": null
+    },
+    {
+      "title": "Johnny Cash Show Intro and Theme",
+      "id": null
+    },
+    {
+      "title": "Wide Open Road",
+      "id": null
+    },
+    {
+      "title": "Home Equipment Company Advertisement",
+      "id": null
+    },
+    {
+      "title": "Home Equipment Company Adertisement / Luther Perkins (intro)",
+      "id": null
+    },
+    {
+      "title": "Luther’s Boogie",
+      "id": null
+    },
+    {
+      "title": "Belshazzar (intro)",
+      "id": null
+    },
+    {
+      "title": "Belshazzar",
+      "id": null
+    },
+    {
+      "title": "Closing Comments and Theme",
+      "id": null
+    },
+    {
+      "title": "Overton Park Shell ‘Country Music Jamboree’ Advertisement by ‘Texas’ Bill Strength",
+      "id": null
+    }
+  ]
+}
