@@ -1,1 +1,258 @@
-{"id": "the-best-of-james-taylor-james-taylor", "title": "The Best Of James Taylor", "artist": "James Taylor", "peak": 11, "history": [{"date": "2003-04-26", "rank": 11}, {"date": "2003-05-03", "rank": 27}, {"date": "2003-05-10", "rank": 34}, {"date": "2003-05-17", "rank": 36}, {"date": "2003-05-24", "rank": 30}, {"date": "2003-05-31", "rank": 44}, {"date": "2003-06-07", "rank": 61}, {"date": "2003-06-14", "rank": 60}, {"date": "2003-06-21", "rank": 63}, {"date": "2003-06-28", "rank": 56}, {"date": "2003-07-05", "rank": 78}, {"date": "2003-07-12", "rank": 99}, {"date": "2003-07-19", "rank": 99}, {"date": "2003-07-26", "rank": 98}, {"date": "2003-08-02", "rank": 103}, {"date": "2003-08-09", "rank": 106}, {"date": "2003-08-16", "rank": 112}, {"date": "2003-08-23", "rank": 124}, {"date": "2003-08-30", "rank": 129}, {"date": "2003-09-06", "rank": 140}, {"date": "2003-09-13", "rank": 142}, {"date": "2003-09-20", "rank": 157}, {"date": "2003-09-27", "rank": 174}, {"date": "2003-10-04", "rank": 193}, {"date": "2003-12-27", "rank": 184}, {"date": "2004-01-03", "rank": 152}, {"date": "2004-01-10", "rank": 159}, {"date": "2004-01-17", "rank": 141}, {"date": "2004-01-24", "rank": 126}, {"date": "2004-01-31", "rank": 125}, {"date": "2004-02-07", "rank": 104}, {"date": "2004-02-14", "rank": 121}, {"date": "2004-02-21", "rank": 139}, {"date": "2004-02-28", "rank": 153}, {"date": "2004-03-06", "rank": 153}, {"date": "2004-03-13", "rank": 169}, {"date": "2004-03-20", "rank": 159}, {"date": "2004-03-27", "rank": 136}, {"date": "2004-04-03", "rank": 134}, {"date": "2004-04-10", "rank": 138}, {"date": "2004-04-17", "rank": 152}, {"date": "2004-04-24", "rank": 197}]}
+{
+  "id": "the-best-of-james-taylor-james-taylor",
+  "title": "The Best Of James Taylor",
+  "artist": "James Taylor",
+  "peak": 11,
+  "history": [
+    {
+      "date": "2003-04-26",
+      "rank": 11
+    },
+    {
+      "date": "2003-05-03",
+      "rank": 27
+    },
+    {
+      "date": "2003-05-10",
+      "rank": 34
+    },
+    {
+      "date": "2003-05-17",
+      "rank": 36
+    },
+    {
+      "date": "2003-05-24",
+      "rank": 30
+    },
+    {
+      "date": "2003-05-31",
+      "rank": 44
+    },
+    {
+      "date": "2003-06-07",
+      "rank": 61
+    },
+    {
+      "date": "2003-06-14",
+      "rank": 60
+    },
+    {
+      "date": "2003-06-21",
+      "rank": 63
+    },
+    {
+      "date": "2003-06-28",
+      "rank": 56
+    },
+    {
+      "date": "2003-07-05",
+      "rank": 78
+    },
+    {
+      "date": "2003-07-12",
+      "rank": 99
+    },
+    {
+      "date": "2003-07-19",
+      "rank": 99
+    },
+    {
+      "date": "2003-07-26",
+      "rank": 98
+    },
+    {
+      "date": "2003-08-02",
+      "rank": 103
+    },
+    {
+      "date": "2003-08-09",
+      "rank": 106
+    },
+    {
+      "date": "2003-08-16",
+      "rank": 112
+    },
+    {
+      "date": "2003-08-23",
+      "rank": 124
+    },
+    {
+      "date": "2003-08-30",
+      "rank": 129
+    },
+    {
+      "date": "2003-09-06",
+      "rank": 140
+    },
+    {
+      "date": "2003-09-13",
+      "rank": 142
+    },
+    {
+      "date": "2003-09-20",
+      "rank": 157
+    },
+    {
+      "date": "2003-09-27",
+      "rank": 174
+    },
+    {
+      "date": "2003-10-04",
+      "rank": 193
+    },
+    {
+      "date": "2003-12-27",
+      "rank": 184
+    },
+    {
+      "date": "2004-01-03",
+      "rank": 152
+    },
+    {
+      "date": "2004-01-10",
+      "rank": 159
+    },
+    {
+      "date": "2004-01-17",
+      "rank": 141
+    },
+    {
+      "date": "2004-01-24",
+      "rank": 126
+    },
+    {
+      "date": "2004-01-31",
+      "rank": 125
+    },
+    {
+      "date": "2004-02-07",
+      "rank": 104
+    },
+    {
+      "date": "2004-02-14",
+      "rank": 121
+    },
+    {
+      "date": "2004-02-21",
+      "rank": 139
+    },
+    {
+      "date": "2004-02-28",
+      "rank": 153
+    },
+    {
+      "date": "2004-03-06",
+      "rank": 153
+    },
+    {
+      "date": "2004-03-13",
+      "rank": 169
+    },
+    {
+      "date": "2004-03-20",
+      "rank": 159
+    },
+    {
+      "date": "2004-03-27",
+      "rank": 136
+    },
+    {
+      "date": "2004-04-03",
+      "rank": 134
+    },
+    {
+      "date": "2004-04-10",
+      "rank": 138
+    },
+    {
+      "date": "2004-04-17",
+      "rank": 152
+    },
+    {
+      "date": "2004-04-24",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fire and Rain",
+      "id": "fire-and-rain-james-taylor"
+    },
+    {
+      "title": "Country Road",
+      "id": "country-road-james-taylor"
+    },
+    {
+      "title": "You’ve Got a Friend",
+      "id": "you-ve-got-a-friend-james-taylor"
+    },
+    {
+      "title": "Long Ago and Far Away",
+      "id": "long-ago-and-far-away-james-taylor"
+    },
+    {
+      "title": "Don’t Let Me Be Lonely Tonight",
+      "id": "don-t-let-me-be-lonely-tonight-james-taylor"
+    },
+    {
+      "title": "Walking Man",
+      "id": "handy-man-james-taylor"
+    },
+    {
+      "title": "How Sweet It Is (to Be Loved by You)",
+      "id": "how-sweet-it-is-to-be-loved-by-you-james-taylor"
+    },
+    {
+      "title": "Mexico",
+      "id": "mexico-james-taylor"
+    },
+    {
+      "title": "Shower the People",
+      "id": "shower-the-people-james-taylor"
+    },
+    {
+      "title": "Carolina in My Mind",
+      "id": "carolina-in-my-mind-james-taylor"
+    },
+    {
+      "title": "Handy Man",
+      "id": "handy-man-james-taylor"
+    },
+    {
+      "title": "Your Smiling Face",
+      "id": "your-smiling-face-james-taylor"
+    },
+    {
+      "title": "Up on the Roof",
+      "id": "up-on-the-roof-james-taylor"
+    },
+    {
+      "title": "Something in the Way She Moves",
+      "id": null
+    },
+    {
+      "title": "Sweet Baby James",
+      "id": null
+    },
+    {
+      "title": "You Can Close Your Eyes",
+      "id": null
+    },
+    {
+      "title": "Golden Moments",
+      "id": null
+    },
+    {
+      "title": "Steamroller",
+      "id": null
+    },
+    {
+      "title": "Only a Dream in Rio",
+      "id": null
+    },
+    {
+      "title": "Bittersweet",
+      "id": null
+    }
+  ]
+}

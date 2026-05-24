@@ -1,1 +1,74 @@
-{"id": "the-best-of-joe-walsh-joe-walsh", "title": "The Best Of Joe Walsh", "artist": "Joe Walsh", "peak": 71, "history": [{"date": "1978-10-28", "rank": 93}, {"date": "1978-11-04", "rank": 85}, {"date": "1978-11-11", "rank": 74}, {"date": "1978-11-18", "rank": 73}, {"date": "1978-11-25", "rank": 71}, {"date": "1978-12-02", "rank": 180}, {"date": "1978-12-09", "rank": 194}]}
+{
+  "id": "the-best-of-joe-walsh-joe-walsh",
+  "title": "The Best Of Joe Walsh",
+  "artist": "Joe Walsh",
+  "peak": 71,
+  "history": [
+    {
+      "date": "1978-10-28",
+      "rank": 93
+    },
+    {
+      "date": "1978-11-04",
+      "rank": 85
+    },
+    {
+      "date": "1978-11-11",
+      "rank": 74
+    },
+    {
+      "date": "1978-11-18",
+      "rank": 73
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 71
+    },
+    {
+      "date": "1978-12-02",
+      "rank": 180
+    },
+    {
+      "date": "1978-12-09",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Turn to Stone",
+      "id": "turn-to-stone-joe-walsh"
+    },
+    {
+      "title": "Rocky Mountain Way",
+      "id": "rocky-mountain-way-joe-walsh"
+    },
+    {
+      "title": "Meadows",
+      "id": "meadows-joe-walsh"
+    },
+    {
+      "title": "Mother Says",
+      "id": null
+    },
+    {
+      "title": "Help Me Through the Night",
+      "id": null
+    },
+    {
+      "title": "County Fair",
+      "id": null
+    },
+    {
+      "title": "Funk 49",
+      "id": null
+    },
+    {
+      "title": "Time Out",
+      "id": null
+    },
+    {
+      "title": "Walk Away",
+      "id": null
+    }
+  ]
+}

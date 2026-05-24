@@ -1,1 +1,82 @@
-{"id": "the-best-of-joe-simon-joe-simon", "title": "The Best Of Joe Simon", "artist": "Joe Simon", "peak": 147, "history": [{"date": "1972-12-30", "rank": 199}, {"date": "1973-01-06", "rank": 183}, {"date": "1973-01-13", "rank": 164}, {"date": "1973-01-20", "rank": 155}, {"date": "1973-01-27", "rank": 148}, {"date": "1973-02-03", "rank": 147}, {"date": "1973-02-10", "rank": 150}, {"date": "1973-02-17", "rank": 159}]}
+{
+  "id": "the-best-of-joe-simon-joe-simon",
+  "title": "The Best Of Joe Simon",
+  "artist": "Joe Simon",
+  "peak": 147,
+  "history": [
+    {
+      "date": "1972-12-30",
+      "rank": 199
+    },
+    {
+      "date": "1973-01-06",
+      "rank": 183
+    },
+    {
+      "date": "1973-01-13",
+      "rank": 164
+    },
+    {
+      "date": "1973-01-20",
+      "rank": 155
+    },
+    {
+      "date": "1973-01-27",
+      "rank": 148
+    },
+    {
+      "date": "1973-02-03",
+      "rank": 147
+    },
+    {
+      "date": "1973-02-10",
+      "rank": 150
+    },
+    {
+      "date": "1973-02-17",
+      "rank": 159
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Teenager's Prayer",
+      "id": "teenager-s-prayer-joe-simon"
+    },
+    {
+      "title": "Moon Walk (part I and II)",
+      "id": "moon-walk-part-1-joe-simon"
+    },
+    {
+      "title": "Chokin’ Kind",
+      "id": "the-chokin-kind-joe-simon"
+    },
+    {
+      "title": "Farther on Down the Road",
+      "id": "farther-on-down-the-road-joe-simon"
+    },
+    {
+      "title": "It's Hard to Get Along",
+      "id": "it-s-hard-to-get-along-joe-simon"
+    },
+    {
+      "title": "Hangin' On",
+      "id": "you-keep-me-hangin-on-joe-simon"
+    },
+    {
+      "title": "Message From Maria",
+      "id": "message-from-maria-joe-simon"
+    },
+    {
+      "title": "My Special Prayer",
+      "id": "my-special-prayer-joe-simon"
+    },
+    {
+      "title": "Your Love",
+      "id": "yours-love-joe-simon"
+    },
+    {
+      "title": "Put Your Trust in Me (Depend on Me)",
+      "id": null
+    }
+  ]
+}

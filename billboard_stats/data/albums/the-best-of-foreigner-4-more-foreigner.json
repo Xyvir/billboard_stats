@@ -1,1 +1,74 @@
-{"id": "the-best-of-foreigner-4-more-foreigner", "title": "The Best Of Foreigner 4 & More", "artist": "Foreigner", "peak": 162, "history": [{"date": "2015-03-07", "rank": 162}, {"date": "2015-03-14", "rank": 195}, {"date": "2015-04-04", "rank": 188}, {"date": "2015-07-18", "rank": 194}]}
+{
+  "id": "the-best-of-foreigner-4-more-foreigner",
+  "title": "The Best Of Foreigner 4 & More",
+  "artist": "Foreigner",
+  "peak": 162,
+  "history": [
+    {
+      "date": "2015-03-07",
+      "rank": 162
+    },
+    {
+      "date": "2015-03-14",
+      "rank": 195
+    },
+    {
+      "date": "2015-04-04",
+      "rank": 188
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Urgent",
+      "id": "urgent-foreigner"
+    },
+    {
+      "title": "Waiting for a Girl Like You",
+      "id": "waiting-for-a-girl-like-you-foreigner"
+    },
+    {
+      "title": "Break It Up",
+      "id": "break-it-up-foreigner"
+    },
+    {
+      "title": "Say You Will",
+      "id": "say-you-will-foreigner"
+    },
+    {
+      "title": "Feels Like the First Time",
+      "id": "feels-like-the-first-time-foreigner"
+    },
+    {
+      "title": "Cold as Ice",
+      "id": "cold-as-ice-foreigner"
+    },
+    {
+      "title": "Hot Blooded",
+      "id": "hot-blooded-foreigner"
+    },
+    {
+      "title": "I Want to Know What Love Is",
+      "id": "i-want-to-know-what-love-is-foreigner"
+    },
+    {
+      "title": "Juke Box Hero",
+      "id": "juke-box-hero-foreigner"
+    },
+    {
+      "title": "Night Life",
+      "id": null
+    },
+    {
+      "title": "Woman in Black",
+      "id": null
+    },
+    {
+      "title": "Girl on the Moon",
+      "id": null
+    }
+  ]
+}

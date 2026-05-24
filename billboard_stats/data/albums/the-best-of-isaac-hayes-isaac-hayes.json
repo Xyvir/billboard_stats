@@ -1,1 +1,58 @@
-{"id": "the-best-of-isaac-hayes-isaac-hayes", "title": "The Best Of Isaac Hayes", "artist": "Isaac Hayes", "peak": 165, "history": [{"date": "1975-08-23", "rank": 179}, {"date": "1975-08-30", "rank": 168}, {"date": "1975-09-06", "rank": 168}, {"date": "1975-09-13", "rank": 165}]}
+{
+  "id": "the-best-of-isaac-hayes-isaac-hayes",
+  "title": "The Best Of Isaac Hayes",
+  "artist": "Isaac Hayes",
+  "peak": 165,
+  "history": [
+    {
+      "date": "1975-08-23",
+      "rank": 179
+    },
+    {
+      "date": "1975-08-30",
+      "rank": 168
+    },
+    {
+      "date": "1975-09-06",
+      "rank": 168
+    },
+    {
+      "date": "1975-09-13",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Walk On By",
+      "id": "walk-on-by-isaac-hayes"
+    },
+    {
+      "title": "I Stand Accused",
+      "id": "i-stand-accused-isaac-hayes"
+    },
+    {
+      "title": "Do Your Thing",
+      "id": "do-your-thing-isaac-hayes"
+    },
+    {
+      "title": "Theme From ‘Shaft’",
+      "id": "theme-from-shaft-isaac-hayes"
+    },
+    {
+      "title": "Never Can Say Goodbye",
+      "id": "never-can-say-goodbye-isaac-hayes"
+    },
+    {
+      "title": "Joy, Part 1",
+      "id": "joy-pt-i-isaac-hayes"
+    },
+    {
+      "title": "By The Time I Get To Phoenix",
+      "id": "by-the-time-i-get-to-phoenix-isaac-hayes"
+    },
+    {
+      "title": "Ellie’s Love Theme",
+      "id": null
+    }
+  ]
+}

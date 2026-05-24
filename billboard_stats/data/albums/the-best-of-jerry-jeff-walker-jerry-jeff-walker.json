@@ -1,1 +1,62 @@
-{"id": "the-best-of-jerry-jeff-walker-jerry-jeff-walker", "title": "The Best Of Jerry Jeff Walker", "artist": "Jerry Jeff Walker", "peak": 185, "history": [{"date": "1980-07-19", "rank": 188}, {"date": "1980-07-26", "rank": 185}, {"date": "1980-08-02", "rank": 192}]}
+{
+  "id": "the-best-of-jerry-jeff-walker-jerry-jeff-walker",
+  "title": "The Best Of Jerry Jeff Walker",
+  "artist": "Jerry Jeff Walker",
+  "peak": 185,
+  "history": [
+    {
+      "date": "1980-07-19",
+      "rank": 188
+    },
+    {
+      "date": "1980-07-26",
+      "rank": 185
+    },
+    {
+      "date": "1980-08-02",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "L.A. Freeway",
+      "id": "l-a-freeway-jerry-jeff-walker"
+    },
+    {
+      "title": "Mr. Bojangles",
+      "id": "mr-bojangles-jerry-jeff-walker"
+    },
+    {
+      "title": "Pot Can't Call the Kettle Black",
+      "id": null
+    },
+    {
+      "title": "I Love You",
+      "id": null
+    },
+    {
+      "title": "Leavin' Texas",
+      "id": null
+    },
+    {
+      "title": "Gettin’ By",
+      "id": null
+    },
+    {
+      "title": "Desperados Waiting for a Train",
+      "id": null
+    },
+    {
+      "title": "Sangria Wine",
+      "id": null
+    },
+    {
+      "title": "Up Against the Wall, Redneck",
+      "id": null
+    },
+    {
+      "title": "Hill Country Rain",
+      "id": null
+    }
+  ]
+}

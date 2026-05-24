@@ -1,1 +1,58 @@
-{"id": "the-best-of-gino-vannelli-gino-vannelli", "title": "The Best Of Gino Vannelli", "artist": "Gino Vannelli", "peak": 172, "history": [{"date": "1981-09-19", "rank": 172}, {"date": "1981-09-26", "rank": 172}]}
+{
+  "id": "the-best-of-gino-vannelli-gino-vannelli",
+  "title": "The Best Of Gino Vannelli",
+  "artist": "Gino Vannelli",
+  "peak": 172,
+  "history": [
+    {
+      "date": "1981-09-19",
+      "rank": 172
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wheels of Life",
+      "id": "wheels-of-life-gino-vannelli"
+    },
+    {
+      "title": "I Just Wanna Stop",
+      "id": "i-just-wanna-stop-gino-vannelli"
+    },
+    {
+      "title": "People Gotta Move",
+      "id": "people-gotta-move-gino-vannelli"
+    },
+    {
+      "title": "Love of My Life",
+      "id": "love-of-my-life-gino-vannelli"
+    },
+    {
+      "title": "Crazy Life",
+      "id": null
+    },
+    {
+      "title": "Love Me Now",
+      "id": null
+    },
+    {
+      "title": "Powerful People",
+      "id": null
+    },
+    {
+      "title": "Mama Coco",
+      "id": null
+    },
+    {
+      "title": "One Night With You",
+      "id": null
+    },
+    {
+      "title": "Appaloosa",
+      "id": null
+    }
+  ]
+}
