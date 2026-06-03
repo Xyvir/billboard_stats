@@ -1,1 +1,66 @@
-{"id": "toto-xiv-toto", "title": "Toto XIV", "artist": "Toto", "peak": 98, "history": [{"date": "2015-04-11", "rank": 98}]}
+{
+  "id": "toto-xiv-toto",
+  "title": "Toto XIV",
+  "artist": "Toto",
+  "peak": 98,
+  "history": [
+    {
+      "date": "2015-04-11",
+      "rank": 98
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Holy War",
+      "id": "holyanna-toto"
+    },
+    {
+      "title": "Running Out of Time",
+      "id": null
+    },
+    {
+      "title": "Burn",
+      "id": null
+    },
+    {
+      "title": "21st Century Blues",
+      "id": null
+    },
+    {
+      "title": "Orphan",
+      "id": null
+    },
+    {
+      "title": "Unknown Soldier (For Jeffrey)",
+      "id": null
+    },
+    {
+      "title": "The Little Things",
+      "id": null
+    },
+    {
+      "title": "Chinatown",
+      "id": null
+    },
+    {
+      "title": "All the Tears That Shine",
+      "id": null
+    },
+    {
+      "title": "Fortune",
+      "id": null
+    },
+    {
+      "title": "Great Expectations",
+      "id": null
+    },
+    {
+      "title": "Making of the Album",
+      "id": null
+    },
+    {
+      "title": "For Mike and Jeff",
+      "id": null
+    }
+  ]
+}

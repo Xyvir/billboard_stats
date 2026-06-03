@@ -1,1 +1,74 @@
-{"id": "vintage-michael-bolton", "title": "Vintage", "artist": "Michael Bolton", "peak": 76, "history": [{"date": "2003-09-20", "rank": 91}, {"date": "2003-09-27", "rank": 76}, {"date": "2003-10-04", "rank": 118}, {"date": "2003-10-11", "rank": 155}, {"date": "2003-10-18", "rank": 182}]}
+{
+  "id": "vintage-michael-bolton",
+  "title": "Vintage",
+  "artist": "Michael Bolton",
+  "peak": 76,
+  "history": [
+    {
+      "date": "2003-09-20",
+      "rank": 91
+    },
+    {
+      "date": "2003-09-27",
+      "rank": 76
+    },
+    {
+      "date": "2003-10-04",
+      "rank": 118
+    },
+    {
+      "date": "2003-10-11",
+      "rank": 155
+    },
+    {
+      "date": "2003-10-18",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When I Fall in Love",
+      "id": "when-a-man-loves-a-woman-michael-bolton"
+    },
+    {
+      "title": "The Very Thought of You",
+      "id": null
+    },
+    {
+      "title": "All the Way",
+      "id": null
+    },
+    {
+      "title": "A Kiss to Build a Dream On",
+      "id": null
+    },
+    {
+      "title": "If I Could",
+      "id": null
+    },
+    {
+      "title": "At Last",
+      "id": null
+    },
+    {
+      "title": "You Don't Know Me",
+      "id": null
+    },
+    {
+      "title": "Smile",
+      "id": null
+    },
+    {
+      "title": "Daddy's Little Girl",
+      "id": null
+    },
+    {
+      "title": "Summertime",
+      "id": null
+    },
+    {
+      "title": "What Are You Doing the Rest of Your Life",
+      "id": null
+    }
+  ]
+}

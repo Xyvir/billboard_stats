@@ -1,1 +1,66 @@
-{"id": "u-s-a-king-crimson", "title": "U.S.A.", "artist": "King Crimson", "peak": 125, "history": [{"date": "1975-05-24", "rank": 149}, {"date": "1975-05-31", "rank": 129}, {"date": "1975-06-07", "rank": 125}, {"date": "1975-06-14", "rank": 139}, {"date": "1975-06-21", "rank": 152}]}
+{
+  "id": "u-s-a-king-crimson",
+  "title": "U.S.A.",
+  "artist": "King Crimson",
+  "peak": 125,
+  "history": [
+    {
+      "date": "1975-05-24",
+      "rank": 149
+    },
+    {
+      "date": "1975-05-31",
+      "rank": 129
+    },
+    {
+      "date": "1975-06-07",
+      "rank": 125
+    },
+    {
+      "date": "1975-06-14",
+      "rank": 139
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 152
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Walk On… No Pussyfooting",
+      "id": null
+    },
+    {
+      "title": "Larks’ Tongues in Aspic, Part Two",
+      "id": null
+    },
+    {
+      "title": "Lament",
+      "id": null
+    },
+    {
+      "title": "Exiles",
+      "id": null
+    },
+    {
+      "title": "Asbury Park",
+      "id": null
+    },
+    {
+      "title": "Easy Money",
+      "id": null
+    },
+    {
+      "title": "21st Century Schizoid Man",
+      "id": null
+    },
+    {
+      "title": "Fracture",
+      "id": null
+    },
+    {
+      "title": "Starless",
+      "id": null
+    }
+  ]
+}

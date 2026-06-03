@@ -1,1 +1,86 @@
-{"id": "this-christmas-aretha-franklin", "title": "This Christmas", "artist": "Aretha Franklin", "peak": 102, "history": [{"date": "2008-11-29", "rank": 103}, {"date": "2008-12-06", "rank": 181}, {"date": "2008-12-13", "rank": 173}, {"date": "2008-12-20", "rank": 121}, {"date": "2008-12-27", "rank": 115}, {"date": "2009-01-03", "rank": 102}, {"date": "2009-01-10", "rank": 132}, {"date": "2009-12-26", "rank": 199}]}
+{
+  "id": "this-christmas-aretha-franklin",
+  "title": "This Christmas",
+  "artist": "Aretha Franklin",
+  "peak": 102,
+  "history": [
+    {
+      "date": "2008-11-29",
+      "rank": 103
+    },
+    {
+      "date": "2008-12-06",
+      "rank": 181
+    },
+    {
+      "date": "2008-12-13",
+      "rank": 173
+    },
+    {
+      "date": "2008-12-20",
+      "rank": 121
+    },
+    {
+      "date": "2008-12-27",
+      "rank": 115
+    },
+    {
+      "date": "2009-01-03",
+      "rank": 102
+    },
+    {
+      "date": "2009-01-10",
+      "rank": 132
+    },
+    {
+      "date": "2009-12-26",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Silent Night",
+      "id": "another-night-aretha-franklin"
+    },
+    {
+      "title": "14 Angels",
+      "id": "angel-aretha-franklin"
+    },
+    {
+      "title": "Angels We Have Heard on High",
+      "id": null
+    },
+    {
+      "title": "This Christmas",
+      "id": null
+    },
+    {
+      "title": "My Grown‐Up Christmas List",
+      "id": null
+    },
+    {
+      "title": "The Lord Will Make a Way",
+      "id": null
+    },
+    {
+      "title": "Ave Maria",
+      "id": null
+    },
+    {
+      "title": "Christmas Ain’t Christmas (Without the One You Love)",
+      "id": null
+    },
+    {
+      "title": "One Night With the King",
+      "id": null
+    },
+    {
+      "title": "Hark! The Herald Angels Sing",
+      "id": null
+    },
+    {
+      "title": "’Twas the Night Before Christmas",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,246 @@
-{"id": "the-very-best-of-the-doors-the-doors", "title": "The Very Best Of The Doors", "artist": "The Doors", "peak": 84, "history": [{"date": "2001-10-06", "rank": 92}, {"date": "2001-10-13", "rank": 127}, {"date": "2001-10-20", "rank": 132}, {"date": "2001-10-27", "rank": 142}, {"date": "2001-11-03", "rank": 162}, {"date": "2001-11-10", "rank": 173}, {"date": "2007-10-13", "rank": 129}, {"date": "2007-10-20", "rank": 113}, {"date": "2007-10-27", "rank": 125}, {"date": "2007-11-03", "rank": 141}, {"date": "2007-11-10", "rank": 150}, {"date": "2007-11-17", "rank": 168}, {"date": "2007-11-24", "rank": 188}, {"date": "2008-01-19", "rank": 193}, {"date": "2008-01-26", "rank": 178}, {"date": "2008-02-02", "rank": 174}, {"date": "2008-02-09", "rank": 183}, {"date": "2008-02-16", "rank": 198}, {"date": "2012-08-18", "rank": 133}, {"date": "2012-08-25", "rank": 113}, {"date": "2012-09-01", "rank": 136}, {"date": "2012-09-08", "rank": 95}, {"date": "2012-09-15", "rank": 124}, {"date": "2013-06-08", "rank": 84}, {"date": "2013-06-15", "rank": 179}]}
+{
+  "id": "the-very-best-of-the-doors-the-doors",
+  "title": "The Very Best Of The Doors",
+  "artist": "The Doors",
+  "peak": 84,
+  "history": [
+    {
+      "date": "2001-10-06",
+      "rank": 92
+    },
+    {
+      "date": "2001-10-13",
+      "rank": 127
+    },
+    {
+      "date": "2001-10-20",
+      "rank": 132
+    },
+    {
+      "date": "2001-10-27",
+      "rank": 142
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 162
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 173
+    },
+    {
+      "date": "2007-10-13",
+      "rank": 129
+    },
+    {
+      "date": "2007-10-20",
+      "rank": 113
+    },
+    {
+      "date": "2007-10-27",
+      "rank": 125
+    },
+    {
+      "date": "2007-11-03",
+      "rank": 141
+    },
+    {
+      "date": "2007-11-10",
+      "rank": 150
+    },
+    {
+      "date": "2007-11-17",
+      "rank": 168
+    },
+    {
+      "date": "2007-11-24",
+      "rank": 188
+    },
+    {
+      "date": "2008-01-19",
+      "rank": 193
+    },
+    {
+      "date": "2008-01-26",
+      "rank": 178
+    },
+    {
+      "date": "2008-02-02",
+      "rank": 174
+    },
+    {
+      "date": "2008-02-09",
+      "rank": 183
+    },
+    {
+      "date": "2008-02-16",
+      "rank": 198
+    },
+    {
+      "date": "2012-08-18",
+      "rank": 133
+    },
+    {
+      "date": "2012-08-25",
+      "rank": 113
+    },
+    {
+      "date": "2012-09-01",
+      "rank": 136
+    },
+    {
+      "date": "2012-09-08",
+      "rank": 95
+    },
+    {
+      "date": "2012-09-15",
+      "rank": 124
+    },
+    {
+      "date": "2013-06-08",
+      "rank": 84
+    },
+    {
+      "date": "2013-06-15",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Me Two Times",
+      "id": "love-me-two-times-the-doors"
+    },
+    {
+      "title": "Light My Fire",
+      "id": "light-my-fire-the-doors"
+    },
+    {
+      "title": "The Unknown Soldier",
+      "id": "the-unknown-soldier-the-doors"
+    },
+    {
+      "title": "People Are Strange",
+      "id": "people-are-strange-the-doors"
+    },
+    {
+      "title": "Love Her Madly",
+      "id": "love-her-madly-the-doors"
+    },
+    {
+      "title": "Riders on the Storm",
+      "id": "riders-on-the-storm-the-doors"
+    },
+    {
+      "title": "Runnin’ Blue",
+      "id": "runnin-blue-the-doors"
+    },
+    {
+      "title": "Hello, I Love You",
+      "id": "hello-i-love-you-the-doors"
+    },
+    {
+      "title": "Touch Me",
+      "id": "touch-me-the-doors"
+    },
+    {
+      "title": "Wishful Sinful",
+      "id": "wishful-sinful-the-doors"
+    },
+    {
+      "title": "Roadhouse Blues",
+      "id": "you-make-me-real-roadhouse-blues-the-doors"
+    },
+    {
+      "title": "Break On Through (to the Other Side)",
+      "id": null
+    },
+    {
+      "title": "Strange Days",
+      "id": null
+    },
+    {
+      "title": "Alabama Song (Whisky Bar)",
+      "id": null
+    },
+    {
+      "title": "Spanish Caravan",
+      "id": null
+    },
+    {
+      "title": "The Crystal Ship",
+      "id": null
+    },
+    {
+      "title": "The End",
+      "id": null
+    },
+    {
+      "title": "Back Door Man",
+      "id": null
+    },
+    {
+      "title": "Moonlight Drive",
+      "id": null
+    },
+    {
+      "title": "End of the Night",
+      "id": null
+    },
+    {
+      "title": "Five to One",
+      "id": null
+    },
+    {
+      "title": "When the Music’s Over",
+      "id": null
+    },
+    {
+      "title": "Bird of Prey",
+      "id": null
+    },
+    {
+      "title": "Orange County Suite",
+      "id": null
+    },
+    {
+      "title": "The WASP (Texas Radio and the Big Beat)",
+      "id": null
+    },
+    {
+      "title": "Stoned Immaculate",
+      "id": null
+    },
+    {
+      "title": "Soul Kitchen",
+      "id": null
+    },
+    {
+      "title": "Peace Frog",
+      "id": null
+    },
+    {
+      "title": "L.A. Woman",
+      "id": null
+    },
+    {
+      "title": "Waiting for the Sun",
+      "id": null
+    },
+    {
+      "title": "The Changeling",
+      "id": null
+    },
+    {
+      "title": "Love Street",
+      "id": null
+    },
+    {
+      "title": "Ghost Song",
+      "id": null
+    },
+    {
+      "title": "Whiskey, Mystics and Men",
+      "id": null
+    }
+  ]
+}

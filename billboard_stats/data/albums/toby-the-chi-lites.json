@@ -1,1 +1,70 @@
-{"id": "toby-the-chi-lites", "title": "Toby", "artist": "The Chi-lites", "peak": 181, "history": [{"date": "1974-07-13", "rank": 195}, {"date": "1974-07-20", "rank": 189}, {"date": "1974-07-27", "rank": 182}, {"date": "1974-08-03", "rank": 187}, {"date": "1974-08-10", "rank": 181}]}
+{
+  "id": "toby-the-chi-lites",
+  "title": "Toby",
+  "artist": "The Chi-lites",
+  "peak": 181,
+  "history": [
+    {
+      "date": "1974-07-13",
+      "rank": 195
+    },
+    {
+      "date": "1974-07-20",
+      "rank": 189
+    },
+    {
+      "date": "1974-07-27",
+      "rank": 182
+    },
+    {
+      "date": "1974-08-03",
+      "rank": 187
+    },
+    {
+      "date": "1974-08-10",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Got to Be the One",
+      "id": "you-got-to-be-the-one-the-chi-lites"
+    },
+    {
+      "title": "There Will Never Be Any Peace (Until God Is Seated at the Conference Table)",
+      "id": "there-will-never-be-any-peace-until-god-is-seated-at-the-conference-table-the-chi-lites"
+    },
+    {
+      "title": "That's How Long",
+      "id": "toby-that-s-how-long-the-chi-lites"
+    },
+    {
+      "title": "Toby",
+      "id": null
+    },
+    {
+      "title": "The Sound of Lonely",
+      "id": null
+    },
+    {
+      "title": "The First Time Ever I Saw Your Face",
+      "id": null
+    },
+    {
+      "title": "Happiness Is Your Middle Name",
+      "id": null
+    },
+    {
+      "title": "I Lied",
+      "id": null
+    },
+    {
+      "title": "I Like to Live the Love (That I Sing About)",
+      "id": null
+    },
+    {
+      "title": "Gettin’ on Outta Town",
+      "id": null
+    }
+  ]
+}

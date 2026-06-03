@@ -1,1 +1,66 @@
-{"id": "when-the-night-comes-lou-rawls", "title": "When The Night Comes", "artist": "Lou Rawls", "peak": 163, "history": [{"date": "1983-05-14", "rank": 174}, {"date": "1983-05-21", "rank": 168}, {"date": "1983-05-28", "rank": 168}, {"date": "1983-06-04", "rank": 163}]}
+{
+  "id": "when-the-night-comes-lou-rawls",
+  "title": "When The Night Comes",
+  "artist": "Lou Rawls",
+  "peak": 163,
+  "history": [
+    {
+      "date": "1983-05-14",
+      "rank": 174
+    },
+    {
+      "date": "1983-05-21",
+      "rank": 168
+    },
+    {
+      "date": "1983-05-28",
+      "rank": 168
+    },
+    {
+      "date": "1983-06-04",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Wind Beneath My Wings",
+      "id": "wind-beneath-my-wings-lou-rawls"
+    },
+    {
+      "title": "You Can’t Take It With You",
+      "id": "i-can-t-make-it-alone-lou-rawls"
+    },
+    {
+      "title": "Upside Down",
+      "id": null
+    },
+    {
+      "title": "If You’re Gonna Love Me",
+      "id": null
+    },
+    {
+      "title": "A Couple More Years",
+      "id": null
+    },
+    {
+      "title": "The One I Sing My Love Songs To",
+      "id": null
+    },
+    {
+      "title": "When the Night Comes",
+      "id": null
+    },
+    {
+      "title": "Midnight Sunshine",
+      "id": null
+    },
+    {
+      "title": "That’s When the Magic Begins",
+      "id": null
+    },
+    {
+      "title": "I Been Him",
+      "id": null
+    }
+  ]
+}

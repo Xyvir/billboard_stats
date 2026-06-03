@@ -1,1 +1,114 @@
-{"id": "trans-neil-young", "title": "Trans", "artist": "Neil Young", "peak": 19, "history": [{"date": "1983-01-22", "rank": 81}, {"date": "1983-01-29", "rank": 21}, {"date": "1983-02-05", "rank": 19}, {"date": "1983-02-12", "rank": 19}, {"date": "1983-02-19", "rank": 19}, {"date": "1983-02-26", "rank": 19}, {"date": "1983-03-05", "rank": 19}, {"date": "1983-03-12", "rank": 19}, {"date": "1983-03-19", "rank": 42}, {"date": "1983-03-26", "rank": 72}, {"date": "1983-04-02", "rank": 89}, {"date": "1983-04-09", "rank": 99}, {"date": "1983-04-16", "rank": 101}, {"date": "1983-04-23", "rank": 111}, {"date": "1983-04-30", "rank": 142}, {"date": "1983-05-07", "rank": 180}, {"date": "1983-05-14", "rank": 199}]}
+{
+  "id": "trans-neil-young",
+  "title": "Trans",
+  "artist": "Neil Young",
+  "peak": 19,
+  "history": [
+    {
+      "date": "1983-01-22",
+      "rank": 81
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 21
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 19
+    },
+    {
+      "date": "1983-02-12",
+      "rank": 19
+    },
+    {
+      "date": "1983-02-19",
+      "rank": 19
+    },
+    {
+      "date": "1983-02-26",
+      "rank": 19
+    },
+    {
+      "date": "1983-03-05",
+      "rank": 19
+    },
+    {
+      "date": "1983-03-12",
+      "rank": 19
+    },
+    {
+      "date": "1983-03-19",
+      "rank": 42
+    },
+    {
+      "date": "1983-03-26",
+      "rank": 72
+    },
+    {
+      "date": "1983-04-02",
+      "rank": 89
+    },
+    {
+      "date": "1983-04-09",
+      "rank": 99
+    },
+    {
+      "date": "1983-04-16",
+      "rank": 101
+    },
+    {
+      "date": "1983-04-23",
+      "rank": 111
+    },
+    {
+      "date": "1983-04-30",
+      "rank": 142
+    },
+    {
+      "date": "1983-05-07",
+      "rank": 180
+    },
+    {
+      "date": "1983-05-14",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Little Thing Called Love",
+      "id": "little-thing-called-love-neil-young"
+    },
+    {
+      "title": "Computer Age",
+      "id": null
+    },
+    {
+      "title": "We R in Control",
+      "id": null
+    },
+    {
+      "title": "Transformer Man",
+      "id": null
+    },
+    {
+      "title": "Computer Cowboy (a.k.a. Syscrusher)",
+      "id": null
+    },
+    {
+      "title": "Hold on to Your Love",
+      "id": null
+    },
+    {
+      "title": "Sample and Hold",
+      "id": null
+    },
+    {
+      "title": "Mr. Soul",
+      "id": null
+    },
+    {
+      "title": "Like an Inca",
+      "id": null
+    }
+  ]
+}

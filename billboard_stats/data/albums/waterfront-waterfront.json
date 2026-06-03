@@ -1,1 +1,106 @@
-{"id": "waterfront-waterfront", "title": "Waterfront", "artist": "Waterfront", "peak": 103, "history": [{"date": "1989-05-20", "rank": 162}, {"date": "1989-05-27", "rank": 160}, {"date": "1989-06-03", "rank": 145}, {"date": "1989-06-10", "rank": 116}, {"date": "1989-06-17", "rank": 105}, {"date": "1989-06-24", "rank": 105}, {"date": "1989-07-01", "rank": 103}, {"date": "1989-07-08", "rank": 123}, {"date": "1989-07-15", "rank": 130}, {"date": "1989-07-22", "rank": 155}, {"date": "1989-07-29", "rank": 174}, {"date": "1989-08-05", "rank": 179}, {"date": "1989-08-12", "rank": 195}]}
+{
+  "id": "waterfront-waterfront",
+  "title": "Waterfront",
+  "artist": "Waterfront",
+  "peak": 103,
+  "history": [
+    {
+      "date": "1989-05-20",
+      "rank": 162
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 160
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 145
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 116
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 105
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 105
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 103
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 123
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 130
+    },
+    {
+      "date": "1989-07-22",
+      "rank": 155
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 174
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 179
+    },
+    {
+      "date": "1989-08-12",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cry",
+      "id": "cry-waterfront"
+    },
+    {
+      "title": "Nature of Love",
+      "id": "nature-of-love-waterfront"
+    },
+    {
+      "title": "Tightrope",
+      "id": null
+    },
+    {
+      "title": "Platinum Halo",
+      "id": null
+    },
+    {
+      "title": "Move On",
+      "id": null
+    },
+    {
+      "title": "Dancing With Strangers",
+      "id": null
+    },
+    {
+      "title": "Set You Free",
+      "id": null
+    },
+    {
+      "title": "Broken Arrow",
+      "id": null
+    },
+    {
+      "title": "Soul Survivor",
+      "id": null
+    },
+    {
+      "title": "Waterfront",
+      "id": null
+    },
+    {
+      "title": "Saved",
+      "id": null
+    }
+  ]
+}

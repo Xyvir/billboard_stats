@@ -1,1 +1,62 @@
-{"id": "vinyl-william-michael-morgan", "title": "Vinyl", "artist": "William Michael Morgan", "peak": 65, "history": [{"date": "2016-10-22", "rank": 65}, {"date": "2016-10-29", "rank": 157}]}
+{
+  "id": "vinyl-william-michael-morgan",
+  "title": "Vinyl",
+  "artist": "William Michael Morgan",
+  "peak": 65,
+  "history": [
+    {
+      "date": "2016-10-22",
+      "rank": 65
+    },
+    {
+      "date": "2016-10-29",
+      "rank": 157
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Met a Girl",
+      "id": "i-met-a-girl-william-michael-morgan"
+    },
+    {
+      "title": "People Like Me",
+      "id": null
+    },
+    {
+      "title": "Vinyl",
+      "id": null
+    },
+    {
+      "title": "Missing",
+      "id": null
+    },
+    {
+      "title": "Spend It All on You",
+      "id": null
+    },
+    {
+      "title": "Beer Drinker",
+      "id": null
+    },
+    {
+      "title": "I Know Who He Is",
+      "id": null
+    },
+    {
+      "title": "Cheap Cologne",
+      "id": null
+    },
+    {
+      "title": "Somethin’ to Drink About",
+      "id": null
+    },
+    {
+      "title": "Lonesomeville",
+      "id": null
+    },
+    {
+      "title": "Back Seat Driver",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "three-times-in-love-tommy-james", "title": "Three Times In Love", "artist": "Tommy James", "peak": 134, "history": [{"date": "1980-03-22", "rank": 166}, {"date": "1980-03-29", "rank": 156}, {"date": "1980-04-05", "rank": 139}, {"date": "1980-04-12", "rank": 137}, {"date": "1980-04-19", "rank": 134}, {"date": "1980-04-26", "rank": 142}, {"date": "1980-05-03", "rank": 183}]}
+{
+  "id": "three-times-in-love-tommy-james",
+  "title": "Three Times In Love",
+  "artist": "Tommy James",
+  "peak": 134,
+  "history": [
+    {
+      "date": "1980-03-22",
+      "rank": 166
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 156
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 139
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 137
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 134
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 142
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Three Times in Love",
+      "id": "three-times-in-love-tommy-james"
+    },
+    {
+      "title": "You're So Easy to Love",
+      "id": "you-re-so-easy-to-love-tommy-james"
+    },
+    {
+      "title": "Long Way Down",
+      "id": null
+    },
+    {
+      "title": "You Got Me",
+      "id": null
+    },
+    {
+      "title": "Lady in White",
+      "id": null
+    },
+    {
+      "title": "Everything I Am",
+      "id": null
+    },
+    {
+      "title": "I Just Wanna Play the Music",
+      "id": null
+    },
+    {
+      "title": "It's Magic",
+      "id": null
+    }
+  ]
+}

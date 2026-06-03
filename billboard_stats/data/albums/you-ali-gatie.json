@@ -1,1 +1,50 @@
-{"id": "you-ali-gatie", "title": "YOU", "artist": "Ali Gatie", "peak": 123, "history": [{"date": "2019-11-23", "rank": 123}]}
+{
+  "id": "you-ali-gatie",
+  "title": "YOU",
+  "artist": "Ali Gatie",
+  "peak": 123,
+  "history": [
+    {
+      "date": "2019-11-23",
+      "rank": 123
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s You",
+      "id": "it-s-you-ali-gatie"
+    },
+    {
+      "title": "Moonlight",
+      "id": null
+    },
+    {
+      "title": "Used to You",
+      "id": null
+    },
+    {
+      "title": "Say to You",
+      "id": null
+    },
+    {
+      "title": "Love You Like That",
+      "id": null
+    },
+    {
+      "title": "Sunshine",
+      "id": null
+    },
+    {
+      "title": "How Things Used to Be",
+      "id": null
+    },
+    {
+      "title": "Holding On",
+      "id": null
+    },
+    {
+      "title": "Lost My Lover",
+      "id": null
+    }
+  ]
+}

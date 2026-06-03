@@ -1,1 +1,70 @@
-{"id": "wild-orchid-wild-orchid", "title": "Wild Orchid", "artist": "Wild Orchid", "peak": 153, "history": [{"date": "1997-04-12", "rank": 169}, {"date": "1997-04-19", "rank": 153}, {"date": "1997-04-26", "rank": 168}, {"date": "1997-05-03", "rank": 195}]}
+{
+  "id": "wild-orchid-wild-orchid",
+  "title": "Wild Orchid",
+  "artist": "Wild Orchid",
+  "peak": 153,
+  "history": [
+    {
+      "date": "1997-04-12",
+      "rank": 169
+    },
+    {
+      "date": "1997-04-19",
+      "rank": 153
+    },
+    {
+      "date": "1997-04-26",
+      "rank": 168
+    },
+    {
+      "date": "1997-05-03",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "At Night I Pray",
+      "id": "at-night-i-pray-wild-orchid"
+    },
+    {
+      "title": "Supernatural",
+      "id": "supernatural-wild-orchid"
+    },
+    {
+      "title": "Talk to Me",
+      "id": "talk-to-me-wild-orchid"
+    },
+    {
+      "title": "I Won’t Play the Fool",
+      "id": null
+    },
+    {
+      "title": "The River",
+      "id": null
+    },
+    {
+      "title": "You Don’t Own Me",
+      "id": null
+    },
+    {
+      "title": "My Tambourine",
+      "id": null
+    },
+    {
+      "title": "Follow Me",
+      "id": null
+    },
+    {
+      "title": "He’s Alright",
+      "id": null
+    },
+    {
+      "title": "Love Will Wait",
+      "id": null
+    },
+    {
+      "title": "Life",
+      "id": null
+    }
+  ]
+}

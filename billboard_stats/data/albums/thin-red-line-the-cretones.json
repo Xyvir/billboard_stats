@@ -1,1 +1,90 @@
-{"id": "thin-red-line-the-cretones", "title": "Thin Red Line", "artist": "The Cretones", "peak": 125, "history": [{"date": "1980-03-29", "rank": 188}, {"date": "1980-04-05", "rank": 158}, {"date": "1980-04-12", "rank": 148}, {"date": "1980-04-19", "rank": 138}, {"date": "1980-04-26", "rank": 128}, {"date": "1980-05-03", "rank": 128}, {"date": "1980-05-10", "rank": 125}, {"date": "1980-05-17", "rank": 150}, {"date": "1980-05-24", "rank": 148}, {"date": "1980-05-31", "rank": 167}]}
+{
+  "id": "thin-red-line-the-cretones",
+  "title": "Thin Red Line",
+  "artist": "The Cretones",
+  "peak": 125,
+  "history": [
+    {
+      "date": "1980-03-29",
+      "rank": 188
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 158
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 148
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 138
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 128
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 128
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 125
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 150
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 148
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Real Love",
+      "id": "real-love-the-cretones"
+    },
+    {
+      "title": "Mad Love",
+      "id": "real-love-the-cretones"
+    },
+    {
+      "title": "Everybody's Mad at Katherine",
+      "id": null
+    },
+    {
+      "title": "I Can't Wait",
+      "id": null
+    },
+    {
+      "title": "Justine",
+      "id": null
+    },
+    {
+      "title": "Cost of Love",
+      "id": null
+    },
+    {
+      "title": "Thin Red Line",
+      "id": null
+    },
+    {
+      "title": "Ways of the Heart",
+      "id": null
+    },
+    {
+      "title": "Mrs Peel",
+      "id": null
+    },
+    {
+      "title": "Here Comes the Wave",
+      "id": null
+    }
+  ]
+}

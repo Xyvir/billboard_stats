@@ -1,1 +1,66 @@
-{"id": "this-time-los-lobos", "title": "This Time", "artist": "Los Lobos", "peak": 135, "history": [{"date": "1999-08-07", "rank": 135}, {"date": "1999-08-14", "rank": 167}, {"date": "1999-08-21", "rank": 188}]}
+{
+  "id": "this-time-los-lobos",
+  "title": "This Time",
+  "artist": "Los Lobos",
+  "peak": 135,
+  "history": [
+    {
+      "date": "1999-08-07",
+      "rank": 135
+    },
+    {
+      "date": "1999-08-14",
+      "rank": 167
+    },
+    {
+      "date": "1999-08-21",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "La Playa",
+      "id": "la-bamba-los-lobos"
+    },
+    {
+      "title": "This Time",
+      "id": null
+    },
+    {
+      "title": "Oh Yeah",
+      "id": null
+    },
+    {
+      "title": "Viking",
+      "id": null
+    },
+    {
+      "title": "High Places",
+      "id": null
+    },
+    {
+      "title": "Cumbia Raza",
+      "id": null
+    },
+    {
+      "title": "Run Away With You",
+      "id": null
+    },
+    {
+      "title": "Corazón",
+      "id": null
+    },
+    {
+      "title": "Some Say, Some Do",
+      "id": null
+    },
+    {
+      "title": "Turn Around",
+      "id": null
+    },
+    {
+      "title": "Why We Wish",
+      "id": null
+    }
+  ]
+}

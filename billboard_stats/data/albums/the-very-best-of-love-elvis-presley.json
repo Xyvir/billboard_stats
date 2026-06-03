@@ -1,1 +1,70 @@
-{"id": "the-very-best-of-love-elvis-presley", "title": "The Very Best Of Love", "artist": "Elvis Presley", "peak": 181, "history": [{"date": "2008-02-16", "rank": 191}, {"date": "2008-02-23", "rank": 181}, {"date": "2008-03-01", "rank": 186}]}
+{
+  "id": "the-very-best-of-love-elvis-presley",
+  "title": "The Very Best Of Love",
+  "artist": "Elvis Presley",
+  "peak": 181,
+  "history": [
+    {
+      "date": "2008-02-16",
+      "rank": 191
+    },
+    {
+      "date": "2008-02-23",
+      "rank": 181
+    },
+    {
+      "date": "2008-03-01",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Me Tender",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "Suspicious Minds",
+      "id": "suspicious-minds-elvis-presley"
+    },
+    {
+      "title": "Burning Love",
+      "id": "burning-love-elvis-presley"
+    },
+    {
+      "title": "You Don’t Have to Say You Love Me",
+      "id": "you-don-t-have-to-say-you-love-me-patch-it-up-elvis-presley"
+    },
+    {
+      "title": "I’m Yours",
+      "id": "i-m-yours-elvis-presley"
+    },
+    {
+      "title": "(Let Me Be Your) Teddy Bear",
+      "id": null
+    },
+    {
+      "title": "Are You Lonesome Tonight?",
+      "id": null
+    },
+    {
+      "title": "It’s Now or Never",
+      "id": null
+    },
+    {
+      "title": "Don’t",
+      "id": null
+    },
+    {
+      "title": "Can’t Help Falling in Love",
+      "id": null
+    },
+    {
+      "title": "It Hurts Me",
+      "id": null
+    },
+    {
+      "title": "Young and Beautiful",
+      "id": null
+    }
+  ]
+}

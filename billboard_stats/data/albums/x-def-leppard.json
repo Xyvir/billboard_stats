@@ -1,1 +1,102 @@
-{"id": "x-def-leppard", "title": "X", "artist": "Def Leppard", "peak": 11, "history": [{"date": "2002-08-17", "rank": 11}, {"date": "2002-08-24", "rank": 36}, {"date": "2002-08-31", "rank": 73}, {"date": "2002-09-07", "rank": 88}, {"date": "2002-09-14", "rank": 122}, {"date": "2002-09-21", "rank": 129}, {"date": "2002-09-28", "rank": 147}, {"date": "2002-10-05", "rank": 167}]}
+{
+  "id": "x-def-leppard",
+  "title": "X",
+  "artist": "Def Leppard",
+  "peak": 11,
+  "history": [
+    {
+      "date": "2002-08-17",
+      "rank": 11
+    },
+    {
+      "date": "2002-08-24",
+      "rank": 36
+    },
+    {
+      "date": "2002-08-31",
+      "rank": 73
+    },
+    {
+      "date": "2002-09-07",
+      "rank": 88
+    },
+    {
+      "date": "2002-09-14",
+      "rank": 122
+    },
+    {
+      "date": "2002-09-21",
+      "rank": 129
+    },
+    {
+      "date": "2002-09-28",
+      "rank": 147
+    },
+    {
+      "date": "2002-10-05",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let Me Be the One",
+      "id": "let-s-get-rocked-def-leppard"
+    },
+    {
+      "title": "Now",
+      "id": null
+    },
+    {
+      "title": "Unbelievable",
+      "id": null
+    },
+    {
+      "title": "You’re So Beautiful",
+      "id": null
+    },
+    {
+      "title": "Everyday",
+      "id": null
+    },
+    {
+      "title": "Long Long Way to Go",
+      "id": null
+    },
+    {
+      "title": "Four Letter Word",
+      "id": null
+    },
+    {
+      "title": "Torn to Shreds",
+      "id": null
+    },
+    {
+      "title": "Love Don’t Lie",
+      "id": null
+    },
+    {
+      "title": "Gravity",
+      "id": null
+    },
+    {
+      "title": "Cry",
+      "id": null
+    },
+    {
+      "title": "Girl Like You",
+      "id": null
+    },
+    {
+      "title": "Scar",
+      "id": null
+    },
+    {
+      "title": "Kiss the Day",
+      "id": null
+    },
+    {
+      "title": "Long Long Way to Go (acoustic)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"id": "the-troublemaker-willie-nelson", "title": "The Troublemaker", "artist": "Willie Nelson", "peak": 60, "history": [{"date": "1976-10-16", "rank": 91}, {"date": "1976-10-23", "rank": 78}, {"date": "1976-10-30", "rank": 67}, {"date": "1976-11-06", "rank": 62}, {"date": "1976-11-13", "rank": 60}, {"date": "1976-11-20", "rank": 66}, {"date": "1976-11-27", "rank": 172}]}
+{
+  "id": "the-troublemaker-willie-nelson",
+  "title": "The Troublemaker",
+  "artist": "Willie Nelson",
+  "peak": 60,
+  "history": [
+    {
+      "date": "1976-10-16",
+      "rank": 91
+    },
+    {
+      "date": "1976-10-23",
+      "rank": 78
+    },
+    {
+      "date": "1976-10-30",
+      "rank": 67
+    },
+    {
+      "date": "1976-11-06",
+      "rank": 62
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 60
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 66
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "In the Garden",
+      "id": "on-the-road-again-willie-nelson"
+    },
+    {
+      "title": "Uncloudy Day",
+      "id": null
+    },
+    {
+      "title": "When the Roll Is Called Up Yonder",
+      "id": null
+    },
+    {
+      "title": "Whispering Hope",
+      "id": null
+    },
+    {
+      "title": "There Is a Fountain",
+      "id": null
+    },
+    {
+      "title": "Will the Circle Be Unbroken",
+      "id": null
+    },
+    {
+      "title": "The Troublemaker",
+      "id": null
+    },
+    {
+      "title": "Where the Soul Never Dies",
+      "id": null
+    },
+    {
+      "title": "Sweet Bye and Bye",
+      "id": null
+    },
+    {
+      "title": "Shall We Gather",
+      "id": null
+    },
+    {
+      "title": "Precious Memories",
+      "id": null
+    }
+  ]
+}

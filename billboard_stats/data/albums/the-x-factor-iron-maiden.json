@@ -1,1 +1,66 @@
-{"id": "the-x-factor-iron-maiden", "title": "The X Factor", "artist": "Iron Maiden", "peak": 147, "history": [{"date": "1995-10-28", "rank": 183}, {"date": "1995-11-04", "rank": 147}, {"date": "1995-11-11", "rank": 178}]}
+{
+  "id": "the-x-factor-iron-maiden",
+  "title": "The X Factor",
+  "artist": "Iron Maiden",
+  "peak": 147,
+  "history": [
+    {
+      "date": "1995-10-28",
+      "rank": 183
+    },
+    {
+      "date": "1995-11-04",
+      "rank": 147
+    },
+    {
+      "date": "1995-11-11",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sign of the Cross",
+      "id": null
+    },
+    {
+      "title": "Lord of the Flies",
+      "id": null
+    },
+    {
+      "title": "Man on the Edge",
+      "id": null
+    },
+    {
+      "title": "Fortunes of War",
+      "id": null
+    },
+    {
+      "title": "Look for the Truth",
+      "id": null
+    },
+    {
+      "title": "The Aftermath",
+      "id": null
+    },
+    {
+      "title": "Judgement of Heaven",
+      "id": null
+    },
+    {
+      "title": "Blood on the World’s Hands",
+      "id": null
+    },
+    {
+      "title": "The Edge of Darkness",
+      "id": null
+    },
+    {
+      "title": "2 A.M.",
+      "id": null
+    },
+    {
+      "title": "The Unbeliever",
+      "id": null
+    }
+  ]
+}

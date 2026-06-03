@@ -1,1 +1,214 @@
-{"id": "this-is-the-moody-blues-the-moody-blues", "title": "This Is The Moody Blues", "artist": "The Moody Blues", "peak": 11, "history": [{"date": "1974-11-23", "rank": 79}, {"date": "1974-11-30", "rank": 43}, {"date": "1974-12-07", "rank": 23}, {"date": "1974-12-14", "rank": 17}, {"date": "1974-12-21", "rank": 12}, {"date": "1974-12-28", "rank": 12}, {"date": "1975-01-04", "rank": 11}, {"date": "1975-01-11", "rank": 19}, {"date": "1975-01-18", "rank": 17}, {"date": "1975-01-25", "rank": 23}, {"date": "1975-02-01", "rank": 34}, {"date": "1975-02-08", "rank": 49}, {"date": "1975-02-15", "rank": 56}, {"date": "1975-02-22", "rank": 73}, {"date": "1975-03-01", "rank": 78}, {"date": "1975-03-08", "rank": 83}, {"date": "1975-03-15", "rank": 94}, {"date": "1975-03-22", "rank": 121}, {"date": "1975-03-29", "rank": 155}, {"date": "1975-04-05", "rank": 172}, {"date": "1975-04-12", "rank": 181}, {"date": "1975-04-19", "rank": 183}, {"date": "1975-04-26", "rank": 192}, {"date": "1975-05-03", "rank": 196}, {"date": "1975-05-10", "rank": 196}]}
+{
+  "id": "this-is-the-moody-blues-the-moody-blues",
+  "title": "This Is The Moody Blues",
+  "artist": "The Moody Blues",
+  "peak": 11,
+  "history": [
+    {
+      "date": "1974-11-23",
+      "rank": 79
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 43
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 23
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 17
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 12
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 12
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 11
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 19
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 17
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 23
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 34
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 49
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 56
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 73
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 78
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 83
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 94
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 121
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 155
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 172
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 181
+    },
+    {
+      "date": "1975-04-19",
+      "rank": 183
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 192
+    },
+    {
+      "date": "1975-05-03",
+      "rank": 196
+    },
+    {
+      "date": "1975-05-10",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Question",
+      "id": "question-the-moody-blues"
+    },
+    {
+      "title": "The Word",
+      "id": "blue-world-the-moody-blues"
+    },
+    {
+      "title": "Never Comes the Day",
+      "id": "never-comes-the-day-the-moody-blues"
+    },
+    {
+      "title": "Isn’t Life Strange",
+      "id": "isn-t-life-strange-the-moody-blues"
+    },
+    {
+      "title": "The Dream",
+      "id": "gemini-dream-the-moody-blues"
+    },
+    {
+      "title": "The Voyage",
+      "id": "the-voice-the-moody-blues"
+    },
+    {
+      "title": "Ride My See‐Saw",
+      "id": "ride-my-see-saw-the-moody-blues"
+    },
+    {
+      "title": "Tuesday Afternoon",
+      "id": "tuesday-afternoon-forever-afternoon-the-moody-blues"
+    },
+    {
+      "title": "I’m Just a Singer (in a Rock and Roll Band)",
+      "id": "i-m-just-a-singer-in-a-rock-and-roll-band-the-moody-blues"
+    },
+    {
+      "title": "The Story in Your Eyes",
+      "id": "the-story-in-your-eyes-the-moody-blues"
+    },
+    {
+      "title": "Nights in White Satin",
+      "id": "nights-in-white-satin-the-moody-blues"
+    },
+    {
+      "title": "The Actor",
+      "id": null
+    },
+    {
+      "title": "Eyes of a Child",
+      "id": null
+    },
+    {
+      "title": "Dear Diary",
+      "id": null
+    },
+    {
+      "title": "Legend of a Mind",
+      "id": null
+    },
+    {
+      "title": "In the Beginning",
+      "id": null
+    },
+    {
+      "title": "Lovely to See You",
+      "id": null
+    },
+    {
+      "title": "Have You Heard, Part One",
+      "id": null
+    },
+    {
+      "title": "Have You Heard, Part Two",
+      "id": null
+    },
+    {
+      "title": "And the Tide Rushes In",
+      "id": null
+    },
+    {
+      "title": "New Horizons",
+      "id": null
+    },
+    {
+      "title": "A Simple Game",
+      "id": null
+    },
+    {
+      "title": "Watching and Waiting",
+      "id": null
+    },
+    {
+      "title": "For My Lady",
+      "id": null
+    },
+    {
+      "title": "Melancholy Man",
+      "id": null
+    },
+    {
+      "title": "Late Lament",
+      "id": null
+    }
+  ]
+}

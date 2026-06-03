@@ -1,1 +1,118 @@
-{"id": "wa-wa-nee-wa-wa-nee", "title": "Wa Wa Nee", "artist": "Wa Wa Nee", "peak": 123, "history": [{"date": "1987-11-07", "rank": 188}, {"date": "1987-11-14", "rank": 152}, {"date": "1987-11-21", "rank": 145}, {"date": "1987-11-28", "rank": 139}, {"date": "1987-12-05", "rank": 135}, {"date": "1987-12-12", "rank": 126}, {"date": "1987-12-19", "rank": 123}, {"date": "1987-12-26", "rank": 132}, {"date": "1988-01-02", "rank": 132}, {"date": "1988-01-09", "rank": 136}, {"date": "1988-01-16", "rank": 157}, {"date": "1988-01-23", "rank": 148}, {"date": "1988-01-30", "rank": 144}, {"date": "1988-02-06", "rank": 140}, {"date": "1988-02-13", "rank": 148}, {"date": "1988-02-20", "rank": 168}, {"date": "1988-02-27", "rank": 173}]}
+{
+  "id": "wa-wa-nee-wa-wa-nee",
+  "title": "Wa Wa Nee",
+  "artist": "Wa Wa Nee",
+  "peak": 123,
+  "history": [
+    {
+      "date": "1987-11-07",
+      "rank": 188
+    },
+    {
+      "date": "1987-11-14",
+      "rank": 152
+    },
+    {
+      "date": "1987-11-21",
+      "rank": 145
+    },
+    {
+      "date": "1987-11-28",
+      "rank": 139
+    },
+    {
+      "date": "1987-12-05",
+      "rank": 135
+    },
+    {
+      "date": "1987-12-12",
+      "rank": 126
+    },
+    {
+      "date": "1987-12-19",
+      "rank": 123
+    },
+    {
+      "date": "1987-12-26",
+      "rank": 132
+    },
+    {
+      "date": "1988-01-02",
+      "rank": 132
+    },
+    {
+      "date": "1988-01-09",
+      "rank": 136
+    },
+    {
+      "date": "1988-01-16",
+      "rank": 157
+    },
+    {
+      "date": "1988-01-23",
+      "rank": 148
+    },
+    {
+      "date": "1988-01-30",
+      "rank": 144
+    },
+    {
+      "date": "1988-02-06",
+      "rank": 140
+    },
+    {
+      "date": "1988-02-13",
+      "rank": 148
+    },
+    {
+      "date": "1988-02-20",
+      "rank": 168
+    },
+    {
+      "date": "1988-02-27",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stimulation",
+      "id": "stimulation-wa-wa-nee"
+    },
+    {
+      "title": "Sugar Free",
+      "id": "sugar-free-wa-wa-nee"
+    },
+    {
+      "title": "One & One (Ain’t I Good Enough)",
+      "id": null
+    },
+    {
+      "title": "Teacher",
+      "id": null
+    },
+    {
+      "title": "Jelly Baby",
+      "id": null
+    },
+    {
+      "title": "Gone",
+      "id": null
+    },
+    {
+      "title": "When the World Is a Home",
+      "id": null
+    },
+    {
+      "title": "Manchild",
+      "id": null
+    },
+    {
+      "title": "Love Reaction",
+      "id": null
+    },
+    {
+      "title": "I Could Make You Love Me",
+      "id": null
+    }
+  ]
+}

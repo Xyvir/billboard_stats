@@ -1,1 +1,62 @@
-{"id": "uncovered-elvis-presley", "title": "Uncovered", "artist": "Elvis Presley", "peak": 192, "history": [{"date": "2013-06-08", "rank": 192}]}
+{
+  "id": "uncovered-elvis-presley",
+  "title": "Uncovered",
+  "artist": "Elvis Presley",
+  "peak": 192,
+  "history": [
+    {
+      "date": "2013-06-08",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Don’t Have to Say You Love Me",
+      "id": "you-don-t-have-to-say-you-love-me-patch-it-up-elvis-presley"
+    },
+    {
+      "title": "Steamroller Blues",
+      "id": "steamroller-blues-fool-elvis-presley"
+    },
+    {
+      "title": "My Way",
+      "id": "my-way-elvis-presley"
+    },
+    {
+      "title": "Proud Mary",
+      "id": null
+    },
+    {
+      "title": "Something",
+      "id": null
+    },
+    {
+      "title": "You’ve Lost That Lovin’ Feeling",
+      "id": null
+    },
+    {
+      "title": "Sweet Caroline",
+      "id": null
+    },
+    {
+      "title": "Words",
+      "id": null
+    },
+    {
+      "title": "Bridge Over Troubled Water",
+      "id": null
+    },
+    {
+      "title": "Hey Jude",
+      "id": null
+    },
+    {
+      "title": "Make the World Go Away",
+      "id": null
+    },
+    {
+      "title": "Unchained Melody",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"id": "wheels-of-fire-cream", "title": "Wheels Of Fire", "artist": "Cream", "peak": 197, "history": [{"date": "1977-02-19", "rank": 198}, {"date": "1977-02-26", "rank": 198}, {"date": "1977-03-05", "rank": 197}, {"date": "1977-03-12", "rank": 197}]}
+{
+  "id": "wheels-of-fire-cream",
+  "title": "Wheels Of Fire",
+  "artist": "Cream",
+  "peak": 197,
+  "history": [
+    {
+      "date": "1977-02-19",
+      "rank": 198
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 198
+    },
+    {
+      "date": "1977-03-05",
+      "rank": 197
+    },
+    {
+      "date": "1977-03-12",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "White Room",
+      "id": "white-room-cream"
+    },
+    {
+      "title": "Crossroads",
+      "id": "crossroads-cream"
+    },
+    {
+      "title": "Sitting on Top of the World",
+      "id": null
+    },
+    {
+      "title": "Passing the Time",
+      "id": null
+    },
+    {
+      "title": "As You Said",
+      "id": null
+    },
+    {
+      "title": "Pressed Rat and Warthog",
+      "id": null
+    },
+    {
+      "title": "Politician",
+      "id": null
+    },
+    {
+      "title": "Those Were the Days",
+      "id": null
+    },
+    {
+      "title": "Born Under a Bad Sign",
+      "id": null
+    },
+    {
+      "title": "Deserted Cities of the Heart",
+      "id": null
+    },
+    {
+      "title": "Spoonful",
+      "id": null
+    },
+    {
+      "title": "Traintime",
+      "id": null
+    },
+    {
+      "title": "Toad",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,314 @@
-{"id": "twelve-carat-toothache-post-malone", "title": "Twelve Carat Toothache", "artist": "Post Malone", "peak": 2, "history": [{"date": "2022-06-18", "rank": 2}, {"date": "2022-06-25", "rank": 4}, {"date": "2022-07-02", "rank": 7}, {"date": "2022-07-09", "rank": 12}, {"date": "2022-07-16", "rank": 10}, {"date": "2022-07-23", "rank": 11}, {"date": "2022-07-30", "rank": 14}, {"date": "2022-08-06", "rank": 12}, {"date": "2022-08-13", "rank": 15}, {"date": "2022-08-20", "rank": 13}, {"date": "2022-08-27", "rank": 17}, {"date": "2022-09-03", "rank": 22}, {"date": "2022-09-10", "rank": 25}, {"date": "2022-09-17", "rank": 23}, {"date": "2022-09-24", "rank": 23}, {"date": "2022-10-01", "rank": 27}, {"date": "2022-10-08", "rank": 22}, {"date": "2022-10-15", "rank": 22}, {"date": "2022-10-22", "rank": 23}, {"date": "2022-10-29", "rank": 26}, {"date": "2022-11-05", "rank": 32}, {"date": "2022-11-12", "rank": 38}, {"date": "2022-11-19", "rank": 43}, {"date": "2022-11-26", "rank": 56}, {"date": "2022-12-03", "rank": 79}, {"date": "2022-12-10", "rank": 91}, {"date": "2022-12-17", "rank": 94}, {"date": "2022-12-24", "rank": 112}, {"date": "2022-12-31", "rank": 143}, {"date": "2023-01-07", "rank": 141}, {"date": "2023-01-14", "rank": 81}, {"date": "2023-01-21", "rank": 90}, {"date": "2023-01-28", "rank": 95}, {"date": "2023-02-04", "rank": 104}, {"date": "2023-02-11", "rank": 118}, {"date": "2023-02-18", "rank": 99}, {"date": "2023-02-25", "rank": 46}, {"date": "2023-03-04", "rank": 85}, {"date": "2023-03-11", "rank": 105}, {"date": "2023-03-18", "rank": 115}, {"date": "2023-03-25", "rank": 122}, {"date": "2023-04-01", "rank": 141}, {"date": "2023-04-08", "rank": 153}, {"date": "2023-04-15", "rank": 150}, {"date": "2023-04-22", "rank": 153}, {"date": "2023-04-29", "rank": 133}, {"date": "2023-05-06", "rank": 147}, {"date": "2023-05-13", "rank": 161}, {"date": "2023-05-20", "rank": 157}, {"date": "2023-05-27", "rank": 153}, {"date": "2023-06-03", "rank": 142}, {"date": "2023-06-10", "rank": 154}, {"date": "2023-06-17", "rank": 176}, {"date": "2023-06-24", "rank": 175}, {"date": "2023-07-01", "rank": 187}, {"date": "2023-07-08", "rank": 187}, {"date": "2023-07-15", "rank": 190}, {"date": "2023-07-22", "rank": 173}, {"date": "2023-07-29", "rank": 153}, {"date": "2023-08-05", "rank": 154}, {"date": "2023-08-12", "rank": 169}, {"date": "2023-08-26", "rank": 195}]}
+{
+  "id": "twelve-carat-toothache-post-malone",
+  "title": "Twelve Carat Toothache",
+  "artist": "Post Malone",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2022-06-18",
+      "rank": 2
+    },
+    {
+      "date": "2022-06-25",
+      "rank": 4
+    },
+    {
+      "date": "2022-07-02",
+      "rank": 7
+    },
+    {
+      "date": "2022-07-09",
+      "rank": 12
+    },
+    {
+      "date": "2022-07-16",
+      "rank": 10
+    },
+    {
+      "date": "2022-07-23",
+      "rank": 11
+    },
+    {
+      "date": "2022-07-30",
+      "rank": 14
+    },
+    {
+      "date": "2022-08-06",
+      "rank": 12
+    },
+    {
+      "date": "2022-08-13",
+      "rank": 15
+    },
+    {
+      "date": "2022-08-20",
+      "rank": 13
+    },
+    {
+      "date": "2022-08-27",
+      "rank": 17
+    },
+    {
+      "date": "2022-09-03",
+      "rank": 22
+    },
+    {
+      "date": "2022-09-10",
+      "rank": 25
+    },
+    {
+      "date": "2022-09-17",
+      "rank": 23
+    },
+    {
+      "date": "2022-09-24",
+      "rank": 23
+    },
+    {
+      "date": "2022-10-01",
+      "rank": 27
+    },
+    {
+      "date": "2022-10-08",
+      "rank": 22
+    },
+    {
+      "date": "2022-10-15",
+      "rank": 22
+    },
+    {
+      "date": "2022-10-22",
+      "rank": 23
+    },
+    {
+      "date": "2022-10-29",
+      "rank": 26
+    },
+    {
+      "date": "2022-11-05",
+      "rank": 32
+    },
+    {
+      "date": "2022-11-12",
+      "rank": 38
+    },
+    {
+      "date": "2022-11-19",
+      "rank": 43
+    },
+    {
+      "date": "2022-11-26",
+      "rank": 56
+    },
+    {
+      "date": "2022-12-03",
+      "rank": 79
+    },
+    {
+      "date": "2022-12-10",
+      "rank": 91
+    },
+    {
+      "date": "2022-12-17",
+      "rank": 94
+    },
+    {
+      "date": "2022-12-24",
+      "rank": 112
+    },
+    {
+      "date": "2022-12-31",
+      "rank": 143
+    },
+    {
+      "date": "2023-01-07",
+      "rank": 141
+    },
+    {
+      "date": "2023-01-14",
+      "rank": 81
+    },
+    {
+      "date": "2023-01-21",
+      "rank": 90
+    },
+    {
+      "date": "2023-01-28",
+      "rank": 95
+    },
+    {
+      "date": "2023-02-04",
+      "rank": 104
+    },
+    {
+      "date": "2023-02-11",
+      "rank": 118
+    },
+    {
+      "date": "2023-02-18",
+      "rank": 99
+    },
+    {
+      "date": "2023-02-25",
+      "rank": 46
+    },
+    {
+      "date": "2023-03-04",
+      "rank": 85
+    },
+    {
+      "date": "2023-03-11",
+      "rank": 105
+    },
+    {
+      "date": "2023-03-18",
+      "rank": 115
+    },
+    {
+      "date": "2023-03-25",
+      "rank": 122
+    },
+    {
+      "date": "2023-04-01",
+      "rank": 141
+    },
+    {
+      "date": "2023-04-08",
+      "rank": 153
+    },
+    {
+      "date": "2023-04-15",
+      "rank": 150
+    },
+    {
+      "date": "2023-04-22",
+      "rank": 153
+    },
+    {
+      "date": "2023-04-29",
+      "rank": 133
+    },
+    {
+      "date": "2023-05-06",
+      "rank": 147
+    },
+    {
+      "date": "2023-05-13",
+      "rank": 161
+    },
+    {
+      "date": "2023-05-20",
+      "rank": 157
+    },
+    {
+      "date": "2023-05-27",
+      "rank": 153
+    },
+    {
+      "date": "2023-06-03",
+      "rank": 142
+    },
+    {
+      "date": "2023-06-10",
+      "rank": 154
+    },
+    {
+      "date": "2023-06-17",
+      "rank": 176
+    },
+    {
+      "date": "2023-06-24",
+      "rank": 175
+    },
+    {
+      "date": "2023-07-01",
+      "rank": 187
+    },
+    {
+      "date": "2023-07-08",
+      "rank": 187
+    },
+    {
+      "date": "2023-07-15",
+      "rank": 190
+    },
+    {
+      "date": "2023-07-22",
+      "rank": 173
+    },
+    {
+      "date": "2023-07-29",
+      "rank": 153
+    },
+    {
+      "date": "2023-08-05",
+      "rank": 154
+    },
+    {
+      "date": "2023-08-12",
+      "rank": 169
+    },
+    {
+      "date": "2023-08-26",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Reputation",
+      "id": "reputation-post-malone"
+    },
+    {
+      "title": "Lemon Tree",
+      "id": "lemon-tree-post-malone"
+    },
+    {
+      "title": "Wrapped Around Your Finger",
+      "id": "wrapped-around-your-finger-post-malone"
+    },
+    {
+      "title": "Insane",
+      "id": "insane-post-malone"
+    },
+    {
+      "title": "Euthanasia",
+      "id": "euthanasia-post-malone"
+    },
+    {
+      "title": "When I’m Alone",
+      "id": "when-i-m-alone-post-malone"
+    },
+    {
+      "title": "One Right Now",
+      "id": "over-now-post-malone"
+    },
+    {
+      "title": "Cooped Up",
+      "id": null
+    },
+    {
+      "title": "I Like You (A Happier Song)",
+      "id": null
+    },
+    {
+      "title": "I Cannot Be (A Sadder Song)",
+      "id": null
+    },
+    {
+      "title": "Love/Hate Letter to Alcohol",
+      "id": null
+    },
+    {
+      "title": "Wasting Angels",
+      "id": null
+    },
+    {
+      "title": "Waiting for a Miracle",
+      "id": null
+    },
+    {
+      "title": "New Recording 12, Jan 3, 2020",
+      "id": null
+    }
+  ]
+}

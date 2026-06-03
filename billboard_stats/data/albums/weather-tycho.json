@@ -1,1 +1,46 @@
-{"id": "weather-tycho", "title": "Weather", "artist": "Tycho", "peak": 132, "history": [{"date": "2019-07-27", "rank": 132}]}
+{
+  "id": "weather-tycho",
+  "title": "Weather",
+  "artist": "Tycho",
+  "peak": 132,
+  "history": [
+    {
+      "date": "2019-07-27",
+      "rank": 132
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Easy",
+      "id": null
+    },
+    {
+      "title": "Pink & Blue",
+      "id": null
+    },
+    {
+      "title": "Japan",
+      "id": null
+    },
+    {
+      "title": "Into the Woods",
+      "id": null
+    },
+    {
+      "title": "Skate",
+      "id": null
+    },
+    {
+      "title": "For How Long",
+      "id": null
+    },
+    {
+      "title": "No Stress",
+      "id": null
+    },
+    {
+      "title": "Weather",
+      "id": null
+    }
+  ]
+}

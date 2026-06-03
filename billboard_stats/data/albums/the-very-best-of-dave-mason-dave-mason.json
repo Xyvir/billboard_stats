@@ -1,1 +1,66 @@
-{"id": "the-very-best-of-dave-mason-dave-mason", "title": "The Very Best Of Dave Mason", "artist": "Dave Mason", "peak": 179, "history": [{"date": "1978-10-28", "rank": 189}, {"date": "1978-11-04", "rank": 184}, {"date": "1978-11-11", "rank": 179}, {"date": "1978-11-18", "rank": 195}]}
+{
+  "id": "the-very-best-of-dave-mason-dave-mason",
+  "title": "The Very Best Of Dave Mason",
+  "artist": "Dave Mason",
+  "peak": 179,
+  "history": [
+    {
+      "date": "1978-10-28",
+      "rank": 189
+    },
+    {
+      "date": "1978-11-04",
+      "rank": 184
+    },
+    {
+      "date": "1978-11-11",
+      "rank": 179
+    },
+    {
+      "date": "1978-11-18",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Only You Know and I Know",
+      "id": "only-you-know-and-i-know-dave-mason"
+    },
+    {
+      "title": "Pearly Queen",
+      "id": null
+    },
+    {
+      "title": "Just a Song",
+      "id": null
+    },
+    {
+      "title": "World in Changes",
+      "id": null
+    },
+    {
+      "title": "Sad and Deep as You",
+      "id": null
+    },
+    {
+      "title": "Shouldn’t Have Took More Than You Gave",
+      "id": null
+    },
+    {
+      "title": "Can't Stop Worrying, Can't Stop Loving",
+      "id": null
+    },
+    {
+      "title": "Headkeeper",
+      "id": null
+    },
+    {
+      "title": "Waitin’ on You",
+      "id": null
+    },
+    {
+      "title": "Feelin' Alright",
+      "id": null
+    }
+  ]
+}

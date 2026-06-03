@@ -1,1 +1,66 @@
-{"id": "thick-as-thieves-trooper", "title": "Thick As Thieves", "artist": "Trooper", "peak": 182, "history": [{"date": "1978-08-26", "rank": 190}, {"date": "1978-09-02", "rank": 187}, {"date": "1978-09-09", "rank": 182}, {"date": "1978-09-16", "rank": 182}]}
+{
+  "id": "thick-as-thieves-trooper",
+  "title": "Thick As Thieves",
+  "artist": "Trooper",
+  "peak": 182,
+  "history": [
+    {
+      "date": "1978-08-26",
+      "rank": 190
+    },
+    {
+      "date": "1978-09-02",
+      "rank": 187
+    },
+    {
+      "date": "1978-09-09",
+      "rank": 182
+    },
+    {
+      "date": "1978-09-16",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Raise a Little Hell",
+      "id": "raise-a-little-hell-trooper"
+    },
+    {
+      "title": "Live From the Moon",
+      "id": null
+    },
+    {
+      "title": "No Fun Being Alone",
+      "id": null
+    },
+    {
+      "title": "Round, Round We Go",
+      "id": null
+    },
+    {
+      "title": "Drivin’ Crazy",
+      "id": null
+    },
+    {
+      "title": "Roll With It",
+      "id": null
+    },
+    {
+      "title": "Say Goodnight",
+      "id": null
+    },
+    {
+      "title": "The Moment That It Takes",
+      "id": null
+    },
+    {
+      "title": "One Good Reason",
+      "id": null
+    },
+    {
+      "title": "Gambler",
+      "id": null
+    }
+  ]
+}

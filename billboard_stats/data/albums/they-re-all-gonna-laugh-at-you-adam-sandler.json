@@ -1,1 +1,318 @@
-{"id": "they-re-all-gonna-laugh-at-you-adam-sandler", "title": "They're All Gonna Laugh At You", "artist": "Adam Sandler", "peak": 129, "history": [{"date": "1993-12-11", "rank": 172}, {"date": "1993-12-18", "rank": 179}, {"date": "1993-12-25", "rank": 184}, {"date": "1994-01-01", "rank": 174}, {"date": "1994-01-08", "rank": 183}, {"date": "1994-01-15", "rank": 183}, {"date": "1994-01-22", "rank": 166}, {"date": "1994-01-29", "rank": 148}, {"date": "1994-02-05", "rank": 131}, {"date": "1994-02-12", "rank": 138}, {"date": "1994-02-19", "rank": 145}, {"date": "1994-02-26", "rank": 141}, {"date": "1994-03-05", "rank": 148}, {"date": "1994-03-12", "rank": 131}, {"date": "1994-03-19", "rank": 148}, {"date": "1994-03-26", "rank": 132}, {"date": "1994-04-02", "rank": 132}, {"date": "1994-04-09", "rank": 146}, {"date": "1994-04-16", "rank": 149}, {"date": "1994-04-23", "rank": 148}, {"date": "1994-04-30", "rank": 167}, {"date": "1994-05-07", "rank": 157}, {"date": "1994-05-14", "rank": 170}, {"date": "1994-05-21", "rank": 160}, {"date": "1994-05-28", "rank": 152}, {"date": "1994-06-04", "rank": 131}, {"date": "1994-06-11", "rank": 147}, {"date": "1994-06-18", "rank": 157}, {"date": "1994-06-25", "rank": 157}, {"date": "1994-07-02", "rank": 177}, {"date": "1994-07-09", "rank": 176}, {"date": "1994-07-16", "rank": 181}, {"date": "1994-07-23", "rank": 188}, {"date": "1994-07-30", "rank": 164}, {"date": "1994-08-06", "rank": 170}, {"date": "1994-08-13", "rank": 152}, {"date": "1994-08-20", "rank": 129}, {"date": "1994-08-27", "rank": 136}, {"date": "1994-09-03", "rank": 162}, {"date": "1994-09-10", "rank": 170}, {"date": "1994-09-17", "rank": 193}, {"date": "1994-09-24", "rank": 173}, {"date": "1994-10-01", "rank": 197}, {"date": "1994-10-08", "rank": 184}, {"date": "1994-12-10", "rank": 190}, {"date": "1995-01-14", "rank": 181}, {"date": "1995-02-25", "rank": 143}, {"date": "1995-03-04", "rank": 156}, {"date": "1995-03-11", "rank": 157}, {"date": "1995-03-18", "rank": 179}, {"date": "1995-03-25", "rank": 189}, {"date": "1996-01-06", "rank": 199}, {"date": "1996-03-09", "rank": 186}, {"date": "1996-03-16", "rank": 189}, {"date": "1996-03-23", "rank": 196}]}
+{
+  "id": "they-re-all-gonna-laugh-at-you-adam-sandler",
+  "title": "They're All Gonna Laugh At You",
+  "artist": "Adam Sandler",
+  "peak": 129,
+  "history": [
+    {
+      "date": "1993-12-11",
+      "rank": 172
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 179
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 184
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 174
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 183
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 183
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 166
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 148
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 131
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 138
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 145
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 141
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 148
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 131
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 148
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 132
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 132
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 146
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 149
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 148
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 167
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 157
+    },
+    {
+      "date": "1994-05-14",
+      "rank": 170
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 160
+    },
+    {
+      "date": "1994-05-28",
+      "rank": 152
+    },
+    {
+      "date": "1994-06-04",
+      "rank": 131
+    },
+    {
+      "date": "1994-06-11",
+      "rank": 147
+    },
+    {
+      "date": "1994-06-18",
+      "rank": 157
+    },
+    {
+      "date": "1994-06-25",
+      "rank": 157
+    },
+    {
+      "date": "1994-07-02",
+      "rank": 177
+    },
+    {
+      "date": "1994-07-09",
+      "rank": 176
+    },
+    {
+      "date": "1994-07-16",
+      "rank": 181
+    },
+    {
+      "date": "1994-07-23",
+      "rank": 188
+    },
+    {
+      "date": "1994-07-30",
+      "rank": 164
+    },
+    {
+      "date": "1994-08-06",
+      "rank": 170
+    },
+    {
+      "date": "1994-08-13",
+      "rank": 152
+    },
+    {
+      "date": "1994-08-20",
+      "rank": 129
+    },
+    {
+      "date": "1994-08-27",
+      "rank": 136
+    },
+    {
+      "date": "1994-09-03",
+      "rank": 162
+    },
+    {
+      "date": "1994-09-10",
+      "rank": 170
+    },
+    {
+      "date": "1994-09-17",
+      "rank": 193
+    },
+    {
+      "date": "1994-09-24",
+      "rank": 173
+    },
+    {
+      "date": "1994-10-01",
+      "rank": 197
+    },
+    {
+      "date": "1994-10-08",
+      "rank": 184
+    },
+    {
+      "date": "1994-12-10",
+      "rank": 190
+    },
+    {
+      "date": "1995-01-14",
+      "rank": 181
+    },
+    {
+      "date": "1995-02-25",
+      "rank": 143
+    },
+    {
+      "date": "1995-03-04",
+      "rank": 156
+    },
+    {
+      "date": "1995-03-11",
+      "rank": 157
+    },
+    {
+      "date": "1995-03-18",
+      "rank": 179
+    },
+    {
+      "date": "1995-03-25",
+      "rank": 189
+    },
+    {
+      "date": "1996-01-06",
+      "rank": 199
+    },
+    {
+      "date": "1996-03-09",
+      "rank": 186
+    },
+    {
+      "date": "1996-03-16",
+      "rank": 189
+    },
+    {
+      "date": "1996-03-23",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Thanksgiving Song",
+      "id": "the-chanukah-song-adam-sandler"
+    },
+    {
+      "title": "Assistant Principal’s Big Day",
+      "id": null
+    },
+    {
+      "title": "The Buffoon and the Dean of Admissions",
+      "id": null
+    },
+    {
+      "title": "Buddy",
+      "id": null
+    },
+    {
+      "title": "The Longest Pee",
+      "id": null
+    },
+    {
+      "title": "Food Innuendo Guy",
+      "id": null
+    },
+    {
+      "title": "The Beating of a High School Janitor",
+      "id": null
+    },
+    {
+      "title": "Right Field",
+      "id": null
+    },
+    {
+      "title": "The Buffoon and the Valedictorian",
+      "id": null
+    },
+    {
+      "title": "Mr. Spindel’s Phone Call",
+      "id": null
+    },
+    {
+      "title": "The Beating of a High School Bus Driver",
+      "id": null
+    },
+    {
+      "title": "Oh Mom…",
+      "id": null
+    },
+    {
+      "title": "Fatty McGee",
+      "id": null
+    },
+    {
+      "title": "At a Medium Pace",
+      "id": null
+    },
+    {
+      "title": "The Beating of a High School Science Teacher",
+      "id": null
+    },
+    {
+      "title": "The Cheerleader",
+      "id": null
+    },
+    {
+      "title": "I’m So Wasted",
+      "id": null
+    },
+    {
+      "title": "Lunchlady Land",
+      "id": null
+    },
+    {
+      "title": "The Beating of a High School Spanish Teacher",
+      "id": null
+    },
+    {
+      "title": "Toll Booth Willie",
+      "id": null
+    },
+    {
+      "title": "Teenage Love on the Phone",
+      "id": null
+    },
+    {
+      "title": "My Little Chicken",
+      "id": null
+    }
+  ]
+}

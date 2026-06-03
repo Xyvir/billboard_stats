@@ -1,1 +1,46 @@
-{"id": "zombie-ep-the-devil-wears-prada", "title": "Zombie (EP)", "artist": "The Devil Wears Prada", "peak": 10, "history": [{"date": "2010-09-11", "rank": 10}, {"date": "2010-09-18", "rank": 51}, {"date": "2010-09-25", "rank": 88}, {"date": "2010-10-02", "rank": 189}]}
+{
+  "id": "zombie-ep-the-devil-wears-prada",
+  "title": "Zombie (EP)",
+  "artist": "The Devil Wears Prada",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2010-09-11",
+      "rank": 10
+    },
+    {
+      "date": "2010-09-18",
+      "rank": 51
+    },
+    {
+      "date": "2010-09-25",
+      "rank": 88
+    },
+    {
+      "date": "2010-10-02",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Escape",
+      "id": null
+    },
+    {
+      "title": "Anatomy",
+      "id": null
+    },
+    {
+      "title": "Outnumbered",
+      "id": null
+    },
+    {
+      "title": "Revive",
+      "id": null
+    },
+    {
+      "title": "Survivor",
+      "id": null
+    }
+  ]
+}

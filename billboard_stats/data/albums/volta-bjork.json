@@ -1,1 +1,70 @@
-{"id": "volta-bjork", "title": "Volta", "artist": "Bjork", "peak": 9, "history": [{"date": "2007-05-26", "rank": 9}, {"date": "2007-06-02", "rank": 38}, {"date": "2007-06-09", "rank": 55}, {"date": "2007-06-16", "rank": 94}, {"date": "2007-06-23", "rank": 148}]}
+{
+  "id": "volta-bjork",
+  "title": "Volta",
+  "artist": "Bjork",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2007-05-26",
+      "rank": 9
+    },
+    {
+      "date": "2007-06-02",
+      "rank": 38
+    },
+    {
+      "date": "2007-06-09",
+      "rank": 55
+    },
+    {
+      "date": "2007-06-16",
+      "rank": 94
+    },
+    {
+      "date": "2007-06-23",
+      "rank": 148
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Earth Intruders",
+      "id": "earth-intruders-bjork"
+    },
+    {
+      "title": "Wanderlust",
+      "id": null
+    },
+    {
+      "title": "The Dull Flame of Desire",
+      "id": null
+    },
+    {
+      "title": "Innocence",
+      "id": null
+    },
+    {
+      "title": "I See Who You Are",
+      "id": null
+    },
+    {
+      "title": "Vertebræ by Vertebræ",
+      "id": null
+    },
+    {
+      "title": "Pneumonia",
+      "id": null
+    },
+    {
+      "title": "Hope",
+      "id": null
+    },
+    {
+      "title": "Declare Independence",
+      "id": null
+    },
+    {
+      "title": "My Juvenile",
+      "id": null
+    }
+  ]
+}

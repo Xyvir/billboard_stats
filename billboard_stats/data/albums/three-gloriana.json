@@ -1,1 +1,62 @@
-{"id": "three-gloriana", "title": "Three", "artist": "Gloriana", "peak": 116, "history": [{"date": "2015-06-20", "rank": 116}]}
+{
+  "id": "three-gloriana",
+  "title": "Three",
+  "artist": "Gloriana",
+  "peak": 116,
+  "history": [
+    {
+      "date": "2015-06-20",
+      "rank": 116
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s On Tonight",
+      "id": "kissed-you-good-night-gloriana"
+    },
+    {
+      "title": "Trouble",
+      "id": null
+    },
+    {
+      "title": "Ain’t Runnin’ Outta Summer",
+      "id": null
+    },
+    {
+      "title": "Are You Ready",
+      "id": null
+    },
+    {
+      "title": "Nobody But You",
+      "id": null
+    },
+    {
+      "title": "Fight",
+      "id": null
+    },
+    {
+      "title": "Wanna Get To Know You",
+      "id": null
+    },
+    {
+      "title": "Let's Take A Shot",
+      "id": null
+    },
+    {
+      "title": "Get Back That Goodbye",
+      "id": null
+    },
+    {
+      "title": "Lighters",
+      "id": null
+    },
+    {
+      "title": "It Won't Let Go",
+      "id": null
+    },
+    {
+      "title": "My Somebody",
+      "id": null
+    }
+  ]
+}

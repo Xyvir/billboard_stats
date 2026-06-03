@@ -1,1 +1,130 @@
-{"id": "wings-greatest-wings", "title": "Wings Greatest", "artist": "Wings", "peak": 29, "history": [{"date": "1978-12-09", "rank": 85}, {"date": "1978-12-16", "rank": 55}, {"date": "1978-12-23", "rank": 41}, {"date": "1978-12-30", "rank": 41}, {"date": "1979-01-06", "rank": 37}, {"date": "1979-01-13", "rank": 30}, {"date": "1979-01-20", "rank": 29}, {"date": "1979-01-27", "rank": 38}, {"date": "1979-02-03", "rank": 38}, {"date": "1979-02-10", "rank": 65}, {"date": "1979-02-17", "rank": 65}, {"date": "1979-02-24", "rank": 73}, {"date": "1979-03-03", "rank": 91}, {"date": "1979-03-10", "rank": 109}, {"date": "1979-03-17", "rank": 146}, {"date": "1979-03-24", "rank": 167}, {"date": "1979-03-31", "rank": 180}, {"date": "1979-04-07", "rank": 193}]}
+{
+  "id": "wings-greatest-wings",
+  "title": "Wings Greatest",
+  "artist": "Wings",
+  "peak": 29,
+  "history": [
+    {
+      "date": "1978-12-09",
+      "rank": 85
+    },
+    {
+      "date": "1978-12-16",
+      "rank": 55
+    },
+    {
+      "date": "1978-12-23",
+      "rank": 41
+    },
+    {
+      "date": "1978-12-30",
+      "rank": 41
+    },
+    {
+      "date": "1979-01-06",
+      "rank": 37
+    },
+    {
+      "date": "1979-01-13",
+      "rank": 30
+    },
+    {
+      "date": "1979-01-20",
+      "rank": 29
+    },
+    {
+      "date": "1979-01-27",
+      "rank": 38
+    },
+    {
+      "date": "1979-02-03",
+      "rank": 38
+    },
+    {
+      "date": "1979-02-10",
+      "rank": 65
+    },
+    {
+      "date": "1979-02-17",
+      "rank": 65
+    },
+    {
+      "date": "1979-02-24",
+      "rank": 73
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 91
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 109
+    },
+    {
+      "date": "1979-03-17",
+      "rank": 146
+    },
+    {
+      "date": "1979-03-24",
+      "rank": 167
+    },
+    {
+      "date": "1979-03-31",
+      "rank": 180
+    },
+    {
+      "date": "1979-04-07",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Silly Love Songs",
+      "id": "silly-love-songs-wings"
+    },
+    {
+      "title": "Live and Let Die",
+      "id": "live-and-let-die-wings"
+    },
+    {
+      "title": "With a Little Luck",
+      "id": "with-a-little-luck-wings"
+    },
+    {
+      "title": "Band on the Run",
+      "id": "band-on-the-run-paul-mccartney-and-wings"
+    },
+    {
+      "title": "Hi, Hi, Hi",
+      "id": "hi-hi-hi-wings"
+    },
+    {
+      "title": "Let ’Em In",
+      "id": "let-em-in-wings"
+    },
+    {
+      "title": "Another Day",
+      "id": null
+    },
+    {
+      "title": "Junior’s Farm",
+      "id": null
+    },
+    {
+      "title": "Uncle Albert / Admiral Halsey",
+      "id": null
+    },
+    {
+      "title": "My Love",
+      "id": null
+    },
+    {
+      "title": "Jet",
+      "id": null
+    },
+    {
+      "title": "Mull of Kintyre",
+      "id": null
+    }
+  ]
+}

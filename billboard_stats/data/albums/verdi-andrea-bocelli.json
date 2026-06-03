@@ -1,1 +1,290 @@
-{"id": "verdi-andrea-bocelli", "title": "Verdi", "artist": "Andrea Bocelli", "peak": 23, "history": [{"date": "2000-09-30", "rank": 23}, {"date": "2000-10-07", "rank": 27}, {"date": "2000-10-14", "rank": 44}, {"date": "2000-10-21", "rank": 54}, {"date": "2000-10-28", "rank": 61}, {"date": "2000-11-04", "rank": 64}, {"date": "2000-11-11", "rank": 73}, {"date": "2000-11-18", "rank": 85}, {"date": "2000-11-25", "rank": 80}, {"date": "2000-12-02", "rank": 83}, {"date": "2000-12-09", "rank": 95}, {"date": "2000-12-16", "rank": 79}, {"date": "2000-12-23", "rank": 81}, {"date": "2000-12-30", "rank": 71}, {"date": "2001-01-06", "rank": 71}, {"date": "2001-01-13", "rank": 102}, {"date": "2001-01-20", "rank": 145}, {"date": "2001-01-27", "rank": 151}, {"date": "2001-02-03", "rank": 155}, {"date": "2001-02-10", "rank": 172}, {"date": "2001-02-17", "rank": 173}, {"date": "2001-02-24", "rank": 183}, {"date": "2001-03-03", "rank": 154}]}
+{
+  "id": "verdi-andrea-bocelli",
+  "title": "Verdi",
+  "artist": "Andrea Bocelli",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2000-09-30",
+      "rank": 23
+    },
+    {
+      "date": "2000-10-07",
+      "rank": 27
+    },
+    {
+      "date": "2000-10-14",
+      "rank": 44
+    },
+    {
+      "date": "2000-10-21",
+      "rank": 54
+    },
+    {
+      "date": "2000-10-28",
+      "rank": 61
+    },
+    {
+      "date": "2000-11-04",
+      "rank": 64
+    },
+    {
+      "date": "2000-11-11",
+      "rank": 73
+    },
+    {
+      "date": "2000-11-18",
+      "rank": 85
+    },
+    {
+      "date": "2000-11-25",
+      "rank": 80
+    },
+    {
+      "date": "2000-12-02",
+      "rank": 83
+    },
+    {
+      "date": "2000-12-09",
+      "rank": 95
+    },
+    {
+      "date": "2000-12-16",
+      "rank": 79
+    },
+    {
+      "date": "2000-12-23",
+      "rank": 81
+    },
+    {
+      "date": "2000-12-30",
+      "rank": 71
+    },
+    {
+      "date": "2001-01-06",
+      "rank": 71
+    },
+    {
+      "date": "2001-01-13",
+      "rank": 102
+    },
+    {
+      "date": "2001-01-20",
+      "rank": 145
+    },
+    {
+      "date": "2001-01-27",
+      "rank": 151
+    },
+    {
+      "date": "2001-02-03",
+      "rank": 155
+    },
+    {
+      "date": "2001-02-10",
+      "rank": 172
+    },
+    {
+      "date": "2001-02-17",
+      "rank": 173
+    },
+    {
+      "date": "2001-02-24",
+      "rank": 183
+    },
+    {
+      "date": "2001-03-03",
+      "rank": 154
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All'erta! all'erta!",
+      "id": null
+    },
+    {
+      "title": "Di due figli vivea padre beato",
+      "id": null
+    },
+    {
+      "title": "Che piu t'arresti?",
+      "id": null
+    },
+    {
+      "title": "Tacea la notte placida e bella in ciel sereno",
+      "id": null
+    },
+    {
+      "title": "Di tale amor, che dirsi mal puo dalla parola",
+      "id": null
+    },
+    {
+      "title": "Tace la notte! ... Il Trovator!",
+      "id": null
+    },
+    {
+      "title": "Deserto sulla terra ... Anima mia!",
+      "id": null
+    },
+    {
+      "title": "Infida! ... - Qual voce!",
+      "id": null
+    },
+    {
+      "title": "Di geloso amor sprezzato ...",
+      "id": null
+    },
+    {
+      "title": "Vedi! le fosche notturne spoglie ...",
+      "id": null
+    },
+    {
+      "title": "Stride la vampa!",
+      "id": null
+    },
+    {
+      "title": "Mesta e la tua canzon",
+      "id": null
+    },
+    {
+      "title": "Soli or siamo; deh, narra quella storia funesta ...",
+      "id": null
+    },
+    {
+      "title": "Non son tuo figlio?",
+      "id": null
+    },
+    {
+      "title": "Mal reggendo all'aspro assalto",
+      "id": null
+    },
+    {
+      "title": "L'usato messo Ruiz invia!",
+      "id": null
+    },
+    {
+      "title": "Perigliarti ancor languente per cammin selvaggio ed ermo!",
+      "id": null
+    },
+    {
+      "title": "Tutto e deserto",
+      "id": null
+    },
+    {
+      "title": "Il balen del suo sorriso",
+      "id": null
+    },
+    {
+      "title": "Qual suono! ... Ardir! ... Andiam",
+      "id": null
+    },
+    {
+      "title": "Per me, ora fatale, i tuoi momenti affretta",
+      "id": null
+    },
+    {
+      "title": "Ah! ... se l'error t'ingombra, o figlia d'Eva, i rai",
+      "id": null
+    },
+    {
+      "title": "Perche piangete?",
+      "id": null
+    },
+    {
+      "title": "E deggio ... e posso crederlo? .. Urgel viva!",
+      "id": null
+    },
+    {
+      "title": "Or co' dadi, ma fra poco giocherem ben altro gioco",
+      "id": null
+    },
+    {
+      "title": "Squilli, echeggi la tromba guerriera",
+      "id": null
+    },
+    {
+      "title": "In braccio al mio rival! ... Che fu? ... Innanzi, o strega",
+      "id": null
+    },
+    {
+      "title": "Giorni poveri vivea ... Tu vedi chi l'infame, orribil opra commettea",
+      "id": null
+    },
+    {
+      "title": "Deh, rallentate, o barbari, le acerbe mie ritorte",
+      "id": null
+    },
+    {
+      "title": "Quale d'armi fragor poc'anzi intesi?",
+      "id": null
+    },
+    {
+      "title": "Ah! si, ben mio; coll'essere io tuo, tu mia consorte",
+      "id": null
+    },
+    {
+      "title": "L'onda de' suoni mistici ... La zingara, vieni, tra ceppi mira",
+      "id": null
+    },
+    {
+      "title": "Di quella pira l'orrendo foco ... All'armi! all'armi!",
+      "id": null
+    },
+    {
+      "title": "Siam giunti: ecco la torre",
+      "id": null
+    },
+    {
+      "title": "D'amor sull'ali rosee vanne, sospir dolente",
+      "id": null
+    },
+    {
+      "title": "Mieserere ... Quel suon, quelle preci solenni ...",
+      "id": null
+    },
+    {
+      "title": "Tu vedrai che amore in terra mai del mio non fu piu forte",
+      "id": null
+    },
+    {
+      "title": "Udiste? Come albeggi, la scure al figlio, ed alla madre il rogo",
+      "id": null
+    },
+    {
+      "title": "A te davanti. - Qual voce!",
+      "id": null
+    },
+    {
+      "title": "Mira, di acerbe lagrime spargo al tuo piede un rio",
+      "id": null
+    },
+    {
+      "title": "(Vivra! ... contende il giubilo i detti a me, Signore...)",
+      "id": null
+    },
+    {
+      "title": "Madre? ... non dormi? ... Vedi? ... le sue fosche impronte",
+      "id": null
+    },
+    {
+      "title": "Si; la stancheza m'opprime, o figlio",
+      "id": null
+    },
+    {
+      "title": "Che! ... non m'inganna quel fioco lume?",
+      "id": null
+    },
+    {
+      "title": "Parlar non vuoi?",
+      "id": null
+    },
+    {
+      "title": "Ti scosta... - Non respongermi",
+      "id": null
+    },
+    {
+      "title": "Prima che d'altri vivere ... io volli tua morir! ... Sia tratto al ceppo!",
+      "id": null
+    }
+  ]
+}

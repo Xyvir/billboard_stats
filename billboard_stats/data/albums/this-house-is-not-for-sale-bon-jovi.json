@@ -1,1 +1,106 @@
-{"id": "this-house-is-not-for-sale-bon-jovi", "title": "This House Is Not For Sale", "artist": "Bon Jovi", "peak": 1, "history": [{"date": "2016-11-26", "rank": 1}, {"date": "2016-12-03", "rank": 43}, {"date": "2016-12-10", "rank": 127}, {"date": "2016-12-17", "rank": 166}, {"date": "2016-12-24", "rank": 189}, {"date": "2016-12-31", "rank": 173}, {"date": "2017-01-07", "rank": 155}, {"date": "2018-03-10", "rank": 1}, {"date": "2018-03-17", "rank": 169}]}
+{
+  "id": "this-house-is-not-for-sale-bon-jovi",
+  "title": "This House Is Not For Sale",
+  "artist": "Bon Jovi",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2016-11-26",
+      "rank": 1
+    },
+    {
+      "date": "2016-12-03",
+      "rank": 43
+    },
+    {
+      "date": "2016-12-10",
+      "rank": 127
+    },
+    {
+      "date": "2016-12-17",
+      "rank": 166
+    },
+    {
+      "date": "2016-12-24",
+      "rank": 189
+    },
+    {
+      "date": "2016-12-31",
+      "rank": 173
+    },
+    {
+      "date": "2017-01-07",
+      "rank": 155
+    },
+    {
+      "date": "2018-03-10",
+      "rank": 1
+    },
+    {
+      "date": "2018-03-17",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Labor of Love",
+      "id": "in-and-out-of-love-bon-jovi"
+    },
+    {
+      "title": "We Don’t Run",
+      "id": "she-don-t-know-me-bon-jovi"
+    },
+    {
+      "title": "This House Is Not for Sale",
+      "id": null
+    },
+    {
+      "title": "Living With the Ghost",
+      "id": null
+    },
+    {
+      "title": "Knockout",
+      "id": null
+    },
+    {
+      "title": "Born Again Tomorrow",
+      "id": null
+    },
+    {
+      "title": "Roller Coaster",
+      "id": null
+    },
+    {
+      "title": "New Year’s Day",
+      "id": null
+    },
+    {
+      "title": "The Devil’s in the Temple",
+      "id": null
+    },
+    {
+      "title": "Scars on This Guitar",
+      "id": null
+    },
+    {
+      "title": "God Bless This Mess",
+      "id": null
+    },
+    {
+      "title": "Reunion",
+      "id": null
+    },
+    {
+      "title": "Come On Up to Our House",
+      "id": null
+    },
+    {
+      "title": "Real Love",
+      "id": null
+    },
+    {
+      "title": "All Hail the King",
+      "id": null
+    }
+  ]
+}

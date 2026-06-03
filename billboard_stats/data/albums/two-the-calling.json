@@ -1,1 +1,74 @@
-{"id": "two-the-calling", "title": "Two", "artist": "The Calling", "peak": 54, "history": [{"date": "2004-06-26", "rank": 54}, {"date": "2004-07-03", "rank": 120}, {"date": "2004-07-10", "rank": 155}]}
+{
+  "id": "two-the-calling",
+  "title": "Two",
+  "artist": "The Calling",
+  "peak": 54,
+  "history": [
+    {
+      "date": "2004-06-26",
+      "rank": 54
+    },
+    {
+      "date": "2004-07-03",
+      "rank": 120
+    },
+    {
+      "date": "2004-07-10",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One by One",
+      "id": null
+    },
+    {
+      "title": "Our Lives",
+      "id": null
+    },
+    {
+      "title": "Things Will Go My Way",
+      "id": null
+    },
+    {
+      "title": "Chasing the Sun",
+      "id": null
+    },
+    {
+      "title": "Believing",
+      "id": null
+    },
+    {
+      "title": "Anything",
+      "id": null
+    },
+    {
+      "title": "If Only",
+      "id": null
+    },
+    {
+      "title": "Somebody Out There",
+      "id": null
+    },
+    {
+      "title": "Surrender",
+      "id": null
+    },
+    {
+      "title": "Dreaming in Red",
+      "id": null
+    },
+    {
+      "title": "Your Hope",
+      "id": null
+    },
+    {
+      "title": "For You (acoustic version)",
+      "id": null
+    },
+    {
+      "title": "London Calling (live)",
+      "id": null
+    }
+  ]
+}

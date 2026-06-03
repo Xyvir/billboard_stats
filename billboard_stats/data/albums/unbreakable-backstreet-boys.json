@@ -1,1 +1,86 @@
-{"id": "unbreakable-backstreet-boys", "title": "Unbreakable", "artist": "Backstreet Boys", "peak": 7, "history": [{"date": "2007-11-17", "rank": 7}, {"date": "2007-11-24", "rank": 40}, {"date": "2007-12-01", "rank": 101}, {"date": "2007-12-08", "rank": 144}, {"date": "2007-12-15", "rank": 169}]}
+{
+  "id": "unbreakable-backstreet-boys",
+  "title": "Unbreakable",
+  "artist": "Backstreet Boys",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2007-11-17",
+      "rank": 7
+    },
+    {
+      "date": "2007-11-24",
+      "rank": 40
+    },
+    {
+      "date": "2007-12-01",
+      "rank": 101
+    },
+    {
+      "date": "2007-12-08",
+      "rank": 144
+    },
+    {
+      "date": "2007-12-15",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Inconsolable",
+      "id": "inconsolable-backstreet-boys"
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Everything but Mine",
+      "id": null
+    },
+    {
+      "title": "Something That I Already Know",
+      "id": null
+    },
+    {
+      "title": "Helpless When She Smiles",
+      "id": null
+    },
+    {
+      "title": "Any Other Way",
+      "id": null
+    },
+    {
+      "title": "One in a Million",
+      "id": null
+    },
+    {
+      "title": "Panic",
+      "id": null
+    },
+    {
+      "title": "You Can Let Go",
+      "id": null
+    },
+    {
+      "title": "Trouble Is",
+      "id": null
+    },
+    {
+      "title": "Treat Me Right",
+      "id": null
+    },
+    {
+      "title": "Love Will Keep You Up All Night",
+      "id": null
+    },
+    {
+      "title": "Unmistakable",
+      "id": null
+    },
+    {
+      "title": "Unsuspecting Sunday Afternoon",
+      "id": null
+    }
+  ]
+}

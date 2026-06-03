@@ -1,1 +1,42 @@
-{"id": "way-out-here-riley-green", "title": "Way Out Here", "artist": "Riley Green", "peak": 149, "history": [{"date": "2024-04-27", "rank": 149}]}
+{
+  "id": "way-out-here-riley-green",
+  "title": "Way Out Here",
+  "artist": "Riley Green",
+  "peak": 149,
+  "history": [
+    {
+      "date": "2024-04-27",
+      "rank": 149
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Worst Way",
+      "id": "worst-way-riley-green"
+    },
+    {
+      "title": "Jesus Saves",
+      "id": null
+    },
+    {
+      "title": "Way Out Here",
+      "id": null
+    },
+    {
+      "title": "Atlantic City",
+      "id": null
+    },
+    {
+      "title": "Good Morning from Mexico",
+      "id": null
+    },
+    {
+      "title": "Damn Good Day to Leave",
+      "id": null
+    },
+    {
+      "title": "Pick a Place",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,50 @@
-{"id": "this-is-this-weather-report", "title": "This Is This", "artist": "Weather Report", "peak": 195, "history": [{"date": "1986-08-23", "rank": 195}, {"date": "1986-08-30", "rank": 195}]}
+{
+  "id": "this-is-this-weather-report",
+  "title": "This Is This",
+  "artist": "Weather Report",
+  "peak": 195,
+  "history": [
+    {
+      "date": "1986-08-23",
+      "rank": 195
+    },
+    {
+      "date": "1986-08-30",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "This Is This",
+      "id": null
+    },
+    {
+      "title": "Face the Fire",
+      "id": null
+    },
+    {
+      "title": "I’ll Never Forget You",
+      "id": null
+    },
+    {
+      "title": "Jungle Stuff, Part 1",
+      "id": null
+    },
+    {
+      "title": "Man With the Copper Fingers",
+      "id": null
+    },
+    {
+      "title": "Consequently",
+      "id": null
+    },
+    {
+      "title": "Update",
+      "id": null
+    },
+    {
+      "title": "China Blues",
+      "id": null
+    }
+  ]
+}

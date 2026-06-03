@@ -1,1 +1,222 @@
-{"id": "what-up-dog-was-not-was", "title": "What Up, Dog?", "artist": "Was (Not Was)", "peak": 43, "history": [{"date": "1988-10-15", "rank": 175}, {"date": "1988-10-22", "rank": 143}, {"date": "1988-10-29", "rank": 129}, {"date": "1988-11-05", "rank": 107}, {"date": "1988-11-12", "rank": 105}, {"date": "1988-11-19", "rank": 105}, {"date": "1988-11-26", "rank": 91}, {"date": "1988-12-03", "rank": 90}, {"date": "1988-12-10", "rank": 88}, {"date": "1988-12-17", "rank": 82}, {"date": "1988-12-24", "rank": 77}, {"date": "1988-12-31", "rank": 77}, {"date": "1989-01-07", "rank": 77}, {"date": "1989-01-14", "rank": 83}, {"date": "1989-01-21", "rank": 91}, {"date": "1989-01-28", "rank": 85}, {"date": "1989-02-04", "rank": 89}, {"date": "1989-02-11", "rank": 83}, {"date": "1989-02-18", "rank": 82}, {"date": "1989-02-25", "rank": 79}, {"date": "1989-03-04", "rank": 74}, {"date": "1989-03-11", "rank": 65}, {"date": "1989-03-18", "rank": 58}, {"date": "1989-03-25", "rank": 53}, {"date": "1989-04-01", "rank": 48}, {"date": "1989-04-08", "rank": 43}, {"date": "1989-04-15", "rank": 43}, {"date": "1989-04-22", "rank": 49}, {"date": "1989-04-29", "rank": 56}, {"date": "1989-05-06", "rank": 70}, {"date": "1989-05-13", "rank": 81}, {"date": "1989-05-20", "rank": 100}, {"date": "1989-05-27", "rank": 114}, {"date": "1989-06-03", "rank": 118}, {"date": "1989-06-10", "rank": 144}, {"date": "1989-06-17", "rank": 168}, {"date": "1989-06-24", "rank": 195}]}
+{
+  "id": "what-up-dog-was-not-was",
+  "title": "What Up, Dog?",
+  "artist": "Was (Not Was)",
+  "peak": 43,
+  "history": [
+    {
+      "date": "1988-10-15",
+      "rank": 175
+    },
+    {
+      "date": "1988-10-22",
+      "rank": 143
+    },
+    {
+      "date": "1988-10-29",
+      "rank": 129
+    },
+    {
+      "date": "1988-11-05",
+      "rank": 107
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 105
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 105
+    },
+    {
+      "date": "1988-11-26",
+      "rank": 91
+    },
+    {
+      "date": "1988-12-03",
+      "rank": 90
+    },
+    {
+      "date": "1988-12-10",
+      "rank": 88
+    },
+    {
+      "date": "1988-12-17",
+      "rank": 82
+    },
+    {
+      "date": "1988-12-24",
+      "rank": 77
+    },
+    {
+      "date": "1988-12-31",
+      "rank": 77
+    },
+    {
+      "date": "1989-01-07",
+      "rank": 77
+    },
+    {
+      "date": "1989-01-14",
+      "rank": 83
+    },
+    {
+      "date": "1989-01-21",
+      "rank": 91
+    },
+    {
+      "date": "1989-01-28",
+      "rank": 85
+    },
+    {
+      "date": "1989-02-04",
+      "rank": 89
+    },
+    {
+      "date": "1989-02-11",
+      "rank": 83
+    },
+    {
+      "date": "1989-02-18",
+      "rank": 82
+    },
+    {
+      "date": "1989-02-25",
+      "rank": 79
+    },
+    {
+      "date": "1989-03-04",
+      "rank": 74
+    },
+    {
+      "date": "1989-03-11",
+      "rank": 65
+    },
+    {
+      "date": "1989-03-18",
+      "rank": 58
+    },
+    {
+      "date": "1989-03-25",
+      "rank": 53
+    },
+    {
+      "date": "1989-04-01",
+      "rank": 48
+    },
+    {
+      "date": "1989-04-08",
+      "rank": 43
+    },
+    {
+      "date": "1989-04-15",
+      "rank": 43
+    },
+    {
+      "date": "1989-04-22",
+      "rank": 49
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 56
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 70
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 81
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 100
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 114
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 118
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 144
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 168
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Spy in the House of Love",
+      "id": "spy-in-the-house-of-love-was-not-was"
+    },
+    {
+      "title": "Anything Can Happen",
+      "id": "anything-can-happen-was-not-was"
+    },
+    {
+      "title": "Walk the Dinosaur",
+      "id": "walk-the-dinosaur-was-not-was"
+    },
+    {
+      "title": "Somewhere in America There’s a Street Named After My Dad",
+      "id": null
+    },
+    {
+      "title": "Out Come the Freaks",
+      "id": null
+    },
+    {
+      "title": "Earth to Doris",
+      "id": null
+    },
+    {
+      "title": "Love Can Be Bad Luck",
+      "id": null
+    },
+    {
+      "title": "Boy’s Gone Crazy",
+      "id": null
+    },
+    {
+      "title": "11 MPH (Abe Zapp Ruder version)",
+      "id": null
+    },
+    {
+      "title": "What Up, Dog?",
+      "id": null
+    },
+    {
+      "title": "Robot Girl",
+      "id": null
+    },
+    {
+      "title": "Wedding Vows in Vegas",
+      "id": null
+    },
+    {
+      "title": "Anytime Lisa",
+      "id": null
+    },
+    {
+      "title": "I Can’t Turn You Loose",
+      "id": null
+    },
+    {
+      "title": "Shadow and Jimmy",
+      "id": null
+    },
+    {
+      "title": "Dad I’m in Jail",
+      "id": null
+    }
+  ]
+}

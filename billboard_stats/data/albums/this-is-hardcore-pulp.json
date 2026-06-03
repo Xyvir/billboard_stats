@@ -1,1 +1,26 @@
-{"id": "this-is-hardcore-pulp", "title": "This Is Hardcore", "artist": "Pulp", "peak": 114, "history": [{"date": "1998-04-18", "rank": 114}, {"date": "1998-05-02", "rank": 200}]}
+{
+  "id": "this-is-hardcore-pulp",
+  "title": "This Is Hardcore",
+  "artist": "Pulp",
+  "peak": 114,
+  "history": [
+    {
+      "date": "1998-04-18",
+      "rank": 114
+    },
+    {
+      "date": "1998-05-02",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "This Is Hardcore",
+      "id": null
+    },
+    {
+      "title": "Ladies’ Man",
+      "id": null
+    }
+  ]
+}

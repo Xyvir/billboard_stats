@@ -1,1 +1,110 @@
-{"id": "zoo-russ", "title": "Zoo", "artist": "Russ", "peak": 4, "history": [{"date": "2018-09-22", "rank": 4}, {"date": "2018-09-29", "rank": 33}, {"date": "2018-10-06", "rank": 56}, {"date": "2018-10-13", "rank": 74}, {"date": "2018-10-20", "rank": 104}, {"date": "2018-10-27", "rank": 95}, {"date": "2018-11-03", "rank": 107}, {"date": "2018-11-10", "rank": 97}, {"date": "2018-11-17", "rank": 161}, {"date": "2018-11-24", "rank": 179}, {"date": "2018-12-01", "rank": 142}]}
+{
+  "id": "zoo-russ",
+  "title": "Zoo",
+  "artist": "Russ",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2018-09-22",
+      "rank": 4
+    },
+    {
+      "date": "2018-09-29",
+      "rank": 33
+    },
+    {
+      "date": "2018-10-06",
+      "rank": 56
+    },
+    {
+      "date": "2018-10-13",
+      "rank": 74
+    },
+    {
+      "date": "2018-10-20",
+      "rank": 104
+    },
+    {
+      "date": "2018-10-27",
+      "rank": 95
+    },
+    {
+      "date": "2018-11-03",
+      "rank": 107
+    },
+    {
+      "date": "2018-11-10",
+      "rank": 97
+    },
+    {
+      "date": "2018-11-17",
+      "rank": 161
+    },
+    {
+      "date": "2018-11-24",
+      "rank": 179
+    },
+    {
+      "date": "2018-12-01",
+      "rank": 142
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Flute Song",
+      "id": null
+    },
+    {
+      "title": "Outlaw",
+      "id": null
+    },
+    {
+      "title": "Kill Them All",
+      "id": null
+    },
+    {
+      "title": "Missin You Crazy",
+      "id": null
+    },
+    {
+      "title": "Voicemail",
+      "id": null
+    },
+    {
+      "title": "Parkstone Drive",
+      "id": null
+    },
+    {
+      "title": "Begging You",
+      "id": null
+    },
+    {
+      "title": "Serious",
+      "id": null
+    },
+    {
+      "title": "Keep My Wits",
+      "id": null
+    },
+    {
+      "title": "Our Time",
+      "id": null
+    },
+    {
+      "title": "From a Distance",
+      "id": null
+    },
+    {
+      "title": "Last Forever",
+      "id": null
+    },
+    {
+      "title": "Keep It Pushin",
+      "id": null
+    },
+    {
+      "title": "Fuck That",
+      "id": null
+    }
+  ]
+}

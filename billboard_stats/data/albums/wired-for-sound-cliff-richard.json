@@ -1,1 +1,70 @@
-{"id": "wired-for-sound-cliff-richard", "title": "Wired For Sound", "artist": "Cliff Richard", "peak": 132, "history": [{"date": "1981-10-17", "rank": 142}, {"date": "1981-10-24", "rank": 132}, {"date": "1981-10-31", "rank": 132}, {"date": "1981-11-07", "rank": 156}]}
+{
+  "id": "wired-for-sound-cliff-richard",
+  "title": "Wired For Sound",
+  "artist": "Cliff Richard",
+  "peak": 132,
+  "history": [
+    {
+      "date": "1981-10-17",
+      "rank": 142
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 132
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 132
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wired for Sound",
+      "id": "wired-for-sound-cliff-richard"
+    },
+    {
+      "title": "Daddy’s Home",
+      "id": "daddy-s-home-cliff-richard"
+    },
+    {
+      "title": "Once in a While",
+      "id": null
+    },
+    {
+      "title": "Better Than I Know Myself",
+      "id": null
+    },
+    {
+      "title": "Oh No, Don’t Let Go",
+      "id": null
+    },
+    {
+      "title": "’Cos I Love That Rock ’n’ Roll",
+      "id": null
+    },
+    {
+      "title": "Broken Doll",
+      "id": null
+    },
+    {
+      "title": "Lost in a Lonely World",
+      "id": null
+    },
+    {
+      "title": "Summer Rain",
+      "id": null
+    },
+    {
+      "title": "Young Love",
+      "id": null
+    },
+    {
+      "title": "Say You Don’t Mind",
+      "id": null
+    }
+  ]
+}

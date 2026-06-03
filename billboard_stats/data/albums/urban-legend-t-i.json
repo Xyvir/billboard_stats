@@ -1,1 +1,250 @@
-{"id": "urban-legend-t-i", "title": "Urban Legend", "artist": "T.I.", "peak": 7, "history": [{"date": "2004-12-18", "rank": 7}, {"date": "2004-12-25", "rank": 28}, {"date": "2005-01-01", "rank": 46}, {"date": "2005-01-08", "rank": 40}, {"date": "2005-01-15", "rank": 23}, {"date": "2005-01-22", "rank": 28}, {"date": "2005-01-29", "rank": 24}, {"date": "2005-02-05", "rank": 26}, {"date": "2005-02-12", "rank": 30}, {"date": "2005-02-19", "rank": 32}, {"date": "2005-02-26", "rank": 41}, {"date": "2005-03-05", "rank": 35}, {"date": "2005-03-12", "rank": 25}, {"date": "2005-03-19", "rank": 31}, {"date": "2005-03-26", "rank": 28}, {"date": "2005-04-02", "rank": 35}, {"date": "2005-04-09", "rank": 42}, {"date": "2005-04-16", "rank": 25}, {"date": "2005-04-23", "rank": 33}, {"date": "2005-04-30", "rank": 37}, {"date": "2005-05-07", "rank": 41}, {"date": "2005-05-14", "rank": 62}, {"date": "2005-05-21", "rank": 76}, {"date": "2005-05-28", "rank": 76}, {"date": "2005-06-04", "rank": 82}, {"date": "2005-06-11", "rank": 100}, {"date": "2005-06-18", "rank": 97}, {"date": "2005-06-25", "rank": 110}, {"date": "2005-07-02", "rank": 113}, {"date": "2005-07-09", "rank": 116}, {"date": "2005-07-16", "rank": 121}, {"date": "2005-07-23", "rank": 108}, {"date": "2005-07-30", "rank": 119}, {"date": "2005-08-06", "rank": 119}, {"date": "2005-08-13", "rank": 135}, {"date": "2005-08-20", "rank": 128}, {"date": "2005-08-27", "rank": 141}, {"date": "2005-09-03", "rank": 157}, {"date": "2005-09-10", "rank": 148}, {"date": "2005-09-17", "rank": 158}, {"date": "2005-09-24", "rank": 148}, {"date": "2005-10-01", "rank": 171}, {"date": "2005-10-08", "rank": 198}]}
+{
+  "id": "urban-legend-t-i",
+  "title": "Urban Legend",
+  "artist": "T.I.",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2004-12-18",
+      "rank": 7
+    },
+    {
+      "date": "2004-12-25",
+      "rank": 28
+    },
+    {
+      "date": "2005-01-01",
+      "rank": 46
+    },
+    {
+      "date": "2005-01-08",
+      "rank": 40
+    },
+    {
+      "date": "2005-01-15",
+      "rank": 23
+    },
+    {
+      "date": "2005-01-22",
+      "rank": 28
+    },
+    {
+      "date": "2005-01-29",
+      "rank": 24
+    },
+    {
+      "date": "2005-02-05",
+      "rank": 26
+    },
+    {
+      "date": "2005-02-12",
+      "rank": 30
+    },
+    {
+      "date": "2005-02-19",
+      "rank": 32
+    },
+    {
+      "date": "2005-02-26",
+      "rank": 41
+    },
+    {
+      "date": "2005-03-05",
+      "rank": 35
+    },
+    {
+      "date": "2005-03-12",
+      "rank": 25
+    },
+    {
+      "date": "2005-03-19",
+      "rank": 31
+    },
+    {
+      "date": "2005-03-26",
+      "rank": 28
+    },
+    {
+      "date": "2005-04-02",
+      "rank": 35
+    },
+    {
+      "date": "2005-04-09",
+      "rank": 42
+    },
+    {
+      "date": "2005-04-16",
+      "rank": 25
+    },
+    {
+      "date": "2005-04-23",
+      "rank": 33
+    },
+    {
+      "date": "2005-04-30",
+      "rank": 37
+    },
+    {
+      "date": "2005-05-07",
+      "rank": 41
+    },
+    {
+      "date": "2005-05-14",
+      "rank": 62
+    },
+    {
+      "date": "2005-05-21",
+      "rank": 76
+    },
+    {
+      "date": "2005-05-28",
+      "rank": 76
+    },
+    {
+      "date": "2005-06-04",
+      "rank": 82
+    },
+    {
+      "date": "2005-06-11",
+      "rank": 100
+    },
+    {
+      "date": "2005-06-18",
+      "rank": 97
+    },
+    {
+      "date": "2005-06-25",
+      "rank": 110
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 113
+    },
+    {
+      "date": "2005-07-09",
+      "rank": 116
+    },
+    {
+      "date": "2005-07-16",
+      "rank": 121
+    },
+    {
+      "date": "2005-07-23",
+      "rank": 108
+    },
+    {
+      "date": "2005-07-30",
+      "rank": 119
+    },
+    {
+      "date": "2005-08-06",
+      "rank": 119
+    },
+    {
+      "date": "2005-08-13",
+      "rank": 135
+    },
+    {
+      "date": "2005-08-20",
+      "rank": 128
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 141
+    },
+    {
+      "date": "2005-09-03",
+      "rank": 157
+    },
+    {
+      "date": "2005-09-10",
+      "rank": 148
+    },
+    {
+      "date": "2005-09-17",
+      "rank": 158
+    },
+    {
+      "date": "2005-09-24",
+      "rank": 148
+    },
+    {
+      "date": "2005-10-01",
+      "rank": 171
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "U Don’t Know Me",
+      "id": "u-don-t-know-me-t-i"
+    },
+    {
+      "title": "ASAP",
+      "id": "asap-t-i"
+    },
+    {
+      "title": "Prayin for Help",
+      "id": "ready-for-whatever-t-i"
+    },
+    {
+      "title": "Bring Em Out",
+      "id": "bring-em-out-t-i"
+    },
+    {
+      "title": "Tha King",
+      "id": null
+    },
+    {
+      "title": "Motivation",
+      "id": null
+    },
+    {
+      "title": "Why U Mad at Me",
+      "id": null
+    },
+    {
+      "title": "Get Loose",
+      "id": null
+    },
+    {
+      "title": "What They Do",
+      "id": null
+    },
+    {
+      "title": "The Greatest",
+      "id": null
+    },
+    {
+      "title": "Get Ya Shit Together",
+      "id": null
+    },
+    {
+      "title": "Freak Though",
+      "id": null
+    },
+    {
+      "title": "Countdown",
+      "id": null
+    },
+    {
+      "title": "Limelight",
+      "id": null
+    },
+    {
+      "title": "Chillin With My Bitch",
+      "id": null
+    },
+    {
+      "title": "Stand Up",
+      "id": null
+    },
+    {
+      "title": "My Life",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"id": "wonderful-crazy-night-elton-john", "title": "Wonderful Crazy Night", "artist": "Elton John", "peak": 8, "history": [{"date": "2016-02-27", "rank": 8}, {"date": "2016-03-05", "rank": 67}, {"date": "2016-03-12", "rank": 157}, {"date": "2016-03-19", "rank": 115}]}
+{
+  "id": "wonderful-crazy-night-elton-john",
+  "title": "Wonderful Crazy Night",
+  "artist": "Elton John",
+  "peak": 8,
+  "history": [
+    {
+      "date": "2016-02-27",
+      "rank": 8
+    },
+    {
+      "date": "2016-03-05",
+      "rank": 67
+    },
+    {
+      "date": "2016-03-12",
+      "rank": 157
+    },
+    {
+      "date": "2016-03-19",
+      "rank": 115
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Free and Easy",
+      "id": "friends-elton-john"
+    },
+    {
+      "title": "Wonderful Crazy Night",
+      "id": null
+    },
+    {
+      "title": "In the Name of You",
+      "id": null
+    },
+    {
+      "title": "Claw Hammer",
+      "id": null
+    },
+    {
+      "title": "Blue Wonderful",
+      "id": null
+    },
+    {
+      "title": "I’ve Got 2 Wings",
+      "id": null
+    },
+    {
+      "title": "A Good Heart",
+      "id": null
+    },
+    {
+      "title": "Looking Up",
+      "id": null
+    },
+    {
+      "title": "Guilty Pleasure",
+      "id": null
+    },
+    {
+      "title": "Tambourine",
+      "id": null
+    },
+    {
+      "title": "The Open Chord",
+      "id": null
+    },
+    {
+      "title": "England and America",
+      "id": null
+    }
+  ]
+}

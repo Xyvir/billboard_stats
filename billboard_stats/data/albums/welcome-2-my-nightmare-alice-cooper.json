@@ -1,1 +1,106 @@
-{"id": "welcome-2-my-nightmare-alice-cooper", "title": "Welcome 2 My Nightmare", "artist": "Alice Cooper", "peak": 22, "history": [{"date": "2011-10-01", "rank": 22}, {"date": "2011-10-08", "rank": 87}, {"date": "2011-10-15", "rank": 160}]}
+{
+  "id": "welcome-2-my-nightmare-alice-cooper",
+  "title": "Welcome 2 My Nightmare",
+  "artist": "Alice Cooper",
+  "peak": 22,
+  "history": [
+    {
+      "date": "2011-10-01",
+      "rank": 22
+    },
+    {
+      "date": "2011-10-08",
+      "rank": 87
+    },
+    {
+      "date": "2011-10-15",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Under the Bed",
+      "id": "under-my-wheels-alice-cooper"
+    },
+    {
+      "title": "I Am Made of You",
+      "id": null
+    },
+    {
+      "title": "Caffeine",
+      "id": null
+    },
+    {
+      "title": "The Nightmare Returns",
+      "id": null
+    },
+    {
+      "title": "A Runaway Train",
+      "id": null
+    },
+    {
+      "title": "Last Man on Earth",
+      "id": null
+    },
+    {
+      "title": "The Congregation",
+      "id": null
+    },
+    {
+      "title": "I’ll Bite Your Face Off",
+      "id": null
+    },
+    {
+      "title": "Disco Bloodbath Boogie Fever",
+      "id": null
+    },
+    {
+      "title": "Ghouls Gone Wild",
+      "id": null
+    },
+    {
+      "title": "Something to Remember Me By",
+      "id": null
+    },
+    {
+      "title": "When Hell Comes Home",
+      "id": null
+    },
+    {
+      "title": "What Baby Wants",
+      "id": null
+    },
+    {
+      "title": "I Gotta Get Outta Here",
+      "id": null
+    },
+    {
+      "title": "The Underture",
+      "id": null
+    },
+    {
+      "title": "A Bad Situation",
+      "id": null
+    },
+    {
+      "title": "We Gotta Get Out of This Place",
+      "id": null
+    },
+    {
+      "title": "Flatline",
+      "id": null
+    },
+    {
+      "title": "Poison (live at Download Festival)",
+      "id": null
+    },
+    {
+      "title": "No More Mr. Nice Guy (live at Download Festival)",
+      "id": null
+    },
+    {
+      "title": "The Black Widow (live at Download Festival)",
+      "id": null
+    }
+  ]
+}

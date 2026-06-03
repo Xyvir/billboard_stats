@@ -1,1 +1,70 @@
-{"id": "the-sun-still-shines-sonny-charles", "title": "The Sun Still Shines", "artist": "Sonny Charles", "peak": 136, "history": [{"date": "1982-12-25", "rank": 190}, {"date": "1983-01-01", "rank": 190}, {"date": "1983-01-08", "rank": 179}, {"date": "1983-01-15", "rank": 153}, {"date": "1983-01-22", "rank": 143}, {"date": "1983-01-29", "rank": 136}, {"date": "1983-02-05", "rank": 136}]}
+{
+  "id": "the-sun-still-shines-sonny-charles",
+  "title": "The Sun Still Shines",
+  "artist": "Sonny Charles",
+  "peak": 136,
+  "history": [
+    {
+      "date": "1982-12-25",
+      "rank": 190
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 190
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 179
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 153
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 143
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 136
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 136
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Put It in a Magazine",
+      "id": "put-it-in-a-magazine-sonny-charles"
+    },
+    {
+      "title": "One Eyed Jacks",
+      "id": null
+    },
+    {
+      "title": "Can’t Get Enough",
+      "id": null
+    },
+    {
+      "title": "Week‐End Father Song",
+      "id": null
+    },
+    {
+      "title": "Treasure for Your Pleasure",
+      "id": null
+    },
+    {
+      "title": "Per‐so‐nal‐ly",
+      "id": null
+    },
+    {
+      "title": "Whet Your Whistle",
+      "id": null
+    },
+    {
+      "title": "Always on My Mind",
+      "id": null
+    }
+  ]
+}

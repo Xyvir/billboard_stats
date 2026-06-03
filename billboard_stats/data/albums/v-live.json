@@ -1,1 +1,102 @@
-{"id": "v-live", "title": "V", "artist": "Live", "peak": 22, "history": [{"date": "2001-10-06", "rank": 22}, {"date": "2001-10-13", "rank": 36}, {"date": "2001-10-20", "rank": 50}, {"date": "2001-10-27", "rank": 60}, {"date": "2001-11-03", "rank": 76}, {"date": "2001-11-10", "rank": 98}, {"date": "2001-11-17", "rank": 135}, {"date": "2001-11-24", "rank": 163}]}
+{
+  "id": "v-live",
+  "title": "V",
+  "artist": "Live",
+  "peak": 22,
+  "history": [
+    {
+      "date": "2001-10-06",
+      "rank": 22
+    },
+    {
+      "date": "2001-10-13",
+      "rank": 36
+    },
+    {
+      "date": "2001-10-20",
+      "rank": 50
+    },
+    {
+      "date": "2001-10-27",
+      "rank": 60
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 76
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 98
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 135
+    },
+    {
+      "date": "2001-11-24",
+      "rank": 163
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Simple Creed",
+      "id": null
+    },
+    {
+      "title": "Deep Enough",
+      "id": null
+    },
+    {
+      "title": "Like a Soldier",
+      "id": null
+    },
+    {
+      "title": "People Like You",
+      "id": null
+    },
+    {
+      "title": "Transmit Your Love",
+      "id": null
+    },
+    {
+      "title": "Forever May Not Be Long Enough",
+      "id": null
+    },
+    {
+      "title": "Call Me a Fool",
+      "id": null
+    },
+    {
+      "title": "Flow",
+      "id": null
+    },
+    {
+      "title": "The Ride",
+      "id": null
+    },
+    {
+      "title": "Nobody Knows",
+      "id": null
+    },
+    {
+      "title": "OK?",
+      "id": null
+    },
+    {
+      "title": "Overcome",
+      "id": null
+    },
+    {
+      "title": "Hero of Love",
+      "id": null
+    },
+    {
+      "title": "Deep Enough (remix)",
+      "id": null
+    }
+  ]
+}

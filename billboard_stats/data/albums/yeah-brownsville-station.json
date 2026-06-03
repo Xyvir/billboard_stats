@@ -1,1 +1,126 @@
-{"id": "yeah-brownsville-station", "title": "Yeah!", "artist": "Brownsville Station", "peak": 98, "history": [{"date": "1973-09-15", "rank": 189}, {"date": "1973-09-22", "rank": 182}, {"date": "1973-09-29", "rank": 199}, {"date": "1973-10-06", "rank": 199}, {"date": "1973-12-22", "rank": 192}, {"date": "1973-12-29", "rank": 182}, {"date": "1974-01-05", "rank": 169}, {"date": "1974-01-12", "rank": 155}, {"date": "1974-01-19", "rank": 130}, {"date": "1974-01-26", "rank": 111}, {"date": "1974-02-02", "rank": 106}, {"date": "1974-02-09", "rank": 101}, {"date": "1974-02-16", "rank": 98}, {"date": "1974-02-23", "rank": 105}, {"date": "1974-03-02", "rank": 114}, {"date": "1974-03-09", "rank": 143}, {"date": "1974-03-16", "rank": 174}, {"date": "1974-03-23", "rank": 183}, {"date": "1974-03-30", "rank": 194}]}
+{
+  "id": "yeah-brownsville-station",
+  "title": "Yeah!",
+  "artist": "Brownsville Station",
+  "peak": 98,
+  "history": [
+    {
+      "date": "1973-09-15",
+      "rank": 189
+    },
+    {
+      "date": "1973-09-22",
+      "rank": 182
+    },
+    {
+      "date": "1973-09-29",
+      "rank": 199
+    },
+    {
+      "date": "1973-10-06",
+      "rank": 199
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 192
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 182
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 169
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 155
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 130
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 111
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 106
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 101
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 98
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 105
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 114
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 143
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 174
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 183
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let Your Yeah Be Yeah",
+      "id": "let-your-yeah-be-yeah-brownsville-station"
+    },
+    {
+      "title": "Smokin’ in the Boys Room",
+      "id": "smokin-in-the-boy-s-room-brownsville-station"
+    },
+    {
+      "title": "Question of Temperature",
+      "id": null
+    },
+    {
+      "title": "Lightnin’ Bar Blues",
+      "id": null
+    },
+    {
+      "title": "Take It or Leave It",
+      "id": null
+    },
+    {
+      "title": "All Night Long",
+      "id": null
+    },
+    {
+      "title": "Sweet Jane",
+      "id": null
+    },
+    {
+      "title": "Love, Love, Love",
+      "id": null
+    },
+    {
+      "title": "Go Out and Get Her",
+      "id": null
+    },
+    {
+      "title": "Barefootin’",
+      "id": null
+    }
+  ]
+}

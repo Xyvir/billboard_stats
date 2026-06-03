@@ -1,1 +1,62 @@
-{"id": "we-ran-linda-ronstadt", "title": "We Ran", "artist": "Linda Ronstadt", "peak": 160, "history": [{"date": "1998-07-11", "rank": 160}, {"date": "1998-07-25", "rank": 191}]}
+{
+  "id": "we-ran-linda-ronstadt",
+  "title": "We Ran",
+  "artist": "Linda Ronstadt",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1998-07-11",
+      "rank": 160
+    },
+    {
+      "date": "1998-07-25",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ruler of My Heart",
+      "id": "tracks-of-my-tears-linda-ronstadt"
+    },
+    {
+      "title": "When We Ran",
+      "id": null
+    },
+    {
+      "title": "If I Should Fall Behind",
+      "id": null
+    },
+    {
+      "title": "Give Me a Reason",
+      "id": null
+    },
+    {
+      "title": "Just Like Tom Thumb's Blues",
+      "id": null
+    },
+    {
+      "title": "Cry ’til My Tears Run Dry",
+      "id": null
+    },
+    {
+      "title": "I Go to Pieces",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Kind",
+      "id": null
+    },
+    {
+      "title": "Damage",
+      "id": null
+    },
+    {
+      "title": "Icy Blue Heart",
+      "id": null
+    },
+    {
+      "title": "Dreams of the San Joaquin",
+      "id": null
+    }
+  ]
+}

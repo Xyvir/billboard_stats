@@ -1,1 +1,94 @@
-{"id": "the-very-best-of-grateful-dead-grateful-dead", "title": "The Very Best Of Grateful Dead", "artist": "Grateful Dead", "peak": 69, "history": [{"date": "2003-10-04", "rank": 69}, {"date": "2003-10-11", "rank": 107}, {"date": "2003-10-18", "rank": 147}, {"date": "2003-10-25", "rank": 198}]}
+{
+  "id": "the-very-best-of-grateful-dead-grateful-dead",
+  "title": "The Very Best Of Grateful Dead",
+  "artist": "Grateful Dead",
+  "peak": 69,
+  "history": [
+    {
+      "date": "2003-10-04",
+      "rank": 69
+    },
+    {
+      "date": "2003-10-11",
+      "rank": 107
+    },
+    {
+      "date": "2003-10-18",
+      "rank": 147
+    },
+    {
+      "date": "2003-10-25",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Truckin’",
+      "id": "truckin-grateful-dead"
+    },
+    {
+      "title": "Touch of Grey",
+      "id": "touch-of-grey-grateful-dead"
+    },
+    {
+      "title": "Sugar Magnolia",
+      "id": "sugar-magnolia-grateful-dead"
+    },
+    {
+      "title": "Uncle John’s Band",
+      "id": "uncle-john-s-band-the-grateful-dead"
+    },
+    {
+      "title": "The Music Never Stopped",
+      "id": "the-music-never-stopped-the-grateful-dead"
+    },
+    {
+      "title": "Casey Jones",
+      "id": null
+    },
+    {
+      "title": "Friend of the Devil",
+      "id": null
+    },
+    {
+      "title": "Franklin’s Tower",
+      "id": null
+    },
+    {
+      "title": "Estimated Prophet",
+      "id": null
+    },
+    {
+      "title": "Eyes of the World",
+      "id": null
+    },
+    {
+      "title": "Box of Rain",
+      "id": null
+    },
+    {
+      "title": "U.S. Blues",
+      "id": null
+    },
+    {
+      "title": "The Golden Road (to Unlimited Devotion)",
+      "id": null
+    },
+    {
+      "title": "One More Saturday Night",
+      "id": null
+    },
+    {
+      "title": "Fire on the Mountain",
+      "id": null
+    },
+    {
+      "title": "Hell in a Bucket",
+      "id": null
+    },
+    {
+      "title": "Ripple",
+      "id": null
+    }
+  ]
+}

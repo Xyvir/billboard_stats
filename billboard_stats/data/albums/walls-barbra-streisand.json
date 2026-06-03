@@ -1,1 +1,62 @@
-{"id": "walls-barbra-streisand", "title": "Walls", "artist": "Barbra Streisand", "peak": 12, "history": [{"date": "2018-11-17", "rank": 12}, {"date": "2018-11-24", "rank": 87}]}
+{
+  "id": "walls-barbra-streisand",
+  "title": "Walls",
+  "artist": "Barbra Streisand",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2018-11-17",
+      "rank": 12
+    },
+    {
+      "date": "2018-11-24",
+      "rank": 87
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What’s on My Mind",
+      "id": null
+    },
+    {
+      "title": "Don’t Lie to Me",
+      "id": null
+    },
+    {
+      "title": "Imagine / What a Wonderful World",
+      "id": null
+    },
+    {
+      "title": "Walls",
+      "id": null
+    },
+    {
+      "title": "Lady Liberty",
+      "id": null
+    },
+    {
+      "title": "What the World Needs Now",
+      "id": null
+    },
+    {
+      "title": "Better Angels",
+      "id": null
+    },
+    {
+      "title": "Love’s Never Wrong",
+      "id": null
+    },
+    {
+      "title": "The Rain Will Fall",
+      "id": null
+    },
+    {
+      "title": "Take Care of This House",
+      "id": null
+    },
+    {
+      "title": "Happy Days Are Here Again",
+      "id": null
+    }
+  ]
+}

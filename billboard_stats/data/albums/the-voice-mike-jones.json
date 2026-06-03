@@ -1,1 +1,94 @@
-{"id": "the-voice-mike-jones", "title": "The Voice", "artist": "Mike Jones", "peak": 12, "history": [{"date": "2009-05-16", "rank": 12}, {"date": "2009-05-23", "rank": 60}, {"date": "2009-05-30", "rank": 84}, {"date": "2009-06-06", "rank": 142}, {"date": "2009-06-13", "rank": 179}]}
+{
+  "id": "the-voice-mike-jones",
+  "title": "The Voice",
+  "artist": "Mike Jones",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2009-05-16",
+      "rank": 12
+    },
+    {
+      "date": "2009-05-23",
+      "rank": 60
+    },
+    {
+      "date": "2009-05-30",
+      "rank": 84
+    },
+    {
+      "date": "2009-06-06",
+      "rank": 142
+    },
+    {
+      "date": "2009-06-13",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Next to You",
+      "id": "next-to-you-mike-jones"
+    },
+    {
+      "title": "The Voice (intro)",
+      "id": null
+    },
+    {
+      "title": "Swagger Right",
+      "id": null
+    },
+    {
+      "title": "Houston Oilers",
+      "id": null
+    },
+    {
+      "title": "Boi!",
+      "id": null
+    },
+    {
+      "title": "Cuddy Buddy",
+      "id": null
+    },
+    {
+      "title": "I Know",
+      "id": null
+    },
+    {
+      "title": "Drop & Gimme 50",
+      "id": null
+    },
+    {
+      "title": "Give Me a Call",
+      "id": null
+    },
+    {
+      "title": "Happy Birthday",
+      "id": null
+    },
+    {
+      "title": "Swagg Thru da Roof",
+      "id": null
+    },
+    {
+      "title": "On Top of the Covers",
+      "id": null
+    },
+    {
+      "title": "Scandalous Hoes (skit)",
+      "id": null
+    },
+    {
+      "title": "Scandalous Hoes, Part II",
+      "id": null
+    },
+    {
+      "title": "Hate on Me",
+      "id": null
+    },
+    {
+      "title": "Grandma, Part II",
+      "id": null
+    }
+  ]
+}

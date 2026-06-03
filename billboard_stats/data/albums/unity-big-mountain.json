@@ -1,1 +1,74 @@
-{"id": "unity-big-mountain", "title": "Unity", "artist": "Big Mountain", "peak": 174, "history": [{"date": "1994-08-06", "rank": 198}, {"date": "1994-08-13", "rank": 176}, {"date": "1994-08-20", "rank": 180}, {"date": "1994-08-27", "rank": 174}, {"date": "1994-09-17", "rank": 198}]}
+{
+  "id": "unity-big-mountain",
+  "title": "Unity",
+  "artist": "Big Mountain",
+  "peak": 174,
+  "history": [
+    {
+      "date": "1994-08-06",
+      "rank": 198
+    },
+    {
+      "date": "1994-08-13",
+      "rank": 176
+    },
+    {
+      "date": "1994-08-20",
+      "rank": 180
+    },
+    {
+      "date": "1994-08-27",
+      "rank": 174
+    },
+    {
+      "date": "1994-09-17",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sweet Sensual Love",
+      "id": "sweet-sensual-love-big-mountain"
+    },
+    {
+      "title": "Baby I Love Your Way",
+      "id": "baby-i-love-your-way-from-reality-bites-big-mountain"
+    },
+    {
+      "title": "Fruitful Days",
+      "id": null
+    },
+    {
+      "title": "Border Town",
+      "id": null
+    },
+    {
+      "title": "Upful & Right",
+      "id": null
+    },
+    {
+      "title": "I Would Find a Way",
+      "id": null
+    },
+    {
+      "title": "Tengo Ganas",
+      "id": null
+    },
+    {
+      "title": "Young Revolutionaries",
+      "id": null
+    },
+    {
+      "title": "Revolution",
+      "id": null
+    },
+    {
+      "title": "Time Has Come",
+      "id": null
+    },
+    {
+      "title": "Big Mountain",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,310 @@
-{"id": "the-suburbs-arcade-fire", "title": "The Suburbs", "artist": "Arcade Fire", "peak": 1, "history": [{"date": "2010-08-21", "rank": 1}, {"date": "2010-08-28", "rank": 2}, {"date": "2010-09-04", "rank": 7}, {"date": "2010-09-11", "rank": 16}, {"date": "2010-09-18", "rank": 14}, {"date": "2010-09-25", "rank": 17}, {"date": "2010-10-02", "rank": 33}, {"date": "2010-10-09", "rank": 39}, {"date": "2010-10-16", "rank": 50}, {"date": "2010-10-23", "rank": 54}, {"date": "2010-10-30", "rank": 52}, {"date": "2010-11-06", "rank": 63}, {"date": "2010-11-13", "rank": 68}, {"date": "2010-11-20", "rank": 97}, {"date": "2010-11-27", "rank": 109}, {"date": "2010-12-04", "rank": 112}, {"date": "2010-12-11", "rank": 86}, {"date": "2010-12-18", "rank": 131}, {"date": "2010-12-25", "rank": 148}, {"date": "2011-01-01", "rank": 118}, {"date": "2011-01-08", "rank": 98}, {"date": "2011-01-15", "rank": 55}, {"date": "2011-01-22", "rank": 54}, {"date": "2011-01-29", "rank": 61}, {"date": "2011-02-05", "rank": 72}, {"date": "2011-02-12", "rank": 83}, {"date": "2011-02-19", "rank": 80}, {"date": "2011-02-26", "rank": 52}, {"date": "2011-03-05", "rank": 12}, {"date": "2011-03-12", "rank": 17}, {"date": "2011-03-19", "rank": 48}, {"date": "2011-03-26", "rank": 64}, {"date": "2011-04-02", "rank": 74}, {"date": "2011-04-09", "rank": 88}, {"date": "2011-04-16", "rank": 86}, {"date": "2011-04-23", "rank": 94}, {"date": "2011-04-30", "rank": 89}, {"date": "2011-05-07", "rank": 86}, {"date": "2011-05-14", "rank": 80}, {"date": "2011-05-21", "rank": 109}, {"date": "2011-05-28", "rank": 119}, {"date": "2011-06-04", "rank": 128}, {"date": "2011-06-11", "rank": 114}, {"date": "2011-06-18", "rank": 130}, {"date": "2011-06-25", "rank": 150}, {"date": "2011-07-02", "rank": 177}, {"date": "2011-07-16", "rank": 198}, {"date": "2011-08-20", "rank": 100}, {"date": "2011-08-27", "rank": 115}, {"date": "2011-09-03", "rank": 135}, {"date": "2011-09-10", "rank": 187}, {"date": "2011-10-01", "rank": 120}]}
+{
+  "id": "the-suburbs-arcade-fire",
+  "title": "The Suburbs",
+  "artist": "Arcade Fire",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2010-08-21",
+      "rank": 1
+    },
+    {
+      "date": "2010-08-28",
+      "rank": 2
+    },
+    {
+      "date": "2010-09-04",
+      "rank": 7
+    },
+    {
+      "date": "2010-09-11",
+      "rank": 16
+    },
+    {
+      "date": "2010-09-18",
+      "rank": 14
+    },
+    {
+      "date": "2010-09-25",
+      "rank": 17
+    },
+    {
+      "date": "2010-10-02",
+      "rank": 33
+    },
+    {
+      "date": "2010-10-09",
+      "rank": 39
+    },
+    {
+      "date": "2010-10-16",
+      "rank": 50
+    },
+    {
+      "date": "2010-10-23",
+      "rank": 54
+    },
+    {
+      "date": "2010-10-30",
+      "rank": 52
+    },
+    {
+      "date": "2010-11-06",
+      "rank": 63
+    },
+    {
+      "date": "2010-11-13",
+      "rank": 68
+    },
+    {
+      "date": "2010-11-20",
+      "rank": 97
+    },
+    {
+      "date": "2010-11-27",
+      "rank": 109
+    },
+    {
+      "date": "2010-12-04",
+      "rank": 112
+    },
+    {
+      "date": "2010-12-11",
+      "rank": 86
+    },
+    {
+      "date": "2010-12-18",
+      "rank": 131
+    },
+    {
+      "date": "2010-12-25",
+      "rank": 148
+    },
+    {
+      "date": "2011-01-01",
+      "rank": 118
+    },
+    {
+      "date": "2011-01-08",
+      "rank": 98
+    },
+    {
+      "date": "2011-01-15",
+      "rank": 55
+    },
+    {
+      "date": "2011-01-22",
+      "rank": 54
+    },
+    {
+      "date": "2011-01-29",
+      "rank": 61
+    },
+    {
+      "date": "2011-02-05",
+      "rank": 72
+    },
+    {
+      "date": "2011-02-12",
+      "rank": 83
+    },
+    {
+      "date": "2011-02-19",
+      "rank": 80
+    },
+    {
+      "date": "2011-02-26",
+      "rank": 52
+    },
+    {
+      "date": "2011-03-05",
+      "rank": 12
+    },
+    {
+      "date": "2011-03-12",
+      "rank": 17
+    },
+    {
+      "date": "2011-03-19",
+      "rank": 48
+    },
+    {
+      "date": "2011-03-26",
+      "rank": 64
+    },
+    {
+      "date": "2011-04-02",
+      "rank": 74
+    },
+    {
+      "date": "2011-04-09",
+      "rank": 88
+    },
+    {
+      "date": "2011-04-16",
+      "rank": 86
+    },
+    {
+      "date": "2011-04-23",
+      "rank": 94
+    },
+    {
+      "date": "2011-04-30",
+      "rank": 89
+    },
+    {
+      "date": "2011-05-07",
+      "rank": 86
+    },
+    {
+      "date": "2011-05-14",
+      "rank": 80
+    },
+    {
+      "date": "2011-05-21",
+      "rank": 109
+    },
+    {
+      "date": "2011-05-28",
+      "rank": 119
+    },
+    {
+      "date": "2011-06-04",
+      "rank": 128
+    },
+    {
+      "date": "2011-06-11",
+      "rank": 114
+    },
+    {
+      "date": "2011-06-18",
+      "rank": 130
+    },
+    {
+      "date": "2011-06-25",
+      "rank": 150
+    },
+    {
+      "date": "2011-07-02",
+      "rank": 177
+    },
+    {
+      "date": "2011-07-16",
+      "rank": 198
+    },
+    {
+      "date": "2011-08-20",
+      "rank": 100
+    },
+    {
+      "date": "2011-08-27",
+      "rank": 115
+    },
+    {
+      "date": "2011-09-03",
+      "rank": 135
+    },
+    {
+      "date": "2011-09-10",
+      "rank": 187
+    },
+    {
+      "date": "2011-10-01",
+      "rank": 120
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Suburbs",
+      "id": null
+    },
+    {
+      "title": "Ready to Start",
+      "id": null
+    },
+    {
+      "title": "Modern Man",
+      "id": null
+    },
+    {
+      "title": "Rococo",
+      "id": null
+    },
+    {
+      "title": "Empty Room",
+      "id": null
+    },
+    {
+      "title": "City With No Children",
+      "id": null
+    },
+    {
+      "title": "Half Light I",
+      "id": null
+    },
+    {
+      "title": "Half Light II (No Celebration)",
+      "id": null
+    },
+    {
+      "title": "Suburban War",
+      "id": null
+    },
+    {
+      "title": "Month of May",
+      "id": null
+    },
+    {
+      "title": "Wasted Hours (A Life That We Can Live)",
+      "id": null
+    },
+    {
+      "title": "Deep Blue",
+      "id": null
+    },
+    {
+      "title": "We Used to Wait",
+      "id": null
+    },
+    {
+      "title": "Sprawl I (Flatland)",
+      "id": null
+    },
+    {
+      "title": "Sprawl II (Mountains Beyond Mountains)",
+      "id": null
+    },
+    {
+      "title": "The Suburbs (continued)",
+      "id": null
+    },
+    {
+      "title": "Culture War",
+      "id": null
+    },
+    {
+      "title": "Speaking in Tongues",
+      "id": null
+    },
+    {
+      "title": "Ready to Start (Damian Taylor remix)",
+      "id": null
+    },
+    {
+      "title": "Sprawl I (demo)",
+      "id": null
+    },
+    {
+      "title": "Scenes From the Suburbs",
+      "id": null
+    },
+    {
+      "title": "Behind the Scenes From the Suburbs",
+      "id": null
+    },
+    {
+      "title": "The Suburbs Music Video",
+      "id": null
+    }
+  ]
+}

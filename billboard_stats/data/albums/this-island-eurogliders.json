@@ -1,1 +1,102 @@
-{"id": "this-island-eurogliders", "title": "This Island", "artist": "Eurogliders", "peak": 140, "history": [{"date": "1984-12-22", "rank": 194}, {"date": "1984-12-29", "rank": 194}, {"date": "1985-01-05", "rank": 188}, {"date": "1985-01-12", "rank": 184}, {"date": "1985-01-19", "rank": 179}, {"date": "1985-01-26", "rank": 160}, {"date": "1985-02-02", "rank": 153}, {"date": "1985-02-09", "rank": 142}, {"date": "1985-02-16", "rank": 140}, {"date": "1985-02-23", "rank": 140}, {"date": "1985-03-02", "rank": 184}]}
+{
+  "id": "this-island-eurogliders",
+  "title": "This Island",
+  "artist": "Eurogliders",
+  "peak": 140,
+  "history": [
+    {
+      "date": "1984-12-22",
+      "rank": 194
+    },
+    {
+      "date": "1984-12-29",
+      "rank": 194
+    },
+    {
+      "date": "1985-01-05",
+      "rank": 188
+    },
+    {
+      "date": "1985-01-12",
+      "rank": 184
+    },
+    {
+      "date": "1985-01-19",
+      "rank": 179
+    },
+    {
+      "date": "1985-01-26",
+      "rank": 160
+    },
+    {
+      "date": "1985-02-02",
+      "rank": 153
+    },
+    {
+      "date": "1985-02-09",
+      "rank": 142
+    },
+    {
+      "date": "1985-02-16",
+      "rank": 140
+    },
+    {
+      "date": "1985-02-23",
+      "rank": 140
+    },
+    {
+      "date": "1985-03-02",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Heaven (Must Be There)",
+      "id": "heaven-must-be-there-eurogliders"
+    },
+    {
+      "title": "Someone",
+      "id": null
+    },
+    {
+      "title": "No Action",
+      "id": null
+    },
+    {
+      "title": "Never Say",
+      "id": null
+    },
+    {
+      "title": "Maybe Only I Dream",
+      "id": null
+    },
+    {
+      "title": "Cold Comfort",
+      "id": null
+    },
+    {
+      "title": "Keep It Quiet",
+      "id": null
+    },
+    {
+      "title": "Nothing to Say",
+      "id": null
+    },
+    {
+      "title": "Another Day in the Big World",
+      "id": null
+    },
+    {
+      "title": "Judy’s World",
+      "id": null
+    },
+    {
+      "title": "Waiting for You",
+      "id": null
+    },
+    {
+      "title": "It’s the Way",
+      "id": null
+    }
+  ]
+}

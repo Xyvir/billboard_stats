@@ -1,1 +1,78 @@
-{"id": "voyage-abba", "title": "Voyage", "artist": "ABBA", "peak": 2, "history": [{"date": "2021-11-20", "rank": 2}, {"date": "2021-11-27", "rank": 27}, {"date": "2021-12-04", "rank": 64}, {"date": "2021-12-11", "rank": 97}, {"date": "2021-12-18", "rank": 132}, {"date": "2021-12-25", "rank": 157}, {"date": "2022-01-01", "rank": 142}]}
+{
+  "id": "voyage-abba",
+  "title": "Voyage",
+  "artist": "ABBA",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2021-11-20",
+      "rank": 2
+    },
+    {
+      "date": "2021-11-27",
+      "rank": 27
+    },
+    {
+      "date": "2021-12-04",
+      "rank": 64
+    },
+    {
+      "date": "2021-12-11",
+      "rank": 97
+    },
+    {
+      "date": "2021-12-18",
+      "rank": 132
+    },
+    {
+      "date": "2021-12-25",
+      "rank": 157
+    },
+    {
+      "date": "2022-01-01",
+      "rank": 142
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Still Have Faith in You",
+      "id": null
+    },
+    {
+      "title": "When You Danced With Me",
+      "id": null
+    },
+    {
+      "title": "Little Things",
+      "id": null
+    },
+    {
+      "title": "Don’t Shut Me Down",
+      "id": null
+    },
+    {
+      "title": "Just a Notion",
+      "id": null
+    },
+    {
+      "title": "I Can Be That Woman",
+      "id": null
+    },
+    {
+      "title": "Keep an Eye on Dan",
+      "id": null
+    },
+    {
+      "title": "Bumblebee",
+      "id": null
+    },
+    {
+      "title": "No Doubt About It",
+      "id": null
+    },
+    {
+      "title": "Ode to Freedom",
+      "id": null
+    }
+  ]
+}

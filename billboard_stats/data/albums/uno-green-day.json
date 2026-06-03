@@ -1,1 +1,122 @@
-{"id": "uno-green-day", "title": "Uno!", "artist": "Green Day", "peak": 2, "history": [{"date": "2012-10-13", "rank": 2}, {"date": "2012-10-20", "rank": 11}, {"date": "2012-10-27", "rank": 26}, {"date": "2012-11-03", "rank": 32}, {"date": "2012-11-10", "rank": 46}, {"date": "2012-11-17", "rank": 58}, {"date": "2012-11-24", "rank": 72}, {"date": "2012-12-01", "rank": 82}, {"date": "2012-12-08", "rank": 189}, {"date": "2012-12-15", "rank": 154}, {"date": "2012-12-22", "rank": 135}, {"date": "2012-12-29", "rank": 87}, {"date": "2013-01-05", "rank": 91}, {"date": "2013-01-12", "rank": 112}, {"date": "2013-01-19", "rank": 118}, {"date": "2013-01-26", "rank": 144}]}
+{
+  "id": "uno-green-day",
+  "title": "Uno!",
+  "artist": "Green Day",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2012-10-13",
+      "rank": 2
+    },
+    {
+      "date": "2012-10-20",
+      "rank": 11
+    },
+    {
+      "date": "2012-10-27",
+      "rank": 26
+    },
+    {
+      "date": "2012-11-03",
+      "rank": 32
+    },
+    {
+      "date": "2012-11-10",
+      "rank": 46
+    },
+    {
+      "date": "2012-11-17",
+      "rank": 58
+    },
+    {
+      "date": "2012-11-24",
+      "rank": 72
+    },
+    {
+      "date": "2012-12-01",
+      "rank": 82
+    },
+    {
+      "date": "2012-12-08",
+      "rank": 189
+    },
+    {
+      "date": "2012-12-15",
+      "rank": 154
+    },
+    {
+      "date": "2012-12-22",
+      "rank": 135
+    },
+    {
+      "date": "2012-12-29",
+      "rank": 87
+    },
+    {
+      "date": "2013-01-05",
+      "rank": 91
+    },
+    {
+      "date": "2013-01-12",
+      "rank": 112
+    },
+    {
+      "date": "2013-01-19",
+      "rank": 118
+    },
+    {
+      "date": "2013-01-26",
+      "rank": 144
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Oh Love",
+      "id": "oh-love-green-day"
+    },
+    {
+      "title": "Nuclear Family",
+      "id": null
+    },
+    {
+      "title": "Stay the Night",
+      "id": null
+    },
+    {
+      "title": "Carpe Diem",
+      "id": null
+    },
+    {
+      "title": "Let Yourself Go",
+      "id": null
+    },
+    {
+      "title": "Kill the DJ",
+      "id": null
+    },
+    {
+      "title": "Fell for You",
+      "id": null
+    },
+    {
+      "title": "Loss of Control",
+      "id": null
+    },
+    {
+      "title": "Troublemaker",
+      "id": null
+    },
+    {
+      "title": "Angel Blue",
+      "id": null
+    },
+    {
+      "title": "Sweet 16",
+      "id": null
+    },
+    {
+      "title": "Rusty James",
+      "id": null
+    }
+  ]
+}

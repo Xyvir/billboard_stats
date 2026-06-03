@@ -1,1 +1,78 @@
-{"id": "the-warmer-side-of-cool-wang-chung", "title": "The Warmer Side Of Cool", "artist": "Wang Chung", "peak": 123, "history": [{"date": "1989-06-10", "rank": 160}, {"date": "1989-06-17", "rank": 142}, {"date": "1989-06-24", "rank": 134}, {"date": "1989-07-01", "rank": 125}, {"date": "1989-07-08", "rank": 125}, {"date": "1989-07-15", "rank": 123}]}
+{
+  "id": "the-warmer-side-of-cool-wang-chung",
+  "title": "The Warmer Side Of Cool",
+  "artist": "Wang Chung",
+  "peak": 123,
+  "history": [
+    {
+      "date": "1989-06-10",
+      "rank": 160
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 142
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 134
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 125
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 125
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 123
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Praying to a New God",
+      "id": "praying-to-a-new-god-wang-chung"
+    },
+    {
+      "title": "What’s So Bad About Feeling Good?",
+      "id": null
+    },
+    {
+      "title": "Snakedance",
+      "id": null
+    },
+    {
+      "title": "Swing",
+      "id": null
+    },
+    {
+      "title": "When Love Looks Back At You",
+      "id": null
+    },
+    {
+      "title": "Games of Power",
+      "id": null
+    },
+    {
+      "title": "At the Speed of Life",
+      "id": null
+    },
+    {
+      "title": "The Warmer Side of Cool",
+      "id": null
+    },
+    {
+      "title": "Logic and Love",
+      "id": null
+    },
+    {
+      "title": "Tall Trees in a Blue Sky",
+      "id": null
+    },
+    {
+      "title": "Big World",
+      "id": null
+    }
+  ]
+}

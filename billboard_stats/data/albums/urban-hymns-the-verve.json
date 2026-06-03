@@ -1,1 +1,246 @@
-{"id": "urban-hymns-the-verve", "title": "Urban Hymns", "artist": "The Verve", "peak": 23, "history": [{"date": "1997-10-18", "rank": 63}, {"date": "1997-10-25", "rank": 79}, {"date": "1997-11-01", "rank": 78}, {"date": "1997-11-08", "rank": 72}, {"date": "1997-11-15", "rank": 81}, {"date": "1997-11-22", "rank": 91}, {"date": "1997-11-29", "rank": 83}, {"date": "1997-12-06", "rank": 88}, {"date": "1997-12-13", "rank": 94}, {"date": "1997-12-20", "rank": 97}, {"date": "1997-12-27", "rank": 110}, {"date": "1998-01-03", "rank": 111}, {"date": "1998-01-10", "rank": 95}, {"date": "1998-01-17", "rank": 77}, {"date": "1998-01-24", "rank": 70}, {"date": "1998-01-31", "rank": 36}, {"date": "1998-02-07", "rank": 30}, {"date": "1998-02-14", "rank": 23}, {"date": "1998-02-21", "rank": 28}, {"date": "1998-02-28", "rank": 33}, {"date": "1998-03-07", "rank": 27}, {"date": "1998-03-14", "rank": 31}, {"date": "1998-03-21", "rank": 33}, {"date": "1998-03-28", "rank": 41}, {"date": "1998-04-04", "rank": 43}, {"date": "1998-04-11", "rank": 44}, {"date": "1998-04-18", "rank": 51}, {"date": "1998-04-25", "rank": 54}, {"date": "1998-05-02", "rank": 56}, {"date": "1998-05-09", "rank": 58}, {"date": "1998-05-16", "rank": 68}, {"date": "1998-05-23", "rank": 74}, {"date": "1998-05-30", "rank": 87}, {"date": "1998-06-06", "rank": 98}, {"date": "1998-06-13", "rank": 96}, {"date": "1998-06-20", "rank": 105}, {"date": "1998-06-27", "rank": 106}, {"date": "1998-07-04", "rank": 119}, {"date": "1998-07-11", "rank": 129}, {"date": "1998-07-18", "rank": 155}, {"date": "1998-07-25", "rank": 172}, {"date": "1998-08-01", "rank": 169}, {"date": "1998-08-08", "rank": 167}, {"date": "1998-08-15", "rank": 196}, {"date": "1998-08-22", "rank": 197}, {"date": "1998-09-05", "rank": 199}]}
+{
+  "id": "urban-hymns-the-verve",
+  "title": "Urban Hymns",
+  "artist": "The Verve",
+  "peak": 23,
+  "history": [
+    {
+      "date": "1997-10-18",
+      "rank": 63
+    },
+    {
+      "date": "1997-10-25",
+      "rank": 79
+    },
+    {
+      "date": "1997-11-01",
+      "rank": 78
+    },
+    {
+      "date": "1997-11-08",
+      "rank": 72
+    },
+    {
+      "date": "1997-11-15",
+      "rank": 81
+    },
+    {
+      "date": "1997-11-22",
+      "rank": 91
+    },
+    {
+      "date": "1997-11-29",
+      "rank": 83
+    },
+    {
+      "date": "1997-12-06",
+      "rank": 88
+    },
+    {
+      "date": "1997-12-13",
+      "rank": 94
+    },
+    {
+      "date": "1997-12-20",
+      "rank": 97
+    },
+    {
+      "date": "1997-12-27",
+      "rank": 110
+    },
+    {
+      "date": "1998-01-03",
+      "rank": 111
+    },
+    {
+      "date": "1998-01-10",
+      "rank": 95
+    },
+    {
+      "date": "1998-01-17",
+      "rank": 77
+    },
+    {
+      "date": "1998-01-24",
+      "rank": 70
+    },
+    {
+      "date": "1998-01-31",
+      "rank": 36
+    },
+    {
+      "date": "1998-02-07",
+      "rank": 30
+    },
+    {
+      "date": "1998-02-14",
+      "rank": 23
+    },
+    {
+      "date": "1998-02-21",
+      "rank": 28
+    },
+    {
+      "date": "1998-02-28",
+      "rank": 33
+    },
+    {
+      "date": "1998-03-07",
+      "rank": 27
+    },
+    {
+      "date": "1998-03-14",
+      "rank": 31
+    },
+    {
+      "date": "1998-03-21",
+      "rank": 33
+    },
+    {
+      "date": "1998-03-28",
+      "rank": 41
+    },
+    {
+      "date": "1998-04-04",
+      "rank": 43
+    },
+    {
+      "date": "1998-04-11",
+      "rank": 44
+    },
+    {
+      "date": "1998-04-18",
+      "rank": 51
+    },
+    {
+      "date": "1998-04-25",
+      "rank": 54
+    },
+    {
+      "date": "1998-05-02",
+      "rank": 56
+    },
+    {
+      "date": "1998-05-09",
+      "rank": 58
+    },
+    {
+      "date": "1998-05-16",
+      "rank": 68
+    },
+    {
+      "date": "1998-05-23",
+      "rank": 74
+    },
+    {
+      "date": "1998-05-30",
+      "rank": 87
+    },
+    {
+      "date": "1998-06-06",
+      "rank": 98
+    },
+    {
+      "date": "1998-06-13",
+      "rank": 96
+    },
+    {
+      "date": "1998-06-20",
+      "rank": 105
+    },
+    {
+      "date": "1998-06-27",
+      "rank": 106
+    },
+    {
+      "date": "1998-07-04",
+      "rank": 119
+    },
+    {
+      "date": "1998-07-11",
+      "rank": 129
+    },
+    {
+      "date": "1998-07-18",
+      "rank": 155
+    },
+    {
+      "date": "1998-07-25",
+      "rank": 172
+    },
+    {
+      "date": "1998-08-01",
+      "rank": 169
+    },
+    {
+      "date": "1998-08-08",
+      "rank": 167
+    },
+    {
+      "date": "1998-08-15",
+      "rank": 196
+    },
+    {
+      "date": "1998-08-22",
+      "rank": 197
+    },
+    {
+      "date": "1998-09-05",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bitter Sweet Symphony",
+      "id": "bitter-sweet-symphony-the-verve"
+    },
+    {
+      "title": "Sonnet",
+      "id": null
+    },
+    {
+      "title": "The Rolling People",
+      "id": null
+    },
+    {
+      "title": "The Drugs Don’t Work",
+      "id": null
+    },
+    {
+      "title": "Catching the Butterfly",
+      "id": null
+    },
+    {
+      "title": "Neon Wilderness",
+      "id": null
+    },
+    {
+      "title": "Space and Time",
+      "id": null
+    },
+    {
+      "title": "Weeping Willow",
+      "id": null
+    },
+    {
+      "title": "Lucky Man",
+      "id": null
+    },
+    {
+      "title": "One Day",
+      "id": null
+    },
+    {
+      "title": "This Time",
+      "id": null
+    },
+    {
+      "title": "Velvet Morning",
+      "id": null
+    },
+    {
+      "title": "Come On / Deep Freeze",
+      "id": null
+    }
+  ]
+}

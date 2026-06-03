@@ -1,1 +1,70 @@
-{"id": "time-lionel-richie", "title": "Time", "artist": "Lionel Richie", "peak": 152, "history": [{"date": "1998-07-11", "rank": 159}, {"date": "1998-07-18", "rank": 152}, {"date": "1998-07-25", "rank": 197}]}
+{
+  "id": "time-lionel-richie",
+  "title": "Time",
+  "artist": "Lionel Richie",
+  "peak": 152,
+  "history": [
+    {
+      "date": "1998-07-11",
+      "rank": 159
+    },
+    {
+      "date": "1998-07-18",
+      "rank": 152
+    },
+    {
+      "date": "1998-07-25",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Zoomin’",
+      "id": null
+    },
+    {
+      "title": "I Hear Your Voice",
+      "id": null
+    },
+    {
+      "title": "Touch",
+      "id": null
+    },
+    {
+      "title": "Forever",
+      "id": null
+    },
+    {
+      "title": "Everytime",
+      "id": null
+    },
+    {
+      "title": "Time",
+      "id": null
+    },
+    {
+      "title": "To the Rhythm",
+      "id": null
+    },
+    {
+      "title": "Stay",
+      "id": null
+    },
+    {
+      "title": "The Way I Feel",
+      "id": null
+    },
+    {
+      "title": "Closest Thing to Heaven",
+      "id": null
+    },
+    {
+      "title": "Someday",
+      "id": null
+    },
+    {
+      "title": "Lady",
+      "id": null
+    }
+  ]
+}

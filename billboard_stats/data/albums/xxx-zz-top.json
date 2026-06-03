@@ -1,1 +1,78 @@
-{"id": "xxx-zz-top", "title": "XXX", "artist": "ZZ Top", "peak": 100, "history": [{"date": "1999-10-16", "rank": 100}, {"date": "1999-10-23", "rank": 122}, {"date": "1999-10-30", "rank": 157}, {"date": "1999-11-06", "rank": 180}]}
+{
+  "id": "xxx-zz-top",
+  "title": "XXX",
+  "artist": "ZZ Top",
+  "peak": 100,
+  "history": [
+    {
+      "date": "1999-10-16",
+      "rank": 100
+    },
+    {
+      "date": "1999-10-23",
+      "rank": 122
+    },
+    {
+      "date": "1999-10-30",
+      "rank": 157
+    },
+    {
+      "date": "1999-11-06",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Poke Chop Sandwich",
+      "id": null
+    },
+    {
+      "title": "Crucifixx‐A‐Flatt",
+      "id": null
+    },
+    {
+      "title": "Fearless Boogie",
+      "id": null
+    },
+    {
+      "title": "36‒22‒36",
+      "id": null
+    },
+    {
+      "title": "Made Into a Movie",
+      "id": null
+    },
+    {
+      "title": "Beatbox",
+      "id": null
+    },
+    {
+      "title": "Trippin’",
+      "id": null
+    },
+    {
+      "title": "Dreadmonboogaloo",
+      "id": null
+    },
+    {
+      "title": "Live Intro by Ross Mitchell",
+      "id": null
+    },
+    {
+      "title": "Sinpusher (live)",
+      "id": null
+    },
+    {
+      "title": "(Let Me Be Your) Teddy Bear",
+      "id": null
+    },
+    {
+      "title": "Hey Mr. Millionaire",
+      "id": null
+    },
+    {
+      "title": "Belt Buckle",
+      "id": null
+    }
+  ]
+}

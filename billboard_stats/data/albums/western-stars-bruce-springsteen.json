@@ -1,1 +1,78 @@
-{"id": "western-stars-bruce-springsteen", "title": "Western Stars", "artist": "Bruce Springsteen", "peak": 2, "history": [{"date": "2019-06-29", "rank": 2}, {"date": "2019-07-06", "rank": 30}, {"date": "2019-07-13", "rank": 60}, {"date": "2019-07-20", "rank": 166}]}
+{
+  "id": "western-stars-bruce-springsteen",
+  "title": "Western Stars",
+  "artist": "Bruce Springsteen",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2019-06-29",
+      "rank": 2
+    },
+    {
+      "date": "2019-07-06",
+      "rank": 30
+    },
+    {
+      "date": "2019-07-13",
+      "rank": 60
+    },
+    {
+      "date": "2019-07-20",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hitch Hikin’",
+      "id": null
+    },
+    {
+      "title": "The Wayfarer",
+      "id": null
+    },
+    {
+      "title": "Tucson Train",
+      "id": null
+    },
+    {
+      "title": "Western Stars",
+      "id": null
+    },
+    {
+      "title": "Sleepy Joe’s Café",
+      "id": null
+    },
+    {
+      "title": "Drive Fast (The Stuntman)",
+      "id": null
+    },
+    {
+      "title": "Chasin’ Wild Horses",
+      "id": null
+    },
+    {
+      "title": "Sundown",
+      "id": null
+    },
+    {
+      "title": "Somewhere North of Nashville",
+      "id": null
+    },
+    {
+      "title": "Stones",
+      "id": null
+    },
+    {
+      "title": "There Goes My Miracle",
+      "id": null
+    },
+    {
+      "title": "Hello Sunshine",
+      "id": null
+    },
+    {
+      "title": "Moonlight Motel",
+      "id": null
+    }
+  ]
+}

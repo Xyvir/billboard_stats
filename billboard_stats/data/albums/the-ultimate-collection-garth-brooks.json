@@ -1,1 +1,478 @@
-{"id": "the-ultimate-collection-garth-brooks", "title": "The Ultimate Collection", "artist": "Garth Brooks", "peak": 6, "history": [{"date": "2016-12-31", "rank": 13}, {"date": "2017-01-07", "rank": 6}, {"date": "2017-01-14", "rank": 22}, {"date": "2017-02-18", "rank": 79}, {"date": "2017-02-25", "rank": 41}, {"date": "2017-03-04", "rank": 24}, {"date": "2017-03-11", "rank": 12}, {"date": "2017-03-18", "rank": 15}, {"date": "2017-03-25", "rank": 25}, {"date": "2017-04-01", "rank": 156}]}
+{
+  "id": "the-ultimate-collection-garth-brooks",
+  "title": "The Ultimate Collection",
+  "artist": "Garth Brooks",
+  "peak": 6,
+  "history": [
+    {
+      "date": "2016-12-31",
+      "rank": 13
+    },
+    {
+      "date": "2017-01-07",
+      "rank": 6
+    },
+    {
+      "date": "2017-01-14",
+      "rank": 22
+    },
+    {
+      "date": "2017-02-18",
+      "rank": 79
+    },
+    {
+      "date": "2017-02-25",
+      "rank": 41
+    },
+    {
+      "date": "2017-03-04",
+      "rank": 24
+    },
+    {
+      "date": "2017-03-11",
+      "rank": 12
+    },
+    {
+      "date": "2017-03-18",
+      "rank": 15
+    },
+    {
+      "date": "2017-03-25",
+      "rank": 25
+    },
+    {
+      "date": "2017-04-01",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "More Than a Memory",
+      "id": "more-than-a-memory-garth-brooks"
+    },
+    {
+      "title": "Good Ride Cowboy",
+      "id": "good-ride-cowboy-garth-brooks"
+    },
+    {
+      "title": "Wrapped Up in You",
+      "id": "wrapped-up-in-you-garth-brooks"
+    },
+    {
+      "title": "More Than A Memory",
+      "id": "more-than-a-memory-garth-brooks"
+    },
+    {
+      "title": "It’s Your Song",
+      "id": "it-s-your-song-garth-brooks"
+    },
+    {
+      "title": "Wild World",
+      "id": "wild-horses-garth-brooks"
+    },
+    {
+      "title": "Do What You Gotta Do",
+      "id": "do-what-you-gotta-do-garth-brooks"
+    },
+    {
+      "title": "Ask Me How I Know",
+      "id": "ask-me-how-i-know-garth-brooks"
+    },
+    {
+      "title": "Much Too Young (to Feel This Damn Old)",
+      "id": null
+    },
+    {
+      "title": "If Tomorrow Never Comes",
+      "id": null
+    },
+    {
+      "title": "1982",
+      "id": null
+    },
+    {
+      "title": "Unwound",
+      "id": null
+    },
+    {
+      "title": "Longneck Bottle",
+      "id": null
+    },
+    {
+      "title": "Two of a Kind, Workin’ on a Full House",
+      "id": null
+    },
+    {
+      "title": "Good Ol' Boys Like Me",
+      "id": null
+    },
+    {
+      "title": "Amos Moses",
+      "id": null
+    },
+    {
+      "title": "That Ol’ Wind",
+      "id": null
+    },
+    {
+      "title": "Alabama Clay",
+      "id": null
+    },
+    {
+      "title": "White Lightnin’",
+      "id": null
+    },
+    {
+      "title": "Don’t Close Your Eyes",
+      "id": null
+    },
+    {
+      "title": "Shameless",
+      "id": null
+    },
+    {
+      "title": "The Red Strokes",
+      "id": null
+    },
+    {
+      "title": "She's Every Woman",
+      "id": null
+    },
+    {
+      "title": "What She’s Doing Now",
+      "id": null
+    },
+    {
+      "title": "In Another's Eyes (Duet with Trisha Yearwood)",
+      "id": null
+    },
+    {
+      "title": "One Night A Day",
+      "id": null
+    },
+    {
+      "title": "A Friend to Me",
+      "id": null
+    },
+    {
+      "title": "Anonymous",
+      "id": null
+    },
+    {
+      "title": "Victim of the Game",
+      "id": null
+    },
+    {
+      "title": "Which One of Them",
+      "id": null
+    },
+    {
+      "title": "To Make You Feel My Love",
+      "id": null
+    },
+    {
+      "title": "Rodeo",
+      "id": null
+    },
+    {
+      "title": "That Girl is a Cowboy",
+      "id": null
+    },
+    {
+      "title": "Rodeo or Mexico",
+      "id": null
+    },
+    {
+      "title": "Night Rider's Lament",
+      "id": null
+    },
+    {
+      "title": "My Baby No Esta Aqui",
+      "id": null
+    },
+    {
+      "title": "Cowgirl's Saddle",
+      "id": null
+    },
+    {
+      "title": "Cowboy Bill",
+      "id": null
+    },
+    {
+      "title": "Midnight Sun",
+      "id": null
+    },
+    {
+      "title": "Rodeo and Juliet",
+      "id": null
+    },
+    {
+      "title": "In Lonesome Dove",
+      "id": null
+    },
+    {
+      "title": "The Cowboy Song",
+      "id": null
+    },
+    {
+      "title": "Standing Outside the Fire",
+      "id": null
+    },
+    {
+      "title": "That Summer",
+      "id": null
+    },
+    {
+      "title": "In Another's Eyes (duet with Trisha Yearwood)",
+      "id": null
+    },
+    {
+      "title": "Much Too Young (To Feel This Damn Old)",
+      "id": null
+    },
+    {
+      "title": "Unanswered Prayers",
+      "id": null
+    },
+    {
+      "title": "One Night a Day",
+      "id": null
+    },
+    {
+      "title": "The River",
+      "id": null
+    },
+    {
+      "title": "American Pie (Featuring Don McLean)",
+      "id": null
+    },
+    {
+      "title": "The Thunder Rolls (the long version)",
+      "id": null
+    },
+    {
+      "title": "Two Piña Coladas",
+      "id": null
+    },
+    {
+      "title": "Wild as the Wind",
+      "id": null
+    },
+    {
+      "title": "Working for a Living (Duet with Huey Lewis in LA)",
+      "id": null
+    },
+    {
+      "title": "New York State of Mind (The Duet with Billy Joel)",
+      "id": null
+    },
+    {
+      "title": "The Dance",
+      "id": null
+    },
+    {
+      "title": "Thicker Than Blood",
+      "id": null
+    },
+    {
+      "title": "How You Ever Gonna Know",
+      "id": null
+    },
+    {
+      "title": "The Change",
+      "id": null
+    },
+    {
+      "title": "Belleau Wood",
+      "id": null
+    },
+    {
+      "title": "People Loving People",
+      "id": null
+    },
+    {
+      "title": "Mom",
+      "id": null
+    },
+    {
+      "title": "Last Night I Had the Strangest Dream",
+      "id": null
+    },
+    {
+      "title": "When You Come Back To Me Again",
+      "id": null
+    },
+    {
+      "title": "Against the Wind",
+      "id": null
+    },
+    {
+      "title": "Sweet Home Alabama",
+      "id": null
+    },
+    {
+      "title": "Don’t Let the Sun Go Down on Me",
+      "id": null
+    },
+    {
+      "title": "Mrs. Robinson",
+      "id": null
+    },
+    {
+      "title": "Midnight Train To Georgia",
+      "id": null
+    },
+    {
+      "title": "Sitting on the Dock of the Bay",
+      "id": null
+    },
+    {
+      "title": "Hard Luck Woman",
+      "id": null
+    },
+    {
+      "title": "Who’ll Stop the Rain",
+      "id": null
+    },
+    {
+      "title": "All Right Now",
+      "id": null
+    },
+    {
+      "title": "Drift Away",
+      "id": null
+    },
+    {
+      "title": "Goodnight Saigon",
+      "id": null
+    },
+    {
+      "title": "Against the Grain",
+      "id": null
+    },
+    {
+      "title": "She’s Tired of Boys",
+      "id": null
+    },
+    {
+      "title": "Rollin'",
+      "id": null
+    },
+    {
+      "title": "Addicted to Love",
+      "id": null
+    },
+    {
+      "title": "Cold Like That",
+      "id": null
+    },
+    {
+      "title": "You Move Me",
+      "id": null
+    },
+    {
+      "title": "Ireland",
+      "id": null
+    },
+    {
+      "title": "Don't Cross the River",
+      "id": null
+    },
+    {
+      "title": "I'll Be the Wind",
+      "id": null
+    },
+    {
+      "title": "Doctor My Eyes",
+      "id": null
+    },
+    {
+      "title": "Working for a Living (The Duet with Huey Lewis)",
+      "id": null
+    },
+    {
+      "title": "The Thunder Rolls",
+      "id": null
+    },
+    {
+      "title": "You Wreck Me",
+      "id": null
+    },
+    {
+      "title": "Why Ain't I Running",
+      "id": null
+    },
+    {
+      "title": "I'd Rather Have Nothing",
+      "id": null
+    },
+    {
+      "title": "Allison Miranda",
+      "id": null
+    },
+    {
+      "title": "Black Water",
+      "id": null
+    },
+    {
+      "title": "Midnight Train",
+      "id": null
+    },
+    {
+      "title": "Dixie Chicken",
+      "id": null
+    },
+    {
+      "title": "Man Against Machine",
+      "id": null
+    },
+    {
+      "title": "Two Pina Coladas",
+      "id": null
+    },
+    {
+      "title": "Honky‐Tonk Somewhere",
+      "id": null
+    },
+    {
+      "title": "Weekend",
+      "id": null
+    },
+    {
+      "title": "Baby, Let’s Lay Down and Dance",
+      "id": null
+    },
+    {
+      "title": "He Really Loves You",
+      "id": null
+    },
+    {
+      "title": "Whiskey to Wine",
+      "id": null
+    },
+    {
+      "title": "Bang! Bang!",
+      "id": null
+    },
+    {
+      "title": "Pure Adrenaline",
+      "id": null
+    },
+    {
+      "title": "8teen",
+      "id": null
+    },
+    {
+      "title": "Sugarcane",
+      "id": null
+    },
+    {
+      "title": "Cowboys and Friends",
+      "id": null
+    },
+    {
+      "title": "Friends In Low Places",
+      "id": null
+    }
+  ]
+}

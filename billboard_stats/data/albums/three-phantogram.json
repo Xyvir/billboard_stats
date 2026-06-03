@@ -1,1 +1,58 @@
-{"id": "three-phantogram", "title": "Three", "artist": "Phantogram", "peak": 9, "history": [{"date": "2016-10-29", "rank": 9}, {"date": "2016-11-05", "rank": 172}]}
+{
+  "id": "three-phantogram",
+  "title": "Three",
+  "artist": "Phantogram",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2016-10-29",
+      "rank": 9
+    },
+    {
+      "date": "2016-11-05",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Funeral Pyre",
+      "id": null
+    },
+    {
+      "title": "Same Old Blues",
+      "id": null
+    },
+    {
+      "title": "You Don’t Get Me High Anymore",
+      "id": null
+    },
+    {
+      "title": "Cruel World",
+      "id": null
+    },
+    {
+      "title": "Barking Dog",
+      "id": null
+    },
+    {
+      "title": "You’re Mine",
+      "id": null
+    },
+    {
+      "title": "Answer",
+      "id": null
+    },
+    {
+      "title": "Run Run Blood",
+      "id": null
+    },
+    {
+      "title": "Destroyer",
+      "id": null
+    },
+    {
+      "title": "Calling All",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,102 @@
-{"id": "welcome-home-zac-brown-band", "title": "Welcome Home", "artist": "Zac Brown Band", "peak": 2, "history": [{"date": "2017-06-03", "rank": 2}, {"date": "2017-06-10", "rank": 15}, {"date": "2017-06-17", "rank": 31}, {"date": "2017-06-24", "rank": 28}, {"date": "2017-07-01", "rank": 34}, {"date": "2017-07-08", "rank": 41}, {"date": "2017-07-15", "rank": 69}, {"date": "2017-07-22", "rank": 80}, {"date": "2017-07-29", "rank": 98}, {"date": "2017-08-05", "rank": 25}, {"date": "2017-08-12", "rank": 123}, {"date": "2017-08-19", "rank": 167}, {"date": "2017-11-18", "rank": 63}]}
+{
+  "id": "welcome-home-zac-brown-band",
+  "title": "Welcome Home",
+  "artist": "Zac Brown Band",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2017-06-03",
+      "rank": 2
+    },
+    {
+      "date": "2017-06-10",
+      "rank": 15
+    },
+    {
+      "date": "2017-06-17",
+      "rank": 31
+    },
+    {
+      "date": "2017-06-24",
+      "rank": 28
+    },
+    {
+      "date": "2017-07-01",
+      "rank": 34
+    },
+    {
+      "date": "2017-07-08",
+      "rank": 41
+    },
+    {
+      "date": "2017-07-15",
+      "rank": 69
+    },
+    {
+      "date": "2017-07-22",
+      "rank": 80
+    },
+    {
+      "date": "2017-07-29",
+      "rank": 98
+    },
+    {
+      "date": "2017-08-05",
+      "rank": 25
+    },
+    {
+      "date": "2017-08-12",
+      "rank": 123
+    },
+    {
+      "date": "2017-08-19",
+      "rank": 167
+    },
+    {
+      "date": "2017-11-18",
+      "rank": 63
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Old Man",
+      "id": "my-old-man-zac-brown-band"
+    },
+    {
+      "title": "Roots",
+      "id": null
+    },
+    {
+      "title": "Real Thing",
+      "id": null
+    },
+    {
+      "title": "Long Haul",
+      "id": null
+    },
+    {
+      "title": "2 Places at 1 Time",
+      "id": null
+    },
+    {
+      "title": "Family Table",
+      "id": null
+    },
+    {
+      "title": "Start Over",
+      "id": null
+    },
+    {
+      "title": "Your Majesty",
+      "id": null
+    },
+    {
+      "title": "Tryin’ to Drive",
+      "id": null
+    },
+    {
+      "title": "All the Best",
+      "id": null
+    }
+  ]
+}

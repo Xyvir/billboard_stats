@@ -1,1 +1,50 @@
-{"id": "word-of-mouth-jaco-pastorius", "title": "Word Of Mouth", "artist": "Jaco Pastorius", "peak": 161, "history": [{"date": "1981-08-15", "rank": 170}, {"date": "1981-08-22", "rank": 161}, {"date": "1981-08-29", "rank": 161}]}
+{
+  "id": "word-of-mouth-jaco-pastorius",
+  "title": "Word Of Mouth",
+  "artist": "Jaco Pastorius",
+  "peak": 161,
+  "history": [
+    {
+      "date": "1981-08-15",
+      "rank": 170
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 161
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Crisis",
+      "id": null
+    },
+    {
+      "title": "3 Views of a Secret",
+      "id": null
+    },
+    {
+      "title": "Liberty City",
+      "id": null
+    },
+    {
+      "title": "Chromatic Fantasy",
+      "id": null
+    },
+    {
+      "title": "Blackbird",
+      "id": null
+    },
+    {
+      "title": "Word of Mouth",
+      "id": null
+    },
+    {
+      "title": "John and Mary",
+      "id": null
+    }
+  ]
+}

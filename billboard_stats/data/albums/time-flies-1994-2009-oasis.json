@@ -1,1 +1,42 @@
-{"id": "time-flies-1994-2009-oasis", "title": "Time Flies... 1994-2009", "artist": "Oasis", "peak": 131, "history": [{"date": "2010-07-03", "rank": 131}]}
+{
+  "id": "time-flies-1994-2009-oasis",
+  "title": "Time Flies... 1994-2009",
+  "artist": "Oasis",
+  "peak": 131,
+  "history": [
+    {
+      "date": "2010-07-03",
+      "rank": 131
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don’t Look Back in Anger",
+      "id": "don-t-look-back-in-anger-oasis"
+    },
+    {
+      "title": "Wonderwall",
+      "id": "wonderwall-oasis"
+    },
+    {
+      "title": "Whatever",
+      "id": null
+    },
+    {
+      "title": "Roll With It",
+      "id": null
+    },
+    {
+      "title": "Stop Crying Your Heart Out",
+      "id": null
+    },
+    {
+      "title": "Stand by Me",
+      "id": null
+    },
+    {
+      "title": "All Around the World",
+      "id": null
+    }
+  ]
+}

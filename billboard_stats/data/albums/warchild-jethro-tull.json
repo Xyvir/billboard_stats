@@ -1,1 +1,462 @@
-{"id": "warchild-jethro-tull", "title": "WarChild", "artist": "Jethro Tull", "peak": 2, "history": [{"date": "1974-10-26", "rank": 96}, {"date": "1974-11-02", "rank": 30}, {"date": "1974-11-09", "rank": 21}, {"date": "1974-11-16", "rank": 10}, {"date": "1974-11-23", "rank": 7}, {"date": "1974-11-30", "rank": 6}, {"date": "1974-12-07", "rank": 5}, {"date": "1974-12-14", "rank": 4}, {"date": "1974-12-21", "rank": 3}, {"date": "1974-12-28", "rank": 2}, {"date": "1975-01-04", "rank": 2}, {"date": "1975-01-11", "rank": 2}, {"date": "1975-01-18", "rank": 10}, {"date": "1975-01-25", "rank": 9}, {"date": "1975-02-01", "rank": 8}, {"date": "1975-02-08", "rank": 7}, {"date": "1975-02-15", "rank": 6}, {"date": "1975-02-22", "rank": 5}, {"date": "1975-03-01", "rank": 4}, {"date": "1975-03-08", "rank": 11}, {"date": "1975-03-15", "rank": 15}, {"date": "1975-03-22", "rank": 24}, {"date": "1975-03-29", "rank": 28}, {"date": "1975-04-05", "rank": 36}, {"date": "1975-04-12", "rank": 61}, {"date": "1975-04-19", "rank": 75}, {"date": "1975-04-26", "rank": 84}, {"date": "1975-05-03", "rank": 102}, {"date": "1975-05-10", "rank": 109}, {"date": "1975-05-17", "rank": 138}, {"date": "1975-05-24", "rank": 158}]}
+{
+  "id": "warchild-jethro-tull",
+  "title": "WarChild",
+  "artist": "Jethro Tull",
+  "peak": 2,
+  "history": [
+    {
+      "date": "1974-10-26",
+      "rank": 96
+    },
+    {
+      "date": "1974-11-02",
+      "rank": 30
+    },
+    {
+      "date": "1974-11-09",
+      "rank": 21
+    },
+    {
+      "date": "1974-11-16",
+      "rank": 10
+    },
+    {
+      "date": "1974-11-23",
+      "rank": 7
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 6
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 5
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 4
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 3
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 2
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 2
+    },
+    {
+      "date": "1975-01-11",
+      "rank": 2
+    },
+    {
+      "date": "1975-01-18",
+      "rank": 10
+    },
+    {
+      "date": "1975-01-25",
+      "rank": 9
+    },
+    {
+      "date": "1975-02-01",
+      "rank": 8
+    },
+    {
+      "date": "1975-02-08",
+      "rank": 7
+    },
+    {
+      "date": "1975-02-15",
+      "rank": 6
+    },
+    {
+      "date": "1975-02-22",
+      "rank": 5
+    },
+    {
+      "date": "1975-03-01",
+      "rank": 4
+    },
+    {
+      "date": "1975-03-08",
+      "rank": 11
+    },
+    {
+      "date": "1975-03-15",
+      "rank": 15
+    },
+    {
+      "date": "1975-03-22",
+      "rank": 24
+    },
+    {
+      "date": "1975-03-29",
+      "rank": 28
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 36
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 61
+    },
+    {
+      "date": "1975-04-19",
+      "rank": 75
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 84
+    },
+    {
+      "date": "1975-05-03",
+      "rank": 102
+    },
+    {
+      "date": "1975-05-10",
+      "rank": 109
+    },
+    {
+      "date": "1975-05-17",
+      "rank": 138
+    },
+    {
+      "date": "1975-05-24",
+      "rank": 158
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bungle in the Jungle (2014 stereo mix)",
+      "id": "bungle-in-the-jungle-jethro-tull"
+    },
+    {
+      "title": "Bungle in the Jungle (2014 5.1 mix)",
+      "id": "bungle-in-the-jungle-jethro-tull"
+    },
+    {
+      "title": "Bungle in the Jungle",
+      "id": "bungle-in-the-jungle-jethro-tull"
+    },
+    {
+      "title": "Bungle in the Jungle (1974 quad mix)",
+      "id": "bungle-in-the-jungle-jethro-tull"
+    },
+    {
+      "title": "WarChild (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Queen and Country (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Ladies (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Back-Door Angels (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "SeaLion (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Skating Away on the Thin Ice of the New Day (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Only Solitaire (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "The Third Hoorah (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Two Fingers (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Paradise Steakhouse (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Saturation (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Good Godmother",
+      "id": null
+    },
+    {
+      "title": "SeaLion II (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Quartet (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "WarChild II",
+      "id": null
+    },
+    {
+      "title": "Tomorrow Was Today",
+      "id": null
+    },
+    {
+      "title": "Glory Row (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "March, the Mad Scientist (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Rainbow Blues (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "Pan Dance (2014 stereo mix)",
+      "id": null
+    },
+    {
+      "title": "The Orchestral Warchild Theme",
+      "id": null
+    },
+    {
+      "title": "The Third Hoorah (orchestral version)",
+      "id": null
+    },
+    {
+      "title": "Mime Sequence",
+      "id": null
+    },
+    {
+      "title": "Field Dance (Conway Hall version)",
+      "id": null
+    },
+    {
+      "title": "Waltz of the Angels (Conway Hall version)",
+      "id": null
+    },
+    {
+      "title": "The Beach, Part I (Morgan master recording)",
+      "id": null
+    },
+    {
+      "title": "The Beach, Part II (Morgan master recording)",
+      "id": null
+    },
+    {
+      "title": "Waltz of the Angels (Morgan demo recording)",
+      "id": null
+    },
+    {
+      "title": "The Beach (Morgan demo recording)",
+      "id": null
+    },
+    {
+      "title": "Field Dance (Morgan demo recording)",
+      "id": null
+    },
+    {
+      "title": "WarChild (2014 5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Queen and Country (2014 5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Ladies (2014 5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Back-Door Angels (2014 5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "SeaLion (2014 5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Skating Away on the Thin Ice of the New Day (2014 5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Only Solitaire (2014 5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "The Third Hoorah (2014 5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Two Fingers (2014 5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "War Child",
+      "id": null
+    },
+    {
+      "title": "Queen and Country",
+      "id": null
+    },
+    {
+      "title": "Ladies",
+      "id": null
+    },
+    {
+      "title": "Back‐Door Angels",
+      "id": null
+    },
+    {
+      "title": "Sealion",
+      "id": null
+    },
+    {
+      "title": "Skating Away on the Thin Ice of the New Day",
+      "id": null
+    },
+    {
+      "title": "Only Solitaire",
+      "id": null
+    },
+    {
+      "title": "The Third Hoorah",
+      "id": null
+    },
+    {
+      "title": "Two Fingers",
+      "id": null
+    },
+    {
+      "title": "WarChild (1974 quad mix)",
+      "id": null
+    },
+    {
+      "title": "Queen and Country (1974 quad mix)",
+      "id": null
+    },
+    {
+      "title": "Ladies (1974 quad mix)",
+      "id": null
+    },
+    {
+      "title": "Back-Door Angels (1974 quad mix)",
+      "id": null
+    },
+    {
+      "title": "SeaLion (1974 quad mix)",
+      "id": null
+    },
+    {
+      "title": "Skating Away on the Thin Ice of the New Day (1974 quad mix)",
+      "id": null
+    },
+    {
+      "title": "Only Solitaire (1974 quad mix)",
+      "id": null
+    },
+    {
+      "title": "The Third Hoorah (1974 quad mix)",
+      "id": null
+    },
+    {
+      "title": "Two Fingers (1974 quad mix)",
+      "id": null
+    },
+    {
+      "title": "Glory Row (1974 quad mix)",
+      "id": null
+    },
+    {
+      "title": "March, the Mad Scientist (1974 quad mix)",
+      "id": null
+    },
+    {
+      "title": "Montreux Photoshoot and Press Conference, Chapter 1",
+      "id": null
+    },
+    {
+      "title": "Montreux Photoshoot and Press Conference, Chapter 2",
+      "id": null
+    },
+    {
+      "title": "Montreux Photoshoot and Press Conference, Chapter 3",
+      "id": null
+    },
+    {
+      "title": "Paradise Steakhouse (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Saturation (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Good Godmother (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "SeaLion II (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Quartet (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "WarChild II (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Tomorrow Was Today (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Glory Row (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "March, the Mad Scientist (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Rainbow Blues (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Pan Dance (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "The Orchestral Warchild Theme (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "The Third Hoorah (orchestral version) (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Mime Sequence (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Field Dance (Conway Hall version) (5.1 mix)",
+      "id": null
+    },
+    {
+      "title": "Waltz of the Angels",
+      "id": null
+    }
+  ]
+}

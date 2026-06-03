@@ -1,1 +1,98 @@
-{"id": "this-loud-morning-david-cook", "title": "This Loud Morning", "artist": "David Cook", "peak": 7, "history": [{"date": "2011-07-16", "rank": 7}, {"date": "2011-07-23", "rank": 26}, {"date": "2011-07-30", "rank": 57}, {"date": "2011-08-06", "rank": 73}, {"date": "2011-08-13", "rank": 94}, {"date": "2011-08-20", "rank": 142}, {"date": "2011-08-27", "rank": 188}]}
+{
+  "id": "this-loud-morning-david-cook",
+  "title": "This Loud Morning",
+  "artist": "David Cook",
+  "peak": 7,
+  "history": [
+    {
+      "date": "2011-07-16",
+      "rank": 7
+    },
+    {
+      "date": "2011-07-23",
+      "rank": 26
+    },
+    {
+      "date": "2011-07-30",
+      "rank": 57
+    },
+    {
+      "date": "2011-08-06",
+      "rank": 73
+    },
+    {
+      "date": "2011-08-13",
+      "rank": 94
+    },
+    {
+      "date": "2011-08-20",
+      "rank": 142
+    },
+    {
+      "date": "2011-08-27",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sunlight",
+      "id": "light-on-david-cook"
+    },
+    {
+      "title": "Circadian",
+      "id": null
+    },
+    {
+      "title": "Right Here, With You",
+      "id": null
+    },
+    {
+      "title": "We Believe",
+      "id": null
+    },
+    {
+      "title": "Fade Into Me",
+      "id": null
+    },
+    {
+      "title": "Hard to Believe",
+      "id": null
+    },
+    {
+      "title": "Take Me as I Am",
+      "id": null
+    },
+    {
+      "title": "Time Marches On",
+      "id": null
+    },
+    {
+      "title": "The Last Goodbye",
+      "id": null
+    },
+    {
+      "title": "Paper Heart",
+      "id": null
+    },
+    {
+      "title": "4 Letter Word",
+      "id": null
+    },
+    {
+      "title": "Goodbye to the Girl",
+      "id": null
+    },
+    {
+      "title": "Rapid Eye Movement",
+      "id": null
+    },
+    {
+      "title": "This Is Not the Last Time",
+      "id": null
+    },
+    {
+      "title": "The Making of \"This Loud Morning\" (video)",
+      "id": null
+    }
+  ]
+}

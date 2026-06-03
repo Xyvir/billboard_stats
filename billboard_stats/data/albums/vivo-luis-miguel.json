@@ -1,1 +1,78 @@
-{"id": "vivo-luis-miguel", "title": "Vivo", "artist": "Luis Miguel", "peak": 93, "history": [{"date": "2000-10-21", "rank": 93}, {"date": "2000-10-28", "rank": 109}, {"date": "2000-11-04", "rank": 146}, {"date": "2000-11-11", "rank": 178}]}
+{
+  "id": "vivo-luis-miguel",
+  "title": "Vivo",
+  "artist": "Luis Miguel",
+  "peak": 93,
+  "history": [
+    {
+      "date": "2000-10-21",
+      "rank": 93
+    },
+    {
+      "date": "2000-10-28",
+      "rank": 109
+    },
+    {
+      "date": "2000-11-04",
+      "rank": 146
+    },
+    {
+      "date": "2000-11-11",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Quiero",
+      "id": null
+    },
+    {
+      "title": "Tú solo tú",
+      "id": null
+    },
+    {
+      "title": "Romance popurrí",
+      "id": null
+    },
+    {
+      "title": "Suave",
+      "id": null
+    },
+    {
+      "title": "Segundo romance popurrí",
+      "id": null
+    },
+    {
+      "title": "O tú o ninguna",
+      "id": null
+    },
+    {
+      "title": "Sol, arena y mar",
+      "id": null
+    },
+    {
+      "title": "Romances popurrí",
+      "id": null
+    },
+    {
+      "title": "Y",
+      "id": null
+    },
+    {
+      "title": "La Bikina",
+      "id": null
+    },
+    {
+      "title": "Como es posible que a mi lado",
+      "id": null
+    },
+    {
+      "title": "Te propongo esta noche",
+      "id": null
+    }
+  ]
+}

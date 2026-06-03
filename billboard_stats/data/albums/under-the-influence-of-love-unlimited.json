@@ -1,1 +1,218 @@
-{"id": "under-the-influence-of-love-unlimited", "title": "Under The Influence Of...", "artist": "Love Unlimited", "peak": 3, "history": [{"date": "1973-09-08", "rank": 190}, {"date": "1973-09-15", "rank": 187}, {"date": "1973-09-22", "rank": 175}, {"date": "1973-09-29", "rank": 164}, {"date": "1973-10-06", "rank": 146}, {"date": "1973-10-13", "rank": 141}, {"date": "1973-10-20", "rank": 138}, {"date": "1973-10-27", "rank": 106}, {"date": "1973-11-03", "rank": 73}, {"date": "1973-11-10", "rank": 68}, {"date": "1973-11-17", "rank": 64}, {"date": "1973-11-24", "rank": 54}, {"date": "1973-12-01", "rank": 49}, {"date": "1973-12-08", "rank": 34}, {"date": "1973-12-15", "rank": 31}, {"date": "1973-12-22", "rank": 29}, {"date": "1973-12-29", "rank": 26}, {"date": "1974-01-05", "rank": 24}, {"date": "1974-01-12", "rank": 22}, {"date": "1974-01-19", "rank": 16}, {"date": "1974-01-26", "rank": 14}, {"date": "1974-02-02", "rank": 8}, {"date": "1974-02-09", "rank": 4}, {"date": "1974-02-16", "rank": 3}, {"date": "1974-02-23", "rank": 3}, {"date": "1974-03-02", "rank": 5}, {"date": "1974-03-09", "rank": 11}, {"date": "1974-03-16", "rank": 16}, {"date": "1974-03-23", "rank": 19}, {"date": "1974-03-30", "rank": 31}, {"date": "1974-04-06", "rank": 49}, {"date": "1974-04-13", "rank": 45}, {"date": "1974-04-20", "rank": 41}, {"date": "1974-04-27", "rank": 56}, {"date": "1974-05-04", "rank": 59}, {"date": "1974-05-11", "rank": 64}, {"date": "1974-05-18", "rank": 93}, {"date": "1974-05-25", "rank": 93}, {"date": "1974-06-01", "rank": 97}, {"date": "1974-06-08", "rank": 104}, {"date": "1974-06-15", "rank": 125}, {"date": "1974-06-22", "rank": 130}, {"date": "1974-06-29", "rank": 130}, {"date": "1974-07-06", "rank": 160}]}
+{
+  "id": "under-the-influence-of-love-unlimited",
+  "title": "Under The Influence Of...",
+  "artist": "Love Unlimited",
+  "peak": 3,
+  "history": [
+    {
+      "date": "1973-09-08",
+      "rank": 190
+    },
+    {
+      "date": "1973-09-15",
+      "rank": 187
+    },
+    {
+      "date": "1973-09-22",
+      "rank": 175
+    },
+    {
+      "date": "1973-09-29",
+      "rank": 164
+    },
+    {
+      "date": "1973-10-06",
+      "rank": 146
+    },
+    {
+      "date": "1973-10-13",
+      "rank": 141
+    },
+    {
+      "date": "1973-10-20",
+      "rank": 138
+    },
+    {
+      "date": "1973-10-27",
+      "rank": 106
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 73
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 68
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 64
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 54
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 49
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 34
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 31
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 29
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 26
+    },
+    {
+      "date": "1974-01-05",
+      "rank": 24
+    },
+    {
+      "date": "1974-01-12",
+      "rank": 22
+    },
+    {
+      "date": "1974-01-19",
+      "rank": 16
+    },
+    {
+      "date": "1974-01-26",
+      "rank": 14
+    },
+    {
+      "date": "1974-02-02",
+      "rank": 8
+    },
+    {
+      "date": "1974-02-09",
+      "rank": 4
+    },
+    {
+      "date": "1974-02-16",
+      "rank": 3
+    },
+    {
+      "date": "1974-02-23",
+      "rank": 3
+    },
+    {
+      "date": "1974-03-02",
+      "rank": 5
+    },
+    {
+      "date": "1974-03-09",
+      "rank": 11
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 16
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 19
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 31
+    },
+    {
+      "date": "1974-04-06",
+      "rank": 49
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 45
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 41
+    },
+    {
+      "date": "1974-04-27",
+      "rank": 56
+    },
+    {
+      "date": "1974-05-04",
+      "rank": 59
+    },
+    {
+      "date": "1974-05-11",
+      "rank": 64
+    },
+    {
+      "date": "1974-05-18",
+      "rank": 93
+    },
+    {
+      "date": "1974-05-25",
+      "rank": 93
+    },
+    {
+      "date": "1974-06-01",
+      "rank": 97
+    },
+    {
+      "date": "1974-06-08",
+      "rank": 104
+    },
+    {
+      "date": "1974-06-15",
+      "rank": 125
+    },
+    {
+      "date": "1974-06-22",
+      "rank": 130
+    },
+    {
+      "date": "1974-06-29",
+      "rank": 130
+    },
+    {
+      "date": "1974-07-06",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Under the Influence of Love",
+      "id": "under-the-influence-of-love-love-unlimited"
+    },
+    {
+      "title": "It May Be Winter Outside (But in My Heart It’s Spring)",
+      "id": "it-may-be-winter-outside-but-in-my-heart-it-s-spring-love-unlimited"
+    },
+    {
+      "title": "Love’s Theme",
+      "id": null
+    },
+    {
+      "title": "Lovin’ You, That’s All I’m After",
+      "id": null
+    },
+    {
+      "title": "Oh Love, Well We Finally Made It",
+      "id": null
+    },
+    {
+      "title": "Say It Again",
+      "id": null
+    },
+    {
+      "title": "Someone Really Cares for You",
+      "id": null
+    },
+    {
+      "title": "Yes, We Finally Made It",
+      "id": null
+    }
+  ]
+}

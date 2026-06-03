@@ -1,1 +1,162 @@
-{"id": "the-swing-inxs", "title": "The Swing", "artist": "INXS", "peak": 52, "history": [{"date": "1984-05-26", "rank": 169}, {"date": "1984-06-02", "rank": 92}, {"date": "1984-06-09", "rank": 76}, {"date": "1984-06-16", "rank": 61}, {"date": "1984-06-23", "rank": 56}, {"date": "1984-06-30", "rank": 53}, {"date": "1984-07-07", "rank": 53}, {"date": "1984-07-14", "rank": 52}, {"date": "1984-07-21", "rank": 52}, {"date": "1984-07-28", "rank": 67}, {"date": "1984-08-04", "rank": 84}, {"date": "1984-08-11", "rank": 83}, {"date": "1984-08-18", "rank": 81}, {"date": "1984-08-25", "rank": 78}, {"date": "1984-09-01", "rank": 77}, {"date": "1984-09-08", "rank": 82}, {"date": "1984-09-15", "rank": 79}, {"date": "1984-09-22", "rank": 108}, {"date": "1984-09-29", "rank": 123}, {"date": "1984-10-06", "rank": 120}, {"date": "1984-10-13", "rank": 118}, {"date": "1984-10-20", "rank": 151}, {"date": "1984-10-27", "rank": 146}, {"date": "1984-11-03", "rank": 140}, {"date": "1984-11-10", "rank": 164}, {"date": "1984-11-17", "rank": 161}, {"date": "1984-11-24", "rank": 198}, {"date": "1984-12-01", "rank": 198}]}
+{
+  "id": "the-swing-inxs",
+  "title": "The Swing",
+  "artist": "INXS",
+  "peak": 52,
+  "history": [
+    {
+      "date": "1984-05-26",
+      "rank": 169
+    },
+    {
+      "date": "1984-06-02",
+      "rank": 92
+    },
+    {
+      "date": "1984-06-09",
+      "rank": 76
+    },
+    {
+      "date": "1984-06-16",
+      "rank": 61
+    },
+    {
+      "date": "1984-06-23",
+      "rank": 56
+    },
+    {
+      "date": "1984-06-30",
+      "rank": 53
+    },
+    {
+      "date": "1984-07-07",
+      "rank": 53
+    },
+    {
+      "date": "1984-07-14",
+      "rank": 52
+    },
+    {
+      "date": "1984-07-21",
+      "rank": 52
+    },
+    {
+      "date": "1984-07-28",
+      "rank": 67
+    },
+    {
+      "date": "1984-08-04",
+      "rank": 84
+    },
+    {
+      "date": "1984-08-11",
+      "rank": 83
+    },
+    {
+      "date": "1984-08-18",
+      "rank": 81
+    },
+    {
+      "date": "1984-08-25",
+      "rank": 78
+    },
+    {
+      "date": "1984-09-01",
+      "rank": 77
+    },
+    {
+      "date": "1984-09-08",
+      "rank": 82
+    },
+    {
+      "date": "1984-09-15",
+      "rank": 79
+    },
+    {
+      "date": "1984-09-22",
+      "rank": 108
+    },
+    {
+      "date": "1984-09-29",
+      "rank": 123
+    },
+    {
+      "date": "1984-10-06",
+      "rank": 120
+    },
+    {
+      "date": "1984-10-13",
+      "rank": 118
+    },
+    {
+      "date": "1984-10-20",
+      "rank": 151
+    },
+    {
+      "date": "1984-10-27",
+      "rank": 146
+    },
+    {
+      "date": "1984-11-03",
+      "rank": 140
+    },
+    {
+      "date": "1984-11-10",
+      "rank": 164
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 161
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 198
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Original Sin",
+      "id": "original-sin-inxs"
+    },
+    {
+      "title": "I Send a Message",
+      "id": "i-send-a-message-inxs"
+    },
+    {
+      "title": "The Swing",
+      "id": "the-one-thing-inxs"
+    },
+    {
+      "title": "Face the Change",
+      "id": "don-t-change-inxs"
+    },
+    {
+      "title": "Melting in the Sun",
+      "id": null
+    },
+    {
+      "title": "Dancing on the Jetty",
+      "id": null
+    },
+    {
+      "title": "Johnson's Aeroplane",
+      "id": null
+    },
+    {
+      "title": "Love Is (What I Say)",
+      "id": null
+    },
+    {
+      "title": "Burn for You",
+      "id": null
+    },
+    {
+      "title": "All the Voices",
+      "id": null
+    }
+  ]
+}

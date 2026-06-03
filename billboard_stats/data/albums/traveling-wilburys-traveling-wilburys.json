@@ -1,1 +1,274 @@
-{"id": "traveling-wilburys-traveling-wilburys", "title": "Traveling Wilburys", "artist": "Traveling Wilburys", "peak": 3, "history": [{"date": "1988-11-12", "rank": 57}, {"date": "1988-11-19", "rank": 23}, {"date": "1988-11-26", "rank": 12}, {"date": "1988-12-03", "rank": 9}, {"date": "1988-12-10", "rank": 8}, {"date": "1988-12-17", "rank": 8}, {"date": "1988-12-24", "rank": 8}, {"date": "1988-12-31", "rank": 8}, {"date": "1989-01-07", "rank": 5}, {"date": "1989-01-14", "rank": 8}, {"date": "1989-01-21", "rank": 7}, {"date": "1989-01-28", "rank": 3}, {"date": "1989-02-04", "rank": 3}, {"date": "1989-02-11", "rank": 3}, {"date": "1989-02-18", "rank": 3}, {"date": "1989-02-25", "rank": 3}, {"date": "1989-03-04", "rank": 4}, {"date": "1989-03-11", "rank": 4}, {"date": "1989-03-18", "rank": 4}, {"date": "1989-03-25", "rank": 5}, {"date": "1989-04-01", "rank": 3}, {"date": "1989-04-08", "rank": 4}, {"date": "1989-04-15", "rank": 7}, {"date": "1989-04-22", "rank": 10}, {"date": "1989-04-29", "rank": 10}, {"date": "1989-05-06", "rank": 14}, {"date": "1989-05-13", "rank": 13}, {"date": "1989-05-20", "rank": 14}, {"date": "1989-05-27", "rank": 17}, {"date": "1989-06-03", "rank": 21}, {"date": "1989-06-10", "rank": 23}, {"date": "1989-06-17", "rank": 28}, {"date": "1989-06-24", "rank": 38}, {"date": "1989-07-01", "rank": 49}, {"date": "1989-07-08", "rank": 58}, {"date": "1989-07-15", "rank": 66}, {"date": "1989-07-22", "rank": 82}, {"date": "1989-07-29", "rank": 90}, {"date": "1989-08-05", "rank": 105}, {"date": "1989-08-12", "rank": 112}, {"date": "1989-08-19", "rank": 127}, {"date": "1989-08-26", "rank": 149}, {"date": "1989-09-02", "rank": 148}, {"date": "1989-09-09", "rank": 147}, {"date": "1989-09-16", "rank": 155}, {"date": "1989-09-23", "rank": 191}, {"date": "1989-09-30", "rank": 199}, {"date": "1990-02-17", "rank": 185}, {"date": "1990-02-24", "rank": 198}, {"date": "1990-03-03", "rank": 196}, {"date": "1990-03-10", "rank": 156}, {"date": "1990-03-17", "rank": 141}, {"date": "1990-03-24", "rank": 152}]}
+{
+  "id": "traveling-wilburys-traveling-wilburys",
+  "title": "Traveling Wilburys",
+  "artist": "Traveling Wilburys",
+  "peak": 3,
+  "history": [
+    {
+      "date": "1988-11-12",
+      "rank": 57
+    },
+    {
+      "date": "1988-11-19",
+      "rank": 23
+    },
+    {
+      "date": "1988-11-26",
+      "rank": 12
+    },
+    {
+      "date": "1988-12-03",
+      "rank": 9
+    },
+    {
+      "date": "1988-12-10",
+      "rank": 8
+    },
+    {
+      "date": "1988-12-17",
+      "rank": 8
+    },
+    {
+      "date": "1988-12-24",
+      "rank": 8
+    },
+    {
+      "date": "1988-12-31",
+      "rank": 8
+    },
+    {
+      "date": "1989-01-07",
+      "rank": 5
+    },
+    {
+      "date": "1989-01-14",
+      "rank": 8
+    },
+    {
+      "date": "1989-01-21",
+      "rank": 7
+    },
+    {
+      "date": "1989-01-28",
+      "rank": 3
+    },
+    {
+      "date": "1989-02-04",
+      "rank": 3
+    },
+    {
+      "date": "1989-02-11",
+      "rank": 3
+    },
+    {
+      "date": "1989-02-18",
+      "rank": 3
+    },
+    {
+      "date": "1989-02-25",
+      "rank": 3
+    },
+    {
+      "date": "1989-03-04",
+      "rank": 4
+    },
+    {
+      "date": "1989-03-11",
+      "rank": 4
+    },
+    {
+      "date": "1989-03-18",
+      "rank": 4
+    },
+    {
+      "date": "1989-03-25",
+      "rank": 5
+    },
+    {
+      "date": "1989-04-01",
+      "rank": 3
+    },
+    {
+      "date": "1989-04-08",
+      "rank": 4
+    },
+    {
+      "date": "1989-04-15",
+      "rank": 7
+    },
+    {
+      "date": "1989-04-22",
+      "rank": 10
+    },
+    {
+      "date": "1989-04-29",
+      "rank": 10
+    },
+    {
+      "date": "1989-05-06",
+      "rank": 14
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 13
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 14
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 17
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 21
+    },
+    {
+      "date": "1989-06-10",
+      "rank": 23
+    },
+    {
+      "date": "1989-06-17",
+      "rank": 28
+    },
+    {
+      "date": "1989-06-24",
+      "rank": 38
+    },
+    {
+      "date": "1989-07-01",
+      "rank": 49
+    },
+    {
+      "date": "1989-07-08",
+      "rank": 58
+    },
+    {
+      "date": "1989-07-15",
+      "rank": 66
+    },
+    {
+      "date": "1989-07-22",
+      "rank": 82
+    },
+    {
+      "date": "1989-07-29",
+      "rank": 90
+    },
+    {
+      "date": "1989-08-05",
+      "rank": 105
+    },
+    {
+      "date": "1989-08-12",
+      "rank": 112
+    },
+    {
+      "date": "1989-08-19",
+      "rank": 127
+    },
+    {
+      "date": "1989-08-26",
+      "rank": 149
+    },
+    {
+      "date": "1989-09-02",
+      "rank": 148
+    },
+    {
+      "date": "1989-09-09",
+      "rank": 147
+    },
+    {
+      "date": "1989-09-16",
+      "rank": 155
+    },
+    {
+      "date": "1989-09-23",
+      "rank": 191
+    },
+    {
+      "date": "1989-09-30",
+      "rank": 199
+    },
+    {
+      "date": "1990-02-17",
+      "rank": 185
+    },
+    {
+      "date": "1990-02-24",
+      "rank": 198
+    },
+    {
+      "date": "1990-03-03",
+      "rank": 196
+    },
+    {
+      "date": "1990-03-10",
+      "rank": 156
+    },
+    {
+      "date": "1990-03-17",
+      "rank": 141
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 152
+    }
+  ],
+  "tracks": [
+    {
+      "title": "She’s My Baby",
+      "id": null
+    },
+    {
+      "title": "Inside Out",
+      "id": null
+    },
+    {
+      "title": "If You Belonged to Me",
+      "id": null
+    },
+    {
+      "title": "The Devil’s Been Busy",
+      "id": null
+    },
+    {
+      "title": "7 Deadly Sins",
+      "id": null
+    },
+    {
+      "title": "Poor House",
+      "id": null
+    },
+    {
+      "title": "Where Were You Last Night?",
+      "id": null
+    },
+    {
+      "title": "Cool Dry Place",
+      "id": null
+    },
+    {
+      "title": "New Blue Moon",
+      "id": null
+    },
+    {
+      "title": "You Took My Breath Away",
+      "id": null
+    },
+    {
+      "title": "Wilbury Twist",
+      "id": null
+    },
+    {
+      "title": "Nobody’s Child",
+      "id": null
+    },
+    {
+      "title": "Runaway",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"id": "wild-ones-kip-moore", "title": "Wild Ones", "artist": "Kip Moore", "peak": 4, "history": [{"date": "2015-09-12", "rank": 4}, {"date": "2015-09-19", "rank": 39}, {"date": "2015-09-26", "rank": 75}, {"date": "2015-10-03", "rank": 126}]}
+{
+  "id": "wild-ones-kip-moore",
+  "title": "Wild Ones",
+  "artist": "Kip Moore",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2015-09-12",
+      "rank": 4
+    },
+    {
+      "date": "2015-09-19",
+      "rank": 39
+    },
+    {
+      "date": "2015-09-26",
+      "rank": 75
+    },
+    {
+      "date": "2015-10-03",
+      "rank": 126
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’m to Blame",
+      "id": "i-m-to-blame-kip-moore"
+    },
+    {
+      "title": "Wild Ones",
+      "id": null
+    },
+    {
+      "title": "Come and Get It",
+      "id": null
+    },
+    {
+      "title": "Girl of the Summer",
+      "id": null
+    },
+    {
+      "title": "Magic",
+      "id": null
+    },
+    {
+      "title": "That Was Us",
+      "id": null
+    },
+    {
+      "title": "Lipstick",
+      "id": null
+    },
+    {
+      "title": "What Ya Got on Tonight",
+      "id": null
+    },
+    {
+      "title": "Heart’s Desire",
+      "id": null
+    },
+    {
+      "title": "Complicated",
+      "id": null
+    },
+    {
+      "title": "That’s Alright With Me",
+      "id": null
+    },
+    {
+      "title": "Running for You",
+      "id": null
+    },
+    {
+      "title": "Comeback Kid",
+      "id": null
+    },
+    {
+      "title": "What I Do",
+      "id": null
+    },
+    {
+      "title": "Backseat",
+      "id": null
+    },
+    {
+      "title": "Burn the Whole World Down",
+      "id": null
+    }
+  ]
+}

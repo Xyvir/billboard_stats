@@ -1,1 +1,66 @@
-{"id": "this-is-me-now-jennifer-lopez", "title": "This Is Me...Now", "artist": "Jennifer Lopez", "peak": 38, "history": [{"date": "2024-03-02", "rank": 38}]}
+{
+  "id": "this-is-me-now-jennifer-lopez",
+  "title": "This Is Me...Now",
+  "artist": "Jennifer Lopez",
+  "peak": 38,
+  "history": [
+    {
+      "date": "2024-03-02",
+      "rank": 38
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mad in Love",
+      "id": "baby-i-love-u-jennifer-lopez"
+    },
+    {
+      "title": "This Is Me…Now",
+      "id": null
+    },
+    {
+      "title": "To Be Yours",
+      "id": null
+    },
+    {
+      "title": "Can’t Get Enough",
+      "id": null
+    },
+    {
+      "title": "not.going.anywhere.",
+      "id": null
+    },
+    {
+      "title": "Rebound",
+      "id": null
+    },
+    {
+      "title": "Dear Ben, Pt. II",
+      "id": null
+    },
+    {
+      "title": "Hummingbird",
+      "id": null
+    },
+    {
+      "title": "Hearts and Flowers",
+      "id": null
+    },
+    {
+      "title": "Broken Like Me",
+      "id": null
+    },
+    {
+      "title": "This Time Around",
+      "id": null
+    },
+    {
+      "title": "Midnight Trip to Vegas",
+      "id": null
+    },
+    {
+      "title": "Greatest Love Story Never Told",
+      "id": null
+    }
+  ]
+}

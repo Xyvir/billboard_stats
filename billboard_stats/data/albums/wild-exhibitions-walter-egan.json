@@ -1,1 +1,62 @@
-{"id": "wild-exhibitions-walter-egan", "title": "Wild Exhibitions", "artist": "Walter Egan", "peak": 187, "history": [{"date": "1983-05-28", "rank": 190}, {"date": "1983-06-04", "rank": 187}]}
+{
+  "id": "wild-exhibitions-walter-egan",
+  "title": "Wild Exhibitions",
+  "artist": "Walter Egan",
+  "peak": 187,
+  "history": [
+    {
+      "date": "1983-05-28",
+      "rank": 190
+    },
+    {
+      "date": "1983-06-04",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fool Moon Fire",
+      "id": "fool-moon-fire-walter-egan"
+    },
+    {
+      "title": "Maybe Maybe",
+      "id": null
+    },
+    {
+      "title": "Animal Lover",
+      "id": null
+    },
+    {
+      "title": "Such A Shame",
+      "id": null
+    },
+    {
+      "title": "Star Of My Heart",
+      "id": null
+    },
+    {
+      "title": "Like No Other One",
+      "id": null
+    },
+    {
+      "title": "Too Much Love",
+      "id": null
+    },
+    {
+      "title": "I'll Be There",
+      "id": null
+    },
+    {
+      "title": "Tammy Ann",
+      "id": null
+    },
+    {
+      "title": "Girl Next Door",
+      "id": null
+    },
+    {
+      "title": "Stay All Night",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,218 @@
-{"id": "white-winds-andreas-vollenweider", "title": "White Winds", "artist": "Andreas Vollenweider", "peak": 76, "history": [{"date": "1985-03-02", "rank": 135}, {"date": "1985-03-09", "rank": 109}, {"date": "1985-03-16", "rank": 94}, {"date": "1985-03-23", "rank": 90}, {"date": "1985-03-30", "rank": 86}, {"date": "1985-04-06", "rank": 86}, {"date": "1985-04-13", "rank": 101}, {"date": "1985-04-20", "rank": 115}, {"date": "1985-04-27", "rank": 111}, {"date": "1985-05-04", "rank": 110}, {"date": "1985-05-11", "rank": 114}, {"date": "1985-05-18", "rank": 109}, {"date": "1985-05-25", "rank": 104}, {"date": "1985-06-01", "rank": 84}, {"date": "1985-06-08", "rank": 79}, {"date": "1985-06-15", "rank": 78}, {"date": "1985-06-22", "rank": 76}, {"date": "1985-06-29", "rank": 76}, {"date": "1985-07-06", "rank": 102}, {"date": "1985-07-13", "rank": 102}, {"date": "1985-07-20", "rank": 116}, {"date": "1985-07-27", "rank": 149}, {"date": "1985-08-03", "rank": 147}, {"date": "1985-08-10", "rank": 144}, {"date": "1985-08-17", "rank": 157}, {"date": "1985-08-24", "rank": 148}, {"date": "1985-08-31", "rank": 155}, {"date": "1985-09-07", "rank": 150}, {"date": "1985-09-14", "rank": 143}, {"date": "1985-09-21", "rank": 140}, {"date": "1985-09-28", "rank": 152}, {"date": "1985-10-05", "rank": 152}, {"date": "1985-10-12", "rank": 164}, {"date": "1985-10-19", "rank": 177}, {"date": "1985-10-26", "rank": 182}, {"date": "1985-11-02", "rank": 194}, {"date": "1985-11-09", "rank": 189}, {"date": "1985-11-16", "rank": 189}, {"date": "1985-11-23", "rank": 199}]}
+{
+  "id": "white-winds-andreas-vollenweider",
+  "title": "White Winds",
+  "artist": "Andreas Vollenweider",
+  "peak": 76,
+  "history": [
+    {
+      "date": "1985-03-02",
+      "rank": 135
+    },
+    {
+      "date": "1985-03-09",
+      "rank": 109
+    },
+    {
+      "date": "1985-03-16",
+      "rank": 94
+    },
+    {
+      "date": "1985-03-23",
+      "rank": 90
+    },
+    {
+      "date": "1985-03-30",
+      "rank": 86
+    },
+    {
+      "date": "1985-04-06",
+      "rank": 86
+    },
+    {
+      "date": "1985-04-13",
+      "rank": 101
+    },
+    {
+      "date": "1985-04-20",
+      "rank": 115
+    },
+    {
+      "date": "1985-04-27",
+      "rank": 111
+    },
+    {
+      "date": "1985-05-04",
+      "rank": 110
+    },
+    {
+      "date": "1985-05-11",
+      "rank": 114
+    },
+    {
+      "date": "1985-05-18",
+      "rank": 109
+    },
+    {
+      "date": "1985-05-25",
+      "rank": 104
+    },
+    {
+      "date": "1985-06-01",
+      "rank": 84
+    },
+    {
+      "date": "1985-06-08",
+      "rank": 79
+    },
+    {
+      "date": "1985-06-15",
+      "rank": 78
+    },
+    {
+      "date": "1985-06-22",
+      "rank": 76
+    },
+    {
+      "date": "1985-06-29",
+      "rank": 76
+    },
+    {
+      "date": "1985-07-06",
+      "rank": 102
+    },
+    {
+      "date": "1985-07-13",
+      "rank": 102
+    },
+    {
+      "date": "1985-07-20",
+      "rank": 116
+    },
+    {
+      "date": "1985-07-27",
+      "rank": 149
+    },
+    {
+      "date": "1985-08-03",
+      "rank": 147
+    },
+    {
+      "date": "1985-08-10",
+      "rank": 144
+    },
+    {
+      "date": "1985-08-17",
+      "rank": 157
+    },
+    {
+      "date": "1985-08-24",
+      "rank": 148
+    },
+    {
+      "date": "1985-08-31",
+      "rank": 155
+    },
+    {
+      "date": "1985-09-07",
+      "rank": 150
+    },
+    {
+      "date": "1985-09-14",
+      "rank": 143
+    },
+    {
+      "date": "1985-09-21",
+      "rank": 140
+    },
+    {
+      "date": "1985-09-28",
+      "rank": 152
+    },
+    {
+      "date": "1985-10-05",
+      "rank": 152
+    },
+    {
+      "date": "1985-10-12",
+      "rank": 164
+    },
+    {
+      "date": "1985-10-19",
+      "rank": 177
+    },
+    {
+      "date": "1985-10-26",
+      "rank": 182
+    },
+    {
+      "date": "1985-11-02",
+      "rank": 194
+    },
+    {
+      "date": "1985-11-09",
+      "rank": 189
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 189
+    },
+    {
+      "date": "1985-11-23",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The White Winds / The White Boat (First View)",
+      "id": null
+    },
+    {
+      "title": "Hall of the Stairs / Hall of the Mosaics (Meeting You)",
+      "id": null
+    },
+    {
+      "title": "The Glass Hall (Choose the Crystal) / The Play of the Five Balls / The Five Planets / Canopy Choir",
+      "id": null
+    },
+    {
+      "title": "The Woman and the Stone",
+      "id": null
+    },
+    {
+      "title": "The Stone (Close‐Up)",
+      "id": null
+    },
+    {
+      "title": "Phases of the Three Moons",
+      "id": null
+    },
+    {
+      "title": "Flight Fleet & Root Hands",
+      "id": null
+    },
+    {
+      "title": "Brothership",
+      "id": null
+    },
+    {
+      "title": "Sisterseed",
+      "id": null
+    },
+    {
+      "title": "Trilogy (At the White Magic Gardens) / The White Winds",
+      "id": null
+    },
+    {
+      "title": "Pace verde",
+      "id": null
+    },
+    {
+      "title": "Flight Feet & Root Hands / Mother of Peace",
+      "id": null
+    },
+    {
+      "title": "Hey You! Yes You... (edit excerpt)",
+      "id": null
+    }
+  ]
+}

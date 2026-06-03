@@ -1,1 +1,134 @@
-{"id": "voodoo-child-the-jimi-hendrix-collection-jimi-hendrix", "title": "Voodoo Child: The Jimi Hendrix Collection", "artist": "Jimi Hendrix", "peak": 112, "history": [{"date": "2001-05-26", "rank": 112}, {"date": "2001-06-02", "rank": 171}, {"date": "2001-06-09", "rank": 164}, {"date": "2001-06-16", "rank": 196}]}
+{
+  "id": "voodoo-child-the-jimi-hendrix-collection-jimi-hendrix",
+  "title": "Voodoo Child: The Jimi Hendrix Collection",
+  "artist": "Jimi Hendrix",
+  "peak": 112,
+  "history": [
+    {
+      "date": "2001-05-26",
+      "rank": 112
+    },
+    {
+      "date": "2001-06-02",
+      "rank": 171
+    },
+    {
+      "date": "2001-06-09",
+      "rank": 164
+    },
+    {
+      "date": "2001-06-16",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Dolly Dagger",
+      "id": "dolly-dagger-jimi-hendrix"
+    },
+    {
+      "title": "Foxy Lady",
+      "id": "foxey-lady-jimi-hendrix"
+    },
+    {
+      "title": "Freedom",
+      "id": "freedom-jimi-hendrix"
+    },
+    {
+      "title": "Purple Haze",
+      "id": null
+    },
+    {
+      "title": "Hey Joe",
+      "id": null
+    },
+    {
+      "title": "The Wind Cries Mary",
+      "id": null
+    },
+    {
+      "title": "Fire",
+      "id": null
+    },
+    {
+      "title": "Highway Chile",
+      "id": null
+    },
+    {
+      "title": "Are You Experienced?",
+      "id": null
+    },
+    {
+      "title": "Burning of the Midnight Lamp",
+      "id": null
+    },
+    {
+      "title": "Little Wing",
+      "id": null
+    },
+    {
+      "title": "All Along the Watchtower",
+      "id": null
+    },
+    {
+      "title": "Crosstown Traffic",
+      "id": null
+    },
+    {
+      "title": "Voodoo Child (slight return)",
+      "id": null
+    },
+    {
+      "title": "Spanish Castle Magic",
+      "id": null
+    },
+    {
+      "title": "Stone Free",
+      "id": null
+    },
+    {
+      "title": "Izabella",
+      "id": null
+    },
+    {
+      "title": "Stepping Stone",
+      "id": null
+    },
+    {
+      "title": "Angel",
+      "id": null
+    },
+    {
+      "title": "Hey Baby (New Rising Sun)",
+      "id": null
+    },
+    {
+      "title": "I Don’t Live Today",
+      "id": null
+    },
+    {
+      "title": "Hear My Train a Comin’",
+      "id": null
+    },
+    {
+      "title": "Machine Gun",
+      "id": null
+    },
+    {
+      "title": "Johnny B. Goode",
+      "id": null
+    },
+    {
+      "title": "Red House",
+      "id": null
+    },
+    {
+      "title": "Star Spangled Banner",
+      "id": null
+    },
+    {
+      "title": "Wild Thing",
+      "id": null
+    }
+  ]
+}

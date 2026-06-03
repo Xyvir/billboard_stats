@@ -1,1 +1,74 @@
-{"id": "voyageur-enigma", "title": "Voyageur", "artist": "Enigma", "peak": 94, "history": [{"date": "2003-10-18", "rank": 94}, {"date": "2003-10-25", "rank": 125}, {"date": "2003-11-01", "rank": 139}, {"date": "2003-11-08", "rank": 175}, {"date": "2003-11-15", "rank": 183}]}
+{
+  "id": "voyageur-enigma",
+  "title": "Voyageur",
+  "artist": "Enigma",
+  "peak": 94,
+  "history": [
+    {
+      "date": "2003-10-18",
+      "rank": 94
+    },
+    {
+      "date": "2003-10-25",
+      "rank": 125
+    },
+    {
+      "date": "2003-11-01",
+      "rank": 139
+    },
+    {
+      "date": "2003-11-08",
+      "rank": 175
+    },
+    {
+      "date": "2003-11-15",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "From East to West",
+      "id": null
+    },
+    {
+      "title": "Voyageur",
+      "id": null
+    },
+    {
+      "title": "Incognito",
+      "id": null
+    },
+    {
+      "title": "Page of Cups",
+      "id": null
+    },
+    {
+      "title": "Boum‐Boum",
+      "id": null
+    },
+    {
+      "title": "Total Eclipse of the Moon",
+      "id": null
+    },
+    {
+      "title": "Look of Today",
+      "id": null
+    },
+    {
+      "title": "In the Shadow, in the Light",
+      "id": null
+    },
+    {
+      "title": "Weightless",
+      "id": null
+    },
+    {
+      "title": "The Piano",
+      "id": null
+    },
+    {
+      "title": "Following the Sun",
+      "id": null
+    }
+  ]
+}

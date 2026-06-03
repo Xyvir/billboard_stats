@@ -1,1 +1,90 @@
-{"id": "the-very-best-of-frank-sinatra-frank-sinatra", "title": "The Very Best Of Frank Sinatra", "artist": "Frank Sinatra", "peak": 124, "history": [{"date": "1998-06-06", "rank": 124}, {"date": "1998-06-13", "rank": 165}]}
+{
+  "id": "the-very-best-of-frank-sinatra-frank-sinatra",
+  "title": "The Very Best Of Frank Sinatra",
+  "artist": "Frank Sinatra",
+  "peak": 124,
+  "history": [
+    {
+      "date": "1998-06-06",
+      "rank": 124
+    },
+    {
+      "date": "1998-06-13",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Come Fly With Me",
+      "id": "stay-with-me-frank-sinatra"
+    },
+    {
+      "title": "Nice 'n' Easy",
+      "id": "nice-n-easy-frank-sinatra"
+    },
+    {
+      "title": "Come Dance With Me",
+      "id": "stay-with-me-frank-sinatra"
+    },
+    {
+      "title": "I Get a Kick Out of You",
+      "id": null
+    },
+    {
+      "title": "Three Coins in the Fountain",
+      "id": null
+    },
+    {
+      "title": "Young at Heart",
+      "id": null
+    },
+    {
+      "title": "Love and Marriage",
+      "id": null
+    },
+    {
+      "title": "(Love Is) The Tender Trap",
+      "id": null
+    },
+    {
+      "title": "I’ve Got You Under My Skin",
+      "id": null
+    },
+    {
+      "title": "I Got Plenty of Nothin'",
+      "id": null
+    },
+    {
+      "title": "All the Way",
+      "id": null
+    },
+    {
+      "title": "Learnin’ the Blues",
+      "id": null
+    },
+    {
+      "title": "Witchcraft",
+      "id": null
+    },
+    {
+      "title": "The Lady Is a Tramp",
+      "id": null
+    },
+    {
+      "title": "Chicago",
+      "id": null
+    },
+    {
+      "title": "Only the Lonely",
+      "id": null
+    },
+    {
+      "title": "I’ve Got a Crush on You",
+      "id": null
+    },
+    {
+      "title": "I Gotta Right to Sing the Blues",
+      "id": null
+    }
+  ]
+}

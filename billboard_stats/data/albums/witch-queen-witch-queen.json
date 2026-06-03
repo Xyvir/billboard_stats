@@ -1,1 +1,50 @@
-{"id": "witch-queen-witch-queen", "title": "Witch Queen", "artist": "Witch Queen", "peak": 158, "history": [{"date": "1979-04-28", "rank": 190}, {"date": "1979-05-05", "rank": 180}, {"date": "1979-05-12", "rank": 169}, {"date": "1979-05-19", "rank": 158}, {"date": "1979-05-26", "rank": 158}, {"date": "1979-06-02", "rank": 194}]}
+{
+  "id": "witch-queen-witch-queen",
+  "title": "Witch Queen",
+  "artist": "Witch Queen",
+  "peak": 158,
+  "history": [
+    {
+      "date": "1979-04-28",
+      "rank": 190
+    },
+    {
+      "date": "1979-05-05",
+      "rank": 180
+    },
+    {
+      "date": "1979-05-12",
+      "rank": 169
+    },
+    {
+      "date": "1979-05-19",
+      "rank": 158
+    },
+    {
+      "date": "1979-05-26",
+      "rank": 158
+    },
+    {
+      "date": "1979-06-02",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Bang a Gong",
+      "id": "bang-a-gong-witch-queen"
+    },
+    {
+      "title": "Witch Queen",
+      "id": null
+    },
+    {
+      "title": "All Right Now",
+      "id": null
+    },
+    {
+      "title": "Got the Time",
+      "id": null
+    }
+  ]
+}

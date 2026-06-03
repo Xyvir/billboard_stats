@@ -1,1 +1,74 @@
-{"id": "we-are-tonight-billy-currington", "title": "We Are Tonight", "artist": "Billy Currington", "peak": 10, "history": [{"date": "2013-10-05", "rank": 10}, {"date": "2013-10-12", "rank": 51}, {"date": "2013-10-19", "rank": 69}, {"date": "2013-10-26", "rank": 83}, {"date": "2013-11-02", "rank": 119}, {"date": "2013-11-09", "rank": 155}]}
+{
+  "id": "we-are-tonight-billy-currington",
+  "title": "We Are Tonight",
+  "artist": "Billy Currington",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2013-10-05",
+      "rank": 10
+    },
+    {
+      "date": "2013-10-12",
+      "rank": 51
+    },
+    {
+      "date": "2013-10-19",
+      "rank": 69
+    },
+    {
+      "date": "2013-10-26",
+      "rank": 83
+    },
+    {
+      "date": "2013-11-02",
+      "rank": 119
+    },
+    {
+      "date": "2013-11-09",
+      "rank": 155
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hey Girl",
+      "id": "hey-girl-billy-currington"
+    },
+    {
+      "title": "We Are Tonight",
+      "id": "we-are-tonight-billy-currington"
+    },
+    {
+      "title": "Closer Tonight",
+      "id": "we-are-tonight-billy-currington"
+    },
+    {
+      "title": "Wingman",
+      "id": null
+    },
+    {
+      "title": "One Way Ticket",
+      "id": null
+    },
+    {
+      "title": "23 Degrees and South",
+      "id": null
+    },
+    {
+      "title": "Hard to Be a Hippie",
+      "id": null
+    },
+    {
+      "title": "Another Day Without You",
+      "id": null
+    },
+    {
+      "title": "Banana Pancakes",
+      "id": null
+    },
+    {
+      "title": "Hallelujah",
+      "id": null
+    }
+  ]
+}

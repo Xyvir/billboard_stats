@@ -1,1 +1,94 @@
-{"id": "waterloo-abba", "title": "Waterloo", "artist": "ABBA", "peak": 145, "history": [{"date": "1974-08-17", "rank": 189}, {"date": "1974-08-24", "rank": 179}, {"date": "1974-08-31", "rank": 169}, {"date": "1974-09-07", "rank": 160}, {"date": "1974-09-14", "rank": 152}, {"date": "1974-09-21", "rank": 145}, {"date": "1974-09-28", "rank": 157}, {"date": "1974-10-05", "rank": 169}]}
+{
+  "id": "waterloo-abba",
+  "title": "Waterloo",
+  "artist": "ABBA",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1974-08-17",
+      "rank": 189
+    },
+    {
+      "date": "1974-08-24",
+      "rank": 179
+    },
+    {
+      "date": "1974-08-31",
+      "rank": 169
+    },
+    {
+      "date": "1974-09-07",
+      "rank": 160
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 152
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 145
+    },
+    {
+      "date": "1974-09-28",
+      "rank": 157
+    },
+    {
+      "date": "1974-10-05",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Waterloo",
+      "id": "waterloo-abba"
+    },
+    {
+      "title": "King Kong Song",
+      "id": "knowing-me-knowing-you-abba"
+    },
+    {
+      "title": "Honey, Honey",
+      "id": "honey-honey-abba"
+    },
+    {
+      "title": "Sitting in the Palmtree",
+      "id": null
+    },
+    {
+      "title": "Hasta mañana",
+      "id": null
+    },
+    {
+      "title": "My Mama Said",
+      "id": null
+    },
+    {
+      "title": "Dance (While the Music Still Goes On)",
+      "id": null
+    },
+    {
+      "title": "Watch Out",
+      "id": null
+    },
+    {
+      "title": "What About Livingstone",
+      "id": null
+    },
+    {
+      "title": "Gonna Sing You My Lovesong",
+      "id": null
+    },
+    {
+      "title": "Suzy‐Hang‐Around",
+      "id": null
+    },
+    {
+      "title": "Ring, Ring (US remix 1974)",
+      "id": null
+    },
+    {
+      "title": "Honey Honey (Swedish version)",
+      "id": null
+    }
+  ]
+}

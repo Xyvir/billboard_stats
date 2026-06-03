@@ -1,1 +1,90 @@
-{"id": "wishes-kenny-g", "title": "Wishes", "artist": "Kenny G", "peak": 29, "history": [{"date": "2002-11-09", "rank": 64}, {"date": "2002-11-16", "rank": 88}, {"date": "2002-11-23", "rank": 66}, {"date": "2002-11-30", "rank": 48}, {"date": "2002-12-07", "rank": 31}, {"date": "2002-12-14", "rank": 34}, {"date": "2002-12-21", "rank": 29}, {"date": "2002-12-28", "rank": 35}, {"date": "2003-01-04", "rank": 47}, {"date": "2003-01-11", "rank": 68}]}
+{
+  "id": "wishes-kenny-g",
+  "title": "Wishes",
+  "artist": "Kenny G",
+  "peak": 29,
+  "history": [
+    {
+      "date": "2002-11-09",
+      "rank": 64
+    },
+    {
+      "date": "2002-11-16",
+      "rank": 88
+    },
+    {
+      "date": "2002-11-23",
+      "rank": 66
+    },
+    {
+      "date": "2002-11-30",
+      "rank": 48
+    },
+    {
+      "date": "2002-12-07",
+      "rank": 31
+    },
+    {
+      "date": "2002-12-14",
+      "rank": 34
+    },
+    {
+      "date": "2002-12-21",
+      "rank": 29
+    },
+    {
+      "date": "2002-12-28",
+      "rank": 35
+    },
+    {
+      "date": "2003-01-04",
+      "rank": 47
+    },
+    {
+      "date": "2003-01-11",
+      "rank": 68
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Auld Lang Syne (Freedom mix)",
+      "id": "auld-lang-syne-kenny-g"
+    },
+    {
+      "title": "Deck the Halls / The Twelve Days of Christmas",
+      "id": null
+    },
+    {
+      "title": "Hark! the Herald Angels Sing / O Come All Ye Faithful",
+      "id": null
+    },
+    {
+      "title": "Joy to the World",
+      "id": null
+    },
+    {
+      "title": "God Rest Ye, Merry Gentlemen",
+      "id": null
+    },
+    {
+      "title": "Rudolph the Red Nosed Reindeer / Frosty the Snowman",
+      "id": null
+    },
+    {
+      "title": "Wishes",
+      "id": null
+    },
+    {
+      "title": "Do You Hear What I Hear?",
+      "id": null
+    },
+    {
+      "title": "Cantique De Noel (O Holy Night)",
+      "id": null
+    },
+    {
+      "title": "Jesu, Joy of Man's Desiring",
+      "id": null
+    }
+  ]
+}

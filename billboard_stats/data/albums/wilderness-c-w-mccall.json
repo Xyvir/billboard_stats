@@ -1,1 +1,74 @@
-{"id": "wilderness-c-w-mccall", "title": "Wilderness", "artist": "C.W. McCall", "peak": 143, "history": [{"date": "1976-05-08", "rank": 170}, {"date": "1976-05-15", "rank": 160}, {"date": "1976-05-22", "rank": 143}, {"date": "1976-05-29", "rank": 143}]}
+{
+  "id": "wilderness-c-w-mccall",
+  "title": "Wilderness",
+  "artist": "C.W. McCall",
+  "peak": 143,
+  "history": [
+    {
+      "date": "1976-05-08",
+      "rank": 170
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 160
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 143
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 143
+    }
+  ],
+  "tracks": [
+    {
+      "title": "There Won't Be No Country Music (There Won't Be No Rock 'n Roll)",
+      "id": "there-won-t-be-no-country-music-there-won-t-be-no-rock-n-roll-c-w-mccall"
+    },
+    {
+      "title": "Wilderness",
+      "id": null
+    },
+    {
+      "title": "Jackson Hole",
+      "id": null
+    },
+    {
+      "title": "Riverside Slide",
+      "id": null
+    },
+    {
+      "title": "Crispy Critters",
+      "id": null
+    },
+    {
+      "title": "Roy",
+      "id": null
+    },
+    {
+      "title": "The Little Brown Sparrow and Me",
+      "id": null
+    },
+    {
+      "title": "Telluride Breakdown",
+      "id": null
+    },
+    {
+      "title": "Four Wheel Cowboy",
+      "id": null
+    },
+    {
+      "title": "Silver Iodide Blues",
+      "id": null
+    },
+    {
+      "title": "Columbine",
+      "id": null
+    },
+    {
+      "title": "Aurora Borealis",
+      "id": null
+    }
+  ]
+}

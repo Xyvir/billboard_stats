@@ -1,1 +1,82 @@
-{"id": "turn-back-toto", "title": "Turn Back", "artist": "Toto", "peak": 41, "history": [{"date": "1981-02-07", "rank": 87}, {"date": "1981-02-14", "rank": 59}, {"date": "1981-02-21", "rank": 49}, {"date": "1981-02-28", "rank": 43}, {"date": "1981-03-07", "rank": 41}, {"date": "1981-03-14", "rank": 41}, {"date": "1981-03-21", "rank": 55}, {"date": "1981-03-28", "rank": 75}, {"date": "1981-04-04", "rank": 108}, {"date": "1981-04-11", "rank": 171}]}
+{
+  "id": "turn-back-toto",
+  "title": "Turn Back",
+  "artist": "Toto",
+  "peak": 41,
+  "history": [
+    {
+      "date": "1981-02-07",
+      "rank": 87
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 59
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 49
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 43
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 41
+    },
+    {
+      "date": "1981-03-14",
+      "rank": 41
+    },
+    {
+      "date": "1981-03-21",
+      "rank": 55
+    },
+    {
+      "date": "1981-03-28",
+      "rank": 75
+    },
+    {
+      "date": "1981-04-04",
+      "rank": 108
+    },
+    {
+      "date": "1981-04-11",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Gift With a Golden Gun",
+      "id": null
+    },
+    {
+      "title": "English Eyes",
+      "id": null
+    },
+    {
+      "title": "Live for Today",
+      "id": null
+    },
+    {
+      "title": "A Million Miles Away",
+      "id": null
+    },
+    {
+      "title": "Goodbye Elenore",
+      "id": null
+    },
+    {
+      "title": "I Think I Could Stand You Forever",
+      "id": null
+    },
+    {
+      "title": "Turn Back",
+      "id": null
+    },
+    {
+      "title": "If It’s the Last Night",
+      "id": null
+    }
+  ]
+}

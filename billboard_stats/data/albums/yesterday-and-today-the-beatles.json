@@ -1,1 +1,58 @@
-{"id": "yesterday-and-today-the-beatles", "title": "Yesterday And Today", "artist": "The Beatles", "peak": 74, "history": [{"date": "2014-02-08", "rank": 74}]}
+{
+  "id": "yesterday-and-today-the-beatles",
+  "title": "Yesterday And Today",
+  "artist": "The Beatles",
+  "peak": 74,
+  "history": [
+    {
+      "date": "2014-02-08",
+      "rank": 74
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Nowhere Man",
+      "id": "nowhere-man-the-beatles"
+    },
+    {
+      "title": "Yesterday",
+      "id": "yesterday-the-beatles"
+    },
+    {
+      "title": "Act Naturally",
+      "id": "act-naturally-the-beatles"
+    },
+    {
+      "title": "We Can Work It Out",
+      "id": "we-can-work-it-out-the-beatles"
+    },
+    {
+      "title": "What Goes On",
+      "id": "what-goes-on-the-beatles"
+    },
+    {
+      "title": "Day Tripper",
+      "id": "day-tripper-the-beatles"
+    },
+    {
+      "title": "Drive My Car",
+      "id": null
+    },
+    {
+      "title": "I’m Only Sleeping",
+      "id": null
+    },
+    {
+      "title": "Doctor Robert",
+      "id": null
+    },
+    {
+      "title": "And Your Bird Can Sing",
+      "id": null
+    },
+    {
+      "title": "If I Needed Someone",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "with-the-beatles-the-beatles", "title": "With The Beatles", "artist": "The Beatles", "peak": 179, "history": [{"date": "2010-12-04", "rank": 179}]}
+{
+  "id": "with-the-beatles-the-beatles",
+  "title": "With The Beatles",
+  "artist": "The Beatles",
+  "peak": 179,
+  "history": [
+    {
+      "date": "2010-12-04",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All My Loving",
+      "id": "all-my-loving-the-beatles"
+    },
+    {
+      "title": "Roll Over Beethoven",
+      "id": "roll-over-beethoven-the-beatles"
+    },
+    {
+      "title": "I Wanna Be Your Man",
+      "id": "i-want-to-hold-your-hand-the-beatles"
+    },
+    {
+      "title": "Not a Second Time",
+      "id": "now-and-then-the-beatles"
+    },
+    {
+      "title": "It Won’t Be Long",
+      "id": null
+    },
+    {
+      "title": "All I’ve Got to Do",
+      "id": null
+    },
+    {
+      "title": "Don’t Bother Me",
+      "id": null
+    },
+    {
+      "title": "Little Child",
+      "id": null
+    },
+    {
+      "title": "Till There Was You",
+      "id": null
+    },
+    {
+      "title": "Please Mister Postman",
+      "id": null
+    },
+    {
+      "title": "Hold Me Tight",
+      "id": null
+    },
+    {
+      "title": "You Really Got a Hold on Me",
+      "id": null
+    },
+    {
+      "title": "Devil in Her Heart",
+      "id": null
+    },
+    {
+      "title": "Money (That’s What I Want)",
+      "id": null
+    }
+  ]
+}

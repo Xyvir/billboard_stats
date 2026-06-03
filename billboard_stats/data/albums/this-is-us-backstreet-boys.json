@@ -1,1 +1,82 @@
-{"id": "this-is-us-backstreet-boys", "title": "This Is Us", "artist": "Backstreet Boys", "peak": 9, "history": [{"date": "2009-10-24", "rank": 9}, {"date": "2009-10-31", "rank": 64}, {"date": "2009-11-07", "rank": 114}, {"date": "2009-11-14", "rank": 170}, {"date": "2009-11-21", "rank": 185}]}
+{
+  "id": "this-is-us-backstreet-boys",
+  "title": "This Is Us",
+  "artist": "Backstreet Boys",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2009-10-24",
+      "rank": 9
+    },
+    {
+      "date": "2009-10-31",
+      "rank": 64
+    },
+    {
+      "date": "2009-11-07",
+      "rank": 114
+    },
+    {
+      "date": "2009-11-14",
+      "rank": 170
+    },
+    {
+      "date": "2009-11-21",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Straight Through My Heart",
+      "id": "shape-of-my-heart-backstreet-boys"
+    },
+    {
+      "title": "Bigger",
+      "id": null
+    },
+    {
+      "title": "Bye Bye Love",
+      "id": null
+    },
+    {
+      "title": "All of Your Life (You Need Love)",
+      "id": null
+    },
+    {
+      "title": "If I Knew Then",
+      "id": null
+    },
+    {
+      "title": "This Is Us",
+      "id": null
+    },
+    {
+      "title": "PDA",
+      "id": null
+    },
+    {
+      "title": "Masquerade",
+      "id": null
+    },
+    {
+      "title": "She’s a Dream",
+      "id": null
+    },
+    {
+      "title": "Shattered",
+      "id": null
+    },
+    {
+      "title": "Undone",
+      "id": null
+    },
+    {
+      "title": "International Luv",
+      "id": null
+    },
+    {
+      "title": "Straight Through My Heart (Jason Nevins Mixshow remix)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,286 @@
-{"id": "the-very-best-of-chicago-only-the-beginning-chicago", "title": "The Very Best Of Chicago: Only The Beginning", "artist": "Chicago", "peak": 20, "history": [{"date": "2002-07-20", "rank": 38}, {"date": "2002-07-27", "rank": 49}, {"date": "2002-08-03", "rank": 51}, {"date": "2002-08-10", "rank": 58}, {"date": "2002-08-17", "rank": 52}, {"date": "2002-08-24", "rank": 49}, {"date": "2002-08-31", "rank": 75}, {"date": "2002-09-07", "rank": 81}, {"date": "2002-09-14", "rank": 95}, {"date": "2002-09-21", "rank": 76}, {"date": "2002-09-28", "rank": 64}, {"date": "2002-10-05", "rank": 79}, {"date": "2002-10-12", "rank": 63}, {"date": "2002-10-19", "rank": 84}, {"date": "2002-10-26", "rank": 105}, {"date": "2002-11-02", "rank": 104}, {"date": "2002-11-09", "rank": 116}, {"date": "2002-11-16", "rank": 138}, {"date": "2002-11-23", "rank": 165}, {"date": "2002-11-30", "rank": 188}, {"date": "2003-02-08", "rank": 194}, {"date": "2003-02-22", "rank": 182}, {"date": "2003-06-28", "rank": 183}, {"date": "2003-07-05", "rank": 169}, {"date": "2003-07-12", "rank": 194}, {"date": "2013-03-30", "rank": 20}, {"date": "2014-10-18", "rank": 187}, {"date": "2017-01-21", "rank": 114}, {"date": "2017-01-28", "rank": 187}, {"date": "2019-04-06", "rank": 174}]}
+{
+  "id": "the-very-best-of-chicago-only-the-beginning-chicago",
+  "title": "The Very Best Of Chicago: Only The Beginning",
+  "artist": "Chicago",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2002-07-20",
+      "rank": 38
+    },
+    {
+      "date": "2002-07-27",
+      "rank": 49
+    },
+    {
+      "date": "2002-08-03",
+      "rank": 51
+    },
+    {
+      "date": "2002-08-10",
+      "rank": 58
+    },
+    {
+      "date": "2002-08-17",
+      "rank": 52
+    },
+    {
+      "date": "2002-08-24",
+      "rank": 49
+    },
+    {
+      "date": "2002-08-31",
+      "rank": 75
+    },
+    {
+      "date": "2002-09-07",
+      "rank": 81
+    },
+    {
+      "date": "2002-09-14",
+      "rank": 95
+    },
+    {
+      "date": "2002-09-21",
+      "rank": 76
+    },
+    {
+      "date": "2002-09-28",
+      "rank": 64
+    },
+    {
+      "date": "2002-10-05",
+      "rank": 79
+    },
+    {
+      "date": "2002-10-12",
+      "rank": 63
+    },
+    {
+      "date": "2002-10-19",
+      "rank": 84
+    },
+    {
+      "date": "2002-10-26",
+      "rank": 105
+    },
+    {
+      "date": "2002-11-02",
+      "rank": 104
+    },
+    {
+      "date": "2002-11-09",
+      "rank": 116
+    },
+    {
+      "date": "2002-11-16",
+      "rank": 138
+    },
+    {
+      "date": "2002-11-23",
+      "rank": 165
+    },
+    {
+      "date": "2002-11-30",
+      "rank": 188
+    },
+    {
+      "date": "2003-02-08",
+      "rank": 194
+    },
+    {
+      "date": "2003-02-22",
+      "rank": 182
+    },
+    {
+      "date": "2003-06-28",
+      "rank": 183
+    },
+    {
+      "date": "2003-07-05",
+      "rank": 169
+    },
+    {
+      "date": "2003-07-12",
+      "rank": 194
+    },
+    {
+      "date": "2013-03-30",
+      "rank": 20
+    },
+    {
+      "date": "2014-10-18",
+      "rank": 187
+    },
+    {
+      "date": "2017-01-21",
+      "rank": 114
+    },
+    {
+      "date": "2017-01-28",
+      "rank": 187
+    },
+    {
+      "date": "2019-04-06",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Make Me Smile (new edit)",
+      "id": "make-me-smile-chicago"
+    },
+    {
+      "title": "25 or 6 to 4",
+      "id": "25-or-6-to-4-chicago"
+    },
+    {
+      "title": "Does Anybody Really Know What Time It Is?",
+      "id": "does-anybody-really-know-what-time-it-is-chicago"
+    },
+    {
+      "title": "Questions 67 and 68",
+      "id": "questions-67-and-68-chicago"
+    },
+    {
+      "title": "Colour My World",
+      "id": "beginnings-colour-my-world-chicago"
+    },
+    {
+      "title": "Free",
+      "id": "free-chicago"
+    },
+    {
+      "title": "Lowdown",
+      "id": "lowdown-chicago"
+    },
+    {
+      "title": "Saturday in the Park",
+      "id": "saturday-in-the-park-chicago"
+    },
+    {
+      "title": "Dialogue (Part I & II) (single version)",
+      "id": "dialogue-part-i-ii-chicago"
+    },
+    {
+      "title": "Just You ’n’ Me",
+      "id": "just-you-n-me-chicago"
+    },
+    {
+      "title": "Feelin’ Stronger Every Day",
+      "id": "feelin-stronger-every-day-chicago"
+    },
+    {
+      "title": "(I’ve Been) Searchin’ So Long",
+      "id": "i-ve-been-searchin-so-long-chicago"
+    },
+    {
+      "title": "Wishing You Were Here",
+      "id": "wishing-you-were-here-chicago"
+    },
+    {
+      "title": "Call on Me",
+      "id": "call-on-me-chicago"
+    },
+    {
+      "title": "Another Rainy Day in New York City",
+      "id": "another-rainy-day-in-new-york-city-chicago"
+    },
+    {
+      "title": "If You Leave Me Now",
+      "id": "if-you-leave-me-now-chicago"
+    },
+    {
+      "title": "Old Days",
+      "id": "old-days-chicago"
+    },
+    {
+      "title": "Baby, What a Big Suprise",
+      "id": "baby-what-a-big-surprise-chicago"
+    },
+    {
+      "title": "Take Me Back to Chicago",
+      "id": "take-me-back-to-chicago-chicago"
+    },
+    {
+      "title": "Alive Again",
+      "id": "alive-again-chicago"
+    },
+    {
+      "title": "No Tell Lover",
+      "id": "no-tell-lover-chicago"
+    },
+    {
+      "title": "Love Me Tomorrow (single version)",
+      "id": "love-me-tomorrow-chicago"
+    },
+    {
+      "title": "Hard to Say I’m Sorry / Get Away",
+      "id": "hard-to-say-i-m-sorry-chicago"
+    },
+    {
+      "title": "Stay the Night",
+      "id": "stay-the-night-chicago"
+    },
+    {
+      "title": "Hard Habit to Break",
+      "id": "hard-habit-to-break-chicago"
+    },
+    {
+      "title": "You’re the Inspiration",
+      "id": "you-re-the-inspiration-chicago"
+    },
+    {
+      "title": "Along Comes a Woman (single version)",
+      "id": "along-comes-a-woman-chicago"
+    },
+    {
+      "title": "Will You Still Love Me?",
+      "id": "will-you-still-love-me-chicago"
+    },
+    {
+      "title": "If She Would Have Been Faithful…",
+      "id": "if-she-would-have-been-faithful-chicago"
+    },
+    {
+      "title": "Look Away",
+      "id": "look-away-chicago"
+    },
+    {
+      "title": "What Kind of Man Would I Be? (single version)",
+      "id": "what-kind-of-man-would-i-be-chicago"
+    },
+    {
+      "title": "I Don’t Wanna Live Without Your Love",
+      "id": "i-don-t-wanna-live-without-your-love-chicago"
+    },
+    {
+      "title": "We Can Last Forever",
+      "id": "we-can-last-forever-chicago"
+    },
+    {
+      "title": "You’re Not Alone",
+      "id": "you-re-not-alone-chicago"
+    },
+    {
+      "title": "Chasin’ the Wind",
+      "id": "chasin-the-wind-chicago"
+    },
+    {
+      "title": "Beginnings",
+      "id": null
+    },
+    {
+      "title": "I’m a Man (new edit)",
+      "id": null
+    },
+    {
+      "title": "Happy Man (GH2 edit)",
+      "id": null
+    },
+    {
+      "title": "Sing, Sing, Sing",
+      "id": null
+    }
+  ]
+}

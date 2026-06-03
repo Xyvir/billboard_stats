@@ -1,1 +1,82 @@
-{"id": "the-world-needs-a-hero-megadeth", "title": "The World Needs A Hero", "artist": "Megadeth", "peak": 16, "history": [{"date": "2001-06-02", "rank": 16}, {"date": "2001-06-09", "rank": 59}, {"date": "2001-06-16", "rank": 105}, {"date": "2001-06-23", "rank": 137}, {"date": "2001-06-30", "rank": 160}, {"date": "2001-07-07", "rank": 192}]}
+{
+  "id": "the-world-needs-a-hero-megadeth",
+  "title": "The World Needs A Hero",
+  "artist": "Megadeth",
+  "peak": 16,
+  "history": [
+    {
+      "date": "2001-06-02",
+      "rank": 16
+    },
+    {
+      "date": "2001-06-09",
+      "rank": 59
+    },
+    {
+      "date": "2001-06-16",
+      "rank": 105
+    },
+    {
+      "date": "2001-06-23",
+      "rank": 137
+    },
+    {
+      "date": "2001-06-30",
+      "rank": 160
+    },
+    {
+      "date": "2001-07-07",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Disconnect",
+      "id": null
+    },
+    {
+      "title": "The World Needs a Hero",
+      "id": null
+    },
+    {
+      "title": "Moto Psycho",
+      "id": null
+    },
+    {
+      "title": "1000 Times Goodbye",
+      "id": null
+    },
+    {
+      "title": "Burning Bridges",
+      "id": null
+    },
+    {
+      "title": "Promises",
+      "id": null
+    },
+    {
+      "title": "Recipe for Hate... Warhorse",
+      "id": null
+    },
+    {
+      "title": "Losing My Senses",
+      "id": null
+    },
+    {
+      "title": "Dread and the Fugitive Mind",
+      "id": null
+    },
+    {
+      "title": "Silent Scorn",
+      "id": null
+    },
+    {
+      "title": "Return to Hangar",
+      "id": null
+    },
+    {
+      "title": "When",
+      "id": null
+    }
+  ]
+}

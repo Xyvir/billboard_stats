@@ -1,1 +1,70 @@
-{"id": "three-piece-suite-ramsey-lewis", "title": "Three Piece Suite", "artist": "Ramsey Lewis", "peak": 152, "history": [{"date": "1981-06-20", "rank": 182}, {"date": "1981-06-27", "rank": 172}, {"date": "1981-07-04", "rank": 162}, {"date": "1981-07-11", "rank": 152}, {"date": "1981-07-18", "rank": 152}]}
+{
+  "id": "three-piece-suite-ramsey-lewis",
+  "title": "Three Piece Suite",
+  "artist": "Ramsey Lewis",
+  "peak": 152,
+  "history": [
+    {
+      "date": "1981-06-20",
+      "rank": 182
+    },
+    {
+      "date": "1981-06-27",
+      "rank": 172
+    },
+    {
+      "date": "1981-07-04",
+      "rank": 162
+    },
+    {
+      "date": "1981-07-11",
+      "rank": 152
+    },
+    {
+      "date": "1981-07-18",
+      "rank": 152
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lakeshore Cowboy",
+      "id": null
+    },
+    {
+      "title": "Romance Me",
+      "id": null
+    },
+    {
+      "title": "Will You",
+      "id": null
+    },
+    {
+      "title": "Love Is",
+      "id": null
+    },
+    {
+      "title": "Michelle",
+      "id": null
+    },
+    {
+      "title": "Don't Ever Go Away",
+      "id": null
+    },
+    {
+      "title": "So Much More",
+      "id": null
+    },
+    {
+      "title": "Can't Wait Till Summer",
+      "id": null
+    },
+    {
+      "title": "She's Out of My Life",
+      "id": null
+    },
+    {
+      "title": "Expansions",
+      "id": null
+    }
+  ]
+}

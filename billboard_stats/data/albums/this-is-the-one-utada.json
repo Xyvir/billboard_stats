@@ -1,1 +1,62 @@
-{"id": "this-is-the-one-utada", "title": "This Is The One", "artist": "Utada", "peak": 69, "history": [{"date": "2009-04-11", "rank": 178}, {"date": "2009-05-30", "rank": 69}, {"date": "2009-06-06", "rank": 139}]}
+{
+  "id": "this-is-the-one-utada",
+  "title": "This Is The One",
+  "artist": "Utada",
+  "peak": 69,
+  "history": [
+    {
+      "date": "2009-04-11",
+      "rank": 178
+    },
+    {
+      "date": "2009-05-30",
+      "rank": 69
+    },
+    {
+      "date": "2009-06-06",
+      "rank": 139
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Come Back to Me",
+      "id": null
+    },
+    {
+      "title": "Me Muero",
+      "id": null
+    },
+    {
+      "title": "Merry Christmas Mr. Lawrence - FYI",
+      "id": null
+    },
+    {
+      "title": "Apple and Cinnamon",
+      "id": null
+    },
+    {
+      "title": "Taking My Money Back",
+      "id": null
+    },
+    {
+      "title": "This One (Crying Like a Child)",
+      "id": null
+    },
+    {
+      "title": "Automatic Part II",
+      "id": null
+    },
+    {
+      "title": "Dirty Desire",
+      "id": null
+    },
+    {
+      "title": "Poppin’",
+      "id": null
+    },
+    {
+      "title": "On and On",
+      "id": null
+    }
+  ]
+}

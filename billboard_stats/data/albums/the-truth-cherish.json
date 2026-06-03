@@ -1,1 +1,74 @@
-{"id": "the-truth-cherish", "title": "The Truth", "artist": "Cherish", "peak": 40, "history": [{"date": "2008-05-31", "rank": 40}, {"date": "2008-06-07", "rank": 109}, {"date": "2008-06-14", "rank": 140}, {"date": "2008-06-21", "rank": 191}, {"date": "2008-06-28", "rank": 200}]}
+{
+  "id": "the-truth-cherish",
+  "title": "The Truth",
+  "artist": "Cherish",
+  "peak": 40,
+  "history": [
+    {
+      "date": "2008-05-31",
+      "rank": 40
+    },
+    {
+      "date": "2008-06-07",
+      "rank": 109
+    },
+    {
+      "date": "2008-06-14",
+      "rank": 140
+    },
+    {
+      "date": "2008-06-21",
+      "rank": 191
+    },
+    {
+      "date": "2008-06-28",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Killa",
+      "id": null
+    },
+    {
+      "title": "I Ain’t Trippin’",
+      "id": null
+    },
+    {
+      "title": "Amnesia",
+      "id": null
+    },
+    {
+      "title": "Notice",
+      "id": null
+    },
+    {
+      "title": "Framed Out",
+      "id": null
+    },
+    {
+      "title": "Before You Were My Man",
+      "id": null
+    },
+    {
+      "title": "Superstar",
+      "id": null
+    },
+    {
+      "title": "Only One",
+      "id": null
+    },
+    {
+      "title": "Love Sick",
+      "id": null
+    },
+    {
+      "title": "Damages",
+      "id": null
+    },
+    {
+      "title": "Like a Drum",
+      "id": null
+    }
+  ]
+}

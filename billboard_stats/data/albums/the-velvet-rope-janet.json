@@ -1,1 +1,414 @@
-{"id": "the-velvet-rope-janet", "title": "The Velvet Rope", "artist": "Janet", "peak": 1, "history": [{"date": "1997-10-25", "rank": 1}, {"date": "1997-11-01", "rank": 2}, {"date": "1997-11-08", "rank": 5}, {"date": "1997-11-15", "rank": 11}, {"date": "1997-11-22", "rank": 19}, {"date": "1997-11-29", "rank": 23}, {"date": "1997-12-06", "rank": 18}, {"date": "1997-12-13", "rank": 25}, {"date": "1997-12-20", "rank": 31}, {"date": "1997-12-27", "rank": 32}, {"date": "1998-01-03", "rank": 31}, {"date": "1998-01-10", "rank": 29}, {"date": "1998-01-17", "rank": 26}, {"date": "1998-01-24", "rank": 22}, {"date": "1998-01-31", "rank": 26}, {"date": "1998-02-07", "rank": 27}, {"date": "1998-02-14", "rank": 29}, {"date": "1998-02-21", "rank": 32}, {"date": "1998-02-28", "rank": 36}, {"date": "1998-03-07", "rank": 41}, {"date": "1998-03-14", "rank": 42}, {"date": "1998-03-21", "rank": 38}, {"date": "1998-03-28", "rank": 34}, {"date": "1998-04-04", "rank": 28}, {"date": "1998-04-11", "rank": 23}, {"date": "1998-04-18", "rank": 24}, {"date": "1998-04-25", "rank": 29}, {"date": "1998-05-02", "rank": 24}, {"date": "1998-05-09", "rank": 26}, {"date": "1998-05-16", "rank": 33}, {"date": "1998-05-23", "rank": 40}, {"date": "1998-05-30", "rank": 46}, {"date": "1998-06-06", "rank": 56}, {"date": "1998-06-13", "rank": 57}, {"date": "1998-06-20", "rank": 73}, {"date": "1998-06-27", "rank": 81}, {"date": "1998-07-04", "rank": 81}, {"date": "1998-07-11", "rank": 75}, {"date": "1998-07-18", "rank": 74}, {"date": "1998-07-25", "rank": 59}, {"date": "1998-08-01", "rank": 56}, {"date": "1998-08-08", "rank": 56}, {"date": "1998-08-15", "rank": 51}, {"date": "1998-08-22", "rank": 57}, {"date": "1998-08-29", "rank": 60}, {"date": "1998-09-05", "rank": 56}, {"date": "1998-09-12", "rank": 61}, {"date": "1998-09-19", "rank": 64}, {"date": "1998-09-26", "rank": 62}, {"date": "1998-10-03", "rank": 63}, {"date": "1998-10-10", "rank": 70}, {"date": "1998-10-17", "rank": 83}, {"date": "1998-10-24", "rank": 68}, {"date": "1998-10-31", "rank": 43}, {"date": "1998-11-07", "rank": 58}, {"date": "1998-11-14", "rank": 64}, {"date": "1998-11-21", "rank": 90}, {"date": "1998-11-28", "rank": 97}, {"date": "1998-12-05", "rank": 99}, {"date": "1998-12-12", "rank": 112}, {"date": "1998-12-19", "rank": 111}, {"date": "1998-12-26", "rank": 115}, {"date": "1999-01-02", "rank": 108}, {"date": "1999-01-09", "rank": 106}, {"date": "1999-01-16", "rank": 98}, {"date": "1999-01-23", "rank": 106}, {"date": "1999-01-30", "rank": 108}, {"date": "1999-02-06", "rank": 113}, {"date": "1999-02-13", "rank": 121}, {"date": "1999-02-20", "rank": 129}, {"date": "1999-02-27", "rank": 160}, {"date": "1999-03-06", "rank": 128}, {"date": "1999-03-13", "rank": 164}, {"date": "1999-03-20", "rank": 180}]}
+{
+  "id": "the-velvet-rope-janet",
+  "title": "The Velvet Rope",
+  "artist": "Janet",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1997-10-25",
+      "rank": 1
+    },
+    {
+      "date": "1997-11-01",
+      "rank": 2
+    },
+    {
+      "date": "1997-11-08",
+      "rank": 5
+    },
+    {
+      "date": "1997-11-15",
+      "rank": 11
+    },
+    {
+      "date": "1997-11-22",
+      "rank": 19
+    },
+    {
+      "date": "1997-11-29",
+      "rank": 23
+    },
+    {
+      "date": "1997-12-06",
+      "rank": 18
+    },
+    {
+      "date": "1997-12-13",
+      "rank": 25
+    },
+    {
+      "date": "1997-12-20",
+      "rank": 31
+    },
+    {
+      "date": "1997-12-27",
+      "rank": 32
+    },
+    {
+      "date": "1998-01-03",
+      "rank": 31
+    },
+    {
+      "date": "1998-01-10",
+      "rank": 29
+    },
+    {
+      "date": "1998-01-17",
+      "rank": 26
+    },
+    {
+      "date": "1998-01-24",
+      "rank": 22
+    },
+    {
+      "date": "1998-01-31",
+      "rank": 26
+    },
+    {
+      "date": "1998-02-07",
+      "rank": 27
+    },
+    {
+      "date": "1998-02-14",
+      "rank": 29
+    },
+    {
+      "date": "1998-02-21",
+      "rank": 32
+    },
+    {
+      "date": "1998-02-28",
+      "rank": 36
+    },
+    {
+      "date": "1998-03-07",
+      "rank": 41
+    },
+    {
+      "date": "1998-03-14",
+      "rank": 42
+    },
+    {
+      "date": "1998-03-21",
+      "rank": 38
+    },
+    {
+      "date": "1998-03-28",
+      "rank": 34
+    },
+    {
+      "date": "1998-04-04",
+      "rank": 28
+    },
+    {
+      "date": "1998-04-11",
+      "rank": 23
+    },
+    {
+      "date": "1998-04-18",
+      "rank": 24
+    },
+    {
+      "date": "1998-04-25",
+      "rank": 29
+    },
+    {
+      "date": "1998-05-02",
+      "rank": 24
+    },
+    {
+      "date": "1998-05-09",
+      "rank": 26
+    },
+    {
+      "date": "1998-05-16",
+      "rank": 33
+    },
+    {
+      "date": "1998-05-23",
+      "rank": 40
+    },
+    {
+      "date": "1998-05-30",
+      "rank": 46
+    },
+    {
+      "date": "1998-06-06",
+      "rank": 56
+    },
+    {
+      "date": "1998-06-13",
+      "rank": 57
+    },
+    {
+      "date": "1998-06-20",
+      "rank": 73
+    },
+    {
+      "date": "1998-06-27",
+      "rank": 81
+    },
+    {
+      "date": "1998-07-04",
+      "rank": 81
+    },
+    {
+      "date": "1998-07-11",
+      "rank": 75
+    },
+    {
+      "date": "1998-07-18",
+      "rank": 74
+    },
+    {
+      "date": "1998-07-25",
+      "rank": 59
+    },
+    {
+      "date": "1998-08-01",
+      "rank": 56
+    },
+    {
+      "date": "1998-08-08",
+      "rank": 56
+    },
+    {
+      "date": "1998-08-15",
+      "rank": 51
+    },
+    {
+      "date": "1998-08-22",
+      "rank": 57
+    },
+    {
+      "date": "1998-08-29",
+      "rank": 60
+    },
+    {
+      "date": "1998-09-05",
+      "rank": 56
+    },
+    {
+      "date": "1998-09-12",
+      "rank": 61
+    },
+    {
+      "date": "1998-09-19",
+      "rank": 64
+    },
+    {
+      "date": "1998-09-26",
+      "rank": 62
+    },
+    {
+      "date": "1998-10-03",
+      "rank": 63
+    },
+    {
+      "date": "1998-10-10",
+      "rank": 70
+    },
+    {
+      "date": "1998-10-17",
+      "rank": 83
+    },
+    {
+      "date": "1998-10-24",
+      "rank": 68
+    },
+    {
+      "date": "1998-10-31",
+      "rank": 43
+    },
+    {
+      "date": "1998-11-07",
+      "rank": 58
+    },
+    {
+      "date": "1998-11-14",
+      "rank": 64
+    },
+    {
+      "date": "1998-11-21",
+      "rank": 90
+    },
+    {
+      "date": "1998-11-28",
+      "rank": 97
+    },
+    {
+      "date": "1998-12-05",
+      "rank": 99
+    },
+    {
+      "date": "1998-12-12",
+      "rank": 112
+    },
+    {
+      "date": "1998-12-19",
+      "rank": 111
+    },
+    {
+      "date": "1998-12-26",
+      "rank": 115
+    },
+    {
+      "date": "1999-01-02",
+      "rank": 108
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 106
+    },
+    {
+      "date": "1999-01-16",
+      "rank": 98
+    },
+    {
+      "date": "1999-01-23",
+      "rank": 106
+    },
+    {
+      "date": "1999-01-30",
+      "rank": 108
+    },
+    {
+      "date": "1999-02-06",
+      "rank": 113
+    },
+    {
+      "date": "1999-02-13",
+      "rank": 121
+    },
+    {
+      "date": "1999-02-20",
+      "rank": 129
+    },
+    {
+      "date": "1999-02-27",
+      "rank": 160
+    },
+    {
+      "date": "1999-03-06",
+      "rank": 128
+    },
+    {
+      "date": "1999-03-13",
+      "rank": 164
+    },
+    {
+      "date": "1999-03-20",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Together Again",
+      "id": "together-again-janet"
+    },
+    {
+      "title": "Interlude: Twisted Elegance",
+      "id": null
+    },
+    {
+      "title": "Velvet Rope",
+      "id": null
+    },
+    {
+      "title": "You",
+      "id": null
+    },
+    {
+      "title": "Got ’til It’s Gone",
+      "id": null
+    },
+    {
+      "title": "Interlude: Speaker Phone",
+      "id": null
+    },
+    {
+      "title": "My Need",
+      "id": null
+    },
+    {
+      "title": "Interlude: Fasten Your Seatbelts",
+      "id": null
+    },
+    {
+      "title": "Go Deep",
+      "id": null
+    },
+    {
+      "title": "Free Xone",
+      "id": null
+    },
+    {
+      "title": "Interlude: Memory",
+      "id": null
+    },
+    {
+      "title": "Interlude: Online",
+      "id": null
+    },
+    {
+      "title": "Empty",
+      "id": null
+    },
+    {
+      "title": "Interlude: Full",
+      "id": null
+    },
+    {
+      "title": "What About",
+      "id": null
+    },
+    {
+      "title": "Every Time",
+      "id": null
+    },
+    {
+      "title": "Tonight’s the Night",
+      "id": null
+    },
+    {
+      "title": "I Get Lonely",
+      "id": null
+    },
+    {
+      "title": "Rope Burn",
+      "id": null
+    },
+    {
+      "title": "Anything",
+      "id": null
+    },
+    {
+      "title": "Interlude: Sad",
+      "id": null
+    },
+    {
+      "title": "Special / Can’t Be Stopped",
+      "id": null
+    },
+    {
+      "title": "Got ’til It’s Gone (Armand van Helden bonus beats)",
+      "id": null
+    },
+    {
+      "title": "Together Again (Tony Humphries club mix edit)",
+      "id": null
+    },
+    {
+      "title": "I Get Lonely (Janet vs. Jason the Club remix)",
+      "id": null
+    },
+    {
+      "title": "Go Deep (Masters at Work Vocal Deep disco dub)",
+      "id": null
+    },
+    {
+      "title": "Every Time (Jam & Lewis disco remix)",
+      "id": null
+    }
+  ]
+}

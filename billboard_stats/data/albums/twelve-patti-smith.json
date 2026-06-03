@@ -1,1 +1,70 @@
-{"id": "twelve-patti-smith", "title": "Twelve", "artist": "Patti Smith", "peak": 60, "history": [{"date": "2007-05-12", "rank": 60}, {"date": "2007-05-19", "rank": 165}, {"date": "2007-05-26", "rank": 187}]}
+{
+  "id": "twelve-patti-smith",
+  "title": "Twelve",
+  "artist": "Patti Smith",
+  "peak": 60,
+  "history": [
+    {
+      "date": "2007-05-12",
+      "rank": 60
+    },
+    {
+      "date": "2007-05-19",
+      "rank": 165
+    },
+    {
+      "date": "2007-05-26",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Are You Experienced?",
+      "id": null
+    },
+    {
+      "title": "Everybody Wants to Rule the World",
+      "id": null
+    },
+    {
+      "title": "Helpless",
+      "id": null
+    },
+    {
+      "title": "Gimme Shelter",
+      "id": null
+    },
+    {
+      "title": "Within You Without You",
+      "id": null
+    },
+    {
+      "title": "White Rabbit",
+      "id": null
+    },
+    {
+      "title": "Changing of the Guards",
+      "id": null
+    },
+    {
+      "title": "The Boy in the Bubble",
+      "id": null
+    },
+    {
+      "title": "Soul Kitchen",
+      "id": null
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "id": null
+    },
+    {
+      "title": "Midnight Rider",
+      "id": null
+    },
+    {
+      "title": "Pastime Paradise",
+      "id": null
+    }
+  ]
+}

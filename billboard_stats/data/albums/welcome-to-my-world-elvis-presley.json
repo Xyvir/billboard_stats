@@ -1,1 +1,150 @@
-{"id": "welcome-to-my-world-elvis-presley", "title": "Welcome To My World", "artist": "Elvis Presley", "peak": 44, "history": [{"date": "1977-04-16", "rank": 100}, {"date": "1977-04-23", "rank": 90}, {"date": "1977-04-30", "rank": 78}, {"date": "1977-05-07", "rank": 68}, {"date": "1977-05-14", "rank": 56}, {"date": "1977-05-21", "rank": 46}, {"date": "1977-05-28", "rank": 44}, {"date": "1977-06-04", "rank": 60}, {"date": "1977-06-11", "rank": 81}, {"date": "1977-06-18", "rank": 130}, {"date": "1977-06-25", "rank": 177}, {"date": "1977-09-17", "rank": 120}, {"date": "1977-09-24", "rank": 105}, {"date": "1977-10-01", "rank": 94}, {"date": "1977-10-08", "rank": 83}, {"date": "1977-10-15", "rank": 73}, {"date": "1977-10-22", "rank": 71}, {"date": "1977-10-29", "rank": 71}, {"date": "1977-11-05", "rank": 81}, {"date": "1977-11-12", "rank": 116}, {"date": "1977-11-19", "rank": 126}, {"date": "1977-11-26", "rank": 121}, {"date": "1977-12-03", "rank": 170}, {"date": "1977-12-10", "rank": 166}, {"date": "1977-12-17", "rank": 173}]}
+{
+  "id": "welcome-to-my-world-elvis-presley",
+  "title": "Welcome To My World",
+  "artist": "Elvis Presley",
+  "peak": 44,
+  "history": [
+    {
+      "date": "1977-04-16",
+      "rank": 100
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 90
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 78
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 68
+    },
+    {
+      "date": "1977-05-14",
+      "rank": 56
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 46
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 44
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 60
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 81
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 130
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 177
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 120
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 105
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 94
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 83
+    },
+    {
+      "date": "1977-10-15",
+      "rank": 73
+    },
+    {
+      "date": "1977-10-22",
+      "rank": 71
+    },
+    {
+      "date": "1977-10-29",
+      "rank": 71
+    },
+    {
+      "date": "1977-11-05",
+      "rank": 81
+    },
+    {
+      "date": "1977-11-12",
+      "rank": 116
+    },
+    {
+      "date": "1977-11-19",
+      "rank": 126
+    },
+    {
+      "date": "1977-11-26",
+      "rank": 121
+    },
+    {
+      "date": "1977-12-03",
+      "rank": 170
+    },
+    {
+      "date": "1977-12-10",
+      "rank": 166
+    },
+    {
+      "date": "1977-12-17",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Really Don’t Want to Know",
+      "id": "i-really-don-t-want-to-know-there-goes-my-everything-elvis-presley"
+    },
+    {
+      "title": "Your Cheatin’ Heart",
+      "id": "hurt-for-the-heart-elvis-presley"
+    },
+    {
+      "title": "I Can’t Stop Loving You",
+      "id": "ain-t-that-loving-you-baby-elvis-presley"
+    },
+    {
+      "title": "Welcome to My World",
+      "id": null
+    },
+    {
+      "title": "Help Me Make It Through the Night",
+      "id": null
+    },
+    {
+      "title": "Release Me",
+      "id": null
+    },
+    {
+      "title": "For the Good Times",
+      "id": null
+    },
+    {
+      "title": "Make the World Go Away",
+      "id": null
+    },
+    {
+      "title": "Gentle on My Mind",
+      "id": null
+    },
+    {
+      "title": "I’m So Lonesome I Could Cry",
+      "id": null
+    }
+  ]
+}

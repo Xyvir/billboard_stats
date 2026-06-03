@@ -1,1 +1,302 @@
-{"id": "whatcha-lookin-4-kirk-franklin-and-the-family", "title": "Whatcha Lookin' 4", "artist": "Kirk Franklin And The Family", "peak": 23, "history": [{"date": "1996-05-18", "rank": 23}, {"date": "1996-05-25", "rank": 30}, {"date": "1996-06-01", "rank": 38}, {"date": "1996-06-08", "rank": 50}, {"date": "1996-06-15", "rank": 50}, {"date": "1996-06-22", "rank": 63}, {"date": "1996-06-29", "rank": 58}, {"date": "1996-07-06", "rank": 66}, {"date": "1996-07-13", "rank": 76}, {"date": "1996-07-20", "rank": 80}, {"date": "1996-07-27", "rank": 87}, {"date": "1996-08-03", "rank": 85}, {"date": "1996-08-10", "rank": 88}, {"date": "1996-08-17", "rank": 92}, {"date": "1996-08-24", "rank": 89}, {"date": "1996-08-31", "rank": 91}, {"date": "1996-09-07", "rank": 103}, {"date": "1996-09-14", "rank": 81}, {"date": "1996-09-21", "rank": 67}, {"date": "1996-09-28", "rank": 70}, {"date": "1996-10-05", "rank": 72}, {"date": "1996-10-12", "rank": 86}, {"date": "1996-10-19", "rank": 87}, {"date": "1996-10-26", "rank": 82}, {"date": "1996-11-02", "rank": 86}, {"date": "1996-11-09", "rank": 99}, {"date": "1996-11-16", "rank": 96}, {"date": "1996-11-23", "rank": 89}, {"date": "1996-11-30", "rank": 113}, {"date": "1996-12-07", "rank": 121}, {"date": "1996-12-14", "rank": 118}, {"date": "1996-12-21", "rank": 146}, {"date": "1996-12-28", "rank": 161}, {"date": "1997-01-04", "rank": 143}, {"date": "1997-01-11", "rank": 137}, {"date": "1997-01-18", "rank": 142}, {"date": "1997-01-25", "rank": 141}, {"date": "1997-02-01", "rank": 122}, {"date": "1997-02-08", "rank": 101}, {"date": "1997-02-15", "rank": 94}, {"date": "1997-02-22", "rank": 99}, {"date": "1997-03-01", "rank": 115}, {"date": "1997-03-08", "rank": 101}, {"date": "1997-03-15", "rank": 94}, {"date": "1997-03-22", "rank": 105}, {"date": "1997-03-29", "rank": 116}, {"date": "1997-04-05", "rank": 112}, {"date": "1997-04-12", "rank": 152}, {"date": "1997-04-19", "rank": 138}, {"date": "1997-04-26", "rank": 150}, {"date": "1997-05-03", "rank": 154}, {"date": "1997-05-10", "rank": 155}, {"date": "1997-05-17", "rank": 150}, {"date": "1997-05-24", "rank": 126}, {"date": "1997-05-31", "rank": 142}, {"date": "1997-06-07", "rank": 159}, {"date": "1997-06-14", "rank": 167}, {"date": "1997-06-21", "rank": 185}]}
+{
+  "id": "whatcha-lookin-4-kirk-franklin-and-the-family",
+  "title": "Whatcha Lookin' 4",
+  "artist": "Kirk Franklin And The Family",
+  "peak": 23,
+  "history": [
+    {
+      "date": "1996-05-18",
+      "rank": 23
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 30
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 38
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 50
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 50
+    },
+    {
+      "date": "1996-06-22",
+      "rank": 63
+    },
+    {
+      "date": "1996-06-29",
+      "rank": 58
+    },
+    {
+      "date": "1996-07-06",
+      "rank": 66
+    },
+    {
+      "date": "1996-07-13",
+      "rank": 76
+    },
+    {
+      "date": "1996-07-20",
+      "rank": 80
+    },
+    {
+      "date": "1996-07-27",
+      "rank": 87
+    },
+    {
+      "date": "1996-08-03",
+      "rank": 85
+    },
+    {
+      "date": "1996-08-10",
+      "rank": 88
+    },
+    {
+      "date": "1996-08-17",
+      "rank": 92
+    },
+    {
+      "date": "1996-08-24",
+      "rank": 89
+    },
+    {
+      "date": "1996-08-31",
+      "rank": 91
+    },
+    {
+      "date": "1996-09-07",
+      "rank": 103
+    },
+    {
+      "date": "1996-09-14",
+      "rank": 81
+    },
+    {
+      "date": "1996-09-21",
+      "rank": 67
+    },
+    {
+      "date": "1996-09-28",
+      "rank": 70
+    },
+    {
+      "date": "1996-10-05",
+      "rank": 72
+    },
+    {
+      "date": "1996-10-12",
+      "rank": 86
+    },
+    {
+      "date": "1996-10-19",
+      "rank": 87
+    },
+    {
+      "date": "1996-10-26",
+      "rank": 82
+    },
+    {
+      "date": "1996-11-02",
+      "rank": 86
+    },
+    {
+      "date": "1996-11-09",
+      "rank": 99
+    },
+    {
+      "date": "1996-11-16",
+      "rank": 96
+    },
+    {
+      "date": "1996-11-23",
+      "rank": 89
+    },
+    {
+      "date": "1996-11-30",
+      "rank": 113
+    },
+    {
+      "date": "1996-12-07",
+      "rank": 121
+    },
+    {
+      "date": "1996-12-14",
+      "rank": 118
+    },
+    {
+      "date": "1996-12-21",
+      "rank": 146
+    },
+    {
+      "date": "1996-12-28",
+      "rank": 161
+    },
+    {
+      "date": "1997-01-04",
+      "rank": 143
+    },
+    {
+      "date": "1997-01-11",
+      "rank": 137
+    },
+    {
+      "date": "1997-01-18",
+      "rank": 142
+    },
+    {
+      "date": "1997-01-25",
+      "rank": 141
+    },
+    {
+      "date": "1997-02-01",
+      "rank": 122
+    },
+    {
+      "date": "1997-02-08",
+      "rank": 101
+    },
+    {
+      "date": "1997-02-15",
+      "rank": 94
+    },
+    {
+      "date": "1997-02-22",
+      "rank": 99
+    },
+    {
+      "date": "1997-03-01",
+      "rank": 115
+    },
+    {
+      "date": "1997-03-08",
+      "rank": 101
+    },
+    {
+      "date": "1997-03-15",
+      "rank": 94
+    },
+    {
+      "date": "1997-03-22",
+      "rank": 105
+    },
+    {
+      "date": "1997-03-29",
+      "rank": 116
+    },
+    {
+      "date": "1997-04-05",
+      "rank": 112
+    },
+    {
+      "date": "1997-04-12",
+      "rank": 152
+    },
+    {
+      "date": "1997-04-19",
+      "rank": 138
+    },
+    {
+      "date": "1997-04-26",
+      "rank": 150
+    },
+    {
+      "date": "1997-05-03",
+      "rank": 154
+    },
+    {
+      "date": "1997-05-10",
+      "rank": 155
+    },
+    {
+      "date": "1997-05-17",
+      "rank": 150
+    },
+    {
+      "date": "1997-05-24",
+      "rank": 126
+    },
+    {
+      "date": "1997-05-31",
+      "rank": 142
+    },
+    {
+      "date": "1997-06-07",
+      "rank": 159
+    },
+    {
+      "date": "1997-06-14",
+      "rank": 167
+    },
+    {
+      "date": "1997-06-21",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Savior More Than Life",
+      "id": null
+    },
+    {
+      "title": "Whatcha Lookin' 4",
+      "id": null
+    },
+    {
+      "title": "Melodies from Heaven",
+      "id": null
+    },
+    {
+      "title": "Conquerors",
+      "id": null
+    },
+    {
+      "title": "Don't Take Your Joy Away",
+      "id": null
+    },
+    {
+      "title": "When I Think About Jesus",
+      "id": null
+    },
+    {
+      "title": "Mama's Song",
+      "id": null
+    },
+    {
+      "title": "Jesus Paid It All",
+      "id": null
+    },
+    {
+      "title": "I Love You Jesus",
+      "id": null
+    },
+    {
+      "title": "Washed Away",
+      "id": null
+    },
+    {
+      "title": "Where the Spirit Is",
+      "id": null
+    },
+    {
+      "title": "Let Me Touch You",
+      "id": null
+    },
+    {
+      "title": "Anything 4 U",
+      "id": null
+    },
+    {
+      "title": "Whatcha Lookin' 4 (remix)",
+      "id": null
+    },
+    {
+      "title": "Melodies from Heaven (skate remix)",
+      "id": null
+    }
+  ]
+}

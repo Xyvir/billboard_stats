@@ -1,1 +1,62 @@
-{"id": "two-earshot", "title": "Two", "artist": "Earshot", "peak": 127, "history": [{"date": "2004-07-17", "rank": 127}, {"date": "2004-07-24", "rank": 197}]}
+{
+  "id": "two-earshot",
+  "title": "Two",
+  "artist": "Earshot",
+  "peak": 127,
+  "history": [
+    {
+      "date": "2004-07-17",
+      "rank": 127
+    },
+    {
+      "date": "2004-07-24",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wait",
+      "id": null
+    },
+    {
+      "title": "Tongue‐Tied",
+      "id": null
+    },
+    {
+      "title": "Fall Apart",
+      "id": null
+    },
+    {
+      "title": "Someone",
+      "id": null
+    },
+    {
+      "title": "Rotten Inside",
+      "id": null
+    },
+    {
+      "title": "Down",
+      "id": null
+    },
+    {
+      "title": "Nice to Feel the Sun",
+      "id": null
+    },
+    {
+      "title": "Again",
+      "id": null
+    },
+    {
+      "title": "Goodbye",
+      "id": null
+    },
+    {
+      "title": "Should’ve Been There",
+      "id": null
+    },
+    {
+      "title": "Control",
+      "id": null
+    }
+  ]
+}

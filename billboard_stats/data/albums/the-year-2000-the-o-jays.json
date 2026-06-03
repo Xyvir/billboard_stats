@@ -1,1 +1,90 @@
-{"id": "the-year-2000-the-o-jays", "title": "The Year 2000", "artist": "The O'Jays", "peak": 36, "history": [{"date": "1980-08-30", "rank": 89}, {"date": "1980-09-06", "rank": 55}, {"date": "1980-09-13", "rank": 45}, {"date": "1980-09-20", "rank": 41}, {"date": "1980-09-27", "rank": 38}, {"date": "1980-10-04", "rank": 36}, {"date": "1980-10-11", "rank": 36}, {"date": "1980-10-18", "rank": 57}, {"date": "1980-10-25", "rank": 60}, {"date": "1980-11-01", "rank": 65}, {"date": "1980-11-08", "rank": 96}, {"date": "1980-11-15", "rank": 164}]}
+{
+  "id": "the-year-2000-the-o-jays",
+  "title": "The Year 2000",
+  "artist": "The O'Jays",
+  "peak": 36,
+  "history": [
+    {
+      "date": "1980-08-30",
+      "rank": 89
+    },
+    {
+      "date": "1980-09-06",
+      "rank": 55
+    },
+    {
+      "date": "1980-09-13",
+      "rank": 45
+    },
+    {
+      "date": "1980-09-20",
+      "rank": 41
+    },
+    {
+      "date": "1980-09-27",
+      "rank": 38
+    },
+    {
+      "date": "1980-10-04",
+      "rank": 36
+    },
+    {
+      "date": "1980-10-11",
+      "rank": 36
+    },
+    {
+      "date": "1980-10-18",
+      "rank": 57
+    },
+    {
+      "date": "1980-10-25",
+      "rank": 60
+    },
+    {
+      "date": "1980-11-01",
+      "rank": 65
+    },
+    {
+      "date": "1980-11-08",
+      "rank": 96
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "To Prove I Love You",
+      "id": "let-me-make-love-to-you-the-o-jays"
+    },
+    {
+      "title": "Girl, Don’t Let It Get You Down",
+      "id": "girl-don-t-let-it-get-you-down-the-o-jays"
+    },
+    {
+      "title": "The Year 2000",
+      "id": null
+    },
+    {
+      "title": "You’ll Never Know (All There Is to Know ’Bout My Love)",
+      "id": null
+    },
+    {
+      "title": "You’re the Girls of My Dreams (Sho Nuff Real)",
+      "id": null
+    },
+    {
+      "title": "You Won’t Fail",
+      "id": null
+    },
+    {
+      "title": "The Answer Is in You",
+      "id": null
+    },
+    {
+      "title": "Once Is Not Enough",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,94 @@
-{"id": "you-aretha-franklin", "title": "You", "artist": "Aretha Franklin", "peak": 83, "history": [{"date": "1975-11-15", "rank": 129}, {"date": "1975-11-22", "rank": 108}, {"date": "1975-11-29", "rank": 98}, {"date": "1975-12-06", "rank": 88}, {"date": "1975-12-13", "rank": 88}, {"date": "1975-12-20", "rank": 88}, {"date": "1975-12-27", "rank": 83}, {"date": "1976-01-03", "rank": 91}, {"date": "1976-01-10", "rank": 155}, {"date": "1976-01-17", "rank": 155}, {"date": "1976-01-24", "rank": 170}]}
+{
+  "id": "you-aretha-franklin",
+  "title": "You",
+  "artist": "Aretha Franklin",
+  "peak": 83,
+  "history": [
+    {
+      "date": "1975-11-15",
+      "rank": 129
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 108
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 98
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 88
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 88
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 88
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 83
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 91
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 155
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 155
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mr. D.J. (5 for the D.J.)",
+      "id": "mr-d-j-5-for-the-d-j-aretha-franklin"
+    },
+    {
+      "title": "Without You",
+      "id": "without-love-aretha-franklin"
+    },
+    {
+      "title": "The Sha-La Bandit",
+      "id": "the-house-that-jack-built-aretha-franklin"
+    },
+    {
+      "title": "It Only Happens (When I Look at You)",
+      "id": null
+    },
+    {
+      "title": "I’m Not Strong Enough to Love You Again",
+      "id": null
+    },
+    {
+      "title": "Walk Softly",
+      "id": null
+    },
+    {
+      "title": "(Honey) You Make My Life",
+      "id": null
+    },
+    {
+      "title": "You",
+      "id": null
+    },
+    {
+      "title": "You Got All the Aces",
+      "id": null
+    },
+    {
+      "title": "As Long as You Are There",
+      "id": null
+    }
+  ]
+}

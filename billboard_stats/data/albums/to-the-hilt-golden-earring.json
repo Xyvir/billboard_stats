@@ -1,1 +1,54 @@
-{"id": "to-the-hilt-golden-earring", "title": "To The Hilt", "artist": "Golden Earring", "peak": 156, "history": [{"date": "1976-02-28", "rank": 162}, {"date": "1976-03-06", "rank": 156}, {"date": "1976-03-13", "rank": 166}, {"date": "1976-03-20", "rank": 186}]}
+{
+  "id": "to-the-hilt-golden-earring",
+  "title": "To The Hilt",
+  "artist": "Golden Earring",
+  "peak": 156,
+  "history": [
+    {
+      "date": "1976-02-28",
+      "rank": 162
+    },
+    {
+      "date": "1976-03-06",
+      "rank": 156
+    },
+    {
+      "date": "1976-03-13",
+      "rank": 166
+    },
+    {
+      "date": "1976-03-20",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Why Me?",
+      "id": null
+    },
+    {
+      "title": "Facedancer",
+      "id": null
+    },
+    {
+      "title": "To the Hilt",
+      "id": null
+    },
+    {
+      "title": "Nomad",
+      "id": null
+    },
+    {
+      "title": "Sleepwalkin’",
+      "id": null
+    },
+    {
+      "title": "Latin Lightning",
+      "id": null
+    },
+    {
+      "title": "Violins",
+      "id": null
+    }
+  ]
+}

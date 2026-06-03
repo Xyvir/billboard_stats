@@ -1,1 +1,126 @@
-{"id": "untamed-cam", "title": "Untamed", "artist": "Cam", "peak": 12, "history": [{"date": "2016-01-02", "rank": 12}, {"date": "2016-01-09", "rank": 36}, {"date": "2016-01-16", "rank": 54}, {"date": "2016-01-23", "rank": 60}, {"date": "2016-01-30", "rank": 64}, {"date": "2016-02-06", "rank": 96}, {"date": "2016-02-13", "rank": 102}, {"date": "2016-02-20", "rank": 100}, {"date": "2016-02-27", "rank": 127}, {"date": "2016-03-05", "rank": 90}, {"date": "2016-03-12", "rank": 133}, {"date": "2016-03-19", "rank": 143}, {"date": "2016-03-26", "rank": 158}, {"date": "2016-04-02", "rank": 187}, {"date": "2016-04-09", "rank": 105}, {"date": "2016-04-23", "rank": 109}, {"date": "2016-04-30", "rank": 179}, {"date": "2016-05-21", "rank": 177}]}
+{
+  "id": "untamed-cam",
+  "title": "Untamed",
+  "artist": "Cam",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2016-01-02",
+      "rank": 12
+    },
+    {
+      "date": "2016-01-09",
+      "rank": 36
+    },
+    {
+      "date": "2016-01-16",
+      "rank": 54
+    },
+    {
+      "date": "2016-01-23",
+      "rank": 60
+    },
+    {
+      "date": "2016-01-30",
+      "rank": 64
+    },
+    {
+      "date": "2016-02-06",
+      "rank": 96
+    },
+    {
+      "date": "2016-02-13",
+      "rank": 102
+    },
+    {
+      "date": "2016-02-20",
+      "rank": 100
+    },
+    {
+      "date": "2016-02-27",
+      "rank": 127
+    },
+    {
+      "date": "2016-03-05",
+      "rank": 90
+    },
+    {
+      "date": "2016-03-12",
+      "rank": 133
+    },
+    {
+      "date": "2016-03-19",
+      "rank": 143
+    },
+    {
+      "date": "2016-03-26",
+      "rank": 158
+    },
+    {
+      "date": "2016-04-02",
+      "rank": 187
+    },
+    {
+      "date": "2016-04-09",
+      "rank": 105
+    },
+    {
+      "date": "2016-04-23",
+      "rank": 109
+    },
+    {
+      "date": "2016-04-30",
+      "rank": 179
+    },
+    {
+      "date": "2016-05-21",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Burning House",
+      "id": "burning-house-cam"
+    },
+    {
+      "title": "Untamed",
+      "id": null
+    },
+    {
+      "title": "Hungover On Heartache",
+      "id": null
+    },
+    {
+      "title": "Mayday",
+      "id": null
+    },
+    {
+      "title": "Cold in California",
+      "id": null
+    },
+    {
+      "title": "My Mistake",
+      "id": null
+    },
+    {
+      "title": "Runaway Train",
+      "id": null
+    },
+    {
+      "title": "Half Broke Heart",
+      "id": null
+    },
+    {
+      "title": "Want It All",
+      "id": null
+    },
+    {
+      "title": "Country Ain't Never Been Pretty",
+      "id": null
+    },
+    {
+      "title": "Village",
+      "id": null
+    }
+  ]
+}

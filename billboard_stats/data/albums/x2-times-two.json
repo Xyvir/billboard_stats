@@ -1,1 +1,98 @@
-{"id": "x2-times-two", "title": "X2", "artist": "Times Two", "peak": 137, "history": [{"date": "1988-04-30", "rank": 169}, {"date": "1988-05-07", "rank": 169}, {"date": "1988-05-14", "rank": 168}, {"date": "1988-05-21", "rank": 146}, {"date": "1988-05-28", "rank": 146}, {"date": "1988-06-04", "rank": 138}, {"date": "1988-06-11", "rank": 137}, {"date": "1988-06-18", "rank": 143}, {"date": "1988-06-25", "rank": 173}, {"date": "1988-07-02", "rank": 178}, {"date": "1988-07-09", "rank": 200}]}
+{
+  "id": "x2-times-two",
+  "title": "X2",
+  "artist": "Times Two",
+  "peak": 137,
+  "history": [
+    {
+      "date": "1988-04-30",
+      "rank": 169
+    },
+    {
+      "date": "1988-05-07",
+      "rank": 169
+    },
+    {
+      "date": "1988-05-14",
+      "rank": 168
+    },
+    {
+      "date": "1988-05-21",
+      "rank": 146
+    },
+    {
+      "date": "1988-05-28",
+      "rank": 146
+    },
+    {
+      "date": "1988-06-04",
+      "rank": 138
+    },
+    {
+      "date": "1988-06-11",
+      "rank": 137
+    },
+    {
+      "date": "1988-06-18",
+      "rank": 143
+    },
+    {
+      "date": "1988-06-25",
+      "rank": 173
+    },
+    {
+      "date": "1988-07-02",
+      "rank": 178
+    },
+    {
+      "date": "1988-07-09",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Strange But True",
+      "id": "strange-but-true-times-two"
+    },
+    {
+      "title": "Cecilia",
+      "id": "cecilia-times-two"
+    },
+    {
+      "title": "Mr. D.J.",
+      "id": null
+    },
+    {
+      "title": "3 Into 2 (Dont' Go)",
+      "id": null
+    },
+    {
+      "title": "L.O.D. (Love On Delivery)",
+      "id": null
+    },
+    {
+      "title": "Come Over",
+      "id": null
+    },
+    {
+      "title": "Jet",
+      "id": null
+    },
+    {
+      "title": "Only My Pillow Knows (For Sure)",
+      "id": null
+    },
+    {
+      "title": "Painted Heart",
+      "id": null
+    },
+    {
+      "title": "I Wantcha",
+      "id": null
+    },
+    {
+      "title": "Romeo",
+      "id": null
+    }
+  ]
+}

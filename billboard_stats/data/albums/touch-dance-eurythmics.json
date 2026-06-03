@@ -1,1 +1,58 @@
-{"id": "touch-dance-eurythmics", "title": "Touch Dance", "artist": "Eurythmics", "peak": 123, "history": [{"date": "1984-07-07", "rank": 179}, {"date": "1984-07-14", "rank": 155}, {"date": "1984-07-21", "rank": 137}, {"date": "1984-07-28", "rank": 132}, {"date": "1984-08-04", "rank": 123}]}
+{
+  "id": "touch-dance-eurythmics",
+  "title": "Touch Dance",
+  "artist": "Eurythmics",
+  "peak": 123,
+  "history": [
+    {
+      "date": "1984-07-07",
+      "rank": 179
+    },
+    {
+      "date": "1984-07-14",
+      "rank": 155
+    },
+    {
+      "date": "1984-07-21",
+      "rank": 137
+    },
+    {
+      "date": "1984-07-28",
+      "rank": 132
+    },
+    {
+      "date": "1984-08-04",
+      "rank": 123
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The First Cut (vocal)",
+      "id": null
+    },
+    {
+      "title": "Cool Blue (Remix)",
+      "id": null
+    },
+    {
+      "title": "Paint a Rumour (vocal)",
+      "id": null
+    },
+    {
+      "title": "Regrets (vocal)",
+      "id": null
+    },
+    {
+      "title": "The First Cut (instrumental remix)",
+      "id": null
+    },
+    {
+      "title": "Cool Blue (instrumental remix)",
+      "id": null
+    },
+    {
+      "title": "Paint a Rumour (instrumental remix)",
+      "id": null
+    }
+  ]
+}

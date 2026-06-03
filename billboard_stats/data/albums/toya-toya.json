@@ -1,1 +1,98 @@
-{"id": "toya-toya", "title": "Toya", "artist": "Toya", "peak": 109, "history": [{"date": "2001-08-25", "rank": 109}, {"date": "2001-09-01", "rank": 141}, {"date": "2001-09-08", "rank": 160}, {"date": "2001-09-15", "rank": 177}, {"date": "2001-09-22", "rank": 174}, {"date": "2001-09-29", "rank": 187}, {"date": "2001-10-06", "rank": 191}]}
+{
+  "id": "toya-toya",
+  "title": "Toya",
+  "artist": "Toya",
+  "peak": 109,
+  "history": [
+    {
+      "date": "2001-08-25",
+      "rank": 109
+    },
+    {
+      "date": "2001-09-01",
+      "rank": 141
+    },
+    {
+      "date": "2001-09-08",
+      "rank": 160
+    },
+    {
+      "date": "2001-09-15",
+      "rank": 177
+    },
+    {
+      "date": "2001-09-22",
+      "rank": 174
+    },
+    {
+      "date": "2001-09-29",
+      "rank": 187
+    },
+    {
+      "date": "2001-10-06",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No Matta What (Party All Night)",
+      "id": "no-matta-what-party-all-night-toya"
+    },
+    {
+      "title": "I Do!!",
+      "id": "i-do-toya"
+    },
+    {
+      "title": "How Can I Be Down",
+      "id": null
+    },
+    {
+      "title": "The Truth",
+      "id": null
+    },
+    {
+      "title": "Think",
+      "id": null
+    },
+    {
+      "title": "Don’t Make Me",
+      "id": null
+    },
+    {
+      "title": "Moving On",
+      "id": null
+    },
+    {
+      "title": "What Else Can I Do",
+      "id": null
+    },
+    {
+      "title": "Untouchables",
+      "id": null
+    },
+    {
+      "title": "Book of Love",
+      "id": null
+    },
+    {
+      "title": "What's a Girl to Do",
+      "id": null
+    },
+    {
+      "title": "I Messed Up",
+      "id": null
+    },
+    {
+      "title": "Bounce",
+      "id": null
+    },
+    {
+      "title": "Fiasco",
+      "id": null
+    },
+    {
+      "title": "I Do, Part 2",
+      "id": null
+    }
+  ]
+}

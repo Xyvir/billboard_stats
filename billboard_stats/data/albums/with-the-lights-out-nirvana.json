@@ -1,1 +1,358 @@
-{"id": "with-the-lights-out-nirvana", "title": "With The Lights Out", "artist": "Nirvana", "peak": 19, "history": [{"date": "2004-12-11", "rank": 19}, {"date": "2004-12-18", "rank": 40}, {"date": "2004-12-25", "rank": 46}, {"date": "2005-01-01", "rank": 55}, {"date": "2005-01-08", "rank": 64}, {"date": "2005-01-15", "rank": 108}, {"date": "2005-01-22", "rank": 131}, {"date": "2005-01-29", "rank": 153}, {"date": "2005-02-05", "rank": 176}]}
+{
+  "id": "with-the-lights-out-nirvana",
+  "title": "With The Lights Out",
+  "artist": "Nirvana",
+  "peak": 19,
+  "history": [
+    {
+      "date": "2004-12-11",
+      "rank": 19
+    },
+    {
+      "date": "2004-12-18",
+      "rank": 40
+    },
+    {
+      "date": "2004-12-25",
+      "rank": 46
+    },
+    {
+      "date": "2005-01-01",
+      "rank": 55
+    },
+    {
+      "date": "2005-01-08",
+      "rank": 64
+    },
+    {
+      "date": "2005-01-15",
+      "rank": 108
+    },
+    {
+      "date": "2005-01-22",
+      "rank": 131
+    },
+    {
+      "date": "2005-01-29",
+      "rank": 153
+    },
+    {
+      "date": "2005-02-05",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Smells Like Teen Spirit (rehearsal demo, 1991)",
+      "id": "smells-like-teen-spirit-nirvana"
+    },
+    {
+      "title": "Smells Like Teen Spirit (Butch Vig mix)",
+      "id": "smells-like-teen-spirit-nirvana"
+    },
+    {
+      "title": "You Know You’re Right (home demo)",
+      "id": "you-know-you-re-right-nirvana"
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "id": "smells-like-teen-spirit-nirvana"
+    },
+    {
+      "title": "Heartbreaker",
+      "id": null
+    },
+    {
+      "title": "Anorexorcist (radio performance, 1987)",
+      "id": null
+    },
+    {
+      "title": "White Lace and Strange (radio performance, 1987)",
+      "id": null
+    },
+    {
+      "title": "Help Me I’m Hungry (radio performance, 1987)",
+      "id": null
+    },
+    {
+      "title": "Mrs. Butterworth (rehearsal demo)",
+      "id": null
+    },
+    {
+      "title": "If You Must (demo, 1988)",
+      "id": null
+    },
+    {
+      "title": "Pen Cap Chew (demo, 1988)",
+      "id": null
+    },
+    {
+      "title": "Downer",
+      "id": null
+    },
+    {
+      "title": "Floyd the Barber",
+      "id": null
+    },
+    {
+      "title": "Raunchola / Moby Dick",
+      "id": null
+    },
+    {
+      "title": "Beans (solo acoustic, undated)",
+      "id": null
+    },
+    {
+      "title": "Don’t Want It All (solo acoustic, undated)",
+      "id": null
+    },
+    {
+      "title": "Clean Up Before She Comes (solo acoustic, undated)",
+      "id": null
+    },
+    {
+      "title": "Polly (solo acoustic, 1988)",
+      "id": null
+    },
+    {
+      "title": "About a Girl (solo acoustic, 1988)",
+      "id": null
+    },
+    {
+      "title": "Blandest (demo, 1988)",
+      "id": null
+    },
+    {
+      "title": "Dive (demo, 1988)",
+      "id": null
+    },
+    {
+      "title": "They Hung Him on a Cross (demo, 1989)",
+      "id": null
+    },
+    {
+      "title": "Grey Goose (demo, 1989)",
+      "id": null
+    },
+    {
+      "title": "Ain’t It a Shame (demo, 1989)",
+      "id": null
+    },
+    {
+      "title": "Token Eastern Song (demo, 1989)",
+      "id": null
+    },
+    {
+      "title": "Even in His Youth (demo, 1989)",
+      "id": null
+    },
+    {
+      "title": "Polly (demo, 1989)",
+      "id": null
+    },
+    {
+      "title": "Opinion (solo acoustic radio appearance)",
+      "id": null
+    },
+    {
+      "title": "Lithium (solo acoustic, 1990)",
+      "id": null
+    },
+    {
+      "title": "Been a Son (solo acoustic, 1990)",
+      "id": null
+    },
+    {
+      "title": "Sliver (solo acoustic, 1989)",
+      "id": null
+    },
+    {
+      "title": "Where Did You Sleep Last Night (solo acoustic, 1989)",
+      "id": null
+    },
+    {
+      "title": "Pay to Play (demo, 1990)",
+      "id": null
+    },
+    {
+      "title": "Here She Comes Now (demo, 1990)",
+      "id": null
+    },
+    {
+      "title": "Drain You (demo, 1990)",
+      "id": null
+    },
+    {
+      "title": "Aneurysm (B‐side)",
+      "id": null
+    },
+    {
+      "title": "Breed (rough mix, 1991)",
+      "id": null
+    },
+    {
+      "title": "Verse Chorus Verse (outtake, 1991)",
+      "id": null
+    },
+    {
+      "title": "Old Age (Nevermind outtake)",
+      "id": null
+    },
+    {
+      "title": "Endless, Nameless (radio appearance, 1991)",
+      "id": null
+    },
+    {
+      "title": "Dumb (radio appearance, 1991)",
+      "id": null
+    },
+    {
+      "title": "D‐7",
+      "id": null
+    },
+    {
+      "title": "Oh, the Guilt (B‐side, 1992)",
+      "id": null
+    },
+    {
+      "title": "Curmudgeon (B‐side, 1992)",
+      "id": null
+    },
+    {
+      "title": "Return of the Rat (outtake, 1992)",
+      "id": null
+    },
+    {
+      "title": "Rape Me (solo acoustic, 1992)",
+      "id": null
+    },
+    {
+      "title": "Rape Me (band demo)",
+      "id": null
+    },
+    {
+      "title": "Scentless Apprentice (rehearsal demo, 1992)",
+      "id": null
+    },
+    {
+      "title": "Heart‐Shaped Box (demo, 1993)",
+      "id": null
+    },
+    {
+      "title": "I Hate Myself and I Want to Die (B‐side, 1993)",
+      "id": null
+    },
+    {
+      "title": "Milk It (demo, 1993)",
+      "id": null
+    },
+    {
+      "title": "Moist Vagina",
+      "id": null
+    },
+    {
+      "title": "Gallons of Rubbing Alcohol Flow Through the Strip",
+      "id": null
+    },
+    {
+      "title": "The Other Improv (demo, 1993)",
+      "id": null
+    },
+    {
+      "title": "Serve the Servants (solo acoustic, 1993)",
+      "id": null
+    },
+    {
+      "title": "Very Ape (solo acoustic, 1993)",
+      "id": null
+    },
+    {
+      "title": "Pennyroyal Tea (solo acoustic, 1993)",
+      "id": null
+    },
+    {
+      "title": "Marigold",
+      "id": null
+    },
+    {
+      "title": "Sappy",
+      "id": null
+    },
+    {
+      "title": "Jesus Doesn’t Want Me for a Sunbeam (rehearsal demo, 1994)",
+      "id": null
+    },
+    {
+      "title": "Do Re Mi (solo acoustic, 1994)",
+      "id": null
+    },
+    {
+      "title": "All Apologies (solo acoustic, undated)",
+      "id": null
+    },
+    {
+      "title": "Love Buzz",
+      "id": null
+    },
+    {
+      "title": "Scoff",
+      "id": null
+    },
+    {
+      "title": "About a Girl",
+      "id": null
+    },
+    {
+      "title": "Big Long Now",
+      "id": null
+    },
+    {
+      "title": "Immigrant Song",
+      "id": null
+    },
+    {
+      "title": "Spank Thru",
+      "id": null
+    },
+    {
+      "title": "Hairspray Queen",
+      "id": null
+    },
+    {
+      "title": "School",
+      "id": null
+    },
+    {
+      "title": "Mr. Moustache",
+      "id": null
+    },
+    {
+      "title": "Big Cheese",
+      "id": null
+    },
+    {
+      "title": "In Bloom",
+      "id": null
+    },
+    {
+      "title": "Pennyroyal Tea",
+      "id": null
+    },
+    {
+      "title": "Territorial Pissings",
+      "id": null
+    },
+    {
+      "title": "Jesus Doesn’t Want Me for a Sunbeam",
+      "id": null
+    },
+    {
+      "title": "Talk to Me",
+      "id": null
+    },
+    {
+      "title": "Seasons in the Sun",
+      "id": null
+    }
+  ]
+}

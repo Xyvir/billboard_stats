@@ -1,1 +1,62 @@
-{"id": "this-is-the-life-amy-macdonald", "title": "This Is The Life", "artist": "Amy MacDonald", "peak": 92, "history": [{"date": "2008-09-06", "rank": 92}, {"date": "2008-09-13", "rank": 196}]}
+{
+  "id": "this-is-the-life-amy-macdonald",
+  "title": "This Is The Life",
+  "artist": "Amy MacDonald",
+  "peak": 92,
+  "history": [
+    {
+      "date": "2008-09-06",
+      "rank": 92
+    },
+    {
+      "date": "2008-09-13",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mr Rock & Roll",
+      "id": null
+    },
+    {
+      "title": "This Is the Life",
+      "id": null
+    },
+    {
+      "title": "Poison Prince",
+      "id": null
+    },
+    {
+      "title": "Youth of Today",
+      "id": null
+    },
+    {
+      "title": "Run",
+      "id": null
+    },
+    {
+      "title": "Let’s Start a Band",
+      "id": null
+    },
+    {
+      "title": "Barrowland Ballroom",
+      "id": null
+    },
+    {
+      "title": "L.A.",
+      "id": null
+    },
+    {
+      "title": "A Wish for Something More",
+      "id": null
+    },
+    {
+      "title": "Footballer’s Wife",
+      "id": null
+    },
+    {
+      "title": "The Road to Home / Caledonia",
+      "id": null
+    }
+  ]
+}

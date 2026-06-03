@@ -1,1 +1,210 @@
-{"id": "twenty-greatest-hits-kenny-rogers", "title": "Twenty Greatest Hits", "artist": "Kenny Rogers", "peak": 22, "history": [{"date": "1983-11-12", "rank": 171}, {"date": "1983-11-19", "rank": 80}, {"date": "1983-11-26", "rank": 32}, {"date": "1983-12-03", "rank": 31}, {"date": "1983-12-10", "rank": 28}, {"date": "1983-12-17", "rank": 24}, {"date": "1983-12-24", "rank": 24}, {"date": "1983-12-31", "rank": 24}, {"date": "1984-01-07", "rank": 22}, {"date": "1984-01-14", "rank": 22}, {"date": "1984-01-21", "rank": 25}, {"date": "1984-01-28", "rank": 32}, {"date": "1984-02-04", "rank": 40}, {"date": "1984-02-11", "rank": 42}, {"date": "1984-02-18", "rank": 44}, {"date": "1984-02-25", "rank": 41}, {"date": "1984-03-03", "rank": 53}, {"date": "1984-03-10", "rank": 56}, {"date": "1984-03-17", "rank": 59}, {"date": "1984-03-24", "rank": 65}, {"date": "1984-03-31", "rank": 92}, {"date": "1984-04-07", "rank": 101}, {"date": "1984-04-14", "rank": 114}, {"date": "1984-04-21", "rank": 134}, {"date": "1984-04-28", "rank": 132}, {"date": "1984-05-05", "rank": 145}, {"date": "1984-05-12", "rank": 152}, {"date": "1984-05-19", "rank": 150}, {"date": "1984-05-26", "rank": 180}, {"date": "1984-06-02", "rank": 198}]}
+{
+  "id": "twenty-greatest-hits-kenny-rogers",
+  "title": "Twenty Greatest Hits",
+  "artist": "Kenny Rogers",
+  "peak": 22,
+  "history": [
+    {
+      "date": "1983-11-12",
+      "rank": 171
+    },
+    {
+      "date": "1983-11-19",
+      "rank": 80
+    },
+    {
+      "date": "1983-11-26",
+      "rank": 32
+    },
+    {
+      "date": "1983-12-03",
+      "rank": 31
+    },
+    {
+      "date": "1983-12-10",
+      "rank": 28
+    },
+    {
+      "date": "1983-12-17",
+      "rank": 24
+    },
+    {
+      "date": "1983-12-24",
+      "rank": 24
+    },
+    {
+      "date": "1983-12-31",
+      "rank": 24
+    },
+    {
+      "date": "1984-01-07",
+      "rank": 22
+    },
+    {
+      "date": "1984-01-14",
+      "rank": 22
+    },
+    {
+      "date": "1984-01-21",
+      "rank": 25
+    },
+    {
+      "date": "1984-01-28",
+      "rank": 32
+    },
+    {
+      "date": "1984-02-04",
+      "rank": 40
+    },
+    {
+      "date": "1984-02-11",
+      "rank": 42
+    },
+    {
+      "date": "1984-02-18",
+      "rank": 44
+    },
+    {
+      "date": "1984-02-25",
+      "rank": 41
+    },
+    {
+      "date": "1984-03-03",
+      "rank": 53
+    },
+    {
+      "date": "1984-03-10",
+      "rank": 56
+    },
+    {
+      "date": "1984-03-17",
+      "rank": 59
+    },
+    {
+      "date": "1984-03-24",
+      "rank": 65
+    },
+    {
+      "date": "1984-03-31",
+      "rank": 92
+    },
+    {
+      "date": "1984-04-07",
+      "rank": 101
+    },
+    {
+      "date": "1984-04-14",
+      "rank": 114
+    },
+    {
+      "date": "1984-04-21",
+      "rank": 134
+    },
+    {
+      "date": "1984-04-28",
+      "rank": 132
+    },
+    {
+      "date": "1984-05-05",
+      "rank": 145
+    },
+    {
+      "date": "1984-05-12",
+      "rank": 152
+    },
+    {
+      "date": "1984-05-19",
+      "rank": 150
+    },
+    {
+      "date": "1984-05-26",
+      "rank": 180
+    },
+    {
+      "date": "1984-06-02",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lucille",
+      "id": "lucille-kenny-rogers"
+    },
+    {
+      "title": "Lady",
+      "id": "lady-kenny-rogers"
+    },
+    {
+      "title": "Love Lifted Me",
+      "id": "love-lifted-me-kenny-rogers"
+    },
+    {
+      "title": "Scarlet Fever",
+      "id": "scarlet-fever-kenny-rogers"
+    },
+    {
+      "title": "Love or Something Like It",
+      "id": "love-or-something-like-it-kenny-rogers"
+    },
+    {
+      "title": "She Believes in Me",
+      "id": "she-believes-in-me-kenny-rogers"
+    },
+    {
+      "title": "The Gambler",
+      "id": "the-gambler-kenny-rogers"
+    },
+    {
+      "title": "Through the Years",
+      "id": "through-the-years-kenny-rogers"
+    },
+    {
+      "title": "Daytime Friends",
+      "id": "daytime-friends-kenny-rogers"
+    },
+    {
+      "title": "You Decorated My Life",
+      "id": "you-decorated-my-life-kenny-rogers"
+    },
+    {
+      "title": "Coward of the County",
+      "id": "coward-of-the-county-kenny-rogers"
+    },
+    {
+      "title": "I Don’t Need You",
+      "id": "i-don-t-need-you-kenny-rogers"
+    },
+    {
+      "title": "Love Will Turn You Around",
+      "id": "love-will-turn-you-around-kenny-rogers"
+    },
+    {
+      "title": "We’ve Got Tonight",
+      "id": null
+    },
+    {
+      "title": "Ruby, Don’t Take Your Love to Town",
+      "id": null
+    },
+    {
+      "title": "Don’t Fall in Love With a Dreamer",
+      "id": null
+    },
+    {
+      "title": "You Were a Good Friend",
+      "id": null
+    },
+    {
+      "title": "’Til I Can Make It on My Own",
+      "id": null
+    },
+    {
+      "title": "Reuben James",
+      "id": null
+    },
+    {
+      "title": "Something’s Burning",
+      "id": null
+    }
+  ]
+}

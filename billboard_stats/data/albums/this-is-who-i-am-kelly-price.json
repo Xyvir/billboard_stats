@@ -1,1 +1,70 @@
-{"id": "this-is-who-i-am-kelly-price", "title": "This Is Who I Am", "artist": "Kelly Price", "peak": 54, "history": [{"date": "2006-11-11", "rank": 54}, {"date": "2006-11-18", "rank": 114}, {"date": "2006-11-25", "rank": 170}, {"date": "2007-02-17", "rank": 185}]}
+{
+  "id": "this-is-who-i-am-kelly-price",
+  "title": "This Is Who I Am",
+  "artist": "Kelly Price",
+  "peak": 54,
+  "history": [
+    {
+      "date": "2006-11-11",
+      "rank": 54
+    },
+    {
+      "date": "2006-11-18",
+      "rank": 114
+    },
+    {
+      "date": "2006-11-25",
+      "rank": 170
+    },
+    {
+      "date": "2007-02-17",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "This Is Who I Am",
+      "id": null
+    },
+    {
+      "title": "Heaven's Best",
+      "id": null
+    },
+    {
+      "title": "The Warning",
+      "id": null
+    },
+    {
+      "title": "God Is Faithful",
+      "id": null
+    },
+    {
+      "title": "God Is Not Dead",
+      "id": null
+    },
+    {
+      "title": "Just as I Am",
+      "id": null
+    },
+    {
+      "title": "What a Friend",
+      "id": null
+    },
+    {
+      "title": "Get Up and Praise",
+      "id": null
+    },
+    {
+      "title": "I Can't Turn Back",
+      "id": null
+    },
+    {
+      "title": "Healing",
+      "id": null
+    },
+    {
+      "title": "Nobody but Jesus",
+      "id": null
+    }
+  ]
+}

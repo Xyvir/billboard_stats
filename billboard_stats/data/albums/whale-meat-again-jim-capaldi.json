@@ -1,1 +1,50 @@
-{"id": "whale-meat-again-jim-capaldi", "title": "Whale Meat Again", "artist": "Jim Capaldi", "peak": 191, "history": [{"date": "1974-09-07", "rank": 195}, {"date": "1974-09-14", "rank": 191}, {"date": "1974-09-21", "rank": 200}]}
+{
+  "id": "whale-meat-again-jim-capaldi",
+  "title": "Whale Meat Again",
+  "artist": "Jim Capaldi",
+  "peak": 191,
+  "history": [
+    {
+      "date": "1974-09-07",
+      "rank": 195
+    },
+    {
+      "date": "1974-09-14",
+      "rank": 191
+    },
+    {
+      "date": "1974-09-21",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It's All Right",
+      "id": "it-s-all-right-jim-capaldi"
+    },
+    {
+      "title": "Whale Meat Again",
+      "id": null
+    },
+    {
+      "title": "Yellow Sun",
+      "id": null
+    },
+    {
+      "title": "I've Got So Much Lovin'",
+      "id": null
+    },
+    {
+      "title": "Low Rider",
+      "id": null
+    },
+    {
+      "title": "My Brother",
+      "id": null
+    },
+    {
+      "title": "Summer Is Fading",
+      "id": null
+    }
+  ]
+}

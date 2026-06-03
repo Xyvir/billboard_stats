@@ -1,1 +1,138 @@
-{"id": "wavelength-van-morrison", "title": "Wavelength", "artist": "Van Morrison", "peak": 28, "history": [{"date": "1978-10-14", "rank": 160}, {"date": "1978-10-21", "rank": 110}, {"date": "1978-10-28", "rank": 50}, {"date": "1978-11-04", "rank": 46}, {"date": "1978-11-11", "rank": 44}, {"date": "1978-11-18", "rank": 36}, {"date": "1978-11-25", "rank": 34}, {"date": "1978-12-02", "rank": 31}, {"date": "1978-12-09", "rank": 29}, {"date": "1978-12-16", "rank": 28}, {"date": "1978-12-23", "rank": 63}, {"date": "1978-12-30", "rank": 63}, {"date": "1979-01-06", "rank": 84}, {"date": "1979-01-13", "rank": 84}, {"date": "1979-01-20", "rank": 84}, {"date": "1979-01-27", "rank": 91}, {"date": "1979-02-03", "rank": 91}, {"date": "1979-02-10", "rank": 91}, {"date": "1979-02-17", "rank": 90}, {"date": "1979-02-24", "rank": 128}, {"date": "1979-03-03", "rank": 165}, {"date": "1979-03-10", "rank": 165}, {"date": "1979-03-17", "rank": 180}]}
+{
+  "id": "wavelength-van-morrison",
+  "title": "Wavelength",
+  "artist": "Van Morrison",
+  "peak": 28,
+  "history": [
+    {
+      "date": "1978-10-14",
+      "rank": 160
+    },
+    {
+      "date": "1978-10-21",
+      "rank": 110
+    },
+    {
+      "date": "1978-10-28",
+      "rank": 50
+    },
+    {
+      "date": "1978-11-04",
+      "rank": 46
+    },
+    {
+      "date": "1978-11-11",
+      "rank": 44
+    },
+    {
+      "date": "1978-11-18",
+      "rank": 36
+    },
+    {
+      "date": "1978-11-25",
+      "rank": 34
+    },
+    {
+      "date": "1978-12-02",
+      "rank": 31
+    },
+    {
+      "date": "1978-12-09",
+      "rank": 29
+    },
+    {
+      "date": "1978-12-16",
+      "rank": 28
+    },
+    {
+      "date": "1978-12-23",
+      "rank": 63
+    },
+    {
+      "date": "1978-12-30",
+      "rank": 63
+    },
+    {
+      "date": "1979-01-06",
+      "rank": 84
+    },
+    {
+      "date": "1979-01-13",
+      "rank": 84
+    },
+    {
+      "date": "1979-01-20",
+      "rank": 84
+    },
+    {
+      "date": "1979-01-27",
+      "rank": 91
+    },
+    {
+      "date": "1979-02-03",
+      "rank": 91
+    },
+    {
+      "date": "1979-02-10",
+      "rank": 91
+    },
+    {
+      "date": "1979-02-17",
+      "rank": 90
+    },
+    {
+      "date": "1979-02-24",
+      "rank": 128
+    },
+    {
+      "date": "1979-03-03",
+      "rank": 165
+    },
+    {
+      "date": "1979-03-10",
+      "rank": 165
+    },
+    {
+      "date": "1979-03-17",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wavelength",
+      "id": "wavelength-van-morrison"
+    },
+    {
+      "title": "Kingdom Hall",
+      "id": null
+    },
+    {
+      "title": "Checkin’ It Out",
+      "id": null
+    },
+    {
+      "title": "Natalia",
+      "id": null
+    },
+    {
+      "title": "Venice U.S.A.",
+      "id": null
+    },
+    {
+      "title": "Lifetimes",
+      "id": null
+    },
+    {
+      "title": "Santa Fe / Beautiful Obsession",
+      "id": null
+    },
+    {
+      "title": "Hungry for Your Love",
+      "id": null
+    },
+    {
+      "title": "Take It Where You Find It",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"id": "us-and-the-night-3-doors-down", "title": "Us And The Night", "artist": "3 Doors Down", "peak": 14, "history": [{"date": "2016-04-02", "rank": 14}, {"date": "2016-04-09", "rank": 84}, {"date": "2016-04-16", "rank": 172}]}
+{
+  "id": "us-and-the-night-3-doors-down",
+  "title": "Us And The Night",
+  "artist": "3 Doors Down",
+  "peak": 14,
+  "history": [
+    {
+      "date": "2016-04-02",
+      "rank": 14
+    },
+    {
+      "date": "2016-04-09",
+      "rank": 84
+    },
+    {
+      "date": "2016-04-16",
+      "rank": 172
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Believe It",
+      "id": "be-like-that-3-doors-down"
+    },
+    {
+      "title": "Fell From the Moon",
+      "id": "away-from-the-sun-3-doors-down"
+    },
+    {
+      "title": "The Broken",
+      "id": null
+    },
+    {
+      "title": "In the Dark",
+      "id": null
+    },
+    {
+      "title": "Still Alive",
+      "id": null
+    },
+    {
+      "title": "Living in Your Hell",
+      "id": null
+    },
+    {
+      "title": "Inside of Me",
+      "id": null
+    },
+    {
+      "title": "I Don’t Wanna Know",
+      "id": null
+    },
+    {
+      "title": "Pieces of Me",
+      "id": null
+    },
+    {
+      "title": "Love Is a Lie",
+      "id": null
+    },
+    {
+      "title": "Us and the Night",
+      "id": null
+    }
+  ]
+}

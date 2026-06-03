@@ -1,1 +1,130 @@
-{"id": "yellow-magic-orchestra-yellow-magic-orchestra", "title": "Yellow Magic Orchestra", "artist": "Yellow Magic Orchestra", "peak": 81, "history": [{"date": "1980-01-26", "rank": 179}, {"date": "1980-02-02", "rank": 169}, {"date": "1980-02-09", "rank": 155}, {"date": "1980-02-16", "rank": 119}, {"date": "1980-02-23", "rank": 107}, {"date": "1980-03-01", "rank": 87}, {"date": "1980-03-08", "rank": 85}, {"date": "1980-03-15", "rank": 82}, {"date": "1980-03-22", "rank": 81}, {"date": "1980-03-29", "rank": 102}, {"date": "1980-04-05", "rank": 122}, {"date": "1980-04-12", "rank": 130}, {"date": "1980-04-19", "rank": 121}, {"date": "1980-04-26", "rank": 119}, {"date": "1980-05-03", "rank": 119}, {"date": "1980-05-10", "rank": 119}, {"date": "1980-05-17", "rank": 199}, {"date": "1980-05-24", "rank": 192}, {"date": "1980-05-31", "rank": 181}, {"date": "1980-06-07", "rank": 171}, {"date": "1980-06-14", "rank": 171}]}
+{
+  "id": "yellow-magic-orchestra-yellow-magic-orchestra",
+  "title": "Yellow Magic Orchestra",
+  "artist": "Yellow Magic Orchestra",
+  "peak": 81,
+  "history": [
+    {
+      "date": "1980-01-26",
+      "rank": 179
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 169
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 155
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 119
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 107
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 87
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 85
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 82
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 81
+    },
+    {
+      "date": "1980-03-29",
+      "rank": 102
+    },
+    {
+      "date": "1980-04-05",
+      "rank": 122
+    },
+    {
+      "date": "1980-04-12",
+      "rank": 130
+    },
+    {
+      "date": "1980-04-19",
+      "rank": 121
+    },
+    {
+      "date": "1980-04-26",
+      "rank": 119
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 119
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 119
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 199
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 192
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 181
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 171
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Computer Game (Theme From \"The Circus\")",
+      "id": "computer-game-theme-from-the-circus-yellow-magic-orchestra"
+    },
+    {
+      "title": "Computer Game (Theme From \"The Invader\")",
+      "id": "computer-game-theme-from-the-circus-yellow-magic-orchestra"
+    },
+    {
+      "title": "Firecracker",
+      "id": null
+    },
+    {
+      "title": "Simoon",
+      "id": null
+    },
+    {
+      "title": "Cosmic Surfin’",
+      "id": null
+    },
+    {
+      "title": "Yellow Magic (Tong Poo)",
+      "id": null
+    },
+    {
+      "title": "La Femme Chinoise",
+      "id": null
+    },
+    {
+      "title": "Bridge Over Troubled Music",
+      "id": null
+    },
+    {
+      "title": "Mad Pierrot",
+      "id": null
+    }
+  ]
+}

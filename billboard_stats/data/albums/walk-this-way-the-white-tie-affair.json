@@ -1,1 +1,58 @@
-{"id": "walk-this-way-the-white-tie-affair", "title": "Walk This Way", "artist": "The White Tie Affair", "peak": 168, "history": [{"date": "2008-10-04", "rank": 168}, {"date": "2009-05-02", "rank": 193}]}
+{
+  "id": "walk-this-way-the-white-tie-affair",
+  "title": "Walk This Way",
+  "artist": "The White Tie Affair",
+  "peak": 168,
+  "history": [
+    {
+      "date": "2008-10-04",
+      "rank": 168
+    },
+    {
+      "date": "2009-05-02",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Candle (Sick and Tired)",
+      "id": "candle-sick-and-tired-the-white-tie-affair"
+    },
+    {
+      "title": "Allow Me to Introduce Myself… Mr. Right",
+      "id": null
+    },
+    {
+      "title": "The Letdown",
+      "id": null
+    },
+    {
+      "title": "Scene Change",
+      "id": null
+    },
+    {
+      "title": "Watching You",
+      "id": null
+    },
+    {
+      "title": "The Enemy",
+      "id": null
+    },
+    {
+      "title": "Take It Home",
+      "id": null
+    },
+    {
+      "title": "Price of Company",
+      "id": null
+    },
+    {
+      "title": "If I Fall",
+      "id": null
+    },
+    {
+      "title": "The Way Down",
+      "id": null
+    }
+  ]
+}

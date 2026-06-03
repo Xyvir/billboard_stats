@@ -1,1 +1,154 @@
-{"id": "welcome-home-til-tuesday", "title": "Welcome Home", "artist": "'Til Tuesday", "peak": 49, "history": [{"date": "1986-10-25", "rank": 85}, {"date": "1986-11-01", "rank": 65}, {"date": "1986-11-08", "rank": 62}, {"date": "1986-11-15", "rank": 57}, {"date": "1986-11-22", "rank": 49}, {"date": "1986-11-29", "rank": 49}, {"date": "1986-12-06", "rank": 49}, {"date": "1986-12-13", "rank": 60}, {"date": "1986-12-20", "rank": 62}, {"date": "1986-12-27", "rank": 72}, {"date": "1987-01-03", "rank": 72}, {"date": "1987-01-10", "rank": 71}, {"date": "1987-01-17", "rank": 78}, {"date": "1987-01-24", "rank": 73}, {"date": "1987-01-31", "rank": 73}, {"date": "1987-02-07", "rank": 73}, {"date": "1987-02-14", "rank": 85}, {"date": "1987-02-21", "rank": 83}, {"date": "1987-02-28", "rank": 79}, {"date": "1987-03-07", "rank": 78}, {"date": "1987-03-14", "rank": 90}, {"date": "1987-03-21", "rank": 95}, {"date": "1987-03-28", "rank": 105}, {"date": "1987-04-04", "rank": 125}, {"date": "1987-04-11", "rank": 164}, {"date": "1987-04-18", "rank": 160}]}
+{
+  "id": "welcome-home-til-tuesday",
+  "title": "Welcome Home",
+  "artist": "'Til Tuesday",
+  "peak": 49,
+  "history": [
+    {
+      "date": "1986-10-25",
+      "rank": 85
+    },
+    {
+      "date": "1986-11-01",
+      "rank": 65
+    },
+    {
+      "date": "1986-11-08",
+      "rank": 62
+    },
+    {
+      "date": "1986-11-15",
+      "rank": 57
+    },
+    {
+      "date": "1986-11-22",
+      "rank": 49
+    },
+    {
+      "date": "1986-11-29",
+      "rank": 49
+    },
+    {
+      "date": "1986-12-06",
+      "rank": 49
+    },
+    {
+      "date": "1986-12-13",
+      "rank": 60
+    },
+    {
+      "date": "1986-12-20",
+      "rank": 62
+    },
+    {
+      "date": "1986-12-27",
+      "rank": 72
+    },
+    {
+      "date": "1987-01-03",
+      "rank": 72
+    },
+    {
+      "date": "1987-01-10",
+      "rank": 71
+    },
+    {
+      "date": "1987-01-17",
+      "rank": 78
+    },
+    {
+      "date": "1987-01-24",
+      "rank": 73
+    },
+    {
+      "date": "1987-01-31",
+      "rank": 73
+    },
+    {
+      "date": "1987-02-07",
+      "rank": 73
+    },
+    {
+      "date": "1987-02-14",
+      "rank": 85
+    },
+    {
+      "date": "1987-02-21",
+      "rank": 83
+    },
+    {
+      "date": "1987-02-28",
+      "rank": 79
+    },
+    {
+      "date": "1987-03-07",
+      "rank": 78
+    },
+    {
+      "date": "1987-03-14",
+      "rank": 90
+    },
+    {
+      "date": "1987-03-21",
+      "rank": 95
+    },
+    {
+      "date": "1987-03-28",
+      "rank": 105
+    },
+    {
+      "date": "1987-04-04",
+      "rank": 125
+    },
+    {
+      "date": "1987-04-11",
+      "rank": 164
+    },
+    {
+      "date": "1987-04-18",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What About Love",
+      "id": "what-about-love-til-tuesday"
+    },
+    {
+      "title": "Coming Up Close",
+      "id": "coming-up-close-til-tuesday"
+    },
+    {
+      "title": "On Sunday",
+      "id": null
+    },
+    {
+      "title": "Will She Just Fall Down",
+      "id": null
+    },
+    {
+      "title": "David Denies",
+      "id": null
+    },
+    {
+      "title": "Lovers’ Day",
+      "id": null
+    },
+    {
+      "title": "Have Mercy",
+      "id": null
+    },
+    {
+      "title": "Sleeping and Waking",
+      "id": null
+    },
+    {
+      "title": "Angels Never Call",
+      "id": null
+    },
+    {
+      "title": "No One Is Watching You Now",
+      "id": null
+    }
+  ]
+}

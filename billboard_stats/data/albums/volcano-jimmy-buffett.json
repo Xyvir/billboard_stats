@@ -1,1 +1,162 @@
-{"id": "volcano-jimmy-buffett", "title": "Volcano", "artist": "Jimmy Buffett", "peak": 14, "history": [{"date": "1979-09-15", "rank": 67}, {"date": "1979-09-22", "rank": 28}, {"date": "1979-09-29", "rank": 25}, {"date": "1979-10-06", "rank": 18}, {"date": "1979-10-13", "rank": 15}, {"date": "1979-10-20", "rank": 15}, {"date": "1979-10-27", "rank": 14}, {"date": "1979-11-03", "rank": 24}, {"date": "1979-11-10", "rank": 29}, {"date": "1979-11-17", "rank": 29}, {"date": "1979-11-24", "rank": 28}, {"date": "1979-12-01", "rank": 29}, {"date": "1979-12-08", "rank": 52}, {"date": "1979-12-15", "rank": 87}, {"date": "1979-12-22", "rank": 87}, {"date": "1979-12-29", "rank": 87}, {"date": "1980-01-05", "rank": 106}, {"date": "1980-01-12", "rank": 102}, {"date": "1980-01-19", "rank": 102}, {"date": "1980-01-26", "rank": 105}, {"date": "1980-02-02", "rank": 100}, {"date": "1980-02-09", "rank": 113}, {"date": "1980-02-16", "rank": 133}, {"date": "1980-02-23", "rank": 147}, {"date": "1980-03-01", "rank": 142}, {"date": "1980-03-08", "rank": 164}, {"date": "1980-03-15", "rank": 161}, {"date": "1980-03-22", "rank": 161}]}
+{
+  "id": "volcano-jimmy-buffett",
+  "title": "Volcano",
+  "artist": "Jimmy Buffett",
+  "peak": 14,
+  "history": [
+    {
+      "date": "1979-09-15",
+      "rank": 67
+    },
+    {
+      "date": "1979-09-22",
+      "rank": 28
+    },
+    {
+      "date": "1979-09-29",
+      "rank": 25
+    },
+    {
+      "date": "1979-10-06",
+      "rank": 18
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 15
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 15
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 14
+    },
+    {
+      "date": "1979-11-03",
+      "rank": 24
+    },
+    {
+      "date": "1979-11-10",
+      "rank": 29
+    },
+    {
+      "date": "1979-11-17",
+      "rank": 29
+    },
+    {
+      "date": "1979-11-24",
+      "rank": 28
+    },
+    {
+      "date": "1979-12-01",
+      "rank": 29
+    },
+    {
+      "date": "1979-12-08",
+      "rank": 52
+    },
+    {
+      "date": "1979-12-15",
+      "rank": 87
+    },
+    {
+      "date": "1979-12-22",
+      "rank": 87
+    },
+    {
+      "date": "1979-12-29",
+      "rank": 87
+    },
+    {
+      "date": "1980-01-05",
+      "rank": 106
+    },
+    {
+      "date": "1980-01-12",
+      "rank": 102
+    },
+    {
+      "date": "1980-01-19",
+      "rank": 102
+    },
+    {
+      "date": "1980-01-26",
+      "rank": 105
+    },
+    {
+      "date": "1980-02-02",
+      "rank": 100
+    },
+    {
+      "date": "1980-02-09",
+      "rank": 113
+    },
+    {
+      "date": "1980-02-16",
+      "rank": 133
+    },
+    {
+      "date": "1980-02-23",
+      "rank": 147
+    },
+    {
+      "date": "1980-03-01",
+      "rank": 142
+    },
+    {
+      "date": "1980-03-08",
+      "rank": 164
+    },
+    {
+      "date": "1980-03-15",
+      "rank": 161
+    },
+    {
+      "date": "1980-03-22",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Fins",
+      "id": "fins-jimmy-buffett"
+    },
+    {
+      "title": "Volcano",
+      "id": "volcano-jimmy-buffett"
+    },
+    {
+      "title": "Survive",
+      "id": "survive-jimmy-buffett"
+    },
+    {
+      "title": "Treat Her Like a Lady",
+      "id": null
+    },
+    {
+      "title": "Stranded on a Sandbar",
+      "id": null
+    },
+    {
+      "title": "Chanson pour les petits enfants",
+      "id": null
+    },
+    {
+      "title": "Lady I Can’t Explain",
+      "id": null
+    },
+    {
+      "title": "Boat Drinks",
+      "id": null
+    },
+    {
+      "title": "Dreamsicle",
+      "id": null
+    },
+    {
+      "title": "Sending the Old Man Home",
+      "id": null
+    }
+  ]
+}

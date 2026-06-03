@@ -1,1 +1,66 @@
-{"id": "too-hot-to-sleep-sylvester", "title": "Too Hot To Sleep", "artist": "Sylvester", "peak": 156, "history": [{"date": "1981-07-11", "rank": 176}, {"date": "1981-07-18", "rank": 168}, {"date": "1981-07-25", "rank": 158}, {"date": "1981-08-01", "rank": 156}]}
+{
+  "id": "too-hot-to-sleep-sylvester",
+  "title": "Too Hot To Sleep",
+  "artist": "Sylvester",
+  "peak": 156,
+  "history": [
+    {
+      "date": "1981-07-11",
+      "rank": 176
+    },
+    {
+      "date": "1981-07-18",
+      "rank": 168
+    },
+    {
+      "date": "1981-07-25",
+      "rank": 158
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 156
+    }
+  ],
+  "tracks": [
+    {
+      "title": "New Beginnings",
+      "id": null
+    },
+    {
+      "title": "Thinking Right",
+      "id": null
+    },
+    {
+      "title": "Can't Forget the Love",
+      "id": null
+    },
+    {
+      "title": "Too Hot to Sleep",
+      "id": null
+    },
+    {
+      "title": "Give It Up (Don't Make Me Wait)",
+      "id": null
+    },
+    {
+      "title": "Here Is My Love",
+      "id": null
+    },
+    {
+      "title": "Can't You See",
+      "id": null
+    },
+    {
+      "title": "Ooo Baby Baby",
+      "id": null
+    },
+    {
+      "title": "I Can't Believe I'm in Love",
+      "id": null
+    },
+    {
+      "title": "New Beginnings (reprise)",
+      "id": null
+    }
+  ]
+}

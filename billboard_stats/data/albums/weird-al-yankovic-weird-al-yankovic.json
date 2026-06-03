@@ -1,1 +1,86 @@
-{"id": "weird-al-yankovic-weird-al-yankovic", "title": "Weird Al Yankovic", "artist": "\"Weird Al\" Yankovic", "peak": 139, "history": [{"date": "1983-05-21", "rank": 196}, {"date": "1983-05-28", "rank": 159}, {"date": "1983-06-04", "rank": 151}, {"date": "1983-06-11", "rank": 143}, {"date": "1983-06-18", "rank": 142}, {"date": "1983-06-25", "rank": 139}, {"date": "1983-07-02", "rank": 145}]}
+{
+  "id": "weird-al-yankovic-weird-al-yankovic",
+  "title": "Weird Al Yankovic",
+  "artist": "\"Weird Al\" Yankovic",
+  "peak": 139,
+  "history": [
+    {
+      "date": "1983-05-21",
+      "rank": 196
+    },
+    {
+      "date": "1983-05-28",
+      "rank": 159
+    },
+    {
+      "date": "1983-06-04",
+      "rank": 151
+    },
+    {
+      "date": "1983-06-11",
+      "rank": 143
+    },
+    {
+      "date": "1983-06-18",
+      "rank": 142
+    },
+    {
+      "date": "1983-06-25",
+      "rank": 139
+    },
+    {
+      "date": "1983-07-02",
+      "rank": 145
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ricky",
+      "id": "ricky-weird-al-yankovic"
+    },
+    {
+      "title": "Gotta Boogie",
+      "id": null
+    },
+    {
+      "title": "I Love Rocky Road",
+      "id": null
+    },
+    {
+      "title": "Buckingham Blues",
+      "id": null
+    },
+    {
+      "title": "Happy Birthday",
+      "id": null
+    },
+    {
+      "title": "Stop Draggin’ My Car Around",
+      "id": null
+    },
+    {
+      "title": "My Bologna",
+      "id": null
+    },
+    {
+      "title": "The Check’s in the Mail",
+      "id": null
+    },
+    {
+      "title": "Another One Rides the Bus",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Mellow When I’m Dead",
+      "id": null
+    },
+    {
+      "title": "Such a Groovy Guy",
+      "id": null
+    },
+    {
+      "title": "Mr. Frump in the Iron Lung",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,174 @@
-{"id": "willennium-will-smith", "title": "Willennium", "artist": "Will Smith", "peak": 5, "history": [{"date": "1999-12-04", "rank": 5}, {"date": "1999-12-11", "rank": 9}, {"date": "1999-12-18", "rank": 9}, {"date": "1999-12-25", "rank": 10}, {"date": "2000-01-01", "rank": 9}, {"date": "2000-01-08", "rank": 11}, {"date": "2000-01-15", "rank": 18}, {"date": "2000-01-22", "rank": 30}, {"date": "2000-01-29", "rank": 35}, {"date": "2000-02-05", "rank": 42}, {"date": "2000-02-12", "rank": 47}, {"date": "2000-02-19", "rank": 54}, {"date": "2000-02-26", "rank": 53}, {"date": "2000-03-04", "rank": 62}, {"date": "2000-03-11", "rank": 64}, {"date": "2000-03-18", "rank": 73}, {"date": "2000-03-25", "rank": 83}, {"date": "2000-04-01", "rank": 92}, {"date": "2000-04-08", "rank": 106}, {"date": "2000-04-15", "rank": 119}, {"date": "2000-04-22", "rank": 146}, {"date": "2000-04-29", "rank": 158}, {"date": "2000-05-06", "rank": 114}, {"date": "2000-05-13", "rank": 115}, {"date": "2000-05-20", "rank": 162}, {"date": "2000-05-27", "rank": 195}]}
+{
+  "id": "willennium-will-smith",
+  "title": "Willennium",
+  "artist": "Will Smith",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1999-12-04",
+      "rank": 5
+    },
+    {
+      "date": "1999-12-11",
+      "rank": 9
+    },
+    {
+      "date": "1999-12-18",
+      "rank": 9
+    },
+    {
+      "date": "1999-12-25",
+      "rank": 10
+    },
+    {
+      "date": "2000-01-01",
+      "rank": 9
+    },
+    {
+      "date": "2000-01-08",
+      "rank": 11
+    },
+    {
+      "date": "2000-01-15",
+      "rank": 18
+    },
+    {
+      "date": "2000-01-22",
+      "rank": 30
+    },
+    {
+      "date": "2000-01-29",
+      "rank": 35
+    },
+    {
+      "date": "2000-02-05",
+      "rank": 42
+    },
+    {
+      "date": "2000-02-12",
+      "rank": 47
+    },
+    {
+      "date": "2000-02-19",
+      "rank": 54
+    },
+    {
+      "date": "2000-02-26",
+      "rank": 53
+    },
+    {
+      "date": "2000-03-04",
+      "rank": 62
+    },
+    {
+      "date": "2000-03-11",
+      "rank": 64
+    },
+    {
+      "date": "2000-03-18",
+      "rank": 73
+    },
+    {
+      "date": "2000-03-25",
+      "rank": 83
+    },
+    {
+      "date": "2000-04-01",
+      "rank": 92
+    },
+    {
+      "date": "2000-04-08",
+      "rank": 106
+    },
+    {
+      "date": "2000-04-15",
+      "rank": 119
+    },
+    {
+      "date": "2000-04-22",
+      "rank": 146
+    },
+    {
+      "date": "2000-04-29",
+      "rank": 158
+    },
+    {
+      "date": "2000-05-06",
+      "rank": 114
+    },
+    {
+      "date": "2000-05-13",
+      "rank": 115
+    },
+    {
+      "date": "2000-05-20",
+      "rank": 162
+    },
+    {
+      "date": "2000-05-27",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Freakin’ It",
+      "id": "freakin-it-will-smith"
+    },
+    {
+      "title": "I’m Comin’",
+      "id": null
+    },
+    {
+      "title": "Will 2K",
+      "id": null
+    },
+    {
+      "title": "Da Butta",
+      "id": null
+    },
+    {
+      "title": "La Fiesta",
+      "id": null
+    },
+    {
+      "title": "Who Am I",
+      "id": null
+    },
+    {
+      "title": "Afro Angel",
+      "id": null
+    },
+    {
+      "title": "So Fresh",
+      "id": null
+    },
+    {
+      "title": "Pump Me Up",
+      "id": null
+    },
+    {
+      "title": "Can You Feel Me?",
+      "id": null
+    },
+    {
+      "title": "Potnas",
+      "id": null
+    },
+    {
+      "title": "No More",
+      "id": null
+    },
+    {
+      "title": "Uuhhh",
+      "id": null
+    },
+    {
+      "title": "Wild Wild West",
+      "id": null
+    },
+    {
+      "title": "The Rain",
+      "id": null
+    }
+  ]
+}

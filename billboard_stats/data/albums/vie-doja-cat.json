@@ -1,1 +1,90 @@
-{"id": "vie-doja-cat", "title": "Vie", "artist": "Doja Cat", "peak": 4, "history": [{"date": "2025-10-11", "rank": 4}, {"date": "2025-10-18", "rank": 22}, {"date": "2025-10-25", "rank": 52}, {"date": "2025-11-01", "rank": 107}, {"date": "2025-11-08", "rank": 184}]}
+{
+  "id": "vie-doja-cat",
+  "title": "Vie",
+  "artist": "Doja Cat",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2025-10-11",
+      "rank": 4
+    },
+    {
+      "date": "2025-10-18",
+      "rank": 22
+    },
+    {
+      "date": "2025-10-25",
+      "rank": 52
+    },
+    {
+      "date": "2025-11-01",
+      "rank": 107
+    },
+    {
+      "date": "2025-11-08",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cards",
+      "id": "candy-doja-cat"
+    },
+    {
+      "title": "Jealous Type",
+      "id": "jealous-type-doja-cat"
+    },
+    {
+      "title": "Gorgeous",
+      "id": "gorgeous-doja-cat"
+    },
+    {
+      "title": "AAAHH MEN!",
+      "id": null
+    },
+    {
+      "title": "Couples Therapy",
+      "id": null
+    },
+    {
+      "title": "Stranger",
+      "id": null
+    },
+    {
+      "title": "All Mine",
+      "id": null
+    },
+    {
+      "title": "Take Me Dancing",
+      "id": null
+    },
+    {
+      "title": "Lipstain",
+      "id": null
+    },
+    {
+      "title": "Silly! Fun!",
+      "id": null
+    },
+    {
+      "title": "Acts of Service",
+      "id": null
+    },
+    {
+      "title": "Make It Up",
+      "id": null
+    },
+    {
+      "title": "Happy",
+      "id": null
+    },
+    {
+      "title": "One More Time",
+      "id": null
+    },
+    {
+      "title": "Come Back",
+      "id": null
+    }
+  ]
+}

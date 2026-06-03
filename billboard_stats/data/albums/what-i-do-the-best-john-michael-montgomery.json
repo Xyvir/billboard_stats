@@ -1,1 +1,210 @@
-{"id": "what-i-do-the-best-john-michael-montgomery", "title": "What I Do The Best", "artist": "John Michael Montgomery", "peak": 39, "history": [{"date": "1996-10-12", "rank": 39}, {"date": "1996-10-19", "rank": 48}, {"date": "1996-10-26", "rank": 51}, {"date": "1996-11-02", "rank": 59}, {"date": "1996-11-09", "rank": 69}, {"date": "1996-11-16", "rank": 65}, {"date": "1996-11-23", "rank": 58}, {"date": "1996-11-30", "rank": 56}, {"date": "1996-12-07", "rank": 60}, {"date": "1996-12-14", "rank": 69}, {"date": "1996-12-21", "rank": 59}, {"date": "1996-12-28", "rank": 62}, {"date": "1997-01-04", "rank": 64}, {"date": "1997-01-11", "rank": 66}, {"date": "1997-01-18", "rank": 71}, {"date": "1997-01-25", "rank": 70}, {"date": "1997-02-01", "rank": 81}, {"date": "1997-02-08", "rank": 85}, {"date": "1997-02-15", "rank": 107}, {"date": "1997-02-22", "rank": 120}, {"date": "1997-03-01", "rank": 128}, {"date": "1997-03-08", "rank": 150}, {"date": "1997-03-15", "rank": 150}, {"date": "1997-03-22", "rank": 131}, {"date": "1997-03-29", "rank": 132}, {"date": "1997-04-05", "rank": 133}, {"date": "1997-04-12", "rank": 142}, {"date": "1997-04-19", "rank": 144}, {"date": "1997-04-26", "rank": 158}, {"date": "1997-05-03", "rank": 163}, {"date": "1997-05-10", "rank": 176}, {"date": "1997-05-17", "rank": 171}, {"date": "1997-05-24", "rank": 185}, {"date": "1997-05-31", "rank": 173}, {"date": "1997-08-09", "rank": 197}, {"date": "1997-08-23", "rank": 196}, {"date": "1997-09-06", "rank": 194}, {"date": "1997-09-13", "rank": 195}, {"date": "1997-09-20", "rank": 193}, {"date": "1997-09-27", "rank": 200}]}
+{
+  "id": "what-i-do-the-best-john-michael-montgomery",
+  "title": "What I Do The Best",
+  "artist": "John Michael Montgomery",
+  "peak": 39,
+  "history": [
+    {
+      "date": "1996-10-12",
+      "rank": 39
+    },
+    {
+      "date": "1996-10-19",
+      "rank": 48
+    },
+    {
+      "date": "1996-10-26",
+      "rank": 51
+    },
+    {
+      "date": "1996-11-02",
+      "rank": 59
+    },
+    {
+      "date": "1996-11-09",
+      "rank": 69
+    },
+    {
+      "date": "1996-11-16",
+      "rank": 65
+    },
+    {
+      "date": "1996-11-23",
+      "rank": 58
+    },
+    {
+      "date": "1996-11-30",
+      "rank": 56
+    },
+    {
+      "date": "1996-12-07",
+      "rank": 60
+    },
+    {
+      "date": "1996-12-14",
+      "rank": 69
+    },
+    {
+      "date": "1996-12-21",
+      "rank": 59
+    },
+    {
+      "date": "1996-12-28",
+      "rank": 62
+    },
+    {
+      "date": "1997-01-04",
+      "rank": 64
+    },
+    {
+      "date": "1997-01-11",
+      "rank": 66
+    },
+    {
+      "date": "1997-01-18",
+      "rank": 71
+    },
+    {
+      "date": "1997-01-25",
+      "rank": 70
+    },
+    {
+      "date": "1997-02-01",
+      "rank": 81
+    },
+    {
+      "date": "1997-02-08",
+      "rank": 85
+    },
+    {
+      "date": "1997-02-15",
+      "rank": 107
+    },
+    {
+      "date": "1997-02-22",
+      "rank": 120
+    },
+    {
+      "date": "1997-03-01",
+      "rank": 128
+    },
+    {
+      "date": "1997-03-08",
+      "rank": 150
+    },
+    {
+      "date": "1997-03-15",
+      "rank": 150
+    },
+    {
+      "date": "1997-03-22",
+      "rank": 131
+    },
+    {
+      "date": "1997-03-29",
+      "rank": 132
+    },
+    {
+      "date": "1997-04-05",
+      "rank": 133
+    },
+    {
+      "date": "1997-04-12",
+      "rank": 142
+    },
+    {
+      "date": "1997-04-19",
+      "rank": 144
+    },
+    {
+      "date": "1997-04-26",
+      "rank": 158
+    },
+    {
+      "date": "1997-05-03",
+      "rank": 163
+    },
+    {
+      "date": "1997-05-10",
+      "rank": 176
+    },
+    {
+      "date": "1997-05-17",
+      "rank": 171
+    },
+    {
+      "date": "1997-05-24",
+      "rank": 185
+    },
+    {
+      "date": "1997-05-31",
+      "rank": 173
+    },
+    {
+      "date": "1997-08-09",
+      "rank": 197
+    },
+    {
+      "date": "1997-08-23",
+      "rank": 196
+    },
+    {
+      "date": "1997-09-06",
+      "rank": 194
+    },
+    {
+      "date": "1997-09-13",
+      "rank": 195
+    },
+    {
+      "date": "1997-09-20",
+      "rank": 193
+    },
+    {
+      "date": "1997-09-27",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Friends",
+      "id": "friends-john-michael-montgomery"
+    },
+    {
+      "title": "Ain't Got Nothin' on Us",
+      "id": null
+    },
+    {
+      "title": "A Few Cents Short",
+      "id": null
+    },
+    {
+      "title": "Lucky Arms",
+      "id": null
+    },
+    {
+      "title": "What I Do the Best",
+      "id": null
+    },
+    {
+      "title": "Cloud 8",
+      "id": null
+    },
+    {
+      "title": "I Can Prove You Wrong",
+      "id": null
+    },
+    {
+      "title": "How Was I to Know",
+      "id": null
+    },
+    {
+      "title": "Paint the Town Redneck",
+      "id": null
+    },
+    {
+      "title": "I Miss You a Little",
+      "id": null
+    }
+  ]
+}

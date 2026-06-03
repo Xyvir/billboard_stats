@@ -1,1 +1,74 @@
-{"id": "true-north-twila-paris", "title": "True North", "artist": "Twila Paris", "peak": 112, "history": [{"date": "1999-10-09", "rank": 144}, {"date": "1999-10-16", "rank": 182}, {"date": "1999-10-23", "rank": 112}, {"date": "1999-10-30", "rank": 174}, {"date": "1999-12-11", "rank": 192}]}
+{
+  "id": "true-north-twila-paris",
+  "title": "True North",
+  "artist": "Twila Paris",
+  "peak": 112,
+  "history": [
+    {
+      "date": "1999-10-09",
+      "rank": 144
+    },
+    {
+      "date": "1999-10-16",
+      "rank": 182
+    },
+    {
+      "date": "1999-10-23",
+      "rank": 112
+    },
+    {
+      "date": "1999-10-30",
+      "rank": 174
+    },
+    {
+      "date": "1999-12-11",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Run to You",
+      "id": null
+    },
+    {
+      "title": "True North",
+      "id": null
+    },
+    {
+      "title": "No Confidence",
+      "id": null
+    },
+    {
+      "title": "Delight My Heart",
+      "id": null
+    },
+    {
+      "title": "Wisdom",
+      "id": null
+    },
+    {
+      "title": "I Choose Grace",
+      "id": null
+    },
+    {
+      "title": "Could You Believe",
+      "id": null
+    },
+    {
+      "title": "Daughter of Grace",
+      "id": null
+    },
+    {
+      "title": "Once in a Life",
+      "id": null
+    },
+    {
+      "title": "Wondering Out Loud",
+      "id": null
+    },
+    {
+      "title": "When You Speak to Me",
+      "id": null
+    }
+  ]
+}

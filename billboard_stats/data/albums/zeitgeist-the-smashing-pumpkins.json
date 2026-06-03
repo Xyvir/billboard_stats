@@ -1,1 +1,114 @@
-{"id": "zeitgeist-the-smashing-pumpkins", "title": "Zeitgeist", "artist": "The Smashing Pumpkins", "peak": 2, "history": [{"date": "2007-07-28", "rank": 2}, {"date": "2007-08-04", "rank": 12}, {"date": "2007-08-11", "rank": 22}, {"date": "2007-08-18", "rank": 29}, {"date": "2007-08-25", "rank": 41}, {"date": "2007-09-01", "rank": 55}, {"date": "2007-09-08", "rank": 66}, {"date": "2007-09-15", "rank": 84}, {"date": "2007-09-22", "rank": 91}, {"date": "2007-09-29", "rank": 95}, {"date": "2007-10-06", "rank": 117}, {"date": "2007-10-13", "rank": 149}, {"date": "2007-10-20", "rank": 198}, {"date": "2007-11-17", "rank": 103}]}
+{
+  "id": "zeitgeist-the-smashing-pumpkins",
+  "title": "Zeitgeist",
+  "artist": "The Smashing Pumpkins",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2007-07-28",
+      "rank": 2
+    },
+    {
+      "date": "2007-08-04",
+      "rank": 12
+    },
+    {
+      "date": "2007-08-11",
+      "rank": 22
+    },
+    {
+      "date": "2007-08-18",
+      "rank": 29
+    },
+    {
+      "date": "2007-08-25",
+      "rank": 41
+    },
+    {
+      "date": "2007-09-01",
+      "rank": 55
+    },
+    {
+      "date": "2007-09-08",
+      "rank": 66
+    },
+    {
+      "date": "2007-09-15",
+      "rank": 84
+    },
+    {
+      "date": "2007-09-22",
+      "rank": 91
+    },
+    {
+      "date": "2007-09-29",
+      "rank": 95
+    },
+    {
+      "date": "2007-10-06",
+      "rank": 117
+    },
+    {
+      "date": "2007-10-13",
+      "rank": 149
+    },
+    {
+      "date": "2007-10-20",
+      "rank": 198
+    },
+    {
+      "date": "2007-11-17",
+      "rank": 103
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Doomsday Clock",
+      "id": "doomsday-clock-the-smashing-pumpkins"
+    },
+    {
+      "title": "Tarantula",
+      "id": "tarantula-the-smashing-pumpkins"
+    },
+    {
+      "title": "7 Shades of Black",
+      "id": null
+    },
+    {
+      "title": "Bleeding the Orchid",
+      "id": null
+    },
+    {
+      "title": "That’s the Way (My Love Is)",
+      "id": null
+    },
+    {
+      "title": "Starz",
+      "id": null
+    },
+    {
+      "title": "United States",
+      "id": null
+    },
+    {
+      "title": "Neverlost",
+      "id": null
+    },
+    {
+      "title": "Bring the Light",
+      "id": null
+    },
+    {
+      "title": "(Come On) Let’s Go!",
+      "id": null
+    },
+    {
+      "title": "For God and Country",
+      "id": null
+    },
+    {
+      "title": "Pomp and Circumstances",
+      "id": null
+    }
+  ]
+}

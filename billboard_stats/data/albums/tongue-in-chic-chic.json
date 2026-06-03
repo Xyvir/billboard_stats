@@ -1,1 +1,62 @@
-{"id": "tongue-in-chic-chic", "title": "Tongue In Chic", "artist": "Chic", "peak": 173, "history": [{"date": "1982-12-04", "rank": 181}, {"date": "1982-12-11", "rank": 173}, {"date": "1982-12-18", "rank": 173}, {"date": "1982-12-25", "rank": 199}, {"date": "1983-01-01", "rank": 199}, {"date": "1983-01-08", "rank": 199}]}
+{
+  "id": "tongue-in-chic-chic",
+  "title": "Tongue In Chic",
+  "artist": "Chic",
+  "peak": 173,
+  "history": [
+    {
+      "date": "1982-12-04",
+      "rank": 181
+    },
+    {
+      "date": "1982-12-11",
+      "rank": 173
+    },
+    {
+      "date": "1982-12-18",
+      "rank": 173
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 199
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 199
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Chic (Everybody Say)",
+      "id": "everybody-dance-chic"
+    },
+    {
+      "title": "Hangin’",
+      "id": null
+    },
+    {
+      "title": "I Feel Your Love Comin’ On",
+      "id": null
+    },
+    {
+      "title": "When You Love Someone",
+      "id": null
+    },
+    {
+      "title": "Hey Fool",
+      "id": null
+    },
+    {
+      "title": "Sharing Love",
+      "id": null
+    },
+    {
+      "title": "City Lights",
+      "id": null
+    }
+  ]
+}

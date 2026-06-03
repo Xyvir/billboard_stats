@@ -1,1 +1,94 @@
-{"id": "win-lose-or-draw-the-allman-brothers-band", "title": "Win, Lose Or Draw", "artist": "The Allman Brothers Band", "peak": 5, "history": [{"date": "1975-09-13", "rank": 62}, {"date": "1975-09-20", "rank": 43}, {"date": "1975-09-27", "rank": 8}, {"date": "1975-10-04", "rank": 6}, {"date": "1975-10-11", "rank": 5}, {"date": "1975-10-18", "rank": 5}, {"date": "1975-10-25", "rank": 6}, {"date": "1975-11-01", "rank": 13}, {"date": "1975-11-08", "rank": 19}, {"date": "1975-11-15", "rank": 34}, {"date": "1975-11-22", "rank": 52}, {"date": "1975-11-29", "rank": 81}, {"date": "1975-12-06", "rank": 96}, {"date": "1975-12-13", "rank": 164}]}
+{
+  "id": "win-lose-or-draw-the-allman-brothers-band",
+  "title": "Win, Lose Or Draw",
+  "artist": "The Allman Brothers Band",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1975-09-13",
+      "rank": 62
+    },
+    {
+      "date": "1975-09-20",
+      "rank": 43
+    },
+    {
+      "date": "1975-09-27",
+      "rank": 8
+    },
+    {
+      "date": "1975-10-04",
+      "rank": 6
+    },
+    {
+      "date": "1975-10-11",
+      "rank": 5
+    },
+    {
+      "date": "1975-10-18",
+      "rank": 5
+    },
+    {
+      "date": "1975-10-25",
+      "rank": 6
+    },
+    {
+      "date": "1975-11-01",
+      "rank": 13
+    },
+    {
+      "date": "1975-11-08",
+      "rank": 19
+    },
+    {
+      "date": "1975-11-15",
+      "rank": 34
+    },
+    {
+      "date": "1975-11-22",
+      "rank": 52
+    },
+    {
+      "date": "1975-11-29",
+      "rank": 81
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 96
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Louisiana Lou and Three Card Monty John",
+      "id": "nevertheless-louisiana-lou-and-three-card-monty-john-the-allman-brothers-band"
+    },
+    {
+      "title": "Can’t Lose What You Never Had",
+      "id": null
+    },
+    {
+      "title": "Just Another Love Song",
+      "id": null
+    },
+    {
+      "title": "Nevertheless",
+      "id": null
+    },
+    {
+      "title": "Win, Lose or Draw",
+      "id": null
+    },
+    {
+      "title": "High Falls",
+      "id": null
+    },
+    {
+      "title": "Sweet Mama",
+      "id": null
+    }
+  ]
+}

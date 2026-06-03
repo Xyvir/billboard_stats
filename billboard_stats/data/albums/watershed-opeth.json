@@ -1,1 +1,50 @@
-{"id": "watershed-opeth", "title": "Watershed", "artist": "Opeth", "peak": 23, "history": [{"date": "2008-06-21", "rank": 23}, {"date": "2008-06-28", "rank": 113}, {"date": "2008-07-05", "rank": 157}]}
+{
+  "id": "watershed-opeth",
+  "title": "Watershed",
+  "artist": "Opeth",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2008-06-21",
+      "rank": 23
+    },
+    {
+      "date": "2008-06-28",
+      "rank": 113
+    },
+    {
+      "date": "2008-07-05",
+      "rank": 157
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Coil",
+      "id": null
+    },
+    {
+      "title": "Heir Apparent",
+      "id": null
+    },
+    {
+      "title": "The Lotus Eater",
+      "id": null
+    },
+    {
+      "title": "Burden",
+      "id": null
+    },
+    {
+      "title": "Porcelain Heart",
+      "id": null
+    },
+    {
+      "title": "Hessian Peel",
+      "id": null
+    },
+    {
+      "title": "Hex Omega",
+      "id": null
+    }
+  ]
+}

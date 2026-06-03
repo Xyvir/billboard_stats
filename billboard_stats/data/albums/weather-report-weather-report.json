@@ -1,1 +1,82 @@
-{"id": "weather-report-weather-report", "title": "Weather Report", "artist": "Weather Report", "peak": 68, "history": [{"date": "1982-02-20", "rank": 95}, {"date": "1982-02-27", "rank": 100}, {"date": "1982-03-06", "rank": 76}, {"date": "1982-03-13", "rank": 70}, {"date": "1982-03-20", "rank": 68}, {"date": "1982-03-27", "rank": 73}, {"date": "1982-04-03", "rank": 95}, {"date": "1982-04-10", "rank": 109}, {"date": "1982-04-17", "rank": 108}, {"date": "1982-04-24", "rank": 131}, {"date": "1982-05-01", "rank": 177}]}
+{
+  "id": "weather-report-weather-report",
+  "title": "Weather Report",
+  "artist": "Weather Report",
+  "peak": 68,
+  "history": [
+    {
+      "date": "1982-02-20",
+      "rank": 95
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 100
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 76
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 70
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 68
+    },
+    {
+      "date": "1982-03-27",
+      "rank": 73
+    },
+    {
+      "date": "1982-04-03",
+      "rank": 95
+    },
+    {
+      "date": "1982-04-10",
+      "rank": 109
+    },
+    {
+      "date": "1982-04-17",
+      "rank": 108
+    },
+    {
+      "date": "1982-04-24",
+      "rank": 131
+    },
+    {
+      "date": "1982-05-01",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Volcano for Hire",
+      "id": null
+    },
+    {
+      "title": "Current Affairs",
+      "id": null
+    },
+    {
+      "title": "N.Y.C.: Part One. 41st Parallel / Part Two. The Dance / Part Three. Crazy About Jazz",
+      "id": null
+    },
+    {
+      "title": "Dara Factor One",
+      "id": null
+    },
+    {
+      "title": "When It Was Now",
+      "id": null
+    },
+    {
+      "title": "Speechless",
+      "id": null
+    },
+    {
+      "title": "Dara Factor Two",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"id": "the-wheel-asleep-at-the-wheel", "title": "The Wheel", "artist": "Asleep At The Wheel", "peak": 162, "history": [{"date": "1977-04-16", "rank": 181}, {"date": "1977-04-23", "rank": 170}, {"date": "1977-04-30", "rank": 165}, {"date": "1977-05-07", "rank": 162}]}
+{
+  "id": "the-wheel-asleep-at-the-wheel",
+  "title": "The Wheel",
+  "artist": "Asleep At The Wheel",
+  "peak": 162,
+  "history": [
+    {
+      "date": "1977-04-16",
+      "rank": 181
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 170
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 165
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 162
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Wheel",
+      "id": null
+    },
+    {
+      "title": "I Wonder",
+      "id": null
+    },
+    {
+      "title": "Am I High?",
+      "id": null
+    },
+    {
+      "title": "A Dollar Short and a Day Late",
+      "id": null
+    },
+    {
+      "title": "My Baby Thinks She’s a Train",
+      "id": null
+    },
+    {
+      "title": "Ragtime Annie",
+      "id": null
+    },
+    {
+      "title": "When Love Goes Wrong",
+      "id": null
+    },
+    {
+      "title": "Somebody Stole His Body",
+      "id": null
+    },
+    {
+      "title": "Let’s Face Up",
+      "id": null
+    },
+    {
+      "title": "I Can’t Handle It Now",
+      "id": null
+    },
+    {
+      "title": "Red Stick",
+      "id": null
+    }
+  ]
+}

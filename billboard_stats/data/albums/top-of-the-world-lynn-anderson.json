@@ -1,1 +1,66 @@
-{"id": "top-of-the-world-lynn-anderson", "title": "Top Of The World", "artist": "Lynn Anderson", "peak": 179, "history": [{"date": "1973-08-11", "rank": 180}, {"date": "1973-08-18", "rank": 179}, {"date": "1973-08-25", "rank": 195}]}
+{
+  "id": "top-of-the-world-lynn-anderson",
+  "title": "Top Of The World",
+  "artist": "Lynn Anderson",
+  "peak": 179,
+  "history": [
+    {
+      "date": "1973-08-11",
+      "rank": 180
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 179
+    },
+    {
+      "date": "1973-08-25",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Top of the World",
+      "id": "top-of-the-world-lynn-anderson"
+    },
+    {
+      "title": "Danny’s Song",
+      "id": null
+    },
+    {
+      "title": "Nobody Wins",
+      "id": null
+    },
+    {
+      "title": "The Night the Lights Went Out in Georgia",
+      "id": null
+    },
+    {
+      "title": "I’m Still Loving You",
+      "id": null
+    },
+    {
+      "title": "Kids Say the Darnest Things",
+      "id": null
+    },
+    {
+      "title": "Sing About Love",
+      "id": null
+    },
+    {
+      "title": "Killing Me Softly With His Song",
+      "id": null
+    },
+    {
+      "title": "A Thing Called Love",
+      "id": null
+    },
+    {
+      "title": "Fickle Fortune",
+      "id": null
+    },
+    {
+      "title": "Lonely Women Make Good Lovers",
+      "id": null
+    }
+  ]
+}

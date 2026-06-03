@@ -1,1 +1,114 @@
-{"id": "woman-jill-scott", "title": "Woman", "artist": "Jill Scott", "peak": 1, "history": [{"date": "2015-08-15", "rank": 1}, {"date": "2015-08-22", "rank": 5}, {"date": "2015-08-29", "rank": 19}, {"date": "2015-09-05", "rank": 34}, {"date": "2015-09-12", "rank": 51}, {"date": "2015-09-19", "rank": 84}, {"date": "2015-09-26", "rank": 117}, {"date": "2015-10-03", "rank": 134}, {"date": "2015-10-10", "rank": 194}, {"date": "2015-10-17", "rank": 200}]}
+{
+  "id": "woman-jill-scott",
+  "title": "Woman",
+  "artist": "Jill Scott",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2015-08-15",
+      "rank": 1
+    },
+    {
+      "date": "2015-08-22",
+      "rank": 5
+    },
+    {
+      "date": "2015-08-29",
+      "rank": 19
+    },
+    {
+      "date": "2015-09-05",
+      "rank": 34
+    },
+    {
+      "date": "2015-09-12",
+      "rank": 51
+    },
+    {
+      "date": "2015-09-19",
+      "rank": 84
+    },
+    {
+      "date": "2015-09-26",
+      "rank": 117
+    },
+    {
+      "date": "2015-10-03",
+      "rank": 134
+    },
+    {
+      "date": "2015-10-10",
+      "rank": 194
+    },
+    {
+      "date": "2015-10-17",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wild Cookie",
+      "id": null
+    },
+    {
+      "title": "Prepared",
+      "id": null
+    },
+    {
+      "title": "Run Run Run",
+      "id": null
+    },
+    {
+      "title": "Can't Wait",
+      "id": null
+    },
+    {
+      "title": "Lighthouse",
+      "id": null
+    },
+    {
+      "title": "Fool's Gold",
+      "id": null
+    },
+    {
+      "title": "Willing (Interlude)",
+      "id": null
+    },
+    {
+      "title": "Closure",
+      "id": null
+    },
+    {
+      "title": "You Don't Know",
+      "id": null
+    },
+    {
+      "title": "Pause (Interlude)",
+      "id": null
+    },
+    {
+      "title": "Cruisin",
+      "id": null
+    },
+    {
+      "title": "Say Thank You",
+      "id": null
+    },
+    {
+      "title": "Back Together",
+      "id": null
+    },
+    {
+      "title": "Coming To You",
+      "id": null
+    },
+    {
+      "title": "Jahraymecofasola",
+      "id": null
+    },
+    {
+      "title": "Beautiful Love",
+      "id": null
+    }
+  ]
+}

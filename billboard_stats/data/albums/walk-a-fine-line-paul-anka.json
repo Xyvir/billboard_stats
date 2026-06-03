@@ -1,1 +1,78 @@
-{"id": "walk-a-fine-line-paul-anka", "title": "Walk A Fine Line", "artist": "Paul Anka", "peak": 156, "history": [{"date": "1983-08-13", "rank": 189}, {"date": "1983-08-20", "rank": 178}, {"date": "1983-08-27", "rank": 171}, {"date": "1983-09-03", "rank": 165}, {"date": "1983-09-10", "rank": 159}, {"date": "1983-09-17", "rank": 156}, {"date": "1983-09-24", "rank": 169}, {"date": "1983-10-01", "rank": 187}]}
+{
+  "id": "walk-a-fine-line-paul-anka",
+  "title": "Walk A Fine Line",
+  "artist": "Paul Anka",
+  "peak": 156,
+  "history": [
+    {
+      "date": "1983-08-13",
+      "rank": 189
+    },
+    {
+      "date": "1983-08-20",
+      "rank": 178
+    },
+    {
+      "date": "1983-08-27",
+      "rank": 171
+    },
+    {
+      "date": "1983-09-03",
+      "rank": 165
+    },
+    {
+      "date": "1983-09-10",
+      "rank": 159
+    },
+    {
+      "date": "1983-09-17",
+      "rank": 156
+    },
+    {
+      "date": "1983-09-24",
+      "rank": 169
+    },
+    {
+      "date": "1983-10-01",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hold Me ’til the Mornin’ Comes",
+      "id": "hold-me-til-the-mornin-comes-paul-anka"
+    },
+    {
+      "title": "Golden Boy",
+      "id": "lonely-boy-paul-anka"
+    },
+    {
+      "title": "Second Chance",
+      "id": null
+    },
+    {
+      "title": "Darlin’, Darlin’",
+      "id": null
+    },
+    {
+      "title": "No Way Out",
+      "id": null
+    },
+    {
+      "title": "Walk a Fine Line",
+      "id": null
+    },
+    {
+      "title": "Take Me in Your Arms",
+      "id": null
+    },
+    {
+      "title": "This Is the First Time",
+      "id": null
+    },
+    {
+      "title": "Gimme the Word",
+      "id": null
+    }
+  ]
+}

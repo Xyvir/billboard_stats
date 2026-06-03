@@ -1,1 +1,66 @@
-{"id": "x-periment-the-system", "title": "X-Periment", "artist": "The System", "peak": 182, "history": [{"date": "1984-03-31", "rank": 193}, {"date": "1984-04-07", "rank": 188}, {"date": "1984-04-14", "rank": 183}, {"date": "1984-04-21", "rank": 182}, {"date": "1984-04-28", "rank": 200}]}
+{
+  "id": "x-periment-the-system",
+  "title": "X-Periment",
+  "artist": "The System",
+  "peak": 182,
+  "history": [
+    {
+      "date": "1984-03-31",
+      "rank": 193
+    },
+    {
+      "date": "1984-04-07",
+      "rank": 188
+    },
+    {
+      "date": "1984-04-14",
+      "rank": 183
+    },
+    {
+      "date": "1984-04-21",
+      "rank": 182
+    },
+    {
+      "date": "1984-04-28",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Wanna Make You Feel Good",
+      "id": null
+    },
+    {
+      "title": "Dangerous",
+      "id": null
+    },
+    {
+      "title": "Lollipops and Everything",
+      "id": null
+    },
+    {
+      "title": "Get Jumpin",
+      "id": null
+    },
+    {
+      "title": "Escape",
+      "id": null
+    },
+    {
+      "title": "Promises Can Break",
+      "id": null
+    },
+    {
+      "title": "X-Periment",
+      "id": null
+    },
+    {
+      "title": "Bad Girl",
+      "id": null
+    },
+    {
+      "title": "I Can’t Take Losing You",
+      "id": null
+    }
+  ]
+}

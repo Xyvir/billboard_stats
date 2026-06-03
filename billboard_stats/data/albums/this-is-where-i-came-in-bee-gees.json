@@ -1,1 +1,102 @@
-{"id": "this-is-where-i-came-in-bee-gees", "title": "This Is Where I Came In", "artist": "Bee Gees", "peak": 16, "history": [{"date": "2001-05-12", "rank": 16}, {"date": "2001-05-19", "rank": 33}, {"date": "2001-05-26", "rank": 41}, {"date": "2001-06-02", "rank": 88}, {"date": "2001-06-09", "rank": 133}, {"date": "2001-06-16", "rank": 131}, {"date": "2001-06-23", "rank": 163}, {"date": "2001-06-30", "rank": 166}]}
+{
+  "id": "this-is-where-i-came-in-bee-gees",
+  "title": "This Is Where I Came In",
+  "artist": "Bee Gees",
+  "peak": 16,
+  "history": [
+    {
+      "date": "2001-05-12",
+      "rank": 16
+    },
+    {
+      "date": "2001-05-19",
+      "rank": 33
+    },
+    {
+      "date": "2001-05-26",
+      "rank": 41
+    },
+    {
+      "date": "2001-06-02",
+      "rank": 88
+    },
+    {
+      "date": "2001-06-09",
+      "rank": 133
+    },
+    {
+      "date": "2001-06-16",
+      "rank": 131
+    },
+    {
+      "date": "2001-06-23",
+      "rank": 163
+    },
+    {
+      "date": "2001-06-30",
+      "rank": 166
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’ve Gotta Get a Message to You",
+      "id": "i-ve-gotta-get-a-message-to-you-bee-gees"
+    },
+    {
+      "title": "Run to Me",
+      "id": "run-to-me-bee-gees"
+    },
+    {
+      "title": "Too Much Heaven",
+      "id": "too-much-heaven-bee-gees"
+    },
+    {
+      "title": "This Is Where I Came In",
+      "id": null
+    },
+    {
+      "title": "She Keeps On Coming",
+      "id": null
+    },
+    {
+      "title": "Sacred Trust",
+      "id": null
+    },
+    {
+      "title": "Wedding Day",
+      "id": null
+    },
+    {
+      "title": "Man in the Middle",
+      "id": null
+    },
+    {
+      "title": "Déjà vu",
+      "id": null
+    },
+    {
+      "title": "Technicolor Dreams",
+      "id": null
+    },
+    {
+      "title": "Walking on Air",
+      "id": null
+    },
+    {
+      "title": "Loose Talk Costs Lives",
+      "id": null
+    },
+    {
+      "title": "Embrace",
+      "id": null
+    },
+    {
+      "title": "The Extra Mile",
+      "id": null
+    },
+    {
+      "title": "Voice in the Wilderness",
+      "id": null
+    }
+  ]
+}

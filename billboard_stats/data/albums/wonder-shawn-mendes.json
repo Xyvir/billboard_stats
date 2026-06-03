@@ -1,1 +1,138 @@
-{"id": "wonder-shawn-mendes", "title": "Wonder", "artist": "Shawn Mendes", "peak": 1, "history": [{"date": "2020-12-19", "rank": 1}, {"date": "2020-12-26", "rank": 25}, {"date": "2021-01-02", "rank": 35}, {"date": "2021-01-09", "rank": 35}, {"date": "2021-01-16", "rank": 30}, {"date": "2021-01-23", "rank": 41}, {"date": "2021-01-30", "rank": 57}, {"date": "2021-02-06", "rank": 65}, {"date": "2021-02-13", "rank": 85}, {"date": "2021-02-20", "rank": 93}, {"date": "2021-02-27", "rank": 105}, {"date": "2021-03-06", "rank": 133}, {"date": "2021-03-13", "rank": 173}, {"date": "2021-03-20", "rank": 200}]}
+{
+  "id": "wonder-shawn-mendes",
+  "title": "Wonder",
+  "artist": "Shawn Mendes",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2020-12-19",
+      "rank": 1
+    },
+    {
+      "date": "2020-12-26",
+      "rank": 25
+    },
+    {
+      "date": "2021-01-02",
+      "rank": 35
+    },
+    {
+      "date": "2021-01-09",
+      "rank": 35
+    },
+    {
+      "date": "2021-01-16",
+      "rank": 30
+    },
+    {
+      "date": "2021-01-23",
+      "rank": 41
+    },
+    {
+      "date": "2021-01-30",
+      "rank": 57
+    },
+    {
+      "date": "2021-02-06",
+      "rank": 65
+    },
+    {
+      "date": "2021-02-13",
+      "rank": 85
+    },
+    {
+      "date": "2021-02-20",
+      "rank": 93
+    },
+    {
+      "date": "2021-02-27",
+      "rank": 105
+    },
+    {
+      "date": "2021-03-06",
+      "rank": 133
+    },
+    {
+      "date": "2021-03-13",
+      "rank": 173
+    },
+    {
+      "date": "2021-03-20",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wonder",
+      "id": "wonder-shawn-mendes"
+    },
+    {
+      "title": "Monster",
+      "id": "wonder-shawn-mendes"
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Higher",
+      "id": null
+    },
+    {
+      "title": "24 Hours",
+      "id": null
+    },
+    {
+      "title": "Teach Me How to Love",
+      "id": null
+    },
+    {
+      "title": "Call My Friends",
+      "id": null
+    },
+    {
+      "title": "Dream",
+      "id": null
+    },
+    {
+      "title": "Song for No One",
+      "id": null
+    },
+    {
+      "title": "305",
+      "id": null
+    },
+    {
+      "title": "Always Been You",
+      "id": null
+    },
+    {
+      "title": "Piece of You",
+      "id": null
+    },
+    {
+      "title": "Look Up at the Stars",
+      "id": null
+    },
+    {
+      "title": "Can’t Imagine",
+      "id": null
+    },
+    {
+      "title": "The Christmas Song",
+      "id": null
+    },
+    {
+      "title": "Can’t Take My Eyes Off You",
+      "id": null
+    },
+    {
+      "title": "Wonder (acoustic)",
+      "id": null
+    },
+    {
+      "title": "Wonder (Surf Mesa remix)",
+      "id": null
+    }
+  ]
+}

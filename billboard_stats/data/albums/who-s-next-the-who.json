@@ -1,1 +1,58 @@
-{"id": "who-s-next-the-who", "title": "Who's Next", "artist": "The Who", "peak": 87, "history": [{"date": "1972-05-20", "rank": 168}, {"date": "2014-02-15", "rank": 163}, {"date": "2023-09-30", "rank": 87}]}
+{
+  "id": "who-s-next-the-who",
+  "title": "Who's Next",
+  "artist": "The Who",
+  "peak": 87,
+  "history": [
+    {
+      "date": "1972-05-20",
+      "rank": 168
+    },
+    {
+      "date": "2014-02-15",
+      "rank": 163
+    },
+    {
+      "date": "2023-09-30",
+      "rank": 87
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Ain’t for Keeping",
+      "id": "love-reign-o-er-me-the-who"
+    },
+    {
+      "title": "Behind Blue Eyes",
+      "id": "behind-blue-eyes-the-who"
+    },
+    {
+      "title": "Won’t Get Fooled Again",
+      "id": "won-t-get-fooled-again-the-who"
+    },
+    {
+      "title": "Baba O’Riley",
+      "id": null
+    },
+    {
+      "title": "Bargain",
+      "id": null
+    },
+    {
+      "title": "My Wife",
+      "id": null
+    },
+    {
+      "title": "The Song Is Over",
+      "id": null
+    },
+    {
+      "title": "Getting in Tune",
+      "id": null
+    },
+    {
+      "title": "Going Mobile",
+      "id": null
+    }
+  ]
+}

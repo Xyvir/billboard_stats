@@ -1,1 +1,66 @@
-{"id": "wings-mark-chesnutt", "title": "Wings", "artist": "Mark Chesnutt", "peak": 116, "history": [{"date": "1995-10-21", "rank": 135}, {"date": "1995-10-28", "rank": 116}, {"date": "1995-11-04", "rank": 144}, {"date": "1995-11-11", "rank": 169}]}
+{
+  "id": "wings-mark-chesnutt",
+  "title": "Wings",
+  "artist": "Mark Chesnutt",
+  "peak": 116,
+  "history": [
+    {
+      "date": "1995-10-21",
+      "rank": 135
+    },
+    {
+      "date": "1995-10-28",
+      "rank": 116
+    },
+    {
+      "date": "1995-11-04",
+      "rank": 144
+    },
+    {
+      "date": "1995-11-11",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "As the Honky Tonk Turns",
+      "id": null
+    },
+    {
+      "title": "The King of Broken Hearts",
+      "id": null
+    },
+    {
+      "title": "Trouble",
+      "id": null
+    },
+    {
+      "title": "(I Think) I’ve Finally Broken Mine",
+      "id": null
+    },
+    {
+      "title": "Wrong Place, Wrong Time",
+      "id": null
+    },
+    {
+      "title": "I May Be a Fool",
+      "id": null
+    },
+    {
+      "title": "It Wouldn’t Hurt to Have Wings",
+      "id": null
+    },
+    {
+      "title": "Pride’s Not Hard to Swallow",
+      "id": null
+    },
+    {
+      "title": "Settlin’ for What They Get",
+      "id": null
+    },
+    {
+      "title": "Strangers",
+      "id": null
+    }
+  ]
+}

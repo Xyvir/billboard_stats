@@ -1,1 +1,74 @@
-{"id": "who-else-jeff-beck", "title": "Who Else!", "artist": "Jeff Beck", "peak": 99, "history": [{"date": "1999-04-03", "rank": 99}, {"date": "1999-04-10", "rank": 130}, {"date": "1999-04-17", "rank": 172}, {"date": "1999-04-24", "rank": 176}, {"date": "1999-05-01", "rank": 186}]}
+{
+  "id": "who-else-jeff-beck",
+  "title": "Who Else!",
+  "artist": "Jeff Beck",
+  "peak": 99,
+  "history": [
+    {
+      "date": "1999-04-03",
+      "rank": 99
+    },
+    {
+      "date": "1999-04-10",
+      "rank": 130
+    },
+    {
+      "date": "1999-04-17",
+      "rank": 172
+    },
+    {
+      "date": "1999-04-24",
+      "rank": 176
+    },
+    {
+      "date": "1999-05-01",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What Mama Said",
+      "id": null
+    },
+    {
+      "title": "Psycho Sam",
+      "id": null
+    },
+    {
+      "title": "Brush With the Blues",
+      "id": null
+    },
+    {
+      "title": "Blast From the East",
+      "id": null
+    },
+    {
+      "title": "Space for the Papa",
+      "id": null
+    },
+    {
+      "title": "Angel (Footsteps)",
+      "id": null
+    },
+    {
+      "title": "THX138",
+      "id": null
+    },
+    {
+      "title": "Hip-Notica",
+      "id": null
+    },
+    {
+      "title": "Even Odds",
+      "id": null
+    },
+    {
+      "title": "Declan",
+      "id": null
+    },
+    {
+      "title": "Another Place",
+      "id": null
+    }
+  ]
+}

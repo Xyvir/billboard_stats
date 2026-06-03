@@ -1,1 +1,66 @@
-{"id": "walking-wild-new-england", "title": "Walking Wild", "artist": "New England", "peak": 176, "history": [{"date": "1981-07-18", "rank": 190}, {"date": "1981-07-25", "rank": 188}, {"date": "1981-08-01", "rank": 176}, {"date": "1981-08-08", "rank": 176}]}
+{
+  "id": "walking-wild-new-england",
+  "title": "Walking Wild",
+  "artist": "New England",
+  "peak": 176,
+  "history": [
+    {
+      "date": "1981-07-18",
+      "rank": 190
+    },
+    {
+      "date": "1981-07-25",
+      "rank": 188
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 176
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don't Ever Let Me Go",
+      "id": "don-t-ever-wanna-lose-ya-new-england"
+    },
+    {
+      "title": "Walking Wild",
+      "id": null
+    },
+    {
+      "title": "Holdin' Out on Me",
+      "id": null
+    },
+    {
+      "title": "Love's Up in the Air",
+      "id": null
+    },
+    {
+      "title": "DDT",
+      "id": null
+    },
+    {
+      "title": "Get It Up",
+      "id": null
+    },
+    {
+      "title": "L5",
+      "id": null
+    },
+    {
+      "title": "She's Gonna Tear You Apart",
+      "id": null
+    },
+    {
+      "title": "Elevator",
+      "id": null
+    },
+    {
+      "title": "You're There",
+      "id": null
+    }
+  ]
+}

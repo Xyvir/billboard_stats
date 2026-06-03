@@ -1,1 +1,66 @@
-{"id": "whiskey-on-a-sunday-flogging-molly", "title": "Whiskey On A Sunday", "artist": "Flogging Molly", "peak": 67, "history": [{"date": "2006-08-12", "rank": 67}, {"date": "2006-08-19", "rank": 122}, {"date": "2006-08-26", "rank": 167}, {"date": "2006-09-02", "rank": 199}]}
+{
+  "id": "whiskey-on-a-sunday-flogging-molly",
+  "title": "Whiskey On A Sunday",
+  "artist": "Flogging Molly",
+  "peak": 67,
+  "history": [
+    {
+      "date": "2006-08-12",
+      "rank": 67
+    },
+    {
+      "date": "2006-08-19",
+      "rank": 122
+    },
+    {
+      "date": "2006-08-26",
+      "rank": 167
+    },
+    {
+      "date": "2006-09-02",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Laura",
+      "id": null
+    },
+    {
+      "title": "Drunken Lullabies (acoustic)",
+      "id": null
+    },
+    {
+      "title": "The Wanderlust (acoustic)",
+      "id": null
+    },
+    {
+      "title": "Another Bag of Bricks (acoustic)",
+      "id": null
+    },
+    {
+      "title": "Tomorrow Comes a Day Too Soon (acoustic)",
+      "id": null
+    },
+    {
+      "title": "The Likes of You Again",
+      "id": null
+    },
+    {
+      "title": "Swagger",
+      "id": null
+    },
+    {
+      "title": "Black Friday Rule",
+      "id": null
+    },
+    {
+      "title": "Within a Mile of Home",
+      "id": null
+    },
+    {
+      "title": "What’s Left of the Flag",
+      "id": null
+    }
+  ]
+}

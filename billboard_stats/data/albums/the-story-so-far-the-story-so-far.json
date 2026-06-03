@@ -1,1 +1,58 @@
-{"id": "the-story-so-far-the-story-so-far", "title": "The Story So Far", "artist": "The Story So Far", "peak": 23, "history": [{"date": "2015-06-06", "rank": 23}, {"date": "2015-06-13", "rank": 137}]}
+{
+  "id": "the-story-so-far-the-story-so-far",
+  "title": "The Story So Far",
+  "artist": "The Story So Far",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2015-06-06",
+      "rank": 23
+    },
+    {
+      "date": "2015-06-13",
+      "rank": 137
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Smile",
+      "id": null
+    },
+    {
+      "title": "Heavy Gloom",
+      "id": null
+    },
+    {
+      "title": "Distaste",
+      "id": null
+    },
+    {
+      "title": "Solo",
+      "id": null
+    },
+    {
+      "title": "Mock",
+      "id": null
+    },
+    {
+      "title": "How You Are",
+      "id": null
+    },
+    {
+      "title": "Nerve",
+      "id": null
+    },
+    {
+      "title": "Phantom",
+      "id": null
+    },
+    {
+      "title": "Scowl",
+      "id": null
+    },
+    {
+      "title": "Stalemate",
+      "id": null
+    }
+  ]
+}

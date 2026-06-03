@@ -1,1 +1,274 @@
-{"id": "who-is-mike-jones-mike-jones", "title": "Who Is Mike Jones?", "artist": "Mike Jones", "peak": 3, "history": [{"date": "2005-05-07", "rank": 3}, {"date": "2005-05-14", "rank": 8}, {"date": "2005-05-21", "rank": 10}, {"date": "2005-05-28", "rank": 9}, {"date": "2005-06-04", "rank": 18}, {"date": "2005-06-11", "rank": 24}, {"date": "2005-06-18", "rank": 16}, {"date": "2005-06-25", "rank": 21}, {"date": "2005-07-02", "rank": 21}, {"date": "2005-07-09", "rank": 20}, {"date": "2005-07-16", "rank": 20}, {"date": "2005-07-23", "rank": 12}, {"date": "2005-07-30", "rank": 15}, {"date": "2005-08-06", "rank": 17}, {"date": "2005-08-13", "rank": 18}, {"date": "2005-08-20", "rank": 17}, {"date": "2005-08-27", "rank": 20}, {"date": "2005-09-03", "rank": 23}, {"date": "2005-09-10", "rank": 25}, {"date": "2005-09-17", "rank": 33}, {"date": "2005-09-24", "rank": 30}, {"date": "2005-10-01", "rank": 48}, {"date": "2005-10-08", "rank": 59}, {"date": "2005-10-15", "rank": 69}, {"date": "2005-10-22", "rank": 96}, {"date": "2005-10-29", "rank": 92}, {"date": "2005-11-05", "rank": 95}, {"date": "2005-11-12", "rank": 110}, {"date": "2005-11-19", "rank": 116}, {"date": "2005-11-26", "rank": 134}, {"date": "2005-12-03", "rank": 158}, {"date": "2005-12-10", "rank": 180}, {"date": "2005-12-17", "rank": 191}, {"date": "2005-12-24", "rank": 198}, {"date": "2006-01-07", "rank": 196}, {"date": "2006-01-14", "rank": 138}, {"date": "2006-01-21", "rank": 177}, {"date": "2006-02-04", "rank": 200}]}
+{
+  "id": "who-is-mike-jones-mike-jones",
+  "title": "Who Is Mike Jones?",
+  "artist": "Mike Jones",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2005-05-07",
+      "rank": 3
+    },
+    {
+      "date": "2005-05-14",
+      "rank": 8
+    },
+    {
+      "date": "2005-05-21",
+      "rank": 10
+    },
+    {
+      "date": "2005-05-28",
+      "rank": 9
+    },
+    {
+      "date": "2005-06-04",
+      "rank": 18
+    },
+    {
+      "date": "2005-06-11",
+      "rank": 24
+    },
+    {
+      "date": "2005-06-18",
+      "rank": 16
+    },
+    {
+      "date": "2005-06-25",
+      "rank": 21
+    },
+    {
+      "date": "2005-07-02",
+      "rank": 21
+    },
+    {
+      "date": "2005-07-09",
+      "rank": 20
+    },
+    {
+      "date": "2005-07-16",
+      "rank": 20
+    },
+    {
+      "date": "2005-07-23",
+      "rank": 12
+    },
+    {
+      "date": "2005-07-30",
+      "rank": 15
+    },
+    {
+      "date": "2005-08-06",
+      "rank": 17
+    },
+    {
+      "date": "2005-08-13",
+      "rank": 18
+    },
+    {
+      "date": "2005-08-20",
+      "rank": 17
+    },
+    {
+      "date": "2005-08-27",
+      "rank": 20
+    },
+    {
+      "date": "2005-09-03",
+      "rank": 23
+    },
+    {
+      "date": "2005-09-10",
+      "rank": 25
+    },
+    {
+      "date": "2005-09-17",
+      "rank": 33
+    },
+    {
+      "date": "2005-09-24",
+      "rank": 30
+    },
+    {
+      "date": "2005-10-01",
+      "rank": 48
+    },
+    {
+      "date": "2005-10-08",
+      "rank": 59
+    },
+    {
+      "date": "2005-10-15",
+      "rank": 69
+    },
+    {
+      "date": "2005-10-22",
+      "rank": 96
+    },
+    {
+      "date": "2005-10-29",
+      "rank": 92
+    },
+    {
+      "date": "2005-11-05",
+      "rank": 95
+    },
+    {
+      "date": "2005-11-12",
+      "rank": 110
+    },
+    {
+      "date": "2005-11-19",
+      "rank": 116
+    },
+    {
+      "date": "2005-11-26",
+      "rank": 134
+    },
+    {
+      "date": "2005-12-03",
+      "rank": 158
+    },
+    {
+      "date": "2005-12-10",
+      "rank": 180
+    },
+    {
+      "date": "2005-12-17",
+      "rank": 191
+    },
+    {
+      "date": "2005-12-24",
+      "rank": 198
+    },
+    {
+      "date": "2006-01-07",
+      "rank": 196
+    },
+    {
+      "date": "2006-01-14",
+      "rank": 138
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 177
+    },
+    {
+      "date": "2006-02-04",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Back Then",
+      "id": "back-then-mike-jones"
+    },
+    {
+      "title": "Intro",
+      "id": null
+    },
+    {
+      "title": "Flossin’",
+      "id": null
+    },
+    {
+      "title": "Still Tippin’",
+      "id": null
+    },
+    {
+      "title": "Got It Sewed Up (remix)",
+      "id": null
+    },
+    {
+      "title": "Scandalous Hoes",
+      "id": null
+    },
+    {
+      "title": "Screw Dat",
+      "id": null
+    },
+    {
+      "title": "Turning Lane",
+      "id": null
+    },
+    {
+      "title": "Laws Patrolling",
+      "id": null
+    },
+    {
+      "title": "5 Years From Now",
+      "id": null
+    },
+    {
+      "title": "Cuttin’ (remix)",
+      "id": null
+    },
+    {
+      "title": "What Ya Know About…",
+      "id": null
+    },
+    {
+      "title": "Know What I’m Sayin’",
+      "id": null
+    },
+    {
+      "title": "Type of Nigga U Need",
+      "id": null
+    },
+    {
+      "title": "Grandma",
+      "id": null
+    },
+    {
+      "title": "Got It Sewed Up (remix) (Screwed & Chopped)",
+      "id": null
+    },
+    {
+      "title": "Screw Dat (Screwed & Chopped)",
+      "id": null
+    },
+    {
+      "title": "Cuttin’ (remix) (Screwed & Chopped)",
+      "id": null
+    },
+    {
+      "title": "Still Tippin’ (Screwed & Chopped)",
+      "id": null
+    },
+    {
+      "title": "Back Then (Screwed & Chopped)",
+      "id": null
+    },
+    {
+      "title": "Know What I’m Sayin’ (Screwed & Chopped)",
+      "id": null
+    },
+    {
+      "title": "Law Patrolling (Screwed & Chopped)",
+      "id": null
+    },
+    {
+      "title": "Turning Lanes (Screwed & Chopped)",
+      "id": null
+    },
+    {
+      "title": "Grandma (Screwed & Chopped)",
+      "id": null
+    },
+    {
+      "title": "Flossin’ (Screwed & Chopped)",
+      "id": null
+    },
+    {
+      "title": "Scandalous Hoes (Screwed & Chopped)",
+      "id": null
+    },
+    {
+      "title": "What Ya Know About (Screwed & Chopped)",
+      "id": null
+    },
+    {
+      "title": "5 Years From Now (Screwed & Chopped)",
+      "id": null
+    }
+  ]
+}

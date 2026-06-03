@@ -1,1 +1,126 @@
-{"id": "windows-the-charlie-daniels-band", "title": "Windows", "artist": "The Charlie Daniels Band", "peak": 26, "history": [{"date": "1982-04-03", "rank": 66}, {"date": "1982-04-10", "rank": 54}, {"date": "1982-04-17", "rank": 43}, {"date": "1982-04-24", "rank": 36}, {"date": "1982-05-01", "rank": 32}, {"date": "1982-05-08", "rank": 28}, {"date": "1982-05-15", "rank": 26}, {"date": "1982-05-22", "rank": 26}, {"date": "1982-05-29", "rank": 26}, {"date": "1982-06-05", "rank": 66}, {"date": "1982-06-12", "rank": 102}, {"date": "1982-06-19", "rank": 103}, {"date": "1982-06-26", "rank": 100}, {"date": "1982-07-03", "rank": 99}, {"date": "1982-07-10", "rank": 132}, {"date": "1982-07-17", "rank": 148}, {"date": "1982-07-24", "rank": 169}, {"date": "1982-07-31", "rank": 178}, {"date": "1982-08-07", "rank": 195}]}
+{
+  "id": "windows-the-charlie-daniels-band",
+  "title": "Windows",
+  "artist": "The Charlie Daniels Band",
+  "peak": 26,
+  "history": [
+    {
+      "date": "1982-04-03",
+      "rank": 66
+    },
+    {
+      "date": "1982-04-10",
+      "rank": 54
+    },
+    {
+      "date": "1982-04-17",
+      "rank": 43
+    },
+    {
+      "date": "1982-04-24",
+      "rank": 36
+    },
+    {
+      "date": "1982-05-01",
+      "rank": 32
+    },
+    {
+      "date": "1982-05-08",
+      "rank": 28
+    },
+    {
+      "date": "1982-05-15",
+      "rank": 26
+    },
+    {
+      "date": "1982-05-22",
+      "rank": 26
+    },
+    {
+      "date": "1982-05-29",
+      "rank": 26
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 66
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 102
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 103
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 100
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 99
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 132
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 148
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 169
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 178
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Still in Saigon",
+      "id": "still-in-saigon-the-charlie-daniels-band"
+    },
+    {
+      "title": "Ain’t No Ramblers Anymore",
+      "id": null
+    },
+    {
+      "title": "The Lady in Red",
+      "id": null
+    },
+    {
+      "title": "We Had It All One Time",
+      "id": null
+    },
+    {
+      "title": "Partyin’ Gal",
+      "id": null
+    },
+    {
+      "title": "Ragin’ Cajun",
+      "id": null
+    },
+    {
+      "title": "Makes You Want to Go Home",
+      "id": null
+    },
+    {
+      "title": "Blowing Along With the Wind",
+      "id": null
+    },
+    {
+      "title": "Nashville Moon",
+      "id": null
+    },
+    {
+      "title": "The Universal Hand",
+      "id": null
+    }
+  ]
+}

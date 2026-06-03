@@ -1,1 +1,226 @@
-{"id": "the-way-i-see-it-raphael-saadiq", "title": "The Way I See It", "artist": "Raphael Saadiq", "peak": 19, "history": [{"date": "2008-10-04", "rank": 19}, {"date": "2008-10-11", "rank": 41}, {"date": "2008-10-18", "rank": 66}, {"date": "2008-10-25", "rank": 79}, {"date": "2008-11-01", "rank": 89}, {"date": "2008-11-08", "rank": 97}, {"date": "2008-11-15", "rank": 103}, {"date": "2008-11-22", "rank": 118}, {"date": "2008-11-29", "rank": 168}, {"date": "2008-12-06", "rank": 190}, {"date": "2009-01-17", "rank": 167}, {"date": "2009-01-24", "rank": 148}, {"date": "2009-01-31", "rank": 141}, {"date": "2009-02-07", "rank": 185}, {"date": "2009-02-14", "rank": 196}, {"date": "2009-02-21", "rank": 183}, {"date": "2009-02-28", "rank": 121}, {"date": "2009-03-07", "rank": 161}, {"date": "2009-03-14", "rank": 145}, {"date": "2009-03-21", "rank": 153}, {"date": "2009-03-28", "rank": 143}, {"date": "2009-04-04", "rank": 165}, {"date": "2009-04-11", "rank": 110}, {"date": "2009-04-18", "rank": 149}, {"date": "2009-04-25", "rank": 183}, {"date": "2009-05-02", "rank": 142}, {"date": "2009-05-09", "rank": 152}, {"date": "2009-05-16", "rank": 142}, {"date": "2009-05-23", "rank": 155}, {"date": "2009-05-30", "rank": 127}, {"date": "2009-06-06", "rank": 152}, {"date": "2009-06-13", "rank": 153}, {"date": "2009-06-20", "rank": 161}, {"date": "2009-06-27", "rank": 147}, {"date": "2009-07-04", "rank": 121}, {"date": "2009-07-11", "rank": 158}, {"date": "2009-07-18", "rank": 181}, {"date": "2009-07-25", "rank": 169}, {"date": "2009-08-08", "rank": 101}, {"date": "2009-08-15", "rank": 141}, {"date": "2009-08-22", "rank": 173}]}
+{
+  "id": "the-way-i-see-it-raphael-saadiq",
+  "title": "The Way I See It",
+  "artist": "Raphael Saadiq",
+  "peak": 19,
+  "history": [
+    {
+      "date": "2008-10-04",
+      "rank": 19
+    },
+    {
+      "date": "2008-10-11",
+      "rank": 41
+    },
+    {
+      "date": "2008-10-18",
+      "rank": 66
+    },
+    {
+      "date": "2008-10-25",
+      "rank": 79
+    },
+    {
+      "date": "2008-11-01",
+      "rank": 89
+    },
+    {
+      "date": "2008-11-08",
+      "rank": 97
+    },
+    {
+      "date": "2008-11-15",
+      "rank": 103
+    },
+    {
+      "date": "2008-11-22",
+      "rank": 118
+    },
+    {
+      "date": "2008-11-29",
+      "rank": 168
+    },
+    {
+      "date": "2008-12-06",
+      "rank": 190
+    },
+    {
+      "date": "2009-01-17",
+      "rank": 167
+    },
+    {
+      "date": "2009-01-24",
+      "rank": 148
+    },
+    {
+      "date": "2009-01-31",
+      "rank": 141
+    },
+    {
+      "date": "2009-02-07",
+      "rank": 185
+    },
+    {
+      "date": "2009-02-14",
+      "rank": 196
+    },
+    {
+      "date": "2009-02-21",
+      "rank": 183
+    },
+    {
+      "date": "2009-02-28",
+      "rank": 121
+    },
+    {
+      "date": "2009-03-07",
+      "rank": 161
+    },
+    {
+      "date": "2009-03-14",
+      "rank": 145
+    },
+    {
+      "date": "2009-03-21",
+      "rank": 153
+    },
+    {
+      "date": "2009-03-28",
+      "rank": 143
+    },
+    {
+      "date": "2009-04-04",
+      "rank": 165
+    },
+    {
+      "date": "2009-04-11",
+      "rank": 110
+    },
+    {
+      "date": "2009-04-18",
+      "rank": 149
+    },
+    {
+      "date": "2009-04-25",
+      "rank": 183
+    },
+    {
+      "date": "2009-05-02",
+      "rank": 142
+    },
+    {
+      "date": "2009-05-09",
+      "rank": 152
+    },
+    {
+      "date": "2009-05-16",
+      "rank": 142
+    },
+    {
+      "date": "2009-05-23",
+      "rank": 155
+    },
+    {
+      "date": "2009-05-30",
+      "rank": 127
+    },
+    {
+      "date": "2009-06-06",
+      "rank": 152
+    },
+    {
+      "date": "2009-06-13",
+      "rank": 153
+    },
+    {
+      "date": "2009-06-20",
+      "rank": 161
+    },
+    {
+      "date": "2009-06-27",
+      "rank": 147
+    },
+    {
+      "date": "2009-07-04",
+      "rank": 121
+    },
+    {
+      "date": "2009-07-11",
+      "rank": 158
+    },
+    {
+      "date": "2009-07-18",
+      "rank": 181
+    },
+    {
+      "date": "2009-07-25",
+      "rank": 169
+    },
+    {
+      "date": "2009-08-08",
+      "rank": 101
+    },
+    {
+      "date": "2009-08-15",
+      "rank": 141
+    },
+    {
+      "date": "2009-08-22",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Sure Hope You Mean It",
+      "id": null
+    },
+    {
+      "title": "100 Yard Dash",
+      "id": null
+    },
+    {
+      "title": "Keep Marchin’",
+      "id": null
+    },
+    {
+      "title": "Big Easy",
+      "id": null
+    },
+    {
+      "title": "Just One Kiss",
+      "id": null
+    },
+    {
+      "title": "Love That Girl",
+      "id": null
+    },
+    {
+      "title": "Calling",
+      "id": null
+    },
+    {
+      "title": "Staying in Love",
+      "id": null
+    },
+    {
+      "title": "Oh Girl",
+      "id": null
+    },
+    {
+      "title": "Let’s Take a Walk",
+      "id": null
+    },
+    {
+      "title": "Never Give You Up",
+      "id": null
+    },
+    {
+      "title": "Sometimes",
+      "id": null
+    },
+    {
+      "title": "Oh Girl (remix)",
+      "id": null
+    }
+  ]
+}

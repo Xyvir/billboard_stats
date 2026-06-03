@@ -1,1 +1,90 @@
-{"id": "turnstiles-billy-joel", "title": "Turnstiles", "artist": "Billy Joel", "peak": 122, "history": [{"date": "1976-06-05", "rank": 152}, {"date": "1976-06-12", "rank": 139}, {"date": "1976-06-19", "rank": 129}, {"date": "1976-06-26", "rank": 127}, {"date": "1976-07-03", "rank": 122}, {"date": "1976-07-10", "rank": 122}, {"date": "1976-07-17", "rank": 132}, {"date": "1976-07-24", "rank": 130}, {"date": "1976-07-31", "rank": 150}, {"date": "1976-08-07", "rank": 152}, {"date": "1976-08-14", "rank": 182}, {"date": "1976-08-21", "rank": 180}]}
+{
+  "id": "turnstiles-billy-joel",
+  "title": "Turnstiles",
+  "artist": "Billy Joel",
+  "peak": 122,
+  "history": [
+    {
+      "date": "1976-06-05",
+      "rank": 152
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 139
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 129
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 127
+    },
+    {
+      "date": "1976-07-03",
+      "rank": 122
+    },
+    {
+      "date": "1976-07-10",
+      "rank": 122
+    },
+    {
+      "date": "1976-07-17",
+      "rank": 132
+    },
+    {
+      "date": "1976-07-24",
+      "rank": 130
+    },
+    {
+      "date": "1976-07-31",
+      "rank": 150
+    },
+    {
+      "date": "1976-08-07",
+      "rank": 152
+    },
+    {
+      "date": "1976-08-14",
+      "rank": 182
+    },
+    {
+      "date": "1976-08-21",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Say Goodbye to Hollywood",
+      "id": "say-goodbye-to-hollywood-billy-joel"
+    },
+    {
+      "title": "Summer, Highland Falls",
+      "id": null
+    },
+    {
+      "title": "All You Wanna Do Is Dance",
+      "id": null
+    },
+    {
+      "title": "New York State of Mind",
+      "id": null
+    },
+    {
+      "title": "James",
+      "id": null
+    },
+    {
+      "title": "Prelude/Angry Young Man",
+      "id": null
+    },
+    {
+      "title": "I’ve Loved These Days",
+      "id": null
+    },
+    {
+      "title": "Miami 2017 (Seen the Lights Go Out on Broadway)",
+      "id": null
+    }
+  ]
+}

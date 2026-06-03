@@ -1,1 +1,142 @@
-{"id": "welcome-taproot", "title": "Welcome", "artist": "Taproot", "peak": 17, "history": [{"date": "2002-11-02", "rank": 17}, {"date": "2002-11-09", "rank": 38}, {"date": "2002-11-16", "rank": 53}, {"date": "2002-11-23", "rank": 74}, {"date": "2002-11-30", "rank": 85}, {"date": "2002-12-07", "rank": 104}, {"date": "2002-12-14", "rank": 122}, {"date": "2002-12-21", "rank": 140}, {"date": "2002-12-28", "rank": 150}, {"date": "2003-01-04", "rank": 141}, {"date": "2003-01-11", "rank": 112}, {"date": "2003-01-18", "rank": 108}, {"date": "2003-01-25", "rank": 112}, {"date": "2003-02-01", "rank": 137}, {"date": "2003-02-08", "rank": 143}, {"date": "2003-02-15", "rank": 149}, {"date": "2003-02-22", "rank": 157}, {"date": "2003-03-01", "rank": 179}, {"date": "2003-03-08", "rank": 164}, {"date": "2003-03-15", "rank": 178}, {"date": "2003-03-22", "rank": 195}]}
+{
+  "id": "welcome-taproot",
+  "title": "Welcome",
+  "artist": "Taproot",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2002-11-02",
+      "rank": 17
+    },
+    {
+      "date": "2002-11-09",
+      "rank": 38
+    },
+    {
+      "date": "2002-11-16",
+      "rank": 53
+    },
+    {
+      "date": "2002-11-23",
+      "rank": 74
+    },
+    {
+      "date": "2002-11-30",
+      "rank": 85
+    },
+    {
+      "date": "2002-12-07",
+      "rank": 104
+    },
+    {
+      "date": "2002-12-14",
+      "rank": 122
+    },
+    {
+      "date": "2002-12-21",
+      "rank": 140
+    },
+    {
+      "date": "2002-12-28",
+      "rank": 150
+    },
+    {
+      "date": "2003-01-04",
+      "rank": 141
+    },
+    {
+      "date": "2003-01-11",
+      "rank": 112
+    },
+    {
+      "date": "2003-01-18",
+      "rank": 108
+    },
+    {
+      "date": "2003-01-25",
+      "rank": 112
+    },
+    {
+      "date": "2003-02-01",
+      "rank": 137
+    },
+    {
+      "date": "2003-02-08",
+      "rank": 143
+    },
+    {
+      "date": "2003-02-15",
+      "rank": 149
+    },
+    {
+      "date": "2003-02-22",
+      "rank": 157
+    },
+    {
+      "date": "2003-03-01",
+      "rank": 179
+    },
+    {
+      "date": "2003-03-08",
+      "rank": 164
+    },
+    {
+      "date": "2003-03-15",
+      "rank": 178
+    },
+    {
+      "date": "2003-03-22",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mine",
+      "id": null
+    },
+    {
+      "title": "Poem",
+      "id": null
+    },
+    {
+      "title": "Everything",
+      "id": null
+    },
+    {
+      "title": "Art",
+      "id": null
+    },
+    {
+      "title": "Myself",
+      "id": null
+    },
+    {
+      "title": "When",
+      "id": null
+    },
+    {
+      "title": "Fault",
+      "id": null
+    },
+    {
+      "title": "Sumtimes",
+      "id": null
+    },
+    {
+      "title": "Breathe",
+      "id": null
+    },
+    {
+      "title": "Like",
+      "id": null
+    },
+    {
+      "title": "Dreams",
+      "id": null
+    },
+    {
+      "title": "Time",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"id": "welcome-to-jfk-chinx", "title": "Welcome To JFK", "artist": "Chinx", "peak": 21, "history": [{"date": "2015-09-05", "rank": 21}, {"date": "2015-09-12", "rank": 180}]}
+{
+  "id": "welcome-to-jfk-chinx",
+  "title": "Welcome To JFK",
+  "artist": "Chinx",
+  "peak": 21,
+  "history": [
+    {
+      "date": "2015-09-05",
+      "rank": 21
+    },
+    {
+      "date": "2015-09-12",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Experimental",
+      "id": null
+    },
+    {
+      "title": "Far Rock",
+      "id": null
+    },
+    {
+      "title": "Go Get It",
+      "id": null
+    },
+    {
+      "title": "The Other Side",
+      "id": null
+    },
+    {
+      "title": "Yay",
+      "id": null
+    },
+    {
+      "title": "Thug Love",
+      "id": null
+    },
+    {
+      "title": "How to Get Rich",
+      "id": null
+    },
+    {
+      "title": "On Your Body",
+      "id": null
+    },
+    {
+      "title": "Don't Mind Me",
+      "id": null
+    },
+    {
+      "title": "Pray",
+      "id": null
+    },
+    {
+      "title": "Hey Fool",
+      "id": null
+    },
+    {
+      "title": "Die Young",
+      "id": null
+    }
+  ]
+}

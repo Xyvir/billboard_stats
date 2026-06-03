@@ -1,1 +1,70 @@
-{"id": "you-and-i-teddy-pendergrass", "title": "You And I", "artist": "Teddy Pendergrass", "peak": 137, "history": [{"date": "1997-05-03", "rank": 153}, {"date": "1997-05-10", "rank": 165}, {"date": "1997-05-17", "rank": 137}, {"date": "1997-05-24", "rank": 158}, {"date": "1997-05-31", "rank": 180}]}
+{
+  "id": "you-and-i-teddy-pendergrass",
+  "title": "You And I",
+  "artist": "Teddy Pendergrass",
+  "peak": 137,
+  "history": [
+    {
+      "date": "1997-05-03",
+      "rank": 153
+    },
+    {
+      "date": "1997-05-10",
+      "rank": 165
+    },
+    {
+      "date": "1997-05-17",
+      "rank": 137
+    },
+    {
+      "date": "1997-05-24",
+      "rank": 158
+    },
+    {
+      "date": "1997-05-31",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Don't Keep Wastin' My Time",
+      "id": "don-t-keep-wasting-my-time-teddy-pendergrass"
+    },
+    {
+      "title": "Can We Try",
+      "id": "can-t-we-try-teddy-pendergrass"
+    },
+    {
+      "title": "Let's Talk About It",
+      "id": null
+    },
+    {
+      "title": "Without You",
+      "id": null
+    },
+    {
+      "title": "You and I",
+      "id": null
+    },
+    {
+      "title": "One in a Million You",
+      "id": null
+    },
+    {
+      "title": "Hurry Up",
+      "id": null
+    },
+    {
+      "title": "Interlude",
+      "id": null
+    },
+    {
+      "title": "Give It to Me",
+      "id": null
+    },
+    {
+      "title": "Slow Ride to Heaven",
+      "id": null
+    }
+  ]
+}

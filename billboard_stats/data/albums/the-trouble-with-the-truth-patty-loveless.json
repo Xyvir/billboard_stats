@@ -1,1 +1,222 @@
-{"id": "the-trouble-with-the-truth-patty-loveless", "title": "The Trouble With The Truth", "artist": "Patty Loveless", "peak": 86, "history": [{"date": "1996-02-10", "rank": 98}, {"date": "1996-02-17", "rank": 90}, {"date": "1996-02-24", "rank": 96}, {"date": "1996-03-02", "rank": 97}, {"date": "1996-03-09", "rank": 118}, {"date": "1996-03-16", "rank": 138}, {"date": "1996-03-23", "rank": 126}, {"date": "1996-03-30", "rank": 143}, {"date": "1996-04-06", "rank": 151}, {"date": "1996-04-13", "rank": 186}, {"date": "1996-04-20", "rank": 166}, {"date": "1996-05-11", "rank": 166}, {"date": "1996-05-18", "rank": 158}, {"date": "1996-05-25", "rank": 139}, {"date": "1996-06-01", "rank": 152}, {"date": "1996-06-08", "rank": 184}, {"date": "1996-06-15", "rank": 176}, {"date": "1996-09-28", "rank": 198}, {"date": "1996-10-05", "rank": 185}, {"date": "1996-10-12", "rank": 150}, {"date": "1996-10-19", "rank": 108}, {"date": "1996-10-26", "rank": 86}, {"date": "1996-11-02", "rank": 96}, {"date": "1996-11-09", "rank": 97}, {"date": "1996-11-16", "rank": 98}, {"date": "1996-11-23", "rank": 109}, {"date": "1996-11-30", "rank": 114}, {"date": "1996-12-07", "rank": 123}, {"date": "1996-12-14", "rank": 150}, {"date": "1996-12-21", "rank": 150}, {"date": "1996-12-28", "rank": 167}, {"date": "1997-01-04", "rank": 177}, {"date": "1997-01-11", "rank": 186}, {"date": "1997-01-18", "rank": 156}, {"date": "1997-01-25", "rank": 150}, {"date": "1997-02-01", "rank": 177}, {"date": "1997-02-08", "rank": 185}, {"date": "1997-02-15", "rank": 189}, {"date": "1997-02-22", "rank": 193}, {"date": "1997-03-01", "rank": 196}, {"date": "1997-03-08", "rank": 199}, {"date": "1997-03-15", "rank": 192}, {"date": "1997-03-22", "rank": 200}]}
+{
+  "id": "the-trouble-with-the-truth-patty-loveless",
+  "title": "The Trouble With The Truth",
+  "artist": "Patty Loveless",
+  "peak": 86,
+  "history": [
+    {
+      "date": "1996-02-10",
+      "rank": 98
+    },
+    {
+      "date": "1996-02-17",
+      "rank": 90
+    },
+    {
+      "date": "1996-02-24",
+      "rank": 96
+    },
+    {
+      "date": "1996-03-02",
+      "rank": 97
+    },
+    {
+      "date": "1996-03-09",
+      "rank": 118
+    },
+    {
+      "date": "1996-03-16",
+      "rank": 138
+    },
+    {
+      "date": "1996-03-23",
+      "rank": 126
+    },
+    {
+      "date": "1996-03-30",
+      "rank": 143
+    },
+    {
+      "date": "1996-04-06",
+      "rank": 151
+    },
+    {
+      "date": "1996-04-13",
+      "rank": 186
+    },
+    {
+      "date": "1996-04-20",
+      "rank": 166
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 166
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 158
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 139
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 152
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 184
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 176
+    },
+    {
+      "date": "1996-09-28",
+      "rank": 198
+    },
+    {
+      "date": "1996-10-05",
+      "rank": 185
+    },
+    {
+      "date": "1996-10-12",
+      "rank": 150
+    },
+    {
+      "date": "1996-10-19",
+      "rank": 108
+    },
+    {
+      "date": "1996-10-26",
+      "rank": 86
+    },
+    {
+      "date": "1996-11-02",
+      "rank": 96
+    },
+    {
+      "date": "1996-11-09",
+      "rank": 97
+    },
+    {
+      "date": "1996-11-16",
+      "rank": 98
+    },
+    {
+      "date": "1996-11-23",
+      "rank": 109
+    },
+    {
+      "date": "1996-11-30",
+      "rank": 114
+    },
+    {
+      "date": "1996-12-07",
+      "rank": 123
+    },
+    {
+      "date": "1996-12-14",
+      "rank": 150
+    },
+    {
+      "date": "1996-12-21",
+      "rank": 150
+    },
+    {
+      "date": "1996-12-28",
+      "rank": 167
+    },
+    {
+      "date": "1997-01-04",
+      "rank": 177
+    },
+    {
+      "date": "1997-01-11",
+      "rank": 186
+    },
+    {
+      "date": "1997-01-18",
+      "rank": 156
+    },
+    {
+      "date": "1997-01-25",
+      "rank": 150
+    },
+    {
+      "date": "1997-02-01",
+      "rank": 177
+    },
+    {
+      "date": "1997-02-08",
+      "rank": 185
+    },
+    {
+      "date": "1997-02-15",
+      "rank": 189
+    },
+    {
+      "date": "1997-02-22",
+      "rank": 193
+    },
+    {
+      "date": "1997-03-01",
+      "rank": 196
+    },
+    {
+      "date": "1997-03-08",
+      "rank": 199
+    },
+    {
+      "date": "1997-03-15",
+      "rank": 192
+    },
+    {
+      "date": "1997-03-22",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tear Stained Letter",
+      "id": null
+    },
+    {
+      "title": "The Trouble With the Truth",
+      "id": null
+    },
+    {
+      "title": "I Miss Who I Was (With You)",
+      "id": null
+    },
+    {
+      "title": "Everybody’s Equal in the Eyes of Love",
+      "id": null
+    },
+    {
+      "title": "Lonely Too Long",
+      "id": null
+    },
+    {
+      "title": "You Can Feel Bad",
+      "id": null
+    },
+    {
+      "title": "A Thousand Times a Day",
+      "id": null
+    },
+    {
+      "title": "She Drew a Broken Heart",
+      "id": null
+    },
+    {
+      "title": "To Feel That Way at All",
+      "id": null
+    },
+    {
+      "title": "Someday I Will Lead the Parade",
+      "id": null
+    }
+  ]
+}

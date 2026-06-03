@@ -1,1 +1,74 @@
-{"id": "the-waterfall-my-morning-jacket", "title": "The Waterfall", "artist": "My Morning Jacket", "peak": 11, "history": [{"date": "2015-05-23", "rank": 11}, {"date": "2015-05-30", "rank": 65}, {"date": "2015-06-06", "rank": 123}, {"date": "2015-06-13", "rank": 175}]}
+{
+  "id": "the-waterfall-my-morning-jacket",
+  "title": "The Waterfall",
+  "artist": "My Morning Jacket",
+  "peak": 11,
+  "history": [
+    {
+      "date": "2015-05-23",
+      "rank": 11
+    },
+    {
+      "date": "2015-05-30",
+      "rank": 65
+    },
+    {
+      "date": "2015-06-06",
+      "rank": 123
+    },
+    {
+      "date": "2015-06-13",
+      "rank": 175
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Believe (Nobody Knows)",
+      "id": null
+    },
+    {
+      "title": "Compound Fracture",
+      "id": null
+    },
+    {
+      "title": "Like a River",
+      "id": null
+    },
+    {
+      "title": "In Its Infancy (The Waterfall)",
+      "id": null
+    },
+    {
+      "title": "Get the Point",
+      "id": null
+    },
+    {
+      "title": "Spring (Among the Living)",
+      "id": null
+    },
+    {
+      "title": "Thin Line",
+      "id": null
+    },
+    {
+      "title": "Big Decisions",
+      "id": null
+    },
+    {
+      "title": "Tropics (Erase Traces)",
+      "id": null
+    },
+    {
+      "title": "Only Memories Remain",
+      "id": null
+    },
+    {
+      "title": "Hillside Song",
+      "id": null
+    },
+    {
+      "title": "I Can’t Wait",
+      "id": null
+    }
+  ]
+}

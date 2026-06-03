@@ -1,1 +1,78 @@
-{"id": "the-stripped-mixes-michael-jackson", "title": "The Stripped Mixes", "artist": "Michael Jackson", "peak": 57, "history": [{"date": "2009-07-25", "rank": 95}, {"date": "2009-08-15", "rank": 111}, {"date": "2009-08-22", "rank": 57}, {"date": "2009-08-29", "rank": 81}, {"date": "2009-09-05", "rank": 111}, {"date": "2009-09-19", "rank": 144}]}
+{
+  "id": "the-stripped-mixes-michael-jackson",
+  "title": "The Stripped Mixes",
+  "artist": "Michael Jackson",
+  "peak": 57,
+  "history": [
+    {
+      "date": "2009-07-25",
+      "rank": 95
+    },
+    {
+      "date": "2009-08-15",
+      "rank": 111
+    },
+    {
+      "date": "2009-08-22",
+      "rank": 57
+    },
+    {
+      "date": "2009-08-29",
+      "rank": 81
+    },
+    {
+      "date": "2009-09-05",
+      "rank": 111
+    },
+    {
+      "date": "2009-09-19",
+      "rank": 144
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’ll Be There",
+      "id": "will-you-be-there-michael-jackson"
+    },
+    {
+      "title": "Ben",
+      "id": "ben-michael-jackson"
+    },
+    {
+      "title": "With a Child’s Heart",
+      "id": "with-a-child-s-heart-michael-jackson"
+    },
+    {
+      "title": "Got to Be There",
+      "id": "got-to-be-there-michael-jackson"
+    },
+    {
+      "title": "Who’s Loving You",
+      "id": null
+    },
+    {
+      "title": "Ain’t No Sunshine",
+      "id": null
+    },
+    {
+      "title": "I Want You Back",
+      "id": null
+    },
+    {
+      "title": "ABC",
+      "id": null
+    },
+    {
+      "title": "We’ve Got a Good Thing Going",
+      "id": null
+    },
+    {
+      "title": "Darling Dear",
+      "id": null
+    },
+    {
+      "title": "Never Can Say Goodbye",
+      "id": null
+    }
+  ]
+}

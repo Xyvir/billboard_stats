@@ -1,1 +1,526 @@
-{"id": "toni-braxton-toni-braxton", "title": "Toni Braxton", "artist": "Toni Braxton", "peak": 1, "history": [{"date": "1993-07-31", "rank": 36}, {"date": "1993-08-07", "rank": 34}, {"date": "1993-08-14", "rank": 36}, {"date": "1993-08-21", "rank": 35}, {"date": "1993-08-28", "rank": 33}, {"date": "1993-09-04", "rank": 28}, {"date": "1993-09-11", "rank": 24}, {"date": "1993-09-18", "rank": 17}, {"date": "1993-09-25", "rank": 18}, {"date": "1993-10-02", "rank": 14}, {"date": "1993-10-09", "rank": 11}, {"date": "1993-10-16", "rank": 11}, {"date": "1993-10-23", "rank": 11}, {"date": "1993-10-30", "rank": 11}, {"date": "1993-11-06", "rank": 12}, {"date": "1993-11-13", "rank": 12}, {"date": "1993-11-20", "rank": 10}, {"date": "1993-11-27", "rank": 11}, {"date": "1993-12-04", "rank": 11}, {"date": "1993-12-11", "rank": 13}, {"date": "1993-12-18", "rank": 17}, {"date": "1993-12-25", "rank": 18}, {"date": "1994-01-01", "rank": 20}, {"date": "1994-01-08", "rank": 16}, {"date": "1994-01-15", "rank": 13}, {"date": "1994-01-22", "rank": 12}, {"date": "1994-01-29", "rank": 10}, {"date": "1994-02-05", "rank": 11}, {"date": "1994-02-12", "rank": 10}, {"date": "1994-02-19", "rank": 7}, {"date": "1994-02-26", "rank": 1}, {"date": "1994-03-05", "rank": 2}, {"date": "1994-03-12", "rank": 8}, {"date": "1994-03-19", "rank": 1}, {"date": "1994-03-26", "rank": 5}, {"date": "1994-04-02", "rank": 6}, {"date": "1994-04-09", "rank": 11}, {"date": "1994-04-16", "rank": 11}, {"date": "1994-04-23", "rank": 14}, {"date": "1994-04-30", "rank": 13}, {"date": "1994-05-07", "rank": 13}, {"date": "1994-05-14", "rank": 11}, {"date": "1994-05-21", "rank": 10}, {"date": "1994-05-28", "rank": 11}, {"date": "1994-06-04", "rank": 12}, {"date": "1994-06-11", "rank": 12}, {"date": "1994-06-18", "rank": 12}, {"date": "1994-06-25", "rank": 16}, {"date": "1994-07-02", "rank": 18}, {"date": "1994-07-09", "rank": 17}, {"date": "1994-07-16", "rank": 20}, {"date": "1994-07-23", "rank": 19}, {"date": "1994-07-30", "rank": 23}, {"date": "1994-08-06", "rank": 25}, {"date": "1994-08-13", "rank": 24}, {"date": "1994-08-20", "rank": 24}, {"date": "1994-08-27", "rank": 23}, {"date": "1994-09-03", "rank": 32}, {"date": "1994-09-10", "rank": 38}, {"date": "1994-09-17", "rank": 43}, {"date": "1994-09-24", "rank": 44}, {"date": "1994-10-01", "rank": 52}, {"date": "1994-10-08", "rank": 53}, {"date": "1994-10-15", "rank": 64}, {"date": "1994-10-22", "rank": 67}, {"date": "1994-10-29", "rank": 71}, {"date": "1994-11-05", "rank": 79}, {"date": "1994-11-12", "rank": 80}, {"date": "1994-11-19", "rank": 78}, {"date": "1994-11-26", "rank": 79}, {"date": "1994-12-03", "rank": 87}, {"date": "1994-12-10", "rank": 96}, {"date": "1994-12-17", "rank": 95}, {"date": "1994-12-24", "rank": 98}, {"date": "1994-12-31", "rank": 88}, {"date": "1995-01-07", "rank": 87}, {"date": "1995-01-14", "rank": 98}, {"date": "1995-01-21", "rank": 93}, {"date": "1995-01-28", "rank": 103}, {"date": "1995-02-04", "rank": 111}, {"date": "1995-02-11", "rank": 103}, {"date": "1995-02-18", "rank": 82}, {"date": "1995-02-25", "rank": 94}, {"date": "1995-03-04", "rank": 95}, {"date": "1995-03-11", "rank": 102}, {"date": "1995-03-18", "rank": 92}, {"date": "1995-03-25", "rank": 102}, {"date": "1995-04-01", "rank": 124}, {"date": "1995-04-08", "rank": 135}, {"date": "1995-04-15", "rank": 156}, {"date": "1995-04-22", "rank": 162}, {"date": "1995-04-29", "rank": 184}, {"date": "1995-05-06", "rank": 189}, {"date": "1995-05-13", "rank": 191}, {"date": "1995-05-20", "rank": 188}, {"date": "1995-05-27", "rank": 199}]}
+{
+  "id": "toni-braxton-toni-braxton",
+  "title": "Toni Braxton",
+  "artist": "Toni Braxton",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1993-07-31",
+      "rank": 36
+    },
+    {
+      "date": "1993-08-07",
+      "rank": 34
+    },
+    {
+      "date": "1993-08-14",
+      "rank": 36
+    },
+    {
+      "date": "1993-08-21",
+      "rank": 35
+    },
+    {
+      "date": "1993-08-28",
+      "rank": 33
+    },
+    {
+      "date": "1993-09-04",
+      "rank": 28
+    },
+    {
+      "date": "1993-09-11",
+      "rank": 24
+    },
+    {
+      "date": "1993-09-18",
+      "rank": 17
+    },
+    {
+      "date": "1993-09-25",
+      "rank": 18
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 14
+    },
+    {
+      "date": "1993-10-09",
+      "rank": 11
+    },
+    {
+      "date": "1993-10-16",
+      "rank": 11
+    },
+    {
+      "date": "1993-10-23",
+      "rank": 11
+    },
+    {
+      "date": "1993-10-30",
+      "rank": 11
+    },
+    {
+      "date": "1993-11-06",
+      "rank": 12
+    },
+    {
+      "date": "1993-11-13",
+      "rank": 12
+    },
+    {
+      "date": "1993-11-20",
+      "rank": 10
+    },
+    {
+      "date": "1993-11-27",
+      "rank": 11
+    },
+    {
+      "date": "1993-12-04",
+      "rank": 11
+    },
+    {
+      "date": "1993-12-11",
+      "rank": 13
+    },
+    {
+      "date": "1993-12-18",
+      "rank": 17
+    },
+    {
+      "date": "1993-12-25",
+      "rank": 18
+    },
+    {
+      "date": "1994-01-01",
+      "rank": 20
+    },
+    {
+      "date": "1994-01-08",
+      "rank": 16
+    },
+    {
+      "date": "1994-01-15",
+      "rank": 13
+    },
+    {
+      "date": "1994-01-22",
+      "rank": 12
+    },
+    {
+      "date": "1994-01-29",
+      "rank": 10
+    },
+    {
+      "date": "1994-02-05",
+      "rank": 11
+    },
+    {
+      "date": "1994-02-12",
+      "rank": 10
+    },
+    {
+      "date": "1994-02-19",
+      "rank": 7
+    },
+    {
+      "date": "1994-02-26",
+      "rank": 1
+    },
+    {
+      "date": "1994-03-05",
+      "rank": 2
+    },
+    {
+      "date": "1994-03-12",
+      "rank": 8
+    },
+    {
+      "date": "1994-03-19",
+      "rank": 1
+    },
+    {
+      "date": "1994-03-26",
+      "rank": 5
+    },
+    {
+      "date": "1994-04-02",
+      "rank": 6
+    },
+    {
+      "date": "1994-04-09",
+      "rank": 11
+    },
+    {
+      "date": "1994-04-16",
+      "rank": 11
+    },
+    {
+      "date": "1994-04-23",
+      "rank": 14
+    },
+    {
+      "date": "1994-04-30",
+      "rank": 13
+    },
+    {
+      "date": "1994-05-07",
+      "rank": 13
+    },
+    {
+      "date": "1994-05-14",
+      "rank": 11
+    },
+    {
+      "date": "1994-05-21",
+      "rank": 10
+    },
+    {
+      "date": "1994-05-28",
+      "rank": 11
+    },
+    {
+      "date": "1994-06-04",
+      "rank": 12
+    },
+    {
+      "date": "1994-06-11",
+      "rank": 12
+    },
+    {
+      "date": "1994-06-18",
+      "rank": 12
+    },
+    {
+      "date": "1994-06-25",
+      "rank": 16
+    },
+    {
+      "date": "1994-07-02",
+      "rank": 18
+    },
+    {
+      "date": "1994-07-09",
+      "rank": 17
+    },
+    {
+      "date": "1994-07-16",
+      "rank": 20
+    },
+    {
+      "date": "1994-07-23",
+      "rank": 19
+    },
+    {
+      "date": "1994-07-30",
+      "rank": 23
+    },
+    {
+      "date": "1994-08-06",
+      "rank": 25
+    },
+    {
+      "date": "1994-08-13",
+      "rank": 24
+    },
+    {
+      "date": "1994-08-20",
+      "rank": 24
+    },
+    {
+      "date": "1994-08-27",
+      "rank": 23
+    },
+    {
+      "date": "1994-09-03",
+      "rank": 32
+    },
+    {
+      "date": "1994-09-10",
+      "rank": 38
+    },
+    {
+      "date": "1994-09-17",
+      "rank": 43
+    },
+    {
+      "date": "1994-09-24",
+      "rank": 44
+    },
+    {
+      "date": "1994-10-01",
+      "rank": 52
+    },
+    {
+      "date": "1994-10-08",
+      "rank": 53
+    },
+    {
+      "date": "1994-10-15",
+      "rank": 64
+    },
+    {
+      "date": "1994-10-22",
+      "rank": 67
+    },
+    {
+      "date": "1994-10-29",
+      "rank": 71
+    },
+    {
+      "date": "1994-11-05",
+      "rank": 79
+    },
+    {
+      "date": "1994-11-12",
+      "rank": 80
+    },
+    {
+      "date": "1994-11-19",
+      "rank": 78
+    },
+    {
+      "date": "1994-11-26",
+      "rank": 79
+    },
+    {
+      "date": "1994-12-03",
+      "rank": 87
+    },
+    {
+      "date": "1994-12-10",
+      "rank": 96
+    },
+    {
+      "date": "1994-12-17",
+      "rank": 95
+    },
+    {
+      "date": "1994-12-24",
+      "rank": 98
+    },
+    {
+      "date": "1994-12-31",
+      "rank": 88
+    },
+    {
+      "date": "1995-01-07",
+      "rank": 87
+    },
+    {
+      "date": "1995-01-14",
+      "rank": 98
+    },
+    {
+      "date": "1995-01-21",
+      "rank": 93
+    },
+    {
+      "date": "1995-01-28",
+      "rank": 103
+    },
+    {
+      "date": "1995-02-04",
+      "rank": 111
+    },
+    {
+      "date": "1995-02-11",
+      "rank": 103
+    },
+    {
+      "date": "1995-02-18",
+      "rank": 82
+    },
+    {
+      "date": "1995-02-25",
+      "rank": 94
+    },
+    {
+      "date": "1995-03-04",
+      "rank": 95
+    },
+    {
+      "date": "1995-03-11",
+      "rank": 102
+    },
+    {
+      "date": "1995-03-18",
+      "rank": 92
+    },
+    {
+      "date": "1995-03-25",
+      "rank": 102
+    },
+    {
+      "date": "1995-04-01",
+      "rank": 124
+    },
+    {
+      "date": "1995-04-08",
+      "rank": 135
+    },
+    {
+      "date": "1995-04-15",
+      "rank": 156
+    },
+    {
+      "date": "1995-04-22",
+      "rank": 162
+    },
+    {
+      "date": "1995-04-29",
+      "rank": 184
+    },
+    {
+      "date": "1995-05-06",
+      "rank": 189
+    },
+    {
+      "date": "1995-05-13",
+      "rank": 191
+    },
+    {
+      "date": "1995-05-20",
+      "rank": 188
+    },
+    {
+      "date": "1995-05-27",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Another Sad Love Song",
+      "id": "another-sad-love-song-toni-braxton"
+    },
+    {
+      "title": "Breathe Again",
+      "id": "breathe-again-toni-braxton"
+    },
+    {
+      "title": "Love Shoulda Brought You Home",
+      "id": "love-shoulda-brought-you-home-from-boomerang-toni-braxton"
+    },
+    {
+      "title": "I Belong to You",
+      "id": "i-belong-to-you-how-many-ways-toni-braxton"
+    },
+    {
+      "title": "How Many Ways",
+      "id": "i-belong-to-you-how-many-ways-toni-braxton"
+    },
+    {
+      "title": "You Mean the World to Me",
+      "id": "you-mean-the-world-to-me-toni-braxton"
+    },
+    {
+      "title": "Breathe Again (reprise)",
+      "id": "breathe-again-toni-braxton"
+    },
+    {
+      "title": "Love Shoulda Brought You Home (radio edit)",
+      "id": "love-shoulda-brought-you-home-from-boomerang-toni-braxton"
+    },
+    {
+      "title": "Another Sad Love Song (radio edit)",
+      "id": "another-sad-love-song-toni-braxton"
+    },
+    {
+      "title": "Breathe Again (radio edit)",
+      "id": "breathe-again-toni-braxton"
+    },
+    {
+      "title": "You Mean the World to Me (radio edit)",
+      "id": "you-mean-the-world-to-me-toni-braxton"
+    },
+    {
+      "title": "Breathe Again (Breathless mix)",
+      "id": "breathe-again-toni-braxton"
+    },
+    {
+      "title": "You Mean the World to Me (radio edit remix)",
+      "id": "you-mean-the-world-to-me-toni-braxton"
+    },
+    {
+      "title": "Another Sad Love Song (Smoothed Out version)",
+      "id": "another-sad-love-song-toni-braxton"
+    },
+    {
+      "title": "I Belong to You (Soul Power mix w/o rap)",
+      "id": "i-belong-to-you-how-many-ways-toni-braxton"
+    },
+    {
+      "title": "Breathe Again (D’Jeep mix)",
+      "id": "breathe-again-toni-braxton"
+    },
+    {
+      "title": "Breathe Again (Wild & Groovey mix)",
+      "id": "breathe-again-toni-braxton"
+    },
+    {
+      "title": "You Mean the World to Me (extended mix)",
+      "id": "you-mean-the-world-to-me-toni-braxton"
+    },
+    {
+      "title": "Another Sad Love Song (extended remix)",
+      "id": "another-sad-love-song-toni-braxton"
+    },
+    {
+      "title": "Love Shoulda Brought You Home (Slow Sensual mix)",
+      "id": "love-shoulda-brought-you-home-from-boomerang-toni-braxton"
+    },
+    {
+      "title": "Seven Whole Days",
+      "id": null
+    },
+    {
+      "title": "Love Affair",
+      "id": null
+    },
+    {
+      "title": "Candlelight",
+      "id": null
+    },
+    {
+      "title": "Spending My Time with You",
+      "id": null
+    },
+    {
+      "title": "Best Friend",
+      "id": null
+    },
+    {
+      "title": "How Many Ways (radio edit album version)",
+      "id": null
+    },
+    {
+      "title": "I Belong to You (Rollerskate radio mix)",
+      "id": null
+    },
+    {
+      "title": "Seven Whole Days (radio edit)",
+      "id": null
+    },
+    {
+      "title": "Breathe Again (extended club mix)",
+      "id": null
+    },
+    {
+      "title": "How Many Ways (R. Kelly remix)",
+      "id": null
+    },
+    {
+      "title": "Breathe Again (West End Master radio mix)",
+      "id": null
+    },
+    {
+      "title": "How Many Ways (R. Kelly radio edit)",
+      "id": null
+    },
+    {
+      "title": "The Christmas Song",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"id": "what-for-toro-y-moi", "title": "What For?", "artist": "Toro y Moi", "peak": 123, "history": [{"date": "2015-04-25", "rank": 123}]}
+{
+  "id": "what-for-toro-y-moi",
+  "title": "What For?",
+  "artist": "Toro y Moi",
+  "peak": 123,
+  "history": [
+    {
+      "date": "2015-04-25",
+      "rank": 123
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What You Want",
+      "id": null
+    },
+    {
+      "title": "Buffalo",
+      "id": null
+    },
+    {
+      "title": "The Flight",
+      "id": null
+    },
+    {
+      "title": "Empty Nesters",
+      "id": null
+    },
+    {
+      "title": "Ratcliff",
+      "id": null
+    },
+    {
+      "title": "Lilly",
+      "id": null
+    },
+    {
+      "title": "Spell It Out",
+      "id": null
+    },
+    {
+      "title": "Half Dome",
+      "id": null
+    },
+    {
+      "title": "Run Baby Run",
+      "id": null
+    },
+    {
+      "title": "Yeah Right",
+      "id": null
+    }
+  ]
+}

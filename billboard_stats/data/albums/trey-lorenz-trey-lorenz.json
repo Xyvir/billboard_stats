@@ -1,1 +1,86 @@
-{"id": "trey-lorenz-trey-lorenz", "title": "Trey Lorenz", "artist": "Trey Lorenz", "peak": 111, "history": [{"date": "1992-10-24", "rank": 186}, {"date": "1992-10-31", "rank": 149}, {"date": "1992-11-07", "rank": 143}, {"date": "1992-11-14", "rank": 111}, {"date": "1992-11-21", "rank": 119}, {"date": "1992-11-28", "rank": 123}, {"date": "1992-12-05", "rank": 142}, {"date": "1992-12-12", "rank": 180}]}
+{
+  "id": "trey-lorenz-trey-lorenz",
+  "title": "Trey Lorenz",
+  "artist": "Trey Lorenz",
+  "peak": 111,
+  "history": [
+    {
+      "date": "1992-10-24",
+      "rank": 186
+    },
+    {
+      "date": "1992-10-31",
+      "rank": 149
+    },
+    {
+      "date": "1992-11-07",
+      "rank": 143
+    },
+    {
+      "date": "1992-11-14",
+      "rank": 111
+    },
+    {
+      "date": "1992-11-21",
+      "rank": 119
+    },
+    {
+      "date": "1992-11-28",
+      "rank": 123
+    },
+    {
+      "date": "1992-12-05",
+      "rank": 142
+    },
+    {
+      "date": "1992-12-12",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Someone to Hold",
+      "id": "someone-to-hold-trey-lorenz"
+    },
+    {
+      "title": "Photograph of Mary",
+      "id": null
+    },
+    {
+      "title": "Just to Be Close to You",
+      "id": null
+    },
+    {
+      "title": "Run Back to Me",
+      "id": null
+    },
+    {
+      "title": "Always in Love",
+      "id": null
+    },
+    {
+      "title": "Wipe All My Tears Away",
+      "id": null
+    },
+    {
+      "title": "Baby I’m in Heaven",
+      "id": null
+    },
+    {
+      "title": "It Only Hurts When It’s Love",
+      "id": null
+    },
+    {
+      "title": "How Can I Say Goodbye",
+      "id": null
+    },
+    {
+      "title": "Find a Way",
+      "id": null
+    },
+    {
+      "title": "When Troubles Come",
+      "id": null
+    }
+  ]
+}

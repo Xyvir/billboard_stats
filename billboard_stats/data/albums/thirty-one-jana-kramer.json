@@ -1,1 +1,102 @@
-{"id": "thirty-one-jana-kramer", "title": "Thirty One", "artist": "Jana Kramer", "peak": 10, "history": [{"date": "2015-10-31", "rank": 10}, {"date": "2015-11-07", "rank": 68}, {"date": "2015-11-14", "rank": 83}, {"date": "2015-11-21", "rank": 130}, {"date": "2015-11-28", "rank": 152}, {"date": "2015-12-05", "rank": 176}, {"date": "2016-01-23", "rank": 183}, {"date": "2016-01-30", "rank": 178}]}
+{
+  "id": "thirty-one-jana-kramer",
+  "title": "Thirty One",
+  "artist": "Jana Kramer",
+  "peak": 10,
+  "history": [
+    {
+      "date": "2015-10-31",
+      "rank": 10
+    },
+    {
+      "date": "2015-11-07",
+      "rank": 68
+    },
+    {
+      "date": "2015-11-14",
+      "rank": 83
+    },
+    {
+      "date": "2015-11-21",
+      "rank": 130
+    },
+    {
+      "date": "2015-11-28",
+      "rank": 152
+    },
+    {
+      "date": "2015-12-05",
+      "rank": 176
+    },
+    {
+      "date": "2016-01-23",
+      "rank": 183
+    },
+    {
+      "date": "2016-01-30",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Got the Boy",
+      "id": "i-got-the-boy-jana-kramer"
+    },
+    {
+      "title": "Why Ya Wanna",
+      "id": "why-ya-wanna-jana-kramer"
+    },
+    {
+      "title": "I Won't Give Up",
+      "id": "i-won-t-give-up-jana-kramer"
+    },
+    {
+      "title": "Boomerang",
+      "id": null
+    },
+    {
+      "title": "Don't Touch My Radio",
+      "id": null
+    },
+    {
+      "title": "Pop That Bottle",
+      "id": null
+    },
+    {
+      "title": "Love",
+      "id": null
+    },
+    {
+      "title": "Circles",
+      "id": null
+    },
+    {
+      "title": "Bullet",
+      "id": null
+    },
+    {
+      "title": "Dance In The Rain",
+      "id": null
+    },
+    {
+      "title": "Said No One Ever",
+      "id": null
+    },
+    {
+      "title": "Just Like In The Movies",
+      "id": null
+    },
+    {
+      "title": "Last Song",
+      "id": null
+    },
+    {
+      "title": "Deal Breaker",
+      "id": null
+    },
+    {
+      "title": "All I've Got",
+      "id": null
+    }
+  ]
+}

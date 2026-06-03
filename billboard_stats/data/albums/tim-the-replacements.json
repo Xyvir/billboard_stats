@@ -1,1 +1,82 @@
-{"id": "tim-the-replacements", "title": "Tim", "artist": "The Replacements", "peak": 183, "history": [{"date": "1986-02-01", "rank": 192}, {"date": "1986-02-08", "rank": 184}, {"date": "1986-02-15", "rank": 183}, {"date": "1986-02-22", "rank": 190}, {"date": "1986-03-01", "rank": 192}, {"date": "1986-03-08", "rank": 198}, {"date": "1986-03-15", "rank": 200}]}
+{
+  "id": "tim-the-replacements",
+  "title": "Tim",
+  "artist": "The Replacements",
+  "peak": 183,
+  "history": [
+    {
+      "date": "1986-02-01",
+      "rank": 192
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 184
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 183
+    },
+    {
+      "date": "1986-02-22",
+      "rank": 190
+    },
+    {
+      "date": "1986-03-01",
+      "rank": 192
+    },
+    {
+      "date": "1986-03-08",
+      "rank": 198
+    },
+    {
+      "date": "1986-03-15",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I’ll Buy",
+      "id": "i-ll-be-you-the-replacements"
+    },
+    {
+      "title": "Hold My Life",
+      "id": null
+    },
+    {
+      "title": "Kiss Me on the Bus",
+      "id": null
+    },
+    {
+      "title": "Dose of Thunder",
+      "id": null
+    },
+    {
+      "title": "Waitress in the Sky",
+      "id": null
+    },
+    {
+      "title": "Swingin Party",
+      "id": null
+    },
+    {
+      "title": "Bastards of Young",
+      "id": null
+    },
+    {
+      "title": "Lay It Down Clown",
+      "id": null
+    },
+    {
+      "title": "Left of the Dial",
+      "id": null
+    },
+    {
+      "title": "Little Mascara",
+      "id": null
+    },
+    {
+      "title": "Here Comes a Regular",
+      "id": null
+    }
+  ]
+}

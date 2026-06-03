@@ -1,1 +1,70 @@
-{"id": "ti-adoro-luciano-pavarotti", "title": "Ti Adoro", "artist": "Luciano Pavarotti", "peak": 135, "history": [{"date": "2003-10-11", "rank": 185}, {"date": "2003-10-18", "rank": 135}]}
+{
+  "id": "ti-adoro-luciano-pavarotti",
+  "title": "Ti Adoro",
+  "artist": "Luciano Pavarotti",
+  "peak": 135,
+  "history": [
+    {
+      "date": "2003-10-11",
+      "rank": 185
+    },
+    {
+      "date": "2003-10-18",
+      "rank": 135
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Il canto",
+      "id": null
+    },
+    {
+      "title": "Neapolis",
+      "id": null
+    },
+    {
+      "title": "Starai con me",
+      "id": null
+    },
+    {
+      "title": "Ti adoro",
+      "id": null
+    },
+    {
+      "title": "Notte",
+      "id": null
+    },
+    {
+      "title": "Come aquile",
+      "id": null
+    },
+    {
+      "title": "Domani verra",
+      "id": null
+    },
+    {
+      "title": "Buongiorno a te",
+      "id": null
+    },
+    {
+      "title": "Ai giochi addio",
+      "id": null
+    },
+    {
+      "title": "Stella",
+      "id": null
+    },
+    {
+      "title": "Tu e il tuo mare",
+      "id": null
+    },
+    {
+      "title": "Il gladiatore",
+      "id": null
+    },
+    {
+      "title": "Caruso",
+      "id": null
+    }
+  ]
+}

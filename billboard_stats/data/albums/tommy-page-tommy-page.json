@@ -1,1 +1,70 @@
-{"id": "tommy-page-tommy-page", "title": "Tommy Page", "artist": "Tommy Page", "peak": 166, "history": [{"date": "1989-05-06", "rank": 197}, {"date": "1989-05-13", "rank": 166}, {"date": "1989-05-20", "rank": 166}, {"date": "1989-05-27", "rank": 192}, {"date": "1989-06-03", "rank": 192}]}
+{
+  "id": "tommy-page-tommy-page",
+  "title": "Tommy Page",
+  "artist": "Tommy Page",
+  "peak": 166,
+  "history": [
+    {
+      "date": "1989-05-06",
+      "rank": 197
+    },
+    {
+      "date": "1989-05-13",
+      "rank": 166
+    },
+    {
+      "date": "1989-05-20",
+      "rank": 166
+    },
+    {
+      "date": "1989-05-27",
+      "rank": 192
+    },
+    {
+      "date": "1989-06-03",
+      "rank": 192
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Shoulder to Cry On",
+      "id": "a-shoulder-to-cry-on-tommy-page"
+    },
+    {
+      "title": "A Zillion Kisses",
+      "id": null
+    },
+    {
+      "title": "Turning Me On",
+      "id": null
+    },
+    {
+      "title": "African Sunset",
+      "id": null
+    },
+    {
+      "title": "I Think I’m in Love",
+      "id": null
+    },
+    {
+      "title": "Hard to Be Normal",
+      "id": null
+    },
+    {
+      "title": "I Love London",
+      "id": null
+    },
+    {
+      "title": "Making My Move",
+      "id": null
+    },
+    {
+      "title": "Love Takes Over",
+      "id": null
+    },
+    {
+      "title": "Minetta Lane",
+      "id": null
+    }
+  ]
+}

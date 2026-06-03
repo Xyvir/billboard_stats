@@ -1,1 +1,74 @@
-{"id": "write-you-a-song-jon-pardi", "title": "Write You A Song", "artist": "Jon Pardi", "peak": 14, "history": [{"date": "2014-02-01", "rank": 14}, {"date": "2014-02-08", "rank": 76}, {"date": "2014-02-15", "rank": 119}, {"date": "2014-02-22", "rank": 136}, {"date": "2014-03-01", "rank": 191}]}
+{
+  "id": "write-you-a-song-jon-pardi",
+  "title": "Write You A Song",
+  "artist": "Jon Pardi",
+  "peak": 14,
+  "history": [
+    {
+      "date": "2014-02-01",
+      "rank": 14
+    },
+    {
+      "date": "2014-02-08",
+      "rank": 76
+    },
+    {
+      "date": "2014-02-15",
+      "rank": 119
+    },
+    {
+      "date": "2014-02-22",
+      "rank": 136
+    },
+    {
+      "date": "2014-03-01",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Up All Night",
+      "id": "up-all-night-jon-pardi"
+    },
+    {
+      "title": "What I Can’t Put Down",
+      "id": null
+    },
+    {
+      "title": "Write You a Song",
+      "id": null
+    },
+    {
+      "title": "That Man",
+      "id": null
+    },
+    {
+      "title": "Missin’ You Crazy",
+      "id": null
+    },
+    {
+      "title": "Happens All the Time",
+      "id": null
+    },
+    {
+      "title": "Trash a Hotel Room",
+      "id": null
+    },
+    {
+      "title": "Chasin’ Them Better Days",
+      "id": null
+    },
+    {
+      "title": "Love You From Here",
+      "id": null
+    },
+    {
+      "title": "Empty Beer Cans",
+      "id": null
+    },
+    {
+      "title": "When I’ve Been Drinkin’",
+      "id": null
+    }
+  ]
+}

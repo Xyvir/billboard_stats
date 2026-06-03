@@ -1,1 +1,242 @@
-{"id": "the-very-best-of-travis-tritt-travis-tritt", "title": "The Very Best Of Travis Tritt", "artist": "Travis Tritt", "peak": 124, "history": [{"date": "2007-02-17", "rank": 124}, {"date": "2007-02-24", "rank": 172}, {"date": "2007-03-10", "rank": 176}, {"date": "2007-03-17", "rank": 145}, {"date": "2007-03-24", "rank": 181}, {"date": "2012-07-28", "rank": 161}, {"date": "2015-02-14", "rank": 181}, {"date": "2015-02-21", "rank": 175}, {"date": "2015-02-28", "rank": 167}, {"date": "2015-03-07", "rank": 144}, {"date": "2015-03-14", "rank": 149}, {"date": "2015-03-21", "rank": 166}, {"date": "2015-03-28", "rank": 176}, {"date": "2015-04-04", "rank": 182}, {"date": "2015-04-11", "rank": 179}, {"date": "2015-04-18", "rank": 189}, {"date": "2015-05-02", "rank": 140}, {"date": "2015-05-09", "rank": 171}, {"date": "2015-05-16", "rank": 190}, {"date": "2015-07-18", "rank": 199}, {"date": "2015-08-01", "rank": 185}, {"date": "2015-08-08", "rank": 173}, {"date": "2015-08-15", "rank": 169}, {"date": "2015-08-22", "rank": 146}, {"date": "2015-08-29", "rank": 166}, {"date": "2015-09-05", "rank": 169}, {"date": "2015-09-12", "rank": 170}, {"date": "2015-09-19", "rank": 153}, {"date": "2015-09-26", "rank": 153}, {"date": "2015-10-03", "rank": 172}, {"date": "2015-10-10", "rank": 168}, {"date": "2015-10-17", "rank": 182}, {"date": "2015-10-24", "rank": 173}, {"date": "2015-10-31", "rank": 159}, {"date": "2015-11-07", "rank": 165}, {"date": "2015-11-14", "rank": 198}, {"date": "2015-11-21", "rank": 190}, {"date": "2015-11-28", "rank": 194}]}
+{
+  "id": "the-very-best-of-travis-tritt-travis-tritt",
+  "title": "The Very Best Of Travis Tritt",
+  "artist": "Travis Tritt",
+  "peak": 124,
+  "history": [
+    {
+      "date": "2007-02-17",
+      "rank": 124
+    },
+    {
+      "date": "2007-02-24",
+      "rank": 172
+    },
+    {
+      "date": "2007-03-10",
+      "rank": 176
+    },
+    {
+      "date": "2007-03-17",
+      "rank": 145
+    },
+    {
+      "date": "2007-03-24",
+      "rank": 181
+    },
+    {
+      "date": "2012-07-28",
+      "rank": 161
+    },
+    {
+      "date": "2015-02-14",
+      "rank": 181
+    },
+    {
+      "date": "2015-02-21",
+      "rank": 175
+    },
+    {
+      "date": "2015-02-28",
+      "rank": 167
+    },
+    {
+      "date": "2015-03-07",
+      "rank": 144
+    },
+    {
+      "date": "2015-03-14",
+      "rank": 149
+    },
+    {
+      "date": "2015-03-21",
+      "rank": 166
+    },
+    {
+      "date": "2015-03-28",
+      "rank": 176
+    },
+    {
+      "date": "2015-04-04",
+      "rank": 182
+    },
+    {
+      "date": "2015-04-11",
+      "rank": 179
+    },
+    {
+      "date": "2015-04-18",
+      "rank": 189
+    },
+    {
+      "date": "2015-05-02",
+      "rank": 140
+    },
+    {
+      "date": "2015-05-09",
+      "rank": 171
+    },
+    {
+      "date": "2015-05-16",
+      "rank": 190
+    },
+    {
+      "date": "2015-07-18",
+      "rank": 199
+    },
+    {
+      "date": "2015-08-01",
+      "rank": 185
+    },
+    {
+      "date": "2015-08-08",
+      "rank": 173
+    },
+    {
+      "date": "2015-08-15",
+      "rank": 169
+    },
+    {
+      "date": "2015-08-22",
+      "rank": 146
+    },
+    {
+      "date": "2015-08-29",
+      "rank": 166
+    },
+    {
+      "date": "2015-09-05",
+      "rank": 169
+    },
+    {
+      "date": "2015-09-12",
+      "rank": 170
+    },
+    {
+      "date": "2015-09-19",
+      "rank": 153
+    },
+    {
+      "date": "2015-09-26",
+      "rank": 153
+    },
+    {
+      "date": "2015-10-03",
+      "rank": 172
+    },
+    {
+      "date": "2015-10-10",
+      "rank": 168
+    },
+    {
+      "date": "2015-10-17",
+      "rank": 182
+    },
+    {
+      "date": "2015-10-24",
+      "rank": 173
+    },
+    {
+      "date": "2015-10-31",
+      "rank": 159
+    },
+    {
+      "date": "2015-11-07",
+      "rank": 165
+    },
+    {
+      "date": "2015-11-14",
+      "rank": 198
+    },
+    {
+      "date": "2015-11-21",
+      "rank": 190
+    },
+    {
+      "date": "2015-11-28",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It’s a Great Day to Be Alive",
+      "id": "it-s-a-great-day-to-be-alive-travis-tritt"
+    },
+    {
+      "title": "Best of Intentions",
+      "id": "best-of-intentions-travis-tritt"
+    },
+    {
+      "title": "Take It Easy",
+      "id": null
+    },
+    {
+      "title": "Here’s a Quarter (Call Someone Who Cares)",
+      "id": null
+    },
+    {
+      "title": "Anymore",
+      "id": null
+    },
+    {
+      "title": "Country Club",
+      "id": null
+    },
+    {
+      "title": "Help Me Hold On",
+      "id": null
+    },
+    {
+      "title": "Where Corn Don't Grow",
+      "id": null
+    },
+    {
+      "title": "I’m Gonna Be Somebody",
+      "id": null
+    },
+    {
+      "title": "Can I Trust You With My Heart",
+      "id": null
+    },
+    {
+      "title": "Foolish Pride",
+      "id": null
+    },
+    {
+      "title": "Lord Have Mercy on the Working Man",
+      "id": null
+    },
+    {
+      "title": "Nothing Short of Dying",
+      "id": null
+    },
+    {
+      "title": "More Than You’ll Ever Know",
+      "id": null
+    },
+    {
+      "title": "Sometimes She Forgets",
+      "id": null
+    },
+    {
+      "title": "This One's Gonna Hurt You (For a Long, Long Time)",
+      "id": null
+    },
+    {
+      "title": "Tell Me I Was Dreaming",
+      "id": null
+    },
+    {
+      "title": "Drift Off to Dream (edit)",
+      "id": null
+    },
+    {
+      "title": "The Whiskey Ain’t Workin’",
+      "id": null
+    },
+    {
+      "title": "T‐R‐O‐U‐B‐L‐E",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,102 @@
-{"id": "wanderlust-gavin-rossdale", "title": "Wanderlust", "artist": "Gavin Rossdale", "peak": 33, "history": [{"date": "2008-06-21", "rank": 33}, {"date": "2008-06-28", "rank": 116}, {"date": "2008-07-05", "rank": 156}, {"date": "2008-07-12", "rank": 193}, {"date": "2008-09-13", "rank": 200}, {"date": "2008-09-20", "rank": 151}, {"date": "2008-09-27", "rank": 152}, {"date": "2008-10-04", "rank": 174}, {"date": "2008-10-11", "rank": 169}, {"date": "2008-11-08", "rank": 176}]}
+{
+  "id": "wanderlust-gavin-rossdale",
+  "title": "Wanderlust",
+  "artist": "Gavin Rossdale",
+  "peak": 33,
+  "history": [
+    {
+      "date": "2008-06-21",
+      "rank": 33
+    },
+    {
+      "date": "2008-06-28",
+      "rank": 116
+    },
+    {
+      "date": "2008-07-05",
+      "rank": 156
+    },
+    {
+      "date": "2008-07-12",
+      "rank": 193
+    },
+    {
+      "date": "2008-09-13",
+      "rank": 200
+    },
+    {
+      "date": "2008-09-20",
+      "rank": 151
+    },
+    {
+      "date": "2008-09-27",
+      "rank": 152
+    },
+    {
+      "date": "2008-10-04",
+      "rank": 174
+    },
+    {
+      "date": "2008-10-11",
+      "rank": 169
+    },
+    {
+      "date": "2008-11-08",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Remains the Same",
+      "id": "love-remains-the-same-gavin-rossdale"
+    },
+    {
+      "title": "Can't Stop the World",
+      "id": null
+    },
+    {
+      "title": "Frontline",
+      "id": null
+    },
+    {
+      "title": "Forever May You Run",
+      "id": null
+    },
+    {
+      "title": "The Skin I'm In",
+      "id": null
+    },
+    {
+      "title": "Drive",
+      "id": null
+    },
+    {
+      "title": "Future World",
+      "id": null
+    },
+    {
+      "title": "If You Are Not With Us You Are Against Us",
+      "id": null
+    },
+    {
+      "title": "This Is Happiness",
+      "id": null
+    },
+    {
+      "title": "Another Night in the Hills",
+      "id": null
+    },
+    {
+      "title": "The Trouble I'm In",
+      "id": null
+    },
+    {
+      "title": "Beauty in the Beast",
+      "id": null
+    },
+    {
+      "title": "This Place Is on Fire",
+      "id": null
+    }
+  ]
+}

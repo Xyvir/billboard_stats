@@ -1,1 +1,122 @@
-{"id": "what-a-life-divinyls", "title": "What A Life", "artist": "Divinyls", "peak": 91, "history": [{"date": "1985-12-07", "rank": 189}, {"date": "1985-12-14", "rank": 178}, {"date": "1985-12-21", "rank": 152}, {"date": "1985-12-28", "rank": 147}, {"date": "1986-01-04", "rank": 147}, {"date": "1986-01-11", "rank": 147}, {"date": "1986-01-18", "rank": 156}, {"date": "1986-01-25", "rank": 133}, {"date": "1986-02-01", "rank": 123}, {"date": "1986-02-08", "rank": 114}, {"date": "1986-02-15", "rank": 99}, {"date": "1986-02-22", "rank": 94}, {"date": "1986-03-01", "rank": 91}, {"date": "1986-03-08", "rank": 91}, {"date": "1986-03-15", "rank": 100}, {"date": "1986-03-22", "rank": 118}, {"date": "1986-03-29", "rank": 136}, {"date": "1986-04-05", "rank": 174}]}
+{
+  "id": "what-a-life-divinyls",
+  "title": "What A Life",
+  "artist": "Divinyls",
+  "peak": 91,
+  "history": [
+    {
+      "date": "1985-12-07",
+      "rank": 189
+    },
+    {
+      "date": "1985-12-14",
+      "rank": 178
+    },
+    {
+      "date": "1985-12-21",
+      "rank": 152
+    },
+    {
+      "date": "1985-12-28",
+      "rank": 147
+    },
+    {
+      "date": "1986-01-04",
+      "rank": 147
+    },
+    {
+      "date": "1986-01-11",
+      "rank": 147
+    },
+    {
+      "date": "1986-01-18",
+      "rank": 156
+    },
+    {
+      "date": "1986-01-25",
+      "rank": 133
+    },
+    {
+      "date": "1986-02-01",
+      "rank": 123
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 114
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 99
+    },
+    {
+      "date": "1986-02-22",
+      "rank": 94
+    },
+    {
+      "date": "1986-03-01",
+      "rank": 91
+    },
+    {
+      "date": "1986-03-08",
+      "rank": 91
+    },
+    {
+      "date": "1986-03-15",
+      "rank": 100
+    },
+    {
+      "date": "1986-03-22",
+      "rank": 118
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 136
+    },
+    {
+      "date": "1986-04-05",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pleasure & Pain",
+      "id": "pleasure-and-pain-divinyls"
+    },
+    {
+      "title": "Don't You Go Walking",
+      "id": null
+    },
+    {
+      "title": "Good Die Young",
+      "id": null
+    },
+    {
+      "title": "Sleeping Beauty",
+      "id": null
+    },
+    {
+      "title": "Motion",
+      "id": null
+    },
+    {
+      "title": "In My Life",
+      "id": null
+    },
+    {
+      "title": "Casual Encounter",
+      "id": null
+    },
+    {
+      "title": "Heart Telegraph",
+      "id": null
+    },
+    {
+      "title": "Guillotine Day",
+      "id": null
+    },
+    {
+      "title": "Dear Diary",
+      "id": null
+    }
+  ]
+}

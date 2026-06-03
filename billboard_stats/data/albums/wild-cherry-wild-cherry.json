@@ -1,1 +1,162 @@
-{"id": "wild-cherry-wild-cherry", "title": "Wild Cherry", "artist": "Wild Cherry", "peak": 5, "history": [{"date": "1976-07-24", "rank": 100}, {"date": "1976-07-31", "rank": 65}, {"date": "1976-08-07", "rank": 31}, {"date": "1976-08-14", "rank": 24}, {"date": "1976-08-21", "rank": 19}, {"date": "1976-08-28", "rank": 14}, {"date": "1976-09-04", "rank": 10}, {"date": "1976-09-11", "rank": 8}, {"date": "1976-09-18", "rank": 6}, {"date": "1976-09-25", "rank": 5}, {"date": "1976-10-02", "rank": 5}, {"date": "1976-10-09", "rank": 7}, {"date": "1976-10-16", "rank": 7}, {"date": "1976-10-23", "rank": 8}, {"date": "1976-10-30", "rank": 16}, {"date": "1976-11-06", "rank": 38}, {"date": "1976-11-13", "rank": 38}, {"date": "1976-11-20", "rank": 70}, {"date": "1976-11-27", "rank": 103}, {"date": "1976-12-04", "rank": 105}, {"date": "1976-12-11", "rank": 111}, {"date": "1976-12-18", "rank": 127}, {"date": "1976-12-25", "rank": 127}, {"date": "1977-01-01", "rank": 127}, {"date": "1977-01-08", "rank": 116}, {"date": "1977-01-15", "rank": 111}, {"date": "1977-01-22", "rank": 167}, {"date": "1977-01-29", "rank": 169}, {"date": "1977-02-05", "rank": 169}]}
+{
+  "id": "wild-cherry-wild-cherry",
+  "title": "Wild Cherry",
+  "artist": "Wild Cherry",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1976-07-24",
+      "rank": 100
+    },
+    {
+      "date": "1976-07-31",
+      "rank": 65
+    },
+    {
+      "date": "1976-08-07",
+      "rank": 31
+    },
+    {
+      "date": "1976-08-14",
+      "rank": 24
+    },
+    {
+      "date": "1976-08-21",
+      "rank": 19
+    },
+    {
+      "date": "1976-08-28",
+      "rank": 14
+    },
+    {
+      "date": "1976-09-04",
+      "rank": 10
+    },
+    {
+      "date": "1976-09-11",
+      "rank": 8
+    },
+    {
+      "date": "1976-09-18",
+      "rank": 6
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 5
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 5
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 7
+    },
+    {
+      "date": "1976-10-16",
+      "rank": 7
+    },
+    {
+      "date": "1976-10-23",
+      "rank": 8
+    },
+    {
+      "date": "1976-10-30",
+      "rank": 16
+    },
+    {
+      "date": "1976-11-06",
+      "rank": 38
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 38
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 70
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 103
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 105
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 111
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 127
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 127
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 127
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 116
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 111
+    },
+    {
+      "date": "1977-01-22",
+      "rank": 167
+    },
+    {
+      "date": "1977-01-29",
+      "rank": 169
+    },
+    {
+      "date": "1977-02-05",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Play That Funky Music",
+      "id": "play-that-funky-music-wild-cherry"
+    },
+    {
+      "title": "The Lady Wants Your Money",
+      "id": null
+    },
+    {
+      "title": "99 1/2",
+      "id": null
+    },
+    {
+      "title": "Don’t Go Near the Water",
+      "id": null
+    },
+    {
+      "title": "Nowhere to Run",
+      "id": null
+    },
+    {
+      "title": "I Feel Sanctified",
+      "id": null
+    },
+    {
+      "title": "Hold On (with strings)",
+      "id": null
+    },
+    {
+      "title": "Get It Up",
+      "id": null
+    },
+    {
+      "title": "What in the Funk Do You See",
+      "id": null
+    }
+  ]
+}

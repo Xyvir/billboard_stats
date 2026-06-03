@@ -1,1 +1,82 @@
-{"id": "wait-for-night-rick-springfield", "title": "Wait For Night", "artist": "Rick Springfield", "peak": 159, "history": [{"date": "1982-12-18", "rank": 179}, {"date": "1982-12-25", "rank": 169}, {"date": "1983-01-01", "rank": 169}, {"date": "1983-01-08", "rank": 159}, {"date": "1983-01-15", "rank": 159}, {"date": "1983-01-22", "rank": 170}, {"date": "1983-01-29", "rank": 168}, {"date": "1983-02-05", "rank": 173}]}
+{
+  "id": "wait-for-night-rick-springfield",
+  "title": "Wait For Night",
+  "artist": "Rick Springfield",
+  "peak": 159,
+  "history": [
+    {
+      "date": "1982-12-18",
+      "rank": 179
+    },
+    {
+      "date": "1982-12-25",
+      "rank": 169
+    },
+    {
+      "date": "1983-01-01",
+      "rank": 169
+    },
+    {
+      "date": "1983-01-08",
+      "rank": 159
+    },
+    {
+      "date": "1983-01-15",
+      "rank": 159
+    },
+    {
+      "date": "1983-01-22",
+      "rank": 170
+    },
+    {
+      "date": "1983-01-29",
+      "rank": 168
+    },
+    {
+      "date": "1983-02-05",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Take a Hand",
+      "id": "take-a-hand-rick-springfield"
+    },
+    {
+      "title": "Archangel",
+      "id": "american-girls-rick-springfield"
+    },
+    {
+      "title": "Goldfever",
+      "id": null
+    },
+    {
+      "title": "One Broken Heart",
+      "id": null
+    },
+    {
+      "title": "Where's All the Love",
+      "id": null
+    },
+    {
+      "title": "Jessica",
+      "id": null
+    },
+    {
+      "title": "Million Dollar Face",
+      "id": null
+    },
+    {
+      "title": "Old Gangsters Never Die",
+      "id": null
+    },
+    {
+      "title": "Treat Me Gently in the Morning",
+      "id": null
+    },
+    {
+      "title": "Life Is a Celebration",
+      "id": null
+    }
+  ]
+}

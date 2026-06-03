@@ -1,1 +1,106 @@
-{"id": "travel-log-j-j-cale", "title": "Travel-Log", "artist": "J.J. Cale", "peak": 131, "history": [{"date": "1990-03-17", "rank": 179}, {"date": "1990-03-24", "rank": 161}, {"date": "1990-03-31", "rank": 147}, {"date": "1990-04-07", "rank": 144}, {"date": "1990-04-14", "rank": 150}, {"date": "1990-04-21", "rank": 131}, {"date": "1990-04-28", "rank": 144}, {"date": "1990-05-05", "rank": 160}, {"date": "1990-05-12", "rank": 169}, {"date": "1990-05-19", "rank": 179}]}
+{
+  "id": "travel-log-j-j-cale",
+  "title": "Travel-Log",
+  "artist": "J.J. Cale",
+  "peak": 131,
+  "history": [
+    {
+      "date": "1990-03-17",
+      "rank": 179
+    },
+    {
+      "date": "1990-03-24",
+      "rank": 161
+    },
+    {
+      "date": "1990-03-31",
+      "rank": 147
+    },
+    {
+      "date": "1990-04-07",
+      "rank": 144
+    },
+    {
+      "date": "1990-04-14",
+      "rank": 150
+    },
+    {
+      "date": "1990-04-21",
+      "rank": 131
+    },
+    {
+      "date": "1990-04-28",
+      "rank": 144
+    },
+    {
+      "date": "1990-05-05",
+      "rank": 160
+    },
+    {
+      "date": "1990-05-12",
+      "rank": 169
+    },
+    {
+      "date": "1990-05-19",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hold On Baby",
+      "id": "hey-baby-j-j-cale"
+    },
+    {
+      "title": "Shanghaid",
+      "id": null
+    },
+    {
+      "title": "No Time",
+      "id": null
+    },
+    {
+      "title": "Lady Luck",
+      "id": null
+    },
+    {
+      "title": "Disadvantage",
+      "id": null
+    },
+    {
+      "title": "Lean on Me",
+      "id": null
+    },
+    {
+      "title": "End of the Line",
+      "id": null
+    },
+    {
+      "title": "New Orleans",
+      "id": null
+    },
+    {
+      "title": "Tijuana",
+      "id": null
+    },
+    {
+      "title": "That Kind of Thing",
+      "id": null
+    },
+    {
+      "title": "Who’s Talking",
+      "id": null
+    },
+    {
+      "title": "Change Your Mind",
+      "id": null
+    },
+    {
+      "title": "Humdinger",
+      "id": null
+    },
+    {
+      "title": "River Boat Song",
+      "id": null
+    }
+  ]
+}

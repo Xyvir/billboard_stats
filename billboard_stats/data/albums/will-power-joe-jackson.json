@@ -1,1 +1,62 @@
-{"id": "will-power-joe-jackson", "title": "Will Power", "artist": "Joe Jackson", "peak": 131, "history": [{"date": "1987-05-02", "rank": 181}, {"date": "1987-05-09", "rank": 149}, {"date": "1987-05-16", "rank": 145}, {"date": "1987-05-23", "rank": 131}, {"date": "1987-05-30", "rank": 131}, {"date": "1987-06-06", "rank": 156}, {"date": "1987-06-13", "rank": 166}, {"date": "1987-06-20", "rank": 183}]}
+{
+  "id": "will-power-joe-jackson",
+  "title": "Will Power",
+  "artist": "Joe Jackson",
+  "peak": 131,
+  "history": [
+    {
+      "date": "1987-05-02",
+      "rank": 181
+    },
+    {
+      "date": "1987-05-09",
+      "rank": 149
+    },
+    {
+      "date": "1987-05-16",
+      "rank": 145
+    },
+    {
+      "date": "1987-05-23",
+      "rank": 131
+    },
+    {
+      "date": "1987-05-30",
+      "rank": 131
+    },
+    {
+      "date": "1987-06-06",
+      "rank": 156
+    },
+    {
+      "date": "1987-06-13",
+      "rank": 166
+    },
+    {
+      "date": "1987-06-20",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No Pasarán (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Solitude",
+      "id": null
+    },
+    {
+      "title": "Will Power (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Nocturne (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Symphony in One Movement (instrumental)",
+      "id": null
+    }
+  ]
+}

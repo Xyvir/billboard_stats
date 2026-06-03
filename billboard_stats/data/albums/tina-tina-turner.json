@@ -1,1 +1,106 @@
-{"id": "tina-tina-turner", "title": "Tina!", "artist": "Tina Turner", "peak": 61, "history": [{"date": "2008-10-18", "rank": 61}, {"date": "2008-10-25", "rank": 70}, {"date": "2008-11-01", "rank": 90}, {"date": "2008-11-08", "rank": 120}, {"date": "2008-11-15", "rank": 129}, {"date": "2008-11-22", "rank": 138}]}
+{
+  "id": "tina-tina-turner",
+  "title": "Tina!",
+  "artist": "Tina Turner",
+  "peak": 61,
+  "history": [
+    {
+      "date": "2008-10-18",
+      "rank": 61
+    },
+    {
+      "date": "2008-10-25",
+      "rank": 70
+    },
+    {
+      "date": "2008-11-01",
+      "rank": 90
+    },
+    {
+      "date": "2008-11-08",
+      "rank": 120
+    },
+    {
+      "date": "2008-11-15",
+      "rank": 129
+    },
+    {
+      "date": "2008-11-22",
+      "rank": 138
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Steamy Windows",
+      "id": "steamy-windows-tina-turner"
+    },
+    {
+      "title": "Better Be Good to Me",
+      "id": "better-be-good-to-me-tina-turner"
+    },
+    {
+      "title": "What You Get Is What You See",
+      "id": "what-you-get-is-what-you-see-tina-turner"
+    },
+    {
+      "title": "What’s Love Got to Do With It",
+      "id": "what-s-love-got-to-do-with-it-tina-turner"
+    },
+    {
+      "title": "Private Dancer",
+      "id": "private-dancer-tina-turner"
+    },
+    {
+      "title": "We Don’t Need Another Hero",
+      "id": "we-don-t-need-another-hero-thunderdome-tina-turner"
+    },
+    {
+      "title": "Let’s Stay Together (live in Amsterdam)",
+      "id": "let-s-stay-together-tina-turner"
+    },
+    {
+      "title": "The Best",
+      "id": "the-best-tina-turner"
+    },
+    {
+      "title": "Proud Mary",
+      "id": "proud-mary-ike-tina-turner"
+    },
+    {
+      "title": "Nutbush City Limits",
+      "id": "nutbush-city-limits-ike-tina-turner"
+    },
+    {
+      "title": "River Deep – Mountain High",
+      "id": null
+    },
+    {
+      "title": "Acid Queen",
+      "id": null
+    },
+    {
+      "title": "I Don’t Wanna Fight",
+      "id": null
+    },
+    {
+      "title": "GoldenEye",
+      "id": null
+    },
+    {
+      "title": "I Can’t Stand the Rain (live in Amsterdam)",
+      "id": null
+    },
+    {
+      "title": "Addicted to Love (live at Camden Palace)",
+      "id": null
+    },
+    {
+      "title": "It Would Be a Crime",
+      "id": null
+    },
+    {
+      "title": "I’m Ready",
+      "id": null
+    }
+  ]
+}

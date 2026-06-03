@@ -1,1 +1,58 @@
-{"id": "voyage-of-the-acolyte-steve-hackett", "title": "Voyage Of The Acolyte", "artist": "Steve Hackett", "peak": 191, "history": [{"date": "1976-04-17", "rank": 198}, {"date": "1976-04-24", "rank": 197}, {"date": "1976-05-01", "rank": 193}, {"date": "1976-05-08", "rank": 191}]}
+{
+  "id": "voyage-of-the-acolyte-steve-hackett",
+  "title": "Voyage Of The Acolyte",
+  "artist": "Steve Hackett",
+  "peak": 191,
+  "history": [
+    {
+      "date": "1976-04-17",
+      "rank": 198
+    },
+    {
+      "date": "1976-04-24",
+      "rank": 197
+    },
+    {
+      "date": "1976-05-01",
+      "rank": 193
+    },
+    {
+      "date": "1976-05-08",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ace of Wands",
+      "id": null
+    },
+    {
+      "title": "Hands of the Priestess, Part I",
+      "id": null
+    },
+    {
+      "title": "A Tower Struck Down",
+      "id": null
+    },
+    {
+      "title": "Hands of the Priestess, Part II",
+      "id": null
+    },
+    {
+      "title": "The Hermit",
+      "id": null
+    },
+    {
+      "title": "Star of Sirius",
+      "id": null
+    },
+    {
+      "title": "The Lovers",
+      "id": null
+    },
+    {
+      "title": "Shadow of the Hierophant",
+      "id": null
+    }
+  ]
+}

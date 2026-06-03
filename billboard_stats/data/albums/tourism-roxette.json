@@ -1,1 +1,106 @@
-{"id": "tourism-roxette", "title": "Tourism", "artist": "Roxette", "peak": 117, "history": [{"date": "1992-10-24", "rank": 166}, {"date": "1992-10-31", "rank": 130}, {"date": "1992-11-07", "rank": 129}, {"date": "1992-11-14", "rank": 117}, {"date": "1992-11-21", "rank": 129}, {"date": "1992-11-28", "rank": 157}, {"date": "1992-12-05", "rank": 162}, {"date": "1992-12-12", "rank": 186}]}
+{
+  "id": "tourism-roxette",
+  "title": "Tourism",
+  "artist": "Roxette",
+  "peak": 117,
+  "history": [
+    {
+      "date": "1992-10-24",
+      "rank": 166
+    },
+    {
+      "date": "1992-10-31",
+      "rank": 130
+    },
+    {
+      "date": "1992-11-07",
+      "rank": 129
+    },
+    {
+      "date": "1992-11-14",
+      "rank": 117
+    },
+    {
+      "date": "1992-11-21",
+      "rank": 129
+    },
+    {
+      "date": "1992-11-28",
+      "rank": 157
+    },
+    {
+      "date": "1992-12-05",
+      "rank": 162
+    },
+    {
+      "date": "1992-12-12",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "How Do You Do!",
+      "id": "how-do-you-do-roxette"
+    },
+    {
+      "title": "The Look",
+      "id": "the-look-roxette"
+    },
+    {
+      "title": "It Must Have Been Love",
+      "id": "it-must-have-been-love-from-pretty-woman-roxette"
+    },
+    {
+      "title": "Joyride",
+      "id": "joyride-roxette"
+    },
+    {
+      "title": "Fingertips",
+      "id": null
+    },
+    {
+      "title": "The Heart Shaped Sea",
+      "id": null
+    },
+    {
+      "title": "The Rain",
+      "id": null
+    },
+    {
+      "title": "Keep Me Waiting",
+      "id": null
+    },
+    {
+      "title": "Cinnamon Street",
+      "id": null
+    },
+    {
+      "title": "Never Is a Long Time",
+      "id": null
+    },
+    {
+      "title": "Silver Blue",
+      "id": null
+    },
+    {
+      "title": "Here Comes the Weekend",
+      "id": null
+    },
+    {
+      "title": "So Far Away",
+      "id": null
+    },
+    {
+      "title": "Come Back (Before You Leave)",
+      "id": null
+    },
+    {
+      "title": "Things Will Never Be the Same",
+      "id": null
+    },
+    {
+      "title": "Queen of Rain",
+      "id": null
+    }
+  ]
+}

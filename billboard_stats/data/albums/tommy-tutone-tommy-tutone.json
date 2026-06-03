@@ -1,1 +1,226 @@
-{"id": "tommy-tutone-tommy-tutone", "title": "Tommy Tutone", "artist": "Tommy Tutone", "peak": 20, "history": [{"date": "1980-05-24", "rank": 144}, {"date": "1980-05-31", "rank": 135}, {"date": "1980-06-07", "rank": 125}, {"date": "1980-06-14", "rank": 95}, {"date": "1980-06-21", "rank": 85}, {"date": "1980-06-28", "rank": 74}, {"date": "1980-07-05", "rank": 68}, {"date": "1980-07-12", "rank": 68}, {"date": "1980-07-19", "rank": 82}, {"date": "1980-07-26", "rank": 84}, {"date": "1980-08-02", "rank": 84}, {"date": "1980-08-09", "rank": 144}, {"date": "1980-08-16", "rank": 173}, {"date": "1982-02-06", "rank": 188}, {"date": "1982-02-13", "rank": 184}, {"date": "1982-02-20", "rank": 174}, {"date": "1982-02-27", "rank": 164}, {"date": "1982-03-06", "rank": 150}, {"date": "1982-03-13", "rank": 128}, {"date": "1982-03-20", "rank": 100}, {"date": "1982-03-27", "rank": 70}, {"date": "1982-04-03", "rank": 60}, {"date": "1982-04-10", "rank": 50}, {"date": "1982-04-17", "rank": 36}, {"date": "1982-04-24", "rank": 30}, {"date": "1982-05-01", "rank": 24}, {"date": "1982-05-08", "rank": 21}, {"date": "1982-05-15", "rank": 21}, {"date": "1982-05-22", "rank": 20}, {"date": "1982-05-29", "rank": 20}, {"date": "1982-06-05", "rank": 20}, {"date": "1982-06-12", "rank": 57}, {"date": "1982-06-19", "rank": 56}, {"date": "1982-06-26", "rank": 56}, {"date": "1982-07-03", "rank": 68}, {"date": "1982-07-10", "rank": 89}, {"date": "1982-07-17", "rank": 89}, {"date": "1982-07-24", "rank": 117}, {"date": "1982-07-31", "rank": 117}, {"date": "1982-08-07", "rank": 113}, {"date": "1982-08-14", "rank": 113}, {"date": "1982-08-21", "rank": 142}, {"date": "1982-08-28", "rank": 191}]}
+{
+  "id": "tommy-tutone-tommy-tutone",
+  "title": "Tommy Tutone",
+  "artist": "Tommy Tutone",
+  "peak": 20,
+  "history": [
+    {
+      "date": "1980-05-24",
+      "rank": 144
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 135
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 125
+    },
+    {
+      "date": "1980-06-14",
+      "rank": 95
+    },
+    {
+      "date": "1980-06-21",
+      "rank": 85
+    },
+    {
+      "date": "1980-06-28",
+      "rank": 74
+    },
+    {
+      "date": "1980-07-05",
+      "rank": 68
+    },
+    {
+      "date": "1980-07-12",
+      "rank": 68
+    },
+    {
+      "date": "1980-07-19",
+      "rank": 82
+    },
+    {
+      "date": "1980-07-26",
+      "rank": 84
+    },
+    {
+      "date": "1980-08-02",
+      "rank": 84
+    },
+    {
+      "date": "1980-08-09",
+      "rank": 144
+    },
+    {
+      "date": "1980-08-16",
+      "rank": 173
+    },
+    {
+      "date": "1982-02-06",
+      "rank": 188
+    },
+    {
+      "date": "1982-02-13",
+      "rank": 184
+    },
+    {
+      "date": "1982-02-20",
+      "rank": 174
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 164
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 150
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 128
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 100
+    },
+    {
+      "date": "1982-03-27",
+      "rank": 70
+    },
+    {
+      "date": "1982-04-03",
+      "rank": 60
+    },
+    {
+      "date": "1982-04-10",
+      "rank": 50
+    },
+    {
+      "date": "1982-04-17",
+      "rank": 36
+    },
+    {
+      "date": "1982-04-24",
+      "rank": 30
+    },
+    {
+      "date": "1982-05-01",
+      "rank": 24
+    },
+    {
+      "date": "1982-05-08",
+      "rank": 21
+    },
+    {
+      "date": "1982-05-15",
+      "rank": 21
+    },
+    {
+      "date": "1982-05-22",
+      "rank": 20
+    },
+    {
+      "date": "1982-05-29",
+      "rank": 20
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 20
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 57
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 56
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 56
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 68
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 89
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 89
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 117
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 117
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 113
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 113
+    },
+    {
+      "date": "1982-08-21",
+      "rank": 142
+    },
+    {
+      "date": "1982-08-28",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Angel Say No",
+      "id": "angel-say-no-tommy-tutone"
+    },
+    {
+      "title": "Cheap Date",
+      "id": null
+    },
+    {
+      "title": "Girl in the Back Seat",
+      "id": null
+    },
+    {
+      "title": "The Blame",
+      "id": null
+    },
+    {
+      "title": "Fat Chance",
+      "id": null
+    },
+    {
+      "title": "Rachel",
+      "id": null
+    },
+    {
+      "title": "Dancing Girl",
+      "id": null
+    },
+    {
+      "title": "Hide-Out",
+      "id": null
+    },
+    {
+      "title": "What ’cha Doin’ to Me",
+      "id": null
+    },
+    {
+      "title": "Am I Supposed to Lie",
+      "id": null
+    },
+    {
+      "title": "Sounds of a Summer Night",
+      "id": null
+    }
+  ]
+}

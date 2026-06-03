@@ -1,1 +1,302 @@
-{"id": "tracks-bruce-springsteen", "title": "Tracks", "artist": "Bruce Springsteen", "peak": 27, "history": [{"date": "1998-11-28", "rank": 27}, {"date": "1998-12-05", "rank": 98}, {"date": "1998-12-12", "rank": 131}, {"date": "1998-12-19", "rank": 126}, {"date": "1998-12-26", "rank": 98}, {"date": "1999-01-02", "rank": 111}, {"date": "1999-01-09", "rank": 134}]}
+{
+  "id": "tracks-bruce-springsteen",
+  "title": "Tracks",
+  "artist": "Bruce Springsteen",
+  "peak": 27,
+  "history": [
+    {
+      "date": "1998-11-28",
+      "rank": 27
+    },
+    {
+      "date": "1998-12-05",
+      "rank": 98
+    },
+    {
+      "date": "1998-12-12",
+      "rank": 131
+    },
+    {
+      "date": "1998-12-19",
+      "rank": 126
+    },
+    {
+      "date": "1998-12-26",
+      "rank": 98
+    },
+    {
+      "date": "1999-01-02",
+      "rank": 111
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 134
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Restless Nights",
+      "id": "prove-it-all-night-bruce-springsteen"
+    },
+    {
+      "title": "Born in the U.S.A.",
+      "id": "born-in-the-u-s-a-bruce-springsteen"
+    },
+    {
+      "title": "The Wish",
+      "id": "the-rising-bruce-springsteen"
+    },
+    {
+      "title": "My Lover Man",
+      "id": "cover-me-bruce-springsteen"
+    },
+    {
+      "title": "Over the Rise",
+      "id": "the-rising-bruce-springsteen"
+    },
+    {
+      "title": "Mary Queen of Arkansas",
+      "id": null
+    },
+    {
+      "title": "It’s Hard to Be a Saint in the City",
+      "id": null
+    },
+    {
+      "title": "Growin’ Up",
+      "id": null
+    },
+    {
+      "title": "Does This Bus Stop at 82nd Street?",
+      "id": null
+    },
+    {
+      "title": "Bishop Danced",
+      "id": null
+    },
+    {
+      "title": "Santa Ana",
+      "id": null
+    },
+    {
+      "title": "Seaside Bar Song",
+      "id": null
+    },
+    {
+      "title": "Zero and Blind Terry",
+      "id": null
+    },
+    {
+      "title": "Linda Let Me Be the One",
+      "id": null
+    },
+    {
+      "title": "Thundercrack",
+      "id": null
+    },
+    {
+      "title": "Rendezvous",
+      "id": null
+    },
+    {
+      "title": "Give the Girl a Kiss",
+      "id": null
+    },
+    {
+      "title": "Iceman",
+      "id": null
+    },
+    {
+      "title": "Bring on the Night",
+      "id": null
+    },
+    {
+      "title": "So Young and in Love",
+      "id": null
+    },
+    {
+      "title": "Hearts of Stone",
+      "id": null
+    },
+    {
+      "title": "Don’t Look Back",
+      "id": null
+    },
+    {
+      "title": "A Good Man Is Hard to Find (Pittsburgh)",
+      "id": null
+    },
+    {
+      "title": "Roulette",
+      "id": null
+    },
+    {
+      "title": "Dollhouse",
+      "id": null
+    },
+    {
+      "title": "Where the Bands Are",
+      "id": null
+    },
+    {
+      "title": "Loose Ends",
+      "id": null
+    },
+    {
+      "title": "Living on the Edge of the World",
+      "id": null
+    },
+    {
+      "title": "Wages of Sin",
+      "id": null
+    },
+    {
+      "title": "Take ’Em as They Come",
+      "id": null
+    },
+    {
+      "title": "Be True",
+      "id": null
+    },
+    {
+      "title": "Ricky Wants a Man of Her Own",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be With You",
+      "id": null
+    },
+    {
+      "title": "Mary Lou",
+      "id": null
+    },
+    {
+      "title": "Stolen Car",
+      "id": null
+    },
+    {
+      "title": "Johnny Bye‐Bye",
+      "id": null
+    },
+    {
+      "title": "Shut Out the Light",
+      "id": null
+    },
+    {
+      "title": "Cynthia",
+      "id": null
+    },
+    {
+      "title": "My Love Will Not Let You Down",
+      "id": null
+    },
+    {
+      "title": "This Hard Land",
+      "id": null
+    },
+    {
+      "title": "Frankie",
+      "id": null
+    },
+    {
+      "title": "TV Movie",
+      "id": null
+    },
+    {
+      "title": "Stand on It",
+      "id": null
+    },
+    {
+      "title": "Lion’s Den",
+      "id": null
+    },
+    {
+      "title": "Car Wash",
+      "id": null
+    },
+    {
+      "title": "Rockaway the Days",
+      "id": null
+    },
+    {
+      "title": "Brothers Under the Bridges (’83)",
+      "id": null
+    },
+    {
+      "title": "Man at the Top",
+      "id": null
+    },
+    {
+      "title": "Pink Cadillac",
+      "id": null
+    },
+    {
+      "title": "Two for the Road",
+      "id": null
+    },
+    {
+      "title": "Janey, Don’t You Lose Heart",
+      "id": null
+    },
+    {
+      "title": "When You Need Me",
+      "id": null
+    },
+    {
+      "title": "The Honeymooners",
+      "id": null
+    },
+    {
+      "title": "Lucky Man",
+      "id": null
+    },
+    {
+      "title": "Leavin’ Train",
+      "id": null
+    },
+    {
+      "title": "Seven Angels",
+      "id": null
+    },
+    {
+      "title": "Gave It a Name",
+      "id": null
+    },
+    {
+      "title": "Sad Eyes",
+      "id": null
+    },
+    {
+      "title": "When the Lights Go Out",
+      "id": null
+    },
+    {
+      "title": "Loose Change",
+      "id": null
+    },
+    {
+      "title": "Trouble in Paradise",
+      "id": null
+    },
+    {
+      "title": "Happy",
+      "id": null
+    },
+    {
+      "title": "Part Man, Part Monkey",
+      "id": null
+    },
+    {
+      "title": "Goin’ Cali",
+      "id": null
+    },
+    {
+      "title": "Back in Your Arms",
+      "id": null
+    },
+    {
+      "title": "Brothers Under the Bridge",
+      "id": null
+    }
+  ]
+}

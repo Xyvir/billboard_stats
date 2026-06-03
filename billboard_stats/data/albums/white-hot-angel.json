@@ -1,1 +1,102 @@
-{"id": "white-hot-angel", "title": "White Hot", "artist": "Angel", "peak": 55, "history": [{"date": "1978-02-04", "rank": 99}, {"date": "1978-02-11", "rank": 88}, {"date": "1978-02-18", "rank": 77}, {"date": "1978-02-25", "rank": 68}, {"date": "1978-03-04", "rank": 61}, {"date": "1978-03-11", "rank": 58}, {"date": "1978-03-18", "rank": 68}, {"date": "1978-03-25", "rank": 58}, {"date": "1978-04-01", "rank": 55}, {"date": "1978-04-08", "rank": 61}, {"date": "1978-04-15", "rank": 60}, {"date": "1978-04-22", "rank": 171}, {"date": "1978-04-29", "rank": 164}]}
+{
+  "id": "white-hot-angel",
+  "title": "White Hot",
+  "artist": "Angel",
+  "peak": 55,
+  "history": [
+    {
+      "date": "1978-02-04",
+      "rank": 99
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 88
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 77
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 68
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 61
+    },
+    {
+      "date": "1978-03-11",
+      "rank": 58
+    },
+    {
+      "date": "1978-03-18",
+      "rank": 68
+    },
+    {
+      "date": "1978-03-25",
+      "rank": 58
+    },
+    {
+      "date": "1978-04-01",
+      "rank": 55
+    },
+    {
+      "date": "1978-04-08",
+      "rank": 61
+    },
+    {
+      "date": "1978-04-15",
+      "rank": 60
+    },
+    {
+      "date": "1978-04-22",
+      "rank": 171
+    },
+    {
+      "date": "1978-04-29",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Ain’t Gonna Eat Out My Heart Anymore",
+      "id": "ain-t-gonna-eat-out-my-heart-anymore-angel"
+    },
+    {
+      "title": "Don’t Leave Me Lonely",
+      "id": null
+    },
+    {
+      "title": "Hold Me, Squeeze Me",
+      "id": null
+    },
+    {
+      "title": "Over and Over",
+      "id": null
+    },
+    {
+      "title": "Under Suspicion",
+      "id": null
+    },
+    {
+      "title": "Got Love If You Want It",
+      "id": null
+    },
+    {
+      "title": "Stick Like Glue",
+      "id": null
+    },
+    {
+      "title": "Flying With Broken Wings (Without You)",
+      "id": null
+    },
+    {
+      "title": "You Could Lose Me",
+      "id": null
+    },
+    {
+      "title": "The Winter Song",
+      "id": null
+    }
+  ]
+}

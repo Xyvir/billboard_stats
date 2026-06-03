@@ -1,1 +1,22 @@
-{"id": "the-truth-prince", "title": "The Truth", "artist": "Prince", "peak": 64, "history": [{"date": "2021-06-26", "rank": 64}]}
+{
+  "id": "the-truth-prince",
+  "title": "The Truth",
+  "artist": "Prince",
+  "peak": 64,
+  "history": [
+    {
+      "date": "2021-06-26",
+      "rank": 64
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Truth",
+      "id": null
+    },
+    {
+      "title": "Don’t Play Me",
+      "id": null
+    }
+  ]
+}

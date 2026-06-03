@@ -1,1 +1,206 @@
-{"id": "tyrese-tyrese", "title": "Tyrese", "artist": "Tyrese", "peak": 17, "history": [{"date": "1998-11-14", "rank": 189}, {"date": "1999-01-09", "rank": 198}, {"date": "1999-01-16", "rank": 125}, {"date": "1999-01-23", "rank": 81}, {"date": "1999-01-30", "rank": 55}, {"date": "1999-02-06", "rank": 48}, {"date": "1999-02-13", "rank": 37}, {"date": "1999-02-20", "rank": 31}, {"date": "1999-02-27", "rank": 28}, {"date": "1999-03-06", "rank": 17}, {"date": "1999-03-13", "rank": 21}, {"date": "1999-03-20", "rank": 20}, {"date": "1999-03-27", "rank": 23}, {"date": "1999-04-03", "rank": 24}, {"date": "1999-04-10", "rank": 30}, {"date": "1999-04-17", "rank": 36}, {"date": "1999-04-24", "rank": 36}, {"date": "1999-05-01", "rank": 45}, {"date": "1999-05-08", "rank": 43}, {"date": "1999-05-15", "rank": 54}, {"date": "1999-05-22", "rank": 60}, {"date": "1999-05-29", "rank": 53}, {"date": "1999-06-05", "rank": 52}, {"date": "1999-06-12", "rank": 56}, {"date": "1999-06-19", "rank": 63}, {"date": "1999-06-26", "rank": 80}, {"date": "1999-07-03", "rank": 85}, {"date": "1999-07-10", "rank": 95}, {"date": "1999-07-17", "rank": 113}, {"date": "1999-07-24", "rank": 131}, {"date": "1999-07-31", "rank": 136}, {"date": "1999-08-07", "rank": 142}, {"date": "1999-08-14", "rank": 157}, {"date": "1999-08-21", "rank": 169}, {"date": "1999-08-28", "rank": 194}, {"date": "1999-09-04", "rank": 200}]}
+{
+  "id": "tyrese-tyrese",
+  "title": "Tyrese",
+  "artist": "Tyrese",
+  "peak": 17,
+  "history": [
+    {
+      "date": "1998-11-14",
+      "rank": 189
+    },
+    {
+      "date": "1999-01-09",
+      "rank": 198
+    },
+    {
+      "date": "1999-01-16",
+      "rank": 125
+    },
+    {
+      "date": "1999-01-23",
+      "rank": 81
+    },
+    {
+      "date": "1999-01-30",
+      "rank": 55
+    },
+    {
+      "date": "1999-02-06",
+      "rank": 48
+    },
+    {
+      "date": "1999-02-13",
+      "rank": 37
+    },
+    {
+      "date": "1999-02-20",
+      "rank": 31
+    },
+    {
+      "date": "1999-02-27",
+      "rank": 28
+    },
+    {
+      "date": "1999-03-06",
+      "rank": 17
+    },
+    {
+      "date": "1999-03-13",
+      "rank": 21
+    },
+    {
+      "date": "1999-03-20",
+      "rank": 20
+    },
+    {
+      "date": "1999-03-27",
+      "rank": 23
+    },
+    {
+      "date": "1999-04-03",
+      "rank": 24
+    },
+    {
+      "date": "1999-04-10",
+      "rank": 30
+    },
+    {
+      "date": "1999-04-17",
+      "rank": 36
+    },
+    {
+      "date": "1999-04-24",
+      "rank": 36
+    },
+    {
+      "date": "1999-05-01",
+      "rank": 45
+    },
+    {
+      "date": "1999-05-08",
+      "rank": 43
+    },
+    {
+      "date": "1999-05-15",
+      "rank": 54
+    },
+    {
+      "date": "1999-05-22",
+      "rank": 60
+    },
+    {
+      "date": "1999-05-29",
+      "rank": 53
+    },
+    {
+      "date": "1999-06-05",
+      "rank": 52
+    },
+    {
+      "date": "1999-06-12",
+      "rank": 56
+    },
+    {
+      "date": "1999-06-19",
+      "rank": 63
+    },
+    {
+      "date": "1999-06-26",
+      "rank": 80
+    },
+    {
+      "date": "1999-07-03",
+      "rank": 85
+    },
+    {
+      "date": "1999-07-10",
+      "rank": 95
+    },
+    {
+      "date": "1999-07-17",
+      "rank": 113
+    },
+    {
+      "date": "1999-07-24",
+      "rank": 131
+    },
+    {
+      "date": "1999-07-31",
+      "rank": 136
+    },
+    {
+      "date": "1999-08-07",
+      "rank": 142
+    },
+    {
+      "date": "1999-08-14",
+      "rank": 157
+    },
+    {
+      "date": "1999-08-21",
+      "rank": 169
+    },
+    {
+      "date": "1999-08-28",
+      "rank": 194
+    },
+    {
+      "date": "1999-09-04",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Nobody Else",
+      "id": "nobody-else-tyrese"
+    },
+    {
+      "title": "Sweet Lady",
+      "id": "sweet-lady-tyrese"
+    },
+    {
+      "title": "Lately",
+      "id": "lately-tyrese"
+    },
+    {
+      "title": "Tell Me, Tell Me",
+      "id": null
+    },
+    {
+      "title": "Promises",
+      "id": null
+    },
+    {
+      "title": "Give Love a Try",
+      "id": null
+    },
+    {
+      "title": "Do You Need",
+      "id": null
+    },
+    {
+      "title": "You Get Yours",
+      "id": null
+    },
+    {
+      "title": "Ain’t Nothin’ Like a Jones",
+      "id": null
+    },
+    {
+      "title": "Taste My Love",
+      "id": null
+    },
+    {
+      "title": "I Can’t Go On",
+      "id": null
+    },
+    {
+      "title": "Stay in Touch",
+      "id": null
+    },
+    {
+      "title": "Sweet Lady (Darkchild remix)",
+      "id": null
+    }
+  ]
+}

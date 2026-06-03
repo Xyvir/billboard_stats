@@ -1,1 +1,66 @@
-{"id": "the-sweet-sweet", "title": "The Sweet", "artist": "Sweet", "peak": 191, "history": [{"date": "1973-07-28", "rank": 196}, {"date": "1973-08-04", "rank": 191}, {"date": "1973-08-11", "rank": 195}, {"date": "1973-08-18", "rank": 200}]}
+{
+  "id": "the-sweet-sweet",
+  "title": "The Sweet",
+  "artist": "Sweet",
+  "peak": 191,
+  "history": [
+    {
+      "date": "1973-07-28",
+      "rank": 196
+    },
+    {
+      "date": "1973-08-04",
+      "rank": 191
+    },
+    {
+      "date": "1973-08-11",
+      "rank": 195
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Little Willy",
+      "id": "little-willy-the-sweet"
+    },
+    {
+      "title": "Block Buster!",
+      "id": "blockbuster-the-sweet"
+    },
+    {
+      "title": "New York Connection",
+      "id": null
+    },
+    {
+      "title": "Wig‐Wam Bam",
+      "id": null
+    },
+    {
+      "title": "Done Me Wrong Alright",
+      "id": null
+    },
+    {
+      "title": "Hell Raiser",
+      "id": null
+    },
+    {
+      "title": "Need a Lot of Lovin’",
+      "id": null
+    },
+    {
+      "title": "Man From Mecca",
+      "id": null
+    },
+    {
+      "title": "Spotlight",
+      "id": null
+    },
+    {
+      "title": "You’re Not Wrong for Loving Me",
+      "id": null
+    }
+  ]
+}

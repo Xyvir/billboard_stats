@@ -1,1 +1,58 @@
-{"id": "too-hot-to-sleep-survivor", "title": "Too Hot To Sleep", "artist": "Survivor", "peak": 187, "history": [{"date": "1988-11-05", "rank": 187}, {"date": "1988-11-12", "rank": 187}]}
+{
+  "id": "too-hot-to-sleep-survivor",
+  "title": "Too Hot To Sleep",
+  "artist": "Survivor",
+  "peak": 187,
+  "history": [
+    {
+      "date": "1988-11-05",
+      "rank": 187
+    },
+    {
+      "date": "1988-11-12",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Didn’t Know It Was Love",
+      "id": "didn-t-know-it-was-love-survivor"
+    },
+    {
+      "title": "Across the Miles",
+      "id": "across-the-miles-survivor"
+    },
+    {
+      "title": "Burning Bridges",
+      "id": "burning-heart-survivor"
+    },
+    {
+      "title": "She’s a Star",
+      "id": null
+    },
+    {
+      "title": "Desperate Dreams",
+      "id": null
+    },
+    {
+      "title": "Too Hot to Sleep",
+      "id": null
+    },
+    {
+      "title": "Rhythm of the City",
+      "id": null
+    },
+    {
+      "title": "Here Comes Desire",
+      "id": null
+    },
+    {
+      "title": "Tell Me I’m the One",
+      "id": null
+    },
+    {
+      "title": "Can’t Give It Up",
+      "id": null
+    }
+  ]
+}

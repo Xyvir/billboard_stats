@@ -1,1 +1,122 @@
-{"id": "tokyo-dome-live-in-concert-van-halen", "title": "Tokyo Dome Live In Concert", "artist": "Van Halen", "peak": 20, "history": [{"date": "2015-04-18", "rank": 20}, {"date": "2015-04-25", "rank": 60}, {"date": "2015-05-02", "rank": 135}]}
+{
+  "id": "tokyo-dome-live-in-concert-van-halen",
+  "title": "Tokyo Dome Live In Concert",
+  "artist": "Van Halen",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2015-04-18",
+      "rank": 20
+    },
+    {
+      "date": "2015-04-25",
+      "rank": 60
+    },
+    {
+      "date": "2015-05-02",
+      "rank": 135
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Runnin’ With the Devil",
+      "id": "runnin-with-the-devil-van-halen"
+    },
+    {
+      "title": "She’s the Woman",
+      "id": "oh-pretty-woman-van-halen"
+    },
+    {
+      "title": "Tattoo",
+      "id": "tattoo-van-halen"
+    },
+    {
+      "title": "(Oh) Pretty Woman",
+      "id": "oh-pretty-woman-van-halen"
+    },
+    {
+      "title": "You Really Got Me",
+      "id": "you-really-got-me-van-halen"
+    },
+    {
+      "title": "Dance the Night Away",
+      "id": "dance-the-night-away-van-halen"
+    },
+    {
+      "title": "I’ll Wait",
+      "id": "i-ll-wait-van-halen"
+    },
+    {
+      "title": "And the Cradle Will Rock…",
+      "id": "and-the-cradle-will-rock-van-halen"
+    },
+    {
+      "title": "Hot for Teacher",
+      "id": "hot-for-teacher-van-halen"
+    },
+    {
+      "title": "Women in Love…",
+      "id": "when-it-s-love-van-halen"
+    },
+    {
+      "title": "Beautiful Girls",
+      "id": "beautiful-girls-van-halen"
+    },
+    {
+      "title": "Panama",
+      "id": "panama-van-halen"
+    },
+    {
+      "title": "Ain’t Talkin’ ’Bout Love",
+      "id": "why-can-t-this-be-love-van-halen"
+    },
+    {
+      "title": "Jump",
+      "id": "jump-van-halen"
+    },
+    {
+      "title": "Unchained",
+      "id": null
+    },
+    {
+      "title": "I’m the One",
+      "id": null
+    },
+    {
+      "title": "Everybody Wants Some!!",
+      "id": null
+    },
+    {
+      "title": "Somebody Get Me a Doctor",
+      "id": null
+    },
+    {
+      "title": "China Town",
+      "id": null
+    },
+    {
+      "title": "Hear About It Later",
+      "id": null
+    },
+    {
+      "title": "Drum Struck",
+      "id": null
+    },
+    {
+      "title": "Romeo Delight",
+      "id": null
+    },
+    {
+      "title": "Mean Street",
+      "id": null
+    },
+    {
+      "title": "Ice Cream Man",
+      "id": null
+    },
+    {
+      "title": "Eruption",
+      "id": null
+    }
+  ]
+}

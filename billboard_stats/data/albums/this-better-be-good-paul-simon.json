@@ -1,1 +1,94 @@
-{"id": "this-better-be-good-paul-simon", "title": "This Better Be Good", "artist": "Paul Simon", "peak": 60, "history": [{"date": "2009-07-18", "rank": 60}, {"date": "2009-07-25", "rank": 64}, {"date": "2009-08-01", "rank": 79}, {"date": "2009-08-08", "rank": 92}, {"date": "2009-08-15", "rank": 119}]}
+{
+  "id": "this-better-be-good-paul-simon",
+  "title": "This Better Be Good",
+  "artist": "Paul Simon",
+  "peak": 60,
+  "history": [
+    {
+      "date": "2009-07-18",
+      "rank": 60
+    },
+    {
+      "date": "2009-07-25",
+      "rank": 64
+    },
+    {
+      "date": "2009-08-01",
+      "rank": 79
+    },
+    {
+      "date": "2009-08-08",
+      "rank": 92
+    },
+    {
+      "date": "2009-08-15",
+      "rank": 119
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Kodachrome",
+      "id": "kodachrome-paul-simon"
+    },
+    {
+      "title": "Late in the Evening",
+      "id": "late-in-the-evening-paul-simon"
+    },
+    {
+      "title": "Slip Slidin’ Away",
+      "id": "slip-slidin-away-paul-simon"
+    },
+    {
+      "title": "Me and Julio Down by the Schoolyard",
+      "id": "me-and-julio-down-by-the-schoolyard-paul-simon"
+    },
+    {
+      "title": "Mother and Child Reunion",
+      "id": "mother-and-child-reunion-paul-simon"
+    },
+    {
+      "title": "American Tune",
+      "id": "american-tune-paul-simon"
+    },
+    {
+      "title": "The Obvious Child",
+      "id": "the-obvious-child-paul-simon"
+    },
+    {
+      "title": "Peace Like a River",
+      "id": null
+    },
+    {
+      "title": "Loves Me Like a Rock",
+      "id": null
+    },
+    {
+      "title": "Diamonds on the Soles of Her Shoes",
+      "id": null
+    },
+    {
+      "title": "Under African Skies",
+      "id": null
+    },
+    {
+      "title": "Señorita With a Necklace of Tears",
+      "id": null
+    },
+    {
+      "title": "Bernadette",
+      "id": null
+    },
+    {
+      "title": "Train in the Distance",
+      "id": null
+    },
+    {
+      "title": "Father and Daughter",
+      "id": null
+    },
+    {
+      "title": "Sure Don’t Feel Like Love",
+      "id": null
+    }
+  ]
+}

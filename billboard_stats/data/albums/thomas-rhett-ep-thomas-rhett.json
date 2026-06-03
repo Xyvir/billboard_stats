@@ -1,1 +1,34 @@
-{"id": "thomas-rhett-ep-thomas-rhett", "title": "Thomas Rhett (EP)", "artist": "Thomas Rhett", "peak": 133, "history": [{"date": "2012-09-15", "rank": 133}]}
+{
+  "id": "thomas-rhett-ep-thomas-rhett",
+  "title": "Thomas Rhett (EP)",
+  "artist": "Thomas Rhett",
+  "peak": 133,
+  "history": [
+    {
+      "date": "2012-09-15",
+      "rank": 133
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Something to Do With My Hands",
+      "id": "something-to-do-with-my-hands-thomas-rhett"
+    },
+    {
+      "title": "Make Me Wanna",
+      "id": "make-me-wanna-thomas-rhett"
+    },
+    {
+      "title": "Beer With Jesus",
+      "id": null
+    },
+    {
+      "title": "Front Porch Junkies",
+      "id": null
+    },
+    {
+      "title": "Whatcha Got in That Cup",
+      "id": null
+    }
+  ]
+}

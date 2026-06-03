@@ -1,1 +1,114 @@
-{"id": "usher-usher", "title": "Usher", "artist": "Usher", "peak": 167, "history": [{"date": "1994-09-17", "rank": 187}, {"date": "1994-09-24", "rank": 174}, {"date": "1994-10-01", "rank": 193}, {"date": "1994-10-08", "rank": 191}, {"date": "1994-10-15", "rank": 181}, {"date": "1994-10-22", "rank": 171}, {"date": "1994-10-29", "rank": 167}, {"date": "1994-11-05", "rank": 195}, {"date": "1994-11-12", "rank": 196}, {"date": "1994-11-19", "rank": 194}, {"date": "1995-03-18", "rank": 186}, {"date": "1995-03-25", "rank": 169}]}
+{
+  "id": "usher-usher",
+  "title": "Usher",
+  "artist": "Usher",
+  "peak": 167,
+  "history": [
+    {
+      "date": "1994-09-17",
+      "rank": 187
+    },
+    {
+      "date": "1994-09-24",
+      "rank": 174
+    },
+    {
+      "date": "1994-10-01",
+      "rank": 193
+    },
+    {
+      "date": "1994-10-08",
+      "rank": 191
+    },
+    {
+      "date": "1994-10-15",
+      "rank": 181
+    },
+    {
+      "date": "1994-10-22",
+      "rank": 171
+    },
+    {
+      "date": "1994-10-29",
+      "rank": 167
+    },
+    {
+      "date": "1994-11-05",
+      "rank": 195
+    },
+    {
+      "date": "1994-11-12",
+      "rank": 196
+    },
+    {
+      "date": "1994-11-19",
+      "rank": 194
+    },
+    {
+      "date": "1995-03-18",
+      "rank": 186
+    },
+    {
+      "date": "1995-03-25",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Can U Get Wit It",
+      "id": "can-u-get-wit-it-usher"
+    },
+    {
+      "title": "Think of You",
+      "id": "think-of-you-usher"
+    },
+    {
+      "title": "The Many Ways",
+      "id": "my-way-usher"
+    },
+    {
+      "title": "I’ll Make It Right",
+      "id": null
+    },
+    {
+      "title": "Interlude 1",
+      "id": null
+    },
+    {
+      "title": "Crazy",
+      "id": null
+    },
+    {
+      "title": "Slow Love",
+      "id": null
+    },
+    {
+      "title": "I’ll Show You Love",
+      "id": null
+    },
+    {
+      "title": "Interlude 2 (Can’t Stop)",
+      "id": null
+    },
+    {
+      "title": "Love Was Here",
+      "id": null
+    },
+    {
+      "title": "Whispers",
+      "id": null
+    },
+    {
+      "title": "You Took My Heart",
+      "id": null
+    },
+    {
+      "title": "Smile Again",
+      "id": null
+    },
+    {
+      "title": "Final Goodbye",
+      "id": null
+    }
+  ]
+}

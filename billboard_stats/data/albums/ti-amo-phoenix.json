@@ -1,1 +1,58 @@
-{"id": "ti-amo-phoenix", "title": "Ti Amo", "artist": "Phoenix", "peak": 42, "history": [{"date": "2017-07-01", "rank": 42}, {"date": "2017-07-08", "rank": 199}]}
+{
+  "id": "ti-amo-phoenix",
+  "title": "Ti Amo",
+  "artist": "Phoenix",
+  "peak": 42,
+  "history": [
+    {
+      "date": "2017-07-01",
+      "rank": 42
+    },
+    {
+      "date": "2017-07-08",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "J‐Boy",
+      "id": null
+    },
+    {
+      "title": "Ti amo",
+      "id": null
+    },
+    {
+      "title": "Tuttifrutti",
+      "id": null
+    },
+    {
+      "title": "Fior di latte",
+      "id": null
+    },
+    {
+      "title": "Lovelife",
+      "id": null
+    },
+    {
+      "title": "Goodbye Soleil",
+      "id": null
+    },
+    {
+      "title": "Fleur de lys",
+      "id": null
+    },
+    {
+      "title": "Role Model",
+      "id": null
+    },
+    {
+      "title": "Via Veneto",
+      "id": null
+    },
+    {
+      "title": "Telefono",
+      "id": null
+    }
+  ]
+}

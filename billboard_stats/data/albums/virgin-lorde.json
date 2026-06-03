@@ -1,1 +1,74 @@
-{"id": "virgin-lorde", "title": "Virgin", "artist": "Lorde", "peak": 2, "history": [{"date": "2025-07-12", "rank": 2}, {"date": "2025-07-19", "rank": 25}, {"date": "2025-07-26", "rank": 66}, {"date": "2025-08-02", "rank": 120}, {"date": "2025-08-09", "rank": 165}]}
+{
+  "id": "virgin-lorde",
+  "title": "Virgin",
+  "artist": "Lorde",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2025-07-12",
+      "rank": 2
+    },
+    {
+      "date": "2025-07-19",
+      "rank": 25
+    },
+    {
+      "date": "2025-07-26",
+      "rank": 66
+    },
+    {
+      "date": "2025-08-02",
+      "rank": 120
+    },
+    {
+      "date": "2025-08-09",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What Was That",
+      "id": "what-was-that-lorde"
+    },
+    {
+      "title": "Hammer",
+      "id": null
+    },
+    {
+      "title": "Shapeshifter",
+      "id": null
+    },
+    {
+      "title": "Man of the Year",
+      "id": null
+    },
+    {
+      "title": "Favourite Daughter",
+      "id": null
+    },
+    {
+      "title": "Current Affairs",
+      "id": null
+    },
+    {
+      "title": "Clearblue",
+      "id": null
+    },
+    {
+      "title": "GRWM",
+      "id": null
+    },
+    {
+      "title": "Broken Glass",
+      "id": null
+    },
+    {
+      "title": "If She Could See Me Now",
+      "id": null
+    },
+    {
+      "title": "David",
+      "id": null
+    }
+  ]
+}

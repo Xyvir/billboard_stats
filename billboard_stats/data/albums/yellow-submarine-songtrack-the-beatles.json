@@ -1,1 +1,134 @@
-{"id": "yellow-submarine-songtrack-the-beatles", "title": "Yellow Submarine Songtrack", "artist": "The Beatles", "peak": 15, "history": [{"date": "1999-10-02", "rank": 15}, {"date": "1999-10-09", "rank": 26}, {"date": "1999-10-16", "rank": 45}, {"date": "1999-10-23", "rank": 59}, {"date": "1999-10-30", "rank": 71}, {"date": "1999-11-06", "rank": 84}, {"date": "1999-11-13", "rank": 108}, {"date": "1999-11-20", "rank": 134}, {"date": "1999-11-27", "rank": 153}, {"date": "1999-12-04", "rank": 178}, {"date": "1999-12-11", "rank": 187}, {"date": "1999-12-18", "rank": 161}, {"date": "1999-12-25", "rank": 162}, {"date": "2000-01-01", "rank": 154}, {"date": "2000-01-08", "rank": 146}, {"date": "2012-06-23", "rank": 55}]}
+{
+  "id": "yellow-submarine-songtrack-the-beatles",
+  "title": "Yellow Submarine Songtrack",
+  "artist": "The Beatles",
+  "peak": 15,
+  "history": [
+    {
+      "date": "1999-10-02",
+      "rank": 15
+    },
+    {
+      "date": "1999-10-09",
+      "rank": 26
+    },
+    {
+      "date": "1999-10-16",
+      "rank": 45
+    },
+    {
+      "date": "1999-10-23",
+      "rank": 59
+    },
+    {
+      "date": "1999-10-30",
+      "rank": 71
+    },
+    {
+      "date": "1999-11-06",
+      "rank": 84
+    },
+    {
+      "date": "1999-11-13",
+      "rank": 108
+    },
+    {
+      "date": "1999-11-20",
+      "rank": 134
+    },
+    {
+      "date": "1999-11-27",
+      "rank": 153
+    },
+    {
+      "date": "1999-12-04",
+      "rank": 178
+    },
+    {
+      "date": "1999-12-11",
+      "rank": 187
+    },
+    {
+      "date": "1999-12-18",
+      "rank": 161
+    },
+    {
+      "date": "1999-12-25",
+      "rank": 162
+    },
+    {
+      "date": "2000-01-01",
+      "rank": 154
+    },
+    {
+      "date": "2000-01-08",
+      "rank": 146
+    },
+    {
+      "date": "2012-06-23",
+      "rank": 55
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Yellow Submarine",
+      "id": "yellow-submarine-the-beatles"
+    },
+    {
+      "title": "Hey Bulldog",
+      "id": "hey-jude-the-beatles"
+    },
+    {
+      "title": "Eleanor Rigby",
+      "id": "eleanor-rigby-the-beatles"
+    },
+    {
+      "title": "Love You To",
+      "id": "she-loves-you-the-beatles"
+    },
+    {
+      "title": "Think for Yourself",
+      "id": "thank-you-girl-the-beatles"
+    },
+    {
+      "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+      "id": "sgt-pepper-s-lonely-hearts-club-band-with-a-little-help-from-my-friends-the-beatles"
+    },
+    {
+      "title": "With a Little Help From My Friends",
+      "id": "sgt-pepper-s-lonely-hearts-club-band-with-a-little-help-from-my-friends-the-beatles"
+    },
+    {
+      "title": "Baby You’re a Rich Man",
+      "id": "baby-you-re-a-rich-man-the-beatles"
+    },
+    {
+      "title": "All You Need Is Love",
+      "id": "all-you-need-is-love-the-beatles"
+    },
+    {
+      "title": "Nowhere Man",
+      "id": "nowhere-man-the-beatles"
+    },
+    {
+      "title": "All Together Now",
+      "id": null
+    },
+    {
+      "title": "Lucy in the Sky With Diamonds",
+      "id": null
+    },
+    {
+      "title": "Only a Northern Song",
+      "id": null
+    },
+    {
+      "title": "When I’m Sixty‐Four",
+      "id": null
+    },
+    {
+      "title": "It’s All Too Much",
+      "id": null
+    }
+  ]
+}

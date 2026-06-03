@@ -1,1 +1,110 @@
-{"id": "this-is-the-shack-the-dove-shack", "title": "This Is The Shack", "artist": "The Dove Shack", "peak": 68, "history": [{"date": "1995-09-09", "rank": 68}, {"date": "1995-09-16", "rank": 90}, {"date": "1995-09-23", "rank": 92}, {"date": "1995-09-30", "rank": 101}, {"date": "1995-10-07", "rank": 107}, {"date": "1995-10-14", "rank": 133}, {"date": "1995-10-21", "rank": 146}, {"date": "1995-10-28", "rank": 184}]}
+{
+  "id": "this-is-the-shack-the-dove-shack",
+  "title": "This Is The Shack",
+  "artist": "The Dove Shack",
+  "peak": 68,
+  "history": [
+    {
+      "date": "1995-09-09",
+      "rank": 68
+    },
+    {
+      "date": "1995-09-16",
+      "rank": 90
+    },
+    {
+      "date": "1995-09-23",
+      "rank": 92
+    },
+    {
+      "date": "1995-09-30",
+      "rank": 101
+    },
+    {
+      "date": "1995-10-07",
+      "rank": 107
+    },
+    {
+      "date": "1995-10-14",
+      "rank": 133
+    },
+    {
+      "date": "1995-10-21",
+      "rank": 146
+    },
+    {
+      "date": "1995-10-28",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Summertime in the LBC",
+      "id": "summertime-in-the-lbc-from-the-show-the-dove-shack"
+    },
+    {
+      "title": "Summertime in the LBC (Rap)",
+      "id": "summertime-in-the-lbc-from-the-show-the-dove-shack"
+    },
+    {
+      "title": "Intro (Skit)",
+      "id": null
+    },
+    {
+      "title": "Smoke Out",
+      "id": null
+    },
+    {
+      "title": "This Is the Shack",
+      "id": null
+    },
+    {
+      "title": "Bomb Drop",
+      "id": null
+    },
+    {
+      "title": "The Train (Skit)",
+      "id": null
+    },
+    {
+      "title": "Fuck Ya Mouth",
+      "id": null
+    },
+    {
+      "title": "Slap a Hoe (Skit)",
+      "id": null
+    },
+    {
+      "title": "Freestyle Interview (Skit)",
+      "id": null
+    },
+    {
+      "title": "Freestyle",
+      "id": null
+    },
+    {
+      "title": "Crooked Cop (Skit)",
+      "id": null
+    },
+    {
+      "title": "Ghetto Lofe",
+      "id": null
+    },
+    {
+      "title": "East Side Party",
+      "id": null
+    },
+    {
+      "title": "Rollin Wit a Gang",
+      "id": null
+    },
+    {
+      "title": "We Funk (The G Funk)",
+      "id": null
+    },
+    {
+      "title": "There'll Come a Day",
+      "id": null
+    }
+  ]
+}

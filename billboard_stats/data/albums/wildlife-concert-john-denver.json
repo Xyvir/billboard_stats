@@ -1,1 +1,138 @@
-{"id": "wildlife-concert-john-denver", "title": "Wildlife Concert", "artist": "John Denver", "peak": 104, "history": [{"date": "1995-07-01", "rank": 104}, {"date": "1995-07-08", "rank": 139}, {"date": "1995-07-15", "rank": 173}, {"date": "1995-08-05", "rank": 134}]}
+{
+  "id": "wildlife-concert-john-denver",
+  "title": "Wildlife Concert",
+  "artist": "John Denver",
+  "peak": 104,
+  "history": [
+    {
+      "date": "1995-07-01",
+      "rank": 104
+    },
+    {
+      "date": "1995-07-08",
+      "rank": 139
+    },
+    {
+      "date": "1995-07-15",
+      "rank": 173
+    },
+    {
+      "date": "1995-08-05",
+      "rank": 134
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rocky Mountain High",
+      "id": "rocky-mountain-high-john-denver"
+    },
+    {
+      "title": "Take Me Home, Country Roads",
+      "id": "thank-god-i-m-a-country-boy-john-denver"
+    },
+    {
+      "title": "Back Home Again",
+      "id": "back-home-again-john-denver"
+    },
+    {
+      "title": "I Guess He’d Rather Be in Colorado",
+      "id": "i-d-rather-be-a-cowboy-john-denver"
+    },
+    {
+      "title": "Sunshine on My Shoulders",
+      "id": "sunshine-on-my-shoulders-john-denver"
+    },
+    {
+      "title": "Shanghai Breezes",
+      "id": "shanghai-breezes-john-denver"
+    },
+    {
+      "title": "Fly Away",
+      "id": "fly-away-john-denver"
+    },
+    {
+      "title": "Annie’s Song",
+      "id": "annie-s-song-john-denver"
+    },
+    {
+      "title": "Rhymes & Reasons",
+      "id": null
+    },
+    {
+      "title": "Matthew",
+      "id": null
+    },
+    {
+      "title": "You Say the Battle Is Over",
+      "id": null
+    },
+    {
+      "title": "Eagles and Horses",
+      "id": null
+    },
+    {
+      "title": "Darcy Farrow",
+      "id": null
+    },
+    {
+      "title": "Whispering Jesse",
+      "id": null
+    },
+    {
+      "title": "Me & My Uncle",
+      "id": null
+    },
+    {
+      "title": "Wild Montana Skies",
+      "id": null
+    },
+    {
+      "title": "Medley: Leaving on a Jet Plane / Goodbye Again",
+      "id": null
+    },
+    {
+      "title": "Bet on the Blues",
+      "id": null
+    },
+    {
+      "title": "The Harder They Fall",
+      "id": null
+    },
+    {
+      "title": "A Song for All Lovers",
+      "id": null
+    },
+    {
+      "title": "Dreamland Express",
+      "id": null
+    },
+    {
+      "title": "For You",
+      "id": null
+    },
+    {
+      "title": "Is It Love?",
+      "id": null
+    },
+    {
+      "title": "Falling Out of Love",
+      "id": null
+    },
+    {
+      "title": "Poems, Prayers & Promises",
+      "id": null
+    },
+    {
+      "title": "Calypso",
+      "id": null
+    },
+    {
+      "title": "Amazon",
+      "id": null
+    },
+    {
+      "title": "This Old Guitar",
+      "id": null
+    }
+  ]
+}

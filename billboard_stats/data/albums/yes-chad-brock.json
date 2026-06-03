@@ -1,1 +1,58 @@
-{"id": "yes-chad-brock", "title": "Yes!", "artist": "Chad Brock", "peak": 125, "history": [{"date": "2000-05-20", "rank": 125}, {"date": "2000-05-27", "rank": 164}]}
+{
+  "id": "yes-chad-brock",
+  "title": "Yes!",
+  "artist": "Chad Brock",
+  "peak": 125,
+  "history": [
+    {
+      "date": "2000-05-20",
+      "rank": 125
+    },
+    {
+      "date": "2000-05-27",
+      "rank": 164
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Yes!",
+      "id": "yes-chad-brock"
+    },
+    {
+      "title": "Hey Mister",
+      "id": null
+    },
+    {
+      "title": "Young Enough to Know It All",
+      "id": null
+    },
+    {
+      "title": "The Visit",
+      "id": null
+    },
+    {
+      "title": "She Does",
+      "id": null
+    },
+    {
+      "title": "Love Lives (Events of the Heart)",
+      "id": null
+    },
+    {
+      "title": "This",
+      "id": null
+    },
+    {
+      "title": "You Had to Be There",
+      "id": null
+    },
+    {
+      "title": "A Country Boy Can Survive (Y2K Version)",
+      "id": null
+    },
+    {
+      "title": "If I Were You",
+      "id": null
+    }
+  ]
+}

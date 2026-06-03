@@ -1,1 +1,78 @@
-{"id": "twin-peaks-mountain", "title": "Twin Peaks", "artist": "Mountain", "peak": 142, "history": [{"date": "1974-03-09", "rank": 166}, {"date": "1974-03-16", "rank": 160}, {"date": "1974-03-23", "rank": 147}, {"date": "1974-03-30", "rank": 142}, {"date": "1974-04-06", "rank": 142}, {"date": "1974-04-13", "rank": 170}, {"date": "1974-04-20", "rank": 171}, {"date": "1974-04-27", "rank": 174}]}
+{
+  "id": "twin-peaks-mountain",
+  "title": "Twin Peaks",
+  "artist": "Mountain",
+  "peak": 142,
+  "history": [
+    {
+      "date": "1974-03-09",
+      "rank": 166
+    },
+    {
+      "date": "1974-03-16",
+      "rank": 160
+    },
+    {
+      "date": "1974-03-23",
+      "rank": 147
+    },
+    {
+      "date": "1974-03-30",
+      "rank": 142
+    },
+    {
+      "date": "1974-04-06",
+      "rank": 142
+    },
+    {
+      "date": "1974-04-13",
+      "rank": 170
+    },
+    {
+      "date": "1974-04-20",
+      "rank": 171
+    },
+    {
+      "date": "1974-04-27",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mississippi Queen",
+      "id": "mississippi-queen-mountain"
+    },
+    {
+      "title": "Never in My Life",
+      "id": null
+    },
+    {
+      "title": "Theme for an Imaginary Western",
+      "id": null
+    },
+    {
+      "title": "Blood of the Sun",
+      "id": null
+    },
+    {
+      "title": "Guitar Solo",
+      "id": null
+    },
+    {
+      "title": "Nantucket Sleigh Ride",
+      "id": null
+    },
+    {
+      "title": "Crossroader",
+      "id": null
+    },
+    {
+      "title": "Silver Paper",
+      "id": null
+    },
+    {
+      "title": "Roll Over Beethoven",
+      "id": null
+    }
+  ]
+}

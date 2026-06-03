@@ -1,1 +1,66 @@
-{"id": "tribute-john-newman", "title": "Tribute", "artist": "John Newman", "peak": 24, "history": [{"date": "2014-01-25", "rank": 24}, {"date": "2014-02-01", "rank": 110}, {"date": "2014-02-08", "rank": 183}]}
+{
+  "id": "tribute-john-newman",
+  "title": "Tribute",
+  "artist": "John Newman",
+  "peak": 24,
+  "history": [
+    {
+      "date": "2014-01-25",
+      "rank": 24
+    },
+    {
+      "date": "2014-02-01",
+      "rank": 110
+    },
+    {
+      "date": "2014-02-08",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Love Me Again",
+      "id": "love-me-again-john-newman"
+    },
+    {
+      "title": "Tribute",
+      "id": null
+    },
+    {
+      "title": "Losing Sleep",
+      "id": null
+    },
+    {
+      "title": "Easy",
+      "id": null
+    },
+    {
+      "title": "Try",
+      "id": null
+    },
+    {
+      "title": "Out of My Head",
+      "id": null
+    },
+    {
+      "title": "Cheating",
+      "id": null
+    },
+    {
+      "title": "Running",
+      "id": null
+    },
+    {
+      "title": "Gold Dust",
+      "id": null
+    },
+    {
+      "title": "Goodnight Goodbye",
+      "id": null
+    },
+    {
+      "title": "All I Need Is You",
+      "id": null
+    }
+  ]
+}

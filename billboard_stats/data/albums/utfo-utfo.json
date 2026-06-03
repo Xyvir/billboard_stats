@@ -1,1 +1,126 @@
-{"id": "utfo-utfo", "title": "UTFO", "artist": "UTFO", "peak": 80, "history": [{"date": "1985-06-15", "rank": 115}, {"date": "1985-06-22", "rank": 85}, {"date": "1985-06-29", "rank": 80}, {"date": "1985-07-06", "rank": 80}, {"date": "1985-07-13", "rank": 89}, {"date": "1985-07-20", "rank": 96}, {"date": "1985-07-27", "rank": 98}, {"date": "1985-08-03", "rank": 95}, {"date": "1985-08-10", "rank": 92}, {"date": "1985-08-17", "rank": 95}, {"date": "1985-08-24", "rank": 107}, {"date": "1985-08-31", "rank": 107}, {"date": "1985-09-07", "rank": 109}, {"date": "1985-09-14", "rank": 107}, {"date": "1985-09-21", "rank": 108}, {"date": "1985-09-28", "rank": 125}, {"date": "1985-10-05", "rank": 146}, {"date": "1985-10-12", "rank": 155}, {"date": "1985-10-19", "rank": 179}, {"date": "1985-10-26", "rank": 195}]}
+{
+  "id": "utfo-utfo",
+  "title": "UTFO",
+  "artist": "UTFO",
+  "peak": 80,
+  "history": [
+    {
+      "date": "1985-06-15",
+      "rank": 115
+    },
+    {
+      "date": "1985-06-22",
+      "rank": 85
+    },
+    {
+      "date": "1985-06-29",
+      "rank": 80
+    },
+    {
+      "date": "1985-07-06",
+      "rank": 80
+    },
+    {
+      "date": "1985-07-13",
+      "rank": 89
+    },
+    {
+      "date": "1985-07-20",
+      "rank": 96
+    },
+    {
+      "date": "1985-07-27",
+      "rank": 98
+    },
+    {
+      "date": "1985-08-03",
+      "rank": 95
+    },
+    {
+      "date": "1985-08-10",
+      "rank": 92
+    },
+    {
+      "date": "1985-08-17",
+      "rank": 95
+    },
+    {
+      "date": "1985-08-24",
+      "rank": 107
+    },
+    {
+      "date": "1985-08-31",
+      "rank": 107
+    },
+    {
+      "date": "1985-09-07",
+      "rank": 109
+    },
+    {
+      "date": "1985-09-14",
+      "rank": 107
+    },
+    {
+      "date": "1985-09-21",
+      "rank": 108
+    },
+    {
+      "date": "1985-09-28",
+      "rank": 125
+    },
+    {
+      "date": "1985-10-05",
+      "rank": 146
+    },
+    {
+      "date": "1985-10-12",
+      "rank": 155
+    },
+    {
+      "date": "1985-10-19",
+      "rank": 179
+    },
+    {
+      "date": "1985-10-26",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Roxanne, Roxanne",
+      "id": "roxanne-roxanne-utfo"
+    },
+    {
+      "title": "The Real Roxanne",
+      "id": "roxanne-roxanne-utfo"
+    },
+    {
+      "title": "Leader of the Pack",
+      "id": null
+    },
+    {
+      "title": "Bite It",
+      "id": null
+    },
+    {
+      "title": "Calling Her a Crab (Roxanne, Part 2)",
+      "id": null
+    },
+    {
+      "title": "Hanging Out",
+      "id": null
+    },
+    {
+      "title": "Beats and Rhymes",
+      "id": null
+    },
+    {
+      "title": "Lisa Lips",
+      "id": null
+    },
+    {
+      "title": "Fairytale Lover",
+      "id": null
+    }
+  ]
+}

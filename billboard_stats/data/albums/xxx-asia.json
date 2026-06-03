@@ -1,1 +1,62 @@
-{"id": "xxx-asia", "title": "XXX", "artist": "Asia", "peak": 134, "history": [{"date": "2012-07-21", "rank": 134}]}
+{
+  "id": "xxx-asia",
+  "title": "XXX",
+  "artist": "Asia",
+  "peak": 134,
+  "history": [
+    {
+      "date": "2012-07-21",
+      "rank": 134
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Tomorrow the World",
+      "id": null
+    },
+    {
+      "title": "Bury Me in Willow",
+      "id": null
+    },
+    {
+      "title": "No Religion",
+      "id": null
+    },
+    {
+      "title": "Faithful",
+      "id": null
+    },
+    {
+      "title": "I Know How You Feel",
+      "id": null
+    },
+    {
+      "title": "Face on the Bridge",
+      "id": null
+    },
+    {
+      "title": "Al Gatto Nero",
+      "id": null
+    },
+    {
+      "title": "Judas",
+      "id": null
+    },
+    {
+      "title": "Reno (Silver and Gold)",
+      "id": null
+    },
+    {
+      "title": "Ghost of a Chance",
+      "id": null
+    },
+    {
+      "title": "I Know How You Feel (midnight mix)",
+      "id": null
+    },
+    {
+      "title": "Faithful (orchestral version)",
+      "id": null
+    }
+  ]
+}

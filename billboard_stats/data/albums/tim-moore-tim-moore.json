@@ -1,1 +1,86 @@
-{"id": "tim-moore-tim-moore", "title": "Tim Moore", "artist": "Tim Moore", "peak": 119, "history": [{"date": "1974-10-12", "rank": 187}, {"date": "1974-10-19", "rank": 177}, {"date": "1974-10-26", "rank": 166}, {"date": "1974-11-02", "rank": 154}, {"date": "1974-11-09", "rank": 142}, {"date": "1974-11-16", "rank": 130}, {"date": "1974-11-23", "rank": 119}, {"date": "1974-11-30", "rank": 119}, {"date": "1974-12-07", "rank": 161}]}
+{
+  "id": "tim-moore-tim-moore",
+  "title": "Tim Moore",
+  "artist": "Tim Moore",
+  "peak": 119,
+  "history": [
+    {
+      "date": "1974-10-12",
+      "rank": 187
+    },
+    {
+      "date": "1974-10-19",
+      "rank": 177
+    },
+    {
+      "date": "1974-10-26",
+      "rank": 166
+    },
+    {
+      "date": "1974-11-02",
+      "rank": 154
+    },
+    {
+      "date": "1974-11-09",
+      "rank": 142
+    },
+    {
+      "date": "1974-11-16",
+      "rank": 130
+    },
+    {
+      "date": "1974-11-23",
+      "rank": 119
+    },
+    {
+      "date": "1974-11-30",
+      "rank": 119
+    },
+    {
+      "date": "1974-12-07",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "A Fool Like You",
+      "id": "fool-like-you-tim-moore"
+    },
+    {
+      "title": "Second Avenue",
+      "id": "second-avenue-tim-moore"
+    },
+    {
+      "title": "Charmer",
+      "id": "charmer-tim-moore"
+    },
+    {
+      "title": "Sister Lilac",
+      "id": null
+    },
+    {
+      "title": "High Feeling",
+      "id": null
+    },
+    {
+      "title": "I Can Almost See the Light",
+      "id": null
+    },
+    {
+      "title": "Love Enough",
+      "id": null
+    },
+    {
+      "title": "Aviation Man",
+      "id": null
+    },
+    {
+      "title": "When You Close Your Eyes",
+      "id": null
+    },
+    {
+      "title": "I'll Be Your Time",
+      "id": null
+    }
+  ]
+}

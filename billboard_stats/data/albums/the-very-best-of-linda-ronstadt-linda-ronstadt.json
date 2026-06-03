@@ -1,1 +1,86 @@
-{"id": "the-very-best-of-linda-ronstadt-linda-ronstadt", "title": "The Very Best Of Linda Ronstadt", "artist": "Linda Ronstadt", "peak": 165, "history": [{"date": "2002-10-12", "rank": 165}, {"date": "2002-10-19", "rank": 175}, {"date": "2002-10-26", "rank": 195}]}
+{
+  "id": "the-very-best-of-linda-ronstadt-linda-ronstadt",
+  "title": "The Very Best Of Linda Ronstadt",
+  "artist": "Linda Ronstadt",
+  "peak": 165,
+  "history": [
+    {
+      "date": "2002-10-12",
+      "rank": 165
+    },
+    {
+      "date": "2002-10-19",
+      "rank": 175
+    },
+    {
+      "date": "2002-10-26",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You’re No Good",
+      "id": "you-re-no-good-linda-ronstadt"
+    },
+    {
+      "title": "It Doesn’t Matter Anymore",
+      "id": "it-doesn-t-matter-anymore-when-will-i-be-loved-linda-ronstadt"
+    },
+    {
+      "title": "Love Has No Pride",
+      "id": "love-has-no-pride-linda-ronstadt"
+    },
+    {
+      "title": "Silver Threads and Golden Needles",
+      "id": "silver-threads-and-golden-needles-linda-ronstadt"
+    },
+    {
+      "title": "Love Is a Rose",
+      "id": "love-is-a-rose-linda-ronstadt"
+    },
+    {
+      "title": "That’ll Be the Day",
+      "id": "that-ll-be-the-day-linda-ronstadt"
+    },
+    {
+      "title": "Long Long Time",
+      "id": "long-long-time-linda-ronstadt"
+    },
+    {
+      "title": "When Will I Be Loved",
+      "id": "when-will-i-be-loved-linda-ronstadt"
+    },
+    {
+      "title": "Back In the U.S.A.",
+      "id": "back-in-the-u-s-a-linda-ronstadt"
+    },
+    {
+      "title": "Tracks of My Tears",
+      "id": "tracks-of-my-tears-linda-ronstadt"
+    },
+    {
+      "title": "Someone to Lay Down Beside Me",
+      "id": "someone-to-lay-down-beside-me-linda-ronstadt"
+    },
+    {
+      "title": "Desperado",
+      "id": null
+    },
+    {
+      "title": "I Can’t Help It (If I’m Still in Love with You)",
+      "id": null
+    },
+    {
+      "title": "Different Drum",
+      "id": null
+    },
+    {
+      "title": "(Love Is Like a) Heatwave",
+      "id": null
+    },
+    {
+      "title": "Heart Like a Wheel",
+      "id": null
+    }
+  ]
+}

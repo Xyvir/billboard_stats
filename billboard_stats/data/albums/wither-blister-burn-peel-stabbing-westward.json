@@ -1,1 +1,218 @@
-{"id": "wither-blister-burn-peel-stabbing-westward", "title": "Wither Blister Burn + Peel", "artist": "Stabbing Westward", "peak": 67, "history": [{"date": "1996-03-09", "rank": 175}, {"date": "1996-03-16", "rank": 140}, {"date": "1996-03-23", "rank": 125}, {"date": "1996-03-30", "rank": 104}, {"date": "1996-04-06", "rank": 99}, {"date": "1996-04-13", "rank": 104}, {"date": "1996-04-20", "rank": 94}, {"date": "1996-04-27", "rank": 88}, {"date": "1996-05-04", "rank": 81}, {"date": "1996-05-11", "rank": 87}, {"date": "1996-05-18", "rank": 94}, {"date": "1996-05-25", "rank": 106}, {"date": "1996-06-01", "rank": 122}, {"date": "1996-06-08", "rank": 141}, {"date": "1996-06-15", "rank": 151}, {"date": "1996-06-22", "rank": 160}, {"date": "1996-06-29", "rank": 162}, {"date": "1996-07-06", "rank": 137}, {"date": "1996-07-13", "rank": 137}, {"date": "1996-07-20", "rank": 138}, {"date": "1996-07-27", "rank": 120}, {"date": "1996-08-03", "rank": 88}, {"date": "1996-08-10", "rank": 81}, {"date": "1996-08-17", "rank": 87}, {"date": "1996-08-24", "rank": 88}, {"date": "1996-08-31", "rank": 82}, {"date": "1996-09-07", "rank": 67}, {"date": "1996-09-14", "rank": 79}, {"date": "1996-09-21", "rank": 90}, {"date": "1996-09-28", "rank": 78}, {"date": "1996-10-05", "rank": 80}, {"date": "1996-10-12", "rank": 87}, {"date": "1996-10-19", "rank": 102}, {"date": "1996-10-26", "rank": 122}, {"date": "1996-11-02", "rank": 119}, {"date": "1996-11-09", "rank": 123}, {"date": "1996-11-16", "rank": 150}, {"date": "1996-11-23", "rank": 172}, {"date": "1996-11-30", "rank": 186}, {"date": "1996-12-07", "rank": 196}]}
+{
+  "id": "wither-blister-burn-peel-stabbing-westward",
+  "title": "Wither Blister Burn + Peel",
+  "artist": "Stabbing Westward",
+  "peak": 67,
+  "history": [
+    {
+      "date": "1996-03-09",
+      "rank": 175
+    },
+    {
+      "date": "1996-03-16",
+      "rank": 140
+    },
+    {
+      "date": "1996-03-23",
+      "rank": 125
+    },
+    {
+      "date": "1996-03-30",
+      "rank": 104
+    },
+    {
+      "date": "1996-04-06",
+      "rank": 99
+    },
+    {
+      "date": "1996-04-13",
+      "rank": 104
+    },
+    {
+      "date": "1996-04-20",
+      "rank": 94
+    },
+    {
+      "date": "1996-04-27",
+      "rank": 88
+    },
+    {
+      "date": "1996-05-04",
+      "rank": 81
+    },
+    {
+      "date": "1996-05-11",
+      "rank": 87
+    },
+    {
+      "date": "1996-05-18",
+      "rank": 94
+    },
+    {
+      "date": "1996-05-25",
+      "rank": 106
+    },
+    {
+      "date": "1996-06-01",
+      "rank": 122
+    },
+    {
+      "date": "1996-06-08",
+      "rank": 141
+    },
+    {
+      "date": "1996-06-15",
+      "rank": 151
+    },
+    {
+      "date": "1996-06-22",
+      "rank": 160
+    },
+    {
+      "date": "1996-06-29",
+      "rank": 162
+    },
+    {
+      "date": "1996-07-06",
+      "rank": 137
+    },
+    {
+      "date": "1996-07-13",
+      "rank": 137
+    },
+    {
+      "date": "1996-07-20",
+      "rank": 138
+    },
+    {
+      "date": "1996-07-27",
+      "rank": 120
+    },
+    {
+      "date": "1996-08-03",
+      "rank": 88
+    },
+    {
+      "date": "1996-08-10",
+      "rank": 81
+    },
+    {
+      "date": "1996-08-17",
+      "rank": 87
+    },
+    {
+      "date": "1996-08-24",
+      "rank": 88
+    },
+    {
+      "date": "1996-08-31",
+      "rank": 82
+    },
+    {
+      "date": "1996-09-07",
+      "rank": 67
+    },
+    {
+      "date": "1996-09-14",
+      "rank": 79
+    },
+    {
+      "date": "1996-09-21",
+      "rank": 90
+    },
+    {
+      "date": "1996-09-28",
+      "rank": 78
+    },
+    {
+      "date": "1996-10-05",
+      "rank": 80
+    },
+    {
+      "date": "1996-10-12",
+      "rank": 87
+    },
+    {
+      "date": "1996-10-19",
+      "rank": 102
+    },
+    {
+      "date": "1996-10-26",
+      "rank": 122
+    },
+    {
+      "date": "1996-11-02",
+      "rank": 119
+    },
+    {
+      "date": "1996-11-09",
+      "rank": 123
+    },
+    {
+      "date": "1996-11-16",
+      "rank": 150
+    },
+    {
+      "date": "1996-11-23",
+      "rank": 172
+    },
+    {
+      "date": "1996-11-30",
+      "rank": 186
+    },
+    {
+      "date": "1996-12-07",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Don’t Believe",
+      "id": null
+    },
+    {
+      "title": "Shame",
+      "id": null
+    },
+    {
+      "title": "What Do I Have to Do?",
+      "id": null
+    },
+    {
+      "title": "Why",
+      "id": null
+    },
+    {
+      "title": "Inside You",
+      "id": null
+    },
+    {
+      "title": "Falls Apart",
+      "id": null
+    },
+    {
+      "title": "So Wrong",
+      "id": null
+    },
+    {
+      "title": "Crushing Me",
+      "id": null
+    },
+    {
+      "title": "Sleep",
+      "id": null
+    },
+    {
+      "title": "Slipping Away",
+      "id": null
+    },
+    {
+      "title": "Everything I Touch",
+      "id": null
+    },
+    {
+      "title": "Dawn",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"id": "who-the-who", "title": "WHO", "artist": "The Who", "peak": 2, "history": [{"date": "2019-12-21", "rank": 2}, {"date": "2019-12-28", "rank": 90}, {"date": "2020-01-04", "rank": 194}]}
+{
+  "id": "who-the-who",
+  "title": "WHO",
+  "artist": "The Who",
+  "peak": 2,
+  "history": [
+    {
+      "date": "2019-12-21",
+      "rank": 2
+    },
+    {
+      "date": "2019-12-28",
+      "rank": 90
+    },
+    {
+      "date": "2020-01-04",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All This Music Must Fade",
+      "id": null
+    },
+    {
+      "title": "Ball and Chain",
+      "id": null
+    },
+    {
+      "title": "I Don’t Wanna Get Wise",
+      "id": null
+    },
+    {
+      "title": "Detour",
+      "id": null
+    },
+    {
+      "title": "Beads on One String",
+      "id": null
+    },
+    {
+      "title": "Hero Ground Zero",
+      "id": null
+    },
+    {
+      "title": "Street Song",
+      "id": null
+    },
+    {
+      "title": "I’ll Be Back",
+      "id": null
+    },
+    {
+      "title": "Break the News",
+      "id": null
+    },
+    {
+      "title": "Rockin’ in Rage",
+      "id": null
+    },
+    {
+      "title": "She Rocked My World",
+      "id": null
+    }
+  ]
+}

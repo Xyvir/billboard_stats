@@ -1,1 +1,98 @@
-{"id": "triumvirate-dr-john", "title": "Triumvirate", "artist": "Dr. John", "peak": 105, "history": [{"date": "1973-06-16", "rank": 167}, {"date": "1973-06-23", "rank": 146}, {"date": "1973-06-30", "rank": 134}, {"date": "1973-07-07", "rank": 122}, {"date": "1973-07-14", "rank": 106}, {"date": "1973-07-21", "rank": 105}, {"date": "1973-07-28", "rank": 127}, {"date": "1973-08-04", "rank": 153}, {"date": "1973-08-11", "rank": 158}, {"date": "1973-08-18", "rank": 154}, {"date": "1973-08-25", "rank": 157}, {"date": "1973-09-01", "rank": 160}]}
+{
+  "id": "triumvirate-dr-john",
+  "title": "Triumvirate",
+  "artist": "Dr. John",
+  "peak": 105,
+  "history": [
+    {
+      "date": "1973-06-16",
+      "rank": 167
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 146
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 134
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 122
+    },
+    {
+      "date": "1973-07-14",
+      "rank": 106
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 105
+    },
+    {
+      "date": "1973-07-28",
+      "rank": 127
+    },
+    {
+      "date": "1973-08-04",
+      "rank": 153
+    },
+    {
+      "date": "1973-08-11",
+      "rank": 158
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 154
+    },
+    {
+      "date": "1973-08-25",
+      "rank": 157
+    },
+    {
+      "date": "1973-09-01",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Last Night",
+      "id": "such-a-night-dr-john"
+    },
+    {
+      "title": "Cha-Dooky-Doo",
+      "id": null
+    },
+    {
+      "title": "I Yi Yi",
+      "id": null
+    },
+    {
+      "title": "Just To Be With You",
+      "id": null
+    },
+    {
+      "title": "Baby Let Me Kiss You",
+      "id": null
+    },
+    {
+      "title": "Sho Bout To Drive Me Wild",
+      "id": null
+    },
+    {
+      "title": "It Hurts Me Too",
+      "id": null
+    },
+    {
+      "title": "Rock Me Baby",
+      "id": null
+    },
+    {
+      "title": "Ground Hog Blues",
+      "id": null
+    },
+    {
+      "title": "Pretty Thing",
+      "id": null
+    }
+  ]
+}

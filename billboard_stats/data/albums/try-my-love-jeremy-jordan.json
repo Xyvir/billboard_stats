@@ -1,1 +1,70 @@
-{"id": "try-my-love-jeremy-jordan", "title": "Try My Love", "artist": "Jeremy Jordan", "peak": 176, "history": [{"date": "1993-05-15", "rank": 176}, {"date": "1993-05-22", "rank": 182}]}
+{
+  "id": "try-my-love-jeremy-jordan",
+  "title": "Try My Love",
+  "artist": "Jeremy Jordan",
+  "peak": 176,
+  "history": [
+    {
+      "date": "1993-05-15",
+      "rank": 176
+    },
+    {
+      "date": "1993-05-22",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wannagirl",
+      "id": "wannagirl-jeremy-jordan"
+    },
+    {
+      "title": "The Right Kind of Love",
+      "id": "the-right-kind-of-love-from-beverly-hills-90210-jeremy-jordan"
+    },
+    {
+      "title": "Instrlude",
+      "id": null
+    },
+    {
+      "title": "My Love Is Good Enough",
+      "id": null
+    },
+    {
+      "title": "Try My Love",
+      "id": null
+    },
+    {
+      "title": "Do It to the Music",
+      "id": null
+    },
+    {
+      "title": "Different Man",
+      "id": null
+    },
+    {
+      "title": "Lovin' on Hold",
+      "id": null
+    },
+    {
+      "title": "I Wanna Be With You",
+      "id": null
+    },
+    {
+      "title": "Girl You Got It Goin' On",
+      "id": null
+    },
+    {
+      "title": "Show Me Where It Hurts",
+      "id": null
+    },
+    {
+      "title": "My Name Is J. J.",
+      "id": null
+    },
+    {
+      "title": "It's Alright (This Love Is for Real)",
+      "id": null
+    }
+  ]
+}

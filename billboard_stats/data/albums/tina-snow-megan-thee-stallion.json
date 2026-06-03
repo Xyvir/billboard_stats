@@ -1,1 +1,66 @@
-{"id": "tina-snow-megan-thee-stallion", "title": "Tina Snow", "artist": "Megan Thee Stallion", "peak": 166, "history": [{"date": "2019-05-18", "rank": 168}, {"date": "2019-05-25", "rank": 166}, {"date": "2019-06-01", "rank": 167}, {"date": "2019-06-08", "rank": 200}]}
+{
+  "id": "tina-snow-megan-thee-stallion",
+  "title": "Tina Snow",
+  "artist": "Megan Thee Stallion",
+  "peak": 166,
+  "history": [
+    {
+      "date": "2019-05-18",
+      "rank": 168
+    },
+    {
+      "date": "2019-05-25",
+      "rank": 166
+    },
+    {
+      "date": "2019-06-01",
+      "rank": 167
+    },
+    {
+      "date": "2019-06-08",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hot Girl",
+      "id": "otaku-hot-girl-megan-thee-stallion"
+    },
+    {
+      "title": "Big Ole Freak",
+      "id": "big-ole-freak-megan-thee-stallion"
+    },
+    {
+      "title": "WTF I Want",
+      "id": null
+    },
+    {
+      "title": "Good At",
+      "id": null
+    },
+    {
+      "title": "Freak Nasty",
+      "id": null
+    },
+    {
+      "title": "Cognac Queen",
+      "id": null
+    },
+    {
+      "title": "Neva",
+      "id": null
+    },
+    {
+      "title": "Tina Montana",
+      "id": null
+    },
+    {
+      "title": "Make a Bag",
+      "id": null
+    },
+    {
+      "title": "Cocky AF",
+      "id": null
+    }
+  ]
+}

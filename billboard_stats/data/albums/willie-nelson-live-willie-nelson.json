@@ -1,1 +1,102 @@
-{"id": "willie-nelson-live-willie-nelson", "title": "Willie Nelson Live", "artist": "Willie Nelson", "peak": 149, "history": [{"date": "1976-05-08", "rank": 176}, {"date": "1976-05-15", "rank": 152}, {"date": "1976-05-22", "rank": 149}, {"date": "1976-05-29", "rank": 194}, {"date": "1976-06-05", "rank": 193}, {"date": "1976-06-12", "rank": 191}, {"date": "1976-06-19", "rank": 191}]}
+{
+  "id": "willie-nelson-live-willie-nelson",
+  "title": "Willie Nelson Live",
+  "artist": "Willie Nelson",
+  "peak": 149,
+  "history": [
+    {
+      "date": "1976-05-08",
+      "rank": 176
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 152
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 149
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 194
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 193
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 191
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "On the Road Again",
+      "id": "on-the-road-again-willie-nelson"
+    },
+    {
+      "title": "You Were Always on My Mind",
+      "id": "always-on-my-mind-willie-nelson"
+    },
+    {
+      "title": "Georgia on My Mind",
+      "id": "georgia-on-my-mind-willie-nelson"
+    },
+    {
+      "title": "Blue Eyes Crying in the Rain",
+      "id": "blue-eyes-crying-in-the-rain-willie-nelson"
+    },
+    {
+      "title": "To All the Girls I've Loved Before",
+      "id": "to-all-the-girls-i-ve-loved-before-julio-iglesias-and-willie-nelson"
+    },
+    {
+      "title": "The Red Headed Stranger",
+      "id": null
+    },
+    {
+      "title": "City of New Orleans",
+      "id": null
+    },
+    {
+      "title": "If You've Got the Money Honey I've Got the Time",
+      "id": null
+    },
+    {
+      "title": "Whiskey River",
+      "id": null
+    },
+    {
+      "title": "Till I Gain Control Again",
+      "id": null
+    },
+    {
+      "title": "Stardust",
+      "id": null
+    },
+    {
+      "title": "Funny How Time Slips Away, Crazy, Night Life",
+      "id": null
+    },
+    {
+      "title": "Seven Spanish Angels",
+      "id": null
+    },
+    {
+      "title": "Longbeach, Texas",
+      "id": null
+    },
+    {
+      "title": "Good Hearted Woman",
+      "id": null
+    },
+    {
+      "title": "Angel Flying to Close to the Ground",
+      "id": null
+    }
+  ]
+}

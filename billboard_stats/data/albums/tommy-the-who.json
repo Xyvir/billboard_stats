@@ -1,1 +1,302 @@
-{"id": "tommy-the-who", "title": "Tommy", "artist": "The Who", "peak": 42, "history": [{"date": "1975-04-12", "rank": 124}, {"date": "1975-04-19", "rank": 88}, {"date": "1975-04-26", "rank": 78}, {"date": "1975-05-03", "rank": 66}, {"date": "1975-05-10", "rank": 54}, {"date": "1975-05-17", "rank": 42}, {"date": "1975-05-24", "rank": 42}, {"date": "1975-05-31", "rank": 52}, {"date": "1975-06-07", "rank": 71}, {"date": "1975-06-14", "rank": 78}, {"date": "1975-06-21", "rank": 81}, {"date": "1975-06-28", "rank": 110}, {"date": "1975-07-05", "rank": 126}, {"date": "1975-07-12", "rank": 141}, {"date": "1975-07-19", "rank": 196}, {"date": "1975-07-26", "rank": 199}]}
+{
+  "id": "tommy-the-who",
+  "title": "Tommy",
+  "artist": "The Who",
+  "peak": 42,
+  "history": [
+    {
+      "date": "1975-04-12",
+      "rank": 124
+    },
+    {
+      "date": "1975-04-19",
+      "rank": 88
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 78
+    },
+    {
+      "date": "1975-05-03",
+      "rank": 66
+    },
+    {
+      "date": "1975-05-10",
+      "rank": 54
+    },
+    {
+      "date": "1975-05-17",
+      "rank": 42
+    },
+    {
+      "date": "1975-05-24",
+      "rank": 42
+    },
+    {
+      "date": "1975-05-31",
+      "rank": 52
+    },
+    {
+      "date": "1975-06-07",
+      "rank": 71
+    },
+    {
+      "date": "1975-06-14",
+      "rank": 78
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 81
+    },
+    {
+      "date": "1975-06-28",
+      "rank": 110
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 126
+    },
+    {
+      "date": "1975-07-12",
+      "rank": 141
+    },
+    {
+      "date": "1975-07-19",
+      "rank": 196
+    },
+    {
+      "date": "1975-07-26",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pinball Wizard",
+      "id": "pinball-wizard-the-who"
+    },
+    {
+      "title": "Sensation",
+      "id": "my-generation-the-who"
+    },
+    {
+      "title": "I’m Free",
+      "id": "i-m-free-the-who"
+    },
+    {
+      "title": "Pinball Wizard (demo)",
+      "id": "pinball-wizard-the-who"
+    },
+    {
+      "title": "I’m Free (demo)",
+      "id": "i-m-free-the-who"
+    },
+    {
+      "title": "I'm Free",
+      "id": "i-m-free-the-who"
+    },
+    {
+      "title": "See Me, Feel Me / Listening to You",
+      "id": "see-me-feel-me-the-who"
+    },
+    {
+      "title": "Overture",
+      "id": null
+    },
+    {
+      "title": "It’s a Boy",
+      "id": null
+    },
+    {
+      "title": "1921",
+      "id": null
+    },
+    {
+      "title": "Amazing Journey",
+      "id": null
+    },
+    {
+      "title": "Sparks",
+      "id": null
+    },
+    {
+      "title": "Eyesight to the Blind (The Hawker)",
+      "id": null
+    },
+    {
+      "title": "Christmas",
+      "id": null
+    },
+    {
+      "title": "Cousin Kevin",
+      "id": null
+    },
+    {
+      "title": "The Acid Queen",
+      "id": null
+    },
+    {
+      "title": "Underture",
+      "id": null
+    },
+    {
+      "title": "Do You Think It’s Alright?",
+      "id": null
+    },
+    {
+      "title": "Fiddle About",
+      "id": null
+    },
+    {
+      "title": "There’s a Doctor",
+      "id": null
+    },
+    {
+      "title": "Go to the Mirror!",
+      "id": null
+    },
+    {
+      "title": "Tommy Can You Hear Me?",
+      "id": null
+    },
+    {
+      "title": "Smash the Mirror",
+      "id": null
+    },
+    {
+      "title": "Miracle Cure",
+      "id": null
+    },
+    {
+      "title": "Sally Simpson",
+      "id": null
+    },
+    {
+      "title": "Welcome",
+      "id": null
+    },
+    {
+      "title": "Tommy’s Holiday Camp",
+      "id": null
+    },
+    {
+      "title": "We’re Not Gonna Take It",
+      "id": null
+    },
+    {
+      "title": "Overture (demo)",
+      "id": null
+    },
+    {
+      "title": "It’s a Boy (demo)",
+      "id": null
+    },
+    {
+      "title": "1921 (demo)",
+      "id": null
+    },
+    {
+      "title": "Amazing Journey (demo)",
+      "id": null
+    },
+    {
+      "title": "Dream One (demo)",
+      "id": null
+    },
+    {
+      "title": "Sparks (demo)",
+      "id": null
+    },
+    {
+      "title": "The Hawker (demo)",
+      "id": null
+    },
+    {
+      "title": "Christmas (demo)",
+      "id": null
+    },
+    {
+      "title": "Acid Queen (demo)",
+      "id": null
+    },
+    {
+      "title": "Underture (Dream Two) (demo)",
+      "id": null
+    },
+    {
+      "title": "Do You Think It’s Alright? (demo)",
+      "id": null
+    },
+    {
+      "title": "There’s a Doctor (demo)",
+      "id": null
+    },
+    {
+      "title": "Go to the Mirror! (demo)",
+      "id": null
+    },
+    {
+      "title": "Success (demo)",
+      "id": null
+    },
+    {
+      "title": "Tommy Can You Hear Me? (demo)",
+      "id": null
+    },
+    {
+      "title": "Smash the Mirror (demo)",
+      "id": null
+    },
+    {
+      "title": "Sensation (demo)",
+      "id": null
+    },
+    {
+      "title": "Miracle Cure (demo)",
+      "id": null
+    },
+    {
+      "title": "Sally Simpson (demo)",
+      "id": null
+    },
+    {
+      "title": "Welcome (demo)",
+      "id": null
+    },
+    {
+      "title": "We’re Not Gonna Take It (demo)",
+      "id": null
+    },
+    {
+      "title": "Trying to Get Through (studio demo/out-take)",
+      "id": null
+    },
+    {
+      "title": "Young Man Blues (studio recording)",
+      "id": null
+    },
+    {
+      "title": "It's a Boy",
+      "id": null
+    },
+    {
+      "title": "The Hawker (Eyesight to the Blind)",
+      "id": null
+    },
+    {
+      "title": "Do You Think It's Alright?",
+      "id": null
+    },
+    {
+      "title": "There's a Doctor",
+      "id": null
+    },
+    {
+      "title": "Tommy's Holiday Camp",
+      "id": null
+    },
+    {
+      "title": "We're Not Gonna Take It",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,102 @@
-{"id": "twenty-1-chicago", "title": "Twenty 1", "artist": "Chicago", "peak": 66, "history": [{"date": "1991-02-16", "rank": 129}, {"date": "1991-02-23", "rank": 67}, {"date": "1991-03-02", "rank": 67}, {"date": "1991-03-09", "rank": 66}, {"date": "1991-03-16", "rank": 71}, {"date": "1991-03-23", "rank": 88}, {"date": "1991-03-30", "rank": 114}, {"date": "1991-04-06", "rank": 127}, {"date": "1991-04-13", "rank": 135}, {"date": "1991-04-20", "rank": 179}, {"date": "1991-04-27", "rank": 199}]}
+{
+  "id": "twenty-1-chicago",
+  "title": "Twenty 1",
+  "artist": "Chicago",
+  "peak": 66,
+  "history": [
+    {
+      "date": "1991-02-16",
+      "rank": 129
+    },
+    {
+      "date": "1991-02-23",
+      "rank": 67
+    },
+    {
+      "date": "1991-03-02",
+      "rank": 67
+    },
+    {
+      "date": "1991-03-09",
+      "rank": 66
+    },
+    {
+      "date": "1991-03-16",
+      "rank": 71
+    },
+    {
+      "date": "1991-03-23",
+      "rank": 88
+    },
+    {
+      "date": "1991-03-30",
+      "rank": 114
+    },
+    {
+      "date": "1991-04-06",
+      "rank": 127
+    },
+    {
+      "date": "1991-04-13",
+      "rank": 135
+    },
+    {
+      "date": "1991-04-20",
+      "rank": 179
+    },
+    {
+      "date": "1991-04-27",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Come to My Senses",
+      "id": "you-are-on-my-mind-chicago"
+    },
+    {
+      "title": "Chasin’ the Wind",
+      "id": "chasin-the-wind-chicago"
+    },
+    {
+      "title": "Explain It to My Heart",
+      "id": null
+    },
+    {
+      "title": "If It Were You",
+      "id": null
+    },
+    {
+      "title": "Somebody, Somewhere",
+      "id": null
+    },
+    {
+      "title": "What Does It Take",
+      "id": null
+    },
+    {
+      "title": "One From the Heart",
+      "id": null
+    },
+    {
+      "title": "God Save the Queen",
+      "id": null
+    },
+    {
+      "title": "Man to Woman",
+      "id": null
+    },
+    {
+      "title": "Only Time Can Heal the Wounded",
+      "id": null
+    },
+    {
+      "title": "Who Do You Love",
+      "id": null
+    },
+    {
+      "title": "Holdin’ On",
+      "id": null
+    }
+  ]
+}

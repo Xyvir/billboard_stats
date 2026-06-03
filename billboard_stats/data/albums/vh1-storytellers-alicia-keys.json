@@ -1,1 +1,58 @@
-{"id": "vh1-storytellers-alicia-keys", "title": "VH1 Storytellers", "artist": "Alicia Keys", "peak": 108, "history": [{"date": "2013-07-13", "rank": 108}]}
+{
+  "id": "vh1-storytellers-alicia-keys",
+  "title": "VH1 Storytellers",
+  "artist": "Alicia Keys",
+  "peak": 108,
+  "history": [
+    {
+      "date": "2013-07-13",
+      "rank": 108
+    }
+  ],
+  "tracks": [
+    {
+      "title": "No One",
+      "id": "no-one-alicia-keys"
+    },
+    {
+      "title": "You Don't Know My Name",
+      "id": "you-don-t-know-my-name-alicia-keys"
+    },
+    {
+      "title": "Empire State Of Mind (Pt. II) Broken Down",
+      "id": "empire-state-of-mind-part-ii-broken-down-alicia-keys"
+    },
+    {
+      "title": "Fallin'",
+      "id": "fallin-alicia-keys"
+    },
+    {
+      "title": "If I Ain't Got You",
+      "id": "if-i-ain-t-got-you-alicia-keys"
+    },
+    {
+      "title": "Try Sleeping With A Broken Heart",
+      "id": "try-sleeping-with-a-broken-heart-alicia-keys"
+    },
+    {
+      "title": "Un-Thinkable (I'm Ready)",
+      "id": "un-thinkable-i-m-ready-alicia-keys"
+    },
+    {
+      "title": "Brand New Me",
+      "id": null
+    },
+    {
+      "title": "Not Even The King",
+      "id": null
+    },
+    {
+      "title": "Girl On Fire",
+      "id": null
+    },
+    {
+      "title": "New Day",
+      "id": null
+    }
+  ]
+}

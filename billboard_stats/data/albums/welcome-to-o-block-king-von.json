@@ -1,1 +1,230 @@
-{"id": "welcome-to-o-block-king-von", "title": "Welcome To O'Block", "artist": "King Von", "peak": 5, "history": [{"date": "2020-11-14", "rank": 13}, {"date": "2020-11-21", "rank": 5}, {"date": "2020-11-28", "rank": 14}, {"date": "2020-12-05", "rank": 26}, {"date": "2020-12-12", "rank": 45}, {"date": "2020-12-19", "rank": 54}, {"date": "2020-12-26", "rank": 61}, {"date": "2021-01-02", "rank": 85}, {"date": "2021-01-09", "rank": 65}, {"date": "2021-01-16", "rank": 55}, {"date": "2021-01-23", "rank": 47}, {"date": "2021-01-30", "rank": 53}, {"date": "2021-02-06", "rank": 56}, {"date": "2021-02-13", "rank": 73}, {"date": "2021-02-20", "rank": 81}, {"date": "2021-02-27", "rank": 89}, {"date": "2021-03-06", "rank": 82}, {"date": "2021-03-13", "rank": 89}, {"date": "2021-03-20", "rank": 94}, {"date": "2021-03-27", "rank": 97}, {"date": "2021-04-03", "rank": 102}, {"date": "2021-04-10", "rank": 110}, {"date": "2021-04-17", "rank": 113}, {"date": "2021-04-24", "rank": 120}, {"date": "2021-05-01", "rank": 131}, {"date": "2021-05-08", "rank": 130}, {"date": "2021-05-15", "rank": 121}, {"date": "2021-05-22", "rank": 129}, {"date": "2021-05-29", "rank": 146}, {"date": "2021-06-05", "rank": 158}, {"date": "2021-06-12", "rank": 161}, {"date": "2021-06-19", "rank": 167}, {"date": "2021-06-26", "rank": 173}, {"date": "2021-07-03", "rank": 171}, {"date": "2021-07-10", "rank": 200}, {"date": "2021-07-24", "rank": 180}, {"date": "2021-08-21", "rank": 158}, {"date": "2021-08-28", "rank": 175}, {"date": "2021-09-04", "rank": 196}]}
+{
+  "id": "welcome-to-o-block-king-von",
+  "title": "Welcome To O'Block",
+  "artist": "King Von",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2020-11-14",
+      "rank": 13
+    },
+    {
+      "date": "2020-11-21",
+      "rank": 5
+    },
+    {
+      "date": "2020-11-28",
+      "rank": 14
+    },
+    {
+      "date": "2020-12-05",
+      "rank": 26
+    },
+    {
+      "date": "2020-12-12",
+      "rank": 45
+    },
+    {
+      "date": "2020-12-19",
+      "rank": 54
+    },
+    {
+      "date": "2020-12-26",
+      "rank": 61
+    },
+    {
+      "date": "2021-01-02",
+      "rank": 85
+    },
+    {
+      "date": "2021-01-09",
+      "rank": 65
+    },
+    {
+      "date": "2021-01-16",
+      "rank": 55
+    },
+    {
+      "date": "2021-01-23",
+      "rank": 47
+    },
+    {
+      "date": "2021-01-30",
+      "rank": 53
+    },
+    {
+      "date": "2021-02-06",
+      "rank": 56
+    },
+    {
+      "date": "2021-02-13",
+      "rank": 73
+    },
+    {
+      "date": "2021-02-20",
+      "rank": 81
+    },
+    {
+      "date": "2021-02-27",
+      "rank": 89
+    },
+    {
+      "date": "2021-03-06",
+      "rank": 82
+    },
+    {
+      "date": "2021-03-13",
+      "rank": 89
+    },
+    {
+      "date": "2021-03-20",
+      "rank": 94
+    },
+    {
+      "date": "2021-03-27",
+      "rank": 97
+    },
+    {
+      "date": "2021-04-03",
+      "rank": 102
+    },
+    {
+      "date": "2021-04-10",
+      "rank": 110
+    },
+    {
+      "date": "2021-04-17",
+      "rank": 113
+    },
+    {
+      "date": "2021-04-24",
+      "rank": 120
+    },
+    {
+      "date": "2021-05-01",
+      "rank": 131
+    },
+    {
+      "date": "2021-05-08",
+      "rank": 130
+    },
+    {
+      "date": "2021-05-15",
+      "rank": 121
+    },
+    {
+      "date": "2021-05-22",
+      "rank": 129
+    },
+    {
+      "date": "2021-05-29",
+      "rank": 146
+    },
+    {
+      "date": "2021-06-05",
+      "rank": 158
+    },
+    {
+      "date": "2021-06-12",
+      "rank": 161
+    },
+    {
+      "date": "2021-06-19",
+      "rank": 167
+    },
+    {
+      "date": "2021-06-26",
+      "rank": 173
+    },
+    {
+      "date": "2021-07-03",
+      "rank": 171
+    },
+    {
+      "date": "2021-07-10",
+      "rank": 200
+    },
+    {
+      "date": "2021-07-24",
+      "rank": 180
+    },
+    {
+      "date": "2021-08-21",
+      "rank": 158
+    },
+    {
+      "date": "2021-08-28",
+      "rank": 175
+    },
+    {
+      "date": "2021-09-04",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Armed & Dangerous",
+      "id": null
+    },
+    {
+      "title": "GTA",
+      "id": null
+    },
+    {
+      "title": "Demon",
+      "id": null
+    },
+    {
+      "title": "Mine Too",
+      "id": null
+    },
+    {
+      "title": "The Code",
+      "id": null
+    },
+    {
+      "title": "Why He Told",
+      "id": null
+    },
+    {
+      "title": "Back Again",
+      "id": null
+    },
+    {
+      "title": "Gleesh Place",
+      "id": null
+    },
+    {
+      "title": "All These Niggas",
+      "id": null
+    },
+    {
+      "title": "Can't Relate",
+      "id": null
+    },
+    {
+      "title": "Mad at You",
+      "id": null
+    },
+    {
+      "title": "Ain't See It Coming",
+      "id": null
+    },
+    {
+      "title": "I Am What I Am",
+      "id": null
+    },
+    {
+      "title": "Ride",
+      "id": null
+    },
+    {
+      "title": "How It Go",
+      "id": null
+    },
+    {
+      "title": "Wayne's Story",
+      "id": null
+    }
+  ]
+}

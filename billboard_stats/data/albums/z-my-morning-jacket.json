@@ -1,1 +1,78 @@
-{"id": "z-my-morning-jacket", "title": "Z", "artist": "My Morning Jacket", "peak": 67, "history": [{"date": "2005-10-22", "rank": 67}, {"date": "2005-10-29", "rank": 121}, {"date": "2005-11-05", "rank": 138}, {"date": "2005-11-12", "rank": 166}, {"date": "2005-11-26", "rank": 195}, {"date": "2006-01-21", "rank": 186}]}
+{
+  "id": "z-my-morning-jacket",
+  "title": "Z",
+  "artist": "My Morning Jacket",
+  "peak": 67,
+  "history": [
+    {
+      "date": "2005-10-22",
+      "rank": 67
+    },
+    {
+      "date": "2005-10-29",
+      "rank": 121
+    },
+    {
+      "date": "2005-11-05",
+      "rank": 138
+    },
+    {
+      "date": "2005-11-12",
+      "rank": 166
+    },
+    {
+      "date": "2005-11-26",
+      "rank": 195
+    },
+    {
+      "date": "2006-01-21",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wordless Chorus",
+      "id": null
+    },
+    {
+      "title": "It Beats 4 U",
+      "id": null
+    },
+    {
+      "title": "Gideon",
+      "id": null
+    },
+    {
+      "title": "What a Wonderful Man",
+      "id": null
+    },
+    {
+      "title": "Off the Record",
+      "id": null
+    },
+    {
+      "title": "Into the Woods",
+      "id": null
+    },
+    {
+      "title": "Anytime",
+      "id": null
+    },
+    {
+      "title": "Lay Low",
+      "id": null
+    },
+    {
+      "title": "Knot Comes Loose",
+      "id": null
+    },
+    {
+      "title": "Dondante",
+      "id": null
+    },
+    {
+      "title": "Chills",
+      "id": null
+    }
+  ]
+}

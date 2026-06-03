@@ -1,1 +1,122 @@
-{"id": "the-wanderer-donna-summer", "title": "The Wanderer", "artist": "Donna Summer", "peak": 13, "history": [{"date": "1980-11-08", "rank": 35}, {"date": "1980-11-15", "rank": 14}, {"date": "1980-11-22", "rank": 13}, {"date": "1980-11-29", "rank": 13}, {"date": "1980-12-06", "rank": 13}, {"date": "1980-12-13", "rank": 33}, {"date": "1980-12-20", "rank": 32}, {"date": "1980-12-27", "rank": 40}, {"date": "1981-01-03", "rank": 40}, {"date": "1981-01-10", "rank": 53}, {"date": "1981-01-17", "rank": 53}, {"date": "1981-01-24", "rank": 51}, {"date": "1981-01-31", "rank": 68}, {"date": "1981-02-07", "rank": 77}, {"date": "1981-02-14", "rank": 104}, {"date": "1981-02-21", "rank": 177}, {"date": "1981-02-28", "rank": 177}, {"date": "1981-03-07", "rank": 183}]}
+{
+  "id": "the-wanderer-donna-summer",
+  "title": "The Wanderer",
+  "artist": "Donna Summer",
+  "peak": 13,
+  "history": [
+    {
+      "date": "1980-11-08",
+      "rank": 35
+    },
+    {
+      "date": "1980-11-15",
+      "rank": 14
+    },
+    {
+      "date": "1980-11-22",
+      "rank": 13
+    },
+    {
+      "date": "1980-11-29",
+      "rank": 13
+    },
+    {
+      "date": "1980-12-06",
+      "rank": 13
+    },
+    {
+      "date": "1980-12-13",
+      "rank": 33
+    },
+    {
+      "date": "1980-12-20",
+      "rank": 32
+    },
+    {
+      "date": "1980-12-27",
+      "rank": 40
+    },
+    {
+      "date": "1981-01-03",
+      "rank": 40
+    },
+    {
+      "date": "1981-01-10",
+      "rank": 53
+    },
+    {
+      "date": "1981-01-17",
+      "rank": 53
+    },
+    {
+      "date": "1981-01-24",
+      "rank": 51
+    },
+    {
+      "date": "1981-01-31",
+      "rank": 68
+    },
+    {
+      "date": "1981-02-07",
+      "rank": 77
+    },
+    {
+      "date": "1981-02-14",
+      "rank": 104
+    },
+    {
+      "date": "1981-02-21",
+      "rank": 177
+    },
+    {
+      "date": "1981-02-28",
+      "rank": 177
+    },
+    {
+      "date": "1981-03-07",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Wanderer",
+      "id": "the-wanderer-donna-summer"
+    },
+    {
+      "title": "Cold Love",
+      "id": "cold-love-donna-summer"
+    },
+    {
+      "title": "Who Do You Think You’re Foolin’",
+      "id": "who-do-you-think-you-re-foolin-donna-summer"
+    },
+    {
+      "title": "Looking Up",
+      "id": null
+    },
+    {
+      "title": "Breakdown",
+      "id": null
+    },
+    {
+      "title": "Grand Illusion",
+      "id": null
+    },
+    {
+      "title": "Running for Cover",
+      "id": null
+    },
+    {
+      "title": "Nightlife",
+      "id": null
+    },
+    {
+      "title": "Stop Me",
+      "id": null
+    },
+    {
+      "title": "I Believe in Jesus",
+      "id": null
+    }
+  ]
+}

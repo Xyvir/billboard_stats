@@ -1,1 +1,102 @@
-{"id": "track-of-the-cat-dionne-warwick", "title": "Track Of The Cat", "artist": "Dionne Warwick", "peak": 137, "history": [{"date": "1975-12-06", "rank": 189}, {"date": "1975-12-13", "rank": 179}, {"date": "1975-12-20", "rank": 168}, {"date": "1975-12-27", "rank": 158}, {"date": "1976-01-03", "rank": 147}, {"date": "1976-01-10", "rank": 141}, {"date": "1976-01-17", "rank": 139}, {"date": "1976-01-24", "rank": 139}, {"date": "1976-01-31", "rank": 137}, {"date": "1976-02-07", "rank": 137}, {"date": "1976-02-14", "rank": 168}, {"date": "1976-02-21", "rank": 168}, {"date": "1976-02-28", "rank": 168}, {"date": "1976-03-06", "rank": 178}, {"date": "1976-03-13", "rank": 176}]}
+{
+  "id": "track-of-the-cat-dionne-warwick",
+  "title": "Track Of The Cat",
+  "artist": "Dionne Warwick",
+  "peak": 137,
+  "history": [
+    {
+      "date": "1975-12-06",
+      "rank": 189
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 179
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 168
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 158
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 147
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 141
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 139
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 139
+    },
+    {
+      "date": "1976-01-31",
+      "rank": 137
+    },
+    {
+      "date": "1976-02-07",
+      "rank": 137
+    },
+    {
+      "date": "1976-02-14",
+      "rank": 168
+    },
+    {
+      "date": "1976-02-21",
+      "rank": 168
+    },
+    {
+      "date": "1976-02-28",
+      "rank": 168
+    },
+    {
+      "date": "1976-03-06",
+      "rank": 178
+    },
+    {
+      "date": "1976-03-13",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "This Is Love",
+      "id": "this-girl-s-in-love-with-you-dionne-warwick"
+    },
+    {
+      "title": "Once You Hit the Road",
+      "id": "once-you-hit-the-road-dionne-warwick"
+    },
+    {
+      "title": "Track of the Cat",
+      "id": null
+    },
+    {
+      "title": "His House and Me",
+      "id": null
+    },
+    {
+      "title": "Ronnie Lee",
+      "id": null
+    },
+    {
+      "title": "World of My Dreams",
+      "id": null
+    },
+    {
+      "title": "Jealousy",
+      "id": null
+    },
+    {
+      "title": "Love Me One More Time",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"id": "tonin-the-manhattan-transfer", "title": "Tonin'", "artist": "The Manhattan Transfer", "peak": 123, "history": [{"date": "1995-03-04", "rank": 169}, {"date": "1995-03-11", "rank": 123}, {"date": "1995-03-18", "rank": 152}, {"date": "1995-03-25", "rank": 156}, {"date": "1995-04-01", "rank": 174}, {"date": "1995-09-02", "rank": 177}]}
+{
+  "id": "tonin-the-manhattan-transfer",
+  "title": "Tonin'",
+  "artist": "The Manhattan Transfer",
+  "peak": 123,
+  "history": [
+    {
+      "date": "1995-03-04",
+      "rank": 169
+    },
+    {
+      "date": "1995-03-11",
+      "rank": 123
+    },
+    {
+      "date": "1995-03-18",
+      "rank": 152
+    },
+    {
+      "date": "1995-03-25",
+      "rank": 156
+    },
+    {
+      "date": "1995-04-01",
+      "rank": 174
+    },
+    {
+      "date": "1995-09-02",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let’s Hang On",
+      "id": null
+    },
+    {
+      "title": "Groovin’",
+      "id": null
+    },
+    {
+      "title": "It’s Gonna Take a Miracle",
+      "id": null
+    },
+    {
+      "title": "I Second That Emotion",
+      "id": null
+    },
+    {
+      "title": "La-La Means I Love You",
+      "id": null
+    },
+    {
+      "title": "Too Busy Thinking About My Baby",
+      "id": null
+    },
+    {
+      "title": "The Thrill Is Gone",
+      "id": null
+    },
+    {
+      "title": "Hot Fun in the Summertime",
+      "id": null
+    },
+    {
+      "title": "Along Comes Mary",
+      "id": null
+    },
+    {
+      "title": "Dream Lover",
+      "id": null
+    },
+    {
+      "title": "Save the Last Dance for Me",
+      "id": null
+    },
+    {
+      "title": "God Only Knows",
+      "id": null
+    }
+  ]
+}

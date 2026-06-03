@@ -1,1 +1,90 @@
-{"id": "trap-a-thon-gucci-mane", "title": "Trap-A-Thon", "artist": "Gucci Mane", "peak": 69, "history": [{"date": "2007-10-13", "rank": 69}, {"date": "2007-10-20", "rank": 105}, {"date": "2007-10-27", "rank": 144}, {"date": "2007-11-03", "rank": 165}]}
+{
+  "id": "trap-a-thon-gucci-mane",
+  "title": "Trap-A-Thon",
+  "artist": "Gucci Mane",
+  "peak": 69,
+  "history": [
+    {
+      "date": "2007-10-13",
+      "rank": 69
+    },
+    {
+      "date": "2007-10-20",
+      "rank": 105
+    },
+    {
+      "date": "2007-10-27",
+      "rank": 144
+    },
+    {
+      "date": "2007-11-03",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Freaky Girl",
+      "id": "freaky-gurl-gucci-mane"
+    },
+    {
+      "title": "Freaky Gurl (remix)",
+      "id": "freaky-gurl-gucci-mane"
+    },
+    {
+      "title": "Big Cat (intro)",
+      "id": null
+    },
+    {
+      "title": "Bling Bling",
+      "id": null
+    },
+    {
+      "title": "Re‐Up",
+      "id": null
+    },
+    {
+      "title": "Big Cat’s Home",
+      "id": null
+    },
+    {
+      "title": "What They Do",
+      "id": null
+    },
+    {
+      "title": "Aw‐Man",
+      "id": null
+    },
+    {
+      "title": "Good News, Bad News",
+      "id": null
+    },
+    {
+      "title": "Choppa Shoppin",
+      "id": null
+    },
+    {
+      "title": "Bad Guys",
+      "id": null
+    },
+    {
+      "title": "Pillz",
+      "id": null
+    },
+    {
+      "title": "Spanish Plug",
+      "id": null
+    },
+    {
+      "title": "Product",
+      "id": null
+    },
+    {
+      "title": "Bosses Speak",
+      "id": null
+    },
+    {
+      "title": "2 Screws Loose",
+      "id": null
+    }
+  ]
+}

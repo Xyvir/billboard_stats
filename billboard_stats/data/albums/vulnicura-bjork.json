@@ -1,1 +1,58 @@
-{"id": "vulnicura-bjork", "title": "Vulnicura", "artist": "Bjork", "peak": 20, "history": [{"date": "2015-02-07", "rank": 20}, {"date": "2015-02-14", "rank": 78}, {"date": "2015-04-11", "rank": 63}]}
+{
+  "id": "vulnicura-bjork",
+  "title": "Vulnicura",
+  "artist": "Bjork",
+  "peak": 20,
+  "history": [
+    {
+      "date": "2015-02-07",
+      "rank": 20
+    },
+    {
+      "date": "2015-02-14",
+      "rank": 78
+    },
+    {
+      "date": "2015-04-11",
+      "rank": 63
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Stonemilker",
+      "id": null
+    },
+    {
+      "title": "Lionsong",
+      "id": null
+    },
+    {
+      "title": "History of Touches",
+      "id": null
+    },
+    {
+      "title": "Black Lake",
+      "id": null
+    },
+    {
+      "title": "Family",
+      "id": null
+    },
+    {
+      "title": "Notget",
+      "id": null
+    },
+    {
+      "title": "Atom Dance",
+      "id": null
+    },
+    {
+      "title": "Mouth Mantra",
+      "id": null
+    },
+    {
+      "title": "Quicksand",
+      "id": null
+    }
+  ]
+}

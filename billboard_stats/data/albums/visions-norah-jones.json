@@ -1,1 +1,78 @@
-{"id": "visions-norah-jones", "title": "Visions", "artist": "Norah Jones", "peak": 168, "history": [{"date": "2024-03-23", "rank": 168}]}
+{
+  "id": "visions-norah-jones",
+  "title": "Visions",
+  "artist": "Norah Jones",
+  "peak": 168,
+  "history": [
+    {
+      "date": "2024-03-23",
+      "rank": 168
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Thinking About You",
+      "id": "thinking-about-you-norah-jones"
+    },
+    {
+      "title": "Don’t Know Why",
+      "id": "don-t-know-why-norah-jones"
+    },
+    {
+      "title": "All This Time",
+      "id": null
+    },
+    {
+      "title": "Staring at the Wall",
+      "id": null
+    },
+    {
+      "title": "Paradise",
+      "id": null
+    },
+    {
+      "title": "Queen of the Sea",
+      "id": null
+    },
+    {
+      "title": "Visions",
+      "id": null
+    },
+    {
+      "title": "Running",
+      "id": null
+    },
+    {
+      "title": "I Just Wanna Dance",
+      "id": null
+    },
+    {
+      "title": "I’m Awake",
+      "id": null
+    },
+    {
+      "title": "Swept Up in the Night",
+      "id": null
+    },
+    {
+      "title": "On My Way",
+      "id": null
+    },
+    {
+      "title": "Alone With My Thoughts",
+      "id": null
+    },
+    {
+      "title": "That’s Life",
+      "id": null
+    },
+    {
+      "title": "Can You Believe",
+      "id": null
+    },
+    {
+      "title": "Just a Little Bit",
+      "id": null
+    }
+  ]
+}

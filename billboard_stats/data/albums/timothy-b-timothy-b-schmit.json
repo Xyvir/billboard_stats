@@ -1,1 +1,90 @@
-{"id": "timothy-b-timothy-b-schmit", "title": "Timothy B.", "artist": "Timothy B. Schmit", "peak": 106, "history": [{"date": "1987-10-03", "rank": 172}, {"date": "1987-10-10", "rank": 158}, {"date": "1987-10-17", "rank": 140}, {"date": "1987-10-24", "rank": 119}, {"date": "1987-10-31", "rank": 110}, {"date": "1987-11-07", "rank": 110}, {"date": "1987-11-14", "rank": 106}, {"date": "1987-11-21", "rank": 106}, {"date": "1987-11-28", "rank": 141}, {"date": "1987-12-05", "rank": 178}, {"date": "1987-12-12", "rank": 188}]}
+{
+  "id": "timothy-b-timothy-b-schmit",
+  "title": "Timothy B.",
+  "artist": "Timothy B. Schmit",
+  "peak": 106,
+  "history": [
+    {
+      "date": "1987-10-03",
+      "rank": 172
+    },
+    {
+      "date": "1987-10-10",
+      "rank": 158
+    },
+    {
+      "date": "1987-10-17",
+      "rank": 140
+    },
+    {
+      "date": "1987-10-24",
+      "rank": 119
+    },
+    {
+      "date": "1987-10-31",
+      "rank": 110
+    },
+    {
+      "date": "1987-11-07",
+      "rank": 110
+    },
+    {
+      "date": "1987-11-14",
+      "rank": 106
+    },
+    {
+      "date": "1987-11-21",
+      "rank": 106
+    },
+    {
+      "date": "1987-11-28",
+      "rank": 141
+    },
+    {
+      "date": "1987-12-05",
+      "rank": 178
+    },
+    {
+      "date": "1987-12-12",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Boys Night",
+      "id": "boys-night-out-timothy-b-schmit"
+    },
+    {
+      "title": "Don't Give Up",
+      "id": null
+    },
+    {
+      "title": "Hold Me In Your Heart",
+      "id": null
+    },
+    {
+      "title": "Everybody Needs A Lover",
+      "id": null
+    },
+    {
+      "title": "Into The Night",
+      "id": null
+    },
+    {
+      "title": "A Better Day Is Coming",
+      "id": null
+    },
+    {
+      "title": "Jazz Street",
+      "id": null
+    },
+    {
+      "title": "I Guess We'll Go On Living",
+      "id": null
+    },
+    {
+      "title": "Down Here People Dance Forever",
+      "id": null
+    }
+  ]
+}

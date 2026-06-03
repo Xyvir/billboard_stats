@@ -1,1 +1,54 @@
-{"id": "the-very-best-of-roy-orbison-roy-orbison", "title": "The Very Best Of Roy Orbison", "artist": "Roy Orbison", "peak": 186, "history": [{"date": "1997-04-26", "rank": 186}]}
+{
+  "id": "the-very-best-of-roy-orbison-roy-orbison",
+  "title": "The Very Best Of Roy Orbison",
+  "artist": "Roy Orbison",
+  "peak": 186,
+  "history": [
+    {
+      "date": "1997-04-26",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Only the Lonely (Know the Way I Feel)",
+      "id": "only-the-lonely-know-how-i-feel-roy-orbison"
+    },
+    {
+      "title": "Crying",
+      "id": "crying-roy-orbison"
+    },
+    {
+      "title": "Running Scared",
+      "id": "running-scared-roy-orbison"
+    },
+    {
+      "title": "It’s Over",
+      "id": "it-s-over-roy-orbison"
+    },
+    {
+      "title": "Candy Man",
+      "id": "candy-man-roy-orbison"
+    },
+    {
+      "title": "Blue Angel",
+      "id": "blue-angel-roy-orbison"
+    },
+    {
+      "title": "In Dreams",
+      "id": "in-dreams-roy-orbison"
+    },
+    {
+      "title": "Mean Woman Blues",
+      "id": "mean-woman-blues-roy-orbison"
+    },
+    {
+      "title": "Oh, Pretty Woman",
+      "id": null
+    },
+    {
+      "title": "Dream Baby",
+      "id": null
+    }
+  ]
+}

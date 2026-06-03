@@ -1,1 +1,70 @@
-{"id": "viva-elvis-the-album-elvis-presley", "title": "Viva Elvis: The Album", "artist": "Elvis Presley", "peak": 48, "history": [{"date": "2010-11-27", "rank": 48}, {"date": "2010-12-04", "rank": 133}, {"date": "2010-12-18", "rank": 184}]}
+{
+  "id": "viva-elvis-the-album-elvis-presley",
+  "title": "Viva Elvis: The Album",
+  "artist": "Elvis Presley",
+  "peak": 48,
+  "history": [
+    {
+      "date": "2010-11-27",
+      "rank": 48
+    },
+    {
+      "date": "2010-12-04",
+      "rank": 133
+    },
+    {
+      "date": "2010-12-18",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Opening",
+      "id": "one-night-elvis-presley"
+    },
+    {
+      "title": "Love Me Tender",
+      "id": "love-letters-elvis-presley"
+    },
+    {
+      "title": "Burning Love",
+      "id": "burning-love-elvis-presley"
+    },
+    {
+      "title": "Memories",
+      "id": "memories-elvis-presley"
+    },
+    {
+      "title": "Suspicious Minds",
+      "id": "suspicious-minds-elvis-presley"
+    },
+    {
+      "title": "Blue Suede Shoes",
+      "id": null
+    },
+    {
+      "title": "That’s All Right",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Hotel",
+      "id": null
+    },
+    {
+      "title": "King Creole",
+      "id": null
+    },
+    {
+      "title": "Bossa Nova Baby",
+      "id": null
+    },
+    {
+      "title": "Can’t Help Falling in Love",
+      "id": null
+    },
+    {
+      "title": "You’ll Never Walk Alone (piano interlude)",
+      "id": null
+    }
+  ]
+}

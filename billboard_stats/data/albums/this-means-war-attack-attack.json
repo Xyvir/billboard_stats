@@ -1,1 +1,58 @@
-{"id": "this-means-war-attack-attack", "title": "This Means War", "artist": "Attack Attack!", "peak": 11, "history": [{"date": "2012-02-04", "rank": 11}, {"date": "2012-02-11", "rank": 105}]}
+{
+  "id": "this-means-war-attack-attack",
+  "title": "This Means War",
+  "artist": "Attack Attack!",
+  "peak": 11,
+  "history": [
+    {
+      "date": "2012-02-04",
+      "rank": 11
+    },
+    {
+      "date": "2012-02-11",
+      "rank": 105
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Revolution",
+      "id": null
+    },
+    {
+      "title": "The Betrayal",
+      "id": null
+    },
+    {
+      "title": "The Hopeless",
+      "id": null
+    },
+    {
+      "title": "The Reality",
+      "id": null
+    },
+    {
+      "title": "The Abduction",
+      "id": null
+    },
+    {
+      "title": "The Motivation",
+      "id": null
+    },
+    {
+      "title": "The Wretched",
+      "id": null
+    },
+    {
+      "title": "The Family",
+      "id": null
+    },
+    {
+      "title": "The Confrontation",
+      "id": null
+    },
+    {
+      "title": "The Eradication",
+      "id": null
+    }
+  ]
+}

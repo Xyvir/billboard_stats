@@ -1,1 +1,106 @@
-{"id": "welcome-back-mase", "title": "Welcome Back", "artist": "Mase", "peak": 4, "history": [{"date": "2004-09-11", "rank": 4}, {"date": "2004-09-18", "rank": 10}, {"date": "2004-09-25", "rank": 17}, {"date": "2004-10-02", "rank": 23}, {"date": "2004-10-09", "rank": 32}, {"date": "2004-10-16", "rank": 48}, {"date": "2004-10-23", "rank": 63}, {"date": "2004-10-30", "rank": 66}, {"date": "2004-11-06", "rank": 85}, {"date": "2004-11-13", "rank": 108}, {"date": "2004-11-20", "rank": 127}, {"date": "2004-11-27", "rank": 170}]}
+{
+  "id": "welcome-back-mase",
+  "title": "Welcome Back",
+  "artist": "Mase",
+  "peak": 4,
+  "history": [
+    {
+      "date": "2004-09-11",
+      "rank": 4
+    },
+    {
+      "date": "2004-09-18",
+      "rank": 10
+    },
+    {
+      "date": "2004-09-25",
+      "rank": 17
+    },
+    {
+      "date": "2004-10-02",
+      "rank": 23
+    },
+    {
+      "date": "2004-10-09",
+      "rank": 32
+    },
+    {
+      "date": "2004-10-16",
+      "rank": 48
+    },
+    {
+      "date": "2004-10-23",
+      "rank": 63
+    },
+    {
+      "date": "2004-10-30",
+      "rank": 66
+    },
+    {
+      "date": "2004-11-06",
+      "rank": 85
+    },
+    {
+      "date": "2004-11-13",
+      "rank": 108
+    },
+    {
+      "date": "2004-11-20",
+      "rank": 127
+    },
+    {
+      "date": "2004-11-27",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Welcome Back",
+      "id": "welcome-back-mase"
+    },
+    {
+      "title": "Breathe, Stretch, Shake",
+      "id": null
+    },
+    {
+      "title": "Keep It On",
+      "id": null
+    },
+    {
+      "title": "My Harlem Lullaby",
+      "id": null
+    },
+    {
+      "title": "I Owe",
+      "id": null
+    },
+    {
+      "title": "Wasting My Time",
+      "id": null
+    },
+    {
+      "title": "Gotta Survive",
+      "id": null
+    },
+    {
+      "title": "The Love You Need",
+      "id": null
+    },
+    {
+      "title": "Money Comes and Goes",
+      "id": null
+    },
+    {
+      "title": "I Wanna Go",
+      "id": null
+    },
+    {
+      "title": "Into What You Say",
+      "id": null
+    },
+    {
+      "title": "Do You Remember",
+      "id": null
+    }
+  ]
+}

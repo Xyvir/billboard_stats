@@ -1,1 +1,58 @@
-{"id": "tightrope-steve-khan", "title": "Tightrope", "artist": "Steve Khan", "peak": 157, "history": [{"date": "1978-02-04", "rank": 166}, {"date": "1978-02-11", "rank": 160}, {"date": "1978-02-18", "rank": 158}, {"date": "1978-02-25", "rank": 157}, {"date": "1978-03-04", "rank": 167}]}
+{
+  "id": "tightrope-steve-khan",
+  "title": "Tightrope",
+  "artist": "Steve Khan",
+  "peak": 157,
+  "history": [
+    {
+      "date": "1978-02-04",
+      "rank": 166
+    },
+    {
+      "date": "1978-02-11",
+      "rank": 160
+    },
+    {
+      "date": "1978-02-18",
+      "rank": 158
+    },
+    {
+      "date": "1978-02-25",
+      "rank": 157
+    },
+    {
+      "date": "1978-03-04",
+      "rank": 167
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Some Punk Funk",
+      "id": null
+    },
+    {
+      "title": "Darlin' Darlin' Baby",
+      "id": null
+    },
+    {
+      "title": "Tightrope",
+      "id": null
+    },
+    {
+      "title": "The Big Ones",
+      "id": null
+    },
+    {
+      "title": "Star Chamber",
+      "id": null
+    },
+    {
+      "title": "Soft Summer Breeze",
+      "id": null
+    },
+    {
+      "title": "Where Shadows Meet",
+      "id": null
+    }
+  ]
+}

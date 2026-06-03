@@ -1,1 +1,78 @@
-{"id": "yellow-fever-hot-tuna", "title": "Yellow Fever", "artist": "Hot Tuna", "peak": 97, "history": [{"date": "1975-11-29", "rank": 121}, {"date": "1975-12-06", "rank": 111}, {"date": "1975-12-13", "rank": 101}, {"date": "1975-12-20", "rank": 97}, {"date": "1975-12-27", "rank": 117}, {"date": "1976-01-03", "rank": 141}, {"date": "1976-01-10", "rank": 196}, {"date": "1976-01-17", "rank": 192}, {"date": "1976-01-24", "rank": 194}]}
+{
+  "id": "yellow-fever-hot-tuna",
+  "title": "Yellow Fever",
+  "artist": "Hot Tuna",
+  "peak": 97,
+  "history": [
+    {
+      "date": "1975-11-29",
+      "rank": 121
+    },
+    {
+      "date": "1975-12-06",
+      "rank": 111
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 101
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 97
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 117
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 141
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 196
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 192
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Baby What You Want Me to Do",
+      "id": null
+    },
+    {
+      "title": "Hot Jelly Roll Blues",
+      "id": null
+    },
+    {
+      "title": "Free Rein",
+      "id": null
+    },
+    {
+      "title": "Sunrise Dance With the Devil",
+      "id": null
+    },
+    {
+      "title": "Song for the Fire Maiden",
+      "id": null
+    },
+    {
+      "title": "Bar Room Crystal Ball",
+      "id": null
+    },
+    {
+      "title": "Half-Time Saturation",
+      "id": null
+    },
+    {
+      "title": "Surphase Tension",
+      "id": null
+    }
+  ]
+}

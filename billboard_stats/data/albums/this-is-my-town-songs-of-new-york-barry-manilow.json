@@ -1,1 +1,66 @@
-{"id": "this-is-my-town-songs-of-new-york-barry-manilow", "title": "This Is My Town: Songs Of New York", "artist": "Barry Manilow", "peak": 12, "history": [{"date": "2017-05-13", "rank": 12}, {"date": "2017-05-27", "rank": 104}, {"date": "2017-06-10", "rank": 116}, {"date": "2017-06-17", "rank": 193}]}
+{
+  "id": "this-is-my-town-songs-of-new-york-barry-manilow",
+  "title": "This Is My Town: Songs Of New York",
+  "artist": "Barry Manilow",
+  "peak": 12,
+  "history": [
+    {
+      "date": "2017-05-13",
+      "rank": 12
+    },
+    {
+      "date": "2017-05-27",
+      "rank": 104
+    },
+    {
+      "date": "2017-06-10",
+      "rank": 116
+    },
+    {
+      "date": "2017-06-17",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lonely Town",
+      "id": "lonely-together-barry-manilow"
+    },
+    {
+      "title": "This Is My Town",
+      "id": null
+    },
+    {
+      "title": "New York City Rhythm / On Broadway",
+      "id": null
+    },
+    {
+      "title": "Coney Island",
+      "id": null
+    },
+    {
+      "title": "Lovin’ at Birdland",
+      "id": null
+    },
+    {
+      "title": "Downtown / Uptown",
+      "id": null
+    },
+    {
+      "title": "On the Roof",
+      "id": null
+    },
+    {
+      "title": "I Dig New York",
+      "id": null
+    },
+    {
+      "title": "The Brooklyn Bridge",
+      "id": null
+    },
+    {
+      "title": "NYC Medley",
+      "id": null
+    }
+  ]
+}

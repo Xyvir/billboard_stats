@@ -1,1 +1,186 @@
-{"id": "zebop-santana", "title": "Zebop", "artist": "Santana", "peak": 9, "history": [{"date": "1981-04-18", "rank": 78}, {"date": "1981-04-25", "rank": 42}, {"date": "1981-05-02", "rank": 26}, {"date": "1981-05-09", "rank": 19}, {"date": "1981-05-16", "rank": 17}, {"date": "1981-05-23", "rank": 14}, {"date": "1981-05-30", "rank": 12}, {"date": "1981-06-06", "rank": 11}, {"date": "1981-06-13", "rank": 9}, {"date": "1981-06-20", "rank": 9}, {"date": "1981-06-27", "rank": 9}, {"date": "1981-07-04", "rank": 9}, {"date": "1981-07-11", "rank": 10}, {"date": "1981-07-18", "rank": 10}, {"date": "1981-07-25", "rank": 10}, {"date": "1981-08-01", "rank": 16}, {"date": "1981-08-08", "rank": 16}, {"date": "1981-08-15", "rank": 19}, {"date": "1981-08-22", "rank": 25}, {"date": "1981-08-29", "rank": 29}, {"date": "1981-09-05", "rank": 25}, {"date": "1981-09-12", "rank": 24}, {"date": "1981-09-19", "rank": 25}, {"date": "1981-09-26", "rank": 50}, {"date": "1981-10-03", "rank": 65}, {"date": "1981-10-10", "rank": 75}, {"date": "1981-10-17", "rank": 77}, {"date": "1981-10-24", "rank": 105}, {"date": "1981-10-31", "rank": 113}, {"date": "1981-11-07", "rank": 121}, {"date": "1981-11-14", "rank": 158}, {"date": "1981-11-21", "rank": 179}]}
+{
+  "id": "zebop-santana",
+  "title": "Zebop",
+  "artist": "Santana",
+  "peak": 9,
+  "history": [
+    {
+      "date": "1981-04-18",
+      "rank": 78
+    },
+    {
+      "date": "1981-04-25",
+      "rank": 42
+    },
+    {
+      "date": "1981-05-02",
+      "rank": 26
+    },
+    {
+      "date": "1981-05-09",
+      "rank": 19
+    },
+    {
+      "date": "1981-05-16",
+      "rank": 17
+    },
+    {
+      "date": "1981-05-23",
+      "rank": 14
+    },
+    {
+      "date": "1981-05-30",
+      "rank": 12
+    },
+    {
+      "date": "1981-06-06",
+      "rank": 11
+    },
+    {
+      "date": "1981-06-13",
+      "rank": 9
+    },
+    {
+      "date": "1981-06-20",
+      "rank": 9
+    },
+    {
+      "date": "1981-06-27",
+      "rank": 9
+    },
+    {
+      "date": "1981-07-04",
+      "rank": 9
+    },
+    {
+      "date": "1981-07-11",
+      "rank": 10
+    },
+    {
+      "date": "1981-07-18",
+      "rank": 10
+    },
+    {
+      "date": "1981-07-25",
+      "rank": 10
+    },
+    {
+      "date": "1981-08-01",
+      "rank": 16
+    },
+    {
+      "date": "1981-08-08",
+      "rank": 16
+    },
+    {
+      "date": "1981-08-15",
+      "rank": 19
+    },
+    {
+      "date": "1981-08-22",
+      "rank": 25
+    },
+    {
+      "date": "1981-08-29",
+      "rank": 29
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 25
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 24
+    },
+    {
+      "date": "1981-09-19",
+      "rank": 25
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 50
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 65
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 75
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 77
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 105
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 113
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 121
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 158
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 179
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Winning",
+      "id": "winning-santana"
+    },
+    {
+      "title": "The Sensitive Kind",
+      "id": "the-sensitive-kind-santana"
+    },
+    {
+      "title": "Changes",
+      "id": null
+    },
+    {
+      "title": "É papa ré",
+      "id": null
+    },
+    {
+      "title": "Primera invasion",
+      "id": null
+    },
+    {
+      "title": "Searchin’",
+      "id": null
+    },
+    {
+      "title": "Over and Over",
+      "id": null
+    },
+    {
+      "title": "Tales of Kilimanjaro",
+      "id": null
+    },
+    {
+      "title": "American Gypsy",
+      "id": null
+    },
+    {
+      "title": "I Love You Much Too Much",
+      "id": null
+    },
+    {
+      "title": "Brightest Star",
+      "id": null
+    },
+    {
+      "title": "Hannibal",
+      "id": null
+    }
+  ]
+}

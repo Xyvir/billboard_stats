@@ -1,1 +1,102 @@
-{"id": "vh1-storytellers-meat-loaf", "title": "VH1 Storytellers", "artist": "Meat Loaf", "peak": 129, "history": [{"date": "1999-10-02", "rank": 144}, {"date": "1999-10-09", "rank": 129}, {"date": "1999-10-16", "rank": 156}, {"date": "1999-10-23", "rank": 188}, {"date": "1999-11-06", "rank": 199}]}
+{
+  "id": "vh1-storytellers-meat-loaf",
+  "title": "VH1 Storytellers",
+  "artist": "Meat Loaf",
+  "peak": 129,
+  "history": [
+    {
+      "date": "1999-10-02",
+      "rank": 144
+    },
+    {
+      "date": "1999-10-09",
+      "rank": 129
+    },
+    {
+      "date": "1999-10-16",
+      "rank": 156
+    },
+    {
+      "date": "1999-10-23",
+      "rank": 188
+    },
+    {
+      "date": "1999-11-06",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Took the Words Right Out of My Mouth (Hot Summer Night)",
+      "id": "you-took-the-words-right-out-of-my-mouth-meat-loaf"
+    },
+    {
+      "title": "I’d Do Anything for Love (But I Won’t Do That)",
+      "id": "i-d-do-anything-for-love-but-i-won-t-do-that-meat-loaf"
+    },
+    {
+      "title": "Paradise by the Dashboard Light",
+      "id": "paradise-by-the-dashboard-light-meat-loaf"
+    },
+    {
+      "title": "Two Out of Three Ain’t Bad",
+      "id": "two-out-of-three-ain-t-bad-meat-loaf"
+    },
+    {
+      "title": "All Revved Up With No Place to Go",
+      "id": null
+    },
+    {
+      "title": "Life Is a Lemon and I Want My Money Back",
+      "id": null
+    },
+    {
+      "title": "Story: Written Just for You",
+      "id": null
+    },
+    {
+      "title": "Story: What I Won't Do",
+      "id": null
+    },
+    {
+      "title": "Lawyers, Guns and Money",
+      "id": null
+    },
+    {
+      "title": "Story: Working for Jim Steinman in New York",
+      "id": null
+    },
+    {
+      "title": "More Than You Deserve",
+      "id": null
+    },
+    {
+      "title": "Story: Peter Pan",
+      "id": null
+    },
+    {
+      "title": "Heaven Can Wait",
+      "id": null
+    },
+    {
+      "title": "Story: Paradise in the Office",
+      "id": null
+    },
+    {
+      "title": "Story: Performing on Television",
+      "id": null
+    },
+    {
+      "title": "Story: Bat Out of Psycho",
+      "id": null
+    },
+    {
+      "title": "Bat Out of Hell",
+      "id": null
+    },
+    {
+      "title": "Is Nothing Sacred (New single version)",
+      "id": null
+    }
+  ]
+}

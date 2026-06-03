@@ -1,1 +1,310 @@
-{"id": "this-one-s-for-you-barry-manilow", "title": "This One's For You", "artist": "Barry Manilow", "peak": 6, "history": [{"date": "1976-08-21", "rank": 34}, {"date": "1976-08-28", "rank": 18}, {"date": "1976-09-04", "rank": 16}, {"date": "1976-09-11", "rank": 14}, {"date": "1976-09-18", "rank": 12}, {"date": "1976-09-25", "rank": 12}, {"date": "1976-10-02", "rank": 18}, {"date": "1976-10-09", "rank": 22}, {"date": "1976-10-16", "rank": 66}, {"date": "1976-10-23", "rank": 60}, {"date": "1976-10-30", "rank": 50}, {"date": "1976-11-06", "rank": 40}, {"date": "1976-11-13", "rank": 39}, {"date": "1976-11-20", "rank": 46}, {"date": "1976-11-27", "rank": 53}, {"date": "1976-12-04", "rank": 53}, {"date": "1976-12-11", "rank": 49}, {"date": "1976-12-18", "rank": 48}, {"date": "1976-12-25", "rank": 47}, {"date": "1977-01-01", "rank": 47}, {"date": "1977-01-08", "rank": 46}, {"date": "1977-01-15", "rank": 43}, {"date": "1977-01-22", "rank": 41}, {"date": "1977-01-29", "rank": 38}, {"date": "1977-02-05", "rank": 34}, {"date": "1977-02-12", "rank": 32}, {"date": "1977-02-19", "rank": 29}, {"date": "1977-02-26", "rank": 27}, {"date": "1977-03-05", "rank": 24}, {"date": "1977-03-12", "rank": 22}, {"date": "1977-03-19", "rank": 20}, {"date": "1977-03-26", "rank": 16}, {"date": "1977-04-02", "rank": 10}, {"date": "1977-04-09", "rank": 7}, {"date": "1977-04-16", "rank": 6}, {"date": "1977-04-23", "rank": 6}, {"date": "1977-04-30", "rank": 19}, {"date": "1977-05-07", "rank": 20}, {"date": "1977-05-14", "rank": 19}, {"date": "1977-05-21", "rank": 31}, {"date": "1977-05-28", "rank": 48}, {"date": "1977-06-04", "rank": 56}, {"date": "1977-06-11", "rank": 61}, {"date": "1977-06-18", "rank": 61}, {"date": "1977-06-25", "rank": 64}, {"date": "1977-07-02", "rank": 60}, {"date": "1977-07-09", "rank": 58}, {"date": "1977-07-16", "rank": 54}, {"date": "1977-07-23", "rank": 85}, {"date": "1977-07-30", "rank": 99}, {"date": "1977-08-06", "rank": 98}, {"date": "1977-08-13", "rank": 127}, {"date": "1977-08-20", "rank": 127}, {"date": "1977-08-27", "rank": 157}, {"date": "1977-09-03", "rank": 142}, {"date": "1977-09-10", "rank": 135}, {"date": "1977-09-17", "rank": 131}, {"date": "1977-09-24", "rank": 131}, {"date": "1977-10-01", "rank": 196}, {"date": "1977-10-08", "rank": 196}]}
+{
+  "id": "this-one-s-for-you-barry-manilow",
+  "title": "This One's For You",
+  "artist": "Barry Manilow",
+  "peak": 6,
+  "history": [
+    {
+      "date": "1976-08-21",
+      "rank": 34
+    },
+    {
+      "date": "1976-08-28",
+      "rank": 18
+    },
+    {
+      "date": "1976-09-04",
+      "rank": 16
+    },
+    {
+      "date": "1976-09-11",
+      "rank": 14
+    },
+    {
+      "date": "1976-09-18",
+      "rank": 12
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 12
+    },
+    {
+      "date": "1976-10-02",
+      "rank": 18
+    },
+    {
+      "date": "1976-10-09",
+      "rank": 22
+    },
+    {
+      "date": "1976-10-16",
+      "rank": 66
+    },
+    {
+      "date": "1976-10-23",
+      "rank": 60
+    },
+    {
+      "date": "1976-10-30",
+      "rank": 50
+    },
+    {
+      "date": "1976-11-06",
+      "rank": 40
+    },
+    {
+      "date": "1976-11-13",
+      "rank": 39
+    },
+    {
+      "date": "1976-11-20",
+      "rank": 46
+    },
+    {
+      "date": "1976-11-27",
+      "rank": 53
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 53
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 49
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 48
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 47
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 47
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 46
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 43
+    },
+    {
+      "date": "1977-01-22",
+      "rank": 41
+    },
+    {
+      "date": "1977-01-29",
+      "rank": 38
+    },
+    {
+      "date": "1977-02-05",
+      "rank": 34
+    },
+    {
+      "date": "1977-02-12",
+      "rank": 32
+    },
+    {
+      "date": "1977-02-19",
+      "rank": 29
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 27
+    },
+    {
+      "date": "1977-03-05",
+      "rank": 24
+    },
+    {
+      "date": "1977-03-12",
+      "rank": 22
+    },
+    {
+      "date": "1977-03-19",
+      "rank": 20
+    },
+    {
+      "date": "1977-03-26",
+      "rank": 16
+    },
+    {
+      "date": "1977-04-02",
+      "rank": 10
+    },
+    {
+      "date": "1977-04-09",
+      "rank": 7
+    },
+    {
+      "date": "1977-04-16",
+      "rank": 6
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 6
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 19
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 20
+    },
+    {
+      "date": "1977-05-14",
+      "rank": 19
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 31
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 48
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 56
+    },
+    {
+      "date": "1977-06-11",
+      "rank": 61
+    },
+    {
+      "date": "1977-06-18",
+      "rank": 61
+    },
+    {
+      "date": "1977-06-25",
+      "rank": 64
+    },
+    {
+      "date": "1977-07-02",
+      "rank": 60
+    },
+    {
+      "date": "1977-07-09",
+      "rank": 58
+    },
+    {
+      "date": "1977-07-16",
+      "rank": 54
+    },
+    {
+      "date": "1977-07-23",
+      "rank": 85
+    },
+    {
+      "date": "1977-07-30",
+      "rank": 99
+    },
+    {
+      "date": "1977-08-06",
+      "rank": 98
+    },
+    {
+      "date": "1977-08-13",
+      "rank": 127
+    },
+    {
+      "date": "1977-08-20",
+      "rank": 127
+    },
+    {
+      "date": "1977-08-27",
+      "rank": 157
+    },
+    {
+      "date": "1977-09-03",
+      "rank": 142
+    },
+    {
+      "date": "1977-09-10",
+      "rank": 135
+    },
+    {
+      "date": "1977-09-17",
+      "rank": 131
+    },
+    {
+      "date": "1977-09-24",
+      "rank": 131
+    },
+    {
+      "date": "1977-10-01",
+      "rank": 196
+    },
+    {
+      "date": "1977-10-08",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "This One’s for You",
+      "id": "this-one-s-for-you-barry-manilow"
+    },
+    {
+      "title": "Daybreak",
+      "id": "daybreak-barry-manilow"
+    },
+    {
+      "title": "Weekend in New England",
+      "id": "weekend-in-new-england-barry-manilow"
+    },
+    {
+      "title": "Let Me Go",
+      "id": "let-s-hang-on-barry-manilow"
+    },
+    {
+      "title": "Looks Like We Made It",
+      "id": "looks-like-we-made-it-barry-manilow"
+    },
+    {
+      "title": "I Really Do Write the Songs (demo)",
+      "id": "i-write-the-songs-barry-manilow"
+    },
+    {
+      "title": "You Oughta Be Home With Me",
+      "id": null
+    },
+    {
+      "title": "Jump Shout Boogie",
+      "id": null
+    },
+    {
+      "title": "Riders to the Stars",
+      "id": null
+    },
+    {
+      "title": "Say the Words",
+      "id": null
+    },
+    {
+      "title": "All the Time",
+      "id": null
+    },
+    {
+      "title": "(Why Don’t You) See the Show Again",
+      "id": null
+    },
+    {
+      "title": "Don’t Throw It All Away (unfinished track)",
+      "id": null
+    },
+    {
+      "title": "Can’t Go Back Anymore (unfinished track)",
+      "id": null
+    },
+    {
+      "title": "This Is Fine (demo)",
+      "id": null
+    }
+  ]
+}

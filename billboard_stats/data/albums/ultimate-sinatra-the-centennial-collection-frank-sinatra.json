@@ -1,1 +1,418 @@
-{"id": "ultimate-sinatra-the-centennial-collection-frank-sinatra", "title": "Ultimate Sinatra: The Centennial Collection", "artist": "Frank Sinatra", "peak": 145, "history": [{"date": "2015-05-09", "rank": 145}]}
+{
+  "id": "ultimate-sinatra-the-centennial-collection-frank-sinatra",
+  "title": "Ultimate Sinatra: The Centennial Collection",
+  "artist": "Frank Sinatra",
+  "peak": 145,
+  "history": [
+    {
+      "date": "2015-05-09",
+      "rank": 145
+    }
+  ],
+  "tracks": [
+    {
+      "title": "All or Nothing at All",
+      "id": "anytime-at-all-frank-sinatra"
+    },
+    {
+      "title": "The Song Is You",
+      "id": "the-second-time-around-frank-sinatra"
+    },
+    {
+      "title": "All of Me",
+      "id": "talk-to-me-frank-sinatra"
+    },
+    {
+      "title": "Love Is Here to Stay",
+      "id": "love-s-been-good-to-me-frank-sinatra"
+    },
+    {
+      "title": "I Wish I Were in Love Again",
+      "id": "i-would-be-in-love-anyway-frank-sinatra"
+    },
+    {
+      "title": "Come Fly With Me",
+      "id": "stay-with-me-frank-sinatra"
+    },
+    {
+      "title": "Come Dance With Me",
+      "id": "stay-with-me-frank-sinatra"
+    },
+    {
+      "title": "Nice ’n’ Easy",
+      "id": "nice-n-easy-frank-sinatra"
+    },
+    {
+      "title": "The Second Time Around",
+      "id": "the-second-time-around-frank-sinatra"
+    },
+    {
+      "title": "Stardust",
+      "id": "stardust-frank-sinatra"
+    },
+    {
+      "title": "Softly, as I Leave You",
+      "id": "softly-as-i-leave-you-frank-sinatra"
+    },
+    {
+      "title": "It Was a Very Good Year",
+      "id": "it-was-a-very-good-year-frank-sinatra"
+    },
+    {
+      "title": "Strangers in the Night",
+      "id": "strangers-in-the-night-frank-sinatra"
+    },
+    {
+      "title": "Summer Wind",
+      "id": "summer-wind-frank-sinatra"
+    },
+    {
+      "title": "That’s Life",
+      "id": "that-s-life-frank-sinatra"
+    },
+    {
+      "title": "Somethin’ Stupid",
+      "id": "somethin-stupid-nancy-sinatra-frank-sinatra"
+    },
+    {
+      "title": "The World We Knew (Over and Over)",
+      "id": "the-world-we-knew-over-and-over-frank-sinatra"
+    },
+    {
+      "title": "Cycles",
+      "id": "cycles-frank-sinatra"
+    },
+    {
+      "title": "My Way",
+      "id": "my-way-frank-sinatra"
+    },
+    {
+      "title": "Forget to Remember",
+      "id": "goin-out-of-my-head-forget-to-remember-frank-sinatra"
+    },
+    {
+      "title": "Theme From New York, New York",
+      "id": "theme-from-new-york-new-york-frank-sinatra"
+    },
+    {
+      "title": "I’ll Never Smile Again",
+      "id": null
+    },
+    {
+      "title": "Street of Dreams",
+      "id": null
+    },
+    {
+      "title": "You’ll Never Know",
+      "id": null
+    },
+    {
+      "title": "If You Are but a Dream",
+      "id": null
+    },
+    {
+      "title": "Saturday Night (Is the Loneliest Night in the Week)",
+      "id": null
+    },
+    {
+      "title": "Nancy (with the Laughing Face)",
+      "id": null
+    },
+    {
+      "title": "Oh, What It Seemed to Be",
+      "id": null
+    },
+    {
+      "title": "Five Minutes More",
+      "id": null
+    },
+    {
+      "title": "Time After Time",
+      "id": null
+    },
+    {
+      "title": "Night and Day",
+      "id": null
+    },
+    {
+      "title": "I’m a Fool to Want You",
+      "id": null
+    },
+    {
+      "title": "The Birth of the Blues",
+      "id": null
+    },
+    {
+      "title": "Why Try to Change Me Now",
+      "id": null
+    },
+    {
+      "title": "I’ve Got the World on a String",
+      "id": null
+    },
+    {
+      "title": "Don’t Worry ’Bout Me",
+      "id": null
+    },
+    {
+      "title": "My Funny Valentine",
+      "id": null
+    },
+    {
+      "title": "They Can’t Take That Away From Me",
+      "id": null
+    },
+    {
+      "title": "I Get a Kick Out of You",
+      "id": null
+    },
+    {
+      "title": "Young at Heart",
+      "id": null
+    },
+    {
+      "title": "Last Night When We Were Young",
+      "id": null
+    },
+    {
+      "title": "Three Coins in the Fountain",
+      "id": null
+    },
+    {
+      "title": "Just One of Those Things",
+      "id": null
+    },
+    {
+      "title": "Someone to Watch Over Me",
+      "id": null
+    },
+    {
+      "title": "I Get Along Without You Very Well",
+      "id": null
+    },
+    {
+      "title": "This Love of Mine",
+      "id": null
+    },
+    {
+      "title": "In the Wee Small Hours of the Morning",
+      "id": null
+    },
+    {
+      "title": "Learnin’ the Blues",
+      "id": null
+    },
+    {
+      "title": "Love and Marriage",
+      "id": null
+    },
+    {
+      "title": "(Love Is) The Tender Trap",
+      "id": null
+    },
+    {
+      "title": "You Make Me Feel So Young",
+      "id": null
+    },
+    {
+      "title": "Memories of You",
+      "id": null
+    },
+    {
+      "title": "I’ve Got You Under My Skin",
+      "id": null
+    },
+    {
+      "title": "Too Marvelous for Words",
+      "id": null
+    },
+    {
+      "title": "(How Little It Matters) How Little We Know",
+      "id": null
+    },
+    {
+      "title": "I Couldn’t Sleep a Wink Last Night",
+      "id": null
+    },
+    {
+      "title": "The Lady Is a Tramp",
+      "id": null
+    },
+    {
+      "title": "From This Moment On",
+      "id": null
+    },
+    {
+      "title": "Laura",
+      "id": null
+    },
+    {
+      "title": "Where Are You?",
+      "id": null
+    },
+    {
+      "title": "Witchcraft",
+      "id": null
+    },
+    {
+      "title": "Bewitched",
+      "id": null
+    },
+    {
+      "title": "All the Way",
+      "id": null
+    },
+    {
+      "title": "Moonlight in Vermont",
+      "id": null
+    },
+    {
+      "title": "Put Your Dreams Away",
+      "id": null
+    },
+    {
+      "title": "Angel Eyes",
+      "id": null
+    },
+    {
+      "title": "Guess I’ll Hang My Tears Out to Dry",
+      "id": null
+    },
+    {
+      "title": "Only the Lonely",
+      "id": null
+    },
+    {
+      "title": "One for My Baby",
+      "id": null
+    },
+    {
+      "title": "Something’s Gotta Give",
+      "id": null
+    },
+    {
+      "title": "Here’s That Rainy Day",
+      "id": null
+    },
+    {
+      "title": "A Cottage for Sale",
+      "id": null
+    },
+    {
+      "title": "High Hopes",
+      "id": null
+    },
+    {
+      "title": "The Nearness of You",
+      "id": null
+    },
+    {
+      "title": "I’ve Got a Crush on You",
+      "id": null
+    },
+    {
+      "title": "When the World Was Young",
+      "id": null
+    },
+    {
+      "title": "In the Still of the Night",
+      "id": null
+    },
+    {
+      "title": "Without a Song",
+      "id": null
+    },
+    {
+      "title": "Love Walked In",
+      "id": null
+    },
+    {
+      "title": "Come Rain or Come Shine",
+      "id": null
+    },
+    {
+      "title": "The Girl Next Door",
+      "id": null
+    },
+    {
+      "title": "At Long Last Love (1962 version)",
+      "id": null
+    },
+    {
+      "title": "The Very Thought of You",
+      "id": null
+    },
+    {
+      "title": "Pennies From Heaven",
+      "id": null
+    },
+    {
+      "title": "Ol’ Man River",
+      "id": null
+    },
+    {
+      "title": "I Have Dreamed",
+      "id": null
+    },
+    {
+      "title": "Luck Be a Lady",
+      "id": null
+    },
+    {
+      "title": "The Way You Look Tonight",
+      "id": null
+    },
+    {
+      "title": "My Kind of Town",
+      "id": null
+    },
+    {
+      "title": "The Best Is Yet to Come",
+      "id": null
+    },
+    {
+      "title": "Fly Me to the Moon (In Other Words)",
+      "id": null
+    },
+    {
+      "title": "The September of My Years",
+      "id": null
+    },
+    {
+      "title": "Moonlight Serenade",
+      "id": null
+    },
+    {
+      "title": "I Concentrate on You",
+      "id": null
+    },
+    {
+      "title": "The Girl From Ipanema",
+      "id": null
+    },
+    {
+      "title": "Drinking Again",
+      "id": null
+    },
+    {
+      "title": "Wave",
+      "id": null
+    },
+    {
+      "title": "All My Tomorrows",
+      "id": null
+    },
+    {
+      "title": "It Had to Be You",
+      "id": null
+    },
+    {
+      "title": "All of You",
+      "id": null
+    },
+    {
+      "title": "The Surrey With the Fringe on Top (rehearsal version)",
+      "id": null
+    }
+  ]
+}

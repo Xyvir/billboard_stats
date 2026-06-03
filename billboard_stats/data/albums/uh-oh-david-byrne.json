@@ -1,1 +1,82 @@
-{"id": "uh-oh-david-byrne", "title": "Uh-Oh", "artist": "David Byrne", "peak": 125, "history": [{"date": "1992-03-21", "rank": 144}, {"date": "1992-03-28", "rank": 125}, {"date": "1992-04-04", "rank": 149}, {"date": "1992-04-11", "rank": 125}, {"date": "1992-04-18", "rank": 158}, {"date": "1992-04-25", "rank": 197}]}
+{
+  "id": "uh-oh-david-byrne",
+  "title": "Uh-Oh",
+  "artist": "David Byrne",
+  "peak": 125,
+  "history": [
+    {
+      "date": "1992-03-21",
+      "rank": 144
+    },
+    {
+      "date": "1992-03-28",
+      "rank": 125
+    },
+    {
+      "date": "1992-04-04",
+      "rank": 149
+    },
+    {
+      "date": "1992-04-11",
+      "rank": 125
+    },
+    {
+      "date": "1992-04-18",
+      "rank": 158
+    },
+    {
+      "date": "1992-04-25",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Now I’m Your Mom",
+      "id": null
+    },
+    {
+      "title": "Girls on My Mind",
+      "id": null
+    },
+    {
+      "title": "Something Ain’t Right",
+      "id": null
+    },
+    {
+      "title": "She’s Mad",
+      "id": null
+    },
+    {
+      "title": "Hanging Upside Down",
+      "id": null
+    },
+    {
+      "title": "A Walk in the Dark",
+      "id": null
+    },
+    {
+      "title": "Twistin’ in the Wind",
+      "id": null
+    },
+    {
+      "title": "The Cowboy Mambo (Hey Lookit Me Now)",
+      "id": null
+    },
+    {
+      "title": "Monkey Man",
+      "id": null
+    },
+    {
+      "title": "A Million Miles Away",
+      "id": null
+    },
+    {
+      "title": "Tiny Town",
+      "id": null
+    },
+    {
+      "title": "Somebody",
+      "id": null
+    }
+  ]
+}

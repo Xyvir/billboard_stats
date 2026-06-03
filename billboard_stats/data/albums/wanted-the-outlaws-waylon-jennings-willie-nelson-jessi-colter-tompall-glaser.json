@@ -1,1 +1,258 @@
-{"id": "wanted-the-outlaws-waylon-jennings-willie-nelson-jessi-colter-tompall-glaser", "title": "Wanted! The Outlaws", "artist": "Waylon Jennings, Willie Nelson, Jessi Colter, Tompall Glaser", "peak": 10, "history": [{"date": "1976-02-07", "rank": 54}, {"date": "1976-02-14", "rank": 34}, {"date": "1976-02-21", "rank": 29}, {"date": "1976-02-28", "rank": 26}, {"date": "1976-03-06", "rank": 16}, {"date": "1976-03-13", "rank": 14}, {"date": "1976-03-20", "rank": 12}, {"date": "1976-03-27", "rank": 11}, {"date": "1976-04-03", "rank": 10}, {"date": "1976-04-10", "rank": 10}, {"date": "1976-04-17", "rank": 17}, {"date": "1976-04-24", "rank": 25}, {"date": "1976-05-01", "rank": 25}, {"date": "1976-05-08", "rank": 27}, {"date": "1976-05-15", "rank": 35}, {"date": "1976-05-22", "rank": 50}, {"date": "1976-05-29", "rank": 79}, {"date": "1976-06-05", "rank": 85}, {"date": "1976-06-12", "rank": 114}, {"date": "1976-06-19", "rank": 114}, {"date": "1976-06-26", "rank": 138}, {"date": "1976-07-03", "rank": 139}, {"date": "1976-07-10", "rank": 135}, {"date": "1976-07-17", "rank": 133}, {"date": "1976-07-24", "rank": 145}, {"date": "1976-07-31", "rank": 146}, {"date": "1976-08-07", "rank": 142}, {"date": "1976-08-14", "rank": 154}, {"date": "1976-08-21", "rank": 150}, {"date": "1976-08-28", "rank": 173}, {"date": "1976-09-04", "rank": 172}, {"date": "1976-09-11", "rank": 169}, {"date": "1976-09-18", "rank": 169}, {"date": "1976-09-25", "rank": 165}, {"date": "1976-12-04", "rank": 175}, {"date": "1976-12-11", "rank": 170}, {"date": "1976-12-18", "rank": 168}, {"date": "1976-12-25", "rank": 165}, {"date": "1977-01-01", "rank": 165}, {"date": "1977-01-08", "rank": 159}, {"date": "1977-01-15", "rank": 157}, {"date": "1977-01-22", "rank": 153}, {"date": "1977-01-29", "rank": 153}, {"date": "1977-02-05", "rank": 153}, {"date": "1977-02-12", "rank": 150}, {"date": "1977-02-19", "rank": 146}, {"date": "1977-02-26", "rank": 146}, {"date": "1977-03-05", "rank": 146}, {"date": "1977-03-12", "rank": 140}, {"date": "1977-03-19", "rank": 193}, {"date": "1977-03-26", "rank": 193}]}
+{
+  "id": "wanted-the-outlaws-waylon-jennings-willie-nelson-jessi-colter-tompall-glaser",
+  "title": "Wanted! The Outlaws",
+  "artist": "Waylon Jennings, Willie Nelson, Jessi Colter, Tompall Glaser",
+  "peak": 10,
+  "history": [
+    {
+      "date": "1976-02-07",
+      "rank": 54
+    },
+    {
+      "date": "1976-02-14",
+      "rank": 34
+    },
+    {
+      "date": "1976-02-21",
+      "rank": 29
+    },
+    {
+      "date": "1976-02-28",
+      "rank": 26
+    },
+    {
+      "date": "1976-03-06",
+      "rank": 16
+    },
+    {
+      "date": "1976-03-13",
+      "rank": 14
+    },
+    {
+      "date": "1976-03-20",
+      "rank": 12
+    },
+    {
+      "date": "1976-03-27",
+      "rank": 11
+    },
+    {
+      "date": "1976-04-03",
+      "rank": 10
+    },
+    {
+      "date": "1976-04-10",
+      "rank": 10
+    },
+    {
+      "date": "1976-04-17",
+      "rank": 17
+    },
+    {
+      "date": "1976-04-24",
+      "rank": 25
+    },
+    {
+      "date": "1976-05-01",
+      "rank": 25
+    },
+    {
+      "date": "1976-05-08",
+      "rank": 27
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 35
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 50
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 79
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 85
+    },
+    {
+      "date": "1976-06-12",
+      "rank": 114
+    },
+    {
+      "date": "1976-06-19",
+      "rank": 114
+    },
+    {
+      "date": "1976-06-26",
+      "rank": 138
+    },
+    {
+      "date": "1976-07-03",
+      "rank": 139
+    },
+    {
+      "date": "1976-07-10",
+      "rank": 135
+    },
+    {
+      "date": "1976-07-17",
+      "rank": 133
+    },
+    {
+      "date": "1976-07-24",
+      "rank": 145
+    },
+    {
+      "date": "1976-07-31",
+      "rank": 146
+    },
+    {
+      "date": "1976-08-07",
+      "rank": 142
+    },
+    {
+      "date": "1976-08-14",
+      "rank": 154
+    },
+    {
+      "date": "1976-08-21",
+      "rank": 150
+    },
+    {
+      "date": "1976-08-28",
+      "rank": 173
+    },
+    {
+      "date": "1976-09-04",
+      "rank": 172
+    },
+    {
+      "date": "1976-09-11",
+      "rank": 169
+    },
+    {
+      "date": "1976-09-18",
+      "rank": 169
+    },
+    {
+      "date": "1976-09-25",
+      "rank": 165
+    },
+    {
+      "date": "1976-12-04",
+      "rank": 175
+    },
+    {
+      "date": "1976-12-11",
+      "rank": 170
+    },
+    {
+      "date": "1976-12-18",
+      "rank": 168
+    },
+    {
+      "date": "1976-12-25",
+      "rank": 165
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 165
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 159
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 157
+    },
+    {
+      "date": "1977-01-22",
+      "rank": 153
+    },
+    {
+      "date": "1977-01-29",
+      "rank": 153
+    },
+    {
+      "date": "1977-02-05",
+      "rank": 153
+    },
+    {
+      "date": "1977-02-12",
+      "rank": 150
+    },
+    {
+      "date": "1977-02-19",
+      "rank": 146
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 146
+    },
+    {
+      "date": "1977-03-05",
+      "rank": 146
+    },
+    {
+      "date": "1977-03-12",
+      "rank": 140
+    },
+    {
+      "date": "1977-03-19",
+      "rank": 193
+    },
+    {
+      "date": "1977-03-26",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "My Heroes Have Always Been Cowboys",
+      "id": null
+    },
+    {
+      "title": "Honky Tonk Heroes (Like Me)",
+      "id": null
+    },
+    {
+      "title": "I’m Looking for Blue Eyes",
+      "id": null
+    },
+    {
+      "title": "You Mean to Say",
+      "id": null
+    },
+    {
+      "title": "Suspicious Minds",
+      "id": null
+    },
+    {
+      "title": "A Good Hearted Woman",
+      "id": null
+    },
+    {
+      "title": "Heaven and Hell",
+      "id": null
+    },
+    {
+      "title": "Me and Paul",
+      "id": null
+    },
+    {
+      "title": "Yesterday’s Wine",
+      "id": null
+    },
+    {
+      "title": "T for Texas",
+      "id": null
+    },
+    {
+      "title": "Put Another Log on the Fire",
+      "id": null
+    }
+  ]
+}

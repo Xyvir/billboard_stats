@@ -1,1 +1,318 @@
-{"id": "tp-2-com-r-kelly", "title": "tp-2.com", "artist": "R. Kelly", "peak": 1, "history": [{"date": "2000-11-25", "rank": 1}, {"date": "2000-12-02", "rank": 5}, {"date": "2000-12-09", "rank": 7}, {"date": "2000-12-16", "rank": 9}, {"date": "2000-12-23", "rank": 15}, {"date": "2000-12-30", "rank": 19}, {"date": "2001-01-06", "rank": 19}, {"date": "2001-01-13", "rank": 14}, {"date": "2001-01-20", "rank": 13}, {"date": "2001-01-27", "rank": 13}, {"date": "2001-02-03", "rank": 15}, {"date": "2001-02-10", "rank": 18}, {"date": "2001-02-17", "rank": 17}, {"date": "2001-02-24", "rank": 17}, {"date": "2001-03-03", "rank": 17}, {"date": "2001-03-10", "rank": 20}, {"date": "2001-03-17", "rank": 20}, {"date": "2001-03-24", "rank": 20}, {"date": "2001-03-31", "rank": 26}, {"date": "2001-04-07", "rank": 33}, {"date": "2001-04-14", "rank": 37}, {"date": "2001-04-21", "rank": 40}, {"date": "2001-04-28", "rank": 47}, {"date": "2001-05-05", "rank": 42}, {"date": "2001-05-12", "rank": 45}, {"date": "2001-05-19", "rank": 45}, {"date": "2001-05-26", "rank": 61}, {"date": "2001-06-02", "rank": 58}, {"date": "2001-06-09", "rank": 72}, {"date": "2001-06-16", "rank": 71}, {"date": "2001-06-23", "rank": 83}, {"date": "2001-06-30", "rank": 87}, {"date": "2001-07-07", "rank": 95}, {"date": "2001-07-14", "rank": 102}, {"date": "2001-07-21", "rank": 94}, {"date": "2001-07-28", "rank": 101}, {"date": "2001-08-04", "rank": 105}, {"date": "2001-08-11", "rank": 114}, {"date": "2001-08-18", "rank": 107}, {"date": "2001-08-25", "rank": 113}, {"date": "2001-09-01", "rank": 112}, {"date": "2001-09-08", "rank": 112}, {"date": "2001-09-15", "rank": 106}, {"date": "2001-09-22", "rank": 112}, {"date": "2001-09-29", "rank": 106}, {"date": "2001-10-06", "rank": 110}, {"date": "2001-10-13", "rank": 111}, {"date": "2001-10-20", "rank": 106}, {"date": "2001-10-27", "rank": 110}, {"date": "2001-11-03", "rank": 116}, {"date": "2001-11-10", "rank": 142}, {"date": "2001-11-17", "rank": 144}, {"date": "2001-11-24", "rank": 157}, {"date": "2001-12-01", "rank": 180}, {"date": "2002-02-16", "rank": 177}, {"date": "2002-02-23", "rank": 177}, {"date": "2002-03-02", "rank": 195}, {"date": "2002-03-09", "rank": 198}]}
+{
+  "id": "tp-2-com-r-kelly",
+  "title": "tp-2.com",
+  "artist": "R. Kelly",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2000-11-25",
+      "rank": 1
+    },
+    {
+      "date": "2000-12-02",
+      "rank": 5
+    },
+    {
+      "date": "2000-12-09",
+      "rank": 7
+    },
+    {
+      "date": "2000-12-16",
+      "rank": 9
+    },
+    {
+      "date": "2000-12-23",
+      "rank": 15
+    },
+    {
+      "date": "2000-12-30",
+      "rank": 19
+    },
+    {
+      "date": "2001-01-06",
+      "rank": 19
+    },
+    {
+      "date": "2001-01-13",
+      "rank": 14
+    },
+    {
+      "date": "2001-01-20",
+      "rank": 13
+    },
+    {
+      "date": "2001-01-27",
+      "rank": 13
+    },
+    {
+      "date": "2001-02-03",
+      "rank": 15
+    },
+    {
+      "date": "2001-02-10",
+      "rank": 18
+    },
+    {
+      "date": "2001-02-17",
+      "rank": 17
+    },
+    {
+      "date": "2001-02-24",
+      "rank": 17
+    },
+    {
+      "date": "2001-03-03",
+      "rank": 17
+    },
+    {
+      "date": "2001-03-10",
+      "rank": 20
+    },
+    {
+      "date": "2001-03-17",
+      "rank": 20
+    },
+    {
+      "date": "2001-03-24",
+      "rank": 20
+    },
+    {
+      "date": "2001-03-31",
+      "rank": 26
+    },
+    {
+      "date": "2001-04-07",
+      "rank": 33
+    },
+    {
+      "date": "2001-04-14",
+      "rank": 37
+    },
+    {
+      "date": "2001-04-21",
+      "rank": 40
+    },
+    {
+      "date": "2001-04-28",
+      "rank": 47
+    },
+    {
+      "date": "2001-05-05",
+      "rank": 42
+    },
+    {
+      "date": "2001-05-12",
+      "rank": 45
+    },
+    {
+      "date": "2001-05-19",
+      "rank": 45
+    },
+    {
+      "date": "2001-05-26",
+      "rank": 61
+    },
+    {
+      "date": "2001-06-02",
+      "rank": 58
+    },
+    {
+      "date": "2001-06-09",
+      "rank": 72
+    },
+    {
+      "date": "2001-06-16",
+      "rank": 71
+    },
+    {
+      "date": "2001-06-23",
+      "rank": 83
+    },
+    {
+      "date": "2001-06-30",
+      "rank": 87
+    },
+    {
+      "date": "2001-07-07",
+      "rank": 95
+    },
+    {
+      "date": "2001-07-14",
+      "rank": 102
+    },
+    {
+      "date": "2001-07-21",
+      "rank": 94
+    },
+    {
+      "date": "2001-07-28",
+      "rank": 101
+    },
+    {
+      "date": "2001-08-04",
+      "rank": 105
+    },
+    {
+      "date": "2001-08-11",
+      "rank": 114
+    },
+    {
+      "date": "2001-08-18",
+      "rank": 107
+    },
+    {
+      "date": "2001-08-25",
+      "rank": 113
+    },
+    {
+      "date": "2001-09-01",
+      "rank": 112
+    },
+    {
+      "date": "2001-09-08",
+      "rank": 112
+    },
+    {
+      "date": "2001-09-15",
+      "rank": 106
+    },
+    {
+      "date": "2001-09-22",
+      "rank": 112
+    },
+    {
+      "date": "2001-09-29",
+      "rank": 106
+    },
+    {
+      "date": "2001-10-06",
+      "rank": 110
+    },
+    {
+      "date": "2001-10-13",
+      "rank": 111
+    },
+    {
+      "date": "2001-10-20",
+      "rank": 106
+    },
+    {
+      "date": "2001-10-27",
+      "rank": 110
+    },
+    {
+      "date": "2001-11-03",
+      "rank": 116
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 142
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 144
+    },
+    {
+      "date": "2001-11-24",
+      "rank": 157
+    },
+    {
+      "date": "2001-12-01",
+      "rank": 180
+    },
+    {
+      "date": "2002-02-16",
+      "rank": 177
+    },
+    {
+      "date": "2002-02-23",
+      "rank": 177
+    },
+    {
+      "date": "2002-03-02",
+      "rank": 195
+    },
+    {
+      "date": "2002-03-09",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Greatest Sex",
+      "id": "the-world-s-greatest-r-kelly"
+    },
+    {
+      "title": "I Wish",
+      "id": "i-wish-r-kelly"
+    },
+    {
+      "title": "Feelin’ on Yo Booty",
+      "id": "feelin-on-yo-booty-r-kelly"
+    },
+    {
+      "title": "TP‐2",
+      "id": null
+    },
+    {
+      "title": "Strip for You",
+      "id": null
+    },
+    {
+      "title": "R&B Thug",
+      "id": null
+    },
+    {
+      "title": "I Don’t Mean It",
+      "id": null
+    },
+    {
+      "title": "Just Like That",
+      "id": null
+    },
+    {
+      "title": "Like a Real Freak",
+      "id": null
+    },
+    {
+      "title": "Fiesta",
+      "id": null
+    },
+    {
+      "title": "Don’t You Say No",
+      "id": null
+    },
+    {
+      "title": "The Real R. Kelly",
+      "id": null
+    },
+    {
+      "title": "One Me",
+      "id": null
+    },
+    {
+      "title": "A Woman’s Threat",
+      "id": null
+    },
+    {
+      "title": "I Decided",
+      "id": null
+    },
+    {
+      "title": "I Mean (I Don’t Mean It)",
+      "id": null
+    },
+    {
+      "title": "I Wish – Remix (To the Homies That We Lost)",
+      "id": null
+    },
+    {
+      "title": "All I Really Want",
+      "id": null
+    },
+    {
+      "title": "The Storm Is Over Now",
+      "id": null
+    }
+  ]
+}

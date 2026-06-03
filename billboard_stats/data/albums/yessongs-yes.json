@@ -1,1 +1,190 @@
-{"id": "yessongs-yes", "title": "Yessongs", "artist": "Yes", "peak": 12, "history": [{"date": "1973-05-26", "rank": 65}, {"date": "1973-06-02", "rank": 37}, {"date": "1973-06-09", "rank": 16}, {"date": "1973-06-16", "rank": 13}, {"date": "1973-06-23", "rank": 12}, {"date": "1973-06-30", "rank": 15}, {"date": "1973-07-07", "rank": 15}, {"date": "1973-07-14", "rank": 13}, {"date": "1973-07-21", "rank": 13}, {"date": "1973-07-28", "rank": 23}, {"date": "1973-08-04", "rank": 35}, {"date": "1973-08-11", "rank": 48}, {"date": "1973-08-18", "rank": 63}, {"date": "1973-08-25", "rank": 75}, {"date": "1973-09-01", "rank": 72}, {"date": "1973-09-08", "rank": 74}, {"date": "1973-09-15", "rank": 75}, {"date": "1973-09-22", "rank": 78}, {"date": "1973-09-29", "rank": 81}, {"date": "1973-10-06", "rank": 88}, {"date": "1973-10-13", "rank": 104}, {"date": "1973-10-20", "rank": 98}, {"date": "1973-10-27", "rank": 100}, {"date": "1973-11-03", "rank": 115}, {"date": "1973-11-10", "rank": 139}, {"date": "1973-11-17", "rank": 176}, {"date": "1973-11-24", "rank": 177}, {"date": "1973-12-01", "rank": 184}, {"date": "1973-12-08", "rank": 190}, {"date": "1973-12-15", "rank": 189}, {"date": "1973-12-22", "rank": 186}, {"date": "1973-12-29", "rank": 193}]}
+{
+  "id": "yessongs-yes",
+  "title": "Yessongs",
+  "artist": "Yes",
+  "peak": 12,
+  "history": [
+    {
+      "date": "1973-05-26",
+      "rank": 65
+    },
+    {
+      "date": "1973-06-02",
+      "rank": 37
+    },
+    {
+      "date": "1973-06-09",
+      "rank": 16
+    },
+    {
+      "date": "1973-06-16",
+      "rank": 13
+    },
+    {
+      "date": "1973-06-23",
+      "rank": 12
+    },
+    {
+      "date": "1973-06-30",
+      "rank": 15
+    },
+    {
+      "date": "1973-07-07",
+      "rank": 15
+    },
+    {
+      "date": "1973-07-14",
+      "rank": 13
+    },
+    {
+      "date": "1973-07-21",
+      "rank": 13
+    },
+    {
+      "date": "1973-07-28",
+      "rank": 23
+    },
+    {
+      "date": "1973-08-04",
+      "rank": 35
+    },
+    {
+      "date": "1973-08-11",
+      "rank": 48
+    },
+    {
+      "date": "1973-08-18",
+      "rank": 63
+    },
+    {
+      "date": "1973-08-25",
+      "rank": 75
+    },
+    {
+      "date": "1973-09-01",
+      "rank": 72
+    },
+    {
+      "date": "1973-09-08",
+      "rank": 74
+    },
+    {
+      "date": "1973-09-15",
+      "rank": 75
+    },
+    {
+      "date": "1973-09-22",
+      "rank": 78
+    },
+    {
+      "date": "1973-09-29",
+      "rank": 81
+    },
+    {
+      "date": "1973-10-06",
+      "rank": 88
+    },
+    {
+      "date": "1973-10-13",
+      "rank": 104
+    },
+    {
+      "date": "1973-10-20",
+      "rank": 98
+    },
+    {
+      "date": "1973-10-27",
+      "rank": 100
+    },
+    {
+      "date": "1973-11-03",
+      "rank": 115
+    },
+    {
+      "date": "1973-11-10",
+      "rank": 139
+    },
+    {
+      "date": "1973-11-17",
+      "rank": 176
+    },
+    {
+      "date": "1973-11-24",
+      "rank": 177
+    },
+    {
+      "date": "1973-12-01",
+      "rank": 184
+    },
+    {
+      "date": "1973-12-08",
+      "rank": 190
+    },
+    {
+      "date": "1973-12-15",
+      "rank": 189
+    },
+    {
+      "date": "1973-12-22",
+      "rank": 186
+    },
+    {
+      "date": "1973-12-29",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Roundabout",
+      "id": "roundabout-yes"
+    },
+    {
+      "title": "Your Move / (I’ve Seen) All Good People",
+      "id": "your-move-i-ve-seen-all-good-people-yes"
+    },
+    {
+      "title": "Opening (excerpt from “Firebird Suite”)",
+      "id": null
+    },
+    {
+      "title": "Siberian Khatru",
+      "id": null
+    },
+    {
+      "title": "Heart of the Sunrise",
+      "id": null
+    },
+    {
+      "title": "Perpetual Change",
+      "id": null
+    },
+    {
+      "title": "And You and I: a. Cord of Life / b. Eclipse / c. The Preacher, the Teacher / d. The Apocalypse",
+      "id": null
+    },
+    {
+      "title": "Mood for a Day",
+      "id": null
+    },
+    {
+      "title": "Excerpts From “The Six Wives of Henry VIII”",
+      "id": null
+    },
+    {
+      "title": "Long Distance Runaround / The Fish (Schindleria Præmaturus)",
+      "id": null
+    },
+    {
+      "title": "Close to the Edge: a. The Solid Time of Change / b. Total Mass Retain / c. I Get Up I Get Down / d. Seasons of Man",
+      "id": null
+    },
+    {
+      "title": "Yours Is No Disgrace",
+      "id": null
+    },
+    {
+      "title": "Starship Trooper: a. Life Seeker / b. Disillusion / c. Würm",
+      "id": null
+    }
+  ]
+}

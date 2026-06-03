@@ -1,1 +1,70 @@
-{"id": "this-is-m-e-melissa-etheridge", "title": "This Is M.E.", "artist": "Melissa Etheridge", "peak": 21, "history": [{"date": "2014-10-18", "rank": 21}, {"date": "2014-10-25", "rank": 58}, {"date": "2014-11-01", "rank": 119}, {"date": "2014-11-08", "rank": 165}]}
+{
+  "id": "this-is-m-e-melissa-etheridge",
+  "title": "This Is M.E.",
+  "artist": "Melissa Etheridge",
+  "peak": 21,
+  "history": [
+    {
+      "date": "2014-10-18",
+      "rank": 21
+    },
+    {
+      "date": "2014-10-25",
+      "rank": 58
+    },
+    {
+      "date": "2014-11-01",
+      "rank": 119
+    },
+    {
+      "date": "2014-11-08",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Won’t Be Alone Tonight",
+      "id": null
+    },
+    {
+      "title": "Take My Number",
+      "id": null
+    },
+    {
+      "title": "A Little Hard Hearted",
+      "id": null
+    },
+    {
+      "title": "Do It Again",
+      "id": null
+    },
+    {
+      "title": "Monster",
+      "id": null
+    },
+    {
+      "title": "Ain’t That Bad",
+      "id": null
+    },
+    {
+      "title": "All the Way Home",
+      "id": null
+    },
+    {
+      "title": "Like a Preacher",
+      "id": null
+    },
+    {
+      "title": "Stranger Road",
+      "id": null
+    },
+    {
+      "title": "A Little Bit of Me",
+      "id": null
+    },
+    {
+      "title": "Who Are You Waiting For",
+      "id": null
+    }
+  ]
+}

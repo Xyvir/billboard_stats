@@ -1,1 +1,74 @@
-{"id": "tomorrow-never-knows-the-beatles", "title": "Tomorrow Never Knows", "artist": "The Beatles", "peak": 24, "history": [{"date": "2012-08-11", "rank": 24}, {"date": "2012-08-18", "rank": 200}]}
+{
+  "id": "tomorrow-never-knows-the-beatles",
+  "title": "Tomorrow Never Knows",
+  "artist": "The Beatles",
+  "peak": 24,
+  "history": [
+    {
+      "date": "2012-08-11",
+      "rank": 24
+    },
+    {
+      "date": "2012-08-18",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Revolution",
+      "id": "revolution-the-beatles"
+    },
+    {
+      "title": "Paperback Writer",
+      "id": "paperback-writer-the-beatles"
+    },
+    {
+      "title": "You Can’t Do That",
+      "id": "you-can-t-do-that-the-beatles"
+    },
+    {
+      "title": "Hey Bulldog",
+      "id": "hey-jude-the-beatles"
+    },
+    {
+      "title": "And Your Bird Can Sing",
+      "id": null
+    },
+    {
+      "title": "Helter Skelter",
+      "id": null
+    },
+    {
+      "title": "Savoy Truffle",
+      "id": null
+    },
+    {
+      "title": "I’m Down",
+      "id": null
+    },
+    {
+      "title": "I’ve Got a Feeling",
+      "id": null
+    },
+    {
+      "title": "Back in the U.S.S.R.",
+      "id": null
+    },
+    {
+      "title": "It’s All Too Much",
+      "id": null
+    },
+    {
+      "title": "She Said She Said",
+      "id": null
+    },
+    {
+      "title": "Tomorrow Never Knows",
+      "id": null
+    },
+    {
+      "title": "The End",
+      "id": null
+    }
+  ]
+}

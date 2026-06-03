@@ -1,1 +1,74 @@
-{"id": "unwind-oleander", "title": "Unwind", "artist": "Oleander", "peak": 94, "history": [{"date": "2001-03-24", "rank": 94}, {"date": "2001-03-31", "rank": 129}, {"date": "2001-04-07", "rank": 161}, {"date": "2001-04-14", "rank": 191}]}
+{
+  "id": "unwind-oleander",
+  "title": "Unwind",
+  "artist": "Oleander",
+  "peak": 94,
+  "history": [
+    {
+      "date": "2001-03-24",
+      "rank": 94
+    },
+    {
+      "date": "2001-03-31",
+      "rank": 129
+    },
+    {
+      "date": "2001-04-07",
+      "rank": 161
+    },
+    {
+      "date": "2001-04-14",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Come to Stay",
+      "id": null
+    },
+    {
+      "title": "Yours If You Like",
+      "id": null
+    },
+    {
+      "title": "Are You There?",
+      "id": null
+    },
+    {
+      "title": "Halo",
+      "id": null
+    },
+    {
+      "title": "Benign",
+      "id": null
+    },
+    {
+      "title": "Unwind",
+      "id": null
+    },
+    {
+      "title": "Goodbye",
+      "id": null
+    },
+    {
+      "title": "Jimmy Shaker Day",
+      "id": null
+    },
+    {
+      "title": "Back Home Years Ago",
+      "id": null
+    },
+    {
+      "title": "Tightrope",
+      "id": null
+    },
+    {
+      "title": "She’s Up, She’s Down",
+      "id": null
+    },
+    {
+      "title": "Champion",
+      "id": null
+    }
+  ]
+}

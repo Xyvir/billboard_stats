@@ -1,1 +1,78 @@
-{"id": "the-sylvers-the-sylvers", "title": "The Sylvers", "artist": "The Sylvers", "peak": 180, "history": [{"date": "1973-03-03", "rank": 196}, {"date": "1973-03-10", "rank": 184}, {"date": "1973-03-17", "rank": 190}, {"date": "1973-03-24", "rank": 185}, {"date": "1973-03-31", "rank": 180}, {"date": "1973-04-07", "rank": 183}, {"date": "1973-04-14", "rank": 185}]}
+{
+  "id": "the-sylvers-the-sylvers",
+  "title": "The Sylvers",
+  "artist": "The Sylvers",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1973-03-03",
+      "rank": 196
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 184
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 190
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 185
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 180
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 183
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 185
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Wish That I Could Talk to You",
+      "id": "wish-that-i-could-talk-to-you-the-sylvers"
+    },
+    {
+      "title": "Fool’s Paradise",
+      "id": "fool-s-paradise-the-sylvers"
+    },
+    {
+      "title": "Only One Can Win",
+      "id": null
+    },
+    {
+      "title": "I’m Truly Happy",
+      "id": null
+    },
+    {
+      "title": "Touch Me Jesus",
+      "id": null
+    },
+    {
+      "title": "I Know Myself",
+      "id": null
+    },
+    {
+      "title": "Chaos",
+      "id": null
+    },
+    {
+      "title": "So Close",
+      "id": null
+    },
+    {
+      "title": "I’ll Never Be Ashamed",
+      "id": null
+    },
+    {
+      "title": "How Love Hurts",
+      "id": null
+    }
+  ]
+}

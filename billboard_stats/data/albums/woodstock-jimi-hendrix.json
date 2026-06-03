@@ -1,1 +1,90 @@
-{"id": "woodstock-jimi-hendrix", "title": "Woodstock", "artist": "Jimi Hendrix", "peak": 37, "history": [{"date": "1994-08-20", "rank": 40}, {"date": "1994-08-27", "rank": 37}, {"date": "1994-09-03", "rank": 43}, {"date": "1994-09-10", "rank": 59}, {"date": "1994-09-17", "rank": 91}, {"date": "1994-09-24", "rank": 114}, {"date": "1994-10-01", "rank": 159}, {"date": "1994-10-08", "rank": 182}]}
+{
+  "id": "woodstock-jimi-hendrix",
+  "title": "Woodstock",
+  "artist": "Jimi Hendrix",
+  "peak": 37,
+  "history": [
+    {
+      "date": "1994-08-20",
+      "rank": 40
+    },
+    {
+      "date": "1994-08-27",
+      "rank": 37
+    },
+    {
+      "date": "1994-09-03",
+      "rank": 43
+    },
+    {
+      "date": "1994-09-10",
+      "rank": 59
+    },
+    {
+      "date": "1994-09-17",
+      "rank": 91
+    },
+    {
+      "date": "1994-09-24",
+      "rank": 114
+    },
+    {
+      "date": "1994-10-01",
+      "rank": 159
+    },
+    {
+      "date": "1994-10-08",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Introduction",
+      "id": null
+    },
+    {
+      "title": "Fire",
+      "id": null
+    },
+    {
+      "title": "Izabella",
+      "id": null
+    },
+    {
+      "title": "Hear My Train a Comin' (Get My Heart Back Together)",
+      "id": null
+    },
+    {
+      "title": "Red House",
+      "id": null
+    },
+    {
+      "title": "Jam Back at the House (Beginnings)",
+      "id": null
+    },
+    {
+      "title": "Voodoo Child (slight return) / Stepping Stone",
+      "id": null
+    },
+    {
+      "title": "The Star Spangled Banner",
+      "id": null
+    },
+    {
+      "title": "Purple Haze",
+      "id": null
+    },
+    {
+      "title": "Woodstock Improvisation",
+      "id": null
+    },
+    {
+      "title": "Villanova Junction",
+      "id": null
+    },
+    {
+      "title": "Farewell",
+      "id": null
+    }
+  ]
+}

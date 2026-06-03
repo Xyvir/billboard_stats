@@ -1,1 +1,50 @@
-{"id": "venusian-summer-lenny-white", "title": "Venusian Summer", "artist": "Lenny White", "peak": 177, "history": [{"date": "1976-01-31", "rank": 183}, {"date": "1976-02-07", "rank": 177}, {"date": "1976-02-14", "rank": 177}]}
+{
+  "id": "venusian-summer-lenny-white",
+  "title": "Venusian Summer",
+  "artist": "Lenny White",
+  "peak": 177,
+  "history": [
+    {
+      "date": "1976-01-31",
+      "rank": 183
+    },
+    {
+      "date": "1976-02-07",
+      "rank": 177
+    },
+    {
+      "date": "1976-02-14",
+      "rank": 177
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Chicken Fried Steak",
+      "id": null
+    },
+    {
+      "title": "Away Go Troubles Down the Drain",
+      "id": null
+    },
+    {
+      "title": "The Venusian Summer Suite, Part I: Sirènes",
+      "id": null
+    },
+    {
+      "title": "The Venusian Summer Suite, Part II: Venusian Summer",
+      "id": null
+    },
+    {
+      "title": "Prelude to Rainbow Delta",
+      "id": null
+    },
+    {
+      "title": "Mating Drive",
+      "id": null
+    },
+    {
+      "title": "Prince of the Sea",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,194 @@
-{"id": "title-of-record-filter", "title": "Title Of Record", "artist": "Filter", "peak": 30, "history": [{"date": "1999-09-11", "rank": 30}, {"date": "1999-09-18", "rank": 50}, {"date": "1999-09-25", "rank": 51}, {"date": "1999-10-02", "rank": 61}, {"date": "1999-10-09", "rank": 64}, {"date": "1999-10-16", "rank": 74}, {"date": "1999-10-23", "rank": 86}, {"date": "1999-10-30", "rank": 93}, {"date": "1999-11-06", "rank": 96}, {"date": "1999-11-13", "rank": 104}, {"date": "1999-11-20", "rank": 107}, {"date": "1999-11-27", "rank": 121}, {"date": "1999-12-04", "rank": 111}, {"date": "1999-12-11", "rank": 118}, {"date": "1999-12-18", "rank": 112}, {"date": "1999-12-25", "rank": 113}, {"date": "2000-01-01", "rank": 104}, {"date": "2000-01-08", "rank": 104}, {"date": "2000-01-15", "rank": 74}, {"date": "2000-01-22", "rank": 64}, {"date": "2000-01-29", "rank": 48}, {"date": "2000-02-05", "rank": 56}, {"date": "2000-02-12", "rank": 68}, {"date": "2000-02-19", "rank": 80}, {"date": "2000-02-26", "rank": 81}, {"date": "2000-03-04", "rank": 90}, {"date": "2000-03-11", "rank": 101}, {"date": "2000-03-18", "rank": 106}, {"date": "2000-03-25", "rank": 112}, {"date": "2000-04-01", "rank": 129}, {"date": "2000-04-08", "rank": 134}, {"date": "2000-04-15", "rank": 155}, {"date": "2000-04-22", "rank": 171}, {"date": "2000-04-29", "rank": 183}, {"date": "2000-05-06", "rank": 174}]}
+{
+  "id": "title-of-record-filter",
+  "title": "Title Of Record",
+  "artist": "Filter",
+  "peak": 30,
+  "history": [
+    {
+      "date": "1999-09-11",
+      "rank": 30
+    },
+    {
+      "date": "1999-09-18",
+      "rank": 50
+    },
+    {
+      "date": "1999-09-25",
+      "rank": 51
+    },
+    {
+      "date": "1999-10-02",
+      "rank": 61
+    },
+    {
+      "date": "1999-10-09",
+      "rank": 64
+    },
+    {
+      "date": "1999-10-16",
+      "rank": 74
+    },
+    {
+      "date": "1999-10-23",
+      "rank": 86
+    },
+    {
+      "date": "1999-10-30",
+      "rank": 93
+    },
+    {
+      "date": "1999-11-06",
+      "rank": 96
+    },
+    {
+      "date": "1999-11-13",
+      "rank": 104
+    },
+    {
+      "date": "1999-11-20",
+      "rank": 107
+    },
+    {
+      "date": "1999-11-27",
+      "rank": 121
+    },
+    {
+      "date": "1999-12-04",
+      "rank": 111
+    },
+    {
+      "date": "1999-12-11",
+      "rank": 118
+    },
+    {
+      "date": "1999-12-18",
+      "rank": 112
+    },
+    {
+      "date": "1999-12-25",
+      "rank": 113
+    },
+    {
+      "date": "2000-01-01",
+      "rank": 104
+    },
+    {
+      "date": "2000-01-08",
+      "rank": 104
+    },
+    {
+      "date": "2000-01-15",
+      "rank": 74
+    },
+    {
+      "date": "2000-01-22",
+      "rank": 64
+    },
+    {
+      "date": "2000-01-29",
+      "rank": 48
+    },
+    {
+      "date": "2000-02-05",
+      "rank": 56
+    },
+    {
+      "date": "2000-02-12",
+      "rank": 68
+    },
+    {
+      "date": "2000-02-19",
+      "rank": 80
+    },
+    {
+      "date": "2000-02-26",
+      "rank": 81
+    },
+    {
+      "date": "2000-03-04",
+      "rank": 90
+    },
+    {
+      "date": "2000-03-11",
+      "rank": 101
+    },
+    {
+      "date": "2000-03-18",
+      "rank": 106
+    },
+    {
+      "date": "2000-03-25",
+      "rank": 112
+    },
+    {
+      "date": "2000-04-01",
+      "rank": 129
+    },
+    {
+      "date": "2000-04-08",
+      "rank": 134
+    },
+    {
+      "date": "2000-04-15",
+      "rank": 155
+    },
+    {
+      "date": "2000-04-22",
+      "rank": 171
+    },
+    {
+      "date": "2000-04-29",
+      "rank": 183
+    },
+    {
+      "date": "2000-05-06",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Take a Picture",
+      "id": "take-a-picture-filter"
+    },
+    {
+      "title": "Sand",
+      "id": null
+    },
+    {
+      "title": "Welcome to the Fold",
+      "id": null
+    },
+    {
+      "title": "Captain Bligh",
+      "id": null
+    },
+    {
+      "title": "It’s Gonna Kill Me",
+      "id": null
+    },
+    {
+      "title": "The Best Things",
+      "id": null
+    },
+    {
+      "title": "Skinny",
+      "id": null
+    },
+    {
+      "title": "I Will Lead You",
+      "id": null
+    },
+    {
+      "title": "Cancer",
+      "id": null
+    },
+    {
+      "title": "I’m Not the Only One",
+      "id": null
+    },
+    {
+      "title": "Miss Blue / [silence] / [untitled]",
+      "id": null
+    }
+  ]
+}

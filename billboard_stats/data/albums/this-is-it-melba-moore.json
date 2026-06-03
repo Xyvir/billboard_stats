@@ -1,1 +1,66 @@
-{"id": "this-is-it-melba-moore", "title": "This Is It", "artist": "Melba Moore", "peak": 145, "history": [{"date": "1976-05-08", "rank": 165}, {"date": "1976-05-15", "rank": 155}, {"date": "1976-05-22", "rank": 145}, {"date": "1976-05-29", "rank": 145}, {"date": "1976-06-05", "rank": 165}]}
+{
+  "id": "this-is-it-melba-moore",
+  "title": "This Is It",
+  "artist": "Melba Moore",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1976-05-08",
+      "rank": 165
+    },
+    {
+      "date": "1976-05-15",
+      "rank": 155
+    },
+    {
+      "date": "1976-05-22",
+      "rank": 145
+    },
+    {
+      "date": "1976-05-29",
+      "rank": 145
+    },
+    {
+      "date": "1976-06-05",
+      "rank": 165
+    }
+  ],
+  "tracks": [
+    {
+      "title": "This Is It",
+      "id": "this-is-it-melba-moore"
+    },
+    {
+      "title": "Free",
+      "id": null
+    },
+    {
+      "title": "One Less Morning",
+      "id": null
+    },
+    {
+      "title": "Make Me Believe You",
+      "id": null
+    },
+    {
+      "title": "Lean On Me",
+      "id": null
+    },
+    {
+      "title": "Stay Awhile",
+      "id": null
+    },
+    {
+      "title": "Play Boy Scout",
+      "id": null
+    },
+    {
+      "title": "Blood Red Roses",
+      "id": null
+    },
+    {
+      "title": "Brand New",
+      "id": null
+    }
+  ]
+}

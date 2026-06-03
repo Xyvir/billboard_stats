@@ -1,1 +1,74 @@
-{"id": "top-priority-rory-gallagher", "title": "Top Priority", "artist": "Rory Gallagher", "peak": 140, "history": [{"date": "1979-10-06", "rank": 150}, {"date": "1979-10-13", "rank": 140}, {"date": "1979-10-20", "rank": 140}, {"date": "1979-10-27", "rank": 169}]}
+{
+  "id": "top-priority-rory-gallagher",
+  "title": "Top Priority",
+  "artist": "Rory Gallagher",
+  "peak": 140,
+  "history": [
+    {
+      "date": "1979-10-06",
+      "rank": 150
+    },
+    {
+      "date": "1979-10-13",
+      "rank": 140
+    },
+    {
+      "date": "1979-10-20",
+      "rank": 140
+    },
+    {
+      "date": "1979-10-27",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Follow Me",
+      "id": null
+    },
+    {
+      "title": "Philby",
+      "id": null
+    },
+    {
+      "title": "Wayward Child",
+      "id": null
+    },
+    {
+      "title": "Keychain",
+      "id": null
+    },
+    {
+      "title": "At the Depot",
+      "id": null
+    },
+    {
+      "title": "Bad Penny",
+      "id": null
+    },
+    {
+      "title": "Just Hit Town",
+      "id": null
+    },
+    {
+      "title": "Off the Handle",
+      "id": null
+    },
+    {
+      "title": "Public Enemy No. 1",
+      "id": null
+    },
+    {
+      "title": "Hell Cat",
+      "id": null
+    },
+    {
+      "title": "The Watcher",
+      "id": null
+    },
+    {
+      "title": "Nothing but the Devil",
+      "id": null
+    }
+  ]
+}

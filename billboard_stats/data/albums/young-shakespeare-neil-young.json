@@ -1,1 +1,62 @@
-{"id": "young-shakespeare-neil-young", "title": "Young Shakespeare", "artist": "Neil Young", "peak": 95, "history": [{"date": "2021-04-10", "rank": 95}]}
+{
+  "id": "young-shakespeare-neil-young",
+  "title": "Young Shakespeare",
+  "artist": "Neil Young",
+  "peak": 95,
+  "history": [
+    {
+      "date": "2021-04-10",
+      "rank": 95
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Old Man",
+      "id": "old-man-neil-young"
+    },
+    {
+      "title": "Tell Me Why",
+      "id": null
+    },
+    {
+      "title": "The Needle and the Damage Done",
+      "id": null
+    },
+    {
+      "title": "Ohio",
+      "id": null
+    },
+    {
+      "title": "Dance Dance Dance",
+      "id": null
+    },
+    {
+      "title": "Cowgirl in the Sand",
+      "id": null
+    },
+    {
+      "title": "A Man Needs a Maid / Heart of Gold (medley)",
+      "id": null
+    },
+    {
+      "title": "Journey Through the Past",
+      "id": null
+    },
+    {
+      "title": "Don’t Let It Bring You Down",
+      "id": null
+    },
+    {
+      "title": "Helpless",
+      "id": null
+    },
+    {
+      "title": "Down by the River",
+      "id": null
+    },
+    {
+      "title": "Sugar Mountain",
+      "id": null
+    }
+  ]
+}

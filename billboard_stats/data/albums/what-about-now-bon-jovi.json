@@ -1,1 +1,110 @@
-{"id": "what-about-now-bon-jovi", "title": "What About Now", "artist": "Bon Jovi", "peak": 1, "history": [{"date": "2013-03-30", "rank": 1}, {"date": "2013-04-06", "rank": 7}, {"date": "2013-04-13", "rank": 34}, {"date": "2013-04-20", "rank": 49}, {"date": "2013-04-27", "rank": 61}, {"date": "2013-05-04", "rank": 76}, {"date": "2013-05-11", "rank": 96}, {"date": "2013-05-18", "rank": 133}, {"date": "2013-05-25", "rank": 110}, {"date": "2013-06-01", "rank": 197}]}
+{
+  "id": "what-about-now-bon-jovi",
+  "title": "What About Now",
+  "artist": "Bon Jovi",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2013-03-30",
+      "rank": 1
+    },
+    {
+      "date": "2013-04-06",
+      "rank": 7
+    },
+    {
+      "date": "2013-04-13",
+      "rank": 34
+    },
+    {
+      "date": "2013-04-20",
+      "rank": 49
+    },
+    {
+      "date": "2013-04-27",
+      "rank": 61
+    },
+    {
+      "date": "2013-05-04",
+      "rank": 76
+    },
+    {
+      "date": "2013-05-11",
+      "rank": 96
+    },
+    {
+      "date": "2013-05-18",
+      "rank": 133
+    },
+    {
+      "date": "2013-05-25",
+      "rank": 110
+    },
+    {
+      "date": "2013-06-01",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "With These Two Hands",
+      "id": "in-these-arms-bon-jovi"
+    },
+    {
+      "title": "Because We Can",
+      "id": null
+    },
+    {
+      "title": "I’m With You",
+      "id": null
+    },
+    {
+      "title": "What About Now",
+      "id": null
+    },
+    {
+      "title": "Pictures of You",
+      "id": null
+    },
+    {
+      "title": "Amen",
+      "id": null
+    },
+    {
+      "title": "That’s What the Water Made Me",
+      "id": null
+    },
+    {
+      "title": "What’s Left of Me",
+      "id": null
+    },
+    {
+      "title": "Army of One",
+      "id": null
+    },
+    {
+      "title": "Thick as Thieves",
+      "id": null
+    },
+    {
+      "title": "Beautiful World",
+      "id": null
+    },
+    {
+      "title": "Room at the End of the World",
+      "id": null
+    },
+    {
+      "title": "The Fighter",
+      "id": null
+    },
+    {
+      "title": "Into the Echo",
+      "id": null
+    },
+    {
+      "title": "Not Running Anymore",
+      "id": null
+    }
+  ]
+}

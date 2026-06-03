@@ -1,1 +1,198 @@
-{"id": "wham-lil-baby", "title": "WHAM", "artist": "Lil Baby", "peak": 1, "history": [{"date": "2025-01-18", "rank": 1}, {"date": "2025-01-25", "rank": 5}, {"date": "2025-02-01", "rank": 7}, {"date": "2025-02-08", "rank": 13}, {"date": "2025-02-15", "rank": 15}, {"date": "2025-02-22", "rank": 19}, {"date": "2025-03-01", "rank": 23}, {"date": "2025-03-08", "rank": 23}, {"date": "2025-03-15", "rank": 27}, {"date": "2025-03-22", "rank": 36}, {"date": "2025-03-29", "rank": 32}, {"date": "2025-04-05", "rank": 39}, {"date": "2025-04-12", "rank": 50}, {"date": "2025-04-19", "rank": 55}, {"date": "2025-04-26", "rank": 61}, {"date": "2025-05-03", "rank": 66}, {"date": "2025-05-10", "rank": 73}, {"date": "2025-05-17", "rank": 86}, {"date": "2025-05-24", "rank": 102}, {"date": "2025-05-31", "rank": 102}, {"date": "2025-06-07", "rank": 113}, {"date": "2025-06-14", "rank": 107}, {"date": "2025-06-21", "rank": 116}, {"date": "2025-06-28", "rank": 113}, {"date": "2025-07-05", "rank": 122}, {"date": "2025-07-12", "rank": 142}, {"date": "2025-07-19", "rank": 151}, {"date": "2025-07-26", "rank": 171}]}
+{
+  "id": "wham-lil-baby",
+  "title": "WHAM",
+  "artist": "Lil Baby",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2025-01-18",
+      "rank": 1
+    },
+    {
+      "date": "2025-01-25",
+      "rank": 5
+    },
+    {
+      "date": "2025-02-01",
+      "rank": 7
+    },
+    {
+      "date": "2025-02-08",
+      "rank": 13
+    },
+    {
+      "date": "2025-02-15",
+      "rank": 15
+    },
+    {
+      "date": "2025-02-22",
+      "rank": 19
+    },
+    {
+      "date": "2025-03-01",
+      "rank": 23
+    },
+    {
+      "date": "2025-03-08",
+      "rank": 23
+    },
+    {
+      "date": "2025-03-15",
+      "rank": 27
+    },
+    {
+      "date": "2025-03-22",
+      "rank": 36
+    },
+    {
+      "date": "2025-03-29",
+      "rank": 32
+    },
+    {
+      "date": "2025-04-05",
+      "rank": 39
+    },
+    {
+      "date": "2025-04-12",
+      "rank": 50
+    },
+    {
+      "date": "2025-04-19",
+      "rank": 55
+    },
+    {
+      "date": "2025-04-26",
+      "rank": 61
+    },
+    {
+      "date": "2025-05-03",
+      "rank": 66
+    },
+    {
+      "date": "2025-05-10",
+      "rank": 73
+    },
+    {
+      "date": "2025-05-17",
+      "rank": 86
+    },
+    {
+      "date": "2025-05-24",
+      "rank": 102
+    },
+    {
+      "date": "2025-05-31",
+      "rank": 102
+    },
+    {
+      "date": "2025-06-07",
+      "rank": 113
+    },
+    {
+      "date": "2025-06-14",
+      "rank": 107
+    },
+    {
+      "date": "2025-06-21",
+      "rank": 116
+    },
+    {
+      "date": "2025-06-28",
+      "rank": 113
+    },
+    {
+      "date": "2025-07-05",
+      "rank": 122
+    },
+    {
+      "date": "2025-07-12",
+      "rank": 142
+    },
+    {
+      "date": "2025-07-19",
+      "rank": 151
+    },
+    {
+      "date": "2025-07-26",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Listen Up",
+      "id": "listen-up-lil-baby"
+    },
+    {
+      "title": "F U 2x",
+      "id": "f-u-2x-lil-baby"
+    },
+    {
+      "title": "I Promise",
+      "id": "i-promise-lil-baby"
+    },
+    {
+      "title": "Due 4A Win",
+      "id": "due-4a-win-lil-baby"
+    },
+    {
+      "title": "Stiff Gang",
+      "id": "stiff-gang-lil-baby"
+    },
+    {
+      "title": "So Sorry",
+      "id": "so-sorry-lil-baby"
+    },
+    {
+      "title": "Say Twin",
+      "id": "same-thing-lil-baby"
+    },
+    {
+      "title": "Free Promo",
+      "id": "free-promo-lil-baby"
+    },
+    {
+      "title": "My Shawty",
+      "id": "my-dawg-lil-baby"
+    },
+    {
+      "title": "Dum, Dumb, and Dumber",
+      "id": null
+    },
+    {
+      "title": "Redbone",
+      "id": null
+    },
+    {
+      "title": "By Myself",
+      "id": null
+    },
+    {
+      "title": "Stuff",
+      "id": null
+    },
+    {
+      "title": "Outfit",
+      "id": null
+    },
+    {
+      "title": "Drugs Talkin",
+      "id": null
+    },
+    {
+      "title": "Streets Colder",
+      "id": null
+    },
+    {
+      "title": "99",
+      "id": null
+    },
+    {
+      "title": "Idol",
+      "id": null
+    },
+    {
+      "title": "Running This Shit",
+      "id": null
+    }
+  ]
+}

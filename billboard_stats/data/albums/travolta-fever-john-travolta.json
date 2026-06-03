@@ -1,1 +1,78 @@
-{"id": "travolta-fever-john-travolta", "title": "Travolta Fever", "artist": "John Travolta", "peak": 161, "history": [{"date": "1978-12-23", "rank": 171}, {"date": "1978-12-30", "rank": 171}, {"date": "1979-01-06", "rank": 171}, {"date": "1979-01-13", "rank": 161}, {"date": "1979-01-20", "rank": 161}, {"date": "1979-01-27", "rank": 161}, {"date": "1979-02-03", "rank": 171}]}
+{
+  "id": "travolta-fever-john-travolta",
+  "title": "Travolta Fever",
+  "artist": "John Travolta",
+  "peak": 161,
+  "history": [
+    {
+      "date": "1978-12-23",
+      "rank": 171
+    },
+    {
+      "date": "1978-12-30",
+      "rank": 171
+    },
+    {
+      "date": "1979-01-06",
+      "rank": 171
+    },
+    {
+      "date": "1979-01-13",
+      "rank": 161
+    },
+    {
+      "date": "1979-01-20",
+      "rank": 161
+    },
+    {
+      "date": "1979-01-27",
+      "rank": 161
+    },
+    {
+      "date": "1979-02-03",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Greased Lightnin’",
+      "id": "greased-lightnin-john-travolta"
+    },
+    {
+      "title": "Let Her In",
+      "id": "let-her-in-john-travolta"
+    },
+    {
+      "title": "Sandy",
+      "id": null
+    },
+    {
+      "title": "A Girl Like You",
+      "id": null
+    },
+    {
+      "title": "Slow Dancing",
+      "id": null
+    },
+    {
+      "title": "You Set My Dreams to Music",
+      "id": null
+    },
+    {
+      "title": "Moonlight Lady",
+      "id": null
+    },
+    {
+      "title": "Easy Evil",
+      "id": null
+    },
+    {
+      "title": "What Would They Say",
+      "id": null
+    },
+    {
+      "title": "Right Time of the Night",
+      "id": null
+    }
+  ]
+}

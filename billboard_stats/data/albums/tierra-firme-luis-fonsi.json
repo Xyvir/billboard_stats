@@ -1,1 +1,62 @@
-{"id": "tierra-firme-luis-fonsi", "title": "Tierra Firme", "artist": "Luis Fonsi", "peak": 56, "history": [{"date": "2011-07-16", "rank": 56}, {"date": "2011-07-23", "rank": 108}, {"date": "2011-07-30", "rank": 196}]}
+{
+  "id": "tierra-firme-luis-fonsi",
+  "title": "Tierra Firme",
+  "artist": "Luis Fonsi",
+  "peak": 56,
+  "history": [
+    {
+      "date": "2011-07-16",
+      "rank": 56
+    },
+    {
+      "date": "2011-07-23",
+      "rank": 108
+    },
+    {
+      "date": "2011-07-30",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Nunca digas siempre",
+      "id": "nada-es-para-siempre-luis-fonsi"
+    },
+    {
+      "title": "Explícame",
+      "id": null
+    },
+    {
+      "title": "Respira",
+      "id": null
+    },
+    {
+      "title": "Dime que no",
+      "id": null
+    },
+    {
+      "title": "Gritar",
+      "id": null
+    },
+    {
+      "title": "Me gustas tú",
+      "id": null
+    },
+    {
+      "title": "Vuelve a mi lado",
+      "id": null
+    },
+    {
+      "title": "El anillo y la flor",
+      "id": null
+    },
+    {
+      "title": "Claridad",
+      "id": null
+    },
+    {
+      "title": "Se supone",
+      "id": null
+    }
+  ]
+}

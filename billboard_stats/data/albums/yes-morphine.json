@@ -1,1 +1,74 @@
-{"id": "yes-morphine", "title": "Yes", "artist": "Morphine", "peak": 101, "history": [{"date": "1995-04-08", "rank": 101}, {"date": "1995-04-15", "rank": 132}, {"date": "1995-04-22", "rank": 148}, {"date": "1995-04-29", "rank": 181}]}
+{
+  "id": "yes-morphine",
+  "title": "Yes",
+  "artist": "Morphine",
+  "peak": 101,
+  "history": [
+    {
+      "date": "1995-04-08",
+      "rank": 101
+    },
+    {
+      "date": "1995-04-15",
+      "rank": 132
+    },
+    {
+      "date": "1995-04-22",
+      "rank": 148
+    },
+    {
+      "date": "1995-04-29",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Honey White",
+      "id": null
+    },
+    {
+      "title": "Scratch",
+      "id": null
+    },
+    {
+      "title": "Radar",
+      "id": null
+    },
+    {
+      "title": "Whisper",
+      "id": null
+    },
+    {
+      "title": "Yes",
+      "id": null
+    },
+    {
+      "title": "All Your Way",
+      "id": null
+    },
+    {
+      "title": "Super Sex",
+      "id": null
+    },
+    {
+      "title": "I Had My Chance",
+      "id": null
+    },
+    {
+      "title": "The Jury",
+      "id": null
+    },
+    {
+      "title": "Sharks",
+      "id": null
+    },
+    {
+      "title": "Free Love",
+      "id": null
+    },
+    {
+      "title": "Gone for Good",
+      "id": null
+    }
+  ]
+}

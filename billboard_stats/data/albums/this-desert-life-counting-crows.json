@@ -1,1 +1,142 @@
-{"id": "this-desert-life-counting-crows", "title": "This Desert Life", "artist": "Counting Crows", "peak": 8, "history": [{"date": "1999-11-20", "rank": 8}, {"date": "1999-11-27", "rank": 25}, {"date": "1999-12-04", "rank": 37}, {"date": "1999-12-11", "rank": 52}, {"date": "1999-12-18", "rank": 56}, {"date": "1999-12-25", "rank": 60}, {"date": "2000-01-01", "rank": 53}, {"date": "2000-01-08", "rank": 53}, {"date": "2000-01-15", "rank": 49}, {"date": "2000-01-22", "rank": 41}, {"date": "2000-01-29", "rank": 44}, {"date": "2000-02-05", "rank": 55}, {"date": "2000-02-12", "rank": 66}, {"date": "2000-02-19", "rank": 81}, {"date": "2000-02-26", "rank": 80}, {"date": "2000-03-04", "rank": 92}, {"date": "2000-03-11", "rank": 107}, {"date": "2000-03-18", "rank": 128}, {"date": "2000-03-25", "rank": 130}, {"date": "2000-04-01", "rank": 143}, {"date": "2000-04-08", "rank": 150}, {"date": "2000-04-15", "rank": 164}, {"date": "2000-04-22", "rank": 190}]}
+{
+  "id": "this-desert-life-counting-crows",
+  "title": "This Desert Life",
+  "artist": "Counting Crows",
+  "peak": 8,
+  "history": [
+    {
+      "date": "1999-11-20",
+      "rank": 8
+    },
+    {
+      "date": "1999-11-27",
+      "rank": 25
+    },
+    {
+      "date": "1999-12-04",
+      "rank": 37
+    },
+    {
+      "date": "1999-12-11",
+      "rank": 52
+    },
+    {
+      "date": "1999-12-18",
+      "rank": 56
+    },
+    {
+      "date": "1999-12-25",
+      "rank": 60
+    },
+    {
+      "date": "2000-01-01",
+      "rank": 53
+    },
+    {
+      "date": "2000-01-08",
+      "rank": 53
+    },
+    {
+      "date": "2000-01-15",
+      "rank": 49
+    },
+    {
+      "date": "2000-01-22",
+      "rank": 41
+    },
+    {
+      "date": "2000-01-29",
+      "rank": 44
+    },
+    {
+      "date": "2000-02-05",
+      "rank": 55
+    },
+    {
+      "date": "2000-02-12",
+      "rank": 66
+    },
+    {
+      "date": "2000-02-19",
+      "rank": 81
+    },
+    {
+      "date": "2000-02-26",
+      "rank": 80
+    },
+    {
+      "date": "2000-03-04",
+      "rank": 92
+    },
+    {
+      "date": "2000-03-11",
+      "rank": 107
+    },
+    {
+      "date": "2000-03-18",
+      "rank": 128
+    },
+    {
+      "date": "2000-03-25",
+      "rank": 130
+    },
+    {
+      "date": "2000-04-01",
+      "rank": 143
+    },
+    {
+      "date": "2000-04-08",
+      "rank": 150
+    },
+    {
+      "date": "2000-04-15",
+      "rank": 164
+    },
+    {
+      "date": "2000-04-22",
+      "rank": 190
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Hanginaround",
+      "id": "hanginaround-counting-crows"
+    },
+    {
+      "title": "Mrs. Potter’s Lullaby",
+      "id": null
+    },
+    {
+      "title": "Amy Hit the Atmosphere",
+      "id": null
+    },
+    {
+      "title": "Four Days",
+      "id": null
+    },
+    {
+      "title": "All My Friends",
+      "id": null
+    },
+    {
+      "title": "High Life",
+      "id": null
+    },
+    {
+      "title": "Colorblind",
+      "id": null
+    },
+    {
+      "title": "I Wish I Was a Girl",
+      "id": null
+    },
+    {
+      "title": "Speedway",
+      "id": null
+    },
+    {
+      "title": "St. Robinson in His Cadillac Dream / Kid Things",
+      "id": null
+    }
+  ]
+}

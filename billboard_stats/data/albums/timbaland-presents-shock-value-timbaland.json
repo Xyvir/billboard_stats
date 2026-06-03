@@ -1,1 +1,290 @@
-{"id": "timbaland-presents-shock-value-timbaland", "title": "Timbaland Presents Shock Value", "artist": "Timbaland", "peak": 5, "history": [{"date": "2007-04-21", "rank": 5}, {"date": "2007-04-28", "rank": 5}, {"date": "2007-05-05", "rank": 10}, {"date": "2007-05-12", "rank": 14}, {"date": "2007-05-19", "rank": 26}, {"date": "2007-05-26", "rank": 40}, {"date": "2007-06-02", "rank": 33}, {"date": "2007-06-09", "rank": 38}, {"date": "2007-06-16", "rank": 42}, {"date": "2007-06-23", "rank": 54}, {"date": "2007-06-30", "rank": 60}, {"date": "2007-07-07", "rank": 50}, {"date": "2007-07-14", "rank": 41}, {"date": "2007-07-21", "rank": 42}, {"date": "2007-07-28", "rank": 37}, {"date": "2007-08-04", "rank": 33}, {"date": "2007-08-11", "rank": 29}, {"date": "2007-08-18", "rank": 26}, {"date": "2007-08-25", "rank": 29}, {"date": "2007-09-01", "rank": 32}, {"date": "2007-09-08", "rank": 37}, {"date": "2007-09-15", "rank": 35}, {"date": "2007-09-22", "rank": 26}, {"date": "2007-09-29", "rank": 13}, {"date": "2007-10-06", "rank": 28}, {"date": "2007-10-13", "rank": 33}, {"date": "2007-10-20", "rank": 31}, {"date": "2007-10-27", "rank": 29}, {"date": "2007-11-03", "rank": 27}, {"date": "2007-11-10", "rank": 25}, {"date": "2007-11-17", "rank": 32}, {"date": "2007-11-24", "rank": 33}, {"date": "2007-12-01", "rank": 50}, {"date": "2007-12-08", "rank": 52}, {"date": "2007-12-15", "rank": 64}, {"date": "2007-12-22", "rank": 76}, {"date": "2007-12-29", "rank": 79}, {"date": "2008-01-05", "rank": 78}, {"date": "2008-01-12", "rank": 55}, {"date": "2008-01-19", "rank": 45}, {"date": "2008-01-26", "rank": 42}, {"date": "2008-02-02", "rank": 56}, {"date": "2008-02-09", "rank": 60}, {"date": "2008-02-16", "rank": 71}, {"date": "2008-02-23", "rank": 81}, {"date": "2008-03-01", "rank": 94}, {"date": "2008-03-08", "rank": 99}, {"date": "2008-03-15", "rank": 115}, {"date": "2008-03-22", "rank": 123}, {"date": "2008-03-29", "rank": 130}, {"date": "2008-04-05", "rank": 160}, {"date": "2008-04-12", "rank": 164}, {"date": "2008-04-19", "rank": 193}]}
+{
+  "id": "timbaland-presents-shock-value-timbaland",
+  "title": "Timbaland Presents Shock Value",
+  "artist": "Timbaland",
+  "peak": 5,
+  "history": [
+    {
+      "date": "2007-04-21",
+      "rank": 5
+    },
+    {
+      "date": "2007-04-28",
+      "rank": 5
+    },
+    {
+      "date": "2007-05-05",
+      "rank": 10
+    },
+    {
+      "date": "2007-05-12",
+      "rank": 14
+    },
+    {
+      "date": "2007-05-19",
+      "rank": 26
+    },
+    {
+      "date": "2007-05-26",
+      "rank": 40
+    },
+    {
+      "date": "2007-06-02",
+      "rank": 33
+    },
+    {
+      "date": "2007-06-09",
+      "rank": 38
+    },
+    {
+      "date": "2007-06-16",
+      "rank": 42
+    },
+    {
+      "date": "2007-06-23",
+      "rank": 54
+    },
+    {
+      "date": "2007-06-30",
+      "rank": 60
+    },
+    {
+      "date": "2007-07-07",
+      "rank": 50
+    },
+    {
+      "date": "2007-07-14",
+      "rank": 41
+    },
+    {
+      "date": "2007-07-21",
+      "rank": 42
+    },
+    {
+      "date": "2007-07-28",
+      "rank": 37
+    },
+    {
+      "date": "2007-08-04",
+      "rank": 33
+    },
+    {
+      "date": "2007-08-11",
+      "rank": 29
+    },
+    {
+      "date": "2007-08-18",
+      "rank": 26
+    },
+    {
+      "date": "2007-08-25",
+      "rank": 29
+    },
+    {
+      "date": "2007-09-01",
+      "rank": 32
+    },
+    {
+      "date": "2007-09-08",
+      "rank": 37
+    },
+    {
+      "date": "2007-09-15",
+      "rank": 35
+    },
+    {
+      "date": "2007-09-22",
+      "rank": 26
+    },
+    {
+      "date": "2007-09-29",
+      "rank": 13
+    },
+    {
+      "date": "2007-10-06",
+      "rank": 28
+    },
+    {
+      "date": "2007-10-13",
+      "rank": 33
+    },
+    {
+      "date": "2007-10-20",
+      "rank": 31
+    },
+    {
+      "date": "2007-10-27",
+      "rank": 29
+    },
+    {
+      "date": "2007-11-03",
+      "rank": 27
+    },
+    {
+      "date": "2007-11-10",
+      "rank": 25
+    },
+    {
+      "date": "2007-11-17",
+      "rank": 32
+    },
+    {
+      "date": "2007-11-24",
+      "rank": 33
+    },
+    {
+      "date": "2007-12-01",
+      "rank": 50
+    },
+    {
+      "date": "2007-12-08",
+      "rank": 52
+    },
+    {
+      "date": "2007-12-15",
+      "rank": 64
+    },
+    {
+      "date": "2007-12-22",
+      "rank": 76
+    },
+    {
+      "date": "2007-12-29",
+      "rank": 79
+    },
+    {
+      "date": "2008-01-05",
+      "rank": 78
+    },
+    {
+      "date": "2008-01-12",
+      "rank": 55
+    },
+    {
+      "date": "2008-01-19",
+      "rank": 45
+    },
+    {
+      "date": "2008-01-26",
+      "rank": 42
+    },
+    {
+      "date": "2008-02-02",
+      "rank": 56
+    },
+    {
+      "date": "2008-02-09",
+      "rank": 60
+    },
+    {
+      "date": "2008-02-16",
+      "rank": 71
+    },
+    {
+      "date": "2008-02-23",
+      "rank": 81
+    },
+    {
+      "date": "2008-03-01",
+      "rank": 94
+    },
+    {
+      "date": "2008-03-08",
+      "rank": 99
+    },
+    {
+      "date": "2008-03-15",
+      "rank": 115
+    },
+    {
+      "date": "2008-03-22",
+      "rank": 123
+    },
+    {
+      "date": "2008-03-29",
+      "rank": 130
+    },
+    {
+      "date": "2008-04-05",
+      "rank": 160
+    },
+    {
+      "date": "2008-04-12",
+      "rank": 164
+    },
+    {
+      "date": "2008-04-19",
+      "rank": 193
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Oh Timbaland (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Give It to Me (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Release (instrumental)",
+      "id": null
+    },
+    {
+      "title": "The Way I Are (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Bounce (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Come and Get Me (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Kill Yourself (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Boardmeeting (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Fantasy (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Scream (Instrumental)",
+      "id": null
+    },
+    {
+      "title": "Miscommunitcation (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Bombay (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Throw It on Me (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Time (instrumental)",
+      "id": null
+    },
+    {
+      "title": "One and Only (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Apologize (instrumental)",
+      "id": null
+    },
+    {
+      "title": "2 Man Show (instrumental)",
+      "id": null
+    }
+  ]
+}

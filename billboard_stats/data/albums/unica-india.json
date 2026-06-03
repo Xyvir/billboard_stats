@@ -1,1 +1,54 @@
-{"id": "unica-india", "title": "Unica", "artist": "India", "peak": 180, "history": [{"date": "2010-06-19", "rank": 180}]}
+{
+  "id": "unica-india",
+  "title": "Unica",
+  "artist": "India",
+  "peak": 180,
+  "history": [
+    {
+      "date": "2010-06-19",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Smile",
+      "id": null
+    },
+    {
+      "title": "Estúpida",
+      "id": null
+    },
+    {
+      "title": "Si él te habla de mí",
+      "id": null
+    },
+    {
+      "title": "Te vas a arrepentir",
+      "id": null
+    },
+    {
+      "title": "Turn Off the Lights",
+      "id": null
+    },
+    {
+      "title": "Si estoy loca",
+      "id": null
+    },
+    {
+      "title": "Crying",
+      "id": null
+    },
+    {
+      "title": "Ni fines de semana ni días festivos",
+      "id": null
+    },
+    {
+      "title": "Amor secreto",
+      "id": null
+    },
+    {
+      "title": "Triste",
+      "id": null
+    }
+  ]
+}

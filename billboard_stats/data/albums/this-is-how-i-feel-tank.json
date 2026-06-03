@@ -1,1 +1,78 @@
-{"id": "this-is-how-i-feel-tank", "title": "This Is How I Feel", "artist": "Tank", "peak": 9, "history": [{"date": "2012-05-26", "rank": 9}, {"date": "2012-06-02", "rank": 37}, {"date": "2012-06-09", "rank": 58}, {"date": "2012-06-16", "rank": 67}, {"date": "2012-06-23", "rank": 101}, {"date": "2012-06-30", "rank": 142}, {"date": "2012-07-14", "rank": 182}]}
+{
+  "id": "this-is-how-i-feel-tank",
+  "title": "This Is How I Feel",
+  "artist": "Tank",
+  "peak": 9,
+  "history": [
+    {
+      "date": "2012-05-26",
+      "rank": 9
+    },
+    {
+      "date": "2012-06-02",
+      "rank": 37
+    },
+    {
+      "date": "2012-06-09",
+      "rank": 58
+    },
+    {
+      "date": "2012-06-16",
+      "rank": 67
+    },
+    {
+      "date": "2012-06-23",
+      "rank": 101
+    },
+    {
+      "date": "2012-06-30",
+      "rank": 142
+    },
+    {
+      "date": "2012-07-14",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Lonely",
+      "id": null
+    },
+    {
+      "title": "Your One",
+      "id": null
+    },
+    {
+      "title": "Compliments",
+      "id": null
+    },
+    {
+      "title": "Don't Give Up",
+      "id": null
+    },
+    {
+      "title": "Nowhere",
+      "id": null
+    },
+    {
+      "title": "Off Your Hands",
+      "id": null
+    },
+    {
+      "title": "This Is How I Feel",
+      "id": null
+    },
+    {
+      "title": "Next Breath",
+      "id": null
+    },
+    {
+      "title": "Better Than Me",
+      "id": null
+    },
+    {
+      "title": "Lost It All",
+      "id": null
+    }
+  ]
+}

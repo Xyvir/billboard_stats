@@ -1,1 +1,78 @@
-{"id": "where-to-now-charlie-dore", "title": "Where To Now", "artist": "Charlie Dore", "peak": 145, "history": [{"date": "1980-04-26", "rank": 187}, {"date": "1980-05-03", "rank": 165}, {"date": "1980-05-10", "rank": 149}, {"date": "1980-05-17", "rank": 149}, {"date": "1980-05-24", "rank": 145}, {"date": "1980-05-31", "rank": 175}, {"date": "1980-06-07", "rank": 188}]}
+{
+  "id": "where-to-now-charlie-dore",
+  "title": "Where To Now",
+  "artist": "Charlie Dore",
+  "peak": 145,
+  "history": [
+    {
+      "date": "1980-04-26",
+      "rank": 187
+    },
+    {
+      "date": "1980-05-03",
+      "rank": 165
+    },
+    {
+      "date": "1980-05-10",
+      "rank": 149
+    },
+    {
+      "date": "1980-05-17",
+      "rank": 149
+    },
+    {
+      "date": "1980-05-24",
+      "rank": 145
+    },
+    {
+      "date": "1980-05-31",
+      "rank": 175
+    },
+    {
+      "date": "1980-06-07",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Pilot of the Airwaves",
+      "id": "pilot-of-the-airwaves-charlie-dore"
+    },
+    {
+      "title": "Falling",
+      "id": null
+    },
+    {
+      "title": "Sad Old World",
+      "id": null
+    },
+    {
+      "title": "Where to Now",
+      "id": null
+    },
+    {
+      "title": "Sleepless",
+      "id": null
+    },
+    {
+      "title": "Fear of Flying",
+      "id": null
+    },
+    {
+      "title": "Wise Owl",
+      "id": null
+    },
+    {
+      "title": "Hula Valley",
+      "id": null
+    },
+    {
+      "title": "Pickin’ Apples",
+      "id": null
+    },
+    {
+      "title": "Sweetheart",
+      "id": null
+    }
+  ]
+}

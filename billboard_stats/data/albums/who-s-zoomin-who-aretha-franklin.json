@@ -1,1 +1,314 @@
-{"id": "who-s-zoomin-who-aretha-franklin", "title": "Who's Zoomin' Who?", "artist": "Aretha Franklin", "peak": 13, "history": [{"date": "1985-07-27", "rank": 69}, {"date": "1985-08-03", "rank": 47}, {"date": "1985-08-10", "rank": 37}, {"date": "1985-08-17", "rank": 34}, {"date": "1985-08-24", "rank": 27}, {"date": "1985-08-31", "rank": 24}, {"date": "1985-09-07", "rank": 24}, {"date": "1985-09-14", "rank": 22}, {"date": "1985-09-21", "rank": 22}, {"date": "1985-09-28", "rank": 18}, {"date": "1985-10-05", "rank": 18}, {"date": "1985-10-12", "rank": 18}, {"date": "1985-10-19", "rank": 18}, {"date": "1985-10-26", "rank": 16}, {"date": "1985-11-02", "rank": 16}, {"date": "1985-11-09", "rank": 16}, {"date": "1985-11-16", "rank": 16}, {"date": "1985-11-23", "rank": 16}, {"date": "1985-11-30", "rank": 13}, {"date": "1985-12-07", "rank": 14}, {"date": "1985-12-14", "rank": 16}, {"date": "1985-12-21", "rank": 16}, {"date": "1985-12-28", "rank": 20}, {"date": "1986-01-04", "rank": 20}, {"date": "1986-01-11", "rank": 21}, {"date": "1986-01-18", "rank": 28}, {"date": "1986-01-25", "rank": 25}, {"date": "1986-02-01", "rank": 28}, {"date": "1986-02-08", "rank": 25}, {"date": "1986-02-15", "rank": 29}, {"date": "1986-02-22", "rank": 25}, {"date": "1986-03-01", "rank": 24}, {"date": "1986-03-08", "rank": 24}, {"date": "1986-03-15", "rank": 29}, {"date": "1986-03-22", "rank": 30}, {"date": "1986-03-29", "rank": 37}, {"date": "1986-04-05", "rank": 39}, {"date": "1986-04-12", "rank": 45}, {"date": "1986-04-19", "rank": 52}, {"date": "1986-04-26", "rank": 67}, {"date": "1986-05-03", "rank": 65}, {"date": "1986-05-10", "rank": 74}, {"date": "1986-05-17", "rank": 82}, {"date": "1986-05-24", "rank": 115}, {"date": "1986-05-31", "rank": 130}, {"date": "1986-06-07", "rank": 131}, {"date": "1986-06-14", "rank": 147}, {"date": "1986-06-21", "rank": 165}, {"date": "1986-06-28", "rank": 166}, {"date": "1986-07-05", "rank": 187}, {"date": "1986-07-12", "rank": 195}]}
+{
+  "id": "who-s-zoomin-who-aretha-franklin",
+  "title": "Who's Zoomin' Who?",
+  "artist": "Aretha Franklin",
+  "peak": 13,
+  "history": [
+    {
+      "date": "1985-07-27",
+      "rank": 69
+    },
+    {
+      "date": "1985-08-03",
+      "rank": 47
+    },
+    {
+      "date": "1985-08-10",
+      "rank": 37
+    },
+    {
+      "date": "1985-08-17",
+      "rank": 34
+    },
+    {
+      "date": "1985-08-24",
+      "rank": 27
+    },
+    {
+      "date": "1985-08-31",
+      "rank": 24
+    },
+    {
+      "date": "1985-09-07",
+      "rank": 24
+    },
+    {
+      "date": "1985-09-14",
+      "rank": 22
+    },
+    {
+      "date": "1985-09-21",
+      "rank": 22
+    },
+    {
+      "date": "1985-09-28",
+      "rank": 18
+    },
+    {
+      "date": "1985-10-05",
+      "rank": 18
+    },
+    {
+      "date": "1985-10-12",
+      "rank": 18
+    },
+    {
+      "date": "1985-10-19",
+      "rank": 18
+    },
+    {
+      "date": "1985-10-26",
+      "rank": 16
+    },
+    {
+      "date": "1985-11-02",
+      "rank": 16
+    },
+    {
+      "date": "1985-11-09",
+      "rank": 16
+    },
+    {
+      "date": "1985-11-16",
+      "rank": 16
+    },
+    {
+      "date": "1985-11-23",
+      "rank": 16
+    },
+    {
+      "date": "1985-11-30",
+      "rank": 13
+    },
+    {
+      "date": "1985-12-07",
+      "rank": 14
+    },
+    {
+      "date": "1985-12-14",
+      "rank": 16
+    },
+    {
+      "date": "1985-12-21",
+      "rank": 16
+    },
+    {
+      "date": "1985-12-28",
+      "rank": 20
+    },
+    {
+      "date": "1986-01-04",
+      "rank": 20
+    },
+    {
+      "date": "1986-01-11",
+      "rank": 21
+    },
+    {
+      "date": "1986-01-18",
+      "rank": 28
+    },
+    {
+      "date": "1986-01-25",
+      "rank": 25
+    },
+    {
+      "date": "1986-02-01",
+      "rank": 28
+    },
+    {
+      "date": "1986-02-08",
+      "rank": 25
+    },
+    {
+      "date": "1986-02-15",
+      "rank": 29
+    },
+    {
+      "date": "1986-02-22",
+      "rank": 25
+    },
+    {
+      "date": "1986-03-01",
+      "rank": 24
+    },
+    {
+      "date": "1986-03-08",
+      "rank": 24
+    },
+    {
+      "date": "1986-03-15",
+      "rank": 29
+    },
+    {
+      "date": "1986-03-22",
+      "rank": 30
+    },
+    {
+      "date": "1986-03-29",
+      "rank": 37
+    },
+    {
+      "date": "1986-04-05",
+      "rank": 39
+    },
+    {
+      "date": "1986-04-12",
+      "rank": 45
+    },
+    {
+      "date": "1986-04-19",
+      "rank": 52
+    },
+    {
+      "date": "1986-04-26",
+      "rank": 67
+    },
+    {
+      "date": "1986-05-03",
+      "rank": 65
+    },
+    {
+      "date": "1986-05-10",
+      "rank": 74
+    },
+    {
+      "date": "1986-05-17",
+      "rank": 82
+    },
+    {
+      "date": "1986-05-24",
+      "rank": 115
+    },
+    {
+      "date": "1986-05-31",
+      "rank": 130
+    },
+    {
+      "date": "1986-06-07",
+      "rank": 131
+    },
+    {
+      "date": "1986-06-14",
+      "rank": 147
+    },
+    {
+      "date": "1986-06-21",
+      "rank": 165
+    },
+    {
+      "date": "1986-06-28",
+      "rank": 166
+    },
+    {
+      "date": "1986-07-05",
+      "rank": 187
+    },
+    {
+      "date": "1986-07-12",
+      "rank": 195
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Freeway of Love (extended mix)",
+      "id": "freeway-of-love-aretha-franklin"
+    },
+    {
+      "title": "Another Night",
+      "id": "another-night-aretha-franklin"
+    },
+    {
+      "title": "Sweet Bitter Love",
+      "id": "without-love-aretha-franklin"
+    },
+    {
+      "title": "Who’s Zoomin’ Who",
+      "id": "who-s-zoomin-who-aretha-franklin"
+    },
+    {
+      "title": "Sisters Are Doin’ It for Themselves",
+      "id": "sisters-are-doin-it-for-themselves-eurythmics-aretha-franklin"
+    },
+    {
+      "title": "Freeway of Love",
+      "id": "freeway-of-love-aretha-franklin"
+    },
+    {
+      "title": "Who’s Zoomin’ Who? (radio mix)",
+      "id": "who-s-zoomin-who-aretha-franklin"
+    },
+    {
+      "title": "Another Night (radio mix)",
+      "id": "another-night-aretha-franklin"
+    },
+    {
+      "title": "Freeway of Love (rock mix)",
+      "id": "freeway-of-love-aretha-franklin"
+    },
+    {
+      "title": "Freeway of Love (extended remix)",
+      "id": "freeway-of-love-aretha-franklin"
+    },
+    {
+      "title": "Sisters Are Doin’ It for Themselves (ET mix)",
+      "id": "sisters-are-doin-it-for-themselves-eurythmics-aretha-franklin"
+    },
+    {
+      "title": "Who's Zoomin' Who? (dance mix)",
+      "id": "who-s-zoomin-who-aretha-franklin"
+    },
+    {
+      "title": "Who’s Zoomin’ Who (dub mix)",
+      "id": "who-s-zoomin-who-aretha-franklin"
+    },
+    {
+      "title": "Who’s Zoomin Who (a cappella mix)",
+      "id": "who-s-zoomin-who-aretha-franklin"
+    },
+    {
+      "title": "Another Night (dance mix)",
+      "id": "another-night-aretha-franklin"
+    },
+    {
+      "title": "Another Night (dub)",
+      "id": "another-night-aretha-franklin"
+    },
+    {
+      "title": "Another Night (single mix)",
+      "id": "another-night-aretha-franklin"
+    },
+    {
+      "title": "Ain’t Nobody Ever Loved You (Percapella mix)",
+      "id": null
+    },
+    {
+      "title": "Until You Say You Love Me",
+      "id": null
+    },
+    {
+      "title": "Ain’t Nobody Ever Loved You",
+      "id": null
+    },
+    {
+      "title": "Push",
+      "id": null
+    },
+    {
+      "title": "Integrity",
+      "id": null
+    },
+    {
+      "title": "Ain’t Nobody Ever Loved You (single mix)",
+      "id": null
+    },
+    {
+      "title": "Ain’t Nobody Ever Loved You (remix)",
+      "id": null
+    },
+    {
+      "title": "Ain’t Nobody Ever Loved You (dub mix)",
+      "id": null
+    }
+  ]
+}

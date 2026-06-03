@@ -1,1 +1,82 @@
-{"id": "this-i-gotta-see-andy-griggs", "title": "This I Gotta See", "artist": "Andy Griggs", "peak": 59, "history": [{"date": "2004-08-28", "rank": 59}, {"date": "2004-09-04", "rank": 102}, {"date": "2004-09-11", "rank": 130}, {"date": "2004-09-18", "rank": 155}, {"date": "2004-09-25", "rank": 147}, {"date": "2004-10-02", "rank": 160}, {"date": "2004-10-09", "rank": 176}]}
+{
+  "id": "this-i-gotta-see-andy-griggs",
+  "title": "This I Gotta See",
+  "artist": "Andy Griggs",
+  "peak": 59,
+  "history": [
+    {
+      "date": "2004-08-28",
+      "rank": 59
+    },
+    {
+      "date": "2004-09-04",
+      "rank": 102
+    },
+    {
+      "date": "2004-09-11",
+      "rank": 130
+    },
+    {
+      "date": "2004-09-18",
+      "rank": 155
+    },
+    {
+      "date": "2004-09-25",
+      "rank": 147
+    },
+    {
+      "date": "2004-10-02",
+      "rank": 160
+    },
+    {
+      "date": "2004-10-09",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "She Thinks She Needs Me",
+      "id": "she-thinks-she-needs-me-andy-griggs"
+    },
+    {
+      "title": "If Heaven",
+      "id": "if-heaven-andy-griggs"
+    },
+    {
+      "title": "This I Gotta See",
+      "id": null
+    },
+    {
+      "title": "My Kind of Beautiful",
+      "id": null
+    },
+    {
+      "title": "Careful Where You Kiss Me",
+      "id": null
+    },
+    {
+      "title": "Be Still",
+      "id": null
+    },
+    {
+      "title": "I Never Had a Chance",
+      "id": null
+    },
+    {
+      "title": "Hillbilly Band",
+      "id": null
+    },
+    {
+      "title": "Why do I Still Want You",
+      "id": null
+    },
+    {
+      "title": "Long Enough",
+      "id": null
+    },
+    {
+      "title": "No Mississippi",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"id": "works-pink-floyd", "title": "Works", "artist": "Pink Floyd", "peak": 68, "history": [{"date": "1983-06-18", "rank": 93}, {"date": "1983-06-25", "rank": 78}, {"date": "1983-07-02", "rank": 69}, {"date": "1983-07-09", "rank": 68}, {"date": "1983-07-16", "rank": 85}, {"date": "1983-07-23", "rank": 127}, {"date": "1983-07-30", "rank": 140}, {"date": "1983-08-06", "rank": 156}, {"date": "1983-08-13", "rank": 198}]}
+{
+  "id": "works-pink-floyd",
+  "title": "Works",
+  "artist": "Pink Floyd",
+  "peak": 68,
+  "history": [
+    {
+      "date": "1983-06-18",
+      "rank": 93
+    },
+    {
+      "date": "1983-06-25",
+      "rank": 78
+    },
+    {
+      "date": "1983-07-02",
+      "rank": 69
+    },
+    {
+      "date": "1983-07-09",
+      "rank": 68
+    },
+    {
+      "date": "1983-07-16",
+      "rank": 85
+    },
+    {
+      "date": "1983-07-23",
+      "rank": 127
+    },
+    {
+      "date": "1983-07-30",
+      "rank": 140
+    },
+    {
+      "date": "1983-08-06",
+      "rank": 156
+    },
+    {
+      "date": "1983-08-13",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "One of These Days",
+      "id": null
+    },
+    {
+      "title": "Arnold Layne",
+      "id": null
+    },
+    {
+      "title": "Fearless (interpolating “You’ll Never Walk Alone”)",
+      "id": null
+    },
+    {
+      "title": "Brain Damage",
+      "id": null
+    },
+    {
+      "title": "Eclipse",
+      "id": null
+    },
+    {
+      "title": "Set the Controls for the Heart of the Sun",
+      "id": null
+    },
+    {
+      "title": "See Emily Play",
+      "id": null
+    },
+    {
+      "title": "Several Species of Small Furry Animals Gathered Together in a Cave and Grooving With a Pict",
+      "id": null
+    },
+    {
+      "title": "Free Four (music from the film, “The Valley”)",
+      "id": null
+    },
+    {
+      "title": "Embryo",
+      "id": null
+    }
+  ]
+}

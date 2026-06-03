@@ -1,1 +1,42 @@
-{"id": "weather-huey-lewis-and-the-news", "title": "Weather", "artist": "Huey Lewis And The News", "peak": 71, "history": [{"date": "2020-02-29", "rank": 71}]}
+{
+  "id": "weather-huey-lewis-and-the-news",
+  "title": "Weather",
+  "artist": "Huey Lewis And The News",
+  "peak": 71,
+  "history": [
+    {
+      "date": "2020-02-29",
+      "rank": 71
+    }
+  ],
+  "tracks": [
+    {
+      "title": "While We’re Young",
+      "id": null
+    },
+    {
+      "title": "Her Love Is Killin’ Me",
+      "id": null
+    },
+    {
+      "title": "I Am There for You",
+      "id": null
+    },
+    {
+      "title": "Hurry Back Baby",
+      "id": null
+    },
+    {
+      "title": "Remind Me Why I Love You Again",
+      "id": null
+    },
+    {
+      "title": "Pretty Girls Everywhere",
+      "id": null
+    },
+    {
+      "title": "One of the Boys",
+      "id": null
+    }
+  ]
+}

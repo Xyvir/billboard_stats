@@ -1,1 +1,82 @@
-{"id": "van-zant-van-zant", "title": "Van Zant", "artist": "Van Zant", "peak": 170, "history": [{"date": "1985-05-04", "rank": 180}, {"date": "1985-05-11", "rank": 175}, {"date": "1985-05-18", "rank": 175}, {"date": "1985-05-25", "rank": 175}, {"date": "1985-06-01", "rank": 171}, {"date": "1985-06-08", "rank": 170}, {"date": "1985-06-15", "rank": 175}, {"date": "1985-06-22", "rank": 187}]}
+{
+  "id": "van-zant-van-zant",
+  "title": "Van Zant",
+  "artist": "Van Zant",
+  "peak": 170,
+  "history": [
+    {
+      "date": "1985-05-04",
+      "rank": 180
+    },
+    {
+      "date": "1985-05-11",
+      "rank": 175
+    },
+    {
+      "date": "1985-05-18",
+      "rank": 175
+    },
+    {
+      "date": "1985-05-25",
+      "rank": 175
+    },
+    {
+      "date": "1985-06-01",
+      "rank": 171
+    },
+    {
+      "date": "1985-06-08",
+      "rank": 170
+    },
+    {
+      "date": "1985-06-15",
+      "rank": 175
+    },
+    {
+      "date": "1985-06-22",
+      "rank": 187
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Midnight Sensation",
+      "id": null
+    },
+    {
+      "title": "She’s Out With a Gun",
+      "id": null
+    },
+    {
+      "title": "I’m a Fighter",
+      "id": null
+    },
+    {
+      "title": "You’ve Got to Believe in Love",
+      "id": null
+    },
+    {
+      "title": "Two Strangers",
+      "id": null
+    },
+    {
+      "title": "2 + 2",
+      "id": null
+    },
+    {
+      "title": "Heart to the Flame",
+      "id": null
+    },
+    {
+      "title": "Does a Fool Ever Learn",
+      "id": null
+    },
+    {
+      "title": "Right on Time",
+      "id": null
+    },
+    {
+      "title": "Lonely Girls",
+      "id": null
+    }
+  ]
+}

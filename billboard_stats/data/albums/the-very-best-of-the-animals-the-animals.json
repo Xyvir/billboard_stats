@@ -1,1 +1,54 @@
-{"id": "the-very-best-of-the-animals-the-animals", "title": "The Very Best Of The Animals", "artist": "The Animals", "peak": 188, "history": [{"date": "2013-08-24", "rank": 188}]}
+{
+  "id": "the-very-best-of-the-animals-the-animals",
+  "title": "The Very Best Of The Animals",
+  "artist": "The Animals",
+  "peak": 188,
+  "history": [
+    {
+      "date": "2013-08-24",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The House of the Rising Sun",
+      "id": "house-of-the-rising-sun-the-animals"
+    },
+    {
+      "title": "Boom Boom",
+      "id": "boom-boom-the-animals"
+    },
+    {
+      "title": "I’m Crying",
+      "id": "i-m-crying-the-animals"
+    },
+    {
+      "title": "Don’t Let Me Be Misunderstood",
+      "id": "don-t-let-me-be-misunderstood-the-animals"
+    },
+    {
+      "title": "Bring It On Home to Me",
+      "id": "bring-it-on-home-to-me-the-animals"
+    },
+    {
+      "title": "We Gotta Get Out of This Place",
+      "id": "we-gotta-get-out-of-this-place-the-animals"
+    },
+    {
+      "title": "Don’t Bring Me Down",
+      "id": "don-t-bring-me-down-the-animals"
+    },
+    {
+      "title": "It’s My Life",
+      "id": "it-s-my-life-the-animals"
+    },
+    {
+      "title": "Baby Let Me Take You Home",
+      "id": null
+    },
+    {
+      "title": "Talkin’ ’Bout You",
+      "id": null
+    }
+  ]
+}

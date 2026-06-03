@@ -1,1 +1,254 @@
-{"id": "time-exposure-little-river-band", "title": "Time Exposure", "artist": "Little River Band", "peak": 21, "history": [{"date": "1981-09-19", "rank": 59}, {"date": "1981-09-26", "rank": 47}, {"date": "1981-10-03", "rank": 38}, {"date": "1981-10-10", "rank": 30}, {"date": "1981-10-17", "rank": 26}, {"date": "1981-10-24", "rank": 24}, {"date": "1981-10-31", "rank": 23}, {"date": "1981-11-07", "rank": 22}, {"date": "1981-11-14", "rank": 21}, {"date": "1981-11-21", "rank": 27}, {"date": "1981-11-28", "rank": 39}, {"date": "1981-12-05", "rank": 57}, {"date": "1981-12-12", "rank": 60}, {"date": "1981-12-19", "rank": 70}, {"date": "1981-12-26", "rank": 63}, {"date": "1982-01-02", "rank": 63}, {"date": "1982-01-09", "rank": 63}, {"date": "1982-01-16", "rank": 62}, {"date": "1982-01-23", "rank": 68}, {"date": "1982-01-30", "rank": 69}, {"date": "1982-02-06", "rank": 72}, {"date": "1982-02-13", "rank": 72}, {"date": "1982-02-20", "rank": 81}, {"date": "1982-02-27", "rank": 91}, {"date": "1982-03-06", "rank": 97}, {"date": "1982-03-13", "rank": 93}, {"date": "1982-03-20", "rank": 91}, {"date": "1982-03-27", "rank": 81}, {"date": "1982-04-03", "rank": 71}, {"date": "1982-04-10", "rank": 69}, {"date": "1982-04-17", "rank": 69}, {"date": "1982-04-24", "rank": 85}, {"date": "1982-05-01", "rank": 98}, {"date": "1982-05-08", "rank": 123}, {"date": "1982-05-15", "rank": 121}, {"date": "1982-05-22", "rank": 124}, {"date": "1982-05-29", "rank": 124}, {"date": "1982-06-05", "rank": 124}, {"date": "1982-06-12", "rank": 124}, {"date": "1982-06-19", "rank": 131}, {"date": "1982-06-26", "rank": 133}, {"date": "1982-07-03", "rank": 133}, {"date": "1982-07-10", "rank": 159}, {"date": "1982-07-17", "rank": 166}, {"date": "1982-07-24", "rank": 176}, {"date": "1982-07-31", "rank": 181}, {"date": "1982-08-07", "rank": 183}, {"date": "1982-08-14", "rank": 184}, {"date": "1982-08-21", "rank": 191}, {"date": "1982-08-28", "rank": 194}]}
+{
+  "id": "time-exposure-little-river-band",
+  "title": "Time Exposure",
+  "artist": "Little River Band",
+  "peak": 21,
+  "history": [
+    {
+      "date": "1981-09-19",
+      "rank": 59
+    },
+    {
+      "date": "1981-09-26",
+      "rank": 47
+    },
+    {
+      "date": "1981-10-03",
+      "rank": 38
+    },
+    {
+      "date": "1981-10-10",
+      "rank": 30
+    },
+    {
+      "date": "1981-10-17",
+      "rank": 26
+    },
+    {
+      "date": "1981-10-24",
+      "rank": 24
+    },
+    {
+      "date": "1981-10-31",
+      "rank": 23
+    },
+    {
+      "date": "1981-11-07",
+      "rank": 22
+    },
+    {
+      "date": "1981-11-14",
+      "rank": 21
+    },
+    {
+      "date": "1981-11-21",
+      "rank": 27
+    },
+    {
+      "date": "1981-11-28",
+      "rank": 39
+    },
+    {
+      "date": "1981-12-05",
+      "rank": 57
+    },
+    {
+      "date": "1981-12-12",
+      "rank": 60
+    },
+    {
+      "date": "1981-12-19",
+      "rank": 70
+    },
+    {
+      "date": "1981-12-26",
+      "rank": 63
+    },
+    {
+      "date": "1982-01-02",
+      "rank": 63
+    },
+    {
+      "date": "1982-01-09",
+      "rank": 63
+    },
+    {
+      "date": "1982-01-16",
+      "rank": 62
+    },
+    {
+      "date": "1982-01-23",
+      "rank": 68
+    },
+    {
+      "date": "1982-01-30",
+      "rank": 69
+    },
+    {
+      "date": "1982-02-06",
+      "rank": 72
+    },
+    {
+      "date": "1982-02-13",
+      "rank": 72
+    },
+    {
+      "date": "1982-02-20",
+      "rank": 81
+    },
+    {
+      "date": "1982-02-27",
+      "rank": 91
+    },
+    {
+      "date": "1982-03-06",
+      "rank": 97
+    },
+    {
+      "date": "1982-03-13",
+      "rank": 93
+    },
+    {
+      "date": "1982-03-20",
+      "rank": 91
+    },
+    {
+      "date": "1982-03-27",
+      "rank": 81
+    },
+    {
+      "date": "1982-04-03",
+      "rank": 71
+    },
+    {
+      "date": "1982-04-10",
+      "rank": 69
+    },
+    {
+      "date": "1982-04-17",
+      "rank": 69
+    },
+    {
+      "date": "1982-04-24",
+      "rank": 85
+    },
+    {
+      "date": "1982-05-01",
+      "rank": 98
+    },
+    {
+      "date": "1982-05-08",
+      "rank": 123
+    },
+    {
+      "date": "1982-05-15",
+      "rank": 121
+    },
+    {
+      "date": "1982-05-22",
+      "rank": 124
+    },
+    {
+      "date": "1982-05-29",
+      "rank": 124
+    },
+    {
+      "date": "1982-06-05",
+      "rank": 124
+    },
+    {
+      "date": "1982-06-12",
+      "rank": 124
+    },
+    {
+      "date": "1982-06-19",
+      "rank": 131
+    },
+    {
+      "date": "1982-06-26",
+      "rank": 133
+    },
+    {
+      "date": "1982-07-03",
+      "rank": 133
+    },
+    {
+      "date": "1982-07-10",
+      "rank": 159
+    },
+    {
+      "date": "1982-07-17",
+      "rank": 166
+    },
+    {
+      "date": "1982-07-24",
+      "rank": 176
+    },
+    {
+      "date": "1982-07-31",
+      "rank": 181
+    },
+    {
+      "date": "1982-08-07",
+      "rank": 183
+    },
+    {
+      "date": "1982-08-14",
+      "rank": 184
+    },
+    {
+      "date": "1982-08-21",
+      "rank": 191
+    },
+    {
+      "date": "1982-08-28",
+      "rank": 194
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Night Owls",
+      "id": "the-night-owls-little-river-band"
+    },
+    {
+      "title": "Man on Your Mind",
+      "id": "man-on-your-mind-little-river-band"
+    },
+    {
+      "title": "Take It Easy on Me",
+      "id": "take-it-easy-on-me-little-river-band"
+    },
+    {
+      "title": "Ballerina",
+      "id": null
+    },
+    {
+      "title": "Love Will Survive",
+      "id": null
+    },
+    {
+      "title": "Full Circle",
+      "id": null
+    },
+    {
+      "title": "Just Say That You Love Me",
+      "id": null
+    },
+    {
+      "title": "Suicide Boulevard",
+      "id": null
+    },
+    {
+      "title": "Orbit Zero",
+      "id": null
+    },
+    {
+      "title": "Don't Let the Needle Win",
+      "id": null
+    },
+    {
+      "title": "Guiding Light",
+      "id": null
+    }
+  ]
+}

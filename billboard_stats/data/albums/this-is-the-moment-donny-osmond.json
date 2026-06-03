@@ -1,1 +1,110 @@
-{"id": "this-is-the-moment-donny-osmond", "title": "This Is The Moment", "artist": "Donny Osmond", "peak": 64, "history": [{"date": "2001-02-24", "rank": 64}, {"date": "2001-03-03", "rank": 118}, {"date": "2001-03-10", "rank": 168}, {"date": "2001-03-17", "rank": 190}, {"date": "2001-03-24", "rank": 145}, {"date": "2001-03-31", "rank": 180}]}
+{
+  "id": "this-is-the-moment-donny-osmond",
+  "title": "This Is The Moment",
+  "artist": "Donny Osmond",
+  "peak": 64,
+  "history": [
+    {
+      "date": "2001-02-24",
+      "rank": 64
+    },
+    {
+      "date": "2001-03-03",
+      "rank": 118
+    },
+    {
+      "date": "2001-03-10",
+      "rank": 168
+    },
+    {
+      "date": "2001-03-17",
+      "rank": 190
+    },
+    {
+      "date": "2001-03-24",
+      "rank": 145
+    },
+    {
+      "date": "2001-03-31",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Seasons of Love",
+      "id": "soldier-of-love-donny-osmond"
+    },
+    {
+      "title": "Our Kind of Love",
+      "id": "soldier-of-love-donny-osmond"
+    },
+    {
+      "title": "Puppy Love",
+      "id": "puppy-love-donny-osmond"
+    },
+    {
+      "title": "Too Young",
+      "id": "too-young-donny-osmond"
+    },
+    {
+      "title": "Young Love",
+      "id": "puppy-love-donny-osmond"
+    },
+    {
+      "title": "The Twelfth of Never",
+      "id": "the-twelfth-of-never-donny-osmond"
+    },
+    {
+      "title": "When I Fall in Love",
+      "id": "when-i-fall-in-love-are-you-lonesome-tonight-donny-osmond"
+    },
+    {
+      "title": "This Is the Moment",
+      "id": null
+    },
+    {
+      "title": "Luck Be a Lady",
+      "id": null
+    },
+    {
+      "title": "It’s Possible",
+      "id": null
+    },
+    {
+      "title": "At the Edge of the World",
+      "id": null
+    },
+    {
+      "title": "Not While I’m Around",
+      "id": null
+    },
+    {
+      "title": "Solla Sollew",
+      "id": null
+    },
+    {
+      "title": "No Matter What",
+      "id": null
+    },
+    {
+      "title": "Immortality",
+      "id": null
+    },
+    {
+      "title": "I Know the Truth",
+      "id": null
+    },
+    {
+      "title": "You’ve Got a Friend in Me",
+      "id": null
+    },
+    {
+      "title": "Give My Regards to Broadway",
+      "id": null
+    },
+    {
+      "title": "Why",
+      "id": null
+    }
+  ]
+}

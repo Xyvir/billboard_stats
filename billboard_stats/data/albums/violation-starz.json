@@ -1,1 +1,90 @@
-{"id": "violation-starz", "title": "Violation", "artist": "Starz", "peak": 89, "history": [{"date": "1977-04-16", "rank": 140}, {"date": "1977-04-23", "rank": 129}, {"date": "1977-04-30", "rank": 116}, {"date": "1977-05-07", "rank": 104}, {"date": "1977-05-14", "rank": 92}, {"date": "1977-05-21", "rank": 89}, {"date": "1977-05-28", "rank": 93}, {"date": "1977-06-04", "rank": 183}]}
+{
+  "id": "violation-starz",
+  "title": "Violation",
+  "artist": "Starz",
+  "peak": 89,
+  "history": [
+    {
+      "date": "1977-04-16",
+      "rank": 140
+    },
+    {
+      "date": "1977-04-23",
+      "rank": 129
+    },
+    {
+      "date": "1977-04-30",
+      "rank": 116
+    },
+    {
+      "date": "1977-05-07",
+      "rank": 104
+    },
+    {
+      "date": "1977-05-14",
+      "rank": 92
+    },
+    {
+      "date": "1977-05-21",
+      "rank": 89
+    },
+    {
+      "date": "1977-05-28",
+      "rank": 93
+    },
+    {
+      "date": "1977-06-04",
+      "rank": 183
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Cherry Baby",
+      "id": "cherry-baby-starz"
+    },
+    {
+      "title": "Sing It, Shout It",
+      "id": "sing-it-shout-it-starz"
+    },
+    {
+      "title": "Rock Six Times",
+      "id": null
+    },
+    {
+      "title": "Violation",
+      "id": null
+    },
+    {
+      "title": "Subway Terror",
+      "id": null
+    },
+    {
+      "title": "All Night Long",
+      "id": null
+    },
+    {
+      "title": "Cool One",
+      "id": null
+    },
+    {
+      "title": "S.T.E.A.D.Y.",
+      "id": null
+    },
+    {
+      "title": "Is That a Street Light or the Moon?",
+      "id": null
+    },
+    {
+      "title": "Do It With the Lights On (demo)",
+      "id": null
+    },
+    {
+      "title": "Cool One (demo)",
+      "id": null
+    },
+    {
+      "title": "Rock This Town (demo)",
+      "id": null
+    }
+  ]
+}

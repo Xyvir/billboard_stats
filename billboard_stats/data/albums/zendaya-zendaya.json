@@ -1,1 +1,66 @@
-{"id": "zendaya-zendaya", "title": "Zendaya", "artist": "Zendaya", "peak": 51, "history": [{"date": "2013-10-05", "rank": 51}, {"date": "2013-10-12", "rank": 149}, {"date": "2013-10-19", "rank": 191}]}
+{
+  "id": "zendaya-zendaya",
+  "title": "Zendaya",
+  "artist": "Zendaya",
+  "peak": 51,
+  "history": [
+    {
+      "date": "2013-10-05",
+      "rank": 51
+    },
+    {
+      "date": "2013-10-12",
+      "rank": 149
+    },
+    {
+      "date": "2013-10-19",
+      "rank": 191
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Replay",
+      "id": "replay-zendaya"
+    },
+    {
+      "title": "Fireflies",
+      "id": null
+    },
+    {
+      "title": "Butterflies",
+      "id": null
+    },
+    {
+      "title": "Putcha Body Down",
+      "id": null
+    },
+    {
+      "title": "Heaven Lost an Angel",
+      "id": null
+    },
+    {
+      "title": "Cry for Love",
+      "id": null
+    },
+    {
+      "title": "Only When You’re Close",
+      "id": null
+    },
+    {
+      "title": "Bottle You Up",
+      "id": null
+    },
+    {
+      "title": "Scared",
+      "id": null
+    },
+    {
+      "title": "Love You Forever",
+      "id": null
+    },
+    {
+      "title": "My Baby",
+      "id": null
+    }
+  ]
+}

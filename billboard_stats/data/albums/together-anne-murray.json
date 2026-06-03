@@ -1,1 +1,94 @@
-{"id": "together-anne-murray", "title": "Together", "artist": "Anne Murray", "peak": 142, "history": [{"date": "1975-12-06", "rank": 188}, {"date": "1975-12-13", "rank": 178}, {"date": "1975-12-20", "rank": 167}, {"date": "1975-12-27", "rank": 157}, {"date": "1976-01-03", "rank": 153}, {"date": "1976-01-10", "rank": 149}, {"date": "1976-01-17", "rank": 146}, {"date": "1976-01-24", "rank": 142}, {"date": "1976-01-31", "rank": 150}, {"date": "1976-02-07", "rank": 161}, {"date": "1976-02-14", "rank": 161}]}
+{
+  "id": "together-anne-murray",
+  "title": "Together",
+  "artist": "Anne Murray",
+  "peak": 142,
+  "history": [
+    {
+      "date": "1975-12-06",
+      "rank": 188
+    },
+    {
+      "date": "1975-12-13",
+      "rank": 178
+    },
+    {
+      "date": "1975-12-20",
+      "rank": 167
+    },
+    {
+      "date": "1975-12-27",
+      "rank": 157
+    },
+    {
+      "date": "1976-01-03",
+      "rank": 153
+    },
+    {
+      "date": "1976-01-10",
+      "rank": 149
+    },
+    {
+      "date": "1976-01-17",
+      "rank": 146
+    },
+    {
+      "date": "1976-01-24",
+      "rank": 142
+    },
+    {
+      "date": "1976-01-31",
+      "rank": 150
+    },
+    {
+      "date": "1976-02-07",
+      "rank": 161
+    },
+    {
+      "date": "1976-02-14",
+      "rank": 161
+    }
+  ],
+  "tracks": [
+    {
+      "title": "If It's All Right With You",
+      "id": "it-s-all-i-can-do-anne-murray"
+    },
+    {
+      "title": "Sunday Sunrise",
+      "id": "sunday-sunrise-anne-murray"
+    },
+    {
+      "title": "The Call",
+      "id": "the-call-anne-murray"
+    },
+    {
+      "title": "Out on the Road",
+      "id": null
+    },
+    {
+      "title": "Part-Time Love",
+      "id": null
+    },
+    {
+      "title": "Everything Old Is New Again",
+      "id": null
+    },
+    {
+      "title": "Lady Bug",
+      "id": null
+    },
+    {
+      "title": "Player in the Band",
+      "id": null
+    },
+    {
+      "title": "Blue Finger Lou",
+      "id": null
+    },
+    {
+      "title": "Together",
+      "id": null
+    }
+  ]
+}

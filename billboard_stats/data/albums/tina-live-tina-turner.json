@@ -1,1 +1,74 @@
-{"id": "tina-live-tina-turner", "title": "Tina Live", "artist": "Tina Turner", "peak": 169, "history": [{"date": "2009-11-07", "rank": 169}]}
+{
+  "id": "tina-live-tina-turner",
+  "title": "Tina Live",
+  "artist": "Tina Turner",
+  "peak": 169,
+  "history": [
+    {
+      "date": "2009-11-07",
+      "rank": 169
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Steamy Windows",
+      "id": "steamy-windows-tina-turner"
+    },
+    {
+      "title": "What You Get Is What You See",
+      "id": "what-you-get-is-what-you-see-tina-turner"
+    },
+    {
+      "title": "Better Be Good to Me",
+      "id": "better-be-good-to-me-tina-turner"
+    },
+    {
+      "title": "What’s Love Got to Do With It",
+      "id": "what-s-love-got-to-do-with-it-tina-turner"
+    },
+    {
+      "title": "Private Dancer",
+      "id": "private-dancer-tina-turner"
+    },
+    {
+      "title": "We Don’t Need Another Hero",
+      "id": "we-don-t-need-another-hero-thunderdome-tina-turner"
+    },
+    {
+      "title": "Let’s Stay Together",
+      "id": "let-s-stay-together-tina-turner"
+    },
+    {
+      "title": "It’s Only Rock ’n’ Roll (but I Like It)",
+      "id": "it-s-gonna-work-out-fine-ike-tina-turner"
+    },
+    {
+      "title": "Simply the Best",
+      "id": "the-best-tina-turner"
+    },
+    {
+      "title": "Proud Mary",
+      "id": "proud-mary-ike-tina-turner"
+    },
+    {
+      "title": "Nutbush City Limits",
+      "id": "nutbush-city-limits-ike-tina-turner"
+    },
+    {
+      "title": "River Deep, Mountain High",
+      "id": null
+    },
+    {
+      "title": "Jumping Jack Flash",
+      "id": null
+    },
+    {
+      "title": "Golden Eye",
+      "id": null
+    },
+    {
+      "title": "Addicted to Love",
+      "id": null
+    }
+  ]
+}

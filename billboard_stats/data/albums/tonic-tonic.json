@@ -1,1 +1,22 @@
-{"id": "tonic-tonic", "title": "Tonic", "artist": "Tonic", "peak": 150, "history": [{"date": "2010-05-22", "rank": 150}]}
+{
+  "id": "tonic-tonic",
+  "title": "Tonic",
+  "artist": "Tonic",
+  "peak": 150,
+  "history": [
+    {
+      "date": "2010-05-22",
+      "rank": 150
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Purple Haze (Nic Liu Edit)",
+      "id": null
+    },
+    {
+      "title": "Let It Whip (Tommi & Nic Liu Edit)",
+      "id": null
+    }
+  ]
+}

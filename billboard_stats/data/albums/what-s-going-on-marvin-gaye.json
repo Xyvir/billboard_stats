@@ -1,1 +1,70 @@
-{"id": "what-s-going-on-marvin-gaye", "title": "What's Going On", "artist": "Marvin Gaye", "peak": 139, "history": [{"date": "1984-05-12", "rank": 169}, {"date": "1984-05-19", "rank": 158}, {"date": "1984-05-26", "rank": 158}, {"date": "1984-06-02", "rank": 154}, {"date": "1984-06-09", "rank": 193}, {"date": "2021-05-22", "rank": 139}]}
+{
+  "id": "what-s-going-on-marvin-gaye",
+  "title": "What's Going On",
+  "artist": "Marvin Gaye",
+  "peak": 139,
+  "history": [
+    {
+      "date": "1984-05-12",
+      "rank": 169
+    },
+    {
+      "date": "1984-05-19",
+      "rank": 158
+    },
+    {
+      "date": "1984-05-26",
+      "rank": 158
+    },
+    {
+      "date": "1984-06-02",
+      "rank": 154
+    },
+    {
+      "date": "1984-06-09",
+      "rank": 193
+    },
+    {
+      "date": "2021-05-22",
+      "rank": 139
+    }
+  ],
+  "tracks": [
+    {
+      "title": "What’s Going On",
+      "id": "what-s-going-on-marvin-gaye"
+    },
+    {
+      "title": "What’s Happening Brother",
+      "id": "what-s-going-on-marvin-gaye"
+    },
+    {
+      "title": "God Is Love",
+      "id": "distant-lover-marvin-gaye"
+    },
+    {
+      "title": "Mercy Mercy Me (The Ecology)",
+      "id": "mercy-mercy-me-the-ecology-marvin-gaye"
+    },
+    {
+      "title": "Inner City Blues (Make Me Wanna Holler)",
+      "id": "inner-city-blues-make-me-wanna-holler-marvin-gaye"
+    },
+    {
+      "title": "Flyin’ High (in the Friendly Sky)",
+      "id": null
+    },
+    {
+      "title": "Save the Children",
+      "id": null
+    },
+    {
+      "title": "Right On",
+      "id": null
+    },
+    {
+      "title": "Wholy Holy",
+      "id": null
+    }
+  ]
+}

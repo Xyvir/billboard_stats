@@ -1,1 +1,70 @@
-{"id": "wonderful-wonderful-the-killers", "title": "Wonderful Wonderful", "artist": "The Killers", "peak": 1, "history": [{"date": "2017-10-14", "rank": 1}, {"date": "2017-10-21", "rank": 59}, {"date": "2017-10-28", "rank": 74}, {"date": "2017-11-04", "rank": 151}, {"date": "2017-11-11", "rank": 189}]}
+{
+  "id": "wonderful-wonderful-the-killers",
+  "title": "Wonderful Wonderful",
+  "artist": "The Killers",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2017-10-14",
+      "rank": 1
+    },
+    {
+      "date": "2017-10-21",
+      "rank": 59
+    },
+    {
+      "date": "2017-10-28",
+      "rank": 74
+    },
+    {
+      "date": "2017-11-04",
+      "rank": 151
+    },
+    {
+      "date": "2017-11-11",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Man",
+      "id": "human-the-killers"
+    },
+    {
+      "title": "Out of My Mind",
+      "id": "read-my-mind-the-killers"
+    },
+    {
+      "title": "Wonderful Wonderful",
+      "id": null
+    },
+    {
+      "title": "Rut",
+      "id": null
+    },
+    {
+      "title": "Life to Come",
+      "id": null
+    },
+    {
+      "title": "Run for Cover",
+      "id": null
+    },
+    {
+      "title": "Tyson vs Douglas",
+      "id": null
+    },
+    {
+      "title": "Some Kind of Love",
+      "id": null
+    },
+    {
+      "title": "The Calling",
+      "id": null
+    },
+    {
+      "title": "Have All the Songs Been Written?",
+      "id": null
+    }
+  ]
+}

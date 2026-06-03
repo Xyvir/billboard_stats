@@ -1,1 +1,74 @@
-{"id": "tomboy-panda-bear", "title": "Tomboy", "artist": "Panda Bear", "peak": 29, "history": [{"date": "2011-04-30", "rank": 29}, {"date": "2011-05-07", "rank": 135}, {"date": "2011-05-14", "rank": 146}]}
+{
+  "id": "tomboy-panda-bear",
+  "title": "Tomboy",
+  "artist": "Panda Bear",
+  "peak": 29,
+  "history": [
+    {
+      "date": "2011-04-30",
+      "rank": 29
+    },
+    {
+      "date": "2011-05-07",
+      "rank": 135
+    },
+    {
+      "date": "2011-05-14",
+      "rank": 146
+    }
+  ],
+  "tracks": [
+    {
+      "title": "You Can Count on Me",
+      "id": null
+    },
+    {
+      "title": "Tomboy",
+      "id": null
+    },
+    {
+      "title": "Slow Motion",
+      "id": null
+    },
+    {
+      "title": "Surfer’s Hymn",
+      "id": null
+    },
+    {
+      "title": "Last Night at the Jetty",
+      "id": null
+    },
+    {
+      "title": "Drone",
+      "id": null
+    },
+    {
+      "title": "The Preakness",
+      "id": null
+    },
+    {
+      "title": "Alsatian Darn",
+      "id": null
+    },
+    {
+      "title": "Scheherazade",
+      "id": null
+    },
+    {
+      "title": "Friendship Bracelet",
+      "id": null
+    },
+    {
+      "title": "Afterburner",
+      "id": null
+    },
+    {
+      "title": "Benfica",
+      "id": null
+    },
+    {
+      "title": "Bullseye",
+      "id": null
+    }
+  ]
+}

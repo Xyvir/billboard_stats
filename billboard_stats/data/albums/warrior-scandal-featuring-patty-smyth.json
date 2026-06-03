@@ -1,1 +1,214 @@
-{"id": "warrior-scandal-featuring-patty-smyth", "title": "Warrior", "artist": "Scandal Featuring Patty Smyth", "peak": 17, "history": [{"date": "1984-08-04", "rank": 74}, {"date": "1984-08-11", "rank": 41}, {"date": "1984-08-18", "rank": 35}, {"date": "1984-08-25", "rank": 25}, {"date": "1984-09-01", "rank": 25}, {"date": "1984-09-08", "rank": 22}, {"date": "1984-09-15", "rank": 22}, {"date": "1984-09-22", "rank": 19}, {"date": "1984-09-29", "rank": 19}, {"date": "1984-10-06", "rank": 17}, {"date": "1984-10-13", "rank": 17}, {"date": "1984-10-20", "rank": 17}, {"date": "1984-10-27", "rank": 23}, {"date": "1984-11-03", "rank": 26}, {"date": "1984-11-10", "rank": 31}, {"date": "1984-11-17", "rank": 37}, {"date": "1984-11-24", "rank": 43}, {"date": "1984-12-01", "rank": 47}, {"date": "1984-12-08", "rank": 54}, {"date": "1984-12-15", "rank": 72}, {"date": "1984-12-22", "rank": 82}, {"date": "1984-12-29", "rank": 82}, {"date": "1985-01-05", "rank": 86}, {"date": "1985-01-12", "rank": 86}, {"date": "1985-01-19", "rank": 103}, {"date": "1985-01-26", "rank": 105}, {"date": "1985-02-02", "rank": 107}, {"date": "1985-02-09", "rank": 95}, {"date": "1985-02-16", "rank": 90}, {"date": "1985-02-23", "rank": 87}, {"date": "1985-03-02", "rank": 94}, {"date": "1985-03-09", "rank": 87}, {"date": "1985-03-16", "rank": 87}, {"date": "1985-03-23", "rank": 84}, {"date": "1985-03-30", "rank": 106}, {"date": "1985-04-06", "rank": 119}, {"date": "1985-04-13", "rank": 125}, {"date": "1985-04-20", "rank": 141}, {"date": "1985-04-27", "rank": 156}, {"date": "1985-05-04", "rank": 164}, {"date": "1985-05-11", "rank": 180}]}
+{
+  "id": "warrior-scandal-featuring-patty-smyth",
+  "title": "Warrior",
+  "artist": "Scandal Featuring Patty Smyth",
+  "peak": 17,
+  "history": [
+    {
+      "date": "1984-08-04",
+      "rank": 74
+    },
+    {
+      "date": "1984-08-11",
+      "rank": 41
+    },
+    {
+      "date": "1984-08-18",
+      "rank": 35
+    },
+    {
+      "date": "1984-08-25",
+      "rank": 25
+    },
+    {
+      "date": "1984-09-01",
+      "rank": 25
+    },
+    {
+      "date": "1984-09-08",
+      "rank": 22
+    },
+    {
+      "date": "1984-09-15",
+      "rank": 22
+    },
+    {
+      "date": "1984-09-22",
+      "rank": 19
+    },
+    {
+      "date": "1984-09-29",
+      "rank": 19
+    },
+    {
+      "date": "1984-10-06",
+      "rank": 17
+    },
+    {
+      "date": "1984-10-13",
+      "rank": 17
+    },
+    {
+      "date": "1984-10-20",
+      "rank": 17
+    },
+    {
+      "date": "1984-10-27",
+      "rank": 23
+    },
+    {
+      "date": "1984-11-03",
+      "rank": 26
+    },
+    {
+      "date": "1984-11-10",
+      "rank": 31
+    },
+    {
+      "date": "1984-11-17",
+      "rank": 37
+    },
+    {
+      "date": "1984-11-24",
+      "rank": 43
+    },
+    {
+      "date": "1984-12-01",
+      "rank": 47
+    },
+    {
+      "date": "1984-12-08",
+      "rank": 54
+    },
+    {
+      "date": "1984-12-15",
+      "rank": 72
+    },
+    {
+      "date": "1984-12-22",
+      "rank": 82
+    },
+    {
+      "date": "1984-12-29",
+      "rank": 82
+    },
+    {
+      "date": "1985-01-05",
+      "rank": 86
+    },
+    {
+      "date": "1985-01-12",
+      "rank": 86
+    },
+    {
+      "date": "1985-01-19",
+      "rank": 103
+    },
+    {
+      "date": "1985-01-26",
+      "rank": 105
+    },
+    {
+      "date": "1985-02-02",
+      "rank": 107
+    },
+    {
+      "date": "1985-02-09",
+      "rank": 95
+    },
+    {
+      "date": "1985-02-16",
+      "rank": 90
+    },
+    {
+      "date": "1985-02-23",
+      "rank": 87
+    },
+    {
+      "date": "1985-03-02",
+      "rank": 94
+    },
+    {
+      "date": "1985-03-09",
+      "rank": 87
+    },
+    {
+      "date": "1985-03-16",
+      "rank": 87
+    },
+    {
+      "date": "1985-03-23",
+      "rank": 84
+    },
+    {
+      "date": "1985-03-30",
+      "rank": 106
+    },
+    {
+      "date": "1985-04-06",
+      "rank": 119
+    },
+    {
+      "date": "1985-04-13",
+      "rank": 125
+    },
+    {
+      "date": "1985-04-20",
+      "rank": 141
+    },
+    {
+      "date": "1985-04-27",
+      "rank": 156
+    },
+    {
+      "date": "1985-05-04",
+      "rank": 164
+    },
+    {
+      "date": "1985-05-11",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "The Warrior",
+      "id": "the-warrior-scandal-featuring-patty-smyth"
+    },
+    {
+      "title": "Beat of a Heart",
+      "id": "beat-of-a-heart-scandal-featuring-patty-smyth"
+    },
+    {
+      "title": "Hands Tied",
+      "id": "hands-tied-scandal-featuring-patty-smyth"
+    },
+    {
+      "title": "Less Than Half",
+      "id": null
+    },
+    {
+      "title": "Only the Young",
+      "id": null
+    },
+    {
+      "title": "All I Want",
+      "id": null
+    },
+    {
+      "title": "Talk to Me",
+      "id": null
+    },
+    {
+      "title": "Say What You Will",
+      "id": null
+    },
+    {
+      "title": "Tonight",
+      "id": null
+    },
+    {
+      "title": "Maybe We Went Too Far",
+      "id": null
+    }
+  ]
+}

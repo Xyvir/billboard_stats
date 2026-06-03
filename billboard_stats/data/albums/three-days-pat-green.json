@@ -1,1 +1,74 @@
-{"id": "three-days-pat-green", "title": "Three Days", "artist": "Pat Green", "peak": 86, "history": [{"date": "2001-11-03", "rank": 86}, {"date": "2001-11-10", "rank": 164}, {"date": "2001-11-17", "rank": 184}]}
+{
+  "id": "three-days-pat-green",
+  "title": "Three Days",
+  "artist": "Pat Green",
+  "peak": 86,
+  "history": [
+    {
+      "date": "2001-11-03",
+      "rank": 86
+    },
+    {
+      "date": "2001-11-10",
+      "rank": 164
+    },
+    {
+      "date": "2001-11-17",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Carry On",
+      "id": null
+    },
+    {
+      "title": "Threadbare Gypsy Soul",
+      "id": null
+    },
+    {
+      "title": "Three Days",
+      "id": null
+    },
+    {
+      "title": "Who's to Say",
+      "id": null
+    },
+    {
+      "title": "Galleywinter",
+      "id": null
+    },
+    {
+      "title": "Wrong Side of Town",
+      "id": null
+    },
+    {
+      "title": "We've All Got Our Reasons",
+      "id": null
+    },
+    {
+      "title": "Whiskey",
+      "id": null
+    },
+    {
+      "title": "Crazy",
+      "id": null
+    },
+    {
+      "title": "Take Me Out to a Dancehall",
+      "id": null
+    },
+    {
+      "title": "Count Your Blessings",
+      "id": null
+    },
+    {
+      "title": "Southbound 35",
+      "id": null
+    },
+    {
+      "title": "Texas on My Mind",
+      "id": null
+    }
+  ]
+}

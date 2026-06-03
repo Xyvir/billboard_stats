@@ -1,1 +1,62 @@
-{"id": "tonight-you-re-mine-eric-carmen", "title": "Tonight You're Mine", "artist": "Eric Carmen", "peak": 160, "history": [{"date": "1980-06-28", "rank": 181}, {"date": "1980-07-05", "rank": 172}, {"date": "1980-07-12", "rank": 162}, {"date": "1980-07-19", "rank": 160}, {"date": "1980-07-26", "rank": 171}]}
+{
+  "id": "tonight-you-re-mine-eric-carmen",
+  "title": "Tonight You're Mine",
+  "artist": "Eric Carmen",
+  "peak": 160,
+  "history": [
+    {
+      "date": "1980-06-28",
+      "rank": 181
+    },
+    {
+      "date": "1980-07-05",
+      "rank": 172
+    },
+    {
+      "date": "1980-07-12",
+      "rank": 162
+    },
+    {
+      "date": "1980-07-19",
+      "rank": 160
+    },
+    {
+      "date": "1980-07-26",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "It Hurts Too Much",
+      "id": "it-hurts-too-much-eric-carmen"
+    },
+    {
+      "title": "Foolin’ Myself",
+      "id": "all-by-myself-eric-carmen"
+    },
+    {
+      "title": "You Need Some Lovin’",
+      "id": "baby-i-need-your-lovin-eric-carmen"
+    },
+    {
+      "title": "Lost in the Shuffle",
+      "id": null
+    },
+    {
+      "title": "All for Love",
+      "id": null
+    },
+    {
+      "title": "Tonight You’re Mine",
+      "id": null
+    },
+    {
+      "title": "Sleep With Me",
+      "id": null
+    },
+    {
+      "title": "Inside Story",
+      "id": null
+    }
+  ]
+}

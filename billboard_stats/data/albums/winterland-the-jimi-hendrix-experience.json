@@ -1,1 +1,130 @@
-{"id": "winterland-the-jimi-hendrix-experience", "title": "Winterland", "artist": "The Jimi Hendrix Experience", "peak": 49, "history": [{"date": "2011-10-01", "rank": 49}, {"date": "2011-10-08", "rank": 118}]}
+{
+  "id": "winterland-the-jimi-hendrix-experience",
+  "title": "Winterland",
+  "artist": "The Jimi Hendrix Experience",
+  "peak": 49,
+  "history": [
+    {
+      "date": "2011-10-01",
+      "rank": 49
+    },
+    {
+      "date": "2011-10-08",
+      "rank": 118
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Purple Haze (2nd show)",
+      "id": "purple-haze-the-jimi-hendrix-experience"
+    },
+    {
+      "title": "Purple Haze (1st show)",
+      "id": "purple-haze-the-jimi-hendrix-experience"
+    },
+    {
+      "title": "Tax Free (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Lover Man (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Sunshine of Your Love (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Hear My Train a Comin’ (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Killing Floor (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Foxey Lady (1st show)",
+      "id": null
+    },
+    {
+      "title": "Hey Joe (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Star Spangled Banner (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Like a Rolling Stone (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Fire (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Foxey Lady (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Are You Experienced? (1st show)",
+      "id": null
+    },
+    {
+      "title": "Red House (1st show)",
+      "id": null
+    },
+    {
+      "title": "Fire (1st show)",
+      "id": null
+    },
+    {
+      "title": "Like a Rolling Stone (1st show)",
+      "id": null
+    },
+    {
+      "title": "Manic Depression (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Little Wing (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Spanish Castle Magic (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Wild Thing (2nd show)",
+      "id": null
+    },
+    {
+      "title": "Foxey Lady (1968‐10‐12 2nd show)",
+      "id": null
+    },
+    {
+      "title": "Are You Experienced (1968‐10‐10 1st show)",
+      "id": null
+    },
+    {
+      "title": "Voodoo Child (slight return) (1968‐10‐10 1st show)",
+      "id": null
+    },
+    {
+      "title": "Red House (1968‐10‐10 1st show)",
+      "id": null
+    },
+    {
+      "title": "Star Spangled Banner (1968‐10‐11 1st show)",
+      "id": null
+    },
+    {
+      "title": "Purple Haze (1968‐10‐11 1st show)",
+      "id": null
+    },
+    {
+      "title": "Boston Garden Backstage Interview (1968‐11‐16)",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,102 @@
-{"id": "time-of-my-life-3-doors-down", "title": "Time Of My Life", "artist": "3 Doors Down", "peak": 3, "history": [{"date": "2011-08-06", "rank": 3}, {"date": "2011-08-13", "rank": 13}, {"date": "2011-08-20", "rank": 27}, {"date": "2011-08-27", "rank": 38}, {"date": "2011-09-03", "rank": 45}, {"date": "2011-09-10", "rank": 55}, {"date": "2011-09-17", "rank": 78}, {"date": "2011-09-24", "rank": 94}, {"date": "2011-10-01", "rank": 119}, {"date": "2011-10-08", "rank": 85}, {"date": "2011-10-15", "rank": 188}]}
+{
+  "id": "time-of-my-life-3-doors-down",
+  "title": "Time Of My Life",
+  "artist": "3 Doors Down",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2011-08-06",
+      "rank": 3
+    },
+    {
+      "date": "2011-08-13",
+      "rank": 13
+    },
+    {
+      "date": "2011-08-20",
+      "rank": 27
+    },
+    {
+      "date": "2011-08-27",
+      "rank": 38
+    },
+    {
+      "date": "2011-09-03",
+      "rank": 45
+    },
+    {
+      "date": "2011-09-10",
+      "rank": 55
+    },
+    {
+      "date": "2011-09-17",
+      "rank": 78
+    },
+    {
+      "date": "2011-09-24",
+      "rank": 94
+    },
+    {
+      "date": "2011-10-01",
+      "rank": 119
+    },
+    {
+      "date": "2011-10-08",
+      "rank": 85
+    },
+    {
+      "date": "2011-10-15",
+      "rank": 188
+    }
+  ],
+  "tracks": [
+    {
+      "title": "When You’re Young",
+      "id": "when-you-re-young-3-doors-down"
+    },
+    {
+      "title": "Race for the Sun",
+      "id": "away-from-the-sun-3-doors-down"
+    },
+    {
+      "title": "Time of My Life",
+      "id": null
+    },
+    {
+      "title": "Round and Round",
+      "id": null
+    },
+    {
+      "title": "Heaven",
+      "id": null
+    },
+    {
+      "title": "Back to Me",
+      "id": null
+    },
+    {
+      "title": "Every Time You Go",
+      "id": null
+    },
+    {
+      "title": "What’s Left",
+      "id": null
+    },
+    {
+      "title": "On the Run",
+      "id": null
+    },
+    {
+      "title": "She Is Love",
+      "id": null
+    },
+    {
+      "title": "My Way",
+      "id": null
+    },
+    {
+      "title": "Believer",
+      "id": null
+    }
+  ]
+}

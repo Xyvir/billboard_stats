@@ -1,1 +1,66 @@
-{"id": "three-sixty-a-perfect-circle", "title": "Three Sixty", "artist": "A Perfect Circle", "peak": 38, "history": [{"date": "2013-12-07", "rank": 38}]}
+{
+  "id": "three-sixty-a-perfect-circle",
+  "title": "Three Sixty",
+  "artist": "A Perfect Circle",
+  "peak": 38,
+  "history": [
+    {
+      "date": "2013-12-07",
+      "rank": 38
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Weak and Powerless",
+      "id": "weak-and-powerless-a-perfect-circle"
+    },
+    {
+      "title": "The Noose",
+      "id": "the-outsider-a-perfect-circle"
+    },
+    {
+      "title": "The Outsider",
+      "id": "the-outsider-a-perfect-circle"
+    },
+    {
+      "title": "The Hollow",
+      "id": null
+    },
+    {
+      "title": "Judith",
+      "id": null
+    },
+    {
+      "title": "Orestes",
+      "id": null
+    },
+    {
+      "title": "3 Libras",
+      "id": null
+    },
+    {
+      "title": "Blue",
+      "id": null
+    },
+    {
+      "title": "When the Levee Breaks",
+      "id": null
+    },
+    {
+      "title": "Imagine",
+      "id": null
+    },
+    {
+      "title": "Counting Bodies Like Sheep to the Rhythm of the War Drums",
+      "id": null
+    },
+    {
+      "title": "Passive",
+      "id": null
+    },
+    {
+      "title": "By and Down",
+      "id": null
+    }
+  ]
+}

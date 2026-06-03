@@ -1,1 +1,338 @@
-{"id": "tommy-various-artists", "title": "Tommy", "artist": "Various Artists", "peak": 5, "history": [{"date": "1972-12-09", "rank": 136}, {"date": "1972-12-16", "rank": 73}, {"date": "1972-12-23", "rank": 32}, {"date": "1972-12-30", "rank": 21}, {"date": "1973-01-06", "rank": 13}, {"date": "1973-01-13", "rank": 10}, {"date": "1973-01-20", "rank": 7}, {"date": "1973-01-27", "rank": 5}, {"date": "1973-02-03", "rank": 5}, {"date": "1973-02-10", "rank": 5}, {"date": "1973-02-17", "rank": 6}, {"date": "1973-02-24", "rank": 11}, {"date": "1973-03-03", "rank": 21}, {"date": "1973-03-10", "rank": 27}, {"date": "1973-03-17", "rank": 34}, {"date": "1973-03-24", "rank": 49}, {"date": "1973-03-31", "rank": 57}, {"date": "1973-04-07", "rank": 69}, {"date": "1973-04-14", "rank": 78}, {"date": "1973-04-21", "rank": 80}, {"date": "1973-04-28", "rank": 108}, {"date": "1973-05-05", "rank": 146}, {"date": "1973-05-12", "rank": 153}, {"date": "1973-05-19", "rank": 170}, {"date": "1975-04-05", "rank": 189}, {"date": "1975-04-12", "rank": 178}, {"date": "1975-04-19", "rank": 167}, {"date": "1975-04-26", "rank": 157}, {"date": "1975-05-03", "rank": 146}, {"date": "1975-05-10", "rank": 134}, {"date": "1975-05-17", "rank": 124}, {"date": "1975-05-24", "rank": 113}, {"date": "1975-05-31", "rank": 102}, {"date": "1975-06-07", "rank": 91}, {"date": "1975-06-14", "rank": 91}, {"date": "1975-06-21", "rank": 101}, {"date": "1975-06-28", "rank": 139}, {"date": "1975-07-05", "rank": 171}]}
+{
+  "id": "tommy-various-artists",
+  "title": "Tommy",
+  "artist": "Various Artists",
+  "peak": 5,
+  "history": [
+    {
+      "date": "1972-12-09",
+      "rank": 136
+    },
+    {
+      "date": "1972-12-16",
+      "rank": 73
+    },
+    {
+      "date": "1972-12-23",
+      "rank": 32
+    },
+    {
+      "date": "1972-12-30",
+      "rank": 21
+    },
+    {
+      "date": "1973-01-06",
+      "rank": 13
+    },
+    {
+      "date": "1973-01-13",
+      "rank": 10
+    },
+    {
+      "date": "1973-01-20",
+      "rank": 7
+    },
+    {
+      "date": "1973-01-27",
+      "rank": 5
+    },
+    {
+      "date": "1973-02-03",
+      "rank": 5
+    },
+    {
+      "date": "1973-02-10",
+      "rank": 5
+    },
+    {
+      "date": "1973-02-17",
+      "rank": 6
+    },
+    {
+      "date": "1973-02-24",
+      "rank": 11
+    },
+    {
+      "date": "1973-03-03",
+      "rank": 21
+    },
+    {
+      "date": "1973-03-10",
+      "rank": 27
+    },
+    {
+      "date": "1973-03-17",
+      "rank": 34
+    },
+    {
+      "date": "1973-03-24",
+      "rank": 49
+    },
+    {
+      "date": "1973-03-31",
+      "rank": 57
+    },
+    {
+      "date": "1973-04-07",
+      "rank": 69
+    },
+    {
+      "date": "1973-04-14",
+      "rank": 78
+    },
+    {
+      "date": "1973-04-21",
+      "rank": 80
+    },
+    {
+      "date": "1973-04-28",
+      "rank": 108
+    },
+    {
+      "date": "1973-05-05",
+      "rank": 146
+    },
+    {
+      "date": "1973-05-12",
+      "rank": 153
+    },
+    {
+      "date": "1973-05-19",
+      "rank": 170
+    },
+    {
+      "date": "1975-04-05",
+      "rank": 189
+    },
+    {
+      "date": "1975-04-12",
+      "rank": 178
+    },
+    {
+      "date": "1975-04-19",
+      "rank": 167
+    },
+    {
+      "date": "1975-04-26",
+      "rank": 157
+    },
+    {
+      "date": "1975-05-03",
+      "rank": 146
+    },
+    {
+      "date": "1975-05-10",
+      "rank": 134
+    },
+    {
+      "date": "1975-05-17",
+      "rank": 124
+    },
+    {
+      "date": "1975-05-24",
+      "rank": 113
+    },
+    {
+      "date": "1975-05-31",
+      "rank": 102
+    },
+    {
+      "date": "1975-06-07",
+      "rank": 91
+    },
+    {
+      "date": "1975-06-14",
+      "rank": 91
+    },
+    {
+      "date": "1975-06-21",
+      "rank": 101
+    },
+    {
+      "date": "1975-06-28",
+      "rank": 139
+    },
+    {
+      "date": "1975-07-05",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Your King And Country",
+      "id": null
+    },
+    {
+      "title": "Boys In Khaki, Boys In Blue",
+      "id": null
+    },
+    {
+      "title": "Poem: The Soldier",
+      "id": null
+    },
+    {
+      "title": "Recollection: Enlistment",
+      "id": null
+    },
+    {
+      "title": "Good Bye Ee",
+      "id": null
+    },
+    {
+      "title": "It's A Long Way To Tipperary",
+      "id": null
+    },
+    {
+      "title": "Recollection: Preparation And Equipment",
+      "id": null
+    },
+    {
+      "title": "Boys Of The Old Brigade",
+      "id": null
+    },
+    {
+      "title": "Medley",
+      "id": null
+    },
+    {
+      "title": "Recollection: Trench And Layout Routine",
+      "id": null
+    },
+    {
+      "title": "Poem: Into Battle",
+      "id": null
+    },
+    {
+      "title": "Here We Are, Here We Are",
+      "id": null
+    },
+    {
+      "title": "Recollection: Rats And Lice",
+      "id": null
+    },
+    {
+      "title": "Poem: Louse Hunting",
+      "id": null
+    },
+    {
+      "title": "Poem: Break Of Day In The Trenches",
+      "id": null
+    },
+    {
+      "title": "Just Before The Battle",
+      "id": null
+    },
+    {
+      "title": "Poem: Spring Offensive",
+      "id": null
+    },
+    {
+      "title": "Recollection: Over The Top",
+      "id": null
+    },
+    {
+      "title": "Poem: Counter Attack",
+      "id": null
+    },
+    {
+      "title": "Poem: The Sentry",
+      "id": null
+    },
+    {
+      "title": "Recollection: Effects Of The Weather",
+      "id": null
+    },
+    {
+      "title": "Oh, It's A Lovely War",
+      "id": null
+    },
+    {
+      "title": "Medley:: Colonel Bogey March / Keep The Home Fires Burning / Pack Up Your Troubles / It's A Long Way To Tipperary",
+      "id": null
+    },
+    {
+      "title": "Roses Of Picardy",
+      "id": null
+    },
+    {
+      "title": "Poem: Anthem For Doomed Youth",
+      "id": null
+    },
+    {
+      "title": "Poem: The Chances",
+      "id": null
+    },
+    {
+      "title": "What Has Become Of Hinky Dinky Parlay Voo",
+      "id": null
+    },
+    {
+      "title": "Pack Up Your Troubles",
+      "id": null
+    },
+    {
+      "title": "Recollection: Gas",
+      "id": null
+    },
+    {
+      "title": "Poem: Gethsemane",
+      "id": null
+    },
+    {
+      "title": "The Deathless Army",
+      "id": null
+    },
+    {
+      "title": "Tramp, Tramp, Tramp",
+      "id": null
+    },
+    {
+      "title": "Recollections: Rations",
+      "id": null
+    },
+    {
+      "title": "Poem: Exposure",
+      "id": null
+    },
+    {
+      "title": "Keep The Home Fires Burning",
+      "id": null
+    },
+    {
+      "title": "We All Went Marching Home",
+      "id": null
+    },
+    {
+      "title": "Poem: Returning, We Hear The Larks",
+      "id": null
+    },
+    {
+      "title": "Recollection: The Wounded",
+      "id": null
+    },
+    {
+      "title": "Poem: Dead Man's Dump",
+      "id": null
+    },
+    {
+      "title": "Take Me Back Home To Dear Old Blighty",
+      "id": null
+    },
+    {
+      "title": "Recollection: Soldier's Attitude To War",
+      "id": null
+    },
+    {
+      "title": "There's A Ship That's Bound For Blighty",
+      "id": null
+    },
+    {
+      "title": "Poem: In Flanders Field",
+      "id": null
+    },
+    {
+      "title": "Poem: To The Fallen",
+      "id": null
+    }
+  ]
+}

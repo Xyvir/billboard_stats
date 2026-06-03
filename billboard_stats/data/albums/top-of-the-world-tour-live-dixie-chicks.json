@@ -1,1 +1,218 @@
-{"id": "top-of-the-world-tour-live-dixie-chicks", "title": "Top Of The World Tour Live", "artist": "Dixie Chicks", "peak": 27, "history": [{"date": "2003-12-06", "rank": 136}, {"date": "2003-12-13", "rank": 27}, {"date": "2003-12-20", "rank": 34}, {"date": "2003-12-27", "rank": 44}, {"date": "2004-01-03", "rank": 41}, {"date": "2004-01-10", "rank": 39}, {"date": "2004-01-17", "rank": 72}, {"date": "2004-01-24", "rank": 74}, {"date": "2004-01-31", "rank": 77}, {"date": "2004-02-07", "rank": 80}, {"date": "2004-02-14", "rank": 88}, {"date": "2004-02-21", "rank": 95}, {"date": "2004-02-28", "rank": 117}, {"date": "2004-03-06", "rank": 115}, {"date": "2004-03-13", "rank": 124}, {"date": "2004-03-20", "rank": 125}, {"date": "2004-03-27", "rank": 132}, {"date": "2004-04-03", "rank": 122}, {"date": "2004-04-10", "rank": 112}, {"date": "2004-04-17", "rank": 122}, {"date": "2004-04-24", "rank": 126}, {"date": "2004-05-01", "rank": 140}, {"date": "2004-05-08", "rank": 158}, {"date": "2004-05-15", "rank": 165}, {"date": "2004-05-22", "rank": 157}, {"date": "2004-05-29", "rank": 168}, {"date": "2004-07-17", "rank": 186}, {"date": "2004-07-24", "rank": 169}, {"date": "2004-07-31", "rank": 190}, {"date": "2004-08-07", "rank": 184}]}
+{
+  "id": "top-of-the-world-tour-live-dixie-chicks",
+  "title": "Top Of The World Tour Live",
+  "artist": "Dixie Chicks",
+  "peak": 27,
+  "history": [
+    {
+      "date": "2003-12-06",
+      "rank": 136
+    },
+    {
+      "date": "2003-12-13",
+      "rank": 27
+    },
+    {
+      "date": "2003-12-20",
+      "rank": 34
+    },
+    {
+      "date": "2003-12-27",
+      "rank": 44
+    },
+    {
+      "date": "2004-01-03",
+      "rank": 41
+    },
+    {
+      "date": "2004-01-10",
+      "rank": 39
+    },
+    {
+      "date": "2004-01-17",
+      "rank": 72
+    },
+    {
+      "date": "2004-01-24",
+      "rank": 74
+    },
+    {
+      "date": "2004-01-31",
+      "rank": 77
+    },
+    {
+      "date": "2004-02-07",
+      "rank": 80
+    },
+    {
+      "date": "2004-02-14",
+      "rank": 88
+    },
+    {
+      "date": "2004-02-21",
+      "rank": 95
+    },
+    {
+      "date": "2004-02-28",
+      "rank": 117
+    },
+    {
+      "date": "2004-03-06",
+      "rank": 115
+    },
+    {
+      "date": "2004-03-13",
+      "rank": 124
+    },
+    {
+      "date": "2004-03-20",
+      "rank": 125
+    },
+    {
+      "date": "2004-03-27",
+      "rank": 132
+    },
+    {
+      "date": "2004-04-03",
+      "rank": 122
+    },
+    {
+      "date": "2004-04-10",
+      "rank": 112
+    },
+    {
+      "date": "2004-04-17",
+      "rank": 122
+    },
+    {
+      "date": "2004-04-24",
+      "rank": 126
+    },
+    {
+      "date": "2004-05-01",
+      "rank": 140
+    },
+    {
+      "date": "2004-05-08",
+      "rank": 158
+    },
+    {
+      "date": "2004-05-15",
+      "rank": 165
+    },
+    {
+      "date": "2004-05-22",
+      "rank": 157
+    },
+    {
+      "date": "2004-05-29",
+      "rank": 168
+    },
+    {
+      "date": "2004-07-17",
+      "rank": 186
+    },
+    {
+      "date": "2004-07-24",
+      "rank": 169
+    },
+    {
+      "date": "2004-07-31",
+      "rank": 190
+    },
+    {
+      "date": "2004-08-07",
+      "rank": 184
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Goodbye Earl",
+      "id": "goodbye-earl-dixie-chicks"
+    },
+    {
+      "title": "Some Days You Gotta Dance",
+      "id": "some-days-you-gotta-dance-dixie-chicks"
+    },
+    {
+      "title": "There’s Your Trouble",
+      "id": "there-s-your-trouble-dixie-chicks"
+    },
+    {
+      "title": "Long Time Gone",
+      "id": "long-time-gone-dixie-chicks"
+    },
+    {
+      "title": "Travelin’ Soldier",
+      "id": "travelin-soldier-dixie-chicks"
+    },
+    {
+      "title": "Cold Day in July",
+      "id": "cold-day-in-july-dixie-chicks"
+    },
+    {
+      "title": "If I Fall You’re Going Down With Me",
+      "id": "if-i-fall-you-re-going-down-with-me-dixie-chicks"
+    },
+    {
+      "title": "Cowboy Take Me Away",
+      "id": "cowboy-take-me-away-dixie-chicks"
+    },
+    {
+      "title": "Landslide",
+      "id": "landslide-dixie-chicks"
+    },
+    {
+      "title": "Ready to Run",
+      "id": "ready-to-run-dixie-chicks"
+    },
+    {
+      "title": "Wide Open Spaces",
+      "id": "wide-open-spaces-dixie-chicks"
+    },
+    {
+      "title": "Tortured, Tangled Hearts",
+      "id": null
+    },
+    {
+      "title": "Am I the Only One (Who’s Ever Felt This Way)",
+      "id": null
+    },
+    {
+      "title": "Hello Mr. Heartache",
+      "id": null
+    },
+    {
+      "title": "White Trash Wedding",
+      "id": null
+    },
+    {
+      "title": "Lil’ Jack Slade",
+      "id": null
+    },
+    {
+      "title": "A Home",
+      "id": null
+    },
+    {
+      "title": "Truth No. 2",
+      "id": null
+    },
+    {
+      "title": "Mississippi",
+      "id": null
+    },
+    {
+      "title": "Godspeed (Sweet Dreams)",
+      "id": null
+    },
+    {
+      "title": "Top of the World",
+      "id": null
+    },
+    {
+      "title": "Sin Wagon",
+      "id": null
+    }
+  ]
+}

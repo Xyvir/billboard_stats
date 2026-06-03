@@ -1,1 +1,94 @@
-{"id": "treasures-dolly-parton", "title": "Treasures", "artist": "Dolly Parton", "peak": 122, "history": [{"date": "1996-10-12", "rank": 194}, {"date": "1996-10-19", "rank": 141}, {"date": "1996-10-26", "rank": 145}, {"date": "1996-11-02", "rank": 164}, {"date": "1996-11-09", "rank": 199}, {"date": "1996-12-07", "rank": 183}, {"date": "1996-12-14", "rank": 156}, {"date": "1996-12-21", "rank": 122}, {"date": "1996-12-28", "rank": 163}, {"date": "1997-01-04", "rank": 189}]}
+{
+  "id": "treasures-dolly-parton",
+  "title": "Treasures",
+  "artist": "Dolly Parton",
+  "peak": 122,
+  "history": [
+    {
+      "date": "1996-10-12",
+      "rank": 194
+    },
+    {
+      "date": "1996-10-19",
+      "rank": 141
+    },
+    {
+      "date": "1996-10-26",
+      "rank": 145
+    },
+    {
+      "date": "1996-11-02",
+      "rank": 164
+    },
+    {
+      "date": "1996-11-09",
+      "rank": 199
+    },
+    {
+      "date": "1996-12-07",
+      "rank": 183
+    },
+    {
+      "date": "1996-12-14",
+      "rank": 156
+    },
+    {
+      "date": "1996-12-21",
+      "rank": 122
+    },
+    {
+      "date": "1996-12-28",
+      "rank": 163
+    },
+    {
+      "date": "1997-01-04",
+      "rank": 189
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Today I Started Loving You Again",
+      "id": "starting-over-again-dolly-parton"
+    },
+    {
+      "title": "Peace Train (original album version)",
+      "id": null
+    },
+    {
+      "title": "Just When I Needed You Most",
+      "id": null
+    },
+    {
+      "title": "Something’s Burning",
+      "id": null
+    },
+    {
+      "title": "Before the Next Teardrop Falls",
+      "id": null
+    },
+    {
+      "title": "After the Goldrush",
+      "id": null
+    },
+    {
+      "title": "Walking on Sunshine",
+      "id": null
+    },
+    {
+      "title": "Behind Closed Doors",
+      "id": null
+    },
+    {
+      "title": "Don’t Let Me Cross Over",
+      "id": null
+    },
+    {
+      "title": "Satin Sheets",
+      "id": null
+    },
+    {
+      "title": "For the Good Times",
+      "id": null
+    }
+  ]
+}

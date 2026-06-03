@@ -1,1 +1,90 @@
-{"id": "twisted-del-amitri", "title": "Twisted", "artist": "Del Amitri", "peak": 170, "history": [{"date": "1995-08-26", "rank": 198}, {"date": "1995-09-02", "rank": 179}, {"date": "1995-09-09", "rank": 170}, {"date": "1995-09-16", "rank": 191}, {"date": "1995-09-23", "rank": 184}, {"date": "1995-09-30", "rank": 182}, {"date": "1995-10-07", "rank": 183}, {"date": "1995-10-14", "rank": 181}]}
+{
+  "id": "twisted-del-amitri",
+  "title": "Twisted",
+  "artist": "Del Amitri",
+  "peak": 170,
+  "history": [
+    {
+      "date": "1995-08-26",
+      "rank": 198
+    },
+    {
+      "date": "1995-09-02",
+      "rank": 179
+    },
+    {
+      "date": "1995-09-09",
+      "rank": 170
+    },
+    {
+      "date": "1995-09-16",
+      "rank": 191
+    },
+    {
+      "date": "1995-09-23",
+      "rank": 184
+    },
+    {
+      "date": "1995-09-30",
+      "rank": 182
+    },
+    {
+      "date": "1995-10-07",
+      "rank": 183
+    },
+    {
+      "date": "1995-10-14",
+      "rank": 181
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Roll to Me",
+      "id": "roll-to-me-del-amitri"
+    },
+    {
+      "title": "Food for Songs",
+      "id": null
+    },
+    {
+      "title": "Start With Me",
+      "id": null
+    },
+    {
+      "title": "Here and Now",
+      "id": null
+    },
+    {
+      "title": "One Thing Left to Do",
+      "id": null
+    },
+    {
+      "title": "Tell Her This",
+      "id": null
+    },
+    {
+      "title": "Being Somebody Else",
+      "id": null
+    },
+    {
+      "title": "Crashing Down",
+      "id": null
+    },
+    {
+      "title": "It Might as Well Be You",
+      "id": null
+    },
+    {
+      "title": "Never Enough",
+      "id": null
+    },
+    {
+      "title": "It’s Never Too Late to Be Alone",
+      "id": null
+    },
+    {
+      "title": "Driving With the Brakes On",
+      "id": null
+    }
+  ]
+}

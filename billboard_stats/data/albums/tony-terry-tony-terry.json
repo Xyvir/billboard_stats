@@ -1,1 +1,78 @@
-{"id": "tony-terry-tony-terry", "title": "Tony Terry", "artist": "Tony Terry", "peak": 184, "history": [{"date": "1991-06-22", "rank": 191}, {"date": "1991-07-13", "rank": 192}, {"date": "1991-07-20", "rank": 193}, {"date": "1991-08-31", "rank": 184}, {"date": "1991-11-23", "rank": 197}, {"date": "1991-11-30", "rank": 200}]}
+{
+  "id": "tony-terry-tony-terry",
+  "title": "Tony Terry",
+  "artist": "Tony Terry",
+  "peak": 184,
+  "history": [
+    {
+      "date": "1991-06-22",
+      "rank": 191
+    },
+    {
+      "date": "1991-07-13",
+      "rank": 192
+    },
+    {
+      "date": "1991-07-20",
+      "rank": 193
+    },
+    {
+      "date": "1991-08-31",
+      "rank": 184
+    },
+    {
+      "date": "1991-11-23",
+      "rank": 197
+    },
+    {
+      "date": "1991-11-30",
+      "rank": 200
+    }
+  ],
+  "tracks": [
+    {
+      "title": "With You",
+      "id": "with-you-tony-terry"
+    },
+    {
+      "title": "Everlasting Love",
+      "id": "everlasting-love-tony-terry"
+    },
+    {
+      "title": "Head Over Heels",
+      "id": null
+    },
+    {
+      "title": "Bad Girl",
+      "id": null
+    },
+    {
+      "title": "Baby Love",
+      "id": null
+    },
+    {
+      "title": "Friends and Lovers",
+      "id": null
+    },
+    {
+      "title": "Come Home With Me",
+      "id": null
+    },
+    {
+      "title": "That Kind of Guy",
+      "id": null
+    },
+    {
+      "title": "Tongue Tied",
+      "id": null
+    },
+    {
+      "title": "Let Me Love You",
+      "id": null
+    },
+    {
+      "title": "Read My Mind",
+      "id": null
+    }
+  ]
+}

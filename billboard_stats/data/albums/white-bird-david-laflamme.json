@@ -1,1 +1,62 @@
-{"id": "white-bird-david-laflamme", "title": "White Bird", "artist": "David LaFlamme", "peak": 159, "history": [{"date": "1976-12-25", "rank": 181}, {"date": "1977-01-01", "rank": 181}, {"date": "1977-01-08", "rank": 170}, {"date": "1977-01-15", "rank": 162}, {"date": "1977-01-22", "rank": 159}, {"date": "1977-02-12", "rank": 196}]}
+{
+  "id": "white-bird-david-laflamme",
+  "title": "White Bird",
+  "artist": "David LaFlamme",
+  "peak": 159,
+  "history": [
+    {
+      "date": "1976-12-25",
+      "rank": 181
+    },
+    {
+      "date": "1977-01-01",
+      "rank": 181
+    },
+    {
+      "date": "1977-01-08",
+      "rank": 170
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 162
+    },
+    {
+      "date": "1977-01-22",
+      "rank": 159
+    },
+    {
+      "date": "1977-02-12",
+      "rank": 196
+    }
+  ],
+  "tracks": [
+    {
+      "title": "White Bird",
+      "id": "white-bird-david-laflamme"
+    },
+    {
+      "title": "Hot Summer Day",
+      "id": null
+    },
+    {
+      "title": "Swept Away",
+      "id": null
+    },
+    {
+      "title": "Easy Woman",
+      "id": null
+    },
+    {
+      "title": "This Man",
+      "id": null
+    },
+    {
+      "title": "Baby Be Wise",
+      "id": null
+    },
+    {
+      "title": "Spirit of America",
+      "id": null
+    }
+  ]
+}

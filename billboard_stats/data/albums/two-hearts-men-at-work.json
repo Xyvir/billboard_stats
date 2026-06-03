@@ -1,1 +1,102 @@
-{"id": "two-hearts-men-at-work", "title": "Two Hearts", "artist": "Men at Work", "peak": 50, "history": [{"date": "1985-06-22", "rank": 80}, {"date": "1985-06-29", "rank": 56}, {"date": "1985-07-06", "rank": 51}, {"date": "1985-07-13", "rank": 50}, {"date": "1985-07-20", "rank": 50}, {"date": "1985-07-27", "rank": 71}, {"date": "1985-08-03", "rank": 69}, {"date": "1985-08-10", "rank": 78}, {"date": "1985-08-17", "rank": 90}, {"date": "1985-08-24", "rank": 114}, {"date": "1985-08-31", "rank": 135}, {"date": "1985-09-07", "rank": 175}, {"date": "1985-09-14", "rank": 186}]}
+{
+  "id": "two-hearts-men-at-work",
+  "title": "Two Hearts",
+  "artist": "Men at Work",
+  "peak": 50,
+  "history": [
+    {
+      "date": "1985-06-22",
+      "rank": 80
+    },
+    {
+      "date": "1985-06-29",
+      "rank": 56
+    },
+    {
+      "date": "1985-07-06",
+      "rank": 51
+    },
+    {
+      "date": "1985-07-13",
+      "rank": 50
+    },
+    {
+      "date": "1985-07-20",
+      "rank": 50
+    },
+    {
+      "date": "1985-07-27",
+      "rank": 71
+    },
+    {
+      "date": "1985-08-03",
+      "rank": 69
+    },
+    {
+      "date": "1985-08-10",
+      "rank": 78
+    },
+    {
+      "date": "1985-08-17",
+      "rank": 90
+    },
+    {
+      "date": "1985-08-24",
+      "rank": 114
+    },
+    {
+      "date": "1985-08-31",
+      "rank": 135
+    },
+    {
+      "date": "1985-09-07",
+      "rank": 175
+    },
+    {
+      "date": "1985-09-14",
+      "rank": 186
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Everything I Need",
+      "id": "everything-i-need-men-at-work"
+    },
+    {
+      "title": "Man With Two Hearts",
+      "id": null
+    },
+    {
+      "title": "Giving Up",
+      "id": null
+    },
+    {
+      "title": "Sail to You",
+      "id": null
+    },
+    {
+      "title": "Children on Parade",
+      "id": null
+    },
+    {
+      "title": "Maria",
+      "id": null
+    },
+    {
+      "title": "Stay at Home",
+      "id": null
+    },
+    {
+      "title": "Hard Luck Story",
+      "id": null
+    },
+    {
+      "title": "Snakes and Ladders",
+      "id": null
+    },
+    {
+      "title": "Still Life",
+      "id": null
+    }
+  ]
+}

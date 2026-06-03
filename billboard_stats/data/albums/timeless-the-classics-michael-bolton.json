@@ -1,1 +1,238 @@
-{"id": "timeless-the-classics-michael-bolton", "title": "Timeless  (The Classics)", "artist": "Michael Bolton", "peak": 1, "history": [{"date": "1992-10-17", "rank": 5}, {"date": "1992-10-24", "rank": 5}, {"date": "1992-10-31", "rank": 6}, {"date": "1992-11-07", "rank": 6}, {"date": "1992-11-14", "rank": 2}, {"date": "1992-11-21", "rank": 1}, {"date": "1992-11-28", "rank": 2}, {"date": "1992-12-05", "rank": 4}, {"date": "1992-12-12", "rank": 4}, {"date": "1992-12-19", "rank": 2}, {"date": "1992-12-26", "rank": 3}, {"date": "1993-01-02", "rank": 3}, {"date": "1993-01-09", "rank": 4}, {"date": "1993-01-16", "rank": 3}, {"date": "1993-01-23", "rank": 5}, {"date": "1993-01-30", "rank": 6}, {"date": "1993-02-06", "rank": 7}, {"date": "1993-02-13", "rank": 6}, {"date": "1993-02-20", "rank": 10}, {"date": "1993-02-27", "rank": 8}, {"date": "1993-03-06", "rank": 14}, {"date": "1993-03-13", "rank": 22}, {"date": "1993-03-20", "rank": 25}, {"date": "1993-03-27", "rank": 28}, {"date": "1993-04-03", "rank": 37}, {"date": "1993-04-10", "rank": 44}, {"date": "1993-04-17", "rank": 50}, {"date": "1993-04-24", "rank": 61}, {"date": "1993-05-01", "rank": 65}, {"date": "1993-05-08", "rank": 75}, {"date": "1993-05-15", "rank": 72}, {"date": "1993-05-22", "rank": 66}, {"date": "1993-05-29", "rank": 69}, {"date": "1993-06-05", "rank": 92}, {"date": "1993-06-12", "rank": 98}, {"date": "1993-06-19", "rank": 122}, {"date": "1993-06-26", "rank": 132}, {"date": "1993-07-03", "rank": 116}, {"date": "1993-07-10", "rank": 125}, {"date": "1993-07-17", "rank": 145}, {"date": "1993-07-24", "rank": 161}, {"date": "1993-07-31", "rank": 174}, {"date": "1993-08-07", "rank": 171}, {"date": "1993-08-14", "rank": 182}, {"date": "1993-08-21", "rank": 196}, {"date": "1993-09-04", "rank": 187}, {"date": "1993-10-02", "rank": 197}]}
+{
+  "id": "timeless-the-classics-michael-bolton",
+  "title": "Timeless  (The Classics)",
+  "artist": "Michael Bolton",
+  "peak": 1,
+  "history": [
+    {
+      "date": "1992-10-17",
+      "rank": 5
+    },
+    {
+      "date": "1992-10-24",
+      "rank": 5
+    },
+    {
+      "date": "1992-10-31",
+      "rank": 6
+    },
+    {
+      "date": "1992-11-07",
+      "rank": 6
+    },
+    {
+      "date": "1992-11-14",
+      "rank": 2
+    },
+    {
+      "date": "1992-11-21",
+      "rank": 1
+    },
+    {
+      "date": "1992-11-28",
+      "rank": 2
+    },
+    {
+      "date": "1992-12-05",
+      "rank": 4
+    },
+    {
+      "date": "1992-12-12",
+      "rank": 4
+    },
+    {
+      "date": "1992-12-19",
+      "rank": 2
+    },
+    {
+      "date": "1992-12-26",
+      "rank": 3
+    },
+    {
+      "date": "1993-01-02",
+      "rank": 3
+    },
+    {
+      "date": "1993-01-09",
+      "rank": 4
+    },
+    {
+      "date": "1993-01-16",
+      "rank": 3
+    },
+    {
+      "date": "1993-01-23",
+      "rank": 5
+    },
+    {
+      "date": "1993-01-30",
+      "rank": 6
+    },
+    {
+      "date": "1993-02-06",
+      "rank": 7
+    },
+    {
+      "date": "1993-02-13",
+      "rank": 6
+    },
+    {
+      "date": "1993-02-20",
+      "rank": 10
+    },
+    {
+      "date": "1993-02-27",
+      "rank": 8
+    },
+    {
+      "date": "1993-03-06",
+      "rank": 14
+    },
+    {
+      "date": "1993-03-13",
+      "rank": 22
+    },
+    {
+      "date": "1993-03-20",
+      "rank": 25
+    },
+    {
+      "date": "1993-03-27",
+      "rank": 28
+    },
+    {
+      "date": "1993-04-03",
+      "rank": 37
+    },
+    {
+      "date": "1993-04-10",
+      "rank": 44
+    },
+    {
+      "date": "1993-04-17",
+      "rank": 50
+    },
+    {
+      "date": "1993-04-24",
+      "rank": 61
+    },
+    {
+      "date": "1993-05-01",
+      "rank": 65
+    },
+    {
+      "date": "1993-05-08",
+      "rank": 75
+    },
+    {
+      "date": "1993-05-15",
+      "rank": 72
+    },
+    {
+      "date": "1993-05-22",
+      "rank": 66
+    },
+    {
+      "date": "1993-05-29",
+      "rank": 69
+    },
+    {
+      "date": "1993-06-05",
+      "rank": 92
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 98
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 122
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 132
+    },
+    {
+      "date": "1993-07-03",
+      "rank": 116
+    },
+    {
+      "date": "1993-07-10",
+      "rank": 125
+    },
+    {
+      "date": "1993-07-17",
+      "rank": 145
+    },
+    {
+      "date": "1993-07-24",
+      "rank": 161
+    },
+    {
+      "date": "1993-07-31",
+      "rank": 174
+    },
+    {
+      "date": "1993-08-07",
+      "rank": 171
+    },
+    {
+      "date": "1993-08-14",
+      "rank": 182
+    },
+    {
+      "date": "1993-08-21",
+      "rank": 196
+    },
+    {
+      "date": "1993-09-04",
+      "rank": 187
+    },
+    {
+      "date": "1993-10-02",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "To Love Somebody",
+      "id": "to-love-somebody-michael-bolton"
+    },
+    {
+      "title": "Since I Fell for You",
+      "id": null
+    },
+    {
+      "title": "Reach Out I’ll Be There",
+      "id": null
+    },
+    {
+      "title": "You Send Me",
+      "id": null
+    },
+    {
+      "title": "Yesterday",
+      "id": null
+    },
+    {
+      "title": "Hold On, I’m Coming",
+      "id": null
+    },
+    {
+      "title": "Bring It on Home to Me",
+      "id": null
+    },
+    {
+      "title": "Knock on Wood",
+      "id": null
+    },
+    {
+      "title": "Drift Away",
+      "id": null
+    },
+    {
+      "title": "White Christmas",
+      "id": null
+    }
+  ]
+}

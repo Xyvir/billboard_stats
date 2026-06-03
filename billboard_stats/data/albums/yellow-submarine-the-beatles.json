@@ -1,1 +1,66 @@
-{"id": "yellow-submarine-the-beatles", "title": "Yellow Submarine", "artist": "The Beatles", "peak": 180, "history": [{"date": "1987-09-26", "rank": 180}]}
+{
+  "id": "yellow-submarine-the-beatles",
+  "title": "Yellow Submarine",
+  "artist": "The Beatles",
+  "peak": 180,
+  "history": [
+    {
+      "date": "1987-09-26",
+      "rank": 180
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Yellow Submarine",
+      "id": "yellow-submarine-the-beatles"
+    },
+    {
+      "title": "Hey Bulldog",
+      "id": "hey-jude-the-beatles"
+    },
+    {
+      "title": "All You Need Is Love",
+      "id": "all-you-need-is-love-the-beatles"
+    },
+    {
+      "title": "Yellow Submarine in Pepperland",
+      "id": "yellow-submarine-the-beatles"
+    },
+    {
+      "title": "Only a Northern Song",
+      "id": null
+    },
+    {
+      "title": "All Together Now",
+      "id": null
+    },
+    {
+      "title": "It’s All Too Much",
+      "id": null
+    },
+    {
+      "title": "Pepperland",
+      "id": null
+    },
+    {
+      "title": "Sea of Time",
+      "id": null
+    },
+    {
+      "title": "Sea of Holes",
+      "id": null
+    },
+    {
+      "title": "Sea of Monsters",
+      "id": null
+    },
+    {
+      "title": "March of the Meanies",
+      "id": null
+    },
+    {
+      "title": "Pepperland Laid Waste",
+      "id": null
+    }
+  ]
+}

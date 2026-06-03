@@ -1,1 +1,46 @@
-{"id": "the-strikers-strikers", "title": "The Strikers", "artist": "Strikers", "peak": 174, "history": [{"date": "1981-08-29", "rank": 187}, {"date": "1981-09-05", "rank": 178}, {"date": "1981-09-12", "rank": 174}]}
+{
+  "id": "the-strikers-strikers",
+  "title": "The Strikers",
+  "artist": "Strikers",
+  "peak": 174,
+  "history": [
+    {
+      "date": "1981-08-29",
+      "rank": 187
+    },
+    {
+      "date": "1981-09-05",
+      "rank": 178
+    },
+    {
+      "date": "1981-09-12",
+      "rank": 174
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Inch by Inch",
+      "id": null
+    },
+    {
+      "title": "Strike It Up",
+      "id": null
+    },
+    {
+      "title": "Body Music",
+      "id": null
+    },
+    {
+      "title": "Hold Onto the Feeling",
+      "id": null
+    },
+    {
+      "title": "Give It What You Got",
+      "id": null
+    },
+    {
+      "title": "Bring Out the Devil",
+      "id": null
+    }
+  ]
+}

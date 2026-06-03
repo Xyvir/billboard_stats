@@ -1,1 +1,38 @@
-{"id": "volume-viii-average-white-band", "title": "Volume Viii", "artist": "Average White Band", "peak": 182, "history": [{"date": "1980-09-20", "rank": 183}, {"date": "1980-09-27", "rank": 182}]}
+{
+  "id": "volume-viii-average-white-band",
+  "title": "Volume Viii",
+  "artist": "Average White Band",
+  "peak": 182,
+  "history": [
+    {
+      "date": "1980-09-20",
+      "rank": 183
+    },
+    {
+      "date": "1980-09-27",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Kiss Me",
+      "id": null
+    },
+    {
+      "title": "Love Gives, Love Takes Away",
+      "id": null
+    },
+    {
+      "title": "Growing Pains",
+      "id": null
+    },
+    {
+      "title": "Love Won’t Get in the Way",
+      "id": null
+    },
+    {
+      "title": "Miss Sun",
+      "id": null
+    }
+  ]
+}

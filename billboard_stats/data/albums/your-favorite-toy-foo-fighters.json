@@ -1,1 +1,54 @@
-{"id": "your-favorite-toy-foo-fighters", "title": "Your Favorite Toy", "artist": "Foo Fighters", "peak": 23, "history": [{"date": "2026-05-09", "rank": 23}]}
+{
+  "id": "your-favorite-toy-foo-fighters",
+  "title": "Your Favorite Toy",
+  "artist": "Foo Fighters",
+  "peak": 23,
+  "history": [
+    {
+      "date": "2026-05-09",
+      "rank": 23
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Caught in the Echo",
+      "id": null
+    },
+    {
+      "title": "Of All People",
+      "id": null
+    },
+    {
+      "title": "Window",
+      "id": null
+    },
+    {
+      "title": "Your Favorite Toy",
+      "id": null
+    },
+    {
+      "title": "If You Only Knew",
+      "id": null
+    },
+    {
+      "title": "Spit Shine",
+      "id": null
+    },
+    {
+      "title": "Unconditional",
+      "id": null
+    },
+    {
+      "title": "Child Actor",
+      "id": null
+    },
+    {
+      "title": "Amen, Caveman",
+      "id": null
+    },
+    {
+      "title": "Asking for a Friend",
+      "id": null
+    }
+  ]
+}

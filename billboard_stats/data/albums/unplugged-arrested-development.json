@@ -1,1 +1,130 @@
-{"id": "unplugged-arrested-development", "title": "Unplugged", "artist": "Arrested Development", "peak": 60, "history": [{"date": "1993-04-10", "rank": 69}, {"date": "1993-04-17", "rank": 61}, {"date": "1993-04-24", "rank": 60}, {"date": "1993-05-01", "rank": 62}, {"date": "1993-05-08", "rank": 73}, {"date": "1993-05-15", "rank": 90}, {"date": "1993-05-22", "rank": 125}, {"date": "1993-05-29", "rank": 140}, {"date": "1993-06-05", "rank": 157}, {"date": "1993-06-12", "rank": 163}, {"date": "1993-06-19", "rank": 154}, {"date": "1993-06-26", "rank": 178}]}
+{
+  "id": "unplugged-arrested-development",
+  "title": "Unplugged",
+  "artist": "Arrested Development",
+  "peak": 60,
+  "history": [
+    {
+      "date": "1993-04-10",
+      "rank": 69
+    },
+    {
+      "date": "1993-04-17",
+      "rank": 61
+    },
+    {
+      "date": "1993-04-24",
+      "rank": 60
+    },
+    {
+      "date": "1993-05-01",
+      "rank": 62
+    },
+    {
+      "date": "1993-05-08",
+      "rank": 73
+    },
+    {
+      "date": "1993-05-15",
+      "rank": 90
+    },
+    {
+      "date": "1993-05-22",
+      "rank": 125
+    },
+    {
+      "date": "1993-05-29",
+      "rank": 140
+    },
+    {
+      "date": "1993-06-05",
+      "rank": 157
+    },
+    {
+      "date": "1993-06-12",
+      "rank": 163
+    },
+    {
+      "date": "1993-06-19",
+      "rank": 154
+    },
+    {
+      "date": "1993-06-26",
+      "rank": 178
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Mr. Wendal",
+      "id": "mr-wendal-arrested-development"
+    },
+    {
+      "title": "People Everyday",
+      "id": "people-everyday-arrested-development"
+    },
+    {
+      "title": "Time",
+      "id": null
+    },
+    {
+      "title": "Give a Man a Fish",
+      "id": null
+    },
+    {
+      "title": "The Gettin’",
+      "id": null
+    },
+    {
+      "title": "Natural",
+      "id": null
+    },
+    {
+      "title": "Searchin’ for One Soul",
+      "id": null
+    },
+    {
+      "title": "Raining Revolution",
+      "id": null
+    },
+    {
+      "title": "Fishin’ 4 Religion",
+      "id": null
+    },
+    {
+      "title": "Mama’s Always on Stage",
+      "id": null
+    },
+    {
+      "title": "U",
+      "id": null
+    },
+    {
+      "title": "Give a Man a Fish (instrumental)",
+      "id": null
+    },
+    {
+      "title": "The Gettin’ (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Natural (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Searchin’ for One Soul (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Raining Revolution (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Mama’s Always on Stage (instrumental)",
+      "id": null
+    },
+    {
+      "title": "Mr. Wendal (instrumental)",
+      "id": null
+    }
+  ]
+}

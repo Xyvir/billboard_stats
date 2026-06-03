@@ -1,1 +1,278 @@
-{"id": "the-weight-of-these-wings-miranda-lambert", "title": "The Weight Of These Wings", "artist": "Miranda Lambert", "peak": 3, "history": [{"date": "2016-12-10", "rank": 3}, {"date": "2016-12-17", "rank": 9}, {"date": "2016-12-24", "rank": 20}, {"date": "2016-12-31", "rank": 24}, {"date": "2017-01-07", "rank": 25}, {"date": "2017-01-14", "rank": 40}, {"date": "2017-01-21", "rank": 55}, {"date": "2017-01-28", "rank": 69}, {"date": "2017-02-04", "rank": 81}, {"date": "2017-02-11", "rank": 94}, {"date": "2017-02-18", "rank": 92}, {"date": "2017-02-25", "rank": 95}, {"date": "2017-03-04", "rank": 86}, {"date": "2017-03-11", "rank": 105}, {"date": "2017-03-18", "rank": 111}, {"date": "2017-03-25", "rank": 129}, {"date": "2017-04-01", "rank": 139}, {"date": "2017-04-08", "rank": 154}, {"date": "2017-04-15", "rank": 192}, {"date": "2017-04-22", "rank": 12}, {"date": "2017-04-29", "rank": 31}, {"date": "2017-05-06", "rank": 53}, {"date": "2017-05-13", "rank": 69}, {"date": "2017-05-20", "rank": 89}, {"date": "2017-05-27", "rank": 83}, {"date": "2017-06-03", "rank": 84}, {"date": "2017-06-10", "rank": 112}, {"date": "2017-06-17", "rank": 110}, {"date": "2017-06-24", "rank": 100}, {"date": "2017-07-01", "rank": 113}, {"date": "2017-07-08", "rank": 144}, {"date": "2017-07-15", "rank": 135}, {"date": "2017-07-22", "rank": 134}, {"date": "2017-07-29", "rank": 132}, {"date": "2017-08-05", "rank": 160}, {"date": "2017-08-12", "rank": 169}, {"date": "2017-08-19", "rank": 134}, {"date": "2017-08-26", "rank": 132}, {"date": "2017-09-02", "rank": 133}, {"date": "2017-09-09", "rank": 176}, {"date": "2017-11-25", "rank": 90}, {"date": "2017-12-02", "rank": 120}, {"date": "2018-04-28", "rank": 140}]}
+{
+  "id": "the-weight-of-these-wings-miranda-lambert",
+  "title": "The Weight Of These Wings",
+  "artist": "Miranda Lambert",
+  "peak": 3,
+  "history": [
+    {
+      "date": "2016-12-10",
+      "rank": 3
+    },
+    {
+      "date": "2016-12-17",
+      "rank": 9
+    },
+    {
+      "date": "2016-12-24",
+      "rank": 20
+    },
+    {
+      "date": "2016-12-31",
+      "rank": 24
+    },
+    {
+      "date": "2017-01-07",
+      "rank": 25
+    },
+    {
+      "date": "2017-01-14",
+      "rank": 40
+    },
+    {
+      "date": "2017-01-21",
+      "rank": 55
+    },
+    {
+      "date": "2017-01-28",
+      "rank": 69
+    },
+    {
+      "date": "2017-02-04",
+      "rank": 81
+    },
+    {
+      "date": "2017-02-11",
+      "rank": 94
+    },
+    {
+      "date": "2017-02-18",
+      "rank": 92
+    },
+    {
+      "date": "2017-02-25",
+      "rank": 95
+    },
+    {
+      "date": "2017-03-04",
+      "rank": 86
+    },
+    {
+      "date": "2017-03-11",
+      "rank": 105
+    },
+    {
+      "date": "2017-03-18",
+      "rank": 111
+    },
+    {
+      "date": "2017-03-25",
+      "rank": 129
+    },
+    {
+      "date": "2017-04-01",
+      "rank": 139
+    },
+    {
+      "date": "2017-04-08",
+      "rank": 154
+    },
+    {
+      "date": "2017-04-15",
+      "rank": 192
+    },
+    {
+      "date": "2017-04-22",
+      "rank": 12
+    },
+    {
+      "date": "2017-04-29",
+      "rank": 31
+    },
+    {
+      "date": "2017-05-06",
+      "rank": 53
+    },
+    {
+      "date": "2017-05-13",
+      "rank": 69
+    },
+    {
+      "date": "2017-05-20",
+      "rank": 89
+    },
+    {
+      "date": "2017-05-27",
+      "rank": 83
+    },
+    {
+      "date": "2017-06-03",
+      "rank": 84
+    },
+    {
+      "date": "2017-06-10",
+      "rank": 112
+    },
+    {
+      "date": "2017-06-17",
+      "rank": 110
+    },
+    {
+      "date": "2017-06-24",
+      "rank": 100
+    },
+    {
+      "date": "2017-07-01",
+      "rank": 113
+    },
+    {
+      "date": "2017-07-08",
+      "rank": 144
+    },
+    {
+      "date": "2017-07-15",
+      "rank": 135
+    },
+    {
+      "date": "2017-07-22",
+      "rank": 134
+    },
+    {
+      "date": "2017-07-29",
+      "rank": 132
+    },
+    {
+      "date": "2017-08-05",
+      "rank": 160
+    },
+    {
+      "date": "2017-08-12",
+      "rank": 169
+    },
+    {
+      "date": "2017-08-19",
+      "rank": 134
+    },
+    {
+      "date": "2017-08-26",
+      "rank": 132
+    },
+    {
+      "date": "2017-09-02",
+      "rank": 133
+    },
+    {
+      "date": "2017-09-09",
+      "rank": 176
+    },
+    {
+      "date": "2017-11-25",
+      "rank": 90
+    },
+    {
+      "date": "2017-12-02",
+      "rank": 120
+    },
+    {
+      "date": "2018-04-28",
+      "rank": 140
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Vice",
+      "id": "vice-miranda-lambert"
+    },
+    {
+      "title": "Covered Wagon",
+      "id": "little-red-wagon-miranda-lambert"
+    },
+    {
+      "title": "Tin Man",
+      "id": "tin-man-miranda-lambert"
+    },
+    {
+      "title": "To Learn Her",
+      "id": "more-like-her-miranda-lambert"
+    },
+    {
+      "title": "Runnin’ Just in Case",
+      "id": null
+    },
+    {
+      "title": "Highway Vagabond",
+      "id": null
+    },
+    {
+      "title": "Ugly Lights",
+      "id": null
+    },
+    {
+      "title": "You Wouldn’t Know Me",
+      "id": null
+    },
+    {
+      "title": "We Should Be Friends",
+      "id": null
+    },
+    {
+      "title": "Pink Sunglasses",
+      "id": null
+    },
+    {
+      "title": "Getaway Driver",
+      "id": null
+    },
+    {
+      "title": "Smoking Jacket",
+      "id": null
+    },
+    {
+      "title": "Pushin’ Time",
+      "id": null
+    },
+    {
+      "title": "Use My Heart",
+      "id": null
+    },
+    {
+      "title": "Good Ol’ Days",
+      "id": null
+    },
+    {
+      "title": "Things That Break",
+      "id": null
+    },
+    {
+      "title": "For the Birds",
+      "id": null
+    },
+    {
+      "title": "Well‐Rested",
+      "id": null
+    },
+    {
+      "title": "Tomboy",
+      "id": null
+    },
+    {
+      "title": "Keeper of the Flame",
+      "id": null
+    },
+    {
+      "title": "Bad Boy",
+      "id": null
+    },
+    {
+      "title": "Six Degrees of Separation",
+      "id": null
+    },
+    {
+      "title": "Dear Old Sun",
+      "id": null
+    },
+    {
+      "title": "I’ve Got Wheels",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"id": "this-is-icona-pop", "title": "This Is...", "artist": "Icona Pop", "peak": 36, "history": [{"date": "2013-10-12", "rank": 36}, {"date": "2013-10-19", "rank": 136}]}
+{
+  "id": "this-is-icona-pop",
+  "title": "This Is...",
+  "artist": "Icona Pop",
+  "peak": 36,
+  "history": [
+    {
+      "date": "2013-10-12",
+      "rank": 36
+    },
+    {
+      "date": "2013-10-19",
+      "rank": 136
+    }
+  ],
+  "tracks": [
+    {
+      "title": "I Love It",
+      "id": null
+    },
+    {
+      "title": "All Night",
+      "id": null
+    },
+    {
+      "title": "We Got the World",
+      "id": null
+    },
+    {
+      "title": "Ready for the Weekend",
+      "id": null
+    },
+    {
+      "title": "Girlfriend",
+      "id": null
+    },
+    {
+      "title": "In the Stars",
+      "id": null
+    },
+    {
+      "title": "On a Roll",
+      "id": null
+    },
+    {
+      "title": "Just Another Night",
+      "id": null
+    },
+    {
+      "title": "Hold On",
+      "id": null
+    },
+    {
+      "title": "Light Me Up",
+      "id": null
+    },
+    {
+      "title": "Then We Kiss",
+      "id": null
+    }
+  ]
+}

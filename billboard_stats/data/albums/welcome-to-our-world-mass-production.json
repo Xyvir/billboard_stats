@@ -1,1 +1,82 @@
-{"id": "welcome-to-our-world-mass-production", "title": "Welcome To Our World", "artist": "Mass Production", "peak": 142, "history": [{"date": "1977-01-08", "rank": 188}, {"date": "1977-01-15", "rank": 183}, {"date": "1977-01-22", "rank": 176}, {"date": "1977-01-29", "rank": 165}, {"date": "1977-02-05", "rank": 152}, {"date": "1977-02-12", "rank": 148}, {"date": "1977-02-19", "rank": 144}, {"date": "1977-02-26", "rank": 142}, {"date": "1977-03-05", "rank": 160}, {"date": "1977-03-12", "rank": 160}]}
+{
+  "id": "welcome-to-our-world-mass-production",
+  "title": "Welcome To Our World",
+  "artist": "Mass Production",
+  "peak": 142,
+  "history": [
+    {
+      "date": "1977-01-08",
+      "rank": 188
+    },
+    {
+      "date": "1977-01-15",
+      "rank": 183
+    },
+    {
+      "date": "1977-01-22",
+      "rank": 176
+    },
+    {
+      "date": "1977-01-29",
+      "rank": 165
+    },
+    {
+      "date": "1977-02-05",
+      "rank": 152
+    },
+    {
+      "date": "1977-02-12",
+      "rank": 148
+    },
+    {
+      "date": "1977-02-19",
+      "rank": 144
+    },
+    {
+      "date": "1977-02-26",
+      "rank": 142
+    },
+    {
+      "date": "1977-03-05",
+      "rank": 160
+    },
+    {
+      "date": "1977-03-12",
+      "rank": 160
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Welcome to Our World (Of Merry Music)",
+      "id": "welcome-to-our-world-of-merry-music-mass-production"
+    },
+    {
+      "title": "Wine-Flow Disco",
+      "id": null
+    },
+    {
+      "title": "I Like to Dance",
+      "id": null
+    },
+    {
+      "title": "Our Thought (To the World)",
+      "id": null
+    },
+    {
+      "title": "Magic",
+      "id": null
+    },
+    {
+      "title": "Galaxy",
+      "id": null
+    },
+    {
+      "title": "Just a Song",
+      "id": null
+    },
+    {
+      "title": "Fun in the Sun",
+      "id": null
+    }
+  ]
+}

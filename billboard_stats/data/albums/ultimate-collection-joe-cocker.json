@@ -1,1 +1,110 @@
-{"id": "ultimate-collection-joe-cocker", "title": "Ultimate Collection", "artist": "Joe Cocker", "peak": 122, "history": [{"date": "2004-01-31", "rank": 122}, {"date": "2004-02-07", "rank": 158}, {"date": "2004-02-14", "rank": 198}, {"date": "2004-02-21", "rank": 189}, {"date": "2004-02-28", "rank": 176}]}
+{
+  "id": "ultimate-collection-joe-cocker",
+  "title": "Ultimate Collection",
+  "artist": "Joe Cocker",
+  "peak": 122,
+  "history": [
+    {
+      "date": "2004-01-31",
+      "rank": 122
+    },
+    {
+      "date": "2004-02-07",
+      "rank": 158
+    },
+    {
+      "date": "2004-02-14",
+      "rank": 198
+    },
+    {
+      "date": "2004-02-21",
+      "rank": 189
+    },
+    {
+      "date": "2004-02-28",
+      "rank": 176
+    }
+  ],
+  "tracks": [
+    {
+      "title": "With a Little Help From My Friends",
+      "id": "with-a-little-help-from-my-friends-joe-cocker"
+    },
+    {
+      "title": "Feeling Alright",
+      "id": "feeling-alright-joe-cocker"
+    },
+    {
+      "title": "Delta Lady",
+      "id": "delta-lady-joe-cocker"
+    },
+    {
+      "title": "She Came in Through the Bathroom Window",
+      "id": "she-came-in-through-the-bathroom-window-joe-cocker"
+    },
+    {
+      "title": "The Letter",
+      "id": "shelter-me-joe-cocker"
+    },
+    {
+      "title": "Cry Me a River",
+      "id": "cry-me-a-river-joe-cocker"
+    },
+    {
+      "title": "I'm So Glad I'm Standing Here Today",
+      "id": "i-m-so-glad-i-m-standing-here-today-the-crusaders-with-joe-cocker"
+    },
+    {
+      "title": "Shelter Me",
+      "id": "shelter-me-joe-cocker"
+    },
+    {
+      "title": "When the Night Comes",
+      "id": "when-the-night-comes-joe-cocker"
+    },
+    {
+      "title": "You Are So Beautiful",
+      "id": null
+    },
+    {
+      "title": "Sweet Little Woman",
+      "id": null
+    },
+    {
+      "title": "Many Rivers To Cross",
+      "id": null
+    },
+    {
+      "title": "Up Where We Belong",
+      "id": null
+    },
+    {
+      "title": "You Can Leave Your Hat On",
+      "id": null
+    },
+    {
+      "title": "Unchain My Heart (90’s version)",
+      "id": null
+    },
+    {
+      "title": "Now That the Magic Has Gone",
+      "id": null
+    },
+    {
+      "title": "Summer in the City",
+      "id": null
+    },
+    {
+      "title": "Have a Little Faith in Me",
+      "id": null
+    },
+    {
+      "title": "Sail Away",
+      "id": null
+    },
+    {
+      "title": "First We Take Manhattan",
+      "id": null
+    }
+  ]
+}

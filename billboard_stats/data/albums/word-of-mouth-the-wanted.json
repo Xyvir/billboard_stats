@@ -1,1 +1,74 @@
-{"id": "word-of-mouth-the-wanted", "title": "Word Of Mouth", "artist": "The Wanted", "peak": 17, "history": [{"date": "2013-11-23", "rank": 17}, {"date": "2013-11-30", "rank": 144}]}
+{
+  "id": "word-of-mouth-the-wanted",
+  "title": "Word Of Mouth",
+  "artist": "The Wanted",
+  "peak": 17,
+  "history": [
+    {
+      "date": "2013-11-23",
+      "rank": 17
+    },
+    {
+      "date": "2013-11-30",
+      "rank": 144
+    }
+  ],
+  "tracks": [
+    {
+      "title": "We Own the Night",
+      "id": "we-own-the-night-the-wanted"
+    },
+    {
+      "title": "I Found You",
+      "id": "i-found-you-the-wanted"
+    },
+    {
+      "title": "Chasing the Sun (UK radio version)",
+      "id": "chasing-the-sun-the-wanted"
+    },
+    {
+      "title": "In the Middle",
+      "id": null
+    },
+    {
+      "title": "Running Out of Reasons",
+      "id": null
+    },
+    {
+      "title": "Show Me Love (America)",
+      "id": null
+    },
+    {
+      "title": "Walks Like Rihanna",
+      "id": null
+    },
+    {
+      "title": "Summer Alive",
+      "id": null
+    },
+    {
+      "title": "Love Sewn",
+      "id": null
+    },
+    {
+      "title": "Glow in the Dark",
+      "id": null
+    },
+    {
+      "title": "Demons",
+      "id": null
+    },
+    {
+      "title": "Could This Be Love",
+      "id": null
+    },
+    {
+      "title": "Everybody Knows",
+      "id": null
+    },
+    {
+      "title": "Heartbreak Story",
+      "id": null
+    }
+  ]
+}

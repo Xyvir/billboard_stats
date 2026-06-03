@@ -1,1 +1,66 @@
-{"id": "with-love-bobby-vinton", "title": "With Love", "artist": "Bobby Vinton", "peak": 109, "history": [{"date": "1974-12-07", "rank": 119}, {"date": "1974-12-14", "rank": 109}, {"date": "1974-12-21", "rank": 109}, {"date": "1974-12-28", "rank": 140}, {"date": "1975-01-04", "rank": 150}]}
+{
+  "id": "with-love-bobby-vinton",
+  "title": "With Love",
+  "artist": "Bobby Vinton",
+  "peak": 109,
+  "history": [
+    {
+      "date": "1974-12-07",
+      "rank": 119
+    },
+    {
+      "date": "1974-12-14",
+      "rank": 109
+    },
+    {
+      "date": "1974-12-21",
+      "rank": 109
+    },
+    {
+      "date": "1974-12-28",
+      "rank": 140
+    },
+    {
+      "date": "1975-01-04",
+      "rank": 150
+    }
+  ],
+  "tracks": [
+    {
+      "title": "And I Love You So",
+      "id": "i-love-how-you-love-me-bobby-vinton"
+    },
+    {
+      "title": "I Love You the Way You Are",
+      "id": "i-love-you-the-way-you-are-bobby-vinton"
+    },
+    {
+      "title": "Clinging Vine",
+      "id": "clinging-vine-bobby-vinton"
+    },
+    {
+      "title": "Seasons in the Sun",
+      "id": null
+    },
+    {
+      "title": "When You Love",
+      "id": null
+    },
+    {
+      "title": "Moody",
+      "id": null
+    },
+    {
+      "title": "She's Gotta Be a Saint",
+      "id": null
+    },
+    {
+      "title": "Hurt",
+      "id": null
+    },
+    {
+      "title": "I Can't Believe It's All Over",
+      "id": null
+    }
+  ]
+}

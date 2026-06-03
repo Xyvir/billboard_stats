@@ -1,1 +1,210 @@
-{"id": "yield-pearl-jam", "title": "Yield", "artist": "Pearl Jam", "peak": 2, "history": [{"date": "1998-02-21", "rank": 2}, {"date": "1998-02-28", "rank": 3}, {"date": "1998-03-07", "rank": 5}, {"date": "1998-03-14", "rank": 10}, {"date": "1998-03-21", "rank": 16}, {"date": "1998-03-28", "rank": 19}, {"date": "1998-04-04", "rank": 25}, {"date": "1998-04-11", "rank": 31}, {"date": "1998-04-18", "rank": 34}, {"date": "1998-04-25", "rank": 43}, {"date": "1998-05-02", "rank": 43}, {"date": "1998-05-09", "rank": 51}, {"date": "1998-05-16", "rank": 61}, {"date": "1998-05-23", "rank": 67}, {"date": "1998-05-30", "rank": 77}, {"date": "1998-06-06", "rank": 85}, {"date": "1998-06-13", "rank": 89}, {"date": "1998-06-20", "rank": 97}, {"date": "1998-06-27", "rank": 96}, {"date": "1998-07-04", "rank": 104}, {"date": "1998-07-11", "rank": 97}, {"date": "1998-07-18", "rank": 112}, {"date": "1998-07-25", "rank": 114}, {"date": "1998-08-01", "rank": 129}, {"date": "1998-08-08", "rank": 141}, {"date": "1998-08-15", "rank": 159}, {"date": "1998-08-22", "rank": 166}, {"date": "1998-08-29", "rank": 158}, {"date": "1998-09-05", "rank": 150}, {"date": "1998-09-12", "rank": 140}, {"date": "1998-09-19", "rank": 144}, {"date": "1998-09-26", "rank": 156}, {"date": "1998-10-03", "rank": 158}, {"date": "1998-10-10", "rank": 180}, {"date": "1998-10-17", "rank": 200}, {"date": "1998-10-24", "rank": 199}, {"date": "2023-10-28", "rank": 197}]}
+{
+  "id": "yield-pearl-jam",
+  "title": "Yield",
+  "artist": "Pearl Jam",
+  "peak": 2,
+  "history": [
+    {
+      "date": "1998-02-21",
+      "rank": 2
+    },
+    {
+      "date": "1998-02-28",
+      "rank": 3
+    },
+    {
+      "date": "1998-03-07",
+      "rank": 5
+    },
+    {
+      "date": "1998-03-14",
+      "rank": 10
+    },
+    {
+      "date": "1998-03-21",
+      "rank": 16
+    },
+    {
+      "date": "1998-03-28",
+      "rank": 19
+    },
+    {
+      "date": "1998-04-04",
+      "rank": 25
+    },
+    {
+      "date": "1998-04-11",
+      "rank": 31
+    },
+    {
+      "date": "1998-04-18",
+      "rank": 34
+    },
+    {
+      "date": "1998-04-25",
+      "rank": 43
+    },
+    {
+      "date": "1998-05-02",
+      "rank": 43
+    },
+    {
+      "date": "1998-05-09",
+      "rank": 51
+    },
+    {
+      "date": "1998-05-16",
+      "rank": 61
+    },
+    {
+      "date": "1998-05-23",
+      "rank": 67
+    },
+    {
+      "date": "1998-05-30",
+      "rank": 77
+    },
+    {
+      "date": "1998-06-06",
+      "rank": 85
+    },
+    {
+      "date": "1998-06-13",
+      "rank": 89
+    },
+    {
+      "date": "1998-06-20",
+      "rank": 97
+    },
+    {
+      "date": "1998-06-27",
+      "rank": 96
+    },
+    {
+      "date": "1998-07-04",
+      "rank": 104
+    },
+    {
+      "date": "1998-07-11",
+      "rank": 97
+    },
+    {
+      "date": "1998-07-18",
+      "rank": 112
+    },
+    {
+      "date": "1998-07-25",
+      "rank": 114
+    },
+    {
+      "date": "1998-08-01",
+      "rank": 129
+    },
+    {
+      "date": "1998-08-08",
+      "rank": 141
+    },
+    {
+      "date": "1998-08-15",
+      "rank": 159
+    },
+    {
+      "date": "1998-08-22",
+      "rank": 166
+    },
+    {
+      "date": "1998-08-29",
+      "rank": 158
+    },
+    {
+      "date": "1998-09-05",
+      "rank": 150
+    },
+    {
+      "date": "1998-09-12",
+      "rank": 140
+    },
+    {
+      "date": "1998-09-19",
+      "rank": 144
+    },
+    {
+      "date": "1998-09-26",
+      "rank": 156
+    },
+    {
+      "date": "1998-10-03",
+      "rank": 158
+    },
+    {
+      "date": "1998-10-10",
+      "rank": 180
+    },
+    {
+      "date": "1998-10-17",
+      "rank": 200
+    },
+    {
+      "date": "1998-10-24",
+      "rank": 199
+    },
+    {
+      "date": "2023-10-28",
+      "rank": 197
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Given to Fly",
+      "id": "given-to-fly-pearl-jam"
+    },
+    {
+      "title": "Wishlist",
+      "id": "wishlist-pearl-jam"
+    },
+    {
+      "title": "Brain of J.",
+      "id": null
+    },
+    {
+      "title": "Faithfull",
+      "id": null
+    },
+    {
+      "title": "No Way",
+      "id": null
+    },
+    {
+      "title": "Pilate",
+      "id": null
+    },
+    {
+      "title": "Do the Evolution",
+      "id": null
+    },
+    {
+      "title": "🔴",
+      "id": null
+    },
+    {
+      "title": "MFC",
+      "id": null
+    },
+    {
+      "title": "Low Light",
+      "id": null
+    },
+    {
+      "title": "In Hiding",
+      "id": null
+    },
+    {
+      "title": "Push Me, Pull Me",
+      "id": null
+    },
+    {
+      "title": "All Those Yesterdays / Hummus",
+      "id": null
+    }
+  ]
+}

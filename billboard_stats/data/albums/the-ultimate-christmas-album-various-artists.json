@@ -1,1 +1,86 @@
-{"id": "the-ultimate-christmas-album-various-artists", "title": "The Ultimate Christmas Album", "artist": "Various Artists", "peak": 139, "history": [{"date": "1994-12-17", "rank": 196}, {"date": "1994-12-24", "rank": 144}, {"date": "1994-12-31", "rank": 139}, {"date": "1995-01-07", "rank": 171}]}
+{
+  "id": "the-ultimate-christmas-album-various-artists",
+  "title": "The Ultimate Christmas Album",
+  "artist": "Various Artists",
+  "peak": 139,
+  "history": [
+    {
+      "date": "1994-12-17",
+      "rank": 196
+    },
+    {
+      "date": "1994-12-24",
+      "rank": 144
+    },
+    {
+      "date": "1994-12-31",
+      "rank": 139
+    },
+    {
+      "date": "1995-01-07",
+      "rank": 171
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Rudolph the Red Nose Reindeer",
+      "id": null
+    },
+    {
+      "title": "The Christmas Song",
+      "id": null
+    },
+    {
+      "title": "Santa Claus Is Comin’ to Town",
+      "id": null
+    },
+    {
+      "title": "Frosty the Snowman",
+      "id": null
+    },
+    {
+      "title": "Winter Wonderland",
+      "id": null
+    },
+    {
+      "title": "White Christmas",
+      "id": null
+    },
+    {
+      "title": "It’s the Most Wonderful Time of the Year",
+      "id": null
+    },
+    {
+      "title": "Ding! Dong! Merrily on High",
+      "id": null
+    },
+    {
+      "title": "The Holly and the Ivy",
+      "id": null
+    },
+    {
+      "title": "I Saw Three Ships Come Sailing In",
+      "id": null
+    },
+    {
+      "title": "Good King Wenceslas",
+      "id": null
+    },
+    {
+      "title": "While Shepherds Watched",
+      "id": null
+    },
+    {
+      "title": "Hark! The Herald Angels Sing",
+      "id": null
+    },
+    {
+      "title": "O Little Town of Bethlehem",
+      "id": null
+    },
+    {
+      "title": "We Three Kings of Orient Are",
+      "id": null
+    }
+  ]
+}

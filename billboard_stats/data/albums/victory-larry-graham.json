@@ -1,1 +1,62 @@
-{"id": "victory-larry-graham", "title": "Victory", "artist": "Larry Graham", "peak": 173, "history": [{"date": "1983-07-30", "rank": 178}, {"date": "1983-08-06", "rank": 174}, {"date": "1983-08-13", "rank": 173}, {"date": "1983-08-20", "rank": 182}]}
+{
+  "id": "victory-larry-graham",
+  "title": "Victory",
+  "artist": "Larry Graham",
+  "peak": 173,
+  "history": [
+    {
+      "date": "1983-07-30",
+      "rank": 178
+    },
+    {
+      "date": "1983-08-06",
+      "rank": 174
+    },
+    {
+      "date": "1983-08-13",
+      "rank": 173
+    },
+    {
+      "date": "1983-08-20",
+      "rank": 182
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Just Call My Name",
+      "id": "just-be-my-lady-larry-graham"
+    },
+    {
+      "title": "Don’t Think Too Long",
+      "id": null
+    },
+    {
+      "title": "I Never Forgot Your Eyes",
+      "id": null
+    },
+    {
+      "title": "Movin’ Inside Your Love",
+      "id": null
+    },
+    {
+      "title": "You’ve Been",
+      "id": null
+    },
+    {
+      "title": "I’m Sick and Tired",
+      "id": null
+    },
+    {
+      "title": "Baby",
+      "id": null
+    },
+    {
+      "title": "I’d Rather Be Loving You",
+      "id": null
+    },
+    {
+      "title": "Victory",
+      "id": null
+    }
+  ]
+}

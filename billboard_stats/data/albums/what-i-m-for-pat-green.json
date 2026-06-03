@@ -1,1 +1,70 @@
-{"id": "what-i-m-for-pat-green", "title": "What I'm For", "artist": "Pat Green", "peak": 18, "history": [{"date": "2009-02-14", "rank": 18}, {"date": "2009-02-21", "rank": 68}, {"date": "2009-02-28", "rank": 122}, {"date": "2009-03-07", "rank": 172}, {"date": "2009-03-14", "rank": 173}]}
+{
+  "id": "what-i-m-for-pat-green",
+  "title": "What I'm For",
+  "artist": "Pat Green",
+  "peak": 18,
+  "history": [
+    {
+      "date": "2009-02-14",
+      "rank": 18
+    },
+    {
+      "date": "2009-02-21",
+      "rank": 68
+    },
+    {
+      "date": "2009-02-28",
+      "rank": 122
+    },
+    {
+      "date": "2009-03-07",
+      "rank": 172
+    },
+    {
+      "date": "2009-03-14",
+      "rank": 173
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Let Me",
+      "id": "let-me-pat-green"
+    },
+    {
+      "title": "Footsteps of Our Fathers",
+      "id": null
+    },
+    {
+      "title": "What I'm For",
+      "id": null
+    },
+    {
+      "title": "Feeling Pretty Good Tonight",
+      "id": null
+    },
+    {
+      "title": "Lucky",
+      "id": null
+    },
+    {
+      "title": "In This World",
+      "id": null
+    },
+    {
+      "title": "Country Star",
+      "id": null
+    },
+    {
+      "title": "In It for the Money",
+      "id": null
+    },
+    {
+      "title": "Carry On",
+      "id": null
+    },
+    {
+      "title": "In the Middle of the Night",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"id": "three-degrees-live-the-three-degrees", "title": "Three Degrees Live", "artist": "The Three Degrees", "peak": 199, "history": [{"date": "1976-01-17", "rank": 199}]}
+{
+  "id": "three-degrees-live-the-three-degrees",
+  "title": "Three Degrees Live",
+  "artist": "The Three Degrees",
+  "peak": 199,
+  "history": [
+    {
+      "date": "1976-01-17",
+      "rank": 199
+    }
+  ],
+  "tracks": [
+    {
+      "title": "T.S.O.P. (The Sound of Philadelphia)",
+      "id": "tsop-the-sound-of-philadelphia-mfsb-featuring-the-three-degrees"
+    },
+    {
+      "title": "When Will I See You Again",
+      "id": "when-will-i-see-you-again-the-three-degrees"
+    },
+    {
+      "title": "Free Ride",
+      "id": null
+    },
+    {
+      "title": "Don’t Let the Sun Go Down on Me",
+      "id": null
+    },
+    {
+      "title": "Year of Decision",
+      "id": null
+    },
+    {
+      "title": "Living for the City / For the Love of Money",
+      "id": null
+    },
+    {
+      "title": "Dirty Ol’ Man",
+      "id": null
+    },
+    {
+      "title": "Everybody Gets to Go to the Moon",
+      "id": null
+    },
+    {
+      "title": "Harlem",
+      "id": null
+    },
+    {
+      "title": "Love Train",
+      "id": null
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"id": "two-from-the-vault-grateful-dead", "title": "Two From The Vault", "artist": "Grateful Dead", "peak": 119, "history": [{"date": "1992-05-30", "rank": 119}, {"date": "1992-06-06", "rank": 125}, {"date": "1992-06-13", "rank": 170}]}
+{
+  "id": "two-from-the-vault-grateful-dead",
+  "title": "Two From The Vault",
+  "artist": "Grateful Dead",
+  "peak": 119,
+  "history": [
+    {
+      "date": "1992-05-30",
+      "rank": 119
+    },
+    {
+      "date": "1992-06-06",
+      "rank": 125
+    },
+    {
+      "date": "1992-06-13",
+      "rank": 170
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Good Morning Little Schoolgirl",
+      "id": null
+    },
+    {
+      "title": "Dark Star",
+      "id": null
+    },
+    {
+      "title": "Saint Stephen",
+      "id": null
+    },
+    {
+      "title": "The Eleven",
+      "id": null
+    },
+    {
+      "title": "Death Don’t Have No Mercy",
+      "id": null
+    },
+    {
+      "title": "That’s It for the Other One",
+      "id": null
+    },
+    {
+      "title": "New Potato Caboose",
+      "id": null
+    },
+    {
+      "title": "Turn On Your Lovelight",
+      "id": null
+    },
+    {
+      "title": "(Walk Me Out in the) Morning Dew",
+      "id": null
+    }
+  ]
+}

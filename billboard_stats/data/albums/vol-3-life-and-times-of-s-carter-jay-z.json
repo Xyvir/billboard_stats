@@ -1,1 +1,258 @@
-{"id": "vol-3-life-and-times-of-s-carter-jay-z", "title": "Vol. 3... Life And Times Of S. Carter", "artist": "Jay-Z", "peak": 1, "history": [{"date": "2000-01-15", "rank": 1}, {"date": "2000-01-22", "rank": 2}, {"date": "2000-01-29", "rank": 6}, {"date": "2000-02-05", "rank": 10}, {"date": "2000-02-12", "rank": 12}, {"date": "2000-02-19", "rank": 16}, {"date": "2000-02-26", "rank": 21}, {"date": "2000-03-04", "rank": 23}, {"date": "2000-03-11", "rank": 21}, {"date": "2000-03-18", "rank": 29}, {"date": "2000-03-25", "rank": 32}, {"date": "2000-04-01", "rank": 38}, {"date": "2000-04-08", "rank": 28}, {"date": "2000-04-15", "rank": 23}, {"date": "2000-04-22", "rank": 17}, {"date": "2000-04-29", "rank": 15}, {"date": "2000-05-06", "rank": 18}, {"date": "2000-05-13", "rank": 13}, {"date": "2000-05-20", "rank": 10}, {"date": "2000-05-27", "rank": 16}, {"date": "2000-06-03", "rank": 20}, {"date": "2000-06-10", "rank": 22}, {"date": "2000-06-17", "rank": 22}, {"date": "2000-06-24", "rank": 21}, {"date": "2000-07-01", "rank": 30}, {"date": "2000-07-08", "rank": 31}, {"date": "2000-07-15", "rank": 35}, {"date": "2000-07-22", "rank": 36}, {"date": "2000-07-29", "rank": 38}, {"date": "2000-08-05", "rank": 42}, {"date": "2000-08-12", "rank": 45}, {"date": "2000-08-19", "rank": 49}, {"date": "2000-08-26", "rank": 51}, {"date": "2000-09-02", "rank": 55}, {"date": "2000-09-09", "rank": 57}, {"date": "2000-09-16", "rank": 65}, {"date": "2000-09-23", "rank": 66}, {"date": "2000-09-30", "rank": 74}, {"date": "2000-10-07", "rank": 92}, {"date": "2000-10-14", "rank": 108}, {"date": "2000-10-21", "rank": 125}, {"date": "2000-10-28", "rank": 127}, {"date": "2000-11-04", "rank": 122}, {"date": "2000-11-11", "rank": 130}, {"date": "2000-11-18", "rank": 170}, {"date": "2000-11-25", "rank": 197}, {"date": "2001-01-13", "rank": 198}]}
+{
+  "id": "vol-3-life-and-times-of-s-carter-jay-z",
+  "title": "Vol. 3... Life And Times Of S. Carter",
+  "artist": "Jay-Z",
+  "peak": 1,
+  "history": [
+    {
+      "date": "2000-01-15",
+      "rank": 1
+    },
+    {
+      "date": "2000-01-22",
+      "rank": 2
+    },
+    {
+      "date": "2000-01-29",
+      "rank": 6
+    },
+    {
+      "date": "2000-02-05",
+      "rank": 10
+    },
+    {
+      "date": "2000-02-12",
+      "rank": 12
+    },
+    {
+      "date": "2000-02-19",
+      "rank": 16
+    },
+    {
+      "date": "2000-02-26",
+      "rank": 21
+    },
+    {
+      "date": "2000-03-04",
+      "rank": 23
+    },
+    {
+      "date": "2000-03-11",
+      "rank": 21
+    },
+    {
+      "date": "2000-03-18",
+      "rank": 29
+    },
+    {
+      "date": "2000-03-25",
+      "rank": 32
+    },
+    {
+      "date": "2000-04-01",
+      "rank": 38
+    },
+    {
+      "date": "2000-04-08",
+      "rank": 28
+    },
+    {
+      "date": "2000-04-15",
+      "rank": 23
+    },
+    {
+      "date": "2000-04-22",
+      "rank": 17
+    },
+    {
+      "date": "2000-04-29",
+      "rank": 15
+    },
+    {
+      "date": "2000-05-06",
+      "rank": 18
+    },
+    {
+      "date": "2000-05-13",
+      "rank": 13
+    },
+    {
+      "date": "2000-05-20",
+      "rank": 10
+    },
+    {
+      "date": "2000-05-27",
+      "rank": 16
+    },
+    {
+      "date": "2000-06-03",
+      "rank": 20
+    },
+    {
+      "date": "2000-06-10",
+      "rank": 22
+    },
+    {
+      "date": "2000-06-17",
+      "rank": 22
+    },
+    {
+      "date": "2000-06-24",
+      "rank": 21
+    },
+    {
+      "date": "2000-07-01",
+      "rank": 30
+    },
+    {
+      "date": "2000-07-08",
+      "rank": 31
+    },
+    {
+      "date": "2000-07-15",
+      "rank": 35
+    },
+    {
+      "date": "2000-07-22",
+      "rank": 36
+    },
+    {
+      "date": "2000-07-29",
+      "rank": 38
+    },
+    {
+      "date": "2000-08-05",
+      "rank": 42
+    },
+    {
+      "date": "2000-08-12",
+      "rank": 45
+    },
+    {
+      "date": "2000-08-19",
+      "rank": 49
+    },
+    {
+      "date": "2000-08-26",
+      "rank": 51
+    },
+    {
+      "date": "2000-09-02",
+      "rank": 55
+    },
+    {
+      "date": "2000-09-09",
+      "rank": 57
+    },
+    {
+      "date": "2000-09-16",
+      "rank": 65
+    },
+    {
+      "date": "2000-09-23",
+      "rank": 66
+    },
+    {
+      "date": "2000-09-30",
+      "rank": 74
+    },
+    {
+      "date": "2000-10-07",
+      "rank": 92
+    },
+    {
+      "date": "2000-10-14",
+      "rank": 108
+    },
+    {
+      "date": "2000-10-21",
+      "rank": 125
+    },
+    {
+      "date": "2000-10-28",
+      "rank": 127
+    },
+    {
+      "date": "2000-11-04",
+      "rank": 122
+    },
+    {
+      "date": "2000-11-11",
+      "rank": 130
+    },
+    {
+      "date": "2000-11-18",
+      "rank": 170
+    },
+    {
+      "date": "2000-11-25",
+      "rank": 197
+    },
+    {
+      "date": "2001-01-13",
+      "rank": 198
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Watch Me",
+      "id": "marcy-me-jay-z"
+    },
+    {
+      "title": "Hova Song (intro)",
+      "id": null
+    },
+    {
+      "title": "So Ghetto",
+      "id": null
+    },
+    {
+      "title": "Do It Again (Put Ya Hands Up)",
+      "id": null
+    },
+    {
+      "title": "Dope Man",
+      "id": null
+    },
+    {
+      "title": "Things That U Do",
+      "id": null
+    },
+    {
+      "title": "It’s Hot (Some Like It Hot)",
+      "id": null
+    },
+    {
+      "title": "Snoopy Track",
+      "id": null
+    },
+    {
+      "title": "S. Carter",
+      "id": null
+    },
+    {
+      "title": "Pop 4 Roc",
+      "id": null
+    },
+    {
+      "title": "Big Pimpin’",
+      "id": null
+    },
+    {
+      "title": "There’s Been a Murder",
+      "id": null
+    },
+    {
+      "title": "Come and Get Me",
+      "id": null
+    },
+    {
+      "title": "NYMP",
+      "id": null
+    },
+    {
+      "title": "Hova Song (outro) / Jigga My Nigga / Girl’s Best Friend",
+      "id": null
+    }
+  ]
+}
