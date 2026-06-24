@@ -1,0 +1,46 @@
+{
+  "id": "8-tracks-pink-floyd",
+  "title": "8-Tracks",
+  "artist": "Pink Floyd",
+  "peak": 86,
+  "history": [
+    {
+      "date": "2026-06-20",
+      "rank": 86
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Money",
+      "id": "money-pink-floyd"
+    },
+    {
+      "title": "Another Brick in the Wall, Part 2",
+      "id": "another-brick-in-the-wall-part-ii-pink-floyd"
+    },
+    {
+      "title": "One of These Days",
+      "id": null
+    },
+    {
+      "title": "Wot’s… Uh the Deal",
+      "id": null
+    },
+    {
+      "title": "Wish You Were Here",
+      "id": null
+    },
+    {
+      "title": "Time",
+      "id": null
+    },
+    {
+      "title": "Comfortably Numb",
+      "id": null
+    },
+    {
+      "title": "Pigs on the Wing (8-track version)",
+      "id": null
+    }
+  ]
+}
